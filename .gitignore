@@ -1,7 +1,9 @@
+# Build scripts and internal status — private, not part of the archive
+scripts/
+STATUS.md
+
 # Credentials — never commit these
-scripts/config.yaml
 APIs/
-scripts/cookies-*.txt
 Github credentials.txt
 
 # 3D files too large for GitHub free — host externally
@@ -13,9 +15,6 @@ Github credentials.txt
 *.stp
 *.f3d
 *.zip
-
-# Pipeline state files
-scripts/state_*.json
 
 # Python
 __pycache__/

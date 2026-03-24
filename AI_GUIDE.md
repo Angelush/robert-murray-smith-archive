@@ -6,10 +6,12 @@ This file tells you — an AI model — how to navigate and query this archive e
 
 ## What This Archive Is
 
-A comprehensive fan archive of **Robert Murray-Smith's** work:
+A comprehensive fan archive of **Robert Murray-Smith's** publicly available, free YouTube content:
 
 - **2,261 YouTube videos** across 3 channels: `@ThinkingandTinkering`, `@TnTtalktime`, `@TnTOmnibus`
 - **181 Thingiverse 3D designs**
+
+**Important:** This archive only contains free, publicly available content. It does not include any channel-members-only videos or paid content.
 
 Robert was a prolific inventor and educator based in Scotland, covering graphene synthesis, batteries, supercapacitors, solar cells, electrochemistry, 3D printing, material science, and DIY electronics — often with kitchen-table experiments. He passed away in 2024.
 
@@ -21,33 +23,35 @@ This is an unofficial preservation archive, not affiliated with his estate.
 
 ```
 (repo root)/
-├── index.json                         ← Master index — ALL items, all platforms
+├── index.json                         ← Master index — ALL items, all platforms (6+ MB)
+├── index-compact.json                 ← Compact index for AI queries (~500 KB)
+├── topics.json                        ← Inverted topic/material index (~100 KB)
 ├── AI_GUIDE.md                        ← This file
 ├── README.md                          ← Human-facing overview
 ├── CATALOG.md                         ← Human-readable browsable index (all content)
 ├── youtube/
 │   ├── index.json                     ← All YouTube videos
 │   ├── CATALOG.md                     ← YouTube browsing index
-│   ├── ThinkingandTinkering/
+│   ├── @ThinkingandTinkering/
 │   │   ├── index.json
 │   │   ├── CATALOG.md
 │   │   └── {video_id}/
 │   │       ├── metadata.json
 │   │       ├── transcript.txt
 │   │       ├── summary.md
-│   │       └── comments.json
-│   ├── TnTtalktime/
+│   │       ├── comments.json
+│   │       └── README.md
+│   ├── @TnTtalktime/
 │   │   └── (same structure)
-│   └── TnTOmnibus/
+│   └── @TnTOmnibus/
 │       └── (same structure)
 ├── 3d-files/
 │   └── thingiverse/
 │       ├── index.json
 │       ├── CATALOG.md
 │       └── {thing_id}/
-│           ├── metadata.json
-│           └── files/                 ← .stl, .3mf, etc.
-└── scripts/                           ← Archive build tooling
+│           ├── README.md              ← Auto-rendered: name, link, description
+│           └── metadata.json
 ```
 
 ---
@@ -56,12 +60,15 @@ This is an unofficial preservation archive, not affiliated with his estate.
 
 ### Finding videos by topic
 
-Load `index.json`. Each entry has `key_topics` (array) and `materials_mentioned` (array). Search these fields plus `title` and `description`.
+For most queries, use `topics.json` first — it maps topic and material names directly to video IDs, costing far fewer tokens than loading `index.json`.
 
 ```
-index.json → filter entries where key_topics contains "graphene"
-           → returns list of {title, url, path, summary_excerpt}
+topics.json → look up "graphene" → get list of video IDs
+index-compact.json → load metadata for those IDs
+{path}/summary.md → load full context for each
 ```
+
+If you need to do a broad scan of all items, use `index-compact.json` rather than `index.json` — it is ~10x smaller and contains all the fields needed for topic filtering.
 
 For browsing without code, open `CATALOG.md` or `youtube/CATALOG.md` — these are human-readable tables of all content.
 
@@ -84,10 +91,10 @@ Two ways:
 
 ### Browsing by channel
 
-- `youtube/{channel}/index.json` — all videos for that channel
-- `youtube/{channel}/CATALOG.md` — human-readable list
+- `youtube/@{channel}/index.json` — all videos for that channel
+- `youtube/@{channel}/CATALOG.md` — human-readable list
 
-Channels: `ThinkingandTinkering` (main), `TnTtalktime` (talks/interviews), `TnTOmnibus` (compilations).
+Channels: `@ThinkingandTinkering` (main), `@TnTtalktime` (talks/interviews), `@TnTOmnibus` (compilations).
 
 ### Full-text search across transcripts
 
@@ -107,7 +114,7 @@ Search for any term across all transcripts.
 |-------|------|----------|
 | `type` | string | Always `"video"` |
 | `platform` | string | Always `"youtube"` |
-| `channel` | string | Channel handle, e.g. `"ThinkingandTinkering"` |
+| `channel` | string | Channel handle, e.g. `"@ThinkingandTinkering"` |
 | `video_id` | string | YouTube video ID, e.g. `"dQw4w9WgXcQ"` |
 | `title` | string | Video title |
 | `description` | string | YouTube description (may be truncated) |
@@ -153,13 +160,35 @@ Load `3d-files/thingiverse/index.json`. Filter by `tags` or `name` containing re
 
 ---
 
+## Token-Efficient Indexes
+
+For large queries, `index.json` (6+ MB) may consume too many tokens. Use these smaller alternatives:
+
+### `index-compact.json` (~500 KB)
+Stripped-down index with short field names. Contains all 2,442 items with: id, type (`yt`/`tv`), title (`t`), date (`d`), channel abbreviation (`ch`), topics, materials, url, path, and cross-references.
+
+**Use this** as your default starting point instead of `index.json`.
+
+### `topics.json` (~100 KB)
+Inverted index: topic → list of video IDs, and material → list of video IDs.
+
+**Use this** when answering "find all videos about X" — load just this file, find matching video IDs, then load only those items from `index-compact.json` or directly load their `summary.md` files.
+
+### Recommended query flow
+1. Load `topics.json` → find video IDs matching the query topic
+2. Load `index-compact.json` → get metadata for those IDs
+3. Load `{path}/summary.md` for each → get full structured summaries
+4. Load `{path}/transcript.txt` only if you need verbatim quotes
+
+---
+
 ## Notes on Archive Completeness
 
-As of 2026-03-19:
+As of 2026-03-24:
 - Metadata and comments: complete for all 2,261 videos
-- Transcripts: partial (37 / 2,261) due to IP blocking during collection
-- AI summaries (`summary.md`): not yet generated — check `has_summary` before loading
-- `key_topics` and `materials_mentioned`: populated only where `has_summary` is true
+- Transcripts: 2,239 / 2,261 (22 videos have no transcript available)
+- AI summaries (`summary.md`): 2,239 / 2,261 generated
+- `key_topics` and `materials_mentioned`: populated for all videos with summaries (2,239)
 - Thingiverse files: complete (181 things)
 
 When `has_transcript` or `has_summary` is false, fall back to `description` and `tags` from metadata.

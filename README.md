@@ -1,9 +1,11 @@
 # Robert Murray-Smith — Fan Archive
 
-A community-maintained archive of Robert Murray-Smith's vast body of work: YouTube videos, transcripts, AI-generated summaries, comment discussions, and 3D printing projects.
+A community-maintained archive of Robert Murray-Smith's publicly available YouTube videos: transcripts, AI-generated summaries, comment discussions, and 3D printing project metadata.
 
 > **This is an unofficial fan archive, not affiliated with Robert Murray-Smith's estate or family.**
-> Its purpose is preservation, reference, and making his work accessible to future learners and AI systems.
+> Its purpose is preservation, reference, and making his freely available work accessible to future learners and AI systems.
+>
+> **This archive only contains free, publicly available content.** It does not include any channel-members-only videos, paid content, or private material.
 
 ---
 
@@ -12,11 +14,12 @@ A community-maintained archive of Robert Murray-Smith's vast body of work: YouTu
 | Section | Description |
 |---------|-------------|
 | [`youtube/`](./youtube/) | Video metadata, transcripts, AI summaries, and full comment archives |
-| [`3d-files/thingiverse/`](./3d-files/thingiverse/) | 3D printing files and metadata from Thingiverse |
+| [`3d-files/thingiverse/`](./3d-files/thingiverse/) | 3D printing file metadata from Thingiverse |
 | [`index.json`](./index.json) | Master JSON index of all content (for AI retrieval) |
+| [`index-compact.json`](./index-compact.json) | Lightweight AI-friendly index (~10x smaller) |
+| [`topics.json`](./topics.json) | Topic → video ID lookup for fast search |
 | [`CATALOG.md`](./CATALOG.md) | Human-readable browsable index of all content |
 | [`AI_GUIDE.md`](./AI_GUIDE.md) | Guide for AI models querying this archive |
-| [`scripts/`](./scripts/) | Python scripts used to build this archive |
 
 ---
 
@@ -25,16 +28,18 @@ A community-maintained archive of Robert Murray-Smith's vast body of work: YouTu
 ```
 (repo root)/
 ├── index.json                         ← Master index (all platforms)
+├── index-compact.json                 ← Lightweight AI-friendly index
+├── topics.json                        ← Topic → video ID lookup
 ├── CATALOG.md                         ← Human-readable full index
 ├── AI_GUIDE.md                        ← Instructions for AI models
 ├── youtube/
 │   ├── index.json                     ← All videos index
 │   ├── CATALOG.md
 │   └── {channel_handle}/
-│       ├── channel.json
 │       ├── index.json                 ← Per-channel index
 │       ├── CATALOG.md
 │       └── {video_id}/
+│           ├── README.md              ← Title, link, overview (auto-rendered)
 │           ├── metadata.json          ← Title, date, tags, stats, URL
 │           ├── transcript.txt         ← Timestamped transcript
 │           ├── summary.md             ← AI-generated structured summary
@@ -44,25 +49,17 @@ A community-maintained archive of Robert Murray-Smith's vast body of work: YouTu
 │       ├── index.json
 │       ├── CATALOG.md
 │       └── {thing_id}/
-│           ├── metadata.json
-│           └── files/                 ← .stl, .3mf, etc.
-└── scripts/
-    ├── requirements.txt
-    ├── config.yaml.example
-    ├── 01_fetch_youtube.py
-    ├── 02_fetch_thingiverse.py
-    ├── 04_summarize.py
-    ├── 05_build_indexes.py
-    └── run_all.py
+│           ├── README.md              ← Name, link, description (auto-rendered)
+│           └── metadata.json
 ```
 
 ---
 
 ## Browsing the Archive
 
-**For humans:** Open any `CATALOG.md` file — they contain formatted tables of all content at that level of the tree, with links to individual items.
+**On GitHub:** Navigate into any video folder — the README.md renders automatically with the video title, a clickable YouTube link, and a summary overview. Or open any `CATALOG.md` for formatted tables of all content.
 
-**For AI models:** See [`AI_GUIDE.md`](./AI_GUIDE.md) for a full explanation of the index structure, field definitions, and example query patterns.
+**For AI models:** See [`AI_GUIDE.md`](./AI_GUIDE.md) for index structure, field definitions, and example query patterns.
 
 ---
 
@@ -70,67 +67,18 @@ A community-maintained archive of Robert Murray-Smith's vast body of work: YouTu
 
 The archive is structured for easy integration with RAG (Retrieval-Augmented Generation) systems:
 
-- **`index.json`** — top-level master index with all items across platforms
-- Each item has: `type`, `platform`, `title`, `url`, `tags`, `key_topics`, `materials_mentioned`, `summary_excerpt`, `path`, `related_3d_files`
-- Full content lives at the `path` field, relative to repo root
+**Start small, go deeper as needed:**
 
-Example query flow for an AI agent:
-1. Load `index.json` to find relevant items by topic/material
-2. Follow the `path` to load `summary.md` for structured context
-3. Load `transcript.txt` for full verbatim content
-4. Load `comments.json` to find Robert's own clarifications
+1. **`topics.json`** (~100 KB) — Find video IDs by topic or material name
+2. **`index-compact.json`** (~500 KB) — Get metadata for specific videos (title, date, URL, topics)
+3. **`index.json`** (6+ MB) — Full index with descriptions, excerpts, and all fields
 
----
-
-## Rebuilding the Archive
-
-### Prerequisites
-
-```bash
-pip install -r scripts/requirements.txt
-playwright install chromium
-```
-
-You also need:
-- **YouTube Data API v3** key — [console.cloud.google.com](https://console.cloud.google.com)
-- **Thingiverse API** key — [thingiverse.com/developers](https://www.thingiverse.com/developers)
-- **Anthropic API** key — [console.anthropic.com](https://console.anthropic.com)
-
-### Setup
-
-```bash
-cp scripts/config.yaml.example scripts/config.yaml
-# Edit config.yaml with your API keys and channel handles
-# Set output.base_dir to "." (repo root)
-```
-
-### Run
-
-```bash
-# Full pipeline
-python scripts/run_all.py
-
-# Or step by step:
-python scripts/01_fetch_youtube.py       # YouTube metadata, transcripts, comments
-python scripts/02_fetch_thingiverse.py   # Thingiverse files
-python scripts/04_summarize.py           # AI summaries via Claude
-python scripts/05_build_indexes.py       # Build JSON indexes and CATALOG.md files
-
-# Test with a single video first:
-python scripts/01_fetch_youtube.py --video-id VIDEO_ID
-python scripts/04_summarize.py --video-id VIDEO_ID
-```
-
-### Resuming
-
-All scripts checkpoint their progress to `scripts/state_*.json` files.
-If interrupted, just re-run the same script — it will skip already-completed items.
-
-### YouTube API Quota Note
-
-The free YouTube Data API tier provides 10,000 units/day. Fetching all comments
-for a large channel may require multiple days. The scripts handle this gracefully:
-just re-run `01_fetch_youtube.py` each day until all videos are complete.
+**Query flow for an AI agent:**
+1. Load `topics.json` to find video IDs matching a topic
+2. Load `index-compact.json` to get metadata for those IDs
+3. Follow the `path` to load `summary.md` for structured context
+4. Load `transcript.txt` for full verbatim content
+5. Load `comments.json` to find Robert's own clarifications
 
 ---
 
@@ -174,16 +122,17 @@ using or distributing the files.
 
 ## Current Archive Status
 
-> Last updated: 2026-03-19. See [STATUS.md](./STATUS.md) for full details.
+> Last updated: 2026-03-24
 
 | Component | Status | Count |
 |-----------|--------|-------|
 | YouTube metadata + comments | ✅ Complete | 2,261 videos |
-| YouTube transcripts | ⚠️ Partial — IP blocked | 37 / 2,261 |
-| AI summaries (`summary.md`) | ⏳ Pending Anthropic credits | 0 / 2,261 |
-| Thingiverse 3D files | ✅ Complete | 181 things |
-| JSON indexes | ⏳ Not yet built | — |
-| CATALOG.md files | ⏳ Not yet built | — |
+| YouTube transcripts | ✅ Complete | 2,239 / 2,261 |
+| AI summaries (`summary.md`) | ✅ Complete | 2,239 / 2,261 |
+| Thingiverse metadata | ✅ Complete | 181 things |
+| JSON indexes | ✅ Complete | — |
+| CATALOG.md navigation | ✅ Complete | — |
+| Per-folder README.md | ✅ Complete | — |
 
 ---
 
@@ -196,4 +145,4 @@ or broken links, please open an issue or pull request.
 
 *Built with love by fans, for fans. Robert Murray-Smith's curiosity and
 generosity in sharing his knowledge inspired many — this archive aims to
-ensure his work remains accessible.*
+ensure his freely available work remains accessible.*
