@@ -1,0 +1,75 @@
+{
+  "thing_id": 6180178,
+  "name": "Vane Motor Generator",
+  "description": "to finish this you will need 2 x bearing 22mm OD x 8mm ID by 7mm thick - a skate bearing and bit of 8mm rod about 30mm long some copper wire 0.2mm diameter and 24 neodymium magnets 1cm by 2mm circular   you can find a video of the build here\r\nhttps://youtu.be/DiNRHgMnfyo",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "DiNRHgMnfyo",
+      "url": "https://youtu.be/DiNRHgMnfyo"
+    }
+  ],
+  "tags": [
+    "engine",
+    "fwg",
+    "generator",
+    "motor",
+    "robert",
+    "tnt",
+    "vane"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution",
+  "added": "2023-08-21T16:09:25+00:00",
+  "modified": "2023-08-21T16:09:25+00:00",
+  "url": "https://www.thingiverse.com/thing:6180178",
+  "thumbnail": "https://cdn.thingiverse.com/assets/9e/eb/32/8c/7e/large_display_2aabdb96-1d2d-4c5e-9e55-65f678f78d91.jpg",
+  "like_count": 130,
+  "collect_count": 114,
+  "comment_count": 2,
+  "download_count": 782,
+  "files": [
+    {
+      "name": "vane_x_4.stl",
+      "size": 10484,
+      "url": "https://www.thingiverse.com/download:13407746",
+      "download_url": "https://api.thingiverse.com/v2/files/13407746/download"
+    },
+    {
+      "name": "rotor.stl",
+      "size": 98984,
+      "url": "https://www.thingiverse.com/download:13407747",
+      "download_url": "https://api.thingiverse.com/v2/files/13407747/download"
+    },
+    {
+      "name": "body.stl",
+      "size": 119784,
+      "url": "https://www.thingiverse.com/download:13407749",
+      "download_url": "https://api.thingiverse.com/v2/files/13407749/download"
+    },
+    {
+      "name": "magnet_holder.stl",
+      "size": 566684,
+      "url": "https://www.thingiverse.com/download:13407779",
+      "download_url": "https://api.thingiverse.com/v2/files/13407779/download"
+    },
+    {
+      "name": "coil_holder.stl",
+      "size": 2180084,
+      "url": "https://www.thingiverse.com/download:13407780",
+      "download_url": "https://api.thingiverse.com/v2/files/13407780/download"
+    },
+    {
+      "name": "connection_plate.stl",
+      "size": 77884,
+      "url": "https://www.thingiverse.com/download:13407926",
+      "download_url": "https://api.thingiverse.com/v2/files/13407926/download"
+    },
+    {
+      "name": "cap.stl",
+      "size": 77684,
+      "url": "https://www.thingiverse.com/download:13408023",
+      "download_url": "https://api.thingiverse.com/v2/files/13408023/download"
+    }
+  ]
+}

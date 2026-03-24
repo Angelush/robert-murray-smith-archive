@@ -1,0 +1,1272 @@
+[00:03] Hello there. Today we're going to talk
+[00:05] about microcontrollers. In particular,
+[00:08] we're going to talk about the Arduino.
+[00:10] You've probably heard about it, and I
+[00:13] want to teach you how to program it,
+[00:15] what it is, what all the pins are on it,
+[00:17] what this confusing mess is, what the
+[00:20] boot loader is, and all these things
+[00:21] that you might have heard about, and how
+[00:24] to write programs to do basic things.
+[00:27] Microcontrollers are incredibly useful
+[00:29] things. Yeah. Think of some applications
+[00:32] for this. You might want to have a
+[00:34] microcontroller controlling your
+[00:36] hydroponic setup for your tomato grow or
+[00:39] your mushroom grow. You might want to
+[00:41] have a microcontroller to control a
+[00:43] brushless DC motor to switch to have a
+[00:46] relay switch some high voltage
+[00:47] electronics on and off to have to drive
+[00:51] a an induction heater or maybe just to
+[00:54] flash some lights perhaps to drive an
+[00:56] LCD screen to control a fan. Anything
+[01:01] which you want to discreetly switch
+[01:04] things on and off with a specific
+[01:07] frequency or read sensor inputs,
+[01:10] communicate with sensors, temperature,
+[01:13] water pressure,
+[01:15] uh CO2, other environmental sensors. You
+[01:18] would use a microcontroller
+[01:20] to um to do this. Why would you use a
+[01:24] microcontroller instead of a Raspberry
+[01:26] Pi? Why use an Arduino instead of a
+[01:29] Raspberry Pi? Well, it's cheaper.
+[01:34] For one, it's cheaper, but secondly,
+[01:37] let's just try and understand what these
+[01:39] things are. Okay, so the microcontroller
+[01:41] is just a computer. In this case, it's
+[01:44] an 80 mega 328 ppu processor or MCU.
+[01:49] They'll call it microcontroller
+[01:52] um processing unit, but it's just a CPU
+[01:56] as well. It's just a small computer. It
+[01:59] runs at 16 MHz, has a 32 kilob of
+[02:02] program memory, a whopping 2 kilob of
+[02:05] RAM and 1 kilob of EROM. It's just a
+[02:09] general purpose computer. You can
+[02:11] program it to do to do what you like.
+[02:13] doesn't have a screen connected at the
+[02:14] moment, but you can run programs to
+[02:17] print out Fibonacci numbers or whatever
+[02:19] you want. Where would you print them in
+[02:21] this case? Well, you print them over the
+[02:22] serial line. Perhaps you could represent
+[02:24] them in some bizarre way by switching on
+[02:27] and off a series of lights on a wall or
+[02:29] something like that, but it's just a
+[02:31] computer. It's a very cheap, small, low
+[02:34] power computer. Raspberry Pi consumes a
+[02:37] lot more power. It's a lot more
+[02:38] highowered and it can run things like
+[02:40] Linux. you know, it's got gigabytes of
+[02:43] RAM and you can connect it to terabytes
+[02:48] of storage if you want via a USB cable
+[02:50] or something like that. It's a much more
+[02:52] powerful computer. It's got networking
+[02:54] capabilities built in and so on, but
+[02:57] it's more expensive.
+[02:59] It's much more difficult to integrate
+[03:01] into a
+[03:03] into a product. You can't buy the chip,
+[03:07] the Broadcom chip that's on the
+[03:08] Raspberry Pi. The The best thing you can
+[03:10] do is buy a
+[03:14] EPCI connector for the Raspberry Pi
+[03:16] version two, version one, model B. But,
+[03:20] you know, you can't buy the Broadcom
+[03:22] chip. Maybe you can approach Broadcom
+[03:23] and try and get it. Whereas a chip on
+[03:25] here, you can just buy this on eBay. So
+[03:27] you can put that on Perf board or you
+[03:28] can design a PCB using KYAD and you can
+[03:31] just get your product up and running,
+[03:34] you know, low power, low cost, couple of
+[03:36] dollars for this. I'd buy, I think, 10
+[03:38] of them for five of these chips, you
+[03:40] know, and it's simple. If you're running
+[03:44] something like a Raspberry Pi, you're
+[03:45] running all of your stuff on top of
+[03:48] Linux. Usually, you can run bare metal,
+[03:50] but usually you're running on top of
+[03:52] Linux. You can't actually get if you're
+[03:54] running on top of Linux on a Raspberry
+[03:55] Pi the same timing precision as this.
+[03:58] You can't, for example, drive a
+[04:01] Neopixel strip using a Raspberry Pi
+[04:04] directly. The timing isn't precise
+[04:06] enough. Whereas the timing on these
+[04:08] things is very precise. So for real-time
+[04:10] control, then you want to use one of
+[04:12] these and it's simpler simpler to
+[04:15] understand. If you've got your bare
+[04:16] metal program on there just switching on
+[04:18] on and off an LED, why do you need Linux
+[04:20] running with like a million processes
+[04:22] running the potential for
+[04:24] vulnerabilities and all all this kind of
+[04:26] stuff? You don't need it. All you need
+[04:28] is a very simple microcontroller to
+[04:32] switch your LEDs on and off or your
+[04:33] temperature controlled greenhouse,
+[04:36] something like that. So, that's why
+[04:38] you'd use a microcontroller and that's
+[04:40] why you should get into these things and
+[04:42] know about them because they're really
+[04:44] useful and I use them all the time.
+[04:47] All right. Well, so that's why you want
+[04:50] to use these things. So, let's get on
+[04:52] and talk about what's on your board.
+[04:55] You're going to go off and order an
+[04:56] Arduino Uno. You probably got one now.
+[04:59] Let's take a look at it. What's actually
+[05:01] on here?
+[05:05] This is an Arduino.
+[05:08] As you can see, I am a barefaced liar.
+[05:10] It's a free duino. It's not an Arduino,
+[05:14] but essentially it is an Arduino Uno.
+[05:17] Here, the free is a open- source
+[05:20] hardware copy clone of the Arduino Uno.
+[05:25] And
+[05:27] its purpose is uh because the Arduino
+[05:29] name is sorry there's an ice cream vend
+[05:31] going by because the Arduino name is
+[05:34] trademarked they wanted to create a copy
+[05:36] and this is obviously cheaper as well
+[05:38] than an Arduino. You can buy them on
+[05:40] eBay much cheaper. The difference
+[05:42] between the official Arduino and the
+[05:45] free duino
+[05:46] is the new Arduino Uno uses an ATM 60
+[05:52] new processor for the USB to serial
+[05:54] interface whereas this uses an FTDI chip
+[05:57] and there's slightly different power
+[05:59] regulation going on. And in this case,
+[06:02] we have a jumper to choose between USB
+[06:04] power and external power. Whereas on the
+[06:08] Uno,
+[06:10] it's auto switching.
+[06:15] Right. Just so you don't get intimidated
+[06:17] by all the components on here, let me
+[06:18] show you what else is on here. You've
+[06:20] got the chip here, which is the AT Mega
+[06:22] 328P.
+[06:24] That's the thing that runs the program.
+[06:26] That's connected to all the pins. So you
+[06:28] can have your digital input outputs,
+[06:29] input analog inputs, SPI, O squ C, pulse
+[06:33] modulation. So you've got a chip here
+[06:36] which is a 16 MHz external oscillator to
+[06:39] provide the clock cycles for the chip.
+[06:43] You can actually power the Arduino or
+[06:47] the AVR processor
+[06:50] directly if you want and you don't even
+[06:52] need an external oscillator. up to 4
+[06:54] MHz. You can get away without an
+[06:56] external oscillator and you would just
+[06:58] connect this to a power supply on a
+[07:00] breadboard and you could program it with
+[07:02] an incircuit serial header
+[07:05] on the incircuit serial pins. So you can
+[07:07] buy these chips. And what I often do if
+[07:09] I'm making a
+[07:12] program is I buy a bunch of chips. I buy
+[07:17] some crystals, oscillators, and also
+[07:20] some uh decoupling capacitors for the
+[07:24] the oscillator and maybe some other
+[07:26] things. And I will just lay that out on
+[07:28] a breadboard directly. Just the chip,
+[07:30] just the oscillator. And I'll I'll
+[07:32] probably set up a reset switch using an
+[07:35] incircuit serial programming header and
+[07:36] an incircuit serial programmer. I'll
+[07:38] just program the chip directly. That way
+[07:39] I can solder the chip onto a breadboard.
+[07:42] I mean onto a piece of PF board and just
+[07:44] integrate it directly into the project.
+[07:46] But for beginners it's often useful to
+[07:47] buy a board with all this on so that
+[07:50] it's going to work with the USB
+[07:51] programming capability via the USB
+[07:54] header and the FTD FTDI to the USB
+[07:57] interface. So there's your main chip.
+[08:00] That's the oscillator. There's a reset
+[08:02] switch there. Incircuit zero programming
+[08:04] header there. All of your header pins
+[08:06] there. And here is the This is for
+[08:10] external power. This is the DC jack.
+[08:13] That's a crappy linear regulator. Couple
+[08:16] of caps here for smoothing and so on. A
+[08:18] diode there. There's a bunch of
+[08:21] resistors here. Couple of leads for the
+[08:23] TX and RX.
+[08:25] And a lead there for the internal pin
+[08:27] for pin 13 connected internally to pin
+[08:29] 13. So you can flash that on and off
+[08:31] during blinky. That's USB to serial FDDI
+[08:34] chip. And there's your USB port. There's
+[08:37] a jumper there to switch between
+[08:38] external power and USB power. All right.
+[08:41] And that's it. That's all you'll see on
+[08:43] your Arduino as well if you look at it.
+[08:45] So there's nothing intimidating on
+[08:46] there. Just a few components, but the
+[08:48] real guts of it is just the chip and the
+[08:50] oscillator. The rest is just power and
+[08:53] programming stuff.
+[08:57] just like to quickly say I'm going to
+[08:59] present a lot of reasonably technical
+[09:02] information about all the pins on the
+[09:04] Arduino and a little bit about boot
+[09:06] loader. Do not be intimidated by this.
+[09:10] Programming the Arduino is a piece of
+[09:12] cake. It's trivial to do. You don't need
+[09:16] to know this stuff to start switching
+[09:19] things on and off with an Arduino.
+[09:22] I'm going to show you how to do that.
+[09:25] So, if you find the technical stuff
+[09:27] confusing, intimidating, or even boring,
+[09:30] skip through it or just leave it on.
+[09:32] Just let it wash over you. Don't worry
+[09:34] about it. You don't need to know it. I'm
+[09:37] going to show you how to program the
+[09:38] Arduino to do basic things. It's a piece
+[09:41] of cake. You can do it. Trust me.
+[09:45] Okay. So, now I'm going to explain what
+[09:48] the Arduino pins do and what they can be
+[09:51] used for. So on the board here, I've
+[09:54] just drawn figuratively what the Arduino
+[09:58] Uno revision 3 looks like. This is a
+[10:01] typical board that you'd buy on eBay or
+[10:03] wherever.
+[10:05] And I've drawn just a few of the
+[10:07] components. There's some other
+[10:08] components on there. Not a lot more
+[10:10] discreet components, but these are the
+[10:12] important ones. So you got the actual
+[10:14] main processor here, which is an 18 mega
+[10:17] 328P or 328PU on the Uno. Now, this is a
+[10:23] processor that has it runs at 16 MHz,
+[10:27] which means it has to be supplied with 5
+[10:29] Vs. So, there are other versions of the
+[10:31] Arduino that run at 3.3 MHz, but they
+[10:34] have to be run at a lower voltage or the
+[10:38] other way around.
+[10:40] If you want to run at 16 MHz, you need
+[10:43] to use a higher voltage.
+[10:46] So, this is all running at 5 volts. And
+[10:48] that's important for another reason as
+[10:51] well because that will determine what
+[10:53] the logic level is. So where you have
+[10:56] any kind of digital logic which where
+[10:59] something can either be a one or a zero
+[11:01] high or a lower the high value there
+[11:04] will be 5 volts in this case. So we say
+[11:07] that the logic the TTL transistor
+[11:09] transistor logic is operating at 5 volts
+[11:13] in this case. On other boards, it might
+[11:15] be 3.3 volts, but for our purposes, it's
+[11:18] 5 volts for this board, which is
+[11:20] probably the board you'll end up with.
+[11:23] The chip itself has 32 kilob of program
+[11:28] memory.
+[11:30] Half a kilobyte of of this will be used
+[11:33] by the Arduino bootloadader. The
+[11:35] bootloadader is the little program which
+[11:37] runs on here and allows you to program
+[11:40] the Arduino through the USB port.
+[11:43] Without that, you would have to program
+[11:45] the Arduino through this incircuit
+[11:47] serial programming port, which would
+[11:49] require a special adapter. Whereas, when
+[11:51] you program it using the boot loader via
+[11:54] the USB, all you need is a supplied USB
+[11:57] cable to program it. So, that's why it's
+[12:00] good. So, we've got 31 12 kilob of
+[12:03] program memory. Now in there we can
+[12:06] store we can store strings as well as
+[12:08] program memory because we can access the
+[12:09] program memory um as well as put our
+[12:13] program in there.
+[12:16] Now in addition to 32 kilob of program
+[12:18] memory the 18 mega 328P has 2 kilob of
+[12:24] RAM. Yes 2 kilob that's 148 bytes. So if
+[12:32] you compare that to a typical computer
+[12:34] today that might have 8 or 16 gigabytes
+[12:39] of RAM,
+[12:41] which is 16 8 or 16 billion bytes of
+[12:46] RAM, you can see this is incredibly
+[12:48] constrained, a lot more constrained than
+[12:50] even the first uh x86 processors that
+[12:54] came out when you bought your first
+[12:56] computer.
+[12:57] So,
+[12:59] we're running it at 16 MHz via an
+[13:02] external crystal here. This is just a
+[13:06] ceramic crystal oscillates at 16 MHz.
+[13:12] we are
+[13:15] we have 1 kilob of EROM.
+[13:19] So, EPROM is electrically erasable
+[13:22] programmable readonly memory. It's kind
+[13:24] of somewhere in between
+[13:27] using the the flash program memory here
+[13:32] and the RAM. So if you want to store
+[13:35] permanent items in on the board, you
+[13:39] typically use the EPROM because that
+[13:42] won't be erased when you change the
+[13:44] program. And of course, the RAM is only
+[13:47] viable for when the board is operating.
+[13:50] So the EPROM is like a permanent storage
+[13:52] area for small amounts of important
+[13:54] data.
+[13:57] So there's the processor. Here's the
+[13:58] external crystal.
+[14:01] What else do we have on here? We've got
+[14:02] the power jack there which pro for
+[14:05] providing external power to the board.
+[14:07] There's a regulator which converts the
+[14:09] power to
+[14:11] 5 volts that's needed by the 328P.
+[14:15] Um the typically this regulator can
+[14:17] handle between 6 and 20 volts. It's a
+[14:20] low it is I guess a low dropout
+[14:23] regulator. So, it's just a simple linear
+[14:25] regulator. It does get hot and 6 volts
+[14:29] is a minimum because there's a voltage
+[14:31] drop um when it when it regulates.
+[14:36] The USB port here is for powering the
+[14:38] device. There's a button here called
+[14:40] reset and that is for resetting the
+[14:43] board. So, that will do a hard reset of
+[14:46] the processor and your program will
+[14:49] restart.
+[14:52] This incircuit zero programmer adapter
+[14:55] is a six pin header for programming the
+[14:58] board using an incircuit serial
+[15:00] programmer. We're not going to use that.
+[15:03] The only other things that are important
+[15:04] here are you will see another chip on
+[15:07] the board and that is the USB to serial
+[15:10] adapter which allows you to communicate
+[15:13] with the serial pins on the chip via the
+[15:15] USB port.
+[15:19] You'll see a number of other things on
+[15:20] there which aren't really important. The
+[15:23] there's two LEDs labeled RX and TX. They
+[15:27] correspond to the serial line of the
+[15:29] device. So when you communicate via the
+[15:31] USB to serial, you will see these
+[15:33] flashing when it's receiving or
+[15:35] transmitting.
+[15:37] This one, which I've labeled L13, is
+[15:39] another LED which is connected to pin
+[15:42] 13, digital pin 13 of the Arduino. So if
+[15:46] you write to pin 13, you will see this
+[15:49] flashing.
+[15:51] It's just a way for them to have a very
+[15:54] simple program called blinky which um
+[15:56] flashes the LED without requiring any
+[15:58] external components.
+[16:01] All right, so let's take a tour of the
+[16:04] pins. So this is the board and the pins
+[16:07] are on these headers around the outside.
+[16:12] The headers are offset, which means that
+[16:16] spacing between these is not between
+[16:19] these two blocks is not the normal 0.1
+[16:23] in dot pitch that you'd associate with a
+[16:25] breadboard. This is quite annoying from
+[16:28] one perspective because it means you
+[16:29] can't just plug this thing into a
+[16:31] breadboard or you can't plug kind of
+[16:34] your own breadboard in the top because
+[16:36] they offset. They did this by accident
+[16:38] initially
+[16:40] and then they thought, "Oh, no. It's
+[16:42] actually a good idea because what it
+[16:44] means is that the shields can only be
+[16:45] plugged in one way." Personally, I think
+[16:48] it's a bad idea. I think you wouldn't
+[16:51] plug the shield in the wrong way anyway
+[16:54] if you had markers on the shield or if
+[16:56] the shield was the same size as this.
+[16:58] But, okay, it minimizes some error, but
+[17:00] personally, I think it was about it.
+[17:03] Now, let's go through the pins. It
+[17:06] doesn't really matter if you can see the
+[17:07] labels or not because I'm going to
+[17:08] describe all of them.
+[17:11] I've labeled each of in blue uh numbers.
+[17:14] All of these pins here from zero all the
+[17:18] way through to 19.
+[17:21] All these one pins that are labeled in
+[17:24] blue are can be configured to be used as
+[17:27] digital inputs or outputs.
+[17:30] Actually, they're they're all tri-state
+[17:32] pins, which means they can either be
+[17:35] inputs, which means that they will
+[17:38] source a um
+[17:41] uh current. So, you can supply
+[17:45] current through them. So, you could put
+[17:48] for example
+[17:49] a power supply outside going through an
+[17:52] LED and then into the Arduino and they
+[17:56] it can source 40 milliamps. So 40
+[17:59] milliamps can flow through that through
+[18:00] the device and out through the ground
+[18:04] or it can supply 40 milliamps. There's a
+[18:09] total amount it can supply total. So it
+[18:12] can't supply 40 milliamps for every pin.
+[18:14] I think some a couple hundred milliamps.
+[18:17] There's a limit it can actually supply
+[18:19] which will also be limited by your power
+[18:21] supply as well. If you were powering
+[18:23] this with a USB power supply that could
+[18:24] only supply 100 milliamps and clearly
+[18:26] you could only have two and a half three
+[18:30] and a half um sorry two and a half of
+[18:33] your output supplying
+[18:36] 40 milliamps right
+[18:39] now. So each of these can be configured
+[18:41] either as a either to sync current up to
+[18:45] 40 milliamps supply current up to 40
+[18:48] milliamps or it can be in a third state
+[18:50] which is called a high impedance state.
+[18:52] You probably won't use that to begin
+[18:54] with but it's interesting to note that
+[18:56] it can be configured like that which
+[18:58] basically looks like it's not connected.
+[19:02] So you can use all those pins as digital
+[19:05] inputs and outputs. So to give example
+[19:06] what would you use those pins for? You
+[19:09] would use it to switch a transistor on
+[19:12] and off. You know, you'd set the pin to
+[19:14] high to switch the transistor on. You
+[19:16] could drive LEDs directly through a
+[19:18] current limiting resistor probably,
+[19:20] although for most tolerate 40 milliamps.
+[19:23] And you could then switch LEDs on on and
+[19:26] off. And you can see that actually
+[19:28] there's 20 digital inputs and outputs.
+[19:32] This block over here
+[19:34] are traditionally in Arduino world the
+[19:38] analog inputs but you can actually use
+[19:41] them as digital inputs and outputs as
+[19:42] well.
+[19:44] So they will um
+[19:47] say that there's only 14 digital inputs
+[19:49] and outputs on the Arduino docu
+[19:51] documentation but you can use up to 20.
+[19:55] Now, so as I've just mentioned that this
+[19:59] block here is A0 to A5. These are also
+[20:03] analog inputs.
+[20:08] what you'll notice here then is that a
+[20:10] pin can actually serve more than one
+[20:12] function. In this case, these pins are
+[20:14] behaving as digital input and outputs or
+[20:17] they can be analog inputs and you
+[20:19] configure that in software. So you have
+[20:21] to define whether you want say pin 16
+[20:24] here to be digital input,
+[20:27] digital output or if you want it to be
+[20:30] an analog input. What does it mean
+[20:32] analog input? What that means is that
+[20:36] depending on what you configure this pin
+[20:40] as which is sorry this pin the AF
+[20:44] then uh this is the analog reference. It
+[20:48] can only be configured between zero and
+[20:50] 5 volts and
+[20:54] you but you could supply say a 4volt
+[20:56] input here. And what that would mean is
+[20:59] that at the low the low range of your
+[21:02] analog input you would have so at 0
+[21:06] volts this would read a value of zero
+[21:09] and then the upper range of your analog
+[21:11] input would give you the maximum value
+[21:13] 1,024 in this case at 4 volts. So
+[21:17] something I should have said there is
+[21:19] that the input analog input on the
+[21:22] Arduino uses an analog to digital
+[21:24] converter that has 10 bits of
+[21:26] resolution.
+[21:28] Now if you don't use the AF pin then the
+[21:33] upper level of the analog input reader
+[21:36] will be defined by the logic level of
+[21:38] the board which in our case is 5 volts.
+[21:40] So with our 10 bits of resolution when
+[21:43] we read a value of 0 volts we get zero.
+[21:46] When we read a value of 5 volts, we get
+[21:48] 1,024 as a value we read back in
+[21:51] software. And everything between zero
+[21:53] and 5 volts will give you values in
+[21:56] between. So 2 and a half volts will give
+[21:58] you something like you know around 500
+[22:01] value of around 500.
+[22:04] So they're the analog pins
+[22:07] over here. Now there's another couple of
+[22:10] pins here. A4 and A5 pins 18 digital
+[22:14] pins 18 and 19 which are have I squared
+[22:18] C next to them I2C. Now this was a
+[22:21] protocol originally developed by Philips
+[22:24] Semiconductor and then later acquired by
+[22:27] NXP. It is um free to implement. So you
+[22:31] don't there's no licensing associated
+[22:32] within implementing it which means that
+[22:35] it's essentially free to use which is
+[22:38] very useful
+[22:39] and which is which means that there's a
+[22:42] large number of devices which are
+[22:44] compatible with this. So what is it? It
+[22:47] is a bus. It's a serial bus.
+[22:51] So what this means is that you can
+[22:53] connect up in this case
+[22:57] 127 different devices to the same bus
+[23:00] with a seven bit address.
+[23:02] And so the lines here SDA and Sccl
+[23:06] serial data and serial clock
+[23:10] they're the two lines and with that it
+[23:12] can actually address up to 127 different
+[23:15] devices in the way that the Arduino is
+[23:17] configured using Arduino software.
+[23:20] and it's called I squed C and it's a
+[23:22] serial bus. So you might have like 100
+[23:24] different sensors on the same same two
+[23:27] wires which is incredibly handy. You
+[23:30] don't have to have millions of wires for
+[23:31] your 100 different sensors. Well, you
+[23:35] know, you might need 200 wires
+[23:36] typically. Otherwise, in this case,
+[23:39] you've just got two wires and then
+[23:40] they're all on there and they're all
+[23:42] addressable.
+[23:45] Usually people probably only connect one
+[23:47] or two sensors to a um I squ C line, but
+[23:54] in theory you can connect more or
+[23:56] connect 127 in our case. What you'll
+[23:59] notice on the Arduino Uno 3 board is
+[24:02] that the same pins are actually over
+[24:05] here.
+[24:07] This is just uh for convenience in case
+[24:10] you want to connect something over there
+[24:13] for different um
+[24:15] different shields, you might want to put
+[24:17] them in a different place.
+[24:21] All right. So, if we look at these two
+[24:24] pins, then you'll see that they can
+[24:25] actually be three different things. They
+[24:27] can either be the digital input and
+[24:28] output pins 18. They can be the analog
+[24:31] input pins A4 and five, or they can be
+[24:33] configured as the I squared C pins for
+[24:36] your serial box.
+[24:39] Now going over to the other side I just
+[24:42] mentioned that the same I squared C pins
+[24:44] occur there at the top
+[24:48] below this what you have is the analog
+[24:52] reference which as I said you can supply
+[24:54] an external between voltage between zero
+[24:57] and 5 volts to determine what the upper
+[24:59] limit of your um analog to digital
+[25:02] converter is for the analog input pins.
+[25:05] If you do that, you have to configure in
+[25:07] soft tell using the Arduino software.
+[25:10] You have to tell the um processor that
+[25:12] that's happening. Otherwise, you'll have
+[25:14] a conflict because the internal active
+[25:16] reference will be shorted to your
+[25:18] external reference. So, you have to
+[25:20] configure that. Most of the time, you
+[25:21] won't use that. You probably use between
+[25:23] 0 and 5 volts. But there may be a sensor
+[25:26] that you get that has
+[25:28] that operates on 3.3 volts and you then
+[25:32] want to use a different have a different
+[25:33] analog input range.
+[25:36] There's a ground here.
+[25:39] Now, the next four pins are they they
+[25:42] have multiple purposes. So, they're
+[25:44] obviously digital input and outputs as
+[25:46] we said before. And then you'll see
+[25:48] there's four pins here, STK, MISO, MOSI,
+[25:50] and SS. These form another bus called an
+[25:54] SPI bus. This is another very popular
+[25:56] bus, serial peripheral interface bus.
+[25:59] And you'll see lots of devices that use
+[26:01] that bus. um you know certain sensors
+[26:04] might use it. I've seen modems that use
+[26:07] it. So it allows you to can connect to a
+[26:09] lot of things
+[26:10] using that protocol. Now what's actually
+[26:13] worth pointing out here is the both
+[26:15] these protocols SPI and I squared C are
+[26:18] digital protocols that only have values
+[26:21] between
+[26:23] 0 and 5 volts in this case. They're just
+[26:26] two different logic levels. And you can
+[26:28] actually emulate those using the other
+[26:30] pins if you want. if you if you copy the
+[26:34] protocol. But the difference here in
+[26:37] these particular
+[26:39] cases, I squared C and SPI, this has
+[26:43] hardware support on those pins for the
+[26:46] protocol, which means you're not using
+[26:48] the MCU's main general purpose processor
+[26:52] to to do all of the kind of address
+[26:55] resolution and packet disassembly and so
+[26:58] on and timing requirements of that bus.
+[27:01] So when you say send this packet to this
+[27:05] um receiver, you know, that's handled by
+[27:08] the hardware. Otherwise, you'd have to
+[27:10] be doing all that, juggling all that at
+[27:12] the same time within your program. But
+[27:14] it's just interesting to note that you
+[27:16] could emulate those buses using the
+[27:19] digital input output pins. So the four
+[27:21] pins of the SPI bus are SC, serial
+[27:25] clock, MISO, master in, serial, slave
+[27:28] out. So that's when the slave's talking
+[27:31] to the master, which is us in this case.
+[27:34] Master out, slave in, that's when we're
+[27:36] talking to the slave device. And slave
+[27:39] select. Now, what's interesting to note
+[27:41] here as well is that slave select is a
+[27:43] pin, which because it's not an address,
+[27:46] it's not a bus that has an address
+[27:47] space. Um, SPI uses a slave select pin
+[27:51] to determine which device you want to
+[27:54] talk to. And you pull that low if you
+[27:57] want to talk to that device. So this can
+[28:00] actually be any digital input output. If
+[28:02] you wanted five different devices, you
+[28:04] would have to use five different slab
+[28:06] select pins and you'd set low whichever
+[28:08] one you wanted to talk to and set the
+[28:10] others high. So in a way it's a little
+[28:12] bit weird that they sort of have this
+[28:15] one configured explicitly as an as a
+[28:19] slave select pin, but you know whatever
+[28:21] doesn't really matter. Now what you'll
+[28:24] also notice on those four pins is that
+[28:26] they can also be PWMs. So they can be
+[28:28] digital outputs, they can be configured
+[28:30] in a block of four as an SPI bus or they
+[28:33] can be PWMs. PWM stands for pulse width
+[28:36] modulation that changes. What this
+[28:39] allows you to do is set a oscillation a
+[28:43] frequency of say 10 hertz or 10 kHz or
+[28:46] whatever you like within reason. It's
+[28:49] only 16 MHz processor and it will um it
+[28:54] will turn off that pin on that pin on
+[28:56] and off with the specified duty cycle
+[28:59] frequency. So you can say I want it to
+[29:02] be on for 70% of time and 20 off for 25%
+[29:07] of the time and I want that cycle period
+[29:11] to be
+[29:13] you know 50 microsconds or whatever. So
+[29:16] would be oscillating at whatever
+[29:18] frequency that is, but with also with
+[29:20] that duty cycle that allows you to
+[29:22] deliver power to
+[29:26] external peripherals,
+[29:29] you know, different amounts of power,
+[29:31] vary the amount of power that's being
+[29:32] delivered
+[29:35] without having to have different, you
+[29:38] know, resistors in there because you're
+[29:41] by pulsing the power, you're limiting
+[29:44] the power because the average
+[29:45] competitively less with a few external
+[29:48] components
+[29:50] just a capacitor really. Uh you can also
+[29:54] control output voltage like this not in
+[29:58] a regulated way without some feedback
+[30:00] but you can. So, p width modulation
+[30:04] allows you to do stuff
+[30:06] like control the voltage and control the
+[30:08] power delivered to external devices
+[30:12] um in a kind of very controlled way
+[30:15] that's supported by the hardware
+[30:17] supported by the
+[30:20] processor because again you could use
+[30:22] any of the digital input and output to
+[30:26] emulate cultural modulation because you
+[30:28] can control with very precise control
+[30:31] whether not any of these pins is in on
+[30:33] or off. So you can emulate post
+[30:35] modulation on any of the pins. But
+[30:37] again, this is supported by the
+[30:39] hardware. So you got very fine timing.
+[30:42] You can also use these as timers. So
+[30:45] with a low frequency pulse with
+[30:46] modulation, maybe you want to do
+[30:48] something periodically, you can use them
+[30:50] like that if you want.
+[30:53] So that's a PWM pin. And again, you
+[30:55] configure this in software.
+[30:58] These are just digital input outputs. So
+[31:00] anything that doesn't have another label
+[31:01] is just a digital input output.
+[31:05] So just to a quick example of what you
+[31:08] might what pulse width width modulation
+[31:10] is usually used for or used quite often
+[31:13] for is in um
+[31:16] in motor control. So if you have a
+[31:20] a DC motor,
+[31:22] you want to control the power delivered
+[31:26] and you can't control the voltage, then
+[31:29] you control the power delivered by using
+[31:33] a duty cycle of less than one. You know,
+[31:36] sort of a high frequency signal that
+[31:38] provides power to the motor, but not
+[31:42] it's not constantly on. So that's a
+[31:44] typical example where we would use it in
+[31:46] brushless DC motors. Again on the on
+[31:49] cycle you might use PWM to control the
+[31:52] uh speed of the motor. It's essentially
+[31:54] how much power is delivered.
+[31:58] You in that case you typically do that
+[32:00] through a MOSFET because this can only
+[32:02] supply 40 milliamps per pin and you need
+[32:05] to supply a lot more than that to drive
+[32:07] a motor.
+[32:08] Now
+[32:10] what else have we got here? These are
+[32:12] just digital input outputs with PWM
+[32:14] capability. There's two pins here. Uh
+[32:18] this is pins uh two and three. Arduino
+[32:20] pins two and three which are called are
+[32:23] interrupt pins.
+[32:26] Interrupt pins can be configured so that
+[32:31] if a a digital one is seen then that
+[32:35] will trigger
+[32:37] in um
+[32:39] will trigger a piece of code to be
+[32:42] called.
+[32:44] You can do this yourself using any
+[32:46] digital pin. So you can write a loop
+[32:49] there saying is it high? Is it high? And
+[32:53] you keep asking this, you know, hundreds
+[32:55] of thousands of times per second. And
+[32:57] when it goes high, you can then say,
+[32:59] "Okay, now it's high. Do this job,
+[33:01] perform this particular task."
+[33:04] The interrupt pins take away that burden
+[33:07] of doing the loop for you and have
+[33:10] hardware support via the interrupt
+[33:13] vector table. So
+[33:17] you can there's explicit support for
+[33:19] that in the processor to say when this
+[33:22] pin goes high um call this piece of code
+[33:26] and that's very useful for many things
+[33:27] like drivers for external peripherals
+[33:30] and for generating periodic timers
+[33:33] actually there's two general purpose
+[33:35] timers in the um Arduino but that's
+[33:39] probably an advanced topic but anyway so
+[33:41] the inter pins are useful for things
+[33:43] like that and they're called interrupt s
+[33:45] because they interrupt whatever your
+[33:47] program is doing. So your actual program
+[33:49] that you write the interrupt routines
+[33:52] and interrupt handling routines when
+[33:55] they are called the stack is saved or
+[33:58] the state of the process is saved. The
+[33:59] interrupt handling routine is called and
+[34:02] then it returns control back to your
+[34:04] program. So they interrupt your program
+[34:06] which is very useful if you need to do
+[34:08] things that require immediate attention
+[34:10] like if packets coming in from the
+[34:12] network and if you don't read it it's
+[34:13] lost
+[34:15] for example.
+[34:17] The final two pins here are the serial
+[34:20] pins TX and RX. Now these pins are used
+[34:24] by the USB to serial interface. So if
+[34:28] you want to use them for your own
+[34:30] purposes, that will
+[34:33] has the potential to conflict if you're
+[34:35] trying to program it at the same time.
+[34:36] And if you had another device that
+[34:38] you're talking over serial with then
+[34:42] you would and you were trying to program
+[34:44] it at the same time, this could
+[34:46] potentially cause uh problems.
+[34:49] But uh like you might see for example a
+[34:52] shield like a a cellular shield,
+[34:55] cellular modem shield I saw once that
+[34:58] used these pins and you had to unplug it
+[35:01] every time you wanted to program the
+[35:03] device. So the USB to serial connection
+[35:05] because the modem was trying to send
+[35:06] stuff as well right in in between you
+[35:09] trying to send the program.
+[35:12] So there you go. Well, just to say what
+[35:15] that is, this is a called the serial
+[35:17] protocol and it's a standard protocol.
+[35:20] It's very long established and very
+[35:22] simple. It's just a birectional
+[35:26] um protocol.
+[35:28] And so you can transmit and receive at
+[35:31] the same time.
+[35:33] Okay, so that's all of the pins of the
+[35:36] Arduino.
+[35:38] No, it's not. I forgot to mention the
+[35:41] power pins.
+[35:43] Now, so in the power pins on the Uno R2,
+[35:47] there's one called the IO reference.
+[35:50] This was a pin that they introduced so
+[35:52] that when you plug a shield in, it knows
+[35:55] whether or not the base board is
+[35:57] operating with logic levels of 3.3 volts
+[35:59] or 5 volts. You won't see that on clone
+[36:02] boards typically, but it's on the UNO
+[36:04] R3, so you probably won't use that. But
+[36:07] it was designed so that shields that
+[36:09] plug into the Arduino can tell.
+[36:12] The reset line, this is this is the same
+[36:16] as this.
+[36:18] When the reset line is pulled low, this
+[36:20] resets the Arduino. This is quite useful
+[36:23] if you want to have some other kind of
+[36:26] control over resetting the Arduino or
+[36:28] you know some external watchdog timer or
+[36:31] something like that. 3.3 volts provides
+[36:34] you with a regulated 3.3 volt output
+[36:37] from the chip itself and you can use
+[36:39] that um I think you can supply 50
+[36:42] milliamps of of current and you can use
+[36:46] that to to uh supply current to external
+[36:49] peripherals that might use it a lot some
+[36:51] sensors like I've seen some IR sensors
+[36:53] that use use it
+[36:56] the 5V here is actually the input
+[37:00] provided by this regulator
+[37:03] You can power the Arduino with that.
+[37:05] That's how the Arduino is being powered
+[37:07] essentially via this pin via the
+[37:09] regulator first. If you had a regulated
+[37:12] 5 volt, you could put it directly in
+[37:13] there and power the Arduino.
+[37:16] Now,
+[37:17] so you could also use that as a 5V
+[37:20] reference if you wanted, if you had
+[37:22] external power, but remember the power
+[37:25] constraints here. If you're plugging
+[37:27] this in from your computer and it can
+[37:29] maybe the port can supply maybe a couple
+[37:31] hundred milliamps at most and you start
+[37:34] if you start using this 5 vols to,
+[37:38] you know, power loads of other
+[37:40] equipment, you could quickly sort of run
+[37:42] out of current. There's two browns here
+[37:45] and then there's a Vin, which is
+[37:47] whatever power you're putting into your
+[37:49] DC jack if you're power if you're
+[37:51] powering it externally. So, you might
+[37:53] want to use that for other purposes and
+[37:55] you can get access to it there.
+[37:58] Um, so that's the power power pins
+[38:02] and that's everything.
+[38:06] If you have a variant of the Uno, you
+[38:09] might not see these two pins, but
+[38:12] they're just duplicates of these two
+[38:13] pins. You probably got different
+[38:15] regulator. You might have a different
+[38:17] USB to serial chip there, but otherwise
+[38:20] it will look pretty much the same. And
+[38:25] when you use the Arduino software, these
+[38:27] pins will be labeled the same. All
+[38:29] right, so that's the pin out the Uno R3.
+[38:33] Let's have a look at the programming
+[38:35] environment for the Arduino now. So in
+[38:37] order to begin, want to connect up your
+[38:40] Arduino to your computer via the USB
+[38:42] cable. And then you want to fire up the
+[38:45] Arduino IDE.
+[38:48] There are a number of different ways to
+[38:50] program the Arduino and to program the
+[38:52] underlying
+[38:54] 80 mega 328P on it or any AVR ATM chip
+[38:59] in fact. But the easiest way for
+[39:01] beginners is to use the Arduino IDE. So
+[39:04] you want to install the Arduino IDE.
+[39:06] It's probably in your package manager if
+[39:08] you're on Linux. You can install it on
+[39:10] FreeBSD. You can go to the website. You
+[39:12] can download a package. You can compile
+[39:14] it. Blah blah blah. and Windows is an
+[39:17] executable. On Mac, there's a package.
+[39:20] So, get it installed. On Linux, you're
+[39:23] going to have to add yourself to the
+[39:24] dial out group before you can
+[39:25] communicate with the USB device that's
+[39:28] created. When you plug the Arduino in,
+[39:30] I've noticed that on Linux Mint and the
+[39:32] latest version of the Arduino software,
+[39:35] it actually prompts you to do that and
+[39:37] it'll do it for you by prompting you for
+[39:40] your root password and add you to the
+[39:41] dial out group. Otherwise, just look up
+[39:43] how to add yourself to a group. you'll
+[39:45] have to log out and back in unless you
+[39:48] uh just sue as yourself, but that didn't
+[39:51] make any sense that you log out and log
+[39:52] back in. Anyway, so fire up the Arduino
+[39:55] IDE and then um the best thing to do
+[39:59] here is to load one of the examples. So,
+[40:02] go to file and load up an example. Now,
+[40:05] a good example to use is the blink. It's
+[40:10] a fantastic feature of the ID is the
+[40:12] fact that it has all these examples. you
+[40:14] know, you want to know how to connect up
+[40:15] a button, then just go to the button
+[40:18] example. So, the start with the most
+[40:20] basic example, which is blink,
+[40:23] it always launches a new uh ID when you
+[40:25] do that. So, just get rid of the old one
+[40:28] not to clutter up my desktop. And here
+[40:30] is the program.
+[40:32] I want to upload this program to the
+[40:35] board.
+[40:36] So, I'm using a free Duino because I'm
+[40:40] cheap skate. So I actually have to
+[40:42] configure it slightly differently. So
+[40:44] I've set my board to the dual miller
+[40:46] novi and I've set my programmer to the
+[40:49] AVR ISP. But if you're using Uno, just
+[40:52] make sure your board is set to Uno and
+[40:55] it probably will be by default because
+[40:57] it's now that's the reference platform
+[40:59] and the program will be set by default
+[41:02] correctly and it should just work. Now,
+[41:05] if you click upload with this example,
+[41:07] it should compile it and then upload it
+[41:10] and say that it's done uploading.
+[41:14] Right, I'm hitting upload.
+[41:16] You see the upload.
+[41:19] And there we are. We're now flashing
+[41:21] with a 1 second interval. As I said,
+[41:24] total piece of cake. Well, let's do
+[41:26] something more useful. Let's use the
+[41:29] Arduino to switch something highowered
+[41:32] on and off.
+[41:35] Hi, I just want to briefly explain what
+[41:38] happens when you program the Arduino and
+[41:41] what the difference is between the
+[41:44] bootloadader programming and direct
+[41:46] programming. The reason this is
+[41:48] important is because you'll hear about
+[41:50] the bootloadader. So I want you to know
+[41:52] what it is so that there's no confusion
+[41:54] around it. It's a very simple thing
+[41:56] actually. So the 18 mega 328P on the
+[42:00] Arduino Uno. Now you can set the program
+[42:03] that's in the program memory using these
+[42:07] this header here which is called the
+[42:09] incircuit serial program the ICSP
+[42:12] sometimes you'll see that written as ISP
+[42:14] it's the same thing the in insystem
+[42:16] serial program incircuit serial program
+[42:19] people kind of give you different names
+[42:20] so but it's usually ICSP or ISP
+[42:24] six pin header you need then an external
+[42:27] programmer you can use one like this
+[42:29] this is one produced by Olyx. There's an
+[42:32] AVR ISB M2
+[42:35] uh copy. You can buy them directly from
+[42:38] ATM
+[42:39] as well. And there's a load of different
+[42:41] programmers you can use. They'll have a
+[42:44] USB cable on that you connect to your
+[42:45] computer and then via the the computer
+[42:47] then communicates with the programmer
+[42:49] and the programmer communicates via the
+[42:50] ICSP port and directly sets your
+[42:54] program. So if you use the insec zero
+[42:57] programming port then your program
+[43:00] becomes
+[43:01] here and you can use the complete 32
+[43:04] kilob of the program memory space.
+[43:08] Now what happens when you use the
+[43:11] bootloadader?
+[43:12] The bootloadader is was introduced in
+[43:15] the Arduino and is used because
+[43:19] in circuit serial programmers are
+[43:23] can be expensive. I've seen them for5 or
+[43:26] six. So I won't say that they are
+[43:28] expensive but they can be. The ATMmail
+[43:33] AVR
+[43:34] ISP M I is about 40 quid. you know, it's
+[43:38] expensive. If you want to get
+[43:40] programming and you want to get started
+[43:41] with the Arduino, then you don't want to
+[43:44] spend another 40 quid on a programmer
+[43:46] for it. So, what the boot loader allows
+[43:49] you to do is program the device using
+[43:52] the USB port.
+[43:55] So, what I'm going to draw on here is
+[43:58] the bootloader. So the boot loader is a
+[44:01] program
+[44:03] already burned
+[44:05] to your device to your chip.
+[44:10] So this program runs whenever the chip
+[44:14] is reset the boot loader runs.
+[44:18] Just label that.
+[44:24] Now your chip then already comes with
+[44:27] the boot loader burned onto it as its
+[44:30] program when you buy an Arduino. If you
+[44:33] just buy the chip, it won't have
+[44:34] anything on it. It won't have a
+[44:35] bootloader.
+[44:37] Now what happens when you re press reset
+[44:40] the bootloader program runs and it looks
+[44:43] for communication over the serial line,
+[44:46] a special magic bite or a magic sequence
+[44:49] of bytes. If it sees that, then it knows
+[44:52] that you're trying to program it. And
+[44:55] then it goes into a mode where it
+[44:57] receives a sequence of hexadesimal
+[45:00] characters
+[45:02] which designate what the program is. So
+[45:04] then once you uh you hit reset and then
+[45:09] immediately you um program
+[45:12] the device
+[45:16] and the bootloader then copies your
+[45:21] into the program memory. Because the
+[45:23] bootloader takes up space,
+[45:26] you you only then have 31 12 kilob of
+[45:29] program memory.
+[45:31] Now that only happens that copying
+[45:34] process only happens when you hit reset
+[45:37] and then immediately try and program it.
+[45:40] What happens otherwise is the
+[45:42] bootloadader you hit reset the
+[45:44] bootloader looks for the magic byes. It
+[45:46] doesn't see them. So then it just goes
+[45:48] on to the next instruction which is your
+[45:51] program. So this
+[45:53] takes a little bit of your startup time
+[45:55] but not a lot. But the bootloader will
+[45:58] run before your program because it has
+[46:01] to because it's waiting to see this um
+[46:03] see if you're trying to program it using
+[46:05] USB. So there you go. That's the boot
+[46:07] loader. That's what it does. It just
+[46:09] allows you to program it via the serial
+[46:11] line.
+[46:15] Okay. So here's the setup for the high
+[46:17] power switching test. We've got a 24vt
+[46:21] DC motor here, a 20 20 vol D DC power
+[46:26] supply that I just got off an old um
+[46:28] from an old laptop. It's kind of
+[46:30] connected up here to the board.
+[46:35] We got our Arduino here and coming out
+[46:38] of pin five of the Arduino, we connect
+[46:41] via a 1k resistor to the base of this
+[46:44] transistor here.
+[46:47] And power flows from our top rail
+[46:51] through our motor
+[46:54] into the
+[46:56] collector of the transistor and out the
+[46:59] emitter.
+[47:01] It's back to ground. And I've tied the
+[47:03] ground of the Arduino to the ground of
+[47:05] the 24volt DC power supply. The Arduino
+[47:08] is just powered off USB. The reason for
+[47:10] that is so that the transistor base um
+[47:15] the the reference the ground reference
+[47:18] relative to the transistor base is the
+[47:19] same as the ground reference of the
+[47:23] Arduino cuz sometimes you get weird
+[47:25] things happening otherwise because if
+[47:28] you think about it we're switching this
+[47:30] on this transistor on and this is a 5
+[47:32] vols relative to the ground of the
+[47:35] Arduino. So, we want that to be the same
+[47:38] uh relative voltage. So, we tie the two
+[47:42] grounds together just in case.
+[47:45] Just quickly go through the circuit
+[47:46] we're going to use to control the motor.
+[47:49] On the left here, we've got a 5V power
+[47:51] supplying an Arduino which is connected
+[47:55] to ground.
+[47:57] On the same ground, we have another
+[48:00] power supply on the right. It's a 20
+[48:02] volt DC power supply. power is going to
+[48:05] go through the motor
+[48:07] and it's going to be controlled by this
+[48:10] transistor. So, normally this transistor
+[48:12] is going to be off. So, the motor won't
+[48:14] be on. Uh, in order to turn the motor
+[48:17] on, we have the base of the transistor
+[48:21] is connected through a 1k resistor to
+[48:23] limit the current into the base to pin
+[48:25] five of the Arduino. So, when we set pin
+[48:27] five high on the Arduino, we'll turn the
+[48:30] transistor on. Current will flow through
+[48:32] the motor. The 10k resistor here on the
+[48:35] base is to pull down the transistor base
+[48:38] so that there's no floating voltages
+[48:40] causing the gate to go on and any you
+[48:43] know stray voltages from ambient RF or
+[48:45] whatever get drained to ground.
+[48:48] this flyback diode is in place. So when
+[48:51] the inductive
+[48:53] component collapses and the magnetic
+[48:56] field collapses, the flyback voltage
+[49:00] will circulate round through the motor
+[49:02] and it won't build up to a dangerous
+[49:04] potential behind the transistor. You
+[49:07] know, threaten to damage the transistor.
+[49:10] This is a powerful transistor cuz the
+[49:11] motor draws almost an amp when it's on.
+[49:17] All right, that's a circuit.
+[49:23] All right, so what I'm going to do now
+[49:24] is create a new um sketch.
+[49:28] I'm going to add a setup loop
+[49:32] type. I'm going to add a loop.
+[49:38] And what I want to do is in setup,
+[49:43] okay, let's call it our motor pin.
+[49:45] define a integer motor pin
+[49:49] and we're going to want we going to use
+[49:50] pin five and so I want to set the pin
+[49:54] mode of our motor pin to output
+[49:59] and what we're going to do in our loop
+[50:01] is we're going to do something very
+[50:03] similar to the blink
+[50:05] but we're going to
+[50:08] do the right
+[50:10] motor pin
+[50:13] we're going to set it on. Then we're
+[50:15] going to wait for 5 seconds.
+[50:23] [Music]
+[50:29] We're going to wait for 1 second. So,
+[50:31] we're going to turn it on for a second.
+[50:33] Then, we're going to wait 5 seconds.
+[50:37] All right. I'm just going to upload that
+[50:39] sketch.
+[50:44] and let's have a look at it running.
+[50:48] All right, I'm just holding down reset.
+[50:50] As soon as I let go that, we'll see the
+[50:51] sketch running.
+[50:56] So, it only goes on for a second, then
+[51:00] stops,
+[51:02] and it takes about 5 seconds for the
+[51:04] thing to slow down. Waits five. It waits
+[51:06] 5 seconds, goes on for another second,
+[51:11] waits 5 seconds,
+[51:14] goes on for a second.
+[51:17] So, there we can see we're turning the
+[51:20] motor on and off. Now, wouldn't it be
+[51:22] more interesting if we could control the
+[51:24] speed of the motor?
+[51:27] Well, remember before I was talking
+[51:28] about pulse width modulation.
+[51:31] Well, let's try pulse width modulation.
+[51:37] All right, let's do some PWM. I've
+[51:39] changed the motor pin to nine, pin 9,
+[51:41] because I read the reference material
+[51:43] for the PWM, and it turns out the pins
+[51:45] five and six on the Arduino will
+[51:48] conflict with the inter internal timers,
+[51:50] and they might not be fully off at a PWM
+[51:54] value of zero. So, it probably won't
+[51:57] make any difference to this application,
+[51:59] but just in case, I've turned it to pin
+[52:00] 9. So, we're in our setup, we're still
+[52:03] going to define the motor pin as an
+[52:04] output, but we're going to use analog
+[52:07] right instead. Now that takes a pin as a
+[52:10] input and a duty cycle. So zero will be
+[52:15] completely off. 255 will be completely
+[52:17] on. Halfway 127 or whatever will be 50%
+[52:21] on 50% off. The frequency is around 460
+[52:25] uh kHz I believe. The PWM. Let me check
+[52:29] what it said.
+[52:32] Uh or 490 htz.
+[52:38] Okay. So, that's quite a slow PWM
+[52:42] uh signal, but anyway,
+[52:45] so what I want to do is slowly build up
+[52:47] the speed. So, I'm going to add another
+[52:49] loop in here, for loop from, and all
+[52:52] this is saying is I want to go from zero
+[52:56] to I is less than 256. So, we go up to
+[52:59] 255, which is the maximum it can be. And
+[53:03] I'm going to put this in the middle of a
+[53:07] loop
+[53:09] and do this. So this will loop from i=0
+[53:12] up to 255
+[53:15] and it will set the motor pin to that
+[53:18] value to that PWM value. We want to
+[53:20] gradually increase, not just immediately
+[53:22] because we want to see that increase. So
+[53:24] I'm going to put a 0.1 second delay in
+[53:27] between each of those steps. So we
+[53:28] should see the motor gradually go up to
+[53:30] speed. eventually when it gets up to
+[53:32] speed.
+[53:34] So that's going to take about 25
+[53:38] 2.5 seconds*
+[53:42] 10 would be second
+[53:45] 50. Yeah, about 25 seconds. So maybe
+[53:47] that's a bit too much. Let's we want to
+[53:49] see it over about 50 about 10 seconds or
+[53:52] so. And after that we're going to delay
+[53:54] for 2 seconds.
+[53:57] Then we're going to stop it.
+[54:01] set the mode to zero and I'm just going
+[54:04] to delay like 10 seconds so that it
+[54:07] fully comes to rest. So, let me upload
+[54:09] that and let us see what happens.
+[54:14] All right. So, what you'll notice is I
+[54:16] had to use a different motor. The motor
+[54:18] we were using before was not really a DC
+[54:20] motor. It was a brushless DC motor with
+[54:23] a controller, which means that
+[54:25] essentially it had its own little
+[54:27] microcontroller in there controlling the
+[54:29] brushless DC motor. So, as soon as you
+[54:31] powered it, it needed to be powered on
+[54:34] or off. Like there's no in between cuz
+[54:36] it's got its own microcontroller. So, as
+[54:38] soon as it was on, then the motor would
+[54:40] run. And if there was any anything other
+[54:42] than on, it wouldn't run. So, I've
+[54:44] replaced it with a true DC motor now,
+[54:46] which will respond to our pulse with
+[54:47] modulation signals. I've uploaded the
+[54:49] sketch and as soon as I let go of the
+[54:51] reset button, the program will start and
+[54:53] you should see the speed of the motor
+[54:54] gradually increasing.
+[55:04] So, this lasts for about 10 seconds and
+[55:07] then it should switch off.
+[55:17] And then in our program we have a
+[55:19] 10-second gap. Then that whole thing
+[55:21] will start again. So that's it. There
+[55:24] you go. Starting again now. Um, so there
+[55:27] you go. That's how to pulse with
+[55:28] modulate controller motor.
+[55:32] All right, that's the end of the
+[55:34] tutorial for the Arduino. Hopefully
+[55:37] you've seen uh you now know what an
+[55:39] Arduino is. You know how it works. You
+[55:42] know what it pin out is, what a boot
+[55:44] loader is. You've seen how to upload
+[55:46] simple programs to it using the Arduino
+[55:48] IDE which it calls sketches. We've used
+[55:51] the use the Arduino to control a motor,
+[55:56] a big DC motor and switching it on and
+[55:59] off. And we've used pulse with
+[56:01] modulation to control the speed of a
+[56:03] motor. There's loads more things you can
+[56:05] do with Arduino, but for an introductory
+[56:07] video, that's all I'm going to show you.
+[56:09] I hope that was useful. Please go ahead,
+[56:12] get yourself an Arduino, try it out. If
+[56:14] you got any questions, ask them. It's
+[56:16] very simple to use. Follow the examples,
+[56:19] the example sketches. There's loads of
+[56:20] documentation. You'll be controlling,
+[56:23] you know, your dancing clown made out of
+[56:26] Smarties in no time. All right, thanks
+[56:28] for listening. Hope that helped.

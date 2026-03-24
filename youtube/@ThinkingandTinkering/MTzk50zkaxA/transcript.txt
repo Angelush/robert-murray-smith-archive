@@ -1,0 +1,123 @@
+[00:00] [Music]
+[00:08] hi so after the last video somebody
+[00:10] wrote to me and said that when they were
+[00:11] using Tinker Cad and they wanted to do
+[00:14] something like make a rotor for a
+[00:15] generator they were using copy and
+[00:19] rotate and it was changing the scale of
+[00:21] things and this was most interesting
+[00:23] could I help and I thought yes of course
+[00:25] I can two main reasons one gives me a
+[00:27] chance to show off and two
+[00:30] it gives me a chance to introduce a
+[00:32] really interesting tool available in
+[00:34] Tinker can so let me first of all show
+[00:37] you what he meant and what I did about
+[00:39] it so we're back in Tinker Cad and let's
+[00:42] say we want to do something like say
+[00:43] create a rotor for a generator then
+[00:45] obviously what we'd start with is a
+[00:47] cylinder smooth it out increase the size
+[00:49] and let's say 100 by
+[00:53] 100 and we'll make it 5 mm deep that
+[00:57] would the basis of our rotter because
+[00:59] what we want in here is some holes so
+[01:01] that we can stick some magnets in there
+[01:03] if we take the whole primitive and we
+[01:05] change that to a magnet size let's say
+[01:08] 10.2 so it'll take a 1 cm magnet with 2
+[01:12] mm to be able to get it in there and for
+[01:15] any variance we got in the printing then
+[01:17] that if I line that up with
+[01:22] this will form the basis of the hole
+[01:25] let's merge them and we can stick a
+[01:27] magnet in there and we'll get ourselves
+[01:29] a rotor of course that by itself isn't
+[01:31] good enough what we want to do is put
+[01:33] holes all the way around so we can put
+[01:35] magnets all the way around that's
+[01:37] usually pretty simple just highlight the
+[01:39] two of them duplicate it grab this Arrow
+[01:43] here and move it by whatever degrees you
+[01:44] want and let's move it by
+[01:47] 222° there we go however if we now click
+[01:51] on that we'll see that the scale on this
+[01:53] has Chang to 10.17 and
+[01:56] 10.17 instead of 10.2 and 10.2 in the
+[02:00] issue here is we may not be able to get
+[02:02] the magnet in there so the scale will
+[02:04] change as it goes around that rotation
+[02:07] because we can just repeat what we've
+[02:09] done in order to get this in exactly the
+[02:12] right places where we want them but the
+[02:14] scale will change and of course that's a
+[02:16] bit irritating because maybe your
+[02:19] magnets will fit maybe they won't fit if
+[02:22] we click on there we'll see that there's
+[02:25] a lock icon right there lock editing we
+[02:27] can lock that editing but unfortunately
+[02:29] once we do that it locks the scaling but
+[02:32] it also locks the ability to move it so
+[02:35] if we
+[02:36] now duplicate that and try to spin that
+[02:39] around then it'll move the 22.5 but that
+[02:43] stays in place and of course that is
+[02:45] really irritating so what do we do about
+[02:49] that in order to get that to be able to
+[02:51] rotate but maintain its scale well think
+[02:54] account did include something with this
+[02:56] mostly what we use is this basic shapes
+[02:59] pull di men menu if you click on that
+[03:01] and you put your Creations in there then
+[03:04] it'll create a new bit for you so the
+[03:06] first thing to do is highlight the bit
+[03:09] that you want to create a part from
+[03:11] click on that your Creations create
+[03:14] shape and it will take the highlighted
+[03:16] shape and make a creation for you so
+[03:19] let's name that shape we we call that
+[03:21] whole magnet
+[03:30] little description of what it is and
+[03:32] notice that bit here lock part size we
+[03:36] want to prevent scaling and if we save
+[03:38] that shape it'll save it in our
+[03:41] creations and we can now use that like
+[03:43] we would use anything else so let's
+[03:45] delete that and now instead of using the
+[03:48] hole and changing the size we use our
+[03:50] part that we just created and we can
+[03:53] align
+[03:57] it and it will respond like a hole so if
+[04:01] I merge that together then there we go
+[04:03] if I duplicate it and rotate
+[04:18] it click on that then it is 10.2 and
+[04:21] 10.2 and this one is 10.2 and 10.2 so
+[04:25] have successfully prevented scaling as
+[04:28] that rotates round and enabled it to
+[04:30] rotate by using Create shape in your
+[04:34] creations and that's found under this
+[04:35] pull down menu where you normally see
+[04:38] basic
+[04:39] shapes so I thought that would solve his
+[04:41] problem I hope it does but it also gave
+[04:44] me the chance to show you your Creations
+[04:46] as a tool because clearly it's much more
+[04:49] useful than just that if you create an
+[04:51] intricate part you think you're going to
+[04:53] use time and time again for instance a
+[04:55] chain link or a ball and socket joint or
+[04:57] something like that if you make a
+[05:00] creation instead of having to save it as
+[05:01] a file and reimport it you can just pull
+[05:04] it straight from the toolbar so very
+[05:06] useful if you don't want scaling don't
+[05:08] forget to click that don't scale button
+[05:11] if you do want scaling don't click it
+[05:14] and if you pull in some other creation
+[05:17] somebody has done where scaling is
+[05:19] locked you can also CL unclick the
+[05:21] button and edit the scaling on there
+[05:24] anyway hope you enjoyed the video than
+[05:26] hope it was helpful thank you very much
+[05:28] for watching and please do remember to
+[05:30] like And subscribe

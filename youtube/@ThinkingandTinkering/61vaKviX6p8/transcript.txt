@@ -1,0 +1,208 @@
+[00:02] [Music]
+[00:15] hi
+[00:15] so i'm really enjoying this actually
+[00:18] and it's kind of learning together for
+[00:20] me because when i began making wind
+[00:23] turbines i
+[00:24] really knew jack about them okay and
+[00:27] i've been making the turbines listening
+[00:29] to the comments
+[00:30] making changes to things and reading
+[00:32] because that's how you learn in my mind
+[00:35] that's how you learn
+[00:36] i think you learn better by doing and so
+[00:39] i tend to do
+[00:40] i do stuff and then have a read and
+[00:42] think about it
+[00:44] listen to what people are saying to me
+[00:46] about stuff and
+[00:47] mull it over until i come to some kind
+[00:49] of decision about
+[00:50] what i think about something and that's
+[00:52] kind of cool i think and i think it's a
+[00:54] good process
+[00:55] for learning any new skill so i've been
+[00:58] sharing this journey with you
+[01:00] and we've been building that one
+[01:01] kilowatt hour generator and a
+[01:03] common comment is that'll never do a
+[01:05] kilowatt hour
+[01:06] and of course that preys on one's mind a
+[01:09] bit so i had to look at the theoretical
+[01:11] limits of these things whether it could
+[01:13] actually in this particular design
+[01:15] achieve one kilowatt hour or not
+[01:19] and one of the things i looked at of
+[01:20] course was the bets law this is the law
+[01:23] that
+[01:23] governs the amount of energy that can be
+[01:26] extracted from any wind
+[01:28] turbine independent of its shape it
+[01:30] doesn't really matter
+[01:31] what geometry you use it gives you an
+[01:33] indication of how much
+[01:35] energy it's possible if it were 100
+[01:38] efficient
+[01:38] to extract so the first question you
+[01:40] have to have really is
+[01:42] is it possible can this actually be done
+[01:46] let me give you a look at what bet store
+[01:47] actually looks like
+[01:49] so what it comes down to actually is
+[01:51] this that the maximum power of your like
+[01:53] p
+[01:53] max is equal to 16 over 27
+[01:59] times a half times rho
+[02:03] d h v cubed
+[02:06] okay this bit here
+[02:11] is the abets factor now it makes sense
+[02:15] if you think about it
+[02:16] in order for wind to flow there can't be
+[02:18] a blockage on the other side
+[02:20] so the wind speed can't be zero or it
+[02:23] would
+[02:24] represent a blockage so there has to be
+[02:26] wind flow
+[02:27] and that limitation means that
+[02:29] effectively
+[02:31] any turbine design is limited to 59.3
+[02:35] percent
+[02:36] so the power that it can draw at maximum
+[02:39] is 59.3 percent of the available power
+[02:43] now this row this is the air density
+[02:48] that air density is important because if
+[02:50] you think about it
+[02:51] it's the mass of push against the rotor
+[02:54] blades we have more
+[02:55] mass more push then it's going to have
+[02:58] an effect so the air density is really
+[03:00] important
+[03:01] this dnh these are the diameter of the
+[03:05] rotor and the height of the rotor in
+[03:07] meters
+[03:08] and that obviously makes sense because
+[03:10] if
+[03:11] you've got a bigger rotor a bigger area
+[03:13] it can cover
+[03:15] then it's going to be able to extract
+[03:17] more energy so that makes a lot of sense
+[03:19] and this v squared is a v cubed sorry is
+[03:22] wind speed and that's
+[03:24] another one that makes obvious sense you
+[03:26] got more wind you've got more mass it's
+[03:28] all pushing through
+[03:30] so the actual expression makes a ton of
+[03:32] sense in terms of the factors that are
+[03:34] there but of course it's an awful lot of
+[03:36] math
+[03:36] now it comes down to something really
+[03:39] simple
+[03:40] actually so what it comes down to
+[03:43] is the maximum power that can be
+[03:45] withdrawn is equal to one
+[03:47] sorry 0.18
+[03:51] times the diameter of your rotor times
+[03:53] the height of your rotor
+[03:54] times the velocity of the wind cubed
+[03:57] that's just all those figures put
+[03:59] together and making the assumption
+[04:00] that the density of air is the same of
+[04:02] course it isn't but
+[04:04] we'll take that assumption that at sea
+[04:05] level that's the density of air
+[04:08] and we multiply that out and that's what
+[04:10] we get so it's a really easy little bit
+[04:12] of math to be able to plug in
+[04:14] and get the expressions that you need in
+[04:17] order to work out from a given rota
+[04:20] diameter and height what the maximum
+[04:23] power would be
+[04:24] for a given wind speed now if we take
+[04:27] the wind speed at four meters per second
+[04:30] then what we get is 5.5 watts
+[04:33] that's how much energy is maximum
+[04:36] generated from
+[04:37] that rotor that we're using and remember
+[04:40] the rotor is 0.6 meters
+[04:42] by 0.8 meters it's 0.6 meters high and
+[04:45] 0.8 meters across on the diameter
+[04:49] then we get at 10 meters per second
+[04:54] 86.4 watts and at 25 meters per second
+[04:59] we get 1.35 kilowatts
+[05:04] now this speed 25 meters per second
+[05:07] it's the speed that commercial turbines
+[05:10] are rated at
+[05:11] if you look at the power curve sometimes
+[05:13] commercial turbines rated at one
+[05:16] you'll see that they give the speed at
+[05:17] 25 meters per second
+[05:19] to give you one kilowatt hour now
+[05:22] obviously
+[05:23] that is the maximum we can get out of it
+[05:26] now most commercial turbines that you
+[05:28] find in wind farms are somewhere between
+[05:30] 75 and 80 percent efficient
+[05:32] so if we take 80 percent of that then we
+[05:35] actually get
+[05:36] 1080 watts or 1.08 kilowatts
+[05:42] okay so i get my information from
+[05:44] wikipedia on that particular one so i'm
+[05:46] not 100 sure how accurate that is
+[05:49] but that's what wikipedia told me the
+[05:50] formula was so i just followed that
+[05:52] through
+[05:53] now it's really interesting i think
+[05:57] to answer a question is it possible to
+[05:59] get a kilowatt hour
+[06:01] out of the generator that we've designed
+[06:03] and the answer is yes it is possible
+[06:05] if we get 80 efficiency and of course
+[06:08] that's quite a challenge for something
+[06:09] that's made out of trash when you think
+[06:11] that the top-end commercial wind
+[06:12] turbines are getting 80
+[06:14] efficient so we do have a still a bit of
+[06:16] a challenge on but it is
+[06:18] certainly possible to do it and that's
+[06:20] kind of encouraging to hear
+[06:21] or at least i thought it was encouraging
+[06:23] to hear which is why i'm sharing it with
+[06:24] you
+[06:25] and you can probably hear the rain
+[06:27] there's a lot of rain and no wind which
+[06:29] is
+[06:29] really annoying but what can you do
+[06:31] about it so it's possible to that this
+[06:33] will be a kilowatt hour generator
+[06:35] certainly if we can get that 80
+[06:37] efficiency
+[06:38] now normally with savonius type rotors
+[06:41] like this where you have a
+[06:42] savonius type barrel worker apparently
+[06:45] you can expect half of that
+[06:46] so we got uh 1.35 what we would expect
+[06:49] from the civilians type
+[06:51] is um what is that about 625 watts at
+[06:54] maximum
+[06:55] something like that ours isn't a
+[06:57] civilian's type obviously
+[06:58] and we are making the argument remember
+[07:01] that these magnets on the rim are more
+[07:03] efficient than magnets on the axle
+[07:05] so that's what we're aiming to prove if
+[07:07] you like or aiming to to get some
+[07:09] demonstration of that we can get the
+[07:11] efficiency out of it from the magnets on
+[07:13] the rim as opposed to the magnets on the
+[07:15] on the axle now i'm hoping i suppose yes
+[07:19] that's a fair word i'm hoping that that
+[07:21] is right that will improve efficiency
+[07:23] because of magnet position
+[07:25] and if we do then we can achieve 80
+[07:29] will be in the top range of commercial
+[07:33] for um a scrap built turbine which i
+[07:36] think is
+[07:37] awesome result really and it
+[07:40] is most certainly possible anyway i
+[07:43] thought i would share that with you
+[07:44] and thank you very much for watching

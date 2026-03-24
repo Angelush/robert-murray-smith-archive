@@ -1,0 +1,829 @@
+[
+  {
+    "id": "UgxVefK2x-9mf0X3XWN4AaABAg",
+    "author": "@ijcarroll",
+    "author_channel_id": "UCzoiKHd_m_INw7IRqGZEX5A",
+    "text": "what about a CVT? like an adjustable universal pulley that changes it's diameter based on it's circular velocity to drive a belt which turns the chosen motor. It might be tricky to tune but it will transmit the right amount of speed and torque to the motor based on the wind speed.",
+    "likes": 0,
+    "published_at": "2023-02-10T22:17:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz46tJYcOQvON50RYd4AaABAg",
+    "author": "@ClownWhisper",
+    "author_channel_id": "UCrQVopd67OnwpMyLTSP73Sw",
+    "text": "One arrangement I haven't seen anyone do perhaps you have is to replace the magnet with small easy to turn motors around the circumference of a gear or disc or whatever you wanna do so basically instead of making a generator with magnets and coils just find a bunch of the same lightweight motors that might only give you a Volt or two each and put a entire array of them around the flywheel. You could measure the voltage at a known speed and record it so you know if a motor has fallen out of operation",
+    "likes": 0,
+    "published_at": "2023-01-10T13:20:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzW9Ri5VYDL_EuRrBF4AaABAg",
+    "author": "@Ivan-ii1iw",
+    "author_channel_id": "UC75VB7HMzsPFnpF8g_eG_SA",
+    "text": "Thank you for sharing your wisdom.",
+    "likes": 0,
+    "published_at": "2021-07-16T15:41:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyaMSp1ikzMtRWVeI54AaABAg",
+    "author": "@PaddyNinja",
+    "author_channel_id": "UCZGNTiMRGT5sMbFTNVG0utQ",
+    "text": "Thanks Mr Smith very helpful indeed.",
+    "likes": 0,
+    "published_at": "2021-07-12T23:12:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyHa0PxTkS67mT95UV4AaABAg",
+    "author": "@DavidHotrum52114",
+    "author_channel_id": "UCvfN1IR4Sj1EmbUhJ5Vtb4Q",
+    "text": "Your out of balance \"Rose Bud\" steals power.",
+    "likes": 0,
+    "published_at": "2021-06-22T02:49:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyuxEERKqw28RvfEVF4AaABAg",
+    "author": "@jasondevine6014",
+    "author_channel_id": "UCJKJCB6K6YXpVaUuE5tBWHQ",
+    "text": "Don't forget you can use a voltage doubler or tripler from caps and diodes if getting ac current.",
+    "likes": 0,
+    "published_at": "2021-06-21T02:14:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwq6dM9A3kTHaUNyVh4AaABAg",
+    "author": "@hempev",
+    "author_channel_id": "UCxcZah38HU0vtRU822f-S7A",
+    "text": "That weebly-wobbly fan has me concerned...",
+    "likes": 0,
+    "published_at": "2021-06-20T06:58:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz93JdvWwKSMfgaJOJ4AaABAg",
+    "author": "@mikevickers4727",
+    "author_channel_id": "UCyWhja9sh4OlSSdsThSdlBw",
+    "text": "I'm a complete nube, but Great!  You've addressed some of my thoughts, and now another.  I happened upon a free 10-15 speed bike, and since I have no interest in biking, the thought of incorporating the derailleur so that it could automatically?, not a clue how, change gears to accommodate for wind speed to meet the generator's need to make juice.  Like I said, I'm a complete nube and just noodling on these ideas.\nI did create a generator via utube instructions, wiring change + magnets, from a ceiling fan, which via hand held drill and inexpensive, Neiko digital tach, created 25-35vac @ ~90rpm.  Worthwhile or just a fun experiment?  I don't know",
+    "likes": 0,
+    "published_at": "2021-06-20T04:00:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbS-UrTW6nyyJpKXp4AaABAg",
+    "author": "@hubrisnaut",
+    "author_channel_id": "UCmeltveSZEVOm6JtVuYyUTQ",
+    "text": "With magnets at the rim and an arrangement of coils, you could close the circuit on the coils individually depending on wind speed (available torque). Low wind speed, fewer coils in the charging circuit. High wind speed, more coils in the charging circuit. There are a number of ways to accomplish this. For instance, older motors used literal rotating weights to deactivate starter windings, The concept could be reversed to activate coils in the circuit. A more \"modern\" way would be to use the \"pulse\" frequency of induction to regulate individual circuit coils.  The frequency of induction would \"close\" or activate individual coils.",
+    "likes": 0,
+    "published_at": "2021-06-20T03:07:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxbS-UrTW6nyyJpKXp4AaABAg.9OnOTszxObX9OnP8yI9ZTz",
+        "author": "@hubrisnaut",
+        "author_channel_id": "UCmeltveSZEVOm6JtVuYyUTQ",
+        "text": "Also, something to consider to help reduce induction \"cogging\" is magnet field direction. Magnets can be arranged at an angle to the direction of rotation.",
+        "likes": 0,
+        "published_at": "2021-06-20T03:13:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyBSd2PtmZQyDpv6Jh4AaABAg",
+    "author": "@ArcanusLibero",
+    "author_channel_id": "UClvWTeclvSxz3IpQzXBZohw",
+    "text": "A good conversation. Thanks.",
+    "likes": 0,
+    "published_at": "2021-06-19T23:20:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgytB5iPU5tJ9uUnp4V4AaABAg",
+    "author": "@YangSword9x",
+    "author_channel_id": "UCNdfECYS_EarigqdP99JRhg",
+    "text": "Excellent integration mechanics exlpained there! Good sir!!!  (Use any motor wind turbine)",
+    "likes": 1,
+    "published_at": "2021-06-19T09:05:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhEFENPhvLmAWkChx4AaABAg",
+    "author": "@dongraham4760",
+    "author_channel_id": "UCsBzHNf_A6Z7lj3_QAuK9sA",
+    "text": "I've had enough of the utter nonsense that this idiot puts out !!  along with his lame brain design ideas that do not work but he will NOT show that they do not work .His \"ideas\" re wind power are ludicrous at least but more like demented truly .\n I know they will not work as I am an Engineer who understands wind Turbines and the Mathematics involved perfectly , they are not hard , plus there are a 1000 books on the subject , none of them containing the ridiculous fantasies like what this idiot spews . It's really sad and I am deeply afraid that gullible people will follow this clown down his \"research\" path completely and unnecessarily waste their time and money  . The science and more importantly the equations are well known , many for over 100 years , there is NO mystery in wind turbines at all . Stop it !!",
+    "likes": 0,
+    "published_at": "2021-06-19T08:49:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyhEFENPhvLmAWkChx4AaABAg.9OlQsHjnzZt9OmIAZLWfXb",
+        "author": "@rogerwilson6367",
+        "author_channel_id": "UChzzHGD8p8cdyboeBMakOvg",
+        "text": "Perhaps you should make a practical video explaining to everyone where he is going wrong. I would be very interested in watching it so that I can understand wind turbine design a little better.",
+        "likes": 0,
+        "published_at": "2021-06-19T16:52:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwhtXAc0h-c7_CMEVd4AaABAg",
+    "author": "@martinwinfield2935",
+    "author_channel_id": "UCVR-sLfbO0gbj3AGjkF-pkw",
+    "text": "Great stuff thanks for explaining. Glad to hear your a fan of the fan. Thanks.🌬",
+    "likes": 3,
+    "published_at": "2021-06-19T08:36:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQoCUlS-vHKLsQw-N4AaABAg",
+    "author": "@timothywatkins3011",
+    "author_channel_id": "UCvIaYFewlFBB_YHObzuCG9Q",
+    "text": "Watching other YouTube videos on recycling old wind turbine blades. Wondering if a model version of turbine blades standing vertical around a rotatable disc like a lazy Susan, would generate power and could be proof of concept for doing it full scale or even if ends of blade cut shorter.",
+    "likes": 1,
+    "published_at": "2021-06-19T08:01:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz0g-TG5jHMMta291N4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "what about connecting a whimshurst machine and building a large array of lydon jars then step down voltage so current goes up",
+    "likes": 1,
+    "published_at": "2021-06-19T07:05:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzloLyb5Oy-32vLZk54AaABAg",
+    "author": "@AdrianP247",
+    "author_channel_id": "UCljHURUtv8Nay5MLgvQupCg",
+    "text": "I'm looking forward to see the tea-towel turbine",
+    "likes": 5,
+    "published_at": "2021-06-19T04:35:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzloLyb5Oy-32vLZk54AaABAg.9OkynCei0IG9OlPZzOSgAC",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "The Wobbler engine is close enough.",
+        "likes": 1,
+        "published_at": "2021-06-19T08:38:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzMWWTTa20fDK_U0_B4AaABAg",
+    "author": "@lubbock2704",
+    "author_channel_id": "UCkla6oB9VHyJnVT2TWh_64A",
+    "text": "Advantage to rim Cog instead of rim magnets... less magnets (But same effect!)",
+    "likes": 1,
+    "published_at": "2021-06-19T03:26:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxkWtWWhlsHh9brbhd4AaABAg",
+    "author": "@edkoetsier339",
+    "author_channel_id": "UCQI07nG1W5N_65xQZhEAxIA",
+    "text": "I currently have 3 big axial flux turbines that I made and have wooden blades that I knock up in about 30 mins. the blades last about 18 months. All my my turbines turbines have a hinge arrangement that tilts the turbine out of the wind when it gets to ~85 km/h. It's a trial and error to set up first. It works well.",
+    "likes": 1,
+    "published_at": "2021-06-19T03:11:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzw_Fx7m0dgo6VHXMx4AaABAg",
+    "author": "@undernetjack",
+    "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+    "text": "Was wondering if Rob ever thought of using the \"strong adhesive magnetic tape\" kind of magnet in long way round strips , like the magnet wire going long way round the hub. Hope I got the point across?",
+    "likes": 0,
+    "published_at": "2021-06-19T02:42:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzw_Fx7m0dgo6VHXMx4AaABAg.9OkltUI26yR9OmbULzGaJC",
+        "author": "@JacoKruger.",
+        "author_channel_id": "UCHAmDpNL_vxfNXCluBDrEVQ",
+        "text": "Think you need north south north south, spaces in between magnets, those tape ones have north one side and south other side",
+        "likes": 0,
+        "published_at": "2021-06-19T19:50:23Z"
+      },
+      {
+        "id": "Ugzw_Fx7m0dgo6VHXMx4AaABAg.9OkltUI26yR9Omitsl9TJV",
+        "author": "@undernetjack",
+        "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+        "text": "@JacoKruger. Right, so in stacks of two inch pieces of the tape, flipping polarity as you work the way around. They sell the tape with no adhesive as well so you can use your own to suit. My thinking is with the thinner magnet tape one might be able to close the distance between hub and flywheel one layer at a time, minding polarity, having only small or no gaps between pieces. Let's say the gap between hub and flywheel at the closest approach is 7 mm, then you could use stacks of 6 of the 1 mm thick tape. It would have to go onto the flywheel edge, closest to the hub with the coil. Does this better explain?",
+        "likes": 0,
+        "published_at": "2021-06-19T20:55:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwlXm5Snofaka_dIH94AaABAg",
+    "author": "@MrTubeuser12",
+    "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+    "text": "the other thing to consider of course is that having the generator on the perimeter of the fan gives you room for a lot more magnets and a larger coil OR a higher number of turns with separate coils",
+    "likes": 1,
+    "published_at": "2021-06-19T02:14:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzeut8Jn4q_Wn6JVzV4AaABAg",
+    "author": "@stevenfaber3896",
+    "author_channel_id": "UCViZ7pKDKY4MwTordPqYa0A",
+    "text": "Can the rose or the rosebud work if it was a VAWT instead of a HAWT?",
+    "likes": 1,
+    "published_at": "2021-06-19T01:32:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgytOAXHYrEjZzJqgdd4AaABAg",
+    "author": "@thomasmoore4576",
+    "author_channel_id": "UCgvC4RzC4YX_VN0QUDMjTrQ",
+    "text": "Lovely job that Governor but your rosebud is a little askew",
+    "likes": 0,
+    "published_at": "2021-06-19T01:21:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGygkLWZFXrVcb5Wt4AaABAg",
+    "author": "@Beamer1969",
+    "author_channel_id": "UCc30Ir0oMFS9ixNrhw9uz6g",
+    "text": "You have the flywheel right there why not hook it to the rose",
+    "likes": 1,
+    "published_at": "2021-06-19T01:10:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxortqpbzaoHj-MKbB4AaABAg",
+    "author": "@reubenlongworth3586",
+    "author_channel_id": "UCexhPiqTvZosA6vS6xx-qOA",
+    "text": "Sturmey archer, ubiquitous  , as are derailleur gears ,tied to a centrifugal governor, speed vs torque  ?",
+    "likes": 1,
+    "published_at": "2021-06-19T01:09:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZcIPXMwIkURv9vD94AaABAg",
+    "author": "@DaveDeathRay",
+    "author_channel_id": "UCRNLBV9gogiO2lR6Nnr3IXg",
+    "text": "What if you take a kids bike wheel fill it with cement like you did to make the flywheel put some fins/blades on it so you are using it as the back for a rose bud flywheel combo",
+    "likes": 1,
+    "published_at": "2021-06-19T00:01:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKS3l58DHPHC8gUwV4AaABAg",
+    "author": "@shortbuslife3440",
+    "author_channel_id": "UCrWJOj2XV8WtYwgwQ9uoVrA",
+    "text": "I'm still curious about the idea of using a self excited alternator especially as you can probably get an alternator cheapley from an old car down the scrap yard or a new one for about £50, I'm just unsure how to make it self excited :/",
+    "likes": 1,
+    "published_at": "2021-06-18T23:20:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJrqIvyl9-XJAiW8x4AaABAg",
+    "author": "@johnmoore6501",
+    "author_channel_id": "UCivfnf6_NBzXs5VLUdqRv6A",
+    "text": "Hi Really impressed with your YouTube channel. I've asked this before, how do you regulate all these generators , ie solar panel plus a wind generation together to charge a 12v battery for example?  Are their off the shelf charger regulators? Cheers John",
+    "likes": 1,
+    "published_at": "2021-06-18T21:17:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyr0bVnMkJGy47Ub2l4AaABAg",
+    "author": "@georgehirvela7435",
+    "author_channel_id": "UCozp8znGSnxA-XWBKPAaoMQ",
+    "text": "Try a Wind water generator",
+    "likes": 0,
+    "published_at": "2021-06-18T20:55:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwE3iL9Z_Dawnon9XR4AaABAg",
+    "author": "@cheerdiver",
+    "author_channel_id": "UCCILOcBM1JHV7lWaVyKyxjA",
+    "text": "Water pump or low pressure air.\nUnless you just want to 'turn on some pretty lights'.",
+    "likes": 0,
+    "published_at": "2021-06-18T20:50:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw8rBzc4CZWsgajOYd4AaABAg",
+    "author": "@Jasper-fv4ne",
+    "author_channel_id": "UC3Xy-E65VUiUU49aMPlOyig",
+    "text": "can u install it now ?and make use of it ?? for bv  a mob",
+    "likes": 0,
+    "published_at": "2021-06-18T20:13:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5l2gIJAWrFmx1JS94AaABAg",
+    "author": "@WolfgangKeim1",
+    "author_channel_id": "UCRt8qedepMiTRqaqRApf5iA",
+    "text": "One big advantage of this turbine is, that you can mount it on a surface like a wall. You could possibly also install an array of turbines directly next to each other. When mounting it on a wall the downside would be, you can't adjust it to the wind direction. Great concept.",
+    "likes": 1,
+    "published_at": "2021-06-18T20:04:19Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz5l2gIJAWrFmx1JS94AaABAg.9Ok3HVbX21k9OkPliaP1aa",
+        "author": "@rogerwilson6367",
+        "author_channel_id": "UChzzHGD8p8cdyboeBMakOvg",
+        "text": "Unfortunately if it's mounted normal to a wall it won't work. A wall or building stops all air and diverts it around it. It work great on the roof though where the air is diverted.",
+        "likes": 2,
+        "published_at": "2021-06-18T23:20:49Z"
+      },
+      {
+        "id": "Ugz5l2gIJAWrFmx1JS94AaABAg.9Ok3HVbX21k9OmkoCBQQy3",
+        "author": "@WolfgangKeim1",
+        "author_channel_id": "UCRt8qedepMiTRqaqRApf5iA",
+        "text": "Roger Wilson idk as the turbine diverts the wind to the sides.",
+        "likes": 0,
+        "published_at": "2021-06-19T21:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-oZfLS9_cqO9sRIR4AaABAg",
+    "author": "@tiredironrepair",
+    "author_channel_id": "UClysmUHXcGwpFzq7bHj7WkA",
+    "text": "I took a que from you and tested the output from a treadmill motor for a generator against using 6 magnets placed on the perimeter the bicycle wheel I'm building off of and was amazed at just how much more power I was able to get with a simple coil around steel pick up I salvaged from a heat and massage pad you would lay on top of. My 2.5   hp motor made 2-3 volts dc out where as the coil placed close to 6 ceramic magnets produced 5-6 ac at the same speed. I would have thought not. Now I need to rectify it and see if I still have better output. Thanks for your uploads",
+    "likes": 1,
+    "published_at": "2021-06-18T18:11:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqhE33t5zM3mLRfcV4AaABAg",
+    "author": "@bestowicprimer8835",
+    "author_channel_id": "UC2-z4EUiZ2hqbOCegPsJotA",
+    "text": "Hmm 2 conical gear cones point towards each and mounted with belt can Make a cvt transmission",
+    "likes": 1,
+    "published_at": "2021-06-18T18:10:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwtF-xb7RThPxD5g0Z4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Great! 👏\nIt would also be interesting to use it to change a mechanical battery with the rope system you've shown before",
+    "likes": 3,
+    "published_at": "2021-06-18T17:06:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz316iP1tconuthoyN4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "Find yourself an air conditioning company and they will have many bldc motors that are 380volts dc . Just a hand crank produces 24 volts easily. They are amazing !",
+    "likes": 0,
+    "published_at": "2021-06-18T16:43:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwubBKfPrsvu90AiKt4AaABAg",
+    "author": "@eastky1901",
+    "author_channel_id": "UC5vRyTuu3wRBmZQ8qlGzFHw",
+    "text": "You really help me realize and understand things",
+    "likes": 1,
+    "published_at": "2021-06-18T16:37:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy5oG878Oqe8R9uD0p4AaABAg",
+    "author": "@Spidey5ense",
+    "author_channel_id": "UCSaNg2wjglSpuos3G5vWCmQ",
+    "text": "Loving your videos Robert, learning plenty and hope to experiment myself once I have learned enough.",
+    "likes": 2,
+    "published_at": "2021-06-18T16:33:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy5oG878Oqe8R9uD0p4AaABAg.9OjgCRv2DfW9OjxorppWMe",
+        "author": "@carmichaelmoritz8662",
+        "author_channel_id": "UCLaTn2YhLyvF1jT_wr6THCw",
+        "text": "the best learning comes from trial and error",
+        "likes": 4,
+        "published_at": "2021-06-18T19:07:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7A3nwt9vyQcGPmXt4AaABAg",
+    "author": "@kilokilos",
+    "author_channel_id": "UClSxgY1l2awYiIgxPw5Mc1Q",
+    "text": "It is what it is, or is it. The laws of thermodynamics is bound to a closed system this kind of thinking discharges the advantage of gravity. What if the input and the output relies on a leaver where they are not directly connected, the laws apply?",
+    "likes": 1,
+    "published_at": "2021-06-18T16:20:16Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugx7A3nwt9vyQcGPmXt4AaABAg.9OjedSjrhbi9OjfhoXgy8n",
+        "author": "@MS-bh7ok",
+        "author_channel_id": "UC_O_szs0CED-JzbvTwtjfaQ",
+        "text": "yes.",
+        "likes": 3,
+        "published_at": "2021-06-18T16:29:36Z"
+      },
+      {
+        "id": "Ugx7A3nwt9vyQcGPmXt4AaABAg.9OjedSjrhbi9Ojh7dIDjR7",
+        "author": "@kilokilos",
+        "author_channel_id": "UClSxgY1l2awYiIgxPw5Mc1Q",
+        "text": "@MS-bh7ok how?",
+        "likes": 1,
+        "published_at": "2021-06-18T16:42:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzDMjMbg4pHxVnpLol4AaABAg",
+    "author": "@TheKenWiley",
+    "author_channel_id": "UCe9tq4IjB6wC47xdbPjnOSA",
+    "text": "I noticed at the end of the video you're holding the large gear wheel next to the rose fan.  If you used the large gear wheel as the base for the rose fan you'd eliminate 1 piece and (with a decent material) stabilize and strengthen the rose fan... maybe?",
+    "likes": 9,
+    "published_at": "2021-06-18T16:09:07Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgzDMjMbg4pHxVnpLol4AaABAg.9OjdMnle4UT9OjxgUeQOAu",
+        "author": "@carmichaelmoritz8662",
+        "author_channel_id": "UCLaTn2YhLyvF1jT_wr6THCw",
+        "text": "the only way is using an enclosed gear box that way you get the longest life span.",
+        "likes": 2,
+        "published_at": "2021-06-18T19:06:42Z"
+      },
+      {
+        "id": "UgzDMjMbg4pHxVnpLol4AaABAg.9OjdMnle4UT9Ojyl28JG9e",
+        "author": "@TheKenWiley",
+        "author_channel_id": "UCe9tq4IjB6wC47xdbPjnOSA",
+        "text": "@carmichaelmoritz8662 An enclosed gear box would eliminate using the gear as the base of the fan.  Exposed gears have been used in rural and industrial applications for decades. How long is the fan going to be viable?  Enclose the generator at the small gear.",
+        "likes": 0,
+        "published_at": "2021-06-18T19:16:03Z"
+      },
+      {
+        "id": "UgzDMjMbg4pHxVnpLol4AaABAg.9OjdMnle4UT9Ok-Nf5y0fT",
+        "author": "@carmichaelmoritz8662",
+        "author_channel_id": "UCLaTn2YhLyvF1jT_wr6THCw",
+        "text": "@TheKenWiley exposed gears wear out way quicker.   the fan would be viable for many many lifetimes. and using a belt drive would use up resources due to the tension.",
+        "likes": 2,
+        "published_at": "2021-06-18T19:30:12Z"
+      },
+      {
+        "id": "UgzDMjMbg4pHxVnpLol4AaABAg.9OjdMnle4UT9Ok53xMBvIU",
+        "author": "@TheKenWiley",
+        "author_channel_id": "UCe9tq4IjB6wC47xdbPjnOSA",
+        "text": "@carmichaelmoritz8662 I'll tell my 80 year old \"politician carriage\" that it should be worn out now.  Yes, I've repaired and replaced parts, but it's still running, long after many enclosed mechanical pieces of equipment, and hundreds of commercial \"ecological\" wind turbines containing millions of dollars of enclosed everything.  I'm looking at KISS engineering.   If it works I'll consider putting a cover and an oiler on the gear.",
+        "likes": 0,
+        "published_at": "2021-06-18T20:19:57Z"
+      },
+      {
+        "id": "UgzDMjMbg4pHxVnpLol4AaABAg.9OjdMnle4UT9Ok5ctmOSyc",
+        "author": "@TheKenWiley",
+        "author_channel_id": "UCe9tq4IjB6wC47xdbPjnOSA",
+        "text": "@carmichaelmoritz8662 I would never use belt drive.  Too fussy, to much maintenance!  Besides, living more than 1 lifetime at a time burns up lifetimes too fast.  Advancing technology will kill the generator long before it wears out.",
+        "likes": 0,
+        "published_at": "2021-06-18T20:24:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzSYU-K-tRC6xCZLDB4AaABAg",
+    "author": "@TheKenWiley",
+    "author_channel_id": "UCe9tq4IjB6wC47xdbPjnOSA",
+    "text": "You have to remember to have the cat hold his arms out for the maximum flywheel effect.",
+    "likes": 1,
+    "published_at": "2021-06-18T16:06:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzSYU-K-tRC6xCZLDB4AaABAg.9Ojd-xJVhcv9OjddYq8veb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2021-06-18T16:11:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx1jZTqwnwn7xjytQV4AaABAg",
+    "author": "@huarwe8797",
+    "author_channel_id": "UCLCLQ_MJyEegJ0VPjn9Inig",
+    "text": "Does a planetary drive system similar to your hubless wheel design mounted to the rosebud backboard make any sense.",
+    "likes": 3,
+    "published_at": "2021-06-18T15:46:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1SGHLjJn9A7c3ooN4AaABAg",
+    "author": "@rogerwilson6367",
+    "author_channel_id": "UChzzHGD8p8cdyboeBMakOvg",
+    "text": "It's a bit wobbly 😊😊",
+    "likes": 0,
+    "published_at": "2021-06-18T15:43:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw1SGHLjJn9A7c3ooN4AaABAg.9OjaQfIdlRT9Ojguv1B530",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "that's what she said.",
+        "likes": 1,
+        "published_at": "2021-06-18T16:40:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyoPloU2IRtwBT69294AaABAg",
+    "author": "@cyril3935",
+    "author_channel_id": "UCkL8IkX9e0IwhOex_5lnAEA",
+    "text": "Hi from France !\nDear Robert,\n\nSome years ago, I have dismantled a speed box used in Peugeot's 306 1.4 petrol car. In the second shaft you have a very interesting component, supplied with precision ground bearings.\nAnd some speed boxes are using synchronizers made of steel. Only a little punch, with a linear actuator or via the fork can clutch the rose to the desired generator.\n\nThis system stays in a oil bath. But regarding your excellent ways to coat iron-based metals, maybe you have an interesting path here.\n\nIt will surely demands a consequent lathe, bigger than the one you are currently using in order to simplify the second shaft. The contamination of gears with the abrasive wheel's debris should be avoided with proper protections. Most of the bearings are set with liquid nitrogen, no hydraulic press can be useful here.\n\nAnd some generators used electric scooters car provide up to 750 watts, because they are using 3-phase coils. The only issue is the Park's transformation, via the 3 embedded sensors which are helping the synchronize the phase's signals regarding the position of the shaft.\n\nBest regards, keep up this interesting path !",
+    "likes": 1,
+    "published_at": "2021-06-18T15:40:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx2mv56lYlTCULLPOx4AaABAg",
+    "author": "@JohnTarbox",
+    "author_channel_id": "UCdTkYCjJNiuqZrvytKSdm4A",
+    "text": "Yes, a tea towel will flap in the wind, but will it turn a cat on a spit? ;-)",
+    "likes": 5,
+    "published_at": "2021-06-18T15:35:19Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugx2mv56lYlTCULLPOx4AaABAg.9Oj_VChiT4r9Ojd9zR5Cxh",
+        "author": "@styofwye",
+        "author_channel_id": "UCcAUiBOmV0WoKMETv18pIlQ",
+        "text": "I'm not coming for dinner ☺️",
+        "likes": 0,
+        "published_at": "2021-06-18T16:07:22Z"
+      },
+      {
+        "id": "Ugx2mv56lYlTCULLPOx4AaABAg.9Oj_VChiT4r9OjdcfPQaL6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - only if you really try lol",
+        "likes": 0,
+        "published_at": "2021-06-18T16:11:25Z"
+      },
+      {
+        "id": "Ugx2mv56lYlTCULLPOx4AaABAg.9Oj_VChiT4r9Ojgd3mLeqk",
+        "author": "@consaka1",
+        "author_channel_id": "UCSngwsvIzEdhbwSZeA5Nncw",
+        "text": "I could make one do it.",
+        "likes": 0,
+        "published_at": "2021-06-18T16:37:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw2XF2tLwI6ZUI6goF4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "If you mount that large cog directly onto the backplate of the rose bud, you could arrange at least 10 small low torque motors wired in parallel. Or pairs in series then wired in parallel.",
+    "likes": 1,
+    "published_at": "2021-06-18T15:31:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw2XF2tLwI6ZUI6goF4AaABAg.9Oj_2_OvcZ69Oj_N7pPPQQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate",
+        "likes": 1,
+        "published_at": "2021-06-18T15:34:12Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6YcMla7gDzCIZOCl4AaABAg",
+    "author": "@Homesteading101",
+    "author_channel_id": "UCSkeH7fbFPlaRY8zmnHolnA",
+    "text": "Hi Robert,  I watch your videos with interest and being a mechanic I know that Air and fluid behave quite a lot alike.\nDo you know how an automatic transmission torque converter works?  It multiplies torque by harnessing the incoming fluid force.  They are somewhat inefficient, but may have a benefit of the torque multiplication in very low speed wind. It would be interesting to explore.",
+    "likes": 1,
+    "published_at": "2021-06-18T15:29:40Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugz6YcMla7gDzCIZOCl4AaABAg.9OjZquoHGO59OjZzszNgEw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I do know about torque convertors mate - but I was thinking this was an easy intro to gearing for folks who don't",
+        "likes": 2,
+        "published_at": "2021-06-18T15:30:54Z"
+      },
+      {
+        "id": "Ugz6YcMla7gDzCIZOCl4AaABAg.9OjZquoHGO59OjcR9g18KI",
+        "author": "@Homesteading101",
+        "author_channel_id": "UCSkeH7fbFPlaRY8zmnHolnA",
+        "text": "@ThinkingandTinkering  All good, It wasn't to infer that you were missing something, more that you spurred an idea in my head. :)",
+        "likes": 1,
+        "published_at": "2021-06-18T16:00:58Z"
+      },
+      {
+        "id": "Ugz6YcMla7gDzCIZOCl4AaABAg.9OjZquoHGO59OjdaMEFETf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@Homesteading101 lol - oops - sorry lol",
+        "likes": 2,
+        "published_at": "2021-06-18T16:11:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxb_5bM7w0e0jgmfJR4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "Should introduce the Kv motor  constant, RPMs per Volt, so that people can work out what RPM they need to get and how to gear for it.",
+    "likes": 1,
+    "published_at": "2021-06-18T15:29:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxb_5bM7w0e0jgmfJR4AaABAg.9OjZpoze0lU9Oj_H_pdJyS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "to be honest mate - I don't think too much info should be contained in one vid - kind of an overload - we can always deal with rpm calcs later",
+        "likes": 1,
+        "published_at": "2021-06-18T15:33:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxJwhQp-eJmU2ki9PJ4AaABAg",
+    "author": "@SimonPlatten",
+    "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+    "text": "Small suggest, how about a 3D rose so it captures the wind from any angle ?",
+    "likes": 4,
+    "published_at": "2021-06-18T15:29:28Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxJwhQp-eJmU2ki9PJ4AaABAg.9OjZpNCXAJe9Oj_JV_Vqcl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I'll have a think about it mate - cheers",
+        "likes": 2,
+        "published_at": "2021-06-18T15:33:43Z"
+      },
+      {
+        "id": "UgxJwhQp-eJmU2ki9PJ4AaABAg.9OjZpNCXAJe9OnqbfCe3Yx",
+        "author": "@SimonPlatten",
+        "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+        "text": "I could create a model of a",
+        "likes": 1,
+        "published_at": "2021-06-20T07:21:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqmFHoqoQiJd80mKF4AaABAg",
+    "author": "@SimonPlatten",
+    "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+    "text": "Excellent job Robert",
+    "likes": 1,
+    "published_at": "2021-06-18T15:27:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyqmFHoqoQiJd80mKF4AaABAg.9OjZ_h6Cn069OjZdZyf0sY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I was thinking of you specifically mate - I hope it helps",
+        "likes": 1,
+        "published_at": "2021-06-18T15:27:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwuVOBMgxzbayyzBNB4AaABAg",
+    "author": "@MrShakaib98",
+    "author_channel_id": "UCxoelmQf-HZ8gIKGqT4BCuw",
+    "text": "Hi Bob, I really think you need a break, you look so tired, please book yourself and Mrs some holidays. Good luck",
+    "likes": 5,
+    "published_at": "2021-06-18T15:26:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwuVOBMgxzbayyzBNB4AaABAg.9OjZXFasm-E9OjZaDndybQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "today has been a long day mate",
+        "likes": 5,
+        "published_at": "2021-06-18T15:27:23Z"
+      },
+      {
+        "id": "UgwuVOBMgxzbayyzBNB4AaABAg.9OjZXFasm-E9OjZl1TkCNn",
+        "author": "@tonyaltobello6885",
+        "author_channel_id": "UCSBBnfDtkuBJrwovgDVqsTQ",
+        "text": "@ThinkingandTinkering I'm working on a a greenhouse that will be wind powered. Your a big help!",
+        "likes": 2,
+        "published_at": "2021-06-18T15:28:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaFhjY86WFKIYeG_94AaABAg",
+    "author": "@iEnergySupply",
+    "author_channel_id": "UCdX_Ug0MgcXqTpevz_gGk9w",
+    "text": "I have a perfect generator for you! If you like I can build one and send it to you for testing. I guarantee it will be more efficient then anything here, it will blow your mind. It's extremely easy to build, and all you need is one magnet.",
+    "likes": 3,
+    "published_at": "2021-06-18T15:18:00Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgwaFhjY86WFKIYeG_94AaABAg.9OjYWUs-kqZ9OjYk7Ecy5V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sure mate if you want",
+        "likes": 3,
+        "published_at": "2021-06-18T15:20:00Z"
+      },
+      {
+        "id": "UgwaFhjY86WFKIYeG_94AaABAg.9OjYWUs-kqZ9Oj_i58UsoJ",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "Do you plan on sharing the design? Would love to see it if it is as efficient as your suggesting. Do you have your own channel?",
+        "likes": 3,
+        "published_at": "2021-06-18T15:37:12Z"
+      },
+      {
+        "id": "UgwaFhjY86WFKIYeG_94AaABAg.9OjYWUs-kqZ9Ok7nlngGvC",
+        "author": "@rolliebca",
+        "author_channel_id": "UC3Sz_Li7kTN9-MtzQrh8bZA",
+        "text": "@stevetobias4890 Just right click on his name and select open in new tab, and you're there.",
+        "likes": 3,
+        "published_at": "2021-06-18T20:43:49Z"
+      },
+      {
+        "id": "UgwaFhjY86WFKIYeG_94AaABAg.9OjYWUs-kqZ9OkOD3ZJeQ8",
+        "author": "@aliphian",
+        "author_channel_id": "UCrfEgqafbCoE3ys1_AdMx9Q",
+        "text": "Crossover episode would be awesome.",
+        "likes": 2,
+        "published_at": "2021-06-18T23:07:13Z"
+      },
+      {
+        "id": "UgwaFhjY86WFKIYeG_94AaABAg.9OjYWUs-kqZ9Ol9O3mnT-u",
+        "author": "@iEnergySupply",
+        "author_channel_id": "UCdX_Ug0MgcXqTpevz_gGk9w",
+        "text": "@stevetobias4890 yeah I have my own channel, I use it on my turbines. It's based on joseph newmans motor, but used as generator.",
+        "likes": 2,
+        "published_at": "2021-06-19T06:16:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzSUItXyyPgioyl0314AaABAg",
+    "author": "@tonyaltobello6885",
+    "author_channel_id": "UCSBBnfDtkuBJrwovgDVqsTQ",
+    "text": "Hello there",
+    "likes": 1,
+    "published_at": "2021-06-18T15:17:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzSUItXyyPgioyl0314AaABAg.9OjYSsA8l-e9OjYiFQcSmW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hiya to you too mate",
+        "likes": 2,
+        "published_at": "2021-06-18T15:19:45Z"
+      }
+    ]
+  }
+]

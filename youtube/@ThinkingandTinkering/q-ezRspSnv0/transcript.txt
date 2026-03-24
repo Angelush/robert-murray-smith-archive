@@ -1,0 +1,217 @@
+[00:09] [Music]
+[00:12] So, a little while ago, um the last
+[00:14] video I did, I showed you how we uh
+[00:17] sometimes need stuff that we can't buy
+[00:19] off the shelf and we have to use tools
+[00:22] to uh to make it.
+[00:25] There are some things that we work on
+[00:27] where even hand tools aren't good enough
+[00:29] and we do need um a bit of help if you
+[00:32] like. So what we did was buy a 3D
+[00:37] printer. Um this was recommended to us
+[00:39] by a friend of Ashley's. Uh it's a
+[00:42] printbot metal simple uh metal simple.
+[00:46] Um it comes either constructed
+[00:48] pre-constructed like this one or you can
+[00:50] get the parts and put it together
+[00:51] yourself. Um I happen to be working on
+[00:55] um a nanobber at the moment to um put
+[00:59] oxygen into water and some of the angles
+[01:03] and sizes I work on to produce that head
+[01:06] is way beyond the capabilities of just
+[01:09] hand tools. So hopefully I'll be able to
+[01:11] create my head with this. And I'll just
+[01:14] show you how I how I set it
+[01:19] up. So, I know there's a lot of 3D
+[01:22] printers that follow our uh YouTube
+[01:24] channel. Um, I'm quite new to it to be
+[01:27] honest. So, with most of the machines,
+[01:31] they do do a PDF you can download with
+[01:34] setting up instructions. Saves you
+[01:36] dashing between your computer screen and
+[01:38] the machine. Um, and the first thing we
+[01:41] need to do when the machine is off, the
+[01:43] X and Y axis you can move manually. And
+[01:46] the first thing I need to do is cover
+[01:47] the plate, cover the bed with some
+[01:50] painters tape. This is actually frog
+[01:53] tape, but it's it's probably under all
+[01:55] sorts of different
+[01:56] uh names. So, I'll go ahead and do that.
+[02:13] This gives it a nice clean bed to print
+[02:15] on. And also, if you try to print
+[02:18] directly onto this metal plate, it's
+[02:21] probably going to stick there forever.
+[02:22] So, it's got a nice surface, so you can
+[02:24] take your print off afterwards.
+[02:29] If you're not too careful when you're
+[02:31] getting overlaps, they will come out,
+[02:33] but only on the underside of your
+[02:35] printer or of the
+[02:37] um whatever you're printing, I should
+[02:39] say.
+[03:02] You want to tuck them down. Make sure
+[03:04] they're out of the
+[03:16] way.
+[03:17] Okay. So, that's my print bed ready to
+[03:20] go. Now, on to the next stage.
+[03:27] So, I know there's a lot of different
+[03:28] tapes out there. Some people use
+[03:30] different uh different types of tape.
+[03:32] Some people use katon. Whatever your
+[03:34] preference is really, but I've just gone
+[03:36] with this uh painters tape. And our
+[03:38] setup is we've got the 3D printer here.
+[03:41] We've got a a small cube computer that's
+[03:43] running it. It's not connected to the
+[03:45] internet. We wanted to keep that away
+[03:48] from the internet. And I'm using the
+[03:50] program that they suggest we use to
+[03:53] actually do the printing from. And it's
+[03:55] called Cura. This this version is Cura
+[04:01] 15.04. Okay. So, the printer is now
+[04:04] plugged in. The only way you'll know
+[04:06] it's plugged in actually on this one is
+[04:09] that there's a uh there's a blue light
+[04:11] on the power pack itself. If that's
+[04:13] shining, you know it's plugged in. Got a
+[04:15] USB cable leading into the computer. The
+[04:18] only other cable that goes in is this
+[04:20] power cable. And what I've done just to
+[04:23] um set it up initially is I've got a a
+[04:26] small it's a camera quick release
+[04:28] actually, but it's got two spirit levels
+[04:30] there. And I've just made sure that my
+[04:32] desk or board is keeping that plate
+[04:35] roughly level. It does do its own uh
+[04:38] leveling at a later time. Um now all we
+[04:41] need to do is put in
+[04:45] the filament. Now, they suggest that you
+[04:48] sort of bend it out a little bit that
+[04:50] way. Um, so when it goes through the
+[04:52] hole in the top here, you know it's
+[04:54] going to go in vertically. So, we find
+[04:57] the hole at the top. We compress this
+[04:59] little switch here that opens up the
+[05:02] gears that hold the actual
+[05:07] filament. and we feed it into the hole
+[05:10] through the gears or the pulley and then
+[05:13] into the uh heat head hole if you like.
+[05:17] Push it right
+[05:19] down. And that's that part
+[05:25] done. So now back to the Cura program.
+[05:28] And in this program, they got a couple
+[05:29] of little um things you can play with.
+[05:31] This is a robot. It's already uh coded
+[05:34] into the uh the software. So, I'm going
+[05:37] to print that off. So, we'll just hit
+[05:42] print. And then you're faced with this
+[05:45] uh panel here. And this is where we're
+[05:48] going to do our the X and Y axis, the
+[05:51] vertical and horizontal is more or less
+[05:53] okay, but you do have to watch the Z
+[05:55] XIS. And you need to set that up
+[05:57] correctly.
+[05:59] Um, if you don't if you don't do it
+[06:01] correctly, the head can go straight into
+[06:04] the plate and make a nasty mess. So,
+[06:08] it's just got to be just enough off the
+[06:10] top of the plate to do a good print. Um,
+[06:13] we're going to set the temperature
+[06:14] firstly, they suggest at 210, that's
+[06:17] degrees Celsius. Then, we tab out of
+[06:20] that and then we go into this command
+[06:23] box here. And we need to enter the
+[06:25] following code. I don't know if this is
+[06:28] the same for every printer, but on this
+[06:30] one they're saying that. So, it's M 212
+[06:35] Z negative 02. Now, when I first did
+[06:40] this, I put negative two and it
+[06:43] scratched my face. So, make sure you
+[06:46] follow their instructions exactly. I'm
+[06:48] an idiot. You won't be. Uh, so the Z
+[06:50] axis now is 0.2 mm or it should be off
+[06:54] the bed.
+[06:56] We need to enter that into the code. And
+[06:58] then we need to enter a couple of codes.
+[07:00] 1
+[07:02] M500
+[07:05] return. And that saves a new value. And
+[07:08] then we put M
+[07:11] 5001 return. And then we come up and we
+[07:15] can see
+[07:16] here see the Z total
+[07:20] there. That should be actually 0.2.
+[07:24] Now, I think I've just put 0.2 in. So, I
+[07:27] don't know if that's a a problem with
+[07:28] the software or it's me not doing it
+[07:31] correctly again. So, I'll enter it all
+[07:33] again. So, it's
+[07:34] m
+[07:35] 212 space
+[07:43] z
+[07:47] 2. I think it's probably me actually.
+[07:50] and then enter the other two codes which
+[07:51] is
+[07:55] return
+[07:57] M501
+[07:59] return and it's still coming up at
+[08:05] 02. So in act in fact uh looking back at
+[08:08] the uh PDF I printed off it does
+[08:11] actually say the setting should now read
+[08:15] X25 Y 0.2
+[08:20] two. So what I did on my
+[08:24] screen is actually now correct. So at
+[08:28] the bottom we've got M212 X 25 Y
+[08:33] 0.2. So we're ready to
+[08:41] print. Okay. So all the coordinates are
+[08:43] in coordinates are in now. So what we'll
+[08:46] do we just press print. There's usually
+[08:49] a little while before it sends the
+[08:53] signal over to the
+[08:54] printer and then it should start up a
+[08:57] little setup routine.
+[09:14] So at the moment the print head is
+[09:16] finding
+[09:18] the the
+[09:19] Yaxis or the
+[09:23] X-axis when it comes along to the Y
+[09:36] axis. And finally, I go over to the
+[09:48] middle. I start to
+[09:59] print. Now, sometimes you have to muck
+[10:02] about with that Z access, that vertical
+[10:04] access to get it right. If it's too
+[10:07] close to the board, you get what's
+[10:09] happening here, and it starts balling up
+[10:11] the uh the plastic, the PLA. If it's too
+[10:14] far
+[10:17] away, then you get a totally different
+[10:20] problem, which is um quite a bad
+[10:22] definition on the print. But I'll let
+[10:25] this run and see how it goes and show
+[10:27] you the finished article. That's
+[10:29] basically how you set up a printer.
+[10:39] So there we are. That's the first print
+[10:41] done. Let's see how easy that comes off.
+[10:43] The bag now would
+[10:56] be tight. It didn't come off.
+[11:00] Was that you didn't complete the first
+[11:02] print? And there we
+[11:04] are. So that's the first print from the
+[11:06] printer. Still needs a bit of adjusting.
+[11:08] There's still a bit of um overlapping
+[11:11] and smooshing as they call it, but I
+[11:13] think that's not bad for first
+[11:23] game. So there we go. I'm certainly no
+[11:25] expert 3D printer. I'm sure a lot of you
+[11:27] out there are. Um but that's the
+[11:30] finished article. It was quite an easy
+[11:33] setup actually. Providing you stick to
+[11:35] the the right coordinates and you don't
+[11:37] punch in stupid number like I did, then
+[11:40] it should be aok. Okay, so now the next
+[11:43] stage is I'm going to design my
+[11:46] nanobubbler head and see if I can print
+[11:48] it on the 3D printer and that'll save an
+[11:51] awful lot of trouble.
+[11:53] Thanks for watching.

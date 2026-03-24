@@ -1,0 +1,194 @@
+[00:00] [Music]
+[00:08] So, I'm quite proud of the fact that I'm
+[00:10] not a professional. A professional
+[00:13] basically gets paid to do what they do.
+[00:15] Me, I'm a died in the wool amateur. An
+[00:18] amateur comes from the French to love. I
+[00:20] do it because I love it, not because I'm
+[00:22] paid to do it. If you love something and
+[00:25] are paid to do something, well, that's a
+[00:27] bonus. If you just do it because you're
+[00:29] paid, chances are you're head doing it.
+[00:32] But I love doing engineering and
+[00:35] struggling with engineering problems
+[00:38] because it's the journey that matters. I
+[00:41] mean, it's like going out on a date. You
+[00:43] don't go out on a date to rush your
+[00:45] partner to the bedroom and get it over
+[00:47] with because that's the point of a date.
+[00:50] Why waste time? You go on a date to get
+[00:52] to know somebody, to take the journey
+[00:54] with them, to really develop a
+[00:57] relationship. And it's the journey that
+[00:59] matters. Now, at the moment, of course,
+[01:02] we're working on this thing. And what
+[01:04] this thing needs to do is take this
+[01:06] point and place it anywhere in space on
+[01:09] that plane. And we're pretty much there.
+[01:11] Actually, if I twiddle this little
+[01:12] handle at the back, then that will
+[01:15] rotate. Placing that point along a line.
+[01:18] If I rotate this compact cylinder here,
+[01:22] then that will rotate along another
+[01:24] line. And so we can cover every point of
+[01:26] space on this plane. And to do that, we
+[01:29] use these things, gears. Gears are
+[01:32] awesome. I mean, they're stable. They're
+[01:34] well known. They've been around for
+[01:36] hundreds of years. They do the job. And
+[01:38] if I was a professional, this is
+[01:40] probably where I would stop. Actually,
+[01:42] if I was a professional, I probably
+[01:44] never would have started because we've
+[01:45] already got tooth belts and nemas. Why
+[01:48] bother? But exploring this as an idea as
+[01:52] an amateur means I also want to explore
+[01:55] some other things beyond just gears
+[01:59] because of course gears have their own
+[02:02] problems. I mean backlash and expense
+[02:04] being a couple of them. And what I
+[02:06] thought might be interesting is to
+[02:08] explore a friction drive. Now friction
+[02:11] is any drive system where you're using
+[02:14] the static friction to transfer torque
+[02:17] and normally you have two surfaces in
+[02:19] contact where one is hard and the other
+[02:22] has a bit of flexibility. There's a high
+[02:24] degree of coefficient there's a force
+[02:26] applied at normal to the actual surfaces
+[02:30] and torque transfer will occur. Or put
+[02:35] it another way, if I have a bicycle,
+[02:37] what I've got is a flat plane, which is
+[02:39] the road, and that's got a high
+[02:40] coefficient of friction, so it's nice
+[02:42] and grippy. We've got a rolling cylinder
+[02:44] here, and it's made of of rubber, and
+[02:46] it's got another nice high coefficient
+[02:49] of friction. And of course, this can
+[02:51] roll on the road. All we're missing here
+[02:53] is the force component. So, if I sit on
+[02:56] it, what I'll do is basically weigh down
+[02:58] that way. And so we have a force acting
+[03:00] here which is normal to the road that is
+[03:02] at 90° to the road. Then we have all of
+[03:05] the criteria for a friction drive. And
+[03:07] that's exactly what this is. It's a
+[03:09] friction drive. And of course this is
+[03:12] absolutely all over the place. This kind
+[03:14] of arrangement is in buses, cars,
+[03:16] trucks, locomotives, bicycles,
+[03:18] wheelchairs, everywhere you see this
+[03:22] being put into practical operation. So
+[03:25] friction drives are just very common.
+[03:29] >> So friction drives, they're simple to
+[03:31] make, they're adjustable, they're quiet
+[03:33] in operation, and of course they're cost
+[03:35] effective. Now set against that is they
+[03:38] are subject to more wear and tear, and
+[03:41] they have limited torque transfer
+[03:43] capabilities. But when deciding on using
+[03:46] something, it's always a balance of pros
+[03:48] and cons set against the application you
+[03:51] want to make because everything has pros
+[03:54] and cons and it's really just about the
+[03:56] suitability of the application you're
+[03:59] making, whether it'll fit or not. Now,
+[04:02] to be honest, I've got no real idea, but
+[04:05] I fancy trying it to see if we can get
+[04:07] it to do what we can do because we know
+[04:10] that friction drives have the ability,
+[04:12] and this is important in something like
+[04:14] 3D printing to go down to the nanometer
+[04:17] scale when it comes to accuracy. So,
+[04:20] that's a big draw for me. Question is,
+[04:22] will it actually work? And of course,
+[04:24] being a hands-on kind of guy, when it
+[04:26] comes to learning things, what I want to
+[04:28] do next is make a friction drive that
+[04:32] approximates what it is that I'm going
+[04:34] to be looking for when we're looking to
+[04:37] stick it in here. And this is the design
+[04:39] I came up with as a test friction drive
+[04:42] to have a look at some ideas I think
+[04:45] might be helpful when it comes to making
+[04:47] a friction drive. Now, this big wheel
+[04:50] here, it's got a a kind of rim on it
+[04:52] that has a conical cross-section, and
+[04:54] it, of course, presses into the bobbin.
+[04:56] Being conical means that it's going to
+[04:58] self center. And as we push that in, of
+[05:00] course, it's going to get a nice size of
+[05:03] area that it can actually rub on. PLA
+[05:06] doesn't have the highest friction
+[05:08] coefficient, but it should be fine for
+[05:09] what we want it for. Of course,
+[05:12] depending on which one we drive, and it
+[05:13] won't matter which one we drive. It's
+[05:15] both a step up and a step down drive.
+[05:18] Uh, this, remember, needs that force
+[05:21] normal. So, here's where the friction
+[05:23] needs to be applied. The normal force
+[05:25] needs to go in that direction there at
+[05:27] 90°. And what we're going to do is use a
+[05:30] couple of springs on there to press this
+[05:33] down, take up the wear, and apply a
+[05:35] normal force. Okay, let's put that
+[05:38] together. Right, here are the bits. And
+[05:41] I think it's pretty straightforward.
+[05:43] Now, that bit's going to be the top.
+[05:45] That bit is going to take the cone and
+[05:47] that feeds in there. And then on these
+[05:49] indentations, we have four of those
+[05:52] sides. And the sides glue onto the
+[05:54] indentation with this bobbin having an
+[05:58] axle pushed through it. With that glued
+[06:01] together like that, we glue the axle in
+[06:03] that piece. And then we have these two
+[06:05] bits. And they just go onto the axle
+[06:07] like that. And that. And you'll see
+[06:09] there's two indentations. We want to
+[06:11] make sure that they're facing upward as
+[06:13] we slide it into here.
+[06:19] There we go. Like that. And that will
+[06:22] drop into place. Now the top goes on.
+[06:25] The top goes on in that direction there.
+[06:28] And before we shove the top down,
+[06:30] there's a gap here. And that spring goes
+[06:33] into the gap right there. And once
+[06:36] that's together like that, we turn that
+[06:38] handle. And of course, this will turn.
+[06:40] There we go. We have ourselves a
+[06:43] friction drive. Now, it's pretty simple
+[06:44] and straightforward, but it embodies all
+[06:47] of the principles, or at least I think
+[06:48] it embodies all of the principles
+[06:50] necessary for a successful friction
+[06:52] drive. And the one that everybody
+[06:54] forgets is the spring. The force that is
+[06:57] normal to where the friction is applied
+[07:00] is super important. And of course, the
+[07:02] spring is what does that. And we don't
+[07:04] think about it much because when you're
+[07:06] sitting on a bike, your weight is
+[07:08] supplying that force and it doesn't seem
+[07:11] to be part of the system. If you're not
+[07:13] sitting on the bike, well, you're not
+[07:15] supplying that force. And we make a
+[07:18] structure like this, we need to supply
+[07:20] that force. So that spring is super
+[07:21] important. And actually, that spring is
+[07:24] the bit that limits the torque. If this
+[07:27] turning force is greater than the spring
+[07:29] force, then it'll just stop turning. The
+[07:32] spring determines what the torque is and
+[07:35] it's essential and usually forgotten.
+[07:37] But there you go. Very simple friction
+[07:39] drive for those basic principles and we
+[07:42] can take that and do something else with
+[07:44] it to make it more usable. All we're
+[07:47] doing here really is looking at the
+[07:49] basic principles. Anyway, I will put
+[07:51] that on thing should anybody be
+[07:54] interested in it. Thank you very much
+[07:56] for watching and please do remember to
+[07:58] like and subscribe.

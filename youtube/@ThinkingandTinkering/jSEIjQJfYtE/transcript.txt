@@ -1,0 +1,144 @@
+[00:00] foreign
+[00:07] harvesting is about getting energy from
+[00:10] the ambient converting it into
+[00:11] electricity and using it to power
+[00:13] something and it's been around for years
+[00:15] I mean we talked about the partisan lamp
+[00:17] which is a 1950s thing they had an oil
+[00:20] lamp you stuck this thing on your oil
+[00:21] lamp the lamp lit your room and the heat
+[00:23] from it ran that partisan battery so you
+[00:26] could do something like play a radio and
+[00:28] the radio is quite a heavy consumer of
+[00:31] power in back in those days but it
+[00:33] really hasn't gone very far it hasn't
+[00:36] gone very far because it's low grade
+[00:38] power it's not a lot of it most things
+[00:40] that were being used need a lot of power
+[00:43] that's changed it's changed dramatically
+[00:45] particularly in consumer electronics
+[00:47] where the power demands of the devices
+[00:49] are tiny I mean now you can get a watch
+[00:52] where you got a little coil little
+[00:54] magnet give it a shake it judges your
+[00:56] watch and of course with gross like of
+[00:59] things like the internet of things and
+[01:01] Commercial sensors all sorts of stuff
+[01:03] require battery power where it's really
+[01:06] stupidly inconvenient to have a tiny
+[01:08] battery the thing about it is smoke
+[01:10] dehydrator for instance where you can't
+[01:12] go around the factory whether you've got
+[01:14] four or five hundred of these you need
+[01:16] every 10 years to change that battery so
+[01:18] it's got to a stage where power
+[01:21] consumption is low
+[01:22] the inconvenience of adding batteries
+[01:24] and a momentum ending them is high that
+[01:27] the idea of Scavenging energy to run
+[01:30] these low power Electronics has become
+[01:32] extremely popular and is an area of
+[01:35] great interest and of course with our
+[01:37] desire to reduce the amount of rubbish
+[01:39] that we make and reduce the amount of
+[01:41] power that we consume it's also
+[01:43] interesting for home use in lots of
+[01:46] different ways particularly with
+[01:48] personal electronics and wearable
+[01:50] Electronics uh sensors and smoke
+[01:52] detectors and all that kind of stuff
+[01:54] internet of things on your fridge
+[01:56] become really important but making an
+[01:59] energy scavenger that can run something
+[02:01] is surprisingly easy
+[02:04] all you really need is something you can
+[02:07] scavenge the energy from something to
+[02:09] convert it into electrical energy and
+[02:11] something to store it in for a bit until
+[02:13] it gets used now there's something you
+[02:16] can uh scavenge from is going to be
+[02:19] light heat vibration mostly what you use
+[02:24] to do that can be very very variable
+[02:26] what you use to convert it is almost
+[02:29] always a full wave rectifier which looks
+[02:32] like this
+[02:33] we put the inputs here we take the plus
+[02:35] and minus out and then we stick them in
+[02:37] a capacitor now the capacitor is sized
+[02:40] for the energy needs that you have given
+[02:42] what you're going to be producing at the
+[02:44] same time and that capacitor which has a
+[02:47] life cycle of something like a million
+[02:48] Cycles so that's 227 years
+[02:51] will be able to store that energy and
+[02:53] deliver it to the electronics you need
+[02:55] now to say it's stupidly simple to make
+[02:59] an energy scavenger I've got here is a
+[03:01] really simple setup actually we've got a
+[03:03] metal plate the metal plug is attached
+[03:06] to one of those circuits on the AC side
+[03:08] and then the other metal plate is
+[03:09] attached to the other side I've attached
+[03:12] one side of this metal blade let me just
+[03:14] I'll attach that so you can see there's
+[03:17] the metal plate then it's going to the
+[03:19] little circuit and here is going to this
+[03:21] drum now this drum is actually just an
+[03:23] earth it doesn't do anything at all it
+[03:26] just provides a sink of electrons and
+[03:29] it's a false now I've got that one there
+[03:30] and we put a plastic sheet over there
+[03:32] and not a metal plate on it there then
+[03:34] what we've actually got is a capacitor
+[03:36] that is Earth on one side if I connect
+[03:39] the other side of that capacitor
+[03:42] and I connect that to the other AC side
+[03:45] of our interesting little circuit then
+[03:47] we have here a capacitor now let me show
+[03:50] you what happens when I vary that
+[03:52] capacitance and I vary the capacitance
+[03:55] really just by either changing the area
+[03:57] of the plate of moving the distance
+[03:59] between the two will vary the capacitor
+[04:02] so if I take that and lift it up I have
+[04:04] in fact created a variable capacitor
+[04:06] what
+[04:15] I don't know you're noticing it
+[04:17] particularly but the rate at which this
+[04:19] increases goes up the rate is actually
+[04:22] proportional more or less as far as I
+[04:24] can gauge to the rate at which I'm
+[04:27] moving back
+[04:29] is I'm pumping electrons through the
+[04:32] circuit that are getting trapped in this
+[04:33] capacitor so variable capacitor is in
+[04:36] fact an electron now when we're
+[04:37] Scavenging energy electron pumps are
+[04:40] fascinating things and variable
+[04:41] capacitors can be made from all kinds of
+[04:44] things as long as you can with vary the
+[04:47] capacitance so if you have a rubber
+[04:49] balloon and you cut one side with a
+[04:53] conductive paint for example and the
+[04:55] other side with the same conductive
+[04:56] blend and change the shape of the Dome
+[04:59] just by blowing air into it you will in
+[05:01] fact have created a variable capacitor
+[05:04] and that can act as an electron pump as
+[05:06] long as it's attached to Earth it's
+[05:07] pumping the electrons out now I started
+[05:10] this little circuit on here actually and
+[05:12] it had nothing on it now we've got about
+[05:15] 0.9 of a volt so there won't be that
+[05:16] much energy on here but there's a some
+[05:19] capture of energy that is certainly so
+[05:21] there we go not only at any key
+[05:23] Harvesters easy to make they're fun and
+[05:26] they actually have a real life
+[05:27] application and if you fancy looking
+[05:30] into it there's a huge range of things
+[05:32] you can do so who knows you might even
+[05:34] invent the next Wonder product anyway I
+[05:37] hope you enjoyed the video thank you
+[05:39] very much for watching and please do
+[05:40] remember to like And subscribe

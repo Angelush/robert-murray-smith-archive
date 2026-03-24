@@ -1,0 +1,810 @@
+[
+  {
+    "id": "UgylaPk9AH37KCVmlgp4AaABAg",
+    "author": "@ffaubert1",
+    "author_channel_id": "UCLO21zdqnA9hr7FHr-nhAPQ",
+    "text": "I think a lot of folks look at a channel like electriBOOM and is scares the bejesus out of them. They don't realize that the guy sets this stuff up for effect. I have no doubt that he's had a shock or three and probably had a few things not go according to Hoyle but its more about showmanship.",
+    "likes": 0,
+    "published_at": "2023-12-17T05:43:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzYpPfJOZ0jaB_8iW94AaABAg",
+    "author": "@kevgermany",
+    "author_channel_id": "UCz_QxHjM7toEfF5sF6EhjHg",
+    "text": "Too many dumb people around that think they know better. Your advice is good and pertinent, but...",
+    "likes": 0,
+    "published_at": "2023-11-27T08:16:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUXKbwSNN9nVXtl4d4AaABAg",
+    "author": "@kensmith5694",
+    "author_channel_id": "UCAMNUB4d_oPVJytmtUH3nzw",
+    "text": "On the capacitor, leave it shorted for a long time.  There is a thing call dielectric soaking that happens on some of them.  Some electrons soak into the dielectric and don't come out when you briefly short it.  They will very slowly migrate out when there is no voltage on the capacitor and effectively charge it back up.  The voltage it goes up to will be a small fraction of the working voltage but with a working voltage of 1,000V, you can get 100V.",
+    "likes": 0,
+    "published_at": "2023-11-27T05:42:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgypFlUy0rKJurvswkV4AaABAg",
+    "author": "@davidgeiger",
+    "author_channel_id": "UCLjl-i4OaPSeAgsbB9LnSUw",
+    "text": "The only addendum is that if you only know one of the possible ways it could hurt you, telling someone just that info can give a false sense of security facilitating them running headlong into a bad situation. The safe bet is to say “this is what I know but I suggest you research it before you dive in.”",
+    "likes": 0,
+    "published_at": "2023-11-25T21:24:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyG-w28lTYDwxRpcl54AaABAg",
+    "author": "@fransmurati2370",
+    "author_channel_id": "UCKcS0rhNyDy1vj-98gUC3yw",
+    "text": "I agree with you!",
+    "likes": 0,
+    "published_at": "2023-11-25T10:10:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUYXZbJyQl90D5m2B4AaABAg",
+    "author": "@housemine9791",
+    "author_channel_id": "UCU8Uz-n40Vi6Jf-sdhmzNSg",
+    "text": "My dad was a tv repair technician. I learned at an early age above the dangers. He would explain the danger and how to mitigate it. Get on that ole soapbox all you want. I do with my son. Not just don't, but the why. Thank you",
+    "likes": 0,
+    "published_at": "2023-11-24T15:08:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwO8NIbzptuAR87cW14AaABAg",
+    "author": "@seabeepirate",
+    "author_channel_id": "UCbI4QMTjZczw5fhBB_L4RKw",
+    "text": "Useless comments drive me bananas, add something constructive to your comment or keep it to yourself. If you’re not going to explain what you mean then you’re wasting people’s time. You might as well  comment, “I want to feel superior by telling you that you’re wrong but I don’t know what I’m talking about well enough to explain why. You’ve been trolled.”",
+    "likes": 0,
+    "published_at": "2023-11-21T15:17:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxS2pUZGl3synW_Ral4AaABAg",
+    "author": "@VoidySA",
+    "author_channel_id": "UC321_3xcmUYEgJ8sM5FKOMQ",
+    "text": "It's like the warning labels on hairdryers - \"do not use in shower\", that will indicate that there are actually people out there that are stupid enough to do it, they try to curb natural selection with those labels.",
+    "likes": 0,
+    "published_at": "2023-11-21T07:58:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5fBsQfeqChb8svXV4AaABAg",
+    "author": "@gunsarrus7836",
+    "author_channel_id": "UCNjNn8XGwrf3KA_W_NriGSQ",
+    "text": "Cartridge not bullet, bullets come out of the gun when you fire it.",
+    "likes": 0,
+    "published_at": "2023-11-21T05:05:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx489Q47J34zHyfYbp4AaABAg",
+    "author": "@austinwebdev",
+    "author_channel_id": "UCELhunCMXIMkoPGBeaN_zvg",
+    "text": "Thank you for pointing this out. Thank you very much!",
+    "likes": 0,
+    "published_at": "2023-11-21T04:44:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPiB67RmOg-6qLQbt4AaABAg",
+    "author": "@audiowan",
+    "author_channel_id": "UCSfM8lmZAPcT2ahqQkMBuVQ",
+    "text": "As a teenager i worked in a TV shop, and in those days the picture tube (CRT) had high voltage stored in it. .It essentially was a huge efficient capacitor.  Were talking 40,000 volts sometimes.  A lot of the danger came from what the persons hand / body hit as they flung into metal T.V. frame or across the room !  Requiring E.R. viset and stitches...",
+    "likes": 0,
+    "published_at": "2023-11-21T02:36:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwzu1sX6ZnxgXizmb54AaABAg",
+    "author": "@SuperBartet",
+    "author_channel_id": "UCaKEbnKnmec8HvqRIEJ8J1w",
+    "text": "Great educational video. If only I had seen something like this about 30 years ago. I had a microwave that stopped working. Yes I was ignorant of the dangers inside. I took the cover off, got my multi test meter, and checked if the transformer was working. BANG my test meter vanished, it scarred the %^$£ out of me. I had no idea just how much voltage coming out of one of them is, how I did not get shocked I just don't know. I found my multi meter the other side of the room, and for some reason it never worked again.",
+    "likes": 0,
+    "published_at": "2023-11-20T22:39:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxgatOLS15Cfx6oj9x4AaABAg",
+    "author": "@ile84",
+    "author_channel_id": "UCUYihge_pM14WoGlPwe616Q",
+    "text": "It is almost like saying \"don't do chemistry it will kill you\", well yea if you don't know what you are doing mixing some chemicals together and suddenly suffocating of some gases. \"Cure for autism\" came to mind which was several years ago a \"thing\" in the internet. Don't drive a car since it will definitely kill you and others if you have passengers and drive off the bridge and so on. List goes on.",
+    "likes": 0,
+    "published_at": "2023-11-20T19:40:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxzUEXhwQaENZs3KBV4AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "lol  great video  I had to learn every thing the hard way  I am in the wanted to do every thing that I was told not to crowd also",
+    "likes": 0,
+    "published_at": "2023-11-20T19:06:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwc2Qkqq47atlLXWaB4AaABAg",
+    "author": "@Glowbetraveler",
+    "author_channel_id": "UCqizLDI2LP4HEg60kIQXm4Q",
+    "text": "Quantitative video indeed. Thanks man!😎",
+    "likes": 0,
+    "published_at": "2023-11-20T17:07:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy8pweiAVR50tuSI6J4AaABAg",
+    "author": "@PoorJohnn",
+    "author_channel_id": "UCcBo5LnTHsccEvM_2uvjnMA",
+    "text": "I have wanted to make a fractal burner for years but held back because I heard all the naysayers. Looking forward to your build and demonstration of it.  I love some of the designs I have seen them make.",
+    "likes": 1,
+    "published_at": "2023-11-20T15:29:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwsvIEqKdlBDO7BH9B4AaABAg",
+    "author": "@VeniceInventors",
+    "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+    "text": "I was fortunate enough to be told (and shown) that it's okay to grab ONE live wire as long as my feet are insulated and I'm not touching anything else conductive.  As a result I've never been scared of electricity, which came in handy in situations where turning the power off before fixing something wasn't an option.\nThe same could be said of motorcycles and even skis. They're not dangerous at all, it's losing control of them that's dangerous.",
+    "likes": 0,
+    "published_at": "2023-11-20T14:10:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx9tSqf08_fdCXDn2N4AaABAg",
+    "author": "@cache4pat",
+    "author_channel_id": "UCeuaom6KzcoZMeN4kauGfrg",
+    "text": "Great video. You missed covering another danger from careless curiousity. Dismantling or carelessly storing the removed magnetron can be a lung hazard. ie: Magnetrons can be incredibly dangerous; while you are safe from radiation when they are not powered, the ceramic insulators can contain beryllium oxide, which can be fatal when inhaled.",
+    "likes": 0,
+    "published_at": "2023-11-20T13:14:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwyVvQUOqQvE90lZkR4AaABAg",
+    "author": "@willhibbardii2450",
+    "author_channel_id": "UC2PllHdw7AlPC-K9pCA5Rgg",
+    "text": "Christmas Story... Red Ryder BB gun... You'll shoot your eye out!!! I think the question is, is how to create guards that aren't hazards themselves? As technology advances consumers are exposed to hazards that they're unaware of. Responsible assembly and maintenance also include safety to wildlife and pets. How do you teach a squirrel to look both ways before crossing the street? How do you teach a bird not to fly through a windowpane? How do you teach a cleaning person not to mix bleach and ammonia together and why? When will AI take over the world and do our thinking for us? Driverless cars, trucks, aircraft, trams and forklifts are like elevators. Push the button and it takes you to your destination. Technology is cloaked with a man behind the curtain. Fear on this training ground construct can be a good thing. We make mistakes with capacitors and rapid discharge is safe with small ones however industrial capacitors must be discharged slowly. Why? Because...??? I hate seeing the dreaded blue smoke of failure! 🤣🤣🤣",
+    "likes": 0,
+    "published_at": "2023-11-20T13:05:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJ776BqpOjopgX2TN4AaABAg",
+    "author": "@selfcorrected-Bobby",
+    "author_channel_id": "UC7AY3QZQ98Pz07gnPK6id3Q",
+    "text": "could you try and make homemade tetrateanite? I'd be SO glad if its possible ~ and no don't use toasters to light your cigarette I've fused a few toasters. Just remember cigarettes kill, not just toasters! I've never tried sticking a knife in, but I definitely won't.",
+    "likes": 0,
+    "published_at": "2023-11-20T12:29:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUcY-uyo2d1Lj8SEV4AaABAg",
+    "author": "@bryrobson5863",
+    "author_channel_id": "UCgrNWT4fFiHyHUnOZNQoMmQ",
+    "text": "Bravo. About time someone said it. ✌️",
+    "likes": 0,
+    "published_at": "2023-11-20T12:04:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyb2zwlo3pO3EGwFXZ4AaABAg",
+    "author": "@fishyerik",
+    "author_channel_id": "UC8EWbrj2S_8RM9Lva4p-VBQ",
+    "text": "Great video! Both the generally applicable principle, and the specifics of the case. Maybe the trial and error approach and using the contents of a microwave isn't the best way to start learning about electrical safety,  but with a basic understanding it doesn't have to be dangerous.",
+    "likes": 0,
+    "published_at": "2023-11-20T10:57:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzEzMLTlDBPdwPlPF94AaABAg",
+    "author": "@1337Gareth",
+    "author_channel_id": "UCvcUUPsdUjOFBYve6OlnDpw",
+    "text": "Im in the camp that can use logic, experience and understanding to make my determination on how I approach something like this. I think I (and probably the majority of people who would be watching your videos) can operate in this way. I think though, that we have to consider the size and breadth of who could see these types of videos, and consider that people who expose themselves to it do not have the same leaning. They simply see a cool end result and a simple guide to achieve it without the understanding of what stepping out of the bounds of what they are wanting. \nIt IS dangerous, and CAN kill / maim instantly, for those people a simpler warning 'Just Dont' is more effective to stop them doing themselves a mischief - if they arent the people who care or want to know more about WHY its dangerous and how to mitigate it. It is frustrating that people are not more dependent on the innate human ability to learn. Maybe by not protecting them it would serve the gene pool a measure of bleach, but that is a different topic, and a moral question for another video?",
+    "likes": 0,
+    "published_at": "2023-11-20T10:56:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlGrb9XqnGB6MH94F4AaABAg",
+    "author": "@ch5139",
+    "author_channel_id": "UCVcI0C9ZHGSMnzZBLm-E5Tw",
+    "text": "I remember a news item a few years ago, there was a tragedy at a seaside resort.  The news crew interviewed a woman who couldn’t believe there were no signs being displayed warning how dangerous the sea could be. What has happened to people ? 😢",
+    "likes": 2,
+    "published_at": "2023-11-20T10:21:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUqjkqpgNsMx47zDJ4AaABAg",
+    "author": "@Jon-fs2zj",
+    "author_channel_id": "UCJf_Esx2tFhuyIVKinunOCg",
+    "text": "Looking forward to your fractal wood burner video.",
+    "likes": 0,
+    "published_at": "2023-11-20T09:20:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyT12IRWkQ0vfsP30R4AaABAg",
+    "author": "@toddratson7526",
+    "author_channel_id": "UC1pvhAXHczYCQivFldLKkag",
+    "text": "Um, maybe a demonstration of a tongue on the terminals would help visualize your point? I used to think there was no cure for stupid but you may have convinced me otherwise.",
+    "likes": 0,
+    "published_at": "2023-11-20T07:27:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwg0uhkYkJ3329Iu-J4AaABAg",
+    "author": "@rommelfcc",
+    "author_channel_id": "UC__Gqie0v_LFGZdAQpMVKrQ",
+    "text": "Van help people with dark thoughts, depression, brain fog, harlming themselves or others, suicidal, psychosis, schizophrenia, and other mental issues... First feed them comfort foods like whole food starches (NO Fats or Oils!!!) That will feed their brain the much needed glucose.\nFeed the brain and the body will follow.\n\nAnd consider changing to a Starchivore Vegan Lifestyle, and save a life tomorrow, today 🥰💖\nRef: Dr John McDougall MD.",
+    "likes": 0,
+    "published_at": "2023-11-20T05:10:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1KewdvRfSlRSiBDB4AaABAg",
+    "author": "@jameshughes3014",
+    "author_channel_id": "UCaQ6gM0tKVTBvTDqR4-X86w",
+    "text": "I think it depends on the person. I've met many people in my life who... really should stay away from things that have sharp edges. For those peoples sake, I'm kind of glad that governments make us put labels on plastic bags that say not to put them on your head.\nI once knew a guy as a teen who drank a glass of gasoline because he literally didn't know not to. I think the warnings are for those guys.",
+    "likes": 1,
+    "published_at": "2023-11-20T02:45:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy9jQudPMayfgx0lQV4AaABAg",
+    "author": "@sojournerdelaterra6144",
+    "author_channel_id": "UCJIAVzasXD1YY6JMaItHkBg",
+    "text": "As long as you don't touch a live terminal. You won't get terminal-ly wounded. 😉",
+    "likes": 0,
+    "published_at": "2023-11-20T02:40:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwo9JibT8JoA0zvQtp4AaABAg",
+    "author": "@tonyhardy-kp4os",
+    "author_channel_id": "UCCbwPwCMOtctQ03wGFcdugA",
+    "text": "Those plastic coverings are not for keeping your fingers from touching the terminals, they are to help prevent the voltage from jumping off the terminals to other components and case, and from jumping from terminal to terminal. It is high voltage and has tendency to jump thru the air, that is the reason for the covering on the terminals. Yes you are not supposed to touch the terminals, but that is absolutely not what the coverings are for.",
+    "likes": 0,
+    "published_at": "2023-11-20T02:34:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTZX-jP9789wRDiVV4AaABAg",
+    "author": "@ApocalypticIdol",
+    "author_channel_id": "UC8bCIvHiPqKRLHpJgfzz8tA",
+    "text": "zvs flyback and NST are safer ways to burn wood also, the burns aren't as deep but the detail is amazing and a shock from either will not kill you.",
+    "likes": 0,
+    "published_at": "2023-11-20T02:11:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwqu8ydIG7KbAj1k-x4AaABAg",
+    "author": "@Istandby666",
+    "author_channel_id": "UCBHl6R75NO1z-XnVSmr0hEw",
+    "text": "I remember in college having fun with caps (capacitors). We'd charge caps up and toss them at people to see if they would catch them.\nWe only did it because we were told not to.....lol\nCollege is some of my best memories.",
+    "likes": 1,
+    "published_at": "2023-11-20T01:32:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwqu8ydIG7KbAj1k-x4AaABAg.9xJsaOePDMJ9xKGQz5edsf",
+        "author": "@xeroxcopy8183",
+        "author_channel_id": "UCK-ReupuhlIfDExfEiow7aQ",
+        "text": "LOL",
+        "likes": 0,
+        "published_at": "2023-11-20T05:09:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyvcITkqfLD9hv81Ex4AaABAg",
+    "author": "@Istandby666",
+    "author_channel_id": "UCBHl6R75NO1z-XnVSmr0hEw",
+    "text": "Learn to respect electricity. Even a 9V battery can harm you.",
+    "likes": 0,
+    "published_at": "2023-11-20T01:22:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqBAjTvTJDUdW1BHJ4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "Yeah it seems like some people take warnings as a personal challenge instead of thinking why and how the thing is dangerous!",
+    "likes": 0,
+    "published_at": "2023-11-20T00:58:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxvebXAbvoSii6Sg9N4AaABAg",
+    "author": "@richiesrestorations4883",
+    "author_channel_id": "UCeoSAHWsqcpkuLFFC6Teb-g",
+    "text": "Just don't go grinding that pink ceramic like material because it could be dangerous. That's is bad stuff, but i think they use an alternative now that's not as poisionous.",
+    "likes": 0,
+    "published_at": "2023-11-20T00:44:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxA6B1mWZDoJMpJ92B4AaABAg",
+    "author": "@jay90374",
+    "author_channel_id": "UCEptpdrzBHqgsLgSVEOOKqw",
+    "text": "Same idiots that think guns kill people! 🤦",
+    "likes": 0,
+    "published_at": "2023-11-19T23:59:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz3w0eMHYjPoY0iklV4AaABAg",
+    "author": "@zapaholic",
+    "author_channel_id": "UCn-Gzs3y1H33LvfXwWFmQVw",
+    "text": "There is a commercial here in the Pacific northwest and probably all across the US for a rain gutter guard called \"Leaf Guard\".  It's a fake seminar or community meeting and at one  point the speaker states \"Climbing ladders is too dangerous.\" It drives me up a wall EVERY TIME I HEAR IT!",
+    "likes": 0,
+    "published_at": "2023-11-19T23:55:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx7SuPXbtv8y3Z1Ljp4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "It's like Rock Climbing!\nIt is safe because people realise it isn't and take precautions to make it safe(er).\n\nOne thing I will say is that messing with fractal wood burning is dangerous because even if you research it you are changing the property of stuff. You make a fairly good insulator conduct. And it is not an obvious, in-your-face type of danger. Set your kit up and plug her in and it will be safe(ish) ...... but when you dampen that wood down suddenly that insulator turns into a killer (and you can't smell electric)! It is the type of memory we have that puts things into boxes of knowledge that is the danger! It is safe right up until the point it isn't and it looks the same, so your mind tells you to treat it the same!\n\nI am looking forward with interest to the burner though!",
+    "likes": 0,
+    "published_at": "2023-11-19T23:49:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztCmJ6YeF4OgCUJ794AaABAg",
+    "author": "@KO-hu4wg",
+    "author_channel_id": "UC33DV2GJbMdGu5VzTzH4OKw",
+    "text": "Just wade in",
+    "likes": 0,
+    "published_at": "2023-11-19T23:10:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzpvaIvjoA0qVv1hON4AaABAg",
+    "author": "@mitchpayson6203",
+    "author_channel_id": "UCAFi_nYL1Cebwpng6KrkexQ",
+    "text": " i wish i had the time to tell a story about a friend who took a small bottle of nitro glycerin for a prop in a high school english aural report..",
+    "likes": 0,
+    "published_at": "2023-11-19T22:19:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzpvaIvjoA0qVv1hON4AaABAg.9xJXPjKMGJ79xN9v3rr1fp",
+        "author": "@VoidySA",
+        "author_channel_id": "UC321_3xcmUYEgJ8sM5FKOMQ",
+        "text": "I wish I had the time to read it...",
+        "likes": 0,
+        "published_at": "2023-11-21T08:10:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgycgSV71DRceFsGRvB4AaABAg",
+    "author": "@jamesross1003",
+    "author_channel_id": "UCuQv30LQ29W9_I-dcbfWVlw",
+    "text": "Take away lesson here is to....\"Be smarter than what you are working with\".  A garbage bag can kill you if you misuse it.<--------lol.  Thanks for the video Rob!",
+    "likes": 1,
+    "published_at": "2023-11-19T22:07:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyij0jZV1LU9vHFimd4AaABAg",
+    "author": "@kelvinsparks4651",
+    "author_channel_id": "UCg1Rp616rQbL2I64K1kMm9g",
+    "text": "So I gather you don't recommend sticking your tongue on a microwave capacitor like you have to try on a 9 volt battery then 🤪",
+    "likes": 0,
+    "published_at": "2023-11-19T21:32:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwutVxMigyFYN_R1cZ4AaABAg",
+    "author": "@richardsandwell2285",
+    "author_channel_id": "UCvF7BNro_bViy-bhKcl89nA",
+    "text": "It is people who do not know how to work safely with high voltages, but driving in a car is also dangerous.",
+    "likes": 0,
+    "published_at": "2023-11-19T20:51:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx8JSk1T-V9f18r_X14AaABAg",
+    "author": "@philbrooke-little7082",
+    "author_channel_id": "UC1TvzTklFpH5mOt4wfI7W8w",
+    "text": "I get this al the time with a battery setup I talk about and that I have given all the tech reasons for, all the caveats etc. and people say ‘’you shouldn’t do that, it’s all going to go wrong, it’s dangerous, you’ll void your insurance” etc. I’m fine with that but only if the people can give me the tech reasons why I shouldn’t do it. The reaction to me asking for them is usually either silence or abuse but never actual factual reasons. All too often it is just people repeating what vested interests have said and have given no reasons for. The problem is that it is these vested interests who write the rules that stop progress.",
+    "likes": 0,
+    "published_at": "2023-11-19T20:40:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1jS2PPitTAxxKa154AaABAg",
+    "author": "@michaelrussell2891",
+    "author_channel_id": "UCmhuGgyrhMfEAvfHUiLxxnQ",
+    "text": "unfortunearly common sense is not that common as mark twain said years ago and even more relvent  today",
+    "likes": 0,
+    "published_at": "2023-11-19T20:33:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTlHJP22L6LMsG15B4AaABAg",
+    "author": "@dougwardle2175",
+    "author_channel_id": "UCzriHMp77M8EpF854rmfGsw",
+    "text": "The problem these days is that common sense has become unbelievably uncommon because the emptiest vessels make the most noise but rarely talk common sense. They claim it’s all about free speech but free speech comes with huge responsibility but the eejits out there ain’t got the common sense to understand that so they just keep spouting off a load of bo***cks. Well said",
+    "likes": 0,
+    "published_at": "2023-11-19T20:33:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz_gm9STUVCZiqmEDV4AaABAg",
+    "author": "@pedjamilosavljevic6235",
+    "author_channel_id": "UCCA47iRnbnmxImFCe-febSw",
+    "text": "It is a matter of social engineering , especially in consumerist societies . Don't fix it - buy new. Therefore , people don't know how stuff work (not all people obviously) and they tend to go with the information they get (anywhere) and repeat it , without bothering to check the quality of particular information (if it is true , and why not) .  People who express concern about dangers of a microwave oven transformers , should be informed about dangers of domestic ladder (how many people have died because of these).",
+    "likes": 0,
+    "published_at": "2023-11-19T20:26:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxOhrb7WZtfVCctApt4AaABAg",
+    "author": "@paulleftwick7782",
+    "author_channel_id": "UChjWYWui_Cp1Ykb0zv5W6hg",
+    "text": "when a toddler i got ac electric shock off my homemade colour tv transformer  and knew ac was on off but with my triang train controller and spark gap on dc side i got transformer resonating maybe drawing from train track  the transformer bouncing off flooboards and red fire ball in damp area of my bedroom it looked like teslas resonator that took building down?",
+    "likes": 0,
+    "published_at": "2023-11-19T20:13:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxOhrb7WZtfVCctApt4AaABAg.9xJJ1uBUSDX9xJJU8TVvxy",
+        "author": "@paulleftwick7782",
+        "author_channel_id": "UChjWYWui_Cp1Ykb0zv5W6hg",
+        "text": "same time when i was toddler i told someone to fix his guitar with the table lamp cable in headphone socket and his hair stood in air and blasted across livingroom electric dangerous sometimes",
+        "likes": 0,
+        "published_at": "2023-11-19T20:17:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbvlfoAfVDnT68qXd4AaABAg",
+    "author": "@Suzuki_Hiakura",
+    "author_channel_id": "UCuKZ-9_n_2Ew33Z3dkrsDHA",
+    "text": "Of course, you shouldn't do that, it will kill you. Same with driving. Same with living. It is why I enjoy the argument \"Does amps or volts kill you?\" as it makes people think and debate, usually; after the first few times, little change tends to occur in a person's stance, and it just becomes bickering in my experience.",
+    "likes": 0,
+    "published_at": "2023-11-19T19:42:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz2q1ZzDjZjLiK_aFN4AaABAg",
+    "author": "@noone-op6yg",
+    "author_channel_id": "UCbCOODq3u97yqDjcHzNgH3w",
+    "text": "Where does triboelectric leak to and from?  And can that leaked charge build up elsewhere?",
+    "likes": 0,
+    "published_at": "2023-11-19T19:27:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwoZ7rpB04eiDMGD6J4AaABAg",
+    "author": "@rfiskillingussoftly6568",
+    "author_channel_id": "UC5m1A5TeqSEgfbdkQ2O4ohQ",
+    "text": "Another fantastic video man!",
+    "likes": 0,
+    "published_at": "2023-11-19T19:23:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwoZ7rpB04eiDMGD6J4AaABAg.9xJDLR8FPnJ9xKtTvQq2fn",
+        "author": "@TnTtalktime",
+        "author_channel_id": "UCVaUhDJTviZ17K8vXnR1HjQ",
+        "text": "Glad you enjoyed it!",
+        "likes": 0,
+        "published_at": "2023-11-20T10:59:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxfxV7IyaRe7Rsr0FN4AaABAg",
+    "author": "@lindastone6868",
+    "author_channel_id": "UCzth5w1a03GxELatTUl1BGw",
+    "text": "I've told you a million times!  Don't exaggerate!",
+    "likes": 0,
+    "published_at": "2023-11-19T19:20:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxfxV7IyaRe7Rsr0FN4AaABAg.9xJCy_U85dX9xKtUotnYZI",
+        "author": "@TnTtalktime",
+        "author_channel_id": "UCVaUhDJTviZ17K8vXnR1HjQ",
+        "text": "lololol",
+        "likes": 0,
+        "published_at": "2023-11-20T10:59:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwCoLXWuD3CRnAP-dB4AaABAg",
+    "author": "@undernetjack",
+    "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+    "text": "Electric work: Use one hand - do not become part of the circuit.",
+    "likes": 0,
+    "published_at": "2023-11-19T19:06:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzwvMeCI7v1Z9jjWR94AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "I put a penny and a paper clip in a wall socket. I was lucky it did not kill me. I went blind for a bit and could not feel or hear anything for a while. It really scared my parents. So don't short your wall outlets with your body.",
+    "likes": 0,
+    "published_at": "2023-11-19T18:53:28Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzwvMeCI7v1Z9jjWR94AaABAg.9xJ9szttS0P9xJB6NXAdxm",
+        "author": "@undernetjack",
+        "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+        "text": "I put scissors in an outlet. Nothing happened.\nStupid safety scissors....",
+        "likes": 0,
+        "published_at": "2023-11-19T19:04:10Z"
+      },
+      {
+        "id": "UgzwvMeCI7v1Z9jjWR94AaABAg.9xJ9szttS0P9xJuKu1pnTQ",
+        "author": "@travismoore7849",
+        "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+        "text": "@undernetjack Look the plastic or paint may have saved you but not when it is skin to metal to the wall socket in a short circuit.",
+        "likes": 0,
+        "published_at": "2023-11-20T01:48:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyoXEXq7epFDPeKvj94AaABAg",
+    "author": "@gerryjamesedwards1227",
+    "author_channel_id": "UC99clNv7E1eYvOgdKx6z28A",
+    "text": "I keep an old insulated screwdriver attached at the tip to a 100W 2K2 resistor and a hefty alligator clip. It's handy for discharging caps without getting sparks, giving the discharge a much longer time -constant. This works fine for valve amplifier filter caps, but even that might have a bit of a spark-up with a microwave oven cap. I've had a belt off a HID light ballast capacitor, bridging the terminals of the plug with my thumb picking it up after unplugging. That was a biggy!",
+    "likes": 3,
+    "published_at": "2023-11-19T18:51:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzO3VjStqSxVXm6pSZ4AaABAg",
+    "author": "@grendel1960a",
+    "author_channel_id": "UCugJVwvz-clavvlmL2XsCuw",
+    "text": "if you try and make something foolproof, then the fools will just up the level of foolishness and find another way to hurt themselves.",
+    "likes": 0,
+    "published_at": "2023-11-19T18:50:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4O2_4PZmVzDK0vT14AaABAg",
+    "author": "@maranmarantakeiteazie",
+    "author_channel_id": "UCkbd1Xxz5RP1clXQi5hT4ew",
+    "text": "'safe and effective' is the other side of the spectrum",
+    "likes": 0,
+    "published_at": "2023-11-19T18:43:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyY3S-VesOounyak3t4AaABAg",
+    "author": "@a3b36a04",
+    "author_channel_id": "UCpkfy7Dwmi8Me8eZ6YLG50Q",
+    "text": "After skipping a couple of heartbeats (literally) by picking an unplugged faulty PSU with 300v caps that I failed to identify as charged by measuring the wrong circuit board leads i can understand why some people don't want to come anywhere near 2000v one.",
+    "likes": 2,
+    "published_at": "2023-11-19T18:31:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyc_B4KHYElYsP1ETV4AaABAg",
+    "author": "@Akolgo_islam",
+    "author_channel_id": "UC6WH3uqYuKZRtKFZbhvOO4Q",
+    "text": "😂i love ur fearless pursuit of friendly tech for the world 🙌",
+    "likes": 2,
+    "published_at": "2023-11-19T18:26:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-O-fB2YLn4nSAG154AaABAg",
+    "author": "@ourkilkennyhomestead2006",
+    "author_channel_id": "UCXi83M0synXxdBPpQ7bE0_Q",
+    "text": "You know yourself Rob, there's those who do with no comprehension and there's those who do with a certain level of understanding. Those who don't understand will spend their lives running around making lots of noise just like chicken little. Meanwhile the rest of us silently continue tinkering......",
+    "likes": 7,
+    "published_at": "2023-11-19T18:25:04Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugx-O-fB2YLn4nSAG154AaABAg.9xJ6czJOAGm9xJAyXTkmfr",
+        "author": "@undernetjack",
+        "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+        "text": "* drops  hammer on foot...\n\n\"Ow!\" \n\nNot so silently tinkering continues....",
+        "likes": 0,
+        "published_at": "2023-11-19T19:02:58Z"
+      },
+      {
+        "id": "Ugx-O-fB2YLn4nSAG154AaABAg.9xJ6czJOAGm9xJMTqiUxG_",
+        "author": "@ourkilkennyhomestead2006",
+        "author_channel_id": "UCXi83M0synXxdBPpQ7bE0_Q",
+        "text": "@undernetjack a silence only briefly interrupted by expletives.",
+        "likes": 0,
+        "published_at": "2023-11-19T20:43:29Z"
+      },
+      {
+        "id": "Ugx-O-fB2YLn4nSAG154AaABAg.9xJ6czJOAGm9xJXhrYc_WP",
+        "author": "@johnkunze5362",
+        "author_channel_id": "UCL9TBbZkFsS8ojJVYcxywqw",
+        "text": "Hey kids....do this! It will kill you if you touch right here, energized..... I don't like my kids..(I'm a liar too). In grade 1, I told a kid not to stick her tongue to the monkey bars cause it will stick cause it was -20c. She just HAD to prove it. She was the principles daughter! Last time I told anyone not to do something...even with explanation? An hour later, they got her off the monkey bars! 2 hours later I was introduced to \"the strap\"! So don't ever tell anyone \"to not tell anyone.... To not tell anyone....\"..ya ya.🤪☠️,jpk",
+        "likes": 0,
+        "published_at": "2023-11-19T22:21:40Z"
+      },
+      {
+        "id": "Ugx-O-fB2YLn4nSAG154AaABAg.9xJ6czJOAGm9xKtc_W9sae",
+        "author": "@TnTtalktime",
+        "author_channel_id": "UCVaUhDJTviZ17K8vXnR1HjQ",
+        "text": "nice post mate - cheers",
+        "likes": 0,
+        "published_at": "2023-11-20T11:01:09Z"
+      },
+      {
+        "id": "Ugx-O-fB2YLn4nSAG154AaABAg.9xJ6czJOAGm9xKva0dve0Q",
+        "author": "@ourkilkennyhomestead2006",
+        "author_channel_id": "UCXi83M0synXxdBPpQ7bE0_Q",
+        "text": "@TnTtalktime cheers rob👍",
+        "likes": 0,
+        "published_at": "2023-11-20T11:18:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwwFKaRbEJTUzk8PaN4AaABAg",
+    "author": "@agff1962",
+    "author_channel_id": "UCJ-rRYjb1gahpf0jRiX06oA",
+    "text": "👍👍👍",
+    "likes": 0,
+    "published_at": "2023-11-19T18:23:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwKcRz1oVAD0kQgxCx4AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "👍👍👍👍",
+    "likes": 0,
+    "published_at": "2023-11-19T18:23:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-6UxbVYMrZZT3gsx4AaABAg",
+    "author": "@TXTradesman89",
+    "author_channel_id": "UC01OtIokiBlXAHOTg-KsvkQ",
+    "text": "Preach!",
+    "likes": 0,
+    "published_at": "2023-11-19T18:16:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwIU9wFiGrn_W2azZB4AaABAg",
+    "author": "@industrialmonk",
+    "author_channel_id": "UCjIlhKpZohPeyDaTBs9q_lw",
+    "text": "It will also not stop the recipient's of Darwin awards no matter what you say even if you demonstrate the correct information stupid will always win a Darwin.",
+    "likes": 0,
+    "published_at": "2023-11-19T18:16:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxn_qavJjii102XUph4AaABAg",
+    "author": "@Vibe77Guy",
+    "author_channel_id": "UCrYgdbiGQCNcZcy9E5tKiag",
+    "text": "Reminds one a bit of the words of Marcus Aurelius- the opinions of 10,000 men is of no import, if none of them know anything about the subject.",
+    "likes": 1,
+    "published_at": "2023-11-19T18:14:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxn_qavJjii102XUph4AaABAg.9xJ5R6OY6aZ9xKtgIGaHM4",
+        "author": "@TnTtalktime",
+        "author_channel_id": "UCVaUhDJTviZ17K8vXnR1HjQ",
+        "text": "lol - very good mate",
+        "likes": 0,
+        "published_at": "2023-11-20T11:01:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9johBT1X23LEWo1l4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "I think they are worried you may come into contact with a charged up capacitor inside the microwave oven. Always keep one hand behind your back when fiddling with electricity.",
+    "likes": 2,
+    "published_at": "2023-11-19T18:06:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy9johBT1X23LEWo1l4AaABAg.9xJ4Uqv564h9xJLQ0CvwJ-",
+        "author": "@NoahNobody",
+        "author_channel_id": "UCISG2FL-YDemUD6d66vG1lw",
+        "text": "What does keeping one hand behind your back do to help?",
+        "likes": 0,
+        "published_at": "2023-11-19T20:34:14Z"
+      },
+      {
+        "id": "Ugy9johBT1X23LEWo1l4AaABAg.9xJ4Uqv564h9xJYKkkFDNW",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "@NoahNobody you don't complete the circuit through your heart. If you touch with both hands you could complete a path for electricity to flow through your heart",
+        "likes": 1,
+        "published_at": "2023-11-19T22:27:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwlp9rc0mZmH5lHMw94AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "First",
+    "likes": 0,
+    "published_at": "2023-11-19T18:03:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwlp9rc0mZmH5lHMw94AaABAg.9xJ4BK_YyD_9xKtheNHt51",
+        "author": "@TnTtalktime",
+        "author_channel_id": "UCVaUhDJTviZ17K8vXnR1HjQ",
+        "text": "awesome!",
+        "likes": 0,
+        "published_at": "2023-11-20T11:01:51Z"
+      }
+    ]
+  }
+]

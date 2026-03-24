@@ -1,0 +1,177 @@
+[00:00] [Music]
+[00:08] let's think for a moment about space
+[00:10] actually more specifically a point in
+[00:13] Space the question is how do I get from
+[00:16] my home to that point in space well I
+[00:19] could just wiggle around a little bit of
+[00:21] course until I eventually get there but
+[00:23] the problem with that is it's really
+[00:25] easy to get lost and say I want to go
+[00:27] there again so let's refine that
+[00:29] question how do I get from home to a
+[00:32] point in space while knowing where I'm
+[00:35] going and there are two ways that are in
+[00:38] common use let's imagine my elbow is
+[00:42] home and my end of my fingers is the
+[00:44] point in space I want to get so so we
+[00:46] start off on a flat an imaginary flat
+[00:49] and move by an angle up an angle like
+[00:52] that and we can walk that way to the
+[00:55] point should I want to go home I walk
+[00:57] back angle angle and I'm home and I can
+[01:00] repeat that that method is called polar
+[01:03] coordinates but of course there's
+[01:05] another way we can do it we can just
+[01:06] walk in a straight line straight line
+[01:08] straight line and we'll get to that
+[01:10] point in space that method is called
+[01:13] cartisian coordinates and these are the
+[01:15] two main methods of going to a point in
+[01:18] space while knowing where you're going
+[01:21] and surprisingly this relates to 3D
+[01:24] printing because of course what a 3D
+[01:26] printer has to do is place the print
+[01:29] head some somewhere at a point in space
+[01:32] where it knows where that is and pop
+[01:34] down a little bit of plastic those two
+[01:37] methods are used in 3D printing the
+[01:40] first method with polar coordinat is
+[01:42] used in a series of 3D printers called
+[01:44] Delta printers like Felson and Delta go
+[01:48] they use those changing angles from the
+[01:50] three legs they've got to move their
+[01:51] head in the position it wants to be and
+[01:53] they tend to be very much faster a
+[01:56] little bit more expensive but much more
+[01:59] complicated and PR to falling down so
+[02:02] there is of course the cartisian
+[02:04] equivalent which is the one most of us
+[02:06] see and they're the ones that use motors
+[02:09] to take those steps along the x- axis
+[02:11] the Y AIS or the Z axis to move the
+[02:13] print head in the position it wants to
+[02:15] be in they're more robust but they're
+[02:18] not nearly as accurate or as fast as the
+[02:20] Delta printers but they do tend to be
+[02:22] cheaper and easier to use which is
+[02:25] probably why you see them dominating the
+[02:27] market of course the need for speed is
+[02:30] one of the big drivers in the 3D
+[02:32] printing world because we want prints
+[02:35] quickly we don't want to wait 8 hours
+[02:37] we're happy to wait 20 minutes and
+[02:39] indeed speeds have increased
+[02:41] dramatically from somewhere around about
+[02:43] 60 mm/s to 600
+[02:46] mm/s question how have they actually
+[02:49] done that so this is the eligo 3 plus
+[02:54] and it's a couple of years old now so
+[02:55] believe it or not it's getting old in
+[02:58] the world of 3D printing things move
+[03:00] quickly and this uses that traditional
+[03:04] way of doing things it moves this bed
+[03:05] plate backwards and forwards using this
+[03:07] motor moves this arm up and down using
+[03:10] this motor and then it moves the head
+[03:12] backwards and forwards using this motor
+[03:14] so there are three motors to move those
+[03:16] three directions the thing is this motor
+[03:19] is hung on this arm making this arm
+[03:22] relatively heavy so this is the bamboo
+[03:26] X1 Carbon and it doesn't move the bed
+[03:29] backwards and forwards it moves it up
+[03:30] and down which means it's got to move
+[03:32] the print head backwards and forwards
+[03:35] and if we were doing it in the
+[03:36] traditional way of course we'd have to
+[03:38] have those two Motors on that head
+[03:40] making that very heavy but it doesn't do
+[03:43] that the motors are actually in the
+[03:44] bottom here and they're not attached to
+[03:47] the head at all they're attached to this
+[03:49] Frame making it very much more stable
+[03:51] but how does it drive that print head to
+[03:54] the position that it needs to be in if
+[03:56] those Motors aren't attached let's
+[03:59] imagine
+[04:00] these two sticks are the Gant of the
+[04:02] print head and where they cross is the
+[04:04] point in space that we want to get to
+[04:07] now somewhat surprisingly there are two
+[04:09] ways to do that the first way is the way
+[04:12] that we saw in the eligo we move that
+[04:14] stick that way and we can get to any
+[04:16] point we move that stick down we can get
+[04:18] to any point we move them both together
+[04:20] then obviously we can cover any point in
+[04:22] space and that's the traditional way of
+[04:25] doing it but it's not how it's done in
+[04:28] the bamboo the bamboo uses something
+[04:30] called corxy and what corex Y is is
+[04:34] instead of having them that way you have
+[04:36] them that way now when we drive this
+[04:39] anywhere we can get across that diagonal
+[04:42] equally across that diagonal we move
+[04:44] them both together then we can get to
+[04:46] any point in space moving it that way
+[04:49] and that's the heart of core XY so what
+[04:53] are the advantages of that well with the
+[04:55] traditional method like this we have to
+[04:57] hang a motor on here to be able to move
+[04:59] the print head with the core XY then we
+[05:03] don't have to hang a motor at that cross
+[05:05] and what that means is everything's so
+[05:08] much lighter like in the Delta printer
+[05:11] that we saw there is nothing on the
+[05:13] print head now inertia is a big deal at
+[05:16] high speeds because starting something
+[05:18] and then stopping something is hard to
+[05:21] do without it juddering and with it
+[05:23] juddering of course you're going to lose
+[05:25] resolution and if the juddering is bad
+[05:28] enough the whole thing will dance off
+[05:30] your desktop so changing from that
+[05:34] orientation to that orientation
+[05:38] allows faster speeds without too much
+[05:41] jering and so we can maintain accuracy
+[05:45] with it and you're getting very fast and
+[05:47] accurate machines because what they've
+[05:49] done is turn it around of course they
+[05:51] don't use sticks to do this they use an
+[05:53] arrangement of bels but that key feature
+[05:56] of being able to use both Motors at the
+[05:59] same time time is what distinguishes it
+[06:01] from the cartisian model the cartisian
+[06:03] model uses one motor for one plane in
+[06:06] the XY model if you move one motor it'll
+[06:09] move across the diagonal but as we saw
+[06:11] with the sticks if you move both Motors
+[06:13] at the same time you can find any point
+[06:15] in the XY plan and the motors don't need
+[06:18] to be associated with the Gantry like in
+[06:21] the cartisian model what this means is
+[06:24] that you get a much more robust and
+[06:26] stable construction leading to Greater
+[06:29] accuracy and of course greater speed now
+[06:33] with anything advantages come with
+[06:35] disadvantages the XY belt arrangement is
+[06:38] relatively complex and will require more
+[06:41] maintenance in order to keep it from
+[06:43] going off of accuracy like stretching of
+[06:46] the belts and that Arrangement also
+[06:48] comes with an increase in cost and
+[06:51] there's another limitation to corx
+[06:53] machines and that is that build plate is
+[06:56] still being moved by a lead screw and of
+[06:58] course that acts as a limited ation but
+[07:01] the huge Improvement that corxy has
+[07:04] given in terms of speed and accuracy
+[07:06] means that it's pretty much taking over
+[07:08] and you're seeing it in lots and lots of
+[07:11] machines that are coming out that are
+[07:13] the new web of machine anyway I thought
+[07:15] I would go through what core XY was how
+[07:17] it actually works and how it relates to
+[07:20] 3D printing I hope you enjoyed the video
+[07:23] thank you very much for watching and
+[07:24] please do remember to like And subscribe

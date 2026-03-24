@@ -1,0 +1,27 @@
+youtube:
+  api_key: "YOUR_YOUTUBE_DATA_API_V3_KEY"
+  channels:
+    - handle: "@ThinkingandTinkering"    # Main channel
+    - handle: "@TnTtalktime"            # Talk time / discussion channel
+    - handle: "@TnTOmnibus"             # Omnibus / compilation channel
+
+thingiverse:
+  api_key: "YOUR_THINGIVERSE_API_KEY"    # Get at https://www.thingiverse.com/developers
+  username: "ThinkingandTinkering"       # https://www.thingiverse.com/ThinkingandTinkering/designs
+
+tinkercad:
+  # Full user ID as it appears in the Tinkercad profile URL
+  user_id: "5ZlfdZHNXk9-robert-murray-smith"   # https://www.tinkercad.com/users/5ZlfdZHNXk9-robert-murray-smith
+  # Credentials are NOT stored here — you will be prompted at runtime
+
+anthropic:
+  # Only needed if using --backend api (the Anthropic Python SDK).
+  # If using --backend cli (default), the claude CLI uses your Pro subscription instead.
+  api_key: "YOUR_ANTHROPIC_API_KEY"      # Get at https://console.anthropic.com
+  model: "claude-opus-4-6"              # Also used as default for CLI backend
+  summary_max_tokens: 1500               # Only used by API backend
+
+output:
+  # Root directory where all archive data will be written (relative to repo root)
+  # Leave as "." to write next to the scripts directory
+  base_dir: "."

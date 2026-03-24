@@ -1,0 +1,212 @@
+[00:00] [Music]
+[00:08] so I like relays they're big they're
+[00:11] chunky there's something oldfashioned
+[00:13] about them they click when they're
+[00:15] working and you often get a light on to
+[00:17] tell you they're actually working so I
+[00:19] think they're pretty cool things however
+[00:22] it surprises me how similar these are to
+[00:25] transistors in fact in their logic I
+[00:28] would argue their ID tentacle so if you
+[00:31] want to get hold of transistors which
+[00:33] can very often a mysterious back box
+[00:36] then you could do worse than work with
+[00:39] relays a little bit because the logical
+[00:42] principles are identical so much so if
+[00:46] you wanted to you could build a computer
+[00:49] out of relays I mean it would be the
+[00:51] size of a small City because it's
+[00:53] electromechanical Pro to failure and
+[00:55] take a hell of a lot of power but you
+[00:58] could do that's the point so
+[01:01] understanding relays is a direct link to
+[01:05] understanding and building circuits in
+[01:07] transistors and integrated circuits
+[01:10] which is why I think it's kind of
+[01:12] important to have a look at a relay and
+[01:14] use relays to constrict the kind of
+[01:16] circuits you'd find in an integrated
+[01:19] circuit and of course we are working on
+[01:21] clocks and we need a timer circuit and a
+[01:23] counter circuit and a a frequency
+[01:25] divider we can do that with relays or we
+[01:29] could just buy a clock chip for about £4
+[01:32] from Amazon but you wouldn't really
+[01:34] understand what was going on there and I
+[01:36] think using relays to build those
+[01:39] circuits helps understand what's
+[01:41] happening in transistors integrated
+[01:43] circuits and a whole lot of black box
+[01:46] mysterious circuitry so relay are
+[01:50] surprisingly important now of course we
+[01:53] can't carry any analogy too far when
+[01:56] does a table become a chair there are
+[01:59] points at which
+[02:00] it will fall down one of them is that
+[02:03] the relay is a mear BRI contact that is
+[02:06] fairly instant and so it's kind of a
+[02:08] snap and quite sort of brutal at that a
+[02:12] transistor doesn't quite work that way
+[02:14] when you feed a current down the base it
+[02:17] begins to turn on around about 6 volts
+[02:20] about 7 it's ideal about 80% saturated
+[02:23] about point8 is where you're getting to
+[02:25] the maximum of what you really should be
+[02:28] putting in the B of A transistor
+[02:30] and that will be reflected in the
+[02:32] current it allows to flow between the
+[02:34] emitter and The Collector as that
+[02:36] current varies on the base the current
+[02:39] flowing in the emit and collector will
+[02:41] vary to the same degree and so a
+[02:44] transistor would be brilliant for audio
+[02:47] amplification this would be rubbish you
+[02:49] can power amplify because amplification
+[02:52] it's actually a bit of a misnomer it's
+[02:54] not increasing the power what it's doing
+[02:57] is using a high higher power line that
+[02:59] it's control rolling but still it
+[03:01] amplifies so they both switch this would
+[03:04] amplify not well for audio but it will
+[03:07] amplify and they're working in the D
+[03:10] same way you put a current into the base
+[03:12] to turn on a switch here you put a
+[03:14] current into a coil to turn on a switch
+[03:17] it allows current flow between emitter
+[03:19] and collector and this allows current
+[03:20] flow between common and normally open so
+[03:24] logically they're the same functionally
+[03:26] they're pretty much the same
+[03:28] mechanically they're different and
+[03:31] that'll lead to quirks in the
+[03:33] construction now as I say these are
+[03:36] power hungry and electr mechanical so
+[03:38] there's also quotes in how long they're
+[03:41] going to last which is why really
+[03:43] transistors have taken over but when we
+[03:45] look at designing circuits we look at a
+[03:48] relay it'll give us a very good clue to
+[03:51] how to design for transistors and what
+[03:53] transistors are doing in their
+[03:55] mysterious black boxes first of all
+[03:58] let's have a look at a latch now you
+[04:01] wire realize a latch like this once
+[04:03] you've wired it all together what you
+[04:06] get is sitting right here on the table
+[04:09] and what happens with the latch is it's
+[04:11] currently being fed with power and it's
+[04:13] doing nothing it's not lighting that
+[04:15] switch but if I press this switch
+[04:17] momentarily the light lights up and it
+[04:20] stays lit even though I'm no longer
+[04:22] pressing that switch if I then press
+[04:25] this switch which breaks the power of
+[04:27] course it turns off and stairs off the
+[04:30] latch is one of the fundamental circuits
+[04:34] of digital electronics the latch and the
+[04:36] flip-flop we'll deal with the flip-flop
+[04:38] letter but the latch is able to display
+[04:42] information the information here is the
+[04:45] lighter on but we can also store that
+[04:47] information other ways now if I'm
+[04:50] pressing a switch it's identical if I
+[04:52] press a switch or send a signal down a
+[04:54] line or a pulse down the line to send a
+[04:57] brief pulse into the coil which operates
+[05:00] the switch keeping the power constant
+[05:03] this breaks the power and of course it
+[05:06] goes off and stays off so it's in two
+[05:09] stable States pulse stay on pulse turn
+[05:14] off we have a one and a zero controlled
+[05:17] by pulses sent down control lines now if
+[05:21] you tried to do something similar with
+[05:22] the transistor I imagine it would look
+[05:24] something like this unfortunately that
+[05:27] won't work and that won't work because
+[05:29] the voltage across the base emitter and
+[05:31] collector is all the same and we need a
+[05:34] different voltage on the base in order
+[05:36] to get forward bius the most common
+[05:39] approach is actually to use two
+[05:40] transistors like this to create that
+[05:43] latching circuit though I imagine if you
+[05:45] put a limiting resistor on the base of
+[05:47] the one transistor you would still get a
+[05:50] latch circuit in order to create a
+[05:52] flip-flop you take two double pole
+[05:54] double throw relays and wi them together
+[05:56] like this once you've wi them together
+[05:59] you get what's on the table and this one
+[06:02] uses a single input pulse rather than
+[06:05] two input pulses and that's represented
+[06:07] by this micro switch here if you watch
+[06:10] the top of the relays when I press the
+[06:12] switch you'll see the green LED come on
+[06:15] there the green ldd comes on there
+[06:17] stairs on obviously then that one goes
+[06:19] off and that one goes off and what it's
+[06:22] actually doing is counting it's a binary
+[06:25] counter so if I put five of these
+[06:27] together in a row I'll be able to count
+[06:30] from 0 to 63 so if we've generated a
+[06:34] frequency of something below 1 second
+[06:36] what this will do in five of them in a
+[06:38] row obviously what this will do is Count
+[06:41] a minute it'll then send an Impulse on
+[06:44] the out where we've labeled next Edge is
+[06:46] the out impulse to something like our
+[06:49] motor once a minute then it'll reset
+[06:52] itself and begin the count again and if
+[06:55] you wanted to implement that in
+[06:57] transistors it would look something like
+[07:00] this now as has been pointed out to me
+[07:03] many times I probably spent about 20 on
+[07:06] uh relays and I could have done the
+[07:08] whole job much better if I just bought a
+[07:11] board for a couple of pounds but that's
+[07:13] not the point you're quite right it
+[07:15] would do the job a lot better but I
+[07:18] think there's a gutteral feeling in
+[07:20] relays to how they actually work you get
+[07:23] to see and feel and hear the clicking of
+[07:27] the switch and All Digital electron
+[07:29] ronics is really just switches how you
+[07:33] arrange them how you turn them off and
+[07:35] on and how you interpret their switch
+[07:37] position is where we get the rest of the
+[07:39] information but that's got nothing to do
+[07:42] with the actual Electronics the
+[07:43] electronics is switches turning off and
+[07:46] on and I think you get that sense by
+[07:48] using relays so in this one we can pull
+[07:52] off of relay B pin for a state that is
+[07:56] whether it's off or on a zero or a one
+[07:59] is how we would interpret that and then
+[08:01] of course that becomes a binary
+[08:04] representation of the number that's
+[08:06] actually in that relay because that
+[08:08] relay remembers it stay that is when we
+[08:12] press it it stays on and we can read
+[08:15] that on state as a one we press it again
+[08:18] it goes off we can read that as a zero
+[08:22] but calling it a one or a zero is how we
+[08:25] interpret it in actually just on or off
+[08:27] lighting a s a light or not but we
+[08:30] interpret is one on zero and it becomes
+[08:32] a brand new representation for the state
+[08:35] of the switches at any point in time so
+[08:38] although we use this as a counter it is
+[08:40] also memory and we can count it as
+[08:43] memory in holding information and that's
+[08:46] the key to Digital Electronics now I
+[08:49] thought doing a couple of circuits in
+[08:52] relays to illustrate that might be of
+[08:55] interest it might be helpful people
+[08:56] might want to play with it but if I'm
+[08:58] going to do something real with it of
+[09:01] course I'm going to go and buy a board
+[09:03] but at least I understand what's going
+[09:05] on in that board anyway I hope you found
+[09:08] the video interesting thank you very
+[09:10] much for watching and please do remember
+[09:12] to like And subscribe

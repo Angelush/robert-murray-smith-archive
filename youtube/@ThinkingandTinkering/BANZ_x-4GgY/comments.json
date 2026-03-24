@@ -1,0 +1,953 @@
+[
+  {
+    "id": "UgxcEJbXucWvHtaYTIJ4AaABAg",
+    "author": "@jweismiller",
+    "author_channel_id": "UChYazuUYyZycBAhAqytLwIg",
+    "text": "There is a much easier way to control the direction which is to add a small piece of ferrous material such as another screw near one of the magnets that offsets it by a quarter step when you disconnect the power.  That way when you do the next step there is a much less distance to travel in the offset direction.  This technique is the basis of a Lavet type stepper that is used in commonly available analog clocks.",
+    "likes": 0,
+    "published_at": "2025-04-20T20:32:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwpbBgkrdbP7TEFjEZ4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome!",
+    "likes": 0,
+    "published_at": "2024-12-04T22:56:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz3RmB2wNUiNktW6U94AaABAg",
+    "author": "@madjack4012",
+    "author_channel_id": "UC1mMmIVbabBvYi6IgC-9rXw",
+    "text": "Hi Rob, It would be really cool if you could make a large, safe flow battery that is in the form of a 'Double-A' battery. Use some kind of PVC or ABS pipe that is between 6 and 10 inches in diameter as the housing. Then people could have a plan on which they can create there own expandable battery storage system. They could charge the system with solar, wind, etc.  This would be great for people who want energy security and a DIY whole house backup system. Of course there is a bunch more to DIY battery packs, BMS etc., but that can be expounded upon at another time. Just an Idea. Thought you might be interested.  Also anyone reading this post, if you would like to see Rob give this a go, hit the 'up' icon. (wow, it's weird typing that :D)",
+    "likes": 0,
+    "published_at": "2024-11-25T01:21:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz3RmB2wNUiNktW6U94AaABAg.ABF9F4tMV4JABG1dDK0nBv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "What do you think is a safe battery mate? and not in general - specifically what battery chemistry would you regard as safe?",
+        "likes": 0,
+        "published_at": "2024-11-25T09:34:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw_0GKAuW73i1FwMcx4AaABAg",
+    "author": "@timothyjohnson1511",
+    "author_channel_id": "UCa39HzcwoMDYnvr2vx-xkFA",
+    "text": "Engineer Maico Marzocchi posted his test results of the Andrea Rossi zpe device which were very positive.  You could do the same.  The cost to you to order one is $25.  This is a world changing technology.  Don't you want to know about it?",
+    "likes": 0,
+    "published_at": "2024-11-25T01:18:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw_0GKAuW73i1FwMcx4AaABAg.ABF8otX-4o2ABG1-8lTIhj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Why would I pay $25? I already know all about it and it was free to find out",
+        "likes": 0,
+        "published_at": "2024-11-25T09:28:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgznNSUmWq9qkaSsEtR4AaABAg",
+    "author": "@coconutterrence8549",
+    "author_channel_id": "UCuZfEAFqqCV8_DnTl_06rgg",
+    "text": "in ausie language , great work mate keep it up maybe the schools might latch on . all the best terry 👍",
+    "likes": 1,
+    "published_at": "2024-11-24T21:25:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgznNSUmWq9qkaSsEtR4AaABAg.ABEj9nUtFjjABG0s_xwKaa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-25T09:27:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxh3sj5zFaLZREL1Wt4AaABAg",
+    "author": "@paulwestlake4278",
+    "author_channel_id": "UCx1WxGiQ3bWhvn0Zq7mcIDg",
+    "text": "I wish I'd had a physics master like you at college, I might have understood it. Brilliant.",
+    "likes": 0,
+    "published_at": "2024-11-24T11:43:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxh3sj5zFaLZREL1Wt4AaABAg.ABDgbEI8k3tABDiXZ53RE8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-24T12:00:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyUVUhoo1tBU9ukhx4AaABAg",
+    "author": "@SimonPlatten",
+    "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+    "text": "Can you hook up a capacitor to the motor that can be used to continue powering the solenoid after an initial injection of power to get it started?",
+    "likes": 0,
+    "published_at": "2024-11-24T08:20:43Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzyUVUhoo1tBU9ukhx4AaABAg.ABDKOCUJyNKABDibkhte12",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure - but for this application you just want to pulse it",
+        "likes": 1,
+        "published_at": "2024-11-24T12:01:09Z"
+      },
+      {
+        "id": "UgzyUVUhoo1tBU9ukhx4AaABAg.ABDKOCUJyNKABDvoVv41uo",
+        "author": "@SimonPlatten",
+        "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+        "text": "@ThinkingandTinkering Can't a small IC be added to it to do just that?",
+        "likes": 0,
+        "published_at": "2024-11-24T13:56:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxMmE-vXo6Rqnambbp4AaABAg",
+    "author": "@tom-juniorbezuidenhout5841",
+    "author_channel_id": "UC5ulQG6bYnL71D8n-ynxqLQ",
+    "text": "Good day Rober ,hope you are doing good ?\nWhat do you guys think about using LC oscillator  to change the the direction of  the magnetic fields for a faster motor?😂",
+    "likes": 0,
+    "published_at": "2024-11-24T08:09:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxMmE-vXo6Rqnambbp4AaABAg.ABDJ94EzN_eABDiit_Ns7u",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's what is up and coming in the timing control section mate",
+        "likes": 1,
+        "published_at": "2024-11-24T12:02:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyEz4wtdAf7YPJayy14AaABAg",
+    "author": "@Berserker0537-c7j",
+    "author_channel_id": "UCA0S4S89DZcIu_-LXJuZWwg",
+    "text": "Can you please make a video showing step by step the creation of a 1000w permanent magnet generator",
+    "likes": 0,
+    "published_at": "2024-11-24T02:18:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyEz4wtdAf7YPJayy14AaABAg.ABCfwouN3jvABDipp7-shi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have done loads on generators mate - take a small one and make it bigger - that's all there is to it",
+        "likes": 0,
+        "published_at": "2024-11-24T12:03:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZj1LSWxFkppOSWsV4AaABAg",
+    "author": "@CraigLandsberg-lk1ep",
+    "author_channel_id": "UCVQWbNpS_6ymv_i1ePYpx9Q",
+    "text": "Wish I had of been taught like this 35yrs ago😅 would have been so much smarter  and got into the career i always wanted to do, avionics engineer, but I became a sheetmetal worker and have a much broader range of skills, and dabble in electronics lol, cheers Murray 😅😅",
+    "likes": 0,
+    "published_at": "2024-11-24T01:21:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxZj1LSWxFkppOSWsV4AaABAg.ABC_Rl-4KNrABDiuUcy1aX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "electronics is always fun to dabble in mate",
+        "likes": 0,
+        "published_at": "2024-11-24T12:03:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyfLy2bl5AvQPTfd9R4AaABAg",
+    "author": "@noobdernoobder6707",
+    "author_channel_id": "UCRHB0EwdmST2C8eQsL4UpoQ",
+    "text": "You should have a real TV show explaining kids and laymans the basics of mechanics and electrics. Great to watch and very understandable explanations - and your showcase builds are just the best for an immediate and in-depth understanding of what is happening.",
+    "likes": 3,
+    "published_at": "2024-11-24T00:48:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyfLy2bl5AvQPTfd9R4AaABAg.ABCWdELgrs7ABDiva3LmAs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thanks!",
+        "likes": 0,
+        "published_at": "2024-11-24T12:03:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxPTrSuy-rGgO_WzXt4AaABAg",
+    "author": "@ZephPeterson",
+    "author_channel_id": "UCF6FEvs-qkfXCHyRWrbvIww",
+    "text": "Woah. I see..a LOT of ways to make this more customized to situations. N+1.",
+    "likes": 0,
+    "published_at": "2024-11-23T23:47:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxPTrSuy-rGgO_WzXt4AaABAg.ABCPbEb8XdCABCPktvXym2",
+        "author": "@ZephPeterson",
+        "author_channel_id": "UCF6FEvs-qkfXCHyRWrbvIww",
+        "text": "I really really appreciate your wisdom and perspectives. Please never stop. You mean more than you could possbly know.",
+        "likes": 0,
+        "published_at": "2024-11-23T23:48:24Z"
+      },
+      {
+        "id": "UgxPTrSuy-rGgO_WzXt4AaABAg.ABCPbEb8XdCABDj14AbRif",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am super glad you can see potential mate - I think you are right - this goes way beyond clocks",
+        "likes": 0,
+        "published_at": "2024-11-24T12:04:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw0TkPaSqepSmNjpr94AaABAg",
+    "author": "@b.a.t..",
+    "author_channel_id": "UCdeNrLyS8VDT2cuJxjR-6Jg",
+    "text": "This was very intresting, just like always. Thank you for the video",
+    "likes": 0,
+    "published_at": "2024-11-23T20:54:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw0TkPaSqepSmNjpr94AaABAg.ABC5rRU-yAdABCKOMCJAb9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you enjoyed it!",
+        "likes": 0,
+        "published_at": "2024-11-23T23:01:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwt3ZQF8-7IfujZhrl4AaABAg",
+    "author": "@benbeazley3614",
+    "author_channel_id": "UCNdMAOxmVp78F13F_fyYgNQ",
+    "text": "I love the simplicity of that design.  I have an idea if it sounds interesting. You need to make a black box that lets one store and retrieve umpteen electronic components with a code. Something all us electronic geeks can use to find stuff! 😊",
+    "likes": 0,
+    "published_at": "2024-11-23T12:10:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwt3ZQF8-7IfujZhrl4AaABAg.ABB9uSBFCCDABBYd5aPb-2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "To be honest mate i don't like to do that - stuff varies all around the world and goes out of production - i tend to concentrate on the idea and try to make it work with a host of different components - so any DPDT relay will do, the wire isn't that important, any thickness down to what you can handle and up to half a mm, any bolt and pretty much any magnet around that size - skater bearings are almost universal but if you have different bearings just change the hole size - or at least that's what i try to aim for - I also hope folks will improve on the design - for example i left out the freewheeling diode across the coil which helps prevent the back spike from the collapsing magnetic field and i didn't add snubbers to cut down on arching of the points - this is deliberate to make it simple but would improve things if added",
+        "likes": 2,
+        "published_at": "2024-11-23T15:46:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7CA2KR-tzmVdAYux4AaABAg",
+    "author": "@Regreta7",
+    "author_channel_id": "UCM5YNb9zsL_vztR-YGP3S9A",
+    "text": "Hi Robert how can I contact you. I have a wind turbine that needs some electrics . Regard IMS.",
+    "likes": 0,
+    "published_at": "2024-11-23T11:16:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx7CA2KR-tzmVdAYux4AaABAg.ABB3eCzfaCqABB4HsYdZtj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you can just write to me on here mate - but i have done a lot of vids on wind turbine electrics chances are I have already covered the basics",
+        "likes": 0,
+        "published_at": "2024-11-23T11:21:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzga9ttFViZycr7uXl4AaABAg",
+    "author": "@Moosechoob",
+    "author_channel_id": "UCz6oSlHdUW8IwOA1fptSlrA",
+    "text": "Hi Rob, I do'nt get how the ratchet forces the motor to keep turning in the right direction. Doesn't it just prevent rotation in the wrong direction? So if the nearest attractive magnet happens to be in the wrong direction, won't that just make the mechanism get stuck pushing against the ratchet?",
+    "likes": 0,
+    "published_at": "2024-11-23T11:08:13Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzga9ttFViZycr7uXl4AaABAg.ABB2l7BD0mAABB3ofGkGLe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no mate - there is a slight 'bounce' effect fromt he rotor inertia which pushes the ratchet tooth slightly past the magnet solenoid dead centres so that they are always off centre and the path of least resistance is clockwise so it continues to to turn clockwise",
+        "likes": 1,
+        "published_at": "2024-11-23T11:17:26Z"
+      },
+      {
+        "id": "Ugzga9ttFViZycr7uXl4AaABAg.ABB2l7BD0mAABB4rV-t2YX",
+        "author": "@Moosechoob",
+        "author_channel_id": "UCz6oSlHdUW8IwOA1fptSlrA",
+        "text": "@ThinkingandTinkering Thanks! I think I get it now.",
+        "likes": 0,
+        "published_at": "2024-11-23T11:26:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxQSgEEoBLDlDVJrXd4AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "I quite like the idea of using reed switches instead Rob. \nThe timing could be controlled by the number of turns on the solenoid and a precise voltage.",
+    "likes": 1,
+    "published_at": "2024-11-23T07:17:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxQSgEEoBLDlDVJrXd4AaABAg.ABAdJjwW7Q-ABB3r-OIlq8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sounds good mate",
+        "likes": 0,
+        "published_at": "2024-11-23T11:17:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwyTm6LBbGVmD5P5rl4AaABAg",
+    "author": "@Monogrammaton",
+    "author_channel_id": "UCYlNtv2ou2Js3CXghF5WFiQ",
+    "text": "Anyone else get completely mystified at the scene where the wires to the solenoid weren't showing up, pausing it over and over to see where the magic electricity was coming from?",
+    "likes": 0,
+    "published_at": "2024-11-23T04:29:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwyTm6LBbGVmD5P5rl4AaABAg.ABAL598G2sFABB42y1ZlPn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there is no magic mate it's just a desk top bench supply set at 12V DC",
+        "likes": 1,
+        "published_at": "2024-11-23T11:19:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypLd-wpKQMwJKESy14AaABAg",
+    "author": "@gosekinz",
+    "author_channel_id": "UCj7LtsuNXJCmTYSfZWJRR9g",
+    "text": "a pleasure to see you back Robert ..",
+    "likes": 0,
+    "published_at": "2024-11-23T04:16:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgypLd-wpKQMwJKESy14AaABAg.ABAJbGa0TwyABB44EZoACH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-23T11:19:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxX3upXYpROb3O15ip4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "In theory, one could use a slow discharge module to trigger the relay.\n\nI say 'in theory' because I am not sure how much effort would be involved in building a precisely enough tuned charging circuit to reach the trigger voltage at precisely on second, reliably for long term use.",
+    "likes": 0,
+    "published_at": "2024-11-23T04:08:08Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "UgxX3upXYpROb3O15ip4AaABAg.ABAIgOBHxieABB46Xeq0Zf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "use an arduino",
+        "likes": 0,
+        "published_at": "2024-11-23T11:20:01Z"
+      },
+      {
+        "id": "UgxX3upXYpROb3O15ip4AaABAg.ABAIgOBHxieABBApNCJBvV",
+        "author": "@TerrorTubbie666",
+        "author_channel_id": "UCM3zasRfebPmqq3LUxKIYrA",
+        "text": "\"charging circuit to reach the trigger voltage\" is also known as\"RC-circuit\" or \"RC-timercircuit\".\n(That's the R for Resistor and C for Capacitor, NOT RadioControlled.)",
+        "likes": 1,
+        "published_at": "2024-11-23T12:18:42Z"
+      },
+      {
+        "id": "UgxX3upXYpROb3O15ip4AaABAg.ABAIgOBHxieABBZ4nYcoU5",
+        "author": "@hunnybunnysheavymetalmusic6542",
+        "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+        "text": "@TerrorTubbie666 I knew they existed from childhood, I just don't know how precise they can be, or if its worth tuning one to that level of precision [enough to reliably keep time].",
+        "likes": 0,
+        "published_at": "2024-11-23T15:50:39Z"
+      },
+      {
+        "id": "UgxX3upXYpROb3O15ip4AaABAg.ABAIgOBHxieABBZVP5x9k6",
+        "author": "@hunnybunnysheavymetalmusic6542",
+        "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+        "text": "@ThinkingandTinkering Even if I could use an Arduino, I already have a whole bunch of varied precision capacitors, resistors and MOSFETs on hand, and would want a dedicated, simple, and robust circuit which is immune to all of the many problems inherent into miscrocircutry.\n\nBut since I can't use an Arduino, and won't become capable of such in this life, I'm not going to even bother.",
+        "likes": 0,
+        "published_at": "2024-11-23T15:54:17Z"
+      },
+      {
+        "id": "UgxX3upXYpROb3O15ip4AaABAg.ABAIgOBHxieABBeBauDnGk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok - well seems a bit defeatist mate especially as the arduino takes about a day to learn and what you are asking it to do isn't that complicated for the arduino to do - but hey we all make your choices i guess - my impression is the degree of precision you think it needs id no where near the precision needed - a clock that loses a few minutes a month is still a good clock - the early clocks lost 15 minutes a day and they were made from wood!",
+        "likes": 0,
+        "published_at": "2024-11-23T16:44:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwfU13iu47Pvn3Jqdt4AaABAg",
+    "author": "@zylascope",
+    "author_channel_id": "UCphMk5-_5d-DivOnXDBgbhw",
+    "text": "That's interesting. I bet someone makes a 3D printer with a 3D printed stepper motor. :)",
+    "likes": 0,
+    "published_at": "2024-11-23T03:26:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwfU13iu47Pvn3Jqdt4AaABAg.ABADs5YmFnWABB48hE1Ghq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that would be so cool!",
+        "likes": 1,
+        "published_at": "2024-11-23T11:20:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8PWgoGJhSF5ivPsZ4AaABAg",
+    "author": "@jamesross1003",
+    "author_channel_id": "UCuQv30LQ29W9_I-dcbfWVlw",
+    "text": "Lots of possibilities for this thanks Robert!  I have made a few of these of similar designs and they are a great way to demonstrate the principles involved.  Thanks for the video again!",
+    "likes": 0,
+    "published_at": "2024-11-23T01:44:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw8PWgoGJhSF5ivPsZ4AaABAg.ABA2FGXl21IABB4CA-TVyW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and very cool work on your part",
+        "likes": 1,
+        "published_at": "2024-11-23T11:20:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZuBmOLj1avXS_2jx4AaABAg",
+    "author": "@whoam42a1",
+    "author_channel_id": "UChLtZ3DOPTB1RTzbctSO8jg",
+    "text": "I wouldn't call that a solenoid but an electro magnetic. Solenoid have a moving core.",
+    "likes": 0,
+    "published_at": "2024-11-22T23:18:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZuBmOLj1avXS_2jx4AaABAg.AB9mUKozxOSAB9nsjqfA0S",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "https://en.wikipedia.org/wiki/Solenoid",
+        "likes": 0,
+        "published_at": "2024-11-22T23:30:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxKB407Zl4_tyqEOz54AaABAg",
+    "author": "@AlexDiesTrying",
+    "author_channel_id": "UCzk81l1wN7cpjiNlsPz51pg",
+    "text": "Good video.",
+    "likes": 0,
+    "published_at": "2024-11-22T22:03:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxKB407Zl4_tyqEOz54AaABAg.AB9dyhmyw0uAB9eWGE79WI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you enjoyed it",
+        "likes": 1,
+        "published_at": "2024-11-22T22:08:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRcGVMhR1-0p2vvu14AaABAg",
+    "author": "@velcroman11",
+    "author_channel_id": "UCy2P6zKdiLL7XSWTvJV1UHA",
+    "text": "In days by gone the Australian telephone exchanges used a very stable pendulum system to set timings.  As a telephone technician I saw this exchange clock.",
+    "likes": 0,
+    "published_at": "2024-11-22T21:59:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwRcGVMhR1-0p2vvu14AaABAg.AB9dX8sHBhrAB9eVwexOD-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is so cool - thanks for sharing mate",
+        "likes": 0,
+        "published_at": "2024-11-22T22:08:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzQzo9AiarOcXYNqb94AaABAg",
+    "author": "@bartronicsecurity",
+    "author_channel_id": "UCSPNvKqUmd_mVG-uLI_FBGw",
+    "text": "Years ago I made a similar motor but added a mechanical H bridge. Try this. Get 2 blocks with holes going through the centre of a face. Squeeze these blocks and glue onto the shaft at 45 degrees apart. Mount 4 strips of brass into the plastic base going up to the blocks. As the armature  rotates the edges of the blocks push the brass strips out periodically according to which block has its edges out sideways. Connect these strips diagonally and then to the supply. Finally mount 2  wider brass strip on the base with are spaced just so that the thinner brass strips which are pushed out make contact as the shaft turns. The coil is connected to the 2 wide outer brass strips. There you go, a mechanical H bridge. Make sure you get the correct number of magnets to the no of corners on the blocks which is 8 magnets if using 6 sided block. Get the spacing right and the motor spins at a crazy speed and actually has quite powerful torque. I never got around to putting another electromagnet on the other side of the armature with its wires connected to the first electromagnet. I bet the torque would have been incredible then.",
+    "likes": 0,
+    "published_at": "2024-11-22T20:54:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzQzo9AiarOcXYNqb94AaABAg.AB9X5wXfTjfAB9_krs2pjW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice post mate - thanks for sharing",
+        "likes": 0,
+        "published_at": "2024-11-22T21:26:48Z"
+      },
+      {
+        "id": "UgzQzo9AiarOcXYNqb94AaABAg.AB9X5wXfTjfABadJoaavt2",
+        "author": "@johnnorris1983",
+        "author_channel_id": "UCbc9bCvj9hSFDkV4XMbTolg",
+        "text": "On the u tube “ Plasma “ channel the guy made recently ‘Electret ‘ from PTFE + high voltage..  My Question!\n\nCan an electret cylinder rotated within another opposing Electret cylinder generate electricity\nAnd what degeneration of the electret may occur.\nDo you need the mechanical generator to generate electricity or can you harvest the static field.. sorry I’m not a member.. please pass this on..",
+        "likes": 0,
+        "published_at": "2024-12-03T18:56:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy8VplIOEZko3bB-9p4AaABAg",
+    "author": "@joecrowe7062",
+    "author_channel_id": "UCbqtDzYp24PC2OSoJQYucDg",
+    "text": "The magnet circleake it 8inchs wide and wrap copper tube around it with water,connect force hot water pipes u got cheap cheap house heat,wire it to your thermostat. You could save a lot of people in your country",
+    "likes": 0,
+    "published_at": "2024-11-22T20:39:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy8VplIOEZko3bB-9p4AaABAg.AB9VM-pFac0AB9_nkNUAG-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "have you done a video?",
+        "likes": 0,
+        "published_at": "2024-11-22T21:27:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzOAzCvRK5qjpQHCXB4AaABAg",
+    "author": "@JC-m4t",
+    "author_channel_id": "UCeLTTO-06l5ZtDLUtLNv39w",
+    "text": "step on it man! i apologise but nice one",
+    "likes": 0,
+    "published_at": "2024-11-22T19:39:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzOAzCvRK5qjpQHCXB4AaABAg.AB9OTlM5sUAAB9_pb-UC3L",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-22T21:27:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAwfkdKQfgQS8RK0Z4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😁",
+    "likes": 0,
+    "published_at": "2024-11-22T19:28:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAwfkdKQfgQS8RK0Z4AaABAg.AB9NF6upZvQAB9_qpWsjLm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-11-22T21:27:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugze7g46hjG4ANzHQTl4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "Just imagine what we might have today if Tesla had a 3D printer a hundred years ago.",
+    "likes": 0,
+    "published_at": "2024-11-22T18:52:30Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugze7g46hjG4ANzHQTl4AaABAg.AB9J5jCIYp5AB9_shNt71j",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely",
+        "likes": 0,
+        "published_at": "2024-11-22T21:27:52Z"
+      },
+      {
+        "id": "Ugze7g46hjG4ANzHQTl4AaABAg.AB9J5jCIYp5AB9vuzYdos6",
+        "author": "@j.christie2594",
+        "author_channel_id": "UC8hk-pLuGvT-QVQVYAftSpg",
+        "text": "Imagine, of he Didn't have so many, scammer's trying to stop, rob or exploit him.\nEven John Trump, might not have gotten famous, on Stolen devices.😢",
+        "likes": 0,
+        "published_at": "2024-11-23T00:40:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwMv64Scbqut94n1Ht4AaABAg",
+    "author": "@conradhuman2921",
+    "author_channel_id": "UCzsTjyt9AMl8WiXu5Tzmkdw",
+    "text": "Will keep eye out for version with multiple coils to enforce rotation",
+    "likes": 2,
+    "published_at": "2024-11-22T18:43:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwMv64Scbqut94n1Ht4AaABAg.AB9I75QGpS_AB9_uHZ7maQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-22T21:28:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwovIKOJJs4-3TyCMB4AaABAg",
+    "author": "@RB-qg1qx",
+    "author_channel_id": "UCqbKMdVoTK6C4ElL6v5PYQw",
+    "text": "Always admire your enthusiasm!",
+    "likes": 4,
+    "published_at": "2024-11-22T17:54:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwovIKOJJs4-3TyCMB4AaABAg.AB9CPYr9G8IAB9_wRAqutr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-11-22T21:28:22Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxcg1R1a3p6CbhJ6ud4AaABAg",
+    "author": "@ZacharyYbarra-u1g",
+    "author_channel_id": "UC76ixTXIrCVI0ETCQcy0EpQ",
+    "text": "Howard Johnson's magnetic motor needed a head bridge relay. Thank you, Good Sir! Now we know how to make one. They allowed him to patent but didn't allow an on or off switch.",
+    "likes": 2,
+    "published_at": "2024-11-22T17:31:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxcg1R1a3p6CbhJ6ud4AaABAg.AB99nf-9waNAB9a-M7M3wW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2024-11-22T21:28:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxFavji8V5CX7MtUU54AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "If you used a horseshoe electromagnet (solenoid) or angle your solenoid you wouldn't need the ratchet.",
+    "likes": 1,
+    "published_at": "2024-11-22T17:23:22Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxFavji8V5CX7MtUU54AaABAg.AB98tvrE8YsAB9a6F1oSKI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you need it - without the ratchet or something to lock it into place the rotor inertia will lead to a bounce effect which will put the magnet in the wrong position iro the solenoid - give it a go and see",
+        "likes": 1,
+        "published_at": "2024-11-22T21:29:51Z"
+      },
+      {
+        "id": "UgxFavji8V5CX7MtUU54AaABAg.AB98tvrE8YsAB9j_qhqaAf",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "Yeah, you're correct. I need more coffee😂",
+        "likes": 0,
+        "published_at": "2024-11-22T22:52:40Z"
+      },
+      {
+        "id": "UgxFavji8V5CX7MtUU54AaABAg.AB98tvrE8YsAB9o4lobrwS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@justtinkering6713 lol - more coffee is never a bad idea mate - i am off for one now lol",
+        "likes": 0,
+        "published_at": "2024-11-22T23:31:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwe82dulhu_8v3kfNt4AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "Another step forward 👍",
+    "likes": 4,
+    "published_at": "2024-11-22T17:22:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwe82dulhu_8v3kfNt4AaABAg.AB98q0pE5jFAB9a7p4OcC-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-22T21:30:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz2OKXAr8cn_zAEgBF4AaABAg",
+    "author": "@rodm4151",
+    "author_channel_id": "UCMo-TS374TLV3gyECy8SMIg",
+    "text": "That is awesome! Robert, try some one-way bearings on the hub. I wonder if that would reduce the drag slightly?",
+    "likes": 2,
+    "published_at": "2024-11-22T17:09:38Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugz2OKXAr8cn_zAEgBF4AaABAg.AB97KKerBvRAB9aB3UwHtb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i did mate - if they are 3d printed the slack is too much and the rotor loses position",
+        "likes": 0,
+        "published_at": "2024-11-22T21:30:30Z"
+      },
+      {
+        "id": "Ugz2OKXAr8cn_zAEgBF4AaABAg.AB97KKerBvRAB9dBHLJL2V",
+        "author": "@rodm4151",
+        "author_channel_id": "UCMo-TS374TLV3gyECy8SMIg",
+        "text": "@ThinkingandTinkering  awe shucks, sorry mate",
+        "likes": 0,
+        "published_at": "2024-11-22T21:56:45Z"
+      },
+      {
+        "id": "Ugz2OKXAr8cn_zAEgBF4AaABAg.AB97KKerBvRABB4Kznc3dV",
+        "author": "@TerrorTubbie666",
+        "author_channel_id": "UCM3zasRfebPmqq3LUxKIYrA",
+        "text": "What if you just forget about bearings and make the hole in the wheel like 5 to 10x bigger than the axle it's on.\nThis way the wheel will also act like a pendulum. So when you switch the relais, the wheel will be pushed away from the coil, making the bottom side move faster away than the topside (because of the pendulum-effect), so the next magnet that will be attracted by the coil will be the one above the previous magnet, time and time again.\nI believe there's such a mechanism in (a lot of) modern electric clocks too.\n\nBut on the other hand:\nI think this already is a very nice demonstrationmodel.\nI think next video should be about replacing the relais with simple electronics. An RC-circuit for the timing and some transistors...🤔",
+        "likes": 0,
+        "published_at": "2024-11-23T11:21:59Z"
+      },
+      {
+        "id": "Ugz2OKXAr8cn_zAEgBF4AaABAg.AB97KKerBvRABB4xdLsrmf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@rodm4151 it was good thinking mate - i just wanted to warn you i had tried it - but thinking about it - maybe if i bought one with better tolerances than i can 3d print?",
+        "likes": 0,
+        "published_at": "2024-11-23T11:27:24Z"
+      },
+      {
+        "id": "Ugz2OKXAr8cn_zAEgBF4AaABAg.AB97KKerBvRABB9oR4vV90",
+        "author": "@rodm4151",
+        "author_channel_id": "UCMo-TS374TLV3gyECy8SMIg",
+        "text": "@ThinkingandTinkering  Thank you very much for what you do, Robert. Your experiments & prototyping encourage me to tinker more & more. My brother and I were chatting about graphene the other day, and I referenced your videos to educate him a bit more on the subject.",
+        "likes": 0,
+        "published_at": "2024-11-23T12:09:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgytpGTiajmNASkXRTR4AaABAg",
+    "author": "@rifattarkyararbas4058",
+    "author_channel_id": "UCDTsdeekHM8W--vumiG3Wxw",
+    "text": "Thank you very much...",
+    "likes": 1,
+    "published_at": "2024-11-22T17:05:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgytpGTiajmNASkXRTR4AaABAg.AB96r_jyIqBAB9aB_qiES9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You're most welcome",
+        "likes": 0,
+        "published_at": "2024-11-22T21:30:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywR9wmM297uG66VIN4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Thanks so much for bringing your wisdom to us Sir Robert!",
+    "likes": 10,
+    "published_at": "2024-11-22T17:03:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgywR9wmM297uG66VIN4AaABAg.AB96Zxqb1YiAB9aCBGeifO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You are very welcome",
+        "likes": 3,
+        "published_at": "2024-11-22T21:30:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwlNnbQwKweX8CLCNN4AaABAg",
+    "author": "@ashiesmum",
+    "author_channel_id": "UC8Ctel2uEDo7k89mmn_J1tQ",
+    "text": "😼👍",
+    "likes": 1,
+    "published_at": "2024-11-22T17:02:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwlNnbQwKweX8CLCNN4AaABAg.AB96VKuQiGFAB9aD9GwWr2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-11-22T21:30:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxrGnRWHeKJ6qYb-e14AaABAg",
+    "author": "@anthonywilliams7052",
+    "author_channel_id": "UCFVe4ChAKiCdDHUw0tNhclw",
+    "text": "School should be taught like this, then it would be fun while learning something.",
+    "likes": 28,
+    "published_at": "2024-11-22T16:56:43Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgxrGnRWHeKJ6qYb-e14AaABAg.AB95qnfD1zYAB96MOetdKp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - glad you liked it",
+        "likes": 7,
+        "published_at": "2024-11-22T17:01:10Z"
+      },
+      {
+        "id": "UgxrGnRWHeKJ6qYb-e14AaABAg.AB95qnfD1zYAB97_quTHh2",
+        "author": "@RFG0neWON1969",
+        "author_channel_id": "UC0bpY3z6PyGfGdlwDvF26IQ",
+        "text": "@anthonywilliams7052   Technical schools 🏫 do.. I went one in CT ... ALL schools should do this... 6mnths TRADE.... unfortunately 6mths of indoctrination aka regulated knowledge.",
+        "likes": 4,
+        "published_at": "2024-11-22T17:11:53Z"
+      },
+      {
+        "id": "UgxrGnRWHeKJ6qYb-e14AaABAg.AB95qnfD1zYAB9ACoo6lrI",
+        "author": "@ZacharyYbarra-u1g",
+        "author_channel_id": "UC76ixTXIrCVI0ETCQcy0EpQ",
+        "text": "They should do this instead of history. What did we really learn from history class? Nothing special. Replace history with scientific progression. Or change home economics into it.",
+        "likes": 4,
+        "published_at": "2024-11-22T17:34:49Z"
+      },
+      {
+        "id": "UgxrGnRWHeKJ6qYb-e14AaABAg.AB95qnfD1zYAB9QuOz_nGM",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "@ZacharyYbarra-u1g \n\"Replace history with scientific progression. Or change home economics into it.\"\n\nIt won't make a difference.\n\nThere are scientists that attempt to mislead people and regulate the knowledge you can have.\n\nAs toxic as you may think it is; home economics is a necessary life skill.\n\nAll it takes is someone deciding that: despite not knowing anything about you and your natural inclinations and talents; they know what's best for you.\n\nThe educational downfall is due to malevolent people implementing poor education policies under the guise that it is better for the children, and parents believing it despite 40 years of educational decline.\n\nTaking the education program back 70 years to the basics of Reading, Writing, and Arithmetic; would reverse the educational decline.",
+        "likes": 0,
+        "published_at": "2024-11-22T20:00:43Z"
+      },
+      {
+        "id": "UgxrGnRWHeKJ6qYb-e14AaABAg.AB95qnfD1zYABGW2lGFqBl",
+        "author": "@erhardpostinger1326",
+        "author_channel_id": "UCrYxE1sKP5OjyKTaFYg4UDg",
+        "text": "Das liest sich so, dass der Spaß an Schulen international gleichartig wenig berücksichtigt wird. Während meiner Schulzeit in Deutschland gilt jede Entschuldigung, weil man damals halt nur auf Hilfsmittel zugreifen konnte, die WW2 überlebt hatten.\nMeine Sorge ist, dass heute viel zu wenige Menschen auf solch vorbildliches Schulmaterial wie dieses Video stoßen! Bei mir war es auch nur eine Laune des YT-Algorithmus, dieses hervorragende Video zu entdecken.",
+        "likes": 0,
+        "published_at": "2024-11-25T14:00:22Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzxa0kf3k3D2mmBC1N4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Thumbs 👍 nice build",
+    "likes": 2,
+    "published_at": "2024-11-22T16:53:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzxa0kf3k3D2mmBC1N4AaABAg.AB95WH70FE7AB95_1x90p3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 2,
+        "published_at": "2024-11-22T16:54:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxYe6AgCd_kuUHAoZ94AaABAg",
+    "author": "@BitCloud047",
+    "author_channel_id": "UClrDJOe7h8IUoaAj2BdpPYQ",
+    "text": "So cool! Thank you so much for these videos!",
+    "likes": 2,
+    "published_at": "2024-11-22T16:53:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxYe6AgCd_kuUHAoZ94AaABAg.AB95Ul39L9ZAB95YoLqNg0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i am glad they are useful mate - cheers",
+        "likes": 1,
+        "published_at": "2024-11-22T16:54:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSdcO7rOvTKQfw3j14AaABAg",
+    "author": "@RFG0neWON1969",
+    "author_channel_id": "UC0bpY3z6PyGfGdlwDvF26IQ",
+    "text": "⚙️ ⚙️ ⚙️ ⚙️ ..... motion.... 👏",
+    "likes": 3,
+    "published_at": "2024-11-22T16:51:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwSdcO7rOvTKQfw3j14AaABAg.AB95Hi-aCvGAB95XFULXb1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool",
+        "likes": 1,
+        "published_at": "2024-11-22T16:53:55Z"
+      }
+    ]
+  }
+]

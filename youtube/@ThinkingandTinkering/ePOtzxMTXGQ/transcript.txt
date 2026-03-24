@@ -1,0 +1,199 @@
+[00:03] you
+[00:12] so what about here is the battery out of
+[00:15] the Twizy it's quite a beast it weighs
+[00:17] about 100 kilos it's a 6 kilowatt hours
+[00:21] 48 volts and you got this close because
+[00:26] sometimes have only a passing
+[00:28] acquaintance at Health and Safety this
+[00:30] is a scary beast this is not something
+[00:32] you want to play with so we've got
+[00:33] double set of rubber gloves on and we've
+[00:36] got 48 volts it's been sitting around
+[00:38] for ages discharged but even so it is a
+[00:41] dangerous beast to be doing what we're
+[00:43] going do with it you can begun to open
+[00:44] up have a look take some bits out and
+[00:47] reuse those bits so I get asked a lot if
+[00:51] we're still working on the twist in the
+[00:52] answer is yes we're still working on the
+[00:54] Twizy then when I say that make a lot
+[00:56] and come back and say but why is it
+[00:57] taking this come on it takes so long
+[01:02] because we obviously do this by the
+[01:05] money we read so we don't do donations
+[01:08] we like to sell stuff and doing stuff in
+[01:11] a positive way which is why you've been
+[01:13] seeing a lot of videos about quantum you
+[01:15] to the shop with ideas and things that
+[01:17] we can sell on the shop is where the
+[01:19] money immersive effects so amazing some
+[01:22] money and that slows us down but what we
+[01:24] can work on it we were kind and what I'm
+[01:26] going to do really is take the battery
+[01:29] apart have a look and work on the BMS
+[01:31] for a while now I'm following something
+[01:33] called X to be G which is a github
+[01:35] resource and I will put a link in the
+[01:37] description actually so you can follow
+[01:39] that through if you like and he points
+[01:41] out all of the control electronics you
+[01:45] gonna need a provide some Arduino
+[01:48] programming to help create a virtual VMs
+[01:51] to be able to control any custom battery
+[01:53] when you want to put into Twizy and
+[01:55] that's really quite awesome
+[01:56] it doesn't use that much actually there
+[01:58] is a winner best board will be a star
+[02:02] prime which is a nice way to examine the
+[02:05] basic BMS and that means to a canvas
+[02:08] shield and then basically leash and then
+[02:14] there's an extension board for the
+[02:15] martyrs so really simple stuff but as I
+[02:18] say it's all available on Dexter VG for
+[02:21] the link but you also supposed to buy
+[02:24] all connect
+[02:25] and this is obviously chock-full of
+[02:27] connectors and I want the connectors and
+[02:29] other bits out of it which means I need
+[02:31] ten pieces have a look at what's inside
+[02:33] it now this is six kilowatt hours and
+[02:35] it's for each throw some pots can't
+[02:38] quite remember how many 48 nothing so it
+[02:41] is very dangerous bit of kids and I'm
+[02:44] about to take them bit of it sir
+[02:46] sometimes you can see why don't we have
+[02:48] a passing acquaintance with health and
+[02:50] safety but this one is one of those
+[02:52] things you need to treat with great
+[02:54] respect so you'll notice the rubberized
+[02:56] plugs I'm actually wearing two sets of
+[02:57] rubberized blood and I've got protective
+[02:59] equipment that I'm going to be using to
+[03:02] leaver and apart with which is like ten
+[03:04] thousand barber a turd screwdriver bits
+[03:07] and pieces like that but you do have to
+[03:09] be serious and you really shouldn't be
+[03:12] taking top of this thing if you ever end
+[03:14] up you're doing
+[03:15] I am nothing playing that I really know
+[03:17] what I'm doing a half answer that I do
+[03:19] I'm giving you the girl for you and
+[03:20] we'll see what happens
+[03:21] so here on the floor hey call an
+[03:24] ambulance but we're going to take this
+[03:26] off now this thing weighs a hundred
+[03:27] kilos so it's quite a hefty beast and
+[03:30] top is held on by love in a box running
+[03:33] around it's got a million of them I've
+[03:35] done the under manage box we clearly
+[03:37] kept them and they just go in there
+[03:39] that's wrong and I've kept them in that
+[03:44] car that's exciting that is the inside
+[03:58] of the actual battery itself so that
+[04:02] looked like cells to me and then we're
+[04:04] going to whole bunch of control here now
+[04:07] would spin it round but really it weighs
+[04:10] 100 kilos so it's kind of difficult to
+[04:13] do that but I can see that there's a
+[04:15] support for energy that and I did look
+[04:17] in the venom book and all of these
+[04:19] wheelers are hung either actually on
+[04:21] that support frame but it looks to me
+[04:24] like here we've got the busbar up
+[04:28] positive and negative bus bar actually
+[04:34] very interesting okay so I'm going to
+[04:37] take that two bits some more and we'll
+[04:40] see what we get
+[04:42] these are the batteries and there's one
+[04:46] sitting for two three four five six
+[04:51] seven officer services in that they're
+[04:54] held firmly Kia look like Rome the
+[04:56] bank's there this is the power
+[04:59] electronics and I think here we've got
+[05:02] control electronics in eccentric yoke
+[05:05] going all the way down here at you
+[05:07] connected to each battery pack get a
+[05:10] little push tab at the top of the white
+[05:12] there's a little pushing clip right
+[05:14] there if I push that in
+[05:18] [Music]
+[05:37] so this is in near the end this I think
+[05:40] is the controller board so we have
+[05:42] active white sockets outside and I
+[05:45] detach it from the control well yeah
+[05:48] there's a little push and push they
+[05:50] click they hold straight out and there
+[05:53] were for any 10 volts at the corners
+[05:56] allowed me to remove that did I broke
+[05:58] the m10 nuts a little bit of cutting
+[06:00] back on that factory retaining plate
+[06:02] lose them basically
+[08:14] so there you go inside the frizzy
+[08:17] battery so we have this really chunky
+[08:19] the aluminium and caspere's and best wet
+[08:22] everything was bolted to we don't want
+[08:24] that there's the cover plate the control
+[08:26] electronics the retaining bass the
+[08:28] batteries then the batteries themselves
+[08:30] not an especially bought so you've taken
+[08:33] out the power electronics and we're
+[08:35] going to go to the bench now and have a
+[08:36] look at that okay so we've had a lotta
+[08:41] stuff that we don't want because he were
+[08:42] involved in replacing the battery and
+[08:44] the problem with the Twizy is you can't
+[08:47] put a custom battery directly into the
+[08:50] Twizy because the battery management all
+[08:52] you have to do is create a virtual
+[08:54] battery management system by replacing
+[08:56] the control electronics that we saw in
+[08:58] that laptops that we can't actually
+[09:00] access with a whole different set of
+[09:02] control electronics in get some power
+[09:04] electronics to be able to run everything
+[09:06] now you can buy those actually and
+[09:09] they're non-critical you really just
+[09:11] need the working specifications of them
+[09:14] so this relay for instance is 450 volts
+[09:17] at 40 amps I think yes so you need
+[09:25] specifications from these parts here to
+[09:28] be able to replicate this section here's
+[09:30] the canvas incidentally we also need the
+[09:34] power connector because obviously at
+[09:36] this end if we connect to that but plug
+[09:37] into the Twizy really easily so we need
+[09:39] the power connector and in some of these
+[09:40] electronics on here and then to replace
+[09:43] the control electronics like I said I'm
+[09:45] using a web link on github and I'll put
+[09:50] that link in as I said and I'm only
+[09:52] following the recommended advance
+[09:54] because the control electronics is there
+[09:57] and they've done a lot of the Arduino
+[09:58] programming and I'm using exactly what
+[10:01] they recommend as the basic set up as a
+[10:02] star a primer that Candra shield real a
+[10:06] shield and an extension for any
+[10:09] temperature control that I might want to
+[10:11] do that's all I'm using
+[10:14] when I use that I'll use their basic
+[10:15] setup so I'll put that electronics
+[10:17] together use their basic setup uses
+[10:19] power electronics now before I put my
+[10:21] battery in I'm going to actually do a
+[10:23] tone fault and that acid battery four of
+[10:25] them to make sure that I've got all the
+[10:26] all of this right is if I put it
+[10:28] together it doesn't work I want nowhere
+[10:30] gone wrong so I'm going to put all of
+[10:32] this together with some standard
+[10:33] batteries make sure that works and then
+[10:36] I'm going to put it with our batteries
+[10:38] after I've done that so that we get a
+[10:40] working device pretty much as soon as we
+[10:44] can
+[10:44] anyway I thought I'd keep you up to date
+[10:45] with that and show you what's inside it
+[10:47] to his new battery and hope it wasn't
+[10:49] interested thank you very much for
+[10:51] watching

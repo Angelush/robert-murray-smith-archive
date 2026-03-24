@@ -1,0 +1,298 @@
+[00:00] [Music]
+[00:08] so in video 2265 we looked at building
+[00:11] this monster now we're going to look at
+[00:14] how to go about using it it comes
+[00:16] supplied with this which is the plug
+[00:19] socket and unfortunately this thing here
+[00:22] is a preparatory plug it's square
+[00:24] instead of a normal Kettle lead so you
+[00:27] have to keep that bit and use that bit
+[00:29] but I'm living in England and they sent
+[00:31] me a European plug which I was a bit
+[00:34] disappointed about now I could use an
+[00:36] adapter but I decided that what I would
+[00:38] do is fit a UK plug to it so I chopped
+[00:40] off the end when I chopped off the end I
+[00:43] discovered that the color coding of the
+[00:44] wire was according to the UK standard
+[00:47] probably European Standard where we've
+[00:49] got blue for neutral Brown for live and
+[00:52] green and yellow for the Earth but
+[00:54] there's no guarantee that those in fact
+[00:57] go to the right prongs so I did a
+[00:59] continu check and they do indeed so it's
+[01:03] a piece of cake to rewire this plug to
+[01:06] UK standard because they' used the right
+[01:09] wires now that might seem a little
+[01:11] obtuse really but it's a degree of
+[01:14] comfort because this kind of thing where
+[01:15] you have a a length of wire it's much
+[01:18] cheaper just to each tail ends of any
+[01:20] old fire you've got lying about it would
+[01:23] keep the cost down so you need worry
+[01:25] about such things but when I tested this
+[01:27] it's actually up to code and that gives
+[01:29] me a degree of comfort about the whole
+[01:31] thing so I rewind my plug now the cable
+[01:34] is that long it's about a meter long so
+[01:36] you need to be a meter from your socket
+[01:38] of course if you're not a meter from
+[01:40] your socket you have to run an extension
+[01:42] or put an extension on your cable but
+[01:45] that is proprietory which is a bit of a
+[01:48] pain anyway let's get it plugged in and
+[01:51] turn it on so I did that plugged it in
+[01:54] and nothing it wouldn't start I thought
+[01:57] oh my God and then I noticed this
+[02:00] there's a little gray box right there to
+[02:02] the back and
+[02:04] left if we flip that open there you go
+[02:07] what we've got here is an rcbo it's a
+[02:10] safety device that combines the
+[02:12] advantages of a miniature circuit
+[02:14] breaker with a residual current device
+[02:16] what it means is that little thing
+[02:19] protects you from overcurrent or a short
+[02:22] circuit that really is very cool eh and
+[02:25] this thing will draw about 1 and 1/2 Kow
+[02:29] which sounds like a lot but when you
+[02:31] think about it your kettle's likely to
+[02:32] be 3 KW so it's got pretty much
+[02:36] excessive kind of uh safety involved in
+[02:39] there because this will draw about 7 or
+[02:41] eight amps here in the UK with 230 volts
+[02:44] and that's a lot of protection to have
+[02:46] for a machine like this so impressive
+[02:48] stuff and there's one more thing I
+[02:50] wanted to point out to you before we
+[02:51] actually turn it on and it's that you'll
+[02:54] find one of these left and right on the
+[02:56] main carriage and there's one that
+[02:57] carries the print head as well and
+[03:00] basically you undo these two screws use
+[03:02] that nled knob here to tighten that belt
+[03:05] to a nice
+[03:07] tension set a d flat then when you've
+[03:10] done that you tighten those screws back
+[03:12] up and you can adjust this belt tension
+[03:15] really easily or replace the belt I
+[03:17] guess if the belt wears out now I do
+[03:19] love a nice machine and and this is a
+[03:22] nice machine but despite loving them I
+[03:24] don't worship them I mean you know some
+[03:26] people absolutely worship cars and all
+[03:28] the best to them but for me car is away
+[03:30] for getting some A to B from my home to
+[03:33] do my shopping and a 3D printer well
+[03:35] it's exactly the same to my mind it's a
+[03:37] way of getting something out of my head
+[03:39] a into my hands is a real thing B I only
+[03:43] really want to know how to go from A to
+[03:46] B I don't want to know the ins and outs
+[03:47] of it but because every machine has its
+[03:49] own little quirks so it's worth running
+[03:52] through them but the idea here isn't to
+[03:54] fully understand this machine it's how
+[03:57] to get it working so I go from A to B
+[04:00] and that's what I'm interested in but
+[04:03] anyway let's turn this on and have a
+[04:05] look at the
+[04:13] screens so you get a beautiful big
+[04:15] screen that's really easy to use even
+[04:17] with my fat stubby fingers and with my
+[04:19] terrible short sight and you can see
+[04:22] immediately what you've got on here the
+[04:24] first thing we need to do is level it
+[04:30] so press level and confirm and you get
+[04:32] this grid showing and the print head
+[04:34] will return to home and it will
+[04:37] automatically begin a probing process of
+[04:40] the plate to see how level that plate
+[04:43] is so what it's doing is heating up the
+[04:47] bed and the head so there's it heating
+[04:49] the head you can see the temperature
+[04:50] there and there's it heating the bed
+[04:52] it'll heat the bed to 60° and the head
+[04:54] to 140° before it begins its probing
+[04:58] process and when it's done that it'll go
+[05:00] into the home position and start probing
+[05:02] the surface and it'll do that across 100
+[05:05] points finding out how level that bed
+[05:07] actually
+[05:15] is okay when that's done you'll need to
+[05:18] adjust the Zed off set that's the height
+[05:20] of the print head from the bed and this
+[05:22] will present this screen here what
+[05:25] you've got is the amount that it'll move
+[05:27] by 0 1.1 1 mm the up and the down and in
+[05:32] your box of Tricks you'll find this it's
+[05:35] a shim of Steel and that should be able
+[05:38] to slide under the print head there and
+[05:40] as you can see it comes the print head
+[05:42] is too close to the bed so I adjust that
+[05:45] offset what I tend to do is a little bit
+[05:49] crazy hard at 1 mm and up because I
+[05:53] couldn't get it under it needs to go up
+[05:55] if it went under too easily it would
+[05:57] need to go down
+[06:00] and now I can get my shim really easily
+[06:02] under there and I need to lower it I go
+[06:06] point one of a millim because I'm not
+[06:08] going to have to press this down button
+[06:09] more than 10 times cuz I've gone up 1 mm
+[06:13] and now go down by 0.1 so I'm going to
+[06:16] need 10 presses so down it goes and try
+[06:20] again if it's still too loose keep
+[06:23] pressing it downward by0 one of a MM
+[06:25] until it's not
+[06:27] loose now it's quite t to slide it not
+[06:31] too tough but I still need to go up a
+[06:33] little bit so hit
+[06:38] 01 up one we give it a
+[06:41] go and now it's a nice sort of sliding
+[06:44] fit but still quite tight we're done we
+[06:47] can press
+[06:50] confirm and what we get is this little
+[06:53] display of numbers now what it's telling
+[06:55] you is the height of the bed from the
+[06:57] print head and there's an allowance here
+[07:00] if it's more than .51 mm you're going to
+[07:03] need to adjust the bed but if the
+[07:05] difference between your highest point
+[07:06] and your lowest point is less than that
+[07:09] well it's kind of up to you because
+[07:10] there's two kinds of perfect there's
+[07:13] perfect perfect for everything zero and
+[07:15] then acceptably perfect and of course we
+[07:17] live in a real world so acceptably
+[07:20] perfect is just fine and acceptably
+[07:22] perfect for this machine is about half a
+[07:24] millimeter between the high and the low
+[07:26] point now if we look here my High Point
+[07:28] is4 4 4 mm we look here it's -53 if we
+[07:33] add those two together we get about a
+[07:36] millim difference and
+[07:37] unfortunately that's too much so we're
+[07:40] going to have to adjust the height of
+[07:42] the bed by doing the bed height
+[07:44] adjustment right to do this bed height
+[07:46] adjustment you're going to need a couple
+[07:48] of things the first thing is these
+[07:50] things these are plates that come in
+[07:52] with your kit and you'll notice there's
+[07:53] little holes in them there's little
+[07:55] holes in them because it lets you get to
+[07:56] some screws that we need to get to and
+[07:59] you need the alen key that also came in
+[08:01] your kit to do that but before you do
+[08:03] that you got to think about this this
+[08:05] big old base this base weighs something
+[08:08] like 60 or 70 kilos or wi itself now
+[08:11] with all the best R in the world there
+[08:13] is no flaw that is level so if you just
+[08:16] stick this down what will happen is the
+[08:18] weight of the base will twist everything
+[08:21] and it'll be a nightmare trying to get
+[08:22] the bed level because you didn't level
+[08:24] the base so you're also going to need a
+[08:26] 19 mm spanner and a l
+[08:30] because right under here are adjustable
+[08:33] feet there they are right there now that
+[08:36] is welded all into one piece and that's
+[08:38] the bit you adjust and there is the
+[08:40] Locking nut so you use your spanner to
+[08:42] undo the Locking nut and then pop it on
+[08:45] there and raise or lower that foot until
+[08:47] the bed is actually level and there's
+[08:49] one of each corner and you go around
+[08:51] just making sure that the actual base
+[08:53] unit is level to your is level to itself
+[08:56] because guaranteed your floor is not
+[08:58] level when you to level this base you
+[09:00] can then do the dead and you take that
+[09:02] off and this one is going to go in its
+[09:05] place and there's the screws that been
+[09:06] burbling on about we pop that
+[09:15] on we've got access to those screws
+[09:17] where we can level the B the bed now
+[09:20] that the base has actually been leveled
+[09:22] first so this is the start screen and to
+[09:25] do this job we want settings we want
+[09:28] Advanced set settings and then platform
+[09:32] measurement there we go and we get this
+[09:34] screen here each one of these
+[09:36] corresponds to a hole that we're going
+[09:39] to adjust the bed with so if we hit one
+[09:43] it will go to screw position one so we
+[09:47] hit one
+[09:59] and it measures it and you can see it
+[10:01] there it says minus
+[10:03] 0.03 what that means is that bed is 3
+[10:07] 100 of a millimeter too low in order to
+[10:10] raise it we slacken the nut in order to
+[10:13] lower it that were a positive figure we
+[10:16] tighten the nut and it tells you right
+[10:18] there which way to turn it and how much
+[10:21] a full turn will actually do so we turn
+[10:24] that nut to make that zero so grab your
+[10:27] Allen key and give it a look little tle
+[10:30] now remember it was a negative so we
+[10:31] want to tighten it up a little bit so
+[10:34] give a little bit of a tighten and then
+[10:36] remeasure
+[10:38] it once we tole it the right way we get
+[10:40] a zero we can move on to the next and we
+[10:43] keep on doing that until all of these
+[10:44] are filled to the Zero by pressing these
+[10:47] buttons to move the head Okay so we've
+[10:49] pressed every button all our readings
+[10:50] have been set to Zero by twiddling that
+[10:52] little screw and we're done we're ready
+[10:55] to press the level which is right there
+[10:57] but at the moment of course we need to
+[10:58] replace those sheets with holes in them
+[11:01] with the Pei sheet so we need to move
+[11:06] that to do that press prepare we've got
+[11:09] the Z axis here let's move it up and
+[11:12] that will move the head out of the way
+[11:13] so we can swap those sheets back
+[11:15] over having done that we can run the
+[11:18] leveling
+[11:21] program and up it goes
+[11:44] so when you've done that you'll have to
+[11:45] do the Z offset
+[11:48] again and when you're happy with that
+[11:50] confirm it and you'll get this table of
+[11:54] numbers now we need to check these
+[11:56] numbers for the high point and the low
+[11:58] point for me the high point is there at
+[12:01] 28 and the low point is there at minus
+[12:04] .12 we add those two together and we
+[12:08] get4 so it's well within the parameter
+[12:10] that we're looking for which is 0. 51 so
+[12:13] we can save that
+[12:15] data okay there we go built and set up
+[12:18] and ready to take some filament and do
+[12:19] some printing now I've got some ideas in
+[12:22] my head about what I want to do and some
+[12:24] people have made some excellent
+[12:25] suggestions as well the software is on
+[12:28] there little USB stick and it's just
+[12:30] eligo Cura so it's not challenging we've
+[12:32] done videos on installing and using Cura
+[12:34] and eligo Cura before so all we do is
+[12:37] load that software up slice it and get
+[12:39] printing the main thing to do now is
+[12:41] decide on what I'm going to print and
+[12:43] then print it and I can't decide if I'm
+[12:45] going to do something wild and wacky
+[12:47] something different and new or repeat
+[12:49] something old but much bigger or take on
+[12:53] some people's suggestions and no doubt
+[12:55] over the months I'm going to do all of
+[12:57] those but the next thing I'm going to do
+[12:59] is print something out using this
+[13:01] because it's now ready to go anyway I
+[13:03] hope you enjoyed the video thank you
+[13:04] very much for watching and please do
+[13:06] remember to like And subscribe

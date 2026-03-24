@@ -1,0 +1,1280 @@
+[00:00] [Music]
+[00:10] hi everybody and welcome to the shed
+[00:12] where basically we just play around with
+[00:15] stuff that I think is well
+[00:20] interesting so when it comes to
+[00:22] controlling heat in appliances there are
+[00:24] in fact only three strategies the first
+[00:27] one is do nothing at all the second one
+[00:30] is stick a switch in there and the third
+[00:32] one is user controller each one's
+[00:35] applicable to different circumstances if
+[00:38] you've got something that's pretty basic
+[00:41] really and not a very high temperature
+[00:43] there's actually nothing you need to do
+[00:44] with it the second one is for kind of
+[00:47] mid-range things things like your Kettle
+[00:49] and your iron and your oven in that case
+[00:51] you're basically putting a switch in it
+[00:53] and the third one is kind of where you
+[00:55] need much more control so you're looking
+[00:57] at things like furnaces and better
+[00:59] controlled industrial ovens that sort of
+[01:01] thing now the first one I can need to
+[01:05] explain a bit more about what I mean by
+[01:07] it and for that we need hes law homes
+[01:10] law is V equals ir and what it means is
+[01:14] that at a given voltage with a given
+[01:17] resistance a given current will flow the
+[01:21] reason for that is current only flows if
+[01:23] it can overcome a resistance and voltage
+[01:26] is like the push needed to overcome that
+[01:29] resistance of course as the current
+[01:31] flows through a resistance it offers
+[01:33] resistance and it heats up that's
+[01:35] exactly how heating appliances work
+[01:38] while heating appliances of this kind
+[01:41] let's take a circuit made up of a
+[01:43] battery some copper wire and a bit of
+[01:44] nichrome wire when the electrons flow
+[01:47] through the circuit the copper wire
+[01:49] hardly hits at all but the nichrome wire
+[01:51] gets red hot to understand this we need
+[01:54] to compare the structure of the
+[01:55] materials if we have a look at the
+[01:57] copper wire it's composed of a network
+[01:59] work of ions that are free to vibrate
+[02:02] but not move and there's a sea of
+[02:05] disassociated electrons that are free to
+[02:07] move through the copper wire as they
+[02:10] move through the copper wire there's
+[02:11] very little getting in their way every
+[02:14] now and then they'll hit one of the
+[02:16] copper ions and make it vibrate a little
+[02:19] bit more but on the whole they're
+[02:21] relatively free to flow through the
+[02:24] copper wire if we look at the nchrome
+[02:26] it's an alloy of nickel chromium and ion
+[02:29] it has an network of three different
+[02:31] ions but the number of electrons that
+[02:33] are free to flow are lower because some
+[02:37] of the electrons are taken up in bonding
+[02:39] the bonds also restrict there a number
+[02:41] of Pathways available for the free
+[02:43] movement of electrons so when the
+[02:46] current is turned on the electrons in
+[02:47] Copper flow easily and don't often
+[02:50] collide with the vibrating ions in
+[02:53] nichrome the electrons can't move ahead
+[02:55] easily because they're resisted by the
+[02:58] bonds and they more often often hit the
+[03:01] vibrating ions causing more vibration
+[03:04] this vibration is what we see as heat so
+[03:08] that is fundamental to understanding
+[03:11] what do nothing at all means now it's
+[03:14] true that ohms law only really applies
+[03:16] to direct current now it will apply to
+[03:19] alternating current but alternating
+[03:22] current only under a resisted load under
+[03:25] an inductive load different rules apply
+[03:28] but as resistance Heating is a
+[03:30] resistance load or duel heating is
+[03:32] another reference to it then we can use
+[03:34] ohms low in the same way for AC that we
+[03:38] can for DC now if we look at it then if
+[03:42] we want to heat something we want a
+[03:45] certain amount of current to flow the
+[03:47] more current that flows the quicker and
+[03:49] hotter it will get because it's not
+[03:52] heating in isolation it's actually
+[03:54] Heating in an ambient that heat it's
+[03:56] generating is being given off at a rate
+[04:00] and the rate of it heating up and the
+[04:02] rate of it giving off will mean that it
+[04:04] reaches a fixed temperature within a few
+[04:08] bits of fluctuation where it generates
+[04:11] the same amount of heat as it's giving
+[04:14] off and so it reaches a temperature and
+[04:17] you can do that if you have a fixed
+[04:19] voltage if you have a fixed voltage say
+[04:22] 12 volts and you paint a radiator when
+[04:26] you've got a 10 ohm resistance then the
+[04:29] current is known and in this case of
+[04:32] course 1.2 amp will flow that will
+[04:34] create a resistance creating heat and it
+[04:36] will get to some temperature and you can
+[04:39] just measure that temperature if that
+[04:41] temperature is too much for the voltage
+[04:44] that you've got well you just increase
+[04:46] the resistance and of course the current
+[04:47] will drop and the temperature will drop
+[04:50] so you can control it just by using V
+[04:53] equals IR of course you need a little
+[04:55] bit of experimentation to find out where
+[04:58] that level is for the voltage for
+[04:59] material you're using but once you've
+[05:01] got that it's always going to be the
+[05:03] same now there is a mild effect of
+[05:05] temperature on conductivity it changes
+[05:07] it but at low temperatures then the
+[05:10] changes pretty insignificant are not
+[05:12] really going to impact very much on this
+[05:14] what's going to impact on is the use
+[05:17] that you put it to so for example if
+[05:19] you're using that as a pet bed then the
+[05:22] pet is going to be sitting there with
+[05:23] their own heat covering that and of
+[05:26] course the heat that it's going to give
+[05:28] off can't Escape anywhere and so the
+[05:31] overall temperature will go up because
+[05:34] you have effectively insulated it and
+[05:36] that will only work when it's in the
+[05:38] ambient if you're going to insulate it
+[05:40] you're going to sit a pet on it then of
+[05:42] course you need that temperature to be
+[05:44] very much lower so you don't want to be
+[05:46] making a pet bed that's going to heat up
+[05:48] to 40° Centigrade if you're then going
+[05:51] to sit a pet on it you want 8 9 10°
+[05:55] Centigrade something like that just
+[05:57] something that takes a chill off the bed
+[05:59] head so the pet is warm and comfortable
+[06:02] of course that may not be acceptable to
+[06:05] you because you may worry about it
+[06:06] overheating in which case what you want
+[06:09] to do is the same thing that you do with
+[06:11] cookers and that is put a switch in it
+[06:13] and the switch is in fact always the
+[06:15] same it's a b metallic switch if you
+[06:18] take your cooker apart what you'll see
+[06:19] is a knob with an adjustable handle
+[06:21] where you can change a spring tension
+[06:23] but a bimetallic strip is made out of a
+[06:25] strip two metals that bend differently
+[06:28] when they're heated
+[06:29] when they're heat they Bend open and
+[06:32] when they're closed they Bend shut and
+[06:33] you can either get it in a dial
+[06:35] configuration or get it in a small
+[06:37] tablet configuration where the amount of
+[06:39] Bend to open or close a switch is fixed
+[06:42] by the manufacturer and that temperature
+[06:45] is printed on the case that can just be
+[06:48] put in line with your positive Supply
+[06:50] from your DC or your live and it will
+[06:53] automatically switch off when it reaches
+[06:56] that temperature or switch on when it
+[06:59] falls below that temperature of course
+[07:00] you need that switch in a position where
+[07:03] it is a mid temperature but it is just a
+[07:06] biim metallic strip breaking the
+[07:08] positive that switches off and on and
+[07:10] that's a very common thing to find in
+[07:12] things like pet blankets and you
+[07:13] certainly find it in your household
+[07:16] cooker the Third Way is the way that's a
+[07:20] bit more complicated because for this
+[07:23] what you need is a microcontroller a way
+[07:26] of turning High current off and on and a
+[07:29] way of sensing that current but they
+[07:30] actually come as kits and they're called
+[07:32] PID controllers it's about 20 or so it's
+[07:36] a preet box where you screw in a k type
+[07:39] thermocouple you put that into the area
+[07:42] where you want to sense the temperature
+[07:44] and it goes to a silicon controlled
+[07:46] switch that will turn the high power off
+[07:50] and on now with those three strategies
+[07:53] you actually have all you need to
+[07:56] control the heat of any heat AC
+[07:59] application ranging from a footwarmer
+[08:03] right the way through to an industrial
+[08:05] Pottery Kil Luke took an exercise
+[08:07] machine and made a generator out of it
+[08:11] okay so in my view Luke did an awesome
+[08:13] job with this actually I mean it got
+[08:15] about 60 something Watts out of it which
+[08:18] is not far from the
+[08:20] gm44 the gm44 was a military issue field
+[08:24] generator that was used with their radio
+[08:26] and during The dday Landings they had
+[08:28] something like 50 thousand of these
+[08:30] units being lugged around the beach by
+[08:32] the soldiers now I look at historical
+[08:34] reconstructions of these things or even
+[08:36] the original historical devices there
+[08:39] have been some beautiful machines made
+[08:42] in fact even right from farad's first
+[08:45] generator experiment where all he really
+[08:47] did was make up a coil have a bar magnet
+[08:50] and push that bar magnet in and out
+[08:52] connected to a galvanometer there are
+[08:55] just some wonderful constructions in
+[08:57] Mahogany and brass and steel and copper
+[09:01] that are things in themselves worth
+[09:03] having now I look at the gm44 and think
+[09:06] that it's a beautiful thing in my eyes
+[09:08] it is a beautiful thing it's robustly
+[09:10] made it was meant to withand abuse it
+[09:13] would produce about 70 Watts or so with
+[09:16] two voltage supplies what a thing and it
+[09:19] was basically only really three
+[09:21] components there was the generator which
+[09:23] was actually a kind of alternator
+[09:25] actually it was an alternator made in
+[09:28] the same way as this attached to a
+[09:30] gearbox so that when you could use your
+[09:31] arm strength you could gear it up and
+[09:34] then of course voltage regulation and
+[09:36] output that's all it was and it was set
+[09:38] at a height that you could comfortably
+[09:40] sit at and use both hands to be able to
+[09:42] turn it so one soldier turned it and the
+[09:44] other one op operated the
+[09:47] radio the way it worked was pretty
+[09:50] straightforward the generator section
+[09:52] itself comprises of a rotor two field
+[09:54] windings and a pair of brushed
+[09:57] commutators the field winding function
+[09:59] as
+[10:00] electromagnets when the mechanism begins
+[10:02] to turn residual magnetism induces a
+[10:05] current in the rotor some of this
+[10:07] current flows through the field windings
+[10:10] which generate a sustained magnetic
+[10:12] field as the rotor continues to turn as
+[10:14] the rotor turns an alternating electric
+[10:16] current is induced in the windings and
+[10:19] this is where the commutators become
+[10:22] important on either side of the
+[10:24] commutator Rings are sets of carbon
+[10:25] electrodes called brushes the brushes
+[10:28] change the polarity of the current from
+[10:30] the rotor depending on its position so
+[10:32] current flows in Only One Direction once
+[10:34] it leaves the rotor they are mechanical
+[10:37] diodes the two sets of commutators in
+[10:39] this generator conduct two sets of
+[10:42] voltages a 6vt supply for the
+[10:45] transmitter filament and a 500 volt
+[10:48] supply for the transmitter plates the
+[10:50] generator has a filter system which is
+[10:52] just a collection of passive components
+[10:55] which smooth out the rof signal produced
+[10:56] by the mechanical components of the
+[10:58] generator
+[11:00] it consists of a
+[11:01] choke and a capacitor an electrolytic
+[11:04] capacitor on the low voltage side and a
+[11:07] large paper cap on the high voltage side
+[11:09] the final part is the voltage regulator
+[11:12] it's an electromechanical regulator
+[11:14] which is essentially just a relay it
+[11:16] implements a closed loop voltage
+[11:18] regulator using only mechanical parts
+[11:20] and electromagnetism when the signal
+[11:22] from the low voltage commutator exceeds
+[11:25] an adjustable
+[11:26] threshold a coil in the regulator pulls
+[11:29] this read switch away from the normally
+[11:31] closed position in this state a resistor
+[11:34] is connected in series with the
+[11:36] generator field coils which works to
+[11:38] dampen the whole
+[11:40] system if this doesn't do enough to
+[11:42] reduce the output voltage the re will
+[11:45] continue to move across the Gap until it
+[11:47] contacts the other side which shorts out
+[11:49] the field winding and effectively turns
+[11:51] off the generator for an instant because
+[11:54] of the negative feedback provided for by
+[11:56] the system the output voltage of the
+[11:58] machine remains approximately constant
+[12:01] even if the user turns the crank too
+[12:03] quickly so what I thought I'd do is in
+[12:05] the spirit of the uh GN 44 remake this
+[12:09] but in the same way that a US Army Field
+[12:12] generator was made so we've got to take
+[12:15] this and we're going to chop a few bits
+[12:16] off and weld a few more bits
+[12:27] on
+[12:36] okay now we've got it free standing and
+[12:37] standing upright and needs a couple of
+[12:39] handles and to do that I'm going to cut
+[12:41] off this pedal to
+[12:52] this okay so that's it that's the uh
+[12:55] Mechanicals of my attempt to replicate
+[12:58] modern materials the wartime generator
+[13:02] that is actually surprisingly
+[13:03] comfortable to generate so we could do
+[13:05] that really quite easily all day long
+[13:07] it's nice we could obviously run this
+[13:10] from uh the alternator in the same
+[13:12] though it loot did with a belt on this
+[13:14] drive here but Luke's already done that
+[13:17] so why waste an opportunity to do
+[13:19] something different hey so I'm going to
+[13:20] do another part of this where I'm going
+[13:22] to actually make the flywheel the
+[13:23] generator as opposed to putting uh an
+[13:25] alternator on it but we could just put
+[13:28] an alternator on it the other thing
+[13:30] obviously if you could put a seat on it
+[13:31] now I'm quite short so I have to get
+[13:34] kind of near to it and of course there
+[13:36] are people a lot longer so that seat
+[13:38] would have to be either adjustable or
+[13:40] freestanding but as you can see you can
+[13:42] sit quite happily on the floor but a
+[13:43] little stool probably would be pretty
+[13:45] brilliant as well anyway that is the
+[13:48] mechanical side of it all done and
+[13:50] dusted and really didn't take very long
+[13:52] and we'll put the electrical side on in
+[13:54] another video but that's absolutely
+[13:57] beautiful now I'm also loving the gray
+[14:00] look of it this sort of back now we're
+[14:02] going to put the Generation section on
+[14:04] it and we have a number of choices here
+[14:06] one thing is we can do exactly what Luke
+[14:08] did and that is strap on an alternator
+[14:10] and run it from the belt off of here
+[14:12] which is a really good way of doing it
+[14:13] but uh I do tend to uh favor other
+[14:17] Alternatives because we got this great
+[14:19] big flywheel right here and we can make
+[14:21] that flywheel into the generator as well
+[14:24] as we could strap a generator on by
+[14:27] missing out that Bel of course what
+[14:29] we're doing is getting a more efficient
+[14:31] machine because we don't have the losses
+[14:33] in transmission that we would have
+[14:35] through a belt drive a belt drive does
+[14:37] lose uh energy it loses energy through
+[14:41] friction that kind of thing and if we
+[14:43] make this flywheel directly into the
+[14:45] generator of course we don't have those
+[14:46] losses now in order to do that we have
+[14:49] done this in previous videos before
+[14:51] remember generation is just about having
+[14:55] a magnetic field moving surrounded by by
+[14:59] coils and then the generation will be
+[15:01] the speed at which it moves the strength
+[15:03] of the magnetic field and the number of
+[15:05] turns of wire in that coil being those
+[15:07] three factors so we can turn this into a
+[15:09] generator by sticking a load of magnets
+[15:12] on the outside of there and because
+[15:14] we've got this that turns really quite
+[15:17] quickly so even for a slow hand speed
+[15:19] here we get a quick speed at this
+[15:22] flywheel which is great having all those
+[15:25] things that we want and what I've got
+[15:26] for that is this it's a whole bunch of
+[15:30] neodymium magnets again working on field
+[15:33] strength because I could put Ceramics on
+[15:35] there or I could put these on there
+[15:38] these are a lot of neodymium magnets and
+[15:40] they will just fasten like that and be
+[15:43] glued on super glue is fine because this
+[15:45] is a bit of Steel and the super glue is
+[15:47] just going to assist the attraction of
+[15:49] the magnets onto that steel so my job
+[15:53] super glue a load of magnets onto the
+[15:54] outside of here these are 1 cm by 30 cm
+[15:58] by 3 mm to be honest it's actually quite
+[16:01] astonishing how easy this is because
+[16:02] I've glued these magnets on with the
+[16:04] superglue north south north south and
+[16:07] then I've stuck this coil here this coil
+[16:09] is from a microwave oven fan lots of
+[16:12] little tones and I've glued it on with
+[16:14] some fiberglass resin and all I did was
+[16:16] stick a piece of cardboard between those
+[16:19] two squeeze the resin in there and let
+[16:21] it set and then when I pull that
+[16:23] out we have ourselves a generator now
+[16:26] put one coil on it to test it so we can
+[16:29] give that a
+[16:32] spin makes a nice noise doesn't it I let
+[16:35] see what we get out of
+[16:38] here there we go lighting that light
+[16:41] absolutely no problem at all now it's
+[16:44] producing about 12 Watts or so for a
+[16:47] single coil so if I want 120 watts I put
+[16:50] 10 coils around and there and connect
+[16:52] them in series of parallel depending on
+[16:54] the voltage that I want now given that
+[16:57] the army field generator was only about
+[16:59] 80 ws and you've got about 60 WS per arm
+[17:02] in your arm strength 100 WS it's going
+[17:05] to be about what you can get out of such
+[17:07] a thing if you put more coils on those
+[17:09] 10 coils you're probably going to find
+[17:11] you can't actually turn it but all I've
+[17:14] got to do now is add those other coils
+[17:16] and put on a voltage regulation just
+[17:18] like we've done in previous videos but
+[17:20] there we go that is uh an effort at
+[17:23] replicating an army field generator from
+[17:26] an exercise bike so microwave KS very
+[17:30] curious thing aren't they I mean a
+[17:32] normal Kil it's basically a big oven
+[17:35] there's lots of insulation and lots of
+[17:37] electric heating elements or gas heating
+[17:40] where you can raise a temperature up
+[17:42] really high to do some kind of process I
+[17:44] mean normally it's firing Pottery or
+[17:47] tiles or bricks although there are
+[17:49] specialized kills that do things like
+[17:51] make cerement but in essence they're
+[17:54] just a box where you can get a
+[17:56] temperature hot enough to do something
+[18:00] microwave kils came along mostly because
+[18:03] of glass fusing and low temperature
+[18:05] Ceramics because they can only really
+[18:07] get up to about 8 or 900° Centigrade I
+[18:10] mean I say only that's still pretty
+[18:12] lethal as a temperature but that in
+[18:15] essence is what they are there's
+[18:17] something you can stick in your
+[18:18] microwave that will heat up to a very
+[18:21] hot temperature to do something now the
+[18:26] microwave kill I would say it was but a
+[18:29] revolutionary invention that trases its
+[18:31] roots to the latter half of the 20th
+[18:33] century it was developed as an
+[18:35] accessible alternative to traditional
+[18:37] kils because traditional kils are
+[18:40] traditionally big and expensive to run
+[18:44] but the microwave kill well it's much
+[18:47] smaller and much more convenient and the
+[18:49] idea was to to democratize the art of
+[18:53] glass fusing and Ceramics and low
+[18:56] temperature Ceramics and glass class of
+[18:58] where the microwave Kiln really lives
+[19:02] indeed it was originally conceived as a
+[19:04] solution for hobbyists and Artisans who
+[19:06] were seeking a compact and userfriendly
+[19:08] means of doing glass work in their
+[19:11] kitchen now these kils did undergo a
+[19:13] series of evolutionary phases from a
+[19:16] rudimentary design to much more
+[19:18] sophisticated iterations and they
+[19:21] evolved into portable refactory line
+[19:23] containers capable of withstanding the
+[19:25] heat generated within a microwave
+[19:28] at its core a microwave Kil comprises a
+[19:31] refractory material arranged within a
+[19:33] compact enclosure the refractory lining
+[19:36] which is mostly Ceramics and insulating
+[19:38] materials allows the Kil to endure the
+[19:41] intense heat produced from by the
+[19:43] microwave without damage that core is
+[19:46] painted on the inside with something
+[19:48] called a seor material it's the seor
+[19:51] material that gets hot and usually it's
+[19:54] carbon based it absorbs the microwaves
+[19:57] and then gets really hot and gives that
+[19:59] heat back out to the center of the kilm
+[20:01] where the workpiece you're working on is
+[20:04] located the process is deceptively
+[20:06] simple but it does require Precision the
+[20:09] intense heat produced by the receptor
+[20:11] material heat fuses the materials
+[20:13] together allowing an artisan to create
+[20:15] integrate designs and forms control is
+[20:19] crucial timing and temperature determine
+[20:22] the outcome of the craft too little time
+[20:24] and the materials don't fuse adequately
+[20:26] too much and they risk over heating
+[20:28] leading to deformities or melting
+[20:30] they're pretty versatile devices and
+[20:33] they've been used across a whole range
+[20:34] of things from jewelry making to glass
+[20:36] fusing and Pottery by hobbyists and
+[20:39] Educators alike and they offer a Gateway
+[20:42] for Creative expression in jewelry
+[20:44] making the kiler labels out his hands to
+[20:46] fuse glass pieces into stunning pendants
+[20:49] earrings or decorative elements and the
+[20:51] controlled heat process allows for
+[20:53] intricate design and vibrant color com
+[20:56] combinations in glass fusing these kils
+[20:59] facilitate the merging of glass layers
+[21:01] creating bowls and plates and sculptures
+[21:03] and artists manipulate the heating time
+[21:05] and temperature to achieve the desired
+[21:08] shapes and textures and that unleashes a
+[21:10] spectrum of possibilities Pottery
+[21:13] enthusiasts find these kills ideal for
+[21:15] small scale projects enabling the firing
+[21:18] of clay and glazes to produce miniature
+[21:20] ceramic pieces or test pieces or try out
+[21:23] new designs before large scale execution
+[21:26] despite its accessibility and creative
+[21:28] potential the microwave Kil isn't
+[21:30] without challenges achieving precise
+[21:33] temperatures and mastering the nuances
+[21:34] of heating remain ongoing Endeavors for
+[21:37] artists working with these kils
+[21:40] controlling heat distribution within the
+[21:42] small confines of a microwave size space
+[21:45] requires a degree of finesse over time
+[21:47] advancements in refractory materials and
+[21:49] development of more sophisticated
+[21:51] designs have aimed to address these
+[21:53] challenges Innovations in Kill
+[21:56] construction of materials continue to
+[21:58] refine the art of microwave based
+[22:00] glasswork and Ceramics personally I
+[22:03] think the microwave kill is a testament
+[22:05] to human Ingenuity people wanted to do
+[22:08] something traditional ways of doing it
+[22:10] were too cumbersome and expensive so
+[22:12] they found a new way from its humble
+[22:14] beginnings to the present day this
+[22:17] little device can best be described as
+[22:19] empowering now the secret to any
+[22:22] microwave Kil is the sceptor it's that
+[22:25] gray stuff that's painted on the inside
+[22:27] of the Kil body it remember absorbs the
+[22:30] microwaves and gives the energy back out
+[22:33] as heat so sceptor converts microwaves
+[22:36] to heat one of the best receptor
+[22:38] materials there are well it's graphite
+[22:41] so this which is um rustin's g- Shield
+[22:44] I'm not recommending it it's just that I
+[22:46] happen to have this it's a graphite
+[22:48] graphine paint that will act as a
+[22:51] receptor brilliantly in fact any of
+[22:54] these materials will any of these EMF
+[22:56] smog best um paints that have graphite
+[22:59] in them are going to do that job now
+[23:01] it's only going to work temporarily but
+[23:03] we're only going to make a temporary Kil
+[23:05] and we're going to paint it onto a plant
+[23:06] pot it only works temporarily because
+[23:09] the binders in here will burn away so
+[23:11] after a few uses you'll have to repaint
+[23:13] it but if you were to mix graphite with
+[23:16] something like water glass then you
+[23:17] would have a permanent paint that would
+[23:19] act as a sceptor we're going to use this
+[23:22] for our
+[23:23] demonstration so we're going to use this
+[23:25] thing it's a flower pot it cost me about
+[23:28] p and I'm going to make it out of this
+[23:30] now it's not the best material to make
+[23:31] it out of because this clay will stand
+[23:34] about 5 or 600° Centigrade and the K
+[23:37] gets up above and beyond that but it's
+[23:39] still good enough if what you want to do
+[23:41] is give this a go to see if you actually
+[23:43] want to try the craft if you like it and
+[23:46] you want to make a better version then
+[23:47] obviously you can use a better clay so
+[23:50] something like a stoneware cup for
+[23:52] instance will do a much better job uh
+[23:54] something like a porcelain cup or
+[23:55] porcelain Bowl that'll do an even better
+[23:58] job stone wear lasts to about 800 and
+[24:00] Porcelain is going to last to about
+[24:01] 1200° C so those materials are going to
+[24:04] last much much longer this one really
+[24:07] cheap give you a few gos to see if you
+[24:10] like the craft now I'm not a glass
+[24:13] Craftsman I'm a chemist so uh my glass
+[24:17] craft work it's rubbish but what you do
+[24:20] is you take your surface whether it's
+[24:21] our plant put or is your cup or your
+[24:22] porcelain and all you actually do is
+[24:25] paint a layer of the ink on the inside
+[24:27] side of whatever it is that you choose
+[24:30] to
+[24:31] paint now we've chosen this you can use
+[24:34] uh alumina brick actually if you use an
+[24:37] aluminum brick which you can buy on eBay
+[24:39] um then you pain it with this ink you
+[24:41] will have yourself a microwave Kiln that
+[24:44] is in fact absolutely On a par with the
+[24:46] commercial one that's in fact what
+[24:48] commercial kils are they're a bit of
+[24:49] alumina cast into the ship that uh the
+[24:52] round shape of the Kil and painted with
+[24:53] an ink very like hours only ours will do
+[24:56] this job as well
+[24:59] so once we've given it a coat and notice
+[25:01] I've only coated that section of it then
+[25:03] you've got to leave it to dry and give
+[25:05] it a little bit of time to dry and then
+[25:07] it'll be ready to go and that
+[25:08] effectively is your microwave Kil now
+[25:11] here's one I prepared earlier so it's
+[25:13] had a chance to dry and if I pop that in
+[25:16] the microwave it will get hot it'll get
+[25:18] to about 600° but it'll lose that heat
+[25:21] very very quickly so in order to fuse
+[25:23] glass you need to keep that heat in
+[25:24] there and we need some kind of
+[25:26] insulation the EAS installation is this
+[25:29] stuff which is ceramic fiber blanket you
+[25:31] can see how deep that is about as deep
+[25:33] as the plant pots are about 100 mm and
+[25:35] it's about half a meter long and that's
+[25:37] enough to go around my plant pot twice
+[25:40] now this stuff is amazingly insulating
+[25:43] so once I've wrapped that on my plant
+[25:45] pot and I want it to stay then I can put
+[25:49] something around there to keep that in
+[25:52] place like a bit of string so bit of
+[25:55] string is more than enough to keep this
+[25:57] stuff in place and the string isn't
+[25:59] going to burn because of the insulation
+[26:01] properties of the ceramic the ceramic
+[26:03] blanket you've just wrapped it in so tie
+[26:05] yourself a bit of string around
+[26:14] it and there you go one kill now how
+[26:18] stupidly easy was that so if you want to
+[26:21] practice with this craft to see this
+[26:23] crafter is for you that is going to be
+[26:25] one of the easiest cheapest ways of
+[26:27] getting around to it to see if you like
+[26:29] it if you like it and you want to make a
+[26:31] better version of this or even buy a
+[26:33] commercial version but if you want to
+[26:35] make a better version of this then you'd
+[26:37] want something like a lum silica brick a
+[26:39] fire brick it's that lightweight fire
+[26:40] brick drill it out so you get your
+[26:42] cavity on the inside and then you need
+[26:44] to pain the cavity with a bit of ink bit
+[26:46] of sceptor ink once you've done that
+[26:48] that's your kill and finished however
+[26:50] with our practice
+[26:51] kill what we got in here is our glass
+[26:54] tray and another square of ceramic
+[26:55] blanket because this gets really hot
+[26:57] remember two bits of glass that we're
+[26:58] going to fuse together pop our K on
+[27:01] there and stick the whole thing back in
+[27:03] the microwave now obviously you need to
+[27:06] make sure that your plant pot will go in
+[27:08] the
+[27:10] microwave otherwise you're in trouble
+[27:12] cuz it won't turn and I don't know if
+[27:14] you noticed but the microwave the plant
+[27:16] pot rather has a hole in it you need a
+[27:18] vent hole so if you choose something
+[27:20] like Stone Weare or porcelain you're
+[27:21] going to have to drill that vent hole
+[27:23] but tile drill will do that just fine
+[27:25] set that on for about 3 or four
+[27:28] minutes and leave it to spin now when
+[27:31] you look in there what you'll see is a
+[27:34] red hot glow out of this so when this is
+[27:37] done and it pings then leave it for half
+[27:39] an hour to cool down naturally once
+[27:41] you've left it for half an hour to cool
+[27:43] down naturally again in good blue pet of
+[27:45] tradition here's a bit that I fused
+[27:47] earlier and you can see the two layers
+[27:49] of glass and they're fused beautifully
+[27:51] into each other so in order to make
+[27:53] those cheapest possible microwave kill
+[27:55] plank pot our in some ceramic blanket
+[27:59] you want to make a super duper one get
+[28:00] some aluminium aluminum aluminium oxide
+[28:03] block carve out a shallow hole paint the
+[28:05] inside with some ink and put it on a
+[28:08] tray and you've got yourself a microwave
+[28:10] Kil to practice this uh glass fusing
+[28:13] craft the Oxford Bell the Oxford Bell is
+[28:16] a nonstop ringing Bell that's been
+[28:19] ringing since 1840 and it's at Oxford
+[28:22] University at the Clarendon laboratory
+[28:25] it was made by Watkin and Hill London
+[28:27] based instrument makers and it was
+[28:29] purchased by the Reverend Robert Walker
+[28:31] an experimental philosophy reader he's
+[28:34] actually got a note there that says set
+[28:36] up in 1840 and that note still stands
+[28:39] the setting up was verified by his
+[28:41] grandson and a photograph was taken and
+[28:43] it has rung ever since despite its
+[28:47] Perpetual ringing the bell's actually
+[28:49] nearly inaudible the inner workings are
+[28:51] clearly visible through the glass Dome
+[28:53] and it consists of a small metal Clapper
+[28:55] which is likely brass and that hangs
+[28:57] suspended by a thin silk fiber between
+[29:00] two vertical pillars which are dry piles
+[29:04] linked in series The Clapper pearshaped
+[29:07] because it's worn slightly on one side
+[29:09] from striking the bell's Edge on the
+[29:11] opposite side it remains unmarked as it
+[29:13] strikes above the lower set edge of the
+[29:16] Bell between the bell's brass terminals
+[29:18] at the base of the pillars the voltage
+[29:19] measures around 2 kilov volts and The
+[29:22] Clapper draws about one nanoamp while
+[29:25] oscillating roughly at 2 Hertz twice the
+[29:28] expected rate under Gravity alone the
+[29:30] oscillations actually vary with weather
+[29:33] conditions and slow down in humid
+[29:35] weather and occasionally cease due to
+[29:37] increased humidity however they resume
+[29:40] automatically without anybody having to
+[29:42] give them a little push there have been
+[29:44] times when the bell was deliberately
+[29:46] stopped but that was mostly due to
+[29:48] having to relocate it the exact
+[29:50] composition of the piles is actually
+[29:52] unknown but it's evident that they have
+[29:54] an outer layer of sulfur and that seals
+[29:56] the cell and possibly an electrolyte
+[29:59] similar piles are created by Zamboni and
+[30:02] duuk and are quite famous consisting
+[30:05] mostly of 2,000 pairs of tin foil discs
+[30:09] adhered to zinc sulfur impregnated paper
+[30:12] coated on the other side with manganese
+[30:14] dioxide notable other contributors in
+[30:17] the field of dry piles include Jean deuk
+[30:20] a fellow of the Royal Society credited
+[30:22] as a Pioneer in the field along with the
+[30:24] works of people like meol be an and
+[30:28] Zamboni as previously mentioned interest
+[30:30] was not always confined to inorganic
+[30:32] substances and metals and there are
+[30:34] accounts of the performance of piles
+[30:37] made from slices such as wood beetroot
+[30:40] radish all kinds of things the
+[30:42] conviction was that a natural process
+[30:45] was involved and this might have led to
+[30:47] the use of Manganese dioxide which in
+[30:49] itself is pretty impressive as a
+[30:51] substance which releases oxygen on
+[30:53] heating zambone certainly included
+[30:55] manganese dioxide in his re recipe the
+[30:57] dry piles weren't limited to Electric
+[30:59] Bells they also powered pendulum clocks
+[31:02] and Publications from the early 19th
+[31:04] century by Ronald and Zamboni detail
+[31:07] their applications in other methods
+[31:10] during World War II the Oxford dry pile
+[31:13] played an unexpected role in scientific
+[31:16] history as a portable battery the admal
+[31:18] Tre research laboratory were working
+[31:20] with an infrared telescope using an
+[31:22] image converter tube with a lead sulfide
+[31:25] cathode and this was led to replace by
+[31:27] lead toide but it called for a portable
+[31:30] battery of about 3 kilovolts at a very
+[31:32] low current Dr a Elliot an Oxford
+[31:35] physicist remembered the dry Pile in the
+[31:37] Clarendon laboratory and followed a
+[31:39] recipe given by Charles E Benham in the
+[31:41] English mechanic February to March
+[31:44] 1915 and made quite a few of them that
+[31:46] saw military use all the way through the
+[31:48] second world war they were also used in
+[31:50] electrostatic voltmeters and night
+[31:53] vision scopes the oo Drive p is still
+[31:56] working working and shows no signs of
+[31:58] exhausting its energy in fact it seems
+[32:00] more likely that The Clapper will wear
+[32:02] out before the energy stores are
+[32:04] depleted the exact method of operation
+[32:07] is under debate on whether it's an
+[32:09] electrostatic device so it works just by
+[32:12] contact of two dissimilar materials
+[32:14] exchanging electrons or it works just
+[32:16] like any other the battery via chemical
+[32:19] reaction and it is an important
+[32:21] difference because if it's electrostatic
+[32:24] then of course it is a Perpetual device
+[32:27] it will for all intents and purposes
+[32:29] just last forever if it's like a normal
+[32:32] battery of course it's going to last
+[32:33] until the reactants run out now somebody
+[32:36] did point out that given that the
+[32:38] thing's been running for about 170 years
+[32:40] or so and it's about one nanoamp of
+[32:43] energy it takes about one microgram of
+[32:45] the reactants to provide that energy and
+[32:48] so of course it's got a while to go
+[32:51] somebody else however pointed out that
+[32:53] if you get moisture in these batteries
+[32:55] to form like electrolyt it does in fact
+[32:58] kill them so there is a huge debate with
+[33:01] stuff at stake as to how this thing
+[33:04] actually works it's actually really
+[33:07] really easy to make now essentially it's
+[33:09] two materials in contact with each other
+[33:11] now if you put any two materials in
+[33:13] contact with each other at the point of
+[33:15] which they touch they will in fact
+[33:16] transfer electrons now obviously some
+[33:19] materials are better at this than others
+[33:21] and the traditional one uses zinc and
+[33:23] manganese dioxide you see you have a
+[33:25] layer of zinc foil a layer of a
+[33:27] separator usually paper and a layer of
+[33:29] Manganese dioxide you slap them all
+[33:31] together and you get a pretty good
+[33:33] sandon pile now we don't have any zinc
+[33:36] foil or manganese dioxide so I'm going
+[33:38] to make it with stuff that I have
+[33:39] available and here it is this is just
+[33:42] aluminium foil it's Roofing foil it's
+[33:44] really easy to get hold of you just go
+[33:46] down to the Builder's Merchant and
+[33:48] you'll see it sitting on the shelf and
+[33:50] just buy yourself a
+[33:51] roll you've attached your foil flip your
+[33:54] paper over now I'm going to use my uh
+[33:56] ordinary conductive ink this is just the
+[33:58] non-waterproof stuff and all you do is
+[34:01] pent a
+[34:03] layer so when it's dry you'll have a bit
+[34:06] of paper with some zinc fall on one side
+[34:07] and some conductive ink on the other
+[34:09] side and all you have to do then is cut
+[34:11] it out once you cut it out you'll get
+[34:13] that then all you have to do is cut it
+[34:15] into roughly 25 mm squares and there we
+[34:19] go if you want a more impressive pile
+[34:21] you need to make a couple of thousand of
+[34:23] these put them together in one big pile
+[34:25] add an aluminium C contact plate and
+[34:27] wrap them up with some cellot tape so
+[34:30] that is a 100 nanar capacitor with an
+[34:33] LED light we wait a few seconds and you
+[34:35] should charge the
+[34:41] capacitor then we can do it
+[34:48] again and
+[34:50] again I forgot to mention that a good
+[34:53] source of the carbon might be that which
+[34:55] is the electr smog paint that we keep
+[34:57] going on about it's a graphite pain
+[35:00] supposed to contain graphine but it
+[35:01] would be a good carbon to use in a
+[35:04] device like that because it is an
+[35:06] intriguing device I mean it's um easy to
+[35:08] make but it is a little fiddly but still
+[35:12] lots of interesting things might be able
+[35:14] to be done with something like that
+[35:15] somewhat obviously this is a petrol
+[35:18] driven generator and I bought it a few
+[35:20] years ago because of the fuel crisis and
+[35:22] it basically sits around for absolutely
+[35:25] edges because it gets use every sort of
+[35:27] 2 years or so and of course that creates
+[35:30] a bit of an issue because petrol these
+[35:32] days is actually a mixture of petrol and
+[35:34] ethanol and a mifile to make sure it all
+[35:36] mixes and after 3 or 6 months or so it
+[35:39] separates out and the petrol is unusable
+[35:42] so you have to keep rotating it if this
+[35:44] is going to be any use whatsoever and
+[35:46] that's a pen in the neck but there is a
+[35:48] fuel that has a virtual forever lifespan
+[35:51] and that's in your barbecue it's um
+[35:54] propane or butane or a mix that will
+[35:57] last as long as the cylinder lasts
+[35:59] without you having to change it so it's
+[36:01] a really cool fuel to be able to use in
+[36:03] something like this which is an
+[36:04] emergency generator and of course they
+[36:06] are considered a clean burn in the same
+[36:09] way that ethanol is whereas petrol of
+[36:12] course is considered a dirty burn and
+[36:14] the conversion of these is a huge mnom
+[36:17] actually because the conversion is just
+[36:19] ridiculously simple I mean you can buy
+[36:22] kits but the kits are Mount to metal
+[36:25] plates with little sprigs on them where
+[36:26] you can put the hoses without them
+[36:28] dropping off but right here is the air
+[36:31] filter and if I remove the air filter we
+[36:34] have a sponge take that away and there
+[36:37] is the actual carburetor now if I take
+[36:40] my gas hose and just dangle it there and
+[36:42] cell tape it on here turn over the
+[36:44] engine the engine vacuum will pull the
+[36:47] gas into the engine and the engine will
+[36:49] run GS gy Dandy I mean there's a
+[36:52] difference in the air to fuel ratio that
+[36:54] you have to introduce but you can fiddle
+[36:55] on with that by twisting the valve until
+[36:58] you get the right ratio and it runs the
+[36:59] engine beautifully there are lots of
+[37:02] videos on this on YouTube on how to do
+[37:06] these conversions and the simplest one
+[37:08] as I say just dangle the hose right
+[37:10] there and cellot tape it on although you
+[37:12] can buy various kits to do it so this is
+[37:16] from a regular barbecue it's got the
+[37:18] regulator on one side and two gas rings
+[37:20] on the other when you turn the gas on
+[37:22] you'll have gas coming out of these two
+[37:24] ring ports attached to rubber hoses and
+[37:26] then position them over the air intake
+[37:29] of the carburetor so the setup of this
+[37:31] there's the propane tank with its
+[37:33] regulator there's the setup that came
+[37:35] off the grill leading into the
+[37:37] carburetor and those are the original
+[37:39] gas knobs that control the gas
+[37:42] [Applause]
+[37:55] flow now don't don't get me wrong I'm
+[37:57] not saying do it like that I'm saying
+[37:59] it's as simple as doing that which is
+[38:02] why all petrol cars can be converted to
+[38:04] LPG and while the LPG conversion isn't
+[38:07] that expensive and if you're more
+[38:09] comfortable with buying an online kit
+[38:12] buy an online kit but it really is that
+[38:15] simple to be able to convert a petrol
+[38:18] driven engine to a propane butane LPG
+[38:22] engine of course they're still being
+[38:24] driven by something that you so what is
+[38:27] the advantage of it well it produces
+[38:30] more energy it's a safer Fuel and it's
+[38:33] more flexible to use but of course the
+[38:35] bulk we that propan is made at the
+[38:37] moment is from the liquid components
+[38:39] recovered during natural gas processing
+[38:42] so it's essentially still a fossil fuel
+[38:45] in that bag of horrible fossil fuels and
+[38:49] that was a state of affairs until the
+[38:50] rise of
+[38:52] biopan it's derived from biological
+[38:54] sources rather than fossil fuels and it
+[38:57] shares identical properties with
+[38:58] conventional propane however as a
+[39:01] renewable fuel bioproperties
+[39:26] biomass and such into gases advancements
+[39:30] in biochemical engineering catalysts and
+[39:33] process optimization have played a
+[39:35] pivotal role in
+[39:39] biproportional biomass conversion
+[39:42] through pyrolysis and gasification or
+[39:44] fermentation hydrogenation of organic
+[39:47] oils and fats to convert them into a
+[39:49] propane and waste conversion of organic
+[39:52] waste materials but in the last 5 years
+[39:55] or so there is been a new kid on the
+[39:57] Block and that is alga algae are
+[40:01] absolutely everywhere and they're
+[40:02] defined as a group of photosynthetic
+[40:05] organisms that lack true root stems and
+[40:08] leaves so there's just a huge amount of
+[40:11] them with an enormous range of
+[40:13] properties and possibilities another
+[40:16] source of biopro arising is the use of
+[40:19] bacteria scientists in Finland have used
+[40:21] sishir coli to produce propane at
+[40:25] commercial levels
+[40:26] so as you've seen propane and therefore
+[40:29] biopan is what's called A Drop in fuel
+[40:32] we don't have to change anything we can
+[40:34] continue using all the Machinery we've
+[40:36] got just with propane as the fuel the
+[40:39] issue has been the source of the propane
+[40:42] it's either come from cracking gases or
+[40:45] it's come from food stuffs but with the
+[40:47] Advent of algae and bacteria as being
+[40:51] the methodology for propane production
+[40:54] that issue really goes way it's one of
+[40:57] the reasons I don't particularly worry
+[40:59] about these things because we have so
+[41:02] many valuable and viable Technologies
+[41:05] and ideas that people are working on all
+[41:08] of the time to be able to overcome the
+[41:11] issues that we think we've got it's just
+[41:14] we're not as aware of them as perhaps we
+[41:17] should be and those alga and bacteria
+[41:21] produced fuels that can be used straight
+[41:24] As is in the machinery we've got
+[41:26] represent to me a huge opportunity have
+[41:30] you ever thought about these they're
+[41:32] so-called floating tables and they work
+[41:35] on a principle called
+[41:37] tensegrity now the idea of tensegrity
+[41:40] has been around for absolutely ages
+[41:42] there is an argument that traditional
+[41:44] kayaks and Shi from Japanese housing use
+[41:48] this idea of T seg but it really came to
+[41:51] the Forefront I would suppose in a 1920s
+[41:54] Russian art movement that developed
+[41:56] veloped across the world and could be
+[41:58] argued to have reached its peak with
+[42:01] Kenneth snelson in
+[42:03] 1948 and his famous Needle tower
+[42:06] sculpture put up in
+[42:08] 1960 and it was in the 60s that bminer
+[42:11] Fuller coined the term 10 segr and it's
+[42:14] been with us ever since finding
+[42:17] applications in architecture like in the
+[42:19] 1988 Summer Olympics it was used in the
+[42:23] uh roof of the men's stadium and in 200
+[42:26] 9 a bridge was put up in Australia
+[42:28] called the Kila bridge and then in 2014
+[42:32] NASA created something that they call
+[42:35] their super ballbot which is interesting
+[42:39] name and it's also an argument there
+[42:41] exists something called
+[42:43] biotensegrity where muscle and skeletal
+[42:46] structures and cell membranes are held
+[42:49] together by the same principles
+[42:51] compression and tension compression is
+[42:54] when you try to squeeze something
+[42:55] together and across things like tubes
+[42:58] are brilliant if you try to squeeze them
+[43:00] together which is why wood is so good
+[43:02] because wood is basically lots of tubes
+[43:04] all packed together tension is when you
+[43:07] pull something apart it's really good on
+[43:09] that is bits of string and wire if you
+[43:11] pull them they're very strong CU if we
+[43:13] push them they've got no compression at
+[43:15] all it just fold up tensity is the
+[43:18] arrangement of things so they only have
+[43:22] compression where they're good at
+[43:23] compression and tension when they good
+[43:26] at tension because there's also another
+[43:28] Force obviously if I'm compressing
+[43:30] something and I put a force in that
+[43:33] direction it's called shear and of
+[43:34] course things that are good in
+[43:36] compression aren't that good in
+[43:39] Shear so for a floating table we have a
+[43:41] support structure attached to the table
+[43:43] top and that's hung with this cable from
+[43:46] a bottom support structure the table top
+[43:48] and the top support structure tries to
+[43:51] fall downward because of gravity and
+[43:53] that creates tension in this cable and
+[43:55] prevents it from falling downward of
+[43:57] course the tabletop isn't very stable
+[43:59] with this Arrangement which means more
+[44:01] support cables with proper tension are
+[44:03] needed in order to make it stable so
+[44:05] this cable at the back prevents a
+[44:07] tabletop from tilting forwards and in
+[44:10] the same way with the minimum of three
+[44:12] that is two more cables it's possible to
+[44:14] block all motions of the tabletop the
+[44:16] center cable prevents it from dropping
+[44:18] down and we get a stable structure with
+[44:20] the tabletop suspended in midair now to
+[44:22] make one of these you need a structure
+[44:24] like this and you basically print off
+[44:26] two of those and here they are now that
+[44:28] one forms the bottom structure and that
+[44:31] one goes there with the two cups
+[44:32] underneath each other because these two
+[44:34] discs are where you tie the bit of
+[44:36] string so this top bit falls down and we
+[44:39] get our string in tension and three more
+[44:41] strings around it and hey Presto you've
+[44:43] got your floating table and of course
+[44:45] you can make these in any shape you like
+[44:47] as long as you've got these two points
+[44:49] one above the other you don't only need
+[44:51] to use a little bit of string you can
+[44:53] achieve the same effect with magnets so
+[44:56] in that little recess I've put one of
+[44:57] these magnets and it's uh 4 mm x 15 mm
+[45:01] north south on the top and bottom face
+[45:03] and I've also attached some very fine
+[45:05] copper wires to the three slots and that
+[45:08] one I've done exactly the same but these
+[45:11] magnets are actually attractive so they
+[45:14] hold that way what we need to do is
+[45:16] stick something in between those that
+[45:18] will stop them going all the way
+[45:20] together so I've got a couple of washers
+[45:22] and a plastic spacer we put those
+[45:25] together and and that will give us the
+[45:27] height now if it won't quite stick like
+[45:29] this one want because the magnets aren't
+[45:32] strong enough well add some extra
+[45:34] magnets so that you get it to
+[45:38] stick when it's holding together then we
+[45:41] can take these copper wires and line
+[45:43] them up with the three slots we've got
+[45:45] in the top section and fasten them down
+[45:49] okay if you're thinking about doing this
+[45:50] I can tell you doing it with the magnet
+[45:52] is a huge F the long but when you get it
+[45:54] to work I mean it's really worth it
+[45:56] because it does look like it's floting
+[45:58] there which is pretty
+[46:01] cool n why do I say this is a generator
+[46:06] well it's being investigated as the
+[46:09] possibility of being a generator the way
+[46:12] T secrity structures are being used
+[46:15] actually boggles the Mind from the very
+[46:17] structure itself because it's self
+[46:20] erecting it can collapse down into
+[46:23] nothing and the structure is incredibly
+[46:25] robust and adaptive to changing
+[46:28] conditions and so it's finding its use
+[46:30] in things like wind turbines equally in
+[46:33] wave machines where you can put the
+[46:36] structure in the sea and use the
+[46:38] structure itself it's also being used in
+[46:41] adaptive solar cells on these sides of
+[46:44] buildings and when you think about the
+[46:47] tensegrity structure then you can look
+[46:49] at the very elements of it that is the
+[46:51] rods or the ropes to turn those into
+[46:54] energy scaven Avengers where the
+[46:56] stretching can be used to harvest tribal
+[47:00] electricity or to use a linear generator
+[47:03] so it's again mindboggling it's far
+[47:07] greater than a floating coffee table as
+[47:10] an amusing parlor trick to something
+[47:13] that really is quite interesting and
+[47:16] quite astounding water Motors are one of
+[47:19] those examples in technology that look
+[47:22] like a forgotten technology but far from
+[47:24] it what Motors are built in Industry
+[47:27] today with abilities in the sort of 8 to
+[47:31] 15 kilowatt range of generation it's not
+[47:34] that they've forgotten it's more that
+[47:37] we're not really aware because you find
+[47:39] them in all kinds of places that are
+[47:42] relatively surprising like fire alarms
+[47:45] for instance and they're still being
+[47:46] made their history goes back to the late
+[47:51] 1800s and the Pelton wheel because most
+[47:54] of them were in fact Pelton Wheels in
+[47:56] our housing and they found a huge range
+[47:59] of applications from things like sewing
+[48:02] machines right the way through to both
+[48:05] domestic and industrial fans and even
+[48:08] weird things like food mixes and washing
+[48:11] machines and potato peelers right the
+[48:14] way through to home generation units and
+[48:18] even maano produced a range of water
+[48:20] motors for the maano sets all based on
+[48:23] the Pelt and wheel and the hergo turbine
+[48:26] we've talked about before and that is
+[48:28] kind of a development of the Pelt and
+[48:30] wheel and it's very efficient so an idea
+[48:33] of running a turgo turbine as a water
+[48:36] motor I would think would be
+[48:38] tremendously interesting so I turned to
+[48:41] Tinker Cad and Drew this up now you got
+[48:43] to remember this is a work in progress
+[48:45] but I will put this on thingy verse
+[48:47] should anybody actually want to join in
+[48:49] and use these parts so the heart of this
+[48:51] device is pretty straightforward it's
+[48:53] really these five bits of course we've
+[48:55] got the turbine which is right there and
+[48:57] it goes into the housing which is made
+[48:59] out of this bit the turbine slopping in
+[49:02] there and then the housing top and
+[49:04] there's a foot there as a drain that
+[49:06] lines up with those three holes there so
+[49:09] all we've got to do really is put some
+[49:11] bearings in here a piece of 8 mil rod
+[49:15] down there and glue it to the foot and
+[49:17] that's all we really needed to do now
+[49:19] these are uh 608 bearings so they're 7
+[49:22] mm deep 8 mm Center 22 2 mm wide and
+[49:27] they take an 8 mm piece of bar so I'm
+[49:29] going to stuff some bearings in there
+[49:33] there we go
+[49:35] one two and two in here and glue the
+[49:39] foot on and put that in okay like that
+[49:42] now you might notice there's an 8 mil
+[49:43] washer there that's a standard thing for
+[49:45] me to put an 8 mil washer in because
+[49:46] when we press something together that
+[49:48] will press against the inner s of that
+[49:51] bearing there and it won't lock against
+[49:53] this here and allow it to spin freely
+[49:56] because all we do now is making sure
+[49:57] this is pointing upwards put that on
+[49:59] there and in there you'll see three
+[50:01] little holes 2 mm across pointing at 30°
+[50:05] into that section there so the water
+[50:08] gets fed in here squeezes out through
+[50:10] there and jets over in that direction on
+[50:13] the turgo so let's put that
+[50:30] now we add that bit onto there because
+[50:32] that's the bit that takes the hose
+[50:34] attachment and this is free to
+[50:36] turn here we
+[50:39] go one thing I forgot to point out was
+[50:41] the draft excluder you'll see around
+[50:43] here there's a white draft excluder you
+[50:45] can get it white or brown and it's this
+[50:47] d-shaped draft excluder you just pull
+[50:50] off the backing and stick it down all
+[50:52] the way around and it'll form a water
+[50:54] seal so we don't get too much water uh
+[50:57] coming out it's incredibly cheap and
+[50:58] it's well worth doing so we just put a
+[51:00] bit of that draft excluder then we put
+[51:03] the cover on and then when I've got here
+[51:06] and these are in the F actually a little
+[51:07] C clamps they just go over there tighten
+[51:10] down to hold the cover in place and
+[51:12] there's four of them okay and that's it
+[51:15] together now all we got to do is test it
+[51:17] and that means putting a hose on there
+[51:20] now any water wheel is going to work if
+[51:21] you point some water at it so we point
+[51:23] the hose without the top on of course
+[51:25] it's going to spin but this is the
+[51:27] difference it makes when we change that
+[51:29] to pressure I put my finger over it and
+[51:32] create a bit of pressure the volume of
+[51:34] water has changed the pressure has gone
+[51:36] up and look how crazily it spins and
+[51:39] that is the benefit of a thing like a
+[51:41] Pelton wheel or in this case a turo
+[51:44] turbine now the turbine operates best
+[51:47] apparently when that water jet is
+[51:49] somewhere between 25 and
+[51:51] 30° so these are the holes in the lid
+[51:53] and they're set at 30° GRE M they seem a
+[51:57] bit weedy to me so this is the first
+[51:59] effort we'll put it together and see
+[52:02] what happens and if we put the wheel on
+[52:04] we can see it does spin it although
+[52:08] perhaps not as well as the other one
+[52:24] did
+[52:38] okay so for me that was a learning
+[52:40] experience that bit I thought worked
+[52:43] really well actually the water didn't
+[52:45] clog up it drained out nicely because I
+[52:47] was worried that this would be too big
+[52:49] we get Splash back and we get clogging
+[52:51] and all sorts of things but that work
+[52:53] bit I think worked really nicely though
+[52:55] maybe we do want to shrink that down a
+[52:56] bit I still thought that worked nicely
+[52:59] this bit I'm a little bit more Omar
+[53:01] about I put in three holes there that
+[53:03] are 2 mm diameter and I don't think the
+[53:06] water came out with a lot of force
+[53:08] particularly when you compared it to
+[53:09] just putting my thumb on the end of the
+[53:11] pipe so I'm thinking that these holes
+[53:13] aren't a good idea what we could look at
+[53:15] is maybe a slot and take it down to 1 mm
+[53:19] anyway I hope you enjoyed the video
+[53:21] thank you very much for watching and I'm
+[53:23] going to pursue this a little bit more
+[53:25] because I certainly think it's
+[53:26] interesting but perhaps not as
+[53:28] interesting as the fact that you can
+[53:30] just buy these if you want anyway thanks
+[53:33] again

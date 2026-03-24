@@ -1,0 +1,636 @@
+[
+  {
+    "id": "Ugxji6s1L999qB7IHfh4AaABAg",
+    "author": "@dinosaur0073",
+    "author_channel_id": "UC3TGtkgDxT93Ydxjqh5ajvA",
+    "text": "Thank you, Robert .\nBatteries sometimes draw more than 15A \n I don't think that mini generator will be able to provide that amount of current...",
+    "likes": 0,
+    "published_at": "2024-03-14T10:21:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxn1VBA3-7pZFkAYX14AaABAg",
+    "author": "@townbell2248",
+    "author_channel_id": "UCHaIcWb40vdypRhYHCC_-PA",
+    "text": "What type of wire at 30 gauge is needed? I have pure copper wire that is not coated in anything. Will that work?",
+    "likes": 0,
+    "published_at": "2024-01-19T18:29:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyU9s7KCXog2WWcnSN4AaABAg",
+    "author": "@pilbomags488",
+    "author_channel_id": "UCVCVk3QHHVCqgMFZyVLxxfw",
+    "text": "He doesn't show anything he's done. For all we know, the fan was already fine and no changes were necessary.",
+    "likes": 0,
+    "published_at": "2022-10-22T18:46:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLM01Tm0Bofn5ISXZ4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Thank you so much, this is Awesome!! \nYou have a knack for Explaining stuff! \n\nSo that I have no problem at all with understanding!\n\nYou are a star!! I have been scratching my head about This for a few days.... \n\n~I did see someone else who gave me a headache after going around the houses!!\n\nI'd like to have a medal struck for you and\n the clear language thingy. Wassitsname that I can't recall just the now.... AX",
+    "likes": 0,
+    "published_at": "2021-12-21T07:14:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwHLFupncPPUBgjiS94AaABAg",
+    "author": "@thomasking5970",
+    "author_channel_id": "UC2zhf-m1VHxqn3-G3_cKxew",
+    "text": "Would I be better off using fans made for 24 volts than those for 12, or is the wire the same in both and the little circuit board different?",
+    "likes": 0,
+    "published_at": "2021-12-21T04:25:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwHLFupncPPUBgjiS94AaABAg.9WCJiyqXFjY9WD9ZcD9x5E",
+        "author": "@dougaltolan3017",
+        "author_channel_id": "UC6tl2LAOXFASx8r9Jx1lCEw",
+        "text": "A 24 V fan will have thinner wire with more turns than a 12 V fan (probably twice as many turns) . Exactly along the same lines as this vid, but probably only half the way there as this demonstration managed 4 times the turns.",
+        "likes": 0,
+        "published_at": "2021-12-21T12:16:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyvOxpODv0brPGcJ714AaABAg",
+    "author": "@3D_Printing",
+    "author_channel_id": "UCn94CfWGHIwZGYiBwzPEV_A",
+    "text": "Also closer together, distance",
+    "likes": 0,
+    "published_at": "2021-12-19T23:47:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9QKaz4awDzhToFCt4AaABAg",
+    "author": "@Flashahol",
+    "author_channel_id": "UCPheyZs8qRCUsLKO31DCM_Q",
+    "text": "I just had another realization about PC fans: they are made to push air onto a very small area, so they have short blades. Short blades = low leverage.",
+    "likes": 1,
+    "published_at": "2021-12-19T23:45:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzRXPTtJh6K-7PM8-x4AaABAg",
+    "author": "@trevorvanzuydam8115",
+    "author_channel_id": "UCE8YtB2OxY1gNT4Aqd12Jow",
+    "text": "Your ring looks like it needs to be resized",
+    "likes": 0,
+    "published_at": "2021-12-19T17:54:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgymgtVTcvxdau4SnQh4AaABAg",
+    "author": "@gregorykusiak5424",
+    "author_channel_id": "UC2SsX4PShFlSMU_fnXc6QFA",
+    "text": "Low voltage and current stuff can be fun, but it’s difficult to optimize for efficiency, as demonstrated here. Meaningful power output vs useful power output are different and people need to understand them better. If the stock fan can’t light an LED, why not add a joule thief to its output?  The transistor should send out higher voltage pulses well above what it takes to light the LED, fast enough that we won’t see it flicker. When light isn’t required, the energy could be sent to a storage device for when there is no wind and light is required (or heat or an electrolyzer for fuel or…)",
+    "likes": 0,
+    "published_at": "2021-12-19T17:15:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8gBDjjW3sQ6vafN94AaABAg",
+    "author": "@B.Cote39",
+    "author_channel_id": "UCM72C8QbH-OCsfBd1rHbnPQ",
+    "text": "Funny I was just playing with these fans in the kitchen with a PC power supply(girlfriend was thrilled🙄😅), we must be on the same wavelength Robert!😎🙏do you think there's some people just naturally drawn to electricity? Thank you and Merry Christmas from Canada!",
+    "likes": 0,
+    "published_at": "2021-12-19T13:01:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzM8jN9X12Eu-teI0J4AaABAg",
+    "author": "@BiosWars",
+    "author_channel_id": "UC6XpAunM6biQ2P0unTpjXig",
+    "text": "My God, just watching and hearing this bring me back 40 years when I started studying advanced electromagnetism. It's truly a wonder no one has figured out, or cracked how to tap the great voltages that sparks / or are displaced when you open a energized coil circuit.  Talk about the potential for true solid state harnessing / generation. I guess I'll have to put on my self generating LED thinking cap, sure is brighter than the bulb. Thanks Rob, here we go again.",
+    "likes": 2,
+    "published_at": "2021-12-19T09:34:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzM8jN9X12Eu-teI0J4AaABAg.9W7iVukQu8-9WCeqfUeKtv",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "Thank You so much for being about the same age as myself!!\nI sometimes feel like a dinosaur,\n\n when I was seeing graphine and batteries,\nAnd, all the young people were here, with thier fresh spongy brains and I felt very, very Old!\n\nBless you, I was very briefly in the WRAF, so if you knows your onions then you can probably guess approx  age, Lol!!\n\nI Was an Apprentice Aircraft Engineer, Hahaha!! Luckily for the brave lads and thier crews, I had to go back home, as my mother needed me.....\n\nYeearrk!! My life would have been so different... \nThere again, probably saved(many!) lives, can you imagine Anyone allowing Me Anywhere Near an Aircraft?!\n\nThey must have been stuck for enough recruits, \nwith the correct amount of brain cells?!\nI hope you are well and have a wonderful holiday week ahead!\n\nI'm going to be hiding under the stairs, please don't tell anyone, Lol!\n \nOnce again, I thank you and I hope you and yours \nwill be having a good Christmas and a Happy New Year!!\nKindest Regards,\nAndrea Dingbatt. XxX",
+        "likes": 1,
+        "published_at": "2021-12-21T07:39:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwlfKjZt49FXmfbFQR4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍🙏🙏🙏👍",
+    "likes": 0,
+    "published_at": "2021-12-19T08:41:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhYGEBbAGFva5gy8l4AaABAg",
+    "author": "@idea-shack",
+    "author_channel_id": "UCYlDIDp0quGn404cp_D89pQ",
+    "text": "Would love to see a planetary gear fitted to the inside of the that fan.",
+    "likes": 0,
+    "published_at": "2021-12-19T07:47:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtkILS-x1TWisEU_t4AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "Interesting TY!   4 thoughts to increase power?  1.  Use longer thinner stronger wire like  graphene , titanium, irdium, hafnium carbide wire.  2. Was wondering, if a special dialectic used for structure where wire is wrapped might increase magnetic field?  Not sure but worth a little research.  3.  Strongest magnets you can get to increase magnetic field.  Lastly, another YouTuber was able to break 95 efficiency by positioning the wire and the magnets in such a way as to capture more of the magnetic flux through the wire.\n5. Lol  Well does not  meet Roberts reasonable goal of average Joe and low cost, but high temp super conductivity wire.   Still has to be quite low temp but has crazy good magnetic field, no resitance and high efficiencies.  Had to through that in.  :)",
+    "likes": 1,
+    "published_at": "2021-12-19T04:20:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgypItRrjZ4DGitv1Rx4AaABAg",
+    "author": "@bknesheim",
+    "author_channel_id": "UCI1Oh1qpCTPDQdmxNmKIjNA",
+    "text": "Increase in volt is not the same as increase in power. If the ampere goes down, as it will, you end up with the same power. The difference is a higher voltage on a lower fan speed. That often make it easier to use for something.",
+    "likes": 0,
+    "published_at": "2021-12-19T03:18:38Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgypItRrjZ4DGitv1Rx4AaABAg.9W72SfbjmtX9W7ZbXStto2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that has nothing to do with the wiring mate output power is always less than input power - a generator doesn't function as a creator of energy - it is a convertor - amps are really dependant on the load not on the generator per se - but you are spot on on the second part of your comment",
+        "likes": 0,
+        "published_at": "2021-12-19T08:08:20Z"
+      },
+      {
+        "id": "UgypItRrjZ4DGitv1Rx4AaABAg.9W72SfbjmtX9WD9GHGqlhj",
+        "author": "@dougaltolan3017",
+        "author_channel_id": "UC6tl2LAOXFASx8r9Jx1lCEw",
+        "text": "The current is dependent on load, for the same load, you will increase the current as the voltage increases.\nWhere does the extra power come from? Higher torque at the fan, leading to better efficiency extracting energy from the air flow.",
+        "likes": 0,
+        "published_at": "2021-12-21T12:13:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyD9Og4HqMWf0u-x614AaABAg",
+    "author": "@archibaldvonkranski8881",
+    "author_channel_id": "UCsdMbWWib3M0vNDuR94SMXw",
+    "text": "Always start my day with a dose of coffee and TnT. Great upload 🤔??? If you rewind the coils on a new fan in the same manner, would you there for make a higher velocity motor???. If yes i would love to see a comparison on an upcoming video 🙏😁",
+    "likes": 0,
+    "published_at": "2021-12-19T02:13:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwGePq4Jnwcrdi-U994AaABAg",
+    "author": "@donaldburkhard7932",
+    "author_channel_id": "UCt9Nf1choVm4k1fkfp63FWg",
+    "text": "Wind multiple wires together into a single rope-like strand, then make the coil.",
+    "likes": 0,
+    "published_at": "2021-12-19T01:47:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGePq4Jnwcrdi-U994AaABAg.9W6t191-C769W7c4vp8_5Y",
+        "author": "@DoubleBob",
+        "author_channel_id": "UCcLWZ7I79MT9H3M7ITeGUmg",
+        "text": "How would you even do that without cancelling out the EM effect's direction?",
+        "likes": 0,
+        "published_at": "2021-12-19T08:38:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZ3cEO4B6vWVTH9O94AaABAg",
+    "author": "@fins59",
+    "author_channel_id": "UC6lGl8AuwtCaxB8tQ6eDfLA",
+    "text": "The power output doesn't change.\nAll rewinding the coils has achieved is a lower current at a higher voltage.\nNow it can light a LED! Well whoopee!",
+    "likes": 1,
+    "published_at": "2021-12-19T01:07:15Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwZ3cEO4B6vWVTH9O94AaABAg.9W6oQO3D6pq9W7Zk9fPHMS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes - and that makes it easier to use - which is the point",
+        "likes": 0,
+        "published_at": "2021-12-19T08:09:31Z"
+      },
+      {
+        "id": "UgwZ3cEO4B6vWVTH9O94AaABAg.9W6oQO3D6pq9W7cVVLDlYN",
+        "author": "@DoubleBob",
+        "author_channel_id": "UCcLWZ7I79MT9H3M7ITeGUmg",
+        "text": "So what's with the increased Watt output then?",
+        "likes": 0,
+        "published_at": "2021-12-19T08:42:20Z"
+      },
+      {
+        "id": "UgwZ3cEO4B6vWVTH9O94AaABAg.9W6oQO3D6pq9WDA1jDC-cv",
+        "author": "@dougaltolan3017",
+        "author_channel_id": "UC6tl2LAOXFASx8r9Jx1lCEw",
+        "text": "Higher voltage = higher current = higher torque = greater efficiency, which is where the extra power comes from.",
+        "likes": 1,
+        "published_at": "2021-12-21T12:20:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxpZ_RJJFgD47IV0KF4AaABAg",
+    "author": "@AnalystPrime",
+    "author_channel_id": "UCG8FyuxHxwODL8bqIZyRouw",
+    "text": "I recently read some guy saying that all the power from wind turbines comes from the edge of the blades so the way to improve the power output is to remove all that heavy stuff in the middle.\nYes, really. Not sure if a troll or just an idiot who doesn't get that he does not get it.",
+    "likes": 0,
+    "published_at": "2021-12-18T23:51:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyhb4fK1M0ke0dVbTJ4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "A few thoughts:  1. Small neodynium magnets, with appropriate polarity, glued to either outside of the rotor hub might increase the magnetic field.  2. If you're willing to modify the rotor, the fan blades are most efficient when pushing air -- a simpler turbine, like your rose turbine, might increase the speed of rotation.  3. I think those out-runner hubs and stationary could be \"stackable\", perhaps allowing you to use two modified generators to be combined.  Great video, and explanation.  Thanks.",
+    "likes": 4,
+    "published_at": "2021-12-18T23:19:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyhb4fK1M0ke0dVbTJ4AaABAg.9W6c2XnYdDW9cXbCPKmkJq",
+        "author": "@ashscott6068",
+        "author_channel_id": "UCV0sPESdJ5JbFKDLCAqNMHg",
+        "text": "Stronger magnets mean more resistance to turning under load. I think it's better to let it rip than risk it stalling nd not turning at all in anything less than a hurricane",
+        "likes": 2,
+        "published_at": "2022-06-21T10:31:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzS4xoY2L0W-dJPJKx4AaABAg",
+    "author": "@lukiepoole9254",
+    "author_channel_id": "UCaX77llAiOXKv7JU6xuV4cQ",
+    "text": "What are your thoughts on parametric transformer?",
+    "likes": 0,
+    "published_at": "2021-12-18T23:14:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzVutxwJzr-pJh6HLF4AaABAg",
+    "author": "@ruthcormack1765",
+    "author_channel_id": "UC3doJny-u2klKs8N3JyADEQ",
+    "text": "Rain will eventually be a problem for these fans Bob. Maybe will need to mount whole project under some kind of cover?",
+    "likes": 0,
+    "published_at": "2021-12-18T22:43:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVutxwJzr-pJh6HLF4AaABAg.9W6Z0lCepto9WD9qIJV49I",
+        "author": "@dougaltolan3017",
+        "author_channel_id": "UC6tl2LAOXFASx8r9Jx1lCEw",
+        "text": "@marthale7 most likely failure (since the electronics are removed) will be rust on the spindle which is the main bearing. Grease or WD40 will help a bit.",
+        "likes": 0,
+        "published_at": "2021-12-21T12:18:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZpaw-OfZXBoDJCcF4AaABAg",
+    "author": "@rickymcguire9493",
+    "author_channel_id": "UC_13-Wk3nqmk3tW694uUb3w",
+    "text": "Makes me wonder if you could use a dual winding arrangement that would limit the draw from the smaller windings when the load became too much and dump that energy into a capacitor? Just a thought",
+    "likes": 1,
+    "published_at": "2021-12-18T22:25:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzy9BOk9JL1ntrjRzh4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Always a trade off, Wondering if it is better to  your own larger coil with 1mm wire and 800-1000 turns, rare earth magnets and giant blades or servoneous blades",
+    "likes": 0,
+    "published_at": "2021-12-18T22:21:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzrVrBOkxTOLeHXjOB4AaABAg",
+    "author": "@ozb2006",
+    "author_channel_id": "UCUS3GfDRk8gIXEbWikdadeA",
+    "text": "as i said, i love your video's",
+    "likes": 0,
+    "published_at": "2021-12-18T22:11:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzRo_MmvJsaatup83Z4AaABAg",
+    "author": "@matthewellisor5835",
+    "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+    "text": "I quick reminder to those on this side of the pond. (I feel a bit foolish but I certainly clicked back 10s to hear the wire guage and diameter again and thanks Rob for mentioning units there at the end.) He's using SWG which will be a couple higher for the equivalent AWG. \nNot a concern at this project but don't go crashing a Marian lander or overloading your wiring because you missed the units.",
+    "likes": 4,
+    "published_at": "2021-12-18T21:32:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw78DhjiQhzjqlC14l4AaABAg",
+    "author": "@colouroboros9993",
+    "author_channel_id": "UCbWCKaz6lZw4binMzNhm7Aw",
+    "text": "always learning something new and useful from you. thanks a lot!",
+    "likes": 1,
+    "published_at": "2021-12-18T20:25:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxiXKPEnGIyb-ac9C14AaABAg",
+    "author": "@joek2073",
+    "author_channel_id": "UCP1NdrwtM9cWFoto3mflC5Q",
+    "text": "Dump the generated electricity into a capacitor bank and forward the load onto it 🙌🎉 Awesome vid! Thanks for sharing ✌️",
+    "likes": 1,
+    "published_at": "2021-12-18T20:02:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxiXKPEnGIyb-ac9C14AaABAg.9W6GXeRtCM49W6aoHcML5c",
+        "author": "@MonsterCastleInteractiveRadio",
+        "author_channel_id": "UCCAibD_pddvwTB19gSey8Pw",
+        "text": "That sounds interesting... can you explain that to a bush person please?",
+        "likes": 0,
+        "published_at": "2021-12-18T23:08:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxyC7IEROtQW7bjFEF4AaABAg",
+    "author": "@dav1dbone",
+    "author_channel_id": "UC5nQynPt1hiHtk9QXxKqXuQ",
+    "text": "I find the output from microwave turntable motors is pretty good, it's probably nothing special about the coil or magnet arrangement, but rather that the enormous gear ratio is causing the magnet to spin so fast, a wind turbine built around this would be interesting especially if you could make the gearing (speed) change proportional to the wind speed.",
+    "likes": 8,
+    "published_at": "2021-12-18T19:55:29Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgxyC7IEROtQW7bjFEF4AaABAg.9W6FjstGvoc9W82s7R-f7e",
+        "author": "@michaelwilkinson8368",
+        "author_channel_id": "UC66wbUVZPwL4NUey29Ywnjg",
+        "text": "Thanks for the tip. I have a scrap microwave in the shed and I'm going to take it out and have some fun. Cheers",
+        "likes": 3,
+        "published_at": "2021-12-19T12:41:29Z"
+      },
+      {
+        "id": "UgxyC7IEROtQW7bjFEF4AaABAg.9W6FjstGvoc9W8Q3uLSrTi",
+        "author": "@dav1dbone",
+        "author_channel_id": "UC5nQynPt1hiHtk9QXxKqXuQ",
+        "text": "@michaelwilkinson8368 The credit should go to Rob,  I only found out from one of his videos a few years ago. Probably don't need to mention but do be mindful of the dangerous voltages in microwaves, even after being unplugged.",
+        "likes": 1,
+        "published_at": "2021-12-19T16:04:13Z"
+      },
+      {
+        "id": "UgxyC7IEROtQW7bjFEF4AaABAg.9W6FjstGvoc9W8ioBqZoPm",
+        "author": "@michaelwilkinson8368",
+        "author_channel_id": "UC66wbUVZPwL4NUey29Ywnjg",
+        "text": "@dav1dbone thanks but it's not my 1st rodeo. Capacitors safely removed but cheers once again.",
+        "likes": 1,
+        "published_at": "2021-12-19T18:56:41Z"
+      },
+      {
+        "id": "UgxyC7IEROtQW7bjFEF4AaABAg.9W6FjstGvoc9W8iuuOMzWL",
+        "author": "@michaelwilkinson8368",
+        "author_channel_id": "UC66wbUVZPwL4NUey29Ywnjg",
+        "text": "The turntable motors that I removed are not free to turn so must do some more learning",
+        "likes": 2,
+        "published_at": "2021-12-19T18:57:36Z"
+      },
+      {
+        "id": "UgxyC7IEROtQW7bjFEF4AaABAg.9W6FjstGvoc9W9RObj9FTM",
+        "author": "@dav1dbone",
+        "author_channel_id": "UC5nQynPt1hiHtk9QXxKqXuQ",
+        "text": "@michaelwilkinson8368 you may find that more force is needed to get it to turn, I had to clamp it in a vice and turn it with a cordless drill on slow setting.",
+        "likes": 2,
+        "published_at": "2021-12-20T01:35:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyANoY_KQhcVT0H0bh4AaABAg",
+    "author": "@kilokilos",
+    "author_channel_id": "UClSxgY1l2awYiIgxPw5Mc1Q",
+    "text": "In the small gen scheme, washing machine pump is still the best coupled with a voltage doubler circuit do pump up the voltage to whatever you need?",
+    "likes": 0,
+    "published_at": "2021-12-18T19:51:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzkeMr7jmiKfWsjnrh4AaABAg",
+    "author": "@Dr-Sy",
+    "author_channel_id": "UCscLSfh4hs7ceHkl-oS_X3g",
+    "text": "Always great and informative ideas, Thx",
+    "likes": 1,
+    "published_at": "2021-12-18T19:32:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPaM9vJQAhdPmeQKN4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Good.",
+    "likes": 0,
+    "published_at": "2021-12-18T18:32:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwMe4VY-M1gW_4DH254AaABAg",
+    "author": "@mikaelfransson3658",
+    "author_channel_id": "UCQo1WsG4MKxTWKpce3BvzNw",
+    "text": "IF YOU take a penny befor 1964 and use lik a cord does what make a diffrent on a generator it's pur copper! and not a magneticcord! You might ask why! But you  already know that!",
+    "likes": 0,
+    "published_at": "2021-12-18T18:29:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVMvfbsDY8K_XiUJp4AaABAg",
+    "author": "@C-M-E",
+    "author_channel_id": "UC-uO_c1bTtfJCBh8ltJ30qg",
+    "text": "So an idea I've been kicking around since I've recently replaced the alternator on my truck and have a spare to tinker with, aside from modifying or removing the voltage regulator, what would be some drawbacks for using an alternator versus something like a 13 amp AC motor from a vacuum for wind generators?",
+    "likes": 0,
+    "published_at": "2021-12-18T18:28:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzk6h7EhjOldQW5XCd4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Good job 👍",
+    "likes": 0,
+    "published_at": "2021-12-18T18:12:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzel1g3_gHJhDn8Jwl4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome! 👏",
+    "likes": 1,
+    "published_at": "2021-12-18T17:42:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzHfRnv_mt-LJ_44E54AaABAg",
+    "author": "@fusiondensity3287",
+    "author_channel_id": "UCZkw7goR7YXNV57Mpa9MPPg",
+    "text": "How about improve all 3 factors☺",
+    "likes": 1,
+    "published_at": "2021-12-18T17:31:34Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzHfRnv_mt-LJ_44E54AaABAg.9W6-Gq4X38r9W61PW9Onvx",
+        "author": "@recumbentrocks2929",
+        "author_channel_id": "UC84MVem-z5m1tSml8JSCs5w",
+        "text": "If he wants to use this as a wind turbine the wind speed is out of his control. But the other two could be improved.",
+        "likes": 0,
+        "published_at": "2021-12-18T17:50:14Z"
+      },
+      {
+        "id": "UgzHfRnv_mt-LJ_44E54AaABAg.9W6-Gq4X38r9W66KrspcbE",
+        "author": "@fusiondensity3287",
+        "author_channel_id": "UCZkw7goR7YXNV57Mpa9MPPg",
+        "text": "@recumbentrocks2929 he can build a wind increaser",
+        "likes": 0,
+        "published_at": "2021-12-18T18:33:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUX03dnOslFYjcxAN4AaABAg",
+    "author": "@saiello2061",
+    "author_channel_id": "UCsQiuEDozzUfA8eH6-CPzDQ",
+    "text": "Replace the ceramic magnet with small rectangular neodymiums?",
+    "likes": 2,
+    "published_at": "2021-12-18T17:30:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzvbCN5dixunhLtHyF4AaABAg",
+    "author": "@unionse7en",
+    "author_channel_id": "UCHlujwWEMVHWQF0OhdrWTpg",
+    "text": "You do some good investigations/experiments.  Does  your house/shop currently use any  of these \"alternative\" energy systems in an ongoing fashion, or have you not settled on anything yet?",
+    "likes": 6,
+    "published_at": "2021-12-18T17:27:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4fJgr614W3Np1m414AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "I just wondered if you could put the magnet in a magnetiser and make its field stronger.  I remember you talking about making one from a motor winding or you did a video a long time ago.  Long time ago and I'm probably going to look silly saying it lol",
+    "likes": 0,
+    "published_at": "2021-12-18T17:18:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyvoAG3a7afcCyskbx4AaABAg",
+    "author": "@EvilFandango",
+    "author_channel_id": "UCt0w5jCBxHQjVVPO5XyYuqA",
+    "text": "Love your videos.",
+    "likes": 0,
+    "published_at": "2021-12-18T17:17:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy7fWPo25i0kLrbNkR4AaABAg",
+    "author": "@dexterdixon2000",
+    "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+    "text": "This doesn't \"improve the output\" it just changes the V/rpm relationship. Its not an increase in output. Yes you get a higher voltage and can run the l.e.d. but it doesn't increase th.availablr power. Your windwall is the perfect opportunity to prove this - take 2 un-rewound fans and wire them in series (after rectifying) - the output would be identical to two rewound ones wired in parallel. No extra power.",
+    "likes": 1,
+    "published_at": "2021-12-18T17:16:30Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "Ugy7fWPo25i0kLrbNkR4AaABAg.9W5yYW4dnQ-9W659x32iM2",
+        "author": "@DimitriPappas",
+        "author_channel_id": "UC__8KWniM8dkk7iWx4U6w_A",
+        "text": "It's a higher voltage output, which is an improved output for people who want higher voltages. Really no need to be so pedantic about this, it's really not difficult to figure out what's implied because that can be easily inferred from the demonstration unless there's something wrong with your cognition.",
+        "likes": 0,
+        "published_at": "2021-12-18T18:23:03Z"
+      },
+      {
+        "id": "Ugy7fWPo25i0kLrbNkR4AaABAg.9W5yYW4dnQ-9W6P0AWGeaC",
+        "author": "@markflint9089",
+        "author_channel_id": "UCIXJ23ad-rJmA7ggzmbFxzA",
+        "text": "Pretty sure Rob said he increased to four times the wire length, so perhaps even with thinner wire the coils are now a bit bigger and there is more copper by weight in the coils,  which I would expect to give more power.",
+        "likes": 0,
+        "published_at": "2021-12-18T21:16:29Z"
+      },
+      {
+        "id": "Ugy7fWPo25i0kLrbNkR4AaABAg.9W5yYW4dnQ-9W6PhS9KKAa",
+        "author": "@dexterdixon2000",
+        "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+        "text": "@DimitriPappas The title says it dramatically increases the output. I don't think it's pedantic to point out that it doesn't increase the output!",
+        "likes": 1,
+        "published_at": "2021-12-18T21:22:32Z"
+      },
+      {
+        "id": "Ugy7fWPo25i0kLrbNkR4AaABAg.9W5yYW4dnQ-9W7_v8azwIr",
+        "author": "@michaelcorbidge7914",
+        "author_channel_id": "UCo3D29yIbhYZO4-tP4dpvHw",
+        "text": "There's  a conversation  in this .",
+        "likes": 0,
+        "published_at": "2021-12-19T08:19:45Z"
+      },
+      {
+        "id": "Ugy7fWPo25i0kLrbNkR4AaABAg.9W5yYW4dnQ-9W7bTbLKrBU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the power output as demonstrated by the led went from zero to something - which by definition is an infinite increase - I would have said that was dramatic!",
+        "likes": 1,
+        "published_at": "2021-12-19T08:33:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyk17GrUPzqP_9-GW14AaABAg",
+    "author": "@CET675",
+    "author_channel_id": "UCZJyhNeNqMe0MjIu5Is8mEg",
+    "text": "Excellent  presentation 👏",
+    "likes": 0,
+    "published_at": "2021-12-18T17:10:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyk17GrUPzqP_9-GW14AaABAg.9W5xucpjih89W7_pBQpvsM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2021-12-19T08:18:57Z"
+      }
+    ]
+  }
+]

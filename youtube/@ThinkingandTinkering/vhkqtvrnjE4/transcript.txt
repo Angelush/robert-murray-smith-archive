@@ -1,0 +1,157 @@
+[00:00] [Music]
+[00:08] If you're a follower of the channel,
+[00:09] you'll know I have this fairy lights in
+[00:12] my garden. Now, originally, they used
+[00:15] this thing. It converts the uh AC
+[00:18] voltage at 230 volts into a DC output of
+[00:22] 30 volts. Equally, in my shed, I've got
+[00:27] a 12vt supply. Now, this is a really
+[00:29] common situation where you have one
+[00:32] supply but another load that differ in
+[00:35] the terms of voltage. You're going to
+[00:37] find it in things like running
+[00:39] computers, running your TV, charging
+[00:41] your phone, that sort of stuff where
+[00:43] your supply doesn't match the voltage
+[00:46] requirement. And that might seem like a
+[00:48] problem, but the solution is right here.
+[00:53] Well, this tiny thing is a DC toDC book
+[00:57] boost converter and it is the XL60009.
+[01:00] It's taken over from the LM2577
+[01:03] as being more efficient and as you can
+[01:06] see it's tiny. Now, I bought eight of
+[01:08] these and this cost me £150.
+[01:11] What it'll do is it'll take anywhere
+[01:13] between 3 and 30 volts in and change it
+[01:16] to 5 to 35 volts out and this little
+[01:20] device will handle 4 amps. Now, that's
+[01:23] more than enough for the fairy lights in
+[01:25] my garden. And to use it, well, it's
+[01:28] that way. It says in there and out
+[01:30] there. So, the 12 volts go in there. And
+[01:33] when I set it, the 30 volts will come
+[01:36] out of there. And the way I set it is by
+[01:39] twiddling that little screw up and down.
+[01:43] So, I get a 12vt supply and stick it on
+[01:45] there and a multimeter and stick it on
+[01:47] the out. And I totle that screw until
+[01:50] the multimeter reads the voltage I want.
+[01:54] As you can see, it's currently reading
+[01:55] about 22 volts. If we turn it
+[01:58] anticlockwise, then the voltage goes up.
+[02:01] Clockwise for voltage goes down. And we
+[02:03] just twiddle that until we get the
+[02:05] voltage output we want.
+[02:10] So to fit this, of course, we have to
+[02:12] bring the wire into the building. So the
+[02:14] lights run ahead. It's clipped to the
+[02:15] top there and it comes down here and
+[02:17] through that hole into the other side of
+[02:18] the building. But you might notice this.
+[02:21] This is actually called a drip loop
+[02:22] because in a rainy country like the UK,
+[02:25] if we put it straight into there, the
+[02:27] rain would follow down the wire and go
+[02:30] straight into there. What it does is
+[02:31] follow down the wire and collects here
+[02:33] and drips off. It might seem like a
+[02:35] little thing, but actually that's
+[02:37] essential when it comes to putting wires
+[02:39] in a building in a country like the UK.
+[02:41] So to fit this, I knocked up a simple
+[02:44] project box on the 3D printer, and that
+[02:46] will basically go in there. Now, I want
+[02:49] to be able to turn these on when I'm at
+[02:52] the house. I don't want to stumble up
+[02:53] the garden in the dark and turn them on.
+[02:55] So, I got this, which is a remote
+[02:57] switch. On this remote switch, just like
+[02:59] a normal switch, really, there's the
+[03:01] input. So, that will go to our power
+[03:04] source. This feeds in through there and
+[03:08] connects to the inside of this board
+[03:12] there. And the outside of the board
+[03:15] connects to the lights and that will
+[03:16] feed out through there. So, we need to
+[03:19] solder that onto that. There they are on
+[03:22] the wall. Now, all we need to do is
+[03:23] strip the lights wire back and solder it
+[03:25] in place here on the out. Then, a bit of
+[03:27] hot glue to make sure it doesn't touch
+[03:29] the screws. And we can put the cap on.
+[03:32] And that's it. Finished. This, as I say,
+[03:35] goes to our power supply. So, let's
+[03:37] strip that back and get it hot glued in
+[03:39] place. Okay, that's it. Cap's on and
+[03:41] we're finished. Now, we need to connect
+[03:43] this to its power supply and pair this
+[03:46] to the key. If we were doing this as
+[03:48] just a normal switch, then the chances
+[03:50] are that little book boost converter
+[03:52] would fit in the switch and you wouldn't
+[03:54] even notice it. Well, let's get this
+[03:56] paired. And when you've done that, what
+[03:58] you get is this.
+[04:04] That's pretty cool, isn't it? So, what
+[04:07] we've done is take one of these, which
+[04:09] is a DC toDC book boost converter, take
+[04:12] our 12vt supply, to this little screw on
+[04:15] here, and get our 34 volts that we need
+[04:18] to run our application. And of course,
+[04:21] you can do that for any DC toDC using
+[04:26] one of these. This particular one is
+[04:28] limited to 4 amps and it's 1 pound50.
+[04:31] You can get them much more powerful than
+[04:32] that. I mean, this is about 120 W. You
+[04:34] can get them to anything. Of course,
+[04:36] they do go up in price the more you get
+[04:39] the uh power handling capabilities. So,
+[04:42] something like this application needs
+[04:44] next to nothing. Now, one of the good
+[04:46] things about automotive uh RVs, boats,
+[04:49] of course, is the 12vt market has a lot
+[04:51] of stuff that's just sold off the shelf,
+[04:54] but sometimes it can be a bit of a
+[04:57] premium, which I think is a bit mad
+[04:59] because it's absolutely no trouble. I
+[05:01] mean, you saw how easy it was. It really
+[05:02] was as simple as twiddling that little
+[05:05] brass screw to take a 1 pound50 piece of
+[05:08] equipment to do this and it would be the
+[05:11] same. I mean, this would run a computer,
+[05:12] run most televisions. It's really quite
+[05:15] simple to do and relatively trivial in
+[05:18] fact. Now, at 12 volts, there's pretty
+[05:21] much nothing to be afraid of. I mean,
+[05:23] you have to be standing in a suit of
+[05:25] armor with chair mail on while standing
+[05:27] in a pool of salty water to start
+[05:29] worrying about something like 12 VTs.
+[05:32] That's why the low voltage regs finish
+[05:34] at 50. They It doesn't matter pretty
+[05:36] much at 12 volts what you're going to
+[05:38] do, unless of course you short it across
+[05:39] the terminals with a spanner, in which
+[05:41] case you'll melt the spanner. But you
+[05:44] it's not going to do anything to you.
+[05:45] It's really no trouble at all. Which is
+[05:47] why I like that idea. And you do have to
+[05:50] pay an extra 1 pound50. But I think it's
+[05:53] a hell of a lot cheaper than buying an
+[05:55] inverter and then using the power brick
+[05:57] to take that inverted AC current back
+[06:00] down to DC with all its conse it current
+[06:05] costs associated with it and lack of
+[06:07] efficiency. It's one of the things that
+[06:09] really attracts me to it. So, putting in
+[06:12] a little board like that is really the
+[06:15] plan for anything that is for me
+[06:18] anything that is DC toDC. So, I hope you
+[06:21] enjoyed the video. I hope it really
+[06:22] showed you how easy it actually was and
+[06:24] in fact how practical it is to be able
+[06:27] to do something like this yourself. It
+[06:29] really is quite easy. So, I hope you
+[06:31] enjoyed the video. Thank you very much
+[06:32] for watching and please do remember to
+[06:34] like and subscribe.

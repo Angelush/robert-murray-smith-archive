@@ -1,0 +1,208 @@
+[00:00] [Music]
+[00:08] So, I have to say I'm pretty intrigued
+[00:10] about turning this Goodman mechanism
+[00:12] with a few adaptations into a 3D
+[00:16] printer. Incidentally, I'm doing my best
+[00:18] to go for my Anthony Hopkins animal
+[00:21] lookalike competition. Seriously, I'm
+[00:23] just washing my hair. So, we're going to
+[00:25] use this basic mechanism. And of course,
+[00:28] I need some bits to do that. Now, I have
+[00:31] this thing. It's an Easy 3D mini
+[00:34] printer. I saw quite a few reviews about
+[00:36] this, so I bought one giving it a go.
+[00:38] And honestly, it's okay, but it's sat in
+[00:41] the corner and I thought, well, there's
+[00:43] a whole source of donor parts. Now, I
+[00:45] only paid £9 for this. It's what it was
+[00:48] on Amazon. I've seen it on Teu since for
+[00:50] about £50, but it's a basic machine.
+[00:54] It's not, you know, brilliant, but the
+[00:56] parts will do for me for the little
+[00:58] project I've got in mind. And I aim it
+[01:01] to fit on this bed. So, we've done a
+[01:03] fair bit of resizing and redesign of
+[01:05] this to do. Then, we have to disassemble
+[01:08] this for its parts and give it a go.
+[01:10] Trying to make that plate that we were
+[01:13] talking about to turn the Goodman
+[01:14] mechanism into an alternative for drive
+[01:17] belts. Now, it's always interesting to
+[01:19] take things apart because it shows you
+[01:22] what is actually being used rather than
+[01:24] what you think might be being used
+[01:26] because there's always a tendency to
+[01:28] overthink things. Now, of course, this
+[01:30] machine is a budget machine and so, you
+[01:32] know, costs have been cut and so some of
+[01:36] the decisions made were probably well,
+[01:38] they're not particularly high-end, but
+[01:40] then if you want high-end, you're going
+[01:41] to pay money. If you're doing a sort of
+[01:44] basic machine, a very low budget, then
+[01:47] some of the ideas in here are well worth
+[01:49] embracing. If you want to upgrade that,
+[01:52] by all means, but you're going to be
+[01:54] paying money. Now, this is the main
+[01:55] slide from the print bed, and all it is
+[01:58] is a couple of steel rods with some
+[02:00] brush bushings on it. Bit of oil, it's
+[02:02] going to work well. To attach it, it
+[02:04] just uses this plastic clamp. The clamp
+[02:07] clamps onto the bushing and that's good
+[02:09] enough to actually get a pretty decent
+[02:12] slide. The print bed itself, well, it's
+[02:15] just a block of 5 mm acrylic with some
+[02:18] springs and screws. Again, doesn't look
+[02:21] particularly challenging, but it does
+[02:24] give you an idea about how to think
+[02:26] about something dependent on the budget
+[02:28] that you want to spend. And all of these
+[02:30] things of course can be upgraded. If we
+[02:33] have a look at the main print armature
+[02:35] which is right here. Again I've pulled
+[02:38] off the uh wiring yolk to expose the
+[02:40] basics of it. There's stepper motor
+[02:43] there. Stepper motor there. No. Yes. Is
+[02:46] it? No. That's a drive motor. My
+[02:48] apologies. That's for driving the
+[02:50] extruder. There's a stepper motor in
+[02:52] there. And then it's got the belts
+[02:53] attached to the plastic. On the other
+[02:55] side we've got a limit switch. And you
+[02:58] can just make out the drive gears in
+[03:01] here. So again, really simple. And the
+[03:04] bushings here are exactly what we looked
+[03:07] at when we looked at the um the Z bed.
+[03:10] They're just those brass bushings
+[03:12] sliding along these silver steel rods.
+[03:15] Right, these are the bits that I'm
+[03:16] actually interested in. And I could have
+[03:18] probably bought these for, I don't know,
+[03:20] £10 or so, but I had that thing lying
+[03:22] around, so why not? We've got a bunch of
+[03:25] guide rods, got a bunch of bushings,
+[03:27] we've got two identical stepper motors
+[03:29] there, and 12vt stepper motors. And then
+[03:31] we've got this thing which is the actual
+[03:33] head itself. I've also kept these. These
+[03:36] are the cooling fans. And the reason
+[03:38] I've kept them in the case is it gives
+[03:40] me information on the position of the
+[03:42] cooling fans which I haven't taken yet.
+[03:44] But I've got a couple of cooling fans as
+[03:46] well. And they're going to be core to
+[03:48] what I actually want to do. And as I
+[03:50] say, it's a surprisingly small number of
+[03:53] parts that would be surprisingly cheap
+[03:56] to buy. I think first thing I think is
+[03:58] to construct a gantry system. I'm
+[04:01] thinking something like this. Now that
+[04:04] might look very different, but
+[04:06] surprisingly enough, it isn't. The
+[04:08] Goodman mechanism, the hyperscyloid
+[04:11] drive, and the 2C couple are all
+[04:13] basically the same thing. In fact,
+[04:15] they're just different arrangements of
+[04:17] the 2C couple. So when you arrange them
+[04:19] in slightly different ways, they can
+[04:21] look dramatically different and can be
+[04:23] good for a particular job. But the
+[04:25] principle is identical. So that thing's
+[04:29] quite large. It's 250 by 250. And I've
+[04:32] decided to print it on the Alibabus
+[04:34] Centari carbon. Now I'm printing it on
+[04:36] the carbon because the whole thing is
+[04:38] print in place. And of course the bed on
+[04:40] the carbon is 256x 256 and I need 250x
+[04:45] 250. Unfortunately, the carbon has like
+[04:48] a restricted print area in the bottom
+[04:50] right corner which is used for the
+[04:53] cutter, the filament cutter, and you can
+[04:55] correct that or use that bit of the bed
+[04:57] if you do two things. One is remove the
+[05:00] filament cutter block and that's in the
+[05:03] right hand side and you use an Allen key
+[05:05] and take that block off. And the other
+[05:07] thing you need to do is to reset the
+[05:10] print bed area. And you find that in the
+[05:12] print settings. And you just reset the
+[05:14] bed area to zero by zero. Bingo. You can
+[05:18] now print in the whole bed area. It does
+[05:20] have an effect on the filament uh
+[05:22] unload. When you unload the filament,
+[05:24] the filament cutter doesn't work. And so
+[05:26] you have to manually cut it with a
+[05:28] little lever on the side of the actual
+[05:30] print head.
+[05:34] And when it's printed out, that's what
+[05:36] it looks like. Now, I've removed the
+[05:38] holes in it because I made a design
+[05:40] decision about this because what I'm
+[05:42] aiming for is a friction drive. Friction
+[05:45] drives have a lot to commend them,
+[05:47] especially in a low torque application
+[05:49] like this. Now, I've used gears in this
+[05:52] version because we want to make sure
+[05:54] everything's working. When you're making
+[05:57] something new, take one step at a time.
+[06:00] If you take two steps or more, then
+[06:02] you're not going to know what it is
+[06:04] that's actually not working. Now, we
+[06:06] know gears work. We've already made a
+[06:08] Goodman device. So, I've done it with
+[06:10] gears here to make sure that it works.
+[06:12] Then, what I'll do is change it for the
+[06:14] friction drive to make sure that the
+[06:16] friction drive then works. So, this is a
+[06:19] geared version. Let's have a look
+[06:20] inside. So, if we take that ring off, we
+[06:23] get the central plate. Take the central
+[06:25] plate off and you can see the gears.
+[06:28] This sled is driven by this tiny gear
+[06:30] here to make the sled rotate in the same
+[06:33] way that the Goodman drive did. This
+[06:36] takes place of the arm. If we take that
+[06:39] off,
+[06:41] there we go. It's geared underneath with
+[06:43] our idle gear and our drive gear. And
+[06:46] these are in the ratio of 2:1. So that's
+[06:48] 40 teeth and that's 20 teeth. When we
+[06:50] add that back on and turn this gear
+[06:53] here, there we got there. It'll turn the
+[06:56] sled and this will move backwards and
+[06:58] forwards. So there it is. It's got the
+[07:01] slide guides on that I stole from the 3D
+[07:04] printer. And of course in here it's got
+[07:06] the bushings that are on that actual bed
+[07:08] and they've just been press fitted in.
+[07:10] Now, of course, what happens if I turn
+[07:13] this little handle is it does exactly
+[07:17] what it says it will do, and that is
+[07:20] slide backwards and forwards in a
+[07:22] straight line. Now, of course, that's
+[07:24] where I'm going to put my stepper motor.
+[07:26] We also need to be able to drive this
+[07:28] around, which we'll do in a bit later.
+[07:30] And that is the geared version because I
+[07:33] want to make sure everything fits and
+[07:35] everything works before I do my friction
+[07:37] drive version. uh it looks very
+[07:41] different but then it's going to when
+[07:43] you actually implement it. Remember this
+[07:45] is just for the theory. This is much
+[07:48] more for the practical application. And
+[07:50] so that arm which was never up to very
+[07:53] much has been taken care of by giving it
+[07:56] guides. This is the same thing as that
+[07:58] arm there. The backlash we've talked
+[08:00] about in a previous video. It won't be
+[08:03] an issue for me because I'm going to use
+[08:04] a friction drive. But I thought I would
+[08:06] share that with you because the moral of
+[08:08] this story, if there is a moral of this
+[08:10] story, is of course that where you start
+[08:14] is often not where you end up. Anyway, I
+[08:16] hope you enjoyed the video. Thank you
+[08:18] very much for watching and please do
+[08:20] remember to like and subscribe.

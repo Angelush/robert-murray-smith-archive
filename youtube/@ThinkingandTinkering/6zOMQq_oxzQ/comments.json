@@ -1,0 +1,959 @@
+[
+  {
+    "id": "UgwT7tdvACqW5HtGhNV4AaABAg",
+    "author": "@JD2jr.",
+    "author_channel_id": "UCwP9VMVdUlPfx9t3mib3lfg",
+    "text": "Neat. On a similar note, do you have a mechanism that acts as an \"end stop\"? basically, let a motor/gear turn until it gets to a certain point, then prevent it from continuing, but allowing it to go back in the other direction?",
+    "likes": 0,
+    "published_at": "2025-06-18T09:13:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyoUFZ_Ckq9kZbfwdJ4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome! 🎉",
+    "likes": 1,
+    "published_at": "2025-06-12T17:09:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgylmBPIFLJAKdnuRNx4AaABAg",
+    "author": "@auguststas7770",
+    "author_channel_id": "UCr5bJ3XMyHVjJrsUFxEE8LQ",
+    "text": "Very cool. Maybe you could tell me how to calculate precise numbers of these systems?",
+    "likes": 0,
+    "published_at": "2025-06-06T18:45:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJ3xReVHM-THQ5BaB4AaABAg",
+    "author": "@rockyrodriguez2351",
+    "author_channel_id": "UC2W_LvrMoW_stBHPTTZP8eg",
+    "text": "Thanks Robert!, this is useful on my ongoing project, wish me luck….",
+    "likes": 0,
+    "published_at": "2025-05-25T06:40:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwcHs0AbddpzEYohCF4AaABAg",
+    "author": "@georgeblack589",
+    "author_channel_id": "UCOdt1ylBiqPwTvcbsFgw7KQ",
+    "text": "That's really clever!",
+    "likes": 0,
+    "published_at": "2025-05-25T02:26:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzEawtzixNtUFWRzj14AaABAg",
+    "author": "@dondywondy",
+    "author_channel_id": "UCQah629KL1SCaEqSAR3KLbA",
+    "text": "Surely one of the best ideas ever! There must be multitudes of applications, including, as you mentioned, wave energy generation. Simple and brilliant!",
+    "likes": 0,
+    "published_at": "2025-05-24T07:29:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOy_mgbGKuJbnHmPJ4AaABAg",
+    "author": "@antoniosanford4675",
+    "author_channel_id": "UCuM4i3a0mBPPBSscC3gW4Tg",
+    "text": "I watched the second video first. This is baller!",
+    "likes": 0,
+    "published_at": "2025-05-23T04:57:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx9Tz2lYTFQ1vvmgc14AaABAg",
+    "author": "@wolfgangreichl3361",
+    "author_channel_id": "UCHns_Rn4L7jj1k23B1TQCIQ",
+    "text": "I would fear the central gear to occasionally block and be up to substantial wear, being thrown around haphazardly.",
+    "likes": 0,
+    "published_at": "2025-05-21T11:52:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9Tz2lYTFQ1vvmgc14AaABAg.AIO23YIe6ZtAIO5ZV8wi2K",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "don't be afraid - it's actually a very common mechanism and strikingly robust and reliable",
+        "likes": 1,
+        "published_at": "2025-05-21T12:22:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzpn-d5bC7uMgImsXR4AaABAg",
+    "author": "@markgeurts258",
+    "author_channel_id": "UCcp3ojJ4uHue8DUfD2100fg",
+    "text": "Wow Rob, that's great! Thanks for sharing this 😀",
+    "likes": 0,
+    "published_at": "2025-05-21T07:52:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzpn-d5bC7uMgImsXR4AaABAg.AINbcrFlLJUAIO5a8cMrhJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-21T12:22:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgydMbDmHreYSWEzzfZ4AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "I reckon your evil plan is to use a chain instead of a rack :)",
+    "likes": 0,
+    "published_at": "2025-05-21T07:15:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgydMbDmHreYSWEzzfZ4AaABAg.AINYNqSWu6CAIO5bVj4C1b",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - you will see soon lol",
+        "likes": 0,
+        "published_at": "2025-05-21T12:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNnVJUpef6lM_4JEB4AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "A shuttle gear = Genius!\nWhen I first saw you put it together I thought the little cog was intermeshed with all 3 gears, I said; \"That's not going to work\" lol",
+    "likes": 0,
+    "published_at": "2025-05-21T07:12:50Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwNnVJUpef6lM_4JEB4AaABAg.AINY6nHD2hRAINblQO5FSv",
+        "author": "@markgeurts258",
+        "author_channel_id": "UCcp3ojJ4uHue8DUfD2100fg",
+        "text": "I thought the same😂",
+        "likes": 0,
+        "published_at": "2025-05-21T07:53:28Z"
+      },
+      {
+        "id": "UgwNnVJUpef6lM_4JEB4AaABAg.AINY6nHD2hRAIO5cyulACD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2025-05-21T12:23:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxQ2av6i-gqD6sQK6h4AaABAg",
+    "author": "@OceanBagel",
+    "author_channel_id": "UC16XJNc8vlaGtfAmpJjIgAQ",
+    "text": "That's very clever yet very simple. I love it!",
+    "likes": 0,
+    "published_at": "2025-05-21T04:48:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxQ2av6i-gqD6sQK6h4AaABAg.AINH_ek5COMAINWykN3SEN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2025-05-21T07:02:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz8FBRfF8s26j3zgz94AaABAg",
+    "author": "@VeniceInventors",
+    "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+    "text": "The big question is... what is that evil purpose somehow related to motions being proportional? I can't even begin to venture a guess!",
+    "likes": 0,
+    "published_at": "2025-05-20T11:29:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz8FBRfF8s26j3zgz94AaABAg.AILQdPCnp8QAINX-YWrC3H",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2025-05-21T07:03:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVdhE_iHjdtQSVOwN4AaABAg",
+    "author": "@gazzaka",
+    "author_channel_id": "UC68QrhX8fUe3WTUpnSrlh3w",
+    "text": "brilliant ty ;-)",
+    "likes": 0,
+    "published_at": "2025-05-20T10:05:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVdhE_iHjdtQSVOwN4AaABAg.AILH19GQAC5AINWzpAfSfi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-21T07:03:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwOOGvPdsQK9LzZfS54AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "I'm waiting for your evil purposes. :Đ",
+    "likes": 1,
+    "published_at": "2025-05-20T05:26:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUFdORpX76fUyWuzl4AaABAg",
+    "author": "@lasskinn",
+    "author_channel_id": "UCRfF3yA27KYNTalh4aK3Ohg",
+    "text": "Is the moving gear a form of a ratchet?",
+    "likes": 0,
+    "published_at": "2025-05-20T03:07:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyUFdORpX76fUyWuzl4AaABAg.AIKXHghyUPeAIL-EfGLl1E",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "in what sense mate?",
+        "likes": 0,
+        "published_at": "2025-05-20T07:29:36Z"
+      },
+      {
+        "id": "UgyUFdORpX76fUyWuzl4AaABAg.AIKXHghyUPeAILDwD4x8FP",
+        "author": "@lasskinn",
+        "author_channel_id": "UCRfF3yA27KYNTalh4aK3Ohg",
+        "text": "@ThinkingandTinkering  in mechanical pedantic engineering sense of gears being levers. Maybe english has a different word, you can translate ratchet to finnish and back and end up with \"one way mechanism\"",
+        "likes": 0,
+        "published_at": "2025-05-20T09:38:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzZVV-Ctfn1rJ85knx4AaABAg",
+    "author": "@nathanaelsmith3553",
+    "author_channel_id": "UCb4KgnArbkDwsywHDkG3xMQ",
+    "text": "Simple yet so clever",
+    "likes": 0,
+    "published_at": "2025-05-20T00:26:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzZVV-Ctfn1rJ85knx4AaABAg.AIKEmAMW1zIAIL-FyroNHB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is a cool mechanism",
+        "likes": 0,
+        "published_at": "2025-05-20T07:29:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxwAN1XSYj38T-hp0d4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Robert, Thank you!! \nThis is very interesting, I'm really looking forward to seeing your plans for this!! \n(*Is this part of K9, perhaps,or another piece of The Tardis?!Lol!)\nI hope you're doing well and enjoying the warm spring weather, I've been working in the garden, Jasper's been helping me to dig!!\nAndrea and Critters.   ...XxX...",
+    "likes": 0,
+    "published_at": "2025-05-19T23:23:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxwAN1XSYj38T-hp0d4AaABAg.AIK7cV8q5U_AIKALFeN2Q4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's more like summer than spring!",
+        "likes": 0,
+        "published_at": "2025-05-19T23:47:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwPNf0h_R3RNG4p6Zp4AaABAg",
+    "author": "@fuiehfjfcnsl",
+    "author_channel_id": "UCnggrh9b7ZqKi7zBENuP1mw",
+    "text": "ein Kommentar",
+    "likes": 0,
+    "published_at": "2025-05-19T22:00:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwPNf0h_R3RNG4p6Zp4AaABAg.AIJz574T_2BAIKAEHWDHdQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Eindrucksvoll",
+        "likes": 0,
+        "published_at": "2025-05-19T23:46:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwkc0jDPpmDwK2GewF4AaABAg",
+    "author": "@brentsido8822",
+    "author_channel_id": "UCItsdzJHb6YF04gvDXcE8YA",
+    "text": "The new videos are a highlight for my week",
+    "likes": 0,
+    "published_at": "2025-05-19T21:30:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwkc0jDPpmDwK2GewF4AaABAg.AIJvhuZaPKtAIKA18cb1Xt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome - cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:44:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxbP-7bLijqifQt70N4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2025-05-19T19:23:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxbP-7bLijqifQt70N4AaABAg.AIJh7m0l6TnAIKA0GmLuvv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-19T23:44:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQ6jeDkLuHGWy3vLd4AaABAg",
+    "author": "@chris993361",
+    "author_channel_id": "UCLdren5OHn7boKJkT58IVuQ",
+    "text": "I like it and it has lots of uses. I am not sure however that it is the best for turning something like wind into generator output. When the slide goes stationary during something like a break in the wind, the output cannot coast with inertia from something like a flywheel and instead comes to a stop or back drives the rack. That is one place a sprag or ratchet still has an advantage over the sliding gear. That being said, it appears to be a great device, and I may try and come up with a place to make use of it. Thanks for sharing as always!",
+    "likes": 1,
+    "published_at": "2025-05-19T18:11:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwQ6jeDkLuHGWy3vLd4AaABAg.AIJZu_luzYTAIK8LRrOIV_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i like the flywheel idea mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:29:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzSOjMy4-JjoSJQ0zJ4AaABAg",
+    "author": "@pirobot668beta",
+    "author_channel_id": "UCg-DZ2oZD7DXYg35k3mDDkQ",
+    "text": "We had a push-mower that used a similar 'traveling gear' system...pushing the mower forward engaged the cutting fly, pulling the mower back dis-engaged the fly.",
+    "likes": 1,
+    "published_at": "2025-05-19T18:08:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzSOjMy4-JjoSJQ0zJ4AaABAg.AIJZagEoI8vAIK8MeAtqN1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Very cool!",
+        "likes": 0,
+        "published_at": "2025-05-19T23:30:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFxTplLNDjp4_Zj6V4AaABAg",
+    "author": "@BahadirOrnekci",
+    "author_channel_id": "UCPwqLP1I5V0JJgBsscLkx2Q",
+    "text": "It is fascinating to me that you manage to create cad designs of such complex mechanisms on tinkercad. I could never.",
+    "likes": 4,
+    "published_at": "2025-05-19T18:04:55Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyFxTplLNDjp4_Zj6V4AaABAg.AIJZ96J2HvVAIJiSdiE1P8",
+        "author": "@Bapate-rh9be",
+        "author_channel_id": "UCNiXoUNoru0nnTBqIHy_0MQ",
+        "text": "Its a matter of praktice - i went from 1 Week to 1 h within 10 years of praktice and look at him - lets say he had ample time to practice.",
+        "likes": 2,
+        "published_at": "2025-05-19T19:34:58Z"
+      },
+      {
+        "id": "UgyFxTplLNDjp4_Zj6V4AaABAg.AIJZ96J2HvVAIJjvazC1Y-",
+        "author": "@BahadirOrnekci",
+        "author_channel_id": "UCPwqLP1I5V0JJgBsscLkx2Q",
+        "text": "@Bapate-rh9be RIght, of course, but more importantly I am referring to the fact that hes using tinkercad, a non-parametric design tool meant for \"kids\". To me it is impressive to be able to make designs with mathematically derived dimensions in such a simple workspace.",
+        "likes": 2,
+        "published_at": "2025-05-19T19:47:48Z"
+      },
+      {
+        "id": "UgyFxTplLNDjp4_Zj6V4AaABAg.AIJZ96J2HvVAIK8Vjmr9qC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's only practice mate - that and a little bit of math",
+        "likes": 2,
+        "published_at": "2025-05-19T23:31:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxcKary7fmJ83DQzDV4AaABAg",
+    "author": "@DaremoKamen",
+    "author_channel_id": "UCm851MN-oFYtODk9DNpkF0Q",
+    "text": "Is this leading to a lever based CVT?  Input goes to one end of a lever with a moving fulcrum then the other end of the lever goes to the input of the mechanical rectifier?",
+    "likes": 0,
+    "published_at": "2025-05-19T16:38:13Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxcKary7fmJ83DQzDV4AaABAg.AIJPE2UzMDMAIK8YNOuuVQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - spot on mate - i am an open book!",
+        "likes": 0,
+        "published_at": "2025-05-19T23:31:41Z"
+      },
+      {
+        "id": "UgxcKary7fmJ83DQzDV4AaABAg.AIJPE2UzMDMAIKOBsxJ_Zj",
+        "author": "@DaremoKamen",
+        "author_channel_id": "UCm851MN-oFYtODk9DNpkF0Q",
+        "text": "@ThinkingandTinkering Actually, I'd been thinking of two wheels with a connecting rod where the attachment points could shift so that if it was near the hub on the input wheel it was near the rim on the output wheel and vice versa.  I realized it would either jam or the wheels would have the same rpm.  Then I was thinking a single wheel so the length of stroke would vary depending where the connection was, but needed some way to return the linear motion to rotary.  And then your video dropped.",
+        "likes": 0,
+        "published_at": "2025-05-20T01:48:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyijay-Yp8yuz01WsN4AaABAg",
+    "author": "@Zaperworld",
+    "author_channel_id": "UC9_fi1s6HZYM2aSwRdakXRQ",
+    "text": "excellent",
+    "likes": 0,
+    "published_at": "2025-05-19T16:28:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyijay-Yp8yuz01WsN4AaABAg.AIJO7-dIlewAIK8ZJRWni-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:31:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxSdt1ph1Ujwn18H394AaABAg",
+    "author": "@Tom-c1q2k",
+    "author_channel_id": "UCMqKku-0G5vrK8UgAHGlolg",
+    "text": "SO YOU HAVE SEEN THE GNOME BOOK. IT IS DISCRIBED IN THAT. THE TREE IN THE WIND GAVE YOU AWAY. THE MACHINE, IS VALID. CHEERS:-)",
+    "likes": 0,
+    "published_at": "2025-05-19T16:23:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxSdt1ph1Ujwn18H394AaABAg.AIJN_x76E4JAIK8_7Tw7RA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:31:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwVzcMUE_jASg0hq794AaABAg",
+    "author": "@OZtwo",
+    "author_channel_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+    "text": "very cool",
+    "likes": 0,
+    "published_at": "2025-05-19T16:23:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwVzcMUE_jASg0hq794AaABAg.AIJNWg0ZMutAIK8fYm-dt9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:32:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyOS9muzYLUNVEHnx94AaABAg",
+    "author": "@storytimewithunclekumaran5004",
+    "author_channel_id": "UC_blGsDRjFqa5JiMMgx0w4Q",
+    "text": "Brilliant, simply brilliant....",
+    "likes": 1,
+    "published_at": "2025-05-19T16:03:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyOS9muzYLUNVEHnx94AaABAg.AIJLEkj0Wv1AIK8hGD9Oy_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am glad you liked it mate",
+        "likes": 1,
+        "published_at": "2025-05-19T23:33:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwoVM9YonVyK4qjdFV4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "😎👍",
+    "likes": 0,
+    "published_at": "2025-05-19T15:58:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwoVM9YonVyK4qjdFV4AaABAg.AIJKhLm8VElAIK8iAp4JI-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-19T23:33:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyIQGTkNf0eDYln5yt4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Thank you Sir.🕊",
+    "likes": 0,
+    "published_at": "2025-05-19T15:37:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyIQGTkNf0eDYln5yt4AaABAg.AIJIFOYIPJAAIK8jNxtL5x",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am glad you liked it mate",
+        "likes": 1,
+        "published_at": "2025-05-19T23:33:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzD8Itp_rDmMqM_pdB4AaABAg",
+    "author": "@JSfuckgoogle",
+    "author_channel_id": "UCWVhL5DYH5jPDJ5Ugs47_Gg",
+    "text": "Lol.. they're our greatest invention, gears! 😎",
+    "likes": 0,
+    "published_at": "2025-05-19T15:30:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhPYtxMd-4sS27EDZ4AaABAg",
+    "author": "@OriginalMorningStar",
+    "author_channel_id": "UCyCMNbi-ecnpp37VScMkt4Q",
+    "text": "Heh, thats a memory, I've repaired a ton of things with that inside, never needed to repair the mechanism itself. It was used in reversing cassette tape players to drive one pinion and drag the other, then swap just by reversing the motor. Always marvelled at how simple it was, never thought of this tho.",
+    "likes": 0,
+    "published_at": "2025-05-19T15:28:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxhPYtxMd-4sS27EDZ4AaABAg.AIJHGn1W9SLAIK8nIfVEz_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is an ingenious method for sure",
+        "likes": 0,
+        "published_at": "2025-05-19T23:33:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywVN3klfv2F7BK6ul4AaABAg",
+    "author": "@marcoviniciomorafallas1719",
+    "author_channel_id": "UCoNsVeM0YnN97VhxNYvXC2A",
+    "text": "The Torsen transmission is also a type of mechanical rectifier — but it doesn't use ratchets.\nIt redirects torque based on resistance and gear interaction, allowing rotation in both directions but distributing power only when there's a difference in load.",
+    "likes": 1,
+    "published_at": "2025-05-19T15:27:55Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgywVN3klfv2F7BK6ul4AaABAg.AIJHB6ncpbgAIK9-ndqpQg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hmmm - i am not sure about that mate - rectification is about allowing movement in one direction despite input from two directions - the two nature of a torson kind of precludes by definition it being considered as rectification doesn't it?",
+        "likes": 0,
+        "published_at": "2025-05-19T23:35:42Z"
+      },
+      {
+        "id": "UgywVN3klfv2F7BK6ul4AaABAg.AIJHB6ncpbgAIK_thnv0lx",
+        "author": "@marcoviniciomorafallas1719",
+        "author_channel_id": "UCoNsVeM0YnN97VhxNYvXC2A",
+        "text": "@ThinkingandTinkering The Torsen differential is quite hard to understand, mainly because the relative movements between components make it difficult to visualise what's actually happening.\n\nBut if you imagine yourself rotating along with the whole system, you would see that when both output shafts rotate in the same direction, nothing really happens. However, when one shaft tries to rotate in the opposite direction, the system locks up.\n\nThis happens because a worm gear mechanism can transmit motion from the worm to the gear, but not from the gear to the worm — unless the worm has multiple threads and is specially designed to allow it.\n\nThat’s why, under certain conditions, the Torsen behaves like a mechanical rectifier: it resists differential motion in one direction, while allowing torque distribution under normal load.",
+        "likes": 0,
+        "published_at": "2025-05-20T03:39:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzsJEkJvghHr4S8KHR4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Nice could work well for winding up a spring when the spring has a certain amount of tension the spring could release the energy moving tree ect to power it",
+    "likes": 1,
+    "published_at": "2025-05-19T15:02:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzsJEkJvghHr4S8KHR4AaABAg.AIJEIFSDlluAIK99VMKG9T",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - thanks for sharing",
+        "likes": 2,
+        "published_at": "2025-05-19T23:37:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyuId1Gsphx2Y38lCF4AaABAg",
+    "author": "@FordPrefect23",
+    "author_channel_id": "UCbpiwzgkWizpCzptbtD8TvA",
+    "text": "Now that I like. I imagine if you put a flywheel on the output it would help smooth it so the pulsing would be lessened. I can think of a good use for it already, a foot actuated fan to supply air to a small forge for some blacksmithing where you might not have electrical power",
+    "likes": 0,
+    "published_at": "2025-05-19T14:53:12Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyuId1Gsphx2Y38lCF4AaABAg.AIJDCvYLJInAIJ_B9HTAdy",
+        "author": "@chris993361",
+        "author_channel_id": "UCLdren5OHn7boKJkT58IVuQ",
+        "text": "I just commented elsewhere but then saw this. I do not think this design lends itself to a flywheel on the output as it will backdrive the rack, unlike a ratchet or sprag that would allow the output to have a coast phase.",
+        "likes": 0,
+        "published_at": "2025-05-19T18:13:56Z"
+      },
+      {
+        "id": "UgyuId1Gsphx2Y38lCF4AaABAg.AIJDCvYLJInAIK9Ht7w5xm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - you might have to add a sprag on the flywheel to prevent backdriving",
+        "likes": 0,
+        "published_at": "2025-05-19T23:38:10Z"
+      },
+      {
+        "id": "UgyuId1Gsphx2Y38lCF4AaABAg.AIJDCvYLJInAILv8C6Xsnu",
+        "author": "@FordPrefect23",
+        "author_channel_id": "UCbpiwzgkWizpCzptbtD8TvA",
+        "text": "@chris993361 It did cross my mind after posting that it would need a sprag or similar for that reason",
+        "likes": 1,
+        "published_at": "2025-05-20T16:04:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygUFqbT8-A8L9lLIh4AaABAg",
+    "author": "@dav1dbone",
+    "author_channel_id": "UC5nQynPt1hiHtk9QXxKqXuQ",
+    "text": "The amount of energy in the tide coming in and out 4 movements per day, the forces involved and the vast amount of potential sites/waterways, why it's not exploited beggars belief. Not taking into account the halfhearted minimal efforts",
+    "likes": 0,
+    "published_at": "2025-05-19T14:44:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygUFqbT8-A8L9lLIh4AaABAg.AIJCDi-r52kAIK9KfJGzjP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:38:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxPkYC39tht6lWUsYl4AaABAg",
+    "author": "@Leonardokite",
+    "author_channel_id": "UCpwI0xuszVm3SlbrKWJBD5w",
+    "text": "One of the best parts of this channel is you don't just show the interesting cool stuff but you provide the STL files to print them. That is very very much appreciated! 👍👍👍👍👍",
+    "likes": 24,
+    "published_at": "2025-05-19T14:41:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxPkYC39tht6lWUsYl4AaABAg.AIJBrkx7pqQAIK9MkYtTmd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2025-05-19T23:38:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzRNfTqadw4piTCyuB4AaABAg",
+    "author": "@jimbodee4043",
+    "author_channel_id": "UCOY2B7dJAa6812NuCpLLllQ",
+    "text": "I assume this type of mechanical rectifier was designed like in the Victorian era?",
+    "likes": 0,
+    "published_at": "2025-05-19T14:35:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzRNfTqadw4piTCyuB4AaABAg.AIJBBGD8QOtAIK9OS2XsA3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't know - i suspect it is earlier than that",
+        "likes": 0,
+        "published_at": "2025-05-19T23:39:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwS6KJTok-ehfCKRel4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Why not a rolamite drive instead of the rack and pinion?  Driven off the smaller roller, there'd be more rotations per stroke!\nNice mechanism.  Really looking forward to what your'e going to do with it.",
+    "likes": 0,
+    "published_at": "2025-05-19T14:31:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwS6KJTok-ehfCKRel4AaABAg.AIJAfehK76fAIK9TW2hvHU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's an interesting idea mate - never thought about it - thanks for sharing",
+        "likes": 0,
+        "published_at": "2025-05-19T23:39:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyMC7-NBesPI9DV5EV4AaABAg",
+    "author": "@grendel1960a",
+    "author_channel_id": "UCugJVwvz-clavvlmL2XsCuw",
+    "text": "in a way the small spur gear is taking on the role of the ratchet, by being in the slot and moving it is taking that function, it uses a similar mechanism to that used to reverse the feed on a lathe.",
+    "likes": 4,
+    "published_at": "2025-05-19T14:29:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyMC7-NBesPI9DV5EV4AaABAg.AIJAT0K1FXTAIK9WVWZJyS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah i see that - in a way - yeah",
+        "likes": 1,
+        "published_at": "2025-05-19T23:40:10Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz4y364MYaTWFkAwed4AaABAg",
+    "author": "@Fuuuuuuuuuuuuuuuuuuuuu",
+    "author_channel_id": "UCgRU2_0sxBHAokbLXiKtEfg",
+    "text": "I always enjoy your videos. I like your passionate way of sharing your knowledge. TKS A LOT!",
+    "likes": 0,
+    "published_at": "2025-05-19T14:22:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz4y364MYaTWFkAwed4AaABAg.AIJ9kV5sszDAIK9Y2ZFoHK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:40:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzyinxa2TZcBDD734F4AaABAg",
+    "author": "@bikerfirefarter7280",
+    "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+    "text": "Neat. 👍\nThank you.🫡",
+    "likes": 0,
+    "published_at": "2025-05-19T14:09:08Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzyinxa2TZcBDD734F4AaABAg.AIJ8A4sP-bGAIK9by5e0xV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:41:03Z"
+      },
+      {
+        "id": "Ugzyinxa2TZcBDD734F4AaABAg.AIJ8A4sP-bGAIKO-wB1mZv",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "​@ThinkingandTinkering \nIt occurs to me that there is going to be rather a bit of 'lash'  with small movements of the rack. How are you going to deal with that?\nI can't think of any way of pre-tensioning it.",
+        "likes": 0,
+        "published_at": "2025-05-20T01:46:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCcZ1mUoyITwWvPGx4AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "Great explanation, it makes sense now.\nCheers Robert 👍💪✌",
+    "likes": 0,
+    "published_at": "2025-05-19T14:08:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzCcZ1mUoyITwWvPGx4AaABAg.AIJ84t9OemNAIK9dALcaEH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:41:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyfZL6wdfd19u8Xplp4AaABAg",
+    "author": "@ashiesmum",
+    "author_channel_id": "UC8Ctel2uEDo7k89mmn_J1tQ",
+    "text": "🌻 another fascinating video, so who dreamt this interesting contraption up? My brain went rectifier ~ diodes, how's this work 😸🌻❤️🌻",
+    "likes": 0,
+    "published_at": "2025-05-19T14:03:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyfZL6wdfd19u8Xplp4AaABAg.AIJ7XhFsfvPAIK9ipzBc2h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't think it is anyone person - it probably came up a number of times in different places and so the folks involved have been lost to history",
+        "likes": 0,
+        "published_at": "2025-05-19T23:41:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOquVjcGSH7QSahZZ4AaABAg",
+    "author": "@sveinarsandvin6418",
+    "author_channel_id": "UCBZUM0NnwTLUY4tZAhmuJAw",
+    "text": "Thank You",
+    "likes": 0,
+    "published_at": "2025-05-19T13:58:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxOquVjcGSH7QSahZZ4AaABAg.AIJ7-l-N2kBAIK9jfZyCcu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:42:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwgpg-1rps0b-B4luV4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "The neat thing about this is, no matter how far you push the input rack, the output still goes in the same direction . Unlike other linear to circular motion devices.",
+    "likes": 2,
+    "published_at": "2025-05-19T13:39:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwgpg-1rps0b-B4luV4AaABAg.AIJ4lCfyG0FAIK9qQ2fFHl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah - it really doesn't matter on length of stroke",
+        "likes": 0,
+        "published_at": "2025-05-19T23:43:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxvpbMaRuy3nFhcw3x4AaABAg",
+    "author": "@conkerfromopako",
+    "author_channel_id": "UC0tIxH1yaqnKtlz_0CgoVyA",
+    "text": "Been racking my brain trying to find the best way of building an entirely DIY-able wind power setup, with no magnets, field coils only, wonder if you've had a go at that kind of generator.",
+    "likes": 0,
+    "published_at": "2025-05-19T13:36:48Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxvpbMaRuy3nFhcw3x4AaABAg.AIJ4TMBl9z8AIK9t-r_lq8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah i did some stuff on that a few years ago mate",
+        "likes": 0,
+        "published_at": "2025-05-19T23:43:23Z"
+      },
+      {
+        "id": "UgxvpbMaRuy3nFhcw3x4AaABAg.AIJ4TMBl9z8AILTjZdwnCg",
+        "author": "@VeniceInventors",
+        "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+        "text": "@conkerfromopako Isn't that a catch 22 though? You need a magnetic field passing through the coils to generate electricity, and can't use induction like in a motor to create the field unless you already have electricity, so you're pretty much stuck with needing magnets.\nAs I don't like pointing at problems without offering some solution, potentially you could magnetize the rotor by using static electricity.",
+        "likes": 0,
+        "published_at": "2025-05-20T11:56:05Z"
+      },
+      {
+        "id": "UgxvpbMaRuy3nFhcw3x4AaABAg.AIJ4TMBl9z8AILxYXWph17",
+        "author": "@conkerfromopako",
+        "author_channel_id": "UC0tIxH1yaqnKtlz_0CgoVyA",
+        "text": "@VeniceInventors Obviously you'd need some starting electric power to keep the coils on, but you can then switch to using the generator's own output after startup: thats how almost all generators in power plants work, as no permanent magnet survives for long the magnetic stress inside a big alternator; though in my case I'm just interested on simplifying the design",
+        "likes": 0,
+        "published_at": "2025-05-20T16:25:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUIH22nmmPuc4SIql4AaABAg",
+    "author": "@xmysef4920",
+    "author_channel_id": "UCyFLnYEhYtrSeflvgWAyJ_w",
+    "text": "Great video Rob! I have seen this mechanism in pull-back motors aswell!",
+    "likes": 1,
+    "published_at": "2025-05-19T13:32:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUIH22nmmPuc4SIql4AaABAg.AIJ3wt5oyRmAIK9uIbhA0h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice - cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-19T23:43:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwBHkvyp71Jt2bLflR4AaABAg",
+    "author": "@jakolama",
+    "author_channel_id": "UCqircdg0tHqhCe-3ZteF51g",
+    "text": "Please remove these these bot comments",
+    "likes": 2,
+    "published_at": "2025-05-19T13:19:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwBHkvyp71Jt2bLflR4AaABAg.AIJ2TPuWdMwAIK9wKJGy1y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i do mate when i see them - don't let them bother you",
+        "likes": 2,
+        "published_at": "2025-05-19T23:43:50Z"
+      }
+    ]
+  }
+]

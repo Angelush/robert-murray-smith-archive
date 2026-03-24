@@ -1,0 +1,264 @@
+[00:00] [Music]
+[00:08] so in video 2317 we took this which is a
+[00:11] Perpetual wedge of a gear ratio of 100
+[00:14] to1 because it was a demonstration and
+[00:16] we turned it into this which is exactly
+[00:19] the same thing only all of the gears are
+[00:21] inside and the gear ratio of this is 60
+[00:24] to 1 and why 60 to1 well there are 60
+[00:27] seconds in a minute 60 minutes in an
+[00:28] hour and it's ideal for a clock and
+[00:30] that's what we're going to do with it
+[00:31] turn it into a clock to do that all we
+[00:34] actually need is this a little motor
+[00:37] this little motor I got from Amazon and
+[00:39] it's roted at 60 RPM for 6 Vols so of
+[00:42] course 60 RPM is ideal for us because 60
+[00:47] RPM means 60 turns in one minute and so
+[00:50] one turn equals a second brilliant so
+[00:54] our 60 RPM Motor will sweep one full
+[00:58] circle for every second and of course we
+[01:00] want it to tick a second on a clock face
+[01:03] so what we want is for it to move 160th
+[01:08] to indicate the second so of course if
+[01:10] we now take one of our Perpetual wedges
+[01:13] and you can see here I've reprinted this
+[01:14] with little feet on it and we put the
+[01:17] motor into that wedge then as that motor
+[01:20] turns one full turn the this section of
+[01:23] the wedge will be driven 160th to take
+[01:26] out a second of course as that's gone
+[01:29] all all the way around that's 60 seconds
+[01:32] or 1 minute we want a minute hand to
+[01:34] tick one minute away so what we do is
+[01:38] take another Perpetual wedge and stick
+[01:41] it on top and now we've got a second and
+[01:45] a minute but of course when that's done
+[01:47] one full minute it's an hour and when we
+[01:50] have an hour we don't have 160th we have
+[01:53] one 12 to
+[01:55] move these Perpetual wedges are actually
+[01:58] brilliant for very high gear ratios when
+[02:02] you're looking at other gear ratios so
+[02:04] say for instance a planetary gear
+[02:06] planetary gears operate best in the
+[02:08] range of 4 to 8 4 to 1 to 8 to one you
+[02:13] can make them at 12 to 1 but you're
+[02:15] getting it very much the extreme end the
+[02:17] planets start bashing into each other
+[02:20] and so there's a limit to the rear gear
+[02:22] ratios you can get out of different
+[02:24] things so some arrangements like
+[02:27] planetary gears will give you 8 or 10 to
+[02:30] one comfortably some like the Perpetual
+[02:33] wedge will give you 100 to one and
+[02:35] there's a space in the middle that's
+[02:37] serviced by things like cycloid drives
+[02:40] and cyllid drives is something else
+[02:42] we've covered a lot we've looked at how
+[02:45] to generate them in Tinker CAD we've
+[02:47] looked at building models of them and
+[02:49] we've looked at how to use them in
+[02:50] things like generators and wind turbines
+[02:53] so CYO drives are brilliant for that
+[02:56] mid-range gear ratio of sort of 10 to 20
+[02:59] to to one we need 12 to one in order to
+[03:03] make that clock happen so to do that
+[03:05] what I've done is constructed a cycloid
+[03:09] gear so I drew this in the program that
+[03:11] I showed you in the previous video and
+[03:13] you'll notice there are 12 loes on it
+[03:16] because with this kind of gear the gear
+[03:18] ratio is actually the number of loes so
+[03:21] if you're using the program then the K
+[03:23] value is 12 and the R2 is5 if like the
+[03:27] radius is .5 if the gear ratio is number
+[03:31] of lobes then the number of pins that
+[03:33] you need is loes plus one so I created a
+[03:37] dis here with 13 pins on it and these
+[03:40] pins are the same as the R2 value so
+[03:42] they have a radius of 5 mm or a diameter
+[03:46] of 1 cm and of course that sits nicely
+[03:49] in there and if we rotate it we'll get a
+[03:52] gear ratio of 12 to1 now because of the
+[03:55] limitations on Tinker CAD you can only
+[03:57] do 200 iterations this is is a little
+[04:00] rough so a bit of sanding makes that
+[04:02] work beautifully that then sits on top
+[04:06] of there taking that rotation that we've
+[04:09] got and turning into a 112th rotation so
+[04:14] this will now measure the hours but we
+[04:16] need to stop and think for a second if
+[04:20] we wire the DC motor so that it turns
+[04:23] anticlockwise which is simple enough you
+[04:25] just swap the two wires over the red and
+[04:28] the black and if it will rotate
+[04:30] clockwise or anticlockwise depending
+[04:32] which one has the positive but it will
+[04:34] rotate the second hand clockwise but
+[04:38] then because it's gone through this gear
+[04:39] these gears each reverse the direction
+[04:42] of rotation so it feeds the minute hand
+[04:45] that means the minute hand will now turn
+[04:47] anticlockwise and then it feeds the hour
+[04:50] hand which reverses it again turning it
+[04:52] clockwise so we'll have a second hand
+[04:54] going clockwise an hour hand going
+[04:57] clockwise and a minute hand going
+[05:00] anticlockwise which can be a bit of a
+[05:03] pen we can quite easily reverse the
+[05:06] rotation of that by putting in an idler
+[05:08] gear and of course we want it to be
+[05:10] along the same shaft so we can't use a
+[05:12] side by side gear but what we can use
+[05:15] are bevel gears so this little cage
+[05:18] takes these bevel gears this big bevel
+[05:20] gear goes in here this section goes in
+[05:24] there pushes through the bevel gck gear
+[05:26] there's a clip that goes in there and we
+[05:29] glue those making sure that they're free
+[05:30] to rotate then these two smaller bevel
+[05:34] gears go at the at the side here and
+[05:37] have these pins to hold them in place so
+[05:40] you push a pin through and add the bevel
+[05:43] gear to
+[05:44] it on both
+[05:47] sides then what we do is we take this
+[05:50] final bevel gear and it rests on those
+[05:53] two bevel gears with that on top of it
+[05:56] and nothing will drop out because all
+[05:58] the gears are kept in place place so if
+[06:00] I turn this top gear then that Top Gear
+[06:03] goes in that direction but the bottom
+[06:05] gear is going in the reverse Direction
+[06:07] the whole thing gets glued to the clock
+[06:09] face between the 12 and the 6 and of
+[06:11] course the clock face then sits on top
+[06:13] of the main clock like that and we can
+[06:16] fit the hands the minute hand now goes
+[06:18] on
+[06:21] here like that and all we need to do is
+[06:24] put some shafts in there for the second
+[06:27] and the hour the first one is this tiny
+[06:30] one which feeds into that cam making
+[06:32] sure that that little hole in it is
+[06:34] pointing outwards the cam then feeds to
+[06:37] the first Perpetual wedge these
+[06:39] Perpetual wedges are identical so it
+[06:41] doesn't matter which one you do once
+[06:43] youve done that flip it over and you'll
+[06:46] find a 3mm washer which goes over the
+[06:50] first axle and is glued in place to make
+[06:52] sure that that's still turns freely
+[06:55] that's done the first gear drops in
+[06:57] place and then the top goes onto that
+[07:00] gear there completing that first Edge
+[07:02] now in that hole there goes the second
+[07:06] shaft which is this longer shaft longer
+[07:08] thinner shaft gets glued in place in
+[07:11] that hole there then the second
+[07:13] Perpetual wedge goes on and gets glued
+[07:16] on top there then the second cam goes
+[07:21] on second gear goes on and then the
+[07:26] second side of the Perpetual wedge goes
+[07:30] on be sure to glue the cams in place but
+[07:33] not these gears they need to be free to
+[07:36] rotate the central axle might be a bit
+[07:39] tight in pleases depending on the
+[07:40] tolerances of your printer so just give
+[07:43] it a sound to make sure that it moves
+[07:44] smoothly through these gears and yet
+[07:47] sticks in the holes where we needed to
+[07:49] stick then we take our epicycloid and
+[07:52] this shaft here which will become the
+[07:54] minute shaft and that glues in that
+[07:57] Central hole right there then we slide
+[08:00] it onto that Central shaft line it up
+[08:02] and these feet get glued together with a
+[08:04] spot here to hold it in place when
+[08:07] that's glued in place we take the
+[08:08] flatter C with the larger hole and that
+[08:11] glues onto that section there and then
+[08:13] we take our disc and pop it in
+[08:19] there there we go and then we take this
+[08:23] piece this piece has that glued onto it
+[08:26] which then slides over and fits in there
+[08:29] and now now we've got the drivers we
+[08:31] need this is the hour hand this is the
+[08:33] minute hand and this is the second hand
+[08:37] all right to finish this we have this
+[08:39] little bplate that glues on there like
+[08:41] that and then the hands are printed in
+[08:43] black and because of this reversing we
+[08:46] have to put the hour hand right down
+[08:48] there so it's this big cheesy wedge then
+[08:51] we take the entire face and slide it in
+[08:56] place like that and push spot of glue on
+[09:00] the bevel gear in order to hold
+[09:03] it and then we can put on the minute
+[09:16] hand and then the second
+[09:19] hand and all we have to do when we fix
+[09:22] that lot together is attach the motor
+[09:25] and the motor goes on the back here so
+[09:28] we take that motor with its flat and jam
+[09:31] it into there and it has a motor holder
+[09:34] that it fits
+[09:36] into and the motor holder goes into this
+[09:39] slot at the bottom there so we press
+[09:41] that whole thing together and that's it
+[09:44] wired up and in place now it's a 6vt
+[09:46] motor so I've got a four battery box
+[09:48] there with an onoff switch if you can't
+[09:50] get the same motor then remember this
+[09:52] motor mount is detachable so just change
+[09:55] the size of it to suit your motor and
+[09:57] the hole where it goes into the axle
+[09:58] change as well and you're going to be
+[10:01] away so let's turn it around and turn it
+[10:10] [Laughter]
+[10:28] on okay so there are a couple of things
+[10:31] to say about it one it was very noisy
+[10:33] that's because it's all rubbing surfaces
+[10:35] and no bearings so if you want it quiet
+[10:37] you're going to have to go through it
+[10:38] and put bearings in it the other thing
+[10:41] is although it was ticking away seconds
+[10:44] then it's going to be in this form a
+[10:47] pretty rubbish timekeeper and that's
+[10:49] because we've only got two elements of
+[10:51] the clock we've got the mechanism for
+[10:53] accounting for the movement of the hands
+[10:56] and we've got the motor to be able to
+[10:57] drive it and we're relying on the fact
+[10:59] that that's a 60 RPM Motor and it's not
+[11:02] it's going to be roundabout there and
+[11:04] it's missing one major component and
+[11:07] that major component is the control
+[11:10] mechanism if you take apart a quartz
+[11:13] mechanism that's exactly what you're
+[11:15] going to see a tiny motor loads of gears
+[11:18] and then some way of controlling the
+[11:20] speed of that motor actually it's not
+[11:22] even a good motor it's a pretty rubbish
+[11:24] and cheaply built DC motor that's run by
+[11:27] some very simple electronic
+[11:30] and that's the subject of another video
+[11:32] because we finished the actual mechanics
+[11:35] here what we need to look at now is
+[11:37] accurate motor control because accurate
+[11:40] motor control doesn't only apply to
+[11:42] clocks of course it applies to things
+[11:44] like robotic arms and if you want to
+[11:46] build your own 3D printer you need to be
+[11:48] able to control that motor it's often
+[11:51] surprises me how the same principles
+[11:53] come up time and time again and we'll
+[11:57] deal with that in another video but I
+[11:59] person most of that because it's the
+[12:00] mechanics finished I hope you enjoyed
+[12:02] the video thank you very much for
+[12:04] watching oh I will put this on um
+[12:07] thingiverse and anybody's interested in
+[12:09] these sdl files but again thank you very
+[12:12] much for watching and please do remember
+[12:14] to like And subscribe

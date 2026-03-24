@@ -1,0 +1,213 @@
+[00:02] [Music]
+[00:14] now this may be unbearably smoke but to
+[00:18] be honest I love our ink I really do I
+[00:21] just think it's amazing now as you know
+[00:23] we're engaged in making a Cylon machine
+[00:25] and as part of that Cylon machine we had
+[00:27] to pen some pop layers so if you want to
+[00:30] see how to use the ink to make hot let's
+[00:32] then have a look at that I think it's a
+[00:35] pent on top let 4-cyl our own 3d printer
+[00:38] have a look at that
+[00:39] but equally that Cylon machine uses
+[00:43] limit switches to give position
+[00:45] information and then run on 12 volts and
+[00:48] I want that position put into an Arduino
+[00:50] nerd we know it takes a 5 or a 3.3 volt
+[00:52] input let's see 5 volt input on the pin
+[00:55] 0 to 13 although some of the pins do
+[00:58] take 3.3 volts but we want 5 volts and
+[01:01] our machine runs on 12 volts and 12
+[01:04] volts is going to come from those limit
+[01:06] switches I mean nothing in the way of
+[01:08] current but we still have that voltage
+[01:09] and I need to change that voltage down
+[01:12] to 5 volts in order to be able to input
+[01:15] it directly into the Arduino to read the
+[01:18] state of the switch with the Arduino and
+[01:21] that means dropping that voltage somehow
+[01:23] now a standard way of doing this from
+[01:25] picking up different voltages from
+[01:27] sensors and putting them into a
+[01:28] microcontroller is something called a
+[01:30] voltage divider voltage dividers are
+[01:32] great in certain circumstances for
+[01:34] dropping voltage but there are
+[01:36] conditions when you I have to be careful
+[01:38] like if there's a vastly variable load
+[01:40] on it or if it has it's an AC so you've
+[01:43] got an impedance and you might need to
+[01:45] capacitor all that sort of stuff but a
+[01:47] straightforward 12 volt DC with very
+[01:49] little variation that's coming under no
+[01:51] real load conditions like a sensor is
+[01:54] ideal for a voltage divider to drop the
+[01:56] voltage from 12 volts to 5 volts now a
+[02:00] voltage divider looks like this
+[02:10] so as you see you have the voltage in on
+[02:13] one side and that first resistor r1 then
+[02:16] another resistor r2 and then it goes to
+[02:18] ground and you pick off the voltage you
+[02:21] want in between resistor r1 and r2 and
+[02:24] depending on the ratio of r1 to r2 which
+[02:27] follows this rule
+[02:37] pending on that ratio is what that
+[02:41] voltage at is going to be now it turns
+[02:43] out with 12 volts in and fine faults out
+[02:46] I want 1.4 times r1 will equal the value
+[02:50] of r2 another way of creating your
+[02:53] voltage divider is use a potentiometer
+[02:55] tensiometer has three legs it's got the
+[02:58] start than the sweep the out and then
+[03:01] the middle which moves making it
+[03:03] variable type return position what I
+[03:05] have in fact got is a voltage divider
+[03:08] now I need eight of them because I've
+[03:10] got eight limit switches and I have a
+[03:11] number of choices on how to do this and
+[03:14] I did think about wiring up the
+[03:16] resistive network I did think about
+[03:17] wiring in the potentiometers and then I
+[03:20] thought hang on I just painted those hot
+[03:22] plates with our ink so what I'm going to
+[03:24] do is I'm going to make those voltage
+[03:26] dividers from our ink on this bit of
+[03:29] plastic dead simple all I have to do is
+[03:31] paint eight lines these will go to
+[03:34] ground
+[03:35] these will go to in and somewhere in
+[03:37] that ratio of one point four to one I
+[03:39] need to drill and stick the Arduino
+[03:42] input warrant that hole of put a bit of
+[03:44] paint on it and as long as I maintain
+[03:46] that ratio and I've got a reasonable
+[03:49] amount of resistance across that line
+[03:50] what I'll have is a set of voltage
+[03:53] dividers so I'm going to use our rink to
+[03:55] make a voltage divider plate that I'm
+[03:57] then going to use in our Cylon machine
+[04:00] so all that's gonna do is mask that pen
+[04:04] that drew it so let's get on with that
+[04:07] so here's my bit of acrylic can I've
+[04:09] masked it out a couple of bits of
+[04:10] masking tape and I've used some Kapton
+[04:13] tape there actually I just just use the
+[04:15] captain because it's nice and thin and
+[04:17] we can get the eight lines there easily
+[04:19] on this piece of acrylic so one two
+[04:22] three four five two six seven eight and
+[04:25] those will be my voltage dividers now
+[04:27] we're painting onto plastic so with the
+[04:30] eight you need to give it a little bit
+[04:32] of priming first but the priming is
+[04:35] really simple you just put a bit of the
+[04:37] ink onto a cloth and rub it onto the
+[04:40] plastic so it's as simple as that to
+[04:42] prime it once it's primed we can give it
+[04:48] a coat so we prime it and then
+[04:51] we dry it and then we compared to over
+[04:53] it if you don't prime the plastic the
+[04:57] ink will bead but remember it's a
+[04:59] graphene ink so it seems that this
+[05:01] little sort of rubbing trick spreads the
+[05:04] graphene onto the surface of the plastic
+[05:06] honest I'm guessing guys okay so it
+[05:08] spreads the surface onto the surface of
+[05:10] the plastic and allows me to paint over
+[05:12] it
+[05:12] afterward so we just give that a little
+[05:14] bit of time to dry so we've primed that
+[05:17] by giving it a rubber of the surface
+[05:19] with the ink let it dry and then we can
+[05:21] just paint straight over it with the ink
+[05:23] and the ink will now adhere to that
+[05:25] plastic surface
+[05:46] and then we drive that again it's dry
+[05:48] and we can peel off the masking tape to
+[05:51] reveal our eight lines okay let's drill
+[06:04] it okay so that's it finished we'll have
+[06:05] a better look at it in a moment I just
+[06:07] want the point to happen it's actually
+[06:08] connected to the power supply and I've
+[06:11] set the power supply at 12 volts and
+[06:14] I've also got my digital reader here and
+[06:16] it's reading four point nine volts it's
+[06:18] point one of the Volt difference which
+[06:19] is about one percent if you think about
+[06:21] resistors they're usually five or ten
+[06:23] percent in error anyway so one percent
+[06:25] fantastic so we've got 12 volts in five
+[06:28] volts out of our painted voltage divider
+[06:30] so let's have a better look at the
+[06:32] divider and there it is
+[06:41] so all I'm done with this once I painted
+[06:43] the lines I painted this bar because
+[06:45] obviously they all go to ground and
+[06:46] attach the ground wire and these are my
+[06:49] eight voltage dividers and if we look at
+[06:52] the reverse you can see what I've done
+[06:53] all I've done is take some of these
+[06:56] things bend the pin overdrew little
+[06:58] holes glue it and then paint over those
+[07:01] so I used these connectors and bent
+[07:05] those pins over and it's a 1.5
+[07:07] millimeter hole that are drilled in it
+[07:09] so drilled my one point five millimeter
+[07:11] hole glued in those connectors painted
+[07:14] over it and that's how I made it so
+[07:15] that's now ready on this side to connect
+[07:18] to the Arduino and on this side to
+[07:21] connect to my switch bus bar so that
+[07:23] what I've got is a voltage divider 12
+[07:26] volts straight down to five volts for
+[07:28] the Arduino here's my ground wire and it
+[07:31] also drew about 16 milli amps so this is
+[07:34] also a current limiting device so lomi
+[07:38] draw six only about 16 milliamps through
+[07:40] it to limit the current that's going
+[07:42] into the Arduino and limit the voltage
+[07:44] and I think that's super cool actually
+[07:48] it shows you really some of the things
+[07:50] if you think about it that our ink could
+[07:52] be used for I mean every time I use this
+[07:54] ink I'm just amazed by actually where
+[07:56] you can do now just to go through this
+[07:59] again the voltage divided
+[08:00] it's the ratio of the r1 resistor which
+[08:04] is the resistor nearest to the supply
+[08:05] and the ratio of the r2 resistor which
+[08:08] is the one past going to ground is that
+[08:12] ratio that dictates the bottoms drop if
+[08:14] I take these pins and put them at these
+[08:16] opinions obviously they're right next to
+[08:18] each other so 12 volts in 12 volts out
+[08:21] as it goes down this line that ratio
+[08:23] increases so I just have to find
+[08:26] somewhere along that line where that
+[08:27] ratio is right and I can get that ratio
+[08:29] just by putting in a calculator on the
+[08:32] web so you want to make a voltage
+[08:34] divider with an input voltage in a fixed
+[08:36] output voltage go on to the web
+[08:38] calculate that ratio and then because
+[08:41] this is a straight line of equal
+[08:42] thickness you just measure the line and
+[08:45] divide the line by the restroom that
+[08:47] you've got drill your hole in there as
+[08:48] you get your voltage divider so I'm
+[08:51] going to put that onto the cylon machine
+[08:53] now and use that to get those control
+[08:56] signals into the Arduino so I just
+[08:58] wanted to quickly show you it fitted to
+[08:59] the machine there it is and here are the
+[09:02] wires they're going to the switches and
+[09:05] here are the wires they're going to come
+[09:08] out to the Arduino I think it looks
+[09:10] lovely actually in that awesome yet I
+[09:17] thought I'd share that little bit with
+[09:19] you because I thought it was actually
+[09:20] awesome actually
+[09:22] being able to paint your own electronics
+[09:23] is always impressive by me and I thought
+[09:26] I'd share it so I hope you enjoyed what
+[09:28] chicken thank you very much

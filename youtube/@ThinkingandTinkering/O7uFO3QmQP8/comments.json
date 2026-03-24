@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "UgyzfF-XgrFBIFFhhLB4AaABAg",
+    "author": "@nathanwiel6347",
+    "author_channel_id": "UCjwg3jB4sre2KqtD6q-08Zw",
+    "text": "In another video you wired the DC relay in such a way that it kept switching on and of and so that its coil would keep vibrating by itself and you connected it to the transformer and it came out as AC from the transformer\n\nIf i wire the relay so that it keeps switching by itself and if i add the diodes and the capacitors as you did in this video will i get a pure sine wave out of it ?",
+    "likes": 0,
+    "published_at": "2025-09-27T13:18:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVrEua51bfJGg-CfR4AaABAg",
+    "author": "@johnbassey4114",
+    "author_channel_id": "UCIXIRoS_uWdlB8VqBg4yY3A",
+    "text": "Wow this is really helpful",
+    "likes": 0,
+    "published_at": "2024-08-30T12:32:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8iqCQvzDHMhCdPV14AaABAg",
+    "author": "@ehcnjq",
+    "author_channel_id": "UC6opnr62g4kD-4oqe-EN9Xg",
+    "text": "Thank you very much too!",
+    "likes": 0,
+    "published_at": "2024-08-22T12:20:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzuf3apH8fMfmZax_F4AaABAg",
+    "author": "@MePeterNicholls",
+    "author_channel_id": "UCXAscl4e3up1exFdBOn-Wkg",
+    "text": "I’m here because…. I want a battery system for my home studio / office.  I want to turn off the mains input (smart plug or maybe even arduino control) and seemlessly switch to battery when electricity peak price is high, last for about 3-4 hours (2 kWh total) then the rest of the time be charged (lifepo4) ready to go. …",
+    "likes": 0,
+    "published_at": "2024-06-28T03:08:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxo0arCY5NvJfKKS4V4AaABAg",
+    "author": "@haydensuperville1967",
+    "author_channel_id": "UCat1BnE76XQdYKmO92hg6Fw",
+    "text": "Masterful Indeed.....You are a good Teacher!!",
+    "likes": 0,
+    "published_at": "2024-05-23T23:20:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyePtCHQZrmJkjsv254AaABAg",
+    "author": "@joparta2025",
+    "author_channel_id": "UCu4U-F3nbvbfT1XMDK3FaQA",
+    "text": "Love ittt!!! Such a good explanation",
+    "likes": 0,
+    "published_at": "2024-03-26T07:19:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxrqjNfD-Jn7iRFEj54AaABAg",
+    "author": "@mattharvey8712",
+    "author_channel_id": "UC1Pw_UZ8G7eBCMXNLmHTgow",
+    "text": "Hey next ......in th u.s. the power is two 110 lines to make 220.......three wires ....2 hots and a neutral.....they are out of phase 180 degrees..ok ...next make two 110ac lines that are out of phase 180 degres.......power source  pv panels......48-36vdc......cheers",
+    "likes": 0,
+    "published_at": "2024-02-09T12:54:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwdBBC7eBz8bVenJgV4AaABAg",
+    "author": "@mattharvey8712",
+    "author_channel_id": "UC1Pw_UZ8G7eBCMXNLmHTgow",
+    "text": "Bravo......hey do one on paralling inverters.......cheers",
+    "likes": 0,
+    "published_at": "2024-02-09T12:38:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzxxGvke_aL-gEy6OV4AaABAg",
+    "author": "@rbouakaz",
+    "author_channel_id": "UC0UN1vajx5w6kkwn9bHh_0A",
+    "text": "You are simply fantastic Rob.",
+    "likes": 1,
+    "published_at": "2023-10-22T13:02:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxOJep0PkYV_RQhbBB4AaABAg",
+    "author": "@JOHNCHENSJCA",
+    "author_channel_id": "UCCxU4oK4_9vBCEkI_9Q-lhQ",
+    "text": "Robert, thank you for the nice schematic at the end of the video!\n\nI did a simulation in LTSpice with a 180u np cap and an approximation of a center-tapped doorbell transformer (LV 10mH-10mH, HV 1H).  With 12V DC in, this yielded a nice 60Hz sine wave consuming about 12W with a 1K resistor load on the high voltage side (160V AC).  I used 10mH for the choke.  The choke inductance needs to be about the same magnitude as the LV side of the transformer.  is really important to have!  Efficiency is about 80%.",
+    "likes": 3,
+    "published_at": "2023-09-20T15:57:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyZafroQPY-KERODkN4AaABAg",
+    "author": "@floridaadventurediving144",
+    "author_channel_id": "UCxiYZsXqfxrfYjKsM8UN_UQ",
+    "text": "I enjoyed your video.  Your design is limited by the size or massive weight of your transformer.  Would like to see you revisit using something with a higher efficiency transformer (lower weight, smaller cheaper) using high frequency and adding power factor correction on the output.  Also with a respectable output power say 1300 watts or higher.",
+    "likes": 0,
+    "published_at": "2023-08-30T15:56:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtwHppJvholrgicEl4AaABAg",
+    "author": "@CharizardFan_og",
+    "author_channel_id": "UCbBy-5ly-wn-evIC-3RXmtw",
+    "text": "How would you go about adding a 555 timer in this circuit?",
+    "likes": 0,
+    "published_at": "2023-07-28T10:47:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyjIyRGAFNDFgpr1BB4AaABAg",
+    "author": "@emmanuelonu3103",
+    "author_channel_id": "UCfjKZSEYz4UntRblTBPkALw",
+    "text": "Please can you explain smps inverter, how it works than regular transformers thank you",
+    "likes": 0,
+    "published_at": "2023-07-24T07:02:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy01aRFKFyAvOnkl154AaABAg",
+    "author": "@SecretState",
+    "author_channel_id": "UC0dcZyGjaJ-yFRvkJ4tE2yw",
+    "text": "This has been bugging me for a while but did you ever lecture at leed uni dep of engineering ? ,💚✌️",
+    "likes": 0,
+    "published_at": "2023-07-23T16:34:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxzbU5jlsS2IgW3DaB4AaABAg",
+    "author": "@EierHoenderhaan-jo2ot",
+    "author_channel_id": "UCh5LnPZ96t6qnOuG4tn4LfA",
+    "text": "I am from Melkbosstrand near Cape town realy like Ur video's you do everything i like doing.",
+    "likes": 3,
+    "published_at": "2023-06-25T22:56:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxCEn-RzJDtuYHW9sh4AaABAg",
+    "author": "@mouse_mc",
+    "author_channel_id": "UCoTlN9mUWn5dwZwJ4HLCXZQ",
+    "text": "Hi Rob. My interest in inverters has increased significantly the past year. Can you consider doing a video on diy'ing an inverter run off a 12v battery with a normal household plug output. Imagine using this portably on appliances such as a toaster, TV, etc. But only as required and one appliance at a time. I finding lights quite easy due tp4056 modules, but standard appliances requiring ac on something similar is what I'm looking at next. Right now I want to run a ac fish tank water pump, but struggling to decide if a PC fan inverter, MOSFETs driven, etc, with what I learned from your videos. But which would practically be easiest/cheapest to DIY for different appliances. When does a device become 'sensative' requiring sine wave. A lot of questions lol, sorry",
+    "likes": 0,
+    "published_at": "2023-05-19T19:59:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxCEn-RzJDtuYHW9sh4AaABAg.9puVDNPED_cAKRthvWNDsj",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "A lot of devices have internal circuits that will cope with inputs that are not pure sine waves. I find it's usually audio equipment that has some problems such as 'noise', also some motors are a bit noisy with square  wave inputs.",
+        "likes": 0,
+        "published_at": "2025-07-11T16:50:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwKIbPc1-S3cVDNdbt4AaABAg",
+    "author": "@lukasLight8484",
+    "author_channel_id": "UC1vnhgMqngLLjvs5ItUVa8w",
+    "text": "i Love you dadi❤❤❤❤❤❤❤",
+    "likes": 0,
+    "published_at": "2023-04-08T18:12:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTAumD2BCotZTz_ph4AaABAg",
+    "author": "@FlorianRose81",
+    "author_channel_id": "UCSi0pZC3JvKmO02rEdukH4A",
+    "text": "❤😊🙋‍♂️",
+    "likes": 0,
+    "published_at": "2023-03-28T23:40:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbxKnivZlaA6U19St4AaABAg",
+    "author": "@EbukaNduka",
+    "author_channel_id": "UC38YbQx7EzB8t7nwm3ZfTmg",
+    "text": "To be frank, this is one of the most inciting and exciting videos I've seen on the basics of Inverter. Thank you so much for making me fall in love  again with the wonders of electronics",
+    "likes": 3,
+    "published_at": "2023-03-11T00:57:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxtc3u0d959urYlQVR4AaABAg",
+    "author": "@lezbriddon",
+    "author_channel_id": "UCDrNjRt_-fUWLRBvEawfd3w",
+    "text": "I have often thought if an old buzzy stick welder would make a good transformer donor for a high power inverter, or those old microwave transformers.",
+    "likes": 2,
+    "published_at": "2023-02-22T13:13:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzGgBclCJen_MquJy14AaABAg",
+    "author": "@unequally-tempered",
+    "author_channel_id": "UCKja4rzTOrvd6DtoEqswmlQ",
+    "text": "As always wonderful an innovative. Is creating a sine wave output really as simple as introducing a smoothing capacitor though? Commercial inverters go through a lot of trouble to do it with pulse width modulation.",
+    "likes": 0,
+    "published_at": "2023-02-22T01:46:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzGgBclCJen_MquJy14AaABAg.9mQ5kFaUwwV9nxAss6beRe",
+        "author": "@laurencerilling5873",
+        "author_channel_id": "UC5VhE6Y2pDpomKNPIjIrCCw",
+        "text": "That capacitor is also part of the tuned LC circuit. The modulated high frequency inverter you mentioned is also more efficient.",
+        "likes": 0,
+        "published_at": "2023-04-01T03:57:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOHpRmrwqvRWCcVct4AaABAg",
+    "author": "@ericblenner-hassett3945",
+    "author_channel_id": "UC2Xfi79rshqfPWbzdFPJBvg",
+    "text": "It has been a long time since doing my Elecronics Technician training.  I do remember transformers as a fun way to change waves until you get a sine wave.  Pure 50 percent duty cycle square wave will become a triangle, and next a triangle will become a sine wave and all until you actually do something other than use a scope on the output of the transformer.  After adding anything to the transformer output, errors ( real life ) happens.  I have repaired a few inverters and the better quality ones use a Ferrite core Toroid transformer and not just as a combination of mass and space savings, also better power efficiency out.",
+    "likes": 1,
+    "published_at": "2023-02-21T21:06:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxg-QichBp91v0R9OR4AaABAg",
+    "author": "@64bitAtheist",
+    "author_channel_id": "UCD6e0WIi-FP_jxPDXJWYH6g",
+    "text": "Can you put a selection of instructional videos together on a collection of DVDs and possibly a companion book so we can benefit from your knowledge offline should that become something we need to worry about...\n\nPotato can IR heaters, wind turbines, energy storage (gravity batteries perhaps) etc.",
+    "likes": 0,
+    "published_at": "2023-02-12T10:48:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_K6pzBYukuwvB8654AaABAg",
+    "author": "@sspence65",
+    "author_channel_id": "UCqfgIjpizVhHbCr45AZbKhQ",
+    "text": "I use the IRL540 MOSFETS as they have a very nice Arduino compatible 5v VGS.",
+    "likes": 0,
+    "published_at": "2023-02-09T19:15:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxLzC38pd9Xr-AqZG14AaABAg",
+    "author": "@nixonsmateruby1",
+    "author_channel_id": "UC1xeQPq3EPp_KxGn0YiCATA",
+    "text": "We're men, we do man things.",
+    "likes": 0,
+    "published_at": "2023-02-08T09:54:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwlcEZV-FNtRIHrg0R4AaABAg",
+    "author": "@stevedangerous1",
+    "author_channel_id": "UCwuaMGwzPd1CdN-nKGpV2dw",
+    "text": "Makes me wont to go to the attic and dig out my everyday electronic magazines from the 70s and 80s...top stuff.",
+    "likes": 3,
+    "published_at": "2023-02-02T18:24:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgycENs5fw1fT-QySLR4AaABAg",
+    "author": "@keithking1985",
+    "author_channel_id": "UCeqcadyZOmTAB0mq3YIre3g",
+    "text": "Thanks Rob 👍🇮🇪💚🙏🏻",
+    "likes": 0,
+    "published_at": "2023-02-01T02:08:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyX-nHWupugs6TgjwF4AaABAg",
+    "author": "@dinosaur0073",
+    "author_channel_id": "UC3TGtkgDxT93Ydxjqh5ajvA",
+    "text": "Thank you, Robert...I'll try to build one but with good protection....thank you again.",
+    "likes": 1,
+    "published_at": "2023-02-01T00:27:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9j4zDsv4Mr7Fid7V4AaABAg",
+    "author": "@ClownWhisper",
+    "author_channel_id": "UCrQVopd67OnwpMyLTSP73Sw",
+    "text": "This was so helpful I can't even articulate. I have a lot of projects going on right now the project that I would need to learn this to complete this is kind of farther down the line but I still needed to understand this so it is a great help to me and I just randomly stumbled upon the video. What a great help you are. I am 3D printing would I hope it's gonna be a very highly efficient generator that runs off of a small wind turbine above and behind my garage. I have it set up so it'll transfer mechanical energy through the wall of my garage and it doesn't quite well. I want to slowly build up a Bank of batteries and keep adding on to them so I have basic electricity for the things I need during storms that knock out our power. What I have to figure out is how to set up an array of batteries in that way that will allow expandability.\n\nThat might be a good video for you to consider designing a better battery array for DIY energy storage",
+    "likes": 1,
+    "published_at": "2023-01-30T12:31:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8amfC6wawVlH_vp94AaABAg",
+    "author": "@hoofheartedicemelted296",
+    "author_channel_id": "UC7P7Scmi9tYmgOAuG56ES4A",
+    "text": "5:38 That shows keen insight.  \"The rest is about sizing components, and then purifying it and taking care of it and actually making sure it doesn't exceed it's limitations\".  You could almost be describing a flyback device using algebra to size components, purifying it with an emi filter and a pulse width modulator taking care of it with a micro controller with a preset program and making sure it doesn't exceed it's limitations with a voltage limiter .  Interesting video Mr. Smith.",
+    "likes": 2,
+    "published_at": "2023-01-28T23:56:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4t6L9SWq8fIYXlPh4AaABAg",
+    "author": "@easyspeak101",
+    "author_channel_id": "UCgk8RdSK60_Tw2SziwUNqLA",
+    "text": "Very entertaining.and informative.. Used to be called chopper circuits.. and higher frequencies of chopping meant need smaller transformer requirements.. they used them in power supplies ..  but that's a nice intro to subject.. thx. Ps you can buy invertors em places like machine mart if they still exist",
+    "likes": 1,
+    "published_at": "2023-01-11T20:07:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyMVvjOSkwlbecZ7Ph4AaABAg",
+    "author": "@alessandromarzico2703",
+    "author_channel_id": "UC2O1AnbUUk9FlyxlfmsYImA",
+    "text": "Danke!",
+    "likes": 0,
+    "published_at": "2022-12-25T21:33:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqJJFR320HBELiMMB4AaABAg",
+    "author": "@kilokilos",
+    "author_channel_id": "UClSxgY1l2awYiIgxPw5Mc1Q",
+    "text": "Awesome",
+    "likes": 0,
+    "published_at": "2022-12-23T01:38:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwu2ia9ikgUOr8r1_14AaABAg",
+    "author": "@1realtruthrightnow742",
+    "author_channel_id": "UC9zovMR0fyGb_Gz9aQqdpog",
+    "text": "Hello Robert. I have a question.  I have a B&D 750W 6.52amps inverter model PI750AB.  For the most part it works perfectly.  But I'm experimenting with using it with a smaller battery in my chicken coops when needed.  I have it hooked up to a GT12080-HG 12v 8ah battery.  I can run a fan, laptop radio etc no problem. But when I plug in a 200w heat lamp the inverter goes yellow and cuts the power.  it wont work.  The battery is fully charged.  Why is a 750watt inverter shutting down when plugging in a 200watt heat lamp???   Any ideas?  I'm trying to put the lightest battery I can use just in case I need to move it.  I'm 78 and can't much carry heavy things.  Thank you for reading",
+    "likes": 0,
+    "published_at": "2022-12-09T17:00:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGUoEoY5B5iuHgHFd4AaABAg",
+    "author": "@gazzaka",
+    "author_channel_id": "UC68QrhX8fUe3WTUpnSrlh3w",
+    "text": "seems you could do without center tap connect and have a slightly more complex switching mech",
+    "likes": 1,
+    "published_at": "2022-12-03T01:53:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgytxSETfwyrTWEQ0Ih4AaABAg",
+    "author": "@nicky5185",
+    "author_channel_id": "UC5rnFyHEQ23qiK4ZZgQLN-w",
+    "text": "How does this work with inductive loads? Does it require an specific design? Thanks",
+    "likes": 0,
+    "published_at": "2022-11-22T19:07:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzMb61rfs4s1qUOjBZ4AaABAg",
+    "author": "@untasnaz",
+    "author_channel_id": "UCXN_BX6jnKVea393HPWcGzw",
+    "text": "I just wanted to thank you for this video. I have been trying to find a solution for strobing Christmas lights at 60 hertz and wanted to create a variable frequency power supply capable of supplying enough voltage to light the string while reducing flicker. There were a few key concepts I could not seem to grasp until I watched this video. Thank you again for taking the time to explain it. It's hard to find videos that get into the nuts and bolts.",
+    "likes": 2,
+    "published_at": "2022-11-16T14:42:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQF9vjXghx3ArAfKR4AaABAg",
+    "author": "@hollisday6308",
+    "author_channel_id": "UCHCEeYTtL_0wIcQiKXSiRUw",
+    "text": "You have made me follow what was complicated and with such enthusiasm, I wish you continued success in all your undertakings. I am getting familiar now and liking it all. Thanks.",
+    "likes": 1,
+    "published_at": "2022-11-10T23:30:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyzO-jLxStEG_ALmMF4AaABAg",
+    "author": "@david2ljdavid2lj56",
+    "author_channel_id": "UCJfEBkzkk1Kzk2GDNsowcSw",
+    "text": "I love this rob, thank you. Can you do one on dc to dc?",
+    "likes": 0,
+    "published_at": "2022-10-05T14:56:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwzXtnEBwkHSPyGftx4AaABAg",
+    "author": "@simonwhitehead2857",
+    "author_channel_id": "UCOG9uhBSrn4FX1Xl4U7DsMA",
+    "text": "Hi, I was wanting to have a go at making an inverter, but can't seem to source any step up tranformers, could anyone suggest a possible supplier? Was looking for a 24v input with a central tapping and a 220-240v output.",
+    "likes": 0,
+    "published_at": "2022-10-05T14:45:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyoNOggXHTLvS1_PZF4AaABAg",
+    "author": "@reefuk2396",
+    "author_channel_id": "UCHx2qIfyW9NmJUEuSgzaVgw",
+    "text": "Can it be done with an arc welder ?",
+    "likes": 0,
+    "published_at": "2022-09-24T08:20:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgziH2eJBWIWWyZoROJ4AaABAg",
+    "author": "@RixtronixLAB",
+    "author_channel_id": "UC89se0BZ2oGeqN5jNbDAyQQ",
+    "text": "Nice info, thanks for sharing :)",
+    "likes": 0,
+    "published_at": "2022-09-13T01:56:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzTMunIBL6DyvdNBRR4AaABAg",
+    "author": "@fransmurati2370",
+    "author_channel_id": "UCKcS0rhNyDy1vj-98gUC3yw",
+    "text": "This is going to help me a lot, in a novel research idea I am working on, I am just a hobbist with very little self taught electronic background, learned lots from you this far. Thank you for doing so much in sharing your ample subjects knowledge with so much enthusiasm and love.",
+    "likes": 2,
+    "published_at": "2022-09-11T17:34:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3iV93uSqXe_aKwLF4AaABAg",
+    "author": "@pogodaclown7335",
+    "author_channel_id": "UCEbceEf8XtaoFyEMIk5K9EA",
+    "text": "Have u dabbled in making perovskite solar cells or is it even possible to do it in a diy way??",
+    "likes": 0,
+    "published_at": "2022-07-19T08:36:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxwjpl9QNJVO-CkiF94AaABAg",
+    "author": "@voiceofinsight5811",
+    "author_channel_id": "UCTL7SCudDpTBO2MQaYmzEGQ",
+    "text": "Hi Rob, thanks for your videos, it really clarifies these concepts to amateur folks like us.\n\nIs it possible to build a 500W/1000W inverter producing 220V of pure sine wave A/C using the following part list. Can I scale this build up to a 2000W capacity by just swapping out the transformer and fitting a new one, if not, can you highlight the changes I need to make to the part list in order to achieve a higher capacity. I intend to use the inverter to power any home appliance from A/Cs to computers, please help.\n\n- EGS002 SPWM Inverter Driver Module\r\n- IRF3205 or IRLB4132 MOSFETS (16x)\r\n- 12V UPS Transformer (500W/1000W)\r\n- (Transformer Ratio 7V:220)\r\n- TO-220 Isolation Set (16x)\r\n- TIP31C NPN Transistor\r\n- 7805 Regulator\r\n- 1N4007 Diode (8x), use FR107 or UF4007\r\n- 10k Ohm NTC Thermistor\r\n- 10k Ohm Multi-turn Trimmer\r\n- 10 Ohm Resistor (4x)\r\n- 2.2k Ohm Resistor\r\n- 10k Ohm Resistor (4x)\r\n- 100k Ohm  Resistor (2x)\r\n- 470nF 25v Capacitor \r\n- 2.2uF +350v Capacitor \r\n- 2.2uF 25v Capacitor \r\n- 10uF 25v Capacitor\r\n- 100uF 25v Capacitor",
+    "likes": 0,
+    "published_at": "2022-07-18T19:58:33Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxwjpl9QNJVO-CkiF94AaABAg.9dd8bv2zxjp9hmCvKx1SGI",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "Woulnt it be a good idea, to learn about these, from College,, books,,helpful knowledgeable friends and family?!\nThat would give you a far better Grasp of the Subjects....\nRather than being Given the Answers, it is Way better to learn how to Problem-Solve for  yourself!!\nI hope this helps, please dont take offence, as I meant none!! ;0)X",
+        "likes": 1,
+        "published_at": "2022-10-29T18:34:54Z"
+      },
+      {
+        "id": "Ugxwjpl9QNJVO-CkiF94AaABAg.9dd8bv2zxjp9o6sB8juysg",
+        "author": "@undernetjack",
+        "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+        "text": "Here's some random petrol car parts... what do I need to make a Tesla....   👎",
+        "likes": 0,
+        "published_at": "2023-04-05T07:36:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyUur6rgTvrQmYcmIB4AaABAg",
+    "author": "@inthso362",
+    "author_channel_id": "UCq6tx_m4EMn56O9AXkyBtzQ",
+    "text": "5 months old, 130 comments. When the zombie Apocalypse hits, at least we'll have a clue. mr.  beast's millions will be eating each-other.",
+    "likes": 1,
+    "published_at": "2022-07-11T00:29:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyUur6rgTvrQmYcmIB4AaABAg.9dK1FtwkWX59nIrSF-R4Jw",
+        "author": "@maukaman",
+        "author_channel_id": "UCALU2TXbEJvNTHizS196Q9g",
+        "text": "This is why I think we should all be recording as much useful videos and other information from the web as we can.  It doesn’t take an apocalyptic event to knock out our Internet connection, and we’d be lost without access to all that information.  If everyone with a computer just held on to their old hard drives and used them to store useful information like this it would still be accessible after Internet is down or servers get destroyed.  It drives me crazy seeing pallets worth of older hard drives being destroyed and scrapped for little return when they could be used to catalog the endless sea of information that we have access to now.",
+        "likes": 2,
+        "published_at": "2023-03-16T02:49:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxVYLq6P99sHY5bw9h4AaABAg",
+    "author": "@AbadorOlsztyn",
+    "author_channel_id": "UCGK5jGKKYMbxVEHEylifsUA",
+    "text": "Could we see something similar about a 3-faze inverters? :)",
+    "likes": 0,
+    "published_at": "2022-07-02T12:28:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxNhzdbYz9MQSWJXnt4AaABAg",
+    "author": "@jaymiewilliamson2521",
+    "author_channel_id": "UCBOhFXPksb6mkpOWTZYJT_Q",
+    "text": "All your videos are blacked out",
+    "likes": 0,
+    "published_at": "2022-06-25T18:22:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKMgoh1OIGByJ0Scp4AaABAg",
+    "author": "@johnp8381",
+    "author_channel_id": "UCtlNhDjXCGWIV2wYr8-sHLw",
+    "text": "Could this be used to step down the voltage and up the current from something like a Zamboni pile or is the pile not capable of supplying enough power? I have seen that you were looking at a fractal capacitor for this but would this circuit work for the same process?",
+    "likes": 0,
+    "published_at": "2022-06-21T21:30:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy9mlLSN57o4bX91WR4AaABAg",
+    "author": "@shazzz_land",
+    "author_channel_id": "UCWtTodEJBvJ-U4V1BmKw3VQ",
+    "text": "will this inverter work for normal house hold apliances?",
+    "likes": 0,
+    "published_at": "2022-06-09T18:47:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyvLgt5Z33U7DBj5j14AaABAg",
+    "author": "@shazzz_land",
+    "author_channel_id": "UCWtTodEJBvJ-U4V1BmKw3VQ",
+    "text": "Hello and respect, what as the so called builder’s board made of, what type of material is it?",
+    "likes": 0,
+    "published_at": "2022-06-09T18:45:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy0aTXv_JeBdgV9YTN4AaABAg",
+    "author": "@johndii2194",
+    "author_channel_id": "UCSpKVSYE-FfQdvEld-sAvaw",
+    "text": "the old car radio vibrator",
+    "likes": 0,
+    "published_at": "2022-06-01T23:13:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwixnqmzV5yfz7EEGB4AaABAg",
+    "author": "@looking-beyond",
+    "author_channel_id": "UCbTVygaT25m9fwpDPlCbBNQ",
+    "text": "Sir how to collect/store energy from many small micro wind turbine . If possible, to feed directly to home power supply system.",
+    "likes": 0,
+    "published_at": "2022-05-05T15:30:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJAs9m3h-ggVmf7FR4AaABAg",
+    "author": "@ryannorton5153",
+    "author_channel_id": "UCE2rH2g-HsomSuRi1lGFu3g",
+    "text": "Any chance you can do a video on how to make copper foam at home? If anyone can simplify the process and make it safe enough to do at home , I believe you would be the man for the job",
+    "likes": 0,
+    "published_at": "2022-04-15T19:55:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyfC5Xjlg-DSc7KZZJ4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "I remember the two transistor inverter in something like poptronics.",
+    "likes": 0,
+    "published_at": "2022-02-21T10:31:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6tREksnP8rag-IHh4AaABAg",
+    "author": "@miken7629",
+    "author_channel_id": "UCiYlEf7SC0Mqq5yBZEa217g",
+    "text": "Looks like this would be an excellent 12v fishing device if you hook up the 220AC to a couple wire screens attached to wooden poles.",
+    "likes": 0,
+    "published_at": "2022-02-07T23:54:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgytN87QORezeaoaiCV4AaABAg",
+    "author": "@overbuiltautomotive1299",
+    "author_channel_id": "UCq3DTW3znRPwfZlXaL1X7uQ",
+    "text": "low frequency inverter like./ power jack/ makes i like as far as one you can buy but this diy stuff is cool great  video Robert",
+    "likes": 1,
+    "published_at": "2022-02-03T15:57:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxB3qWZMApfs9Z2ssl4AaABAg",
+    "author": "@overunityresearchchannel",
+    "author_channel_id": "UCGEmAR4KNrjh6zjX6ZVuB8A",
+    "text": "I really really enjoy this video thanks Robert I will be making one of those with the circuit for sure 👍💯",
+    "likes": 0,
+    "published_at": "2022-01-22T09:23:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwzZQCKlyz3H44aj1F4AaABAg",
+    "author": "@MasterIvo",
+    "author_channel_id": "UCVZQj8Cl06UDheK3B4N7d9w",
+    "text": "funny, with those diodes parallel to the switch, you still get positive inductive spikes from the coil being switched open. The mosfet has an internal body diode that does the same.\n\nSince the inductive spike is a resonant halfwave, it quickly is transformed into a negative voltage which then is passed through the diode back into the battery. Which is efficient, as the magnetic field energy of the coil is recycled. \n\nIf you really want to get rid of the high voltage inductive spike (which sets up a displacement current from the rapid voltage change), you could place the diode parallel to the coil. But then the energy of the coil will be burned away as heat inside the diode.",
+    "likes": 5,
+    "published_at": "2022-01-21T19:00:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwzZQCKlyz3H44aj1F4AaABAg.9XThTOp2Naz9XjWlKSanzi",
+        "author": "@AzureSky6612",
+        "author_channel_id": "UCd7dxf0p0ud50SysubeYCpQ",
+        "text": "Ah, interesting.  There's always something more to consider.  Tradeoffs to contemplate.",
+        "likes": 0,
+        "published_at": "2022-01-28T07:45:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzMSb0D7auoY9bt1t4AaABAg",
+    "author": "@sarchlalaith8836",
+    "author_channel_id": "UCYxEGIgDy3cRKBRkATSQSbA",
+    "text": "You know... I've been sh**ing myself about making an inverter for my solar roof.\n\nThis helps. I'd really love to see you build one for a standard UK solar roof (something that would handle household levels)",
+    "likes": 2,
+    "published_at": "2022-01-21T16:09:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyOsPJjM6D_5oxFscF4AaABAg",
+    "author": "@RupertBruce",
+    "author_channel_id": "UCoEHkuwpZoDNglI1NN-Fq4A",
+    "text": "Would a polarized filter on your camera get rid of the glare that presents the viewer from reading the meter screen?",
+    "likes": 0,
+    "published_at": "2022-01-20T02:41:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxRwJehZWeEEUlT_SF4AaABAg",
+    "author": "@mwm2929",
+    "author_channel_id": "UC5NsduGaq_p1llxSdzoojWg",
+    "text": "This is a nice and simple design for an electronics buff like you and I. I made a pure sinewave inverter from an audio amplifier that was a bit easier to put together with little skills.  Robert please give my video a watch and tell me your opinion on the idea.",
+    "likes": 4,
+    "published_at": "2022-01-19T05:59:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4mIKWNLmQnuxeiBJ4AaABAg",
+    "author": "@uksuperrascal",
+    "author_channel_id": "UCCkhTBoEiexbQj63SZBGJ6w",
+    "text": "Feeding the mind and fingers as ever. DC to AC from AC TO AC and back to DC storage. What are the losses and What are the gains? Mechanical generating energy and storing that energy for later use.",
+    "likes": 0,
+    "published_at": "2022-01-17T17:00:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLnWkLFcGfyr39D2p4AaABAg",
+    "author": "@jclowe735",
+    "author_channel_id": "UCZip5SkKzZM_4Wm3lEVhhPQ",
+    "text": "Hello Rob do you have a video like this where your using a stepper motor as the power source and a transformer to step up the voltage to power 110-240 volt lights or anything else?",
+    "likes": 0,
+    "published_at": "2022-01-17T10:23:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJNvBXA-owu33L3c94AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Where I was when the bombs began to fall: \n\nHuddled in the dark, twisting the wires of time, adjusting a lamp of the energy of whales, peering into places unknown, \n\nKnowing a hunger fed not by organic sustenance, but by the virtues of patience, determination and persistence of thought. \n\nBut not for the stealing of excellence and magnificence!\n\nBut just as when wisdom met at the junction of of temperance and determination, on a road paved with patience, success was immanent and emittant! \n \nAnd, then, just like the metered hum of a reed: in a tempered glass pipe to the ears of the musician: De Forest taught Mr. Inductor and Countess Capacity to dance in the paper cone and upon the phosphorous screen - the Waltze of the magnetic spectrum for all see and to hear and made tyranny to fear. \n\n🤫\nRespectfully submitted to the teacher of the next generation of ' De Forests and \nFor our deserving friend: Sir. Robert Murray-Smith",
+    "likes": 1,
+    "published_at": "2022-01-16T21:08:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxaA3IRUPt0vOxrT-14AaABAg",
+    "author": "@ralphsammis7330",
+    "author_channel_id": "UCAPhC4KKpzPPVwvx7d2EUSg",
+    "text": "I guess this would be “ pure sine wave” .   It would be great if someone would sell a diy kit w/ instructions.",
+    "likes": 0,
+    "published_at": "2022-01-16T20:28:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxaA3IRUPt0vOxrT-14AaABAg.9XGzb2bIHoXAKRtn9bQsme",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "They do, search the 'net.",
+        "likes": 0,
+        "published_at": "2025-07-11T16:50:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyokQmxSbBc2x_DZbJ4AaABAg",
+    "author": "@luisledesma586",
+    "author_channel_id": "UCGOL3IhWeJgtPC_y9V8jGTw",
+    "text": "my first inverter 40 years ago was actually of that design; the whole neighbourhood would gather to watch TV during the black outs (in the Caribbean) thanks for your nice presentation.",
+    "likes": 7,
+    "published_at": "2022-01-16T16:38:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxsmACY1hWMRVmfzix4AaABAg",
+    "author": "@luisledesma586",
+    "author_channel_id": "UCGOL3IhWeJgtPC_y9V8jGTw",
+    "text": "are your initials RMS just a coincidence? hmmmm....",
+    "likes": 1,
+    "published_at": "2022-01-16T16:34:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwxrik8U0Li9TCQrgl4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "You can buy premade driver circuits, with feedback regulation!  I had the crazy idea to build a inverter to run my home, with near 0 experience! Crazy 🤪, but maybe someday!!",
+    "likes": 0,
+    "published_at": "2022-01-16T06:46:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwSOjjkJYPMYESkAKN4AaABAg",
+    "author": "@stevecummins324",
+    "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+    "text": "A thought.... consider bulk of circuit as akin to a class D \"switching\" amplifier. \nreference signal to be amplified to become inverter output, could be from a sine wave oscillator. or even mains that has been step downed for output. \ngenerator error singal by comparing  to a feedback signal produced from a tiny step down transformer across invertor's output.\n\ndifference between sensed and reference voltage should  thus indicate which way a push-pull invertor would need to push current through it's output coil to keep the synthesised mains in phase, and at aprox the right voltage.\nif using real mains,+ transformer as voltage reference. voltage difference between the reference and feedback transformer coils could be directed current appropriate relay switch coils, with steering diodes to only allow current through coils when output needs topped up one way... ie one diode allows current to flowing one way goes through coil A, and other didoe allows reverse current to flow through the other coil B\n\nA fairly simple, that is \"dead bug\" construction (with some resistors to add hysteresis) , quad comparator IC chip , should be able to generate signals to switch grounding FETs at the right time",
+    "likes": 1,
+    "published_at": "2022-01-16T02:41:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyHLZpmkI8Hp4VWif94AaABAg",
+    "author": "@GHILLIESARCADEANDMORE",
+    "author_channel_id": "UC_XhzdchXH1kThjhL66BjnQ",
+    "text": "Cool",
+    "likes": 0,
+    "published_at": "2022-01-15T23:56:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw2ftwbpoy_C6s8vMZ4AaABAg",
+    "author": "@iami9307",
+    "author_channel_id": "UCxCNq8vxeWrOsmrTtunfM3w",
+    "text": "Also anybody attempting this ground everything or else you’ll get a nasty shock from static electricity",
+    "likes": 0,
+    "published_at": "2022-01-15T19:21:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxo4klzNiRJ-odfbQ54AaABAg",
+    "author": "@iami9307",
+    "author_channel_id": "UCxCNq8vxeWrOsmrTtunfM3w",
+    "text": "Back on another video where you were working with armature on a motor and I said you could use it to make an inverter that’s all you need right here. I made one like that when I was a kid. You can speed up or reduce the speed of the motor to get the required frequency for output",
+    "likes": 1,
+    "published_at": "2022-01-15T19:07:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzspLU6LdlwWNuj67l4AaABAg",
+    "author": "@Than3Dane",
+    "author_channel_id": "UC0JtOW95l1nP8EgchMzQhtw",
+    "text": "Popped up on my yt feed right as I was thinking about searching for more info about this very same subject :D",
+    "likes": 0,
+    "published_at": "2022-01-15T16:42:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyq6q6XA-j3FseGf9p4AaABAg",
+    "author": "@hooberdoober576",
+    "author_channel_id": "UCr24MuoL5v5rjdz8o9niIKQ",
+    "text": "What's the VAR handling capability? See: Induction motor loads.",
+    "likes": 0,
+    "published_at": "2022-01-15T15:58:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz7GpOl0r2wcP9Qypl4AaABAg",
+    "author": "@ianbutler1983",
+    "author_channel_id": "UCez-t1LP8fGdCwt8ZxG_yhQ",
+    "text": "Robert-I am an electronics guy. Your simple explanation of an inverter was very good and very accurate. Btw, before semiconductors were cheap and available, car radios still used tubes/valves that required high voltage DC. This was made from 12 volts in a similar manner but used actual mechanical switches to excite the primary of the transformer. These \"vibrators\" worked okay, but the switch contacts had to be cleaned quite often. They looked like a metal valve/tube and were in a similar socket so they could be swapped out.",
+    "likes": 12,
+    "published_at": "2022-01-15T15:51:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz7GpOl0r2wcP9Qypl4AaABAg.9XDv7icCwCv9kn6zDjc0-L",
+        "author": "@tryintoabidemakesyouwise8247",
+        "author_channel_id": "UC1EhRl2ogIro0Im2fm7fbTw",
+        "text": "I remember bringing a few 'vibrators' back to life in the early 60's. good memories... most car guys didn't know the radio stuff.",
+        "likes": 0,
+        "published_at": "2023-01-12T16:36:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwKsQzw7z2CIb7AFsl4AaABAg",
+    "author": "@reypolice5231",
+    "author_channel_id": "UCD0Ph_kdHdmpcY1XbZDIB1g",
+    "text": "After looking at this I am wondering how could you harness the collapsing field and back EMF? I believe it's at 600 volts.\n\nTesla patent 1903 did a invention that harness the back EMF.",
+    "likes": 0,
+    "published_at": "2022-01-15T15:33:54Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwKsQzw7z2CIb7AFsl4AaABAg.9XDt3WMBG-i9XEGvsL5IWi",
+        "author": "@jjhack3r",
+        "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+        "text": "It doesn’t matter if you harness it or not, you won’t even get 99% of your energy back out. Besides, lots of things take advantage of back emf. That’s how flyback transformers work. It’s not magic, it’s just a way to get a higher voltage without using as much copper wire, so it saves manufacturers money...",
+        "likes": 0,
+        "published_at": "2022-01-15T19:11:10Z"
+      },
+      {
+        "id": "UgwKsQzw7z2CIb7AFsl4AaABAg.9XDt3WMBG-i9XEH6y4MB9F",
+        "author": "@jjhack3r",
+        "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+        "text": "The answer is by using a diode or two. Very basic circuitry.",
+        "likes": 0,
+        "published_at": "2022-01-15T19:12:49Z"
+      },
+      {
+        "id": "UgwKsQzw7z2CIb7AFsl4AaABAg.9XDt3WMBG-i9XFBYb0gIuZ",
+        "author": "@reypolice5231",
+        "author_channel_id": "UCD0Ph_kdHdmpcY1XbZDIB1g",
+        "text": "@jjhack3r \nThank you for your input.\nYes  ( a diode) but we're in relationship to the 555 chip configured for the ( right timing is also a question for me.) \n\nPatrick Henry channel has many examples of harnessing the back EMF. He goes over existing patents in detail. Including Tesla's 1903 patent that harness the back EMF.\n\nI have also seen the (diode or resister ) placed with the flow going in reverse placed after the 555 timer but before the coil.\n\nThis build is different than those, so I am not sure where to place the diode you mentioned per say to harness the collapsing field ( back EMF) and route it back to a battery without damaging that battery.\n\nI am not as well versed in electronics as I would like to be.",
+        "likes": 0,
+        "published_at": "2022-01-16T03:43:24Z"
+      },
+      {
+        "id": "UgwKsQzw7z2CIb7AFsl4AaABAg.9XDt3WMBG-i9XFCp9skkwf",
+        "author": "@reypolice5231",
+        "author_channel_id": "UCD0Ph_kdHdmpcY1XbZDIB1g",
+        "text": "@jjhack3r \nFlyback transformers\nThank you for pointing that out. I didn't know that.",
+        "likes": 0,
+        "published_at": "2022-01-16T03:54:33Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx870NPwDQABH5mJ_54AaABAg",
+    "author": "@stevenfaber3896",
+    "author_channel_id": "UCViZ7pKDKY4MwTordPqYa0A",
+    "text": "Cheers very much, I've seen a resistor bank as a Smoothing cap for those to make it simpler, 10k 1k 100 ohms in series, got a pretty good waveform.",
+    "likes": 0,
+    "published_at": "2022-01-15T13:51:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx870NPwDQABH5mJ_54AaABAg.9XDhNStK-NU9XEGWe2vVBK",
+        "author": "@jjhack3r",
+        "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+        "text": "That sounds like nonsense.",
+        "likes": 3,
+        "published_at": "2022-01-15T19:07:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgztZB639Wb_1VDnCzt4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Makes one wonder why battery inverters are so expensive when they are so simple to make.",
+    "likes": 0,
+    "published_at": "2022-01-15T13:45:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgztZB639Wb_1VDnCzt4AaABAg.9XDge8BvAOV9XEaFO8vQyN",
+        "author": "@Phantom-mk4kp",
+        "author_channel_id": "UCjYQ2IdEkliOylFD7i80HGg",
+        "text": "In the real world they are not that simple",
+        "likes": 3,
+        "published_at": "2022-01-15T22:08:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxK9xQJG7kzsnpLdUJ4AaABAg",
+    "author": "@jjhack3r",
+    "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+    "text": "This isn't really a diy inverter, more of a demonstration of the principles. Using that zvs circuit won't work well for this at all. The frequency will vary depending on the load and the transformer output voltage will sag tremendously, possibly even having voltage spikes that could kill your devices. Also its worthy to note that most of the zvs circuits you find online are giving component values optimized for 10,000 to 40,000hz. Real inverters have lots of \"smarts\" to prevent the output from being out of spec. Most inverters (except ups units) have 2 stages. First stage is something like a zvs circuit that boosts the voltage but runs at high frequency and is designed to provide stable voltage. The second stage rectifies that voltage and runs it through an H bridge to form the 60 hz output but it does that by using pwm and running it through filtering. UPS inverters are inefficient but directly drive the transformer with a pwm based 60hz synthetic sine wave and the transformer does the filtering. They do it that way to not only make use of the transformer that charges the battery but also because it can better produce a cleaner low noise output for computers and sensitive devices if done right. They still however keep a close eye on the output voltage to keep it from ruining your computer. No diy inverters will be a viable alternative to a store bought one considering how much effort would have to go into designing and building a proper inverter.",
+    "likes": 3,
+    "published_at": "2022-01-15T13:24:11Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgxK9xQJG7kzsnpLdUJ4AaABAg.9XDeDQUwl3X9XF4xEnsr71",
+        "author": "@stevecummins324",
+        "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+        "text": "might it be possible to use class D amplifier ideas, and compare a  reference waveform  to actual output? if feedback strong would it not swamp out  spikes etc",
+        "likes": 0,
+        "published_at": "2022-01-16T02:45:44Z"
+      },
+      {
+        "id": "UgxK9xQJG7kzsnpLdUJ4AaABAg.9XDeDQUwl3X9XF718uRnBg",
+        "author": "@jjhack3r",
+        "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+        "text": "@stevecummins324 the class d concept is exactly what they use in modern inverters. It’s simply high frequency pwm artificially producing a low frequency sine wave. However, to make a circuit that does that and monitors voltage, wave form and so on is not as easy as it sounds. Not impossible. But not practical. It would be more cost effective to buy one.",
+        "likes": 2,
+        "published_at": "2022-01-16T03:03:53Z"
+      },
+      {
+        "id": "UgxK9xQJG7kzsnpLdUJ4AaABAg.9XDeDQUwl3X9XFA9jHx2o5",
+        "author": "@stevecummins324",
+        "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+        "text": "@jjhack3r it'll hazard it'll be the high price of mains frequency transformers of decent power capacity that makes transformer based designs uneconomical commercially. If transformers can be scavenged.... Not a factor.",
+        "likes": 0,
+        "published_at": "2022-01-16T03:31:16Z"
+      },
+      {
+        "id": "UgxK9xQJG7kzsnpLdUJ4AaABAg.9XDeDQUwl3X9XHhwE4XiL1",
+        "author": "@jjhack3r",
+        "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+        "text": "@stevecummins324 not really... the hard part is making sure it won't kill your devices or fail to provide the right voltage and frequency under load. An inverter without monitoring built in is worthless and dangerous to anything you plug into it.",
+        "likes": 2,
+        "published_at": "2022-01-17T03:13:37Z"
+      },
+      {
+        "id": "UgxK9xQJG7kzsnpLdUJ4AaABAg.9XDeDQUwl3X9XIlCMrgkzY",
+        "author": "@stevecummins324",
+        "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+        "text": "@jjhack3r half decent class D's type would look at the output voltage and use that and reference input  to determine how/when  to switch their half bridge.\n\ndoesn't need to be that complex a circuit.... \nLM339 IC etc that picks up a scaled copy of the output and compares that to what output should be at the time should easily keep output voltage to within a small % error of the scaling of the reference voltage. if powered device can't cope with such voltage errors, it probably shouldn't be plugged into real mains.",
+        "likes": 0,
+        "published_at": "2022-01-17T13:01:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwxQbCnlkuRFwDiVdV4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "🙏👍🙏",
+    "likes": 1,
+    "published_at": "2022-01-15T09:56:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwxQbCnlkuRFwDiVdV4AaABAg.9XDHOlv3Jif9XDIH5499QT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:03:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgySxt3QNiu5sjv0V_N4AaABAg",
+    "author": "@ΙΩΑΝΝΗΣΤΣΙΓΚΟΥΝΗΣ-ζ4σ",
+    "author_channel_id": "UC3CypDaxo-cm1GWkNcF4l1Q",
+    "text": "Very good and clear demonstrated!",
+    "likes": 0,
+    "published_at": "2022-01-15T09:50:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgySxt3QNiu5sjv0V_N4AaABAg.9XDGlM4ye5S9XDIHqoYkM0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 0,
+        "published_at": "2022-01-15T10:03:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyxlUWt4zm7Y29KmmR4AaABAg",
+    "author": "@Coxeysbodgering",
+    "author_channel_id": "UC8xhhVkx9av21MSQvZWizig",
+    "text": "Thank you, thank you, thank you. At last a concise, excellently explained video on inverters. Take care and stay safe, Mike.",
+    "likes": 5,
+    "published_at": "2022-01-15T08:40:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyxlUWt4zm7Y29KmmR4AaABAg.9XD8ljX-DOV9XDIOBJIX_b",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it helped mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:04:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxlp_tsFPLPMrEW1QZ4AaABAg",
+    "author": "@aspudkicker",
+    "author_channel_id": "UCwYX1nsTgrJ9K_rHSrhsgCg",
+    "text": "This video is highly interesting to me and answered a number of questions I had festering in the back of my mind. I have saved this to a playlist so that I can re-watch it again at a later date. \nThank you Robert for the education.🙂🙃",
+    "likes": 6,
+    "published_at": "2022-01-15T08:29:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxlp_tsFPLPMrEW1QZ4AaABAg.9XD7XNnUW9B9XDIQlZWYZc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am glad it was helpful. mate",
+        "likes": 3,
+        "published_at": "2022-01-15T10:05:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyq4R88oZPXjJCE2CF4AaABAg",
+    "author": "@Twistedmetal-qe8kx",
+    "author_channel_id": "UCkSYIDkJte109QqAXq1XuLw",
+    "text": "Very good hands on explanation of an inverter, well done.",
+    "likes": 3,
+    "published_at": "2022-01-15T08:04:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyq4R88oZPXjJCE2CF4AaABAg.9XD4a4G2MeH9XDISZ16Qwm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:05:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxi-iPB5xc5m7mvpUJ4AaABAg",
+    "author": "@boblake2340",
+    "author_channel_id": "UCLgCxowmjpPFNkvz5RGffQA",
+    "text": "The polarities are iverted in your transformer drawing.",
+    "likes": 0,
+    "published_at": "2022-01-15T04:17:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxi-iPB5xc5m7mvpUJ4AaABAg.9XCfeLY0RZ49XDIpINLrUT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am sorry mate - what do you mean?",
+        "likes": 0,
+        "published_at": "2022-01-15T10:08:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwn6w5iOBvepJdpRKZ4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "Excellent!!!! Thank you for showing all.. DVD:)",
+    "likes": 2,
+    "published_at": "2022-01-15T02:54:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwn6w5iOBvepJdpRKZ4AaABAg.9XCXANd-Yuq9XDIvXsWa5-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you too!",
+        "likes": 1,
+        "published_at": "2022-01-15T10:09:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyeNGdZO4vLZXiNz54AaABAg",
+    "author": "@kilokilos",
+    "author_channel_id": "UClSxgY1l2awYiIgxPw5Mc1Q",
+    "text": "The blade less back to back computer fans come to mind here. This is proper \"pepper\" project for when ( not if ) the grid collapses and practicality is more important than effeciency",
+    "likes": 1,
+    "published_at": "2022-01-15T02:21:15Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzyeNGdZO4vLZXiNz54AaABAg.9XCTM1fSEDS9XDJ-IcVlbu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate - I was thinking of running one of these up from a microwave oven transformer",
+        "likes": 0,
+        "published_at": "2022-01-15T10:10:01Z"
+      },
+      {
+        "id": "UgzyeNGdZO4vLZXiNz54AaABAg.9XCTM1fSEDS9XEGU7opVWW",
+        "author": "@kilokilos",
+        "author_channel_id": "UClSxgY1l2awYiIgxPw5Mc1Q",
+        "text": "@ThinkingandTinkering not sure how the secondary winding would look though, two counter wound coils of about 14 windings each? Thick as possible wires, efficiency is not that important if you need power?",
+        "likes": 1,
+        "published_at": "2022-01-15T19:07:15Z"
+      },
+      {
+        "id": "UgzyeNGdZO4vLZXiNz54AaABAg.9XCTM1fSEDS9nMDbrnOX-u",
+        "author": "@kamisama9715",
+        "author_channel_id": "UC7rmgZiwQezg0EzvIAMi3JA",
+        "text": "@kilokilos oven transformers are just crappy in general. They use low quality electrical steel and are also not interleaved",
+        "likes": 1,
+        "published_at": "2023-03-17T10:09:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzd_M8j71QxNH8_9-R4AaABAg",
+    "author": "@matthewellisor5835",
+    "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+    "text": "Oh, that takes me back. I made one at around 15 years old. Used scraps from around the farm and wound the transformer/ballast/relay from scavenged magnet wire. I doubt it was very efficient but it was a load of fun to run.",
+    "likes": 1,
+    "published_at": "2022-01-15T00:46:08Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzd_M8j71QxNH8_9-R4AaABAg.9XCITLxxr7z9XDJIoy8x48",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is just plain awesome mate",
+        "likes": 2,
+        "published_at": "2022-01-15T10:12:41Z"
+      },
+      {
+        "id": "Ugzd_M8j71QxNH8_9-R4AaABAg.9XCITLxxr7z9oIwCkarcZJ",
+        "author": "@snuffoutrouge5109",
+        "author_channel_id": "UCbFBTmZBcXv2H_FNAKhqvRw",
+        "text": "me too. Takes me back ,But I made mine from a kit I purchased at an electronics store in 1984 when I was 15 yrs old.",
+        "likes": 0,
+        "published_at": "2023-04-10T00:02:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzlge8sCu9ajeWZrx54AaABAg",
+    "author": "@55Ramius",
+    "author_channel_id": "UCAGlxkxgWMg6EzBHW3vPvKw",
+    "text": "I have learned something today! Thanks   : )",
+    "likes": 3,
+    "published_at": "2022-01-15T00:45:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzlge8sCu9ajeWZrx54AaABAg.9XCILXNdTdB9XDJKQRX2C-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:12:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8wDUc6YRTMpALzNt4AaABAg",
+    "author": "@bretthorwood9396",
+    "author_channel_id": "UCya2tZZmmmoONJrledZNf8g",
+    "text": "Robert you are better off buying one of these ready made it's much safer to buy one and wire it up to standards for electrical wiring rules. Putting that aside I have an electronics certificate and a Licenced Electrician EA39003. Where you can make inroads safely into the area is the solar cell array to battery charge controller again though it's nice to make your own but as far as doing it well leave it up to people that make these. One simple solution for this which is not particularly efficient is just a large aluminium heat sink and 4 or 5 high current mosfets in parallel all driven with a zener diode fixed voltage reference, allowing for voltage drop I think the voltage of the zener diode is something like 16 volts. It does work it's very simple and it's pretty reliable as long as there are no overcurrent conditions and it's wise to put a fuse into it to stop this from happening.",
+    "likes": 1,
+    "published_at": "2022-01-15T00:23:37Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw8wDUc6YRTMpALzNt4AaABAg.9XCFtQ4axJc9XDJfZ9TsC4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think that depends on the individual myself mate - some like to buy, some like to make and some just like to talk about it - that was not a veiled insult mate - you clearly know what you are doing - it occurred to me you might take it the wrong way as I was typing it so I just wanted to make it clear that I think you are clearly one of the guys who can choose to buy or make if you want to - cheers",
+        "likes": 1,
+        "published_at": "2022-01-15T10:15:55Z"
+      },
+      {
+        "id": "Ugw8wDUc6YRTMpALzNt4AaABAg.9XCFtQ4axJc9XEAxvthbSd",
+        "author": "@bretthorwood9396",
+        "author_channel_id": "UCya2tZZmmmoONJrledZNf8g",
+        "text": "@ThinkingandTinkering fair enough Robert but if somebody starts to seriously get one of these going and gets 240 v 50 Hz output square or sine wave it only takes less than 20 ma of current flow at 50 Hz to get the heart out of rhythm into fibulation then the only thing anybody can do is get the rythym back with a defibulator and most people don't have one at home. Buying an inverter reduces the risks of this because debugging a home made inverter that's got transformer outputs of that range is extremely unsafe it would never get through ohs rules at work and it's even more dangerous at home, no defibs or people around to see you on the floor and hook you up. Carry on....",
+        "likes": 1,
+        "published_at": "2022-01-15T18:19:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx0GNGjFx4RgwCdwZl4AaABAg",
+    "author": "@smaggies",
+    "author_channel_id": "UC2dPiV6xNGPDk3EB3PNqC-w",
+    "text": "Thanks very well laid out, nice project to build ...:  :)",
+    "likes": 2,
+    "published_at": "2022-01-15T00:21:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx0GNGjFx4RgwCdwZl4AaABAg.9XCFblC27719XDJgjXqLJU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Many thanks!",
+        "likes": 0,
+        "published_at": "2022-01-15T10:16:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyxeUAPN6taQaiHvtt4AaABAg",
+    "author": "@briangray6372",
+    "author_channel_id": "UCPtglyWTuHE1l4Ue99Wx8ug",
+    "text": "Wouldn't the capacitor make it a simulated sine wave and not a true sine wave?",
+    "likes": 1,
+    "published_at": "2022-01-15T00:09:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyxeUAPN6taQaiHvtt4AaABAg.9XCEFSiBuXg9XDJwAqeKBh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the cap and inductor are a tank circuit mate - which is a ringing oscillator - so no it would be a sine wave - a simulated sine wave is. usually a digital output in a step function - a bit like a Fourier transformation where n would be 2 or 3",
+        "likes": 2,
+        "published_at": "2022-01-15T10:18:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz3x2Nz57kDQL6brF14AaABAg",
+    "author": "@MikinessAnalog",
+    "author_channel_id": "UCJNZE4ytrR8g4PTZRcmOqLA",
+    "text": "I made a homemade inverter once using an \"old school\" car battery charger transformer in reverse (the output became the input).\nI used high power mosfets as the switching components (with supporting resistors).\nI discovered the load requirement also had an effect on the frequency of the inverter's output.\nHigher the load = lower frequency.  It was about 20% efficient.",
+    "likes": 12,
+    "published_at": "2022-01-14T23:26:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz3x2Nz57kDQL6brF14AaABAg.9XC9NHtdiDM9XDKCWyyxYe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you will find a push pull inverter for battery applications in a UPS for example - your frequency dependancy was because you didn't have an isolated timing signal - the real thing to watch out for on current driven inverters is going to be core saturation I would think",
+        "likes": 9,
+        "published_at": "2022-01-15T10:20:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKsCLDVbM2vOGNdgZ4AaABAg",
+    "author": "@gaiustesla9324",
+    "author_channel_id": "UCSUHcacqkcKIsGADKDlN75Q",
+    "text": "great stuff",
+    "likes": 1,
+    "published_at": "2022-01-14T23:08:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyKsCLDVbM2vOGNdgZ4AaABAg.9XC7La-zUJJ9XDKF3zjpJS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:20:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwc84B9siE2n91JWmR4AaABAg",
+    "author": "@craignehring",
+    "author_channel_id": "UC7OcjoS6BZqeP1OR9aQC5CA",
+    "text": "Now I am upside down\nI need a re inversion \nNice work on this tutorial, thanks",
+    "likes": 1,
+    "published_at": "2022-01-14T22:38:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwc84B9siE2n91JWmR4AaABAg.9XC3t-U17R79XDKJ-XZgY5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol and thank you mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:21:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxceg-KJDDRocMM_6x4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "How does the capacitor work when it's only connected to two negative lines. Doesn't a capacitor need to be connected to positive and negative so that it builds up a potential voltage higher than the VCC? I love this topic by the way.",
+    "likes": 1,
+    "published_at": "2022-01-14T22:18:28Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugxceg-KJDDRocMM_6x4AaABAg.9XC1Znq_Abw9XCF1qOzNuf",
+        "author": "@MickMcMadder",
+        "author_channel_id": "UCotMh1nt19ixRSuSW2Z8iGw",
+        "text": "Positive will be present on the other, unswitched, winding since only one is switched to negative at a time. Both the negative ends will each see positive voltages, when not grounded by Q1/Q2. A non-polarized ceramic capacitor is ok here.",
+        "likes": 1,
+        "published_at": "2022-01-15T00:16:10Z"
+      },
+      {
+        "id": "Ugxceg-KJDDRocMM_6x4AaABAg.9XC1Znq_Abw9XDKN5_lA9u",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Mick gave a good answer mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:22:00Z"
+      },
+      {
+        "id": "Ugxceg-KJDDRocMM_6x4AaABAg.9XC1Znq_Abw9XDKrNsJH5P",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@MickMcMadder thanks mate, that actually makes perfect sense after I researched a few circuit diagrams.",
+        "likes": 0,
+        "published_at": "2022-01-15T10:26:16Z"
+      },
+      {
+        "id": "Ugxceg-KJDDRocMM_6x4AaABAg.9XC1Znq_Abw9XEHMWyIvsP",
+        "author": "@jjhack3r",
+        "author_channel_id": "UCzhS1byzGhMHJTOpMvV2fpg",
+        "text": "The 2 coils act as one. Negative is not present on both at the same time.",
+        "likes": 0,
+        "published_at": "2022-01-15T19:14:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzl5h9l2NmCgYVfjjV4AaABAg",
+    "author": "@Moist_yet_Crispy",
+    "author_channel_id": "UCj93UzMtkVbtpRzGkfMdGBA",
+    "text": "Great Video Rob! Loved this one!",
+    "likes": 2,
+    "published_at": "2022-01-14T21:39:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzl5h9l2NmCgYVfjjV4AaABAg.9XBy9OI5HBZ9XDKPMdYGbu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome - cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:22:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQ9jjNdCSr2xjne6t4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "Yet again another brilliant video.  I do however need to find a small course for circuit diagrams lol.",
+    "likes": 2,
+    "published_at": "2022-01-14T21:24:54Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyQ9jjNdCSr2xjne6t4AaABAg.9XBwRPJWY169XDKk1HwfPr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I dunno mate - I never did a course on it - I just picked it up along the way - but I have been an electronics nerd since I was 10 the things I used to read where the Babani project books - they are awesome - the US navy did a basic electronics tutorial series I read ages ago and that helps build up circuit knowledge - I would suggest reading a couple and having a go at a few circuits - you will learn quickly that way mate",
+        "likes": 3,
+        "published_at": "2022-01-15T10:25:16Z"
+      },
+      {
+        "id": "UgyQ9jjNdCSr2xjne6t4AaABAg.9XBwRPJWY169XEH_PA7EU6",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "@ThinkingandTinkering yes thats my plan I get the basics but it's the not knowing something that bugs me more than anything.   To be fair you and the channel have given me so much knowledge and get up and go its unreal.  I'm really busy but must find time.",
+        "likes": 1,
+        "published_at": "2022-01-15T19:16:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxfl0rU8RjsrFzgUY54AaABAg",
+    "author": "@Gizmoautismo",
+    "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+    "text": "Nice, basic pulse inverter! But this version loses quite a bit of efficiency on the backwards voltage coming from the inductuctor. I think its much easier to go for a 4-transistor one that doesnt have such a problem. And if we prefer the cheap, dirty and easy to make it could make sense to make a relay vibrator pulse generator... And as for the most cost effective inverters for renewables i recommend fiddling with old UPSes (or broken ones, they are often easily repairable or even possible to reverse engineer to make your own inverter)",
+    "likes": 1,
+    "published_at": "2022-01-14T21:12:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxfl0rU8RjsrFzgUY54AaABAg.9XBv15LzeRp9XDL-8AQDsF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think you are spot on with grabbing a UPS mate - I actually have one and it is going to be in my next videos - so you are kind of pre-empting that - but that is awesome as we are clearly thinking the same way lol - I think this just helps to understand the basics to be honest",
+        "likes": 2,
+        "published_at": "2022-01-15T10:27:28Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyxiat-2v7UNaAjFNJ4AaABAg",
+    "author": "@denisstump5874",
+    "author_channel_id": "UCl0f5BhjtFTjw9Wa-ydKfZw",
+    "text": "That looks easy but why does it sound so mind glowingly difficult",
+    "likes": 1,
+    "published_at": "2022-01-14T21:11:31Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyxiat-2v7UNaAjFNJ4AaABAg.9XBuuMTFZ_59XDLGDxSANp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is a good question mate and I have done a fair few videos try into answer it - mostly it comes down to praxis - theory and practice - in talking about it it's hard to understand but in doing it is easy - because we are human beings and creatures that do! - to really understand this you would need to watch a few of my 'talky' vids",
+        "likes": 2,
+        "published_at": "2022-01-15T10:29:48Z"
+      },
+      {
+        "id": "Ugyxiat-2v7UNaAjFNJ4AaABAg.9XBuuMTFZ_59XDedP315OT",
+        "author": "@denisstump5874",
+        "author_channel_id": "UCl0f5BhjtFTjw9Wa-ydKfZw",
+        "text": "@ThinkingandTinkering thank you! You do a very good job of explaining it and I really like your videos I watch every one of them to come up. I am a greenhorn when it comes to the electronic Moss fits and doodads and everything electronic so it slows my brain down. I didn't mean to complain I am sorry it was one of those days but just know you are doing a great job and for you to take special care to answer my redundant question was humbling to me so thank you",
+        "likes": 0,
+        "published_at": "2022-01-15T13:27:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzw9PKV4FAozKyzMPF4AaABAg",
+    "author": "@vossierebel",
+    "author_channel_id": "UCJDzF2pTrcoqLll9bigwkIA",
+    "text": "Tell you what... when I started watching your channel I had no clue about the theory and/ or the components that you mention and use in this video... now I'm happy to say the brain fog is clearing... I have even ordered in similar components for a wee project... all because you're great at motivating and stirring interest!! Thanks!",
+    "likes": 63,
+    "published_at": "2022-01-14T20:52:12Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugzw9PKV4FAozKyzMPF4AaABAg.9XBsguIhlfh9XDLJrNwZLh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh wow - that is awesome to hear mate - thank you for taking the time to say that",
+        "likes": 17,
+        "published_at": "2022-01-15T10:30:18Z"
+      },
+      {
+        "id": "Ugzw9PKV4FAozKyzMPF4AaABAg.9XBsguIhlfh9XDnIslL4xV",
+        "author": "@vossierebel",
+        "author_channel_id": "UCJDzF2pTrcoqLll9bigwkIA",
+        "text": "@ThinkingandTinkering Thanks for the vote of confidence!\nPositive replies add smiles!😁😁",
+        "likes": 5,
+        "published_at": "2022-01-15T14:43:34Z"
+      },
+      {
+        "id": "Ugzw9PKV4FAozKyzMPF4AaABAg.9XBsguIhlfh9npLoMe-rPf",
+        "author": "@vet137",
+        "author_channel_id": "UCZRgIvRW-DqrDSUs4Ht49_w",
+        "text": "I love Robert he is one of those channels you will always go back to or end up on. PEACE!",
+        "likes": 4,
+        "published_at": "2023-03-29T02:58:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUS7wFDRhuV-igiQ54AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "also this is the basis of a vfd.  Good video.",
+    "likes": 0,
+    "published_at": "2022-01-14T20:44:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwUS7wFDRhuV-igiQ54AaABAg.9XBrqNDF3Z29XDLKhNLnfd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:30:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyfFxQ3181-o6ZF3cV4AaABAg",
+    "author": "@nw7696",
+    "author_channel_id": "UCcbj7Xolb-bBwGnntQYEtxA",
+    "text": "Will have to watch later.",
+    "likes": 0,
+    "published_at": "2022-01-14T20:41:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyfFxQ3181-o6ZF3cV4AaABAg.9XBrQOE51kO9XDLLy888fh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate",
+        "likes": 1,
+        "published_at": "2022-01-15T10:30:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHsPQilZ8xO71LJYB4AaABAg",
+    "author": "@samvalentine3206",
+    "author_channel_id": "UCtCAzLBbpWpCp4cRgrcTwqw",
+    "text": "A clear concise explanation of the basics of an inverter... thank you!",
+    "likes": 15,
+    "published_at": "2022-01-14T20:37:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxHsPQilZ8xO71LJYB4AaABAg.9XBr31y1Qsu9XDLNCGd0uA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:30:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyskR6-ySh3Sot-PJZ4AaABAg",
+    "author": "@edwardcdg",
+    "author_channel_id": "UChN9W6Tw3aip4cSSPt1603A",
+    "text": "Very good.  Thank you.",
+    "likes": 2,
+    "published_at": "2022-01-14T20:28:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyskR6-ySh3Sot-PJZ4AaABAg.9XBq1b64pDM9XDLO48CaXB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:30:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxTHtcfar8eT52DnUp4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Great! 👏\nSaved to references, thanks!",
+    "likes": 2,
+    "published_at": "2022-01-14T20:28:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxTHtcfar8eT52DnUp4AaABAg.9XBq0ImShxU9XDLQ2rwKy2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - awesome mate - cheers",
+        "likes": 0,
+        "published_at": "2022-01-15T10:31:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxwrE57Ya0qnw666EZ4AaABAg",
+    "author": "@The-Alpha-Male1964",
+    "author_channel_id": "UC_duDTBJrAchJDqPUn96W_Q",
+    "text": "Er Wow!!",
+    "likes": 2,
+    "published_at": "2022-01-14T20:25:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxwrE57Ya0qnw666EZ4AaABAg.9XBpay2rRsv9XDLQqB0kIg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-15T10:31:15Z"
+      }
+    ]
+  }
+]

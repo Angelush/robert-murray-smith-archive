@@ -1,0 +1,229 @@
+[00:00] [Music]
+[00:08] now I suppose somewhat surprisingly if
+[00:10] you look on thingiverse what you'll see
+[00:12] is one of the most popular things to
+[00:14] design and print are these things just
+[00:17] the humble bearing as first they're so
+[00:20] integral that they've become quite
+[00:22] fascinating and of course in themselves
+[00:24] they're simple and fascinating but
+[00:26] they're a bit more complicated than the
+[00:29] at first here because they have a whole
+[00:31] range of forces that they have to put up
+[00:33] with so if I pop an axle through a
+[00:35] bearing and it's going to spin in that
+[00:37] direction the forces are actually 90° to
+[00:40] the axle and they're called radial and
+[00:43] you see that kind of bearing very often
+[00:45] in wheels that sort of thing but of
+[00:47] course there's another set of forces and
+[00:49] that's the forces that push in line with
+[00:52] the axle and they're the axial forces as
+[00:54] opposed to the radial forces and you see
+[00:57] those in things like thrust bearings if
+[00:59] you're doing Motors or something like
+[01:01] that you'll see that then there's a
+[01:03] Third Kind called the moment and that's
+[01:05] where you get twists on it so it's any
+[01:08] other apart from axal and Radial are
+[01:11] moment forces and those forces have to
+[01:13] be supported by the bearing and of
+[01:16] course one of the ways to do that
+[01:18] possibly the best way of doing that is
+[01:20] with spheres because spheres take the
+[01:22] forces evenly all the way around and a
+[01:25] bearing almost universally is a bunch of
+[01:27] spheres in a couple of reses and that's
+[01:29] what you see people designing now
+[01:32] unfortunately it's just a quirk of
+[01:34] computers really is they're not very
+[01:36] good at Analog whenever you try to do
+[01:38] something analog what they do is
+[01:40] approach it digitally in small steps so
+[01:43] everything you make on a 3D printer
+[01:46] actually consists of small steps and
+[01:49] spheres are perhaps the worst of all 3D
+[01:52] printers don't successfully print
+[01:55] spheres because they're trying to do it
+[01:57] in steps and if you're using little
+[01:59] sphere in your ball bearings of course
+[02:01] then what happens is you get a result
+[02:04] that is less than good I mean then
+[02:07] they're okay it's just that they're not
+[02:09] actually brilliant and I would argue
+[02:11] that's because they're not using the
+[02:14] benefits of 3D printing what they're
+[02:16] doing is taking a standard way of doing
+[02:18] things and then promptly 3D printing it
+[02:20] and sometimes that's not the best way to
+[02:23] approach something so with something
+[02:25] like bearings and something like spheres
+[02:28] 3D printers are rubbish spheres but
+[02:32] brilliant uh cylinders so if we could
+[02:34] create a bearing based on cylinders we
+[02:37] should get a very much better
+[02:40] bearing so here we are in Tinker CAD
+[02:43] let's create a cylinder and to do that
+[02:45] go to that cylinder primitive and drag
+[02:47] and drop it onto your workspace increase
+[02:50] the number of sides because we want to
+[02:52] make it roll smoothly and we're just
+[02:54] going to make it 10 millim by 10 millim
+[02:56] by 10 millim
+[03:03] now we look here we can see there's
+[03:04] something called bevel set bevel to one
+[03:08] and what it'll do is create a little
+[03:10] bevel we zoom in on that then we can see
+[03:14] the bevel right there and the reason for
+[03:16] that is another Quirk of 3D printing it
+[03:19] forms something called elephant's foot
+[03:21] there's a tiny bulge when you print
+[03:23] things and it lays on the surface of the
+[03:25] print bed the bevel will get rid of that
+[03:29] elephant's foot without us having to do
+[03:31] anything now all we need to do is export
+[03:34] it and print it and when we've printed
+[03:36] them off that's what we get 10 little
+[03:38] rollers now these need to sit in
+[03:40] something so back to Tinker cat okay to
+[03:43] get it to sit in something we want a
+[03:45] cube pull down A Primitive the Primitive
+[03:48] is always 20 by 20 it's the default so
+[03:50] let's turn it to 10 by 10 by 10 because
+[03:53] that's the size we made our cylinder now
+[03:56] we need to export that but we export
+[03:59] that as an
+[04:01] SVG once the SVG has been exported we
+[04:04] can delete
+[04:08] that and go to the search bar search
+[04:11] shaps type in
+[04:14] SVG you'll get something called SVG
+[04:17] revolver drag that onto the desktop and
+[04:20] it'll want a file here so if we go and
+[04:23] look where we put the SVG
+[04:28] Cube we can drag that Cube into drag
+[04:32] file here and after a couple of minutes
+[04:35] we can zoom in on that and we can see
+[04:37] we've got a rotated Cube now we want a
+[04:39] rotated Diamond so we change the sketch
+[04:43] rotation to
+[04:49] 45 and we'll get a diamond
+[04:52] shape smooth it out by giving it great
+[04:55] more sides revolve angle 360 because we
+[04:59] want it to go all the way
+[05:05] around and if we look at that we've got
+[05:08] inside diameter at 10 let's make this as
+[05:10] big as we can we'll make it 20 and we've
+[05:13] got sketch height the sketch height is
+[05:15] actually the height of this now if we
+[05:17] click on that we can see that
+[05:21] height as being five because it's set
+[05:24] here at five now this is really a square
+[05:28] 10 by 10 as so the height is going to be
+[05:31] the diagonal AC cross it which if you do
+[05:34] your math it's
+[05:38] 14.14 that's Pythagoras X2 + y^2 =
+[05:43] z^2 that will create
+[05:46] us a race in which this can actually sit
+[05:51] we just need to make that a hole once
+[05:53] you've made that a hole then we can
+[05:54] create a cylinder around this
+[06:05] smooth that
+[06:07] out
+[06:10] 50 50 and the height we want to be
+[06:13] halfway up so remember this is 14.14 so
+[06:17] we want to make that
+[06:21] 7 07
+[06:32] and now if you align those to each
+[06:37] other and merge
+[06:45] them we get erace in which it can sit
+[06:48] and we can print that off and when we
+[06:51] print them off this is what we get now
+[06:53] we've got two of them and it is the
+[06:55] basic shape there are other things we
+[06:57] can do with this but this is the Central
+[07:00] bit then we take a roller we pop first
+[07:02] roller in like that and then we pop the
+[07:05] next roller in in that orientation 90°
+[07:09] that roller goes 90° and we continue on
+[07:12] putting the rollers in in alternate 90
+[07:15] degree
+[07:17] twists now I've obviously put a hole in
+[07:19] the center because I want it to take an
+[07:21] axle and I take that and drop it on
+[07:23] there that is the essential bearing but
+[07:26] it would fall apart so it's not ideal at
+[07:28] the moment and we can make make changes
+[07:30] as I said and one change I want to make
+[07:32] is to make that clip
+[07:34] together now to do that is nothing
+[07:37] special actually just go to the search
+[07:39] bar and type in
+[07:41] snap what you'll get is this called Snap
+[07:44] and socket there's another one here
+[07:46] called flexible snap but we want snap
+[07:49] and socket and if you pull that down
+[07:51] onto there you'll see that you get snap
+[07:53] and if we do the down arrow we get snap
+[07:55] hole tight fit and snap hole free
+[07:58] spinning
+[08:00] all we really do is resize that to the
+[08:02] size that we want it to be and here we
+[08:05] can see shaft radius which is that hole
+[08:07] in the center at five we set that to 10
+[08:10] so we can have a 10 mm axle going
+[08:12] through this and lo and behold it
+[08:15] creates exactly what we want this is
+[08:18] 7.07 high so raise that by
+[08:24] 7.07 and then Center the two
+[08:32] now with this if we get rid of that for
+[08:35] a
+[08:38] second take a cylinder hole smooth it
+[08:40] out to make it 10 by
+[08:45] 10 and Center those three objects to
+[08:48] each
+[08:51] other then the hole will go all the way
+[08:54] through when we merge them well before
+[08:56] we do that let's just copy that
+[08:59] drag it across copy
+[09:02] that drag it
+[09:06] across highlight those and merge them or
+[09:10] group
+[09:13] them and we get one part of it this one
+[09:17] click on it and do snap hole make it an
+[09:22] actual
+[09:24] hole rotate it
+[09:26] around and drop it to the frame and then
+[09:30] Center
+[09:37] them merge
+[09:43] them and now this will snap into this so
+[09:47] let's print
+[09:48] them once you've printed it and arranged
+[09:50] the rollers turn that upside down and
+[09:53] push it into
+[09:54] place and if we hold it we can give it a
+[09:57] spin
+[10:04] it's pretty cool actually now with this
+[10:06] orientation and bearing like this would
+[10:08] be good for radial axle and moment
+[10:11] forces so it is in fact a bit of a
+[10:13] universal bearing it'll be particularly
+[10:15] good in large sizes for things like
+[10:18] turntables but the whole point is when
+[10:21] you're designing something with 3D
+[10:23] printing in mind design it with 3D
+[10:26] printing in mind playing to the
+[10:28] strengths of a 3 3D printer rather than
+[10:30] putting up with the limitations but the
+[10:33] strength of it means that you can do all
+[10:35] kinds of things if you just a little bit
+[10:38] how it actually works and how to best
+[10:41] take advantage of it anyway we'll put
+[10:43] these files up on thingy ver of course
+[10:45] should anybody want to print a bearing
+[10:47] like this and we've gone through it so
+[10:49] you can make these bearings any size you
+[10:51] want I hope you enjoyed the video I hope
+[10:53] the video was helpful thank you very
+[10:55] much for watching and please do remember
+[10:57] to like And subscribe

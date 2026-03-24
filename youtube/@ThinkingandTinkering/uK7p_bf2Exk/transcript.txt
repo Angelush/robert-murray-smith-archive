@@ -1,0 +1,436 @@
+[00:00] foreign
+[00:11] it will of course form a cylinder a
+[00:13] lumpy one for sure but a cylinder and
+[00:15] that really is what 3D printing is
+[00:18] because it's something we know a lot
+[00:20] about now but early days it was
+[00:24] basically that the history of 3D
+[00:27] printing is surprisingly long 40 plus
+[00:29] years with the first patent being in
+[00:33] 1986 by Chuck Hull for something called
+[00:36] apparatus for the formation of 3D
+[00:38] objects through stereolithography
+[00:41] stereolithography is where you get a
+[00:43] resin and you point a light at it in a
+[00:45] certain pattern and that hardens the
+[00:47] photosensitive resin and you were
+[00:49] effectively taking a picture but you're
+[00:51] doing the same thing you're doing the
+[00:53] same thing as the glue gun
+[00:54] interestingly enough Hall's Peter wasn't
+[00:57] the first patent he was beaten by a few
+[01:00] weeks by a French company and they let
+[01:02] their pets and lapse because they
+[01:04] couldn't find a use for it and there was
+[01:07] a whole group of people in the 80s
+[01:09] working on different techniques for the
+[01:13] creation of 3D objects so for example
+[01:16] um
+[01:17] selective letters as sintering which was
+[01:19] Carl Deckard direct Mez uh direct metal
+[01:23] laser centering which was a German
+[01:25] company eosg MBH and then of course huge
+[01:28] deposition model modeling by S Scott
+[01:32] Crump with stratasys as being his
+[01:34] company of course stratasys was formed
+[01:37] by Trump and his wife Lisa and that
+[01:39] still is one of the major companies in
+[01:42] fdm off use deposition modeling 3D
+[01:45] printing
+[01:46] there's a real problem with early 3D
+[01:48] printing was that the devices themselves
+[01:51] are just hugely expensive and mostly
+[01:53] used for corporations and universities
+[01:55] for modeling purposes really and
+[01:57] prototype development that kind of thing
+[01:59] and there were two clunky and too
+[02:02] expensive for anybody else to be able to
+[02:04] afford to do them it was really between
+[02:06] 2002 and 2014 that all of those early
+[02:10] patents being gone to expire and of
+[02:12] course what I did was open the market up
+[02:15] to um the creation of other consumer
+[02:17] products and other interest groups to
+[02:20] start working particularly with fuse
+[02:22] deposition modeling or fdm modeling or
+[02:25] the filament printers that we all know
+[02:27] and love now of course in the early days
+[02:30] of the 2014 plus well 2002 plus these
+[02:35] things were crunky you had to love them
+[02:36] you would be
+[02:38] um slaving over them maybe 10 or 12
+[02:40] prints until you got a printed required
+[02:43] finish afterwards they were always
+[02:44] piddling little things on little model
+[02:46] robots or praying Buddhas or that kind
+[02:49] of thing until you actually got a
+[02:51] success with it so there were fairly
+[02:53] clunky in their early days trap was one
+[02:57] of the early machines the early low-cost
+[02:59] filament printers and it was made
+[03:01] predominantly from plastic parts and the
+[03:03] printer could print its own parts so
+[03:05] it's seen as self-replicating and
+[03:07] because it was open source anybody could
+[03:10] make changes and improvements as long as
+[03:12] they shared that imagery or coding or
+[03:14] whatever it is that they did and so it
+[03:16] had an element of being able to evolve
+[03:20] into something better so reprap had
+[03:23] um Elements of Life about it which makes
+[03:25] it really quite interesting it's still
+[03:27] an ongoing open source project
+[03:28] incidentally if you're interested but
+[03:30] again you have to be fairly techy to get
+[03:34] into it and to really love these
+[03:36] machines and want to work on them
+[03:38] because there are people who love that
+[03:40] the included incidentally but there's a
+[03:43] whole bigger base of people who
+[03:45] basically just want to use the machine
+[03:47] to do other stuff with
+[03:49] because this field of 3D printing has
+[03:52] grown very rapidly with lots of people
+[03:54] entering the market as more and more
+[03:56] users have taken it up because share
+[03:58] resources and worked out how to really
+[04:01] cope with some of the earlier bugs and
+[04:04] as people have got into the market the
+[04:06] quality of the product has improved
+[04:08] dramatically allowing people who have
+[04:11] just want to create models and not want
+[04:13] to create machines to enter into it I
+[04:16] mean perhaps the most popular and
+[04:19] well-known of these Technologies is fdm
+[04:21] which is our Fusion Depot modeling it's
+[04:23] the film modeler and you can find an
+[04:26] awful lot of makers obviously when we've
+[04:29] been working with alagua and we're going
+[04:31] to be looking at the alagoon printers
+[04:32] then of course you've got things like
+[04:34] creality and ultimaker so there's an
+[04:37] awful lot of fdm printers and they have
+[04:39] a lot to recommend them but there are
+[04:42] competing Technologies like SLA for
+[04:44] instance SLA is stereolithography and
+[04:48] again you'll find our Google product
+[04:49] it's on that seems like the the Mercury
+[04:52] and the Saturn being good examples
+[04:54] because they're not the only people
+[04:56] involved in that you can all find you
+[04:58] also find creality doing one uh form
+[05:01] Labs form three is another one and
+[05:03] there's a lot of very good SLA printers
+[05:06] that all work on the same principle they
+[05:08] essentially have a light mask and then a
+[05:10] photosensitive resin you expose the mass
+[05:13] it creates a slice that sticks to a bed
+[05:15] the bed is raised a new mask is exposed
+[05:18] and so on building the image out of
+[05:20] slices in fact this is a a common
+[05:23] approach to 3D printing is to have those
+[05:27] slices you build up layer by layer now
+[05:30] some of the more esoteric things are
+[05:32] possibly things like Digital Light
+[05:34] processing Digital Light processing is
+[05:36] very very similar to SLA rather than
+[05:39] using a light mask what they use is
+[05:41] mirrors and those mirrors of course
+[05:43] allow for a bit more of control over
+[05:45] where the light goes and so a finer
+[05:48] modeling technique that again gonna be
+[05:51] courting some um expensive because of
+[05:53] that and an example would be something
+[05:55] like the flash Forge Hunter and the
+[05:58] thing that's really um still in industry
+[06:00] is selective layers of centering
+[06:03] selective layers of sintering for
+[06:04] example something like the fuse one
+[06:07] points a laser at a powder and melts the
+[06:10] powder and centers it together and
+[06:12] you're doing things like glass and
+[06:14] Ceramics and metals with that but that
+[06:17] again is a very expensive but uses the
+[06:20] layer by layer technique over a bed of
+[06:23] powder so the pound of material like
+[06:25] metal that you want is laid out it's
+[06:26] centered new layer Center and so on now
+[06:30] another derivation of that is selectable
+[06:33] as a selectable as a melting so instead
+[06:35] of sintering it together when you're
+[06:37] really just fusing the edges you melt
+[06:39] the whole material as one layer and
+[06:42] build it up that way now um that's not
+[06:46] particularly well known on the consumer
+[06:48] Market very long with something like
+[06:50] Electron Beam melting which is very
+[06:53] similar to selective laser melting but
+[06:56] perhaps um the last one that had
+[06:58] popularity for a while was a layered
+[07:01] object Manufacturing layered object
+[07:03] manufacturing is where you get a sheet
+[07:05] of material like plastic or paper cut it
+[07:08] out a bit like a laser cutter then build
+[07:10] it up as a layer gluing those layers
+[07:13] together and there was an Irish company
+[07:15] producing a machine I think it was the
+[07:17] Solio
+[07:19] um they lasted for a little while Solio
+[07:20] went bankrupt and I haven't seen
+[07:22] anything since so the two key
+[07:24] technologies that are vying in the
+[07:27] marketplace at the moment are fdm and
+[07:29] SLA
+[07:31] that is in the consumer Market obviously
+[07:33] the industry then things like SLS and
+[07:35] slm player major role but in the
+[07:39] consumer Market is SLA and fdm but once
+[07:42] they worked out the bugs of the actual
+[07:44] machine enough impetus cut rolling so
+[07:47] there were enough people sharing things
+[07:49] so for example on thingiverse where you
+[07:51] can find a model for just about anything
+[07:53] you're daydreaming about then it really
+[07:56] started to pick up speed and other
+[07:58] issues came to the Forefront as opposed
+[08:00] to the the technical aspect of it it was
+[08:03] the ease of use
+[08:05] um the the design of the actual machine
+[08:08] itself for the consumer in mind because
+[08:10] the early versions were rarely built by
+[08:14] people who were interested in the
+[08:15] subject
+[08:16] and of course for your average Joe that
+[08:18] wasn't going to fly now we're looking at
+[08:21] machines that are designed to do their
+[08:23] job you're looking at those other
+[08:25] aspects of it like ease of use
+[08:27] Standalone cost of the material how well
+[08:31] the machine is actually built and so on
+[08:33] and so on and so on and this is where
+[08:35] various machines are beginning to emerge
+[08:38] kind of like leading the pack where
+[08:40] they're actually have sorted out the
+[08:42] technology to a degree where it has
+[08:44] become useful and are now creating
+[08:46] machines that we can just buy and use as
+[08:49] opposed to machines that we have to put
+[08:50] together and love and nursing to do
+[08:52] something now I have to admit to being
+[08:54] something of a Philistine when it comes
+[08:56] to these but I'm an old fast and you
+[08:58] have to remember I was there at the
+[09:00] beginning of 3D printing when it was
+[09:02] exactly what I said I could make
+[09:04] anything quicker than a 3D printer and
+[09:07] more accurately with hand tools so I
+[09:09] would have bother and it was such a
+[09:11] labor of love and took such time to do
+[09:13] anything you spend most of your time
+[09:14] nursing the machine and less of your
+[09:16] time working on it so I tried it right
+[09:19] then and I was less than impressed and
+[09:21] that impression of it and then just got
+[09:23] on with hand tools and basically ignored
+[09:25] them until alago contacted me Ellie who
+[09:27] sent me this which is their Neptune Pro
+[09:30] 3D printer I said yeah I'll give it a go
+[09:33] and I was absolutely astounded in fact
+[09:36] because the contact time required is a
+[09:40] minimal really once you spend the hour
+[09:41] or so setting it up you load up your
+[09:44] image and said it the prince will you
+[09:45] walk away and have a cup of tea and do
+[09:47] something else instead come back later
+[09:49] and it's printed because that does take
+[09:51] Faith but machine will actually reach
+[09:54] the end of its print and I've been using
+[09:56] these things now for what something like
+[09:57] three four months printing loads of
+[09:59] stuff and that is exactly what I do and
+[10:01] I come back and I find that they're
+[10:03] printed and of course we printed this
+[10:05] thing on it this is a double helix
+[10:07] ogrensky style wind turbine it's printed
+[10:11] in five parts and glued together to make
+[10:13] that rotor section and it worked
+[10:15] beautifully we've used this of various
+[10:17] generators to get some great results
+[10:19] well you can make this by hand but our
+[10:21] handmade versions but this is a
+[10:24] beautiful version that in contact time
+[10:27] is probably I don't know about 30
+[10:28] minutes or so in print time well over a
+[10:31] week so I was very impressed by this
+[10:34] machine and did some videos on it to
+[10:36] basically explain it and show what was
+[10:38] being done and I loved it and so they
+[10:41] sent me this which is their Neptune and
+[10:45] plus and the build volume on that is
+[10:47] just incredible hey so we printed this
+[10:49] this is an argument screw rotating print
+[10:53] and it's huge I mean it's as big as my
+[10:56] head so that will actually take a flow
+[10:59] of water and generate and we were able
+[11:01] to print that as one piece from this at
+[11:04] Neptune 3D plus now this thing you can
+[11:08] buy the basic version of this for about
+[11:10] 120 or about 100 pounds
+[11:13] that's kind of the same price as four
+[11:15] bottles of whiskey or lower is it seven
+[11:17] or eight packs of cigarettes it's
+[11:19] phenomenal how inexpensive these things
+[11:22] are this thing's a bit more expensive it
+[11:25] comes in at about 350 dollars about 300
+[11:27] quid or so and um still very robust and
+[11:31] very usable machine and I did some
+[11:33] videos on this as well I'm particularly
+[11:35] in the large prints no well I like you
+[11:38] was they sent me
+[11:41] help me and here it is in its box and
+[11:43] this comes in at about 430 and it's
+[11:47] enormous the build volume is 450 by 450
+[11:50] by 500 millimeters that's half a meter
+[11:53] so it's almost a a half meter by half
+[11:56] read about half a meter that's just huge
+[11:59] of course it's in this box because I
+[12:01] haven't got it I wanted to take it out
+[12:02] straight away but I feel I want to make
+[12:04] a video of it so let's get the Box open
+[12:06] okay that's it out of the box now it was
+[12:09] well packaged and I don't plan on a step
+[12:11] by step it's um six screws to put
+[12:14] together four parts take them out 15
+[12:16] minutes no reason I don't plan on doing
+[12:19] it is because this is reflect active of
+[12:21] the move in the industry the ease of use
+[12:24] the ease of setting it up the ease of
+[12:27] putting it together is key to people who
+[12:30] are doing this now an element of no
+[12:31] exception there's um some really good
+[12:33] videos showing you how to put it
+[12:35] together I've already put two together
+[12:36] so it's going to be easy for me I've
+[12:38] done videos I'm putting the other two
+[12:39] together so it's gonna be four screws up
+[12:42] from the bottom bolt on the stairs
+[12:45] plugging your bits piece of cake but
+[12:47] there are instruction videos produced by
+[12:49] alagu showing you exactly how to do it
+[12:51] the thing comes with instructions
+[12:53] including a sheet with big red arrows
+[12:55] pointing where you need to bolt these
+[12:57] things together so the ease of doing it
+[13:00] is key at the moment to the
+[13:02] manufacturers and the sellers of these
+[13:04] things and it's no surprise at all
+[13:06] because the industry has come out of its
+[13:09] infancy where you have to struggle into
+[13:11] creating machines that are usable almost
+[13:14] from an hour of opening the box and I
+[13:17] found that to be true the other two
+[13:19] other girls I'm expecting exam do the
+[13:21] same thing but this sounds bolt it
+[13:22] together
+[13:23] so 15 minutes later 15 screws bolts
+[13:27] letter there she is all set up there's
+[13:29] the max
+[13:31] there's the plus and there's the
+[13:33] original now the whole point of this is
+[13:35] ready to talk about that change how
+[13:38] things have changed in history when it
+[13:42] first started because it was all very
+[13:43] techy or very difficult or very glitchy
+[13:45] now it's a usable product now the things
+[13:49] of interest aren't to do with the
+[13:52] technology of it the ins and outs and
+[13:54] how it operates what we're interested in
+[13:56] is a machine that can do something so
+[13:59] issues like reliability
+[14:01] ease of use ease of setting up those are
+[14:05] the kind of things I think we're really
+[14:07] concerned about other stuff yeah it's
+[14:09] great to talk about it when you get into
+[14:10] it but remember I first tried this 10
+[14:14] years ago hated it trying it again now
+[14:17] is the new breed of machines loving it
+[14:19] and I think my experience reflects an
+[14:22] awful lot of people's experiences
+[14:24] because I'm by no means an expert at
+[14:27] this I just picked this up four months
+[14:28] ago and had uh well huge financial
+[14:30] because we've done some great stuff on
+[14:33] it already as you know if you're a
+[14:35] follower of the channel but the history
+[14:37] of the development of this has come such
+[14:39] a long way and these Amazon products um
+[14:42] well they are at the Forefront of the
+[14:45] changes that I'm talking about because
+[14:47] you know
+[14:48] 15 volts 15 minutes and the instructions
+[14:52] are like a comic book there's a help
+[14:54] video online everything's in little bags
+[14:57] with labels on it and every tool you
+[14:58] need to put it together comes in the bag
+[15:02] so essentially if you can't cut with
+[15:04] that you should not be going into a
+[15:06] kitchen where there are sharp things
+[15:08] because it's just nothing to go into on
+[15:10] this that's why I haven't been into it
+[15:12] because there's nothing to talk about
+[15:13] you put those bolts in the little holes
+[15:15] with the big red arrow it tells you to
+[15:16] put them you have yourself a machine
+[15:18] now obviously we've used the yellow
+[15:20] products and the other two and so we
+[15:22] will be using this and there is a little
+[15:24] wrinkle I want to talk about which is
+[15:25] making sure the bed is flat the setup is
+[15:28] Cura which is um it's allergy Cura it's
+[15:31] a cure report
+[15:32] but again it's super easy to do it's
+[15:36] ridiculously easy to do and of course we
+[15:39] want to print on this we've already
+[15:40] printed on alagu machines and found the
+[15:43] reliability to be amazing I mean I've
+[15:46] had I think two failed prints and they
+[15:48] were my fault the other prints we've
+[15:50] done where we've run them for like a
+[15:51] week plus and that's an act of fast have
+[15:55] come up just fine which is what I
+[15:57] believe we want from this kind of
+[15:59] machine and reliable machine you can do
+[16:02] something with instead of having to
+[16:04] study the technical specs and print
+[16:07] something you can use which has been the
+[16:10] whole thing algo I think are um
+[16:12] particularly good at that the price I
+[16:14] think is awesome I mean this basic setup
+[16:16] machine remember 120 dollars that's
+[16:19] crazy for such a nice machine and then
+[16:22] of course we go up to this this is more
+[16:24] expensive it's about 430 but it's a huge
+[16:27] machine and I'm looking forward to
+[16:28] playing with it we will do a couple of
+[16:30] other videos on those other aspects of
+[16:32] it for sure sure is the bank leveling
+[16:34] can be an issue for people but it is
+[16:36] very easy it's just a slight confusion
+[16:38] about it when it comes to it so I'm
+[16:40] going to take the bed apart and show you
+[16:41] what they mean when they're actually
+[16:42] talking about so and yes rather point in
+[16:45] history 3D printers now where lots of
+[16:48] things have been sorted out and it's all
+[16:49] about bigger and better which is where
+[16:53] the max sits I mean we can do some
+[16:56] awesome stuff on this and if it starts
+[17:00] to get even bigger than this of course I
+[17:02] guess we could be printing cars whatever
+[17:05] but that seems to me to be what it's all
+[17:09] about the max is certainly in that space
+[17:12] and I'm hugely looking forward to
+[17:14] playing with it hope you enjoyed the
+[17:16] video thank you very much for watching
+[17:18] and please do remember to like And
+[17:19] subscribe

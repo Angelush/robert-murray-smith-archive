@@ -1,0 +1,63 @@
+{
+  "thing_id": 6192755,
+  "name": "Simple Adaptable Axial Flux Generator",
+  "description": "You can find a video on the construction here https://youtu.be/Yg9TYeR-3KM\r\n\r\nTo finish this you will need 0.2mm diameter enameled copper wire - 500 turns, 36 15mm by 10mm circular neodymium magnets, 2 22mm OD 8mm ID 7mm thick skater bearings, 2 8mm washers and a 120mm by M8 bolt and nut.\r\n\r\nthis can be used with this thing https://www.thingiverse.com/thing:6187901 which is a wind turbine and with this thing https://www.thingiverse.com/thing:6156474 which is a planetary gear setup",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "Yg9TYeR-3KM",
+      "url": "https://youtu.be/Yg9TYeR-3KM"
+    }
+  ],
+  "tags": [
+    "Axial",
+    "Coreless",
+    "flux",
+    "fwg",
+    "generator",
+    "robert",
+    "tnt"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution",
+  "added": "2023-08-29T16:08:17+00:00",
+  "modified": "2023-08-29T16:08:17+00:00",
+  "url": "https://www.thingiverse.com/thing:6192755",
+  "thumbnail": "https://cdn.thingiverse.com/assets/3f/52/71/79/7e/large_display_cc616be2-8490-476c-a58b-aa207292d277.jpg",
+  "like_count": 267,
+  "collect_count": 308,
+  "comment_count": 5,
+  "download_count": 3670,
+  "files": [
+    {
+      "name": "Magnet_Carrier.stl",
+      "size": 383084,
+      "url": "https://www.thingiverse.com/download:13433810",
+      "download_url": "https://api.thingiverse.com/v2/files/13433810/download"
+    },
+    {
+      "name": "cap.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:13433811",
+      "download_url": "https://api.thingiverse.com/v2/files/13433811/download"
+    },
+    {
+      "name": "Coil_Carrier.stl",
+      "size": 185784,
+      "url": "https://www.thingiverse.com/download:13433812",
+      "download_url": "https://api.thingiverse.com/v2/files/13433812/download"
+    },
+    {
+      "name": "Connector.stl",
+      "size": 91484,
+      "url": "https://www.thingiverse.com/download:13433813",
+      "download_url": "https://api.thingiverse.com/v2/files/13433813/download"
+    },
+    {
+      "name": "Foot.stl",
+      "size": 95384,
+      "url": "https://www.thingiverse.com/download:13437845",
+      "download_url": "https://api.thingiverse.com/v2/files/13437845/download"
+    }
+  ]
+}

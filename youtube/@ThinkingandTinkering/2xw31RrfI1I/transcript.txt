@@ -1,0 +1,120 @@
+[00:00] [Music]
+[00:08] I'm currently making a spurgeear
+[00:10] differential and it's a bit of a pain if
+[00:13] I get things wrong because if I get
+[00:14] these gears a little out they stick and
+[00:17] then I have to remake them. Now, my
+[00:18] standard practice is to glue everything
+[00:20] permanently because with something like
+[00:22] that, there's a few hours of printing
+[00:23] quite a lot of plastic and glue it
+[00:26] permanently. Well, that'd be a pain if I
+[00:28] had to change something. And I've been
+[00:30] getting into these things, clips,
+[00:33] because they allow you to clip the thing
+[00:34] together. And if you do make a mistake
+[00:36] on a single component, you can uncip it,
+[00:38] pull it to pieces, and reuse the bulk of
+[00:41] it. So, I'm finding these clips to be
+[00:44] well, particularly awesome. And
+[00:46] strangely enough, they're really simple
+[00:48] to make. So I thought I'd go through
+[00:50] quickly on Tinkercad how I go about
+[00:52] making these clips. Okay, so we're in a
+[00:55] fresh Tinkercad page. The rulers down.
+[00:58] And the thing we need to do is create an
+[00:59] SVG file because we're going to use a
+[01:02] tool in Tinkercad called SVG rotate. So
+[01:05] to do that, we want the profile of our
+[01:07] clip. And the clip is going to be a box
+[01:10] and a wedge. So, if we grab a wedge,
+[01:13] rotate it
+[01:16] round, and change the size of this to
+[01:21] two by
+[01:23] two by two. And this
+[01:27] one two by
+[01:31] two by two. Then they're a bit small to
+[01:35] see. So, zoom in on them by clicking
+[01:37] here. And that will allow you to zoom
+[01:38] in. And then we can move those nearer to
+[01:41] each
+[01:44] other. And sometimes it's a bit hard to
+[01:48] make these two line up on each other. So
+[01:51] you use this trick of work planes. So
+[01:54] grab a work plane, pop it onto the side
+[01:56] that you want, which is there. If I
+[01:59] click on that and press D, it drops it
+[02:02] straight onto the top surface of the
+[02:03] box. Take another work plane, put it
+[02:06] into a random area, and you'll go back
+[02:08] to the original work plane. So, we've
+[02:11] got our profile now. Now, we can merge
+[02:13] those two to get a single unit
+[02:17] shape, rotate it
+[02:19] around 90°. And there is the profile of
+[02:23] the clip. And we want that as an SVG.
+[02:26] So, we need to export it this time as
+[02:29] SVG and take a note of where it lands.
+[02:31] And it's called tutorial SVG. and we'll
+[02:34] need that later. So now we can delete
+[02:37] that. Go to the search bar and type in
+[02:41] SVG and you'll get this donut shape.
+[02:45] Grab that onto your work plane and
+[02:47] you'll have all of this thing in
+[02:49] something called SVG revolver. You can
+[02:52] either drag a file in there and drop it
+[02:54] or you can choose it from a pull down
+[02:56] list whichever you're happy with really.
+[02:58] So, if we jump over to downloads, which
+[03:01] is where we left that file, drag it into
+[03:04] the drag here box. Just leave it in
+[03:06] there. Close that. And you see it's gone
+[03:09] red. It's now importing that SVG file to
+[03:12] create a donut of our shape, but it
+[03:15] looks more like a cone. Now, if we have
+[03:17] a look here, we can see sketch rotation.
+[03:20] It's the wrong way around by 180°. So,
+[03:23] type in 180. And we can see it's the
+[03:26] wrong way around. So, we just flip that
+[03:28] round for ease of looking at it. And
+[03:29] we've got our clip shape. It's 2 mm
+[03:32] high. And I've changed the inside
+[03:34] diameter to eight. Because let's say I
+[03:36] want to put a clip on a 12 mm bar biting
+[03:39] 2 mm in. If I create that bar by using
+[03:44] the
+[03:45] primitives
+[03:47] here, make that a nice smooth
+[03:50] circle. Zoom out. Make that 12. Make
+[03:54] that 12.
+[03:56] raise this up say to
+[04:01] 10. Then we can center
+[04:09] that and that's where our clip will go.
+[04:12] Now if we look back at that clip again,
+[04:14] you can see the rotation is a little too
+[04:17] tight. It we hard to get that on. And if
+[04:19] we look here, the revolve angle is 300.
+[04:22] If we change that to
+[04:27] 240, that'll create a wedge shape like
+[04:30] that that's easy to clip on. We
+[04:33] duplicate
+[04:36] that. Press D to drop it down. And then
+[04:40] this one we want to
+[04:45] change to 360, a full circle.
+[04:50] Now instead of having that as a solid
+[04:53] shape, if we make that a hole and then
+[04:56] we merge them
+[05:01] again, we will get our bar with the clip
+[05:04] indent where that clip will fit nicely
+[05:07] into it and we can use that absolutely
+[05:10] wherever we want. And that's exactly
+[05:12] what I did to the top of these rods
+[05:14] here. So the spurgeears goes on, cap
+[05:17] goes on, clip goes into place. Then if I
+[05:20] make a mistake, it's easy for me to
+[05:21] repair it and I don't need to use any
+[05:24] glue. Anyway, I thought that might be
+[05:26] useful to people. It's easy to make out
+[05:28] of primitives available in Tinkercat. I
+[05:30] hope you enjoyed the video. Thank you
+[05:32] very much for watching.

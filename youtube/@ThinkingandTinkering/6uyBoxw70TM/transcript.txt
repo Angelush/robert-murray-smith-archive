@@ -1,0 +1,214 @@
+[00:02] [Music]
+[00:16] hi so i'm working on a bit of machine
+[00:18] automation and it's a heavy duty machine
+[00:19] it's a punch press so it needs a bit of
+[00:21] force behind it
+[00:22] and that means finding a motor now i've
+[00:24] got a couple of options but one of the
+[00:26] really cool options
+[00:27] is this thing it's a windscreen wiper
+[00:30] motor
+[00:31] now they're awesome hey you can find
+[00:32] them in scrap there are a huge variety
+[00:34] of prices they're incredibly strong
+[00:36] so there's enough in there actually to
+[00:38] break a finger if you get it caught so
+[00:40] really strong motors
+[00:41] but the problem with using them is
+[00:43] there's a huge variety you find six wire
+[00:46] five wire four
+[00:47] wire uh separate earth chassis earth
+[00:50] uh different ways of implementing
+[00:52] parking all kinds of stuff that makes it
+[00:54] very confusing on how knowing how to use
+[00:57] these things
+[00:58] but actually these things are in fact
+[00:59] relatively simple
+[01:01] there are two functions one is the park
+[01:04] function
+[01:05] that is when you turn off the wiper
+[01:07] motor it needs to
+[01:08] need to go back to a home position and
+[01:11] the other thing is the variable speed
+[01:13] because you know you usually have low
+[01:14] speed your single signs have low medium
+[01:16] high or low and
+[01:17] high and you can have an auto speed so
+[01:19] there are different speeds and that
+[01:21] gives you different wires in there
+[01:22] that can be kind of confusing especially
+[01:24] tracing what the hell is happening
+[01:26] now the first thing to think about is
+[01:28] this home function because you'll see
+[01:30] two wires in there going to home
+[01:32] now the home function is implemented by
+[01:35] something called an
+[01:36] ore gate an or gate is where it will
+[01:39] operate
+[01:40] if one switch all the other switches are
+[01:42] on
+[01:43] it will still operate now an all gate
+[01:46] arranged with switching looks like this
+[01:52] now i've implemented just that circuit
+[01:54] right here i've got my battery i've got
+[01:56] my motor and i've got a couple of
+[01:58] switches here
+[01:59] these are normally open um yep normally
+[02:02] open switches
+[02:03] so i have to press them to close them to
+[02:05] operate them now i've connected them in
+[02:07] parallel
+[02:08] what that means is two of the switches
+[02:10] are connected to each other right there
+[02:12] and that's going to the battery then one
+[02:14] switch goes to the live and the other
+[02:16] switch goes to the live
+[02:17] so whichever one of those i press that
+[02:19] motor is going to work
+[02:20] so if i press that one motor works if i
+[02:24] press that one
+[02:25] motor works awesome press both together
+[02:28] the motor works
+[02:29] so those switches one or the other or
+[02:33] both will make that motor work
+[02:36] now in your wiper motor one of the
+[02:40] switches is obviously the switch you've
+[02:41] got on the dashboard and you turn that
+[02:43] off
+[02:44] or on to make the thing operate the
+[02:46] other one
+[02:47] is right here it's actually just a plate
+[02:50] a little metal plate
+[02:51] when that metal plate on the cog
+[02:54] contacts just two little prongs sticking
+[02:56] down there
+[02:56] that makes the switch now you see
+[02:58] different ways of doing this
+[03:00] sometimes they're um powered by a cam
+[03:03] sometimes there's a button sometimes
+[03:04] there's a play
+[03:05] sometimes there are slips all kinds of
+[03:07] ways but that's basically what happens
+[03:09] is that
+[03:10] switch is always in the same position
+[03:13] relative to the two contacts that it's
+[03:15] going to touch
+[03:16] so when you turn off
+[03:19] the um dashboard that is effectively
+[03:23] still
+[03:23] on until that cam moves in position and
+[03:26] it then turns
+[03:27] off so you have to constantly feed a
+[03:29] power supply into that obviously you
+[03:31] need to do that with
+[03:32] a little loop wire and you'll see that
+[03:33] in the contactor but it
+[03:35] maintains the contact until the cam is
+[03:38] in the right position
+[03:39] and it turns itself off now normally in
+[03:42] a cam
+[03:43] one it is a push to break here what
+[03:46] we've got because we've got to play with
+[03:47] two switches is push to make
+[03:48] but the nisha nissan always also comes
+[03:51] with this mysterious bit of green
+[03:53] electronics no idea what's in there
+[03:55] but the theory is the same you have
+[03:59] two switches attached to the motor
+[04:02] one which is the park switch is on
+[04:05] until it reaches a fixed position
+[04:08] relative to the plate or the cam
+[04:10] and that then turns off because the
+[04:12] logic is an or
+[04:13] logic of two switches so that's how you
+[04:16] deal with that
+[04:17] now if you're not going to use the park
+[04:18] function of course it's completely
+[04:20] irrelevant
+[04:21] if you are going to use the part
+[04:22] function which can be very useful
+[04:24] particularly for
+[04:25] controlling stop start then you would
+[04:27] use it as a second switch
+[04:29] maybe in line with the relay doing
+[04:32] something like latching
+[04:33] and push to break push to make something
+[04:35] like that
+[04:36] a second part of these things are
+[04:39] obviously these bits here
+[04:41] which are the bits that go to the coil
+[04:43] now again nissan has been a little odd
+[04:45] in this
+[04:46] in that the um ground
+[04:50] is not on the case and you can check
+[04:52] that just by connecting
+[04:53] to the walls in a multimeter touching
+[04:55] the case somewhere and seeing if you
+[04:56] have a contact
+[04:57] if the coil inside the motor is grounded
+[05:00] to the case you'll get a low resistance
+[05:02] reading telling you it's grounded to the
+[05:03] case
+[05:04] it isn't so i tested the resistivity of
+[05:07] that and the resistivity of these
+[05:08] obviously
+[05:09] to make sure that there were contacts
+[05:11] between these two
+[05:13] now the really cool thing about this is
+[05:15] um
+[05:16] we can connect it up and get different
+[05:18] speeds just by switching on the thing
+[05:21] so if i connect that to there
+[05:26] and i tested this earlier so i know in
+[05:29] this case
+[05:30] my red
+[05:34] is my negative it actually doesn't
+[05:35] matter if i swap it round all that will
+[05:37] happen is the motor will reverse
+[05:39] direction so it really doesn't matter
+[05:41] if i put my red as ground or my red as
+[05:44] live and if i touch one of the other
+[05:45] wires
+[05:48] we get the motor turning at a speed if i
+[05:50] touch the other wire
+[05:51] whoops then we get the motor turning at
+[05:54] a slower speed
+[05:55] so that's low
+[05:59] that's high and if i swap them round
+[06:08] it reverses how about that so
+[06:12] wiper motors actually aren't that
+[06:13] difficult to understand and work out
+[06:15] what's going on with them as long as you
+[06:17] remember
+[06:18] there are two functions being taken care
+[06:21] of in there
+[06:22] the park is just a switch
+[06:25] it's a switch that operates with the
+[06:27] dashboard switch in an
+[06:28] ore configuration the motor wires
+[06:32] themselves are really just speed control
+[06:35] and we've got three in there because
+[06:37] we've got one
+[06:39] going into and two coming out at
+[06:41] different positions instead of being
+[06:43] grounded here
+[06:44] but you can work that round add that
+[06:45] stuff out really easily by testing the
+[06:47] resistances and seeing which one is the
+[06:49] lower resistance and which one's the
+[06:51] higher resistance and whether there's
+[06:52] continuity between one of the wires and
+[06:54] the case
+[06:55] you can test this out really easily just
+[06:57] by unscrewing it and having a look to be
+[06:59] honest
+[07:00] anyway i thought that would be of
+[07:01] interest because we may well be using
+[07:03] that wiper motor in this application
+[07:05] and i thought i would share those
+[07:06] thoughts with you because i think it
+[07:07] might help you
+[07:08] to work out what's going on with your
+[07:10] own wiper motor anyway hope you enjoyed
+[07:12] the video and thank you very much for
+[07:14] watching

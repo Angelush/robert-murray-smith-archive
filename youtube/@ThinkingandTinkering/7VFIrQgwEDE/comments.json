@@ -1,0 +1,794 @@
+[
+  {
+    "id": "UgynVlrmz6OfooqWQd14AaABAg",
+    "author": "@prairiemountaineer",
+    "author_channel_id": "UCvPl0QpxsLowwcDY99cCgNA",
+    "text": "simple and elegant...just the way I like it. Thanks for sharing it with us.",
+    "likes": 0,
+    "published_at": "2025-03-31T12:29:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw5qIPcNXp-tNDaGYt4AaABAg",
+    "author": "@thingmaker3",
+    "author_channel_id": "UC8V3l0wXMItD16xceh-G-Jg",
+    "text": "It's too bad you don't have access to a lathe...",
+    "likes": 0,
+    "published_at": "2025-03-30T22:00:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzHh2sy0QL5sNo4mY94AaABAg",
+    "author": "@jonathanpiasecki5249",
+    "author_channel_id": "UCizt2SLM39OtCox59sVggfA",
+    "text": "Was surprised to hear you say that 0.2mm tolerances appear to be the limit for FDM printers. I design HO scale (1:87) architectural models and design to 0.1mm tolerances and can regularly get that out of my Ender 3 Pro. How my parts locate and fit together always makes me happy -- I laugh at it in pretty much the same way you do when you try out your devices. My parts are static and are intended to be glued together -- I really should try some moving parts to see if my tolerances work there.",
+    "likes": 0,
+    "published_at": "2025-03-25T14:36:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgykAJWhIrXzHzKJ8wB4AaABAg",
+    "author": "@itsyawdestiny4597",
+    "author_channel_id": "UCjrR9ytRkwtFx-IHHcuZHzw",
+    "text": "I may now throw the towel in on 3D printing all together. 2+ years and im still lurching from one printing quality problem to another.  Im not close to thinking about 0.2 mm tolerances and reproducible outputs for testing with FDM printing (apologies, comment out of shear frustration as this video re-enforces my expectations).",
+    "likes": 0,
+    "published_at": "2025-03-25T08:46:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykAJWhIrXzHzKJ8wB4AaABAg.AG4wWWWhKhCAG5YtlJ6pTQ",
+        "author": "@jonathanpiasecki5249",
+        "author_channel_id": "UCizt2SLM39OtCox59sVggfA",
+        "text": "What problems are you having? All of the problems I've ever had with printing have been due to squareness of the print head gantry, bed levelling, and ambient room temperature. I'm using an Ender 3 Pro, which at five years old now is almost an antique, and I can get good repeatable prints with 0.1mm tolerances. The stock printer had just a single Z axis screw to raise and lower the print head gantry, and I often had failed prints, poor bed adhesion, and really bad elephant's foot. Then I noticed that the gantry would tilt ever so slightly as the print head moved to the side away from the single Z axis lead screw. Adding a second lead screw and stepper fixed that - the difference is amazing. I've also added a bed levelling probe and have my gcode perform a bed levelling sweep with every print. This has really helped with fine printing at 0.1mm layers -- I can get perfect first layers at 0.1mm without having to mess with thicker first layer settings in the slicer. It's interesting to see just how uneven the printer thinks the bed is -- I can hear the Z axis steppers making a lot of tiny adjustments on each layer. I really pay attention to bed levelling in general as it has a huge effect on print quality. I also check the bed level manually -- paper feeler between the nozzle and print bed at multiple locations while adjusting the under-bed levelling screws on my old machine -- before every print session and after changing extruder nozzles. I also check Z offset frequently as that has a huge effect on first layer adhesion. Finally, room air temperature and drafts seem to cause problems. I use a simple enclosure but find that the room's ceiling fan or an open window on a cooler day can cause problems. Hope some of this gives you some troubleshooting ideas. Don't give up!",
+        "likes": 0,
+        "published_at": "2025-03-25T14:30:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwLmtucEMlvIYT7Mv54AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "What a great idea 💡 👍",
+    "likes": 0,
+    "published_at": "2025-03-23T10:23:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhzjianlAhYayJmeJ4AaABAg",
+    "author": "@DirkLarien",
+    "author_channel_id": "UCcXXk5nb7wBO0pgvc-NbBnA",
+    "text": "Such a simple solution...i feel stupid. Why didn't i ever thought of that.",
+    "likes": 0,
+    "published_at": "2025-03-22T19:51:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzTRzy_U0keEPiBuTB4AaABAg",
+    "author": "@JH-jp9sv",
+    "author_channel_id": "UCDtdFtNnKgBNma7CxGVmhsg",
+    "text": "That's a very useful concept. Thanks. You could even use these shim inserts to fix non FDM clearance issues if the conditions are right. I'm thinking about thinks like loose closet door or cabinet rollers and whatnot.",
+    "likes": 0,
+    "published_at": "2025-03-21T04:19:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzTRzy_U0keEPiBuTB4AaABAg.AFv9jZg61ZWAFvcB64WtJc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i like it mate - nice one",
+        "likes": 0,
+        "published_at": "2025-03-21T08:36:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwAKlRnue47RSvGNcx4AaABAg",
+    "author": "@mikecrane2782",
+    "author_channel_id": "UCQ9CR6hWuLa8xZQ6rGBqfyQ",
+    "text": "I tend to scale in the Z direction or print a few layers and measure to establish radial tolerances",
+    "likes": 0,
+    "published_at": "2025-03-20T19:30:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwAKlRnue47RSvGNcx4AaABAg.AFuDDIW7WW3AFvc8uJBXac",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-03-21T08:36:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzNwUMT0oG_ZdUpzN54AaABAg",
+    "author": "@magnetsplace",
+    "author_channel_id": "UCByxn2XD1jgckmB0GVLxQWw",
+    "text": "Hi Robert. This was a problem I came across when I first started printing. Now, whenever I have a large print containing parts having to be joined, I just cut out that section containing the joint leaving two smaller pieces to print and test the fit. It saves so much on time, electric and material and once fettled, you know you can go ahead with the print.\n\nMay I suggest printing up some small test fit pieces, something similar to a 5x1 lego brick with the round pegs on top that increase in size around any diameter you might regularly use. Taking a 6mm diameter peg you may start at 5.6, 5.8, 6.0, 6.2, 6.4 Repeat the same for one with holes.\n\nYou only have to print these small pieces once but you will find yourself using them quite often, and the more you get to know your printer's small quirks, you will build these clearances into your design with higher confidence.\n\nKeep up the great videos.\n\nRegards\nRichard.",
+    "likes": 0,
+    "published_at": "2025-03-20T14:53:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzNwUMT0oG_ZdUpzN54AaABAg.AFtiWFQ_dIvAFvc7g8Km2u",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice advice mate - thanks for sharing",
+        "likes": 0,
+        "published_at": "2025-03-21T08:35:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVjuBKY1QPGs7LkAh4AaABAg",
+    "author": "@sergiogcollado",
+    "author_channel_id": "UCcU-618hARS00Da0sUOJvlA",
+    "text": "Awesome Robert! Thanks",
+    "likes": 0,
+    "published_at": "2025-03-20T10:28:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVjuBKY1QPGs7LkAh4AaABAg.AFtFD2qa2VnAFvc0i2NJkt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you liked it!",
+        "likes": 0,
+        "published_at": "2025-03-21T08:34:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyoQmVyuwqOHNrqnF54AaABAg",
+    "author": "@TriunfoGim",
+    "author_channel_id": "UCIo0fwA4INDtWJ4UhZFDM1Q",
+    "text": "Thank you, Sr.",
+    "likes": 1,
+    "published_at": "2025-03-20T09:45:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyoQmVyuwqOHNrqnF54AaABAg.AFtAJIeTp1jAFvc0GgaxPt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-03-21T08:34:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugza4cyiw3VYuHJrxXB4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "Bob's your uncle. Sleeves are used in many products just for this reason. It's cheaper to sleeve an item then to make the entire thing out of a single metal.",
+    "likes": 0,
+    "published_at": "2025-03-20T07:00:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugza4cyiw3VYuHJrxXB4AaABAg.AFssQF9dklmAFt1_yYzxVi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-03-20T08:29:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxVNhnUDciHLtU6Rhh4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Hmmm. Thanks for that trick. I can see how that works really well especially if the machine doesn't have good repeatability.\nOn some machines where the tolerances are decent, but more importantly, the repeatability is good, another method would be that after printing the 1 piece, I would have printed the sleeve(s) adjusting the sleeve size until it was just right. Then, I would have printed the \"entire remainder\" using the sleeves dimension for that other part's side... thus it would be similar to your method, minus the glue tho...",
+    "likes": 0,
+    "published_at": "2025-03-20T05:14:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxVNhnUDciHLtU6Rhh4AaABAg.AFsgJR2RwljAFt1_5meQts",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for sharing mate",
+        "likes": 0,
+        "published_at": "2025-03-20T08:29:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyYLt40LpUX5QYUJ4R4AaABAg",
+    "author": "@Alkimi",
+    "author_channel_id": "UC-9U9v05QxyPqDWETFUnf4Q",
+    "text": "That is a good idea. I tend to opt for sanding things by hand",
+    "likes": 1,
+    "published_at": "2025-03-20T03:51:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyYLt40LpUX5QYUJ4R4AaABAg.AFsXjw2dTP0AFt1T6ThZ_G",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is what works well for you always mate",
+        "likes": 0,
+        "published_at": "2025-03-20T08:28:17Z"
+      },
+      {
+        "id": "UgyYLt40LpUX5QYUJ4R4AaABAg.AFsXjw2dTP0AFt5REF3Zpv",
+        "author": "@Alkimi",
+        "author_channel_id": "UC-9U9v05QxyPqDWETFUnf4Q",
+        "text": "@ThinkingandTinkering  it's just great to have another option",
+        "likes": 0,
+        "published_at": "2025-03-20T09:02:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz-xKC78iHVW706lUl4AaABAg",
+    "author": "@bruinjim1",
+    "author_channel_id": "UChGCMy2MzPix04Xil10gN1Q",
+    "text": "Print it with extra material and extra thick walls then turn it down on a lathe.  I've had to do that with all round parts to get them to fit perfectly and for perfect rounds.  If you don't have a lathe you can 3D print one.  :)",
+    "likes": 0,
+    "published_at": "2025-03-20T00:21:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz-xKC78iHVW706lUl4AaABAg.AFs9k-mWqyrAFsAbhLmAfC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good idea mate - cheers",
+        "likes": 0,
+        "published_at": "2025-03-20T00:28:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAzIW-IAQlmazsnq14AaABAg",
+    "author": "@maxdon2001",
+    "author_channel_id": "UCcWsa8pLk2SGp91ki3RwRfQ",
+    "text": "Interesting idea, I will have to give this a try the next time I need to get something just right!",
+    "likes": 0,
+    "published_at": "2025-03-19T21:07:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAzIW-IAQlmazsnq14AaABAg.AFroXJiOj0kAFrxis6VeJU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-03-19T22:27:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzZrUy2QB4i7jmx4bx4AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "Great solution! Thanks Robert 👍💪✌",
+    "likes": 2,
+    "published_at": "2025-03-19T20:28:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzZrUy2QB4i7jmx4bx4AaABAg.AFrk1jOtARtAFrxi1YLKHp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2025-03-19T22:27:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxnxOtMzgFjDsO6kOl4AaABAg",
+    "author": "@markwritt8541",
+    "author_channel_id": "UCOm1ul61BxaUsNwNe85Qb3w",
+    "text": "Additive, subtractive, and adaptive.  Great way to work.",
+    "likes": 0,
+    "published_at": "2025-03-19T19:24:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxnxOtMzgFjDsO6kOl4AaABAg.AFrcnnu25cbAFrxhCKblzc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 2,
+        "published_at": "2025-03-19T22:27:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDtXcAF-_fxuQzwbF4AaABAg",
+    "author": "@peterfelecan3639",
+    "author_channel_id": "UCVdKr43mky1YF4F9SdycH9A",
+    "text": "You discovered the notion of \"slop\" which can be found for each particular printer and material combination quite easily.",
+    "likes": 2,
+    "published_at": "2025-03-19T17:56:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwDtXcAF-_fxuQzwbF4AaABAg.AFrTjx1CV37AFrUH7xeWNB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - no sure i would say i had discovered it mate - but certainly making use of it lol - and easy is a relative term as you well know what is easy for one isn't necessarily easy for someone else!",
+        "likes": 4,
+        "published_at": "2025-03-19T18:01:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgymZqg0NbtUfkB50C94AaABAg",
+    "author": "@salimufari",
+    "author_channel_id": "UCTUo_JG2HqlHaKJmQSY08AA",
+    "text": "A very solid recommendation for the printing world.",
+    "likes": 8,
+    "published_at": "2025-03-19T17:50:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgymZqg0NbtUfkB50C94AaABAg.AFrT-fOLL8xAFrU8BFh68x",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-03-19T18:00:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFJF3YornTJqd1qZp4AaABAg",
+    "author": "@baby-turtle",
+    "author_channel_id": "UChE9-J-i_939GKp2u0OBJrg",
+    "text": "So how do you get rid of the layer change seam that happens at retractions on layer change? Those pock marks or dimples cause lots of issues. Your prints don't seem to have them.",
+    "likes": 0,
+    "published_at": "2025-03-19T17:29:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzFJF3YornTJqd1qZp4AaABAg.AFrQeDisdjhAFrR5QCnyGQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "In Orca I click random for seam position - default is aligned",
+        "likes": 0,
+        "published_at": "2025-03-19T17:33:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwpFuFAlAVevK7I0E94AaABAg",
+    "author": "@ChuckYoung75",
+    "author_channel_id": "UCvOjSyzuSNKi25_Pxx3hGZQ",
+    "text": "Very good, thank you for sharing!",
+    "likes": 0,
+    "published_at": "2025-03-19T15:45:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwpFuFAlAVevK7I0E94AaABAg.AFrEebDefgwAFrR5t6KULZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you too!",
+        "likes": 0,
+        "published_at": "2025-03-19T17:33:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxTX_bEbHAo-jj6SWZ4AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "Good tip Rob. \nIf you add a slot in the main part and a key in the test part, you can forgo the spot of super glue. Unless you want to save the filament.",
+    "likes": 2,
+    "published_at": "2025-03-19T15:15:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxTX_bEbHAo-jj6SWZ4AaABAg.AFrBIHQVWo6AFrE7rmBIS2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is a good tip mate - cheers",
+        "likes": 2,
+        "published_at": "2025-03-19T15:40:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzPL_SC-0BNb1wy_2R4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "That'll save people a lot of time, filament and electricity 😎👍",
+    "likes": 4,
+    "published_at": "2025-03-19T15:13:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzPL_SC-0BNb1wy_2R4AaABAg.AFrB0BDOqqVAFrEA5woT5N",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i hope it helps mate",
+        "likes": 2,
+        "published_at": "2025-03-19T15:40:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxny4FbPZgCr0-lIZd4AaABAg",
+    "author": "@craigbradbury",
+    "author_channel_id": "UCuHpmykx_are29jYoghJXhg",
+    "text": "Said golilocks to the vicar... 😊",
+    "likes": 0,
+    "published_at": "2025-03-19T14:50:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxny4FbPZgCr0-lIZd4AaABAg.AFr8SCc9g0NAFrE8aHZM1o",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2025-03-19T15:40:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyc-9NQNLNYFuQEnx14AaABAg",
+    "author": "@orpheuscreativeco9236",
+    "author_channel_id": "UCkeMoNnpg96EEgb_Igl_n6g",
+    "text": "A modular prototyping phase 🤔 Brilliant! Thanks for sharing the insight Rob! 👍",
+    "likes": 3,
+    "published_at": "2025-03-19T14:50:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyc-9NQNLNYFuQEnx14AaABAg.AFr8Mq2SB3cAFrEBXYGtHl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-03-19T15:40:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwf-qBCV472sH98ChB4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Pretty neat, thanks! 🎉",
+    "likes": 1,
+    "published_at": "2025-03-19T13:57:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwf-qBCV472sH98ChB4AaABAg.AFr2IH8cEqkAFrECFclukM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you liked it!",
+        "likes": 1,
+        "published_at": "2025-03-19T15:41:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzsTCn0P4-lpohtULF4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Thank you Sir Robert! 😊",
+    "likes": 0,
+    "published_at": "2025-03-19T13:19:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzsTCn0P4-lpohtULF4AaABAg.AFqz0LJV6slAFrEDFFSYA1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-03-19T15:41:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxqv29vv_Dp-Dvq-7N4AaABAg",
+    "author": "@benbeazley3614",
+    "author_channel_id": "UCNdMAOxmVp78F13F_fyYgNQ",
+    "text": "Great idea. I have been building a claw machine for my boy, 3D printing the cnc-likr parts at the top. Rather than reprint missing parts as I go I often revise the model and in the slicer, I carve of just the new part of the print. Then superglue it as well as use a soldering iron around the edges. It saves a lot of time too. 🙂",
+    "likes": 2,
+    "published_at": "2025-03-19T13:10:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxqv29vv_Dp-Dvq-7N4AaABAg.AFqxyVkEu9GAFrEFooJLoU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - cheers",
+        "likes": 1,
+        "published_at": "2025-03-19T15:41:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw60R6dsZkbaTlDCnB4AaABAg",
+    "author": "@rytua1rytua1",
+    "author_channel_id": "UCTEFqai9mk6ULV-pLTqCG7g",
+    "text": "Thanks ;)",
+    "likes": 0,
+    "published_at": "2025-03-19T12:43:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw60R6dsZkbaTlDCnB4AaABAg.AFquuWrRZQ3AFrEH2pqw7M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hope it helps mate",
+        "likes": 0,
+        "published_at": "2025-03-19T15:41:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUi-ZFEJWfLyAbVEh4AaABAg",
+    "author": "@finndriver1063",
+    "author_channel_id": "UCzReNDnGBVOoNehhMfyosjA",
+    "text": "That's such a simple and clever process. I imagine that it also becomes much easier to remodel the original design with the new tolerances by adding up the sleeve thicknesses. Plus reduced plastic waste, and fewer microplastics than sanding your way to success.",
+    "likes": 10,
+    "published_at": "2025-03-19T12:30:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwUi-ZFEJWfLyAbVEh4AaABAg.AFqtOgjePaWAFqtnDhRbqi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and yes i find it works well without too much elbow grease lol",
+        "likes": 5,
+        "published_at": "2025-03-19T12:34:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzKr4KRKz0pXFOZvUF4AaABAg",
+    "author": "@DaveKahn",
+    "author_channel_id": "UCEJDhq3cv0cil7hT8fChSNA",
+    "text": "It's a little bit like the navigational technique of deliberate error. Set out on a bearing that misses your goal intentionally to one side. At the correct distance, turn 90 degrees and the goal should appear in front of you.",
+    "likes": 0,
+    "published_at": "2025-03-19T12:24:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzKr4KRKz0pXFOZvUF4AaABAg.AFqskMbB5gMAFqszathRpJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's clever - i did not know that - cheers mate",
+        "likes": 1,
+        "published_at": "2025-03-19T12:26:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzdSAOVJT_tm03a3x94AaABAg",
+    "author": "@66moonraker",
+    "author_channel_id": "UCw3_VK2lmFCfLsDGtT0Ih7g",
+    "text": "Thanks Robert. That's another way to skin a cat., and there's plenty more where that came from (AKA The Goon Show).",
+    "likes": 0,
+    "published_at": "2025-03-19T12:17:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzdSAOVJT_tm03a3x94AaABAg.AFqrwIsmQE6AFqsMhqfKuL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - absolutely mate lol",
+        "likes": 0,
+        "published_at": "2025-03-19T12:21:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugynk_zBAxFw-O0LzD94AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "It is easy to get sidetracked into a particular way of thinking. Printers are Great ...... but not perfect. Machining is a pain but the accuracy is what you want it to be.\nSo why not combine the two? You could go further. \nIf you want a sub mm accuracy why not paint it to the correct dimension? This could be further enhanced by painting your part with a material with different properties. Just like you would not print out a wheel with a tyre already on you would eather produce them separately and combine or add the tyre after the wheel was made!",
+    "likes": 0,
+    "published_at": "2025-03-19T12:07:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugynk_zBAxFw-O0LzD94AaABAg.AFqqj8t-TH-AFqrgMkK2to",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate - all good advice thanks for posting",
+        "likes": 0,
+        "published_at": "2025-03-19T12:15:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyYx6S3CKTKyXr7uq94AaABAg",
+    "author": "@Fire90475",
+    "author_channel_id": "UCt7ytgmq37nRXa5VgAjCAoA",
+    "text": "Thanks Robert! Good idea! :)",
+    "likes": 0,
+    "published_at": "2025-03-19T11:53:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyYx6S3CKTKyXr7uq94AaABAg.AFqpCaVL47uAFqpWKzJxE0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-03-19T11:56:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzQbdSsVquXAqA7lN54AaABAg",
+    "author": "@generation-x406",
+    "author_channel_id": "UC-d-xcg9S5OMQc0XajREvTQ",
+    "text": "You can also sink 95% of the part through the plate so it doesn't print and use the sliver as a fitment piece.",
+    "likes": 0,
+    "published_at": "2025-03-19T11:43:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzQbdSsVquXAqA7lN54AaABAg.AFqo3Dd1qVRAFqorZpBBr9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-03-19T11:50:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZunG6mJ6kaOBLkDR4AaABAg",
+    "author": "@JSfuckgoogle",
+    "author_channel_id": "UCWVhL5DYH5jPDJ5Ugs47_Gg",
+    "text": "Thank you Robert, giving wisdom! 😎",
+    "likes": 0,
+    "published_at": "2025-03-19T11:43:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzkVrOTJdM1Oul9Xxx4AaABAg",
+    "author": "@edwardhughes352",
+    "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+    "text": "Do you make the outside diameter of the thin ring smaller than inside diameter of the thick ring (how much smaller?) so that it fits sungly.",
+    "likes": 1,
+    "published_at": "2025-03-19T11:40:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzkVrOTJdM1Oul9Xxx4AaABAg.AFqnfxAvLrEAFqotIPKnTu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "0.1mm smaller",
+        "likes": 1,
+        "published_at": "2025-03-19T11:51:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz3e5RQhzte3S7ZKCR4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2025-03-19T11:26:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz3e5RQhzte3S7ZKCR4AaABAg.AFqm4WJwNMXAFqmFZqF2Jn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-03-19T11:28:08Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-7Q8erTtVXP1ax6F4AaABAg",
+    "author": "@ericmc6482",
+    "author_channel_id": "UCEdnJkDAlZ_sxmi0vx-M5eA",
+    "text": "Worst sound ever sorry to say, try speaking at constant level like a radio announcer, your emphasised syllables reverb back and obscure the next syllables also causing wild peaks in mid band vocal.\nPLEASE.",
+    "likes": 1,
+    "published_at": "2025-03-19T11:23:20Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugy-7Q8erTtVXP1ax6F4AaABAg.AFqlhNNN5S1AFqmDy3nW56",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no mate i am not talking in a monotone - if you don't like it nobody but nobody is forcing you to watch - just leave a dislike and move on",
+        "likes": 6,
+        "published_at": "2025-03-19T11:27:55Z"
+      },
+      {
+        "id": "Ugy-7Q8erTtVXP1ax6F4AaABAg.AFqlhNNN5S1AFqnbyQiuND",
+        "author": "@pickleroo253",
+        "author_channel_id": "UC-mlfvvMUJI4PFvFuwSi03g",
+        "text": "This is not a BBC production.  There is no  production crew  and a sound engineer. It's a hugely interesting  and insightful piece from Robert who generously shares all of this with us from his home setup. Stop complaining.",
+        "likes": 3,
+        "published_at": "2025-03-19T11:40:04Z"
+      },
+      {
+        "id": "Ugy-7Q8erTtVXP1ax6F4AaABAg.AFqlhNNN5S1AFrn6ZUXIY8",
+        "author": "@66moonraker",
+        "author_channel_id": "UCw3_VK2lmFCfLsDGtT0Ih7g",
+        "text": "He didn't like the message, so he shot the messenger. Poor messenger.@",
+        "likes": 0,
+        "published_at": "2025-03-19T20:54:53Z"
+      },
+      {
+        "id": "Ugy-7Q8erTtVXP1ax6F4AaABAg.AFqlhNNN5S1AFrpbKFQsma",
+        "author": "@010Larry010",
+        "author_channel_id": "UC6wS72m5ZlGhDh-chi4x1Xg",
+        "text": "Had to have another listen because I had no idea what you were referring to. Nothing struck me as being in any way lacking in clarity. I rather like the delivery.",
+        "likes": 0,
+        "published_at": "2025-03-19T21:16:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6Y_sSTCNRorKRAzV4AaABAg",
+    "author": "@SimonPlatten",
+    "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+    "text": "Brillant, thank you Robert!",
+    "likes": 4,
+    "published_at": "2025-03-19T11:19:41Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugz6Y_sSTCNRorKRAzV4AaABAg.AFqlHiFRytTAFqlM115Bly",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no worries mate - hope it helps",
+        "likes": 2,
+        "published_at": "2025-03-19T11:20:17Z"
+      },
+      {
+        "id": "Ugz6Y_sSTCNRorKRAzV4AaABAg.AFqlHiFRytTAFqlj2lCx4d",
+        "author": "@SimonPlatten",
+        "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+        "text": "@ThinkingandTinkering , the solution is great and its like everything, why didn't I think of that earlier ?",
+        "likes": 2,
+        "published_at": "2025-03-19T11:23:34Z"
+      },
+      {
+        "id": "Ugz6Y_sSTCNRorKRAzV4AaABAg.AFqlHiFRytTAFqmVXhkr58",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's why we share on here mate - it's not possible to think of everything by yourself but having others to help - always helps!",
+        "likes": 2,
+        "published_at": "2025-03-19T11:30:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxMj-09W-0zHnWZsyJ4AaABAg",
+    "author": "@KerbyDaFrog",
+    "author_channel_id": "UCYsHMdgbW2omyI7EJ8Ca-Ig",
+    "text": "Thanks for the content",
+    "likes": 0,
+    "published_at": "2025-03-19T11:16:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxMj-09W-0zHnWZsyJ4AaABAg.AFqkytfRRx2AFqlIZ7II10",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hope it's useful to you",
+        "likes": 0,
+        "published_at": "2025-03-19T11:19:48Z"
+      }
+    ]
+  }
+]

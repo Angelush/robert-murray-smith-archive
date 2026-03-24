@@ -1,0 +1,172 @@
+[00:00] [Music]
+[00:07] hi everybody so I live in Canterbury
+[00:09] it's an incredibly historic City people
+[00:11] have lived here since the first century
+[00:13] ad and in 597 the cathedral was first
+[00:17] founded it was a site of pilgrimage
+[00:20] think of Thomas a Beckett and all of
+[00:22] those pilgrims well they needed
+[00:24] somewhere to stay somewhere to eat and
+[00:26] somewhere to do other things and these
+[00:29] are the
+[00:30] original buildings where the pilgrims
+[00:32] would stay hundreds to a room and in the
+[00:35] evening of course they'd go out looking
+[00:37] for taverns but it was a religious City
+[00:39] so what they needed was signs like these
+[00:44] these gargoyles are actually an
+[00:47] advertisement what they said was here is
+[00:50] a brothel of course a cool bit of
+[00:52] medieval art like that is just going to
+[00:54] get lost and it struck me that this was
+[00:55] an ideal Target for a bit of scanning so
+[01:00] Let's scan those gargoyles
+[01:07] in okay put into the computer and this
+[01:10] is the first one and if you notice
+[01:12] actually it's a frowning face and there
+[01:14] were two of them there was one with
+[01:15] happy and one with sad and of course
+[01:17] it's outside a place of entertainment so
+[01:20] these are very much traditional ideas
+[01:23] now these are called grotesques not
+[01:25] gargoyles a gargoyle has a spout coming
+[01:27] out of its mouth and a grotesque is
+[01:30] devil decoration like this when we scan
+[01:33] that of course there are holes in it and
+[01:35] we need to look for where those holes
+[01:36] are and if we spin it around this is
+[01:39] where I couldn't actually get to because
+[01:41] it was just too high and we've got these
+[01:43] two massive holes in the top there if we
+[01:47] click fill holes
+[01:50] apply the curved plane to
+[01:54] it then it will fill those holes for us
+[01:57] so fill holes detect it'll find them
+[02:02] click them and
+[02:05] apply and it will fill that hole for
+[02:10] me and we can go around doing that with
+[02:13] all the holes that we
+[02:16] see and that will repair the
+[02:20] model then when we've done that we can
+[02:22] export it and then we can move on to the
+[02:24] next one I want to point something out
+[02:26] to you it's here in the start apps on
+[02:28] Windows 11 it comes with all windows 11
+[02:30] and its 3D Builder it's not the greatest
+[02:33] of programs however it does allow you to
+[02:36] manipulate sdl files into a format where
+[02:40] we'd be able to get them to well do
+[02:43] something if we open that growes that we
+[02:46] were working on then what we'll get is
+[02:48] the grotesque
+[02:51] file notice if default the object is
+[02:54] invalid it will actually repair the file
+[02:57] to make it a valid file if we have a
+[02:59] look at this then it's off center it's
+[03:01] obviously skewed that way skewed that
+[03:03] way and it's probably yep skewed that
+[03:06] way too so we want to make it Square
+[03:09] because what we actually want is this
+[03:11] section out of it we don't want the wall
+[03:13] section that we took we just want this
+[03:15] Coral section here so to get that out
+[03:18] what we really need to do is um well
+[03:21] straighten the whole thing up a bit and
+[03:22] chop some bits off so let's put a cube
+[03:25] on there if we look at that Cube then we
+[03:27] can actually stretch the cube by
+[03:29] clicking on there holding that white and
+[03:32] then stretching it and it will stretch
+[03:34] uniformly we can stretch up or we can
+[03:36] stretch out and we can create a wall
+[03:40] that we can put here so that we can
+[03:42] measure it against when we rotate this
+[03:46] so let's stick that there then click on
+[03:49] this one unclick on that one there we go
+[03:51] and we're now on this now we can rotate
+[03:53] it we can rotate it in those arrows here
+[03:56] so we can rotate that that
+[04:00] and that or the roll pitch and Y so if
+[04:03] we take that one and rotate it then
+[04:05] clearly what we're doing is squaring it
+[04:07] up and you'll see that the roll here is
+[04:10] changing its angle so we can square that
+[04:13] until we think we've got it Square now
+[04:16] of course what we can do is click on
+[04:18] that
+[04:19] one unclick that one and we can move
+[04:22] that down to make sure that we're
+[04:24] actually getting it square and you can
+[04:25] see it's a little bit off there so if we
+[04:27] change that roll again
+[04:36] that looks pretty neat to me then we can
+[04:38] do the pitch and the Y in exactly the
+[04:40] same way once you're relatively happy
+[04:42] with that then we can select the green
+[04:45] box and get rid of
+[04:53] it and what we can do is something
+[04:55] called split so if we do a split on it
+[04:58] then we can raise and lower that by
+[05:00] dragging it until we get the section
+[05:02] that we actually want which is going to
+[05:05] be there and then we can split it and we
+[05:08] keep the top bit equally we can do
+[05:11] exactly the same thing but this time we
+[05:14] rotate the split
+[05:17] [Applause]
+[05:19] 90° and we can pull that split
+[05:24] along until we get the bit that we
+[05:26] actually want which is
+[05:28] about
+[05:32] yeah quite like
+[05:35] that do another split and this time we
+[05:38] do it at
+[05:46] 45° and we'll get rid of that bit
+[05:56] there and we'll syn it to the bottom and
+[05:59] there it is is that has
+[06:02] extracted that first
+[06:07] grotesque now what we can do is export
+[06:14] it save
+[06:19] as and we'll save that in STL format
+[06:23] there we
+[06:24] go now we need to do exactly the same
+[06:26] with the other one okay so I've opened
+[06:28] up my chitty slicer cuz we're going to
+[06:30] print it on that one and that's
+[06:32] obviously prusher so we can get that
+[06:34] file in and I've done nothing else to it
+[06:36] apart from what we just looked at so we
+[06:38] open that and you can see it's far too
+[06:40] big but we can scale it by clicking that
+[06:43] grabbing one of the white ones and
+[06:45] bringing it down in
+[06:47] scale let's say
+[06:55] 20 there we go and that will drop it
+[06:59] onto to the bed so if you zoom in on
+[07:03] that we have our
+[07:05] grotesque that's very cool let's bring
+[07:08] in the other one and there they
+[07:13] are okay I've put supports everywhere
+[07:15] cuz I'm not sure what's going to need
+[07:17] support or not we've got a 15% infill
+[07:20] and I put a brim on it so let's slice it
+[07:22] when we're ready it's going to take 6
+[07:24] hours 40 minutes to print it's going to
+[07:27] use uh 220 G filament and we can save
+[07:30] that to our dis and there they are all
+[07:34] finished and printed off now I've
+[07:35] obviously shrunk these down and we did
+[07:37] that in the video but the original files
+[07:40] I've kept at the same size and I've just
+[07:42] put those on to thingy verse so if you
+[07:44] want to then you can download these and
+[07:46] do whatever you want with them something
+[07:48] about this size well if you happen to be
+[07:50] into Gothic then they'd make an awesome
+[07:53] shelf bracket wouldn't they or maybe
+[07:55] even something like a bookend anyway
+[07:57] whatever you wanted to do with them I
+[07:59] think pretty awesome things I hope you
+[08:00] enjoyed the video thank you very much
+[08:03] for watching and please do remember to
+[08:04] like And subscribe

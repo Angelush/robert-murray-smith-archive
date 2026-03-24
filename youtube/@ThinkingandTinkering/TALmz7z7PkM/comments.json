@@ -1,0 +1,922 @@
+[
+  {
+    "id": "UgyLjKUSZkDpRKMRyqR4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Good job!\nCatching up on your Charge Controller series. Having watched the previous videos in the series, I am again, quite impressed with your approach to the subject. \nIn my opinion, your subscription numbers should be double.\n👍👍👍👍👍",
+    "likes": 0,
+    "published_at": "2021-04-12T13:37:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwt5ILPRspF3zzllY54AaABAg",
+    "author": "@sichambers9011",
+    "author_channel_id": "UCjkcC2uwfJfHMKrMHNjw4mg",
+    "text": "Isn't it that the increased efficiency of an MPPT controller is that it can convert that 'extra' voltage that would be discarded as heat in a dump load to increasing the charging current? Is that right?",
+    "likes": 0,
+    "published_at": "2021-01-20T10:24:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5jJ3Tuu_oKKuyfm14AaABAg",
+    "author": "@jaxonevax6135",
+    "author_channel_id": "UCAA-cTgQXMerpphaC8HTy-g",
+    "text": "Hey this is all fine and dandy but I won't need to charge controller till I'm done building my wind turbine right. I hate to be a pain but could you please do more with that",
+    "likes": 0,
+    "published_at": "2020-11-23T01:55:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxHjXx1jDLOsjNkBLp4AaABAg",
+    "author": "@flytrapjohn",
+    "author_channel_id": "UCthUI443J5OCxSr-FeWj6Eg",
+    "text": "Thank you. Very interesting.",
+    "likes": 0,
+    "published_at": "2020-10-24T17:53:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyj_Qj4UXrHGE1Coxx4AaABAg",
+    "author": "@MikeGrayM70",
+    "author_channel_id": "UC1oAPl0jpAOi0AebQ5KEjNg",
+    "text": "My 1980 Honda Civic has a mechanical regulator like that! It actually controls the Voltage output by regulating power to the alternator's rotor. So as it spins up with rpms, the rotor electromagnet gets weaker and the engine has an easier time rotating it. It's been working perfectly for decades. :)",
+    "likes": 0,
+    "published_at": "2020-10-24T10:18:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzj4I6lEKjnDB-pWCF4AaABAg",
+    "author": "@MarkSeve",
+    "author_channel_id": "UCsschGG8VQB0SvuS_lxr-Iw",
+    "text": "Very cool.  The More You Know.....~~```",
+    "likes": 0,
+    "published_at": "2020-10-24T00:46:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQ15uMbeW8iilEO954AaABAg",
+    "author": "@htmagic",
+    "author_channel_id": "UCi-96s3e_9NVZFmMkAn0djg",
+    "text": "RMS, those early charge controllers were bulletproof. And they're immune to an EMS blast which will fry solid state electronics!",
+    "likes": 2,
+    "published_at": "2020-10-23T13:36:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQ15uMbeW8iilEO954AaABAg.9F9XfEiZHLj9FA2uPqUn56",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate and solid state has quite a lot of drawbacks - lots of folks are in love with it and some times just don't consider the alternatives",
+        "likes": 1,
+        "published_at": "2020-10-23T18:26:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxfAGAKYa9lRRZoSkx4AaABAg",
+    "author": "@NickGrumpy",
+    "author_channel_id": "UCmd99BKSvaFSe2gvROBuVkQ",
+    "text": "Hi Rob, I think you slightly misdescribed the car alternator regulator. They use a field coil so instead of dumping excess power the regulator switch switches  the supply to the field coil on and off to regulate out put.",
+    "likes": 0,
+    "published_at": "2020-10-23T10:25:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxfAGAKYa9lRRZoSkx4AaABAg.9F9BtfdVK589F9E90wyYts",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I did indeed mate - but it was a deliberate error - cheers though",
+        "likes": 0,
+        "published_at": "2020-10-23T10:45:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzM7aut91pnJv9NNRB4AaABAg",
+    "author": "@williamarmstrong7199",
+    "author_channel_id": "UCd6qJhEA66za69NT-cT4Sog",
+    "text": "If using an alternator for a wind or water powered generator then would be best to remove the standard voltage regulator and replace it with a buck / boost converter... but it would have to be a beefy one!",
+    "likes": 0,
+    "published_at": "2020-10-23T10:10:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzM7aut91pnJv9NNRB4AaABAg.9F9A62AJYC09F9EAuCypd5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T10:45:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgybSkzyB_CLS-DxKdZ4AaABAg",
+    "author": "@williamarmstrong7199",
+    "author_channel_id": "UCd6qJhEA66za69NT-cT4Sog",
+    "text": "I remember my old Morris Minors and old BSA bikes had that type of voltage regulator.  Thinking about it all my old dynamo powered cars used them.",
+    "likes": 1,
+    "published_at": "2020-10-23T10:06:49Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgybSkzyB_CLS-DxKdZ4AaABAg.9F99hydAaWH9F9EFE-ywNv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good to know - thanks for sharing mate",
+        "likes": 0,
+        "published_at": "2020-10-23T10:46:26Z"
+      },
+      {
+        "id": "UgybSkzyB_CLS-DxKdZ4AaABAg.9F99hydAaWH9FCZoV_Luy3",
+        "author": "@flytrapjohn",
+        "author_channel_id": "UCthUI443J5OCxSr-FeWj6Eg",
+        "text": "That's what I was thinking about too. The large steel boxes. \nI wonder if the Same sort of thing can be done with modified 12v relays.🤔",
+        "likes": 0,
+        "published_at": "2020-10-24T17:52:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxl4q9vm-Id9dif5yV4AaABAg",
+    "author": "@stuffoflardohfortheloveof",
+    "author_channel_id": "UCShQh57ZOtVl_h5Lx5bmEuA",
+    "text": "Nice one Rob.....very interesting. 👍",
+    "likes": 0,
+    "published_at": "2020-10-23T09:43:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxl4q9vm-Id9dif5yV4AaABAg.9F974i2Gxi_9F9EFsGA7ow",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you think so!",
+        "likes": 0,
+        "published_at": "2020-10-23T10:46:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwbUnbqhbB4_mRsyQZ4AaABAg",
+    "author": "@alastairchestnutt6416",
+    "author_channel_id": "UCLWWDbQvp2o9fUzKZmpP8PA",
+    "text": "Already looking forwards to the next talk in this series. Very interesting.",
+    "likes": 0,
+    "published_at": "2020-10-23T09:13:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwbUnbqhbB4_mRsyQZ4AaABAg.9F93aF1sEdb9F9EIFaiRkI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T10:46:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_VI6s1ez7xsnhiiB4AaABAg",
+    "author": "@tebbi67",
+    "author_channel_id": "UC-09xbVX_X32HZUDDOCAuqw",
+    "text": "Rudimentary electronics charmingly presents . . . . THX for your work!",
+    "likes": 0,
+    "published_at": "2020-10-23T08:35:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_VI6s1ez7xsnhiiB4AaABAg.9F9-Ce7W50I9F9EJR6QbZP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T10:47:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwfEdihAH2ym4SLrV94AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "You can also make a simple one with gravity. As the solenoid goes up and breaks the contact it returns at a rate set by spring or natural resistance or a fluid ect and the broken contact also can be tuned varios ways . I created a few 30 years ago out of a 1975 toshiba professional tape player. So many mechanisms in it . Was amazing for parts and even the 80s and 90s version have many cool parts . More options they have the more cool parts they have !",
+    "likes": 0,
+    "published_at": "2020-10-23T06:21:27Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwfEdihAH2ym4SLrV94AaABAg.9F8kvQrVBYa9F8nYybW8LS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - cheers",
+        "likes": 0,
+        "published_at": "2020-10-23T06:44:28Z"
+      },
+      {
+        "id": "UgwfEdihAH2ym4SLrV94AaABAg.9F8kvQrVBYa9ntbaVj-yoS",
+        "author": "@bigmouthstrikesagain4056",
+        "author_channel_id": "UC1a_TwgrD3EINqBiTZE3bBQ",
+        "text": "I'd love to know how that worked... as I've thought about making a simple solar setup that's as simple as it can be whilst using parts that can be %100 salvaged from old scrap and electronics...I'm currently trying to figure out how to make a mechanical charge cutoffand undervoltage cutoff from bimetallic strips or a mechanical one using a old mechanical volt Meter and watch clock parts and magnets.",
+        "likes": 0,
+        "published_at": "2023-03-30T18:42:18Z"
+      },
+      {
+        "id": "UgwfEdihAH2ym4SLrV94AaABAg.9F8kvQrVBYa9ntblQcqflk",
+        "author": "@bigmouthstrikesagain4056",
+        "author_channel_id": "UC1a_TwgrD3EINqBiTZE3bBQ",
+        "text": "I'm trying also to make as much of the parts for other bits from recycled plastic",
+        "likes": 0,
+        "published_at": "2023-03-30T18:43:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy665YIXCl_M-slXwl4AaABAg",
+    "author": "@mikemcconnell2794",
+    "author_channel_id": "UCjVnK3dimRctmXZdkMR1RNQ",
+    "text": "The new way to regulate the voltage on an alternator is by the computer controlling the excitation pulse. You could have a good alternator and a bad computer and you'd be scratching your head trying to figure out why your battery isn't charging. Oh modern technology. Ya gotta love it. Lol\nGood video as always. Thank you Dr. Smith.",
+    "likes": 0,
+    "published_at": "2020-10-23T04:10:00Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy665YIXCl_M-slXwl4AaABAg.9F8Wse4ublV9F8jckPLKt8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's getting to a stage if you want to change a light you need to go to the garage - it's crazy!",
+        "likes": 0,
+        "published_at": "2020-10-23T06:10:10Z"
+      },
+      {
+        "id": "Ugy665YIXCl_M-slXwl4AaABAg.9F8Wse4ublV9F9_HGM8fZF",
+        "author": "@mikemcconnell2794",
+        "author_channel_id": "UCjVnK3dimRctmXZdkMR1RNQ",
+        "text": "@ThinkingandTinkering lol",
+        "likes": 0,
+        "published_at": "2020-10-23T13:58:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCh8nQEBPaWa07Vt14AaABAg",
+    "author": "@coldfinger459sub0",
+    "author_channel_id": "UCqCDCZV_xvdo6byxwNgus1g",
+    "text": "That mechanical regulator made me remember when I was a child with my father setting up regulators for old generators on cars or mechanical. Adjusting mechanical regulators for their cut in and cut out voltage.",
+    "likes": 0,
+    "published_at": "2020-10-23T02:34:37Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgzCh8nQEBPaWa07Vt14AaABAg.9F8Ly-ZYtaa9F8dh8xcwuN",
+        "author": "@JamesWilson-pq9qp",
+        "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+        "text": "Yea It seems like yesterday ,1963 when all the cars changed over to alternators. Those old regulators would chatter away keeping the voltage at 13.8 (or was it 14.7?).  Ah remember seeing the sparks coming off those brushes on the generators at night.  The maintenance we use to have to do to keep a car running.",
+        "likes": 0,
+        "published_at": "2020-10-23T05:18:20Z"
+      },
+      {
+        "id": "UgzCh8nQEBPaWa07Vt14AaABAg.9F8Ly-ZYtaa9F8fa_o8ebb",
+        "author": "@coldfinger459sub0",
+        "author_channel_id": "UCqCDCZV_xvdo6byxwNgus1g",
+        "text": "@JamesWilson-pq9qp And they say they don’t build things like they used to . Thank God they don’t build things like they used to. Packing wheelbearings on a car every 15,000 miles or so. Adjusting or changing points in a distributor cap and then you would have to set a time in after that. All those zerk fitting that needed to be greased on the suspension. Replacing spark plug wires. Changing inner tubes in a tire after a flat. Flushing and changing coolant every year. I don’t miss any of that.",
+        "likes": 0,
+        "published_at": "2020-10-23T05:34:55Z"
+      },
+      {
+        "id": "UgzCh8nQEBPaWa07Vt14AaABAg.9F8Ly-ZYtaa9F8jjKw1ZQV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "to be honest mate - I used to love that stuff",
+        "likes": 0,
+        "published_at": "2020-10-23T06:11:04Z"
+      },
+      {
+        "id": "UgzCh8nQEBPaWa07Vt14AaABAg.9F8Ly-ZYtaa9F8nPBHaEIS",
+        "author": "@JamesWilson-pq9qp",
+        "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+        "text": "@coldfinger459sub0 So true! It's funny how we forget the technological advances we have seen. We use to burn added lead to gasoline to lubricated the valves - how stupid we were.",
+        "likes": 0,
+        "published_at": "2020-10-23T06:43:08Z"
+      },
+      {
+        "id": "UgzCh8nQEBPaWa07Vt14AaABAg.9F8Ly-ZYtaa9F8r_gaczPM",
+        "author": "@JamesWilson-pq9qp",
+        "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+        "text": "@ThinkingandTinkering I must agree the old stuff taught us so much,  so how do we teach the new generation when it seems everything is sealed in plastic or copyright protected? The new solar chargers have become so complex with MPPT.",
+        "likes": 0,
+        "published_at": "2020-10-23T07:19:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSO849oY8D70g96mh4AaABAg",
+    "author": "@HtwoHH",
+    "author_channel_id": "UC_Y_WI6yp0U2mhClsTD8gJw",
+    "text": "Thanks for the epic lesson! Quite faceinating how that voltage regulator works.",
+    "likes": 0,
+    "published_at": "2020-10-23T02:18:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwSO849oY8D70g96mh4AaABAg.9F8KABCsyN_9F8jl6y9uZp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you liked it!",
+        "likes": 0,
+        "published_at": "2020-10-23T06:11:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy4foafT0aC25iGB2R4AaABAg",
+    "author": "@jasonwitt8619",
+    "author_channel_id": "UCrcKx80m_9bt0ESOcuITC4Q",
+    "text": "So this video looks like you might be heading towards a way to make a charge controller for solar. That would be awesome mate. You had me thinking again, what would had happened to the metal rod if it was not tethered down at the beginning of your video, would it had shot out the other side of the coil because I think what iron tries to do is turn in one direction like a motor would until it spins it's way through the hole in the coil. Would make a cool up and down lift if the shaft was a threaded rod and the hole was a nut glued to the inside. lol we could make electric drill press lift and lower in that way but then torc would more than likely be an issue but as I said, you had me thinking again, lol",
+    "likes": 0,
+    "published_at": "2020-10-23T00:56:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy4foafT0aC25iGB2R4AaABAg.9F8Ag7LUOyW9F8jw-CdmrH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's exactly what I am heading for mate. The rod just goes to a middle rest position as the point of least energy.",
+        "likes": 1,
+        "published_at": "2020-10-23T06:12:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwuAvIqAipmZKrwdup4AaABAg",
+    "author": "@AdricM",
+    "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+    "text": "Is that luke in the background yelling?  :P  Anyway, yeah,  i recall my dad built a 110V(ish) lead acid SLA charger,   it was dead simple,  using a 4way bridge and a chunky resistor. he fed it to 8 used recycled 12V gell cell batteries,  then across  the mains, he had a lightbulb and a capacitor. once the capacitor rose above 110V it it would light the bulb and bleed off some power making the batteries at more of a trickle charge.  actually the light bulb may have been the resistor.  ... anyway,  it was kinda neat,   lots of brushed ac motors worked fine with it..  (well some big risk to the siwtches since they are rated for ac not dc..  but, could run old jigsaws and drills wirelessly.",
+    "likes": 0,
+    "published_at": "2020-10-23T00:34:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwuAvIqAipmZKrwdup4AaABAg.9F88AqS-Jf79F8k7in2DOk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - no it's the boxing club - love that story mate - and yes they can be and are dead simple in their basics - well that's what I think lol",
+        "likes": 0,
+        "published_at": "2020-10-23T06:14:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxhXfOqL6IrSM2_hz94AaABAg",
+    "author": "@STEAMfromScratch",
+    "author_channel_id": "UCUgkh3sepWNn-X3sl6_CrYg",
+    "text": "This is how I will introduce my children to the concept of buck boost converter. Thank you very much. Physical switches are always the best demos. Hands down.",
+    "likes": 0,
+    "published_at": "2020-10-23T00:20:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxhXfOqL6IrSM2_hz94AaABAg.9F86eYBhjrL9F8kFZiCM4M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate - what I think is with something physical and large we can 'see' it and understand - when it is too small to see we inject mystery and confusion arises",
+        "likes": 1,
+        "published_at": "2020-10-23T06:15:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyuVLAecjOTHzR7xIt4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "One can improve the efficiency by using a mechanical switch in a buck converter to convert high voltage low current to low voltage high current. Then voltage regulation doesn't have as much voltage to drop.",
+    "likes": 0,
+    "published_at": "2020-10-23T00:15:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyuVLAecjOTHzR7xIt4AaABAg.9F862yb0SMF9F8kMKGnqf7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T06:16:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZSIJit_uaq8WHjFF4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "With vehicle alternators, the field coils output is regulated by changing the current in the armature to change the strength of it's magnetic field.  If  the voltage sense at the battery senses a drop in voltage , the voltage regulator sends more current to the armature to generate a stronger magnet field on the armature that in turn generates a bit more voltage on the field coils. If the battery voltage sense wire  detects the battery terminal is at full charge, the voltage regulators send less current to the armature  thus generate less off a magnetic field thus lowers the output of the field coils.\n\nOn the other hand some motor bikes use a small dynamo instead of an alternator  where the voltage off the coils can get rather high and is regulated with linear voltage regulation.",
+    "likes": 0,
+    "published_at": "2020-10-22T23:45:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZSIJit_uaq8WHjFF4AaABAg.9F82bsA9bhi9F8kZEGTmG7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T06:18:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw4ckT-2VD6zy8zPhl4AaABAg",
+    "author": "@colleenforrest7936",
+    "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+    "text": "Been trying to figure out the bit on how to connect the home hobbled to a store bought battery. This is a great core mechanism for getting to that.  Thanks again!",
+    "likes": 0,
+    "published_at": "2020-10-22T23:19:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw4ckT-2VD6zy8zPhl4AaABAg.9F8-eDGTtia9F8l0upiG7w",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 0,
+        "published_at": "2020-10-23T06:22:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzNX1cr6Lg9Aa7dsit4AaABAg",
+    "author": "@JavierChiappa",
+    "author_channel_id": "UC9hdWW_1kxxJVTenz3PifSA",
+    "text": "I just blew one of those chinese Lead-Acid Battery chargers by connecting it backwards (I know, I know), i just opened it up thinking i may have to just change a diode or something like that. To my horror, i found it full of surface mounted components, a LM358 chip, a switch mode power supply and many other things. I just bought another one, impossible to repair that stuff without the diagram. \n\nI think there would be a market for this basic blocks of every offgrid installation (Solar charge controller, Inverter, Battery Charger, etc) if they are made in a very simple, sturdy way, with repairability in mind, like an included diagram, spare parts (fuses, diodes, power transistors) and many test points with their respective correct values. I may be more expensive but you buy it just once and keep repairing it!. I hate chinesium electronics so much.",
+    "likes": 2,
+    "published_at": "2020-10-22T23:00:33Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzNX1cr6Lg9Aa7dsit4AaABAg.9F7yT8zS0p99F8lDG2Z2fm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I absolutely hate stuff you can't repair - it is supposed to be more efficient - personally I believe it is just cheaper to make and if - and when - it breaks all you can do is buy another - saying it is more efficient is just to get you to buy one in the first place!",
+        "likes": 1,
+        "published_at": "2020-10-23T06:24:01Z"
+      },
+      {
+        "id": "UgzNX1cr6Lg9Aa7dsit4AaABAg.9F7yT8zS0p99F8mq2IJNqH",
+        "author": "@Buzzhumma",
+        "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+        "text": "Most chargers and controllers these days have mosfets that that are not matches in their resistance so over time one works harder than the others and inevitably burns out . High quality commercial stuff is matched and very reliable . Very important to match the esr ! It is actually the main fault point by design ! 😣",
+        "likes": 0,
+        "published_at": "2020-10-23T06:38:12Z"
+      },
+      {
+        "id": "UgzNX1cr6Lg9Aa7dsit4AaABAg.9F7yT8zS0p99FAirA5E9ji",
+        "author": "@JavierChiappa",
+        "author_channel_id": "UC9hdWW_1kxxJVTenz3PifSA",
+        "text": "@Buzzhumma Good tip there, i will check for that problem next time some power source blows up inexplicably, lol.",
+        "likes": 0,
+        "published_at": "2020-10-24T00:41:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyHzJ7tTt7ZWyhNgeJ4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Excellent explanation Rob. This would be useful adding a lead acid battery to a solar array charging lead acid gel (AGM) batteries that cycle at 15 volts instead of 14 volts. Then you need a management system that only adds in the car battery when the AGM batteries are at or below 14 volts.",
+    "likes": 0,
+    "published_at": "2020-10-22T22:45:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyHzJ7tTt7ZWyhNgeJ4AaABAg.9F7wg_TTwQ39F8lH49UOoq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and nice idea",
+        "likes": 0,
+        "published_at": "2020-10-23T06:24:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzH9P8_4vWEE0E9PUJ4AaABAg",
+    "author": "@mouldykev",
+    "author_channel_id": "UCdu0x_E53-O_MNBuV628g-A",
+    "text": "Blimey, this takes me back a bit Rob... what you have just shown was in fact a replication of the very first ever car alarm system....once set off it went eeh awe ..eeh awe  from the cars horn but the actual implementation was exactly as you have just shown ( not certain how old you are but i am 63 next month so remember this well ) just as i remember a guy  i once knew that worked for Girling and he showed me this mechanical device with two belt drives from a pair of Drive shafts on a car and he asked me ...\" do you know what this is Kev \" i said no idea... and he said \" its this new Braking system that we are working on called ABS ! \" i guess i was very lucky in my early years because i knew many such a man that showed me many such things and i could go on all night... USA sent over smallest drill bit ever...we sent it back centre bored LoL Yes i knew someone that worked on that too...oh the good old days...anyhow move on a few years with charge controll and i thought i knew it all, i was on the verge of doing a deal with Motorola with my products ( which did get rubber stamped ) but this guy  i met ( from the USA ) said Nah youre doing it all wrong, the latest in charging is Delta V.... i was gobsmacked .................but we all learn from others and i still learn even now something new every day.....thanks for sending me back Robert...\nregards Kev",
+    "likes": 0,
+    "published_at": "2020-10-22T21:48:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzH9P8_4vWEE0E9PUJ4AaABAg.9F7qCHj-5FO9F8le0idJzZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am 60 mate - so yes I am just digging in my memory here lol - this kind of self oscillating relay set up has a ton of uses - you can generate HV from it if you couple it with an inductor and it can amplify if you use magnetic saturation of the relay core - fascinating stuff lol",
+        "likes": 1,
+        "published_at": "2020-10-23T06:27:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxpP8sLHTzD1wIoRi94AaABAg",
+    "author": "@sofa-lofa4241",
+    "author_channel_id": "UCs0VwyqtPRAXw49xVyBzOkA",
+    "text": "Great tutorial on switches and timing, and nice comparison between electro-mechanical and digital, all computers are basically lots of these crammed together in a grid of Billions, Nano-Metres apart, all switching at Giga-Hertz frequencies... Same stuff... Different level... but the same level that drove both Babbage/Lovelace and modern chip designers/programmers, \n\nI've always thought that the nicest thing about a mechanical switch is that you can attach a pencil, run a sheet of paper past at a known rate and make the cheapest oscilloscope known to man  ¬_¬__¬___¬_¬ ~~~~~~💷🚫🤣\n\nThis solenoid/spring setup would give a sine wave, maybe a quick lesson in how PWM works and how to chop it up like a wizard 🧙‍♂️ with basic components?\nI'm thinking that a detailed look at MPPT, etc. might be for the future, but as we're looking at basic switching then a PWM tutorial would be handy.",
+    "likes": 0,
+    "published_at": "2020-10-22T21:22:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxpP8sLHTzD1wIoRi94AaABAg.9F7nDo1F30a9F8logTOq0h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is a very nice idea mate - cheers",
+        "likes": 0,
+        "published_at": "2020-10-23T06:29:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugykmf1uyV-W--UjWAB4AaABAg",
+    "author": "@andybaker2443",
+    "author_channel_id": "UCiwxv106EvXNdyFbbLSjvUA",
+    "text": "That is so So SO cool.",
+    "likes": 0,
+    "published_at": "2020-10-22T21:22:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugykmf1uyV-W--UjWAB4AaABAg.9F7nC3lhtxt9F8lq76ZMgK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T06:29:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzG0UeepB--G65iBZp4AaABAg",
+    "author": "@dexterdixon2000",
+    "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+    "text": "What's the noise in the background at the end of the video?",
+    "likes": 2,
+    "published_at": "2020-10-22T21:13:40Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzG0UeepB--G65iBZp4AaABAg.9F7mEIh_iux9F8CxwSi7CY",
+        "author": "@aomanchutube",
+        "author_channel_id": "UCCXeesgGm_g6E6jaVCRqAxw",
+        "text": "Washington State protesting probably. BLM!",
+        "likes": 0,
+        "published_at": "2020-10-23T01:15:58Z"
+      },
+      {
+        "id": "UgzG0UeepB--G65iBZp4AaABAg.9F7mEIh_iux9F8lr1EQ8Ag",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the boxing club",
+        "likes": 0,
+        "published_at": "2020-10-23T06:29:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHRZ91JdazxbilagF4AaABAg",
+    "author": "@benthere8051",
+    "author_channel_id": "UCA3o-MOrmPBuK-vzEclDbQQ",
+    "text": "What you just described is now known as pulse-width modulation. Mechanical switches have been replaced with MOS transistors and the switching speeds are in the megahertz. Inductors store the energy and deliver it to capacitors which smooth the switched power.\nI thank you for your explanation of the battery chemistry and its implementation in the past two videos.\nThat information is priceless and very hard to come by.\nTeach us the chemistry in YouTube videos and I guarantee you an enormous audience.\nShow us a way to store solar or wind power in 5-gallon buckets or other readily available containers and the chemistry involved in that process and we will beat a path to your door.\nI realize we are asking for the secret of fire so I will understand if you decline.",
+    "likes": 1,
+    "published_at": "2020-10-22T20:58:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxHRZ91JdazxbilagF4AaABAg.9F7kUsweGyS9F8mNk7lMFp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes I know and I already have shown the 'secret of fire 'mate - it's in the videos - actually what happens is folks argue with you and each other - there is no 'beating the path to the door' well in my experience anyway. Actually people would beat a path to the door if I sang a song about falling in love, had a baby bite my finger or  if I fell off a skate board - you only need to check viral videos to see what people actually 'beat a path' for",
+        "likes": 0,
+        "published_at": "2020-10-23T06:34:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHqxzzwHoAKVvHNjJ4AaABAg",
+    "author": "@MerwinARTist",
+    "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+    "text": "Thank You!  :-)",
+    "likes": 1,
+    "published_at": "2020-10-22T20:30:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzHqxzzwHoAKVvHNjJ4AaABAg.9F7hKhG4AMD9F8mQF385fx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-10-23T06:34:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzrwIcJUJ0e_Avhh0x4AaABAg",
+    "author": "@ryanlebeck259",
+    "author_channel_id": "UC6p_9ZsOo1BZU71I1abBTxA",
+    "text": "So I could use the high voltage transformer from a microwave and convert it to a charge controller?",
+    "likes": 0,
+    "published_at": "2020-10-22T19:57:42Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgzrwIcJUJ0e_Avhh0x4AaABAg.9F7dXtvkNHj9F7wvJs1Qwu",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "You would have a ton of volts to dump using a microwave transformer to charge a battery.",
+        "likes": 0,
+        "published_at": "2020-10-22T22:47:03Z"
+      },
+      {
+        "id": "UgzrwIcJUJ0e_Avhh0x4AaABAg.9F7dXtvkNHj9F84kzOTF3J",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "120vac to 14.8vac. Alternatly  Replace the secondary with one you wind. Using a full bridge rectifier you have two diode voltage drop of about .7v and .7v  = 1.4v drop. So 14.8vac -1.4vdc =13.4vdc. While this isn't voltage regulated but it's output is about right to charge a battery to full.",
+        "likes": 0,
+        "published_at": "2020-10-23T00:04:17Z"
+      },
+      {
+        "id": "UgzrwIcJUJ0e_Avhh0x4AaABAg.9F7dXtvkNHj9F8A6kCcNMZ",
+        "author": "@ryanlebeck259",
+        "author_channel_id": "UC6p_9ZsOo1BZU71I1abBTxA",
+        "text": "@stevetobias4890 good friend, I never said anything about charging a battery; I'm building a high voltage system that needs charge regulation and that's a spare bit I have laying around",
+        "likes": 0,
+        "published_at": "2020-10-23T00:51:05Z"
+      },
+      {
+        "id": "UgzrwIcJUJ0e_Avhh0x4AaABAg.9F7dXtvkNHj9F8Fxtn_BJT",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@ryanlebeck259 ahh ok, sorry for my misunderstanding",
+        "likes": 0,
+        "published_at": "2020-10-23T01:42:10Z"
+      },
+      {
+        "id": "UgzrwIcJUJ0e_Avhh0x4AaABAg.9F7dXtvkNHj9F8mdQ95PGj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "do you mean charge controller or charger mate? - to make it a charger would be easy enough I think - to control the charge you would need another 'bit' so to speak",
+        "likes": 1,
+        "published_at": "2020-10-23T06:36:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxGMmgh3Ocuk7l-hzl4AaABAg",
+    "author": "@thornhedge9504",
+    "author_channel_id": "UCtEY1RtEPLJ-zZpti0-fs6g",
+    "text": "This video is only too long for goldfish!  The rest of us never get tired of your work Robert!  Thanks!",
+    "likes": 6,
+    "published_at": "2020-10-22T19:44:14Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxGMmgh3Ocuk7l-hzl4AaABAg.9F7c-IGInmA9F7pBKgRzK5",
+        "author": "@sirsteamtrain7913",
+        "author_channel_id": "UCLGYVhNILfMqQDzn3m9lOgA",
+        "text": "The gold fish probably enjoyed it too.",
+        "likes": 1,
+        "published_at": "2020-10-22T21:39:28Z"
+      },
+      {
+        "id": "UgxGMmgh3Ocuk7l-hzl4AaABAg.9F7c-IGInmA9F7qGVGFLWu",
+        "author": "@thornhedge9504",
+        "author_channel_id": "UCtEY1RtEPLJ-zZpti0-fs6g",
+        "text": "@sirsteamtrain7913 \n  They just wont remember it in 10 minutes!  LOL",
+        "likes": 0,
+        "published_at": "2020-10-22T21:48:55Z"
+      },
+      {
+        "id": "UgxGMmgh3Ocuk7l-hzl4AaABAg.9F7c-IGInmA9F8mgRKtiN8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - fair point mate lol",
+        "likes": 1,
+        "published_at": "2020-10-23T06:36:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwqfKbrgr4xBSuREdR4AaABAg",
+    "author": "@PaddyNinja",
+    "author_channel_id": "UCZGNTiMRGT5sMbFTNVG0utQ",
+    "text": "I've always wanted to know about charge controllers and you have an awesome knack of being able to simplify the inner workings of devices that normally seem complicated. So I'm really looking forward to these next few videos. Thank you Mr. Smith and thanks for this video.👍😊",
+    "likes": 5,
+    "published_at": "2020-10-22T19:39:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwqfKbrgr4xBSuREdR4AaABAg.9F7bS2Q4vgH9F8mjdsgD54",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-10-23T06:37:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTw4BRo0YBtSCqgu14AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "Great story. I did not know about these mechanical charge regulators. You are very right, the switching regulators these days does the same thing be it at much higher frequencies. The solenoid you are using in your mechanical device is still present in any step up or step down electronic regulator these day's. It can be smaller due to higher frequency. The switch you are using is still used. It will be some kind of transistor these days, probably an enhancement mode mosfet but basic principles are the same.\n\nThe main point in having these devices is efficiency of course. The same thing could be done using a dissipating regulator but it would be hot in use and the energy loss would be huge.\n\nThanks for the video.",
+    "likes": 0,
+    "published_at": "2020-10-22T19:36:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTw4BRo0YBtSCqgu14AaABAg.9F7b5f3LfN89F8mqICJfxV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate and thank you for taking the time to post",
+        "likes": 0,
+        "published_at": "2020-10-23T06:38:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxArfCENmnmznjthh14AaABAg",
+    "author": "@palmpower1",
+    "author_channel_id": "UCZDVNKajNsAznEJARnBJePQ",
+    "text": "Hello Robert its really interesting how you explain how electricity is controlled.\nI dont know if this is appropriate but I have been dying  to ask you about this\ninstrument  I picked up, it is a old box potentiometer for testing thermocouple.\nIm thinking you might like this subject and maybe some how make me understand how it works.\nThanks Dan",
+    "likes": 0,
+    "published_at": "2020-10-22T19:31:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxArfCENmnmznjthh14AaABAg.9F7aVY8i8d99F8n0R3s_2d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is interesting mate - basically I would need to see it to get an idea of it's functioning",
+        "likes": 0,
+        "published_at": "2020-10-23T06:39:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyadYCq_WDQh3tf4Ut4AaABAg",
+    "author": "@thornwarbler",
+    "author_channel_id": "UC_IXLwmuZUtLCKH64Bw0atg",
+    "text": "Oh if the teachers at school had been like this...........Superb thanks",
+    "likes": 4,
+    "published_at": "2020-10-22T19:17:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyadYCq_WDQh3tf4Ut4AaABAg.9F7ZvTkuZOK9F8n1EsYCLw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-10-23T06:39:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxI_lj5amUSpYv0i8N4AaABAg",
+    "author": "@AtlasReburdened",
+    "author_channel_id": "UC6Z6frqjPPhlQyp8oludEVg",
+    "text": "I didn't think that the output of an alternator is passed through a regulator on the way to the battery. I though the regulation of the output was accomplished by sensing the output and limiting the current through the field coil when that output rose above a certain voltage, so that the action of the rotor actually produced less due to having a deminished field to 'act upon'. Thus eliminating the need for a regulator that can handle the double digit amps that go to the battery, and instead substituting a regulator that only needs to handle the low single digit amps going through the field coil. Also Eliminating the enormous waste energy that would result from directly regulating the output.",
+    "likes": 1,
+    "published_at": "2020-10-22T19:16:37Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxI_lj5amUSpYv0i8N4AaABAg.9F7ZpyGDr7B9F7yqMK_NP-",
+        "author": "@JavierChiappa",
+        "author_channel_id": "UC9hdWW_1kxxJVTenz3PifSA",
+        "text": "I think you are right, the regulator on the car alternator just powers off the field in the rotor part when the battery is full. It also stops consuming \"torque\" from the motor when you turn off the fields. It's such an ingenious an efficient thing, it's a shame it has to turn very fast to be effective, otherwise we could just use it in wind generators directly and it would work great.",
+        "likes": 1,
+        "published_at": "2020-10-22T23:03:51Z"
+      },
+      {
+        "id": "UgxI_lj5amUSpYv0i8N4AaABAg.9F7ZpyGDr7B9F8nLZUqyqL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's just a way of conceptualising mate - after all if I tell you the atom is a nucleus surrounded by electrons in orbits you will basically agree even though you know it's wrong. Sometimes a simpler concept helps grab the main principle and the idea here is just the logic of - 'it generates too much - turn it off' - it doesn't, at this stage, matter much how that is accomplished",
+        "likes": 0,
+        "published_at": "2020-10-23T06:42:38Z"
+      },
+      {
+        "id": "UgxI_lj5amUSpYv0i8N4AaABAg.9F7ZpyGDr7B9F8nSXia08-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "stopping generating when the capacity to generate is still there because the system is 'full' is throwing away power mate - it just depends on how you view it",
+        "likes": 0,
+        "published_at": "2020-10-23T06:43:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwp2DPuA9FSlNwekUR4AaABAg",
+    "author": "@infinitelyuniversal2390",
+    "author_channel_id": "UCGts8zbsHNmRUqGPU_bhTQA",
+    "text": "I use to do the same thing but i just relay switches out of a vehicle.",
+    "likes": 0,
+    "published_at": "2020-10-22T18:51:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwp2DPuA9FSlNwekUR4AaABAg.9F7X0YBelFt9F8naSm3VYU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one",
+        "likes": 0,
+        "published_at": "2020-10-23T06:44:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxsUkX3UnTtd_lFBkR4AaABAg",
+    "author": "@AndyFletcherX31",
+    "author_channel_id": "UCySM8-dJpGKlefNvpV7E2Qg",
+    "text": "Really interesting and useful. I look forward to the next one.  By the way, it sounded like there was a party going on next door towards the end of your video :)",
+    "likes": 6,
+    "published_at": "2020-10-22T18:51:16Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxsUkX3UnTtd_lFBkR4AaABAg.9F7WwNiuYmK9F7dULG2Qom",
+        "author": "@AtlasReburdened",
+        "author_channel_id": "UC6Z6frqjPPhlQyp8oludEVg",
+        "text": "Sound a bit like a military recruiter trying to \"motivate\" some potential recruits.",
+        "likes": 1,
+        "published_at": "2020-10-22T19:57:13Z"
+      },
+      {
+        "id": "UgxsUkX3UnTtd_lFBkR4AaABAg.9F7WwNiuYmK9F8nbiUqHnC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - it's the boxing club",
+        "likes": 2,
+        "published_at": "2020-10-23T06:44:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy3Y7kcKC1uJd8M1mN4AaABAg",
+    "author": "@gusmartin6053",
+    "author_channel_id": "UCEx6gWGEu9XsHmtg9vDSRKg",
+    "text": "So you could make a crude voltage regulator out of a relay. Fascinating!",
+    "likes": 2,
+    "published_at": "2020-10-22T18:36:29Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugy3Y7kcKC1uJd8M1mN4AaABAg.9F7VF1WndCm9F81Ooz8jmx",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "Buck converter needs a switch. A relay can serve as that switch. As a mechanical switch, its slow, and waste more energy to switch than say a mosfet, and it will eventually fail. Furthermore induction spikes will erode the switch contacts faster so you'll want to engineer for that too.",
+        "likes": 0,
+        "published_at": "2020-10-22T23:34:55Z"
+      },
+      {
+        "id": "Ugy3Y7kcKC1uJd8M1mN4AaABAg.9F7VF1WndCm9F853UPfUC2",
+        "author": "@gusmartin6053",
+        "author_channel_id": "UCEx6gWGEu9XsHmtg9vDSRKg",
+        "text": "@kreynolds1123 Good point. The same concept is used in buck converters, with countless benefits. I guess its just an interesting thought that you could use a relay as a regulator. It is of course very impractical and not a method to seriously consider.🍻",
+        "likes": 0,
+        "published_at": "2020-10-23T00:06:57Z"
+      },
+      {
+        "id": "Ugy3Y7kcKC1uJd8M1mN4AaABAg.9F7VF1WndCm9F8nziAyLb6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes you could mate - there are limitations - of course - but it is not in the least impractical. It is actually the way it was done - you just have to work with or accept the limits. Actually, I believe very similar devices are still used in high power and high voltage applications as solid state can't handle the voltages and currents involved",
+        "likes": 1,
+        "published_at": "2020-10-23T06:48:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgytmDaHaucKOYCLQlB4AaABAg",
+    "author": "@ChadKovac",
+    "author_channel_id": "UCnDpRMpwyNd_ticNcSU8vfQ",
+    "text": "Thumbs Up!",
+    "likes": 0,
+    "published_at": "2020-10-22T18:25:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgytmDaHaucKOYCLQlB4AaABAg.9F7U04Y_NRA9F8ndt82P3L",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 1,
+        "published_at": "2020-10-23T06:45:16Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[00:00] [Music]
+[00:08] so in the video how to create a cycloid
+[00:10] we went through the Tinker cat moves I
+[00:12] would use to create this which is a
+[00:14] cycloid drive now the main inspiration
+[00:18] for that was something that was
+[00:19] highlighted by OT Vinter where they
+[00:22] produced something called an entri
+[00:24] cycloid drive that had been invented by
+[00:26] a couple of Russians when you look at
+[00:29] that you might think something like that
+[00:31] would be quite difficult to produce on a
+[00:33] simple program like Tinker Cad and you
+[00:35] might think that you would need oh I
+[00:38] don't know something much more
+[00:39] complicated with parametric capabilities
+[00:42] Well turns out you don't turns out you
+[00:45] can produce that using really a couple
+[00:49] of simple tricks so let's have a look at
+[00:52] how we might do that so what we're going
+[00:54] to need is that CYO that we created in
+[00:57] the previous video using those one of
+[00:59] two methods that is the carve it with
+[01:01] circles of to build it parametrically
+[01:04] now when we created that it was 5 mm
+[01:06] thick and we need to reduce that to 0.2
+[01:09] mm thick the reason for that is the
+[01:12] printer prints at 0.2 mm so what we're
+[01:16] effectively doing is controlling the
+[01:18] print layer by layer and to do that we
+[01:20] need to layer that up so highlight it
+[01:23] and print press the copy key once you
+[01:25] press the copy key we need to move that
+[01:28] up by zero .2 to be the next layer then
+[01:33] we need to rotate it and you rotate it
+[01:35] by typing directly in the angle
+[01:39] 0.25 and that'll rotate it by a quarter
+[01:42] of a degree once we've done that we can
+[01:44] hit that duplicate key again and it will
+[01:47] continue to do
+[01:49] that as you do that you'll see that
+[01:52] figure going up that figur is the height
+[01:55] of this column that we're actually
+[01:57] making layer by layer and there's a
+[01:59] limit tension on Tinker C you can't do
+[02:02] more than 200 so You' be able to get
+[02:04] that 40 cm high at maximum but if we
+[02:07] just keep going until that's 30 C uh 30
+[02:10] mm High my mistake sorry if we keep
+[02:13] going to that's 30 mm High we will have
+[02:16] created our men cycloid drive gear
+[02:37] there it is now when we have a look at
+[02:39] that we can see it's a cycloid shape
+[02:41] it's a bit difficult to see it on this
+[02:43] because the layers are so tight but then
+[02:45] what we do is highlight the whole lot
+[02:47] and group
+[02:51] it and there is our cycloid
+[02:54] drive now to make the entric driver you
+[02:56] have to remember how we made the
+[02:58] Ecentric for the other Cy and we did it
+[03:00] this way first of all we took this disc
+[03:03] at 20 and this disc at 26 and we lined
+[03:06] them up we lined them up to the edge of
+[03:09] one disc and the center of the other
+[03:12] then we took this 8 mm hole and the 26
+[03:15] mm disc and again Lin them up but this
+[03:18] time you line them up to the center of
+[03:20] the 26 mm disc now what you've got is an
+[03:24] entric if we get rid of that merge that
+[03:30] that's the entric that we used in the
+[03:33] original Drive mechanism that we
+[03:35] designed here to make it an Ecentric
+[03:38] cycloid again we need to make this at at
+[03:42] 2 mm because we're going to do the same
+[03:44] stepwise fashion this one what we need
+[03:47] to do is make that at1 mm because later
+[03:52] we're going to delete
+[03:54] this to make it easier to delete we need
+[03:57] to make it virtually massive so make it
+[04:00] 50 by 50 and now we want to line them up
+[04:04] again because tin has a peculiarity it
+[04:07] will rotate around the center of the
+[04:09] largest shape that it understands so if
+[04:11] we just rotate this what will happen is
+[04:14] that hole will rotate around and we
+[04:15] won't get the cycloid we want we want to
+[04:18] rotate that around that hole which is
+[04:21] going to be the drive axle for um
+[04:24] cycloid and to do that what we need to
+[04:26] do is unmerge them for a second line
+[04:30] that
+[04:31] up with that large
+[04:38] disc but line it up again to that
+[04:40] Central
+[04:42] hole now the large one that it remembers
+[04:45] will be this large outer
+[04:47] disc and if we merge all of
+[04:52] those it will rotate the Ecentric but
+[04:56] keep this in the same place which again
+[04:59] is a exactly what we want and so we can
+[05:02] perform the same trick we can just
+[05:03] duplicate it raise it by two now we need
+[05:06] that entric to go around 360° and we're
+[05:09] going to use 150 steps so 360 over 150
+[05:14] is 2.4 de and that's what we need to
+[05:17] raise it by so copy it raise it now it's
+[05:21] sensitive to the order in which you do
+[05:23] these things so make sure you do the res
+[05:26] first then the degree rotation of 2.4
+[05:30] and it will create a copy rise it up and
+[05:32] as you can see rotate it by 2.4 de and
+[05:35] we just need to keep on doing that by
+[05:37] clicking the repeat button once we've
+[05:39] got our stack 30 mm High we can
+[05:42] highlight the whole lot and then we can
+[05:44] ungroup
+[05:52] it once it's ungrouped rotate it on its
+[05:55] Edge and this is why we made this 50 we
+[05:57] just want to select the very edge of it
+[06:00] so that we get rid of those and then
+[06:02] just delete them and now you can see
+[06:05] we've got our cycloid driver right there
+[06:07] with the right shape with it and again
+[06:10] we can group all of that and we will get
+[06:13] our driver so now we can print them so
+[06:15] there are the parts I've printed out
+[06:17] there's a couple of axles The Eccentric
+[06:19] cycloid its driver and a little frame
+[06:22] and a turn handle first thing put one of
+[06:24] the axles through the Ecentric cycloid
+[06:27] and just glue it in place when you've
+[06:29] done that take one half of the frame and
+[06:32] drop the men gear into the frame with
+[06:36] the entric line it
+[06:39] up and drop the other axle through the
+[06:42] entric and then through the frame making
+[06:45] sure that it engages take the other half
+[06:47] of the frame slide it over those two and
+[06:51] glue it in place now there's a small
+[06:54] spacer right there wants to be glued on
+[06:56] one side so there's heat there we go
+[06:59] stock chasing it about one side of the
+[07:01] axle and then the turn handle on the
+[07:04] other side of that small axle and then
+[07:06] I've got a little base there and we can
+[07:08] glue that onto the base and there it is
+[07:10] now I'm sorry this is in Black I created
+[07:12] this a while ago and I was using up old
+[07:14] black filament but I put a little paper
+[07:16] flag there so when I turn the acentric
+[07:19] drive the cycloid turns and it's quite
+[07:22] the gear
+[07:23] ratio so the advantage of something like
+[07:25] that is of course if you know how to do
+[07:27] it then you can make these cycloids in
+[07:31] any size you want rather being
+[07:33] restricted to what it is that you can
+[07:35] copy because they are very compact
+[07:37] devices to give very large gear ratios
+[07:41] there are something like 10 to one in
+[07:42] this small gear package but that's how
+[07:45] you do it I hope you enjoyed the video
+[07:47] thank you very much for watching

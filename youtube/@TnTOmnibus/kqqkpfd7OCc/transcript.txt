@@ -1,0 +1,579 @@
+[00:00] [Music]
+[00:07] capacitors actually have a very
+[00:09] interesting
+[00:10] property if I connect a couple up in
+[00:16] series give them a 10vt
+[00:19] supply as long as these two capacitors
+[00:22] have the same value so say 22
+[00:28] microfarads then the voltage you'll see
+[00:30] across each
+[00:34] capacitor is half the input
+[00:37] voltage so that'll be 5 volts we'll have
+[00:41] 5 volts here as
+[00:43] well so of course the output voltage is
+[00:46] equal to the input voltage but the
+[00:48] capacitors divide the voltage which is
+[00:50] kind of cool and they divide the voltage
+[00:53] in relation to the capacitance so if
+[00:55] this was 2.2 and this was 22 that would
+[00:58] see 9 volts that would see 1 vol Vol
+[01:00] however keeping them both the same we
+[01:02] get a voltage division happening now
+[01:04] that's really interesting because it
+[01:06] introduces the idea that we can use
+[01:08] capacitors to step down a voltage if we
+[01:11] can charge them in series and discharge
+[01:13] them in parallel then we can use this to
+[01:17] convert 10 volts down to a 5vt output
+[01:20] now of course it's pretty easy to do
+[01:22] that all we have to do is take those two
+[01:24] capacitors and connect them up in a
+[01:25] switch Network so it looks like
+[01:28] this
+[01:31] of course mechanical switches are a bit
+[01:32] of pen in the neck and we don't need to
+[01:34] use them we can put some diodes in and
+[01:36] if we bend the diodes in into a little
+[01:38] Network like
+[01:41] this then we will achieve that effect
+[01:44] we'll have that effect where the input
+[01:46] voltage is divided by two as long as the
+[01:49] capacitors have the same value of course
+[01:50] that is pretty awesome because it gives
+[01:52] you the possibility of creating
+[01:54] Transformers without using great big
+[01:56] solid lumps of iron without using copper
+[01:58] and without using magnet and that's got
+[02:00] to be interesting hasn't it there is one
+[02:03] big drawback incidentally and the big
+[02:05] drawback is they're not very efficient
+[02:07] which is a real shame now have you ever
+[02:10] thought that we actually live on a great
+[02:12] big capacitor here on the ground of
+[02:14] course we got one capacitive plat and up
+[02:16] there we've got the ionosphere and
+[02:18] between we've got a whole load of air so
+[02:20] the Earth is a massive capacitor
+[02:22] capacitors are extremely interesting and
+[02:25] a lot of people have been given a lot of
+[02:27] thought to this problem the problem
+[02:30] really lies in the diodes there's a big
+[02:32] voltage drop across those diodes they
+[02:34] used to use mosfet switching gave up on
+[02:36] that because that was even worse but
+[02:38] there's still a big voltage drop until a
+[02:40] group of scientists had to think about
+[02:42] this and came up with the idea of using
+[02:46] fractals so what is a
+[02:56] fractal so to use that fractal idea
+[02:58] let's take our two capacitor Network
+[03:01] Zoom down on each capacitor and replace
+[03:03] each capacitor by another two capacitor
+[03:06] Network and then we get this and if we
+[03:08] take that and zoom down on each
+[03:10] capacitor and replace each capacitor by
+[03:12] two capacitor Network we get this and so
+[03:15] the fractal design
+[03:18] grows now if we take our basic fractal
+[03:21] capacitor design with four capacitors in
+[03:23] it then it looks like this and if we
+[03:25] want to charge it then we flip the
+[03:27] switch here and the charge route is
+[03:29] following the red line to charge it up
+[03:32] to discharge it we flip the switch right
+[03:34] the way on the other side and now the
+[03:36] discharge is following the red route to
+[03:38] discharge it so with that little
+[03:41] arrangement we can charge any number of
+[03:43] capacitors up in series and discharge
+[03:45] them in parallel which if you think
+[03:47] about is pretty awesome because of
+[03:49] course capacitors come in values that
+[03:51] will handle kilovolts so we could bang
+[03:53] Kil volts in one end and get tens of
+[03:56] volts out at the other end now the
+[03:57] report is that this is about 94%
+[04:00] efficient which is incredible when you
+[04:02] think about it and the other really
+[04:04] interesting thing of course is we don't
+[04:05] need to buy capacitors like that
+[04:07] capacitors are dead easy to make just a
+[04:09] couple of metal plates either side of a
+[04:11] bit of plastic you've got yourself some
+[04:13] capacitors so using that we can put
+[04:17] together a capacitive Network that we
+[04:19] could print that will take kilovolts in
+[04:21] one end tens of volts out the other end
+[04:24] or even a volt or two I made a die Rod
+[04:27] it's an ad more electrostatic device and
+[04:29] I'm made an electrostatic dialogue that
+[04:31] generated high voltage and low current
+[04:34] like all electrostatic machines do now
+[04:37] it really to my mind is a way forward
+[04:39] for generation and if you think about it
+[04:41] it's mass-producible it's cheap it's
+[04:43] lightweight it uses no magnets no steel
+[04:46] no copper it's just awesome if we can
+[04:49] resolve one tiny issue that tiny issue
+[04:54] is the conversion of that high voltage
+[04:56] and we're talking sort of 5 to 10
+[04:58] kilovolts and the nano to micro ampage
+[05:02] that such machines to produce into the
+[05:05] reverse that is high ampage and low
+[05:07] voltage now that's a challenging thing
+[05:10] to do when you're talking about such
+[05:12] voltages until a friend of mine uh
+[05:15] Thiago actually pointed uh this out to
+[05:19] me so here is what started it all and
+[05:21] again you can see the address here at
+[05:23] the top bar if you want to get to this
+[05:25] and it's the flexible circuit wind
+[05:27] generator now it's let static device and
+[05:30] it's well worth having a look at this
+[05:32] but if you have a look at the circuit
+[05:33] for the wind generator you should be
+[05:36] reminded or at least I was reminded very
+[05:38] strongly of the electronic benets
+[05:40] doubler that we just saw so this idea
+[05:44] here of using those capacitors to
+[05:46] convert high voltage low current to low
+[05:50] voltage High current has got me very
+[05:52] excited indeed because that concept is
+[05:56] based on something called switch
+[05:58] capacitor conversion you want to know
+[06:00] about switch capacitor conversion in
+[06:02] particular fractal switch capacitor
+[06:05] conversion this
+[06:06] paper is absolutely awesome and if we go
+[06:10] through there then we'll get a good idea
+[06:12] of what this actually is and how this
+[06:15] works I want to point this out to you
+[06:18] this is a standard AC Transformer and
+[06:22] here we can see the basic switch
+[06:24] capacitor converter where we're
+[06:26] switching capacitors between parallel
+[06:28] and series
+[06:30] so we connect them in series to charge
+[06:32] them at high voltage and low current and
+[06:35] then reconnect them in parallel to
+[06:37] discharge them at low voltage but High
+[06:39] current now that has lots of losses
+[06:42] involved but according to this research
+[06:44] paper what they're calling this fractal
+[06:46] design here mitigates against those
+[06:50] losses suddenly everything becomes
+[06:53] exciting so that's a flexible linear
+[06:55] aerostatic generator spelling flag which
+[06:58] I think they chose that name because
+[07:00] they're a bunch of very patriotic
+[07:02] Canadians so it's was kind of cool but
+[07:04] it used something called a a fractal
+[07:07] series capacitor converter and that
+[07:11] concept astounded me never known that
+[07:14] concept before thank you very much
+[07:16] Thiago because that little route led me
+[07:19] through to there now I've been
+[07:20] interested in electrostatic machines for
+[07:22] a very long time and U it's mostly
+[07:25] actually courtesy of this Chap and I
+[07:27] want to quickly show you his we it
+[07:29] because his website is just a mine of
+[07:32] information so this is the guy that I'm
+[07:34] on about and you can see the address
+[07:36] here
+[07:37] w.e. ufrj dobr and personally I think
+[07:42] the GU a genius whenever you want to uh
+[07:45] whether whenever I want to find some
+[07:47] information about an electrostatic
+[07:49] machine this is the guy that I tend to
+[07:52] go to if we scroll down there you'll see
+[07:54] some absolutely fascinating builds of
+[07:57] all kinds of machines at this chap has
+[08:00] built but the ones that I really want to
+[08:02] P your attention to are these electronic
+[08:05] versions he's bothered to do well say
+[08:08] bothered to do the guy actually does an
+[08:10] awful lot of research in this and he's
+[08:12] made a lot of electronic versions of
+[08:15] electrostatic machines capable of
+[08:18] harvesting energy this one is the one
+[08:20] that really started me off was the
+[08:22] electronic version of the Bennetts
+[08:24] doubler the Bennetts doubler is an
+[08:26] exceedingly simple induction machine and
+[08:28] you can see what he built here and then
+[08:31] a series of 1
+[08:33] n407 diodes going up to 5 kilovolts to
+[08:37] harness the microamps that could be
+[08:40] gained just by moving this disc between
+[08:43] those two discs as a variable capacitor
+[08:46] he also built something on the same
+[08:49] version using what's called a Wilson
+[08:51] Machine and if we scroll down to get a
+[08:53] better view of that you can see that
+[08:55] Wilson Machine is basically a couple of
+[08:58] variable capacitors the setor rotate
+[09:00] that he then harvests the energy
+[09:03] from using a set of capacitors and
+[09:08] diodes absolutely
+[09:10] genius and looking at that you can see a
+[09:12] kind of um line from the electrostatic
+[09:18] Machines of Mo the Bennett dubler the
+[09:20] Wilson Machine the flag machine we've
+[09:22] just looked at and this
+[09:24] fccc F fscc converter we're now looking
+[09:30] at all of that stuff I think is coming
+[09:32] together to give us the ability to print
+[09:36] an electrostatic machine and print a
+[09:39] great part of the converter because
+[09:42] those capacitors that were used for that
+[09:45] series parallel Step Up step down
+[09:47] configuration could be equally printed
+[09:50] in the same way that the actual
+[09:52] electrostatic machine can be printed
+[09:54] that's got me super excited because
+[09:56] we're looking at something where we can
+[09:58] actually be a able to produce something
+[10:00] again no wirs no metal no magnets
+[10:04] printed on a bit of um paper probably
+[10:08] but certainly plastic that can be used
+[10:10] to generate and that tricky task convert
+[10:15] from high voltage to low voltage High
+[10:19] current that is what I'm going to be
+[10:21] working on and it's mostly Thiago who's
+[10:23] to blame for that because that is
+[10:26] something that's been a bit of a holy
+[10:28] grail for me and had the pieces in place
+[10:31] but this final bit which is actually
+[10:33] pulled from this
+[10:45] paper so we're going to be drawing and
+[10:48] making this fractal capacitor first so
+[10:50] first of all we need to draw the circuit
+[10:51] and then we can build the capacitor now
+[10:53] fractals as you look at them from the
+[10:56] the broad scope look intensely
+[10:57] complicated but when you zoom in there's
+[11:00] actually very simple few rules that
+[11:03] govern the growth of a fractal so for
+[11:05] instance here's a really simple fractor
+[11:07] let's say we take a
+[11:08] line and then the rule is at the
+[11:12] midpoint of every line draw another line
+[11:16] that is a third the size of the initial
+[11:18] line so we take a third of that line go
+[11:21] halfway and draw a line at 90 Dees so we
+[11:23] do
+[11:24] that and that's the rule but we have to
+[11:27] repeat that time and time again so we do
+[11:39] that and we keep on doing that on every
+[11:42] line that we
+[11:48] see and as you do that you get a very
+[11:50] complicated shape in fact that's the arm
+[11:53] of a snowflake it's how snowflakes grow
+[11:55] so we can continue with that taking a
+[11:57] simple rule applying it and we create a
+[12:00] complex image another example of this
+[12:02] would be a triangle let's draw a
+[12:06] triangle and the rule is every third
+[12:11] another triangle a third to
+[12:15] size and then obviously we repeat that
+[12:27] again
+[12:30] and
+[12:36] again and we keep repeating that going
+[12:39] round and round and round and we create
+[12:40] a fractal okay so to construct this a
+[12:44] fractal Network let's start with the
+[12:45] original circuit which is this now I
+[12:47] think that's a little difficult to
+[12:49] follow so if we remove the capacitors
+[12:52] and stretch out the diode string what we
+[12:54] get is this and that's the diode string
+[12:56] just stretched out instead of that Zed
+[12:58] formation and if we put the capacitors
+[13:00] back in place then we get that now I
+[13:03] think that's much easier to follow what
+[13:05] it is we're going to do than this one
+[13:08] which confuses it a bit and with this
+[13:10] one then we can see quite clearly what
+[13:13] we have here are three diodes in a
+[13:15] string with four connection points now
+[13:17] the bottom is the negative the top is
+[13:20] the positive and you can see where the
+[13:22] capacitors are connected at those
+[13:23] connection points so all I've done is
+[13:26] put these dots on here so that we can
+[13:29] follow this these dots represent the
+[13:31] joining points and we've got 1 2 3 4
+[13:34] with three diodes 1 2 3 the things to
+[13:37] notice is that one goes to the capacitor
+[13:40] two goes to the capacitor and remember
+[13:43] one is the negative then three goes to
+[13:46] the other side and four goes to the
+[13:48] other side of the capacitor so capacitor
+[13:51] here is joined at dots one and three and
+[13:55] this one here is joined at dots 2 and
+[13:58] four and as long as you remember those
+[14:00] constructing it is really simple so
+[14:03] first thing let's get rid of the
+[14:08] capacitors and now we need to introduce
+[14:10] another string of
+[14:16] diodes the diode string is going to get
+[14:18] connected in the same way that the
+[14:20] capacitors
+[14:25] were
+[14:27] one
+[14:33] two
+[14:39] three and
+[14:41] four now we would connect up the
+[14:44] capacitors and then connect them the
+[14:46] same
+[14:57] places and we've done the first
+[15:00] iteration now for the second iteration
+[15:02] let's get rid of the
+[15:06] capacitors our next string of in our
+[15:10] next string of diodes follow the same
+[15:27] pattern
+[15:39] now we've connected that next string of
+[15:40] diodes following the same rule that we
+[15:42] did before one and two and one and three
+[15:48] two and four and so the dodes are
+[15:51] connected in the same way as the first
+[15:53] iteration and the second iteration and
+[15:55] then this iteration and now what we want
+[15:57] to do is connect up the
+[15:59] capacitors bottom capacitors connect up
+[16:20] here now we have our next iteration and
+[16:23] we could continue doing that there we
+[16:25] connected the capacitors but if we put
+[16:27] another string of d OD in we would
+[16:29] obviously get 18 capacitors sorry 16
+[16:33] capacitors not 18 188 is 16 now because
+[16:36] we're repeating that rule set and we're
+[16:38] connecting everything in the same place
+[16:40] and as we drill down on it we can
+[16:42] continue to repeat that rule set then
+[16:45] we're constructing a fractal because the
+[16:47] fractal is being constructed out of
+[16:49] capacitors at the end of the day it's a
+[16:51] capacitive fra fractal Network now
+[16:53] somebody has asked can this be done the
+[16:56] other way because what we're doing
+[16:57] obviously is stepping down down an
+[16:58] exceedingly high voltage can you step
+[17:00] the voltage up and the answer is yes you
+[17:02] can when you charge in seral and
+[17:04] discharge in parallel we're going to
+[17:06] have a step down we charge in parallel
+[17:08] and discharge in series we're going to
+[17:10] have a step up so reversing it is pretty
+[17:12] easy we're interested in the
+[17:14] electrostatics so we're looking at step
+[17:15] down but yes you can do a step up
+[17:17] version of this as well and you can
+[17:20] drill down into that practical uh
+[17:22] fractal Network as much as you please
+[17:25] and obviously you can connect two
+[17:26] fractal networks together remember in
+[17:29] that diode string of three the bottom
+[17:31] was the negative the top was the
+[17:33] positive and it's the main Center diode
+[17:35] string which is the positive and
+[17:36] negative if we connected them to another
+[17:39] main Center diode string we would have
+[17:41] two fractal networks joined together so
+[17:43] we can either drill down on the fractal
+[17:45] Network to create a deeper and deeper
+[17:47] fractal Network or we can join two
+[17:50] fractal networks together we need to
+[17:52] make chains of three diodes let me give
+[17:54] you a closeup of the process okay I
+[17:56] think it helps if you think about it
+[17:58] like this this we have a string of three
+[17:59] diodes and to that we
+[18:01] connect two capacitors those two
+[18:04] capacitors connect at points one and
+[18:06] three and two and four now it becomes
+[18:09] fractal when we remove the capacitors
+[18:11] which are the connections here put in
+[18:13] another string of three diodes and
+[18:15] connect two
+[18:18] capacitors then we can remove the diodes
+[18:25] connect so each one of these lines
+[18:27] represent a string of three diodes the
+[18:30] termination here represents the
+[18:32] capacitor it becomes fractal because we
+[18:34] can keep on doing that getting smaller
+[18:37] and smaller and creating a fractal
+[18:53] pattern and we can continue down doing
+[18:56] that creating that pattern going down
+[18:58] and down and down making a fractal and
+[19:02] that's why it's a fractal
+[19:04] capacitor now I think this image helps
+[19:07] visualize what it is we actually doing
+[19:10] so remember I have a lot of diodes and I
+[19:12] bought 1,000 diodes for £7 so they're
+[19:14] really really cheap and you take three
+[19:16] of them and obviously you've got a
+[19:17] little silver band and a black bit and
+[19:19] all the silver bands point in the same
+[19:21] direction so you need to make sure
+[19:22] they're all pointing in the same
+[19:23] direction then you twist them together
+[19:26] like this and solder them there so we've
+[19:28] got those two wires now what we have are
+[19:30] four connection points here here here
+[19:33] and here for the sake of argument let's
+[19:35] call that one 2 3
+[19:38] 4 to make this we're going to use four
+[19:41] wires and we're going to connect those
+[19:42] wires up to the capacitors so in order
+[19:44] to put 64 capacitors on our fractal net
+[19:47] what we need are 32 of these because
+[19:50] each one of these takes two
+[19:51] capacitors we solder the same wire in
+[19:55] the same place all of the time so we
+[19:57] know what what we're doing and here's an
+[19:59] example of one that I've got ready and
+[20:01] you can see that what I'm calling
+[20:03] position one is black position two is
+[20:06] blue position three is red and position
+[20:09] four is yellow and I need to solder them
+[20:11] all the same way every time so the black
+[20:13] will go there the blue there the red
+[20:16] there the yellow there as long as I make
+[20:18] 32 identical to that then at this end
+[20:21] once I've made those then I can solder
+[20:24] the black and the red to one capacitor
+[20:25] and the blue and the yellow to the other
+[20:27] capacitor when I form my fractal net now
+[20:30] we obviously need to build these out so
+[20:32] what we're going to do is solder up
+[20:33] another one and I'll show you then how
+[20:35] those two join up okay so once we've
+[20:36] made two of those you can see that I've
+[20:38] done them on the same sides there we go
+[20:40] black to the bottom yellow to the top
+[20:43] and they're all the same we need to join
+[20:44] those up to another string of diodes and
+[20:47] here they are and those diodes are done
+[20:49] in the same way as the first string
+[20:51] black to the bottom black to the bottom
+[20:53] and we solder these on one and three
+[20:57] just like we did with the first
+[20:58] capacitor then this gets soldered on on
+[21:00] two and four so that we get that
+[21:03] Arrangement because it'd be annoying to
+[21:05] have them that way cuz we got to stack
+[21:06] them up even more so we need to do it
+[21:08] that way around and we do it that way
+[21:11] around here's the first one solded on
+[21:15] the second one would get soldered on
+[21:16] three and four and it would end up
+[21:20] looking like that we do that because
+[21:23] we're going to do another set and on
+[21:26] that other set we're going to have
+[21:28] another string of three dodes again
+[21:32] black to the bottom and they get
+[21:33] soldered on one and three and two and
+[21:36] four we keep doing that doubling them up
+[21:38] there's a slight issue these wires are
+[21:40] bare so we need to stuff something in
+[21:42] there like a bit of tape or plastic to
+[21:43] stop them hitting each other now let's
+[21:45] so them up again now I just put some
+[21:47] strips of plastic in there just to
+[21:49] separate those wires out and we do
+[21:51] exactly the same thing there's our strip
+[21:53] of three we sold this black wire to
+[21:55] Junction one if you like this top wire
+[21:58] to Junction three and then the next one
+[22:01] gets Junction two and Junction four and
+[22:05] we get that and again I'll put a strip
+[22:07] of plastic in there to keep the wires
+[22:09] separate and we'll build up for the next
+[22:11] layer okay we continue up pairing them
+[22:14] in the same way across a string of three
+[22:15] or diodes until we get to the last
+[22:17] string now in the last string you'll
+[22:19] notice there's the band there there and
+[22:21] there pointing to the red and the black
+[22:24] is pointing to the bottom and this is
+[22:26] your negative connection and POS
+[22:28] positive connection for the in and out
+[22:29] and now what we have to do is connect
+[22:31] the last two bundles in the same way so
+[22:33] bundle one goes Junction one and three
+[22:37] bundle two goes Junction two and four so
+[22:40] what we end up with is this now granted
+[22:44] it is perhaps not the most elegant way
+[22:46] of doing it but I think it helps
+[22:48] visualize what we've actually done we've
+[22:50] taken that fractal pattern we've taken
+[22:52] the string of three diodes and we've
+[22:54] built it down and down and down to
+[22:56] physically create something like this
+[22:58] now as I pointed out that's your
+[22:59] positive in and out that's your negative
+[23:01] in and out and each one of these
+[23:03] represents a pair of capacitors so if
+[23:05] you remember the red and the black go to
+[23:09] one capacitor and the blue and the
+[23:11] yellow go to the other capacitor each
+[23:13] one of those needs a capacitor on the
+[23:15] end of it now you can use an ordinary
+[23:17] capacitor but I of course want to make
+[23:19] the capacitors so that I can then paint
+[23:21] the capacitors and so that is what you
+[23:23] end up with but you end up with it
+[23:25] through that process now as I said this
+[23:28] is just to help visualize before anybody
+[23:31] points out to me it would be better to
+[23:33] do this on a circuit board it would be
+[23:36] 100% better to do it on a PCB but I do
+[23:40] think you would miss how it's actually
+[23:42] built if we just went straight to the
+[23:43] PCB so that's how it's actually built
+[23:45] and we made this bundle of wires and
+[23:47] diodes to explore how it was actually
+[23:50] made and what the theory was and why it
+[23:52] was been built that way but I appreciate
+[23:54] that doing something like that is really
+[23:56] just a teaching exercise as opposed to
+[23:58] something you would actually want to do
+[24:00] in real life so I've taken the trouble
+[24:02] of drawing up the circuit and here it
+[24:12] is now of course that's useful in itself
+[24:15] you can just pause the video and copy
+[24:17] the circuit if you wish but I went one
+[24:19] step further and downloaded easyeda and
+[24:22] turn that circuit into a PCB which is
+[24:30] now that PCB is quite large it's
+[24:32] actually just a little bit smaller than
+[24:34] an A4 costs I think it's about $4 to
+[24:37] actually have each board made up and
+[24:39] there are a lot of components on it but
+[24:42] that is a
+[24:43] 96 capacitor fractal capacitor that's
+[24:47] the circuit diagram forward and the PCB
+[24:50] arranged in Joba files for you should
+[24:52] you actually want to do that now we
+[24:54] appreciate that that's a lot of
+[24:56] information and it might seem over ly
+[24:58] complex but to my mind it's the key for
+[25:01] unlocking atmospheric energy it's a key
+[25:04] for unlocking the power in lightning
+[25:06] it'll take an extraordinarily high
+[25:09] voltage that we couldn't otherwise
+[25:11] manage and turn it into a voltage that
+[25:14] we can manage and acts just like a
+[25:17] Transformer so the voltage drops down
+[25:19] into your boots but the amps goes up
+[25:21] into the sky which is exactly what we
+[25:23] want to do and it's quite difficult to
+[25:26] do before the vent of fractal capacitors
+[25:29] so I thought I would share all of that
+[25:30] with you I hope you enjoyed the video I
+[25:33] hope it Sparks your imagination thank
+[25:35] you very much for watching and please do
+[25:38] remember to like And
+[25:39] subscribe

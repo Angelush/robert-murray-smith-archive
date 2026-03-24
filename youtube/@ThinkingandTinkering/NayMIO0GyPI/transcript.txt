@@ -1,0 +1,472 @@
+[00:00] [Music]
+[00:08] Okay, so I live in Kent, Garden of
+[00:10] England, and of course, we're having
+[00:11] some beautiful weather, and it occurred
+[00:13] to me to build a canoe and go for little
+[00:16] canoe trips up and down on the river.
+[00:18] Now, luckily,
+[00:20] I have the wisdom of ignorance.
+[00:22] Basically, I've got no idea what I'm
+[00:24] doing, so I'm too stupid to know to be
+[00:25] afraid of it. And that goes with the
+[00:27] idea that if you're stubborn,
+[00:30] determined, and happy to get things
+[00:33] wrong, then you're going to be able to
+[00:35] do well, just about anything really.
+[00:38] Now, whenever you think about doing
+[00:39] something, of course, there's always a
+[00:41] million versions of it. And if you're
+[00:43] thinking about building something like a
+[00:45] canoe, well, you're going to have at
+[00:46] least a billion versions to choose from.
+[00:49] And to be honest, the hardest thing is
+[00:52] just to make a choice. And just make a
+[00:55] choice. Yeah, it can be the wrong choice
+[00:57] maybe, but have a look in your area, see
+[00:59] what there is. I like this. It's the
+[01:01] kind of thing that I'm actually thinking
+[01:03] about. Sort of a cross between
+[01:05] traditional and um modern really with
+[01:08] modern materials. It has a beautiful
+[01:10] look to me. So, this is the kind of
+[01:12] thing that I'm looking at, but of
+[01:14] course, there are other things, and it's
+[01:16] really just a question of what you want
+[01:18] to choose. I want to choose this. I
+[01:21] mean, let's face it, what could be
+[01:22] better than pottering up and down on a
+[01:24] river on a beautiful sunny day? Now, of
+[01:27] course, if I want a canoe, I can just go
+[01:29] out and buy one. I mean, basically,
+[01:31] there are loads of them around, and
+[01:32] there's a canoe to suit every single
+[01:34] budget. So, why not? Well, I also have
+[01:37] this other theory. I think that if you
+[01:40] put a bit of you into something, you
+[01:42] value it more. And so, my first view is
+[01:45] always to try and build something. I
+[01:47] think by building it, I have more than
+[01:50] just ownership. There's a bit of me in
+[01:52] there, which means it's more mine, so to
+[01:55] speak. I understand people don't have
+[01:56] time and they have other considerations.
+[01:59] That's just how I feel about things. So,
+[02:01] I turn to making it myself. Now, of
+[02:04] course, when you're going to do
+[02:05] something like that, in fact, when
+[02:06] you're going to do something like
+[02:07] anything, there's always a million ways
+[02:09] you can make it. I mean, boat building,
+[02:12] well, you can do it in wood, you can do
+[02:13] it in plastic, you can even do it in
+[02:15] stone if you like. There's a style
+[02:17] called ferro cement. It's a whole way
+[02:19] range of doing these things. And I've
+[02:21] chosen to try and 3D print it. I'm not
+[02:24] sure I'm going to be able to achieve
+[02:25] that, but that's what I'm thinking. I'm
+[02:27] thinking, okay, we're going to 3D print
+[02:29] it. So, the first thing we need to do,
+[02:31] of course, is create the model for the
+[02:33] 3D print. And again, there are ways to
+[02:36] do this. I mean, I could get an original
+[02:38] canoe, scan it, I could measure it, or I
+[02:41] could turn to a set of plants. And I
+[02:43] happen to have this thing which is
+[02:45] called Canoe Craft by Ted Mo and Marilyn
+[02:49] Mower. It's an awesome book. But in the
+[02:52] book there are some plans for various
+[02:55] types of canoes along with all the
+[02:58] information I need to create my 3D
+[03:00] model. And I've chosen something called
+[03:02] the Peterbrra. I'm going to take these
+[03:05] bits of information and turn it into a
+[03:08] 3D model so I can look at 3D printing my
+[03:12] own canoe. So, this is what we're going
+[03:15] to attempt to draw. And we're going to
+[03:17] attempt to draw this on Frecad. And
+[03:19] we're going to use something called
+[03:21] Curbs Workbench. Now, in real life, what
+[03:24] you do is you draw all these frames out
+[03:26] and set them up at set distances along
+[03:29] something called a strong back. And
+[03:31] they're usually made out of timber with
+[03:34] some kind of distance and it's usually
+[03:36] scrap timber. And the whole lot is
+[03:38] joined up with springy bits of wood to
+[03:40] give you these very nice curves. Now, in
+[03:42] order to draw these shapes, what we've
+[03:44] got are these two tables of information,
+[03:47] giving us distances from a center line
+[03:50] that will help us draw out each of these
+[03:52] frames and then place the frames along a
+[03:56] strong back. So, we're going to pretty
+[03:58] much copy what they do in real life. And
+[04:00] that process is called lofting. So we're
+[04:03] going to loft these into FreeCAD curves
+[04:07] workbench to create this skeletal
+[04:10] framework. So we've got Frecad open. Now
+[04:13] it's unlikely you'll have the curves
+[04:15] workbench. So you'll need to add it.
+[04:17] Look in tools. Go to add-on manager
+[04:20] right there. And it'll pull up this
+[04:23] screen for you. And what we need to do
+[04:25] is just scroll down to the workbench
+[04:27] that we want. And you might want to
+[04:28] explore this because there's absolutely
+[04:30] tons of them. If we go to the curves
+[04:33] workbench, there it is. And then we can
+[04:36] click install. We need to restart it.
+[04:38] And when we've restarted it, if we click
+[04:39] on this workbench, we'll see that we've
+[04:41] added curves. And that'll take us to the
+[04:45] curves workbench. Now, it may actually
+[04:47] surprise you if you're not into boat
+[04:49] building. What they do in real life when
+[04:51] they're taking some boat planks and
+[04:53] turning it into a boat is they
+[04:55] essentially get a big bit of graph paper
+[04:57] and put these measurements on the graph
+[04:59] paper, cut it out, paste it on the bit
+[05:01] of wood, drive in some nails, and then
+[05:03] push a spendy stick around the nails and
+[05:06] draw around it. That process is called
+[05:08] lofting. And essentially, of course,
+[05:10] what we want to do is exactly the same
+[05:13] thing only we need to do in Frecad. So,
+[05:15] we are, if you like, creating a bit of
+[05:18] graph paper, putting points on the graph
+[05:20] paper, which will be the same as the
+[05:22] nails, and then we'll use a curve from
+[05:24] the curves workbench instead of a bendy
+[05:27] stick, and put a curve around those
+[05:29] points. Right? Annoyingly for me at
+[05:33] least, all of my measurements are
+[05:35] actually in inches because it's an
+[05:37] American book and I need to have this in
+[05:39] inches. But if we go here, we can click
+[05:42] on that and you can see that you can
+[05:44] change your standard quite easily. I
+[05:47] used millimeters before and here now
+[05:49] I've put it into US customary inches and
+[05:52] pounds. So now my measurements will be
+[05:54] in inches if I've got that highlighted.
+[05:57] So I can jump to my file. I need to
+[05:59] create a sketch into unnamed. So we
+[06:01] create a sketch by hitting sketches. The
+[06:05] sketch needs to be in the XZ plane.
+[06:08] You've got to imagine as if you're
+[06:10] looking down on the canoe. Normally
+[06:12] you're looking at at the top down which
+[06:14] is the XY plane. And here we're looking
+[06:16] at the front back which is the XZ plane.
+[06:20] So we create it in the XZ plane. And
+[06:22] click okay. And we'll get this as our
+[06:25] sketch screen. The first thing we want
+[06:28] to do is set up the graph paper if you
+[06:31] like. Now, pretty much as standard and
+[06:33] certainly on these measurements that
+[06:35] I've got, the distances from the center
+[06:37] line and the baseline of 2 in. So, I
+[06:40] need to create a set of lines 2 in apart
+[06:43] that will represent my graph paper. They
+[06:46] only go 14 in up. So, from 0 to 14 is
+[06:51] the number of steps that I need. And of
+[06:54] course, that's going to be eight points.
+[06:57] So we go to polyline which is right here
+[06:59] and randomly place eight points starting
+[07:02] at the origin
+[07:12] on this line here. Now what we want to
+[07:14] do is select the lines and we need to
+[07:17] put an equals constraint on them so
+[07:18] they're all same size.
+[07:22] We want to make them 2 in. So hit
+[07:24] dimension
+[07:26] the first point up
+[07:30] click on it and type in two. It will
+[07:33] automatically adjust. So all of those
+[07:35] things are 2 in. Let's change the view.
+[07:40] And we can see we've got a range of
+[07:42] points now 2 in apart. What we need to
+[07:45] do now is create exactly the same thing
+[07:48] but along this line here. So again the
+[07:51] polyline and it's starting at the origin
+[07:53] place eight points
+[08:00] select the lines and place an equals
+[08:03] constraint on them. Then we need to
+[08:05] dimension it yet again at 2 in when the
+[08:07] law will be changed to inches. So click
+[08:09] the dimension use this
+[08:16] type two hit okay
+[08:18] change our view. So now we've got our
+[08:21] graph paper and of course what we want
+[08:23] now other points that are on our charts
+[08:26] starting from chart B. Click on the line
+[08:28] tool. Go to the top point which is the
+[08:32] 14in point and you can count that up and
+[08:34] just draw a random line. When you read
+[08:36] it on the chart at 14 you'll see that
+[08:39] the chart says it should be 14 and 116
+[08:44] long. And you type that in 14. And of
+[08:47] course 1116 is 6875. And when we hit
+[08:51] enter, we get our first point. And now
+[08:54] we have to repeat that for all of the
+[08:56] other points. So that is chart B going
+[08:59] out from the center line, placing the
+[09:01] points where we need them to be at 2in
+[09:04] intervals and this many inches out. Now
+[09:07] we need to do the same thing but going
+[09:09] up from the baseline. And this is the
+[09:11] baseline here. So this time we use chart
+[09:13] A measuring up from the baseline. And
+[09:15] we'll start at 14 in, which is that
+[09:18] point there. And this should be 3 and
+[09:20] 3/4. So again, grab a line.
+[09:24] Move it up to some random distance. Type
+[09:27] in the 3 and 3/4, which of course is
+[09:30] 3.75.
+[09:32] Tab 90 now. So it's straight up. And
+[09:35] enter. And then we get our next point.
+[09:38] And our next point now is from chart A.
+[09:40] And we continue with that along the rest
+[09:43] of these. Right, here it is with all the
+[09:45] points drawn where they should be. And
+[09:47] now I can close it. When I close it, we
+[09:49] jump to sketch here. Now, if I look at
+[09:52] this bit from data to view, what we can
+[09:55] see is that we've got point size. If we
+[09:57] change that point size to 10 or just
+[10:01] something bigger than four, what it'll
+[10:03] do is make the points bigger. Making the
+[10:06] points bigger is really cool because now
+[10:08] it makes them easy to select. So to
+[10:10] select them, when you want a multiple
+[10:12] selection, hold down the control key and
+[10:15] select it.
+[10:18] When we've selected them all, we can hit
+[10:20] the curves workbench. And it's this one,
+[10:22] an interah,
+[10:24] an interpolate curve. We want to click
+[10:27] on that. And we've drawn our curve
+[10:29] that's just like our bendy stick. So we
+[10:32] only did half of it because, of course,
+[10:33] the other half is just the mirror of
+[10:35] what we just did. So we can mirror it.
+[10:38] Unfortunately, of course, we do have to
+[10:40] do another seven. But there are a couple
+[10:43] of tricks to make that a bit easier. The
+[10:46] first one is to create a group. Click on
+[10:48] canoe body, the right hand click, and
+[10:51] you'll see create group. And it will
+[10:53] create one called group. Double click on
+[10:55] it, and you can rename it. Rename it to
+[10:58] something like section one.
+[11:03] Now, we can drag things into it. So, we
+[11:05] can drag this sketch into it. and we can
+[11:08] drag the interpolation curve into it.
+[11:11] Then if we copy that, Ctrl CtrlV,
+[11:15] then we'll copy everything in section
+[11:18] one and create a new group called
+[11:20] section two. And of course, anything in
+[11:22] that group will do exactly that.
+[11:25] And then of course paste it and we get
+[11:29] section two, which is an exact copy of
+[11:31] section one. So if we hide section one
+[11:34] and its sketch,
+[11:36] we'll see section two in its sketch,
+[11:39] which is what we've got there. If we
+[11:41] click on the task for section two,
+[11:46] then what we can do directly is change
+[11:48] these numbers. So we can just double
+[11:50] click on the number, it will come up.
+[11:52] And now we can go back to the charts and
+[11:55] overype on section two the information
+[11:58] needed for section two. repeat that to
+[12:02] create all of the sections that we need
+[12:04] from sections one to eight. Now, here's
+[12:07] the really neat trick, or at least I
+[12:09] think it's neat. If we show sketch,
+[12:11] because these are all there, remember,
+[12:13] and if we show sketch, that's the
+[12:15] original sketch that we had. And so,
+[12:17] we've got the sketch of the lines and
+[12:18] we've got the curve along with it. If we
+[12:21] show sketch, the next sketch, it creates
+[12:24] that sketch. And you can see it here in
+[12:26] blue. If we're on sketch and we have a
+[12:29] look at data, go to placement, you'll
+[12:31] see position. Click down in position and
+[12:35] we're on the Y ais because remember we
+[12:37] made this so that it would move along
+[12:38] the Y ais and it is in inches. Now,
+[12:42] traditionally these stations for canoes
+[12:44] are placed 12 in apart. So all we have
+[12:47] to do is move that to 12 in
+[12:56] and it moves the curve along with it. So
+[12:59] now if we're looking at this, we can see
+[13:02] that what we've done
+[13:05] is create the two stations 12 in apart
+[13:08] as if they were on a strong back. And we
+[13:10] can do that with all of the other
+[13:12] sections. Now, in traditional boat
+[13:14] building, this all gets cut out of wood
+[13:16] with nails and bits of stick. And you
+[13:18] cut out those shapes. Then you set those
+[13:21] shapes on a basically a big slab of
+[13:23] timber that's going to be as long as the
+[13:25] boat you want to make, and you set them
+[13:26] up at 90°. So, they make a kind of
+[13:29] skeleton. That big slab of wood that you
+[13:32] nail everything to is called the strong
+[13:34] back. Because what we're doing is using
+[13:36] a concept of the strong back in order to
+[13:39] be able to arrange those things as we
+[13:41] would in real life. So we just continue
+[13:44] with that setting those frames up on the
+[13:47] virtual strong back. So when we've done
+[13:49] that, we get a ghost of our canoe. So we
+[13:53] can see the ribs there, all the curves.
+[13:55] Now I've taken the curves just by
+[13:56] themselves so we get the idea of what
+[13:58] the ghost is. But we can create more
+[14:00] curves. If you look over here, you'll
+[14:02] see that the eye is showing to show the
+[14:04] curve. And on the sketch, it's actually
+[14:06] blanked through. If I click on that
+[14:08] blank through the underlying sketch
+[14:10] along with its points will show up. If I
+[14:12] do that on all of those then we get a
+[14:14] messy sketch to look at but we get all
+[14:17] of the points that we're now going to
+[14:19] need. So we go down the whole thing and
+[14:22] open up the eyes so that we can see all
+[14:25] of those sketches.
+[14:30] There we go. If you think about it,
+[14:32] we've done nothing more yet than what we
+[14:35] would do in normal boat building. We've
+[14:38] taken our plans and our bit of graph
+[14:40] paper and we've positioned the points
+[14:42] accurately on the graph paper and we did
+[14:44] that with Sketcher and just defined the
+[14:47] points. Then we jumped to the curves
+[14:49] workbench and we drew a curve around
+[14:51] those points by highlighting them. Of
+[14:54] course, in real boat building, you drive
+[14:56] nails in a bit of wood and use a bit of
+[14:57] bended stick, but we've done exactly the
+[14:59] same thing. Then we jumped to the parts
+[15:03] workbench and we arranged those stations
+[15:05] that we made along a strong back so they
+[15:08] created a framework for our boat. And as
+[15:11] I say, this is identical with what
+[15:14] happens in real boat building. Of
+[15:17] course, the very next thing we need to
+[15:18] do is put a skin on there. Now, in real
+[15:21] boat building, what they do is lay on
+[15:23] planks of wood on something like this,
+[15:25] which is a strip canoe. It's a cedar
+[15:27] strip canoe. Those are little cedar
+[15:30] strips with rounded edge and cups on the
+[15:32] other side. And you pop those onto that
+[15:34] framework and glue on nail or fasten
+[15:36] them temporarily in place till the whole
+[15:39] thing sets. And that's how you build
+[15:41] your canoe. Of course, we've now got to
+[15:43] put a skin onto those frameworks that
+[15:45] we've got. And in something like Frecad
+[15:48] or any other 3D imaging program, drawing
+[15:51] program, there's loads of ways of doing
+[15:53] that. But there's one particularly easy
+[15:57] way in the parts workbench called
+[16:00] lofting. So here we are in the part
+[16:03] workbench with all of our curves
+[16:05] showing. Remember, we created those
+[16:07] curves with that curves workbench. Now
+[16:10] we're here. We can see them all in place
+[16:12] without the sketches. Although I can put
+[16:14] the sketches back just by undoing the
+[16:16] eye and the sketch will pop back in
+[16:18] place because it's still there. We're
+[16:21] just looking at the curves and these are
+[16:23] the curves created in the curves
+[16:24] workbench. Now we want to skim those and
+[16:27] the tool that we want is right here.
+[16:30] It's there and that's called the lofting
+[16:33] tool. If we click on the lofting tool
+[16:35] then we get this pull-up box. What we
+[16:38] want is every curve that we created. So
+[16:40] if we just click on the curve and the
+[16:42] arrow, it will turn it into this
+[16:45] selected profile or rather move it into
+[16:47] the selected profile. So click on all of
+[16:50] those and move them into the profile
+[16:53] section. And then we're ready to loft.
+[16:55] And lofting will create a skin between
+[16:58] those profiles.
+[17:01] Notice we can create a solid if we want
+[17:04] to as well. If we click okay, hey
+[17:07] presto, it creates a skinned version of
+[17:11] our canoe ribs. So now we've got a canoe
+[17:14] that's actually got a skin on it.
+[17:21] And that is a quarter of our canoe. Of
+[17:24] course, we want to do now is make the
+[17:26] entire canoe. And to make the entire
+[17:28] canoe, we use this tool here, which is
+[17:31] the mirroring tool. To actually mirror
+[17:34] it, click on it to select it. Click on
+[17:36] the mirroring tool. And here you get a
+[17:38] choice of planes. What we want to mirror
+[17:40] it on is the YZ plane. Once we've
+[17:43] selected the Y Z plane, click okay. And
+[17:47] we've created the other half of our
+[17:51] canoe. So, it couldn't be easier than
+[17:53] that. Of course, this gives us a half
+[17:56] instead of a quarter. So now what we
+[17:58] want to do is select both of them by
+[18:01] clicking on loft mirror and loft and we
+[18:04] mirror it again. So hit the mirroring
+[18:06] key and this time we want to mirror it
+[18:10] on the XZ plane. Click that and click
+[18:15] okay. And now if we look at the view,
+[18:20] we have our entire canoe all skinned and
+[18:24] ready to go. We can export that now as
+[18:27] an STL file if we wanted to. So that
+[18:30] first bit where we had to lay out all
+[18:32] the points, that was, to be honest, a
+[18:34] little bit tedious. The next bit where
+[18:36] we popped the curves on was kind of
+[18:38] cool. But that last bit where we skinned
+[18:40] it and mirrored it, well, that was just
+[18:42] like magic. How you just bang, and
+[18:44] there's what you wanted right in front
+[18:46] of you. Now, of course, I appreciate you
+[18:48] may not be interested in building a
+[18:50] canoe, but this technique of lofting is
+[18:53] incredibly useful for a whole range of
+[18:56] things, not only canoes and boats, but
+[18:58] things like aircraft fuselage,
+[19:01] propellers, and of course, wind turbine
+[19:04] blades. So that extra workbench, the
+[19:07] curves workbench, it's well worth
+[19:09] getting to grips with, particularly if
+[19:11] you want to do something that's a bit
+[19:13] more organic and been cut into slices
+[19:16] that you can arrange and then skin and
+[19:19] then print. Now, of course, I have now a
+[19:22] fulls size model of a real canoe. And
+[19:26] I've got to think about how I'm going to
+[19:28] actually get this out of the STL and
+[19:31] print it in real life because printing
+[19:33] this on a 3D printer is going to be its
+[19:36] own challenge. Now, I do have the Aligu
+[19:40] Orstone Giga, so I will be able to print
+[19:43] that without a doubt. On a smaller
+[19:45] printer, I think it'll be a bit more
+[19:47] challenging. Still, there's an exercise
+[19:49] on how to use the uh workbench,
+[19:52] particularly if you're interested in
+[19:53] other things like wind turbine blades. I
+[19:56] thought it was well worth going through.
+[19:57] I hope you enjoyed the video. Thank you
+[19:59] very much for watching, and please do
+[20:01] remember to like and subscribe.

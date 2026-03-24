@@ -1,0 +1,62 @@
+[00:01] Okay, passed my um experiment in
+[00:04] modeling it
+[00:06] mathematically from a previous video if
+[00:08] you remember this which is my um film
+[00:11] test apparatus. I've wired this up in
+[00:14] accordance with the um video that I did
+[00:18] earlier. So these two coils, this one
+[00:22] and this one aren't connected. That's my
+[00:24] input coil is connected and that's my
+[00:26] output coil for I'm reading the output
+[00:29] from. I've got a sound card oscilloscope
+[00:32] in my computer which I'm running a
+[00:34] square wave function with a 25% duty
+[00:38] cycle and taking that out of the uh
+[00:41] speakers and putting it into a stereo
+[00:44] power amplifier and then taking the
+[00:46] power amplifier and putting it into
+[00:48] this. After all of that, we're only
+[00:50] actually inputting about three or four
+[00:52] mills, which is not very much. The
+[00:54] frequency is 50 Hz in um which is not
+[00:57] very much, but surprisingly enough,
+[01:00] we're getting 20 ms out of this side. It
+[01:03] does vary quite a bit, but um that's
+[01:06] actually quite impressive. There could
+[01:08] be a couple of reasons for that. It
+[01:10] could be that the um flux of these two
+[01:12] magnets that's being forced in and out
+[01:14] of this coil is contributing to um the
+[01:18] voltage and the stop of this transformer
+[01:20] because we're getting about twice the
+[01:22] amount out we're putting in. So that's
+[01:24] one reason and it could be of course
+[01:26] that the speed of the collapse of the
+[01:28] magnetic field is causing that EMF spike
+[01:31] in this coil here. So it's one of those
+[01:33] two reasons. But it is really
+[01:35] interesting that um according to the
+[01:37] theory, if I just run this car, I should
+[01:40] be able to drive just drive this car. I
+[01:42] should be able to pull off this coil.
+[01:43] And in practice, that's exactly what
+[01:45] happens. And it's really really quite
+[01:47] riveting. So I guess the next thing
+[01:49] really would be to
+[01:52] um create a circuit that's going to post
+[01:55] DC into there and run that from this and
+[02:00] try to get this running. So that's the
+[02:02] next step is one of the reasons I put a
+[02:04] tickle coil in here incidentally is the
+[02:06] whole idea is that as the flux goes
+[02:08] through here and it collapses going to
+[02:10] induce a voltage in the tickle coil and
+[02:12] then the main coil and I can use a
+[02:14] tickler coil to feed a transistor as an
+[02:17] onoff switch. So we're going to get some
+[02:18] self resonance out of it so it can turn
+[02:21] itself off and
+[02:22] on bridge across the outputs and see
+[02:25] what we get. That's where I'm at at the
+[02:28] moment. And that is really quite
+[02:30] fascinating.

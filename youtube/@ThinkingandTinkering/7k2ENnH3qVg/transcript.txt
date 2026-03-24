@@ -1,0 +1,284 @@
+[00:00] foreign
+[00:07] so we started this particular project
+[00:10] because I came across a folding
+[00:12] collapsible wind turbine that somebody
+[00:14] wanted about three to five hundred
+[00:16] dollars for an advertising a defaulty
+[00:18] watt turbine and that seemed a bit odd
+[00:21] to me but certainly very expensive for
+[00:24] what it was and it made me think well
+[00:25] can we go about making a better turbine
+[00:27] than that turns out of course we can but
+[00:30] it does raise the issue about how do you
+[00:32] go around designing a wind turbine now
+[00:35] wind turbines themselves are actually
+[00:36] fascinating things because they're pure
+[00:39] physics and maths you can just calculate
+[00:41] all of this stuff and of course you may
+[00:43] not want to calculate all of this stuff
+[00:45] in which case there are actually a whole
+[00:48] host of wind turbine power calculator is
+[00:51] available online I use Omni calculator
+[00:53] quite a lot actually where you stick in
+[00:55] the wind speed and the size of this and
+[00:59] I'll give you estimations of all the
+[01:01] power that you want and that's because
+[01:03] wind turbines act by interfering with an
+[01:06] area of wind this blade length the wind
+[01:09] here won't do anything the wind has to
+[01:11] hit the blade so this section here is
+[01:13] what the wind is going to pass over and
+[01:15] that interferes with the wind causing it
+[01:18] to turn and of course a wind turbine
+[01:20] takes a mechanical energy of wind and
+[01:23] turns into electrical energy now I'm
+[01:25] only showing you the math to demonstrate
+[01:27] that the math is actually there you can
+[01:29] calculate this stuff if you want if you
+[01:30] don't need to be a friend of the math
+[01:32] because there's a ton of calculators you
+[01:35] can just jump straight to them and put
+[01:36] the figures in and read the figures that
+[01:38] come out you don't need the math but you
+[01:41] do need the calculator because it tells
+[01:43] you immediately whether somebody's
+[01:45] offering you a BS or not and then one
+[01:48] the wind turbine we demonstrated will
+[01:50] perform as they say it is at 40 Watts
+[01:52] because another Factor apart from the
+[01:55] area that thing catches is the wind
+[01:57] speed and that's because it increases
+[01:59] the volume of the wind that's hitting
+[02:01] the blade and that has an impact so the
+[02:04] wind speed really really matters and
+[02:07] it's the cube of the wind speed so
+[02:08] though at 4.5 meters per second we'll
+[02:11] only get about
+[02:12] 2.62.8 Watts out of this at 12.5 meters
+[02:17] per second we'll get about 40 Watts so
+[02:19] let's have a little summary
+[02:21] the first thing to do when designing a
+[02:23] wind turbine is decide what kind of
+[02:25] power output you want so let's say you
+[02:27] want 500 watts if you want 500 watts is
+[02:30] the 500 watts available to you so what
+[02:32] kind of wind speed do you get now
+[02:35] sometimes you can go for the greatest
+[02:37] wind speed and produce 500 watts when
+[02:39] it's really blowing hard or you can go
+[02:40] for a middle wind speed you can go for a
+[02:43] really low you've got to decide what
+[02:45] your target wind speed is now the Met
+[02:48] Office here in the UK provide wind speed
+[02:51] average figures across the whole of the
+[02:52] UK you can just look it up and find out
+[02:55] what your average wind speed is so
+[02:57] knowing your average wind speed and
+[02:59] knowing the amount of power that you
+[03:01] want to generate then you can look up on
+[03:03] Omni calculator how big is that wind
+[03:07] turbine going to have to be with that
+[03:08] given wind speed
+[03:10] and that given power requirement you
+[03:13] just plug the fingers in it'll tell you
+[03:14] how big it's going to be now the
+[03:16] assumption is it's going to be about 30
+[03:17] percent efficient and that's a
+[03:19] reasonable assumption given the better
+[03:20] limit that 30 is going to be round about
+[03:24] what you're going to be getting because
+[03:26] that's certainly round about what you're
+[03:28] going to be able to buy that will tell
+[03:31] you how big that has to be in order to
+[03:34] meet that power requirement with the
+[03:36] available power you've got in your area
+[03:39] these of course are starting points
+[03:42] because the next thing we're going to do
+[03:43] is turn that power into electricity
+[03:48] now when we've captured the mechanical
+[03:50] Power by using something like this I
+[03:52] mean this is a horizontal wind turbine
+[03:54] design you can of course get vertical
+[03:56] wind turbine designs but once we've got
+[03:59] the mechanical Power available to us
+[04:01] that we're capturing with our wind
+[04:02] captured device then we can move on to
+[04:06] the motor now a lot of people will
+[04:08] approach me with the motor first saying
+[04:10] I've got this motor it's rated at 36
+[04:13] volts takes about 10 amps so surely it
+[04:15] should produce 360 Watts well it will do
+[04:19] if you put more than 360 watts of
+[04:22] mechanical Power in because of course
+[04:24] it's got losses so you're going to need
+[04:26] to put in something like 400 450 watts
+[04:29] of mechanical Power in order to do that
+[04:31] with this size of wind turbine well I'm
+[04:34] going to need to take it into the next
+[04:36] tornado and hold it just at the edge of
+[04:38] the center all the best wool in the
+[04:41] world that motor is not going to produce
+[04:43] 360 Watts with that on it because there
+[04:46] isn't 360 watts of mechanical power
+[04:48] available well the wind turban does is
+[04:51] capture mechanical Power with this bit
+[04:53] turn it into electrical power using the
+[04:57] motor and it can't have more electrical
+[04:59] power than there is mechanical Power
+[05:01] going in so the worst place to start is
+[05:04] with the motor a bus plus to start is
+[05:06] with this what amount of mechanical
+[05:09] energy can this section grab from the
+[05:12] wind because that is going to determine
+[05:15] everything else so in designing a wind
+[05:17] turbine you're looking at this section
+[05:19] and what mechanical Power it can capture
+[05:21] what can it turn into torque how fast
+[05:25] does it turn what kind of torque are you
+[05:27] getting out of it those are the things
+[05:29] that you really need to know when
+[05:31] beginning the design a wind turbine
+[05:33] thermostats and volts it puts out is
+[05:35] actually pretty trivial it's how much
+[05:38] energy it can capture and it can only
+[05:41] capture less than what's available in
+[05:44] the wind and then how does it turn that
+[05:46] into torque and rotation those are the
+[05:49] things you're really interested in
+[05:51] now they're pretty standard for these
+[05:53] standard designs they're pretty well
+[05:54] known and there's an awful lot of help
+[05:57] in these online calculators to tell you
+[05:59] what that speed and torque is likely to
+[06:01] be for any particular design they all
+[06:04] function in roughly the same way they're
+[06:06] all round about 30 percent efficient or
+[06:09] so because as efficiency increases of
+[06:12] that wind capture then the output that
+[06:15] you're calculating is going to change
+[06:17] but as a guideline it's a brilliant
+[06:20] place to be it not only gives you a
+[06:22] guideline about whether somebody's
+[06:24] handing you a plate full of BS or not it
+[06:27] also gives you a guideline about what
+[06:29] you need to be thinking about when
+[06:31] coming up with the motor section because
+[06:33] obviously if your motor
+[06:35] requires more energy than this can give
+[06:38] well it's not going to be able to do it
+[06:40] now this thing turns quite quickly with
+[06:42] quite a lot of talk you might have
+[06:44] noticed so what we want is a device that
+[06:47] will translate that into electrical
+[06:49] energy with the highest speed but low
+[06:52] torque which is why we choose the
+[06:54] brushler designs that we've been
+[06:56] choosing because that's appropriate to
+[06:58] this now it will actually turn anything
+[07:01] it doesn't really matter much to be
+[07:03] honest but there will be a mismatch if I
+[07:06] don't want gears between this then I
+[07:08] need to choose a motor that has high
+[07:10] speed low to hook if I have a device
+[07:13] that captures the wind but turns slowly
+[07:15] with lots of torque of course what I
+[07:16] need is a motor that's low speed in high
+[07:18] torque but if I have available a motor
+[07:21] that is mismatched to this what I need
+[07:24] is another section between and those two
+[07:26] sections between is the deals we can
+[07:29] gear it we can gear down the speeding up
+[07:31] the torque or we can gear down the
+[07:34] torque and up the speed the gearing is
+[07:36] the one that takes care of the mismatch
+[07:38] between the energy capture device and
+[07:42] the energy conversion device because
+[07:44] energy conversion is that changing a
+[07:46] mechanical energy into electrical energy
+[07:48] and that's the bit deep motor stroke
+[07:51] generator does this bit remember
+[07:53] captures the wind energy
+[07:56] it translates a mismatch using gears
+[07:58] between this and the generator device
+[08:01] and the generator takes that mechanical
+[08:03] energy and turns it into electrical
+[08:05] energy so when thinking about wind
+[08:07] turbines the place to start is not
+[08:09] really the motor you can start the motor
+[08:11] if you want but it will dictate what
+[08:14] kind of turbine blade you're going to
+[08:16] have more often than not you're
+[08:18] restricted by things like size in which
+[08:21] case you start at the wind capture
+[08:23] device now we started here because I
+[08:24] wanted a folding device that was
+[08:26] lightweight and would fit in your
+[08:27] backpack and would produce around about
+[08:30] two Watts or so enough to charge a
+[08:32] battery in a while and be able to charge
+[08:35] your phone or maybe a lighter light at
+[08:36] night which is fine for something like
+[08:39] that that's what that's going to do and
+[08:41] it's what the um
+[08:43] advertised versions are going to do as
+[08:45] well that they're not going to produce
+[08:47] 40 Watts unless you hold them in a
+[08:49] hurricane because that's the way it is
+[08:50] there isn't 40 watts of available wind
+[08:53] power and a wind speed of 4.5 meters per
+[08:55] second that's just the way it is it's
+[08:57] the way it is because that's the amount
+[08:59] of energy there is so when designing a
+[09:01] wind turbine and thinking about building
+[09:03] your own wind turbine that's the section
+[09:06] to look at first we can get that sorted
+[09:08] you can then choose a motor which is
+[09:10] available a lot of people tell me that
+[09:13] certain kinds of motors are only
+[09:15] appropriate for certain kind of wind
+[09:17] turbines and in a sense that's true and
+[09:20] in a sense it isn't true actually just
+[09:23] about any motor will do as long as your
+[09:25] wind turbine's big enough to turn it if
+[09:28] it's a mismatch between speed and torque
+[09:30] what are you going to have to put gears
+[09:32] in there to put gears in there you can
+[09:34] match them up which is the job of Gears
+[09:37] anything pretty much will do if you
+[09:40] don't want to do an awful lot of
+[09:41] building then of course what you need to
+[09:43] do is find something that's going to
+[09:45] match
+[09:46] this bit so this bit like this one turns
+[09:48] at high speed with low torque or you
+[09:50] need a high speed low torque motor and
+[09:52] that's going to be something like a
+[09:53] stepper motor or a blushless motor or
+[09:55] maybe an axial flux design something
+[09:57] that's appropriate to this but it
+[09:59] doesn't need to be it can be matched
+[10:02] with gears but this bit is going to be
+[10:04] the bit that you really need to work out
+[10:06] now there are lots of designs including
+[10:09] this one incidentally there are lots of
+[10:10] designs out there there are lots of um
+[10:12] free designs that you can make or print
+[10:15] including things you can cut from pipes
+[10:17] things that you can print out yourself
+[10:18] and they're all going to be round about
+[10:21] that sort of level so the 25 to um 30
+[10:24] efficiency level for something like that
+[10:27] and that's more than acceptable for a
+[10:30] device that you're going to be making at
+[10:32] home because that's round about what
+[10:34] they are or when you buy them as pre-med
+[10:36] stuff anyway anyway I understand that
+[10:39] people having problems working out how
+[10:41] to make a start on this and they're
+[10:43] finding a motor thinking I can make that
+[10:44] a wind turbine and yes you can you're
+[10:47] better off starting with this bit and
+[10:49] then finding a motor that fits I hope
+[10:51] that helps I hope it makes sense thank
+[10:53] you very much for watching and please do
+[10:55] remember to like And subscribe

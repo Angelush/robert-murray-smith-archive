@@ -1,0 +1,105 @@
+{
+  "thing_id": 6161062,
+  "name": "The Awesome Portable Wind Turbine",
+  "description": "to finish this you will really need to build the BLDC generator from \r\n\r\nhttps://www.thingiverse.com/thing:6161077\r\n\r\nor modify it to take a nema stepper motor\r\n\r\nyou can see a video of more info and construction here https://youtu.be/PlLbLzjp2g4\r\n\r\nthe generator build can be found here https://youtu.be/BX7UgVSUOBE\r\n\r\nA replacement upgraded blade system can be found here https://www.thingiverse.com/thing:6187901\r\n\r\n",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "PlLbLzjp2g4",
+      "url": "https://youtu.be/PlLbLzjp2g4"
+    },
+    {
+      "video_id": "BX7UgVSUOBE",
+      "url": "https://youtu.be/BX7UgVSUOBE"
+    }
+  ],
+  "tags": [
+    "BLDC",
+    "brushless",
+    "fwg",
+    "generator",
+    "portable",
+    "robert",
+    "tnt",
+    "turbine",
+    "wind"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution",
+  "added": "2023-08-08T15:56:06+00:00",
+  "modified": "2023-08-08T15:56:06+00:00",
+  "url": "https://www.thingiverse.com/thing:6161062",
+  "thumbnail": "https://cdn.thingiverse.com/assets/56/1b/01/15/fb/large_display_484fcbac-a3ad-4666-8920-257d39dd02e8.jpg",
+  "like_count": 1369,
+  "collect_count": 1325,
+  "comment_count": 19,
+  "download_count": 5481,
+  "files": [
+    {
+      "name": "tail_bar_holder.stl",
+      "size": 850084,
+      "url": "https://www.thingiverse.com/download:13367545",
+      "download_url": "https://api.thingiverse.com/v2/files/13367545/download"
+    },
+    {
+      "name": "rear_tail_bar.stl",
+      "size": 12684,
+      "url": "https://www.thingiverse.com/download:13367546",
+      "download_url": "https://api.thingiverse.com/v2/files/13367546/download"
+    },
+    {
+      "name": "screw_cap_lock.stl",
+      "size": 567884,
+      "url": "https://www.thingiverse.com/download:13367547",
+      "download_url": "https://api.thingiverse.com/v2/files/13367547/download"
+    },
+    {
+      "name": "tail.stl",
+      "size": 615184,
+      "url": "https://www.thingiverse.com/download:13367548",
+      "download_url": "https://api.thingiverse.com/v2/files/13367548/download"
+    },
+    {
+      "name": "generator_end_cap.stl",
+      "size": 79284,
+      "url": "https://www.thingiverse.com/download:13367549",
+      "download_url": "https://api.thingiverse.com/v2/files/13367549/download"
+    },
+    {
+      "name": "tripod_adapter.stl",
+      "size": 52784,
+      "url": "https://www.thingiverse.com/download:13367550",
+      "download_url": "https://api.thingiverse.com/v2/files/13367550/download"
+    },
+    {
+      "name": "generator_clip.stl",
+      "size": 55884,
+      "url": "https://www.thingiverse.com/download:13367551",
+      "download_url": "https://api.thingiverse.com/v2/files/13367551/download"
+    },
+    {
+      "name": "cap.stl",
+      "size": 844784,
+      "url": "https://www.thingiverse.com/download:13367552",
+      "download_url": "https://api.thingiverse.com/v2/files/13367552/download"
+    },
+    {
+      "name": "blade_holders_x_3.stl",
+      "size": 38084,
+      "url": "https://www.thingiverse.com/download:13367554",
+      "download_url": "https://api.thingiverse.com/v2/files/13367554/download"
+    },
+    {
+      "name": "blade_carrier.stl",
+      "size": 890084,
+      "url": "https://www.thingiverse.com/download:13367555",
+      "download_url": "https://api.thingiverse.com/v2/files/13367555/download"
+    },
+    {
+      "name": "blades_x_3.stl",
+      "size": 93184,
+      "url": "https://www.thingiverse.com/download:13367556",
+      "download_url": "https://api.thingiverse.com/v2/files/13367556/download"
+    }
+  ]
+}

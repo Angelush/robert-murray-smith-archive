@@ -1,0 +1,255 @@
+[00:00] foreign
+[00:07] video 1929 we went into considerable
+[00:10] detail about how to make one of these
+[00:12] it's a serpentine coil the reason we
+[00:14] went into that detail is what we're
+[00:16] looking to do is make a more efficient
+[00:18] and more powerful generator for our wind
+[00:21] turbine now when a wire generates it
+[00:24] generates the most efficiently when it's
+[00:27] in a straight line like that as we turn
+[00:29] it around like that we lose efficiency
+[00:31] of generation so we want as much wire as
+[00:33] possible to go through the magnetic
+[00:35] field in that direction now when we
+[00:38] think of an ordinary coil an ordinary
+[00:39] coil goes round and round and round and
+[00:41] so it has a top and a bottom the
+[00:43] serpentine coil only has a top or a
+[00:46] bottom so we've reduced the weight of
+[00:48] Copper for the same generation so as the
+[00:51] generation stays the same when the
+[00:53] weight of Copper goes down then the
+[00:54] energy density goes up so by removing
+[00:58] either a top or a bottom we've improved
+[01:01] the energy density of the generator that
+[01:04] we're going to make or if you like we've
+[01:05] made it more powerful because it's more
+[01:07] energy dense if we can keep these wires
+[01:10] in this direction then we've made it
+[01:12] more efficient because the wires are at
+[01:15] the most efficient orientation and
+[01:17] that's what matters about the serpentine
+[01:20] coil now in order to get that to do that
+[01:22] of course we want the greatest amount of
+[01:25] wire in a straight line going through
+[01:27] our magnetic field so the longer the
+[01:29] magnetic field the more of this wire
+[01:31] will be straight and the more efficient
+[01:34] it's going to be now we have made
+[01:36] Serpentine coils before when we did them
+[01:38] in little one centimeter circles to test
+[01:40] the idea and what we got was a zigzag
+[01:42] pattern like that where most of it was
+[01:43] in that kind of angle it's not very
+[01:45] efficient with this one where we got
+[01:47] most of the wire going down then we've
+[01:49] superimproved the efficiency and of
+[01:51] course we can do that really easily but
+[01:54] using bigger magnets so what I've got
+[01:57] here are a bunch of 65 millimeter by one
+[02:00] centimeter by three millimeter N35
+[02:03] magnets and I've drawn this up on
+[02:06] tinkercad what this is is three bits and
+[02:10] that's all we actually need we need a
+[02:12] rotor we need a stator and we need a bit
+[02:16] of act as a cover that can join it up to
+[02:19] the rest of our wind turbine which is
+[02:22] exactly what we got here we've got a
+[02:24] stator where I put some wire on already
+[02:26] from video 1929 that's our rotor which
+[02:29] is where our magnets are gonna go and
+[02:31] that's our cover and all three just slot
+[02:33] together
+[02:36] like that to make our generator so our
+[02:38] generator is actually pretty simple to
+[02:40] make the magnets go in a north-south
+[02:43] north-south orientation and here they
+[02:46] are here's our n35s so we do them
+[02:49] north south north south north south we
+[02:53] put our Serpentine coils onto our stator
+[02:56] and one's already been put on you
+[02:58] courtesy of video 1929 there are 200
+[03:01] turns on here and I've got two more to
+[03:03] add now I could make this three fairs by
+[03:06] putting the coils at 120 degree
+[03:08] separation but I'm actually just going
+[03:09] to line them up with the slots that I've
+[03:12] got ready for them so let's put those on
+[03:15] there is my rotor now these magnets are
+[03:18] north south north south and there's 12
+[03:20] of them and both of that's important
+[03:21] because there are 12 of these wires here
+[03:25] we've got six on the crown and six on
+[03:28] the bottom where it makes the turn and
+[03:29] that matters because as that goes past
+[03:32] to there it'll generate going past the
+[03:34] North and that will force the
+[03:35] electricity to go in that direction
+[03:38] now if it was not then this one was
+[03:40] passing a North as well then it would
+[03:42] both go in the same way and we get
+[03:44] nothing out because we're making this
+[03:45] one pass South as this one passes North
+[03:47] then that goes that way and then that
+[03:50] way and we can get what we want out of
+[03:52] it so we have the same number of
+[03:54] straight bits of wire as we have of
+[03:56] magnets the magnets are in north south
+[03:58] and then these crowns and dips it
+[04:01] doesn't really matter as long as you've
+[04:02] got six grand six dips to make that
+[04:04] crown and those are the keys to a
+[04:07] serpentine coil now the coil itself if
+[04:09] you haven't watched 1929 is super super
+[04:12] easy to make and that's one of the other
+[04:14] joys of it is how easy they're to make
+[04:17] because the wind 12 coils as individual
+[04:20] coils and then lose half of that copper
+[04:22] it's a little bit depressing it takes
+[04:24] forever so on one Serpentine call takes
+[04:26] no time at all and you don't need half
+[04:29] of the copper so we've put it on to
+[04:32] there and we've got our rotor and
+[04:34] obviously our rotor goes in there with a
+[04:37] spacer of an 8mm millimeter washer to
+[04:39] make sure that it spins freely now this
+[04:41] is a work in progress so I'm not going
+[04:44] to make the particular campaign files
+[04:46] public at the moment but once I get all
+[04:48] the lengths right then the tinkercad
+[04:50] files will be released so that everybody
+[04:52] can use them now all we have to do is
+[04:55] pop our cover on give it a spin and
+[04:57] it'll generate now we have three coils
+[04:59] so we have six wires each of those will
+[05:02] generate the same because they're
+[05:04] identical coils and we can connect them
+[05:06] up in series if we want to increase the
+[05:09] voltage or parallel if we want to
+[05:11] increase the amps let's put that
+[05:13] together and give it a spin
+[05:15] so I've got a single coil wired up
+[05:18] remember there are three coils in here
+[05:19] I've connected to the voltmeter we'll
+[05:21] spin it by hand and see what we get as a
+[05:22] voltage
+[05:25] oh there we go nine volts no problem at
+[05:28] all so if we were to connect all those
+[05:30] three up in series we'd get uh 27 volts
+[05:34] out of it which is pretty impressive for
+[05:35] that
+[05:36] so that is
+[05:38] genuinely more efficient
+[05:41] it's more powerful and it's a lot
+[05:44] cheaper than the kind of generators
+[05:47] people have been buying oil making which
+[05:49] is the win about such a thing so I
+[05:52] thought I would share it with you as I
+[05:53] said I've got a couple of things I still
+[05:54] want to do you'll notice that's not
+[05:56] quite long enough so I need to make that
+[05:57] a little bit longer and then I'll
+[05:59] release the file so that people can copy
+[06:01] this if they want to
+[06:03] now a little bit more of a technical
+[06:05] discussion about it for folks to answer
+[06:07] some questions people have been asking
+[06:09] one of them is that well what wire am I
+[06:11] using now I use 0.2 millimeter wire in
+[06:14] this and I use that because um the
+[06:17] voltage that's generated is blv sine
+[06:19] Theta so B is a centromagnetic field L
+[06:22] is the length of wire V is the speed at
+[06:24] which it turns and sine Theta is the
+[06:27] angle that it makes with the magnetic
+[06:28] field which is why we've been so well
+[06:31] so concentrating on making sure that
+[06:34] it's a straight line because sine Theta
+[06:37] of the straight line is one it's the
+[06:38] biggest it can be as the angle changes
+[06:40] then it drops below one and of course
+[06:43] that reduces the amount it can generate
+[06:45] quite dramatically
+[06:47] the reason I use this wire is it's a
+[06:49] purely physical thing a wire has
+[06:51] thickness if I use a thicker wire I
+[06:53] can't get as much wire in here and the
+[06:55] length of the wire matters when it comes
+[06:57] to generation but of course this is the
+[07:00] wire gets thinner than the resistance
+[07:02] goes up so it's ability to handle amps
+[07:04] goes down as the wire gets thinner I
+[07:08] want a high voltage because well if I'm
+[07:10] going to put this through a rectifier
+[07:12] and use cheap components I don't have to
+[07:13] worry about a voltage drop if I've got
+[07:15] lots of volts that can drop people also
+[07:19] say things like um well you really ought
+[07:21] to be taking amp measurements at the
+[07:22] same time
+[07:24] you've got to remember that the um
+[07:27] generator takes the energy from the wind
+[07:29] and turns it into electrical energy it
+[07:31] can't do more than the wind so if
+[07:33] there's about 5 or 10 watts in the wind
+[07:36] you're not going to get more on that out
+[07:37] of this because there isn't more going
+[07:40] in and now we know what the voltage is
+[07:42] means if we want to beat the pants off a
+[07:45] commercial generator we're looking
+[07:46] you're generating around about 200
+[07:48] milliamps or so to get 5 to 10 watts
+[07:50] that wire is going to cope with that and
+[07:53] when we get the speed in that we're
+[07:54] going to get that what happens when a
+[07:57] turbine bursts into flames is it a wire
+[08:00] Choice was wrong it's going too quickly
+[08:02] there are too many amps being pushed
+[08:03] through two thinner wire at too high
+[08:05] voltage and it burst into flames here
+[08:08] we're unlikely to push more than an amp
+[08:10] or so which is what that wire will cope
+[08:12] with 200 milliamps no problem at all we
+[08:16] are going to get about 25 28 volts out
+[08:19] of it around about 200 300 milliamps and
+[08:22] that will give us the five or six Watts
+[08:24] that we actually want now I've said that
+[08:28] this um is
+[08:30] more efficient it is more powerful and
+[08:33] it is cheaper those are bold claims and
+[08:36] people often say if you're going to make
+[08:37] bold clams you have to bug bold evidence
+[08:40] but one of the things they're forgetting
+[08:42] is I didn't invent this I'm actually
+[08:44] just replicating it to show how easy it
+[08:47] can be to make and those bold clowns
+[08:50] well they're just hugely backed up by
+[08:52] the research so if you want more
+[08:54] information on this then have a look on
+[08:57] Google Scholar read a few research
+[08:59] papers and you'll find that what I'm
+[09:00] saying is backed up by the research so
+[09:03] that's the position to go to when you
+[09:06] want to know more about it is have a
+[09:09] read in Google Scholar all I'm doing is
+[09:11] demonstrating how easy it is to make
+[09:13] such a thing but it can perform really
+[09:15] really well and you don't have to spend
+[09:18] a fortune on it so I hope you enjoyed
+[09:20] the video I hope you're enjoying the
+[09:21] series that is obviously going to be our
+[09:23] generator so I'll get that printed a
+[09:25] little bit more make sure it can connect
+[09:27] up to the rotor that we're going to put
+[09:29] on it and then we'll see what that does
+[09:31] in an actual wind again these can be
+[09:34] connected in series or parallel
+[09:36] depending on which one you want vaults
+[09:38] or amps I'm quite happy with nine volts
+[09:41] by turning it by hand so I may just put
+[09:43] those in parallel and we'll get more
+[09:45] amps out of it I hope you enjoyed the
+[09:47] video thank you very much for watching
+[09:49] and please do remember to like And
+[09:51] subscribe

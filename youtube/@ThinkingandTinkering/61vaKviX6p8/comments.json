@@ -1,0 +1,2630 @@
+[
+  {
+    "id": "Ugwbc0wGGzRVq6Avb0R4AaABAg",
+    "author": "@grantofat6438",
+    "author_channel_id": "UCaODonjXySjNb7iQ7xfhzfQ",
+    "text": "It is indeed possible, even with a low efficiency, because the wind can be higher than 25m/s. 25m/s is not a limit.",
+    "likes": 0,
+    "published_at": "2023-07-24T11:52:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwiJHRPV7mhU6FYMCF4AaABAg",
+    "author": "@msowdal",
+    "author_channel_id": "UChuSqu4gjOiZ27r6S2dOnaQ",
+    "text": "that's 56 MPH wind",
+    "likes": 0,
+    "published_at": "2023-07-23T19:38:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy0VgoT3sD90wtdEzp4AaABAg",
+    "author": "@colinhubbard4826",
+    "author_channel_id": "UCi0nj3WN37Iwx1dGJYmEKfg",
+    "text": "Just curious because looking math, I think there is an error in your calculation regarding the area?\nYour turbine is 800x600mm (lxh) therefore the actual wind pickup area would be 400x600mm as its half of the drum? Or have I missed someone here?",
+    "likes": 0,
+    "published_at": "2023-03-28T07:42:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxWYw2ZkbK12l_jN8p4AaABAg",
+    "author": "@troy6882",
+    "author_channel_id": "UCtX5ASuTxOCAlTYXIxk547A",
+    "text": "😃😄😁😆😅 5 Smile's",
+    "likes": 0,
+    "published_at": "2023-02-07T08:12:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx9nCYVnPddeVvsEFV4AaABAg",
+    "author": "@johnnelson7686",
+    "author_channel_id": "UC9Eauq8FVkbZw3T3MpQD4pQ",
+    "text": "Thank you for your interesting and thoughtful content, I am enjoying your projects.",
+    "likes": 0,
+    "published_at": "2022-11-25T04:26:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4EGdvMqrxFTYKLdV4AaABAg",
+    "author": "@SolwiseMD",
+    "author_channel_id": "UClfk2TJbm0ZdAJWYeaovwpQ",
+    "text": "Though Robert will be unlikely to read this post I make it because it may be of interest to other readers. A few points about the series.\n\nMagnetic Circuit.\nIf you look at a commercial motor (or generator) you will see that great effort goes into reducing the gap between the moving and stationary parts of the magnetic flux path down to about half a milli-metre or so.  I suspect this requirement is much more difficult (read: expensive) to achieve on the outside edge of a wind turbine than on a self-contained generator connected to the shaft.\nHaving said that, Robert's rig does decelerate under load (which is what we want) so there is some hope.\nIn order to improve the performance it would be possible to reduce the gaps in the magnetic circuits:  Firstly by getting the transformer core as close as possible to the magnets, and secondly by arranging an iron 'keep' (perhaps the removed side of the transformer) on the other side of the magnets to minimise the gap on that side.  I can't see how to arrange this on the current layout but a better result could be achieved by rotating the magnets so that they face outwards, hanging below the lower rim of the rotor so that the 'keeps' could be mounted on the base, inward and opposite the re-oriented transformers.\n\nLow winds and Starting\nIf we do all of the above and achieve good coupling of the magnetic circuit we will find that the 3kg pull from each magnet will cause the rotor to click around in steps.  In a worst case this could prevent the rotor starting in low winds.  It may be possible to alleviate this effect by making the position of the coils fine-adjustable so that phase of the 'clicks' from each coil is cancelled by all the others.  The more coils the better.  This effect is usually addressed in commercial solutions by using a single coil on the rotor instead of permanent magnets.  This arrangement is called an alternator rather than a generator.  It needs some sort of regulator to control the rotor current and hence the output voltage.  The regulator also prevents any current flowing until the rotor is rotating at an adequate speed.",
+    "likes": 0,
+    "published_at": "2022-10-16T16:52:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw2Ii_uVDsrL355NpJ4AaABAg",
+    "author": "@tintin6892",
+    "author_channel_id": "UCUyBLNuAcD9DvtxFK7vUlUw",
+    "text": "How does it fare with the axle oriented horizontally?",
+    "likes": 0,
+    "published_at": "2022-09-20T12:18:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzYzz-Ff2jEVjb3oll4AaABAg",
+    "author": "@chrisgriffiths2533",
+    "author_channel_id": "UCWEhW_8HKkOlpRW4Cx-umpw",
+    "text": "That Betz was a Pessimist, A Smart Pessimist.\nTherefore Surely Betz is Assuming the Generator Must Allow the Wind to Pass Through ?.\nTherefore Perhaps the Formula for Sails is Also Appropriate.\nTherefore are Kite Generators Limited to the Betz Formula ?.\nMaybe Not.",
+    "likes": 0,
+    "published_at": "2022-07-07T00:21:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxp5oA1GwLuz3GhHH54AaABAg",
+    "author": "@ZsOtherBrother",
+    "author_channel_id": "UC6JjPU7ysq6rSwii1rvs63g",
+    "text": "Based on your numbers, \"0.18\" already factors in the 50% efficiency of Savonius type wind turbine, so you don't need to divide it by 2 again, and your max is, in fact, 1.08kW (at 80% efficiency).",
+    "likes": 0,
+    "published_at": "2021-10-13T06:41:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzpzSQ-d2FUqLMd1Sh4AaABAg",
+    "author": "@MultiOutdoorman",
+    "author_channel_id": "UCgkY_-gK4Y-vwYRFLOMTwwQ",
+    "text": "What can we do about all the rain ?\nBuild Hydro-electric system perhaps ?",
+    "likes": 0,
+    "published_at": "2021-01-18T21:16:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzdB4gUz8YIbPqQrwh4AaABAg",
+    "author": "@MrSummitville",
+    "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+    "text": "Who has 25 m/s or 90 km/hr wind speed in there back yard ?",
+    "likes": 0,
+    "published_at": "2020-12-01T04:23:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzrD2CX6ZkLeyIrmiB4AaABAg",
+    "author": "@matthewslaton1366",
+    "author_channel_id": "UCII0Ah8lzeOYca97ZA90bdg",
+    "text": "you can put a tray around the wind device, collect the water to central points within the trough, like a moat around a castle and add drainage pipes, and use that as an energy source. rainwater energy. you can use funnels as well. whatever forces the water down the funnel increasing its impact",
+    "likes": 0,
+    "published_at": "2020-12-01T02:49:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy0HFkMN9eOu1OWsgV4AaABAg",
+    "author": "@Julioargent",
+    "author_channel_id": "UCJEmDZAh5s87Y61WnlDElhg",
+    "text": "Robert, V seems to be the most important variable in the formula (because cube). Could be possible increasing V with any kind of design of funnel to getting closer to those 25m per second?",
+    "likes": 0,
+    "published_at": "2020-11-27T05:17:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy0HFkMN9eOu1OWsgV4AaABAg.9GYlNYiw-sb9GhwiNqPmRn",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "Adding a funnel reduces the overall efficiency by reducing Cp.  He will soon learn ( or maybe not ) that Cp is NOT a constant.  A decreasing Cp, actually reduces the amount of wind energy that is converted into mechanical power.   WHO has 25 meter/sec ( 90 km/hr ) wind speed in there back yard ?",
+        "likes": 0,
+        "published_at": "2020-12-01T04:08:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw7mWiGaoKhYS33L7t4AaABAg",
+    "author": "@PottersCottageNo3",
+    "author_channel_id": "UCYJzYs8yG1mK5gMwTa4aK_w",
+    "text": "How does betz law accomodate the number of blades?",
+    "likes": 0,
+    "published_at": "2020-11-22T08:22:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw7mWiGaoKhYS33L7t4AaABAg.9GMDfMsscLs9Gku4pfEt9E",
+        "author": "@q.e.d.9112",
+        "author_channel_id": "UC2GCMbZ44dSiCiX4dUHuNdQ",
+        "text": "Betz law does not specify the type of turbine. It’s the limit that a perfect, 100% efficient, rotor could achieve. You simply cannot catch all the kinetic energy in wind because to do so you would have to stop it dead. But that would block any further wind from passing through your rotor. It turns out that 59% of the total energy in the wind is the most you could possibly get. Try to slow the wind any further to extract more power and you affect the upwind speed so that it has less energy to give.\nSo a 100% efficient rotor could extract about 59% of the total kinetic energy of the wind. The most efficient HAWT systems can manage about 80% Betz efficiency, thus capturing only about 48% of the wind’s total kinetic energy. Savonius rotors such as Robert’s get at best ~25% Betz efficiency.",
+        "likes": 0,
+        "published_at": "2020-12-02T07:43:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTOn_ZEP0rHc1wXbd4AaABAg",
+    "author": "@imbabyface",
+    "author_channel_id": "UC48HYN67WhxyequEPkqJQFg",
+    "text": "Is greater output possible if you were to reproduce the attachment of Magnets on the top of the turbine and add the coils likewise upside down facing the top ring of magnets as the bottom increasing output?   Of course you would need to create the required spacing!  👨‍🔬",
+    "likes": 0,
+    "published_at": "2020-11-22T04:50:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzoLQnNZOmHTSaYck54AaABAg",
+    "author": "@dfghjkuytr",
+    "author_channel_id": "UCkU45zRXrhOqoQaFie3qPfg",
+    "text": "Great work Robert, but don't forget you also got losses due to the (in)efficiency of the turbine itself. Many VAWTs are only 40% or worse.",
+    "likes": 0,
+    "published_at": "2020-11-20T21:29:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzoLQnNZOmHTSaYck54AaABAg.9GIU7LmGsBS9Ghz4taI1xV",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "And this is a DRAG type VAWT, it has no \"Lift\" in the airfoil. Actually, there are no airfoils ...",
+        "likes": 0,
+        "published_at": "2020-12-01T04:29:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxJtdX16WlqUWI9KS14AaABAg",
+    "author": "@leestewart7558",
+    "author_channel_id": "UCk9AxJsKZkaQsxb1uqbpedw",
+    "text": "Dear sir. A couple of questions. The last meters per sec. I'm not certain how to convert to miles per hour. Could you help me with that? Second... I was curious about gearing up the gen. If that might produce a little more continuous wattage. Say from a 5mile an hour wind to a 20 mile an hour wind... Or with respect. Veriable wind source. Please excuse my poor English, in more artist then writer. Thank you. Love your show. 😉😎",
+    "likes": 0,
+    "published_at": "2020-11-20T20:34:57Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxJtdX16WlqUWI9KS14AaABAg.9GINr6zhOwj9GhzO7LzLCs",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "Just ask google to \"convert 25 meters/second to mph\" .  So, WHO has wind blowing that fast?  Do you?",
+        "likes": 0,
+        "published_at": "2020-12-01T04:31:54Z"
+      },
+      {
+        "id": "UgxJtdX16WlqUWI9KS14AaABAg.9GINr6zhOwj9Gi2t0sNjCR",
+        "author": "@leestewart7558",
+        "author_channel_id": "UCk9AxJsKZkaQsxb1uqbpedw",
+        "text": "@MrSummitville dear sir. I was asking for the mile per hour  Because we get 15 - 45 mph wind from time to time... Except during thunderstorms. And they Can go from 30 -90 mph. I want to try My  hand at building a wind power device. But I was thinking I could regulate it at a Constance wind speed some how by gearing it. Didn't know for sure. Thought you might have some ideas.\n     Thank you. Love your show. \n             Sincerely lee stewart",
+        "likes": 0,
+        "published_at": "2020-12-01T05:11:12Z"
+      },
+      {
+        "id": "UgxJtdX16WlqUWI9KS14AaABAg.9GINr6zhOwj9GizyGaMKE-",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@leestewart7558 I repeat ... just type this phrase \"convert 25 meters/second to MPH\" in to GOOGLE!  Did you even TRY?  I am teaching YOU how to find the answer for yourself - ie How to be \"self sufficient\".  Wind GUSTS do not make a WIND Turbine worthwhile.  Only steady / sustained winds work well ( at all ).  90 MPH winds will destroy  your device.",
+        "likes": 0,
+        "published_at": "2020-12-01T13:56:12Z"
+      },
+      {
+        "id": "UgxJtdX16WlqUWI9KS14AaABAg.9GINr6zhOwj9GjCOU6W8cR",
+        "author": "@leestewart7558",
+        "author_channel_id": "UCk9AxJsKZkaQsxb1uqbpedw",
+        "text": "@MrSummitville thanks. Sorry to bother you. Ill give it a try. 😉😎",
+        "likes": 0,
+        "published_at": "2020-12-01T15:53:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz3HI-tLx-srOpoNIJ4AaABAg",
+    "author": "@consaka1",
+    "author_channel_id": "UCSngwsvIzEdhbwSZeA5Nncw",
+    "text": "Hmm I think your formula is based on regular wind turbines. Like the large three-bladed ones. Not the squirrel cage variety you made. Also, your efficiency rating will be on the low side since the caged variety of \"turbine\" you created is much less efficient than the broad turbine variety. That is assuming the formula could even be adapted for the caged variety.",
+    "likes": 0,
+    "published_at": "2020-11-19T06:47:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz3HI-tLx-srOpoNIJ4AaABAg.9GEKKByGkP_9GhzX76izBR",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "Also, it is a DRAG type of HAWT.  He has no airfoil, there is no \"lift\" force ...",
+        "likes": 1,
+        "published_at": "2020-12-01T04:33:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0KYwtMQ1la58V72h4AaABAg",
+    "author": "@MrZantius",
+    "author_channel_id": "UCqNXxm4IPR45tDHqber1Ilw",
+    "text": "how about an inner ring of magnets as well ...will this work with more transformers?",
+    "likes": 0,
+    "published_at": "2020-11-17T22:18:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw7KBH3ji1zhY2jsSp4AaABAg",
+    "author": "@scottkrienke-turvey1306",
+    "author_channel_id": "UCvizJJ0MELpVL97ADQy1Xjg",
+    "text": "What can you do when your trying to test a wind turbine when it's raining  cats and dogs... water is much more dense than air... build a downspout generator...",
+    "likes": 0,
+    "published_at": "2020-11-17T14:51:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyK3WY-t20YDEVp1Op4AaABAg",
+    "author": "@RR-mt2wp",
+    "author_channel_id": "UCP71QeGxUc5HiAcwGTB6IAg",
+    "text": "Hi Robert not scrap build bloody well built mate. Sorry you mean components sourced lol.\nGreat interest seeing what manufactured turbines claim to sell there products.\nTo see any useable free energy is a winner. All the best bud. Ron.",
+    "likes": 0,
+    "published_at": "2020-11-17T09:08:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPubna2JU1PNFCf8t4AaABAg",
+    "author": "@aspudkicker",
+    "author_channel_id": "UCwYX1nsTgrJ9K_rHSrhsgCg",
+    "text": "There was a interesting reason I read a few years ago for the propeller type turbine having twisted blades aswell as shaped form, the reason given was that the tip was going at a different speed to the base of the blade, and therefore if you didnt have a allowance for the slower parts being pushed and therefore being a fan by the faster parts, it causes a inefficency, so the blades are twisted to cause the air to slip over faster over the slower parts of the blade. It was a interesting  reason, I dont know how correct it is, but looking at larger turbines blades they are profiled and some of them have slight twists in them too. I would think the twist would reduce the potential energy from the blade, but not as much as the slower part acting like a fan.",
+    "likes": 1,
+    "published_at": "2020-11-17T08:22:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzAtADb8zev3Knctk54AaABAg",
+    "author": "@q.e.d.9112",
+    "author_channel_id": "UC2GCMbZ44dSiCiX4dUHuNdQ",
+    "text": "Hi Robert!\nSorry to keep correcting you, but you’ve got your constant wrong by a factor of ~2.\nAssuming ρ = 1.19 kg/m^3 as the density of air, the constant 16/27 x 1/2 x 1.19 = 0.35, not 0.18 as shown. What value did you use for ρ ?\nNow to calculate Betz power limit for a 1 m^2 turbine, [height x diam for VAWT,  (π x diam^2)/4 for HAWT]\n\nAirflow (m/s).        Betz limit (W)\n        1                               0.35\n        2                               2.8\n        3                               9.45\n        4                              22.4\n        5                              43.75\n        6                             75.6\n        7                            120.5\n        8                            179.2\n        9                            255.15\n       10                           350\n\n       15                        1,181 \n\n        20                       2,800\n\n        25.                      5,469 \n\nI think your turbine has a different area, but if you express that area in square metres then multiply the above figures by your area you’ll get Betz power limits for your turbine.\n\nBeing absolutely honest with you, you’ll be doing well if you output more than a fifth of those figures.If your turbine operates at 20% efficiency it will be pretty good for a Savonius type design. 75% efficiency in your generator, would be amazing for a home made generator designed around unmatched components. Which brings you to somewhere around 15% of the Betz limit. Higher efficiency requires Aerodynamic lift as in  the Darrieus design. \n\nDo not be disappointed if you get perhaps 35-40W max in a 10 m/s breeze. I’m sure you’ve hoped for more, but the big boys operate at 80% Betz efficiency and perhaps 95% electrical efficiency, and even then they’re taking less than 50% of the wind energy that passes through their rotors.\n\nBy all means keep trying. Savonius rotors can be durable and rugged, which they need to be if you’re going to get useful power out of them. Suitable for high wind environments such as mountains and Antarctica. Not that useful, elsewhere. Possibly good, in conjunction with solar panels, high eff. LEDs and Li-ion for a remote street light, weather stations, comms towers etc.\n\nFinally, add my voice to those others on the power/energy question. Power (W, Watt) is the instantaneous production/consumption of energy (J, Joule). A 60W light bulb uses 60J of energy _every_ second. If I multiply the power by the time, as in my 60W bulb switched on for 20 seconds>> 60W x 20s = 1200J. \nNow a Joule is a pretty small unit. You eat a third of a million of them with your morning muesli. So the electrical industry came up with the kW.h. It’s the amount of _energy_ created/consumed when there’s a kW of _power_ for an hour. 1000W x 3600s = 3,600,000J or 3.6MJ.\nA genuine industry standard 1kW wind turbine is able to put out that power at a wind speed of 10m/s (~22mph). Even at the Betz limit you would need a turbine area of 2.86m^2 to achieve that performance. In practice, considerably larger.\nPlease do not take these remarks of mine in anything other than the helpful spirit they are intended.\nKia Ora\nMicko\nAotearoa-NZ",
+    "likes": 1,
+    "published_at": "2020-11-17T04:29:07Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgzAtADb8zev3Knctk54AaABAg.9G8vwVvPkow9GhzvEO2vbH",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@Q.E.D. - He forgot that this is a DRAG type of VAWT.  It has no airfoil, there are no \"lift\" forces on his blades.",
+        "likes": 0,
+        "published_at": "2020-12-01T04:36:33Z"
+      },
+      {
+        "id": "UgzAtADb8zev3Knctk54AaABAg.9G8vwVvPkow9GjB-hieH-_",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@Q.E.D. - But only 1/2 of his so-called \"... H x D = Surface Area ..\" is actually capturing any wind energy.  The other half the Surface Area is actually pushing back AGAINST the Wind.   So, there is a huge *DRAG* co-efficient missing from his formula.   He does not have a 1 meter^2 Wind Turbine.  More like a 0.5 Meter^2 total surface area.  But then only 50% generates power, the other 50% generates DRAG and needs to be blocked / covered.  So, your Watts calculation are more than a factor of 4 TIMES, too high.  He is applying a formula that works well for a HAWT, but does not work well for a VAWT.  And who has 25 m/s = 56 MPH = 90 Km/Hr winds in their back yards?  Pieces will fly off and break the neighbor's windows ...",
+        "likes": 0,
+        "published_at": "2020-12-01T15:41:24Z"
+      },
+      {
+        "id": "UgzAtADb8zev3Knctk54AaABAg.9G8vwVvPkow9GjrZL2lE0-",
+        "author": "@q.e.d.9112",
+        "author_channel_id": "UC2GCMbZ44dSiCiX4dUHuNdQ",
+        "text": "@MrSummitville \nThe Betz limit is independent of the type of rotor. It’s the limit of extractable power from a given airspeed across a given area, regardless of the method used. It reflects the fact that to extract all the KE you would have to reduce the wind speed to zero which would block incoming air. This limit is approximately 59% of the total kinetic energy in one second’s worth of wind passing through that area. If we try to slow the wind down by more than about 25% of its initial velocity we start to hinder the passage of the air and get diminishing returns. \nIt’s how you can compare the efficiency of different systems. A wind turbine capable of capturing 59% of the total energy would be 100% efficient. Of course, one of the reasons drag turbines, such as the Savonius type, have such low efficiency is, as you pointed out, that they’re only using one half of the available wind. In fact the other half is actively reducing energy extraction. However, the stresses on the structure increase relative to that total area, and this is the area we need to consider when comparing different rotors.\nSavonius rotors have some advantages. They can be built to operate over a greater range of wind speeds, and they are largely unaffected by wind shear. They are quiet, present little danger to birds and can be built both simply and robustly. Their maintenance requirements are generally far less than lift turbines such as HAWTs or Darrieus type VAWTs, but their output is far lower. Good for remote, low energy requirements, such as unmanned weather stations in areas where solar panels are unsuitable. Great for high latitude winters. Fine for low power requirements. But, using the Betz limit as 100% efficiency, the VERY best HAWTs can attain ~80%, the best Darrieus types ~60% and the very best Savonius around 25%. This is shaft power. There are inevitable, further losses in converting that shaft power to electrical power.All of these efficiencies only apply at the designed wind speed. At higher or lower wind speeds the efficiency will be lower, though a well designed, variable pitch HAWT may be able to operate close to maximum across a range of wind speeds.\nThere are good reasons why HAWTs have a higher efficiency than VAWTs and equally good reasons why Darrieus are more efficient than Savonius. That’s not to say improvements cannot be made, but Savonius is ALWAYS going to come third in the efficiency stakes because drag effect rotors are inherently less efficient than lift effect ones.\n\nETA\nYes, my Watts calculations were based on an area of one square meter, and the 20% efficiency was just about the upper limit for Savonius designs.",
+        "likes": 0,
+        "published_at": "2020-12-01T22:02:00Z"
+      },
+      {
+        "id": "UgzAtADb8zev3Knctk54AaABAg.9G8vwVvPkow9GmJfuEYpn3",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@q.e.d.9112 No, you are wrong about the Betz limit applying to *ALL* Wind Turbines. There are a couple of VAWT designs that do EXCEED the Betz Limit!  The Betz Limit, of 16/27 or 59%, does apply to the max Cp of all HAWT's.  But there are VAWT's that have a Cp = 67%, in the real world!  That is a difference of +8% HIGHER than the Betz Limit of 59%.  But, yet you FALSELY claim that is not possible.  You should increase your knowledge regarding the highest Cp possible for a Vertical Axis Wind Turbine ( VAWT ).  \n   P.S. ...   I did not ever say, the VAWT in this video would ever exceed the Betz Limit.  I did state, that the Cp would be LESS, a lot less, than 59% ...",
+        "likes": 0,
+        "published_at": "2020-12-02T20:54:55Z"
+      },
+      {
+        "id": "UgzAtADb8zev3Knctk54AaABAg.9G8vwVvPkow9GnDXH9sUhU",
+        "author": "@q.e.d.9112",
+        "author_channel_id": "UC2GCMbZ44dSiCiX4dUHuNdQ",
+        "text": "@MrSummitville \nThey may claim an efficiency of 67% “in the real world”, but the real world is governed by some pretty solid physics. Betz law is about wind NOT devices. Extracting kinetic energy from wind, however you do it, requires the air leaving your “windprint” to be slower than when it arrived. But this slowing of the air leaving your device creates a logjam that reduces the speed, and hence the energy, of the air arriving at your device. The upshot is that when you rob the wind of 59% of its original energy, ANY attempt to take more will result in a situation where you may reduce the outlet velocity further (that’s the ONLY way you could possibly extract more energy) but, in doing so, you lose more energy in your “choked” upstream flow than you gain by extracting more from your exhaust stream.\nI stress again, this is nothing to do with your device.\nIn reality I’ll bet that “REAL WORLD” 67% is actually 40% = 67% of 59%.\n\nAs to VAWTs being able to better HAWTs efficiency, there are good reasons why this is unlikely to be the case. The first is that the upwind side of the VAWT has already taken a proportion of the energy from the wind before it reaches the downwind side. Secondly the angle of incidence remains constant on a HAWT and may be variable to provide efficiency across a range of wind speeds, but it’s constantly varying and reduces to zero, twice for each blade in every revolution on a VAWT. Thirdly, the forces acting on the blades of a HAWT are relatively constant, but those on a VAWT shift 180° every half revolution. This can cause vibration, excessive wear and possibly fatigue failure.\nDon’t get me wrong. I like VAWTs because even a sophisticated Darrieus is simpler to engineer than a HAWT.\nI think they look better, particularly the ones with S shaped blades and of course they are better than HAWTs in disturbed air flows such as in urban environments.\nBut that said, I suspect a £100 solar cell would produce a hell of a lot more electricity over the course of a year than any £100 wind rig. \nOverall, I think Robert is having fun and so are most of the people watching this. I think, as has been suggested by another commenter, that it would have been beneficial if he had done some more research. But it’s all part of a learning curve. I suspect he could be in for another when he starts to measure the output from his little generator.",
+        "likes": 1,
+        "published_at": "2020-12-03T05:20:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwD4X4tDAB2kq3yZo14AaABAg",
+    "author": "@corresandberg",
+    "author_channel_id": "UCJ4btDFx2anmW0dTxAFw-cA",
+    "text": "I read an american patent. Rather old, but anyway, the patent focused on adding \"tubes\" of some sort..to prolong the time it would take wind to travel a cross the blades. How would that translate into W and H in the formula? I guess it would mean divide the half with the whole - The basic idea of the American patent above was to make wind have to make a longer travel along the blades. By adding this tube riffles along the blade they had success - they claimed.",
+    "likes": 0,
+    "published_at": "2020-11-16T22:51:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwD4X4tDAB2kq3yZo14AaABAg.9G8KKtbkas59GjCiVyd1R-",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "Was this device every built?  A patent on an idea, does not imply that the idea will actually work in the real world....",
+        "likes": 0,
+        "published_at": "2020-12-01T15:56:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwF4J0qRs2JdkkR3654AaABAg",
+    "author": "@NickGrumpy",
+    "author_channel_id": "UCmd99BKSvaFSe2gvROBuVkQ",
+    "text": "I am no good at maths but I suspect the 50% efficiency of a rotary system is less to do with the magnets and more to do with les that half the blades are travelling with the wind?",
+    "likes": 0,
+    "published_at": "2020-11-16T21:01:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4YGdnb5NMYgsPMOJ4AaABAg",
+    "author": "@dyvarg",
+    "author_channel_id": "UC6wG6d8N5ugfIKdj4ulXE_Q",
+    "text": "Robert, at the end of every video you always say, \"thank you very much for watching\". I just wanted to say, \"more importantly, thank you very much for producing your videos\"!",
+    "likes": 8,
+    "published_at": "2020-11-16T20:01:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw55Tjl3zyS_KJZLFZ4AaABAg",
+    "author": "@cookiecrumble2245",
+    "author_channel_id": "UCPqcLKUETJ1lO_1RP_CzfGA",
+    "text": "The only way I see that the Betz limit can be beaten is by taking advantage of ground effect. In other words taking the exhaust off the blades after they have done the work to drive another rectangular set of blades. In HAWT it can be achieved with - two sets of 2 blades rotating together - the front leading edge of the first set of 2 blades are moved from the conventional position-  so the front blades 2 leading edges are along the diameter, centre line. Then cleverly fix another set of blades very slightly behind the first both blades at the same angle - going in the same direction - this time with the trailing edge along the same diameter centre line. The first set of 2 blades exhaust onto the second set of 2 blades as they rotate. The second set of 2 blades acting as ground effect for the first set of 2 blades - reducing drag. If adopted would transform efficiency of wind energy production.",
+    "likes": 0,
+    "published_at": "2020-11-16T19:57:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxAw7S5oB6DC2gCiPF4AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "Nice. But you have to take into account 59.3% is rather a theoretical limit for a \" would be\"  perfect turbine. You are far from that figure I think but probably a lot of commercial turbines are far from that as well. The 59.3 % will be wind speed depending. A rigid turbine will only be optimal at one wind speed. On a big commercial one the blades can rotate so these can find an optimal blade angle. Wikipedia States commercial turbines het to 80% of that figure. Supprises me ...",
+    "likes": 0,
+    "published_at": "2020-11-16T19:43:47Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxAw7S5oB6DC2gCiPF4AaABAg.9G7zotRv4W89Gi-8aezHhj",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "What is the Cp of this DRAG type of HAWT, with no air foils?  ie no \"lift\" force ?",
+        "likes": 0,
+        "published_at": "2020-12-01T04:38:31Z"
+      },
+      {
+        "id": "UgxAw7S5oB6DC2gCiPF4AaABAg.9G7zotRv4W89GopuclqEdM",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "@MrSummitville No idea what you are talking about. But I guess big commercial turbine all are propeller type for good reason. That may be not performance but safety or something. But I think it's performance.",
+        "likes": 0,
+        "published_at": "2020-12-03T20:23:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw7oJ72yzf1tY7CGH94AaABAg",
+    "author": "@JohnDavidDunlap",
+    "author_channel_id": "UC56PXru4jdDU1-R2bzVo2lg",
+    "text": "Robert, I'm looking forward to seeing you charge a battery that you made yourself with a wind turbine that you made yourself. :)",
+    "likes": 2,
+    "published_at": "2020-11-16T19:10:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzSKsZebOWLchADcoB4AaABAg",
+    "author": "@JohnDavidDunlap",
+    "author_channel_id": "UC56PXru4jdDU1-R2bzVo2lg",
+    "text": "To the naysayers who insist that this will never reach 1kw output.... Who cares? Demonstrating what is possible with scrap materials and producing a meaningful output is a worthwhile endeavour. If he only ever gets 250-500w out of it that's still useful and is more than sufficient to charge a battery.",
+    "likes": 0,
+    "published_at": "2020-11-16T19:08:55Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzSKsZebOWLchADcoB4AaABAg.9G7vpSWa4M-9Gi-DoP-zUV",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "Do you have 25 m/s Winds in your back yard ?",
+        "likes": 0,
+        "published_at": "2020-12-01T04:39:13Z"
+      },
+      {
+        "id": "UgzSKsZebOWLchADcoB4AaABAg.9G7vpSWa4M-9Gi7kel38ue",
+        "author": "@JohnDavidDunlap",
+        "author_channel_id": "UC56PXru4jdDU1-R2bzVo2lg",
+        "text": "@MrSummitville Honestly, I don't know.",
+        "likes": 0,
+        "published_at": "2020-12-01T05:53:45Z"
+      },
+      {
+        "id": "UgzSKsZebOWLchADcoB4AaABAg.9G7vpSWa4M-9Giypu6R4V_",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@JohnDavidDunlap 25 m/s is not realistic. That is like 55 MPH or 90 KPH winds.  I remember one time having sustained  winds that fast, when a hurricane passed by.  That thing will blow apart in sustained 55 MPH winds.  Pieces will go through your neighbors windows.  So far, there has been no meaningful output.  You will pay far MORE for each kilowatt-hour vs the GRID. Being HONEST about the true cost and the actual power output  is very Important.  So, yes I do care about the truth vs fiction ( lies ) ...",
+        "likes": 0,
+        "published_at": "2020-12-01T13:46:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxuTYU2F1OWOl6pWt54AaABAg",
+    "author": "@firstnamesecondname5341",
+    "author_channel_id": "UC5QHcn4yTlrbbniOQTCLsaA",
+    "text": "What exactly do naysayers get out of the whole derogatory process 🤷🏻‍♂️, some I assume take a snooty higher moral ground, ‘the’ stating, “only because they put resistance in the way”  will success be achieved 🙄... 🤦🏻‍♂️ when in reality the world just sees them as idiots 🤣",
+    "likes": 0,
+    "published_at": "2020-11-16T18:41:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyvkmU1l5EDhe1TyLF4AaABAg",
+    "author": "@MAGnetICus_Attractus",
+    "author_channel_id": "UCwb1r3mE7bKTUje4db-at-w",
+    "text": "Your rain reminds me why I made my turbine to turn with water falling from above ;)",
+    "likes": 0,
+    "published_at": "2020-11-16T18:00:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9IFW4A1uIH3VYXg14AaABAg",
+    "author": "@terrywainwright250",
+    "author_channel_id": "UCj27OCMTfgBpLviWnWEHPXA",
+    "text": "First off, I look forward to every video you post. That said, might I share an observation about your wind turbine? \nI noticed that the stiffeners you used on the corners could also be used to enhance performance. If you were to make them longer and point them downwind at a tangent to the circle, it wouldn't hinder the flow or create turbulence. \nJust my two cents.",
+    "likes": 0,
+    "published_at": "2020-11-16T17:30:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxD9srABnfUDQ2aTxp4AaABAg",
+    "author": "@poseidon201",
+    "author_channel_id": "UC9p4iavx0NFM7TbV0lXp2TQ",
+    "text": "Superb Rob, keep it up and ignore the people leaving negative comments. I think some of them are missing the point. Using scrap and recycling makes these builds so much more likely for others to attempt to build, even if it doesnt quite achieve 1kw. The experimental learning process is really interesting and educational, I'm hooked!",
+    "likes": 0,
+    "published_at": "2020-11-16T16:50:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLn7OF5wXRdaX0ERt4AaABAg",
+    "author": "@cimota72",
+    "author_channel_id": "UCvg213HG1Zg5DfNYrcg6XuA",
+    "text": "This series has been the icing on the cake on a treasure of knowledge and discovery. If this wasn't a Covid year, imagine! It's really helped me with my own wind turbine project (I'm still at the thinking stage and don't have a workshop....yet). Brilliant!",
+    "likes": 3,
+    "published_at": "2020-11-16T15:14:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwWnAe5pFNBoWzA5d94AaABAg",
+    "author": "@james10739",
+    "author_channel_id": "UCdsysXe-wDIuO521aqJrJVA",
+    "text": "You should try to hook up something on the rotor to be able to test the magnets on the outside vs on the axle with a commercially available generator",
+    "likes": 1,
+    "published_at": "2020-11-16T13:27:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwpWZU2Q1E1kprl3iF4AaABAg",
+    "author": "@rbdogwood",
+    "author_channel_id": "UCxGld4GBrEVHQXE-kiKQVuw",
+    "text": "I've not built a wind turbine and this may be a bit obvious to anyone who has. Would the efficiency be improved if the wind was funnelled to the appropriate area of the blades? Obviously this would compromise the omni-directionality and that might be mitigated by a weather-vane mechanism. My main thought being to prevent the wind hitting the lower profile blades opposite the apparently optimum area. I guess this is a 'why am I wrong?' rather than an 'am I right? question.",
+    "likes": 0,
+    "published_at": "2020-11-16T12:29:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwpWZU2Q1E1kprl3iF4AaABAg.9G7D6I6F73x9Gi-RBa43NQ",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "Efficiency would decrease. And that is why they are NOT used ...",
+        "likes": 0,
+        "published_at": "2020-12-01T04:41:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwYfaQ6DNQ-rEKg7md4AaABAg",
+    "author": "@mauricewatts2380",
+    "author_channel_id": "UCtsiu0iqsBnWqL-ibhLm5-w",
+    "text": "To all the naysayers please remember this is built with \"found\" materials mostly. I would be delighted if I had built this and got 250 watts from cheap magnets and repurposed coils.",
+    "likes": 5,
+    "published_at": "2020-11-16T12:02:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwRVwXkwcQjQaPbPVl4AaABAg",
+    "author": "@lukasprice-nowak8861",
+    "author_channel_id": "UCHV_aqUeEy31tLZs-gjl34Q",
+    "text": "Love your videos, the idea of making low-tech green energy from scrap is amazing. I think there is so much potential for this kind of ingenuity in developing communities across the globe. Will you be doing more of these projects in the future? \n\nSorry to point out, because I'm sure you do actually know the difference, but you sometimes confuse kW (power) with kWh (energy production). \n\nBest of luck with the project!",
+    "likes": 3,
+    "published_at": "2020-11-16T10:30:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtRQ7dx4W1rDYlQNN4AaABAg",
+    "author": "@markwilliams5654",
+    "author_channel_id": "UCX4crjIjfgWnbGKgaQB4OPw",
+    "text": "You Spent 3 weeks making a 5watt generator that was a waste of time it's not big enough and probably turn into a grenade when it's very windy",
+    "likes": 1,
+    "published_at": "2020-11-16T10:13:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxtRQ7dx4W1rDYlQNN4AaABAg.9G6yWRQ9IM59Gi-hDlvfBV",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "He plans on putting it in 25 m/s WINDS!  It will blow away and the pieces will go his neighbors windows...",
+        "likes": 0,
+        "published_at": "2020-12-01T04:43:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-NP2A8fFrQbrpnSR4AaABAg",
+    "author": "@wayne1959",
+    "author_channel_id": "UC9IEPthz0M5_-Y2mRiR1EBA",
+    "text": "I think this is an amazing thing for a workshop with needs for charging batteries or a home that needs free power management of boat batteries or simillar not often used equipment",
+    "likes": 0,
+    "published_at": "2020-11-16T09:58:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy9tppCEJlE36bpvrx4AaABAg",
+    "author": "@gearsandtears7643",
+    "author_channel_id": "UCJuiQJ69l8mArXrcLMeKmQQ",
+    "text": "If you block air hitting the non power side you will get better results \nPiece cut out of an old drum with a weather vane out the back will keep it pointing the way you want \nGreat build",
+    "likes": 0,
+    "published_at": "2020-11-16T09:51:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxR9Hqi_IosII-HqHZ4AaABAg",
+    "author": "@chantalrubino337",
+    "author_channel_id": "UCebLZ49jUmOZBeqNds5eACg",
+    "text": "With the data from Betz Law you can calculate what size generator you need to produce 1kz",
+    "likes": 0,
+    "published_at": "2020-11-16T09:41:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPuFDwcLzwwYox-8F4AaABAg",
+    "author": "@robertcringely7348",
+    "author_channel_id": "UCKhC5kzq-6T_ML7XpPLziJg",
+    "text": "Betz is a crock. Large commercial turbine manufacturers use Betz to game the market. They use it to claim that the most efficient turbine has three blades. Have you noticed how 30 years ago the world settled on three-blade industrial turbines? That's because Betz \"proved\" that three blades were ideal. This pushed utility turbines to larger and larger diameters until now they are so big that only very large enterprises can afford to make them. Put the three biggest blades you can transport down the road to the tallest tower you can build and you are there, they say. Except the really important measure isn't specific power in kilowatts, it is power produced in kilowatt-hours-per-year. The supposed ideal Betz turbine, then, has three huge blades, is rated at the speed as you say, but it only produces power (net power, because the alternator consumes power to energize the electromagnets) above a starting speed and below a maximum speed above which the turbine is stopped to avoid damage at the very point where it is making the most power. More blades are better. More turbines are better. Wind fields are designed with the towers 10 times their height apart to avoid them failing and smashing each other. Is that rule-of-thumb the best way to produce power? No. Is it really even based on facts? No. Think of a field of turbines, not a single turbine. Make more smaller turbines with, say, 10 blades each. Use permanent magnet generators, not alternators. Eliminate all computer controls (the greatest single cost of all in any wind field is computer control) and let them start generating from zero mph on up to whatever the wind gives them. Ten blades reduce the starting resistance so your turbine starts easier, and generates power 24/7/365 creating far more power than Betz (or GE or Siemens) could even imagine.",
+    "likes": 0,
+    "published_at": "2020-11-16T09:01:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztmvcmnkJOd3nY2fV4AaABAg",
+    "author": "@davidnolan6087",
+    "author_channel_id": "UCrf-Nqei_IwqVjOa0kegvMg",
+    "text": "I love this idea. It is not so much about how powerful it is. I think it is more about how much energy can be captured over time if stored in a battery for later use. Imagine if you could collect energy whenever the wind blows? In some areas that is a daily occurrence yet in others it is less frequent. In Perth, Western Australia during the summer months the wind, colloquially known as \"The Freemantle Doctor\", blows in from the ocean almost everyday at speeds averaging around 30 KM/h. That's power available everyday during the summer months. Who wouldn't want to capture that power for potentially so little investment of capital?\nKeep up the great work Robert and thanks for sharing.",
+    "likes": 1,
+    "published_at": "2020-11-16T08:21:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgztmvcmnkJOd3nY2fV4AaABAg.9G6lg3JRHVv9G6mxaeCjmq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate I don't really know why some folks seem to concentrate on the extremes",
+        "likes": 0,
+        "published_at": "2020-11-16T08:32:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwvQGtB5ecW8KFyZiF4AaABAg",
+    "author": "@martinwinfield2935",
+    "author_channel_id": "UCVR-sLfbO0gbj3AGjkF-pkw",
+    "text": "Great to see some theory to see how the project is progressing, well explained. I would be interested to know where and how the turbine will be located and mounted, could be some engineering involved on that. Thanks again.",
+    "likes": 0,
+    "published_at": "2020-11-16T08:05:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwvQGtB5ecW8KFyZiF4AaABAg.9G6jwudHALz9G6n-SaGD1U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am going to bolt it onto my roof mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:32:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6V2UD36RjHkkBPSx4AaABAg",
+    "author": "@Jimunu",
+    "author_channel_id": "UCexzmX6696NuoYoZtxJmcyQ",
+    "text": "Do you think you can make a solar charge panel out of your graphene paint?",
+    "likes": 0,
+    "published_at": "2020-11-16T08:00:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6V2UD36RjHkkBPSx4AaABAg.9G6jHLD1cFN9G6kYfNMKfy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "dunno",
+        "likes": 1,
+        "published_at": "2020-11-16T08:11:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwIQn7YPyi_20FX8394AaABAg",
+    "author": "@YathishShamaraj",
+    "author_channel_id": "UC6b1f6_1HAllvKQ0EkwczDA",
+    "text": "The area (breadth and High) calculation in the formula is for just one of the blades or all blades combined?...\nMoreover, the power output depends largely on the coils I believe, hope you have sufficient coils for the 1KW output.",
+    "likes": 0,
+    "published_at": "2020-11-16T07:40:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwIQn7YPyi_20FX8394AaABAg.9G6h072wafK9G6hlU4lIYE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for the whole drum that presents to the wind mate",
+        "likes": 0,
+        "published_at": "2020-11-16T07:46:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxAs4l7lS0MCieMgSx4AaABAg",
+    "author": "@docink6175",
+    "author_channel_id": "UCMdNB6OxYB53mZ4zAvtjhjA",
+    "text": "Math and I don't get along at all so you totally lost me on this one but in the long run even if you don't make a kilowatt per hour you're still making power and charging your batteries for next to nothing in build cost",
+    "likes": 0,
+    "published_at": "2020-11-16T06:50:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxAs4l7lS0MCieMgSx4AaABAg.9G6bMj7qMq39G6dHYi3f1X",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate",
+        "likes": 0,
+        "published_at": "2020-11-16T07:07:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFfCe0inTCGBLaVbl4AaABAg",
+    "author": "@strongforce8466",
+    "author_channel_id": "UCf30DeX0-ev72kcHea4QVBQ",
+    "text": "I used to hate maths, probably mostly because I don't fully understand it and was never really gifted also maybe because of the way you get rated at school for it aha..but this video was very interesting you nailed it.",
+    "likes": 0,
+    "published_at": "2020-11-16T06:04:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyFfCe0inTCGBLaVbl4AaABAg.9G6X2FIHs5Z9G6dJjwYjT0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome to hear mate - cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:07:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHepBZZPyZaLfYLJZ4AaABAg",
+    "author": "@DeliciousDeBlair",
+    "author_channel_id": "UC6foW9jE6xKBwxz3lUvU1_Q",
+    "text": "Wind trapping funnels, rotary wind deflectors and variable pitch blades can all help increase the efficiency because wind, left to its own, is going to go as much AROUND the unit as THROUGH it, AND [just by nature] favor neither side, AND the pitch of the blades being uniform, as we all know, creates drag to the one side of the rotor which can be somewhat mitigated by switching  the pitch of each rotor via a cam [or, for those who love electronic gadgetry and have no problem vastly increasing the complexity of their turbines] some kind of digitally or analog controlled pitch system [which would probably rob more power than it gained, although I can not say that for a fact].\n\n1: The wind trap will force a greater percent of the wind to actually pass through the  rotor, instead of passing around it, which will cause the wind to exert more force upon the blades,\n\n2: A diverter, which can either be used in conjunction with a trap, or without, will cause the wind to rotate in the direction of the rotor, increasing the force to the side  you need it on, while decreasing it away from the side you need it to not blow on, and these can be made either as a fixed, omnidirectional shroud around the rotor, or as a bias flow, trailing edge tiller steered diverter, which, like the wind trap [and would/could normally be used in CONJUNCTION WITH the wind trap, and would typically be steered <again> only by the wind, and therefore exert no parasitic losses (unless, again, a person chose to use some kind of powered actuator in place of just letting the wind do its own job)]\n\n3: A blade deflection cam, which would usually be aimed using the same method of a steering tiller vane trailing the rotor acts in conjunction with some small linkages, affixed to the vanes, which, depending on where they are in relationship to the direction of the tiller [and thus to the wind] works so as to increase the opposing pitch angle on the leading edge, which by default, increases the working surface area the wind is acting against [see the formula Robert posted there] while REDUCING the angle of attack on the opposite side of the rotor, which, therefore, reduces the LOSSES experienced on this side of the equation, which, in our overall function would  be counted a 'drag' and work against the aims of rotating the whole assembly.\n\nBy combining all three of these adaptations [and it can  easily be done] one can greatly increase the power and efficiency of the final product.\n\n       /)/) \n    (  'ˬ') \n@(>_ )-b \n     \\) \\)",
+    "likes": 4,
+    "published_at": "2020-11-16T05:42:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwHepBZZPyZaLfYLJZ4AaABAg.9G6UUqlfSjZ9G6dVsOBQWZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "now that is an awesome post!",
+        "likes": 0,
+        "published_at": "2020-11-16T07:09:34Z"
+      },
+      {
+        "id": "UgwHepBZZPyZaLfYLJZ4AaABAg.9G6UUqlfSjZ9G6kbXLM5n-",
+        "author": "@davidnolan6087",
+        "author_channel_id": "UCrf-Nqei_IwqVjOa0kegvMg",
+        "text": "@ThinkingandTinkering If only we can harness all this inherent knowledge to commercialise this type of project. You start with a simple concept, add a few smart people's ideas and who know where it could end. Keep up the good work!",
+        "likes": 0,
+        "published_at": "2020-11-16T08:11:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzXm4EsRybmMT8utAB4AaABAg",
+    "author": "@ronaldd2154",
+    "author_channel_id": "UCOYgKtsH-9157HMHcl_fdDQ",
+    "text": "Omg I just thought of this after you mentioned rain! : with rain, you could put mini turbines in your gutters making a hydroelectric generator! Not to mention you can hook up even mini-er turbines to the taps in your home (they are under pressure!) So you could store that all in a battery! Definitely something worth perhaps making in a future video! (Archimedes screw type in down pipe?!) just some food for thought!",
+    "likes": 1,
+    "published_at": "2020-11-16T05:40:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzXm4EsRybmMT8utAB4AaABAg.9G6UIFxXmWk9G6dZdO_Eld",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good idea mate - cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:10:05Z"
+      },
+      {
+        "id": "UgzXm4EsRybmMT8utAB4AaABAg.9G6UIFxXmWk9G6yxhkye9I",
+        "author": "@markwilliams5654",
+        "author_channel_id": "UCX4crjIjfgWnbGKgaQB4OPw",
+        "text": "Untill in gets blocked and full of green and moss and doesn't work",
+        "likes": 0,
+        "published_at": "2020-11-16T10:17:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8bMnhClmxngEv0154AaABAg",
+    "author": "@edwinlipton",
+    "author_channel_id": "UCWSB9TJQPG2kytVwfhrNAkQ",
+    "text": "Hey Robert,, get on with it! Get the darn thing turning with a load and give it the test.\nJesus! Coulda purchased a 1kwatt from China and shipped it on a reed boat and had it here already. Disapointment included!",
+    "likes": 0,
+    "published_at": "2020-11-16T05:06:31Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugw8bMnhClmxngEv0154AaABAg.9G6QQ_VB9rd9G6ddQg8JAA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you may have missed the point of the channel mate - perhaps it is best you order one",
+        "likes": 1,
+        "published_at": "2020-11-16T07:10:45Z"
+      },
+      {
+        "id": "Ugw8bMnhClmxngEv0154AaABAg.9G6QQ_VB9rd9G8TO_f-R8r",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "you jest mr lipton,where exactly is  that current listing for a 1kW Wind Turbine For Under £100 (including vat etc) that will provide better than 200 real life watts you speak of mr lipton?",
+        "likes": 0,
+        "published_at": "2020-11-17T00:10:56Z"
+      },
+      {
+        "id": "Ugw8bMnhClmxngEv0154AaABAg.9G6QQ_VB9rd9G9n5T0slpv",
+        "author": "@terrywainwright250",
+        "author_channel_id": "UCj27OCMTfgBpLviWnWEHPXA",
+        "text": "You gotta a point there Ed. \nKeep your hat on, maybe no one will notice. SMH",
+        "likes": 0,
+        "published_at": "2020-11-17T12:31:04Z"
+      },
+      {
+        "id": "Ugw8bMnhClmxngEv0154AaABAg.9G6QQ_VB9rd9Gi0MO6eLkh",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@paulmaydaynight9925 Do you have continuous 25 m/s Wind Speeds in YOUR back yard ?  Maybe, when the next hurricane passes by ...",
+        "likes": 0,
+        "published_at": "2020-12-01T04:49:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzTPtt4wHwSh2bp9P54AaABAg",
+    "author": "@peterengland4745",
+    "author_channel_id": "UCPb15gb-M70gFcuHQxjrijg",
+    "text": "You mentioned rain.  You could weather proof the turbine by turning it upside down (which would place the coils at the top) and putting a lid on it.  It should be fairly simple to do.",
+    "likes": 0,
+    "published_at": "2020-11-16T04:04:13Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzTPtt4wHwSh2bp9P54AaABAg.9G6JIGAqQXv9G6dsGZHqu2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't really need to worry about the magnets mate as the are ceramic and protecting the electronics can be as simple as sticking them in a plastic bag - I am not sure if really need to turn it upside down - but cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:12:46Z"
+      },
+      {
+        "id": "UgzTPtt4wHwSh2bp9P54AaABAg.9G6JIGAqQXv9G7mYhI5ijg",
+        "author": "@peterengland4745",
+        "author_channel_id": "UCPb15gb-M70gFcuHQxjrijg",
+        "text": "@ThinkingandTinkering HI Rob  Just thought that if you populate the coils all around the turbine it would be easier to use the lid.  On another matter I commented on your \"Wind Turbine Performance\" video.  Did you see it?  Any comments?  This work you are doing is perfect for advancing my concept - THANK YOU so much!!",
+        "likes": 0,
+        "published_at": "2020-11-16T17:47:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzLkJ0hh1UJpGSaLh4AaABAg",
+    "author": "@allanwood3562",
+    "author_channel_id": "UC4_K2nonQFmJEZTvZunnZGQ",
+    "text": "25m per second is about 90 kph which is what we had in my area overnight! Pretty high gale force winds I would have thought. That would certainly have your rotor flying around fast.",
+    "likes": 0,
+    "published_at": "2020-11-16T03:31:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwzLkJ0hh1UJpGSaLh4AaABAg.9G6FXCJN8nF9G6dushd6Y6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - it certainly would!",
+        "likes": 0,
+        "published_at": "2020-11-16T07:13:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw9BINpOIqPuQrQXHJ4AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "Rain and no wind?\nHmm,\nI had rain and wind here, to the point that trees damaged the grid and knocked out the power. \nSo, that's where your wind went. \nTo Waterford, Michigan USA. 😂🤣😂",
+    "likes": 0,
+    "published_at": "2020-11-16T03:03:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw9BINpOIqPuQrQXHJ4AaABAg.9G6CK1-MxRd9G6e0HxoBv4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you have to remember I am testing in a car park - I could rag it onto the roof but right now I am still working on it and tbh it's easier to put up with low wind speed at ground level than try to prototype on a roof lol",
+        "likes": 0,
+        "published_at": "2020-11-16T07:14:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-VfbT_uP9R7bHBPR4AaABAg",
+    "author": "@edkoetsier339",
+    "author_channel_id": "UCQI07nG1W5N_65xQZhEAxIA",
+    "text": "I would never naysay Rob, but it's a question of physics. At the rim, you have little torque. At the hub you have all the little torques at the rim in one place. The bigger the VAWT, the more torque. But as in all things, maximum theoretical is never achieved. I would rather exploit the torque multiplier effect at the hub. But then, I live on 4 acres in the county in Australia...  I fear Rob is flogging a dead horse, but we will see...",
+    "likes": 0,
+    "published_at": "2020-11-16T02:51:45Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy-VfbT_uP9R7bHBPR4AaABAg.9G6B-QxRceu9G6eDr0rhrW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "to be honest mate - I have no idea, which is why I am trying it - I do know there is precedent for this design - but this is really just an experiment - and you are quite right I may well be flogging a dead horse but we will see lol",
+        "likes": 0,
+        "published_at": "2020-11-16T07:15:51Z"
+      },
+      {
+        "id": "Ugy-VfbT_uP9R7bHBPR4AaABAg.9G6B-QxRceu9G6iT-noqh5",
+        "author": "@edkoetsier339",
+        "author_channel_id": "UCQI07nG1W5N_65xQZhEAxIA",
+        "text": "@ThinkingandTinkering Rob, I started in Wind Power about 15 years ago. I started with Savonius turbines because I just thought they were cool. Still do. Through experimentation, I found with just 3 blades going from the outside to the central hub worked a magnitude better because it caught more wind and it had much more torque for spinning my DC motors. I designed a clutch system with an arduino, hall effect rpm detector, and a solenoid to overcome start up torque problems. Most I got from it was 300w in a stiff breeze Then I was introduced to the magic of Hugh Piggots designs and the guys at Otherpower and Axial Flux  has been king for me since. 2kw stiff breeze, wooden 6 foot blades dual rotor. 24v. Tip speed and swept area applies to savonius as well.",
+        "likes": 0,
+        "published_at": "2020-11-16T07:52:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFdl8kz2uLQ3r8iNt4AaABAg",
+    "author": "@billl605",
+    "author_channel_id": "UCms7W6cRSb1zsCjNC91m_jw",
+    "text": "Very interesting, please keep up the good work!",
+    "likes": 0,
+    "published_at": "2020-11-16T02:00:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzFdl8kz2uLQ3r8iNt4AaABAg.9G655RNhJwA9G6eFKcI7fh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T07:16:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxX9_Ug76tHoD7rqb14AaABAg",
+    "author": "@pattayaguideorg",
+    "author_channel_id": "UCTXUWMOn7V2aUzwI0SZXOzA",
+    "text": "I was shocked to hear your comment - \"there's alot of rain and no wind but what can you do about it?\" The answer is simple my friend, get busy building down pipe water wheel or Pelton turbine to harvest all that wasted power nature generously provides lol. good vid as why to use Betz law before making a wind turbine, love your work.",
+    "likes": 0,
+    "published_at": "2020-11-16T01:14:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxX9_Ug76tHoD7rqb14AaABAg.9G6-rrLigU09G6eP0Z_-Ty",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good idea mate - to be honest sometimes one's head gets so far up ones own  .... lol - I must look at your suggestion - nice one",
+        "likes": 0,
+        "published_at": "2020-11-16T07:17:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyTfQIdNCup-8mv3Rd4AaABAg",
+    "author": "@FireballXL55",
+    "author_channel_id": "UCAa-GFff7Mji5Jle5b3fwnQ",
+    "text": "I don't care if it only make 100W/H at least we are learning from it. :)",
+    "likes": 0,
+    "published_at": "2020-11-16T01:08:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyTfQIdNCup-8mv3Rd4AaABAg.9G6-DmxbMW09G6eTQpo4gG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - that is really my attitude to this - it's why I don't get upset when to goes wrong lol",
+        "likes": 1,
+        "published_at": "2020-11-16T07:17:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUZiCHq1nEtW3_6Vx4AaABAg",
+    "author": "@peterdkay",
+    "author_channel_id": "UCKNDWHdAyr6RsHJuTDLlNWw",
+    "text": "It is very difficult to get high wind speeds close to the ground because the ground slows down the wind. I will be surprised if your turbine will ever generate more than 100 watts. \nI had a commercial 1kW horizontal axis (propeller) running 12 feet above the ground in a suburban environment for 2 years. Peak power was about 200 watts but its average power generation was only 10 watts. After 2 years I was disgusted and removed it. I now have 3kW of solar panels and they are magnificent!",
+    "likes": 1,
+    "published_at": "2020-11-16T01:04:02Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwUZiCHq1nEtW3_6Vx4AaABAg.9G5zfWYZnDI9G6eZq-DQ0H",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I do need to get it on a roof mate - but as I am still mucking around with what is basically a prototype it is much easier to accept the poor wind rather than try and work on it on a roof lol",
+        "likes": 0,
+        "published_at": "2020-11-16T07:18:51Z"
+      },
+      {
+        "id": "UgwUZiCHq1nEtW3_6Vx4AaABAg.9G5zfWYZnDI9G6nyRmS9p7",
+        "author": "@peterdkay",
+        "author_channel_id": "UCKNDWHdAyr6RsHJuTDLlNWw",
+        "text": "@ThinkingandTinkering Understood. Lets hope you can get a good output at ground level as you can possibly expect to double it at roof level. My turbine was just below 2 story roofline with guy wires back to house. \nThis was a bad decision as generator whine was transmitted through support wires to house. It was really annoying when wind speed got over 10m/s.",
+        "likes": 0,
+        "published_at": "2020-11-16T08:41:00Z"
+      },
+      {
+        "id": "UgwUZiCHq1nEtW3_6Vx4AaABAg.9G5zfWYZnDI9Gi0j1JJ-cM",
+        "author": "@MrSummitville",
+        "author_channel_id": "UC-Ns-3FiPB0QF8wc9AnfJfw",
+        "text": "@peterdkay And who has 25 m/s Wind Speed?  Maybe when a hurricane passes by?  He certainly is \"mucking around\" ...",
+        "likes": 0,
+        "published_at": "2020-12-01T04:52:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUJOFqBi9nHb1CADB4AaABAg",
+    "author": "@kemet432",
+    "author_channel_id": "UCDK60Au5D-rXSEWBxxdSFHQ",
+    "text": "Wouldn't a steel rim around the magnets increase or focus the magnetic flied.. That should increase the current.",
+    "likes": 0,
+    "published_at": "2020-11-16T00:43:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUJOFqBi9nHb1CADB4AaABAg.9G5xKa4rQh_9G6ea5rim2C",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I dunno mate - give it a go",
+        "likes": 0,
+        "published_at": "2020-11-16T07:19:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzxoEuVckRMLAkTySd4AaABAg",
+    "author": "@greghall3150",
+    "author_channel_id": "UCO_cNu58ohcLUpX473DF5Wg",
+    "text": "The formular does not take into acount that air is conpressable. Wind wil flow around the mill when you take load",
+    "likes": 0,
+    "published_at": "2020-11-16T00:15:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzxoEuVckRMLAkTySd4AaABAg.9G5uACNYMJm9G6efruI584",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are right it doesn't",
+        "likes": 0,
+        "published_at": "2020-11-16T07:19:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxIbEDqN2-PMMZZI-54AaABAg",
+    "author": "@jamescunliffe9872",
+    "author_channel_id": "UCrp4qRhltXQBqXuajGd2LMA",
+    "text": "Reynolds scale is another aspect that could make a difference,weight around the central axis close to axle should increase speed,according to what Julius Sumner says about rotating rings,discs,spheres :)",
+    "likes": 0,
+    "published_at": "2020-11-16T00:08:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxIbEDqN2-PMMZZI-54AaABAg.9G5tIFub2I89G6ej89ZXxb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-11-16T07:20:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxdraX_EczKPqAMVNZ4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "I hope I don't sound really silly but I don't see the correlation between betz and your turbine for predicted efficiency.  I'll do some reading even though I might suffer a migraine 🙃. Is betz based on .1 coil and magnets based on estimated axel size. I had to watch it twice incase I missed something.  Cheers mate",
+    "likes": 0,
+    "published_at": "2020-11-16T00:02:45Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxdraX_EczKPqAMVNZ4AaABAg.9G5sei2y2QU9G6exNi6UYe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Betz only describes the potential that can be gathered - the difference between the potential of what can be gathered and what is gathered is the efficiency - so you are spot on there is no correlation",
+        "likes": 0,
+        "published_at": "2020-11-16T07:22:12Z"
+      },
+      {
+        "id": "UgxdraX_EczKPqAMVNZ4AaABAg.9G5sei2y2QU9G6ibD1NFVt",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "@ThinkingandTinkering in that case I'm predicting closer to 2kw than 1 and might be as high as 3. No pressure mate. I love that you a heart on sleeve kind of guy but you have to remember that the doubters will doubt and do nothing and get no results.",
+        "likes": 0,
+        "published_at": "2020-11-16T07:54:08Z"
+      },
+      {
+        "id": "UgxdraX_EczKPqAMVNZ4AaABAg.9G5sei2y2QU9G6j-Gd-WVo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@karlmyers6518 lol - you are quite right there too mate - some folks just like to argue lol",
+        "likes": 0,
+        "published_at": "2020-11-16T07:57:33Z"
+      },
+      {
+        "id": "UgxdraX_EczKPqAMVNZ4AaABAg.9G5sei2y2QU9G6kHDhvSCQ",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "@ThinkingandTinkering If I send a machine out and it goes wrong. I quickly jump on my own back and question myself and whether I'm doing the right thing. I have to remind myself that I can't predict the future.",
+        "likes": 0,
+        "published_at": "2020-11-16T08:08:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyh200beiTDPWJul2B4AaABAg",
+    "author": "@startrexpips3650",
+    "author_channel_id": "UC4Y7pEGsSh94V3PXj2DHhgQ",
+    "text": "Please be consistent in your units metres ....???- squared - cubed - doughnuts - it is important... :)",
+    "likes": 0,
+    "published_at": "2020-11-15T23:59:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyh200beiTDPWJul2B4AaABAg.9G5sIUDhzF79G6f5exerOL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok - cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:23:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzS5qI7tnQRWx92KDF4AaABAg",
+    "author": "@phillean",
+    "author_channel_id": "UCQt7yBDpfBK_gt3yQh2jIIA",
+    "text": "Another very informative video. Yes the information is out there on the internet but you package it and explain it really well.",
+    "likes": 1,
+    "published_at": "2020-11-15T23:48:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzS5qI7tnQRWx92KDF4AaABAg.9G5qzJcj1Qm9G6f7ix2yT5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-11-16T07:23:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwifYJtkHaS7R0Lobx4AaABAg",
+    "author": "@ktm42080",
+    "author_channel_id": "UCnDiXy0IbQu513E54rlCScA",
+    "text": "Honestly, it would be a smashing success, to me, to get 750 watts from it. The commercial ones always bump up and play with numbers to make everything look worthwhile, but then there is almost never a perfect day to prove those specs. \"Well....in a wind tunnel....blah blah...\" You're doing great! Keep going!",
+    "likes": 0,
+    "published_at": "2020-11-15T23:45:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwifYJtkHaS7R0Lobx4AaABAg.9G5qeCC0dOM9G6fCcGX7Oj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and I agree there is always a lot of talk in my opinion",
+        "likes": 0,
+        "published_at": "2020-11-16T07:24:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyI_QEGB6Gsv3xqFwF4AaABAg",
+    "author": "@jasonwitt8619",
+    "author_channel_id": "UCrcKx80m_9bt0ESOcuITC4Q",
+    "text": "I personally think that you have the right idea with magnets on the rim. Every experiment that I have seen and done worked 100% better when the magnets were on the rim. If you want to get more for the buck, attach a plus symbol out of wood then attach a smaller wheel to that and put the magnets in it. You will not need as many magnets and in that way you could even run two rows or even three rows of magnets to it. You also would not need as many coils being that it is a smaller circle. The concept behind this is similar to a pulley system that would turn another wheel also giving you double the power.",
+    "likes": 0,
+    "published_at": "2020-11-15T23:44:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyI_QEGB6Gsv3xqFwF4AaABAg.9G5qajt6x8C9G6fHMgYd5T",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - cheers",
+        "likes": 1,
+        "published_at": "2020-11-16T07:25:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQzaQDkHvfpQFyg254AaABAg",
+    "author": "@Kiyarose3999",
+    "author_channel_id": "UCrMIOWv9Rt-2T3chE3GeOfw",
+    "text": "What you can do about it is make a Rain generator, perhaps a Trompe, so the energy can be stored indefinitely as Compressed Air.",
+    "likes": 0,
+    "published_at": "2020-11-15T23:19:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQzaQDkHvfpQFyg254AaABAg.9G5nh1qlpHn9G6fIlcxvsY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T07:25:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLqazdOBh9nMY-w9h4AaABAg",
+    "author": "@spex357",
+    "author_channel_id": "UCFigH8Nyi-QLJksIo2tLjuQ",
+    "text": "November and rain go together.",
+    "likes": 0,
+    "published_at": "2020-11-15T23:16:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyLqazdOBh9nMY-w9h4AaABAg.9G5nN6xrdte9G6fKfTLQrP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - indeed they do!",
+        "likes": 0,
+        "published_at": "2020-11-16T07:25:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxcCmCGsF3U9gsHbLJ4AaABAg",
+    "author": "@NorthernKitty",
+    "author_channel_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+    "text": "All I can say to the naysayers is, \"don't ever Betz against Rob!\"  😄",
+    "likes": 9,
+    "published_at": "2020-11-15T22:32:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxcCmCGsF3U9gsHbLJ4AaABAg.9G5iLM2Ibqk9G6fQNS-4PZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers!",
+        "likes": 1,
+        "published_at": "2020-11-16T07:26:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyvQ46x2PlPzderGgh4AaABAg",
+    "author": "@jwioo",
+    "author_channel_id": "UCTbXJxW2-a8gUdfB8BR53aw",
+    "text": "Are you sure about those figures, 25 m/s equates to storm force 10, will your turbine stand up to that",
+    "likes": 0,
+    "published_at": "2020-11-15T22:26:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyvQ46x2PlPzderGgh4AaABAg.9G5heHP85oa9G6fXeKFdTu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's what I read in other folks power curves and a couple of articles on the subject - I have no idea if the turbine I made will stand up or not to be honest",
+        "likes": 0,
+        "published_at": "2020-11-16T07:27:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwrClGcu6dDi1mmFqp4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "All Betz are against ya! Betz law!",
+    "likes": 0,
+    "published_at": "2020-11-15T22:19:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwrClGcu6dDi1mmFqp4AaABAg.9G5gmnGkW2H9G6fZCIhaUt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2020-11-16T07:27:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz79atCurZahyakBGB4AaABAg",
+    "author": "@herenow2895",
+    "author_channel_id": "UCqfwmNy6W2_ZrgMKN3Us6sg",
+    "text": "As your rotor is going round, it gives the impression that power delivery is greater on one part of the rim and not consistent. I base this observation on the light units going brighter and dimmer in sequence.\nWhat is causing this ? I can only think that it must be inconsistency in the magnets. Maybe the positioning of them ?\nIf one part of the rotor is generating more power as it goes round from one coil to the next and in turn causing the corresponding light to have a brighter pulse, then it would make sense to try and get the whole rim to be as effective as that one bit.",
+    "likes": 1,
+    "published_at": "2020-11-15T22:12:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz79atCurZahyakBGB4AaABAg.9G5g-Zz6N709G6fbXjKXNI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure",
+        "likes": 0,
+        "published_at": "2020-11-16T07:27:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxQGYlXTN_EZWSetWl4AaABAg",
+    "author": "@morski_kapetan",
+    "author_channel_id": "UCBX0lDoWROOyLG_yD5rK7vg",
+    "text": "The strength of the magnets? How much impact does it have?",
+    "likes": 0,
+    "published_at": "2020-11-15T22:07:42Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxQGYlXTN_EZWSetWl4AaABAg.9G5fV2mIqj79G6fnphh4vo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it depends - Betz is about potential - the magnets and physical arrangement is about actual - the difference between the potential and the actual is efficiency. So magnets have no effect on potential but can alter actual",
+        "likes": 0,
+        "published_at": "2020-11-16T07:29:38Z"
+      },
+      {
+        "id": "UgxQGYlXTN_EZWSetWl4AaABAg.9G5fV2mIqj79G6h-tL1FR5",
+        "author": "@morski_kapetan",
+        "author_channel_id": "UCBX0lDoWROOyLG_yD5rK7vg",
+        "text": "@ThinkingandTinkering Thanks Robert, I understand that. I was referring to the comparsion between commercial 1kW turbine and low cost, improvised one. Staying below the financial amount of choice is not very helpful here, I think. It would be better to see if we can make equal or better, for less money and using what is available.",
+        "likes": 0,
+        "published_at": "2020-11-16T07:40:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxzvgJY-efrb-HHEzR4AaABAg",
+    "author": "@davidkennedy6641",
+    "author_channel_id": "UCz8k81X7pYhWsqDdmTA9ZDQ",
+    "text": "You do realise that 25mps is a gale force wind don't you?   Your turbine would be ripped apart.   Maybe it would handle 10mps.",
+    "likes": 2,
+    "published_at": "2020-11-15T22:07:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxzvgJY-efrb-HHEzR4AaABAg.9G5fRV0q5xU9G6ftAfenGQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes I do - and we will see for sure lol",
+        "likes": 1,
+        "published_at": "2020-11-16T07:30:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxAsHT8UKfZkHFrKSB4AaABAg",
+    "author": "@isaaccoen-graham8867",
+    "author_channel_id": "UCqL25E86sLKouBFfPAQQofg",
+    "text": "Hi Murray, loving the series.\n I wonder if you could discuss what happens to the wind after the turbine absorbs the winds energy, how it exits the turbine.\n What is the resistance of the blades when moving towards the direction of flow. Could you add a cowling/shroud to direct the wind to the optimal spot on the rotor while deflecting away from returning blades. I am imagining a cushion of air around the moving parts.\n Obviously it would be very easy to stretch out your design to capture more wind, more power, while maintaining the diameter, at what hight do you think it would be pointless.\nThanks very much very inspired.",
+    "likes": 0,
+    "published_at": "2020-11-15T22:04:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxAsHT8UKfZkHFrKSB4AaABAg.9G5f88vyxg79G6fyNyY5KD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I was mulling that over mate - so I  do plan on something like that for sure",
+        "likes": 0,
+        "published_at": "2020-11-16T07:31:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwbE3xnLLqO0xL0SlV4AaABAg",
+    "author": "@herenow2895",
+    "author_channel_id": "UCqfwmNy6W2_ZrgMKN3Us6sg",
+    "text": "Bloomin eck, it's peeing it down so hard, it's competing for the audio.",
+    "likes": 0,
+    "published_at": "2020-11-15T22:03:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwbE3xnLLqO0xL0SlV4AaABAg.9G5f1es7Re49G6fzZlLTBZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know - amazing eh!",
+        "likes": 0,
+        "published_at": "2020-11-16T07:31:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZ0st-m6U4EPDcxZ54AaABAg",
+    "author": "@fallknight5405",
+    "author_channel_id": "UCbVWYXSwjRzbjLox818wYrw",
+    "text": "Has anyone seen those one's on eBay stating that they can deliver 8000w for around £200,is that really possible",
+    "likes": 0,
+    "published_at": "2020-11-15T21:56:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZ0st-m6U4EPDcxZ54AaABAg.9G5e9sBjORw9G6g7BtiKrc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "mate - quite honestly if it seems too good to be true - it probably is",
+        "likes": 0,
+        "published_at": "2020-11-16T07:32:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZteB2-jm8jWse5zd4AaABAg",
+    "author": "@nickkitchener6155",
+    "author_channel_id": "UCwoWIgW0Bxnhh_5WOaNczDQ",
+    "text": "Come on folks look at the size of this thing. In a blow it's going to produce 1KW provided it has enough coils.\nThe challenge is making it so it produces something in lighter wind conditions because the more coils, the more inductive breaking.",
+    "likes": 0,
+    "published_at": "2020-11-15T21:35:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZteB2-jm8jWse5zd4AaABAg.9G5bnKtxGGk9G6gAOEDpXr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you have it spot on mate! cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:32:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyibHw50xdzZKqUf2N4AaABAg",
+    "author": "@endadalton",
+    "author_channel_id": "UCOZZjL3LDZa1pPMxnf2OzFw",
+    "text": "Rain Rain go away come back another day, bring the WIND",
+    "likes": 0,
+    "published_at": "2020-11-15T21:27:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyibHw50xdzZKqUf2N4AaABAg.9G5atsz6rhY9G6gHas_qIu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I wish!",
+        "likes": 0,
+        "published_at": "2020-11-16T07:33:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6wdaHXWCvG7h6LRB4AaABAg",
+    "author": "@johnmcginnis5201",
+    "author_channel_id": "UCpbel6JklVXIUSu-t9yq6qA",
+    "text": "The Wikipedia article references rho as any Newtonian fluid, so I wonder what rho is for water?\n\nLets get fancy. One of the issues that have to be addressed with horizontal wind turbines is over-speeding. There have been various methods applied to solving that, both mechanical and electronically. A VWT like the one demonstrated I think offers an even better solution. The same coils  that pick up the magnetic flux could also be used for braking in a over-speed situation. Once the voltage would reach a certain point feed the output back to a pair of coils to apply braking.",
+    "likes": 0,
+    "published_at": "2020-11-15T21:24:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6wdaHXWCvG7h6LRB4AaABAg.9G5aVsbkU539G6gLxzaB-s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "exactly mate!",
+        "likes": 0,
+        "published_at": "2020-11-16T07:34:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwIWnMuANDsgmRLRVV4AaABAg",
+    "author": "@paullewis1637",
+    "author_channel_id": "UCUi898uYLnYoX_xB3pO9RtQ",
+    "text": "Awesome Rob, very interesting BUT, shouldn’t you have done rough calc if this type BEFORE you started building it. It’s a bit late at this stage to find you’ve got it all wrong don’t you think. Be interesting to see how it works out in practice though, best of luck, rooting for you all the way. I am a retired power station engineer and am fascinated by how it’s all going to end. Very exciting.",
+    "likes": 1,
+    "published_at": "2020-11-15T21:23:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwIWnMuANDsgmRLRVV4AaABAg.9G5aQjV2QSk9G6gX7gZ_sE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - yes I really should have mate - but to be honest before starting the build I did look at similar designs around the spec I wanted and used that as a rough guide - so to be honest I was pretty confident in the outcome - I really did this as a learning exercise",
+        "likes": 0,
+        "published_at": "2020-11-16T07:35:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgziCIac2JkH0dMsc3F4AaABAg",
+    "author": "@eddiesmith5568",
+    "author_channel_id": "UCnEfba8TndgapwjHTJg7Kug",
+    "text": "Great project.  Watching with interest.\nSuggestion for next stage\nHave 2 rotors. 1 on top of the other. Use the vains to force the rotors  to force rotation in opposite directions. Put the coils on 1 and the magnets on the other.  Effectively doubles the passing speed at the interface.",
+    "likes": 1,
+    "published_at": "2020-11-15T21:15:17Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgziCIac2JkH0dMsc3F4AaABAg.9G5_V5Sp2B69G6gbSIlU1w",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's a good idea mate - it will mean I need slip rings on one rotor for take off thought",
+        "likes": 2,
+        "published_at": "2020-11-16T07:36:41Z"
+      },
+      {
+        "id": "UgziCIac2JkH0dMsc3F4AaABAg.9G5_V5Sp2B69G7jR-rPRya",
+        "author": "@will_doherty",
+        "author_channel_id": "UCXT-XdPy2qFf8yTcUiC8mfg",
+        "text": "@ThinkingandTinkering It won't make any difference to the output, as you will have two half height rotors each taking half the amount of energy from the wind that the full size rotor does, so the output for a given wind speed will at best be the same - though additional frictional losses, coupled with additional dead space in the rotor assembly mean that the output would be reduced.\nI do find it bizarre that someone who states that the strength of the magnets and the design of the coils aren't important thinks he can rival a commercially designed, tested and manufactured wind generator for efficiency.\nAs I noted in a comment on an earlier video in this series, there's no chance of such a jerry-built wind turbine/generator producing anything approaching a 1kW output...",
+        "likes": 0,
+        "published_at": "2020-11-16T17:20:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxF9YzJ_UfIp4l1h4Z4AaABAg",
+    "author": "@sk8pkl",
+    "author_channel_id": "UCASIQa-Y2kg7-myUhQtksdw",
+    "text": "That setup would be nice to test out weird coils like pancake coils and vortex coils.",
+    "likes": 0,
+    "published_at": "2020-11-15T21:14:40Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxF9YzJ_UfIp4l1h4Z4AaABAg.9G5_Qd_HWgN9G6ggYU_hRP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes it would but I also did a mechanical bench top tester from an exercise bike for just that reason - there is a video on it",
+        "likes": 1,
+        "published_at": "2020-11-16T07:37:23Z"
+      },
+      {
+        "id": "UgxF9YzJ_UfIp4l1h4Z4AaABAg.9G5_Qd_HWgN9G84CvJehe5",
+        "author": "@sk8pkl",
+        "author_channel_id": "UCASIQa-Y2kg7-myUhQtksdw",
+        "text": "@ThinkingandTinkering oohhh i saw that exercice bike bench test. I havent seen all of it i think. Ill have a look at it ty.",
+        "likes": 0,
+        "published_at": "2020-11-16T20:30:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz2lTvWjw-TORd2dTF4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "I could be wrong on this one but is Betz Law not only for horizontal axis \"propeller blade\" types?\nI have tried looking for equations for VAWT but not been successful up to now .... tbh there are so many different designs that each may need its own. \nOne way of getting more power is to create a baffle that funnels a larger area of wind into the turbine .... but often that is not practical! I wonder if you thought of that when you designed those flat support pieces?  \nEather way ... another video to make folks think ;0)",
+    "likes": 0,
+    "published_at": "2020-11-15T20:59:57Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz2lTvWjw-TORd2dTF4AaABAg.9G5Yjpr7-BQ9G6QQqbHgmq",
+        "author": "@q.e.d.9112",
+        "author_channel_id": "UC2GCMbZ44dSiCiX4dUHuNdQ",
+        "text": "Dave W \nBetz law applies to both, equally. It’s the maximum amount power that can be extracted by a 100% efficient turbine of a given area. For a horizontal axis that is the area of the propellor disc, π.r^2, where r is the length of the blades. For a VAWT, the area is the diameter of the rotor by the height (d,h) in the equation at 2:10.\n😉",
+        "likes": 0,
+        "published_at": "2020-11-16T05:06:33Z"
+      },
+      {
+        "id": "Ugz2lTvWjw-TORd2dTF4AaABAg.9G5Yjpr7-BQ9G6gokVyy3Q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Betz is indépendant of machine design mate - QED has it",
+        "likes": 0,
+        "published_at": "2020-11-16T07:38:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzOf8LnQyncJm6uc-l4AaABAg",
+    "author": "@stevecummins324",
+    "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+    "text": "Could you do some video of streak line tests?\nThin line of smoke flowing through the rotor. Be interesting to know how  the wind/smoke flows in/through/out of the rotor",
+    "likes": 2,
+    "published_at": "2020-11-15T20:55:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzOf8LnQyncJm6uc-l4AaABAg.9G5YG4iprl29G6gqceuxhd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I like the idea mate - cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:38:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxsz7yStJisLh_8yI54AaABAg",
+    "author": "@1magnit",
+    "author_channel_id": "UC4WRtTE_30enabe_9kuMZOw",
+    "text": "Why are you mentioning KWH? it's KW",
+    "likes": 0,
+    "published_at": "2020-11-15T20:50:48Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugxsz7yStJisLh_8yI54AaABAg.9G5Xgokbuvj9G6h0kMyFRa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "because I am a battery guy and I always think of energy density in those terms - my bad - I usually mean kW but when 'running off at the mouth and not thinking about what I am saying' I will say kWh",
+        "likes": 0,
+        "published_at": "2020-11-16T07:40:17Z"
+      },
+      {
+        "id": "Ugxsz7yStJisLh_8yI54AaABAg.9G5Xgokbuvj9G6hTsdHytx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's not what I said - I said it was a waste of time trying to prove anything to other people at this stage - at this stage all I need to prove something to is to myself.",
+        "likes": 0,
+        "published_at": "2020-11-16T07:44:15Z"
+      },
+      {
+        "id": "Ugxsz7yStJisLh_8yI54AaABAg.9G5Xgokbuvj9G6jGFHWJnU",
+        "author": "@1magnit",
+        "author_channel_id": "UC4WRtTE_30enabe_9kuMZOw",
+        "text": "@ThinkingandTinkering I had a feeling it was a slip of the tongue. Have you thought of using a F&P smartdrive motor as a generator? How about an alternator from a car?. You're not going to get much efficiency from a magnet flying past a microwave transformer core.",
+        "likes": 0,
+        "published_at": "2020-11-16T07:59:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFmBFZ5nsEDO5PqkJ4AaABAg",
+    "author": "@garywillis5790",
+    "author_channel_id": "UCsOtnDTinrVNcJQIfaWn5EQ",
+    "text": "The best thing about this protect is the process. Tweaking the design to get the best out of something is always interesting regardless of power output. \nNice work, let's hope we gets some wind soon.",
+    "likes": 2,
+    "published_at": "2020-11-15T20:46:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyFmBFZ5nsEDO5PqkJ4AaABAg.9G5XC_3YGpC9G6hWALaxl4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Couldn't agree more! cheers mate",
+        "likes": 1,
+        "published_at": "2020-11-16T07:44:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzRzuPyeFssGKXWceJ4AaABAg",
+    "author": "@tinkmarshino",
+    "author_channel_id": "UCILUza8HB5zmSMb3sS3rqPw",
+    "text": "This is just damn amazing Rob.. I to learn by hands on work.. but I actually was looking at Betz's Law just a few hours ago.. I to find this exciting and fun.. Just imagine if we could get 80% WOW.. that would be terrific! It would be kind of embarrassing to the pro wind makers though.. they spend hundereds of thousands of dollars \"developing new technology\" and the same on there big wind generators and we spend less than 100 bucks on the same.. Except of course ours is not as big as the ones they make.. But works the same following the 1919 principle of Mr Betz.. Well done Rob! Carry on ole son.. show 'em how it's to be done!",
+    "likes": 0,
+    "published_at": "2020-11-15T20:44:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzRzuPyeFssGKXWceJ4AaABAg.9G5WvB2NmDy9G6hdPJndGc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate and to be honest I think turbine manufacturers ought to have a degree of embarrassment about the claims they make!",
+        "likes": 1,
+        "published_at": "2020-11-16T07:45:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLxuwBgmIHzgJNR3F4AaABAg",
+    "author": "@ahigeez7584",
+    "author_channel_id": "UCOx31jXmsMWFMcf4xFeZdXw",
+    "text": "I've messed with magnets a little and the Halbach array is an objective increase in directed field force.  Yes, if you want A/c you'll have to put a net losing device between it and the load but why not go for the gusto.  High voltage DC makes strange magic and besides battery banks are aligned for it.  Let my ignorance be a guide.",
+    "likes": 0,
+    "published_at": "2020-11-15T20:38:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzLxuwBgmIHzgJNR3F4AaABAg.9G5WFNInhlR9G6ho_nb9p7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate lol",
+        "likes": 0,
+        "published_at": "2020-11-16T07:47:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxLNMiS46xpqgenVoN4AaABAg",
+    "author": "@andybaker2443",
+    "author_channel_id": "UCiwxv106EvXNdyFbbLSjvUA",
+    "text": "This project just keeps delivering - love it.",
+    "likes": 12,
+    "published_at": "2020-11-15T20:28:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxLNMiS46xpqgenVoN4AaABAg.9G5V64sx41e9G6hqlR-Gws",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-11-16T07:47:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUJCuRdfmf-Jc2B094AaABAg",
+    "author": "@scantrain5007",
+    "author_channel_id": "UCwLsHcf9-EcD5DHB7WW0bJw",
+    "text": "One more lesson (for some teacher) how to simplify a math subject. As you said: KISS = Keep It Stupid Simple.  :-) :-) :-)\nTo be honest: The theoretical max output says not a lot. In praxis it's depend where the wind turbine is located: Not everybody lives for example at the windy west coast of Scotland, there might be a limitation of hight where to put the turbine, high trees takes windflow away and so on.  \nHowever: I really enjoied your small math curse!",
+    "likes": 0,
+    "published_at": "2020-11-15T20:27:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUJCuRdfmf-Jc2B094AaABAg.9G5V-OPrVQA9G6i7yBRWHH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate - theory is one thing and reality another",
+        "likes": 0,
+        "published_at": "2020-11-16T07:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwm3kz9MKX887dh3b94AaABAg",
+    "author": "@CameronAshton",
+    "author_channel_id": "UCSan2VZjxGMeURzGlnjAWXQ",
+    "text": "Love your work!\nJust trying to make sense of the math. I get 16/27 (0.5925925926) * 1/2 (.5) *  P  (kg/m3 Wind @ 1.229), so 0.5925... * 0.5 * 1.229 = 0.3641481481, this is double your constant of 0.18?",
+    "likes": 0,
+    "published_at": "2020-11-15T20:27:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwm3kz9MKX887dh3b94AaABAg.9G5Uyjw0DwE9G6iEMCz6j5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I just took it straight from wiki",
+        "likes": 0,
+        "published_at": "2020-11-16T07:50:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUumrkva_2XV_OxK14AaABAg",
+    "author": "@goldmagnet9013",
+    "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+    "text": "Rob, when you mount it on your roof are you going to keep the \"Fins\" you have installed ? Also is it going to be pole mounted ?",
+    "likes": 0,
+    "published_at": "2020-11-15T20:21:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUumrkva_2XV_OxK14AaABAg.9G5UOOT38OL9G6iJaL2W4D",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "to be honest mate - I am not sure",
+        "likes": 0,
+        "published_at": "2020-11-16T07:51:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwhhUJmoAafZZhB3xp4AaABAg",
+    "author": "@phillipr303",
+    "author_channel_id": "UCIR21TvTUwsMaV10UpFiLKg",
+    "text": "He was hoping someone in the aeronautical industry would improve on his findings and produce a better system.\nGo back and look again at Wikipedia and it explains that Betz Limit only applies to an Open Rotor system... your system is NOT subject to Betz Limit as it is a different design than what was tested by Albert Betz.",
+    "likes": 0,
+    "published_at": "2020-11-15T20:17:25Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwhhUJmoAafZZhB3xp4AaABAg.9G5TsHKyyXU9G5UMvinozV",
+        "author": "@dexterdixon2000",
+        "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+        "text": "Are you saying this design can extract more than 59% of the power available in the wind falling on its swept area?",
+        "likes": 0,
+        "published_at": "2020-11-15T20:21:44Z"
+      },
+      {
+        "id": "UgwhhUJmoAafZZhB3xp4AaABAg.9G5TsHKyyXU9G5XY7PhjWK",
+        "author": "@phillipr303",
+        "author_channel_id": "UCIR21TvTUwsMaV10UpFiLKg",
+        "text": "@dexterdixon2000 With a few more refinements to his design it would be possible.  My expertise is in Ducted Systems.  The ducted system I created was tested to be a CP=4 class (Coefficient of Power). Meaning it will harness 4 times the power over a ducted system of equal size.   Do you know how hard it is to tell an engineer they don't know what they are talking about when it comes to Betz Limit?  While this CP=4 has been a theoretical formula for many years others have claimed that a CP=8 or 8 times the energy is possible.  My new design has already been tested and proven.",
+        "likes": 0,
+        "published_at": "2020-11-15T20:49:28Z"
+      },
+      {
+        "id": "UgwhhUJmoAafZZhB3xp4AaABAg.9G5TsHKyyXU9G5YAEumQzJ",
+        "author": "@dexterdixon2000",
+        "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+        "text": "@phillipr303 Not sure I understand what you mean by CP=4. Do you have any published work about this?",
+        "likes": 0,
+        "published_at": "2020-11-15T20:54:57Z"
+      },
+      {
+        "id": "UgwhhUJmoAafZZhB3xp4AaABAg.9G5TsHKyyXU9G6iUHD-H8Z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - I didn't know that at all mate - thank you very much for the pointer",
+        "likes": 0,
+        "published_at": "2020-11-16T07:53:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxbhWczeaz3f5FMwHN4AaABAg",
+    "author": "@benthere8051",
+    "author_channel_id": "UCA3o-MOrmPBuK-vzEclDbQQ",
+    "text": "That's good information, Robert. Thanks. \nHere's hoping for good test conditions.",
+    "likes": 0,
+    "published_at": "2020-11-15T20:13:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxbhWczeaz3f5FMwHN4AaABAg.9G5TSWWJDLg9G6iWN6XIRd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T07:53:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxIZCPXpC1osLmunqx4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "I agree about efficiency differentiation depends on magnet and coil positioning. I want to build one a metre high with thin ribs in the rotor curves. I guess this could be done with wire if not with solid ribs to achieve strength in high winds.",
+    "likes": 0,
+    "published_at": "2020-11-15T20:07:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxIZCPXpC1osLmunqx4AaABAg.9G5ShxJnJik9G6iZBIkeqb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "interesting idea mate - cheers",
+        "likes": 1,
+        "published_at": "2020-11-16T07:53:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz3FyWDcJ9FRjzda0d4AaABAg",
+    "author": "@johnnorris1983",
+    "author_channel_id": "UCbc9bCvj9hSFDkV4XMbTolg",
+    "text": "Most German car main dealership's have empty add blue barrels which they pay to have removed. If you obtain an empty one and split it vertically into 4 you get 4 directional wind baffles for free. Add blue I'm assured has the same formula as pig pee without the scent. A quick rinse should do it",
+    "likes": 0,
+    "published_at": "2020-11-15T20:06:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz3FyWDcJ9FRjzda0d4AaABAg.9G5SbyATR_a9G6ib4hjRXg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - cheers",
+        "likes": 0,
+        "published_at": "2020-11-16T07:54:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzaxiGLcZt-my_-KJl4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "I love formula transposition.",
+    "likes": 1,
+    "published_at": "2020-11-15T19:53:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzaxiGLcZt-my_-KJl4AaABAg.9G5RB7-uy0v9G6iiJi9ZFO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "who doesn't lol",
+        "likes": 1,
+        "published_at": "2020-11-16T07:55:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgziGUZMNXc24B_EOX14AaABAg",
+    "author": "@michaelpearson5465",
+    "author_channel_id": "UCPpAZ_BWOii8hp6fH0DkVcQ",
+    "text": "Mathmatical models are great for getting a good feeling for what a real world design can do. Taking basic equations and adapting them is an inherent part of engineering. This is a great example of this and shows promise for this turbine.\n\nThere a a varity of options for increasing the efficiency, such as blade geometry and balancing.\n\nAnother great video 👌",
+    "likes": 2,
+    "published_at": "2020-11-15T19:51:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgziGUZMNXc24B_EOX14AaABAg.9G5QwmQtnzJ9G6j4L8FWn8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "balancing has certainly been on my mind",
+        "likes": 0,
+        "published_at": "2020-11-16T07:58:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3cbvIKJhY8_qaXlF4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "I enjoyed this video and look forward to the next.  Perhaps where there is disagreement is also a misunderstanding of KW vs KWh.  I think your critics are, perhaps without realizing it, coming from the knowledge that winds are rarely sustained at any steady speed, You are entirely correct to measure and rate your project with the same assumptions as commercial projects.  I don't think Betz' law will silence the critics who correctly observe that wind isn't constant.   Promoters of subsidized wind power generation do not explain that the 25ms wind speed occurs less than 30% over the service life of the wind turbine, and the maximum service output of a single generator is less than 0.3 times the KW rating .  Your approach of using inexpensive materials (with distributed, point-of-use generation) is much more economically feasible and sustainable.\nI wonder if rating at 25ms velocity is useful, as this is more or less equal to 90 kph or 55 mph wind speed.",
+    "likes": 0,
+    "published_at": "2020-11-15T19:47:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx3cbvIKJhY8_qaXlF4AaABAg.9G5QSKCLj3N9G6jEtkfCJY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I really don't understand the focus on high wind speed - the average wind speed of an area and trying to extract power from hat seems a more reasonable approach to me",
+        "likes": 0,
+        "published_at": "2020-11-16T07:59:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxsd_KUeWuj_WwfH5Z4AaABAg",
+    "author": "@wilfrieddebruyne9212",
+    "author_channel_id": "UCGHH1DaDqx2epOwvLKoaNew",
+    "text": "Even if you only achieve 40% , the whole project is a success. Pipe sections may not  be the ideal aerodynamic shape and you did not fine-tune their angle.  I wish you 81%.",
+    "likes": 2,
+    "published_at": "2020-11-15T19:42:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxsd_KUeWuj_WwfH5Z4AaABAg.9G5PsmE0ZpS9G6jGyCT6jy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T07:59:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyso-GUK9z1ARi_j7d4AaABAg",
+    "author": "@Scott_C",
+    "author_channel_id": "UC3MHDTWT9M9mOm-PD2URjdA",
+    "text": "This equation is why windmills /wind turbines would never work on Mars.  Atmospheric pressure /density is much less than Earth.",
+    "likes": 0,
+    "published_at": "2020-11-15T19:39:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyso-GUK9z1ARi_j7d4AaABAg.9G5PXAVNRlu9G6jIz92u9r",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "interesting - cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:00:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzQvZqVSnCj1H7DQEl4AaABAg",
+    "author": "@MerwinARTist",
+    "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+    "text": "It seems to me that the 'law' is not allowing for the fact that you are adding so many more coils to the wind turbine.  If you only have one coil .. it would be the energy collected in one revolution.  If you have 12 coils .. a lot more energy is collected.  I am wondering if there would also be a way to connect the energy from a solar panel to operate a small motor that could turn the turbine when it's not windy (probably inefficient) .. but it would be interesting to add a cross-over source that could keep the turbine moving .. like heat from the attic going up a chimney.  Very interesting, inspiring, thought generating sessions!  Thanks for reading!  🤣👍",
+    "likes": 0,
+    "published_at": "2020-11-15T19:39:00Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzQvZqVSnCj1H7DQEl4AaABAg.9G5PTytk1AQ9G5V3JArwv1",
+        "author": "@goldmagnet9013",
+        "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+        "text": "Thats a great idea, I wonder why they dont do that on wind farms.",
+        "likes": 1,
+        "published_at": "2020-11-15T20:27:47Z"
+      },
+      {
+        "id": "UgzQvZqVSnCj1H7DQEl4AaABAg.9G5PTytk1AQ9G6kfyfnOHD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it doesn't mate you are right it only talks about the potential that can be collected - the actual depends on coils etc and the difference between the actual and the potential is the efficiency",
+        "likes": 1,
+        "published_at": "2020-11-16T08:12:15Z"
+      },
+      {
+        "id": "UgzQvZqVSnCj1H7DQEl4AaABAg.9G5PTytk1AQ9G6topnFKoU",
+        "author": "@MerwinARTist",
+        "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+        "text": "@ThinkingandTinkering Thanks for that!  👍",
+        "likes": 0,
+        "published_at": "2020-11-16T09:32:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRfUUET_jOi5SooLl4AaABAg",
+    "author": "@jeffreycoulter4095",
+    "author_channel_id": "UC3EB3sWol8F16c4Ke3WdfIg",
+    "text": "Excellent video. I've pulled a couple pulleys from a car engine I was replacing. I'm considering using them for the top and bottom supports to my wind generator. Coupling that to a few conversion pulleys from swamp coolers, then to a car alternator to charge batteries. The alternator is a standard Toyota 70 amp alternator. Theoretically my maximum is 840 watts. I'm hoping for 400 to 500 watts. I'll be happy with that. At 840 watts, I don't want to go outside. Even at 400 watts, the wind is blowing somewhat harder than I like, to do work outside. Cheers",
+    "likes": 0,
+    "published_at": "2020-11-15T19:35:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwRfUUET_jOi5SooLl4AaABAg.9G5P1URy7tU9G6kvmfm8JN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I like the plan mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:14:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxkKutWPSv-HZs-QKd4AaABAg",
+    "author": "@JSabh",
+    "author_channel_id": "UCzZBO94Ia-LjnTWNkrJSxIQ",
+    "text": "The issue is the pressure envelope that develops in VERTICAL AXIS turbines vs the OVERSPEED OF A HORIZONTAL TURBINE. Otherwise, you would see VAWT farms everywhere but you do not, you find horizontal turbines because they can overspeed and a 15 Ms wind becomes the equivalent of 25Ms when the turbine overspeeds. This can not be done with a vertical axis, you will not defy physics no matter how optimistic you are.",
+    "likes": 2,
+    "published_at": "2020-11-15T19:34:40Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgxkKutWPSv-HZs-QKd4AaABAg.9G5OzEy5GFB9G5RhgEs4JE",
+        "author": "@goldmagnet9013",
+        "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+        "text": "Not true. Rob DID defy physics when he got his Magnus turbine to use the Magnus effect without spinning the rotors ! He copied a design and missed that the rotors were powered, yet it still worked ! I guess the fan blowing just on one side helped.",
+        "likes": 1,
+        "published_at": "2020-11-15T19:58:29Z"
+      },
+      {
+        "id": "UgxkKutWPSv-HZs-QKd4AaABAg.9G5OzEy5GFB9G5SsTuj_xW",
+        "author": "@JSabh",
+        "author_channel_id": "UCzZBO94Ia-LjnTWNkrJSxIQ",
+        "text": "@goldmagnet9013 if a fan was blowing, he defied nothing except honesty. The fan replaced the motor in the magnus effect. One could put fins on that make them turn counter clockwise as well, still does not defy physics. That is impossible outside of subatomics.",
+        "likes": 0,
+        "published_at": "2020-11-15T20:08:42Z"
+      },
+      {
+        "id": "UgxkKutWPSv-HZs-QKd4AaABAg.9G5OzEy5GFB9G5TDlPSi25",
+        "author": "@goldmagnet9013",
+        "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+        "text": "@JSabh Agreed.",
+        "likes": 1,
+        "published_at": "2020-11-15T20:11:44Z"
+      },
+      {
+        "id": "UgxkKutWPSv-HZs-QKd4AaABAg.9G5OzEy5GFB9G6l5tvnB8A",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "why do you think I am trying to defy physics?",
+        "likes": 0,
+        "published_at": "2020-11-16T08:15:56Z"
+      },
+      {
+        "id": "UgxkKutWPSv-HZs-QKd4AaABAg.9G5OzEy5GFB9G7E2QMcFut",
+        "author": "@goldmagnet9013",
+        "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+        "text": "@ThinkingandTinkering Like not spinning the rotors on the magnus turbine, and saying it worked awesome and used the Magnus effect and encouraging people to build one. As I said before I have generated my power for decades, I encourage people to make their own turbines, but with designs that are practical and work. Windmills made from scrap are the norm for many and there are tried and tested designs (brake disk etc). Rob wind turbines are judged on how long they last, and how much power they produce so please put the meter in from of the camera, use a known test load and measure the actual power it produces in real time. Do this with all your generation projects, volts mean nothing in isolation, there are thousands of them everywhere, you know that from combing your hair, but very rarely do you provide the relevant information to your viewers, you just say experiment for yourself, when a lot of people would like to know if they would ever generate any real power.",
+        "likes": 0,
+        "published_at": "2020-11-16T12:37:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwdv0yyeJrD_C0RkOt4AaABAg",
+    "author": "@binmanblog",
+    "author_channel_id": "UCbpPLr8ZOcwXSSXZsrVAHRw",
+    "text": "Talk about arse backwards it's like \"field of dreams\" build it and they will come. OK, it sounds feasible so build it and see what happens and do the maths later. I think Rob is what used to be called a boffin which I love because some people just have a \"knack\" for this kind of stuff. Great work.",
+    "likes": 4,
+    "published_at": "2020-11-15T19:23:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwdv0yyeJrD_C0RkOt4AaABAg.9G5NhRlG7J69G6lG6Ks8si",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate - basically I had a look at similar designs and built one round about that size as it made sense to me - maths is great but in my mind common sense is better",
+        "likes": 0,
+        "published_at": "2020-11-16T08:17:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz4kMwGcprlZQI5zd14AaABAg",
+    "author": "@johanrheeder1640",
+    "author_channel_id": "UCnOJSzAf-vxS7YcPm8-Kh_A",
+    "text": "To get 1kw/h You only need 1000w/3600 seconds and i will put on a bet that you can do that. So you need to get 28 watt output.",
+    "likes": 0,
+    "published_at": "2020-11-15T19:20:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz4kMwGcprlZQI5zd14AaABAg.9G5NOkTRr5l9G6lH7q8j1V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure",
+        "likes": 1,
+        "published_at": "2020-11-16T08:17:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwuwI17vSjw5raloct4AaABAg",
+    "author": "@barbufodor1186",
+    "author_channel_id": "UC21l1uZwi0gyg_AaJM1rPhQ",
+    "text": "0.1 x 24 x 365 x 0.14=122.64 ( with the units kW, Hours, days, pence, Pound Sterling) no matter how you look at it it pays the 100 Pound (Sterling) in less than 1 year, even at 0.1 kW . Is there anything incorrect in my assumption?",
+    "likes": 0,
+    "published_at": "2020-11-15T19:18:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwuwI17vSjw5raloct4AaABAg.9G5N8YMQrbz9G6lISPXLdZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "looks fine to me mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:17:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwv_OLDL2T4qmD6Z094AaABAg",
+    "author": "@andytrewin",
+    "author_channel_id": "UCxRbdvIhot98q245JLzwhaA",
+    "text": "Good looking ashtrays Robert. ;-)",
+    "likes": 0,
+    "published_at": "2020-11-15T19:16:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwv_OLDL2T4qmD6Z094AaABAg.9G5MvBkjBw29G6lJj85INQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - can lids mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:17:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw2_rbo_g_lkNObxeR4AaABAg",
+    "author": "@Hellgazer",
+    "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+    "text": "The Betz law governs the amount of energy one could extract from wind by using any possible shape, or skiny  things like wind turbines? I mean, it is very clear to me looking to sail boats that sail wings extract much much much more more energy from the wind than any wind turbine. At least for bigger things for sure...",
+    "likes": 0,
+    "published_at": "2020-11-15T19:10:49Z",
+    "reply_count": 13,
+    "replies": [
+      {
+        "id": "Ugw2_rbo_g_lkNObxeR4AaABAg.9G5MFSbmfwj9G5RnJOksDO",
+        "author": "@Hellgazer",
+        "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+        "text": "@Ed R4 so it would be much better to use sail wings instead of blades in bigger equipments, right?",
+        "likes": 0,
+        "published_at": "2020-11-15T19:59:15Z"
+      },
+      {
+        "id": "Ugw2_rbo_g_lkNObxeR4AaABAg.9G5MFSbmfwj9G5S-kEc--L",
+        "author": "@Hellgazer",
+        "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+        "text": "@Ed R4 something is wrong. Sail wings have three dimensions of large areas, wind turbines have only two.",
+        "likes": 0,
+        "published_at": "2020-11-15T20:01:05Z"
+      },
+      {
+        "id": "Ugw2_rbo_g_lkNObxeR4AaABAg.9G5MFSbmfwj9G5_vCk-qlM",
+        "author": "@Hellgazer",
+        "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+        "text": "@Ed R4 no, wind turbines gets the most of it's energy with the height and width of the blades, not the depth because it is too skiny. Boat sails does height, width and depth as well and it's much more eficient.\nMy question is if Betz Law and this formula presented here also works for sail boat like structures. Have you seen a Caravel? I'm sure it would not be pushed if they used blades instead of sails.\nI mean, why not use wings in a circular form instead of blades?",
+        "likes": 0,
+        "published_at": "2020-11-15T21:18:59Z"
+      },
+      {
+        "id": "Ugw2_rbo_g_lkNObxeR4AaABAg.9G5MFSbmfwj9G5bc2HoiAW",
+        "author": "@Hellgazer",
+        "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+        "text": "@Ed R4 well, I'm telling that because a sail like wing generator won an international X-Prize competition in 2017, in which a 3 meters equipment mounted in the top of a 11 meters post reached 50KW/h, producing 2000 atmospheric water liters per day. It's a lot of power with this size. The creator said it works better above 10KW/h right because it uses three dimensions instead of only two of traditional blades, so it is much more scalable.",
+        "likes": 0,
+        "published_at": "2020-11-15T21:33:50Z"
+      },
+      {
+        "id": "Ugw2_rbo_g_lkNObxeR4AaABAg.9G5MFSbmfwj9G5dmhsje-O",
+        "author": "@Hellgazer",
+        "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+        "text": "@Ed R4 if this is true, how the sail like equipment performed so well? I think that torque is much more important in big equipment than high RPM.",
+        "likes": 0,
+        "published_at": "2020-11-15T21:52:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLURdNG2tirbSNg6N4AaABAg",
+    "author": "@killercuddles7051",
+    "author_channel_id": "UCPkgShkq8YSEUDTgPkmVMDg",
+    "text": "I typed \"a\" into youtube... quickly scrolled down a few times. ... clicked this video to say, \"I love all you sexy freaks.\"",
+    "likes": 6,
+    "published_at": "2020-11-15T19:10:11Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyLURdNG2tirbSNg6N4AaABAg.9G5MAocGm9z9G6hjD2XFoJ",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "Awww, what a nice thing to say. World never has enough love. Now, try some of Roberts videos.",
+        "likes": 1,
+        "published_at": "2020-11-16T07:46:29Z"
+      },
+      {
+        "id": "UgyLURdNG2tirbSNg6N4AaABAg.9G5MAocGm9z9G6m9QDWmrU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - well awesome - cheers",
+        "likes": 1,
+        "published_at": "2020-11-16T08:25:09Z"
+      },
+      {
+        "id": "UgyLURdNG2tirbSNg6N4AaABAg.9G5MAocGm9z9G7ANHK8xjt",
+        "author": "@killercuddles7051",
+        "author_channel_id": "UCPkgShkq8YSEUDTgPkmVMDg",
+        "text": "@ThinkingandTinkeringit can be strange how events unfold. I guess we making a wind turbine now. Hopefully eventually hydroelectric. \n-CHEERS!!",
+        "likes": 0,
+        "published_at": "2020-11-16T12:05:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxPQwx990ykTbjpYrt4AaABAg",
+    "author": "@andrewsomerville5772",
+    "author_channel_id": "UCQKP8iXLy89jCaITnIOlTuQ",
+    "text": "Why do you keep saying kWh? That's a measure of energy rather than power. I'm assuming you mean kW?",
+    "likes": 2,
+    "published_at": "2020-11-15T19:07:56Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgxPQwx990ykTbjpYrt4AaABAg.9G5LvQNgyBS9G5Ng_qURp1",
+        "author": "@newtonbomb",
+        "author_channel_id": "UCU8bwy4T7zKfwKJOD1s9qUg",
+        "text": "I think he means an average of 1kWh a day when deployed under average windspeed conditions.  If you can build a turbine that can produce an average of 100W for 10 hours of projected wind loading then you have a 1kWh of energy per windy day.  Because wind conditions are so variable, wind turbines are rated in kWh for this reason, during a 24hr period it may be producing 180W sometimes, 40W another, 80W another, and sometimes 0W when there is no wind; but produces a total of 1 kWh over the whole day of generation.",
+        "likes": 1,
+        "published_at": "2020-11-15T19:23:23Z"
+      },
+      {
+        "id": "UgxPQwx990ykTbjpYrt4AaABAg.9G5LvQNgyBS9G5QXWQGTWw",
+        "author": "@dexterdixon2000",
+        "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+        "text": "@newtonbomb I've not seen turbines rated this way... I've seen charts for average windspeed vs kWh/month but I've not seen \"kWh per day in 'average' wind speed\"",
+        "likes": 0,
+        "published_at": "2020-11-15T19:48:13Z"
+      },
+      {
+        "id": "UgxPQwx990ykTbjpYrt4AaABAg.9G5LvQNgyBS9G5QrEbLsjX",
+        "author": "@andrewsomerville5772",
+        "author_channel_id": "UCQKP8iXLy89jCaITnIOlTuQ",
+        "text": "@newtonbomb they makes sense but he says it right after calculating power for 25mps wind which appeared to have theoretical output above 1kW. IMO if he means in the course of a day he should include that calculation to clarify. Especially since mixing up power and energy is a common mistake that results in bad conclusions.",
+        "likes": 0,
+        "published_at": "2020-11-15T19:51:03Z"
+      },
+      {
+        "id": "UgxPQwx990ykTbjpYrt4AaABAg.9G5LvQNgyBS9G5T2-xUFBf",
+        "author": "@goldmagnet9013",
+        "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+        "text": "@newtonbomb Thats not what he said in the first video of the series, he compared it to a 1Kw class turbine.",
+        "likes": 1,
+        "published_at": "2020-11-15T20:10:08Z"
+      },
+      {
+        "id": "UgxPQwx990ykTbjpYrt4AaABAg.9G5LvQNgyBS9G5VyXkvvjb",
+        "author": "@newtonbomb",
+        "author_channel_id": "UCU8bwy4T7zKfwKJOD1s9qUg",
+        "text": "Ok, fair play @all My assumptions did as they do, make an ass out of me lol.",
+        "likes": 0,
+        "published_at": "2020-11-15T20:35:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzKlplkYKTPC1GJRoJ4AaABAg",
+    "author": "@bobr9731",
+    "author_channel_id": "UCo6yed4ct2VlHwWLAiCUkiA",
+    "text": "Very enlighting. Looking forward tests.\nThanks for sharing.",
+    "likes": 1,
+    "published_at": "2020-11-15T19:04:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzKlplkYKTPC1GJRoJ4AaABAg.9G5L_1QNys69G6mJZmKLeW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:26:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0Y2XDCzqC9vjmzfl4AaABAg",
+    "author": "@bohabdestructo7489",
+    "author_channel_id": "UCNIxHpDF7-eBqeCtF-kCOSw",
+    "text": "If its rainy then build a rain powered generator.",
+    "likes": 2,
+    "published_at": "2020-11-15T18:59:08Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugz0Y2XDCzqC9vjmzfl4AaABAg.9G5KuzmFfox9G5MHdItQGI",
+        "author": "@AtlasReburdened",
+        "author_channel_id": "UC6Z6frqjPPhlQyp8oludEVg",
+        "text": "There's not a lot of power in the rain per unit of surface area compared to the wind. The average sized roof only collects enough to produce 5-20W.",
+        "likes": 0,
+        "published_at": "2020-11-15T19:11:06Z"
+      },
+      {
+        "id": "Ugz0Y2XDCzqC9vjmzfl4AaABAg.9G5KuzmFfox9G5ktQhpNRi",
+        "author": "@barbufodor1186",
+        "author_channel_id": "UC21l1uZwi0gyg_AaJM1rPhQ",
+        "text": "@AtlasReburdened you could build a \n\"gravitational generator\" .... collect the water high(in a container or tray or your rain gutter and dump it in a container) ,  have the weight of the water \"push\" a generator on it's way down, and lift an empty container/etc,  ....rinse and repeat ... you get the gist of it  .... It will not be highly efficient but definitely can generate power. The difference in work between the two ( full and empty ) minus some loses can be harnessed.",
+        "likes": 0,
+        "published_at": "2020-11-15T22:54:51Z"
+      },
+      {
+        "id": "Ugz0Y2XDCzqC9vjmzfl4AaABAg.9G5KuzmFfox9G5okcea_ew",
+        "author": "@AtlasReburdened",
+        "author_channel_id": "UC6Z6frqjPPhlQyp8oludEVg",
+        "text": "@barbufodor1186 Sure you can, but that won't make a roof that collects 10Wh of rain per hour of normal rain make any more than that amount. There's a channel called 'Quint Builds' that goes more in depth into harvesting of rain water for power generation. You should take a look at his efforts.",
+        "likes": 1,
+        "published_at": "2020-11-15T23:28:36Z"
+      },
+      {
+        "id": "Ugz0Y2XDCzqC9vjmzfl4AaABAg.9G5KuzmFfox9G5q_Peq1As",
+        "author": "@barbufodor1186",
+        "author_channel_id": "UC21l1uZwi0gyg_AaJM1rPhQ",
+        "text": "@AtlasReburdened  Thanks for the reference channel, I will take a look.",
+        "likes": 0,
+        "published_at": "2020-11-15T23:44:33Z"
+      },
+      {
+        "id": "Ugz0Y2XDCzqC9vjmzfl4AaABAg.9G5KuzmFfox9G6mMc6zfwt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "now there's an idea mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:26:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzZ18fzXdepp-tUCT14AaABAg",
+    "author": "@joohop",
+    "author_channel_id": "UCLFfattgPNyvFVelj259hog",
+    "text": "Rob What About Making A Quazi Enclosure To Increase Air Pressure ? \nJust A Thought Lad \nBless Up",
+    "likes": 1,
+    "published_at": "2020-11-15T18:58:09Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgzZ18fzXdepp-tUCT14AaABAg.9G5KnmCItm19G5NyUcBGvv",
+        "author": "@jeffreycoulter4095",
+        "author_channel_id": "UC3EB3sWol8F16c4Ke3WdfIg",
+        "text": "Funnel",
+        "likes": 1,
+        "published_at": "2020-11-15T19:25:50Z"
+      },
+      {
+        "id": "UgzZ18fzXdepp-tUCT14AaABAg.9G5KnmCItm19G5OsKvY7Zr",
+        "author": "@jeffreycoulter4095",
+        "author_channel_id": "UC3EB3sWol8F16c4Ke3WdfIg",
+        "text": "Excellent video. I've pulled a couple pulleys from a car engine I was replacing. I'm considering using them for the top and bottom supports to my wind generator. Coupling that to a few conversion pulleys from swamp coolers, then to a car alternator to charge batteries. The alternator is a standard Toyota 70 amp alternator. Theoretically my maximum is 840 watts. I'm hoping for 400 to 500 watts. I'll be happy with that. At 840 watts, I don't want to go outside. Even at 400 watts, the wind is blowing somewhat harder than I like, to do work outside. Cheers",
+        "likes": 3,
+        "published_at": "2020-11-15T19:33:44Z"
+      },
+      {
+        "id": "UgzZ18fzXdepp-tUCT14AaABAg.9G5KnmCItm19G5T-ltykJJ",
+        "author": "@joohop",
+        "author_channel_id": "UCLFfattgPNyvFVelj259hog",
+        "text": "@jeffreycoulter4095 Mmm Interesting",
+        "likes": 1,
+        "published_at": "2020-11-15T20:09:50Z"
+      },
+      {
+        "id": "UgzZ18fzXdepp-tUCT14AaABAg.9G5KnmCItm19G6mPeCWtM1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's a nice thought - cheers mate",
+        "likes": 1,
+        "published_at": "2020-11-16T08:27:22Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw0kEpsy0hGr7SOJ9h4AaABAg",
+    "author": "@stubluesjhb1",
+    "author_channel_id": "UCq1jcNGgYg-CIVQhQ7lcRbg",
+    "text": "Don't hold back go for the 80% - looking forward to watch the progress.",
+    "likes": 4,
+    "published_at": "2020-11-15T18:57:54Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw0kEpsy0hGr7SOJ9h4AaABAg.9G5KltxqPf79G6mkjo64UH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I get a sense he is attempting to be a guru mate - I have noticed a lot of negatives from him but no real positive suggestions - I also checked his channel - started 1 nov 2020 and no content - hmmm",
+        "likes": 1,
+        "published_at": "2020-11-16T08:30:23Z"
+      },
+      {
+        "id": "Ugw0kEpsy0hGr7SOJ9h4AaABAg.9G5KltxqPf79G6mmCIXEKW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:30:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-AYlRcQiJzNnqlcl4AaABAg",
+    "author": "@QuintusGaius",
+    "author_channel_id": "UC-9avs3Hvziz6XsdYJ-zyPw",
+    "text": "Sir, do you  plan to make something which will actually generate some real power? 100-200w would be plenty. This channel is really starting to dissapoint",
+    "likes": 0,
+    "published_at": "2020-11-15T18:57:45Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugy-AYlRcQiJzNnqlcl4AaABAg.9G5KknXqDZU9G5L8BFD6tO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - that is hilarious - if you are dissapointed stop watching",
+        "likes": 6,
+        "published_at": "2020-11-15T19:01:05Z"
+      },
+      {
+        "id": "Ugy-AYlRcQiJzNnqlcl4AaABAg.9G5KknXqDZU9G5MfowEYtx",
+        "author": "@Hellgazer",
+        "author_channel_id": "UCheDuQXRHFIl5AR3QxzKWhQ",
+        "text": "I guess this channel is not intentent to solve the biggest world's problem, mate. But it can provide you some scientific background if you decide to make something.",
+        "likes": 0,
+        "published_at": "2020-11-15T19:14:32Z"
+      },
+      {
+        "id": "Ugy-AYlRcQiJzNnqlcl4AaABAg.9G5KknXqDZU9G5S91yXdDm",
+        "author": "@goldmagnet9013",
+        "author_channel_id": "UCYUJF5Kt-Uv3dXuR-8b0XOw",
+        "text": "Rob seems to focus on click bait titles and selling membership these days.",
+        "likes": 2,
+        "published_at": "2020-11-15T20:02:21Z"
+      },
+      {
+        "id": "Ugy-AYlRcQiJzNnqlcl4AaABAg.9G5KknXqDZU9G5ZS8vGsAK",
+        "author": "@ahigeez7584",
+        "author_channel_id": "UCOx31jXmsMWFMcf4xFeZdXw",
+        "text": "I smile everytime a troll gets a greedy goal but their points go to messes, guesses and tragic people that rhyme with 'basses.'",
+        "likes": 0,
+        "published_at": "2020-11-15T21:06:08Z"
+      },
+      {
+        "id": "Ugy-AYlRcQiJzNnqlcl4AaABAg.9G5KknXqDZU9G60b0s6IQI",
+        "author": "@MrTubeuser12",
+        "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+        "text": "if you're going to be a troll, a least try to do a decent job of it, your the dumbest troll I've ever encountered, you're an insult to people's intelligence and quite frankly an embarrassment to other trolls,  you have no idea how much people are laughing at you HAHAHAHA :)",
+        "likes": 0,
+        "published_at": "2020-11-16T01:20:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwv90jd8OicmnUfr6N4AaABAg",
+    "author": "@markallison1141",
+    "author_channel_id": "UCrl8brMbq0B0E3TEUr1XR8g",
+    "text": "Everybody complains about the weather, but nobody does anything about the weather",
+    "likes": 1,
+    "published_at": "2020-11-15T18:54:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwv90jd8OicmnUfr6N4AaABAg.9G5KOlUgfLN9G6mpqCqw0_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I wear warmer clothes and that's about it lol",
+        "likes": 0,
+        "published_at": "2020-11-16T08:31:05Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwq-DR3dYeoQND35Nl4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Maybe with magnetic bearings lol",
+    "likes": 0,
+    "published_at": "2020-11-15T18:53:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwq-DR3dYeoQND35Nl4AaABAg.9G5KFnJm-Nw9G6mqe2b9vn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "maybe",
+        "likes": 0,
+        "published_at": "2020-11-16T08:31:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzTKUtXGU4s1QNl8lp4AaABAg",
+    "author": "@couchsurfer2856",
+    "author_channel_id": "UCNUDfIECET6meLTnXb5LgUQ",
+    "text": "Rig that wind turbine on your car and hit  the pedal !! Great vids. Thanks for sharing",
+    "likes": 1,
+    "published_at": "2020-11-15T18:51:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzTKUtXGU4s1QNl8lp4AaABAg.9G5K4drW3F89G6n0r115rK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You bet lol",
+        "likes": 1,
+        "published_at": "2020-11-16T08:32:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRqxj2uoTJ8JZeuTt4AaABAg",
+    "author": "@dexterdixon2000",
+    "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+    "text": "I thought the industry standard windspeed for turbine rating was 10m/s",
+    "likes": 2,
+    "published_at": "2020-11-15T18:47:18Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxRqxj2uoTJ8JZeuTt4AaABAg.9G5JZF4K6aj9G5SniFNEWC",
+        "author": "@hempev",
+        "author_channel_id": "UCxcZah38HU0vtRU822f-S7A",
+        "text": "I think Robert is referring to the max rating.",
+        "likes": 1,
+        "published_at": "2020-11-15T20:08:03Z"
+      },
+      {
+        "id": "UgxRqxj2uoTJ8JZeuTt4AaABAg.9G5JZF4K6aj9G5Xs7IWXcQ",
+        "author": "@totherarf",
+        "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+        "text": "@hempev Beaufort scale 9 -10! ...... over 55mph! But this IS the UK so 10 mph is more reasonable ;0)",
+        "likes": 0,
+        "published_at": "2020-11-15T20:52:20Z"
+      },
+      {
+        "id": "UgxRqxj2uoTJ8JZeuTt4AaABAg.9G5JZF4K6aj9G6n7Y_w0R6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "not on the power curves I looked at mate - but I could easily be wrong I only looked at a few",
+        "likes": 0,
+        "published_at": "2020-11-16T08:33:38Z"
+      },
+      {
+        "id": "UgxRqxj2uoTJ8JZeuTt4AaABAg.9G5JZF4K6aj9G8aWZQVN35",
+        "author": "@hempev",
+        "author_channel_id": "UCxcZah38HU0vtRU822f-S7A",
+        "text": "@ThinkingandTinkering Rated speed for consumer-available turbines varies from 10m/s to 13m/s, and sometimes even higher. If you meant 25 MPH, that's 11m/s.",
+        "likes": 0,
+        "published_at": "2020-11-17T01:21:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6jo1ZS5YXzjl1SYx4AaABAg",
+    "author": "@dexterdixon2000",
+    "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+    "text": "It WILL do a kWh - it might take a month but it will do it eventually... Its whether it ever makes 1kW which is very different! kWh/month is a much better measure of a turbine/site but calling a turbine a 1kWh turbine is meaningless! Enjoying the progression of the project - look forward to the next steps!",
+    "likes": 14,
+    "published_at": "2020-11-15T18:45:40Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy6jo1ZS5YXzjl1SYx4AaABAg.9G5JNHO_ktL9G6nGMfyCnv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah that's my bad mate - I am basically a battery guy and used to thinking of energy density in terms of kWh - when I blab on I need to watch what I say more lol",
+        "likes": 6,
+        "published_at": "2020-11-16T08:34:50Z"
+      },
+      {
+        "id": "Ugy6jo1ZS5YXzjl1SYx4AaABAg.9G5JNHO_ktL9IOFK6q3X-F",
+        "author": "@saiello2061",
+        "author_channel_id": "UCsQiuEDozzUfA8eH6-CPzDQ",
+        "text": "@Tom Dixon You only need raw Kilowatts generated at particular wind speeds to nail a wind turbines performance. KW is a power rating, adding a time factor like KWh(hours) or KWm(months) turns it into  an energy rating measured in Joules generated for that time period. For wind turbines, how much energy that can be generated over a given time period depends on average wind speeds for your specific location and to a lesser degree, how much can be stored depends on the efficiency of your battery system. Having an average energy generated rating, separate from the raw power ratings, for a particular location makes sense because then you can determine if a wind turbine is worth the investment over time. \n\nTo be honest, I don't understand why energy usage is given in an intermediary unit such as KWh for example, as you might find on your gas or electric bill, surely it's much easier to just give it in Joules and save having to do any calculations... Maybe someone can tell us the reason for this...? 😁",
+        "likes": 0,
+        "published_at": "2021-01-11T20:18:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHnmeRnk-KsqOegK94AaABAg",
+    "author": "@hirnlager",
+    "author_channel_id": "UCBy8DJhNfgFhHuEbVdlFxwg",
+    "text": "build one that can mount in window, eg loaded to the smartphne. that my dream past year. ;)",
+    "likes": 1,
+    "published_at": "2020-11-15T18:45:17Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzHnmeRnk-KsqOegK94AaABAg.9G5JKVgLPlT9G6kqY8S5Z-",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "These are actually available on eBay for charging your phone whilst camping.",
+        "likes": 0,
+        "published_at": "2020-11-16T08:13:42Z"
+      },
+      {
+        "id": "UgzHnmeRnk-KsqOegK94AaABAg.9G5JKVgLPlT9G6nMB-xKIN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome idea mate",
+        "likes": 0,
+        "published_at": "2020-11-16T08:35:38Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz86c-DBSqwgeFEO-J4AaABAg",
+    "author": "@franklyanogre00000",
+    "author_channel_id": "UCNznppQavf_bC3ZyDTDkoCw",
+    "text": "Thanks for sharing your explorations!",
+    "likes": 1,
+    "published_at": "2020-11-15T18:43:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz86c-DBSqwgeFEO-J4AaABAg.9G5J6JOUn9r9G6nNPadVNi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-11-16T08:35:48Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,729 @@
+[
+  {
+    "id": "UgxEau2M0CppWbF8J5x4AaABAg",
+    "author": "@AbdolazimHasseli",
+    "author_channel_id": "UC6H0t3hzJkeF1DM_8fi48xA",
+    "text": "R.I.P",
+    "likes": 0,
+    "published_at": "2025-11-20T02:58:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyFHln2ITA6cwx5q5F4AaABAg",
+    "author": "@atrumluminarium",
+    "author_channel_id": "UCOMVj4xhSl9RpeK6J-bZWAA",
+    "text": "7:40 the sprayer is interesting. I'm thinking whether the use of a sprayer could enable the removal of the brine column since the vacuum could in theory be maintained by the fresh water column alone. Could make the device significantly more practical to construct with half as many columns (and safe space to allow for double the amount of desalinators). Unlike the last design tho, it will still have the \"brine chamber\" to capture salts",
+    "likes": 0,
+    "published_at": "2025-05-28T06:11:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxviSxbys6Noa5j9jR4AaABAg",
+    "author": "@damedesmontagnes",
+    "author_channel_id": "UC4T-clwFKlPcpncFHobuXqw",
+    "text": "Couldn't you just release the vapor into a condensing cooling coil by opening a valve?",
+    "likes": 0,
+    "published_at": "2024-01-15T17:52:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw19N7UHPCG7oDQ5c94AaABAg",
+    "author": "@stevecummins324",
+    "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+    "text": "instead of a single 34 foot water column. split it into smaller columns. a tube full of air can be treated as having same pressure throughout it... so a gas filled tube can transfer a pressure drop to a lower elevation..\neg...  \nfirst bottom tank. pressure on  free water surface bottom tank is atmospheric (aprox 1bar absolute pressure). tube with water column going up say 2m. pressure drop at top of water -rho*g*h=1000*10*2= -20kPa or -0.2bar\n\nvacuum hose to transfer that pressure drop in gas, to gas to above water level in next bottom tank. it's f water surface will start at atmospheric - 0.2bar ie 0.8bar absolute. and a 2m high water column takes another 0.2bar from pressure... resulting in -0.4bar from atmospheric. ie 0.6bar absolute....\n\nrepeat until pressure is reduced sufficiently.",
+    "likes": 1,
+    "published_at": "2022-07-15T11:53:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxw7nv6lLzYH24ICRF4AaABAg",
+    "author": "@vicsglobal1",
+    "author_channel_id": "UCKIfSzwDwAlvSVzSvfJe65Q",
+    "text": "How is this project coming along?",
+    "likes": 1,
+    "published_at": "2022-02-14T06:40:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyatBHmuDhgyoe6kRF4AaABAg",
+    "author": "@jaishetty8586",
+    "author_channel_id": "UCcTwlFSD4ZCRYPpiugHTkKQ",
+    "text": "I suppose I am a bit late here, but have any of you tried the wave power to pressurise water to enable reverse Osmosis ? I have been studying this concept for a while now. The lashing waves could lift a buoyant float and let it fall due to gravity, and this movement could be converted in to a pumping action to operate the reverse Osmosis pumps. \nAlternatively, we could also use this wave power to develop some great Vacuum and then reduce the column height to enable flash boiling at ambient temperature. I understand, the goal is to not involve any electronics, and seals..must be simple and stupid, yet reliable like an axe. \n\nLet me know your thoughts. \n\nAbout pulling vacuum from centrifugal force of spinning water, isn't it as good as using a liquid ring pump ?",
+    "likes": 0,
+    "published_at": "2021-03-19T17:00:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyzJgUYiZvNt3T-jJ4AaABAg",
+    "author": "@crowxe",
+    "author_channel_id": "UCg42TrNU5LaBZwufHtffiOw",
+    "text": "I've designed a so much similar one to that 2 columns design and thought I'm the first one to think it, but I see your videos are 5 years old and no one tried to implement them, why?",
+    "likes": 2,
+    "published_at": "2020-11-26T23:23:44Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxyzJgUYiZvNt3T-jJ4AaABAg.9GY7wbR67uE9SNgBC-0Uda",
+        "author": "@momothromycin8506",
+        "author_channel_id": "UCO7EtckPUS9Zx3aWrMSq8jQ",
+        "text": "I am, I am designing a small version using a hand cranked vacuum pump. Seawater bucket is painted black and left in the sun, freshwater bucket it kept in the shade indoors. I am planning to design this myself and then release the designs free in multiple languages on reddit.",
+        "likes": 2,
+        "published_at": "2021-09-17T04:16:47Z"
+      },
+      {
+        "id": "UgxyzJgUYiZvNt3T-jJ4AaABAg.9GY7wbR67uEAB6NC5h6hiH",
+        "author": "@scotb",
+        "author_channel_id": "UC7H_v_IsfWySow_uMbkI-nA",
+        "text": "@momothromycin8506 any updates? How did it go?",
+        "likes": 0,
+        "published_at": "2024-11-21T15:30:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwCLw6BGuS6Z7WccWV4AaABAg",
+    "author": "@fishyerik",
+    "author_channel_id": "UC8EWbrj2S_8RM9Lva4p-VBQ",
+    "text": "So found this trying to google why the basic principle of low temperature water column vacuum distillation is not already, since \"forever\", widely applied. So, I think it is time for you to revisit this subject, I want to know if you have gotten any further.  :) \n I want to point out that neither the evaporator or condenser has to be incorporated in water columns, you can design the evaporator and the condenser for optimal respective main function, and have a separate vacuum pump in the form of a water column in a thin hose. \nYou can then just keep the evaporator in the sun, and the condenser shadowed from the sun basically, or use basically any source of waste heat that is not insignificant. \n10+ meter plus buildings, or trees for that matter, are not that rare phenomena. I think having the water column vacuum \"pump\" as a separate part of the system brings huge advantages. Because you want as much evaporation and condensation as possible, and as little complexity as possible.  \nSpraying, mechanical pumps, and so on may very well increase output from a specific system, or even be needed for some designs to work at all,  but it adds unnecessary complexity if you do not actually need it. And when dealing with brine is one of those examples when you should be extra careful to avoid unnecessary mechanical complexity.\nYou almost seemed to forget that evaporating and condensing large amounts of water means large amounts of energy transferred/transformed. Both the evaporator and the condenser needs effective heat transfer. It think huge surface area is needed in order to get relevant amounts of distilled water if only the difference between sun exposure and ambient air in the shadow is utilized. I do not think the surface area needed makes the principle unviable for practical use, far from it, surface area is not that complicated to supply, but I think it is easy to vastly underestimate the area needed. \nAlso, I don't think it is a good idea to completely separate salt and water in the system. The higher the salinity the lower the output will get, all else equal, and with \"moderate\" temperature differences/energy transfer used, at saturation it would be a lot more difficult to get significant output compared to, say, at 6-7% salt content. Sure, roughly twice the amount of seawater would be needed, transport of it, and so on, but, that is not the tricky part of desalinization in most cases. Humans learned to transport water fairly efficiently thousands of years ago. Also, harvesting salt from within the system presents another plethora of possible issues. Replacing still far from saturated brine with sea water in the system is not that problematic.      \nAlso, about the water column height needed to reduce pressure enough, one of the interesting things with water columns is that they do not need to consist of one single straight column for physics to work as it does. If height is really an issue, you can have multiple water columns work in series, connected in series, and mounted side by side.",
+    "likes": 0,
+    "published_at": "2020-06-04T12:57:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxQBafH1nYu8Ut08ld4AaABAg",
+    "author": "@johns.5864",
+    "author_channel_id": "UCk_gkRsP0m2XDNfdJ0Ya6rw",
+    "text": "An alternative to using fixed width columns might to to have the lower portion of the column being a 35 foot vertical pipe below ground and the upper portion being a tank several feet in height and diameter above ground.  The hole for the below ground pipe would be drilled in the same manner as a water well is drilled.\n\nFor the two column implementation one tank provides the large volume for evaporation and the other tank provides the large volume for condensation.  The tall underground pipes provide the height required to produce the vacuums for each without using unnecessary volume.\n\nIn short the column is wide above ground but tall and narrow below ground providing the benefits of both width and height only where needed.",
+    "likes": 2,
+    "published_at": "2020-03-11T14:15:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxjWmBt3ySQgDYKnEp4AaABAg",
+    "author": "@refatzayed8853",
+    "author_channel_id": "UCLmvCC92B1q2ahRfp7-Kidg",
+    "text": "Equilibrium will  occur and desalination will stop if you do not use high power vacuum pump and compressor",
+    "likes": 1,
+    "published_at": "2020-02-19T21:25:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz6iDjzjwTQgXfRU8J4AaABAg",
+    "author": "@TheShorterboy",
+    "author_channel_id": "UCtuEDCe3jyvfOlrJtGS1HSA",
+    "text": "So a vacuum pump that can handle liquid plus a heater and you're good to go",
+    "likes": 0,
+    "published_at": "2019-08-24T05:28:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8ArV_yQWwYI5Izot4AaABAg",
+    "author": "@Barskor1",
+    "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+    "text": "Looking around the net at maple syrup production you can get the vacuum effect of columns on a slope so no huge building costs needed just a steep hill greater than 34 feet tall.",
+    "likes": 3,
+    "published_at": "2019-02-01T23:28:04Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz8ArV_yQWwYI5Izot4AaABAg.8qpObJMRDpx8v9_H31dwlw",
+        "author": "@zzanzare",
+        "author_channel_id": "UCWpR09ndd5qIrJLmMZ1Dvqg",
+        "text": "That's exactly what I was thinking. How wide must the pipe be? Does it matter? Does it work the same even with a 1 inch diameter pipe? If yes, I'm freaking going to Africa to save lives",
+        "likes": 2,
+        "published_at": "2019-05-20T14:59:39Z"
+      },
+      {
+        "id": "Ugz8ArV_yQWwYI5Izot4AaABAg.8qpObJMRDpx9SNgONiM3xq",
+        "author": "@momothromycin8506",
+        "author_channel_id": "UCO7EtckPUS9Zx3aWrMSq8jQ",
+        "text": "@zzanzare I prefer to release the schematics on African sub-reddit pages translated to native language. Youlle be surprised how many University students you can find from any nation willing to help translate if its for their country",
+        "likes": 0,
+        "published_at": "2021-09-17T04:18:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLS69s23F1LhtlXlh4AaABAg",
+    "author": "@Barskor1",
+    "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+    "text": "You could add a third column to degas the sea water before it goes to the rest so rather than pumping for two columns you only need to cycle one.",
+    "likes": 0,
+    "published_at": "2019-02-01T22:04:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKbqEZOszJeVRxoMZ4AaABAg",
+    "author": "@BrakJan",
+    "author_channel_id": "UCX-cw3Vn523udASJKwnDyrQ",
+    "text": "Thank you for such a brilliant explanation. This is exactly what I want to do. My plan is to use solar panels as a heat source. Here in South Africa we are running out of water and conventional desalination plants are too expensive. So we need a much simpler solution especially for the poor communities.",
+    "likes": 2,
+    "published_at": "2019-01-26T21:52:46Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgzKbqEZOszJeVRxoMZ4AaABAg.8q_lw18EJ6sALyzgs1z3vf",
+        "author": "@Erries7",
+        "author_channel_id": "UCIe5SVBpLG5zuIys-VZMbhQ",
+        "text": "Brakjan did you do this. From Namibia Swakopmund so need solutions please.",
+        "likes": 0,
+        "published_at": "2025-08-18T19:07:53Z"
+      },
+      {
+        "id": "UgzKbqEZOszJeVRxoMZ4AaABAg.8q_lw18EJ6sALzF1dN5rxf",
+        "author": "@BrakJan",
+        "author_channel_id": "UCX-cw3Vn523udASJKwnDyrQ",
+        "text": "@Erries7 Hi no I got sidetracked with other projects. I still think its possible with pumping sea water from the coast using solar and then collect it into a reservoir with a dome that is heated by the sun. The water should condense against the dome and drop down the sides into a secondary tank. Then all you do is collect the salt every few days.",
+        "likes": 0,
+        "published_at": "2025-08-18T21:30:40Z"
+      },
+      {
+        "id": "UgzKbqEZOszJeVRxoMZ4AaABAg.8q_lw18EJ6sAM-Fhsy5-yw",
+        "author": "@Erries7",
+        "author_channel_id": "UCIe5SVBpLG5zuIys-VZMbhQ",
+        "text": "@BrakJan I am looking into that exact system with a added heat source to fast track the process and even work on misty days. Just thought a flash evaporative system will work faster.",
+        "likes": 0,
+        "published_at": "2025-08-19T06:55:49Z"
+      },
+      {
+        "id": "UgzKbqEZOszJeVRxoMZ4AaABAg.8q_lw18EJ6sAM06Gn1OtE3",
+        "author": "@BrakJan",
+        "author_channel_id": "UCX-cw3Vn523udASJKwnDyrQ",
+        "text": "@Erries7 Good luck with that man you must make videos and put it on Youtube",
+        "likes": 0,
+        "published_at": "2025-08-19T14:52:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzf3rY0QUF5PVEclph4AaABAg",
+    "author": "@peterm2763",
+    "author_channel_id": "UC2MJCTMHFTD_BYoBpwzQUIw",
+    "text": "Hi. Do you think Pyramids were built as desalination a devise. Location. Height. Chambers???",
+    "likes": 0,
+    "published_at": "2018-11-26T18:46:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzf3rY0QUF5PVEclph4AaABAg.8o7N7o0CCQ98qpG2gmvsd3",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "No",
+        "likes": 0,
+        "published_at": "2019-02-01T22:13:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJRKt8HcMjfQO7K7B4AaABAg",
+    "author": "@dickhead8775",
+    "author_channel_id": "UCvDU60FDc5Lokc1nOdCxtQw",
+    "text": "In the last design:  1)  Where does the salt or brine go?\n                                  2)  Could the column initially contain only fresh water, so no risk of contamination?",
+    "likes": 0,
+    "published_at": "2018-02-20T20:09:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyJRKt8HcMjfQO7K7B4AaABAg.8cu6skq7pvw8qpGK2g7A79",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "You just pump out the brine it can be very valuable when processed for salts and metals like lithium.\nYes you can start with fresh or nearly potable water to eliminate or reduce contamination risk.",
+        "likes": 0,
+        "published_at": "2019-02-01T22:15:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UggKTeiB5SvTxngCoAEC",
+    "author": "@hayncoetzee2774",
+    "author_channel_id": "UCYc06eGT6Yu7uPG0SeXrSvQ",
+    "text": "hi... i like the single collom idea best... the fact that the fresh water wil float on top of the salt water... whats going to happen is that the salt water in the collom wil get more salty and the fresh water wil flote even better.... great idea\ngreetings from South Africa",
+    "likes": 0,
+    "published_at": "2016-09-14T17:03:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggKTeiB5SvTxngCoAEC.8IoWzq6WdoZ8qpGoHMI1iD",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "You can dye the brine water and have a optical detection system for where fresh and salty water is in it.",
+        "likes": 0,
+        "published_at": "2019-02-01T22:19:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ughzj_3DkX2A5XgCoAEC",
+    "author": "@largefarmant6798",
+    "author_channel_id": "UCUgWyKLF6NIz_hJblThxt7g",
+    "text": "I have an idea. You have two columns but you only need one with a partition in the middle. Fresh sea water comes up one side and the heavier brine goes down the other. As one commentator said a Tesla fluidic one way valve could keep the flow going the right direction. At the top you have a partition where fresh water collects. It is above the sea water and brine. At the bottom of this partition you have a hole that is plugged. The plug pushes in from the outside. A float controls the valve. When enough water builds up 1. float goes up 2. float pressure pushes the valve out letting the a little water (and maybe some gas pressure) out.\n\nNow I have a string connected to the wall of the fresh water collection partition, then to the plug, then to the float. The float going up would pull the string, pushing the plug out. Probably best to use a lever but the sketch tool I used was hell with a trackball so I did the best I could.\n\nIt would not be high volume unless the column was large but it would be steady and require no pumps or other equipment. I don't see why you couldn't just sink it in the ocean leaving the top sticking out ten feet or so so the sun would hit it.\n\nVolume of fresh water would increase the more you shaded the fresh water collection and the more you heated the salt water intake side.\n\nHere's a sketch online. Excuse my pitiful sketching. Track balls as not made for drawing.\n\nhttp://www.sketchtoy.com/66588334\n\nI might add the centrifuge idea is brilliant as is your idea in the first place.\n\n\nHere's another idea that's a bit flaky. There's a pump called a spiral pump. It works by compressing air in a spiral. 1/2 water 1/2 air. The water pressures add per every spiral. A very nifty thing. Could you fill a spiral pump with water. Seal it and lift out of the water and get your vacuum from the spirals? Maybe have one spiral for salt water in and one out with brine? A fresh water take off at the top. I can't get my head around the idea of whether they would add or not? They do so as a pump but it does have a air buffer. Anyways here's a link to spiral pumps. Truly interesting in themselves.\n\nhttp://lurkertech.com/water/pump/tailer/",
+    "likes": 0,
+    "published_at": "2016-02-09T19:12:56Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ughzj_3DkX2A5XgCoAEC.8A2QXdT-e0Z8A99IFilNyy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "+LargeFarmAnt mate i like the ideas bt i always think the best test of an idea is to build a proof of concept this will answer so many questions for you - if you do build a working model and feel like it a video log of the build would be of great interest to a lot of people me included",
+        "likes": 0,
+        "published_at": "2016-02-12T09:56:58Z"
+      },
+      {
+        "id": "Ughzj_3DkX2A5XgCoAEC.8A2QXdT-e0ZAB6NYBk7hRd",
+        "author": "@scotb",
+        "author_channel_id": "UC7H_v_IsfWySow_uMbkI-nA",
+        "text": "Did you make this?",
+        "likes": 0,
+        "published_at": "2024-11-21T15:33:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugh7lzr57ITmL3gCoAEC",
+    "author": "@grehuy",
+    "author_channel_id": "UC9RUS6NTIrN4C38P-pPBdhQ",
+    "text": "What's the status of this?\nIt looks nice in principle but why do we not find any applications?",
+    "likes": 0,
+    "published_at": "2015-09-19T08:53:55Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugh7lzr57ITmL3gCoAEC.84H60iKfdVe7-I-UrRHNVW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "+grehuy pilots are being run in texas and mexico and a full scale plant is running at chennai",
+        "likes": 0,
+        "published_at": "2015-09-19T18:03:50Z"
+      },
+      {
+        "id": "Ugh7lzr57ITmL3gCoAEC.84H60iKfdVe98XXc2glZXU",
+        "author": "@alfford6438",
+        "author_channel_id": "UCSCKwq224l2k-0v6IF5Xwtw",
+        "text": "@ThinkingandTinkering Would it be possible for me to learn more about these plants? Is there a website I could go to learn more?  I'm wondering how they've been operating since this video was made.",
+        "likes": 0,
+        "published_at": "2020-05-11T21:37:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugjc8tdKOba9SHgCoAEC",
+    "author": "@marksmith1544",
+    "author_channel_id": "UCeVBtEEXBF835pXSONn95tw",
+    "text": "Would the system still work if you had a say 50ft tower built to form the water column, but instead of it being built from the ground level up you built it in a hole that was 30ft deep. Would a barometric head still be able to form and create a vacuum? Im asking because I know many areas have strict building codes that don't allow structures over a certain hight. Ideas?",
+    "likes": 0,
+    "published_at": "2015-08-22T00:03:46Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugjc8tdKOba9SHgCoAEC.83835F6x9ZT8eDuKxxc19z",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "That would work.",
+        "likes": 0,
+        "published_at": "2018-03-25T18:26:57Z"
+      },
+      {
+        "id": "Ugjc8tdKOba9SHgCoAEC.83835F6x9ZT8qpHLTo9IwB",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "There is less barometric presser the higher in the mountains you go  so digging a hole should only increase the pressure but not in a real effective way to the system.",
+        "likes": 0,
+        "published_at": "2019-02-01T22:24:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugi4Xj7U9hW6RngCoAEC",
+    "author": "@CF23583",
+    "author_channel_id": "UC4gwss7N57mwFteUWeDcNBQ",
+    "text": "Hey Rob,\nHow about using the solubility of water in air (humidification) to do desalination instead of low pressure? This is natures way of distilling water and can be done with relatively small temperature differences and at atmospheric pressure.",
+    "likes": 0,
+    "published_at": "2015-08-01T10:53:38Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugi4Xj7U9hW6RngCoAEC.82J8lbC_wf57-Hez7QVdEj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Uwe Dobberstein sounds like a plan mate - you might have a problem with high volume throughput though",
+        "likes": 2,
+        "published_at": "2015-08-01T16:55:35Z"
+      },
+      {
+        "id": "Ugi4Xj7U9hW6RngCoAEC.82J8lbC_wf57-HhgEp89tS",
+        "author": "@CF23583",
+        "author_channel_id": "UC4gwss7N57mwFteUWeDcNBQ",
+        "text": "I did some calculations and it seems the sizes are quite reasonable for 200l of water per day with solar energy.Even found a paper about it.\n\n\nhttp://www.scirp.org/journal/PaperDownload.aspx?paperID=33877",
+        "likes": 0,
+        "published_at": "2015-08-01T17:19:13Z"
+      },
+      {
+        "id": "Ugi4Xj7U9hW6RngCoAEC.82J8lbC_wf57-HziYqug7e",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Uwe Dobberstein looks good",
+        "likes": 0,
+        "published_at": "2015-08-01T19:56:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UggYzN6gW4F9HXgCoAEC",
+    "author": "@johnny58689",
+    "author_channel_id": "UCFJAI2sUQd8qG_GwTTpqyPA",
+    "text": "Have you heard of viktor schauberger repulsine? I think this may combine many things into one convenient apparatus. My favorite research website is Rexresearch.com",
+    "likes": 0,
+    "published_at": "2015-02-25T03:19:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggYzN6gW4F9HXgCoAEC.7-H0Z7-SxUy7-HTp0FBuvQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes i have and i think you are right - the problem is building one with my limited tool set",
+        "likes": 1,
+        "published_at": "2015-02-25T07:35:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UggPsia-c-yp9XgCoAEC",
+    "author": "@stephen1475",
+    "author_channel_id": "UC-zmE8ns8sHDIOY4yYcvDyw",
+    "text": "just an idea watching this, \ni wonder if instead of a chamber 1/2 full of salt water you pulled an almost complete vacuum on an empty cylinder and used an atomiser to in spray in preheated salt water as a fog. like from a pond fogger.\nassuming i've understood correctly, if the particle size is small enough, the mist should immediately evaporate raining impurities on the bottom of the cylinder.\ni'm no chemist, this might end up like a fancy form of steam distillation.",
+    "likes": 2,
+    "published_at": "2015-02-11T18:23:01Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UggPsia-c-yp9XgCoAEC.7-H0Z7-0mDo7-HIyV2L32I",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sounds good mate - i will give it a bit of thought",
+        "likes": 0,
+        "published_at": "2015-02-11T21:03:54Z"
+      },
+      {
+        "id": "UggPsia-c-yp9XgCoAEC.7-H0Z7-0mDo70eMA6mzEh6",
+        "author": "@astrialkil",
+        "author_channel_id": "UC60EPglI-b87oO9p8TRfldg",
+        "text": "The problem is it takes large amounts of energy to pull such a vacuum. you can reduce some of the energy needed by using a vortex air dryer, as they do on pneumatic tool systems, but you still have a large energy cost. maybe on a river water fall It might work as the river water could be piped to pull a partial vacuum.",
+        "likes": 0,
+        "published_at": "2015-03-18T01:45:01Z"
+      },
+      {
+        "id": "UggPsia-c-yp9XgCoAEC.7-H0Z7-0mDo70f6Qg6trtx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "astrialkil true enough thanks",
+        "likes": 0,
+        "published_at": "2015-03-18T08:46:42Z"
+      },
+      {
+        "id": "UggPsia-c-yp9XgCoAEC.7-H0Z7-0mDo8qpG-Ft9gL-",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "@astrialkil No  you don't need to dry the air you use the column system to be a vacuum pump given the massive area you can effect with such a system it is extremely efficient as a vacuum pump by adding a few vales so that actual amount of water being pumped will be minor and is only how ever high above 34 feet the system is.",
+        "likes": 0,
+        "published_at": "2019-02-01T22:12:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UggPg2cXDg5FrXgCoAEC",
+    "author": "@thagrit",
+    "author_channel_id": "UCK61R1Ki4GL-lexY3dGV64g",
+    "text": "Hey Robert! How about you take that last 1 column system and add a Tesla 1 way flow valve. Put it in the pressure head so water as well as pressure can seep to the salt column but the salt water can't flow up into the pressure head / clean water tank.  I could be wrong but I think that would stop the contamination problem.",
+    "likes": 1,
+    "published_at": "2015-02-01T05:36:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggPg2cXDg5FrXgCoAEC.7-H0Z7--c4B7-HiT4ZGL8M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's a good idea mate and along the lines i am thinking too",
+        "likes": 0,
+        "published_at": "2015-02-01T12:09:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UggAIuOJrLjS4HgCoAEC",
+    "author": "@matta8508",
+    "author_channel_id": "UCupPWe0SgXcYouOFhtboVEA",
+    "text": "Hey there,\nJust wanted to point that while I kinda linked the idea of exploiting the density difference between salt water and fresh, I think it would be a problem implementing such a design as the interface between the fresh and the salt water would allow for diffusion of salts between then. Still sounds like a good option as a pre-treatment method for further purification through a membrane system or something like that.",
+    "likes": 0,
+    "published_at": "2015-01-25T02:44:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggAIuOJrLjS4HgCoAEC.7-H0Z7-LcIr7-IJVJp2er6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for that mate - but there isn't much chance i would follow that route",
+        "likes": 0,
+        "published_at": "2015-01-25T14:49:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjlqZjMPdU9kXgCoAEC",
+    "author": "@Jonfrommanahawkin",
+    "author_channel_id": "UCeLkKiOT3nisLBSni4fZtkg",
+    "text": "Robert, my nutty friend. I had some ideas to add to your low energy distillation, so I figured it would be easiest if I described them in a video for my Channel.  The link is \n\nhttps://youtu.be/tFp1VAtj05Q\n\nYou definitely got my gears turning! \nThanks again",
+    "likes": 0,
+    "published_at": "2015-01-18T00:09:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggFW_2pfxHVCXgCoAEC",
+    "author": "@wontingthetruth",
+    "author_channel_id": "UCjvriKcrsWBoHFsfIZoOgBA",
+    "text": "the problem with the last example. if you heat the salt water and spray cool freshwater on top the water will churn do to the heat rising.\ni still like the idea very nice i think.",
+    "likes": 0,
+    "published_at": "2015-01-17T06:46:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggFW_2pfxHVCXgCoAEC.7-H0Z7-KtJs7-HfqJCvuJ5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you spray ht salt water on top of the salt water column and cold freshwater on top of the fresh water column - but you are quite right thermal equilibrium will be reached quite quickly - around 4 minutes or so - that's after 6 liters of water have been desalinated - the answer is to use a heat pipe - these are suggestions in their basic form and you would hav to do some more work on them to turn them into working systems but the basics are there",
+        "likes": 2,
+        "published_at": "2015-01-17T12:56:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugj_vRer3f2lkHgCoAEC",
+    "author": "@AaronHarper",
+    "author_channel_id": "UC4j2iyffUmgZI6a3cM3fe0g",
+    "text": "Thanks mate!  Had a thought about the column...  this would be an interesting thing to place inside the mast of a sailboat, and with the pumps and sensor bits running on solar, the heating at the top of the column could be achieved using an evacuated tube such as this one:  http://www.ebay.com/itm/1-Solar-Evacuated-water-heater-tube-boils-water-with-sun-/321089908977",
+    "likes": 0,
+    "published_at": "2015-01-16T16:45:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugj_vRer3f2lkHgCoAEC.7-H0Z7-Hj1Q963g_mjnzE6",
+        "author": "@johns.5864",
+        "author_channel_id": "UCk_gkRsP0m2XDNfdJ0Ya6rw",
+        "text": "Perhaps the sails could provide a cooling air flow on one side for condensation and the other side of the mast could be heated.  A water based solar collector on the deck might provide warmth to the evaporation side of the mast.  One problem might be and significant volume of water in the mast might raise the center of gravity.",
+        "likes": 0,
+        "published_at": "2020-03-11T14:24:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjlYa-En53VY3gCoAEC",
+    "author": "@RoboTekno",
+    "author_channel_id": "UCGLabQ33TFpFqmxfLri6A7Q",
+    "text": "Please build a prototype! :D",
+    "likes": 2,
+    "published_at": "2015-01-16T05:44:19Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgjlYa-En53VY3gCoAEC.7-H0Z7-RO2v7-HEibzzutW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "doing it now",
+        "likes": 0,
+        "published_at": "2015-01-16T07:48:05Z"
+      },
+      {
+        "id": "UgjlYa-En53VY3gCoAEC.7-H0Z7-RO2v7-HGwZ9JOFL",
+        "author": "@RoboTekno",
+        "author_channel_id": "UCGLabQ33TFpFqmxfLri6A7Q",
+        "text": "Robert Murray-Smith Awesome, I look forward to your next video.\nI hope you make a fortune one day :-)",
+        "likes": 0,
+        "published_at": "2015-01-16T08:07:28Z"
+      },
+      {
+        "id": "UgjlYa-En53VY3gCoAEC.7-H0Z7-RO2v7-HHIyUloyK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "RoboTekno\nme too lol - but it's not likely - it won't be for a week or so as i have had to order some parts for it",
+        "likes": 0,
+        "published_at": "2015-01-16T08:10:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjA7Mk3WcO0sHgCoAEC",
+    "author": "@TheGEODEAHOLIC",
+    "author_channel_id": "UCzCUHLVb5qGLpqZ2Gwz_1EA",
+    "text": "your videos tend to be addictive, & the possibilities are fascinating.  the desalinater  you describe could also be usefull in the oilpatch for gitting rid of the brine that comes up with the oil.  i'd like to test it out but I have no wells, could you lend me a million pounds so I can drill one? :-)",
+    "likes": 0,
+    "published_at": "2015-01-16T03:30:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjA7Mk3WcO0sHgCoAEC.7-H0Z7-7j9L7-HU5jQls9t",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know a couple of people who drill wells - i'll ask them if you can use a bit of their waste water lol",
+        "likes": 0,
+        "published_at": "2015-01-16T07:48:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UghS6mXQNdE8XXgCoAEC",
+    "author": "@SpaceVortexTheory.TYp.Tewari",
+    "author_channel_id": "UC-BaB617TB5Z3sjsBx8Q2IQ",
+    "text": "Great work. Great video. I always learn from study of your videos. ",
+    "likes": 3,
+    "published_at": "2015-01-15T21:09:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgjDZQ5mfDT_u3gCoAEC",
+    "author": "@sasjadv",
+    "author_channel_id": "UCxZwka3YhxZ23sVTPtcLTAA",
+    "text": "I just had a bit of an eureka moment, this is how you can put the whole thing in your living room:\nSo there is a vacuum in the tube because of gravity; and if the gravity would be stronger, the tube can be shorter.\nThe solution: Centrifugal force!!!\n...\nI did a quick calculation: if you want the device to be 1×1×1meter in stead of 10 meters, you can make a spinning can with the diameter of 1 meter (so radius=50cm) the centrifugal acceleration should be at least 20 times bigger than our gravity(9,81m/s²)\nA=V²÷r   =>   20×9,81m/s²=V²÷0,50meter   => V²=0,50×20×9,81=98,1    So V=squareroot(98,1)=9,9 Meters/second.\n10m/s for a diameter of 1meter gives 10÷2п=1,59turns per seconds =95 RPM, this is really the minimum for it to 'fit' in your living room.\nOnly think about the majority of the washing machines reaching 1000rpm, this must be easy to realise",
+    "likes": 4,
+    "published_at": "2015-01-15T18:28:03Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgjDZQ5mfDT_u3gCoAEC.7-H0Z7-LmH17-IS-MT7vlt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is a good idea - I am going to try and replicate this - cheers mate",
+        "likes": 1,
+        "published_at": "2015-01-16T07:47:05Z"
+      },
+      {
+        "id": "UgjDZQ5mfDT_u3gCoAEC.7-H0Z7-LmH171jquqQI3Rp",
+        "author": "@astrialkil",
+        "author_channel_id": "UC60EPglI-b87oO9p8TRfldg",
+        "text": "Robert Murray-Smith WoW! a top load clothes washing machine has all you need for a fast conversion to water purifier, water in , water out, spinning in a water proof environment, electrical motor and connections, all you may need to add is a water heater or cooler, and maybe a storage tank and chlorinator (to comply with local regs) . Just add filtered dirty water and electricity.",
+        "likes": 0,
+        "published_at": "2015-03-18T01:35:02Z"
+      },
+      {
+        "id": "UgjDZQ5mfDT_u3gCoAEC.7-H0Z7-LmH171kc9cNSO_n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "astrialkil nice one",
+        "likes": 0,
+        "published_at": "2015-03-18T08:45:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UggIXo6nxjGy7ngCoAEC",
+    "author": "@joeglory425",
+    "author_channel_id": "UCZYz_j_06NJqLqc_jK1OExQ",
+    "text": "Another practical consideration is moisture carryover which would bring along with it salt contamination. In high pressure/high temperature boiling such as in a power plant where the water boils at 500 F and 1000 psig, the steam quantity is only around 10% with 90% liquid water being carried along by the steam. Remember steam is invisible. When you \"see\" a steam plume coming off your tea kettle you're actually seeing the liquid water that is mixed with the steam. In a power plant they send the steam/water mixture first through a moisture separator and then a steam drier. I think a low tech solution would be to pass the steam/water mixture through some cotton or maybe even hay or straw on it's way to the condenser.\n\nWhat I don't know is whether carryover is nearly the same problem with low pressure boiling as it is with high pressure boiling. I suppose one could just test the salinity of the condensate and if it's unacceptable then add in the moisture separator.",
+    "likes": 0,
+    "published_at": "2015-01-15T15:46:27Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UggIXo6nxjGy7ngCoAEC.7-H0Z7-4nBZ7-H1-52kIVi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's going to be a question of testing that mate - but i don't think that will be a serious problem given the nature of the system - still testing will tell",
+        "likes": 1,
+        "published_at": "2015-01-15T15:50:16Z"
+      },
+      {
+        "id": "UggIXo6nxjGy7ngCoAEC.7-H0Z7-4nBZ8qpGc2vAb0l",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "In a hard vacuum how much water would be in the steam at 150 F?",
+        "likes": 0,
+        "published_at": "2019-02-01T22:18:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugg0BUzVHTnLV3gCoAEC",
+    "author": "@DanielbenDaniel",
+    "author_channel_id": "UCx8tgDTfaxnfvPm-kZe15Rw",
+    "text": "I like the idea of filling tube with a pump. (maybe a giant harm pump if you wanted to go that far) close the valve at the top and bottom, let the vacuum and heat be for a bit, then drain off the fresh water at the top level. ",
+    "likes": 0,
+    "published_at": "2015-01-15T14:46:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugg0BUzVHTnLV3gCoAEC.7-H0Z7-7tJS7-H3nBDvpuX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "interesting idea mate - my next step is to build the prototype",
+        "likes": 0,
+        "published_at": "2015-01-15T15:15:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgiX5y9w-PqNFXgCoAEC",
+    "author": "@byrdhartley9014",
+    "author_channel_id": "UC5twjwZC78zdPswwpiRWvQA",
+    "text": "The single column is pretty cool. Does the water boil at the 40-50c range under that pressure?",
+    "likes": 0,
+    "published_at": "2015-01-15T11:21:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgiX5y9w-PqNFXgCoAEC.7-H0Z7-TfXb7-H1oqKAF7g",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's just a target temperature mate - the boiling point will reduce the better the vacuum - if you get it right the actual temp will be about that - but temp difference is important too",
+        "likes": 1,
+        "published_at": "2015-01-15T11:32:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgiWX_zdsDC7UHgCoAEC",
+    "author": "@catprog",
+    "author_channel_id": "UCf0272rMYB6-MRYV0_3EJ1Q",
+    "text": "Is it possible to use the input sea water for cooling before putting it into the heater?",
+    "likes": 0,
+    "published_at": "2015-01-15T08:51:27Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgiWX_zdsDC7UHgCoAEC.7-H0Z7-6tHM7-H1f_nWaF-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sure - why not - well that's to say it would be good to put it through a heat exchanger - but you want to raise the temp to around 45-50 degrees C - so it would only 'cool' something above that temp",
+        "likes": 0,
+        "published_at": "2015-01-15T09:01:13Z"
+      },
+      {
+        "id": "UgiWX_zdsDC7UHgCoAEC.7-H0Z7-6tHM7-HCeT1CI3w",
+        "author": "@catprog",
+        "author_channel_id": "UCf0272rMYB6-MRYV0_3EJ1Q",
+        "text": "Robert Murray-Smith\n\nIf you take  the water from the ocean (at say 20C) put it through the vapour outtake(40C) then you can get the water into the heater at (say 30C) , Then you don't need to put as much heat into the water.",
+        "likes": 2,
+        "published_at": "2015-01-15T10:37:11Z"
+      },
+      {
+        "id": "UgiWX_zdsDC7UHgCoAEC.7-H0Z7-6tHM7-HDNovbPyX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "catprog\ncertainly along the lines i was thinking mate",
+        "likes": 1,
+        "published_at": "2015-01-15T10:43:30Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[00:00] [Music]
+[00:08] let's say you're working on a new win
+[00:10] turband design that you're developing
+[00:12] and the chances are because you're
+[00:13] watching this video that's exactly what
+[00:15] you're doing and of course the big
+[00:17] question is oh how good is it and if
+[00:21] your answer is well it's the number of
+[00:22] amps that outputs then you're in serious
+[00:25] danger of throwing out the baby with the
+[00:28] bath water because a witer turbine
+[00:30] remember is composed of three main parts
+[00:33] there's the wind capture device itself
+[00:36] then there's often a gearing system and
+[00:37] then there's often a generator that
+[00:39] turns that rotation into the electrical
+[00:42] energy that you're after and if you get
+[00:44] a very poor output you may well just
+[00:46] throw the whole lot away in exasperation
+[00:49] but you equally May well have discovered
+[00:52] the world's greatest wind capture device
+[00:54] and have an absolutely rubbish generator
+[00:57] and so thrown it away and made a
+[00:59] terrible terrible mistake because to
+[01:02] measure the efficiency of a generator
+[01:04] well that's not particularly difficult
+[01:06] attach a know load see what you get out
+[01:08] compared the to same with the gearbox
+[01:10] pretty much put something in that you
+[01:12] know what it is measure what's coming
+[01:14] out and you'll have your answer on
+[01:16] efficiency but this thing how do you
+[01:19] measure that and what is it you want to
+[01:21] measure well what you want to measure of
+[01:23] course is the Turning Force how much
+[01:26] force is being created when this thing
+[01:28] turns because a whole job of this thing
+[01:30] is to take the wind and turn it into a
+[01:33] turning force and of course that force
+[01:36] is called torque we need to measure the
+[01:39] torque that this is actually producing
+[01:42] so how do you do that well surprisingly
+[01:45] enough it's not that difficult but does
+[01:47] need a little bit of setup and here is
+[01:50] my setup and it's pretty straightforward
+[01:53] here I've got a fan that blows out a
+[01:55] certain volume of air at a certain speed
+[01:58] here I've got a cradle so when I put my
+[02:00] new wind turbine design in the wind
+[02:02] turbine will be held here at this point
+[02:05] here I've taken a windspeed meter or an
+[02:08] anemometer and I've measured that wind
+[02:10] speed at that point there which is 1.8
+[02:13] m/s that's one of the figures that we're
+[02:16] going to need to know and it'll blow
+[02:19] across my
+[02:20] turbine all I've done is created this
+[02:23] arm and glue onto my turbine and the
+[02:26] length of the arm from the center of
+[02:28] rotation to the end is a 150 mm and we
+[02:31] need to know that glue it onto the end
+[02:33] of your turbine it's like that and then
+[02:36] it fixes in the axle there and of course
+[02:39] we'll press on the weighing scales here
+[02:42] now the angle is another thing that we
+[02:44] need to know and in my case it's 45°
+[02:47] because of course the force is acting
+[02:50] directly along that line to the Center
+[02:52] of the Earth which is gravity here we're
+[02:55] making an angle to that and we need to
+[02:57] know that angle when the f hand turned
+[03:00] on of course the wind will blow and it
+[03:02] will try to turn that and that will
+[03:05] press on these scales and we can measure
+[03:08] the weight of what's being pressed and
+[03:11] that's another figure we need to know so
+[03:12] we need to know the angle the length and
+[03:16] the GRS that is being pressed there and
+[03:19] the wind speed that this is actually
+[03:21] creating and what we're measuring is
+[03:24] static torque it's static torque because
+[03:26] there's no actual rotation you can think
+[03:28] of it as a stalled Condition it's the
+[03:31] kind of the maximum torque that can be
+[03:34] produced but stop it rotating Dynamic
+[03:37] torque is where there is always rotation
+[03:40] and change in speed as it rotates so
+[03:43] we're measuring static not Dynamic but
+[03:47] it can be an indication for us so that's
+[03:50] it setup turn on the fan read the
+[03:53] grounds
+[04:09] a word of warning this thing will wobble
+[04:10] about a little bit so you don't just do
+[04:12] it once you do it a number of times and
+[04:15] take the average in my case I did it 10
+[04:18] times and took the average of that
+[04:20] sometimes the scale won't TI properly in
+[04:22] which case you take the initial weight
+[04:24] from the Finish weight which happened to
+[04:26] me a couple of times and so clearly I'm
+[04:28] just going to have to get a better set
+[04:29] of the scals but that's what you do so
+[04:32] we got roughly 1.6 G unfortunately we
+[04:36] need Force fortunately that's actually
+[04:39] really easy you just take mass in
+[04:41] kilogram and multiply by gravity in m/s
+[04:44] squared and you get the force in Newtons
+[04:47] so in our case we take 1.6 multiply it
+[04:49] by 9.8 and divide it by a th000 because
+[04:52] we measured grams we want kog and we get
+[04:55] roughly
+[04:57] 0.016 Newtons and that was the force of
+[04:59] applied at the end of this lever arm so
+[05:03] how do we use that to calculate torque
+[05:06] so torque is just RF sin Theta now you
+[05:09] can either plug your own figures into
+[05:11] that equation or just find yourself an
+[05:13] online calculator that will ask you for
+[05:16] the length of the arm which is R the
+[05:18] force that's been applied which we
+[05:20] worked out from gravity and the mass
+[05:22] that was being produced on the scales
+[05:25] and the angle in which case it'll work
+[05:27] out sin Theta for you s Theta is7 we
+[05:31] worked out the force is
+[05:33] 1.6 and the radius which is the length
+[05:35] of the arm is 150 mm and you can plug
+[05:38] all of that in or you can calculate it
+[05:40] yourself and when you work that out in
+[05:42] our case you get
+[05:45] 0.0017 Newt M of torque which doesn't
+[05:49] sound like a lot so is it any good well
+[05:52] a way of working out if it's any good or
+[05:54] not is again to use an unnown C but in
+[05:58] this case some something like Omni
+[06:00] calculator which works out the torque on
+[06:03] a wind turbine blade for given
+[06:05] dimensions and this is why we took the
+[06:07] wind speed because the wind speed
+[06:09] plugged into Omni calculator will tell
+[06:12] you the torque that's been developed by
+[06:14] a wind turbine of any blade length and
+[06:17] if you do that what you'll get is an
+[06:19] answer like oh
+[06:22] 0.00003 which is obviously very much
+[06:25] smaller than what we got so either our
+[06:28] new design is incred or we made some
+[06:30] really hideous error or there's a whole
+[06:32] load of errors in the experiment itself
+[06:35] so to get some sort of comfort what you
+[06:37] can do is produce a box standard with
+[06:40] turbine blade which is what I've done
+[06:42] here and this has the same swept area as
+[06:45] our new turbine blade that we're working
+[06:47] on and so we can compare the two we can
+[06:49] put that in our rig and we can get
+[06:51] another torque measurement which will
+[06:53] cancel out a lot of the errors of the
+[06:55] experiment and give us a measure of
+[06:57] whether ours is any much better than
+[07:01] this so I put it in the same setup
+[07:04] except it rotates in the opposite
+[07:06] direction so the scales on the opposite
+[07:08] side let's turn on the fan and see what
+[07:10] we
+[07:18] get so we got about 8 on that and about
+[07:21] 1.6 on that now don't go away with the
+[07:24] idea that this is definitive it isn't I
+[07:27] mean there's a lot of things wrong with
+[07:28] what we did and we really need to repeat
+[07:30] it all again much more carefully but
+[07:33] then of course these are models and so
+[07:35] any error in this will compound along
+[07:38] the line a small error might be a big
+[07:40] error when you get to the larger version
+[07:42] so you have to be kind of circumspect to
+[07:44] a little degree but it does give you an
+[07:47] idea that what you're working on is
+[07:49] probably worth pursuing and in this case
+[07:50] it looks very interesting for sure when
+[07:54] we get to a larger scale obviously we'd
+[07:56] need to measure it again and again and
+[07:58] again now this is A Lash together home
+[08:01] system for taking those essential bits
+[08:03] that we need and those essential bits
+[08:05] that we need are the length of this Rod
+[08:07] the angle it makes with the lines to the
+[08:09] center of the earth and the force that
+[08:11] it applies on the scale with those we
+[08:14] can calculate torque be a bit careful
+[08:17] about the torque calculation you come
+[08:18] out with but it will give you a clear
+[08:20] idea of whether what you've got in your
+[08:23] hands is worth pursuing any good or not
+[08:27] anyway I hope that helped I hope you
+[08:30] enjoyed the video and thank you very
+[08:32] much for watching please do remember to
+[08:34] like And subscribe

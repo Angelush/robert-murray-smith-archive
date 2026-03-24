@@ -1,0 +1,684 @@
+[00:00] [Music]
+[00:08] So on this journey that we're on to use
+[00:11] this thing which I have to say I'm
+[00:12] pretty excited about. So far we've had a
+[00:15] look at the machine in general. We've
+[00:16] had a look at CAD programs per se and
+[00:19] focus down onto free CAD as a way of
+[00:22] actually doing this. So, what I want to
+[00:24] do obviously is take this, which I came
+[00:27] up with in Tinkercad and print it on the
+[00:29] 3D printer into a metal object that will
+[00:32] work under stressful conditions. Because
+[00:35] plastic, although it's awesome for
+[00:37] prototyping and generating ideas, it
+[00:40] won't really perform in the same way in
+[00:43] the real world. And what this is is a
+[00:45] gear reducer. This particular one's 20
+[00:48] to one. It's rather chunky because I
+[00:50] like it to wear. But I think we can take
+[00:52] this down to oh 60 to1 100 to one in a
+[00:55] very compact package. Then if you think
+[00:58] about that and making it round about the
+[00:59] size it'll fit on a ne stepper motor
+[01:02] then we've got huge potential. So an
+[01:05] exciting project but it does involve a
+[01:08] little bit of work. One of the bits of
+[01:10] work is the prototyping. How you
+[01:13] actually get through the design process.
+[01:15] Now this was straight from the bat. So I
+[01:18] just thought this idea, drew it in
+[01:19] Tinkercad, immediately printed it and it
+[01:22] worked as fine, which is cool. But when
+[01:25] I shrink this down and make it in metal,
+[01:27] and this remember will take a while and
+[01:29] cost me in metal and effort. But will it
+[01:32] actually work? And to answer that
+[01:35] question, what I really need to do is
+[01:37] redraw this. Now, when you're redrawing
+[01:40] things, you think, well, why bother?
+[01:42] Just just print that out. It seems to
+[01:44] work. Just do it. It never actually
+[01:46] works that way. You very rarely create
+[01:50] something that works immediately. The
+[01:52] design process is about iteration. You
+[01:55] you keep on going over and over things
+[01:57] because as you do it, actually, you
+[02:00] learn something and as you do it, you
+[02:02] think to yourself, well, I wouldn't do
+[02:04] that that way the next time. I'd do it
+[02:06] rather differently. So producing early
+[02:08] models give you an opportunity to work
+[02:11] out the pros and cons of various choices
+[02:14] you've made and whether they will
+[02:16] actually work in practice. And before we
+[02:19] commit to something permanent, it's much
+[02:21] cheaper and easier to work it out this
+[02:23] way than it is to work it out by making
+[02:26] something on this. This is fast. I mean
+[02:31] really fast, but not very durable. This
+[02:34] is a little bit slower but much more
+[02:37] durable. And you don't want to commit to
+[02:39] this until you've got your design right.
+[02:42] And so working through the design is
+[02:43] never going to be a matter of one
+[02:45] drawing. Hey press well that's not true.
+[02:47] I mean if it's really really simple
+[02:49] it'll be fine. But if you got something
+[02:50] a bit more complicated then you are
+[02:52] going to be drawing printing redrawing
+[02:55] printing until you get what you want.
+[02:58] Now as I said I want this as something
+[03:01] that will go on a stepper motor. baby.
+[03:03] Also, I just so happened to have this.
+[03:06] This is all of the aluminum that I've
+[03:09] got in thick section. It's a centimeter
+[03:11] across, and I can't remember how big
+[03:13] that is, but it's a 100 that way. So,
+[03:15] that's my aluminium. That's what I want
+[03:17] to make it from. I've also got this,
+[03:19] which is a bit of 3M aluminum sheet. And
+[03:22] those two materials are are a constraint
+[03:25] along with my design constraint of the
+[03:28] device that I want to make. So, I redrew
+[03:31] it. I redrew it actually in 3 mm plates
+[03:35] and it's about the right size for a
+[03:36] stepper motor. And here's the internals.
+[03:39] And this is 120 teeth on that and 122
+[03:42] teeth on that at 0.5 modulus. And so
+[03:46] it's round about 70 mm across. It fits
+[03:50] and it works in the plastic version and
+[03:53] it's pretty cool. Now it
+[03:56] will fit on there. Actually, we've got a
+[03:59] couple of plates that'll fit on there.
+[04:00] And I'll get two of them out. So, small
+[04:03] enough to get out of there. Actually
+[04:05] works. And it's just a redesign of this.
+[04:10] So, we've gone from this to this and
+[04:12] this and that. They're the same thing.
+[04:15] and they've just been redesigned and
+[04:16] redrawn to take in account of some of
+[04:18] the considerations I need to have when
+[04:21] it comes to actually making something
+[04:24] and whether that thing that I make will
+[04:26] actually work. Now, you can see that
+[04:28] I've actually split it into two parts.
+[04:31] These two parts are because I was
+[04:33] thinking about cutting the whole thing
+[04:34] from 3M and just bolting it together to
+[04:38] make a back plate like that. But then I
+[04:40] found I had this and I thought, well,
+[04:43] with this and this, why don't I just
+[04:45] make it in one piece? Because this is uh
+[04:50] 10 mm deep. I need the pocket here, the
+[04:52] bit that's cut out to be 3 mm deep,
+[04:55] leaving me in excess of 7 mm. I could
+[04:57] mill it all down, but then I thought,
+[04:59] well, a skater bearing is 7 mm. Why not
+[05:01] just put a skater bearing in there? So
+[05:03] as you can see as we work this thing out
+[05:06] the design decision from making are
+[05:08] changing about how we think we would do
+[05:11] it given the light of real materials. So
+[05:14] we've come from first prototype where we
+[05:17] actually just made the idea. Then we had
+[05:19] a consideration about how to make it on
+[05:22] this and then what materials we've got
+[05:25] and what size of materials we've got all
+[05:28] combined to limit or set the features of
+[05:32] your final product. So we've got to go
+[05:34] from this now to what's actually going
+[05:37] to be the final version. And I'm going
+[05:39] to draw that on Frecad. So, what this
+[05:42] video is about, and I'm going to be
+[05:43] quite quick on the drawing because we've
+[05:45] done the in-depth stuff already, is
+[05:48] drawing this up on
+[05:50] Frecad. Right, let's create a new
+[05:54] file. Under that file, let's create a
+[05:57] body, which is right there. Under the
+[06:00] body, what we're going to do is create a
+[06:02] gear. For that, we go to part design and
+[06:05] involute gear. Fill in your gear
+[06:07] parameters. I want 120 teeth. I want
+[06:10] module 0.5 and I want the pressure angle
+[06:13] to be
+[06:14] 30. Let's okay
+[06:17] that. Click on it so it's highlighted.
+[06:20] And then we want to pad it to the
+[06:22] thickness which is going to be 3
+[06:26] mm. With body still highlighted, we can
+[06:29] hide that pad just by clicking the eye.
+[06:31] And now we need to create a sketch. So
+[06:34] go to sketch and create it on the XY
+[06:36] plane. We're already in SketchUer and we
+[06:39] need to put some circles in there. Click
+[06:41] on the
+[06:42] circle. Tie it to the center. Let's make
+[06:46] that 20. This is the circle for the
+[06:49] eentric. And it's fully constrained.
+[06:51] Now, we need another circle that we're
+[06:53] going to move around that's going to
+[06:55] engage with the output. So, just put
+[06:57] that somewhere. Make that 14. Create the
+[07:01] line between the two centers.
+[07:07] Right click and then we're going to
+[07:09] dimension that line. So click on the
+[07:15] dimension and the distance from center
+[07:17] to center needs to be 20 mm. So click on
+[07:20] that 20 mm and that will dimension it.
+[07:23] Now it's still got one degree of freedom
+[07:25] which you can see there. And we need
+[07:27] that to be rotated around and we're
+[07:28] going to rotate this through 60° because
+[07:31] I'm going to have six of those. So click
+[07:34] on the dimensions again on the down
+[07:36] arrow angle
+[07:39] constraint. Click on the line that we
+[07:41] just drew and then on the
+[07:43] axis. Change that to
+[07:47] 60. And there we go. We've got our
+[07:50] positioned circle that we're going to
+[07:52] need. We need to recreate that. We need
+[07:55] to create that at different positions.
+[07:57] And one way that I found was relatively
+[07:59] easy was to click on the line and delete
+[08:02] it.
+[08:03] And now we can see that it's under
+[08:05] constrained. Also, we've got a
+[08:07] constraint here holding these 20 mm
+[08:09] apart. So, click on that and delete
+[08:14] it. So, now we've got two degrees of
+[08:16] freedom. What we need to do is lock this
+[08:19] down. So, we're going to dimension it
+[08:21] yet
+[08:29] again. Make that 10.
+[08:34] and then
+[08:38] again and just click okay on
+[08:42] that. So now that's positioned where we
+[08:44] want it to be. We need to copy it and
+[08:47] move its position. It's circle number
+[08:48] two. So click on circle number two
+[08:51] keyboard shortcut and it will create a
+[08:54] third circle directly overlaying. And we
+[08:56] can see it here. Constraint diameter 14,
+[09:00] position
+[09:01] 1072. Change this position here to minus
+[09:10] 10 and it places it
+[09:13] there. Do exactly the same thing. Ctrl +
+[09:16] Crl +
+[09:17] V. Move down on your constraints. You
+[09:20] can see the circle that we've got. We
+[09:22] did that at minus 10. Change this
+[09:25] one to
+[09:32] -7.32. Exactly the same
+[09:37] thing. Scroll down on the constraints
+[09:39] and this time make both of those minus.
+[09:55] And we get four of our circles. We now
+[09:57] need two more. So again, Ctrl + C, Ctrl
+[10:01] +V. Once you've highlighted it, move
+[10:03] down to your constraints. You can see
+[10:05] where they are. And this time, we want
+[10:07] to put it on the axis. We want to put it
+[10:09] on this axis here. And it is 17.32 away
+[10:14] from it. So double click on it and
+[10:16] change that to zero.
+[10:21] and double click on that. And remember
+[10:23] it's this time it's 20 because they're
+[10:25] 20 from the center to
+[10:32] center. Then we can do exactly the same
+[10:35] thing only this time minus
+[10:43] 20 and zero.
+[10:47] Now we have our sketch. Close
+[10:52] it. Let's have a look at the pad again.
+[10:55] Highlight the sketch. And this time
+[10:57] we're in part design. So we need to
+[11:00] extrude it or make a pocket. So the
+[11:02] click on the pocket icon. And we want
+[11:05] this 3 mm thick. Now it goes down. It
+[11:08] drills down on a pocket. So reverse it
+[11:10] so it goes up. Click okay. And there we
+[11:13] go. We've made our gear. Right, export
+[11:16] the STL file and print it. And that's
+[11:18] what you get, a genuine part. Now, I'm
+[11:21] by no means an expert in Fread. I
+[11:24] actually never touched it before. And
+[11:26] I'm sure that there are much better ways
+[11:27] of doing this. And Freakhead experts
+[11:29] will tell you what a clutch I made of
+[11:31] it. And then hopefully promptly tell you
+[11:33] the right way to do it. What I'm
+[11:35] demonstrating is that basically with no
+[11:38] experience of Freakout, I can be up and
+[11:40] running in about an hour or two and
+[11:42] printing real parts from that 3D design.
+[11:45] And that's the whole point. I'm showing
+[11:47] you what I did, not the best way of
+[11:50] doing it because the way to get to do
+[11:52] things is actually get your hands dirty.
+[11:55] Do them. You'll work out ways. As you
+[11:58] learn more about it and people help by
+[12:01] telling you stuff, then you pick up
+[12:02] different ways of doing it that are
+[12:05] better, more efficient, whatever. But to
+[12:08] do something takes very little time at
+[12:12] all. It really takes a willingness to
+[12:14] give it a go. And that's the point I'm
+[12:16] making. If you give it a go, you'll soon
+[12:18] be producing real parts. Don't worry
+[12:20] about doing it perfectly. Worry about
+[12:23] doing it. You'll learn perfectly as you
+[12:26] go along. Right, let's do the next bit.
+[12:29] Before we continue, I've renamed this.
+[12:31] What you do is right click on it and at
+[12:33] the bottom there, you've got rename and
+[12:35] you can type in the name. Once we've
+[12:37] typed in a name, we can now start our
+[12:39] next body. So, collect, select the body,
+[12:42] click on it, and it will create a whole
+[12:44] new body which will become active. When
+[12:46] we're in the body, we want to create
+[12:48] again involute gear and that's in part
+[12:51] design and down to involute gear. This
+[12:54] one I want to be 122. So, it's two more
+[12:57] teeth than the previous one. We want the
+[12:59] same module, which is
+[13:01] 0.5. And again, we change the pressure
+[13:04] angle to 30 because we're going to have
+[13:06] this rotate nice and smoothly. When we
+[13:08] click here, we've got external gear
+[13:10] where we can choose true or false. If
+[13:13] it's true, it creates a normal involute
+[13:16] gear. If we click false, what we're
+[13:18] going to be doing is creating a ring
+[13:20] gear. Now, we've done that, we can click
+[13:23] okay.
+[13:24] The next thing we need to do is find the
+[13:27] sketch icon and create a sketch on the
+[13:29] XY plane. Click okay. And if we
+[13:34] leave swap back to model, there we go.
+[13:36] If we leave in
+[13:39] voluable, then we'll be able to draw
+[13:41] over it. But remember, highlight sketch.
+[13:44] So you're drawing on the sketch. And
+[13:46] this is like a layers in a paint
+[13:49] program. It won't be influenced by what
+[13:51] we draw now, but we can draw our sketch.
+[13:55] If we click on the rectangle tool, it'll
+[13:58] come down there and form a rectangle.
+[14:01] Just draw a rectangle. And I want this
+[14:03] rectangle to be
+[14:08] 75 by 75. So, type in 75, hit the tab
+[14:12] key, type in 75 again, and hit enter.
+[14:16] And we'll get ourselves a rectangle. If
+[14:19] we jump to tasks, then we can see that
+[14:21] the thing is under constrained. So, of
+[14:24] course, what we need to do is constrain
+[14:27] it. Right hand click to get rid of the
+[14:29] tool or click on the other tool and hit
+[14:31] the dimensioning tool because we're
+[14:33] going to set dimensions. We set it from
+[14:36] the axis here to the edge there. And
+[14:39] that will create our dimension for us.
+[14:42] Now, we did that at 75. So, halfway is
+[14:45] 37.5.
+[14:47] Then we want to do exactly the same
+[14:49] thing because we still got one degree of
+[14:51] freedom, but this time we go from here
+[14:52] to here. We go from there to there. So
+[14:56] click on the node. Pull it. It will do
+[14:58] that. And then again
+[15:01] 37.5. And now we've got a square
+[15:04] actually that is centered on the drawing
+[15:06] underneath. Remember that drawing won't
+[15:09] affect it. Right click. And what we want
+[15:12] to do now is put a fillet on. So we find
+[15:14] the fillet tool which is right
+[15:16] there. Left click on it. Then click on
+[15:19] one side and the next side and it will
+[15:22] add the fillet automatically for you. In
+[15:25] order to dimension the fillet, click on
+[15:28] the dimensioning tool. Click on the
+[15:30] actual fillet you've done. Pull it out
+[15:32] somewhere. And we can see that we've got
+[15:34] the fillet size we can select. Let's
+[15:36] select six. And we've got a fillet there
+[15:40] with a radius of six. We want to repeat
+[15:42] that with all of the other fillets. Now,
+[15:46] these fillets aren't the same, and you
+[15:47] can see we've got three degrees of
+[15:49] freedom. We want to make them the same
+[15:51] as this. So, click on the fixed fillet,
+[15:53] and then click on the other fillet. And
+[15:55] we're going to use an equals constraint,
+[15:57] which is right there. You click
+[15:59] constraint equal. Then it'll make those
+[16:02] two fillets exactly the same size. And
+[16:04] you can see our degrees of freedom has
+[16:05] gone down. And repeat that for the other
+[16:08] two fillets. where the fillet begins. We
+[16:11] now want to put in a hole. And the hole
+[16:13] is so we can put some bolts in. So click
+[16:17] circle. Center it. And we're going to
+[16:19] put a 4 mm and M4 bolt in there. So just
+[16:23] type in four and hit enter. And we're
+[16:26] doing exactly the same for these other
+[16:28] three. And now we want to hold that the
+[16:31] actual axle is going to go through. And
+[16:33] what we're going to do here is put in a
+[16:36] bearing at 19 mm. So make that 19. Now
+[16:40] we can close
+[16:42] that. And if we undo involute gear, then
+[16:47] we can see what our sketch actually
+[16:49] looks like. Highlight the sketch. And
+[16:52] this time what we're going to do is
+[16:55] create a pad. And the pad we want is in
+[16:59] this case 10 mm because we're going to
+[17:02] use a 10 mm block of aluminum.
+[17:06] And we get our pad with its holes
+[17:09] through it. What we need to do now is
+[17:11] include the envelute gear because the
+[17:13] envelute gear is going to um create the
+[17:18] cutout for the actual gear to fit into.
+[17:21] So we click show envelute gear. Make
+[17:24] sure that it's highlighted and this time
+[17:27] click on the pocket icon. When the
+[17:30] pocket icon comes up, what we need to do
+[17:33] is make it 3.1 millimeters. It just
+[17:36] gives it an extra little bit of free
+[17:38] play for when we put the actual gear in
+[17:40] place. So remember, the pocket drills
+[17:42] down. We want it to drill up. So reverse
+[17:44] it. Click okay. When we spin it around,
+[17:48] we can see that it's created an
+[17:49] indentation there where our gear will
+[17:51] fit. Now we can rename this. Remember,
+[17:55] right click on
+[17:57] it, click rename, and let's call it back
+[18:02] plate. And now we can export it as an
+[18:05] STL. Click on file, click on
+[18:10] export, name it, choose STL from the
+[18:13] drop-own menu or whatever else you want
+[18:15] to do, and click save. Right, the next
+[18:18] bit, let's create a new body, and we'll
+[18:21] call it top player. Why not? Let's
+[18:23] rename
+[18:24] that. And we're going to create a
+[18:26] sketch. But if you remember on backplay
+[18:28] it, then we had this sketch here for the
+[18:31] pocket and here for the pad. This
+[18:35] sketch, sketch one was that little
+[18:38] layout that we did. If we show that
+[18:39] sketch, then that sketch essentially we
+[18:42] want to repeat. We don't need to draw it
+[18:44] all again. So just highlight the sketch
+[18:47] and use the short mode keys to copy. Crl
+[18:52] C. Okay. And click somewhere on the
+[18:56] plate and Ctrl V. Now you'll notice
+[18:59] actually it's under unnamed. It needs to
+[19:02] be associated with the body. Otherwise
+[19:05] it just won't do it. So we can take
+[19:07] that, hold it over the name top plate,
+[19:11] let go, and it will move sketch two into
+[19:15] top plate. So now if we hide those then
+[19:18] this sketch has now become part of top
+[19:22] plate. It's a whole new sketch. The
+[19:24] previous sketch was sketch one. This is
+[19:25] sketch two and we can work on this
+[19:28] independently. Changing sketch two will
+[19:31] not affect sketch one. So if we were to
+[19:35] pad sketch two in the same way we padded
+[19:38] sketch
+[19:39] one, then what we'll
+[19:42] get is an extrusion 10 mm thick. But
+[19:46] you'll notice there's no actual gear on
+[19:48] this because we haven't included the
+[19:50] envelope gear that we did in back plate
+[19:53] in top plate. And it saves us a lot of
+[19:56] time having to actually redraw things.
+[19:59] But we do
+[20:01] need to put in an extrusion, a pocket
+[20:05] here to take the actual driven wheel.
+[20:07] And the driven wheel is going to be um 3
+[20:10] mm deep. And it's going to be more or
+[20:13] less the same size as the gear.
+[20:16] Actually, a little bit smaller will be
+[20:17] fine, but more or less the same size as
+[20:19] the gear. And it is 60 mm across. So, if
+[20:23] we put a pocket in there of 60 mm, we'll
+[20:26] get our top plate. In order to do that,
+[20:30] we need to create a whole new sketch
+[20:32] again on the XY plane. If we close the
+[20:35] pad so that we're just looking at the
+[20:37] sketch, create a circle, fix it to the
+[20:40] center, take it out, and we want a
+[20:42] diameter of 60 mm. We can then include
+[20:46] that by making that a pocket. To make it
+[20:48] a pocket, change from sketcher to part
+[20:51] design. It's fully constrained. We can
+[20:53] close that. And then we can make it a
+[20:56] pocket. And again, we want to make the
+[20:59] pocket 3.1 just to give it a little bit
+[21:02] of clearance. Hit okay.
+[21:04] And if we look at top plate now, we can
+[21:07] see we've created a pocket, a cutout
+[21:10] that will take the drive wheel. Now we
+[21:12] finished that, we can save it and print
+[21:15] it. Okay, this is going along rather
+[21:17] swimmingly. Now we've got the bottom, we
+[21:19] got the top, and we've got the gear. And
+[21:20] the gear goes into the bottom and
+[21:22] engages with the teeth. And this center
+[21:25] is driven eentrically. So it kind of
+[21:27] wobbles around there. And as it's
+[21:28] wobbling around, it gets driven by one
+[21:31] tooth at a time. The distance between
+[21:34] this gear and this case is half a
+[21:36] millimeter. That's not a lot of
+[21:38] distance, but what we need to do is
+[21:40] create an eccentric that will do that
+[21:42] driving and of course an output plate.
+[21:45] That and a couple of axles. We're done.
+[21:47] Okay, we now need to create the eentric.
+[21:49] So, let's get a body and let's call that
+[21:52] body asentric. Add a sketch under there
+[21:55] in the XY plane. Click okay. And we're
+[21:58] in the sketch window. Now, we're going
+[22:00] to be driving this eentric from only one
+[22:03] side. So, we need a drive socket for it
+[22:05] that won't slip. Something like a hex or
+[22:07] a square will do just fine. Let's give
+[22:10] it a square. If we give it a square,
+[22:12] let's say we'll make that 5
+[22:15] mm. Hit tab. 5 mm. Hit enter. And we've
+[22:20] got a 5 mm square. Now, it's
+[22:22] unconstrained. And we need to constrain
+[22:24] it around that center because that
+[22:26] center is where we're going to place the
+[22:27] actual eentric itself. Remember this is
+[22:29] the eentric drive. So to do that
+[22:32] obviously we need to dimension it. If we
+[22:34] dimension it from this point to this
+[22:37] axle and we make that
+[22:40] minus
+[22:44] 2.5 then it's nicely centered above
+[22:46] here. Now we need to dimension it from
+[22:49] this point to this point.
+[22:54] But this time we need to make it minus
+[22:59] 2.25 because although the eentric is off
+[23:02] center by a quarter of a millimeter that
+[23:05] means the throw is twice the distance it
+[23:08] off center. So that will give us an
+[23:10] eentric of half a millimeter for a
+[23:13] distance away of a quarter of a
+[23:15] millimeter. Now of course what we need
+[23:17] is the main eentric and that's just a
+[23:20] circle at the actual center. So,
+[23:22] position it at the center. Make that 20
+[23:25] because that's the size of the hole
+[23:26] that's waiting for
+[23:29] it. And there we go. We can close
+[23:32] that. We can pad it. Pad it 3
+[23:38] mm. And there's our eentric. Now we've
+[23:41] done that, we need to make the men drive
+[23:43] player. So again, add a body.
+[23:47] Let's rightclick it, rename it, and
+[23:53] drive out will do just
+[23:56] fine. So now we have a drive out. So
+[23:59] let's just get rid of that. And for the
+[24:01] drive out, we're going to need
+[24:04] two sketches. So the first sketch is
+[24:07] going to be the size of the main drive,
+[24:09] which in this case, of course, was 60
+[24:12] mm. So we position it at the center and
+[24:15] go to 60 as a diameter and this equally
+[24:19] we need a square peg in there because
+[24:21] this is the other side of what's driving
+[24:24] only this will be driven out. Let's use
+[24:27] a square again and again make that
+[24:30] five hit tab five hit
+[24:36] enter and of course we want to dimension
+[24:39] it. In this case we're going to
+[24:40] dimension it into the center. So we
+[24:42] dimension it from
+[24:46] there from that point to that
+[24:51] point and that's going to be minus
+[24:54] 2.5 and then from that point to that
+[24:58] axis and that's going to be minus
+[25:01] 2.5 and that's the first sketch that we
+[25:04] need. So let's close
+[25:06] that and add another sketch. On this
+[25:10] sketch, what we need are the actual
+[25:12] drive holes. Now, the drive holes, if
+[25:14] you remember from the drive gear, were
+[25:16] 20 mm away from the center. And the
+[25:19] circle that they had was 19 mm, 14 mm. I
+[25:23] apologize. The size of the drive pins is
+[25:27] the size of the hole on the gear less
+[25:30] the entric. So the size of the actual
+[25:33] pin that we're going to make is 13.5 and
+[25:36] the center is 20 from the center. So
+[25:40] we've created our circle that will
+[25:41] become our drive pin. And of course it's
+[25:44] the same routine. Collect dimension.
+[25:46] Click to that point and dimension it
+[25:50] here. We need that at 20. Remember
+[25:52] because we're going to put it on the
+[25:54] axis axis. And then click on that point
+[25:57] and this time dimension it here. and we
+[26:00] can make that
+[26:02] zero. Now that's in the right place.
+[26:05] What we need to do, of course, is swing
+[26:07] that round 60°. So, click on a line, go
+[26:10] to the center of the big circle, and
+[26:13] then move it outwards. And you'll see
+[26:16] you've got two constraints, length and
+[26:19] angle. And the angle, of course, is
+[26:21] going that way. So, what we need to do
+[26:22] is make this 20, hit tab, and you go to
+[26:26] change the angle. We make that 150 which
+[26:29] is 90 + 60. Then hit enter. What that
+[26:33] means is the end point of that line is
+[26:35] the needs to be the center of a new
+[26:37] circle. Now we dimensioned this circle
+[26:40] if you remember to the two axes. So if
+[26:43] you go to circle and copy it crl +v
+[26:47] we'll get a third circle with associated
+[26:50] constraints. What we do is remove those
+[26:53] constraints. So just delete them.
+[26:57] And then we get an unconstrained circle.
+[27:00] Now, we want to make sure that we're
+[27:01] going to be working on uh the third
+[27:04] element, the circle two. So, hide circle
+[27:08] one, pull that circle out, and then redo
+[27:13] circle one. So, now we've got the
+[27:15] original circle in its place. We've got
+[27:16] this free floating. What we then want to
+[27:19] do is fix this point to this point. And
+[27:23] we do that with a coincident
+[27:26] constraint and it's right there. So we
+[27:29] click on that. So we get that tool.
+[27:31] Click on the point there and click on
+[27:33] the point at the end of the line
+[27:36] there. Then it will bring it to exactly
+[27:39] the right point. But now of course it's
+[27:41] fixed at that point and we don't really
+[27:43] want that. So click on the line and
+[27:46] delete the line and you will get two
+[27:49] circles. However, it's under constrained
+[27:51] by two degrees of freedom because we now
+[27:53] don't have reference points. We need to
+[27:55] give it those reference points. And of
+[27:57] course, we can do that with the
+[27:59] dimension tool. We don't need to change
+[28:02] it. We leave it alone where it actually
+[28:04] is because we're not moving it. We're
+[28:06] just finding out if you like what the
+[28:08] coordinates are. So, once we found out
+[28:10] that coordinate, we then need to find
+[28:12] this coordinate obviously. And we
+[28:14] continue with that until we've actually
+[28:16] placed the lot. Once we've done that and
+[28:18] it's fully constrained, of course, we
+[28:20] can close it. Now, we've got two
+[28:23] sketches we need to tab. They're both
+[28:25] showing, but let's undo that one for a
+[28:26] second. You can see it's only the pins.
+[28:28] If we do that and undo that, it's only
+[28:31] the base plate. So, sketch five is the
+[28:33] base plate and sketch six is the pins.
+[28:36] If we click on sketch five and hit pad,
+[28:40] then we can pad that to 3 mm.
+[28:46] Now if we hit sketch six and we pad
+[28:52] that we can pad that to 6
+[28:55] mm. There we have our drive plate with
+[28:58] its drive pins and a central hole. We
+[29:01] can now save that and print it. So there
+[29:04] it is printed out and put together. And
+[29:06] I've put a dot on this because when I
+[29:08] turn the input, of course, the output
+[29:10] dot moves a tiny little bit because it's
+[29:12] a 60:1 gear ratio, which I thought was
+[29:15] really very cool. And I've done this in
+[29:18] 3D printing. So, we can test that the
+[29:19] whole idea works. But the point of the
+[29:22] video has really not been about the um
+[29:25] free CAD that you need in order to do
+[29:27] something like this, but that you don't
+[29:29] need much in order to do something like
+[29:32] this. I mean, I use very few operations.
+[29:34] I don't pretend to be an expert in
+[29:36] Frecat. What I'm saying is that if you
+[29:40] make a start within an hour or two using
+[29:44] very simple processes, you can create
+[29:46] something essentially relatively
+[29:48] complex. And that's what I believe. I
+[29:50] think that 80 to 90% of what you want to
+[29:53] do are going to be done with half a
+[29:55] dozen tools. When you hit something that
+[29:58] you can't do with those tools, well,
+[29:59] that's the time to learn that tool so
+[30:02] you can then progress because getting up
+[30:04] and running takes no time at all.
+[30:07] Getting to be an expert, of course, can
+[30:09] take a lifetime. But what you find is
+[30:11] that people don't even get up and
+[30:13] running because they think they won't be
+[30:15] able to do anything. But actually, doing
+[30:17] stuff is remarkably simple. Now, I'm
+[30:20] sure people have better ways of doing
+[30:22] this than I did. what I'm showing you
+[30:24] are the ways that I discovered to do
+[30:26] this in about an hour. So, it's all
+[30:29] about getting up and trying and doing.
+[30:32] And learning is a process that comes
+[30:34] with the doing. It's not something that
+[30:36] you just pick up by osmosis. Now, a lot
+[30:39] of people give you too much information
+[30:41] and that's the problem. It's too much
+[30:44] becomes overwhelming because you need
+[30:46] surprisingly little to actually create
+[30:49] something that's pretty cool. Anyway, I
+[30:51] hope you enjoyed the video. Thank you
+[30:53] very much for watching and please do
+[30:55] remember to like and subscribe.

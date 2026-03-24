@@ -1,0 +1,1376 @@
+[
+  {
+    "id": "UgwBSQp_ToFgBq1wZzN4AaABAg",
+    "author": "@wrathofpaulii",
+    "author_channel_id": "UCbNX_jUPpoa7iPAKXbobCfg",
+    "text": "I have a UPS that displays estimated runtime but when I put additional batteries on it it doesn't seem to read accurately.  I wonder if there's a way to correct that with the larger battery🤔",
+    "likes": 0,
+    "published_at": "2024-05-16T20:10:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxjYd6l6CfjnYLe5OV4AaABAg",
+    "author": "@elgorrion52",
+    "author_channel_id": "UC_a6fLAbZjKoJ5Ug22cAM-g",
+    "text": "Thanks- this explains a lot to me. If running 12 or 24 volts around the house, what size cable should be used for safety? I saw a canal boat that had caught fire because the wiring  was too thin",
+    "likes": 0,
+    "published_at": "2022-12-19T22:05:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxjYd6l6CfjnYLe5OV4AaABAg.9jpuaXIn9fz9lFcflLRxgi",
+        "author": "@oscarvogel2140",
+        "author_channel_id": "UCwb9aJcJ4QYebMbaE1SzOaw",
+        "text": "That depends on how many 12 volt amps you are pulling for each wire. The plan is to use the AC power from the inverter. You don't even need the inverter if you are running everything 12 volt.",
+        "likes": 0,
+        "published_at": "2023-01-24T03:40:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLbePcN69zryDhCBZ4AaABAg",
+    "author": "@johnlawton3703",
+    "author_channel_id": "UCZRc-G7tVzGdG-j9k2CVRXQ",
+    "text": "Another thought. I've a small Inverter Generator from LIDL, UK, model PGI 1200 B2 which is rated at 230V, 1000W continuous, 1.2kW for 5 seconds. I wonder what internal voltage the generator creates to power the inverter. It is probably quite high in order to keep currents down, but there might be scope to connect a battery string to use just the inverter. I'm intrigued at the thought, but I'll probably not dismantle it in case I need it working to cope with possible power cuts this winter.",
+    "likes": 0,
+    "published_at": "2022-11-10T17:06:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQLwkqkKFJ68S_o2t4AaABAg",
+    "author": "@johnlawton3703",
+    "author_channel_id": "UCZRc-G7tVzGdG-j9k2CVRXQ",
+    "text": "Anyone used a UPS to power an old freezer? I wonder about the motor startup current when the UPS inverter is supplying power?",
+    "likes": 0,
+    "published_at": "2022-11-10T16:03:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxlIBnohywg664ns0V4AaABAg",
+    "author": "@emilee172",
+    "author_channel_id": "UCdBASqR0V4u_vXFkvSnQz5w",
+    "text": "your charge current draw will be different AND you Can ruin the original charging circuit by trying to charge a battery that is many times the size of the original",
+    "likes": 0,
+    "published_at": "2022-10-11T22:13:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwGccqGE2R0BX0Yo9d4AaABAg",
+    "author": "@Flashahol",
+    "author_channel_id": "UCPheyZs8qRCUsLKO31DCM_Q",
+    "text": "The beauty about this is, should you use the UPS charger, it will maintain your battery and you can forget about checking the charge regularly. \nHOWEVER, this charging method will not work well with AGM batteries as they need a much quicker charge...",
+    "likes": 0,
+    "published_at": "2022-10-08T00:18:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3EI2zAZMj7seB2iV4AaABAg",
+    "author": "@johnbrizendine7716",
+    "author_channel_id": "UC1FA3x_fh5ZaLZNMWkO5lHw",
+    "text": "The downside for these is that they do not have any charging real charging algorithm, and so does not ever go into \"balance\" mode and eventually the battery will sulfide to death.  I fixed that by having a solar controller on the battery while it is connected to the APC UPS.  The cheaper UPS backups will not work that way, but the APC UPS absolutely loves it!!!\n\nI have a few different ones that I use as inverters and two that I use as actual UPS backups on my freezer and servers in my server rack.  \nI have a few of the APC UPS backups rated in multiple KW of energy that are pure sinewave units on my servers in my basement and have solar and solar charge controller providing the full algorithm of battery maintenance charging connected directly to the batteries and the APC UPS and it works out perfectly.  \nIt took me a bit of research to figure this out, lead acid batteries like to be charged up to 14 volts for a short time every 24 hours in order to keep them in optimal working condition.  It seemed like the batteries would only last a few months at a time just connected to the APC UPS and then would get sulfated to the point they stop working, especially if I used large lead acid batteries.",
+    "likes": 0,
+    "published_at": "2022-10-02T05:16:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwF1UIfmuH3VfSJ-xd4AaABAg",
+    "author": "@piconano",
+    "author_channel_id": "UCkmwA1c1iO8Bd45uDk3DgMA",
+    "text": "On APC UPS you can disable the annoying beeper, using their RJ45->USB cable and software that comes with each unit. \nI desoldered mine, before discovering there was that feature 😔",
+    "likes": 1,
+    "published_at": "2022-09-30T11:20:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqXAZvHBWN6Xue8sx4AaABAg",
+    "author": "@piconano",
+    "author_channel_id": "UCkmwA1c1iO8Bd45uDk3DgMA",
+    "text": "If you notice the heat sinks they use for the mosfets inside, you will see big blocks of aluminum instead of typical teat sinks. \nThere for, you can not use these inverters full time duty without modification to the cooling system.\nThey did that because it's cheaper and no fan is used. \nWhen the 2 batteries (24V system) on the APC800 died, I didn't want to buy new batteries, when I had 2x 100Ah boat batteries that had their good life elsewhere. \nIt has worked great for the past 2 years. \nI placed the batteries inside a Rubbermaid container, and I extended the wires so that the UPS is now living on the closed container top. \nin my testing 20W was the max I could draw continuously without thermal shutdown occurs. \nI could modify the heatsinks, but there are riveted to the mosfets and pcb and a lot of work. I have a 400W and 1000W car inverters.\nIn a blackout, I can leech off the big 100A batteries and I'll have 2 full ones all the time, thanks to the UPS.",
+    "likes": 0,
+    "published_at": "2022-09-30T11:16:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy91_x0caI3c0EDsQx4AaABAg",
+    "author": "@Thunderstormworld",
+    "author_channel_id": "UCTH_rEKhmiBh30X9d-TRddA",
+    "text": "Been using UPS with bigger batteries since 2006 for other uses like for alarm system backup, cell phone boosters and my TV and game system.",
+    "likes": 0,
+    "published_at": "2022-07-14T14:20:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwsRvDmKCfmJReLppN4AaABAg",
+    "author": "@diedericknaude4316",
+    "author_channel_id": "UCuwWWKt7FM3obQwNPqR3quA",
+    "text": "Useful  as always , thanks. Can anybody help with a fix for the small Mecer ups that seems to be programmed  to switch off after  10 minutes  ? Greetings",
+    "likes": 0,
+    "published_at": "2022-05-05T18:05:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyRb5OYcaTkpAHTqb54AaABAg",
+    "author": "@williamcox1176",
+    "author_channel_id": "UCkrWS22MndbCUinwZEhKtPw",
+    "text": "I don't consider this a pointless video as you suggested, Yes i did already know just about everything you covered except from one little snippet, i was always worried the charging circuit would be over loaded.\nSo worth watching just for that, as these devices work in mains bypass mode and only switch in during a power failure, i'm not sure how long they would last working as just an inverter, but sure someone reading this have tried it, and your comments would be welcome.",
+    "likes": 0,
+    "published_at": "2022-04-21T11:09:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz86uzhDq22dRBjrUF4AaABAg",
+    "author": "@MediumPointBallPoint",
+    "author_channel_id": "UCAQWWiaYyd-AGrN5BsE_4qQ",
+    "text": "Robert! Can you clip the alarm speaker and replace it with a LED? How about a topology with one UPS on each home circuit, but clustered at the distribution box, using the existing wiring with and a redundant array of UPS? Supply the battery side with renewable power and drop mains power when possible, then switch the mains back on when regular power is needed. Minimal Green Retrofit?",
+    "likes": 1,
+    "published_at": "2022-04-20T16:10:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgybLHeblNF7_W3eBnh4AaABAg",
+    "author": "@TrollFaceTheMan",
+    "author_channel_id": "UC7VzhQg6tv-pATB1_11Od5w",
+    "text": "The problem is with 12v and even very small loads the power losses become very high very quickly in the wiring if you try and say run a house off it.\n\n Also 12G wire can handle 20amps of power only. So that means at 12v your 12g wire will be good for a mere 240w.\n\n Which will also be heating up the wire significantly in the process.\n\n And honestly be closer to about 200w if you don't want your breaker nuisance tripping.",
+    "likes": 0,
+    "published_at": "2022-04-15T19:40:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzAAwpC2gJOmdKEefJ4AaABAg",
+    "author": "@Alex-tj1zo",
+    "author_channel_id": "UC-VxYDJSDdlyVFiLgIJBZAg",
+    "text": "One of your most useful videos to date .\nI have a question: do these ups units have true or modified sine wave power output ?\nThank you very much !",
+    "likes": 1,
+    "published_at": "2022-04-08T22:18:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwI-qzV7KQQL_IjLaZ4AaABAg",
+    "author": "@DellFargus",
+    "author_channel_id": "UCyZQVD-6UoM9D5aVCeDh0sA",
+    "text": "I have an old UPS where I tapped the leads to the battery and mounted terminals on the box with a voltmeter inline.  I use it as a power supply for my ham radios or if I'm piddling around with 12v car electronics.",
+    "likes": 0,
+    "published_at": "2022-04-08T02:24:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwyW78djNUK_jszrJ94AaABAg",
+    "author": "@sykoteddy",
+    "author_channel_id": "UCnfDD1Diso_C_Q-XLFf6ArQ",
+    "text": "Is it really that easy with more advanced versions that for example are meant for servers? They have for example software and a serial or usb cord to communicate with the system. Are these also as simple so they woun't recognize other than the amount of volts it needs?",
+    "likes": 0,
+    "published_at": "2022-04-03T20:23:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgykUdnk7dQM8Xqh7O14AaABAg",
+    "author": "@wesleycastner4860",
+    "author_channel_id": "UCflOfGKUc1MrE4WVN3tM2hQ",
+    "text": "gotta say there are few sources of info on this type subject especially concerning electronics that people put out fake science (feels like im being a dunce but its true) they just after the views dont care bout the dangers of what they are doing by misguiding people who are putting there trust in them and their being discieved you have seen many of them such as free energy devices so i sure appreciate you explanations of the should be most simple and obvious technology because you never know what was done to mislead and distort the reality of the means of operation anyway i did enough to cloud up my intended statement ill digress",
+    "likes": 0,
+    "published_at": "2022-04-01T17:04:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxEvNZmGT776oN7haF4AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "some are sine wave some are not! the one in video is not  the ones that say smart in the name are sine wave  the next big problem is the idle current and efficiency both are horrible!  i do use one for a few hour back up when power goes off   i keep it plugged in and my stuff says running untill the two giant batterys i hooked to it go dead  very happy with it for this use  but for full time use it is junk i have even wound chokes to lower idle currant but it helps very little i have tryed every thing its just poor for full time",
+    "likes": 0,
+    "published_at": "2022-04-01T00:57:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxeVhdaSbPrB7-qXX94AaABAg",
+    "author": "@dominicraso652",
+    "author_channel_id": "UCg8MureSrQQbUq-yt-8fW1A",
+    "text": "Simple? Big Yes! Also absolutely best idea.",
+    "likes": 0,
+    "published_at": "2022-03-26T22:12:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyxX8NiiMQsDKSGK5t4AaABAg",
+    "author": "@Ecclesiasticus",
+    "author_channel_id": "UCIbJYWtCMKc1DDHQ_CGcXQw",
+    "text": "This is a very consumer-oriented video. I dont want to buy things, i want to learn how to make them. I am still stumped by how charging circuits actually work, and how do i create my own simplest one. Would i be able to recharge a common 3v li-ion battery using a wind turbine by just putting a rectifier in there? If so, then why do the other charging circuits look like mini cities with hundreds of components?",
+    "likes": 0,
+    "published_at": "2022-03-23T21:09:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyxX8NiiMQsDKSGK5t4AaABAg.9Zw-g5F2GLH9ZzP0BgcFs9",
+        "author": "@Zakardis",
+        "author_channel_id": "UCQ1q79MLfT3r6xNxcAnLxgQ",
+        "text": "Lithium batteries are more sensitive to being charged at too high a voltage (they can catch on fire). So they need a safety circuit, usually a temperature sensor on a battery pack, and a timer or sensor to shut off charging when the battery is full. Even lead acid batteries shouldn't be trickle charged for long periods of time. For a wind system you'd probably want to charge a capacitor bank, then charge the battery from that.",
+        "likes": 1,
+        "published_at": "2022-03-25T04:48:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQ7WDhRgj7sI7I4SN4AaABAg",
+    "author": "@richardesposito6622",
+    "author_channel_id": "UC67deW7nyPHdz_CgJHwh2PQ",
+    "text": "Thank You Robert! I do have a couple of the hanging out and this was way helpful! Even with an old battery in them I thought they could at least be useful as surge protector. During the lighting storms and power surge events this gets hit first and may save your iPhones etc!   Almost like an AC isolator! Kind Regards",
+    "likes": 0,
+    "published_at": "2022-03-23T16:03:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLnHMF3Z0OTqqTbw14AaABAg",
+    "author": "@WIZ56575",
+    "author_channel_id": "UC7Pq_yGsCJidfVq5--CFLng",
+    "text": "This is one of the greatest videos I've seen from you because I've been using this simple system for years matter fact I'm writing a book called hyper looping systems It's attempt to regain lost technologies That I had produced mainly mainly called over unity yes I know I'm claiming that I created over unity while the world doesn't want to know what it actually is I will attempt to will attempt to explain it and be brief and be brief. Imagine a water wheel as long as water Goes over the wheel You have a sense of stored energy which can be utilized utilized, can you do this with batteries this was my science project at 14 I believe if you alternate batteries in the same manner In turn you would have indefinite motion. There is no such thing as perpetual motion in which everyone is claiming claiming over unity is I never believed in perpetual motion because nothing less forever. But if you take and take small amounts of energy off a battery and tuand charge one and fill 1 up the time to charge it shortens it shortens and takes less energy to charge it Which you mentioned in this video, The more batteries you have the more leeway you leeway you have to Have  Constant unerruptable Power. I've been doing this for years and and decrease my power consumption because those those devices like you said we'll charge battery slowly so stop taking so much power off of it alternate the power as Tesla said and all of a sudden you have more time jumping battery to battery to charge the 1st one One. Since the age of 14 I was ridiculed for this simple little idea I've bold little idea i called over unity matter fact i believe being crazy as it's said is that the movie back to the future was to show how crazy i was when i talked about having we're having fluctuating capacity which i called V over1  And my symbol was the letter Y and this crazy little actor who had the same name as II Lloyd said he hit his head and came up with the flux capacitor I was  Inconsolable at the time. And I isolated my work from the world thinking everybody thought I was crazy but I can't was crazy but I kept using it and kept getting positive results, Again I sent you some videos on some of the work I did maybe you seen him maybe you didn't I just wanted to explain this so many other points of view that you can talk about when you talk about this particular subject you were absolutely correct about switching and switching and charging the batteries from another source And how you dispute the energy from the batteries is is kind of virtual but but I state isn't the same thing they're doing with flywheel stored energy doesn't break the law of conservation Thank you for listening to this crazy old man who conceived of soul conceived of so many different projects but no one seems to want to know them I will keep this communicate and document for my book.",
+    "likes": 0,
+    "published_at": "2022-03-23T15:30:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxsCJGsZtMY3JLcMDN4AaABAg",
+    "author": "@trevorjohn3632",
+    "author_channel_id": "UCV186QfxphZjmSR9zmS1pYg",
+    "text": "If you are charging the batteries from  renewable sources such as solar or wind generators then you would want the ups to work the other way round, i.e. use battery power when available and switch to mains when it is not. I’m sure that can be done.",
+    "likes": 0,
+    "published_at": "2022-03-23T13:49:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxpJtDpZISoKf_veQN4AaABAg",
+    "author": "@snoddyification",
+    "author_channel_id": "UC_W-7gcJJ-CO_mYr-79TpTw",
+    "text": "Pardon my probably ignorant idea.\nCouldn't you just leave the original battery in place, add a relay controlling a larger charger for the larger battery?\nBest of both worlds type thing?\nAlso, many channels make a fuss about the inability of the original circuit to handle the extended charge and run time of the large battery replacement of the small, original battery.\nHours of watching videos showing all kinds of part swaps, circuit board\"improvement\" etc.....\nWouldn't a relay as described solve all that, allowing for the original circuit to act as a redundant?\nAS ALWAYS, Thanks again for taking the time to read the comments and feedback from your people.",
+    "likes": 0,
+    "published_at": "2022-03-23T06:23:17Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxpJtDpZISoKf_veQN4AaABAg.9ZuQJJm0mHQ9ZvgLwrWRwi",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "I just remembered a customer LONG ago that was overclocking his 80286 PC, and stuck the whole case in a dorm fridge to keep it cool.\n\nThis was in the 80’s before heat sinks were common and water cooling was unheard of in the consumer market.",
+        "likes": 0,
+        "published_at": "2022-03-23T18:11:26Z"
+      },
+      {
+        "id": "UgxpJtDpZISoKf_veQN4AaABAg.9ZuQJJm0mHQ9ZzQodGLJRk",
+        "author": "@Zakardis",
+        "author_channel_id": "UCQ1q79MLfT3r6xNxcAnLxgQ",
+        "text": "If the original battery is bad, and you hook it up to a good battery in parallel, it'll fry the bad battery and probably the new one too. Same thing if you have a bank of batteries in parallel, if one battery fails, the other batteries are likely to fail from the bad one.",
+        "likes": 0,
+        "published_at": "2022-03-25T05:03:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzt7jF8l8vCMA4nlZB4AaABAg",
+    "author": "@Tom_From_Oz",
+    "author_channel_id": "UCY1Uj0WaRDX5btRAqu8jI-A",
+    "text": "Thanks for the idea! I have a 12v solar/wind system with around 8 batteries and a couple of UPS boxes with dead batteries, next time the power goes out the computers won't! lol\n\nEDIT: Just dug out one of the UPS units, it had 2 batteries in it, and plugged a lamp into it. When I touched it's cables to the battery bank cables it let out a loud click and nothing. A couple of seconds later a couple of loud beeps and a bright light hit me in the eyes, I thought I'd blown it up but no, it worked lol. Now I just need to find the specs (Google) so I can work out it's load capacity.",
+    "likes": 0,
+    "published_at": "2022-03-23T03:01:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0DlkZRy7klt4-BrN4AaABAg",
+    "author": "@immrnoidall",
+    "author_channel_id": "UCdx6clNP5c_XgsJqDKP1oeQ",
+    "text": "I've done this for years so I bought a newer pure sine wave APC UPS that would do 900 watts, to do this same trick. It had nice readout of time ,watts, battery sate, ect. I hooked up my 100 amp hour battery and it said battery dead. hummm. i read the instructions and found i had to charge for 16 hours first.  In other words it's battery state reading meant nothing concerning the battery. WORSE, after 16 hours of charging my fully charged 100 Ah battery at 0.5 amps, it shut down and said battery dead after 9 minutes. the time their little stock lead acid battery would run. So beware of the new models. Oh, and it had no fan even though under normal conditions, it ran so hot, the case is disfigured , warped, melted.",
+    "likes": 2,
+    "published_at": "2022-03-23T01:04:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzb_G9XR0Ujkt2q-294AaABAg",
+    "author": "@williamarmstrong7199",
+    "author_channel_id": "UCd6qJhEA66za69NT-cT4Sog",
+    "text": "I have had issues with large batteries in UPS's overheating when recharging large battery packs or when on constant drain. After running at max power for fsr longer than the original battery can provide the inverter can overheat too.",
+    "likes": 0,
+    "published_at": "2022-03-23T00:02:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_IzXtNCPX9NM9vVJ4AaABAg",
+    "author": "@trueriver1950",
+    "author_channel_id": "UCyejMX_dtvAkkRY9fi8xs9w",
+    "text": "Distribution of low voltage DC round the home means higher  current flows, needing thicker copper if you want to avoid increased fire risks.\n\nIs a complete rewire worth doing? Maybe, maybe not because so much depends on your particular circumstances and needs",
+    "likes": 1,
+    "published_at": "2022-03-22T21:19:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzpwJqPl3PP6YoEIP14AaABAg",
+    "author": "@TheBlackadder-Edmund",
+    "author_channel_id": "UCvuATEl8Beyg5s-usFaLsWg",
+    "text": "Not sure how accurate the following points are, as I have not tested, other points I have heard to take into consideration could be: 1-Run half the rated VAs (so if 400 VAs with 250Watts then try to not exceed 125Watts for longer use) as they may not be designed to run long times at the 250Watts. 2-UPS are used indoors with sealed batteries, when using a car battery beware of storage location (i.e. not inside home) and gas production from the battery (may need a place with air ventilation)",
+    "likes": 0,
+    "published_at": "2022-03-22T20:52:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwedBDClbv7JMb1oKV4AaABAg",
+    "author": "@mfr58",
+    "author_channel_id": "UCSpqTNmBrNFGYOVVA-K2fNw",
+    "text": "From experience, 12volts is a bit low for whole house distribution. I'd say 24volt is the minimum nominal rail to use. Note also that most electrical accessories are not rated for DC switching (possible arcing issues)and circuit protection can be difficult as dangerous heating can occur in a fault before it is cleared by a fuse or breaker, because the voltage is so low. Also fuses do have significant voltage  drop (at extra low voltage) at high currents. Having said that I do think there is potential for DC extra low voltage micro-grids in home and office. Power Over Ethernet (POE) is one approach to this and new standards for such distribution of power have been created.",
+    "likes": 3,
+    "published_at": "2022-03-22T19:33:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzTbF92bfgnyGdlCTh4AaABAg",
+    "author": "@yepyep3402",
+    "author_channel_id": "UCjx3KwKvaILVw4ou_dpce1g",
+    "text": "In addition to the other warnings going around, I'd also caution that many UPS's arn't duty cycle rated for longer uptimes from larger batteries- the docs specifically advise against it.  The inverter circuitry, transformers and others are dramatically different inside the different models.   The higher end models (1000VA and greater) tend to not have an issue with it, but the desktop 500-750VA range units definitely can.   The power coming off the inverter of many of these desktop style models is also quite noisy and can cause problems with sensitive loads.",
+    "likes": 1,
+    "published_at": "2022-03-22T15:12:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzTbF92bfgnyGdlCTh4AaABAg.9Zsn7FKqpOH9Zvcnr7p_5u",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "Interesting - I had no idea about the power being noisy!  \nBy sheer coincidence, I have a (heavy) Tripp Lite line conditioner I can plug into the output of the APC.",
+        "likes": 0,
+        "published_at": "2022-03-23T17:40:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-4lTx8T47yXEmsxZ4AaABAg",
+    "author": "@jonkinzel6241",
+    "author_channel_id": "UCwTuKACDLY6Kvyv6j4Sf27Q",
+    "text": "You wonderful person!!! Thanks for the    Kick in the brain 🧠",
+    "likes": 0,
+    "published_at": "2022-03-22T14:44:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyLaG6dwG4QYK22XHh4AaABAg",
+    "author": "@g7mks383",
+    "author_channel_id": "UCqWxOynjo0XQ0FOSiNHV1PQ",
+    "text": "Thanks been doing this for years and works perfectly well. I use it in the lighting circuit. Just insert after the fuse box. The output has a bypass switch for if it fails.  Two leisure batterys in  parallel which are charged from solar panels on the garage roof. Never had a problem. Only the locals who can't understand why my lights are on in a power cut!!",
+    "likes": 0,
+    "published_at": "2022-03-22T08:32:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBoQEXkbvuC_-utNB4AaABAg",
+    "author": "@Corianas_",
+    "author_channel_id": "UC6PB9lHr9v4Ue2S9EhJnydQ",
+    "text": "would love to see this hooked up to some of your DIY batteries. :-D",
+    "likes": 0,
+    "published_at": "2022-03-22T05:11:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKdE3iP7b1Yr0CdPd4AaABAg",
+    "author": "@raymondforest1271",
+    "author_channel_id": "UC8FREzx9zR2oajqRbzE9wHA",
+    "text": "solar panels ;;;",
+    "likes": 0,
+    "published_at": "2022-03-22T02:19:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyK-2VbR9mSr66Uy1l4AaABAg",
+    "author": "@ChannonWW2214",
+    "author_channel_id": "UC53PNQX8iLfIfDjasCTz1Qw",
+    "text": "Still enjoying the videos Robert I learned a lot and I reminded of a lot things I forgot about already from my electronics and high School but life teaches you more thank you keep up the vids..🤔👍🇺🇲",
+    "likes": 0,
+    "published_at": "2022-03-22T02:07:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwdwwlShhAMz7oxaXB4AaABAg",
+    "author": "@theonlywoody2shoes",
+    "author_channel_id": "UCr4VZVFFkaUJl2qsqf6rAqg",
+    "text": "HAZARD WARNING: Most of these APC UPS units tie the DC battery connection to the mid point of the AC input (transformer). You can check this with a meter from AC ground to either battery DC terminal. Here in the U.K. you will typically see 110v AC. With the original battery sealed inside the UPS this isn’t an issue, but if using an external battery the battery terminals will be referenced to mains voltage and therefore present a potential hazard.\n\nPlease check with a meter to ensure the DC battery terminals are not referenced to mains (AC input and/or inverted AC output) before using this configuration.",
+    "likes": 8,
+    "published_at": "2022-03-22T00:45:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwdwwlShhAMz7oxaXB4AaABAg.9ZrErzd2j4j9gfFBXGHecm",
+        "author": "@johnbrizendine7716",
+        "author_channel_id": "UC1FA3x_fh5ZaLZNMWkO5lHw",
+        "text": "APC brand inverters are not like that, from what I can see.  That particular one is one I use and I also use the multiple KW rated rack mounted ones as well and they are isolated.  You are correct, if you don't spend the extra for a good quality UPS, you will get what you pay for.\n\nThe downside for them is that they do not have any charging real charging algorithm, and so does not ever go into \"balance\" mode and eventually the battery will sulfide to death.  I fixed that by having a solar controller on the battery while it is connected to the APC UPS.  The cheaper UPS backups will not work that way, but the APC UPS absolutely loves it!!!",
+        "likes": 3,
+        "published_at": "2022-10-02T05:08:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwmR6uOFvlRbYLMath4AaABAg",
+    "author": "@solidcomms3136",
+    "author_channel_id": "UCIXPIshGYb9XS715oClCnXA",
+    "text": "Longer running time equals more heat add a fan",
+    "likes": 0,
+    "published_at": "2022-03-21T23:36:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxONcqMYLIqd5FPOyZ4AaABAg",
+    "author": "@torbendk2777",
+    "author_channel_id": "UCBfFvcrJyqpBxuz34qCOuqg",
+    "text": "I got a brother to the one you got😀\nIn fact I got three of them. \nApc 650 \nBut only one connected,it’s connected to a 180ah (1000a) truck battery and it’s been charged by solar cells, to run my computer and radio and some light 😀\nWorks fine. \nBut from time to time it tends to live a life on its one, shuts off after 45-60 minutes with plenty of power to spare (12,1-12,6v ) \nMaybe I’m doing something wrong, I don’t know.  Yet \nI’m Learning by doing 😜",
+    "likes": 0,
+    "published_at": "2022-03-21T19:05:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyZ1bLhfBaqq_sZCWF4AaABAg",
+    "author": "@pressurechangerecord",
+    "author_channel_id": "UCSB4PyCYx8UqyFohvr0EkYA",
+    "text": "Thank you!",
+    "likes": 0,
+    "published_at": "2022-03-21T18:42:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwb1EBfof4iRQ88ucN4AaABAg",
+    "author": "@paprjam",
+    "author_channel_id": "UCivz4TZwR9XKfK1jbD9Cqdw",
+    "text": "My UPS has stopped working after 15 years or so and I was going to recycle it. Now I'll have to see if it's just the battery, which I think it is. The replacement costs more than the whole unit but I can hook it to a bigger battery... That's Great, Thanks!",
+    "likes": 1,
+    "published_at": "2022-03-21T15:18:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxcRFdezj0zpD8DO3F4AaABAg",
+    "author": "@crashn",
+    "author_channel_id": "UCXPDd4H5F6rS6xB7X89nXqA",
+    "text": "can you just hookup the external Auxilary charger to the battery with the ups connected at the same time? Do you have to disable the internal charger circuit? Would both charging circuits being connected at the same time cause an issue?",
+    "likes": 0,
+    "published_at": "2022-03-21T14:46:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxcRFdezj0zpD8DO3F4AaABAg.9ZqAGbtLg7B9ZqCjR4I8F-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "stick a flip switch in there mate - I did say that in the video",
+        "likes": 0,
+        "published_at": "2022-03-21T15:07:41Z"
+      },
+      {
+        "id": "UgxcRFdezj0zpD8DO3F4AaABAg.9ZqAGbtLg7B9ZsHZe79vsc",
+        "author": "@crashn",
+        "author_channel_id": "UCXPDd4H5F6rS6xB7X89nXqA",
+        "text": "@ThinkingandTinkering agreed, but is there an automated way, without manual intervention",
+        "likes": 0,
+        "published_at": "2022-03-22T10:28:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxgEKcsZGk5OuO9MHV4AaABAg",
+    "author": "@goaskdra",
+    "author_channel_id": "UCC3Co7ktJ041QqLDv2LisbA",
+    "text": "I continue to enjoy !",
+    "likes": 0,
+    "published_at": "2022-03-21T13:45:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgybMfX6fSJPWY-9VcJ4AaABAg",
+    "author": "@OutdoorsAmplified",
+    "author_channel_id": "UC0Sg9AO5v41YKAn6gp414Nw",
+    "text": "Wow, more on this, can I hook a turbine right into this thing?",
+    "likes": 0,
+    "published_at": "2022-03-21T13:32:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxCMGCG9RiJPSE7u9d4AaABAg",
+    "author": "@kevinroberts781",
+    "author_channel_id": "UCNbJ94qgo527CAL9e8o2yzg",
+    "text": "I use a 40 amp solar charge controller to keep mine charged and lithium batteries",
+    "likes": 0,
+    "published_at": "2022-03-21T09:49:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPfvPzMqXDj_4lcKx4AaABAg",
+    "author": "@markoneil8286",
+    "author_channel_id": "UCqLAASLBYUiz9vm-xxeM84w",
+    "text": "I have a apc 750w ups that I got from the dumpshop for the cost of the weight of the device. I had 4 x 148A 12v batteries arranged so that I had 2 banks of 24v hooked up to the dumpshop ups. It powered my server, internet, other neworking devices and home phone for around 43hrs before shutting off. It was great, but the batteries were second hand and they died after about 2 years.",
+    "likes": 0,
+    "published_at": "2022-03-21T09:34:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyp2e-_TL_4-e7znb14AaABAg",
+    "author": "@shortbuslife3440",
+    "author_channel_id": "UCrWJOj2XV8WtYwgwQ9uoVrA",
+    "text": "You shouldn't need to isolate the ups when charging it a good battery charger or charge contoller shouldn't cause a problem at all.",
+    "likes": 0,
+    "published_at": "2022-03-21T09:12:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-1osK1ENisvZk2NJ4AaABAg",
+    "author": "@fuelban",
+    "author_channel_id": "UCARWC25bZ7i62L36UFf3KXQ",
+    "text": "Another excellent highly informative video, nice 1 .... Thom in Scotland.",
+    "likes": 0,
+    "published_at": "2022-03-21T08:55:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhF3SaqZtjeXVi1Wd4AaABAg",
+    "author": "@newmonengineering",
+    "author_channel_id": "UCz_0pvSiiZs68SpQbDcsjxw",
+    "text": "Fun fact most people throw these out because the battery died. I have 3 in my house all run this same way and we're rescued from the garbage. They work great. I have a car battery next to each one. The 3d printer keeps going when the power goes out.",
+    "likes": 0,
+    "published_at": "2022-03-21T08:52:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxsvEXGo_Qly9ZtSwd4AaABAg",
+    "author": "@ile84",
+    "author_channel_id": "UCUYihge_pM14WoGlPwe616Q",
+    "text": "I got over 15 years old UPS and battery died a long time ago from it, only problem with that was the battery side it keeps on recharging and using it so battery died way sooner, because of its stupid design as such and of course I cant use those 3 sockets now, unless I hook up another battery which I do have from a car. Although I dont see no reason to do it just yet since power in here has been better since about 2005-2007 when I bought that UPS. But anyways good info of the bigger battery usage.",
+    "likes": 0,
+    "published_at": "2022-03-21T08:46:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyh0i8V-EKNHwJHuex4AaABAg",
+    "author": "@aaabeverages7152",
+    "author_channel_id": "UCMfLTfD-fSJnpJiVf9m4zQg",
+    "text": "You are the Steinmetz, Heaviside ,Tesla of our Age.\nThank you very much.",
+    "likes": 0,
+    "published_at": "2022-03-21T08:34:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOK4cd7rtVFeaphbl4AaABAg",
+    "author": "@stavehow5501",
+    "author_channel_id": "UC40F4gkqOt6GkJ8N7heO7Qg",
+    "text": "The first 2 types of inverter you talked about are not designed to run continually and if run the way you suggest might become a fire hazard as they do not have enough cooling to run in this mode.",
+    "likes": 0,
+    "published_at": "2022-03-21T07:33:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzSzatAxddk-FxNBFp4AaABAg",
+    "author": "@JamesWilson-pq9qp",
+    "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+    "text": "Excellent video, I've been picking up UPS's free with dead batteries for years.  I connect them to my solar battery set-up and have them ready to power low power appliances during power failures.  Having lights, a computer and television during an outage is so comforting.  I originally thought they might run hot but I have run them for more than 8 hours with no noticeable heat output.",
+    "likes": 4,
+    "published_at": "2022-03-21T06:22:50Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgzSzatAxddk-FxNBFp4AaABAg.9ZpGfJAeUq-9ZpL4pvXxKB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - that is clever mate - love the way you approached that problem",
+        "likes": 1,
+        "published_at": "2022-03-21T07:01:25Z"
+      },
+      {
+        "id": "UgzSzatAxddk-FxNBFp4AaABAg.9ZpGfJAeUq-9ZqKSmMLKNx",
+        "author": "@100roberthenry",
+        "author_channel_id": "UCGP0eO8ADt0H9FY5UcHTf8A",
+        "text": "Cool, ive been messing with solar recently, but now want to try an inverter,  how do you get one of these free with a dead battery?....just curious. Cheers.",
+        "likes": 0,
+        "published_at": "2022-03-21T16:15:11Z"
+      },
+      {
+        "id": "UgzSzatAxddk-FxNBFp4AaABAg.9ZpGfJAeUq-9ZroAf5gERW",
+        "author": "@JamesWilson-pq9qp",
+        "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+        "text": "@100roberthenry  I find most people will use a UPS for a year or two and kill the little 12v X 12 amp battery by the system overcharging it. It goes dry.  Most people give up on it, not knowing where to find a cheaper battery and finding it ridiculous it only lasts 5 or 10 minutes. So it sits or they throw it out. I see it and tell them I want to play with it.  I have over twenty of them now.  Another situation is the software works with a communication port and modern computers don't have this port anymore and also nobody uses Win XP  (32 bit software). They don't know it works without software. ...,  Solar battery chargers are much better at charging than a UPS.  Just keep your batteries wet!",
+        "likes": 1,
+        "published_at": "2022-03-22T06:02:50Z"
+      },
+      {
+        "id": "UgzSzatAxddk-FxNBFp4AaABAg.9ZpGfJAeUq-9iFpjTpclEK",
+        "author": "@johnlawton3703",
+        "author_channel_id": "UCZRc-G7tVzGdG-j9k2CVRXQ",
+        "text": "@100roberthenry Ebay?",
+        "likes": 1,
+        "published_at": "2022-11-10T16:00:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwhLa7fUQkabD7AH4l4AaABAg",
+    "author": "@TheTubejunky",
+    "author_channel_id": "UCd3_IOaZAqbWQBz0VE-tlnA",
+    "text": "I've had one of these for many years and always wondered if I should just use a deep cycle battery. This is awesome information.",
+    "likes": 1,
+    "published_at": "2022-03-21T04:30:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwhLa7fUQkabD7AH4l4AaABAg.9Zp3p90I0PT9ZpL5zXAG9e",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah - just hook it up",
+        "likes": 1,
+        "published_at": "2022-03-21T07:01:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugypbu1YvTVlxjaKoep4AaABAg",
+    "author": "@robertpoynton9923",
+    "author_channel_id": "UCZMdSz6E6P-zNj_S8nyydKA",
+    "text": "My battery died a while back and i was shock at the price of the replacement 24v battery. I was hoping to convert it to some reclaimed 18650 batteries i have but wasnt sure what i would need to do.",
+    "likes": 0,
+    "published_at": "2022-03-21T04:18:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugypbu1YvTVlxjaKoep4AaABAg.9Zp2PbcVe-Z9ZveF5vUAgh",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "The 18650’s are lithium polymer, but the stock batteries are lead-acid.  They charge and discharge differently, which will ruin them fairly soon.",
+        "likes": 0,
+        "published_at": "2022-03-23T17:53:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxML26g85ogeeI5DV54AaABAg",
+    "author": "@maskedamender",
+    "author_channel_id": "UC8CAf5lfOO_4Le4WtetpVYg",
+    "text": "I just opened my APC to see about the battery that had died a while back (I stopped using it when it did) and was surprised to find out it had two of those small batteries (one on the left one on the right, inside the slide panel) and so if I were to hook it up to only one car size battery would that change the abilities for it to charge from the APC? (albeit slowly as you stated)",
+    "likes": 0,
+    "published_at": "2022-03-21T03:14:45Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxML26g85ogeeI5DV54AaABAg.9Zow8i6ew0d9ZqJzFH6Inr",
+        "author": "@stephenwhiley1129",
+        "author_channel_id": "UCoQjd6a3eloHgQxJQ_kB_qw",
+        "text": "You will need to check how the batteries are wired. If in series it will be 24Vdc so a single car battery won't work, you would need two.",
+        "likes": 1,
+        "published_at": "2022-03-21T16:11:01Z"
+      },
+      {
+        "id": "UgxML26g85ogeeI5DV54AaABAg.9Zow8i6ew0d9Zqxaq2N0e9",
+        "author": "@maskedamender",
+        "author_channel_id": "UC8CAf5lfOO_4Le4WtetpVYg",
+        "text": "@stephenwhiley1129 thank you for that luckily they're wired in parallel!!!",
+        "likes": 1,
+        "published_at": "2022-03-21T22:05:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxolkDPjuSOfvLJ3_h4AaABAg",
+    "author": "@woodlandsdel",
+    "author_channel_id": "UCHAEx8Tvl6tAp0L0sVwNMBg",
+    "text": "Good idea, but get a better UPS. Look at the underside at the warning label where the harmonic distortion is listed at 45 percent! Connect your oscilloscope to understand how bad the waveform is.",
+    "likes": 0,
+    "published_at": "2022-03-21T03:01:29Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxolkDPjuSOfvLJ3_h4AaABAg.9Zouc_WJEU09ZquAd1vg1i",
+        "author": "@vylbird8014",
+        "author_channel_id": "UCThHDEtGqJjj23YtBhmxRUQ",
+        "text": "Depends what you are powering. These things are usually intended to power computers for a short time - just enough time to save your documents. Computer power supplies do not care about the waveform at all. Many of them will happily run off of DC.\n\nBut if you try to run anything with an induction motor off this UPS, even just a little desk fan, then you will have problems. That's not the intended application for the UPS.",
+        "likes": 0,
+        "published_at": "2022-03-21T21:36:01Z"
+      },
+      {
+        "id": "UgxolkDPjuSOfvLJ3_h4AaABAg.9Zouc_WJEU09Zr2sedD251",
+        "author": "@woodlandsdel",
+        "author_channel_id": "UCHAEx8Tvl6tAp0L0sVwNMBg",
+        "text": "@vylbird8014 UPSs are “intended to power computers for a SHORT time”. Extending the battery capacity is intended to extend the run time.\r\n\r\n\r\nInduction motors are not the only thing that the crappy waveform will harm. Even a DC power supply will have a reduced lifespan by the sharply rising and falling AC voltage. If you are going to spend money on a good UPS battery, first spend money on a good pure-sine UPS. They can be bought used cheap with bad internal batteries.",
+        "likes": 0,
+        "published_at": "2022-03-21T23:00:48Z"
+      },
+      {
+        "id": "UgxolkDPjuSOfvLJ3_h4AaABAg.9Zouc_WJEU09ZvgcXSz24u",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "Damn, I had a friend who used to listen to Motorhead, and I don’t think their distortion was that high!",
+        "likes": 1,
+        "published_at": "2022-03-23T18:13:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwMNXpkwjXv8fDZ45N4AaABAg",
+    "author": "@idahobob",
+    "author_channel_id": "UC8I1cLj3uRHkFgCun3AKNyw",
+    "text": "Though the years I've made many \"Uber-UPS\" similar to what Robert has done.\nA couple things that I found out are don't use Flooded batteries, and make sure they can stay cool when running. \nFlooded Car and Deep Cycle batteries tend to \"boil off\" under the constant charging. The original are usually \"Sealed Gel\" lead acid but I don't recommend big one of those for your Uber-UPS.\nAGM (Absorbent Glass Mat) batteries works the best, and doesn't emit gas, vapor, etc. They cost more but are well worth it.\n\nOn the cooling, remember that these consumer UPS's are designed to run for 10-15min, not the 2 to 4 hr they will with a larger battery. I haven't found a convenient way of adding more cooling that comes on when needed, but rather just oversize the inverter by quite limiting the load. An Uber-UPS will run for a very long time running laptop, a router, and charge phones rather than a whole computer or some other large load.\n\nLast one I built was for a friend and his CPAP machine. I had a couple 1200VA units, and we put a 100Ah AGM on it, and it runs his CPAP for several nights on a charge.\n\nIt also takea about a week to recharge.\n\nIf you recharge via Generator, use the 12VDC output to charge the battery at 6-8A rather than the Mains, as it will only charge a large faction of an amp, and you'll run out of gas in the generator before you get a noticeable charge.\n\nLast, if your UPS doesn't have a display on it. there are cheep LED meters you can add to your system to see the voltage and state of charge. Don't worry about them running all the time, the UPS will easily run them and charge the battery.",
+    "likes": 9,
+    "published_at": "2022-03-21T02:57:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_h7I6zybhc02x5tZ4AaABAg",
+    "author": "@mikeg4972",
+    "author_channel_id": "UC6tAHb9qKTseshRjNxqYiZg",
+    "text": "The company I work for just throws them out after the battery goes bad.\nI want to take one home and try this.",
+    "likes": 0,
+    "published_at": "2022-03-21T01:03:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhUOCREtP_VRR8RkZ4AaABAg",
+    "author": "@tdtrecordsmusic",
+    "author_channel_id": "UCKK4dpKNaGSN1pFeMZckZGA",
+    "text": "yea i've done this very thing. It powers my grow lights caz plugging into mains was busting the cheap LED strips. it was an easy way to get better surge protection AND to keep the lights+timers on while power was out. it works fine",
+    "likes": 1,
+    "published_at": "2022-03-21T00:55:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxs7E3-ZvO7BtUjRjh4AaABAg",
+    "author": "@3D_Printing",
+    "author_channel_id": "UCn94CfWGHIwZGYiBwzPEV_A",
+    "text": "Some say the bigger battery's may give out gas???",
+    "likes": 0,
+    "published_at": "2022-03-21T00:16:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxs7E3-ZvO7BtUjRjh4AaABAg.9Zobh9NaxIi9lKAtVoMP15",
+        "author": "@cryptickcryptick2241",
+        "author_channel_id": "UC2WBMj0TW2S_EFp58i6bNkg",
+        "text": "yes, All lead acid batteries can give off gas. A small amount of this happens normally, under certain circumstances batteries can give off a lot of gas. Fun fact, in World War 2, submarines ran on lead acid batteries. Explosions form hydrogen gas given off from the batteries could sink the submarines. Fortunately, for one battery in a home, this is a limited risk, but something people need to be aware of.",
+        "likes": 1,
+        "published_at": "2023-01-25T22:04:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugztzl0id3W0jI8-QCV4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Easy to hook up a solar array to keep the batteries charged if you parallel a lot of batteries. As far as the UPS goes, you need to be careful because a lot of the 250 to 500 watt models (even some larger models) are in fact modified sine wave inverter systems. You can get a 3000 watt pure sine wave inverter cheaper than you can get six 400 watt UPS's. As long as you run an inverter under its rated continual load it will last. My setup is 2 solar arrays on MPPT charge controllers managing 1000 mAh batteries. This runs the 3000 watt pure sine wave inverter that on most days runs half the house appliances which is a max of 2000 watts for about 10+ hours. This is why I want to add in wind turbines so I have night time solutions. My lights run on 12v DC 24/7.",
+    "likes": 0,
+    "published_at": "2022-03-20T23:37:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz7Jzm0mSWbfrNtYyd4AaABAg",
+    "author": "@C-M-E",
+    "author_channel_id": "UC-uO_c1bTtfJCBh8ltJ30qg",
+    "text": "I fully intend to do just this with a deep cycle bank of some sort when the factory units in my 1500 tank. I ended up getting a fairly significant unit to power my whole computer system as our power likes to dip out around the house at random. Even after updating it to new tech, I ended up being significantly more efficient than what was in my 5 years ago. Bonus!",
+    "likes": 2,
+    "published_at": "2022-03-20T23:36:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxNvKY6QAPAb00aJip4AaABAg",
+    "author": "@manusholm3536",
+    "author_channel_id": "UCfd9rjmKPzBtwSfJCSMD7rA",
+    "text": "I have done that. problem i found with the durasion and frequency of our power fail in south africa the large bateries go to low. the ups charging cant push them back up in time. also have burnt some charging serquits on big bateries. what i would sugest is an external charger.",
+    "likes": 2,
+    "published_at": "2022-03-20T23:34:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynHA6dyeD25lVdstd4AaABAg",
+    "author": "@Andy-df5fj",
+    "author_channel_id": "UCiGf5zeM1FSTEtW1A0HJYmg",
+    "text": "Why is 400 VA equal to 250 watts rather than 400 watts?",
+    "likes": 0,
+    "published_at": "2022-03-20T23:26:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgynHA6dyeD25lVdstd4AaABAg.9ZoX4QHbfIw9ZpEaHhJsw8",
+        "author": "@synchro-dentally1965",
+        "author_channel_id": "UCS3q737AHMbzTlvmTu_Hbrw",
+        "text": "Must be the Power Factor",
+        "likes": 0,
+        "published_at": "2022-03-21T06:04:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxBHfteeg5ardT5E7B4AaABAg",
+    "author": "@suijuris8518",
+    "author_channel_id": "UCXuoEiwL63rkDpwZ8DXVg7w",
+    "text": "I see a windmill make of plastic knives...\n\"Oy!  I see you've played knifey spoony before\". Australian ploke on the Simpson's",
+    "likes": 0,
+    "published_at": "2022-03-20T22:55:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzsEcECwQCvXJywCmN4AaABAg",
+    "author": "@gshingles",
+    "author_channel_id": "UCRb5vHUBCCHK99yx1104b4A",
+    "text": "I have done this for a while and yes, it works very well. I have an old 1600VA running on a couple of 120AH deep cycle gel cells. Nearly all of the small size UPSes I have seen have been 24V systems, so it's unusual for me to see a 12V one. That system has gone off a couple of times over five years or so and I haven't noticed any performance issues with the charging each time, even though it is probably charging solidly for days. From memory it does get a bit warm after a long outage, so some cooling over the charging circuit probably wouldn't hurt. I recently did another one but forgot to nobble the beeper while I had the case open :)",
+    "likes": 0,
+    "published_at": "2022-03-20T22:44:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-2M_Dk9KFWnNsmqN4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "This video was very useful. \nThanks.",
+    "likes": 0,
+    "published_at": "2022-03-20T22:23:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw7SG8ca_0xbRsuov94AaABAg",
+    "author": "@islandsedition",
+    "author_channel_id": "UCkLtxu-albKencnxgALcOfw",
+    "text": "Could you bypass the AC-in to plug in a variable current like your turbine?",
+    "likes": 0,
+    "published_at": "2022-03-20T22:06:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlzML9QS6TXw1BtnJ4AaABAg",
+    "author": "@CrAzYDr1veR",
+    "author_channel_id": "UCguWK4IwTT5KJ92GAPhehyg",
+    "text": "To this day i don't understand why i cracked a fet doing the same thing to my old apc ups",
+    "likes": 0,
+    "published_at": "2022-03-20T22:02:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzlzML9QS6TXw1BtnJ4AaABAg.9ZoNOvWuy059ZoSDPM60uj",
+        "author": "@yoda-be.at1746",
+        "author_channel_id": "UCIPMilMbo4psDNaAJdpvkvw",
+        "text": "It could be turn on surges. I've suffered the same thing. The large transformers create a peak amp draw when being turned on by batteries, when connected to the mains, the flux doesn't collapse when being switched to battery power. I'm trying to find some sort of surge protector as mine runs from l-ion batteries which are even harder on the FETs...",
+        "likes": 1,
+        "published_at": "2022-03-20T22:44:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxU0xs6tlE3DQ9ccmR4AaABAg",
+    "author": "@bikerfirefarter7280",
+    "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+    "text": "I'm beginning to suspect you are psychic. My friend who lives in Lanzarote, asked me about this very thing yesterday (several years ago I helped her with a moderate UPS (marine batteries) as mains power was a bit fickle at times).\nThanks for the video and explanations.",
+    "likes": 1,
+    "published_at": "2022-03-20T21:40:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw6LVSLfkJj5-Xk6l94AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "That's really interesting, just what I needed. Thanks very much! \nAwesome as always 👏👏👏",
+    "likes": 3,
+    "published_at": "2022-03-20T21:37:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwcu3qMdUw7fM5nGn54AaABAg",
+    "author": "@intelligenttinkering",
+    "author_channel_id": "UC1Tq-OYvhFgSrNtrhZiNGdg",
+    "text": "Great video mate. am I right in thinking in a time of a power outage you could flip your main breaker off and plug that directly into your plug socket making sure you turn most items off so you could just run your lights around your home ?",
+    "likes": 2,
+    "published_at": "2022-03-20T21:32:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwcu3qMdUw7fM5nGn54AaABAg.9ZoJzdLqrxz9Zvd_0IUQ7J",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "Not a good way to do that due to the risk of someone accidentally connecting to the mains lines.\nIf the power was out, you’ll be sending voltage out the mains, possibly where a lineman is working on an “inactive” down line.\nWhen the power comes back on, it won’t be in phase with your inverter and could destroy it in a spectacular fashion.\n\nBig Clive did a video on special switches for handling this, and they weren’t expensive.",
+        "likes": 0,
+        "published_at": "2022-03-23T17:47:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwFukXskFAFTZAcBoB4AaABAg",
+    "author": "@chuckles1808",
+    "author_channel_id": "UCthUBahKaVsoCBdLIFB0DsQ",
+    "text": "I happened to have bought a UPS for this exact reason (and I wanted some lead dioxide plates for chemical reasons). Great video as usual.",
+    "likes": 1,
+    "published_at": "2022-03-20T21:27:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwAQJe-a1nHrxtTYHd4AaABAg",
+    "author": "@gkyahoo",
+    "author_channel_id": "UCgdSTFgFl3osx6XXSZAmn2Q",
+    "text": "If you connect a car battery 10 times  bigger in capacity and you use the ups under load. Chances are the unit will burn itself because it does not has cooling capabilities, \nReason is because it is designed to run at full current only for a few minutes, like to give you time to turn off a server properly\nI run a apc ups from a computer room at home that has the xl designation, setup to connect extra batteries from factory and big fans , I can run a washing machine and vacuum the home at the same time",
+    "likes": 1,
+    "published_at": "2022-03-20T21:05:46Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwAQJe-a1nHrxtTYHd4AaABAg.9ZoGvA6kR1a9ZovwO6srDY",
+        "author": "@woodlandsdel",
+        "author_channel_id": "UCHAEx8Tvl6tAp0L0sVwNMBg",
+        "text": "I have multiple XL units, one is 48V 2700W powered by my golf cart battery bank. They are bulletproof.",
+        "likes": 1,
+        "published_at": "2022-03-21T03:12:56Z"
+      },
+      {
+        "id": "UgwAQJe-a1nHrxtTYHd4AaABAg.9ZoGvA6kR1a9Zveo45rONI",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "Got any extras?  😉",
+        "likes": 1,
+        "published_at": "2022-03-23T17:57:56Z"
+      },
+      {
+        "id": "UgwAQJe-a1nHrxtTYHd4AaABAg.9ZoGvA6kR1a9Zxmdwg7g0X",
+        "author": "@woodlandsdel",
+        "author_channel_id": "UCHAEx8Tvl6tAp0L0sVwNMBg",
+        "text": "@firstmkb I watch eBay for cheap APC XL units. Easy to spot by the rear battery connector.",
+        "likes": 1,
+        "published_at": "2022-03-24T13:44:56Z"
+      },
+      {
+        "id": "UgwAQJe-a1nHrxtTYHd4AaABAg.9ZoGvA6kR1a9_S0ef14qn7",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "@woodlandsdel thanks!",
+        "likes": 0,
+        "published_at": "2022-04-05T16:52:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzl5M0NpMkx2wtM-pR4AaABAg",
+    "author": "@Gizmoautismo",
+    "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+    "text": "Great video explaining the basics of the topic to everyone. I myself have worked with upses for a good few years now and i repaired a 6kVA online UPS and im making a custom voltage regulator to charge it's batteries from solar panels. It is definitely the most cost effective way of getting mains for home powering",
+    "likes": 6,
+    "published_at": "2022-03-20T21:04:08Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "Ugzl5M0NpMkx2wtM-pR4AaABAg.9ZoGjC5wiJs9_9BoD0pHoS",
+        "author": "@TheKlink",
+        "author_channel_id": "UCnB1pOFx9xPzpgGGnbIC32w",
+        "text": "any chance of a vid?",
+        "likes": 0,
+        "published_at": "2022-03-29T09:24:25Z"
+      },
+      {
+        "id": "Ugzl5M0NpMkx2wtM-pR4AaABAg.9ZoGjC5wiJs9_E8i6xQXaW",
+        "author": "@rhiantaylor3446",
+        "author_channel_id": "UCr2kFRS-NmeoqMdwUjvCcKQ",
+        "text": "I think it is important to have a clear view of the loads you want to protect and the design  differences for larger UPS. I recently purchased a used 5000va/4kw UPS and discovered that the inverter operated its 20x 12V batteries as a series string - a 240v \"battery\". Not easy to upgrade when compared with - say - a 48v battery.",
+        "likes": 0,
+        "published_at": "2022-03-31T07:33:34Z"
+      },
+      {
+        "id": "Ugzl5M0NpMkx2wtM-pR4AaABAg.9ZoGjC5wiJs9_ZVlLZw2Ht",
+        "author": "@Gizmoautismo",
+        "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+        "text": "@TheKlink when i finish my exams i plan on recording what i do, so maybe soon-ish ill make a video :)",
+        "likes": 1,
+        "published_at": "2022-04-08T14:39:02Z"
+      },
+      {
+        "id": "Ugzl5M0NpMkx2wtM-pR4AaABAg.9ZoGjC5wiJs9_ZW-ET1uX7",
+        "author": "@Gizmoautismo",
+        "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+        "text": "@rhiantaylor3446 indeed, mine runs on 15 12V batteries (so 90s cell configuration) so that is the biggest challenge to charge the array externally, but it is definitely doable if you have a few solar panels laying around :D",
+        "likes": 0,
+        "published_at": "2022-04-08T14:41:04Z"
+      },
+      {
+        "id": "Ugzl5M0NpMkx2wtM-pR4AaABAg.9ZoGjC5wiJs9_ZWDGJyGSW",
+        "author": "@TheKlink",
+        "author_channel_id": "UCnB1pOFx9xPzpgGGnbIC32w",
+        "text": "@Gizmoautismo could be the start of something massive!!",
+        "likes": 0,
+        "published_at": "2022-04-08T14:42:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugww9L-0GtHMzr2VGFF4AaABAg",
+    "author": "@huarwe8797",
+    "author_channel_id": "UCLCLQ_MJyEegJ0VPjn9Inig",
+    "text": "We get charged for the electricity we consume when we don't actually consume.. the same way a water wheel does not consume the stream.",
+    "likes": 0,
+    "published_at": "2022-03-20T20:48:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnCDCUcJc0IW2o5g54AaABAg",
+    "author": "@scantrain5007",
+    "author_channel_id": "UCwLsHcf9-EcD5DHB7WW0bJw",
+    "text": "Many thanks for this! Apart from the longer runtime by bigger battery another aspect: The internal battery might 'spit out' the acid and destroy the electronics. An external battery solve this problem",
+    "likes": 6,
+    "published_at": "2022-03-20T20:44:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwnCDCUcJc0IW2o5g54AaABAg.9ZoEXzL4uia9ZquHJAqiIn",
+        "author": "@plainedgedsaw1694",
+        "author_channel_id": "UCpV44KdH-stlB2LXN_Pp7Nw",
+        "text": "They're using SLA's, those shouldn't leak unless something goes wrong.",
+        "likes": 0,
+        "published_at": "2022-03-21T21:36:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxqvOSCV_niaPKhVtF4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Well we were waiting for the obvious .....the connection of that blue and yellow flower power for a battery charger lol.",
+    "likes": 2,
+    "published_at": "2022-03-20T20:17:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBrmutKRhdnmiqpyN4AaABAg",
+    "author": "@andymorgan2950",
+    "author_channel_id": "UC_kxWjODN0f40YzQitfc3AA",
+    "text": "Enjoyed the vid! I have a larger APC SmartUPS 900 with knackered batteries. Can the Lead Acid battery in a UPS easily be replaced by a Lifepo4 battery? That would be more useful, longer runtime for alot less weight. Can it be done by using a BMS for the Lifepo4?",
+    "likes": 1,
+    "published_at": "2022-03-20T20:12:43Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyBrmutKRhdnmiqpyN4AaABAg.9ZoAqa1frQc9ZoLqC-KShA",
+        "author": "@Gizmoautismo",
+        "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+        "text": "Yup! You can even use normal liions (with appriopriate BMS of course), but i recommend adding some buffer capacitors parallel to the rectifier output to smooth out some weird peaks that can often occur with the bms charger circuitry.",
+        "likes": 1,
+        "published_at": "2022-03-20T21:48:46Z"
+      },
+      {
+        "id": "UgyBrmutKRhdnmiqpyN4AaABAg.9ZoAqa1frQc9ZoRYWi8SdK",
+        "author": "@yoda-be.at1746",
+        "author_channel_id": "UCIPMilMbo4psDNaAJdpvkvw",
+        "text": "I run an APC inverter from a 12kwh l-ion battery. So the answer is yes 😊",
+        "likes": 1,
+        "published_at": "2022-03-20T22:38:39Z"
+      },
+      {
+        "id": "UgyBrmutKRhdnmiqpyN4AaABAg.9ZoAqa1frQc9ZvfIu-iAob",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "I can’t swear this is true for LiFePO4 batteries, but…\nIf you charge and discharge lipo batteries using lead-acid parameters, you will destroy them fairly quickly.  The discharge is the worst, which is why lipo devices have a cutoff for low battery.",
+        "likes": 0,
+        "published_at": "2022-03-23T18:02:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyfJpadyDdFBGjGErV4AaABAg",
+    "author": "@vossierebel",
+    "author_channel_id": "UCJDzF2pTrcoqLll9bigwkIA",
+    "text": "Thanks... I needed that!!👍😁",
+    "likes": 0,
+    "published_at": "2022-03-20T20:09:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxd9eO-NjVA2n9h0Tl4AaABAg",
+    "author": "@1mremington",
+    "author_channel_id": "UChEOqxtvaLGwhg3i0P9I-uQ",
+    "text": "Great suggestion on running a home on DC!,  EMF from AC lines can be quite unhealthy.  Converting to AC at the load, which requires it, reduces this dramatically.  Many appliances do this in reverse (AC to DC).   If cars can operate on DC, so can a home!",
+    "likes": 2,
+    "published_at": "2022-03-20T20:08:14Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugxd9eO-NjVA2n9h0Tl4AaABAg.9ZoAKmVBysS9ZqtuXf_PJC",
+        "author": "@vylbird8014",
+        "author_channel_id": "UCThHDEtGqJjj23YtBhmxRUQ",
+        "text": "EMF from AC lines does nothing to humans at all. Nothing unhealthy about it. Nothing healthy either. This has been extensively studied. Unless you are dealing with very high power levels (ie, standing next to a high-power radio transmitter, or in front of a damaged microwave oven), it does nothing.",
+        "likes": 0,
+        "published_at": "2022-03-21T21:33:41Z"
+      },
+      {
+        "id": "Ugxd9eO-NjVA2n9h0Tl4AaABAg.9ZoAKmVBysS9ZrIJkNfvak",
+        "author": "@1mremington",
+        "author_channel_id": "UChEOqxtvaLGwhg3i0P9I-uQ",
+        "text": "@vylbird8014 What if there is high frequency noise on the line, say from switch-mode power supply?  Has this been extensively studied?  The human body is quite sensitive to electric and magnetic fields.",
+        "likes": 0,
+        "published_at": "2022-03-22T01:15:43Z"
+      },
+      {
+        "id": "Ugxd9eO-NjVA2n9h0Tl4AaABAg.9ZoAKmVBysS9ZrvH9W0hle",
+        "author": "@vylbird8014",
+        "author_channel_id": "UCThHDEtGqJjj23YtBhmxRUQ",
+        "text": "@1mremington Yes, it's been studied. Everything from DC electrical fields up to microwave. The human body is /not/ sensitive to electric or magnetic fields, at all. They do nothing, up until the intensity where you start seeing burns from heating.",
+        "likes": 0,
+        "published_at": "2022-03-22T07:04:53Z"
+      },
+      {
+        "id": "Ugxd9eO-NjVA2n9h0Tl4AaABAg.9ZoAKmVBysS9ZsuTpBdvpN",
+        "author": "@1mremington",
+        "author_channel_id": "UChEOqxtvaLGwhg3i0P9I-uQ",
+        "text": "​@vylbird8014 Just last year the U.S. Supreme Court ruled, \"The Commission [FCC] failed to provide a reasoned explanation for its determination that its guidelines [used by industry for decades] adequately protect against the harmful effects of exposure to radiofrequency radiation unrelated to cancer.\"  The WHO has classified cell phone radiation as a Group 2b carcinogen, due to brain tumors being associated with cell phone use.",
+        "likes": 0,
+        "published_at": "2022-03-22T16:17:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwel60VzXN9V_cUZot4AaABAg",
+    "author": "@bjohnson1104",
+    "author_channel_id": "UCurBA3OVfzvNTt2XJzjZSWQ",
+    "text": "On TG_privat comment. I started to do this very project last month. I planned to add a fan to keep it cool. It turns out these smaller units (mine is a 750) do not have heat sinks with fins but something called a heat soak. A solid block of metal made to absorb heat for a limited time and then be given time to cool off. I wasn't sure that increased air flow would help in this case so I abandoned it for now.",
+    "likes": 3,
+    "published_at": "2022-03-20T20:00:30Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugwel60VzXN9V_cUZot4AaABAg.9Zo9SCwcsCs9ZoDRorHjzH",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "try a water cooler from a cpu this might move the heat for you and allow you to finish this project.",
+        "likes": 1,
+        "published_at": "2022-03-20T20:35:24Z"
+      },
+      {
+        "id": "Ugwel60VzXN9V_cUZot4AaABAg.9Zo9SCwcsCs9ZocO6EWVNA",
+        "author": "@bjohnson1104",
+        "author_channel_id": "UCurBA3OVfzvNTt2XJzjZSWQ",
+        "text": "@rayg436Thanks for the suggestion, I like the idea. But there's too many spread around the board. It doesn't make it impossible. It fails on effort for benefit.",
+        "likes": 0,
+        "published_at": "2022-03-21T00:22:05Z"
+      },
+      {
+        "id": "Ugwel60VzXN9V_cUZot4AaABAg.9Zo9SCwcsCs9ZvebnhkOdx",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "Thanks - I had never heard of a “heat soak”!  Talk about purposeful design limitations!",
+        "likes": 0,
+        "published_at": "2022-03-23T17:56:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyP4Va3r-fJ-bzIlzF4AaABAg",
+    "author": "@tg_privat",
+    "author_channel_id": "UCELH_Ue0Z7MVHOFa1wSBORw",
+    "text": "Isn't there also the problem with overheating. These are ment to run only for a few minutes from battery. Is it not an issue?",
+    "likes": 1,
+    "published_at": "2022-03-20T19:51:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzw4UVgM9I8oMMq_j14AaABAg",
+    "author": "@____________________________.x",
+    "author_channel_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+    "text": "In theory you can run a PC off ~340Vdc, because inside the computers PSU it's just going through a bridge rectifier, and that doesn't care if it's AC or DC.\nSo you could have a stack of car batteries in series and do the same thing.\nIt's also more efficient to convert 12Vdc to 340Vdc, than it is to convert 12Vdc to a choppy 240Vac sine wave and then back to 5Vdc again...\nMaybe you could try it? 😸",
+    "likes": 1,
+    "published_at": "2022-03-20T19:51:13Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "Ugzw4UVgM9I8oMMq_j14AaABAg.9Zo8O8K9QHQ9ZofPNICBmB",
+        "author": "@Omegaman1969",
+        "author_channel_id": "UC2WZoVH9S8jEaL1IHWHHkgw",
+        "text": "It would work but be highly dangerous 😊 no protection at that voltage and you could end up dead very easily.",
+        "likes": 0,
+        "published_at": "2022-03-21T00:48:29Z"
+      },
+      {
+        "id": "Ugzw4UVgM9I8oMMq_j14AaABAg.9Zo8O8K9QHQ9ZogNvFHMkm",
+        "author": "@____________________________.x",
+        "author_channel_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+        "text": "@Omegaman1969 240Vac might technically be more dangerous?",
+        "likes": 0,
+        "published_at": "2022-03-21T00:57:01Z"
+      },
+      {
+        "id": "Ugzw4UVgM9I8oMMq_j14AaABAg.9Zo8O8K9QHQ9Zol6OA2aop",
+        "author": "@Omegaman1969",
+        "author_channel_id": "UC2WZoVH9S8jEaL1IHWHHkgw",
+        "text": "@____________________________.x Than 340VDC? No way , you would have RCD or an RCBO on your AC supply for shock protection. Try grabbing hold of 340VDC and let me know how you get on 🤣\n\nI worked with a guy once when I was installing large computer room UPS machines. He wasn’t concentrating when connecting the large battery bank and grabbed hold of the last cable to be bolted to the battery ..,he flew across the room and landed on his toolbox , he was very lucky to have lived, just a burn line down his neck and arm.",
+        "likes": 0,
+        "published_at": "2022-03-21T01:38:19Z"
+      },
+      {
+        "id": "Ugzw4UVgM9I8oMMq_j14AaABAg.9Zo8O8K9QHQ9ZpPbh8YIxC",
+        "author": "@____________________________.x",
+        "author_channel_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+        "text": "@Omegaman1969 I was just thinking that AC tends to lock the hand onto the cable and kill you, whereas DC tends to throw you off. Just my experience in getting zapped with both, I try not to touch either. Apparently a type B RCD offers the same protection for DC circuits",
+        "likes": 0,
+        "published_at": "2022-03-21T07:40:59Z"
+      },
+      {
+        "id": "Ugzw4UVgM9I8oMMq_j14AaABAg.9Zo8O8K9QHQ9ZpWZe6GUMh",
+        "author": "@Omegaman1969",
+        "author_channel_id": "UC2WZoVH9S8jEaL1IHWHHkgw",
+        "text": "@____________________________.x Actually DC causing one jerk movement which throws you away from it, AC will freeze you onto the source.  AC is 3 times more dangerous than DC given the same voltage and current. I'm not saying DC isn't dangerous, it is. The problem is the body acts like a capacitor and lets AC through and blocks DC to a certain extent.",
+        "likes": 1,
+        "published_at": "2022-03-21T08:41:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx8IhSeKOVAFpCmBR94AaABAg",
+    "author": "@onkelnb",
+    "author_channel_id": "UCL88OSm0jTP5cl_MAXdWdjA",
+    "text": "I always thought that a UPS could be a smart way to bypass regulations. If you want to feed your Solar Power into the mains grid, there are lots of regulations. But a hacked UPS that would simply be plugged in between mains and any device would not feed any power into mains and so the regulations would not apply.  The battery would be charged with Solar power, the device would consume power from the battery and then there should be a clever hack possible that lets the device fall back to mains uninterrupted when the battery is empty.",
+    "likes": 1,
+    "published_at": "2022-03-20T19:50:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx8IhSeKOVAFpCmBR94AaABAg.9Zo8GcZnTbS9ZoSXf7ZDl1",
+        "author": "@fritanke2318",
+        "author_channel_id": "UCW5lEbTaKA874iCewzBYAAA",
+        "text": "Over here there is a litle known regulation on battery/dc low voltage installations that can draw 200VA at any time. I'm not sure if it is a national or EU regulation. So basically any installation that can draw 17A from a 12V battery must be done by a certified technician working for a certified company. Obviously all and every hifi entusiast in this country (Norway) is in breach with this regulation.",
+        "likes": 0,
+        "published_at": "2022-03-20T22:47:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw16OaTLqBn13S3nul4AaABAg",
+    "author": "@FireFliesIlluminateMe",
+    "author_channel_id": "UCugH0omqTQbHU3B3tNsop3w",
+    "text": "Very cool! You might need to upgrade the cooling if you’re using them continuously.",
+    "likes": 8,
+    "published_at": "2022-03-20T19:38:07Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw16OaTLqBn13S3nul4AaABAg.9Zo6t9Z-Cnl9ZoGRn66M89",
+        "author": "@Gizmoautismo",
+        "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+        "text": "Indeed, some UPSes are pretty prone to overheating. I have a few of them and the first one i used as backup power was overheating after around 15 minutes.",
+        "likes": 1,
+        "published_at": "2022-03-20T21:01:37Z"
+      },
+      {
+        "id": "Ugw16OaTLqBn13S3nul4AaABAg.9Zo6t9Z-Cnl9ZvdiXqGhy_",
+        "author": "@firstmkb",
+        "author_channel_id": "UCVxx3jGhLnj7Z2I2vxtjUAA",
+        "text": "@Gizmoautismo did you just add a cooling fan for inverter mode, or something more?",
+        "likes": 0,
+        "published_at": "2022-03-23T17:48:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzDZFojx9xQrSwpoJ94AaABAg",
+    "author": "@D-B-Cooper",
+    "author_channel_id": "UCDn8S_vHItdRK_Eq9fRFnUA",
+    "text": "I had a really big one from a mainframe computer. Put solar panels and charge controller and deep cycle batteries on it. Was rated for 20 amps. Lasted a couple of years and died. I just got an inverter and still have my solar generator.",
+    "likes": 0,
+    "published_at": "2022-03-20T19:29:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzDZFojx9xQrSwpoJ94AaABAg.9Zo5wtEvGfS9ZoLeDyVw_R",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "If it just 'died' suspect any electrolytic caps, then the DC/AC 'transistors' (they are often mosfets) as they can get a bit touchy about even small wrong polarity spikes on the gates.",
+        "likes": 0,
+        "published_at": "2022-03-20T21:47:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxTruwVf4k4LIuwlmp4AaABAg",
+    "author": "@knickebien1966",
+    "author_channel_id": "UCsJO2wHLk0c8VQSGqYEQHEA",
+    "text": "How does one remove the DC/AC converter for an application that uses 12V DC rather than line current (e.g. home network routers, switches, modems, etc)? Seems wasteful to convert AC to DC for battery charging, convert that back to AC so a wall wart can convert it back to DC again.",
+    "likes": 2,
+    "published_at": "2022-03-20T19:29:39Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxTruwVf4k4LIuwlmp4AaABAg.9Zo5vD1-AIf9ZoLv6R4wzU",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "Just run leads direct from the battery (in-line fused).",
+        "likes": 0,
+        "published_at": "2022-03-20T21:49:27Z"
+      },
+      {
+        "id": "UgxTruwVf4k4LIuwlmp4AaABAg.9Zo5vD1-AIf9ZoMH1wdIKC",
+        "author": "@Gizmoautismo",
+        "author_channel_id": "UC5D4Zo6Jgg3XT4VSI0lCVJQ",
+        "text": "If you have devices that run on dc then you can either plug them directly into an appropriate voltage battery / power source skipping their normal ac adapters OR if you expect the input voltage to be unstable (for example while charging or your device needed a different dc voltage) you could also use a dc-dc buck/boost converter. They are cheap, efficient and easy to make them yourself if you have some soldering and design skills.",
+        "likes": 1,
+        "published_at": "2022-03-20T21:52:35Z"
+      },
+      {
+        "id": "UgxTruwVf4k4LIuwlmp4AaABAg.9Zo5vD1-AIf9ZoQ1FGtmSu",
+        "author": "@knickebien1966",
+        "author_channel_id": "UCsJO2wHLk0c8VQSGqYEQHEA",
+        "text": "@bikerfirefarter7280 That will not charge the battery and I only want to use the battery when the AC is out. I am describing an AC input UPS that has DC outputs.",
+        "likes": 0,
+        "published_at": "2022-03-20T22:25:22Z"
+      },
+      {
+        "id": "UgxTruwVf4k4LIuwlmp4AaABAg.9Zo5vD1-AIf9ZovVgEbzSz",
+        "author": "@woodlandsdel",
+        "author_channel_id": "UCHAEx8Tvl6tAp0L0sVwNMBg",
+        "text": "Search for a Belkin Residential Gateway BU3DC001-12V. They can be found used for cheap and have a regulated 12V output for your sensitive electronics.",
+        "likes": 0,
+        "published_at": "2022-03-21T03:09:09Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,283 @@
+[00:00] [Music]
+[00:08] We've been doing a little bit on
+[00:09] frictionbased machines because
+[00:11] frictionbased machines are awesome
+[00:13] machines in their own right. This is a
+[00:15] planetary gear box with ping pong balls
+[00:18] acting on a plate as a friction machine
+[00:21] and a planetary gearbox. And to be
+[00:23] honest, they're pretty awesome machines
+[00:25] in their own right. Now, it's quite
+[00:28] often thought that frictionbased
+[00:30] machines have a serious problem.
+[00:33] Actually, it's not a problem. It's a
+[00:35] feature of the machine, and that is it
+[00:38] will slip. If you apply too much torque
+[00:41] and you have too much resistance, the
+[00:43] whole machine will just slip and not
+[00:46] turn. That is brilliant. It's really
+[00:50] useful to be able to do that. I mean,
+[00:51] why do you think your hand drill has
+[00:53] that setting for it to do exactly that?
+[00:57] Being able to do that is a feature, not
+[01:00] a problem of friction vest machines. And
+[01:02] if used properly can be really, really
+[01:05] useful and if used improperly, then it's
+[01:08] a problem. So, a problem is a feature
+[01:12] used improperly. So, frictionbased
+[01:14] machines with this ability to slip when
+[01:17] under high load find a lot of uses. Now,
+[01:20] we've been using pingpong balls here.
+[01:22] The ping-pong balls perhaps aren't the
+[01:24] best, but they're certainly easy, cheap,
+[01:26] and illustrate all the principles we
+[01:28] want to talk about, and so they make
+[01:30] very nice model machines where you can
+[01:32] see the principles. Now, this is very
+[01:36] close to a CVT. And of course, a CVT
+[01:40] based on friction is one of the great
+[01:42] ways of creating a CVT using balls, of
+[01:46] course, like this. then you're very
+[01:48] close to what's called the new Vinci
+[01:50] machine. The new Vinci CVT works on the
+[01:54] idea that balls have a different radius
+[01:57] depending where you are on the ball.
+[02:00] It's perhaps easier to see that on
+[02:02] something like a globe. If I'm here at
+[02:04] the UK and I want to go around the
+[02:06] globe, I have this distance to travel.
+[02:09] However, if I happen to be somewhere on
+[02:11] the equator like Colombia for instance,
+[02:14] then I have this much to travel. And
+[02:17] clearly, it's a greater distance. It's
+[02:20] why when airplanes fly, they don't fly
+[02:23] this way. They actually fly that way
+[02:26] because the distance is shorter. It's
+[02:27] called the great circle. And that's
+[02:29] because gear ratios are not the ratio of
+[02:32] the number of teeth. They're the ratio
+[02:35] of the pitch circle around the gear. The
+[02:37] number of teeth is kind of a shorthand
+[02:39] because the number of teeth is the based
+[02:41] on the modulus which is a relationship
+[02:43] of the pitch circle to the sizes of the
+[02:45] tooth. So it's actually the distance
+[02:48] around the circle is what a gear ratio
+[02:51] is. T is a shorthand way of getting to
+[02:55] that. So if we have two circles touching
+[02:58] then they will have a gear ratio based
+[03:00] on the size of those two circles. So
+[03:03] clearly if we move up a globe, we're
+[03:05] going to change that relationship
+[03:07] because one circle gets smaller and
+[03:10] smaller. And that's exactly what the new
+[03:13] Vinci does. So to use our pingpong ball
+[03:16] as a gear in inverted commas, what we
+[03:19] need to do is exactly what they've done
+[03:21] here with the globe, and that is put an
+[03:23] axle through it. So we have this axis
+[03:25] right there, and we need to construct an
+[03:27] axis on our ping pong ball so that we
+[03:29] can turn it on that axis. Now to do
+[03:32] that, I've created this little jig. The
+[03:34] ball goes in the little jig, and we do
+[03:36] have two axle points that go there. Now,
+[03:39] of course, all of these files will be on
+[03:40] the thingiverse, including the jig. So,
+[03:43] should anybody want to make a ping-pong
+[03:44] ball CVT? Now, the ping pong balls need
+[03:48] these axles on them. The first one
+[03:49] doesn't really matter. Just glue it on
+[03:51] somewhere. The next one needs to be in
+[03:54] line. And for it to be in line, there's
+[03:56] this jig. the axle that you've glued on
+[03:58] the ping pong ball fit into one side of
+[04:00] the jig. And then we can put a spot of
+[04:02] glue on the other one and fit it into
+[04:04] the other side. And that'll make sure it
+[04:06] runs from center to center and in line.
+[04:08] And we need to do that with all three.
+[04:10] Once we've done that, that's what we
+[04:12] get. Now, we're going to need this
+[04:13] plate. This plate has these three holes
+[04:15] in to take the ping pong balls, and they
+[04:17] have a slight bevel on them to hold the
+[04:18] ping pong balls in place. To put them
+[04:21] in, they're just a press fit. You give
+[04:22] them a good hard press, and they'll pop
+[04:25] into There we go. to pop into that space
+[04:28] where they're free to turn in any
+[04:30] direction. We put all three of those in
+[04:32] there. Now, the new Vinci suggests
+[04:34] somewhere between three and 12. We're
+[04:37] using three because three is just fine.
+[04:39] That plate forms the heart of the new
+[04:41] Vinci. Of course, we've got to put the
+[04:43] other structures around them. And to
+[04:45] help us do that, there are three of
+[04:47] these pegs. and the pegs. Doesn't matter
+[04:49] which side. Just press into the plate to
+[04:52] create the holder for the actual um
+[04:55] spheres themselves. Now, of course, they
+[04:58] need to rub on something because it's a
+[05:00] friction drive. And because this drive
+[05:02] is also um a CVT, we need an input and
+[05:06] an output. So, we need two discs. One is
+[05:08] the input to rub somewhere when we move
+[05:11] this, and the other is the output where
+[05:14] we'll get the gear change. To do that,
+[05:16] we've got these two wheels. These two
+[05:18] wheels just take an O-ring. So, that
+[05:22] O-ring goes over there. And the O-rings,
+[05:24] I think, are 42 mm by 1.5 mm. Once
+[05:28] they're on there, we have our friction
+[05:30] surface. The PLA will slip too much on
+[05:34] the ping pong ball. So, adding the
+[05:35] rubber gives it a friction surface where
+[05:38] we can get our model to actually work.
+[05:40] We make two of those. And then we have
+[05:42] two axles. The small one goes about
+[05:45] halfway down. The one with the large
+[05:47] hole has another axle which has a hole
+[05:50] through it and that goes flush with that
+[05:52] side. So they can ride one over each
+[05:55] other like that. And of course they can
+[05:57] separate which means that we feed them.
+[06:04] There we go into
+[06:08] that plate like that. So we have
+[06:10] essentially what we need to create the
+[06:12] new Vinci. We give one input which will
+[06:15] turn these spheres. It will rub on the
+[06:17] output disc which will give us an output
+[06:20] and that ratio will change as we move
+[06:22] that in that direction changing the
+[06:26] distance that it travels around the
+[06:28] actual sphere. In order to support this
+[06:31] structure and constrain it, we need
+[06:33] these two support discs. Now one has a
+[06:35] slight ledge on it and the other
+[06:38] doesn't. It doesn't matter which way
+[06:39] round it goes, but once you put those
+[06:41] bits in place, try and align the rods on
+[06:45] the ping pong balls a little bit and the
+[06:48] support disc slides into place with the
+[06:50] ping pong ball arm going through a slot
+[06:53] and these being pushed onto there. So,
+[06:56] when it's like this, of course, it's
+[06:58] still all a bit wobbly. We want some
+[07:00] control over this, and that's what this
+[07:02] plate is for. It goes in the side with
+[07:04] the raised portion and it slides on
+[07:06] there like that with the axles poking
+[07:08] through these curved slots. What that
+[07:11] means is if I turn that disc, what
+[07:13] you'll see is that these axles are able
+[07:16] to move up and down in that slot,
+[07:18] changing the direction of rotation of
+[07:20] the sphere. Now, I haven't put anything
+[07:22] on this to move it because there's loads
+[07:23] of ways you could do it. I mean, one
+[07:25] might be a worm gear. Might put a big
+[07:27] ring gear around there and have a worm.
+[07:29] Another way might be just a lever. put a
+[07:31] lever on it so you can twist it
+[07:33] backwards and forwards. But twisting
+[07:35] that disc moves the axles and changes
+[07:38] the orientation of the sphere or the
+[07:40] ping pong ball in relation to the rubber
+[07:43] discs that we've put inside.
+[07:45] Okay, so we're actually nearly finished.
+[07:48] We're just missing a couple of things.
+[07:49] The first thing is when we need to apply
+[07:51] a normal force in that direction to give
+[07:54] a little bit of press of the friction
+[07:56] plates and keep them engaged and take up
+[07:58] any wear and tear. And for that we have
+[08:00] this spring. This spring is 30 mm by uh
+[08:04] yes 20 mm by 1.2 wire thickness. And
+[08:08] it's not very strong but we don't need a
+[08:10] lot of compression. And that goes on
+[08:12] there like that. Now of course we need
+[08:14] to push it down which is the job of this
+[08:17] part here which goes on there. If we
+[08:20] were to leave it like that it wouldn't
+[08:22] be free to spin. So we do need a thrust
+[08:24] bearing. And this is the thrust bearing
+[08:26] right here. This one is 25 inside
+[08:29] diameter, 47 outside diameter, 11 mm
+[08:32] thick. I bought it from Amazon. It seems
+[08:35] a pretty standard bearing, but if you
+[08:36] can't get hold of it, then you can quite
+[08:38] easily just change the holes, the
+[08:40] indentations here and here to fit
+[08:43] whatever thrust bearing you want. The
+[08:45] thrust bearing itself
+[08:48] drops in this cap. Now, the cap is
+[08:50] slightly larger than this section here,
+[08:53] but will allow that section to fit. So
+[08:56] we slot the whole thing in place and
+[08:58] push it down. And when we push it down,
+[09:00] it will also act as a lock plate for
+[09:03] this that it's like that. Now having a
+[09:06] spring on that side pushes against the
+[09:08] spheres and of course that pushes them
+[09:11] into this ring here which causes them to
+[09:14] bind. So we need a force on that side
+[09:18] which is about equal to this one. So it
+[09:21] holds these in the center and allows it
+[09:24] to spin nice and freely while keeping
+[09:26] pressure between the input and the
+[09:28] output and the little balls that we put
+[09:30] in there as our CVT mechanism. So to do
+[09:35] that we've got these bits. We've got
+[09:37] another one of these carriers which
+[09:39] takes another thrust bearing which is
+[09:42] same as the other thrust bearing and
+[09:43] that slots in there like that. This goes
+[09:46] on the top like that. And that whole
+[09:48] thing is going to slide over here with
+[09:51] the spring put on first there. Then
+[09:54] you'll notice these three holes. These
+[09:56] three holes take those pegs there like
+[09:58] that. So those pegs go in and those pegs
+[10:01] have a nut on them and the nut can move
+[10:03] up and down. So this slides on the the
+[10:06] pegs when they're in and the nut is used
+[10:08] to adjust the tension on that spring.
+[10:11] So, I've put a little dot on the output
+[10:14] and a dot on the input. And to be
+[10:15] honest, it doesn't matter which one's
+[10:17] the output and the input. And we get the
+[10:19] tension right. Then we turn the input.
+[10:22] And of course, that turns the output.
+[10:25] Right. I've got it at one extreme. I'll
+[10:27] give the input one full turn. And we'll
+[10:29] see how much the output turns by.
+[10:35] And roughly one full turn. So at one
+[10:39] range we've got a 1 one ratio. Now let's
+[10:42] put it at the other extreme
+[10:46] and give it one full turn.
+[10:53] And there we've got about a third of a
+[10:55] turn. So it goes from one one to 3 one.
+[10:59] You've got to admit that's pretty cool.
+[11:01] Eh, so a frictionbased CVT using spheres
+[11:04] is what the new Vinci CVT is all about.
+[11:07] And this CVT does one one to 3:1. So of
+[11:11] course you would detach it to another
+[11:13] set of gears, maybe a planetary gear or
+[11:15] something like that because remember
+[11:17] gears are multicative not additive and
+[11:19] so we can get a much bigger range if we
+[11:22] wanted to from a device like this. But
+[11:25] making something out of plastic and ping
+[11:27] pong balls that does that I think is
+[11:29] pretty cool. Now, it's obviously just to
+[11:31] show the principles of stuff. I It would
+[11:33] be better, as I said, if maybe you used
+[11:35] rubber balls instead of ping pong balls.
+[11:38] I will, of course, put all of these
+[11:39] files up on Thingiverse should anybody
+[11:41] want to play with this. But, I hope you
+[11:43] enjoyed the video. Thank you very much
+[11:44] for watching, and please do remember to
+[11:46] like and subscribe.

@@ -1,0 +1,449 @@
+[00:02] [Music]
+[00:15] hi so we did quite a lot of work with
+[00:17] the local schools we give talk from
+[00:19] classes expand projects in the summer
+[00:21] and it's come here to do experiments
+[00:24] with their teachers obviously so we do a
+[00:26] fair bit and recently I was lucky enough
+[00:30] to be given this a long-term loan from
+[00:33] king's school canterbury it was a
+[00:35] register a friend of mine in their
+[00:36] department so thank you very much to
+[00:39] King school it's really well appreciated
+[00:41] and I'm going to use this to do some
+[00:43] experiments without plastic instruction
+[00:48] book from the late 80s topic seventies
+[00:52] actually and this thing has the control
+[00:55] so happy look at the intercepts of the
+[00:56] guys what I'll do is I'll rewire it with
+[00:59] some controls when they get it back and
+[01:02] it's been improved now while I was doing
+[01:08] that it occurred to me that actually I
+[01:11] do this kind of thing a lot where I take
+[01:14] some of the old machinery and repair it
+[01:17] and bring it back up to spec so it can
+[01:19] be used because it's this thing which is
+[01:21] basically just a variable resistor
+[01:23] better than you are effectively guessing
+[01:25] what the temperature is and you have
+[01:26] very poor control of it so I put some
+[01:29] model atronics in there we know what the
+[01:31] temperature is and we can control it off
+[01:33] a lot better so I essentially pulled
+[01:35] this out and replaced it what I do with
+[01:38] that I'm doing that with the whole host
+[01:40] of machines all of the time because the
+[01:42] principles well they're all is that
+[01:44] there are only fair five basic
+[01:46] components and three of those are
+[01:47] switchers so I thought I would share
+[01:50] that with you because what it is that I
+[01:52] did here which we'll go through it's the
+[01:54] same thing that you would do with
+[01:56] something like that a filament extruder
+[01:58] for example a hot plate a killing that
+[02:01] you do is kill press obviously the
+[02:03] injection molder to all these high
+[02:06] temperature devices that you are might
+[02:07] want to make use exactly the same
+[02:10] control electronics so I thought I'd go
+[02:13] through that talk about them talk about
+[02:16] how they work together and give you a
+[02:18] couple of examples so it all really
+[02:20] begins with this stuff this is
+[02:23] resistance wire this particular wire
+[02:25] actually is a temporal wire
+[02:27] a wall counsel I use this a lot in my
+[02:30] killings it arrives out they sound make
+[02:32] a coil out of it and the coil is just a
+[02:34] long coil with two ends and I pass a
+[02:37] column down there there is a resistance
+[02:38] and it will get hot cattle is quite
+[02:40] popular this is a nichrome wire I use
+[02:43] nichrome quite a lot and that's put a
+[02:45] lot of microbes my afraid of doing
+[02:47] another one of the killers I've done
+[02:49] this for about three four years and I've
+[02:52] made three kilns repaired alumnae kilns
+[02:55] a couple of times I made a couple of hot
+[02:58] presses obviously I've done induction
+[03:00] machines and there are lots of this now
+[03:03] if I were to take a britainís while and
+[03:05] just make a clip out of it
+[03:07] then I'd get a stretch like this this
+[03:09] actually is the heating wire from a
+[03:12] sealing unit so this is a bag sealer and
+[03:15] it's just a strip of nichrome wire with
+[03:17] a couple of taps on it nobody has a
+[03:19] color down there that'll get hot now
+[03:21] obviously I don't wanna cast much for
+[03:23] them down there because it's not that
+[03:24] resistive the right got about 12 volts
+[03:27] down there let me get hot enough to melt
+[03:29] plastic if I take something like this
+[03:31] and this is a cancel very fine wire
+[03:33] about 10 meters of it put about 12 volts
+[03:36] down that little thin wire that would
+[03:38] make a really efficient and whole
+[03:40] stabbing cutter for example so something
+[03:43] like that is very very easy to make
+[03:45] using voltage control that is just stick
+[03:47] 12 volts down it will get resumed Heat
+[03:49] now you can work that out using Ohm's
+[03:51] law and if you use yours law you can
+[03:54] work out what the resistance is what the
+[03:55] amp draw is going to be and then what's
+[03:58] appropriate to put onto that now the
+[04:00] heating elements out are always
+[04:02] essentially the same they're just a bit
+[04:04] of wire with to dangle ends
+[04:06] and this is something that I took out of
+[04:08] a challenge made hoplite
+[04:10] what it is is nichrome wire wrapped
+[04:12] around a little bit of mica if you see
+[04:15] that there there's the to download Lian
+[04:16] attack one to the line want to the
+[04:19] neutral flip that switch turn it on and
+[04:21] that will get hot so that is a hot plate
+[04:24] actually now becoming different sizes
+[04:28] you can get drunk like this this is a
+[04:30] flat
+[04:31] carry cheetah so here we have our two
+[04:33] dangling wires one live on neutral one
+[04:36] positive one negative doesn't matter
+[04:39] ac/dc
+[04:40] goes in here in a coil and that gets hot
+[04:42] and that's a little flat place cartridge
+[04:44] this one it's around a bit of copper
+[04:47] pipe you can see it's a panel Teeter
+[04:48] so the band wrapping around there and
+[04:50] hearing two wires sticking out here and
+[04:52] here and that bound him to is a smaller
+[04:55] version of what's actually in there if
+[04:57] we look in here so you can get them in a
+[05:08] band for me the flat platform
+[05:10] cylindrical form of the barrel you wires
+[05:13] the coiler with however you get them
+[05:16] they're all going to be the same they're
+[05:17] gonna be some kind of shape and you're
+[05:19] gonna have two dangling wires out of
+[05:21] there now it doesn't matter which one
+[05:24] goes to negative which one goes to
+[05:26] positive it doesn't matter which one
+[05:28] goes to live and which one goes to
+[05:30] neutral one of them goes to live the
+[05:33] other one you attach to neutral and it
+[05:35] doesn't matter at all so the heating
+[05:37] element will arrive in many different
+[05:39] forms and sometimes you'll make it
+[05:40] yourself
+[05:41] so what I want to make my killing time
+[05:43] for instance I take this a bit of steel
+[05:45] prick and glared and just whine hiyo
+[05:47] Caudill then I stretch it out and put in
+[05:49] my kill so sometimes you make the
+[05:50] heating elements themselves this is a
+[05:52] bit more difficult to make so I bought
+[05:54] the found element if I wanted to make it
+[05:56] flat element I would just do it just
+[05:58] like that on that so you need some kind
+[06:00] of heating element and there's an
+[06:02] example we're gonna use this flat plate
+[06:03] ceramic heating element
+[06:06] it isn't really ceramic we've got
+[06:08] ceramic top and bottom with the
+[06:09] cauliflower in the center we're going to
+[06:11] use that as an exactly and that's one of
+[06:13] the components need now if we're doing
+[06:16] something low power so no five six
+[06:20] twelve volts you don't really need to
+[06:21] worry a lot of this machine you'll
+[06:23] remembers from mare's now in mains one
+[06:26] thing you don't really want to do is
+[06:27] flip the switch
+[06:29] yes that's just scary you don't know
+[06:31] plug it in turn on the switch directly
+[06:34] feed it into there what you want is a
+[06:36] safe way of doing it and that's exactly
+[06:39] what this is this is a solid-state
+[06:42] rectifier and it is just as
+[06:45] switch so if you look at the solid state
+[06:47] rectifier they're all the same
+[06:48] incidentally you'll see they've got four
+[06:50] pins one two three four
+[06:52] they'll be rated for different image
+[06:55] search twenty twenty five forty sixty
+[06:59] with different amplitudes on that but
+[07:02] they'll all be essentially the same I
+[07:04] look like that they're before pins pin
+[07:06] three or four and where you put a DC
+[07:09] signal in and this one takes three to
+[07:11] thirty two volts so anywhere between 3
+[07:13] and 30 to vote so I put an own signal in
+[07:15] there it'll switch on my power here so I
+[07:19] don't have to handle high voltages like
+[07:22] 120 240 volts this handles it for me so
+[07:26] I put that in between my supply and me
+[07:29] and the switch I'm gonna press because I
+[07:31] press this switch on this side three
+[07:33] votes it turns on the power on this side
+[07:36] at 240 bucks I'm nice and safe so that
+[07:40] is one of the switches that you need now
+[07:42] we do want this to have some kind of
+[07:46] sensor not to be able to register what
+[07:49] that temperature is and make it switch
+[07:51] depending on what that temperature is
+[07:53] and what we use is a now this is a very
+[07:56] common type of thermocouple you don't
+[07:58] see them very often it's a K type and
+[08:01] right at the end of that thermocouple of
+[08:02] whether two wires they're two different
+[08:04] metallic wires I just joined at that end
+[08:06] that end forms a junction and there's a
+[08:10] direct linear relationship between the
+[08:12] change in temperature and the voltage
+[08:14] generated at that point and I can read
+[08:17] that voltage and use that voltage and
+[08:19] indicator at the temperature particular
+[08:21] is its linear and it's linear in the
+[08:23] relative we want it to be for a K type
+[08:25] that's somewhere between a hundred and
+[08:27] thirteen hundred degrees centigrade so
+[08:29] most of the stuff you can use I'm not
+[08:31] going to use a specific dinner scary
+[08:34] funny can't a thermocouple know
+[08:36] something to be kept academic problems
+[08:37] now this is meant for a meter so it's
+[08:40] bare and if you're too sure you will get
+[08:42] something look like you don't often see
+[08:44] them like that normally they arrive on
+[08:46] something like this this is encased so
+[08:48] that little bare wire is right at the
+[08:51] bottom here it's in this case because
+[08:53] this is actually one taken from a kiln
+[08:55] so it goes on the back of the kill and
+[08:57] puncture the bricks
+[08:58] insta-kill and you can see it's nice and
+[09:00] clean here and dirty here because that's
+[09:01] where it's been in the kill but
+[09:03] essentially it's an identical thing it's
+[09:06] just a little twist of wire right at the
+[09:07] end here to was coming out and they've
+[09:10] handled it labeled them blue and red for
+[09:13] you most of the level blue and red and
+[09:15] the not level blue and red you see the
+[09:17] wire is often red black other be a red
+[09:20] stripe and a black stripe on the wire
+[09:22] telling you which one is rich so that's
+[09:24] in our sensor our sensor is a k-type
+[09:26] thermocouple now we feed the sensor into
+[09:30] something what we feed it enter at these
+[09:32] little control units because someone is
+[09:34] done all the hard work for us these pit
+[09:37] controllers are available on ebay first
+[09:39] he could bargain for a couple of pounds
+[09:41] but all of this stuff is really cheap
+[09:42] actually none of his expensive this can
+[09:44] be bought for a couple of pounds
+[09:45] depending on the rating if you go to an
+[09:48] extreme rating then you're gonna pay
+[09:50] more when you're looking at the
+[09:51] mid-range rating with most of the Keith
+[09:53] Smith machines use somewhere between two
+[09:56] and five pounds is what you're gonna pay
+[09:57] and they're all the same they all have
+[10:00] ten pins on the back sometimes in habit
+[10:02] because this these two pins here are
+[10:05] often used for an external alarm so pin
+[10:08] six and seven which are missing here are
+[10:10] the external alarm pins that's just this
+[10:13] particular one I never use external
+[10:15] alarm anyway it's just a trigger to
+[10:17] sound a sounder if I wanted to and I
+[10:19] never use it all I actually use are pins
+[10:23] 9 and 10 1 and 2 4 and 5 so use pins 1 2
+[10:27] 4 5 9 10 they're the only ones removing
+[10:31] you to use if you wire 1 & 2 directly
+[10:36] into your supply so you're live in LA
+[10:40] about 110 to 240 volts wire straight
+[10:44] into here you're thermocouple wires into
+[10:49] here which is pins number 9 and 10 and
+[10:52] it tells you on the thing which we're
+[10:54] out to put it nominee is always the
+[10:56] positive of the red 110 is always a
+[10:58] negative with the black one
+[10:59] during strict September so 9 and 10 wire
+[11:03] straight in there and you find that
+[11:05] these thermocouple clips wrapped in just
+[11:07] the right size to fit straight in see
+[11:09] you why I'm straight in
+[11:11] bottom down and that's your sensor and
+[11:13] controller and you should get that for
+[11:15] somewhere like 510 pounds this goes
+[11:19] where you want to register the heat so
+[11:21] this particular one is a kiln goes into
+[11:23] the kiln this particular one on there
+[11:26] actually has a little metal case of just
+[11:28] a backpack and that and that with a
+[11:30] little cash is sitting right against the
+[11:33] mountaintop so it's sitting right here
+[11:35] against the bound heater to really
+[11:37] temperature with the validator because
+[11:39] that's the temperature I want to read so
+[11:41] that goes to where you want to read the
+[11:43] temperature now you may not necessarily
+[11:44] want to read it there but it goes where
+[11:46] you want to read that temperature so
+[11:50] once you've got this and this really is
+[11:51] just a temperature control switch so it
+[11:54] reads the temperature and sellings an on
+[11:56] signal to the rectifier when the
+[11:59] rectifier receives its own signal it
+[12:01] switches to switch on the heater here so
+[12:04] we now have this thermally controlled
+[12:06] now the rectifier always gets wired to
+[12:09] pins 4 and 5 and again if you're not on
+[12:12] it
+[12:12] it'll tell you which way around it is 4
+[12:14] is the positive father's and negative if
+[12:16] you look on here you'll see 4 is the
+[12:19] negative and 3 is the positive so when
+[12:22] you wire them pin 5 goes to 3 pin 4
+[12:30] sorry pin 5 goes to for my apologies pin
+[12:33] 4 goes to 3 so it's plus 2 plus minus 2
+[12:37] magnets it's all you have to do do you
+[12:39] why are these 2 pins to this you want
+[12:42] this to these two pins you are this one
+[12:46] signed to your heating element now when
+[12:51] you've done that you're pretty much
+[12:53] ready to go
+[12:53] so you've got your neutral coming in now
+[12:56] I don't normally put the neutral
+[12:57] straight in I know we put under upon
+[12:59] switch so I have a neutral switched and
+[13:02] a live switched it comes into this Ridge
+[13:04] on the other side of the switch the live
+[13:07] comes out and one goes to here and the
+[13:10] other line goes to here the neutral one
+[13:14] goes to hear the other neutral goes to
+[13:17] here and that's your wondering as simple
+[13:20] as that
+[13:20] to the neutral goes to the neutral lot
+[13:23] of it's coming
+[13:24] in you impact your life goes here on pin
+[13:28] 1 of the USSR pin 2 of USSR goes to your
+[13:31] heating element and that it it isn't
+[13:35] that simple so now let's have a look at
+[13:37] the internals of this ok so here it is
+[13:42] there's my band heater right there and
+[13:45] the thermocouple wire is here because
+[13:47] the thermocouple sitting right there the
+[13:49] wire just comes up and goes through the
+[13:51] hole in here so it's that sitting in
+[13:54] there that's that silvery wire going
+[13:57] through this way so you can see it there
+[14:02] we go and that's the thermocouple wire
+[14:04] there coming out and here you can see it
+[14:06] wired into pins 9 and 10 right now so
+[14:09] that's p9 that that's been 10 so all
+[14:11] I've done is taken those two ends and
+[14:13] screw them into 9 and 10 right there and
+[14:19] that so that's all that it now when
+[14:23] that's done it's actually relatively
+[14:25] shrivelling trivial there's the scr
+[14:27] sitting right there so if i look at that
+[14:30] there we go
+[14:31] it's pins 1 & 2 so it's sitting like
+[14:32] that so 1 & 2 is here these two are my
+[14:37] AC live so the line comes from a switch
+[14:41] so here's this ricci a double pole
+[14:42] I've got live on this side live on this
+[14:45] side Neutron far side view on the other
+[14:46] side the light comes in from the supply
+[14:48] at the bottom and the neutral comes in
+[14:50] from the supply the bottom those right
+[14:52] as well the line out from the switch is
+[14:55] at the top the neutral out from the
+[14:56] switch is at the top so that's the
+[14:58] neutral out coming there one neutral
+[15:01] count comes into here one live out comes
+[15:04] into here wired into pins 1 & 2 doesn't
+[15:09] matter much we're on the go incidentally
+[15:10] so you're one of those independent 1/2
+[15:13] of here the other neutral is attached
+[15:15] directly to the heating element which is
+[15:18] this silvery wire here this is the heat
+[15:20] no one neutrals attached directly to
+[15:23] that heating element the other side of
+[15:25] that heating element is actually on the
+[15:26] SSR
+[15:27] which is on pin one on the SSR so the
+[15:31] neutral attaches to one leg of the
+[15:33] heating while the other leg of the
+[15:35] heating wire and again does the matter
+[15:36] there goes to the new head beep anyone
+[15:39] pinning tune takes the line from this
+[15:42] switch so alive from the switch goes to
+[15:44] pin 2 and it also goes to here is the
+[15:46] two wires to matter life - worst map
+[15:48] neutral one here and one attached to the
+[15:51] leg of the heating element so once
+[15:53] you've done that you have put three
+[15:54] switches together one two three this is
+[15:57] a manual switch so I can turn it off and
+[15:59] on this is temperature control switch
+[16:02] and this one is a digital controller
+[16:05] switch and it's this one where the power
+[16:07] comes in and can come from the life
+[16:09] supply and that creates a very safe and
+[16:13] environment for you to work in but also
+[16:16] allows you to control that using just
+[16:18] those few elements now all of this is
+[16:21] actually on the bit new by a bit get a
+[16:26] picture in the picture tells you where
+[16:28] to wire those things to it can be a bit
+[16:31] confusing so it's sometimes shows a
+[16:34] bridge with a a resistance bridge and
+[16:37] then the alarm region you're not too
+[16:38] sure which way around it has to go but
+[16:41] it matters they showed you the four has
+[16:42] a plus 5 a minus on the 18 not and that
+[16:46] of 10 sorry you've got magazine plus
+[16:47] it's showing you which we're about to do
+[16:49] it on one on two which is you liked live
+[16:52] in doesn't matter so you just put one in
+[16:55] one and the other and the other and on
+[16:58] six and seven we never used them to
+[17:00] again doesn't matter either so there's a
+[17:02] picture unnatural device to show you
+[17:04] what is it the same thing here's a
+[17:06] picture here to show you back to use it
+[17:07] three and four are plus and minus
+[17:10] respectively for DC in one and two are
+[17:13] just the breaking the five that gives
+[17:15] the switch so live in like that do you
+[17:17] live in comes from you supply and you
+[17:20] might act goes to the legacy heater so
+[17:23] it really is that simple
+[17:25] so once I was done that what we have now
+[17:28] is there very nice injection molding
+[17:30] machine that has a digital control so I
+[17:32] know what temperature it's at and so I
+[17:34] can control that temperature anyway I
+[17:37] thought I'd share that with you because
+[17:38] that technique is used for just such a
+[17:42] range of equipment and for updating old
+[17:45] equipment so I recently brought killed
+[17:47] and the kiln I bought was a 200
+[17:50] i rewired it with some control
+[17:52] electronics for 20 pounds
+[17:54] I bought some 50 pounds worth of cancel
+[17:57] while I have a and for 250 pounds I had
+[18:00] to kill that would otherwise have cost
+[18:02] me $5,000 so it was worth doing because
+[18:06] you can take this old equipment update
+[18:08] it real honor it and make some great use
+[18:11] out of it anyway I thought I'd share
+[18:13] that with you I hope it was if
+[18:14] interested thank you very much for
+[18:16] watching

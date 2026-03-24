@@ -1,0 +1,181 @@
+[00:00] foreign
+[00:11] video 1869 we meant this which was our
+[00:15] Serpentine generator and in the comments
+[00:18] two of the most popular questions were
+[00:20] how would it go with the flywheel and
+[00:22] can you turn it into a motor now I
+[00:25] bubble on a lot about Motors and
+[00:27] generators being electrically identical
+[00:29] machines so the answer to the question
+[00:31] can it be a motor is a non-categorical
+[00:33] yes of course it could be a motor if
+[00:36] it's a generator it can be a motor but
+[00:38] saying one thing and doing that saying
+[00:41] are two different things so I've got a
+[00:44] really simple setup all I've got is a DC
+[00:46] power supply and it's going into one
+[00:49] side of the generator and the generator
+[00:51] just has a bare wire so I'm going to
+[00:53] touch these two bare wires together and
+[00:56] what that will do is pulse a DC into the
+[01:00] coil so let's do that and see what
+[01:02] happens
+[01:10] ah
+[01:25] so there you go
+[01:27] a motor could be a generator and a
+[01:29] generator can be a motor and by posting
+[01:32] a DC we change that into a mode and I've
+[01:34] granted it's not the world's best merch
+[01:37] it's not going to be running your Lexus
+[01:39] anytime soon because we relied on the
+[01:41] same thing that a steam engine relies on
+[01:44] them the steam engine has a bit of a
+[01:46] push and then a flywheel that gets going
+[01:48] that gets it over the bit where it's not
+[01:50] pushing and we did exactly the same we
+[01:52] put a post of DC in there that changes
+[01:54] calls into a magnet remember the
+[01:56] permanent magnets right here and that
+[01:58] gave it a bit of a shove then we took
+[02:01] the dco away and because there's nothing
+[02:02] else in here this continued as a
+[02:05] flywheel to the next position when we
+[02:07] gave it another shelf by pulsing some DC
+[02:10] in in the same way that a steam engine
+[02:12] gets a shove of the Piston gets to the
+[02:15] bottom there's nothing happening the
+[02:16] flywheel carries it around the bottom
+[02:18] and back up until we let More Steam in
+[02:20] that gives it another shot so it works
+[02:22] on the same Principle as a very simple
+[02:24] oscillating steam engine so it's not
+[02:26] going to be the greatest engine because
+[02:28] we're shoving it turning it off shoving
+[02:30] it turning it off much better is we
+[02:32] continued to shovel it all the way
+[02:34] around and we can do that instead of
+[02:37] having one coil we would have three
+[02:39] coils where we'll use one coil to shove
+[02:41] to the next coil then that coil to shove
+[02:44] and then the third call to shove and
+[02:46] keep on shoving it all the way around
+[02:47] that is exactly how a three-phase motor
+[02:51] works so these are like a three-phase
+[02:53] motor but using a single phase now we
+[02:56] have another issue that you might not
+[02:58] have noticed it's timing I have to shove
+[03:01] it at the right time because if that
+[03:03] magnet is here and I shove it it may go
+[03:06] that way if it's there and I shove it it
+[03:08] may go that way I need to get in the
+[03:10] right position to give it the shove in
+[03:13] the right direction otherwise the motor
+[03:14] will turn any which way and will reverse
+[03:17] its turn halfway through as well so I
+[03:20] practiced a little bit before the video
+[03:22] to get the timing right of hitting that
+[03:24] switch because touching two wires is the
+[03:27] same thing as hitting a switch when I
+[03:29] hit the switch at the right time it will
+[03:31] continue to turn in the right direction
+[03:33] now touching two wires being a switch is
+[03:38] actually a really important issue
+[03:39] because of course a transistor is
+[03:42] nothing more than a switch it's just an
+[03:44] electronic switch where I can switch
+[03:46] that pulse of DC in now if I had a
+[03:49] sensor here where something like an LED
+[03:53] infrared LED going to an octo sensor I
+[03:56] could time it so that I shove it at
+[03:59] exactly the right time now that's what
+[04:02] makes a good brushless motor so it's a
+[04:05] just a brushless motor where I'm
+[04:07] physically timing it by touching a
+[04:09] switch if I want to make it electronic
+[04:11] timing then I would tie in a sensor with
+[04:14] a transistor to switch on the power
+[04:17] supply and give it a shove at exactly
+[04:20] the right time another sensor is called
+[04:21] a wholesent hole sensor which recognizes
+[04:24] where the actual magnets are an LED
+[04:26] would recognize the position of the
+[04:28] rotor a whole sensor would recognize the
+[04:31] position of the magnet and the whole
+[04:33] sensor works in the same way as this
+[04:34] coil when the magnet comes close to it
+[04:37] you get a spike that Spike can be said
+[04:39] oh there's the magnet do something like
+[04:41] an Arduino controller so with sensors on
+[04:44] and a switch we can actually make this
+[04:46] run as a brushless motor in the same way
+[04:49] that I just did but using my hands and I
+[04:53] and just knocking the switches against
+[04:54] each other so that's how you go about
+[04:56] making a brushless motor and of course
+[04:59] this generator is of course a motor
+[05:02] anyway let's see that again
+[05:14] I just think that's brilliant actually
+[05:16] so with a single coil it's actually a
+[05:19] bit difficult to get the timing right to
+[05:20] be honest
+[05:22] um with two coils though it's a piece of
+[05:24] cake and in fact that two color
+[05:26] Arrangement that you would use to drive
+[05:27] this as a motor is exactly what you find
+[05:29] in a PC fan so that little circuit board
+[05:32] in there would drive that motor if you
+[05:35] put two coins on if you put three coils
+[05:37] on of course what you've got is a
+[05:39] standard three-phase brushless motor the
+[05:41] kind of thing that you find in um
+[05:43] e-bikes these days the control
+[05:45] electronics for that where it all um
+[05:47] really sits you can buy online there's
+[05:50] one right there now I don't know if you
+[05:52] noticed in the animation where I did the
+[05:54] free Phase there was a little thing
+[05:55] called an induction Spike the induction
+[05:58] Spike can also reuse as a position
+[06:00] sensor it sensor if you're not using
+[06:02] whole sensors these use whole sensors
+[06:04] incidentally but that induction Spike
+[06:06] can be used and these are what use that
+[06:09] induction Spike to tell it what position
+[06:11] is it it is in that's about five pounds
+[06:14] off Amazon it's a three-phase brushless
+[06:16] motor control and you get for RC models
+[06:19] and then you get a little speed circuit
+[06:21] there I think it's about a pound or
+[06:22] something like that you want the three
+[06:24] coils up to each other on one leg and
+[06:27] then the open leg you put to each one of
+[06:30] these and that with that is your
+[06:33] three-phase motor controller and it'll
+[06:35] cost you about six pounds or so so
+[06:37] making two phase and three phase Motors
+[06:40] brushless motors out of this Arrangement
+[06:42] and Julie is um pretty simple and I
+[06:45] think that if you fancy giving that a go
+[06:47] it's a bit of a challenge for you but
+[06:48] you have all of the information that you
+[06:51] need in order to construct your three
+[06:53] friends push this motor from your own
+[06:55] printer and I'm I probably will do that
+[06:58] as a project myself at some of the time
+[07:00] but I wanted to cover the principles of
+[07:02] how this works because I was asked can
+[07:05] this generator be a motor and I wanted
+[07:06] to demonstrate that yes it can talk
+[07:09] about the principles and then maybe
+[07:10] later construct a three-phase brushless
+[07:12] motor out of this thing and see how that
+[07:14] bad boy spins up or if anybody beats me
+[07:16] to it then I'd love to see your video on
+[07:19] it so certainly send me the video If you
+[07:21] make your own three-phase brushless
+[07:23] motor because it's really very simple to
+[07:26] make this Serpentine generator into a
+[07:29] serpentine motor and that would be very
+[07:31] cool anyway I hope you enjoyed the video
+[07:33] thank you very much for watching and
+[07:34] please do remember to like And subscribe

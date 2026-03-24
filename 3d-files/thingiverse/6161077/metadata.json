@@ -1,0 +1,68 @@
+{
+  "thing_id": 6161077,
+  "name": "BLDC Generator With Serpentine Coil",
+  "description": "In addition you will need 12 magnets 3mm by 10mm by 60mm 2 x skater bearings - 22mm OD, 8mmID, 7mm thick some 8mm bar and a coil of enamel coated copper wire 0.2mm diameter\r\n\r\nyou can find full details of construction here https://youtu.be/BX7UgVSUOBE\r\n\r\n I have updated this courtesy of this https://www.thingiverse.com/thing:6195201 - thanks for the help Synaptic",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "BX7UgVSUOBE",
+      "url": "https://youtu.be/BX7UgVSUOBE"
+    }
+  ],
+  "tags": [
+    "BLDC",
+    "brushless",
+    "fwg",
+    "generator",
+    "robert",
+    "tnt"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution",
+  "added": "2023-08-08T15:55:47+00:00",
+  "modified": "2023-08-08T15:55:47+00:00",
+  "url": "https://www.thingiverse.com/thing:6161077",
+  "thumbnail": "https://cdn.thingiverse.com/assets/2c/13/02/d0/8b/large_display_965372eb-d277-4bd3-8c42-f81231e80479.jpg",
+  "like_count": 352,
+  "collect_count": 373,
+  "comment_count": 14,
+  "download_count": 3001,
+  "files": [
+    {
+      "name": "gear.stl",
+      "size": 116884,
+      "url": "https://www.thingiverse.com/download:13367575",
+      "download_url": "https://api.thingiverse.com/v2/files/13367575/download"
+    },
+    {
+      "name": "cap.stl",
+      "size": 51284,
+      "url": "https://www.thingiverse.com/download:13367576",
+      "download_url": "https://api.thingiverse.com/v2/files/13367576/download"
+    },
+    {
+      "name": "Magnet_carrier.stl",
+      "size": 70484,
+      "url": "https://www.thingiverse.com/download:13367577",
+      "download_url": "https://api.thingiverse.com/v2/files/13367577/download"
+    },
+    {
+      "name": "Coil_Holder.stl",
+      "size": 442884,
+      "url": "https://www.thingiverse.com/download:13444944",
+      "download_url": "https://api.thingiverse.com/v2/files/13444944/download"
+    },
+    {
+      "name": "Spacer.stl",
+      "size": 179184,
+      "url": "https://www.thingiverse.com/download:13444945",
+      "download_url": "https://api.thingiverse.com/v2/files/13444945/download"
+    },
+    {
+      "name": "Body.stl",
+      "size": 143084,
+      "url": "https://www.thingiverse.com/download:13444946",
+      "download_url": "https://api.thingiverse.com/v2/files/13444946/download"
+    }
+  ]
+}

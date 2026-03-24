@@ -1,0 +1,154 @@
+[
+  {
+    "id": "UggGJGT_m8ZRcHgCoAEC",
+    "author": "@World_Theory",
+    "author_channel_id": "UCnIIsh__ecYk8wit08DlukQ",
+    "text": "Interesting power graphs that I couldn't see. Maybe you could hack together an electronic ink display to work with your computer, or just print the graph out. Cameras often have problems trying to record monitors. I don't know if this would work, but I wonder if it would help to pop the lense out of some cheap sun glasses, and put it on the camera lense.",
+    "likes": 0,
+    "published_at": "2016-10-27T03:43:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggGJGT_m8ZRcHgCoAEC.8KWofGSH0EX8KXAHle1F3W",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "graphs in second video",
+        "likes": 0,
+        "published_at": "2016-10-27T07:01:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UggLKodEvbbfVHgCoAEC",
+    "author": "@joabel19711",
+    "author_channel_id": "UCGv9tplEWZ_CeUlGcorjpMQ",
+    "text": "Here's the old fashioned way - if you don't own function generators.   http://smartscarecrow.com/wp-content/uploads/2013/01/MyWFC11.pdf",
+    "likes": 0,
+    "published_at": "2016-10-24T02:00:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggLKodEvbbfVHgCoAEC.8KOuQrg8qxg8KUa7l0Gjo4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2016-10-26T06:58:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjQZQEBWsGf3ngCoAEC",
+    "author": "@joabel19711",
+    "author_channel_id": "UCGv9tplEWZ_CeUlGcorjpMQ",
+    "text": "Hi Robert,  Have you considered using rectified AC or AM to charge your batteries instead of DC?   There is Propeller software for Windows called PGEN 2.0 from Germany that allows the creation and measurement of up to 4 channels of PWM (8 chains each).   You could also tie 2 - 555 timers together.   These applications can be \"convoluted\" together with an AND or NAND chip - to create AM radio waves (carrier and signal frequencies) at up to 5 volts.  I like your Rigol equipment - I have a Rigol scope, DC power supply, and multimeter myself.",
+    "likes": 0,
+    "published_at": "2016-10-24T01:53:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjQZQEBWsGf3ngCoAEC.8KOtdlXu72y8KU_rc4Wi9q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i have thought about it mate as i am pretty sure the method i am using isn't the best - so i will look into it",
+        "likes": 0,
+        "published_at": "2016-10-26T06:55:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugj_K1YTUm5kDXgCoAEC",
+    "author": "@deslomeslager",
+    "author_channel_id": "UC6F_-iIHC5zv1Y-Kat9EIjw",
+    "text": "I think you abused that little lithium battery. Under 20 to 30 mA load it might have a totally different (total) power. The voltage drop shows us the internal resistance (which is all loss of power). Apples and apples, you know.\nps: People interested in rechargeable lithium ion, please watch this: https://www.youtube.com/watch?v=pxP0Cu00sZs\nI know it is lengthy, but Jeff Dan really knows what he is talking about!",
+    "likes": 0,
+    "published_at": "2016-10-20T08:16:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugj_K1YTUm5kDXgCoAEC.8KFHJw3bCJ58KUaBGSq6C6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i did indeed but i abused the lead one too to the same extent",
+        "likes": 0,
+        "published_at": "2016-10-26T06:58:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugg108dLUFVu8ngCoAEC",
+    "author": "@dekutree64",
+    "author_channel_id": "UCwNkKd1BIlZa4h7hOgfrcdQ",
+    "text": "Thanks for the update. Setting up new equipment can be more difficult than the actual work sometimes. Safe travels, and I look forward to the results on the hemp battery when you get back!",
+    "likes": 0,
+    "published_at": "2016-10-20T02:02:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugg108dLUFVu8ngCoAEC.8KEbUGcEOaP8KU_uotOaUV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2016-10-26T06:56:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugj-vqyCHt9mG3gCoAEC",
+    "author": "@jprice1122",
+    "author_channel_id": "UCx7Z8z5Qjja6b2Fl5m6lwtA",
+    "text": "In terms of Volume, the Pb plate is .25 cm^3  and the Li-Ion is .94 cm^3",
+    "likes": 1,
+    "published_at": "2016-10-20T00:33:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugj-vqyCHt9mG3gCoAEC.8KESHmE1vt38KU_x77Hs2Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "interesting - thanks for working that out mate",
+        "likes": 0,
+        "published_at": "2016-10-26T06:56:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UggxXzw4JEmeU3gCoAEC",
+    "author": "@Hhydrogen4Power",
+    "author_channel_id": "UCLkGa0S8SfZ-4jScnlTqVOg",
+    "text": "awesome. nightstep where on your bench there",
+    "likes": 0,
+    "published_at": "2016-10-19T23:25:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggxXzw4JEmeU3gCoAEC.8KEKVudhRWW8KU_ykfWxMx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2016-10-26T06:56:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UghkFyW5SMIDzHgCoAEC",
+    "author": "@robertpoynton9923",
+    "author_channel_id": "UCZMdSz6E6P-zNj_S8nyydKA",
+    "text": "Have a safe trip wherever your going mate. Ps if your coming down under (Victoria) I'll buy you a drink.",
+    "likes": 0,
+    "published_at": "2016-10-19T22:33:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghkFyW5SMIDzHgCoAEC.8KEEdA2SACw8KUa0J8aCtE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i'll be getting there mate lol",
+        "likes": 0,
+        "published_at": "2016-10-26T06:57:10Z"
+      }
+    ]
+  }
+]

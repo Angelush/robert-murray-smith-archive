@@ -1,0 +1,933 @@
+[
+  {
+    "id": "UgyeAvYqC21OyEXCdDB4AaABAg",
+    "author": "@tonyglevum1084",
+    "author_channel_id": "UC_GxQxGtceXsBNn6iW_JwYQ",
+    "text": "perhaps its a static bonding",
+    "likes": 0,
+    "published_at": "2020-12-20T20:47:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzol5HPjx8OxpBLSlJ4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "Plastic or FR4 ?",
+    "likes": 0,
+    "published_at": "2020-05-16T07:11:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzol5HPjx8OxpBLSlJ4AaABAg.98hrWSVArFK98j0IBfas5A",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "this one is an acrylic sheet mate",
+        "likes": 0,
+        "published_at": "2020-05-16T17:56:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgysFzKeqkRgVQJEUB94AaABAg",
+    "author": "@andrewbeaton3302",
+    "author_channel_id": "UCaaMpLEOQZ0JOIQc5Ci-ETw",
+    "text": "Brilliant!!",
+    "likes": 0,
+    "published_at": "2020-04-11T19:28:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgysFzKeqkRgVQJEUB94AaABAg.97K2vpEoG2V97L6Sqaof1q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-04-12T05:18:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxIZ-AtR96JevSB9354AaABAg",
+    "author": "@edmundlloydfletcher7979",
+    "author_channel_id": "UCdf7rLxmBFqVwPnMaPcFZHw",
+    "text": "Seems like you could also build a flex sensor with a similar process.  Plus you could do something like paint it directly on a pair of gloves to create a neat input device for games and whatnot.",
+    "likes": 0,
+    "published_at": "2020-03-23T01:19:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx1koTQlNuLTwfjXQ14AaABAg",
+    "author": "@RWBHere",
+    "author_channel_id": "UCnwhK7Pf6xJ635mvBLTYtVA",
+    "text": "Nicely implemented! You i'll need back EMF protection flyback (diode +  capacitor) across each relay coil, to protect the electronics. Thanks James.",
+    "likes": 0,
+    "published_at": "2020-02-21T09:17:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwDLINz0RpRTSGCIiN4AaABAg",
+    "author": "@paulgee1952",
+    "author_channel_id": "UC3SBW1L_BRhbrh8AsE5DT9Q",
+    "text": "Just a quick clarification , is th ink with the 10ml dropper bottles,working ink logo, selling on Ebay the same as your 250ml pots? I have chosen a couple of the experiments from your linked merch site, for incorperating into gaming model pieces. Just a way of showing support. Not a fan of 7.45 notes delivery cost lol. Im hoping the ink low enough resistance for running led circuits with kitchen tin foil ,without hot solder.  Another informative upload.",
+    "likes": 0,
+    "published_at": "2020-02-17T17:57:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwDLINz0RpRTSGCIiN4AaABAg.958qaYs6g7-95I-znkne71",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "we don't sell 10mL bottles of it - so someone is rebadging for sure - I don't mind that in the least",
+        "likes": 1,
+        "published_at": "2020-02-21T07:21:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzDuTGthwiZ0HjY9qx4AaABAg",
+    "author": "@kieronwheeler",
+    "author_channel_id": "UCMjJxAuAi84TXKt-2eLgT6Q",
+    "text": "Very neat idea, nice job! As it's consuming 16mA, is that per line or all together? I'm curious to know whether each line is 750ohms or all 8 lines, and interested in the relationship between width, number of coats and resistance. I would assume more coats decrease resistance and thinner lines increase resistance... ?? How controllable is this if you wanted to be very precise and make a component like this very small?",
+    "likes": 0,
+    "published_at": "2020-02-17T12:24:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzDuTGthwiZ0HjY9qx4AaABAg.958FVtVJzfW95I0FkgSKKl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "It's a homogeneous product so very precise - though resistance is going to be effected by environment so it would be a good idea to overcoat - maybe with a varnish or plastic glued on top - something to stop the moisture getting in.",
+        "likes": 0,
+        "published_at": "2020-02-21T07:23:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxA2IEDnsrxGR3l-Vx4AaABAg",
+    "author": "@mattjdavis",
+    "author_channel_id": "UCJNZxBqs8ElqouPqAkZLlqg",
+    "text": "Robert, perhaps I am getting lost. I thought you had a sustained higher density battery design and a roadmap for further. Having been burned in business Myself I can appreciate some of your struggles but did that original plan change?",
+    "likes": 0,
+    "published_at": "2020-02-17T07:40:51Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxA2IEDnsrxGR3l-Vx4AaABAg.957k43m9UwT95I0Olr-nV2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "don't mate - it's just the folks involved - it amazes me how many people just want to try and make money from playing with the market rather than making a product - so getting someone on board who actually wants to make the battery is proving more difficult than I imagined",
+        "likes": 0,
+        "published_at": "2020-02-21T07:24:38Z"
+      },
+      {
+        "id": "UgxA2IEDnsrxGR3l-Vx4AaABAg.957k43m9UwT95JgGkzAJk8",
+        "author": "@mattjdavis",
+        "author_channel_id": "UCJNZxBqs8ElqouPqAkZLlqg",
+        "text": "Robert Murray-Smith my apologies if I came off as judgemental. I’ve been following you for a while and just been seeing so many tangential products your building that I was curious if that was still the plan. Would accept any remote help? I’d like to get involved in whatever way you need help if that is still your end goal, feel free to reach out to chat further.",
+        "likes": 0,
+        "published_at": "2020-02-21T22:58:31Z"
+      },
+      {
+        "id": "UgxA2IEDnsrxGR3l-Vx4AaABAg.957k43m9UwT95KzwvfbwHk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@mattjdavis help is always welcome mate - what were you thinking? It might be better if you write to me at robertmurraysmith64@gmail.com - cheers",
+        "likes": 0,
+        "published_at": "2020-02-22T11:09:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw9UZP4B92OufphLX94AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "I hope we are not bugging you to bad \n\nWith that being said you know how you stack the coins together to make a battery the more coins and  insulators the higher voltage\n\n could that be done on large-scale like 5 gallon bucket size what these new materials you have came up with \n\nSo instead of a 5 gallon bucket containing a single cell it would be multiple layers giving a high-voltage maybe\n\n just a thought \n\n I'm sure you've already thought about before\n\n there's probably some reason why it wouldn't work good\n\nThanks for your time and have a blessed day",
+    "likes": 0,
+    "published_at": "2020-02-16T02:50:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw9UZP4B92OufphLX94AaABAg.954e1DsFELI95I1TlG56Z6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the basic idea is good - but like most of these things the devil is in the detail - essentially what you are talking about it a bipolar plate battery and yes the work in large scale if you can prevent the electrolyte from one cell mixing with the electrolyte of another cell and that is not so easy - but do-able",
+        "likes": 0,
+        "published_at": "2020-02-21T07:34:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxQz_B2em_F_AzoQN14AaABAg",
+    "author": "@MithunKalan",
+    "author_channel_id": "UCkvF_xX2LTiG9Xi652M9O7A",
+    "text": "Hi Robert. Have you ever thought about making a carbon fibre substitute? The real stuff is mad expensive but so were super capacitors. If the carbon fibre is cheap and strong, then maybe the frame of a car can be made from it & the battery/capacitor can be put into it. So the frame IS the battery.",
+    "likes": 0,
+    "published_at": "2020-02-15T08:00:36Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxQz_B2em_F_AzoQN14AaABAg.952cjwCQ6a995I0U_2NSiX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no mate - tbh there is only so much one person can do - have you tried it?",
+        "likes": 0,
+        "published_at": "2020-02-21T07:25:25Z"
+      },
+      {
+        "id": "UgxQz_B2em_F_AzoQN14AaABAg.952cjwCQ6a995I4KOTBma5",
+        "author": "@MithunKalan",
+        "author_channel_id": "UCkvF_xX2LTiG9Xi652M9O7A",
+        "text": "@ThinkingandTinkering Unfortunately not. My knowledge is no where near usable. Not yet anyways.",
+        "likes": 0,
+        "published_at": "2020-02-21T07:58:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzYnM_dMZyhbWbO7cZ4AaABAg",
+    "author": "@MrInnovationWorks",
+    "author_channel_id": "UC4NtDBFvn8K59_V3xir3NLQ",
+    "text": "Hi Robert,is it possible to carbonize bamboo fibers to make a carbon fiber or a graphene fiber material strong as or stronger than actual carbon fiber.",
+    "likes": 0,
+    "published_at": "2020-02-15T03:14:22Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzYnM_dMZyhbWbO7cZ4AaABAg.9526zX8DjLM955jmvd5w91",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "Short answer is give it a go, long answer is you are not specific enough on the latter half. Single-molecule chain or multiple treads/yarn. IMO Robert does not have the equipment or money needed to find out.",
+        "likes": 0,
+        "published_at": "2020-02-16T12:59:53Z"
+      },
+      {
+        "id": "UgzYnM_dMZyhbWbO7cZ4AaABAg.9526zX8DjLM95I0cLIWdTT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Barskor is spot non I am afraid mate - no time no money and only so much one person can do - you could always look into this yourself - use google scholar and have a few months researching",
+        "likes": 1,
+        "published_at": "2020-02-21T07:26:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz819qQHywJjgpsF614AaABAg",
+    "author": "@Mike-sv2nu",
+    "author_channel_id": "UCEKOAC0pmRrpxSZLuO_-ymg",
+    "text": "Think we can print circuit boards with an ink-jet printer.",
+    "likes": 1,
+    "published_at": "2020-02-14T22:57:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz819qQHywJjgpsF614AaABAg.951eYZJes9a95I1FpkwHZZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "short answer - yes - a lot of work is going on in this field as one of the worst wastes is electronic waste from Europe and America - I think we buy on average 20kg of electronic junk per person per year and waste just as much - have a look at Agbogbloshie, Ghana - it will shock you",
+        "likes": 0,
+        "published_at": "2020-02-21T07:32:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx9uMpupAxhmD0Vlc14AaABAg",
+    "author": "@ThomasAndersonbsf",
+    "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+    "text": "Thanks for sharing Robert, and sorry I am kinda late to getting around to saying that, considering I think I saw this video with in a couple hours of it coming out, just took till today to get around to running the playlist I have it saved to :-) Hope all is going well.",
+    "likes": 0,
+    "published_at": "2020-02-14T03:25:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9uMpupAxhmD0Vlc14AaABAg.95-ZVOwsS9D9502RKt71J-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hiya. mate - we are plugging along lol - cheers",
+        "likes": 0,
+        "published_at": "2020-02-14T07:56:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTN3ri2cYVRWloyI54AaABAg",
+    "author": "@lnwolf41",
+    "author_channel_id": "UC7PJ198UyAyRgvsDr66LjXg",
+    "text": "Hello, I just watched a video from Electrified channel, about new batteries. There is a company called Maxwell, it looks like they r developing a battery similar to yours. Just a FYI",
+    "likes": 0,
+    "published_at": "2020-02-14T02:21:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTN3ri2cYVRWloyI54AaABAg.95-S7Itw5OG9502SsYrlV-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lots of folks are working on batteries mate",
+        "likes": 1,
+        "published_at": "2020-02-14T07:56:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgylZEnRNOxxWeYt8S94AaABAg",
+    "author": "@ricodegallo3060",
+    "author_channel_id": "UCyKtAm7D2k96fKYjYPyRrZw",
+    "text": "👍",
+    "likes": 1,
+    "published_at": "2020-02-14T01:16:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgylZEnRNOxxWeYt8S94AaABAg.95-KiCakhOo9502hu6_nND",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-02-14T07:58:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxJYygbonWtSPchOyh4AaABAg",
+    "author": "@3amali1",
+    "author_channel_id": "UCk1yRlHs6HSxAEWUs6-RLnw",
+    "text": "Rob, you might consider covering the printed lines in a plastic bag or just some lamination because eventually those lines will be sensitive to the environment. Just get close to the voltage divider and exhale some warm breath at one side of it and look at the voltage change! Yes,  you've just made a sensor :)",
+    "likes": 1,
+    "published_at": "2020-02-14T00:07:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxJYygbonWtSPchOyh4AaABAg.95-CqjZ-YXM9502_EN_Lg0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Laminating is a really good idea mate I will do it - cheers",
+        "likes": 0,
+        "published_at": "2020-02-14T07:57:21Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw50IYwkNXW7vjkQYd4AaABAg",
+    "author": "@Mornys",
+    "author_channel_id": "UCCV39HYndNTGQA_eo2J3_bw",
+    "text": "Now here's a challenge project: Self produced photovoltaic cells based on graphene.  So basically DIY solar cells without indium tin oxide.",
+    "likes": 1,
+    "published_at": "2020-02-13T21:21:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw50IYwkNXW7vjkQYd4AaABAg.94zulZRgGFt95-11sNzRbX",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "omnia,you must be new here, robert's been in the \"original research\" educational maker zone for quite a while now.\n\nas robert says, are you going to give it a go... \nand make the video to advocate collaborating makers etc...\nsee his older work on that \"challenge\" playlist here https://www.youtube.com/watch?v=aNGoXjQpU0E&list=PLbQqm4rNo625Br_gdu7IUiZUBIehwXfjo\nThe Birth Of A New Type Of Solar Cell ?\r\n55,659 views•Oct 14, 2014\r,Robert Murray-Smith",
+        "likes": 2,
+        "published_at": "2020-02-13T22:24:40Z"
+      },
+      {
+        "id": "Ugw50IYwkNXW7vjkQYd4AaABAg.94zulZRgGFt9502dVFWq6a",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome idea mate- have you done anything on it?",
+        "likes": 1,
+        "published_at": "2020-02-14T07:57:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyshpDvYCp8mXDItd14AaABAg",
+    "author": "@Ziggerzzz",
+    "author_channel_id": "UCOe27DazXCdUrR8jdqOuOCg",
+    "text": "Is your conductive ink any good for restoring old keyboards with conductive rubber  contacts ?",
+    "likes": 0,
+    "published_at": "2020-02-13T00:20:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyshpDvYCp8mXDItd14AaABAg.94xeYKd4Ytp94yQwWqCGen",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't know - never tried it - but tbh - probably not - membrane switches would be fine but if the rubber is conductive throughout then you would nee to replace it with that",
+        "likes": 0,
+        "published_at": "2020-02-13T07:32:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwqq02fxnkW-pYzKF14AaABAg",
+    "author": "@VICTORIA-SAYERS",
+    "author_channel_id": "UCdoO-vHDULSiCu9mLDfwM2w",
+    "text": "Hi Robert, Cool Device, thanks for sharing. \n\nP.S. I have a question, do you think 5g will make Batteries and Cable Charging obsolete? \n\nI mean do you think it'll come to the point everyone's Phone's will be charging Wirelessly Outdoors everywhere? To the point where we'll never need anything to charge it?",
+    "likes": 0,
+    "published_at": "2020-02-12T22:59:14Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwqq02fxnkW-pYzKF14AaABAg.94xWC4e6kpQ94yR3R-LUma",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't know mate - I don't know that much about 5G - but chances are it won't make charging any easier is my guess",
+        "likes": 1,
+        "published_at": "2020-02-13T07:33:36Z"
+      },
+      {
+        "id": "Ugwqq02fxnkW-pYzKF14AaABAg.94xWC4e6kpQ95-vj0b5JqQ",
+        "author": "@VICTORIA-SAYERS",
+        "author_channel_id": "UCdoO-vHDULSiCu9mLDfwM2w",
+        "text": "@ThinkingandTinkering I see, I was just wondering about that, thanks Robert.",
+        "likes": 0,
+        "published_at": "2020-02-14T06:48:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3uNMw6Brw7aEceAB4AaABAg",
+    "author": "@JamesWilson-pq9qp",
+    "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+    "text": "Ah the old way we used to do it, so much more simple and logical than using MOSFITS. I wonder what do think the efficiency ratio will be? Clipping voltages create so much chatter, I worry about these frequencies causing havoc on sensitive equipment.   A great way to charge a  laptop off solar, Rob, who cares about loses with Solar, 24v down to 19, might actually be less, with smooth DC.  Inspirational, you've got us thinking!",
+    "likes": 0,
+    "published_at": "2020-02-12T22:46:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx3uNMw6Brw7aEceAB4AaABAg.94xUiKkpPfj94yS9Bf__UN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "to be honest mate I think we over complicate stuff - somehow we seem to think the more complex something is the better - often that just isn't true - the question, I think, is what is appropriate for the job you need to do?",
+        "likes": 0,
+        "published_at": "2020-02-13T07:43:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKXmLwUVLoqKiML4F4AaABAg",
+    "author": "@Killianwsh",
+    "author_channel_id": "UCviu_EAdb7cnqrFA7XyRzzw",
+    "text": "Your absolutely correct Rob! It most definitely is awesome! :-) Out of curiosity, do you think your rub on priming technique would work on polyolefin plastics like polypropylene? I've been tinkering with methods to raise the surface energy of  pp (home made corona field treatment built from an old \"violet wand\" skin therapy device) to increase bonding adhesion when using less costly adhesives.  PP is great stuff, inexpensive & very robust, but also a bit maddening to try to get anything to stick too!  Would love to hear any thoughts or tips you might have moment to share. (Or even possibly a quick video?...maybe:-) I'm sure I cant be the only one a bit confounded by this stuff! Lol :-)",
+    "likes": 0,
+    "published_at": "2020-02-12T21:35:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyKXmLwUVLoqKiML4F4AaABAg.94xMbPrZHJa94ySFP4eZWh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is a really interesting question. mate - I will give it a go - tbh I suspect the answer is yes it will do it",
+        "likes": 1,
+        "published_at": "2020-02-13T07:43:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5eBj0x0noWUXEN0p4AaABAg",
+    "author": "@brothernobody1775",
+    "author_channel_id": "UCd0tX-eX4UFQMfATBCmDS3Q",
+    "text": "perfect, Lumilor manufacturers a line of electro-luminescent spray enamel that runs on 12v. Painting things like the limiter with your ink into a piece could lessen the frustration of placing components. basically like what y'all have been doing with the paper circuit project, just on a panel or something and it's one big LED kinda.",
+    "likes": 0,
+    "published_at": "2020-02-12T20:51:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5eBj0x0noWUXEN0p4AaABAg.94xHZuPsJpV94ySICWS4RZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I like that idea mate lol",
+        "likes": 0,
+        "published_at": "2020-02-13T07:44:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZtLZ3da0Y0Zcybxp4AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "I really enjoy watching your videos your attitude is what makes them really enjoyable\n\nWith all of the technology you have pushed forward discovered and invented can there be a battery or very large storage capacitor made out of 5 gallon buckets\n\nA person wouldn't need to make very many cells if they made them 5 gallon bucket size\n\na lot of us can scrounge up old lead acid batteries and other materials\n\n   Four non mobile applications  space and weight is not a consideration\n\nI did hear you mention a few videos back that you was working on something like this\n\nOf course you are the expert it may not be feasible\n\nI would buy the plans or make a donation everyone has to eat and pay bills\n\n thank you for your time",
+    "likes": 0,
+    "published_at": "2020-02-12T20:42:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZtLZ3da0Y0Zcybxp4AaABAg.94xGa7RKR5x94ySoNDUrn5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you for saying so and tbh I think it would work it wouldn't be the most efficient but it would be cheap and do the job and I like that - I'll have a think - cheers",
+        "likes": 0,
+        "published_at": "2020-02-13T07:48:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzxPWXFjnNpfWSBNn14AaABAg",
+    "author": "@aga5897",
+    "author_channel_id": "UCWieQLfF7fW2-MGHlCs8dRg",
+    "text": "Wonderful, and a superb explanation !\nFar more illustrative than just using the 5v output of the arduino and the built-in pullup resistors ...",
+    "likes": 1,
+    "published_at": "2020-02-12T19:37:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzxPWXFjnNpfWSBNn14AaABAg.94x99AMO6RU94xAdTmZSeD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and i think so too",
+        "likes": 0,
+        "published_at": "2020-02-12T19:50:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxic-JIwFopEE8MHOx4AaABAg",
+    "author": "@Thrive-Off-Grid",
+    "author_channel_id": "UCIj9jrb2pG4mNb_njWMKxPg",
+    "text": "So is the ink what I would need to coat copper mesh with out losing the permeability of the mesh? I was thinking of using a spray gun to apply very light coats so not to clog up the mesh openings. When I think of an ink I think of a materiel that never cures.",
+    "likes": 1,
+    "published_at": "2020-02-12T18:30:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxic-JIwFopEE8MHOx4AaABAg.94x1VQUY3gF94xArxF4neZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have to say 1t's water resistant mate not waterproof",
+        "likes": 1,
+        "published_at": "2020-02-12T19:52:50Z"
+      },
+      {
+        "id": "Ugxic-JIwFopEE8MHOx4AaABAg.94x1VQUY3gF94xGYwQznM3",
+        "author": "@Thrive-Off-Grid",
+        "author_channel_id": "UCIj9jrb2pG4mNb_njWMKxPg",
+        "text": "@ThinkingandTinkering Thanks Robert if you have an alternative solution please let me know.",
+        "likes": 0,
+        "published_at": "2020-02-12T20:42:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3jIlhCY1MDiYBBMx4AaABAg",
+    "author": "@Thrive-Off-Grid",
+    "author_channel_id": "UCIj9jrb2pG4mNb_njWMKxPg",
+    "text": "I use switches with a ground circuit and pull up on the input pins. But that is pretty cool :)",
+    "likes": 0,
+    "published_at": "2020-02-12T18:22:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx3jIlhCY1MDiYBBMx4AaABAg.94x0UVCgKAB94xAu8BJXI2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T19:53:08Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3sPvKFlGdxCtYElF4AaABAg",
+    "author": "@GmanBB",
+    "author_channel_id": "UCsFCaAV54JPWmH4MBU3kW9Q",
+    "text": "Your creativity is amazing, Rob!",
+    "likes": 0,
+    "published_at": "2020-02-12T17:50:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx3sPvKFlGdxCtYElF4AaABAg.94wxqiHpsyT94xAvyFopJa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T19:53:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6qNN7pNG8VWrw2eR4AaABAg",
+    "author": "@edwardhughes352",
+    "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+    "text": "Excellent video. Rather than find the voltage with maths could you connect a volt meter to your track with one electrode making the circuit when touched on the track then move the electrode until you get your desired voltage.",
+    "likes": 0,
+    "published_at": "2020-02-12T17:36:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy6qNN7pNG8VWrw2eR4AaABAg.94wwHWtDWqo94xB1Zmo3Ch",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice idea mate - thanks for that - i'll use it for sure",
+        "likes": 0,
+        "published_at": "2020-02-12T19:54:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzc6r2jmcG77nTlXzB4AaABAg",
+    "author": "@jimmylimestone",
+    "author_channel_id": "UCBHglK3t8ofACk_decODlmw",
+    "text": "16 ma??  charging circuit for zinc bromide batteries??  \nAside, can you tell me the carrier and solvent for your marvelous INK. I need to b able to clean up and thin it. Thank You!",
+    "likes": 0,
+    "published_at": "2020-02-12T17:15:46Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzc6r2jmcG77nTlXzB4AaABAg.94wttSz5ONq94xB9FDEOB7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "water mate - just plain old water",
+        "likes": 1,
+        "published_at": "2020-02-12T19:55:20Z"
+      },
+      {
+        "id": "Ugzc6r2jmcG77nTlXzB4AaABAg.94wttSz5ONq94xVC2GeGjO",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "@ThinkingandTinkering so no negatively charged H3O2 then.\n whats the american salesmen to do now",
+        "likes": 1,
+        "published_at": "2020-02-12T22:50:29Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzna1ydsmQd4Ch3MHZ4AaABAg",
+    "author": "@XxASBURYxX",
+    "author_channel_id": "UCPpJhL9Jc5MTWbUGhy05X1w",
+    "text": "Do you do the Copper plating solution still ? I can not seem to find that on the webiste :(",
+    "likes": 0,
+    "published_at": "2020-02-12T16:27:27Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugzna1ydsmQd4Ch3MHZ4AaABAg.94woMYH3s1A94wqvz8abEW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "we don't sell it anymore mate - not enough people wanting it and it actually costs to list",
+        "likes": 1,
+        "published_at": "2020-02-12T16:49:53Z"
+      },
+      {
+        "id": "Ugzna1ydsmQd4Ch3MHZ4AaABAg.94woMYH3s1A94wt7AdPXij",
+        "author": "@XxASBURYxX",
+        "author_channel_id": "UCPpJhL9Jc5MTWbUGhy05X1w",
+        "text": "@ThinkingandTinkering Ahhh shame :( I'll grab some nickle and find copper else where, thank you",
+        "likes": 0,
+        "published_at": "2020-02-12T17:09:02Z"
+      },
+      {
+        "id": "Ugzna1ydsmQd4Ch3MHZ4AaABAg.94woMYH3s1A94wvvsgLoYI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@XxASBURYxX awesome mate - and I am sorry about that",
+        "likes": 0,
+        "published_at": "2020-02-12T17:33:34Z"
+      },
+      {
+        "id": "Ugzna1ydsmQd4Ch3MHZ4AaABAg.94woMYH3s1A952q9JISaBn",
+        "author": "@crisangle8592",
+        "author_channel_id": "UCqY-_FIEoZ5QzkGxlF6Zcew",
+        "text": "@ThinkingandTinkering if you want anything related to website or software \ncontact me anytime , and its not you already paid for it lol",
+        "likes": 0,
+        "published_at": "2020-02-15T09:57:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyC8cygD6vzYxB5KwF4AaABAg",
+    "author": "@technosaurus3805",
+    "author_channel_id": "UCFqusJ9JPYNyb25Oa9JBusQ",
+    "text": "This works for Robert's use case.  If you have resistive loads, the voltage can change  with the load - you can correct for this by measuring voltage with the loads connected or measuring resistance and using ohms law.  ... or use an appropriate zener diode.\n\nFun fact: It wasn't the Chinese who first started removing functionally unnecessary components (Muntzing).  Muntzing is named after Earl \"madman\" Muntz who did it with televisions and other electronic devices in the mid 1900s.",
+    "likes": 0,
+    "published_at": "2020-02-12T16:18:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyC8cygD6vzYxB5KwF4AaABAg.94wnKE60C9Q94wr0weSmAG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice add mate - thanks - and fun fact lol",
+        "likes": 0,
+        "published_at": "2020-02-12T16:50:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxopsm3UzqqwjnzWw54AaABAg",
+    "author": "@craigglewis",
+    "author_channel_id": "UCblgk4tVnSqVAjd1PvLSwtQ",
+    "text": "use Copper tape and solder on the wire. No drilling required ;) A Slide for Variable Voltages. Graphene Paint is AMAZING  Mate :)",
+    "likes": 0,
+    "published_at": "2020-02-12T15:51:02Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxopsm3UzqqwjnzWw54AaABAg.94wkBu4f-su94wr5RUrXyU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome suggestion mate - cheers",
+        "likes": 1,
+        "published_at": "2020-02-12T16:51:19Z"
+      },
+      {
+        "id": "Ugxopsm3UzqqwjnzWw54AaABAg.94wkBu4f-su94xbZ_ceVrj",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "craig, did you not see https://www.youtube.com/watch?v=zjkFkP-tc0I\n and https://www.youtube.com/watch?v=uB_o_cKDAbY&list=PLbQqm4rNo626QWWgvxU6ebnxWlqJRGYKu&index=3&t=0s&app=desktop",
+        "likes": 0,
+        "published_at": "2020-02-12T23:54:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzsnO_O38lE_UNIaHl4AaABAg",
+    "author": "@philipvernejules9926",
+    "author_channel_id": "UCRSfpo_NFOLdB1LBOMd0pSw",
+    "text": "..........back when voltage dividers were more common in valve and solid state electronics , the rule of thumb was that the resistance of the tapping load  had to be at least ten times the resistance of  it's portion of the divider network. The old old TVs easily consumed 300 watts but it didn't matter in the profligate days .  There's more useage of high frequency conversion these days to enable the use of small ferrite transformers to solve voltage requirements..... For your heating pads I was just privately thinking that there may not be be any heating effect for areas spanned by the adhesive copper foil. In looks like it takes up say 20% of heater pad area. Could you perhaps have split the foil into thinner sections? .There can't be any heating effects where the copper foil is surely.....I'm probably still in the dark about what the silar device will be for but I know all will be revealed.... Oh,, I see nice symmetry,, you make a voltage divider,,well you could also make a voltage multiplier using a4 size bopet projector sheets , diodes, and painted graphene dielectric capacitors to power a Jacobs ladder maybe. AC is needed..\n....very good resourcefulness on your part with the setup...\n\nTranslation----\nValve = tube as in thermionics\nSolid state electronics = semiconductor electronics as was once the lexicon.",
+    "likes": 1,
+    "published_at": "2020-02-12T15:44:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzsnO_O38lE_UNIaHl4AaABAg.94wjP4O8tjt94wrIL77U08",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and I think you are quite correct but like I said it was the tape I had so it was the tape I used but if I was buying some for this I would certainly go thinner",
+        "likes": 0,
+        "published_at": "2020-02-12T16:53:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzrUBG8W8yGh4Td8fN4AaABAg",
+    "author": "@bill-zy6dg",
+    "author_channel_id": "UCb6wMQgQEd6PfddATtFaT4Q",
+    "text": "very cool",
+    "likes": 0,
+    "published_at": "2020-02-12T15:38:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzrUBG8W8yGh4Td8fN4AaABAg.94wiiMQM4MX94wrLUD5PZm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T16:53:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwubzTPWlE-o6qWP2t4AaABAg",
+    "author": "@imadjawad4408",
+    "author_channel_id": "UCuiRPidiC0PvqRGuRN-_0Fg",
+    "text": "Thank you for such great demo for the product, would using a protective coat prevent ink resistance changes? What kind of coat? Is there a copper version of this interesting ink? Will I be able to spray it?\n\nThank you :)",
+    "likes": 0,
+    "published_at": "2020-02-12T15:21:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwubzTPWlE-o6qWP2t4AaABAg.94wgnNxLPOQ94whAqxrJwH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I suppose so mate but it is carbon based and pretty stable - even so a coat of acrylic varnish wouldn't hurt it - it can be sprayed no problems - I used an airbrush in one video",
+        "likes": 1,
+        "published_at": "2020-02-12T15:24:41Z"
+      },
+      {
+        "id": "UgwubzTPWlE-o6qWP2t4AaABAg.94wgnNxLPOQ95-YORKC5NM",
+        "author": "@ThomasAndersonbsf",
+        "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+        "text": "since he says acrylic works I would think that polyurethane sealant might work too, and I have found it is pretty tough as a wire coating once it has enough time to fully cure, almost as good (toughness) as the coatings on \"magnet\" wire. :) (makes me wonder if a good tough epoxy might be good too, along with polystyrene peanuts dissolved in xylene to make styrene paint which I have done but I know styrene is kinda sensitive to UV and the like causing it to degrade so far less durable than the carbon I am guessing :) (but could be a better dielectric insulator, and then encase that under the urethane? anyway interesting ideas all around, cant wait to get time to do some experimenting XD",
+        "likes": 1,
+        "published_at": "2020-02-14T03:16:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxIUHXXTnXpSU2uMxN4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "I was around 5 years old when i grasped this concept looking at my scalectrix hand throttle .i think the carbon track also went from wide to narrow to limit the voltage and possible the current ! It started my career involving electronics !",
+    "likes": 5,
+    "published_at": "2020-02-12T15:20:17Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxIUHXXTnXpSU2uMxN4AaABAg.94wgfibx5m794wh2iuKLbu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 1,
+        "published_at": "2020-02-12T15:23:34Z"
+      },
+      {
+        "id": "UgxIUHXXTnXpSU2uMxN4AaABAg.94wgfibx5m794xToc0gOmk",
+        "author": "@gcewing",
+        "author_channel_id": "UCOfam1glqK75M8tQKc5R2wA",
+        "text": "The variation in width would be to give a non-linear relationship between position and voltage, probably so you have finer control at the low end.",
+        "likes": 2,
+        "published_at": "2020-02-12T22:38:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxtJ8ZLuRTuokwtv4x4AaABAg",
+    "author": "@crisangle8592",
+    "author_channel_id": "UCqY-_FIEoZ5QzkGxlF6Zcew",
+    "text": "now i gona make pressure sensor with this",
+    "likes": 3,
+    "published_at": "2020-02-12T15:11:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxtJ8ZLuRTuokwtv4x4AaABAg.94wfdTzGd1m94wgeuPFXkH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's a good idea mate",
+        "likes": 0,
+        "published_at": "2020-02-12T15:20:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwKwl-3ZZyFZqHAv894AaABAg",
+    "author": "@77pete7",
+    "author_channel_id": "UCbtxrLaYqlHakXGaBx14QHA",
+    "text": "Great job! It’ll be fun when you can get a cartridge of your ink for a printer, and print out a complete radio circuit ... or anything else for that matter. Or print onto plastic and make it a wearable. Component manufacturers had better watch out!",
+    "likes": 0,
+    "published_at": "2020-02-12T15:10:34Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwKwl-3ZZyFZqHAv894AaABAg.94wfZUlSO9a94wgnZUN4Eu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - for sure",
+        "likes": 0,
+        "published_at": "2020-02-12T15:21:22Z"
+      },
+      {
+        "id": "UgwKwl-3ZZyFZqHAv894AaABAg.94wfZUlSO9a955kHpLmB72",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "Pancake coils and antenna",
+        "likes": 0,
+        "published_at": "2020-02-16T13:04:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxWc3uPGT2xYbUPLqh4AaABAg",
+    "author": "@crisangle8592",
+    "author_channel_id": "UCqY-_FIEoZ5QzkGxlF6Zcew",
+    "text": "cool",
+    "likes": 0,
+    "published_at": "2020-02-12T15:10:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxWc3uPGT2xYbUPLqh4AaABAg.94wfZHSbU8f94wgqg0ABFY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T15:21:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyeI7JPbWITdCz85Pp4AaABAg",
+    "author": "@crisangle8592",
+    "author_channel_id": "UCqY-_FIEoZ5QzkGxlF6Zcew",
+    "text": "hi rob\nare you going to built solid state  battery ?",
+    "likes": 2,
+    "published_at": "2020-02-12T15:08:22Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgyeI7JPbWITdCz85Pp4AaABAg.94wfJL6E5pB94wgxktc5RO",
+        "author": "@Buzzhumma",
+        "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+        "text": "Cris Angle  heres hoping mate . It is rather complex chemistry that most likely wont be easy to replicate by us in the shed . But who knows maybe something simple can be discovered .",
+        "likes": 1,
+        "published_at": "2020-02-12T15:22:45Z"
+      },
+      {
+        "id": "UgyeI7JPbWITdCz85Pp4AaABAg.94wfJL6E5pB94wgyH1IfGn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "probably not mate",
+        "likes": 2,
+        "published_at": "2020-02-12T15:22:49Z"
+      },
+      {
+        "id": "UgyeI7JPbWITdCz85Pp4AaABAg.94wfJL6E5pB94xY97LJmFF",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "the problem is \"solid state\" has become the clinton fake news network/snakeoil salesmans hype word without meaning today...\n\n\nif you want  a \"solid state\" for your super sized lego brick battery building then im sure you could use roberts carbon/graphene cement mix to encase them and so get a super \"solid state\" brick in your wall... :)\n\n\n\"Solid-state electronics means semiconductor electronics; electronic equipment using semiconductor devices such as transistors, diodes and integrated circuits.\"",
+        "likes": 1,
+        "published_at": "2020-02-12T23:16:18Z"
+      },
+      {
+        "id": "UgyeI7JPbWITdCz85Pp4AaABAg.94wfJL6E5pB94yumURkew6",
+        "author": "@crisangle8592",
+        "author_channel_id": "UCqY-_FIEoZ5QzkGxlF6Zcew",
+        "text": "@Buzzhumma \n\"It is rather complex chemistry\"\nHTC and SILAR  electrospinning \nare \"CONSIDERS\" pretty complex i have seen rob doing it in his lab and shown how to do it",
+        "likes": 0,
+        "published_at": "2020-02-13T12:02:02Z"
+      },
+      {
+        "id": "UgyeI7JPbWITdCz85Pp4AaABAg.94wfJL6E5pB95-Z3QH6pdx",
+        "author": "@ThomasAndersonbsf",
+        "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+        "text": "I wonder if my idea of using graphene and aerogel/silicagel for making chemical batteries would be able to do the trick (ie think glassmat but with a glass gel instead to act as the ion exchange component and graphene from heavily rubbed carbon as Robert shows in \"how to make graphene sheets as big as you like\" with an orbital sander if I recall and a buffing bonnet? I need to go back and look again. I hope that was the worst of it, as I have an idea for a better surface for making more uniform flat graphene on than glass (no tiny cracks nor any abnormalities from the polishing process sorta how the liquid metal has been used to make perfectly flat single layers of oxygen, for semiconductors like transistors) will do up some sort of video when I am done, luckily I don't have much interesting stuff on my channel so anyone who does see I will be able to talk to on there with out so much chatter that it makes it impossible for me to stay focused lol.",
+        "likes": 0,
+        "published_at": "2020-02-14T03:21:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyt8wtC41y6Vyv5TXR4AaABAg",
+    "author": "@aaknuu",
+    "author_channel_id": "UCzDDJjqyWFt3cKGyBEFFRUw",
+    "text": "Does it get hot?",
+    "likes": 0,
+    "published_at": "2020-02-12T15:07:08Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyt8wtC41y6Vyv5TXR4AaABAg.94wfANozSiA94wgtr41Cxp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no mate - it's burning off 16mA",
+        "likes": 0,
+        "published_at": "2020-02-12T15:22:13Z"
+      },
+      {
+        "id": "Ugyt8wtC41y6Vyv5TXR4AaABAg.94wfANozSiA94whpFdY4X0",
+        "author": "@aaknuu",
+        "author_channel_id": "UCzDDJjqyWFt3cKGyBEFFRUw",
+        "text": "@ThinkingandTinkering oh that's why you mentioned the current draw. And since you are actually using a load somewhere else it doesn't heat up.",
+        "likes": 0,
+        "published_at": "2020-02-12T15:30:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7q0nXhRDiNqu4jW14AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "Very cool",
+    "likes": 0,
+    "published_at": "2020-02-12T15:01:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx7q0nXhRDiNqu4jW14AaABAg.94weUdCgIp794wgwn3w4zj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T15:22:37Z"
+      }
+    ]
+  }
+]

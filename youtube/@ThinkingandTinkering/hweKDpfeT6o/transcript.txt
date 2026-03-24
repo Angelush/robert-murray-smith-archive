@@ -1,0 +1,249 @@
+[00:03] [Music]
+[00:10] this obviously is a car alternator it's
+[00:13] actually from a nissan micro now we have
+[00:15] a look at how this is made up we can see
+[00:17] the breakdown of it
+[00:34] an idea of what it looks like but here's
+[00:35] the actual machine itself where i split
+[00:38] it to be into pieces now inside here
+[00:40] we've got a rectifier unit right there
+[00:42] and that takes the outputs from this the
+[00:45] stator and then rectifies them into dc
+[00:47] so we get dc output now i've rewired the
+[00:50] brushes for a couple of wires here
+[00:53] but the brushes hit those slip rings
+[00:55] there what that means is the brushes are
+[00:58] feeding a constant dc to the rotor coil
+[01:01] so that rotor coil is a magnet always on
+[01:04] and always in the same direction now
+[01:06] this differs
+[01:08] from motors and other generators in that
+[01:10] normally you see the call in that
+[01:12] direction
+[01:13] on these things the call is wound around
+[01:16] like that
+[01:17] and that's the coil it's just a coil
+[01:19] sitting in there like that and that
+[01:20] means that that is permanently north and
+[01:22] that's permanently south so the top of
+[01:24] these are north northern sounds
+[01:26] now we've done this before when we used
+[01:28] a speaker magnet you can bend that
+[01:31] magnetic field you bend that magnetic
+[01:33] field by using a shoe with a bend in it
+[01:36] and these are called crab claws and they
+[01:38] look like that there's two of them
+[01:41] so that's them there and we have two of
+[01:43] them like that
+[01:45] taking that permanent north and bending
+[01:47] it around here taking that permanent
+[01:49] south and bending it round here so we
+[01:52] see north south north south on the crab
+[01:55] claw poles and not on the top even
+[01:58] though we're feeding the current into a
+[02:00] coil so we have a permanent north and a
+[02:02] permanent south that's really unusual
+[02:05] and kind of really exciting as well
+[02:07] because it allows us to do stuff
+[02:09] now very often when people suggest
+[02:11] turning this into a brushless generator
+[02:13] what they're talking about
+[02:15] is replacing the stator with some
+[02:16] magnets and you see them drilling into
+[02:18] the crab claw so they'll drill in about
+[02:21] here or so put a magnet in and they've
+[02:23] got all the problems it's balancing
+[02:25] in fact they didn't need to do that what
+[02:27] they could do is just drill in the top
+[02:28] and as long as one's pointing north and
+[02:30] one's pointing south the crab claw will
+[02:33] take care of bending the field and
+[02:36] making sure that we get north and south
+[02:37] on the poles it also means
+[02:40] that just like we did in the previous
+[02:42] video we get this to speaker magnets but
+[02:44] that speaker magnet has a north face
+[02:46] here and a south face here and we do
+[02:48] that with it
+[02:52] then the crab claws will bend those
+[02:54] poles around so even though that magnet
+[02:57] there there's a top north and top south
+[02:59] it makes no difference it'll bend it
+[03:01] round so that we get the north and south
+[03:03] on the poles where we want them to be
+[03:05] because the crab claw is bending the
+[03:06] magnetic field that's absolutely awesome
+[03:09] you think about it
+[03:11] now the strength of that field in that
+[03:13] coil is dependent on the number of amps
+[03:16] that we're pumping through now remember
+[03:17] because they're slip rings and not a
+[03:19] commutator it's always got the same
+[03:21] direction so if we up the amps what
+[03:24] happens is that magnetic field gets
+[03:26] stronger we down the amps the field gets
+[03:28] weaker
+[03:29] the stronger that field is and as it
+[03:32] spins through the stator this bunch of
+[03:34] wires here it generates current for us
+[03:38] now if i take this bunch of wires apart
+[03:40] what we have is our stator all by itself
+[03:42] you'll see it's just coils it's coils
+[03:45] with three output wires
+[03:47] those three wires that are output are
+[03:50] our three phase if we do that and make
+[03:53] this
+[03:55] a permanent magnet arrangement like that
+[03:58] what we have in fact got is a brushless
+[04:00] three-phase generator so it's really
+[04:02] easy to turn these things into a
+[04:03] three-phase generator just by doing
+[04:06] those two adaptions and that leads them
+[04:08] to be
+[04:08] very adaptable for it as you want them
+[04:10] to do now the limitation on this really
+[04:13] is it's from a car so it's meant to spin
+[04:16] at sort of 3000 rpm or so and that's
+[04:18] where it functions best
+[04:20] but mostly that's to do with this wire
+[04:22] in here and you can find people swapping
+[04:24] these wires out for thinner wires to
+[04:26] rewind it so that it becomes a higher
+[04:29] voltage generator remember
+[04:31] voltage is proportional to the speed
+[04:33] that it turns out the strength of the
+[04:34] magnetic field that it's turning through
+[04:37] and the length of the wire that's
+[04:38] turning through there so if you extend a
+[04:41] wire we get a longer length of wire that
+[04:43] we can bang in there and so we get a
+[04:45] higher voltage
+[04:47] okay so i've got it set up here's the
+[04:49] meter reading volts here's my power
+[04:51] supply and i've got nothing going
+[04:53] through that rotor at the moment so it's
+[04:55] really easy to spin because the only
+[04:57] thing i have to overcome is the friction
+[04:58] of the bearings which because it's very
+[05:00] low now you might notice that when i
+[05:02] spin it we actually get a reading there
+[05:05] of a few millivolts and that's because
+[05:07] there's residual magnetism in the rotor
+[05:10] and we'll talk about that later but if i
+[05:12] put a bit of power on that
+[05:17] and put that power up what we'll see is
+[05:20] the voltage go up in generation we're
+[05:22] about five volts but what you can feel
+[05:25] is an increase in the torque
+[05:33] you put that at 12 volts you can see i'm
+[05:34] producing a couple of faults here but
+[05:36] i'm having to really turn that now
+[05:41] so that's really significant because
+[05:44] as we increase the strength of the
+[05:46] magnetic field in the rotor which we do
+[05:48] by increasing the voltage
+[05:50] we increase the torque requirement to
+[05:52] turn that rotor but we also increase the
+[05:55] fault output of the stator now that
+[05:59] means we can make this adjusting because
+[06:02] remember in order to turn that the
+[06:04] torque is the turning force required
+[06:07] that turning force has to be available
+[06:09] in the wind so we've got a high torque
+[06:10] setting on here for using permanent
+[06:12] magnets for instance there has to be
+[06:14] enough force in the wind to turn against
+[06:17] those permanent magnets and if the force
+[06:20] isn't there those magnets won't done
+[06:22] if we can reduce the torque requirement
+[06:25] for low winds of course we can get this
+[06:26] to generate in low winds as the wind
+[06:29] speed picks up when we can increase the
+[06:31] voltage to the rotor increasing the
+[06:34] torque requirement and then also
+[06:37] increasing the generation so that
+[06:39] generation can be linked directly to the
+[06:41] wind speed you might want to always
+[06:43] measure the wind speed with something
+[06:44] like an automotive and control the
+[06:46] voltage say with an arduino
+[06:48] but you would have then a device that
+[06:50] could set itself to the wind speed
+[06:53] and generate in a whole range of wind
+[06:55] speeds instead of having a low wind
+[06:57] speed where it needs to generate
+[07:00] now equally if the wind speed is too
+[07:02] great you can set that torque
+[07:04] so strong that even a strong wind can't
+[07:07] turn it so it'll effectively
+[07:10] be a break so it's an adjusting system
+[07:13] that can adjust the wind speed to low in
+[07:15] speeds and protect itself in high wind
+[07:18] speed which i think is really exciting
+[07:20] now i pointed this out to you
+[07:23] with the residual magnetism
+[07:27] as returned okay so it's a bit harder to
+[07:29] demonstrate this because the time
+[07:31] requirement but let's see if we can get
+[07:32] the sense of this what i've done is i've
+[07:34] taken the rotor wires and connect them
+[07:37] to the stator wires so the residual
+[07:39] magnetism in the rotor will make the
+[07:42] stator generate the stator will now feed
+[07:44] that power back into the rotor and that
+[07:47] will mean that the rotor magnet gets
+[07:49] stronger and so there'll be more
+[07:51] generation and so the field will get
+[07:53] stronger and so on and so on and we get
+[07:54] a positive feedback mechanism based on
+[07:57] the rotation speed of the rotor he needs
+[08:00] something a bit more permanent than me
+[08:01] spinning it by hand just to test the
+[08:03] torque so i put a bit of string around
+[08:05] it and we're going to pull that and see
+[08:06] if we can see that on the millivolt
+[08:08] reading
+[08:12] now it's kind of difficult to see but
+[08:14] you could see that it went up to about
+[08:16] three millivolts and remember when we
+[08:18] were doing that by hand we got a
+[08:19] millivolt or so
+[08:22] what we really need to do is put this in
+[08:24] a solid
+[08:25] in a system where it's continuing to
+[08:27] turn
+[08:30] there we go there's an awful lot more to
+[08:32] them than you might think if we pull up
+[08:34] out the crab claws and put a permanent
+[08:36] magnet in that rotor we can turn it into
+[08:38] a brushless generator if we remove the
+[08:40] rectifier and take the three coil output
+[08:42] separately we can make it three phase
+[08:45] if we control the voltage going into the
+[08:48] rotor then we can actually use it for
+[08:51] cell for breaking and self-control and
+[08:54] we can feed it straight back in and use
+[08:56] it as a feedback mechanism so that we
+[08:58] can control let the thing control its
+[09:00] own speed now you might think we're
+[09:02] using power to power the rotor and
+[09:04] therefore what's the point and we are
+[09:05] using power to power the rotor but
+[09:08] because we're also spinning it through
+[09:09] that field there's always more power out
+[09:12] than we're actually going to put in so
+[09:14] if you use that voltage control
+[09:16] mechanism you might want to attach a
+[09:18] supercapacitor or two to it to be able
+[09:20] to control that and change the strength
+[09:22] of the magnetic field so quite a lot of
+[09:24] things you can do with these that
+[09:25] actually get quite fancy and quite
+[09:27] tricky and really quite impressive so i
+[09:30] thought i'd go through that because as i
+[09:31] say there is more to these things than
+[09:33] you think and we'll be using some of
+[09:35] those in later videos anyway i hope you
+[09:37] enjoyed this video thank you very much
+[09:39] for watching and please remember to like
+[09:41] and subscribe

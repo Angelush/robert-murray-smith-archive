@@ -1,0 +1,290 @@
+[00:00] [Music]
+[00:08] So this clearly it's a peacock feather
+[00:11] and my neighbor keeps peacocks. Now in
+[00:13] terms of the noise they make they're
+[00:15] ugly birds but in terms of how they
+[00:18] look. I mean the males are stunning with
+[00:20] these things and of course that's what
+[00:22] this feather is for. It's for display
+[00:24] purposes. But feathers come in all
+[00:27] shapes and sizes and do many different
+[00:29] things. And when we think of a feather,
+[00:31] at least when I think of a feather, I
+[00:34] think of aerodynamics and flight. And
+[00:36] when you're looking for inspiration, of
+[00:38] course, nature is a great place to look.
+[00:42] And looking at things like spinning
+[00:43] jennies, the tubacles on the fins of
+[00:47] whales, the barbs on the hooks of owls,
+[00:50] there are just inspirations absolutely
+[00:52] everywhere. Of course, the feather, or
+[00:54] at least the flight feather, can be an
+[00:57] inspiration for a wind turbine blade.
+[01:00] Now, if you're looking for that kind of
+[01:03] thing, it's astonishing what you can
+[01:05] find. The US Department of Fisheries
+[01:07] keeps what they call a feather atlas,
+[01:10] where you can actually get the different
+[01:13] shapes of different feathers from
+[01:15] different birds across the US. Why they
+[01:18] would do such a thing, I don't really
+[01:20] know. But as a resource, it is actually
+[01:23] available. And it's astonishing what's
+[01:25] available when you look. And of course,
+[01:27] I was thinking about wind turbine blades
+[01:30] and feathers and whether the
+[01:32] aerodynamics of a feather would do
+[01:34] anything in a wind turbine blade. And of
+[01:37] course, the thing I have to do now when
+[01:39] I think of such a thing, because it's
+[01:40] me, is I have to make that. And the
+[01:43] question is, how do you go about turning
+[01:46] a feather into a wind turbine blade?
+[01:49] Right, to do this, of course, we're
+[01:50] going to use FRECAD. And I've got a new
+[01:53] FreeCAD file open. And the first thing
+[01:55] to do is to create a body. So, click on
+[01:58] create body. And there it is. We're
+[01:59] done. Now, we need to bring our image
+[02:02] in. And of course, the image is going to
+[02:03] be got from somewhere on the web in my
+[02:06] case. And here is the surface of two
+[02:08] duck feathers from that atlas that I was
+[02:11] talking about earlier. So we can click
+[02:14] on that and save the image as a JPEG
+[02:16] file. Once we save the image as a JPEG
+[02:19] file to wherever we want it to, we can
+[02:21] bring it into Frecad. To bring it into
+[02:24] Frecad file and import. Now there used
+[02:27] to be something called the image
+[02:29] workbench. This was in earlier versions.
+[02:32] It's now gone and we can use this to do
+[02:34] everything. Click on the image file you
+[02:37] just collected. Click on open. And hey
+[02:39] presto, let's have a look at the top.
+[02:41] We've got our image. Now, this image
+[02:43] unfortunately is black and so it's going
+[02:45] to be hard to see. So, click on there.
+[02:48] And if we on the actual image, we can
+[02:50] see that it's been loaded as an image
+[02:52] file. If we view this, then we can see
+[02:54] that we've got a transparency there.
+[02:57] Change that transparency to 75.
+[03:00] That'll make it very transparent so we
+[03:02] can actually see through it. Now,
+[03:04] because it's a new file, we're on part
+[03:06] design and we have loaded this up from
+[03:08] previous videos. So, click on the curves
+[03:10] workbench and that's the workbench that
+[03:13] we're going to be using. And there we
+[03:14] go. Now, what we want is freehand blline
+[03:18] which is right there. Click on the
+[03:19] freehand bplline and this will appear
+[03:22] and we can drag and drop those points to
+[03:25] go around that feather. So, grab the
+[03:27] point and just move it up to where you
+[03:29] want it to be. Somewhere like there for
+[03:31] instance. The midpoint can go oh let's
+[03:34] say right over there and this point is
+[03:37] going to go the beginning of the
+[03:39] feather. Now you can see that we've got
+[03:41] this blue line here. If we click on that
+[03:43] blue line and press I on the keyboard it
+[03:46] enters another control point which we
+[03:49] then can then position. So if we
+[03:51] position that down there and we keep on
+[03:53] going. What we can actually do is create
+[03:56] a curve that is the outline of this
+[03:59] feather. Then this can be used on
+[04:03] anything. Obviously, I'm doing a
+[04:06] feather, but if you want to do anything
+[04:07] else that you've taken an image of that
+[04:09] you pull in, then you do exactly the
+[04:11] same sort of stuff in order to be able
+[04:14] to draw around any image you want. We
+[04:17] keep on doing that, clicking on the
+[04:19] spline and then hitting I to get as many
+[04:23] of these points as we actually need to
+[04:25] create our curve. Once we're happy with
+[04:28] our curve, there we go. Then we can
+[04:30] carry on curving round the rest of the
+[04:33] feather until we've basically drawn the
+[04:35] outline of the feather. I've drawn the
+[04:37] two sides of the feather and I've drawn
+[04:39] a center line. Well, it's not center,
+[04:40] it's off center where the quill actually
+[04:42] runs. Once we've done that, if we hide
+[04:45] the picture, we can see that we've got
+[04:47] our feather image drawn. So, for the
+[04:49] second part of this, of course, what I
+[04:50] want to do is bend that feather shape
+[04:53] into an air for the shape. Equally,
+[04:56] however, I could choose an NACA air foil
+[05:00] to copy that air foil shape onto the
+[05:03] feather shape. So, I did exactly the
+[05:05] same thing. Chose an NA air foil,
+[05:08] imported it into a free CAD, and drew
+[05:11] around it with two Bplines.
+[05:14] So, here is the air foil I chose. And of
+[05:17] course, I put a couple of beines around
+[05:20] it. And then, if we hide the air foil,
+[05:22] we can see that the curve I've actually
+[05:24] drawn. Now, this is two curves. If you
+[05:26] look here, you'll see there's a gap
+[05:28] between them. And there's also a gap
+[05:30] between them here and here. We'll deal
+[05:32] with that later. But the thing about
+[05:34] Bplines is they're a bit of a pain in
+[05:37] fact because they will pick up
+[05:39] underlying geometry. But when I've got
+[05:41] the image selected and I go down to here
+[05:44] on the view tab, selectable can be true
+[05:48] or false. I've set it to false. So, the
+[05:51] image can't be selected. And that makes
+[05:54] it an awful lot easier to handle be
+[05:56] splines. So I've zoomed in on that small
+[05:59] gap we were talking about. If we go to
+[06:01] the end of the curve here, you'll see
+[06:03] the curve point. Select it and press
+[06:06] down the control key and select the
+[06:08] other point there. Then here we've got
+[06:11] parametric line. Click the line and
+[06:13] it'll draw the line between the two
+[06:15] closing that gap. Then we click on that
+[06:18] line. Click on the curve. And here we've
+[06:22] got join curves. Click on that and it'll
+[06:25] make it one curve. And if we repeat that
+[06:28] process by clicking on the join curve
+[06:30] with the unjoin curve and join it again.
+[06:33] So now we got one complete curve. It's
+[06:35] obviously too big because there's the
+[06:37] air foil, there's the feather.
+[06:40] What we need to do is scale it. And to
+[06:42] do that, hit scale.
+[06:44] Choose your scale. In my case, 0.05.
+[06:49] I want to make it tiny. Apply it. And
+[06:52] you can see it's more or less the right
+[06:53] size. Right. It's clearly in the wrong
+[06:55] position. So, highlight it. And if you
+[06:58] have a look at data, you'll see
+[06:59] placement. It's got a down arrow. Click
+[07:01] the down arrow. And then we've got
+[07:03] position. Click the down arrow. And we
+[07:05] want to move that along the x-axis.
+[07:07] Let's say 9.9.
+[07:10] We move it 9.9. Then there is our air
+[07:12] foil positioned nicely in the feather.
+[07:16] So clearly our air foil is in the wrong
+[07:18] orientation. We're looking at the top.
+[07:21] If we look at the front, we'll see it's
+[07:22] actually flat. It's on the same plane as
+[07:25] the feather, which is a bit of a pain
+[07:27] because it doesn't have an associated
+[07:29] sketch. However, if we highlight it, go
+[07:32] to edit and placement, we'll get this
+[07:36] box here. What we need to do is change
+[07:38] the active axis. At the moment, it's
+[07:40] Zed. So it's X, Y, Z. If we change the
+[07:43] axis there to one and the axis on zed to
+[07:46] zero, then our x-axis becomes the axis
+[07:49] about which it will rotate. And we want
+[07:51] to rotate it about the x-axis 90°. And
+[07:55] we can apply that. And okay. And we'll
+[07:58] notice it's now viewed as a single line
+[08:00] from the top. And if we rotate it
+[08:03] around, we can see we've got it where we
+[08:06] want it to be. that is in the middle in
+[08:09] the right orientation of the feather. Of
+[08:12] course, the feather only looks like it's
+[08:13] in the right place, but the feather
+[08:15] itself needs rotating. So, we do exactly
+[08:17] the same thing, but this time rotate the
+[08:20] feather by 8°. So, you see it's 8° off
+[08:23] horizontal, and it lines nicely now on
+[08:26] that NACA air fold that we created. And
+[08:28] so, we've got our drawing of the feather
+[08:32] in an air foil shape. Okay, that was a
+[08:35] fair bit of tedious mucking about to get
+[08:37] here, but we've got our shape and the
+[08:39] next bit is actually magical. I think
+[08:41] the whole thing's worth it just for the
+[08:43] next bit. Now, we've been on the curves
+[08:45] workbench for quite a while. What we
+[08:47] need to do is change to the curved
+[08:50] shapes workbench. Now, this is another
+[08:52] workbench that you probably don't have
+[08:55] installed, and you should you install it
+[08:57] using the add-ons manager that you can
+[09:00] find under
+[09:03] tools. There it is, add-on manager, and
+[09:06] just hunt for curved shapes workbench.
+[09:09] This one works in order. You have to do
+[09:12] things in order. So, the first thing to
+[09:14] do is to select the shape you want to
+[09:16] extrude. And of course, in this case,
+[09:18] it's our air foil. Hold down the key and
+[09:21] then select the shape. Remember we went
+[09:23] to the trouble of making this two
+[09:26] curves. Select the shape that you want
+[09:28] to extrude to second. And then it'll
+[09:32] extrude this airfall along this curve
+[09:35] here or rather along our feather. And
+[09:37] all we do is hit that. Now magically you
+[09:41] don't see anything which is not very
+[09:43] good. But click curved array and have a
+[09:46] look under here under data. What you'll
+[09:49] see is solid set to false. You need to
+[09:53] set that to true.
+[09:56] Set it to true and then recalculate with
+[09:58] this button here, the refresh button,
+[10:00] and the solid will appear. There it is.
+[10:03] Now, it's not very good in following
+[10:05] these lines. And that's because of the
+[10:07] number of items. What it's done is
+[10:09] created four little slices through here
+[10:11] and approximated to those slices. And
+[10:14] it's not giving a true value. We need to
+[10:16] increase that. If we increase that to
+[10:18] say something like 15, then we can see
+[10:22] it's got a much better following than it
+[10:24] had before.
+[10:27] Let's make sure that is 15. There we go.
+[10:29] And it follows it much better.
+[10:33] And we can spin that round and have a
+[10:34] look at it a little bit to see where we
+[10:36] are with it. And we can increase that
+[10:38] some more if we want.
+[10:44] Let's try 25.
+[10:48] That's so cool. Look at that.
+[10:52] And after we print it out, there it is.
+[10:54] Now, it's clearly a little bit too
+[10:56] small, but we've already done scale
+[10:58] down. And scale up is just the reverse
+[11:00] of that. Highlight the whole thing.
+[11:02] Click on scale. Scale up. And clearly I
+[11:05] need two more in order to actually make
+[11:07] a wind turbine out of this. But that
+[11:10] idea of being able to take a real life
+[11:13] feather, draw around it, and create this
+[11:15] wind turbine blade, I thought was kind
+[11:17] of cute. And I have no idea how it'll
+[11:19] perform. But I also think it's kind of
+[11:22] interesting because we can give that a
+[11:23] go and see if our bird feathered wind
+[11:26] turbine is going to do something really
+[11:29] interesting. I mean, I hope it does. I
+[11:30] don't know if it will do, but we'll soon
+[11:32] find out. Now, I wanted to go through
+[11:35] all of that because when you look at
+[11:36] Frecan, you tend to think only really of
+[11:39] geometric drawings, but using the curves
+[11:43] workbench and the curve shape workbench,
+[11:45] making these much more organic shapes
+[11:48] actually isn't that difficult at all.
+[11:50] It's quite a beautiful thing. The curves
+[11:52] are really nice and I'm quite pleased
+[11:54] with it. So, I hope the video is useful
+[11:56] to people. I hope you found it
+[11:58] interesting. Thank you very much for
+[12:00] watching and please do remember to like
+[12:02] and subscribe.

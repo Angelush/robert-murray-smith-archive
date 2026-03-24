@@ -1,0 +1,180 @@
+[00:00] foreign
+[00:09] and we connected to a voltage regulator
+[00:11] we smooth the voltage and charged a
+[00:14] battery through a BMS with it and then
+[00:15] put it on some load and in order to do
+[00:18] that we used this it's a pre-bought
+[00:21] voltage regulation board it's quite good
+[00:23] it could take a high voltage in and put
+[00:25] the desired voltage out and you can
+[00:27] change that by twiddling that little
+[00:28] knob there but at the time I said well
+[00:30] just buy this because these things are
+[00:32] amazingly cheap but it is a black box
+[00:36] and I hit like boxes so I always want to
+[00:39] know how a black box works so big
+[00:42] question how does a voltage regulator
+[00:45] work and how do you go about building
+[00:47] one now voltage Regulators were initial
+[00:50] in electromechanical devices that were
+[00:52] in fact just relays
+[00:54] are too dissimilar to this which is a
+[00:57] household reelover electrical supply now
+[01:00] you very rarely get them in one relay
+[01:02] configuration mostly you can still buy
+[01:05] them for things like vintage cars and
+[01:07] tractors that sort of thing in a
+[01:08] two-rate relay configuration with a
+[01:11] voltage regulation relay and a cut-off
+[01:14] relay you can also get them in a three
+[01:16] relay rate of configuration where you
+[01:18] have current overload protection voltage
+[01:21] protection and circuit cut off now if we
+[01:25] have a look at the circuit diagram of
+[01:27] the cutoff Relay first what you can see
+[01:30] there is an encore with a coil around it
+[01:33] and it connects a generator to the
+[01:35] battery circuit now when the generator
+[01:37] builds up to the desired value it also
+[01:40] disconnects the generator when it slows
+[01:42] down or stops the iron core is
+[01:45] magnetized to pull down on a hinged
+[01:47] Armature that you can see against a
+[01:48] spring when the Armature is pulled down
+[01:51] a set of contact points closes and the
+[01:53] circuits complete when the magnetic
+[01:56] field is broken like like when the
+[01:57] generator slows down or stops a spring
+[01:59] pulls that Armature back up breaking the
+[02:02] contact points the voltage regulator is
+[02:04] just an another iron core operated set
+[02:07] of contact points but obviously this
+[02:09] time they're in the closed position and
+[02:11] it's used to regulate maximum minimum
+[02:13] voltage at all times this circuit's also
+[02:15] got a shunt circuit which redirects the
+[02:17] electrical flow going to ground through
+[02:19] a resistance plus just a head
+[02:21] electrically of the points when the
+[02:24] points are closed the field circuit
+[02:25] takes the easy route to ground when the
+[02:27] points are open the field circuit must
+[02:29] pass through the resistor to get to
+[02:31] ground the field coil on the generator
+[02:33] is connected to one of the voltage
+[02:35] regulator contact points the other point
+[02:37] leads directly to ground when the
+[02:39] generator is operating battery low or a
+[02:42] number of devices running its voltage
+[02:44] May stare down below that was for which
+[02:46] the control is set since the flow of
+[02:48] current will be too weak to pull the
+[02:49] Armature down the generator field will
+[02:52] go around through the points however if
+[02:54] the system is fully charged the
+[02:55] generator voltage will increase
+[02:57] something it reaches the maximum limit
+[02:59] and current flows through the shunt coil
+[03:01] be high enough to pull the Armature down
+[03:02] and separate the contact points now they
+[03:05] repeat this cycle time and time again
+[03:07] with the points opening and closing
+[03:09] somewhere between 50 and 200 times per
+[03:11] second and that maintains a constant
+[03:13] voltage in the system of course it's the
+[03:15] same with the cutoff really as it is
+[03:17] with the voltage regulator we can adjust
+[03:19] the tension on that spring on the
+[03:21] contact points so that we can therefore
+[03:23] adjust the voltage that it will open at
+[03:26] dna3 coil setup is this where we have a
+[03:29] cut out real air voltage regulator and a
+[03:31] current regulator because although the
+[03:33] voltage is now being controlled it is
+[03:35] still possible to have too much current
+[03:37] flowing and in the current regulator
+[03:39] there's a few tons of thick heavy wire
+[03:41] connected in series with the Armature
+[03:43] now again when the current Rises too
+[03:46] high and the magnetic field gets too
+[03:48] strong a set of contact is opened and it
+[03:51] disconnects the generator
+[03:53] advantages of a mechanical setup is that
+[03:56] the mechanical system itself both
+[03:58] sensors and switches that's what a
+[03:59] solenoid does it senses the voltage and
+[04:02] switches at the same time that on off
+[04:05] switching which if you want to think of
+[04:06] it is kind of like pulse width
+[04:08] modulation with that on off switching is
+[04:10] the core of current and voltage
+[04:13] regulation now in modern day Electronics
+[04:16] where we get this beautiful little board
+[04:17] what they do is they separate the
+[04:20] sensing and the switching from each
+[04:23] other the sensing is usually done
+[04:24] through a resistive Network so that we
+[04:26] can bring down the voltage to the logic
+[04:28] voltage level because even though we're
+[04:30] pumping out sort of 12 to 14 volts and
+[04:32] in some generators far more than that
+[04:34] this stuff can stand somewhere between
+[04:36] 3.3 and 5 volts so it's too high so we
+[04:39] use a voltage Network to bring it down
+[04:40] to a range that the electronics can
+[04:42] sense it and then we use a transistor as
+[04:45] a switch to switch it
+[04:50] so the first thing you need is a simple
+[04:52] voltage divider circuit to scale the
+[04:54] possible output voltages into a ranges
+[04:56] that the Arduino can cope with that's
+[04:59] between 0 and 5 volts it's just two
+[05:01] resistors in series and in the middle
+[05:03] you take the voltage from the Arduino
+[05:05] and that goes to pin a0 so that's the
+[05:08] sensing circuit and this is the control
+[05:09] circuit all it is is a switch to turn on
+[05:12] and off the field winding you just use a
+[05:15] large transistor mounted to some random
+[05:17] bars a heat sink and you connect the
+[05:19] output to the field Landing through the
+[05:21] transistor it's just a solid state
+[05:23] electronic or off switch in the same way
+[05:25] that the solenoid worked the Arduino
+[05:27] gets connected to pin 13 and pin 13 has
+[05:30] its own LED so we can see it flickering
+[05:32] off and here's the code to control it
+[05:35] now if the output is below the 14 volts
+[05:38] which is the threshold then the field
+[05:40] winding is turned on as the engine spins
+[05:42] up and the alternator goes up beyond the
+[05:45] threshold then you turn it off once it
+[05:47] goes past the threshold then the Arduino
+[05:50] will don't turn off and the magnetic
+[05:52] field will shrink and the output will
+[05:55] dip below the threshold and then the
+[05:57] Arduino will turn it back on so it's
+[05:59] basically just switching on and off
+[06:01] really fast and that on and off fast
+[06:03] switching in link with the engine speed
+[06:05] is what the voltage controller does
+[06:08] whether it's electromechanical so
+[06:10] whatever generator you're using whether
+[06:12] it's a homemade one like this one or a
+[06:14] converted brushless DC motor or a
+[06:16] universal motor or an alternator voltage
+[06:19] regulations accomplished the same way
+[06:21] you switch the generator in and out
+[06:23] depending on the voltage a generator is
+[06:25] producing and you can do that either
+[06:28] electromechanically where you're
+[06:30] combining switching and sensing or you
+[06:32] can do it electronically where you
+[06:34] separate the switching and sensing and
+[06:36] use a transistor as the electronic
+[06:39] switch or you can buy yourself a black
+[06:41] box board and make it all very much
+[06:43] easier for you anyway I hope you enjoyed
+[06:46] the video I hope it helped thank you
+[06:48] very much for watching and please do
+[06:49] remember to like and sub subscribe

@@ -1,0 +1,199 @@
+[00:00] [Music]
+[00:07] this is the motor I got from the hand
+[00:08] blender that we used in 11 192 and 1194
+[00:12] now it's a relatively cheap motor but
+[00:14] then what do you expect from £5 but it
+[00:16] is also really easy to take apart
+[00:18] there's just two press pins right there
+[00:20] and right there you prize them open you
+[00:23] get the motor open so let's do that so
+[00:25] we can pull that plastic cap off and
+[00:27] there we go these are the brushes right
+[00:31] there and then we've got anti- aring
+[00:33] capacitors on it and there's the p and
+[00:35] minus feed in if we have a look at the
+[00:37] motor itself here is the rotor obviously
+[00:39] and you can see the permanent magnets
+[00:41] there so one in the north one in the
+[00:43] South and if we can get that rotor
+[00:48] out so we got the commutator segments
+[00:50] there are 24 commutator segments in each
+[00:53] segment we counts for the beginning and
+[00:54] the end of a coil so there are 12 coils
+[00:57] and sure enough we have 12 pole pieces
+[00:59] here so when we pass the current down
+[01:01] the right commun commutator segments
+[01:04] then this becomes a little magnet and
+[01:06] there are 12 of those little magnets
+[01:07] inside that rotor here when use it as a
+[01:10] generator we have 12 little pole pieces
+[01:12] spinning inside that North and South
+[01:14] magnetic field so every time that does
+[01:17] one rotation we have 12 of those little
+[01:20] things passing the magnet or six to each
+[01:23] magnet so here was the machine that we
+[01:25] made in 11 192 and 1194 and what I've
+[01:28] done is I've taken four 46 magnets and
+[01:31] put them round the edge in a north south
+[01:34] north south orientation so you got north
+[01:36] south north south north and so on now if
+[01:39] we look at this remember we've only got
+[01:40] two magnets in here facing north and
+[01:42] south when we use this what we do is
+[01:44] hold that case steady and spin the rotor
+[01:47] but it's all about frames of reference
+[01:49] it's identical if I hold the case steady
+[01:52] and spin the rotor it's the same effect
+[01:54] if I hold the rotor steady and spin the
+[01:56] case makes no difference and that's
+[01:59] exactly what we got here so if we fix a
+[02:01] point there every time we go that
+[02:04] distance we're moving from a North to a
+[02:06] South Field instead of having to rotate
+[02:09] it to do that we rotate the magnets to
+[02:12] move it past a fixed point so 46 of
+[02:15] these means there are 23 Norths 23
+[02:18] souths so it's the equivalent of having
+[02:20] 23 of them and instead of having to
+[02:22] rotate the rotor what I'm doing is
+[02:24] rotating the case that's exactly what's
+[02:26] going on here so we now have the
+[02:29] equivalent of 23 of those mounted on our
+[02:32] spinning um flywheel and every time I go
+[02:36] that way I move the equivalent of one
+[02:39] full rotation of that so if you'd like
+[02:42] it's like a gearing as well we now have
+[02:44] 23 times more because from this point I
+[02:47] have to do one full R rotation and this
+[02:50] point I have to do 123 of a rotation so
+[02:53] it's a bit like we've geared It Up by
+[02:55] putting the magnets around here in that
+[02:57] north south north south configuration
+[02:59] now of course what we need is to
+[03:01] consider this section so if we have a
+[03:04] better look at this we can see that
+[03:05] there are 12 pole pieces in here now
+[03:07] when it's a motor and they're
+[03:08] electromagnets they're effectively 12
+[03:11] little electromagnets when it's a
+[03:12] generator 12 coils with pole pieces if
+[03:15] we look at the wire it's extremely thin
+[03:17] actually which is no surprise because
+[03:18] this is a high-speed low torque motor so
+[03:21] lots of thin wire so we've got
+[03:23] essentially 12 coils there now people
+[03:26] who watch the um videos a lot will know
+[03:28] that I love these things these things
+[03:30] are the coils out of um turntable Motors
+[03:33] actually there is synchronous turntable
+[03:35] Motors and again there are lots of turns
+[03:37] of very thin wire now they don't have a
+[03:39] core and this has a core if you put a
+[03:42] metal core in there you will get a
+[03:44] better result but something else happens
+[03:47] the magnets will be attracted to that
+[03:49] metal core if you do a coess coil then
+[03:52] you will get a result which will be less
+[03:54] than if it were CED but you also don't
+[03:57] get any cogging so it's really a ision
+[04:00] now remember we got about 30 Watts out
+[04:02] of this when we put that on the um fan
+[04:05] belt and drove it with the fan belt we
+[04:07] could get 30 Watts out of it meaning
+[04:09] each one of those contributed 2 and 1/2
+[04:12] Watts now I've got my coil here right
+[04:15] that and it's just an open core coil
+[04:17] we're going to spin it up and see what
+[04:19] kind of power we get from one open core
+[04:22] coil with these magnets flashing past
+[04:25] now remember the magnets flashing past
+[04:27] is identical to the magnet station
+[04:30] it's only point of reference anyway I've
+[04:33] got it set up and I've got it on the
+[04:34] resistive load which is a soldering iron
+[04:37] and here is my meter set up in amps we
+[04:41] give that a spin up we can see how many
+[04:43] amps we can produce from
+[04:58] that
+[05:28] e
+[05:35] okay so if you remember on the previous
+[05:37] video 1194 when we stopped turning the
+[05:40] flywheel came to a stop very quickly and
+[05:43] that's because of the cogging effect
+[05:45] here even though it's underload that
+[05:46] flywheel will continue to turn because
+[05:49] there is no core in the coil so we got
+[05:51] about 28 milliamps out of that let's
+[05:53] have a look at the voltage on
+[06:28] a
+[06:45] some actually we got about 1.2 Watts out
+[06:47] of that coil and if you look at the size
+[06:48] of the coil compare it to the size of
+[06:50] the magnets we could easily get 23 coils
+[06:52] around there I mean this is a much
+[06:54] larger coil than needed so we could
+[06:55] probably get more however it is matching
+[06:58] the output well when we use this thing
+[07:00] to when we do this Arrangement because
+[07:02] what I'm trying to say here is that
+[07:05] there isn't any mystical Arrangements of
+[07:07] magnets or mystical arrangement of coils
+[07:10] it's all about speed and torque if you
+[07:13] can get this to spin quicker if you get
+[07:15] more torque on it you'll get more power
+[07:17] out of it whatever Arrangement you have
+[07:20] I like these Arrangements because it's
+[07:22] easy to actually arrange these things
+[07:24] rather than to try to make something
+[07:26] like this now we have a limitation on
+[07:28] the size of our FL fly whe clearly we
+[07:30] made the flywheel bigger now although we
+[07:32] got 1.2 wats out of this it was callus
+[07:36] remember callus on the load we put a
+[07:38] core in there we would easily double the
+[07:41] output but we would have the effect of
+[07:43] cogging the magnets would be attracted
+[07:45] to the metal in the core and that means
+[07:47] that the flywheel wouldn't run as freely
+[07:50] so corers are great for flywheel
+[07:53] applications if you can do it as Corless
+[07:56] and get the same output that flywheel is
+[07:58] going to continue to run if you do it
+[08:00] cord it's going to stop running so I
+[08:04] think that the secret in generation
+[08:06] isn't to do with complicated magnetic
+[08:09] Arrangements wonderful coil designs I
+[08:12] think it's really quite simple I think
+[08:14] it's to do with speed you're going to
+[08:16] pay torque for Speed but the faster you
+[08:20] can get something to cross over those
+[08:22] coils and because the power is related
+[08:24] to the square of the voltage the more
+[08:26] the wattage is going to come out now we
+[08:28] did it in a fly Arrangement because it
+[08:30] will continue to run but clearly the
+[08:33] radius of this is quite limited a bigger
+[08:35] radius we're going to get more speed and
+[08:37] therefore we're going to get a better
+[08:39] output that to me is where the
+[08:42] generation secret actually lies anyway
+[08:45] demonstrating a single coil and what the
+[08:47] single coil output should help a lot
+[08:50] because all we have to do is take this
+[08:51] and arrange those coils around the
+[08:53] outside and we'll get ourselves a
+[08:55] brilliant
+[08:56] generator whether you choose cord or
+[08:58] corer is completely up to you I have a
+[09:00] preference for callus because I like the
+[09:03] idea of the flywheel continuing to spin
+[09:06] you don't have to do callus you could do
+[09:07] cord as well and you'll get a really
+[09:10] good result out of it but like I say the
+[09:12] key to it is nothing to do with
+[09:16] Arrangements of the magnets star share
+[09:19] rod down coils it's actually really
+[09:21] simple get it fast you'll get the power
+[09:24] out anyway I hope that was of interest
+[09:26] to you thank you very much for watching
+[09:28] and

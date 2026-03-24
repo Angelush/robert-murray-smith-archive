@@ -1,0 +1,291 @@
+[00:00] [Music]
+[00:08] So, the one thing we haven't looked at
+[00:10] is this. They call it their fourth axis.
+[00:12] I mean, it's like a mini lathe. Eh, I do
+[00:15] have a hobby lathe. It's a Vivore uh
+[00:18] MX8, I think. Not the best. I mean, you
+[00:21] know, it's a bit chattery, but it does
+[00:24] what I want it to do. But this feels
+[00:26] solidly built. And I'm actually pretty
+[00:28] excited because it's a lathe. It's the
+[00:31] king of all tools. What you can do on
+[00:33] this? Well, I'm about to find out. But
+[00:35] I'm excited to find out what you can do
+[00:37] with it. Now, fitting it actually isn't
+[00:40] all that obvious. They tell you to take
+[00:42] a couple of these dowels and fit this to
+[00:45] the center of the plate using the dowel
+[00:46] holes. The dowel holes really aren't
+[00:48] obvious. The um about the middle and
+[00:51] from the front, it's one, two, three,
+[00:53] it's the fourth hole. And then right
+[00:55] there, it's exactly the same. And they
+[00:57] fit on these little holes here and here
+[01:01] to hold the thing in place. So you
+[01:03] basically just slot that on.
+[01:06] When we've done that, these should line
+[01:08] up. They're screw holes. And we take the
+[01:10] M5 by20s. There's six of them. Screw
+[01:13] them in there. In order to get them in
+[01:15] there, you're going to have to loosen
+[01:16] off the headstock. Right. When you've
+[01:18] got it in place, you know the jaws are
+[01:20] actually set for the uh holding large
+[01:23] circular objects. So, I want the other
+[01:24] way around. I want those in the center
+[01:26] cuz I want to hold a bit of bar. And it
+[01:28] comes supplied with these things which
+[01:30] are keys. One goes in there. One goes in
+[01:33] there. They come out anticlockwise and
+[01:35] in clockwise. And so, just hold on to
+[01:38] that and then twiddle it and those jaws
+[01:40] will come out. Now, they're actually
+[01:42] numbered one to four. Little four
+[01:45] stamped in there. Apparently, when
+[01:47] they're that way around, you need to do
+[01:48] them 4 3 2 1. And when they're that way
+[01:51] around, you need to do them 1 2 3 4. So,
+[01:54] I'm going to have them that way around.
+[01:56] Right. When you've done that, you've got
+[01:57] this connection cable. And there is at
+[01:59] the back right there two input ports.
+[02:02] It's input port one, which is the
+[02:04] nearest to the side here. Just undo the
+[02:06] dust cover. Slide that into place. Now,
+[02:08] there's also a little clamp there, and
+[02:11] that gets screwed into where that screw
+[02:13] is. There's a screw right next to here.
+[02:15] Undo the screw. Screw the clamp in. Use
+[02:17] the original screw to screw it in place.
+[02:19] As far as I can work out, that's pretty
+[02:22] much the setup. Now, forgot to mention,
+[02:24] do make sure it's turned off. Right, as
+[02:26] far as I can work out, that's it. We're
+[02:28] ready to go. The tailtock can be moved
+[02:30] up and down by loosening off these bolts
+[02:32] here. And there's a little adjustment
+[02:34] screw, lock screw right there. The
+[02:36] headtock actually stays where it is. It
+[02:39] needs to be lined up with the back of
+[02:40] here. So, it's nicely in line because on
+[02:42] the top there's a little indentation.
+[02:45] That indentation is the home for the
+[02:47] probe and actually the reference point
+[02:49] for all of the measurements that this
+[02:51] takes. But that's pretty much it set up.
+[02:53] Now, of course, we need to look at the
+[02:55] software. What I want to do is to make
+[02:58] an axle to fit into these two parts that
+[03:00] I've made previously out of aluminium.
+[03:02] And they've got a square profile, a 5 mm
+[03:05] square profile round there. And I've got
+[03:07] a bit of 8 mm brass bar to go through my
+[03:09] bearings. And of course, what I need to
+[03:11] do at the end is mill off exactly the
+[03:13] right profiles to make axles for that
+[03:16] and that. To do that, I created this
+[03:19] sketch. The sketch I've gone through in
+[03:21] a previous video. And then I padded the
+[03:23] sketch out at 8 mm to create this. Now,
+[03:27] all we need to do is export that as a
+[03:29] step file. Okay. So, we click on maker
+[03:33] cam. We get the welcome screen. And this
+[03:34] time, we want new project on the four
+[03:36] axis. And we click on that. and we get
+[03:40] to this screen here. Now, on that
+[03:42] screen, we've got the stock setup that
+[03:44] we can do. We get to that by clicking
+[03:45] edit. And you can see we've got brass,
+[03:47] we've got round or square. I've chosen
+[03:49] round because, of course, I'm using rod.
+[03:50] The rod is 8 mm in diameter. And the
+[03:53] length I want is 80 mm. Once we set that
+[03:55] up, we can click okay. And it draws this
+[03:58] representation for us on the main
+[03:59] screen. Where that dot is is coincident
+[04:02] with the little indentation that I
+[04:04] showed you. And the recommended distance
+[04:06] from that dot to the start of your
+[04:08] project is 50 millimeters. So we're
+[04:10] going to be doing something at 50
+[04:11] millimeters. But the first thing we need
+[04:13] to do is to import our 3D model. So we
+[04:16] click on import. Click on the model that
+[04:18] we drew up. Click open. And hey presto,
+[04:21] our model is imported. If we have a look
+[04:23] at it, we can see it is in the wrong
+[04:25] orientation. So we need to change that
+[04:27] orientation by clicking on adjust the
+[04:31] object. in which case we get the
+[04:32] transform bar and we can rotate it and
+[04:35] we want to rotate it 90° so it's lying
+[04:37] in plane. Right? Once we've got that
+[04:39] position in that direction, of course,
+[04:41] we want it positioned correctly in that
+[04:43] red direction. So, we need to click on
+[04:45] the move. We can either click there on
+[04:47] just object or we can hover over the
+[04:49] actual object and right click on it and
+[04:52] you see you get the transform and we can
+[04:54] click on move. And here it's telling you
+[04:56] where the location is in the red which
+[04:58] is the X direction. And here we've got
+[05:00] it located at 40 mm. We actually want it
+[05:03] located at 50 mm. So if we locate that
+[05:06] at 50 mm, what it'll do is locate the
+[05:10] center at 50. So we locate that at 54
+[05:13] mm. Then it will locate it. So that edge
+[05:16] is 54 mm away instead of being locked to
+[05:20] the center. Now what we need to do is
+[05:22] close that and create some supports for
+[05:25] this. So to create supports for it in
+[05:27] the work plane you rightclick and you'll
+[05:30] get this thing create we create a 3D
+[05:33] model and you can see we got some basic
+[05:34] shapes we can create including cube
+[05:36] cylinder and cone. Click on cylinder set
+[05:39] the cylinder diameter to be eight and
+[05:41] the height to be 50 and it will create
+[05:44] that cylinder for us in that workplace.
+[05:46] If we hover the cross arrows in the
+[05:49] workplace and this time leftclick, it
+[05:51] will create that cylinder exactly where
+[05:53] we want it to be. If it isn't where we
+[05:56] want it to be, let's just close that for
+[05:58] a second. If it isn't where we want to
+[05:59] be, and we click on the transform move,
+[06:03] then we get this quick align stock where
+[06:05] we can align it. And you see it's a
+[06:07] little bit out in the uh Y direction
+[06:09] here. So, we align it properly. It
+[06:11] actually moves it through center and
+[06:13] center. And you remember we wanted that
+[06:15] at 25. So, we can rechange that. Close
+[06:18] it. And we've got that in the right
+[06:20] position for that to be cut out. Of
+[06:23] course, we're missing that end section.
+[06:25] So, we need to create another cylinder.
+[06:28] So, remember it's And remember, it's
+[06:30] right click, create, create 3D model
+[06:34] cylinder. And this time diameter is
+[06:36] eight, but the height is going to be 22
+[06:39] because that's what's left once we take
+[06:41] off the length of this, which is 8 and
+[06:43] 58 for that. We need 22 to make it up to
+[06:46] 80. So we can change that to 22. If we
+[06:50] then go to there and again click on it.
+[06:54] Remember it's left click. It will create
+[06:55] that cylinder for us. We can close that.
+[06:58] And of course that's in the wrong place.
+[07:00] So we need to move it. So transform and
+[07:03] move. And here we want to put this to
+[07:06] zero so that it's exactly on where we
+[07:08] want it to be. And if you can see that
+[07:10] just moved a little bit. This one we
+[07:13] want to have the location to be 69. When
+[07:15] we put in 69 on there, what it does is
+[07:18] moves the center up to the top end of
+[07:21] that piece that we just created. Click
+[07:23] close. And we can see that we've got
+[07:24] exactly what we want. We now have our
+[07:27] bar ready to cut out. The reason I've
+[07:30] made this 8 mm is I'm going to cut that
+[07:32] through the center to create two axles
+[07:34] at once, leaving me a little bit of
+[07:36] waste that I'm going to need to file
+[07:37] down. Final thing. Now we're ready. We
+[07:40] need to create our rotation relief.
+[07:42] Remember, when you create normal maps,
+[07:43] you're using this for pockets and
+[07:45] contours and so on. When we're in this
+[07:47] fourth axis, it's rotation relief. So,
+[07:49] we click on rotation relief. It pulls up
+[07:51] this screen. And here's where we set
+[07:54] everything we want to play around with,
+[07:55] including the tool. And I'm going to use
+[07:57] this 12 mm flat end for metal. When you
+[08:01] scroll down the whole thing and set
+[08:02] whatever you want. The most important
+[08:04] one actually is enable tailtock. If you
+[08:06] disenable tailtock, it will carry on to
+[08:08] the end. And if you enable it, then it
+[08:10] will know there's a tail stock, so it
+[08:12] won't go beyond the end. Don't forget to
+[08:13] select your model, which we've selected
+[08:15] that center piece there. And then we
+[08:17] click calculate, and it'll create that
+[08:19] path for us. And there, let's close
+[08:21] that. There is the path that will cut.
+[08:23] There is the path that it's going to
+[08:25] follow. And that's the one that we
+[08:26] export. Go to path, export the path.
+[08:30] Click on the one that you want to
+[08:31] export. There we go. And we can hit
+[08:34] export.
+[08:36] Now, apparently you're really meant to
+[08:38] do this in two passes. Where we're using
+[08:40] this tool bit, which is a 3.175 flathead
+[08:44] metal tool bit. That's the rough pass.
+[08:47] When you've done that rough pass, then
+[08:49] you create another tool path using this
+[08:52] bit, which is the 30°.2 mm metal
+[08:56] engraving bit. And again, create another
+[08:59] tool path just like we did, and run it
+[09:01] again with this one. Right. So I've
+[09:03] loaded a bit of 8 mil brass bar 80 mm
+[09:06] long. Now the distance from the edge
+[09:08] here to the headstock is 50 mm. And so
+[09:11] normally you leave that as a 50 mm
+[09:14] offset. But if you remember I drew this
+[09:16] bar out. And so what I want the cut to
+[09:18] begin is that black march is about sort
+[09:21] of 5 mm maybe 10 mm further on. It's not
+[09:24] too critical here. But what you normally
+[09:27] do when you're in the config is you know
+[09:30] that you're in the window, you hit
+[09:32] config and you'll see that there's an X
+[09:34] offset. The Y offset's always zero cuz
+[09:37] it's the center. The X offset is how
+[09:39] much further it will move out of here.
+[09:42] Now that's set at 50 when you're using
+[09:44] this because it's the offset from the
+[09:46] corner and we need to go 50 in from the
+[09:48] marker point here to avoid hitting this.
+[09:51] But I'm going to make the offset five
+[09:53] because I've done all of this already.
+[09:56] It's going to start its cut right there.
+[09:59] Now, you can see that if I click okay,
+[10:02] then we'll get this little pretty
+[10:03] window. And the green is there just
+[10:06] beyond the headstock by about a
+[10:08] centimeter or so. So, that's a bit of
+[10:10] fiddling around to get your head around
+[10:12] actually, but it seems to work fine. And
+[10:16] if I want to do that, I can now press
+[10:18] run. And it'll go through the probe, ask
+[10:20] us to change the cutting tool, and begin
+[10:22] the cut.
+[10:38] So, we cut them in half and clean that
+[10:39] top up to be 3 mm. and we get ourselves
+[10:42] two axles, one for the eentric and one
+[10:44] for the output. Now, to be honest, I
+[10:46] didn't find that terribly easy. I did
+[10:49] struggle with it a little bit. Now, I'm
+[10:51] sure that given a bit of practice, it'll
+[10:54] become second nature. I'm already
+[10:55] getting very much quicker on the three
+[10:57] axis, and this is the first use of the
+[10:58] four axis. But that business about the
+[11:01] offsets took me a little bit of thinking
+[11:04] through. Again, it'll be something that
+[11:06] just becomes second nature, I'm pretty
+[11:08] sure. but is an awesome bit of kit, but
+[11:11] does take an extra little bit of
+[11:13] learning. Anyway, we've got our axles,
+[11:15] we've got them keyed. Now, we need to
+[11:17] fit this whole thing together that we've
+[11:19] been creating through this entire
+[11:21] project. I hope you enjoyed this video.
+[11:23] Thank you very much for watching, and
+[11:24] please do remember to like and
+[11:26] subscribe.

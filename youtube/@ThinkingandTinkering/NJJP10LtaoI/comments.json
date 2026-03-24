@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "UgzXGd8PE_BBlzAJokJ4AaABAg",
+    "author": "@yohell",
+    "author_channel_id": "UC6FLYBCNhwwAWMkWDoTX98w",
+    "text": "The important part to convey of the dangers of electricity obviously isn't \"don't make mistakes or you'll die\", because that isn't very helpful, and can be said about anything from cars to plutonium. We are human and will make mistakes. The more useful video would perhaps be one that illustrate ways to reduce the probability of making mistakes, and the consequences of making mistakes. Like the one you made where you added protective measures to the fractal wood burner, adding safety features to a terribly dangerous machine. Now, people have become more aware that this type of machine is terribly dangerous, and that making them and using them probably isn't a healthy pastime, which is why I feel your explaining the safety features and reasoning about the risks and mitigations you implement for that particular machine are particularly effective. I think that video was a little bit scary, but very effective, and very much hitting the mark of safety - the identification and reasoning around risks and mitigations. From this video however, I got more of a \"don't make mistakes or you'll die\" vibe, which approach I think will not do much to sway people who are generally worried about the dangers of electricity.",
+    "likes": 0,
+    "published_at": "2023-02-14T07:43:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwrZOGWxCcy_8udchF4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Some day you could explain a ground fault circuit breaker for those of us that just have touch that one wire.",
+    "likes": 0,
+    "published_at": "2022-11-01T11:28:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxOYbSd7QHaCXYKdVR4AaABAg",
+    "author": "@BiosWars",
+    "author_channel_id": "UC6XpAunM6biQ2P0unTpjXig",
+    "text": "Rob, you sir, should be teaching the very first class at any university that educate future engineers, whether they be electronics, electrical, plumbing, structural, or any other sort. For your clarity of simple explanations, would true benefit our younger generations of all trades, scientists and so on. For after 40+ years as an electronics engineer, with a further degree in computer sciences, not to mention being an inventor. I've never witnessed such a perfectly articulated, well described laymen's overview, of necessary principles, laws, and all achieved with a thoughtful mannerism.  Very well done A++, I'd highly recommend this video to anyone thinking of studying those lifetime occupations.👏👏👏👏👌",
+    "likes": 0,
+    "published_at": "2022-01-02T03:31:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzZkZTq4TbkJYh8OaF4AaABAg",
+    "author": "@gyrgrls",
+    "author_channel_id": "UCTPdqfOwJOsjjdMT69X_z2A",
+    "text": "If I touch the black wire while standing in a puddle of salty water on a concrete floor,  I shouldn't get shocked,  because I am grounded!  ;`>   YES,  I am kidding!",
+    "likes": 0,
+    "published_at": "2021-11-09T19:47:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwt28TisZmsb4dAeNN4AaABAg",
+    "author": "@TheRebelmanone",
+    "author_channel_id": "UCIcCfWWCO3D4nqAMiALUKYg",
+    "text": "Since you are talking safety i want to bring to attention the wire sizes. Like you were saying the wire in essence is a conductor as well as a resistor.  But you did later say it, you said if you exceed the limit of the wire it burns. Same thing happens to any resistor, if you exceed the limit it burns, this is unlike water. \nIf you hook for example a 12 gauge wire  to your mains and then hook a 0 gauge wire to the 12 gauge as the \"resistor\"(like the light bulb, but in this case it is a huge thick wire), then the \"resistor\" has much higher limit than the wire supplying it, therefore the wire supplying it burns. This is where the similarities of electricity and water differ, the \"pipe\"(wire) will melt and burn your house down if it is too small for the pressure(voltage) and flow(current) you are forcing thru it. But fortunately the supply wire is always hooked to the right sized circuit breaker, and once it goes to exceed the limit of the wire the breaker shuts it all off.. That is your real safety, circuit breakers and grounds, and knowing how to size wire with the right breakers. Ground fault breakers too.\n\nThe safety is not really needed in the device itself, but still most have a fuse, or a breaker built in the device, especially high energy devices. But the safety is in the RIGHT size wiring supplying it, the RIGHT size breaker in your breaker box in the house, and ground fault breakers installed. That grounding stake is the most important ground in your entire house, but they are all important. That gnd. stake is for if anything shorts to the casing, instead of it sitting there live waiting for you to touch it and get killed, it already tripped the circuit breaker because the energy flows thru the gnd to that gnd rod outside near your service entrance panel, and causes high current flow tripping the breaker instantly, protecting you, now if you touch the case where the device shorted, it can't electrocute you, the breaker shut it off. Even if it shorted as you were touching it, you still would not get electrocuted because electricity takes path of least resistance and will rather flow effortlessly to the ground thru the rod, and still trip the breaker as well, even if you were touching it the entire time. But if you were grounded BETTER than the grounding rod, then you will get electrocuted anyway, but that is almost impossible to become more conductive than copper and iron rods. At most you will feel a tingle, because the bulk of the energy went to gnd thru the rod, only a small amount went thru you, not even harming you at all. BUT if your gnd rod is faulty or corroded away, then you will get electrocuted if a short happens to any case of any device or appliance with conductive case. Even the electrical boxes installed in houses that are steel will be grounded to the rod too, to prevent any shorts in the boxes from electrocuting you also.",
+    "likes": 0,
+    "published_at": "2021-08-23T20:42:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzTUrSkivpXlkItukV4AaABAg",
+    "author": "@neilorourke71",
+    "author_channel_id": "UCEJk_YRJmbLyO4dIdhJIqHg",
+    "text": "So you're saying that a if a circuit didn't have any output devices in it (lamp, heater, etc.) it would burn out because it can't handle the power? If that's the case, why do you trip a breaker if you put too much devices into a circuit?",
+    "likes": 0,
+    "published_at": "2021-08-09T16:43:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzXl45yq3AwsqfyI7N4AaABAg",
+    "author": "@whitefields5595",
+    "author_channel_id": "UCdG9vUE4-s7cX99Zx6IHJxw",
+    "text": "A strange video. Too simplistic for those likely to watch this channel, yet incomplete for those that really need it? For example no mention of the earth lead and why it is there.",
+    "likes": 0,
+    "published_at": "2020-12-31T20:48:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyktnt35SVSS1EH9Ap4AaABAg",
+    "author": "@RWBHere",
+    "author_channel_id": "UCnwhK7Pf6xJ635mvBLTYtVA",
+    "text": "Another vital requirement, even for a highly skilled electrician, is: Don't become blasé about it. It's all too easy to do the same thing a thousand times, and to forget about the dangers. That's when you get hurt. Most electricians get a few electric shocks before they learn the lesson.\n\nA real example: I once replaced a socket on a 240 Volt extension lead, having put the mains plug into my pocket for safety; the simplest way to do it. I forgot to check that the wall socket switch was turned off; something which you might think was superfluous. But, after finishing the job, I went to put the plug back into the socket, only to find that _the wrong plug was in my pocket, and that the power was still turned on._ To this day, I don't know how I didn't receive an electric shock from those wires which I had stripped by using side cutters and twisted into shape with bare hands. Lesson learned.",
+    "likes": 1,
+    "published_at": "2020-11-21T02:44:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz1aSKBXar03p8p_Nx4AaABAg",
+    "author": "@KerrFamilyLaw",
+    "author_channel_id": "UCy84FaR5sJqTveIdrlsdkaQ",
+    "text": "The part that scares me is how to attach the scary end we aren’t supposed to touch to the “power”. Wiring stuff up seems to require touching the bad bit. I see people using their bare hands to hold a bare wire to a positive or negative “connection” to see if there is a working circuit. I sure wish there was a way to attach the scary bit to the terminals or other scary bits without touching them.",
+    "likes": 0,
+    "published_at": "2020-08-15T14:29:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz6yjg31fHT802c9Id4AaABAg",
+    "author": "@Cyberman1960",
+    "author_channel_id": "UCzdDZl_G1GyFn3U1MTx7aDQ",
+    "text": "The only real danger of electricity are the greedy fks that control and overcharge for it!\n\nThank you for your videos!",
+    "likes": 0,
+    "published_at": "2020-07-10T18:47:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzrutNSQqAkV9pfsCV4AaABAg",
+    "author": "@keithking1985",
+    "author_channel_id": "UCeqcadyZOmTAB0mq3YIre3g",
+    "text": "YOUR A LEGEND ROBERT.. DON'T LET ANYONE TELL YA OTHERWISE... :  )   \n}B=[ >",
+    "likes": 0,
+    "published_at": "2020-06-11T01:54:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzrutNSQqAkV9pfsCV4AaABAg.99kEpgv0Xjk99kesNXTBnq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-06-11T05:50:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxsTqrFZxRBPCSyPph4AaABAg",
+    "author": "@ssgeek4515",
+    "author_channel_id": "UCHxHteF5Ie1hdF__geqYjmg",
+    "text": "Bulbs are great for protecting loudspeakers as when cold(not lit) resistance is very low but when an amplifier pushes audio through a bulb then as it warms it may glow slightly. This increeses the resistance to say...50ohm+ for a second this reduces the voltage to the speakers. Used slot to protect tweeter horns that are fragile to excessive audio wattage.Cant do this with LEDs.great explaination on video.",
+    "likes": 0,
+    "published_at": "2020-06-10T23:27:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxsTqrFZxRBPCSyPph4AaABAg.99jyz8cWQNY99kfDa07ymH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate - cheers",
+        "likes": 0,
+        "published_at": "2020-06-11T05:53:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDqUfEpbZgORWGQ6Z4AaABAg",
+    "author": "@darrellpidgeon6440",
+    "author_channel_id": "UC0E-wGhH6ZTs7qgXk8jrOUQ",
+    "text": "As a young kid, before knowing what electricity was, I had an encounter with a light socket.  I wondered where the light came from, and why the bulb got hot.  Stuck my finger in the socket and pushed the switch.  Of course I never did that again!  At least I was more startled than anything else.  Also, I was extremely curious.  I think it was that moment when I began to get very inquisitive about the world around me.  I wanted to investigate Everything.  I'm glad I never lost that wonder.  And I'm glad I had enough common sense not to do anything stupid.  That light socket taught me the value of caution.",
+    "likes": 1,
+    "published_at": "2020-06-09T14:25:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwH-fYEhdfG_ls76I54AaABAg",
+    "author": "@rossmate81",
+    "author_channel_id": "UClTU14QZsnt2St92gtFk0iQ",
+    "text": "Surprised you done this video, very condescending",
+    "likes": 0,
+    "published_at": "2020-06-02T17:27:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyevmJ1Io3c27AtKcx4AaABAg",
+    "author": "@KevinsonofDoug",
+    "author_channel_id": "UCJFPBUPEk1fNRX7kUy_5JNg",
+    "text": "18th edition 7671 and also the plug has a 1361 cartridge fuse in it that protects the appliance 13amps heaters kettles high load equipment usually until you downgrade it to 3 or 5 amps for lamps going backwards the circuit cables yes are to suite the purpose that you want them for 1mm T and E to 1.5mm T and E lighting in a house 🏠 2.5mm ring circuit sockets then at the consumer unit a RCBO would be after a 100amp main switch TNCS PME the safety RCD is \nCombined into 1 unit the size of a MCB 1 single circuit protection or MCBs after a 100amp main switch then a 60 - 80 - or now 100amp RCD a RCD will trip power In .4 of 1second and are 30ma sensitivity the circuit will change a bit for TT systems over head cables sorry if it’s boring but it good info to know in my opinion",
+    "likes": 2,
+    "published_at": "2020-06-01T21:35:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz41g1KLweAKbZ0bKt4AaABAg",
+    "author": "@SwitchingNoise",
+    "author_channel_id": "UCUjoTOvrneA3tW--0jL_Vfw",
+    "text": "At 50 and 60 Hz, the skin effect is irrelevant. The kettle wiring is stranded because otherwise it wouldn't be very flexible (solid wires would just break if the kettle would be moved a few times). Stranded wires for high frequencies, also called Litz wire, are individually insulated strands otherwise it would still be a solid conductor. Litz wire is being used for transformers in switch mode power supplies, RF transformers,... An other variant is the hollow conductors. They are being used in high power RF circuits like radars for example. Your explanation about impedance is also not correct: impedance is being used in circuits with reactive components (inductors, capacitors). For circuit without reactive components, you use resistance. Also, the heater you've got is made from aluminium oxide or ceramic.",
+    "likes": 2,
+    "published_at": "2020-06-01T01:33:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGC1dshJdkmNTzbsZ4AaABAg",
+    "author": "@VICTORIA-SAYERS",
+    "author_channel_id": "UCdoO-vHDULSiCu9mLDfwM2w",
+    "text": "I'm a former Electrician, worked for Lee's Electric in Hawaii back in the early 90's until I lost my Job cause I didn't have my Driver's License, but I miss it sometimes. \n\nThankfully I only got shocked once by a 120 Outlet while on the Job, since then I made sure that never happened again lol\n\nAs long as you know what to touch and what not to touch your doing okay. Gloves helps as well lol.",
+    "likes": 0,
+    "published_at": "2020-05-30T22:05:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBiK-zDCQU-gIIK_Z4AaABAg",
+    "author": "@dongibbs4450",
+    "author_channel_id": "UCKJxkDyv6fO-YuJeZQqBjag",
+    "text": "Hi Robert, I live in Portsmouth Hampshire and our mains voltage is still 240 volts, I thought our mains voltage was dropped to 220 volts as it is on the continent (so I was told) why is that. best wishes... Don Gibson",
+    "likes": 0,
+    "published_at": "2020-05-30T21:21:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6qdjdvPzNrrnPr3F4AaABAg",
+    "author": "@boblewis5558",
+    "author_channel_id": "UCCAu6vgrcRzsGfIw_Txs6yQ",
+    "text": "There will be TV engineers watching this, shaking their heads and going ... \"Wait until you get zapped by 20kv off the top cap of the HT valve in a TV!\" LOL\n\nOne reason why experienced engineers try their best to only use one hand - the right hand when probing around live mains powered devices and equipment. It's then a shock to ground down your right side and hopefully through high resistance shoe soles (rubber) so it doesn't actually go across your heart! \n\nOBVIOUSLY, leaning on the grounded metal chassis or enclosure with bare hands is NOT recommended either! 🤔😎",
+    "likes": 2,
+    "published_at": "2020-05-29T10:31:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx6qdjdvPzNrrnPr3F4AaABAg.99Egim-A0Il99F_oG_xmXM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for taking the time to post mate",
+        "likes": 1,
+        "published_at": "2020-05-29T18:50:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyw-YJVnBEuHUm1Gv14AaABAg",
+    "author": "@Neilukuk",
+    "author_channel_id": "UCscpy-t-fMGChaGQQER_ylg",
+    "text": "I have managed to get a shock from that wire a few times :(",
+    "likes": 0,
+    "published_at": "2020-05-29T06:34:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyox-SJ5-LeNChpc3p4AaABAg",
+    "author": "@donwright3427",
+    "author_channel_id": "UCnu5jLccaiMoL6mN4LME_Ag",
+    "text": "joke. What do you call an old electrician-\nJurassic Spark!",
+    "likes": 4,
+    "published_at": "2020-05-28T16:08:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1bMdCdML-9o5EFRx4AaABAg",
+    "author": "@kolinevans9127",
+    "author_channel_id": "UCyxgojcCon-llyWeVN_yV-g",
+    "text": "One of the most interesting exciting and {as far as I know } successful safety feature that might make people laugh is to look at a Microwave Oven Schematic, the Plate of the magnetron, {which is a vacuum tube} is connected directly to the frame of the microwave.\nThis means that the 2000+ V {reasonable high current} connection is connected directly to the frame of the microwave oven\nThen that frame of the oven is connected to earth ground via the input cable. \nI did a double take and laughed when I saw that first, however it logically makes sense in some ingenious way, as it solves a number of potential {no pun} problems.",
+    "likes": 1,
+    "published_at": "2020-05-26T10:18:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx8-jLruem_OY2yz0R4AaABAg",
+    "author": "@justthinkalittle8913",
+    "author_channel_id": "UCm6xvsgmKJvQgQ057MB_g6w",
+    "text": "I was wondering if when I make zinc bromine batteries do I need to use zinc sulfate heptahydrate or do I use the monohydrate veriety? Thanks and can I use the conductive ink to make an off grid waterheater?",
+    "likes": 0,
+    "published_at": "2020-05-24T22:30:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhKly-Vt7MRO1Bp894AaABAg",
+    "author": "@luderickwong",
+    "author_channel_id": "UCbLnmv--Jg3Unx2RAsAgn7w",
+    "text": "Hey, gentleman, i believe this video you have a specific target audience? If it is for the now primary school students and future inventor, this is a good one 👍 if you plan to make a series, you may try insulation and ground in the next episode. \n\nIn fact i have seen a lot of people lack of common sense as well as knowledge to handle electricity, especially those handyman. For unknown reason while they are working, a lot of them will perform some sort of “electricity arcobat”, as if doing that to show off their macho? You can find tons of this kind video in youtube, especially asia.",
+    "likes": 0,
+    "published_at": "2020-05-24T22:13:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxhKly-Vt7MRO1Bp894AaABAg.99343LEYzaY993m775G3DG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for taking the time to post mate",
+        "likes": 0,
+        "published_at": "2020-05-25T04:47:21Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0oKa5PBC-uW5Nh394AaABAg",
+    "author": "@thomashardin911",
+    "author_channel_id": "UCkxpahLo_O49Pe_OgT--EEQ",
+    "text": "Wtf am I watching this during a lightning storm?! 🤣😳⚡️",
+    "likes": 0,
+    "published_at": "2020-05-24T19:34:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy0oKa5PBC-uW5Nh394AaABAg.992mrOv5CF6992qPI7emsQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2020-05-24T20:05:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUW3PdjCRBPdpqr8h4AaABAg",
+    "author": "@wowzers5432109",
+    "author_channel_id": "UCVl8URKmzaWTGRrsE5ikIGA",
+    "text": "I grabbed a cattle fence as a kid not knowing. Womp I felt a bolt go through me",
+    "likes": 0,
+    "published_at": "2020-05-24T19:07:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzUW3PdjCRBPdpqr8h4AaABAg.992joeFf8Sk992r2WCJyfa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "- and i'll bet you never did it again! cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-24T20:11:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwlg0vlocvZLu5tnH94AaABAg",
+    "author": "@jasonwitt8619",
+    "author_channel_id": "UCrcKx80m_9bt0ESOcuITC4Q",
+    "text": "You had me laughing at this bit... Love it- don't touch that bit, LOL",
+    "likes": 0,
+    "published_at": "2020-05-24T18:50:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwlg0vlocvZLu5tnH94AaABAg.992hlWvSaGg992rGJK3LB9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - glad you liked it mate",
+        "likes": 0,
+        "published_at": "2020-05-24T20:13:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwfwVfKEDw8A6lzv4x4AaABAg",
+    "author": "@tinkmarshino",
+    "author_channel_id": "UCILUza8HB5zmSMb3sS3rqPw",
+    "text": "Always great stuff here... I of course know this already.. but it has been awhile since I have stopped and broken it things down in my mind as succinctly as you did here..  It brings back the \"mazing factor\" to all of this that we play with.. I think as grown ups we tend forget to remember how amazing things are and just take it all for granted.. Thanks Rob for given me a moment of pause.. to reflect on the amazing things I get to play with every day..",
+    "likes": 0,
+    "published_at": "2020-05-24T17:48:26Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwfwVfKEDw8A6lzv4x4AaABAg.992ai2m2Pb1992rYF13l5q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - that's a really nice thing to say and thanks for taking the time to say it",
+        "likes": 1,
+        "published_at": "2020-05-24T20:15:31Z"
+      },
+      {
+        "id": "UgwfwVfKEDw8A6lzv4x4AaABAg.992ai2m2Pb1992wGI1BPkP",
+        "author": "@tinkmarshino",
+        "author_channel_id": "UCILUza8HB5zmSMb3sS3rqPw",
+        "text": "@ThinkingandTinkering It is one of the things that most draws me to you.. you have almost a child like amazement about the things you do and it sparks that same child like excitement (that I seemed to have lost somewhere down the road well traveled) in me..  I miss those days of my youth when everything was an adventure.. and now thanks to you I am regaining them again.. thanks to you Rob..",
+        "likes": 0,
+        "published_at": "2020-05-24T20:56:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxWg1Bux7ifLU64rUN4AaABAg",
+    "author": "@will_doherty",
+    "author_channel_id": "UCXT-XdPy2qFf8yTcUiC8mfg",
+    "text": "Motors are a special case - if you put their rated voltage across the armature that you had - or into a seized or locked motor - without adequate protection, it will as the technical expression is, go bang. Motors rely on the back emf (the electricity they produce as a generator whilst spinning, which opposes the applied voltage) to limit the current they draw. This has the great advantage of high starting torque reducing to a lesser value (alongside the current) when up to speed, without the need for additional controls.",
+    "likes": 0,
+    "published_at": "2020-05-24T17:31:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwIZOebD5UqLpBsjeF4AaABAg",
+    "author": "@ciaransherry6021",
+    "author_channel_id": "UC194dut6wMUZ_WSKUlIUA5g",
+    "text": "Hi Rob. Could you please tell folks to always make sure that any circuit into which they connect, should always have an upstream current leakage device of no more than 30mA.\nIn the event of an inadvertent hazardous human connection with the circuit to which they have connected occurring, the device will interrupt current flow in less than 50ms.\nMany thanks, and I love your channel, wouldn't like to see anything happen to you or my fellow followers.\nCiaran.",
+    "likes": 0,
+    "published_at": "2020-05-24T17:06:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwIZOebD5UqLpBsjeF4AaABAg.992WvjZU5l39AyQL_gPMFr",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "Ciaran, thanks very much for pointing this out. I was very disappointed that Robert did not mention this in the video.",
+        "likes": 0,
+        "published_at": "2020-07-11T10:35:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwxLi6fPg-hjoZgGOd4AaABAg",
+    "author": "@robgoodsight6216",
+    "author_channel_id": "UCSf9Mj8sd8rNjWmRh9p6xlA",
+    "text": "Electrifying item of discussion!!!\nMy first experience with electricity was when I was around 5...playing with wires and a wall socket...\nLearning also of residual tension is important...\nEnjoying the comments here also!!!",
+    "likes": 0,
+    "published_at": "2020-05-24T14:22:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwxLi6fPg-hjoZgGOd4AaABAg.992E6ncD4xt992MOGp00wF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - thanks for taking the time to post mate",
+        "likes": 1,
+        "published_at": "2020-05-24T15:34:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyAh9UVelm26d9NfLV4AaABAg",
+    "author": "@LoneWolfsVoice",
+    "author_channel_id": "UC4gDwQ3CyBuO8mX8y5vjbDA",
+    "text": "Though you probably don't have the equipment to make them perhaps a series on Betavoltaic batteries could be done. Talking about things like strontium batteries and where these technologies stand today. My biggest curiosity is the possibility of these becoming safe and strong enough to simply toss in the basement and run your house.",
+    "likes": 0,
+    "published_at": "2020-05-24T14:15:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx7o5IdRutVMoIdZ-R4AaABAg",
+    "author": "@stewartrv",
+    "author_channel_id": "UCZpaXxnH0Trf2jdGG6JjWFg",
+    "text": "Probably worth mentioning that it's possible to buy plug in earth leakage trips (can get them for using outdoor electric garden tools) and having one for use when experimenting might be handy to stop you killing yourself if you aren't too experienced yet.  You can search for \"RCD Plug Safety Adaptor\" or similar.\nThere are often earth leakage RCD's built into the cupboard at the supply, but I'm guessing you don't have one if you can make that saltwater welder without tripping it! :)",
+    "likes": 1,
+    "published_at": "2020-05-24T13:11:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx7o5IdRutVMoIdZ-R4AaABAg.99263OQe0TH992Mkh-lIFQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for taking the time to write mate - cheers",
+        "likes": 1,
+        "published_at": "2020-05-24T15:37:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5NByRPj9b8NPzK514AaABAg",
+    "author": "@hyqhyp",
+    "author_channel_id": "UCvrfqJaj1CrsKGKt6UlliPQ",
+    "text": "Now two things to die from.",
+    "likes": 0,
+    "published_at": "2020-05-24T13:09:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5NByRPj9b8NPzK514AaABAg.9925qGWSB6p992MnfM2tJJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - there are plenty of others mate....",
+        "likes": 0,
+        "published_at": "2020-05-24T15:38:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRl5qRH5I7QK87ly94AaABAg",
+    "author": "@ShillBullshit007",
+    "author_channel_id": "UC4616RVL2lxZx-yYl13VfFw",
+    "text": "I'm glad that you mentioned to not put electricity in your mouth! Not many people do? ;D",
+    "likes": 0,
+    "published_at": "2020-05-24T13:01:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxRl5qRH5I7QK87ly94AaABAg.9924tJwhvK_992MqfjjXiK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2020-05-24T15:38:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRipsIPeXmJREUiNJ4AaABAg",
+    "author": "@buccleuch7621",
+    "author_channel_id": "UCpDemdutcqe8gTiMSiABCAA",
+    "text": "Never fails to surprise me the number of consumer electrical devices that are supplied with the wrong rated fuse (usually 13 amp) when a 3 or 5 amp will suffice,  be much safer and more protective of the device, as well as the device user.\nFirst thing I do with any new equipment is check the fuse rating and usually put in a lower rated fuse. Particularly surprises me that despite improved electrical efficiency, a standard size 1, 1.5 or 2 amp fuse is not commonly available here in the UK. Is it because the manufacturers want consumers to blow your machines or they don't understand electrics?\nKeep up the great work!",
+    "likes": 1,
+    "published_at": "2020-05-24T11:24:40Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwRipsIPeXmJREUiNJ4AaABAg.991unAFXMvj9923M0Yz2Fz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - thanks for taking the time to post",
+        "likes": 0,
+        "published_at": "2020-05-24T12:48:12Z"
+      },
+      {
+        "id": "UgwRipsIPeXmJREUiNJ4AaABAg.991unAFXMvj992ApXKymRp",
+        "author": "@zenbudhism",
+        "author_channel_id": "UCf8IPHwKqIn0U-AWEwlqkSg",
+        "text": "13a fuses will only blow at 15a , be carefull",
+        "likes": 2,
+        "published_at": "2020-05-24T13:53:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx8MAFToKAzBxgYgXh4AaABAg",
+    "author": "@dougpine4746",
+    "author_channel_id": "UCPujtRReYdtKiczo0bdOTRA",
+    "text": "Good safety lecture Rob.",
+    "likes": 0,
+    "published_at": "2020-05-24T11:16:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx8MAFToKAzBxgYgXh4AaABAg.991ttauAG_89923NNhwQqz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-24T12:48:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCWJhl5Oh4RZcwXX94AaABAg",
+    "author": "@oldscoolgaming.5040",
+    "author_channel_id": "UCA379zxJxOdNzVAwBdvN0TQ",
+    "text": "I recently uploaded a video on my little channel about charging a battery using the Emf from the back of my Tv sett, I would love If you would watch my vid and give me a little advise on how safe,or unsafe this actually is.",
+    "likes": 0,
+    "published_at": "2020-05-24T11:02:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyx7hi5ZGXSbPx2t5N4AaABAg",
+    "author": "@jimsmindonline",
+    "author_channel_id": "UCDUVppcgTqC5fkxBKtaeLCA",
+    "text": "Glad you've done these safety videos. I think it's really important, especially for people who have no experience.\n\nI perhaps would've mentioned the 1 hand rule and the how dangerous it is for the heart.\n\nNileRed, one of my chemistry subs, did a really thorough video about chemistry safety in the lab, highly recommended.",
+    "likes": 1,
+    "published_at": "2020-05-24T09:45:30Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugyx7hi5ZGXSbPx2t5N4AaABAg.991jRu1TnAv9923ihkKeTz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good ideas mate - cheers for the post",
+        "likes": 1,
+        "published_at": "2020-05-24T12:51:26Z"
+      },
+      {
+        "id": "Ugyx7hi5ZGXSbPx2t5N4AaABAg.991jRu1TnAv9AyPTy8Cold",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "I think anyone with no experience should look elsewhere, for proper electrical safety advice.",
+        "likes": 1,
+        "published_at": "2020-07-11T10:28:06Z"
+      },
+      {
+        "id": "Ugyx7hi5ZGXSbPx2t5N4AaABAg.991jRu1TnAv9MW_mgWbBq6",
+        "author": "@UnifiedInfo",
+        "author_channel_id": "UCdYxJwVYJwpg6531x_2mlLQ",
+        "text": "@derekp2674 I brather my kids have this advice then nothing at all",
+        "likes": 0,
+        "published_at": "2021-04-24T12:05:40Z"
+      },
+      {
+        "id": "Ugyx7hi5ZGXSbPx2t5N4AaABAg.991jRu1TnAv9MWv5nrdeUz",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "@UnifiedInfo Fair point but there are a lot of other good videos out there too.",
+        "likes": 1,
+        "published_at": "2021-04-24T15:11:55Z"
+      },
+      {
+        "id": "Ugyx7hi5ZGXSbPx2t5N4AaABAg.991jRu1TnAv9MZ9WNNXwdC",
+        "author": "@UnifiedInfo",
+        "author_channel_id": "UCdYxJwVYJwpg6531x_2mlLQ",
+        "text": "@derekp2674 I agree as a\nkid I was curious. Knowing what something is and the reason and dangers of it is what actually kept me safe. If someone just says dont touch that then the message doesn't really get through for kids. But to make it interesting is to make it memory.",
+        "likes": 0,
+        "published_at": "2021-04-25T12:05:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKnSaD1e7YXWfssP94AaABAg",
+    "author": "@tebbi67",
+    "author_channel_id": "UC-09xbVX_X32HZUDDOCAuqw",
+    "text": "The easiest way to say this is at your own risk! but he worries about others who can read but do not understand. \nSo he pursues the motto: Basics for all!\nI lack the words to describe the magnificence of this action.\nGreat keep it up.\nTHX  for the bouquet of flowers on ideas.",
+    "likes": 0,
+    "published_at": "2020-05-24T09:11:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzF-DwprAcRGNBBk7p4AaABAg",
+    "author": "@oddjobbobb",
+    "author_channel_id": "UCq1yvQhn0JjJm24DIbb6jlg",
+    "text": "I have wondered for years why some light fixtures say in them, \"60 Watt Maximum.\" It never made sense to me because the 100 watt bulbs I had fit just fine, and worked just fine too. Now I know it is because the wires in the fixture are not made to hold the current being demanded by the bigger \"resistor\" in the light bulb. I'm probably lucky I've never had a fire.",
+    "likes": 0,
+    "published_at": "2020-05-24T08:09:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzF-DwprAcRGNBBk7p4AaABAg.991ZQDuyj2999244F-W8OK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate lol - cheers",
+        "likes": 0,
+        "published_at": "2020-05-24T12:54:30Z"
+      },
+      {
+        "id": "UgzF-DwprAcRGNBBk7p4AaABAg.991ZQDuyj29992AhiBIkoR",
+        "author": "@zenbudhism",
+        "author_channel_id": "UCf8IPHwKqIn0U-AWEwlqkSg",
+        "text": "All parts of 100w bulbs get very very hot . The heat gets conducted to the wiring. Especially if its above.",
+        "likes": 0,
+        "published_at": "2020-05-24T13:52:28Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_E-cDhF3BeCJpJj14AaABAg",
+    "author": "@BurnabyAlex",
+    "author_channel_id": "UCwVOd6eSh-W-OYRbRY1VhTg",
+    "text": "If you had experience with the wiring industry, and electronics industry,  you will find that a lot of standards are due to previous failures .\n1 - Not all rubber hoses insulate - you may have an insulating rubber hose, or you may have a rubber hose with carbon black added which conducts,  I've seen molded silicone boots added for safety over electrical contacts actually catch fire and require a recall.\n2. Different insulators will have different temperature ratings.  If you're making an oven, use oven wire.  \nEvery wire you buy will have a data sheet for the current the conductor can carry, and the volts it can insulate for, as well as whether it is rated for outdoor use.  Some coatings fail to work when wet, hence indoor only extension cords.\n3. Metals melt when you have overcurrent.  I've seen solder joints at the input liquefy, and flow to the next solder joint creating a local arc furnace at 24 volts, 40 amps.    Your copper pipe holders can melt as well, and the insulation between the 2 conductors in the wire can melt  causing an arc where you don't expect it.  \n4. Like other people mentioned, different solutions create different gases.  Some harmless, some to watch out for.\nBest of luck, and always check the data sheets of the products you use to verify it can handle voltage, current, moisture.\nWelding cables are cheap, and oven wire can be found for cheap or from old ovens.",
+    "likes": 1,
+    "published_at": "2020-05-24T07:13:18Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz_E-cDhF3BeCJpJj14AaABAg.991T1APwSDz991VtUFNC1E",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers for the post mate - thanks for taking the time to write",
+        "likes": 1,
+        "published_at": "2020-05-24T07:38:20Z"
+      },
+      {
+        "id": "Ugz_E-cDhF3BeCJpJj14AaABAg.991T1APwSDz992vOHDQ2DP",
+        "author": "@BurnabyAlex",
+        "author_channel_id": "UCwVOd6eSh-W-OYRbRY1VhTg",
+        "text": "@ThinkingandTinkering Hope you do well!",
+        "likes": 0,
+        "published_at": "2020-05-24T20:49:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxx-3Eol7KoUEHQyOB4AaABAg",
+    "author": "@universebecomingltd",
+    "author_channel_id": "UC5oK1rCdKE_zQxGC66kWW4Q",
+    "text": "When I was 16 years old or so, I took apart a simple camera.  It was just a simple battery-powered camera with a built-in flash unit.  Well, while I was messing with disassembling it for around 15 minutes I thought, hey, I wonder if that big electrolytic capacitor has a charge in it?  HAHA!  🤣🤣  So I stuck the tip of a screwdriver across the terminals and POW!!  It was fully charged!  The discharge completely vaporized the tip of the screwdriver in a blinding white flash!  It was rated at something like 300 microfarads at 320 volts!  Not enough joules to kill but that was a real attention-getter let me tell ya!  That scared me so bad that I from then on had an extreme respect for electricity!  😁\n\nWell, not extreme enough though.  It took another event to actually convince me to be more cautious.  Also around that time, I had built a simple high voltage device out of an ignition coil from an automobile.  It'd make somewhat friendly-looking 2-centimeter blueish white sparks at 60 Hz.  You could touch the sparks and they'd sting quite a bit, but no big deal really.  No big deal until I grabbed ahold of the two live high voltage terminals with both hands.  NOW THAT WAS DIFFERENT!  😁  The muscles in my fingers locked onto the terminals and I couldn't let go!  My whole body was STRONGLY buzzing at the frequency of the device and I started to die as every muscle in my body was immobilized.  As I started to fall unconscious my body slowly fell to the left as I slowly fell out of the chair and the weight of my body pulled my hands free and I was fine after a few minutes of hyperventilating.  SO THAT FINALLY CONVINCED ME TO BE EXTRA EXTRA CAREFUL!  HAHAHA!  🤣🤣🤣\n\nIt's forty years later and I haven't had another close call.",
+    "likes": 0,
+    "published_at": "2020-05-24T05:59:53Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugxx-3Eol7KoUEHQyOB4AaABAg.991KcTrlhbz991VZTZYmJx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "experience is certainly the best teacher mate - thanks for taking the time to write",
+        "likes": 1,
+        "published_at": "2020-05-24T07:35:28Z"
+      },
+      {
+        "id": "Ugxx-3Eol7KoUEHQyOB4AaABAg.991KcTrlhbz991X4LY3L8k",
+        "author": "@universebecomingltd",
+        "author_channel_id": "UC5oK1rCdKE_zQxGC66kWW4Q",
+        "text": "@ThinkingandTinkering Thanks for the reply as well Robert!  😁",
+        "likes": 0,
+        "published_at": "2020-05-24T07:48:41Z"
+      },
+      {
+        "id": "Ugxx-3Eol7KoUEHQyOB4AaABAg.991KcTrlhbz9AyRddzhkNn",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "Given that Robert's videos often feature the dismantling of old equipment and the re-use of salvaged components, it was disappointing to see no mention of safety precautions for handling and storing capacitors in the video.  Where I used to work, we would always check that capacitors had been short circuited and earthed down before handling them and we would store all large capacitors with an earthing wire across their terminals, to prevent them becoming recharged by voltage hysterysis.",
+        "likes": 0,
+        "published_at": "2020-07-11T10:47:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyjvmM_mYjfYxn6IzB4AaABAg",
+    "author": "@werxeh8027",
+    "author_channel_id": "UClMB2wx5PUug26fnoDi1ahg",
+    "text": "Interestingly my home supply voltage is 247V, I always thought it was supposed to be 240V in the UK, if 230V is supposed to be the average, mine is a bit on the high side.",
+    "likes": 0,
+    "published_at": "2020-05-24T05:44:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyjvmM_mYjfYxn6IzB4AaABAg.991IuTy-_Oa992IHieEpWB",
+        "author": "@stephentaylforth4731",
+        "author_channel_id": "UC8OpuZ-Anbq5lUwcENPN7hg",
+        "text": "230 Volts is a compromise value between the 240V in the UK and the 220V often used in Europe.  They never changed from the 240V it originally was pre Europe.  Its usually North of 240V in reality.  Mine is often 247+ V too, it varies.",
+        "likes": 2,
+        "published_at": "2020-05-24T14:58:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwb4GGewRZFaCuPz_54AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Like you I pull things apart all the time. I am always touching conductive wires, however I always make sure that the plug is not connected to the outlet first. lol.. Great video as always.",
+    "likes": 1,
+    "published_at": "2020-05-24T03:47:43Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwb4GGewRZFaCuPz_54AaABAg.9915VNM_UpJ991HqOke5Jo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-24T05:35:34Z"
+      },
+      {
+        "id": "Ugwb4GGewRZFaCuPz_54AaABAg.9915VNM_UpJ9AyTSAF_dZv",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@ThinkingandTinkering still waiting to find out what FWG stands for so I know when my coffee mug gets here. I guessed \"For Wise Guy's\", was I right?",
+        "likes": 0,
+        "published_at": "2020-07-11T11:02:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgytK9Eh3jlI9p7f-QF4AaABAg",
+    "author": "@MEANASSJAMSTER",
+    "author_channel_id": "UCXwLd_JMHtD51JAyo1fnNpg",
+    "text": "touched 'that' by accident once and then punched myself in the face... - looool",
+    "likes": 0,
+    "published_at": "2020-05-24T02:42:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgytK9Eh3jlI9p7f-QF4AaABAg.990z3cwV6x6991I2EliRAA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol indeed",
+        "likes": 0,
+        "published_at": "2020-05-24T05:37:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyOCE3w_KI0Bb2xVLF4AaABAg",
+    "author": "@davegeorge7094",
+    "author_channel_id": "UCPbUN9AmbF77aixhSmFsG9Q",
+    "text": "Even low voltage can kill you if you have large current flow and interrupt the flow and causes very brief high voltage via inductance results and that can jump to get you!",
+    "likes": 1,
+    "published_at": "2020-05-24T02:34:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxjuugP8I11Ink65UZ4AaABAg",
+    "author": "@andyweb7779",
+    "author_channel_id": "UCVbOaZGfb8SyZ6uab2U7zLA",
+    "text": "I could never get my head around how an iron runs on mains AC... the whole bottom of the thing is made of bare metal... and water squirts out of it. It's everything you're told is dangerous in one appliance. Obviously it is safe, but how and why is that safe?",
+    "likes": 0,
+    "published_at": "2020-05-24T02:24:39Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxjuugP8I11Ink65UZ4AaABAg.990x-2cpRgP991joq1R6RC",
+        "author": "@rotorspinny5516",
+        "author_channel_id": "UCc4loPX5tsNdsTt1-g6NLYg",
+        "text": "The electric element, thermostat and switches are safely sealed by plastic/rubber insulation, protecting it from the metal surfaces, the same goes with every electrical appliance",
+        "likes": 0,
+        "published_at": "2020-05-24T09:48:46Z"
+      },
+      {
+        "id": "UgxjuugP8I11Ink65UZ4AaABAg.990x-2cpRgP9929vKw13GC",
+        "author": "@zenbudhism",
+        "author_channel_id": "UCf8IPHwKqIn0U-AWEwlqkSg",
+        "text": "All accessible metal should be connected to earth class 1 appliance. Or have two layers of insulation capable of withstanding 3000volts under 93-97% humidity after two days. Class II appliance",
+        "likes": 1,
+        "published_at": "2020-05-24T13:45:35Z"
+      },
+      {
+        "id": "UgxjuugP8I11Ink65UZ4AaABAg.990x-2cpRgP992MQR5QypF",
+        "author": "@andyweb7779",
+        "author_channel_id": "UCVbOaZGfb8SyZ6uab2U7zLA",
+        "text": "@rotorspinny5516 Fair enough chaps, fair enough. But what if after 20 years the insulation inside degrades? My ma has been using the same iron she got as a wedding present like 30 years ago! It still works. Although it's had 2 new leads on it. It's half way to being a Trigger job lol.",
+        "likes": 0,
+        "published_at": "2020-05-24T15:34:49Z"
+      },
+      {
+        "id": "UgxjuugP8I11Ink65UZ4AaABAg.990x-2cpRgP992M_z63IRK",
+        "author": "@andyweb7779",
+        "author_channel_id": "UCVbOaZGfb8SyZ6uab2U7zLA",
+        "text": "@zenbudhism How does the earthing work btw? If I have a live wire in contact with some other metal that's earthed and I touch it, does all the power take the route of least resistant into the ground or will I still get zapped?",
+        "likes": 0,
+        "published_at": "2020-05-24T15:36:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKS_NbzTTVG15_Uzp4AaABAg",
+    "author": "@colouroboros9993",
+    "author_channel_id": "UCbWCKaz6lZw4binMzNhm7Aw",
+    "text": "great explanation",
+    "likes": 0,
+    "published_at": "2020-05-24T01:46:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyKS_NbzTTVG15_Uzp4AaABAg.990s_W1fIWw991IL-UqL17",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you think so mate - cheers",
+        "likes": 0,
+        "published_at": "2020-05-24T05:39:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx93fJOa3_sU8gKXUV4AaABAg",
+    "author": "@breezer1788",
+    "author_channel_id": "UCQ4zV_-wA0oWDSSQzYkqFQw",
+    "text": "Thanks again Robert.",
+    "likes": 0,
+    "published_at": "2020-05-24T01:45:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx93fJOa3_sU8gKXUV4AaABAg.990sY62WxU6991IOocuM8t",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no probs mate - cheers",
+        "likes": 0,
+        "published_at": "2020-05-24T05:40:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxWvN9XdE4CCxgz2Ud4AaABAg",
+    "author": "@uvids7765",
+    "author_channel_id": "UC1xk9UA_mTu-z-1tfu-VOhg",
+    "text": "We all got lots of shocking experiences with electricity, 220v at 10years old, taught me a lesson I never forgot.",
+    "likes": 0,
+    "published_at": "2020-05-24T01:19:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxWvN9XdE4CCxgz2Ud4AaABAg.990pYOYP8fu991ImBFtacI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "learning by experience always lasts mate - cheers",
+        "likes": 0,
+        "published_at": "2020-05-24T05:43:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzKXRqmhugEeLkzjyN4AaABAg",
+    "author": "@benthere8051",
+    "author_channel_id": "UCA3o-MOrmPBuK-vzEclDbQQ",
+    "text": "I love you Brits.  Everything is a \"bit\". There are \"dangerous\" bits and there are \"naughty\" bits, and I imagine there are all sorts of other \"bits\".",
+    "likes": 0,
+    "published_at": "2020-05-24T01:17:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzKXRqmhugEeLkzjyN4AaABAg.990pG5Slb1G991Igjjj7f-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2020-05-24T05:43:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLcU0LF79_2pCgrfh4AaABAg",
+    "author": "@MrTubeuser12",
+    "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+    "text": "the safety feature is your brain, some people just don't use it lol",
+    "likes": 0,
+    "published_at": "2020-05-24T01:08:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyLcU0LF79_2pCgrfh4AaABAg.990oGPKgGpJ991ItPuXueR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - absolutely mate",
+        "likes": 0,
+        "published_at": "2020-05-24T05:44:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzlZOATEu8BjCMe9jx4AaABAg",
+    "author": "@MrTubeuser12",
+    "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+    "text": "so, to surmise, \"DON\"T TOUCH THAT !\" LOL. you would think just plain common sense would suffice in most cases. love your videos as always.",
+    "likes": 0,
+    "published_at": "2020-05-24T01:05:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzlZOATEu8BjCMe9jx4AaABAg.990nux67qvo991Iw-9P2J_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-24T05:45:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxGjF2NM3BeIL7JWdd4AaABAg",
+    "author": "@williamarmstrong7199",
+    "author_channel_id": "UCd6qJhEA66za69NT-cT4Sog",
+    "text": "I learn something new on every video! I knew electricity travels on the outside of the conductor, but I did not know the frequency dictates how deep into the wire the flow happens. \nThat is very interesting. I wonder why that happens.",
+    "likes": 2,
+    "published_at": "2020-05-24T00:11:07Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxGjF2NM3BeIL7JWdd4AaABAg.990hi-pap1V9AEhzPnyaAR",
+        "author": "@worxharder9470",
+        "author_channel_id": "UCaSY54c5e26bellkGIKRsyA",
+        "text": "I think of it like this, imagine a log on fire. The wire is the log. The more frequency there is, the deeper it will go. With low frequency (low fire) the log would barely be effected.\n\nElectrons prefer to travel along the surface, but at high enough frequency, they will actually start breaking down into the metal of the conductor, because there are only so many along the surface at any given time. \nNow imagine a wire exposed to ultra high frequency. I wonder if conductors have limitations on frequency once every electron in a wire is utilized, even at it's core. Would it pull electrons from surrounding air?\nAt least that's how I imagine it.",
+        "likes": 0,
+        "published_at": "2020-06-23T07:14:15Z"
+      },
+      {
+        "id": "UgxGjF2NM3BeIL7JWdd4AaABAg.990hi-pap1V9AyOo9tofHX",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "If you google \"ac skin effect\" or something like that you should learn more...\n\nIn brief summary, the skin effect is a feature of the laws of electromagnetic induction, as used in domestic induction hobs. If a thick wire is connected to a power supply, a current will begin to flow along the wire. In turn the current will establish a magnetic field around the wire. If the wire is surround by free space, e.g. air or vacuum, the magnetic field can appear more or less instantly. So, if the current rise from zero to maximum in a short time, e.g. 5ms, the the magnetic field strength outside the wire will also reach its maximum in that time. If the current is confined to the outside of the wire, then there will not be any magnetic field inside the wire. But, if current is also going to flow inside the body of the wire, then there must also be a magnetic field there. Unfortunately, whenever a current acts so as to cause a time changing magnetic field in a conductor, that field then acts so as to produce opposing currents and voltage in that conductor. So for any ac conductor, there is a battle between the electric fields (or \"voltages\") produced by any resistance along its skin, which tends to drive the current to flow down into the body of the wire and the voltages produced by electromagnetic induction, which counteract the tendency for the current to flow over more than just the surface of the wire.\n\nWith the aid of properly detailed physics and maths you can calculate that the effective skin depth in a copper wire will be (66mm / the square root of the ac frequency in cycles per second or Hertz).",
+        "likes": 1,
+        "published_at": "2020-07-11T10:22:16Z"
+      },
+      {
+        "id": "UgxGjF2NM3BeIL7JWdd4AaABAg.990hi-pap1V9AyOzwzC3Ku",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "@worxharder9470 Er no - the electrical skin depth actually decreases as the reciprocal of the square root of the frequency.",
+        "likes": 1,
+        "published_at": "2020-07-11T10:23:52Z"
+      },
+      {
+        "id": "UgxGjF2NM3BeIL7JWdd4AaABAg.990hi-pap1V9Az5c4Vt460",
+        "author": "@worxharder9470",
+        "author_channel_id": "UCaSY54c5e26bellkGIKRsyA",
+        "text": "@derekp2674 thanks for the info, I have always understood magnetic fields to be in the shape of a toroid. And have always imagined that shape to run along the length of a conductor. So I could see your info being accurate, seeing how a toroid has a hollow center. I'm no physicist but still I try to grasp things in laymen's terms, just to further my understanding. I will look further in that skin affect. I had no clue there was info out there on it, thanks again.",
+        "likes": 0,
+        "published_at": "2020-07-11T16:53:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSX6Qe3jOo79nuWQJ4AaABAg",
+    "author": "@rotorspinny5516",
+    "author_channel_id": "UCc4loPX5tsNdsTt1-g6NLYg",
+    "text": "Best advice, unless you’ve had electrical training, don’t mess with electricity, I’ve seen too many people badly injured, too many family members injured and killed, too many houses burnt down from people doing their own electrical work. \nBeing an electrician is at least a 4 year apprenticeship, for a good reason.",
+    "likes": 9,
+    "published_at": "2020-05-23T23:29:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzHdPq_Ydc_IXLhEZZ4AaABAg",
+    "author": "@macaw6718",
+    "author_channel_id": "UCvmwfG4MTAK1W_h9kqVn2PA",
+    "text": "i had my house electricity powered from an rcd box just in case.\nregards.",
+    "likes": 2,
+    "published_at": "2020-05-23T23:29:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZvBeTuT3_3_LXSvR4AaABAg",
+    "author": "@MerwinARTist",
+    "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+    "text": "Water (a form of energy) flowing in a pipe is created with a pump with a pipe in a pond.  Electricity is a frequency flowing in a pipe of insulated wire (antenna) .. by a generator.  What is the pond?",
+    "likes": 0,
+    "published_at": "2020-05-23T23:29:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxZvBeTuT3_3_LXSvR4AaABAg.990cvGKtFZs991-1Hv1J2O",
+        "author": "@colleenforrest7936",
+        "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+        "text": "Would that be the battery or other energy storage device? A lake stores water, a battery stores energy, but so does a fly wheel or a weight at the top of a tower or a spring...  A battery is probably more like a lake of electricity: tap it and it flows. The latter 3 three can turn an electric generator, also causing the flow of electrons, but they could also power a water pump. So those wouldn't be \"lakes\" for electricity, but the potential energy storage would be the \"lake\" for mechanical energy.",
+        "likes": 0,
+        "published_at": "2020-05-24T02:51:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwFJbIzFMI1llUH_Y14AaABAg",
+    "author": "@garbleduser",
+    "author_channel_id": "UCO29iQ4AphjnYznUX5IAlGw",
+    "text": "I like your safety videos, thank you.",
+    "likes": 0,
+    "published_at": "2020-05-23T23:08:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwFJbIzFMI1llUH_Y14AaABAg.990a_Oxj4xI991JP5Vw7Ax",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool mate - thanks for posting",
+        "likes": 0,
+        "published_at": "2020-05-24T05:49:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLZ3ugQmJO1rpP3hh4AaABAg",
+    "author": "@jomme78",
+    "author_channel_id": "UC6B8igKRpVBzSGCICDxeRVw",
+    "text": "great informamative video....   but...  there is a big but in there, why is there in the uk,and sweden and finland as far as i know it is called one live and one neutral whe they both are live in a alternating 1 phase system, it doesent matter if you choose live or neutral, they are both live against ground and will have the possibility to kill you???? as far as i know in the rest of europe they are called L1 and L2 and ground... 3 phase has L1, L2, L3 and ground, what are those called in the uk ??",
+    "likes": 1,
+    "published_at": "2020-05-23T22:59:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzLZ3ugQmJO1rpP3hh4AaABAg.990_Xxe4PfQ99KJuPLva1G",
+        "author": "@BirdmanNorfolk",
+        "author_channel_id": "UCcJGnVi4eHSYRrk1sXp_nqw",
+        "text": "It's been a few years since my electrical theory, I am 54, but as far as I remember the difference is the PSSC, that is the assumed or tested permissive short circuit current on a conductor, whilst live and neutral phases have the potential for a serious shock, the killer literally is to complete the live circuit to Earth with your body, hence as technicians we were always taught to keep one hand in our back trouser pocket when working on a live circuit, particularly while carrying out test and inspection of anything unknown, people do sometimes tinker with appliances, so when you are fault finding you always treat them as potentially dangerous, the other thing we did of course was unplug the kit and keep the plug in sight while working, I have never received a shock from a live appliance, though I did once get one from an isolated circuit, because the capacitors hadn't fully discharged!😬",
+        "likes": 1,
+        "published_at": "2020-05-31T14:59:10Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6DDjn02lXrGoEz9d4AaABAg",
+    "author": "@0.zz.y",
+    "author_channel_id": "UCxW5W8X53XzoRduqBVM9x7Q",
+    "text": "I've had two bad shocks in my life from 230v, both times I stupidly trusted a colleague to turn the power off to what I was working on.",
+    "likes": 1,
+    "published_at": "2020-05-23T22:50:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6DDjn02lXrGoEz9d4AaABAg.990ZVWeKxsg9AyQ9zYgY_D",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "One site I worked on suffered a near fatal electrocution form a similar cause. An electrical suffered very severe burns and spent weeks in hospital afterwards.\nAt the same sight, the son of a close colleague died whilst on holiday in Turkey. He received a fatal shock from a faulty fridge, apparently from the act of attempting to open the fridge door. I guess that there was no proper earth and a fault inside had somehow made the door handle or casing become live.",
+        "likes": 0,
+        "published_at": "2020-07-11T10:34:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy4VCZ81q2rurpPIe54AaABAg",
+    "author": "@ClownWhisper",
+    "author_channel_id": "UCrQVopd67OnwpMyLTSP73Sw",
+    "text": "This video reminds me how people always yell at me when I change light switcheswall sockets in light socket sometimes without even turning the breaker off LOLI do one while you're at a time I bend it to shape I screwed on turn the socket been the other wire with a pair of rubber coated attach it to the switch or socket mounted back in the wall and use it.\n\nI probably should turn the mains off LOL but I've been doing it so goddamn long I know not to touch the damn thing!for some reason people can't get it through their head that the wall switch that controls that light or that plug is the same thing as turning the goddamn main off I'm the breaker box LOL",
+    "likes": 1,
+    "published_at": "2020-05-23T21:52:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzk4XUP7Sqd3jys8uJ4AaABAg",
+    "author": "@clarencementor4862",
+    "author_channel_id": "UCNUWvoCQzmqrtiC6UIk5aCg",
+    "text": "Hi Robert have you ever wondered why companies do not make electric heaters from graphite material. Graphite, Graphene and carbon have a distinct property when used as a heating element. It behaves as a supper-conductor as it heats up. Other than metals it resistance goes down when heated up. Metals on the other hand increases in resistance as it heats up. To sum it all up more efficient heating elements can be made from graphite.",
+    "likes": 0,
+    "published_at": "2020-05-23T21:48:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzk4XUP7Sqd3jys8uJ4AaABAg.990SP7R9c3g9929S_wLFAy",
+        "author": "@zenbudhism",
+        "author_channel_id": "UCf8IPHwKqIn0U-AWEwlqkSg",
+        "text": "Possible thermal runaway?",
+        "likes": 2,
+        "published_at": "2020-05-24T13:41:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw45vZf5Mt_jEQucxV4AaABAg",
+    "author": "@brianmcnish1835",
+    "author_channel_id": "UCHdQYflup4oOmYrvmssxKuQ",
+    "text": "Love that you use the KISS method of explaination. ElectroMotive force is just that a movement that causes motion, Why are we making it mysterious by calling it EMF",
+    "likes": 0,
+    "published_at": "2020-05-23T21:30:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz0V_AyIXAwVEfh7j54AaABAg",
+    "author": "@marcin4xm",
+    "author_channel_id": "UC6-Iita70-mA224V65mmFGg",
+    "text": "We can do so much with electricity and we don't even know what it really is..We know that it flows near surface of polarized conductor and the flow of electrons is just a side effect that causes resistance.it's so confusing that physicists assume that the current flow  from minus to plus and electronics from plus to minus .it has always been a mystery to me that in corroded circuits there have always been corroded paths connected to plus not minus.if you touch the tongue with the positive electrode you will feel the reaction and if the negative does not.Does a negative treminal full of electrons have any potential?what about capacitors? if you charge two capacitors and connect only the positive terminal of one with the negative of the other, why don't electrons flow? I don't expect an answer. Electricity is full of secrets and that's why it's so fun.",
+    "likes": 0,
+    "published_at": "2020-05-23T21:02:31Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugz0V_AyIXAwVEfh7j54AaABAg.990N7dO4pnd990P5E5o6nX",
+        "author": "@TrentTationnaiseXization",
+        "author_channel_id": "UC6sJVET5pU5yicD4NZ7HauA",
+        "text": "I think the capacitors would need a load between them. Idk",
+        "likes": 0,
+        "published_at": "2020-05-23T21:19:40Z"
+      },
+      {
+        "id": "Ugz0V_AyIXAwVEfh7j54AaABAg.990N7dO4pnd992B7L9ll5q",
+        "author": "@zenbudhism",
+        "author_channel_id": "UCf8IPHwKqIn0U-AWEwlqkSg",
+        "text": "You need a circuit connected to both polaritys. Electrons Wont come out of one electrode into the air",
+        "likes": 0,
+        "published_at": "2020-05-24T13:56:06Z"
+      },
+      {
+        "id": "Ugz0V_AyIXAwVEfh7j54AaABAg.990N7dO4pnd992k0gIMT4m",
+        "author": "@marcin4xm",
+        "author_channel_id": "UC6-Iita70-mA224V65mmFGg",
+        "text": "@zenbudhism No they not come to air and not come to holes (positive conector ) of another harged capacitor - Why ?\nMaby capacitor have to be in balance ? Then if you put some chemical only on negative connector of capacitor 1 to make chmical reaction and absorb some electrons then electron will flow to positive of 1 from negative of 2 capacitor if his positive is in \"air\"",
+        "likes": 0,
+        "published_at": "2020-05-24T19:09:46Z"
+      },
+      {
+        "id": "Ugz0V_AyIXAwVEfh7j54AaABAg.990N7dO4pnd9AyTSn5wsTA",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "To quickly answer your query about electrons, a flow of current can involve the motion of electrons but does not have to. There is also \"displacement current\" which occurs where you have a changing electric field, such as a changing voltage across the insulation in a capacitor. James Clerk Maxwell set out the physical laws that govern this in what is now know as the Maxwell-Ampere law.",
+        "likes": 0,
+        "published_at": "2020-07-11T11:02:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwkv4j8IPnniA45Ndx4AaABAg",
+    "author": "@RagingGuppy",
+    "author_channel_id": "UCv4yDUE-PvGz6-DBcWm-6TQ",
+    "text": "I remember when taking electronics in school. Its not the voltage that kills you its the current. 1 amp of current is enough to kill you.",
+    "likes": 2,
+    "published_at": "2020-05-23T20:53:19Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugwkv4j8IPnniA45Ndx4AaABAg.990M4HHzwiG990ZrBO31Gl",
+        "author": "@AlienRelics",
+        "author_channel_id": "UC3l6MouugID_cbT3Ua8gfmQ",
+        "text": "100mA of current is enough to kill you. A large percentage of people can't let go with 20mA or more. If your skin is pierced in the right (wrong) places, 12V can kill you, and 5V might even kill you.",
+        "likes": 0,
+        "published_at": "2020-05-23T22:53:44Z"
+      },
+      {
+        "id": "Ugwkv4j8IPnniA45Ndx4AaABAg.990M4HHzwiG990uzhdDuNn",
+        "author": "@barry2718",
+        "author_channel_id": "UCw8W6thlsH8ZkuGC-7ptyxg",
+        "text": "Skin is Not an issue until the frequency exceeds a 1MHz usually. The reason main power wires are twisted is flexibility not only in use but for transport when coiled on a drum. Basic fact is bending a 7 or 19 strand wire is easier than the same cross sectional area single strand. \nAt 10kV and over the maximum outside diameter has to be increase to reduce the corona effect in air as air is ionized with the electric field intensity. Sharp edges have to be avoided. That is a completely different thing to skin effect.",
+        "likes": 0,
+        "published_at": "2020-05-24T02:07:08Z"
+      },
+      {
+        "id": "Ugwkv4j8IPnniA45Ndx4AaABAg.990M4HHzwiG990vXNEjWjR",
+        "author": "@barry2718",
+        "author_channel_id": "UCw8W6thlsH8ZkuGC-7ptyxg",
+        "text": "Great video covered the golden rules of safety. Another one I'd to only use one hand on the job. The body impedance at 50 hz is low ( mainly capacitance ) and with one hand on active there is only a tiny ac current to earth via the bodies capacitance assuming your insulated from earth that is. Still very dangerous.",
+        "likes": 0,
+        "published_at": "2020-05-24T02:11:52Z"
+      },
+      {
+        "id": "Ugwkv4j8IPnniA45Ndx4AaABAg.990M4HHzwiG9AyQeXhTvbX",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "We used to be taught that mlliamps can kill, if they flow across the wrong part of your body. We were taught to rememeber \"it's the volts that jolts but the mils that kills\".",
+        "likes": 0,
+        "published_at": "2020-07-11T10:38:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzgWwp2C1TARqJJHO14AaABAg",
+    "author": "@lostinthemoonlight",
+    "author_channel_id": "UCXT2vPXN7NGDBuyv7wDvKOA",
+    "text": "Electrical safety is electrical knowledge.",
+    "likes": 1,
+    "published_at": "2020-05-23T20:49:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzgWwp2C1TARqJJHO14AaABAg.990Le9ZBOz3991KrFB5WYj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate - cheers",
+        "likes": 0,
+        "published_at": "2020-05-24T06:01:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzXhy00xJQHUWRWHX94AaABAg",
+    "author": "@sofa-lofa4241",
+    "author_channel_id": "UCs0VwyqtPRAXw49xVyBzOkA",
+    "text": "Good simple advice that 99% of people can take on board, \nIt seems like there isn't much teaching like this in schools these days, shame really\nAs for the other 1%...I'm sure Mr. Darwin came up with a theory about that!",
+    "likes": 0,
+    "published_at": "2020-05-23T20:49:12Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzXhy00xJQHUWRWHX94AaABAg.990Lb7deQbQ991KuI23Sej",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - glad you liked the video and thanks for posting",
+        "likes": 0,
+        "published_at": "2020-05-24T06:02:19Z"
+      },
+      {
+        "id": "UgzXhy00xJQHUWRWHX94AaABAg.990Lb7deQbQ99KHqAdgI7S",
+        "author": "@BirdmanNorfolk",
+        "author_channel_id": "UCcJGnVi4eHSYRrk1sXp_nqw",
+        "text": "Natural selection every time, don't fence the cliff top, have an ambulance below!, Seriously though it is a crime we do not teach young people what they need to know, CDT, (craft,design and technology) to give the beast it's full title is no substitute for a proper practical education, you learn by listening,watching and doing under proper supervision, that's how I learned and everyone in my generation, but we don't teach that way anymore, people can be safe and practical, we are not all morons, though the powers that be seem to assume, just because they can't wire a plug or know what fuse they need for a known load doesn't mean we don't, I personally hate pre wired sealed on plugs, if the cord gets damaged, and on power tools and garden appliances this is a constant problem, you have to cut the damn thing off, throw it away, more landfill!, and fit a proper one, what a waste of time,money and resources!, we need practical skills education for everyone, we should not just be consumer sheep with everything done for us, we were the workshop of the world in Britain, and did not need to abolish useful skills training, in my job I meet would be home improvers who don't have the first idea, this is a sad state of affairs imho...",
+        "likes": 1,
+        "published_at": "2020-05-31T14:41:07Z"
+      },
+      {
+        "id": "UgzXhy00xJQHUWRWHX94AaABAg.990Lb7deQbQ99WfA_jBsGT",
+        "author": "@samanthakantor5771",
+        "author_channel_id": "UC8OVRzXfK4Ufdr2eQ1DqmiQ",
+        "text": "Jon'sWoodCraftUK its so true. Sadly happening across the US as well",
+        "likes": 0,
+        "published_at": "2020-06-05T10:04:38Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6U5ncxkmBNI7T76F4AaABAg",
+    "author": "@ThisRandomUsername",
+    "author_channel_id": "UCxaPwpC-_wFEWqSRlJ3Ea7Q",
+    "text": "Hi Rob. Just a quick mention which I'm sure you've simplified for the video: At 50/60Hz, the skin effect in a conductor is around 8mm, so typically only the HV transmission lines are stranded for this reason. The reason you have stranded wire in household appliances is just for flexibility and durability. Same with wiring in your walls, typically the lower current circuits in your house are wired with a single conductor, as it's thinner than the same current-carrying capacity stranded wire.\n\nAt much higher frequencies, the skin effect is a lot thinner, so they have insulated strands of wire twisted together. Look up litz wire. A couple years ago I made some 125kHz RFID coils out of it (carrying something like 50mA). It did improve things a little, but it was more effort than it was worth.",
+    "likes": 3,
+    "published_at": "2020-05-23T20:38:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzNTPGl71EH42HS7fZ4AaABAg",
+    "author": "@jaydeebishop2345",
+    "author_channel_id": "UCxES6AR2454lD_dyvE6YeSQ",
+    "text": "vulgarization is the way to teach others how to teach themselves. So many answers are going to come to me by getting this guy's take on electricity. I'm hooked.",
+    "likes": 1,
+    "published_at": "2020-05-23T20:23:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzNTPGl71EH42HS7fZ4AaABAg.990IiQqayBf991LXuqWyes",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool mate",
+        "likes": 0,
+        "published_at": "2020-05-24T06:07:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZfvAvCyiAf5upmGV4AaABAg",
+    "author": "@Ziggerzzz",
+    "author_channel_id": "UCOe27DazXCdUrR8jdqOuOCg",
+    "text": "Electric shock only kill's around 1000 people a year & accounts for only 7% of deaths in the construction industry in the UK ,so not risky at all on a scale of things :)",
+    "likes": 2,
+    "published_at": "2020-05-23T20:16:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZfvAvCyiAf5upmGV4AaABAg.990HuelrgOL990d_OWCk5m",
+        "author": "@rotorspinny5516",
+        "author_channel_id": "UCc4loPX5tsNdsTt1-g6NLYg",
+        "text": "I’m guessing that one of those 1000 deaths wasn’t one of your family members ?\nMost of those 1000 deaths would have been avoided if people left electrical work to professionals",
+        "likes": 2,
+        "published_at": "2020-05-23T23:34:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx__Pu9Cq0N3g2hiAp4AaABAg",
+    "author": "@kennybentley1161",
+    "author_channel_id": "UC_1CUpnwb11Ln46edP3KIXg",
+    "text": "most people are shocked when they find out I'm not an electrician :)",
+    "likes": 31,
+    "published_at": "2020-05-23T20:16:51Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "Ugx__Pu9Cq0N3g2hiAp4AaABAg.990HuA5ONP7990k5oMyvG5",
+        "author": "@rotorspinny5516",
+        "author_channel_id": "UCc4loPX5tsNdsTt1-g6NLYg",
+        "text": "You have a polarising sense of humour 🤣",
+        "likes": 4,
+        "published_at": "2020-05-24T00:31:59Z"
+      },
+      {
+        "id": "Ugx__Pu9Cq0N3g2hiAp4AaABAg.990HuA5ONP79924wSi_ka-",
+        "author": "@ShillBullshit007",
+        "author_channel_id": "UC4616RVL2lxZx-yYl13VfFw",
+        "text": "ha ha ha ;D",
+        "likes": 0,
+        "published_at": "2020-05-24T13:02:03Z"
+      },
+      {
+        "id": "Ugx__Pu9Cq0N3g2hiAp4AaABAg.990HuA5ONP799GzE7gvfoK",
+        "author": "@davidhutchinson4661",
+        "author_channel_id": "UCqO7Z9igtBReekKyctZkmHA",
+        "text": "In the current situation",
+        "likes": 0,
+        "published_at": "2020-05-30T07:52:02Z"
+      },
+      {
+        "id": "Ugx__Pu9Cq0N3g2hiAp4AaABAg.990HuA5ONP799KE4CjcSCr",
+        "author": "@BirdmanNorfolk",
+        "author_channel_id": "UCcJGnVi4eHSYRrk1sXp_nqw",
+        "text": "@davidhutchinson4661 they might offer resistance😂",
+        "likes": 1,
+        "published_at": "2020-05-31T14:08:13Z"
+      },
+      {
+        "id": "Ugx__Pu9Cq0N3g2hiAp4AaABAg.990HuA5ONP799Stbfbu8Eo",
+        "author": "@stephanc7192",
+        "author_channel_id": "UCdiCjlp9HYr9Xboc0DQ7_hQ",
+        "text": "🤣🤣🤣🤣🤣",
+        "likes": 0,
+        "published_at": "2020-06-03T22:53:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxU1Knft7nA116ZsHl4AaABAg",
+    "author": "@michaelinamoment",
+    "author_channel_id": "UCB3QKAfcNiQNFekKl0ZegpQ",
+    "text": "Great explanation. I use a 9.5 watt bulb whenever I'm doing something new in order to make sure I don't accidentally shock myself with mains AC at full blast. on occasion I have shocked myself with that 9.5 watts and it definitely lets you know. Sort of like a strong electric  cattle fence.",
+    "likes": 4,
+    "published_at": "2020-05-23T20:05:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxU1Knft7nA116ZsHl4AaABAg.990GeWmN8_H992Z6HNzjt5",
+        "author": "@will_doherty",
+        "author_channel_id": "UCXT-XdPy2qFf8yTcUiC8mfg",
+        "text": "9.5 W @ 240V is very close to a current of 40 milliamps. 10 milliamps across the heart is considered to be sufficient to kill some people, 40milliamps across the heart will likely kill many. Since you initially offer a much higher resistance than the lamp, you'll get the full 240V to drive it through you too. I wouldn't rely on your lamp too much to keep you alive.",
+        "likes": 2,
+        "published_at": "2020-05-24T17:25:40Z"
+      },
+      {
+        "id": "UgxU1Knft7nA116ZsHl4AaABAg.990GeWmN8_H9AyPBlYQABZ",
+        "author": "@derekp2674",
+        "author_channel_id": "UCepP6s3FhGLRIvGg0GSgttA",
+        "text": "@will_doherty Thanks for mentioning this. I think it was negligent that Robert did not mention this in the video.",
+        "likes": 0,
+        "published_at": "2020-07-11T10:25:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzXKE3K81FvCQcqw5d4AaABAg",
+    "author": "@rocketpoolpki",
+    "author_channel_id": "UCioD3d1_rbzMb3uMxChKtgg",
+    "text": "Boy with pliers, mess with wires, blue flashes...grey ashes",
+    "likes": 16,
+    "published_at": "2020-05-23T20:04:25Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzXKE3K81FvCQcqw5d4AaABAg.990GU2mnc5E991MTex7xQA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 3,
+        "published_at": "2020-05-24T06:16:01Z"
+      },
+      {
+        "id": "UgzXKE3K81FvCQcqw5d4AaABAg.990GU2mnc5E992ZYzBlPii",
+        "author": "@ciaransherry6021",
+        "author_channel_id": "UC194dut6wMUZ_WSKUlIUA5g",
+        "text": "Yip. Wise old timers had the expression, red to red, green to green, and blue to bits!☇💥☗\nElectricity kills, so be careful how you interface with it!",
+        "likes": 2,
+        "published_at": "2020-05-24T17:29:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyILo7nizr-1MOkhnN4AaABAg",
+    "author": "@thornhedge9639",
+    "author_channel_id": "UCIMKHC6F1yXffx86P0faOTw",
+    "text": "By the way I have a totally unrelated question Robert:  Are you still working with Graphene?  Does it Block E.M.F.?  I know you used it to carry a current but?\n  Just thinking that with all the 5G worries going on, it might pay to do some protective measures studies...   You do amazing work Robert, Keep it up!   Tim",
+    "likes": 5,
+    "published_at": "2020-05-23T20:00:18Z",
+    "reply_count": 11,
+    "replies": [
+      {
+        "id": "UgyILo7nizr-1MOkhnN4AaABAg.990G-zTyFdo990L3WvTzvB",
+        "author": "@sofa-lofa4241",
+        "author_channel_id": "UCs0VwyqtPRAXw49xVyBzOkA",
+        "text": "I wouldn't worry about 5G, there's more power output with 4G and I don't see (many) people screaming about that,\nI'm pretty sure the 'worries' are being put about by someone who will sell you a magic widget that will keep you safe ;-)",
+        "likes": 3,
+        "published_at": "2020-05-23T20:44:29Z"
+      },
+      {
+        "id": "UgyILo7nizr-1MOkhnN4AaABAg.990G-zTyFdo990bxu7-Zw1",
+        "author": "@MerwinARTist",
+        "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+        "text": "I would love to hear what Robert has to say about 5G .. but he may not know .. some things are mysterious .. and this is one that needs to be better understood.",
+        "likes": 0,
+        "published_at": "2020-05-23T23:20:52Z"
+      },
+      {
+        "id": "UgyILo7nizr-1MOkhnN4AaABAg.990G-zTyFdo990ljBqNJfX",
+        "author": "@MerwinARTist",
+        "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+        "text": "@scrapwomblecreatives6944 There have always been a lot of fabricated fears generated from things the general public doesn't understand.",
+        "likes": 0,
+        "published_at": "2020-05-24T00:46:14Z"
+      },
+      {
+        "id": "UgyILo7nizr-1MOkhnN4AaABAg.990G-zTyFdo990tq27ptO2",
+        "author": "@colleenforrest7936",
+        "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+        "text": "@scrapwomblecreatives6944 Order enough ink from Working ink to paint your house, your car and a ball cap, wire your house with CAT5 or CAT6 (or the equivalent for your country if different) and you'll be fine.",
+        "likes": 0,
+        "published_at": "2020-05-24T01:57:04Z"
+      },
+      {
+        "id": "UgyILo7nizr-1MOkhnN4AaABAg.990G-zTyFdo992whCYeFLh",
+        "author": "@DigitalSumo",
+        "author_channel_id": "UCc_FGayX8i_9E-A3k-ukLgQ",
+        "text": "@colleenforrest7936 great advice thank you.\n\nPeople need to also consider their usual environments - spending a day shopping, those who work in retail (always around high levels of radio frequency activity if footfall is busy) children's schools, hospitals. But also older people in care homes, those who simply stay in all day (near WiFi router, mobile phone, smart devices).\n\nThe EU document linked above states the recent science indicates a \"high hazard risk to ecosystems and species\". \n\nIt also urges member nations to hold Moratoriums - inform their populations for debate ... sadly the government, the BBC,  ITV and rest it seems, have yet failed to do so. \n\nAny RF or technical experts out there, please look into it for your loved ones. And for mine 👍",
+        "likes": 1,
+        "published_at": "2020-05-24T21:00:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxqlTCfN1Ayiz0RRMJ4AaABAg",
+    "author": "@pulesjet",
+    "author_channel_id": "UCFvYK8dKjA17NIkhN_pkLHg",
+    "text": "The levels and numbers of Safety Nazi's on YOU-TUBE astounds me.  These people act like they're lucky to still be alive.  PATHETIC  little Minds.   Indoctrinated to rely on they're keepers they assume everyone else should too.  GET a LIFE.  I have one.  Free your selves from the  Tether.   They seem to assume EVERYONE is as Ignorant about things as they are.   I'm quite ignorant on many subjects.  NOT EVERYTHING in life.  I made the efforts to Learn about the things that interest me.  They should try it some times and lay off trying to be my keeper.  Promote Education.  Not Fear.",
+    "likes": 0,
+    "published_at": "2020-05-23T19:58:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxqlTCfN1Ayiz0RRMJ4AaABAg.990FlwFsUwe991MqJ_oISx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate - being educated on the dangers allows you to choose the risks you  take",
+        "likes": 0,
+        "published_at": "2020-05-24T06:19:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwp88BF-wXQ1D89CZF4AaABAg",
+    "author": "@melodysouljahrootsdubpress5539",
+    "author_channel_id": "UCI4zwdjjNAMmPbbi4OL-ndg",
+    "text": "Wouldn't a chain mail suit act as a Faraday cage? My first experience of high voltage was pulling the starter cord of a lawn mower whilst grabbing the sparkplug. That learnt me as my father would say....\nPs, I see voltage as pressure and current as amount. You can have a huge amount with very little pressure and a tiny amount at huge pressure. And the higher the pressure, the more likely it will jump (arc)...",
+    "likes": 1,
+    "published_at": "2020-05-23T19:56:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwp88BF-wXQ1D89CZF4AaABAg.990FacOjTHu990KLastGM0",
+        "author": "@sofa-lofa4241",
+        "author_channel_id": "UCs0VwyqtPRAXw49xVyBzOkA",
+        "text": "A chain mail suit would only act as a Faraday cage if you were totally isolated from it, but as you would be wearing it... Then no, It's a stand up version of an electric chair!\nYour first taste of high voltage was similar to mine, on a spark plug testing machine early one morning, it's amazing how 30,000 Volts soon wakes you up!",
+        "likes": 0,
+        "published_at": "2020-05-23T20:38:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzMYMnMHKHysAa-Dod4AaABAg",
+    "author": "@edwardhughes352",
+    "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+    "text": "Brilliant video!",
+    "likes": 1,
+    "published_at": "2020-05-23T19:56:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzMYMnMHKHysAa-Dod4AaABAg.990FYKt3r0I991MymWiKKG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-24T06:20:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzraPCmyAj0RQELKzt4AaABAg",
+    "author": "@thornhedge9639",
+    "author_channel_id": "UCIMKHC6F1yXffx86P0faOTw",
+    "text": "Ya know Robert; If you keep this up your going to rob the \"Powers that shouldn't be\" of all their best scare bits, which may actually wake people up to the truth that we don't need them to save us from the Very Understandable world we live in.  People may actually begin to do things for themselves again.\n  You're Becoming very dangerous spreading all this truth around my friend.....keep it up buddy, they really need it......But watch your back just the same....Tim",
+    "likes": 4,
+    "published_at": "2020-05-23T19:53:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzraPCmyAj0RQELKzt4AaABAg.990FAT-oFg5991kn6AoLmR",
+        "author": "@johankriel8883",
+        "author_channel_id": "UCwjAokSSVXtNwWrfgHYhyAA",
+        "text": "Our electricity supplier also thinks electricity isn't safe.  That's why they won't let us have any.",
+        "likes": 0,
+        "published_at": "2020-05-24T09:57:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxKIn4wcb40_POBV_l4AaABAg",
+    "author": "@enyha",
+    "author_channel_id": "UCk_W9x_EUX-70m4HaGE548g",
+    "text": "Volts jolt ,amps Kill!",
+    "likes": 3,
+    "published_at": "2020-05-23T19:52:11Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxKIn4wcb40_POBV_l4AaABAg.990F4SXNixp990L1Pi7UwV",
+        "author": "@ThisRandomUsername",
+        "author_channel_id": "UCxaPwpC-_wFEWqSRlJ3Ea7Q",
+        "text": "Volts cause amps. I'd much rather touch a 50V 100A power rail than a 5kV 1A supply.",
+        "likes": 0,
+        "published_at": "2020-05-23T20:44:11Z"
+      },
+      {
+        "id": "UgxKIn4wcb40_POBV_l4AaABAg.990F4SXNixp990dzlgNGMi",
+        "author": "@rotorspinny5516",
+        "author_channel_id": "UCc4loPX5tsNdsTt1-g6NLYg",
+        "text": "Many deaths and injuries are from the “Jolts “ falling from a ladder ect only takes a jolt ⚡️",
+        "likes": 1,
+        "published_at": "2020-05-23T23:38:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwqZ0BijuakpIq8SaZ4AaABAg",
+    "author": "@sabyonline",
+    "author_channel_id": "UCy0sV1LKrPIuiSAizWTqtuQ",
+    "text": "Wonderful piece of advice sir",
+    "likes": 0,
+    "published_at": "2020-05-23T19:48:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwqZ0BijuakpIq8SaZ4AaABAg.990EeTrDBU7991NDjIVyBe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-24T06:22:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxDHtzx6h2E8vcHTrV4AaABAg",
+    "author": "@appalachianamerican2075",
+    "author_channel_id": "UCLPoKb3JnOmlzkxC_KxUppA",
+    "text": "You mean that researching and respecting everything you work on/with increases safety? INCONCEIVABLE! LOL.",
+    "likes": 2,
+    "published_at": "2020-05-23T19:46:40Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxDHtzx6h2E8vcHTrV4AaABAg.990ES7XD8Gr990GnrLNwgz",
+        "author": "@michaelinamoment",
+        "author_channel_id": "UCB3QKAfcNiQNFekKl0ZegpQ",
+        "text": "Well here's the thing. In the age of the internet and more people exploring the principles of electricity there are people that don't understand the dangers of what they're working with. Promoting safety shouldn't be laughed about it should be encouraged.",
+        "likes": 2,
+        "published_at": "2020-05-23T20:07:15Z"
+      },
+      {
+        "id": "UgxDHtzx6h2E8vcHTrV4AaABAg.990ES7XD8Gr990Mx08p64W",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know - incredible eh - tbh mate i just do it so i can point the health police somewhere when they moan. There are just some videos i know are a red flag to that kind",
+        "likes": 2,
+        "published_at": "2020-05-23T21:00:56Z"
+      },
+      {
+        "id": "UgxDHtzx6h2E8vcHTrV4AaABAg.990ES7XD8Gr990N2w2R7gg",
+        "author": "@appalachianamerican2075",
+        "author_channel_id": "UCLPoKb3JnOmlzkxC_KxUppA",
+        "text": "@michaelinamoment In no way was I laughing at promoting safety. I was stating in a light manner how what Rob said should be obvious. But sadly we seem to live in a society where people want to be offended rather than open their minds, put ideas down as too hard, dangerous, or impossible rather than finding ways to make things easy, safe, and very doable. As you said, we live in the age of the internet. Nearly limitless information right at our fingertips, but too few want to use it to expand and grow. It's like the allegory of the cave- Those who are watching the shadows on the wall demean and ridicule the man walking into the sunlight rather than finding out how and why he walked into the sunlight when we live in an information age and all that knowledge is there for everyone to find.",
+        "likes": 1,
+        "published_at": "2020-05-23T21:01:52Z"
+      },
+      {
+        "id": "UgxDHtzx6h2E8vcHTrV4AaABAg.990ES7XD8Gr990kL8_zO23",
+        "author": "@michaelinamoment",
+        "author_channel_id": "UCB3QKAfcNiQNFekKl0ZegpQ",
+        "text": "@appalachianamerican2075 Certainly true. I think its the sad reality of the passage of information. The biggest lie of common sense is that it isn't common.",
+        "likes": 1,
+        "published_at": "2020-05-24T00:34:05Z"
+      }
+    ]
+  }
+]

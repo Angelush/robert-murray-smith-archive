@@ -1,0 +1,173 @@
+[00:00] foreign
+[00:07] so this is a da Vinci catapult now
+[00:10] chances are there isn't anybody who
+[00:12] doesn't know the name of Leonardo da
+[00:14] Vinci born 1452 died 1519 is probably
+[00:18] best known for two main things on is
+[00:22] he's at Pennington sculpture he was the
+[00:25] epitome of the Renaissance he was the
+[00:27] absolute ideal of the Renaissance Man
+[00:29] covering a huge area of study including
+[00:32] engineering and the second thing he was
+[00:34] known for is his notebooks his notebooks
+[00:38] were full of the outpourings of
+[00:41] imagination in terms of engineering
+[00:43] where he designed some pretty
+[00:44] Fantastical machines including the
+[00:46] Catapult quite a lot of them were never
+[00:49] built in his lifetime but predominantly
+[00:52] the reason I'm interested right now is
+[00:55] the gearing system he used he used a
+[00:57] system of Gears called Pagan Lantern a
+[01:00] lantern is just a cage of rods forming a
+[01:04] lantern shape and Peg is almost
+[01:06] self-explanatory tree it's a bunch of
+[01:08] pegs stuck in a wheel and what he could
+[01:11] achieve with that was truly astonishing
+[01:14] now Pagan Lantern gears have their
+[01:17] issues they're not very accurate they
+[01:20] are prone to wearing because they were
+[01:22] made of wood but they also have their
+[01:26] positives one they're able to transmit a
+[01:28] huge amount of torque they work on
+[01:31] rolling friction as a poster sliding
+[01:34] friction if you want to know the
+[01:35] difference between that and to feel that
+[01:37] difference try pushing your car push it
+[01:40] with the brakes on and see how far you
+[01:42] get take the brakes off and you'll be
+[01:44] able to push it really easily and that's
+[01:46] the difference between rolling and
+[01:48] sliding friction now when we think about
+[01:50] the gears that we use these grew up
+[01:53] really with the Advent of clockwork and
+[01:55] the necessity for precision because
+[01:58] those kind of gears are great for that
+[02:00] but they use sliding friction and
+[02:03] they're not able to transport as much
+[02:06] tall walk as Lantern and Peg gears are
+[02:09] no all that might seem a little
+[02:11] anachronistic and very interesting but
+[02:14] when you start to look at what went
+[02:17] before and how it might be useful in our
+[02:19] needs now then you're almost
+[02:22] I'm certainly going to be drawn to this
+[02:26] this is the cycloid gear and if we take
+[02:29] it apart
+[02:30] well we actually see there's some pegs
+[02:34] and lanterns these are making a
+[02:37] Resurgence in robotics because of their
+[02:40] ability to be Compact and to transmit a
+[02:43] huge amount of torque and to give very
+[02:46] high gear ratios in very compact
+[02:49] packages
+[02:51] so in my mind these are actually pretty
+[02:53] cool with one tiny drawback they're
+[02:55] mathematically complex to be able to
+[02:58] work out how to actually build them and
+[03:01] that's a little bit disappointing and
+[03:03] the reason they're complex is because
+[03:04] they have to follow the path of the
+[03:06] cycloid now I was pondering that one
+[03:08] here's Aaron Thinking how could we make
+[03:10] these simpler now we can look at this
+[03:13] one as an internal cycloid if you like
+[03:15] because this Lantern sticks into that
+[03:18] there on the inside of this Lantern and
+[03:22] I was thinking what about if we took
+[03:25] that Lantern and instead of putting on
+[03:27] the inside we put it on the outside so
+[03:30] that's what I've done I've created two
+[03:33] lanterns this Lantern has 12 pegs on it
+[03:37] this Lantern has 13 pegs on it and
+[03:40] you'll notice a very simple gear right
+[03:43] there so as I rotate that gear of course
+[03:46] it engages with the pegs and it is on an
+[03:49] ellipse right there engage just with the
+[03:51] pegs and goes around rather neatly this
+[03:54] one's smaller so if I put this one on
+[03:56] there as well now the lanterns are on
+[03:58] the outside and if I rotate it
+[04:02] then the outside Lantern will rotate but
+[04:05] what's happening is that gear is
+[04:08] pressing one tooth at a time so as that
+[04:12] goes all the way around it advances that
+[04:15] by only one tooth and so we get a 13 to
+[04:18] one gear ratio so we have a 13 to 1 gear
+[04:21] ratio with an external cycloid as
+[04:25] opposed to an internal cycloid which is
+[04:27] this old gear here we now have an
+[04:29] external cycloid and we'll be able to
+[04:31] get those same kind of gear reductions
+[04:34] in there I think a small simple package
+[04:36] certainly more simple to construct
+[04:40] so I drew this up in tinkercad and the
+[04:43] link to the files which are in
+[04:45] thingiverse are in this description down
+[04:47] below so feel free and the reason it's
+[04:49] easier to construct is because this bit
+[04:51] here is in fact A Primitive and
+[04:53] tinkercad it's called useful gear so you
+[04:55] just select useful gear and set the
+[04:57] pitch to eight once you've set the pitch
+[05:00] to eight the pin size is going to be
+[05:02] eight millimeters because that's what
+[05:03] that pitch means so I just printed that
+[05:05] straight off from thingiverse these bits
+[05:08] well this pin is a circle eight
+[05:11] millimeters and between them is 10
+[05:13] millimeters and I did that because it
+[05:15] was enough slop I'm sure that you could
+[05:17] take it down to 8.4 or whatever but I
+[05:20] chose 10 which means that the distance
+[05:22] between this Edge and the far edge here
+[05:24] of the pin and the Gap is 18 millimeters
+[05:27] now on there I've got 13 pins so they
+[05:31] circumference of that circle is 13 times
+[05:34] 18. here I've got 12 pins so the
+[05:38] circumference of that circle is 12 times
+[05:40] 18. so you do the circles of the right
+[05:43] circumference you draw a couple of
+[05:44] cylinders at eight millimeters place
+[05:46] them on the edge and bingo you'll have
+[05:48] yourself two discs with the pins set at
+[05:52] the right spacing and this one slightly
+[05:54] larger than this one of course because
+[05:57] that's 13 and that's 12 but that's great
+[06:00] because that goes all the way to the
+[06:03] edge now the next bit I did actually is
+[06:05] by Printing and lining it all up so I
+[06:07] printed it and lined it up actually I
+[06:09] lined it up with the 12 to make sure
+[06:11] that it engaged and then I measured from
+[06:13] the center of there to the center of
+[06:15] there to give me that Circle obviously I
+[06:18] went to the center of the circle and I
+[06:20] went to the center where that's two
+[06:21] centers matched give me that ellipse so
+[06:24] that that would turn to make sure that
+[06:27] it turned in place once it's turned in
+[06:29] place I just add that one on
+[06:31] there we go and hey Presto we have our
+[06:35] cycloid gear anyway it is a work in
+[06:38] progress there are things to do with it
+[06:40] I'm quite pleased with it actually
+[06:42] because I think we could shrink this
+[06:44] down quite a lot and if we use rollers
+[06:46] instead of pins of course it would be
+[06:49] even more frictionless which is pretty
+[06:51] cool and the use of something like that
+[06:53] well it's in Prosthetics and Robotics
+[06:55] because if we have a high gear ratio of
+[06:58] course we don't need much torque and so
+[06:59] the motors are much smaller having a
+[07:02] small and compact design means we can
+[07:03] fit it into an elbow or a knee or
+[07:05] something like that so very exciting
+[07:07] things and that's easy to make so feel
+[07:11] free to explore I'm sure you've come up
+[07:13] with some wonderful things to do with
+[07:14] the gear system like that I hope you
+[07:16] enjoyed the video thank you very much
+[07:18] for watching and please do remember to
+[07:20] like And subscribe

@@ -1,0 +1,203 @@
+{
+  "thing_id": 7079572,
+  "name": "Combined Clutch And CVT For A Bicycle",
+  "description": "You can find a video about this here https://youtu.be/jXxYeycCPUE\n\nThere are two versions. Version 1 uses  one way bearings 9mm by 8mm by 22mm and you will need 2 of them - there is a video about this here https://youtu.be/fRVzO5W9rHY. Version 2 uses a ratchet and pawl mechanism and information about this can be found in the same video.",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "jXxYeycCPUE",
+      "url": "https://youtu.be/jXxYeycCPUE"
+    },
+    {
+      "video_id": "fRVzO5W9rHY",
+      "url": "https://youtu.be/fRVzO5W9rHY"
+    }
+  ],
+  "tags": [],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2025-06-30T12:16:31+00:00",
+  "modified": "2025-06-30T12:16:31+00:00",
+  "url": "https://www.thingiverse.com/thing:7079572",
+  "thumbnail": "https://cdn.thingiverse.com/assets/2e/94/b3/ad/dc/large_display_Screenshot_from_2025-06-30_10-50-08.png",
+  "like_count": 32,
+  "collect_count": 14,
+  "comment_count": 0,
+  "download_count": 180,
+  "files": [
+    {
+      "name": "Base_Plate.stl",
+      "size": 217884,
+      "url": "https://www.thingiverse.com/download:15534720",
+      "download_url": "https://api.thingiverse.com/v2/files/15534720/download"
+    },
+    {
+      "name": "Clutch_Bearing_Gear_x_2.stl",
+      "size": 800084,
+      "url": "https://www.thingiverse.com/download:15534721",
+      "download_url": "https://api.thingiverse.com/v2/files/15534721/download"
+    },
+    {
+      "name": "Clutch_gear_x_2.stl",
+      "size": 752084,
+      "url": "https://www.thingiverse.com/download:15534722",
+      "download_url": "https://api.thingiverse.com/v2/files/15534722/download"
+    },
+    {
+      "name": "Connecting_Pins_x_8.stl",
+      "size": 25484,
+      "url": "https://www.thingiverse.com/download:15534723",
+      "download_url": "https://api.thingiverse.com/v2/files/15534723/download"
+    },
+    {
+      "name": "Hypocycloid_Ring.stl",
+      "size": 551084,
+      "url": "https://www.thingiverse.com/download:15534724",
+      "download_url": "https://api.thingiverse.com/v2/files/15534724/download"
+    },
+    {
+      "name": "Hypocycloid_Ring_Adjustment_Handle.stl",
+      "size": 6484,
+      "url": "https://www.thingiverse.com/download:15534725",
+      "download_url": "https://api.thingiverse.com/v2/files/15534725/download"
+    },
+    {
+      "name": "Keyed_Gear_Pins_x_2.stl",
+      "size": 27184,
+      "url": "https://www.thingiverse.com/download:15534726",
+      "download_url": "https://api.thingiverse.com/v2/files/15534726/download"
+    },
+    {
+      "name": "Planet_Carrier.stl",
+      "size": 309784,
+      "url": "https://www.thingiverse.com/download:15534727",
+      "download_url": "https://api.thingiverse.com/v2/files/15534727/download"
+    },
+    {
+      "name": "Planet_Gear_Clips_x_3.stl",
+      "size": 17084,
+      "url": "https://www.thingiverse.com/download:15534728",
+      "download_url": "https://api.thingiverse.com/v2/files/15534728/download"
+    },
+    {
+      "name": "Planet_Gear_Plate.stl",
+      "size": 528884,
+      "url": "https://www.thingiverse.com/download:15534729",
+      "download_url": "https://api.thingiverse.com/v2/files/15534729/download"
+    },
+    {
+      "name": "Planet_Gear_x_3.stl",
+      "size": 629084,
+      "url": "https://www.thingiverse.com/download:15534730",
+      "download_url": "https://api.thingiverse.com/v2/files/15534730/download"
+    },
+    {
+      "name": "Rack.stl",
+      "size": 33084,
+      "url": "https://www.thingiverse.com/download:15534731",
+      "download_url": "https://api.thingiverse.com/v2/files/15534731/download"
+    },
+    {
+      "name": "Rack_Cover_Plate.stl",
+      "size": 217784,
+      "url": "https://www.thingiverse.com/download:15534732",
+      "download_url": "https://api.thingiverse.com/v2/files/15534732/download"
+    },
+    {
+      "name": "Rack_Guide_Plate.stl",
+      "size": 303084,
+      "url": "https://www.thingiverse.com/download:15534733",
+      "download_url": "https://api.thingiverse.com/v2/files/15534733/download"
+    },
+    {
+      "name": "Rack_Output_Gear.stl",
+      "size": 476784,
+      "url": "https://www.thingiverse.com/download:15534734",
+      "download_url": "https://api.thingiverse.com/v2/files/15534734/download"
+    },
+    {
+      "name": "Ratchet_Gear_Holder.stl",
+      "size": 103784,
+      "url": "https://www.thingiverse.com/download:15534735",
+      "download_url": "https://api.thingiverse.com/v2/files/15534735/download"
+    },
+    {
+      "name": "Ring_Cover_Plate.stl",
+      "size": 51284,
+      "url": "https://www.thingiverse.com/download:15534736",
+      "download_url": "https://api.thingiverse.com/v2/files/15534736/download"
+    },
+    {
+      "name": "Rotating_gear.stl",
+      "size": 776784,
+      "url": "https://www.thingiverse.com/download:15534737",
+      "download_url": "https://api.thingiverse.com/v2/files/15534737/download"
+    },
+    {
+      "name": "Rotor_Arm.stl",
+      "size": 94884,
+      "url": "https://www.thingiverse.com/download:15534738",
+      "download_url": "https://api.thingiverse.com/v2/files/15534738/download"
+    },
+    {
+      "name": "Slide_and_Saddle.stl",
+      "size": 5884,
+      "url": "https://www.thingiverse.com/download:15534739",
+      "download_url": "https://api.thingiverse.com/v2/files/15534739/download"
+    },
+    {
+      "name": "Slide_Guide_Plate.stl",
+      "size": 299184,
+      "url": "https://www.thingiverse.com/download:15534740",
+      "download_url": "https://api.thingiverse.com/v2/files/15534740/download"
+    },
+    {
+      "name": "Small_gear_Pins_x_2.stl",
+      "size": 25484,
+      "url": "https://www.thingiverse.com/download:15534741",
+      "download_url": "https://api.thingiverse.com/v2/files/15534741/download"
+    },
+    {
+      "name": "Small_Slide.stl",
+      "size": 26884,
+      "url": "https://www.thingiverse.com/download:15534742",
+      "download_url": "https://api.thingiverse.com/v2/files/15534742/download"
+    },
+    {
+      "name": "Sun_Gear.stl",
+      "size": 410784,
+      "url": "https://www.thingiverse.com/download:15534743",
+      "download_url": "https://api.thingiverse.com/v2/files/15534743/download"
+    },
+    {
+      "name": "Top_Plate.stl",
+      "size": 180584,
+      "url": "https://www.thingiverse.com/download:15534744",
+      "download_url": "https://api.thingiverse.com/v2/files/15534744/download"
+    },
+    {
+      "name": "Variable_Rack_Ratchet_Version_Axel_x_2.stl",
+      "size": 25484,
+      "url": "https://www.thingiverse.com/download:15534745",
+      "download_url": "https://api.thingiverse.com/v2/files/15534745/download"
+    },
+    {
+      "name": "Variable_Rack_Ratchet_Version_Pawl_Gear_x_2.stl",
+      "size": 722884,
+      "url": "https://www.thingiverse.com/download:15534746",
+      "download_url": "https://api.thingiverse.com/v2/files/15534746/download"
+    },
+    {
+      "name": "Variable_Rack_Ratchet_Version_Pawl_x_2.stl",
+      "size": 116584,
+      "url": "https://www.thingiverse.com/download:15534747",
+      "download_url": "https://api.thingiverse.com/v2/files/15534747/download"
+    },
+    {
+      "name": "Variable_Rack_Ratchet_Version_Ratchet_gear_x_2.stl",
+      "size": 795484,
+      "url": "https://www.thingiverse.com/download:15534748",
+      "download_url": "https://api.thingiverse.com/v2/files/15534748/download"
+    }
+  ]
+}

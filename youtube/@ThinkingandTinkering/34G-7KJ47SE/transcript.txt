@@ -1,0 +1,265 @@
+[00:02] [Music]
+[00:15] so i wasn't going to do another video on
+[00:17] this because i feel i've been doing too
+[00:19] many videos on this
+[00:20] and i was going to wait until the wind
+[00:22] picked up take it out and do some
+[00:23] testing in the wind and that's what was
+[00:25] my plan
+[00:26] however what i've done today is just
+[00:28] awesome and i feel i have to share it
+[00:30] with you it's kind of really cool i
+[00:32] think
+[00:33] so what i've done is i've actually got
+[00:34] four microwave coils because i'm going
+[00:36] with the microwave coil option okay
+[00:38] i've got four of them and i put them at
+[00:40] 90 degrees around and each one's got its
+[00:42] own
+[00:42] load and it's running that load and that
+[00:45] is awesome
+[00:46] so let me give you a quick look around
+[00:48] it so you can see those four loads
+[00:50] running
+[00:51] one
+[00:56] two three
+[01:02] and four you get a sense of this light
+[01:05] output let's flip the light off
+[01:09] here you go and if we put them back on
+[01:13] we can see that the brightness is not at
+[01:15] full luminance but each one of those is
+[01:17] a turn-on voltage
+[01:18] around about 28 volts and it's drawing
+[01:21] around about 100 milliamps or so for
+[01:23] each one of those
+[01:24] that's very cool indeed okay so i've
+[01:26] connected them all up in parallel to
+[01:28] this much larger light panel and it's
+[01:29] lighting it up
+[01:30] no worries at all i mean again it's not
+[01:32] full brightness
+[01:33] but each one of those coils is producing
+[01:35] around about three watts or so
+[01:37] now i've got four coils i reckon i can
+[01:39] get six in each section so i want 24
+[01:42] coils all the way around there
+[01:43] because i've got to collect another 20
+[01:45] coils but i'll get those collected and
+[01:46] put on there
+[01:48] that's going to give me about 72 watts
+[01:51] from this speed
+[01:52] an estimate of this speed is round about
+[01:54] 10 revolutions per minute something like
+[01:56] that
+[01:57] of course we have to get this in the
+[01:58] wind and we're doing this off the blower
+[02:00] because there isn't any wind
+[02:02] but still extraordinarily um
+[02:06] convincing results i think i mean we've
+[02:07] got four calls generating and there's no
+[02:10] slowing down
+[02:10] here which is just superb now when i
+[02:14] first did this and i just connected the
+[02:16] coils up uh both in series and parallel
+[02:18] incidentally
+[02:19] that would stop with the blower it
+[02:21] wouldn't actually work
+[02:23] and that was kind of really curious but
+[02:25] then i did something let me give you a
+[02:27] close-up of what i did
+[02:29] so each of those coils has been
+[02:31] connected to this
+[02:33] it's a 50 volt 1000 microfarad capacitor
+[02:37] and in the bottom there
+[02:38] we've got four one uh 1n407 diodes is
+[02:43] connected as a bridge rectifier then
+[02:46] from the dc output on the rectifier
+[02:48] we've taken it straight to the dc
+[02:50] load the minute i added that
+[02:53] then the whole thing began to work
+[02:57] so i'm guessing here okay but what i
+[03:00] think we've done
+[03:01] is effectively put a clutch in there
+[03:04] what we've done i think is use those
+[03:07] capacitors
+[03:08] as sort of like an automatic clutch and
+[03:11] it decouples the generator
+[03:13] from the load so when the load makes a
+[03:15] demand on the generator
+[03:17] just in the same way that you're trying
+[03:18] to go up a hill or you're trying to go
+[03:20] quickly you need to change gear that is
+[03:23] press the clutch
+[03:24] change the gear i think that this little
+[03:26] capacitor network this little capacitor
+[03:28] diode thing that we've got off of each
+[03:30] coil
+[03:31] is doing that job so that the generator
+[03:34] can actually keep on spinning
+[03:36] despite the fact that it has this load
+[03:38] when we connected it directly it's a bit
+[03:41] like having your engine connected
+[03:43] directly to your wheels if you want to
+[03:44] go fast
+[03:45] it's going to scream and it's going to
+[03:46] hurt the engine and it won't be able to
+[03:49] go particularly fast just because of the
+[03:51] restrictions on it and i think the same
+[03:52] kind of thing
+[03:53] was happening here because this doesn't
+[03:57] power the load directly what it does is
+[03:59] charge the capacitors
+[04:01] because capacitors that they don't have
+[04:03] much resistance to charging they're
+[04:05] going to charge pretty easily
+[04:06] then the load runs off the capacitors so
+[04:08] this generator is not powering this load
+[04:11] it's actually charging a capacitor bank
+[04:13] that's sitting in the middle between the
+[04:15] generator and the load
+[04:16] and it's the capacitors that are
+[04:18] actually firing up that
+[04:20] load decoupling the generator and
+[04:23] allowing the generator to spin
+[04:25] even though it's now spinning over four
+[04:27] coils
+[04:28] and when i had them directly the amount
+[04:31] of inertia to get them to spin was too
+[04:33] great for the blower to be able to cope
+[04:35] with and the blower was
+[04:37] puffing away obviously but couldn't puff
+[04:39] out enough
+[04:40] to get it to start to spin but the
+[04:43] minute we decoupled it
+[04:44] it could put that enough to start
+[04:46] charging these capacitors we don't have
+[04:48] much demand on them
+[04:49] and it would continue to spin so that's
+[04:51] what i think is going on
+[04:53] so to my mind that was absolutely
+[04:55] fascinating hey because
+[04:57] um when you put more coils on there what
+[04:59] you would expect
+[05:00] is that the whole structure takes that
+[05:02] much more energy to get
+[05:04] going and so in low winds it's just not
+[05:07] going to be able to cope it just won't
+[05:08] move if there's just a ton of coils on
+[05:10] there
+[05:11] but this decoupling thing that we've
+[05:13] done allows that to move
+[05:15] in very low winds and to continue moving
+[05:18] while servicing a load which i thought
+[05:20] was just absolutely fascinating
+[05:23] to me what it means is we can stick as
+[05:24] many coils as we like on there
+[05:26] as long as we put that capacitor network
+[05:29] in now i'm totally guessing
+[05:31] well obviously we've done that with four
+[05:32] coils and i haven't seen any slowing
+[05:34] down
+[05:35] which is really encouraging when you
+[05:39] think about it
+[05:40] so of course the plan is to collect more
+[05:41] calls and put more capacity networks on
+[05:43] there but we've got
+[05:44] four so with those four we're going to
+[05:46] do the wind
+[05:47] testing and make some assumptions i mean
+[05:50] one assumption we're making is that um
+[05:52] 24 of them will act just the way that
+[05:55] six of them
+[05:56] are sorry four of them act or if like
+[05:57] six of them will act just the way that
+[05:59] four of them act i mean that's an
+[06:00] assumption we're going to have to test
+[06:01] that and see
+[06:03] but if that's true what i'm saying is
+[06:05] right
+[06:06] that we're interspersing a capacitor
+[06:08] allows it to run at
+[06:10] low winds then we have here something
+[06:13] that is approaching at that wind speed a
+[06:16] one kilowatt generator
+[06:18] with 24 of those we're going to generate
+[06:20] about 72 watts
+[06:21] and we should be able to generate that
+[06:23] in a 12 and a half mile wind i would
+[06:26] have thought
+[06:26] i mean i don't know what the wind speed
+[06:28] is and obviously we have to test that
+[06:30] but a 12 and a half mile wind should
+[06:32] rotate that an awful lot faster than
+[06:34] this little blower is rotating it
+[06:36] so we should be able to get that if we
+[06:38] get anything more than that we're doing
+[06:40] awesomely
+[06:41] if we get that then we are actually
+[06:43] performing the same as
+[06:45] a one kilowatt generator so to me it
+[06:48] looks very promising that this whole
+[06:50] thing is in fact
+[06:52] going to work as well or slightly better
+[06:56] than a commercial generator and i think
+[06:57] that's just
+[06:58] awesome i mean like i said a lot of this
+[07:00] is my guesswork
+[07:01] don't know if what i'm talking about is
+[07:03] rubbish or not but i can tell you
+[07:05] that when i connected those in series on
+[07:07] parallel there wasn't enough from this
+[07:09] blower to spin that
+[07:11] rotor the minute i put that little
+[07:13] capacitor in
+[07:14] the whole thing started turning and we
+[07:16] could put real load on it
+[07:17] so these real loads like i say this is
+[07:20] um
+[07:21] 31 volts 700 milliamps i mean obviously
+[07:24] the turn on voltage is a bit
+[07:25] low and it will begin to work down to
+[07:27] about
+[07:28] 50 100 milliamps somewhere around about
+[07:30] there i have measured it actually and
+[07:32] like so that's where i'm getting three
+[07:34] watt figure from i don't know what the
+[07:36] speed is
+[07:36] but the rotation's roughly 10 r 10 12
+[07:39] rpm
+[07:40] extremely rough but very promising stuff
+[07:43] so i thought i'd share that with you
+[07:45] because it's not going to change much
+[07:47] from that we're just going to add more
+[07:48] of those
+[07:49] because we have to give some weather
+[07:50] proofing to the call and the electronics
+[07:52] again not really a challenge we can um
+[07:55] put in a plastic bag put it in a plastic
+[07:57] box
+[07:57] if you read the type e65 very easy to do
+[08:01] that sort of stuff
+[08:02] and i'm thinking of bringing each
+[08:03] individual wire from the coil together
+[08:06] at the main control unit now we can do
+[08:09] that because we're using
+[08:10] lots of individual coils and of course
+[08:12] in a previous video i
+[08:13] talked about that talked about
+[08:15] individual calls and redundancy
+[08:17] if we wired this up as one big coil we
+[08:20] wouldn't be able to do this
+[08:21] but wiring up as individual coils and
+[08:23] decoupling it with the capacitor seems
+[08:25] to be the way forward
+[08:26] to get something like this to begin
+[08:28] working in very low wind speeds which
+[08:31] it normally wouldn't be able to do and
+[08:33] to generate
+[08:34] in a way that can compete with the
+[08:36] commercial app device
+[08:38] anyway as i say i thought i'd done bit
+[08:40] too many but that was extraordinarily
+[08:42] exciting so i thought he would share it
+[08:43] with you
+[08:44] i hope you enjoyed it and thank you very
+[08:46] much for watching

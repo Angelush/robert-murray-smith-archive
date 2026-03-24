@@ -1,0 +1,153 @@
+[00:00] [Music]
+[00:08] so in video 2298 we made this it's
+[00:11] actually a cycloid now the video isn't
+[00:14] live it goes up on Wednesday I think but
+[00:16] I'll put a link at the end of this video
+[00:18] so anybody who wants to watch how we
+[00:20] actually made that can get a sneak
+[00:22] preview on that video now it doesn't
+[00:25] look like much but it's actually quite
+[00:27] important because it's the heart of this
+[00:30] this is an epicycloid drive that gives a
+[00:33] huge gear reduction and a very compact
+[00:35] package and of course concurrent torque
+[00:37] increase this has been developed in
+[00:39] robotics and has been storming the world
+[00:42] but it's also the basis for this thing
+[00:45] this was invented in about 2014 I think
+[00:49] and it's an incredibly useful gear it
+[00:51] looks a bit like a worm gear but it
+[00:53] gives a very high deer ratio and a very
+[00:57] small package and we've used this to
+[00:58] make generators with so I thought it
+[01:01] would be interesting to be able to
+[01:03] create your own cycloids and I did one
+[01:06] in that video it basically rotated a
+[01:09] couple of Wheels around to cut the shape
+[01:11] out in Tinker cabs using Code blocks
+[01:15] which I thought would also be a good
+[01:16] introduction to Cod blocks but it was a
+[01:18] bit well I suppose back woodsy to do it
+[01:21] that way and I thought it might be
+[01:23] interesting to see how you would do this
+[01:25] parametrically now doing it
+[01:27] parametrically means using the
+[01:28] parametric equation for the formation of
+[01:31] a cycloid and they look like this when
+[01:34] you work those equations out for the XY
+[01:37] coordinates then you get a
+[01:40] cycloid actually strictly an epicycloid
+[01:43] a cycloid moves in a straight line an
+[01:45] epicycloid is a circle around a circle
+[01:48] and here you can see the smaller circle
+[01:50] is three times smaller than the large
+[01:52] Circle in which case k is three now you
+[01:56] found cycloids all over the place so you
+[01:58] have a Charged particle in magnetic or
+[02:00] electric field then its movement will be
+[02:03] as a
+[02:06] cycloid so here is the code I created K
+[02:09] is a relationship between the size of
+[02:11] the large wheel which travels around and
+[02:14] the small wheel which does the traveling
+[02:17] if it's set to five then the large wheel
+[02:20] will be five times bigger than the small
+[02:22] wheel and that means that it will create
+[02:24] Five Loaves R2 which is the radius of
+[02:27] the small wheel is an act given value in
+[02:31] this case it's 10 mm these two V1 and V2
+[02:35] they're only there to clean up the math
+[02:37] later and we'll have a look at those R1
+[02:40] which is the radius of the large wheel
+[02:43] is a relationship to say it's R2 * K R3
+[02:47] is the bit that we're going to cut out
+[02:49] and here I've made it k + 1 which in
+[02:52] this case will be six and then multiply
+[02:54] it out to get the radius of the larger
+[02:56] wheel all this does is create two two
+[03:01] cylinders this one is a cylinder we're
+[03:02] going to cut out and this one is a small
+[03:05] cylinder with a radius of four will
+[03:07] create a central hole that we can use as
+[03:09] a pivot point later when we actually
+[03:11] print that now it's very very basic in
+[03:15] its coding here we create a small wheel
+[03:18] that's going to do the traveling and
+[03:20] here is the app parametric equation that
+[03:23] creates the path and that's what makes
+[03:25] it a parametric design is that we've use
+[03:28] this parametric equation now this
+[03:30] equation is only the straightforward
+[03:34] equations that we saw but expressed in
+[03:36] Tinker CAD using the math function the
+[03:39] math functions are here the big one is
+[03:43] this one which allows you to do plus
+[03:44] minus divide and multiply then of course
+[03:48] we've got our trigonometric functions
+[03:49] here with s and cosine if click on down
+[03:52] there we can see we can get all these
+[03:53] trig
+[03:55] functions all I did was put them here in
+[03:57] the right order now there are some
+[04:00] quotes about this there's no real
+[04:02] documentation on it which is a bit of a
+[04:03] pain lots of examples but no
+[04:06] documentation explaining what these
+[04:08] functions do and how to use them so
+[04:10] there's a little bit of trial and error
+[04:12] and I'm also not sure about how this
+[04:15] order is calculated because a strict
+[04:18] order is B Mass bracket order division
+[04:21] multiplication and addition subtraction
+[04:23] but I don't know that this actually
+[04:25] works now I've done a fair bit of
+[04:28] computer programming I program in basic
+[04:30] and C foran Pascal and assembly code I
+[04:35] also used to um code z8s when they were
+[04:38] around and 38 Sixers directly using
+[04:40] assembly code so I'm not a um novice
+[04:43] when it comes to coding which is great
+[04:46] but I'm still not sure what that
+[04:48] actually does so there's a little bit of
+[04:50] trial and error to work out what it does
+[04:53] but that's the functions we put in
+[04:55] that's what makes it parametric because
+[04:58] it's a parametric equation and let's
+[05:00] have a look at what that actually
+[05:02] does now I can run that code by stepping
+[05:05] through it clicking step or I can play
+[05:08] that code by pressing the play button
+[05:10] and we're going to play the code and
+[05:11] watch it build from the
+[05:28] code there we go we can now export that
+[05:31] as an STL file and use that which is our
+[05:35] cycloid with five pegs on it and
+[05:38] remember that's governed by K so if we
+[05:40] wanted a different number of pegs we'd
+[05:42] change K and that will Ripple all the
+[05:44] way through that program to create any
+[05:47] cycloid I actually wanted but we can now
+[05:49] export that and use that in Tinker cat
+[05:52] so all I did was create a circle and
+[05:54] move it to where the cycloid curve was
+[05:58] that had been calculated by the
+[06:00] parametric equation for the XY
+[06:01] coordinates and then obviously I grouped
+[06:03] it to cut this out to a cycloid disc and
+[06:07] that's what's makes it parametric now
+[06:09] the uh process of doing that was in the
+[06:12] count Loop and that's how I did it a
+[06:13] couple hundred times if you have a look
+[06:15] at again you'll see there's a count Loop
+[06:17] for counting off the degrees that I want
+[06:19] to do it so I haven't bothered to go
+[06:21] deeply into code blocks code blocks I
+[06:24] think is one of those things to explore
+[06:26] and it certainly helps you do uh well
+[06:29] things you probably wouldn't be able to
+[06:31] do otherwise anyway I hope youve enjoyed
+[06:33] the mathematical version I hope you
+[06:36] check out the woodsy version but there
+[06:39] we go cyclo drawing curb blocks Tinker
+[06:42] cat anyway thank you very much for
+[06:45] watching

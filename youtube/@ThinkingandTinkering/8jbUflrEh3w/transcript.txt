@@ -1,0 +1,264 @@
+[00:00] [Music]
+[00:08] Okay, so I finished the renovation of
+[00:10] the shed. Now, actually, it's a bit posh
+[00:13] to be called a shed anymore. I think
+[00:15] I've done quite a good job. So, I'm
+[00:17] going to start calling it the studio.
+[00:20] Anyway, we're here in the studio and
+[00:22] we've got our cables coming through the
+[00:24] wall from the solar system that we're
+[00:26] putting in. And of course, what we need
+[00:28] to do now is add the switch gear and the
+[00:30] control electronics so we can actually
+[00:32] get what comes in and our batteries to
+[00:37] put something out so we can light lights
+[00:40] and run sockets, that kind of thing.
+[00:42] Now, to do that, I tend to be a little
+[00:44] bit h anal about some things and
+[00:48] arranging electronics is one of those
+[00:50] things that I do tend to be a little bit
+[00:53] conservative about. So, what we're going
+[00:54] to do in order to keep it organized and
+[00:57] so that I can experiment with it easily
+[00:59] later is we're going to put it on a
+[01:01] board. I mean, I could just screw it to
+[01:02] the wall, but I'm actually going to put
+[01:04] it onto this board here. In order to
+[01:06] make that board stand off, I've got some
+[01:09] doors stops. These are the oldfashioned
+[01:10] doors stops that are an inch high or 24
+[01:13] mm and 30 mm across. And when I put them
+[01:16] on the back of here, they're actually
+[01:18] going to make really good standoffs. So,
+[01:20] we need to put this onto the wall where
+[01:23] it covers over these cables and create
+[01:25] holes in this so the cables can come
+[01:27] through the board. So, let's do that.
+[01:31] You might have noticed that I did tag
+[01:33] these before I started doing that. I put
+[01:35] a bit of tape around them so I could
+[01:37] tell which one was which because of
+[01:39] course I've split the board into system
+[01:41] A and system B. System A is going to be
+[01:44] all our DC stuff and system B is going
+[01:46] to be all our AC stuff. And as I said,
+[01:50] experimentation,
+[01:51] but I tagged them. You have to remember
+[01:53] to tag stuff or you'll never remember
+[01:56] which way around it is without doing an
+[01:58] awful lot of work to try and try and
+[02:00] find it. So, just put a couple of tags
+[02:02] on the ends of your wire.
+[02:10] Okay. So, we've got everything sorted
+[02:12] out. Now, then what we need to do is
+[02:13] basically isolate everything. So, I've
+[02:16] got these, which is a couple of
+[02:17] miniature circuit breakers, and they go
+[02:20] to the solar cells. So, the solar cells
+[02:22] have a DCM MCB. This particular one is
+[02:27] 6 kmps at 1,000 volts. So, very much
+[02:30] overkill, hey, for what we want. But
+[02:33] that's going to go on there. And the
+[02:35] solar panels will come into here, and
+[02:37] then they'll come out of here, and then
+[02:39] they'll go into the solar charge
+[02:41] controller. So, there'll be one there
+[02:43] for system A and one there for system B.
+[02:46] So, let's put those in.
+[02:51] Right now, we got our solar panel
+[02:53] isolators on. We need a battery
+[02:55] isolator, and that's what this will do.
+[02:57] This is rated at anywhere between 12 and
+[02:59] 48 volts and about 400 amps. So, it's
+[03:03] going to do the job fine. And we're
+[03:04] isolating the positive. So, we need to
+[03:07] put a lug on here. Then, that will bolt
+[03:09] on there like that. And our out will
+[03:11] come from here with another lug. And we
+[03:13] just screw it to the board. And again,
+[03:15] two of them to isolate the batteries. So
+[03:18] that's the switch gear finished. So now
+[03:20] we can isolate the solar panels. We can
+[03:22] isolate the battery. All we've really
+[03:24] got to do is uh terminate this, the
+[03:27] negative. And you might notice there's a
+[03:28] bolt right there. Again, there's loads
+[03:30] of ways you can do this. We could put in
+[03:32] a negative bus bar if we wanted, but
+[03:34] that bolt will just perform the same
+[03:36] function. We pop a lug on there, attach
+[03:38] the negative to that. Then we can attach
+[03:41] all of the negatives to here that we
+[03:42] need to attach. And of course, we have
+[03:44] our negative return. When I've done
+[03:46] that, what I'll do is I'll trim this
+[03:48] off. And when I trim that off, I'll 3D
+[03:50] print a cap that goes on it so it's
+[03:52] nicely capped off. But we need to
+[03:55] terminate the negative. And we need to
+[03:56] give negative a way to connect to other
+[03:59] things. A bolt or bus bar works just as
+[04:02] well. So now let's put a lug on this and
+[04:04] bolt it down. There they are in place.
+[04:06] Now then, we've finished with that
+[04:07] switch gear. We're ready for the control
+[04:09] gear, which is basically this. As I
+[04:11] said, this is a RPWM solar controller.
+[04:15] We discussed that much earlier in a much
+[04:17] earlier video. An MMPPPT controller will
+[04:21] be exactly the same placement. All we do
+[04:23] is screw into the board. And then, of
+[04:26] course, we've got a list of connections
+[04:27] here, and it tells you what they are.
+[04:30] There's the load, there's the solar
+[04:32] panels, and there's batteries. And
+[04:33] there's a little symbol above the plus
+[04:35] and the minus. So, we screw it on there
+[04:37] like that. And then we just connect up
+[04:40] these wires. Okay. And that's it all
+[04:42] fixed down. Now, it's really nothing
+[04:44] more than crimping on these spade
+[04:47] terminals, sliding them in there, and
+[04:49] tightening down the screwdrivers. It's
+[04:51] ready to go. Of course, we've got system
+[04:53] A and system B because we're going to do
+[04:55] one at DC and one at AC. With DC,
+[04:59] there's actually not much more, in fact,
+[05:01] nothing really to do with it. There's a
+[05:02] little output here called load. and you
+[05:05] can connect straight to that if you
+[05:06] want, but it's not tremendously
+[05:09] advisable. I mean, this would be, I
+[05:11] guess, fine for one application, but of
+[05:14] course, we've got lights outside, lights
+[05:15] inside. Probably going to put some phone
+[05:17] chargers. There's a um LED driven cure
+[05:22] station that's DC that I want to run off
+[05:24] of it. So, there's a few circuits that I
+[05:26] want to be able to run from system A,
+[05:29] and I'm not quite sure what else to do
+[05:31] with it. So, I've got this. This is is a
+[05:35] fuse board. It's a fuse board meant for
+[05:37] camera vans, buses, uh, cars, boats. So,
+[05:41] it's up to 48 volts. There are 12
+[05:43] circuits. The little LEDs light up to
+[05:45] tell you it's working. It's got a plus
+[05:47] and a minus. That goes slap bang that.
+[05:50] Then from our load here, we take the
+[05:52] plus load here, we take the minus, and
+[05:55] we take the minus to here and the plus
+[05:57] to there. Then we've got a distribution
+[06:00] board that we can distribute our DC
+[06:03] circuits from where that is the negative
+[06:06] and the positive goes in here and of
+[06:08] course your fuse goes in there. So for
+[06:10] the DC we need to fit that. Now for the
+[06:14] AC what we need is an inverter. So here
+[06:18] we've got the straightforward stuff.
+[06:20] Very often you find the controllers and
+[06:22] the inverters in one box, which is
+[06:25] awesome until one bit goes wrong, of
+[06:27] course, when you have to pay to have the
+[06:29] whole thing refurbished or throw it away
+[06:31] and buy a new one. All we've done is
+[06:34] split the controller from the inverter,
+[06:37] and I'm using two bits of equipment to
+[06:39] do the job. And this is 150 W inverter.
+[06:43] The reason it's 150 watt inverter is I
+[06:45] don't really intend on doing much on AC
+[06:48] here anyway with a maximum load of about
+[06:51] 60 watts for the 3D printer. So you
+[06:53] normally find your inverter sitting
+[06:56] right there. So we've got for the DC a
+[07:00] fuse block for the in um AC a
+[07:03] straightforward inverter that we can
+[07:05] just plug into. But I have had a little
+[07:09] bit of a change of heart and we'll talk
+[07:11] about that in a minute. Let's get the
+[07:13] fuse board on first. Okay, so there is
+[07:16] the fuse board on and here it's going to
+[07:18] the load from the actual controller to
+[07:21] the negative and then the positive to
+[07:23] the positive load on the controller.
+[07:25] There's one circuit which is my outside
+[07:27] lights and we did that in a previous
+[07:28] video how I used a book boost converter
+[07:30] to change the 12 volts to the volts
+[07:33] needed, but it joins on the neutral here
+[07:36] and then of course it's on that side of
+[07:37] the live with a fuse in there. So, it's
+[07:40] all fused up and ready to go. Snap the
+[07:42] cover on. We want to add circuits. We've
+[07:44] got up to 12 circuits. And each circuit
+[07:46] can max out at 30 amps. So, a reasonable
+[07:49] size fuse board. Now, although my system
+[07:52] is built a certain way for I want it,
+[07:55] the logic here is always the same. Your
+[07:58] solar panels come in via an isolator.
+[08:00] Your battery comes in via an isolator.
+[08:03] You'll have some kind of charge
+[08:06] controller and some kind maybe of
+[08:09] inverter and then some kind of
+[08:11] distribution board. This distribution
+[08:13] board in my case is fuses, but it's a
+[08:16] distributing the power from here around
+[08:19] where you want to use it. That is the
+[08:21] fundamental of any solar setup. And in
+[08:24] fact, a wind setup looks very similar as
+[08:26] well. Now, as I say, I've had a change
+[08:28] of heart about this bit and we're going
+[08:30] to talk about that in a second. But
+[08:32] having two identical systems like this
+[08:35] means that I can actually leave one
+[08:37] alone and change the other and of course
+[08:39] compare the two. So that's a big thing
+[08:41] for me. It may not be for you, in which
+[08:44] case yours is going to look just like
+[08:46] that. So here is my change of heart. The
+[08:50] only AC bit of equipment I want to use
+[08:52] out here at the moment is this thing
+[08:54] here. It's the Halot X1 that was sent to
+[08:57] me and it's 60 W. This cost me £25. And
+[09:01] I can think of it like a reverse power
+[09:03] brick if you like. I with a lot of
+[09:05] things that are DC. For example, this
+[09:07] one here, which is the curing station,
+[09:12] it comes with this and that changes AC
+[09:14] to DC. This changes DC to AC. So, I was
+[09:19] thinking, well, why not just keep the
+[09:20] whole thing DC? And at the point that I
+[09:22] want to use it, use something like this,
+[09:25] which is pretty much cheap actually, and
+[09:27] just stick it there and then have the
+[09:29] whole thing DC. So, that's what I'm
+[09:31] probably going to do. And of course,
+[09:32] I've ordered a new fuse board to do
+[09:35] exactly that and keep those two systems
+[09:37] actually identical. And then I can test
+[09:39] one against the other. Right, that's it.
+[09:42] So, ready to go. Now, of course, I've
+[09:44] left this exposed so you can see it, but
+[09:46] it does need a protective cover around
+[09:48] it, like some kind of cabinet, maybe,
+[09:51] but batteries on first and my S power
+[09:55] controller starts. And then we flip on
+[09:57] the solar panels and it'll start
+[10:00] charging the battery. And the lights
+[10:02] that we attached are going to be able to
+[10:05] be turned on. And tada.
+[10:10] Now, they may not be showing up too well
+[10:12] because we've got quite a bright day,
+[10:14] but there's the lights on. And it might
+[10:15] seem like a lot of trouble to go to for
+[10:18] fairy lights at the bottom of the
+[10:19] garden. And to be honest, it is. If you
+[10:22] wanted something like this, there's much
+[10:23] simpler ways of doing it, but I wanted
+[10:26] to do something that was a a full
+[10:28] install in miniature with my ability to
+[10:30] be able to experiment later as we add in
+[10:33] things like alternative batteries and
+[10:35] wind power. But I hope you enjoyed the
+[10:38] video. Thank you very much for watching
+[10:40] and please do remember to like and
+[10:41] subscribe.

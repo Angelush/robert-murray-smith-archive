@@ -1,0 +1,733 @@
+[
+  {
+    "id": "Ugw-ZUNPj5nnh-nuX6N4AaABAg",
+    "author": "@chrisgosch564",
+    "author_channel_id": "UCnkSD063twqrdy3Uxgvw9Tg",
+    "text": "Looking good old chap",
+    "likes": 0,
+    "published_at": "2025-01-13T06:35:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyN2Sk3x1s3OKeTu7B4AaABAg",
+    "author": "@chrisgosch564",
+    "author_channel_id": "UCnkSD063twqrdy3Uxgvw9Tg",
+    "text": "Is this benjermin button?",
+    "likes": 1,
+    "published_at": "2025-01-13T06:34:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzHrXOF7b8AXXvzGD54AaABAg",
+    "author": "@Mancavedweller1",
+    "author_channel_id": "UCmeXgj_J78P-cJTu-Rt7IPw",
+    "text": "Thanks for the video, I'm also considering making my own. Would be good to do a load test too, to see what power it could continually run at before self destructing.",
+    "likes": 1,
+    "published_at": "2023-09-30T01:09:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqdBVtNvZqhMfQ2c14AaABAg",
+    "author": "@jafinch78",
+    "author_channel_id": "UCd5Q6th4r3IF5u_dZb3YqEw",
+    "text": "Good idea using the Mica!  I've wondered about making to play around with a negative clipper biased negative circuit to see about making a most cost effective DIY aluminum welding machine with the balance control.",
+    "likes": 0,
+    "published_at": "2022-12-31T01:34:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxqdBVtNvZqhMfQ2c14AaABAg.9kHbFBYfqgA9kHc9jHvcKT",
+        "author": "@jafinch78",
+        "author_channel_id": "UCd5Q6th4r3IF5u_dZb3YqEw",
+        "text": "I forgot to mentioned, using porcelain in a microwave oven kiln for the resistor(s) and rheostat.  Maybe an easier to fire ceramic maybe suitable.  I was also wondering about using the scariac or a variac... though haven't looked into the circuit simulation using like Falsted.",
+        "likes": 0,
+        "published_at": "2022-12-31T01:42:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyVYLUCamswPUyMBqx4AaABAg",
+    "author": "@normellow",
+    "author_channel_id": "UCJBEodEOT-0r6YKeB_Z5yHQ",
+    "text": "I could only get through about 30 seconds of it.",
+    "likes": 0,
+    "published_at": "2022-08-21T14:16:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwqaEWdmPQgyQ_JVst4AaABAg",
+    "author": "@padelistcouhnikas9904",
+    "author_channel_id": "UC49CCxE0liUn_yrSfYGP2Pw",
+    "text": "very nice to make a power resistor",
+    "likes": 0,
+    "published_at": "2022-06-19T18:34:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxH7ioQxxCIf4OrEfh4AaABAg",
+    "author": "@elye3701",
+    "author_channel_id": "UCbY8L_kc-u8LB1qwsXaiWcw",
+    "text": "You started off badly by not shielding the resistor{plastic bag?} before bashing it with a hammer and then you mistook a magnet for a ferrite rod. Good job you are not dealing with chemicals then. I make mine  with guitar wire wrapped around a strip of floor tile. No insulation because I want the best heat dissipation possible. So, some sort of cage around that.  For lower dissipation I suppose a test tube/jam bottle and fine dry sand would do the trick. You seriously need to improve your workshop skills.",
+    "likes": 0,
+    "published_at": "2021-05-23T08:00:05Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxH7ioQxxCIf4OrEfh4AaABAg.9NfojJetKE39ZMDnr2b0Wm",
+        "author": "@DougWoodrow",
+        "author_channel_id": "UC0F1ljjKIZTrNA68gJAICGQ",
+        "text": "Good idea! What specific guitar string do you use, and what kind of power rating do you achieve with it?",
+        "likes": 0,
+        "published_at": "2022-03-09T14:20:34Z"
+      },
+      {
+        "id": "UgxH7ioQxxCIf4OrEfh4AaABAg.9NfojJetKE39ZOqBnSwrhr",
+        "author": "@elye3701",
+        "author_channel_id": "UCbY8L_kc-u8LB1qwsXaiWcw",
+        "text": "@DougWoodrow It is one of the thinner ones. Found it at a stationery shop. I am not a musician so I can't identify it. I used this to build an Expanded Polystyrene cutter and also used it to drop the voltage from a Dell laptop power supply. This is decades ago.",
+        "likes": 1,
+        "published_at": "2022-03-10T14:43:15Z"
+      },
+      {
+        "id": "UgxH7ioQxxCIf4OrEfh4AaABAg.9NfojJetKE3A1PkQply6Y4",
+        "author": "@elye3701",
+        "author_channel_id": "UCbY8L_kc-u8LB1qwsXaiWcw",
+        "text": "@DougWoodrow Short answer: ME-013 or 2-B. \n\nLong Answer: I needed to make a power adapter for my sister-in-law's cigarette lighter socket powered Mobicool. It took a lot of googling to find the power rating: 36W so 3A continuous. No brick wall socket adapter at the shops was rated this high so ATX power supply was the ticket. 12V 8A. Great. Built-in cooling fan and overload protection. BUT the measured voltage at full load dropped to 9.3V. Adding a CD-ROM drive to load the 5V and ensure the 12V gets regulated didn't work. So my secret weapon . . . except I forgot where I stashed it. Luckily a trip to the stationery shop fixed that. I don't know what the max wattage is but as long as it can cut Expanded Polystyrene, it is good enough for me. Between 1 and 2 Amps. You are on your own at higher currents. \n\nI expect you would have gotten this all sorted out years ago by borrowing a guitar or just buying all 6 strings and trying them out.",
+        "likes": 0,
+        "published_at": "2024-03-25T14:53:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy1_hSAHoeIdyDuywd4AaABAg",
+    "author": "@benniedonald",
+    "author_channel_id": "UCzl2RTC5bVpl3YbSjkkMdRw",
+    "text": "Awesome",
+    "likes": 0,
+    "published_at": "2021-05-01T02:48:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxBOmxjzQq-lUf8Dfd4AaABAg",
+    "author": "@wirewoundrsistancemanufect6784",
+    "author_channel_id": "UCB-rbbnJfjzfxXUG7rEEiWw",
+    "text": "I am a manufacturer of Rasistor Wire Wound",
+    "likes": 0,
+    "published_at": "2020-12-15T17:08:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnnjX64837BRKZh4d4AaABAg",
+    "author": "@wirewoundrsistancemanufect6784",
+    "author_channel_id": "UCB-rbbnJfjzfxXUG7rEEiWw",
+    "text": "Nice bro",
+    "likes": 0,
+    "published_at": "2020-12-15T17:07:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw7NadYZyE4oj0Y--x4AaABAg",
+    "author": "@dylanbullmore9353",
+    "author_channel_id": "UCJlVSuFVSRfov2V5AyavLkg",
+    "text": "Badass",
+    "likes": 0,
+    "published_at": "2020-11-20T20:40:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKT2a3skJ2nckGx3d4AaABAg",
+    "author": "@GeoffTV2",
+    "author_channel_id": "UCK8M14l3nohhyXMFeif_NOQ",
+    "text": "Question: Do wire wound resistors have inductance?",
+    "likes": 0,
+    "published_at": "2020-07-13T19:13:01Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxKT2a3skJ2nckGx3d4AaABAg.9B3V8ClrxKJ9DsBPcT56Gl",
+        "author": "@nicholasweiss4662",
+        "author_channel_id": "UClTzhFxDsXkcW9jJTmbHjxg",
+        "text": "Well, while every conductor has an inductance, it is true, that wire wound resistors have a specifically high inductances, as they are essentially a coil. Had he used a Ferrite core the Inductance would have been even Higher. These resistors are really only good for DC, or low Frequency AC and I'm assuming that he was actually going to use it as a DC shunt or dummy load.",
+        "likes": 1,
+        "published_at": "2020-09-21T14:03:55Z"
+      },
+      {
+        "id": "UgxKT2a3skJ2nckGx3d4AaABAg.9B3V8ClrxKJ9DsJ8o5K1o0",
+        "author": "@GeoffTV2",
+        "author_channel_id": "UCK8M14l3nohhyXMFeif_NOQ",
+        "text": "@nicholasweiss4662 Thank you for the reply, that was most helpful.",
+        "likes": 0,
+        "published_at": "2020-09-21T15:11:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwViglGXMHWYgnTf4x4AaABAg",
+    "author": "@johanponin1360",
+    "author_channel_id": "UCS3EuUQPuz8vlzHif4YvY_A",
+    "text": "Coat it with thermochromic paint !",
+    "likes": 0,
+    "published_at": "2020-05-05T13:21:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxUMnqOOXxtUSMtOol4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "Great work",
+    "likes": 0,
+    "published_at": "2020-05-03T03:09:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUMnqOOXxtUSMtOol4AaABAg.98AxSg7YoZa98BTx_7icd8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks!",
+        "likes": 0,
+        "published_at": "2020-05-03T08:02:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzWT0LwuStqnqIJa7l4AaABAg",
+    "author": "@zenbudhism",
+    "author_channel_id": "UCf8IPHwKqIn0U-AWEwlqkSg",
+    "text": "What was the case?",
+    "likes": 0,
+    "published_at": "2020-05-01T20:53:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhNtqGF8aDR6WReDZ4AaABAg",
+    "author": "@sofa-lofa4241",
+    "author_channel_id": "UCs0VwyqtPRAXw49xVyBzOkA",
+    "text": "Luke, goggles are a must when teaching people stuff like this, ceramic shards and eyeballs don't get along very well, \nPlease consider what you are doing and set a good example to people who don't know better,\n\nI would also suggest fully enclosed 'machinist' goggles or full size face shield , the safety goggles that look like normal spectacles aren't much good,\nI was a machinist (miller/turner) and always used fully enclosed goggles after a nasty experience when I had a tiny piece of swarf hit my cheek, bounced off the inside of my 'spectacle' style safety glasses and straight into my eye,\nLuckily, I was 6 miles away from Maidstone eye hospital and as I was machining steel it  ould be pulled out with an electromagnet if it was aluminium/brass or any other non-ferrous material then I would have required eye surgery, not a nice thought!\n\nI appreciate the stuff you're doing but please, please, set a good example",
+    "likes": 0,
+    "published_at": "2020-04-10T22:34:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxzU8VnYXXqBpNFqPh4AaABAg",
+    "author": "@jjmcrosbie",
+    "author_channel_id": "UCpa-XiJuaHqpE3jmRpttsuA",
+    "text": "What fun!\n1 - You started off with the requirement for a 35R, 10W resistor.  That's 0.53A.  The relatively short length which you had,  (maybe 70cm?) must be a wire too fine for that current.  The wire inside the moulding would probably be OK if you got all the air out.  Have you run your resistor any length of time at 10W?  If necessary you might have to choose a greater length of thicker wire.  \n2 - Also related to wire size, I was agreeably surprised to see you making a success of a crimp terminal onto such a fine wire.  One method of crimping a terminal onto fine wire is to use several thicknesses of the wire, ie allow extra length and wrap a few turns round a finger or pencil, slip it off and twiddle it into a stranded wire, them crimp that.\n3 - Re getting all the air out, you might paint a somewhat runnier mix onto and into the winding, getting it right inside.   Leave it to dry and then pot it into your plastic mould.\n4 - Re spacing turns of the wire to avoid shorted turns:  One way is to wrap two wires at a time, side by side, then remove the spacer wire.  The spacer wire need not be the expensive resistance wire.\n\n5 - I suppose you might next have a go at setting it in an aluminium tube, taking steps to avoid contact from wire to tube.\nAnd being picky, the Mi of \"Mica\" is pronounced 'My' and not 'Me'.  A good choice of material anyway.\n6 -Anyway, well done in the first place.  It's something I never thought of doing.\nRegards, Clive.",
+    "likes": 0,
+    "published_at": "2020-04-01T16:31:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyr16kXMWGkmthmg1h4AaABAg",
+    "author": "@overbuiltautomotive1299",
+    "author_channel_id": "UCq3DTW3znRPwfZlXaL1X7uQ",
+    "text": "never to young i was buy n trading cars at his age ,,my granddad worked for gm or ford i ferget @15 back in the day",
+    "likes": 0,
+    "published_at": "2020-03-30T20:35:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxw0mtIZgv7K31VC2l4AaABAg",
+    "author": "@capsulecorp6975",
+    "author_channel_id": "UCZuEzKGmcxn3fNFRNLBHjgQ",
+    "text": "11 pounds for a resistor?",
+    "likes": 0,
+    "published_at": "2020-03-30T02:34:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzSNUVTG8ausdGNAzN4AaABAg",
+    "author": "@das250250",
+    "author_channel_id": "UCXpNMOetW6f2bvbM4oC6HQA",
+    "text": "This could be a reoccuring video based on peoples ideas ..the easiets way to make power resistors",
+    "likes": 0,
+    "published_at": "2020-03-18T16:38:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwstnt4xZwYeXaErmZ4AaABAg",
+    "author": "@das250250",
+    "author_channel_id": "UCXpNMOetW6f2bvbM4oC6HQA",
+    "text": "What about using Carbon graphite ink that Rob made??",
+    "likes": 0,
+    "published_at": "2020-03-18T16:34:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPOghhfr1nWGbCmyh4AaABAg",
+    "author": "@patscopat",
+    "author_channel_id": "UCQ9GxyGoQk8LzeYf1w3u6Aw",
+    "text": "Thank you for the outstanding information.",
+    "likes": 1,
+    "published_at": "2020-03-17T17:46:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz6Qk_a7Vb6RBwJkWx4AaABAg",
+    "author": "@AlienRelics",
+    "author_channel_id": "UC3l6MouugID_cbT3Ua8gfmQ",
+    "text": "I was expecting this to be about making a power resistor using graphene.\n\n\nNotching the mica could help align the windings. Have you thought about counterwinding it to reduce the inductance?",
+    "likes": 1,
+    "published_at": "2020-03-17T14:37:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-xmx3frWShSd-d3B4AaABAg",
+    "author": "@stephengray9207",
+    "author_channel_id": "UC2VISGwSYrKoCiABZwXaMJg",
+    "text": "Hi Luke, Im sorry to say this but anyone can make a resistor of that resistance using resistance wire... what you didn't do was prove what current load it can sustain comfortably.  The example you compared it to handles 10 watts which means it can If it only copes with a tiny current it way too big. Please do some power handling tests in another video.  If you set the power supply to 18.7 volts into your resistor and it should have about 0.53 Amps and that would be 10 watts - dont start at that because it will likely fail very quickly. All you need to do is start at a low voltage, slowly crank the volts while measuring the temperature of the case you made. To be rated at 10 watts it must be capable of sustained ability to handle that load without failure. The issue with ceramic is that it moves the heat away from the wire. Because yours uses plaster of paris it probably won't spread the heat well. Thus yours will burn up the wire well before you get it to comfortably take 18 volts. Give it a go and see.",
+    "likes": 3,
+    "published_at": "2020-03-17T14:24:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx-xmx3frWShSd-d3B4AaABAg.96J8KmWTPyD9kHb16XKzMo",
+        "author": "@jafinch78",
+        "author_channel_id": "UCd5Q6th4r3IF5u_dZb3YqEw",
+        "text": "Good call!",
+        "likes": 0,
+        "published_at": "2022-12-31T01:32:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgweqUQYm88PJOlQuDZ4AaABAg",
+    "author": "@station240",
+    "author_channel_id": "UC-mok8oAe-yD1iNrYVMKx-g",
+    "text": "A ferrite core would have been a bad idea for a resistor anyway. Using something with magnetic properties results in a resistor more like an inductor, which is usually unwanted.",
+    "likes": 1,
+    "published_at": "2020-03-17T10:31:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgweqUQYm88PJOlQuDZ4AaABAg.96IidfZ2YrM9kHaS-1q5KO",
+        "author": "@jafinch78",
+        "author_channel_id": "UCd5Q6th4r3IF5u_dZb3YqEw",
+        "text": "Right on, unless making the more transformer I guess variac design that really isn't a variable resistor I learned again reading into a few days back.  Interesting are the \"scariac\" designs, albeit very much more risky.",
+        "likes": 0,
+        "published_at": "2022-12-31T01:27:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLuFKbz_v5Pt6qlMx4AaABAg",
+    "author": "@rickdees251",
+    "author_channel_id": "UCxPpsBtfPd_hEUcfPtYbdgQ",
+    "text": "\"Mica\" is pronounced mai·kuh.",
+    "likes": 3,
+    "published_at": "2020-03-17T02:53:10Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgzLuFKbz_v5Pt6qlMx4AaABAg.96HuCLcaM0o96I5eQXxbEs",
+        "author": "@roidroid",
+        "author_channel_id": "UClHITiT7I1lYiFn6kd_RlBA",
+        "text": "Isn't it more like *My* Kuh ?",
+        "likes": 0,
+        "published_at": "2020-03-17T04:41:59Z"
+      },
+      {
+        "id": "UgzLuFKbz_v5Pt6qlMx4AaABAg.96HuCLcaM0o96J61slz352",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks!",
+        "likes": 0,
+        "published_at": "2020-03-17T14:04:34Z"
+      },
+      {
+        "id": "UgzLuFKbz_v5Pt6qlMx4AaABAg.96HuCLcaM0o96oMslpoy9o",
+        "author": "@capsulecorp6975",
+        "author_channel_id": "UCZuEzKGmcxn3fNFRNLBHjgQ",
+        "text": "No, he's right. It's *Mee-Kah*",
+        "likes": 0,
+        "published_at": "2020-03-30T02:47:26Z"
+      },
+      {
+        "id": "UgzLuFKbz_v5Pt6qlMx4AaABAg.96HuCLcaM0o970gepk5pRp",
+        "author": "@graememudie7921",
+        "author_channel_id": "UCfmUWqeI6KltYtWUKk5V3ZQ",
+        "text": "No it's  my ka",
+        "likes": 0,
+        "published_at": "2020-04-04T06:59:09Z"
+      },
+      {
+        "id": "UgzLuFKbz_v5Pt6qlMx4AaABAg.96HuCLcaM0o971Jox82m42",
+        "author": "@roidroid",
+        "author_channel_id": "UClHITiT7I1lYiFn6kd_RlBA",
+        "text": "_Their Kuh_",
+        "likes": 0,
+        "published_at": "2020-04-04T12:50:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyv_bl2Xzdd38lltIB4AaABAg",
+    "author": "@richardteychenne3950",
+    "author_channel_id": "UCchYmrOYR7xtgyIITEqZeXQ",
+    "text": "Well done Luke, your communication and presentation skills are really coming on. Here is a question for you, in many applications low impedance power dissipation resistors are used and the heat they give off can be problematic to nearby components. Battery management systems for example. Could you as an alternative use the conductive ink on a painted (insulated) metal sheet to make a power resistor of just a few ohms which could be attached to the case side to dissipate heat away safely and quickly?",
+    "likes": 6,
+    "published_at": "2020-03-17T01:43:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyv_bl2Xzdd38lltIB4AaABAg.96HmGP0Ah5-96J6QhXURmx",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thank you!\nYes this could be interesting!\nI will have to have a look at this.",
+        "likes": 0,
+        "published_at": "2020-03-17T14:07:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzxGrVRAuYZDeYqHzx4AaABAg",
+    "author": "@SD3DP0",
+    "author_channel_id": "UCd44FyO22lTJfJfhMx7md_Q",
+    "text": "Nice!! I dont necessarily need to make a resistor , but you inspired me to try and make one so guess i'm going to make one",
+    "likes": 1,
+    "published_at": "2020-03-16T22:02:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzxGrVRAuYZDeYqHzx4AaABAg.96HNuFowHiL96INuEdAXu7",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Awesome!!! Let me know how it goes!!",
+        "likes": 0,
+        "published_at": "2020-03-17T07:21:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwjpQk0hjRbBVtsmG14AaABAg",
+    "author": "@craigglewis",
+    "author_channel_id": "UCblgk4tVnSqVAjd1PvLSwtQ",
+    "text": "Much better Luke!! Thanks :)",
+    "likes": 2,
+    "published_at": "2020-03-16T21:24:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwjpQk0hjRbBVtsmG14AaABAg.96HJcxU88PJ96INnpfKagZ",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "It looks like I left the lights turned off in the last one lol.\nThanks haha!",
+        "likes": 0,
+        "published_at": "2020-03-17T07:20:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwrmJ38nXEfjqQFesZ4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Good job.  thanks for the re-upload.\n\nvaluable vid👍🏽",
+    "likes": 3,
+    "published_at": "2020-03-16T20:57:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwrmJ38nXEfjqQFesZ4AaABAg.96HGVN3ie4I96INphKch9c",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thank you!!",
+        "likes": 0,
+        "published_at": "2020-03-17T07:20:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzXflgB_7Kfu_SyjH54AaABAg",
+    "author": "@ricininepillz7596",
+    "author_channel_id": "UCtrxrTuP8RaXfrDSr0-Ve6g",
+    "text": "What are you making that requires that resistor",
+    "likes": 2,
+    "published_at": "2020-03-16T20:32:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxnJqdqxr-VKzpx3ux4AaABAg",
+    "author": "@PureAudioTones",
+    "author_channel_id": "UC3_zpl2yCHvc0SO9yn2f_0A",
+    "text": "Happy to see new generation doing stuff. The topic is also very interesting and useful. May i suggest more close-up footage with suitable gear. I am looking forward for the next videos.",
+    "likes": 2,
+    "published_at": "2020-03-16T20:31:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxnJqdqxr-VKzpx3ux4AaABAg.96HDUAAFKNY96J60SBA5KO",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Yes that a good suggestion! I will end up doing this in later videos. Thanks!!",
+        "likes": 1,
+        "published_at": "2020-03-17T14:04:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygGAbusW3V4w_7jhN4AaABAg",
+    "author": "@truthseeker3907",
+    "author_channel_id": "UC2aMW78MhuDDvF4ox7feNSA",
+    "text": "Thank You Luke and Thumbs up!",
+    "likes": 2,
+    "published_at": "2020-03-16T19:48:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygGAbusW3V4w_7jhN4AaABAg.96H8c8YQtgR96IO2c0HNJo",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate!!",
+        "likes": 0,
+        "published_at": "2020-03-17T07:22:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx2VQ99gSzxL090Oh14AaABAg",
+    "author": "@The-Green-Manali-shi",
+    "author_channel_id": "UCmteoiXcJUoJCu9eBW2b7jg",
+    "text": "SAFETY IS NO.1 PRIORITY ....GOGGLES WHEN SMASHING BRITTLE OBJECTS WITH HAMMER!",
+    "likes": 11,
+    "published_at": "2020-03-16T19:44:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx2VQ99gSzxL090Oh14AaABAg.96H8BjXkBIK96I5ZYhFpxW",
+        "author": "@roidroid",
+        "author_channel_id": "UClHITiT7I1lYiFn6kd_RlBA",
+        "text": "you know what they say.  When you're a hammer, every problem looks like an eyeball :D",
+        "likes": 1,
+        "published_at": "2020-03-17T04:41:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyEKBuDVbEE-ESLfPx4AaABAg",
+    "author": "@clarencementor4862",
+    "author_channel_id": "UCNUWvoCQzmqrtiC6UIk5aCg",
+    "text": "Good Kid. How about making a diode?",
+    "likes": 0,
+    "published_at": "2020-03-16T18:56:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyEKBuDVbEE-ESLfPx4AaABAg.96H2gdh8kBn96J5uqcnMFW",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "This could be interesting!",
+        "likes": 1,
+        "published_at": "2020-03-17T14:03:28Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxvh4EMyO-MKcY8YUB4AaABAg",
+    "author": "@scantrain5007",
+    "author_channel_id": "UCwLsHcf9-EcD5DHB7WW0bJw",
+    "text": "Hi Luke,\n\n\n\n\n\nit’s a\nvery nice project  and interesting too, because\nthose resistors are very useful  for\nbattery tests.\n\n\n\n\n\nJust a\nhint / suggestion:\n\n\n\n\n\nIf you\ntake a round base item like round wooden stick, glass or plastic. It’s depend\nhow hot comes the resistor. You can put the stick in a drill machine with\nvariable speed and lead the wire winding by winding on slow speed from the\nmachine.\n\n\n When this job done just cover the windings with paint for iron to fix them in place.\n(No primer, they might be on led base and cause short cut or wrong resistance) \n\n\n\n Where this suggestion  comes from? A long long time ago I build a radio detector.  The curl\n\n\nwas winded on the hard paper (carton) center tube from toilet paper. –It’s  not a joke!",
+    "likes": 1,
+    "published_at": "2020-03-16T18:26:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzUWJQ-bsIigrVRPEp4AaABAg",
+    "author": "@victorreppeto7050",
+    "author_channel_id": "UC4XthtmwKSXHk9pxtKsUpww",
+    "text": "How many watts can a dissipate?",
+    "likes": 0,
+    "published_at": "2020-03-16T17:22:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzX8W0GJ3WOZCxEK8h4AaABAg",
+    "author": "@MrGoatflakes",
+    "author_channel_id": "UCHErUPV86uQ57pJ2i07KOxA",
+    "text": "Um, hope they don't have asbestos or beryllium oxide in those resistors. I get nervous around white electronics ceramics",
+    "likes": 1,
+    "published_at": "2020-03-16T17:20:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzX8W0GJ3WOZCxEK8h4AaABAg.96GsgeYAM8596GwAB2AuNL",
+        "author": "@GigsTaggart",
+        "author_channel_id": "UC2uSbQj6fUUky9ZIll6O10Q",
+        "text": "its possible I guess, but the vast majority of those are alumina.  You'd have a pretty exotic high performance one if you managed to find a beryllium bar resistor.",
+        "likes": 2,
+        "published_at": "2020-03-16T17:51:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyuxfVklxHmbMLMIs14AaABAg",
+    "author": "@AlienRelics",
+    "author_channel_id": "UC3l6MouugID_cbT3Ua8gfmQ",
+    "text": "Much better!",
+    "likes": 1,
+    "published_at": "2020-03-16T17:08:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyuxfVklxHmbMLMIs14AaABAg.96GrJx8JTPL96IO6m7mdS1",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Lol, I agree! Thanks!!",
+        "likes": 1,
+        "published_at": "2020-03-17T07:23:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzhGlLNdKJf5hGSQhp4AaABAg",
+    "author": "@SWARDo1",
+    "author_channel_id": "UCoBMYggXtNRUC5dwNtJIL7g",
+    "text": "Nicely done kiddo, nicely done indeed!",
+    "likes": 1,
+    "published_at": "2020-03-16T17:06:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzhGlLNdKJf5hGSQhp4AaABAg.96Gr2h8V3qo96IO-vGrLMy",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Lol Thank you!!",
+        "likes": 0,
+        "published_at": "2020-03-17T07:22:21Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw3U6tHOQrgOoKlKyF4AaABAg",
+    "author": "@martinnottsperfectcoins1930",
+    "author_channel_id": "UCG8jqRpUd9C8AKZZ46xvQuA",
+    "text": "10/10👍",
+    "likes": 1,
+    "published_at": "2020-03-16T16:41:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw3U6tHOQrgOoKlKyF4AaABAg.96GoFAJdEo896INr_m425E",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate!",
+        "likes": 0,
+        "published_at": "2020-03-17T07:21:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzEryErGeiqaGiCJM14AaABAg",
+    "author": "@crisangle8592",
+    "author_channel_id": "UCqY-_FIEoZ5QzkGxlF6Zcew",
+    "text": "make printed rheostat  that would be awesome",
+    "likes": 8,
+    "published_at": "2020-03-16T16:30:21Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzEryErGeiqaGiCJM14AaABAg.96GmviuG-bO96INiUVw7lU",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Interesting... I will have a look at this!",
+        "likes": 3,
+        "published_at": "2020-03-17T07:19:50Z"
+      },
+      {
+        "id": "UgzEryErGeiqaGiCJM14AaABAg.96GmviuG-bO9kHawhF4Naw",
+        "author": "@jafinch78",
+        "author_channel_id": "UCd5Q6th4r3IF5u_dZb3YqEw",
+        "text": "@MyNameIsLukey Yeah, I'm not thinking 3D printed unless ceramic and maybe using a microwave oven kiln as that might be a cost effective way to make, i.e. free microwave, ~$20 microwave kiln or make oneself I think better of the designs can be following the \"Shake The Future\" YT channel \"Diy Microwave Kiln - OUTDATED - New Video Coming October 2022\" video I guess, maybe use manufacturers tables to show the diameter of wire/material used and length.",
+        "likes": 0,
+        "published_at": "2022-12-31T01:32:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwCjcslDqyuxeWM0NR4AaABAg",
+    "author": "@Killianwsh",
+    "author_channel_id": "UCviu_EAdb7cnqrFA7XyRzzw",
+    "text": "Nicely done!",
+    "likes": 1,
+    "published_at": "2020-03-16T16:30:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwCjcslDqyuxeWM0NR4AaABAg.96GmujrrOz496J5tZ-_Vy_",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks!!",
+        "likes": 0,
+        "published_at": "2020-03-17T14:03:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxTbwhYLccxWj4bBTF4AaABAg",
+    "author": "@Wilksey37",
+    "author_channel_id": "UCcMMA5093_vbZ2MFzAenzPg",
+    "text": "One thing that you did not mention is what the power rating of the resistor actually is. i.e. 1W, 5W etc",
+    "likes": 0,
+    "published_at": "2020-03-16T16:26:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxTbwhYLccxWj4bBTF4AaABAg.96GmWSDCKXj96H12FYMuf4",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "Judging by its size and materials, I'd \"guess\", safely, maybe 5 watts.  \n\nOne could have tried to determin an appropriate power raiting given the materials and surface area and thermal conductivty of the insulators but it wont be of much use to everyone else who will likely vary in how they build their's and the kind of air flow they may have.  But these are good things to consider for your own power resistor in your application.",
+        "likes": 2,
+        "published_at": "2020-03-16T18:42:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx41ebI71TeAZJ6NNt4AaABAg",
+    "author": "@japr1223",
+    "author_channel_id": "UCMxtwpU9VO6ZJRG85_Z3-sg",
+    "text": "It pleases me to see Robert mentor a new generation of practical scientists.",
+    "likes": 13,
+    "published_at": "2020-03-16T16:24:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyDpNa1CoyUkI-pGat4AaABAg",
+    "author": "@markayala7752",
+    "author_channel_id": "UCMN4tosKeNbwkIYRAvag8pw",
+    "text": "great project .",
+    "likes": 1,
+    "published_at": "2020-03-16T16:17:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyDpNa1CoyUkI-pGat4AaABAg.96GlPZVQKyD96J5wQxg52I",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thank you!!",
+        "likes": 0,
+        "published_at": "2020-03-17T14:03:41Z"
+      }
+    ]
+  }
+]

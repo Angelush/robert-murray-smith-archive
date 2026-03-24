@@ -1,0 +1,105 @@
+[00:03] [Music]
+[00:10] okay so now we've made our big wheel of
+[00:12] course what we want to do is turn it
+[00:14] into a generator and that's little more
+[00:16] than strapping a motor so there are a
+[00:18] hundred different motors you might go
+[00:21] for i might go for something like this
+[00:23] which is a hoverboard motor but i'm
+[00:25] going to use my good old favorite tummy
+[00:28] nema stepper motor we're going to use
+[00:30] that
+[00:31] pop one of those onto it it's a flexible
+[00:33] couple and we've got a bit of rubber
+[00:35] tape to put around that couple so
+[00:38] there's got a little bit of grip and
+[00:40] we'll stack on some wood until it meets
+[00:43] the longboard wheel i mean basic i know
+[00:45] should work though okay nothing fancy
+[00:48] here move along move along nothing to
+[00:49] see all i've done is glue the stepper
+[00:52] onto a stack of wood so it's the right
+[00:54] height and we can pop that in
+[00:56] there jam it up against the longboard
+[00:59] wheel when the longboard wheel turns
+[01:01] well the stepper motor turns and you can
+[01:03] see that happening now the ratio is a
+[01:06] hundred to one because we've got 25 to
+[01:08] one coming down to the longboard wheel
+[01:10] from the big wheel to longboard wheel
+[01:11] and then i fought the one going from the
+[01:13] longboard wheel to the stepper motor
+[01:15] we've obviously got four points of
+[01:17] contact we're going to do one see how it
+[01:19] performs now all we've got to do is
+[01:21] screw that in place
+[01:23] okay so we've got it set up i've got two
+[01:25] loads to try out one's a bunch of leds
+[01:28] like 35 volts and the other is a um
+[01:30] filament light bulb which is basically
+[01:32] just a resistive lamp obviously
+[01:35] we've got the meter connected up to it
+[01:37] i've got the
+[01:38] phone playing on the meter so we're
+[01:40] going to give it a spin up and see what
+[01:42] we get
+[01:47] wow
+[01:50] 68 volts man
+[01:53] 77 wow
+[01:59] 68 volts of a walk
+[02:00] 77 if i waddle
+[02:03] let's try the
+[02:04] amps and see what we get
+[02:16] so about point eight of an hour 50 60
+[02:18] watts ballpark figure somewhere around
+[02:20] about there and i had no trouble at all
+[02:22] in turning that so i'm pretty sure i
+[02:24] could get another single motor on that
+[02:27] and maybe four i'm not sure about four
+[02:29] might be a bit difficult then because
+[02:30] remember it's the torque i can put in
+[02:33] now why did it work so well it worked so
+[02:36] well just because of the gear ratio we
+[02:38] used this with a hundred to one gear
+[02:40] ratio so of course i'm turning that
+[02:42] about 10 rpm it's doing about a thousand
+[02:44] rpm it's going to give out some volts
+[02:47] and amps that's the way it is now this
+[02:50] one when we tried this motor that didn't
+[02:53] work particularly well and the reason it
+[02:55] didn't work work particularly well is
+[02:56] the gear rare show the gear ratio on
+[02:59] this thing is about 12 to 1 so i'm only
+[03:01] turning this at about 120 rpm for rated
+[03:04] at 500 rpm
+[03:05] so it's getting out about a fifth of its
+[03:07] output which is about right it gave out
+[03:10] about 12 watts that one whereas we got
+[03:12] about 60 watts out of that so about a
+[03:14] fifth and it's all down to the gear
+[03:16] ratio and the torque that i can apply by
+[03:19] stepping in that wheel
+[03:21] when you match them up then you get
+[03:23] great output so the issue here isn't the
+[03:26] choice of motor in fact that's about 80
+[03:29] efficient and that's about 90 percent
+[03:31] efficient so that's actually a really
+[03:33] good choice and that's an okay choice
+[03:36] but it's matching up the gear ratio with
+[03:38] the total you can apply is going to get
+[03:40] you a good generator and so we got about
+[03:42] 60 watts out of the thing with a single
+[03:44] motor should be able to do 120 watts or
+[03:46] two motors because i can apply the
+[03:48] torque
+[03:49] 180 watts with three motors i'm not sure
+[03:52] they'd have to try that and 240 watts
+[03:54] with four motors i'm betting unless i'm
+[03:57] a couple of stone heavier that would be
+[03:58] challenging but
+[04:00] easy walk generate out of it no trouble
+[04:03] at all if we match the gear ratio and
+[04:05] the talk requirement anyway hope you
+[04:07] enjoyed the video thank you very much
+[04:09] for watching and please remember to like
+[04:11] and subscribe

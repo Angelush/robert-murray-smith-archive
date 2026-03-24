@@ -1,0 +1,203 @@
+[
+  {
+    "id": "UgyufTGvg9IV69KFq7N4AaABAg",
+    "author": "@andyhamm6389",
+    "author_channel_id": "UCs4UjKRsw7hVigOOs0GNZZQ",
+    "text": "This is a \"problem' that has been around as long as electric guitars have been. The issue is that the pickups are EMF transducers (with the exception of piezos and lace sensors), and changing EMF into voltage/current is what they are designed to do. What you are doing in this video is actually shielding the transducers from all directions except the forward facing direction which faces the strings as shielding the pickup entirely would prevent it from working. With that particular bass, using both pickups together will reduce the noise as they are wired to us common mode rejection to cancel out the noise. Shielding is definitely a good practice, and most modern guitars will have the cavities (including the electronics cavities) shielded to minimize noise, but it is important to note that the shield is generally tried to the ground of the instrument.",
+    "likes": 0,
+    "published_at": "2020-02-08T14:59:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJejzfcRtPyweOVIh4AaABAg",
+    "author": "@StrategyYouDidntKnow",
+    "author_channel_id": "UCgBgMdoC1BTVmqaLcIVioJg",
+    "text": "Thank you Luke. Hope you figure some tests with the carbon foam that rob is working on. Was thinking that could be shaped with egg cartons to form sound proofing.",
+    "likes": 1,
+    "published_at": "2020-02-01T03:10:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBss9z8Mdbx86LgzZ4AaABAg",
+    "author": "@mwm2929",
+    "author_channel_id": "UC5NsduGaq_p1llxSdzoojWg",
+    "text": "One of my favorite CD's..",
+    "likes": 1,
+    "published_at": "2020-01-29T13:13:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzBss9z8Mdbx86LgzZ4AaABAg.94NQ0K3vPI694Ziw6WoNCu",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "dude ranch is a very close second too take of your pants and jacket album!\nStill its all very awesome!!",
+        "likes": 0,
+        "published_at": "2020-02-03T07:58:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgweU26MGZuEZCj51gR4AaABAg",
+    "author": "@lukebyrne9913",
+    "author_channel_id": "UCBiYxv622AMAeu_6y3x-3Lg",
+    "text": "Hell yeah",
+    "likes": 1,
+    "published_at": "2020-01-27T21:04:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxBSZN21JtOaQ-HeCV4AaABAg",
+    "author": "@colleenforrest7936",
+    "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+    "text": "Great video.  Didn't hear any hiss through YouTube.  I was thinking about painting the chamber containing the pots and the copasitors as well, but it doesn't sound like your bass needs it.",
+    "likes": 2,
+    "published_at": "2020-01-26T15:38:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxBSZN21JtOaQ-HeCV4AaABAg.94FxCyCq2rX94HuydjXeGK",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "I did think about this in the beginning, and it defiantly is worth a try too see if you get anymore improvement.\nI will probably end up doing this anyway, i have a few more basses and guitars to play with lol.",
+        "likes": 0,
+        "published_at": "2020-01-27T09:57:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFraL3pnfRw6DgPwl4AaABAg",
+    "author": "@philipvernejules9926",
+    "author_channel_id": "UCRSfpo_NFOLdB1LBOMd0pSw",
+    "text": ".....That explanation by Lisa kingscot is a damn good explanation otherwise I would have queried why you can't just use say aluminium foil...I now feel like listening to Wings ,Paul McCartney's band...Maneto and Titanium Man.",
+    "likes": 3,
+    "published_at": "2020-01-26T12:45:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztEuAERV6tuwh48VB4AaABAg",
+    "author": "@lisakingscott7729",
+    "author_channel_id": "UC1HcumkdWL2iBtKVp1omnYg",
+    "text": "FYI, a bit more of a technical explanation of how the ink works as a radio interference shield. It works because it is both conducting and resistive. As radio waves try to get into or out of the circuitry, they will need to get through the ink. When a radio wave encounters a conductor, it will induce a current to flow in the conductor, generally called an eddy current. If it is a perfect conductor (no resistance) then the current can be strong enough that the conductor can re-radiate the signal again like an antenna. However, when the radio wave encounters something like Rob's ink, although it will induce a current due to its conductivity, the resistance will mean that the current flow will be resisted, not allowing the current to become very big and much of the energy will be turned to heat. This then means that most of the radio interference will not get through the paint. A simple, not too technical explanation, I hope it helps!",
+    "likes": 6,
+    "published_at": "2020-01-26T12:09:15Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgztEuAERV6tuwh48VB4AaABAg.94F_IaBHFHf94FboIiMHQ4",
+        "author": "@philipvernejules9926",
+        "author_channel_id": "UCRSfpo_NFOLdB1LBOMd0pSw",
+        "text": "........yes ,that's a good explanation. Otherwise I believe a foil that attenuates magnetic field might work also. I forget the name of the material. The resistivity needs to be in that sweet range :-- too high don't work and too low won't work ; would that be right...and so since I got cold galvanising compound ...oh, I just remembered my band days are over, I was dreaming.hhha",
+        "likes": 1,
+        "published_at": "2020-01-26T12:31:11Z"
+      },
+      {
+        "id": "UgztEuAERV6tuwh48VB4AaABAg.94F_IaBHFHf94FolwSjTKW",
+        "author": "@lisakingscott7729",
+        "author_channel_id": "UC1HcumkdWL2iBtKVp1omnYg",
+        "text": "@NoMames Only if you put it and whatever is being cut in a box painted with a decent layer of Rob's ink! The plasma itself can act similarly to the early spark gap radio transmitters. If it's a hand portable, then probably means painting the whole workshop!!!",
+        "likes": 1,
+        "published_at": "2020-01-26T14:24:28Z"
+      },
+      {
+        "id": "UgztEuAERV6tuwh48VB4AaABAg.94F_IaBHFHf94Fpl8oRat0",
+        "author": "@lisakingscott7729",
+        "author_channel_id": "UC1HcumkdWL2iBtKVp1omnYg",
+        "text": "@philipvernejules9926 In EM radiation, the magnetic field (also called the near field) tends to propagate a relatively short distance, so magnetic shielding will have less effect, however it is useful at lower frequencies, because the propagation distance is generally considered to be wavelength / 2 x pi. So the longer the wavelength (lower the frequency) the further the near field will propagate. So it all depends what is causing the interference. Even better would be to use all digital circuitry and use a digital output pickup. I'm not familiar with modern electric guitars, but most mobile phones now use so called digital microphones, which produce a digital signal from the audio, directly. It is much more difficult to interfere with digital signals. However that wouldn't be so interesting as it wouldn't need Rob's ink!!!",
+        "likes": 2,
+        "published_at": "2020-01-26T14:33:05Z"
+      },
+      {
+        "id": "UgztEuAERV6tuwh48VB4AaABAg.94F_IaBHFHf94HuBb_Ye5g",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "@lisakingscott7729 Great Explanation!! I was a little bit clued up, but this has helped me understand even further. Big help thanks!",
+        "likes": 1,
+        "published_at": "2020-01-27T09:50:16Z"
+      },
+      {
+        "id": "UgztEuAERV6tuwh48VB4AaABAg.94F_IaBHFHf94KkWLBTK7L",
+        "author": "@lisakingscott7729",
+        "author_channel_id": "UC1HcumkdWL2iBtKVp1omnYg",
+        "text": "@tponn It's not as simple as that and cables can have completely different requirements to those required in or surrounding circuits. Also a ground may not be available, if it's wireless, etc... Have a look at the specifications for various commercial shielding paint products, it all depends what frequency range and the environment you are trying to work in. Foil with good conductivity can easily become a re-radiator in many circumstances. FWIW I worked on the development of world's first completely wireless earbuds and you wouldn't believe some of the issues working with audio, RF and NFMI all really close together in such a tiny device!\nIf you don't believe me, take a mobile phone in a good signal area, with Wifi and BT enabled and put it in an earthed tin can. Many of the better devices will still get a signal (ever made a phone call in a metal lift???). However a cardboard box painted with a resistive conductive paint, may actually shield better. I've no idea of the frequency response of Rob's ink wrt shielding though, whether it would work better than a tin can for mobile phone/Wifi/BT signals (~900MHz, 2.4GHz, etc..).",
+        "likes": 0,
+        "published_at": "2020-01-28T12:23:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzGMkpR5TotxfgGnIl4AaABAg",
+    "author": "@rickdees251",
+    "author_channel_id": "UCxPpsBtfPd_hEUcfPtYbdgQ",
+    "text": "might painting the backs and sides of the pickups cases themselves provide additional thus more effective \nshielding?",
+    "likes": 2,
+    "published_at": "2020-01-26T10:04:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTBO8IouQYMIQLQv14AaABAg",
+    "author": "@ericmc6482",
+    "author_channel_id": "UCEdnJkDAlZ_sxmi0vx-M5eA",
+    "text": "Hello Luke, getting rid of hum/buzz etc will improve sound in one direction, how has the overall TONE changed ?.\nA longer demo of your new sound would be useful and interesting.",
+    "likes": 2,
+    "published_at": "2020-01-26T09:52:28Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxTBO8IouQYMIQLQv14AaABAg.94FKdpDgxgh94HuiqAAXC0",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Hi Eric, Great question! I think that the overall bass tone has changed slightly.\nNow im hearing deeper/richer bass tones out of that amp when playing. \nI still need to test other amps (one i have in mind is my Marshall amp at home), but i will do this soon!\nKeep an eye on my channel, because i will upload some more bass stuff for people interested. Including longer demonstrations after his suggestion!",
+        "likes": 0,
+        "published_at": "2020-01-27T09:54:57Z"
+      },
+      {
+        "id": "UgxTBO8IouQYMIQLQv14AaABAg.94FKdpDgxgh94I8zBPfzCn",
+        "author": "@ericmc6482",
+        "author_channel_id": "UCEdnJkDAlZ_sxmi0vx-M5eA",
+        "text": "@MyNameIsLukey Ok, you now have an extra subscriber.\n\nYou will get different sounds according to the shielding materials used.\nThere is a range of shielding paints containing copper, silver and other stuff, there are also copper, silver, gold etc foils available.\nI took a listen on my good system and the rig sounds good, nicely fat and nicely damped, pity we didnt get a same listen before the mod....lol, you now know to do before and after recordings paying attention to repeating all conditions including volume and tone control settings. \nI look forward to hearing your next shielding experiment.",
+        "likes": 0,
+        "published_at": "2020-01-27T12:08:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzaE1PpfldXwXNCNvx4AaABAg",
+    "author": "@jasonezekiel3250",
+    "author_channel_id": "UCAJWH9esPCjlHrwPUlqEiGg",
+    "text": "and no it SHOULDN'T be going crazy if you have your gain set properly",
+    "likes": 2,
+    "published_at": "2020-01-26T09:52:01Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzaE1PpfldXwXNCNvx4AaABAg.94FKaT23fjx94HvQgLxeLf",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Hi Jason, Thanks i never knew this! usually the bass amp has a microphone in front of it that goes though a PA system when doing gigs. when i get too close it Goes CRAZY!!",
+        "likes": 1,
+        "published_at": "2020-01-27T10:01:04Z"
+      },
+      {
+        "id": "UgzaE1PpfldXwXNCNvx4AaABAg.94FKaT23fjx94I8m6_7F_V",
+        "author": "@jasonezekiel3250",
+        "author_channel_id": "UCAJWH9esPCjlHrwPUlqEiGg",
+        "text": "@MyNameIsLukey yup, that's the Mic feedback, nothing to do with the guitar, you can tweak this on your mixer or use a condenser, or even better, run your Bass Head straight into the mixing board and output directly to the PA. Graphite paint WILL reduce EMF but not as significantly as described in this video",
+        "likes": 0,
+        "published_at": "2020-01-27T12:06:28Z"
+      },
+      {
+        "id": "UgzaE1PpfldXwXNCNvx4AaABAg.94FKaT23fjx94IBdw4P-c_",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "@jasonezekiel3250 Yes this makes sense. But i can tell you in the live environment it defiantly has reduced the humm noise significantly.\nI haven't used the PA system in about a year sooo... I cannot comment on this. \nWhat i can say though, before i did this i couldn't get near the amp otherwise it would go crazy. even if i was far away the humm noise would be irritating.\nNow it doesn't mater what the gain is on, i can get a mm away with very very little feedback. (Almost silence)\nThis is an improvement.",
+        "likes": 1,
+        "published_at": "2020-01-27T12:31:34Z"
+      }
+    ]
+  }
+]

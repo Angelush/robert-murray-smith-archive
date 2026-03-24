@@ -1,0 +1,348 @@
+[00:00] foreign
+[00:05] that if somebody sometimes somewhere can
+[00:08] do something it is humanly possible and
+[00:11] I'm a human so therefore I should be
+[00:13] able to do it and I bring this attitude
+[00:15] to everything I brought it to welding
+[00:17] and I'm bringing it 3D printing it is
+[00:20] very very doable however
+[00:23] Darren learn 3D printing so gather all
+[00:26] the information that you possibly can in
+[00:28] order to become a master 3D printer all
+[00:30] that's going to happen is you're going
+[00:31] to go hmm yeah that's a lot I think I'll
+[00:34] leave that and that's not the way to
+[00:38] start the way to start is to make a
+[00:40] start turns out it's really stupidly
+[00:42] simple pick yourself a printer you like
+[00:44] the look of pick yourself a filament you
+[00:45] think is going to be good and get
+[00:48] something from thingiverse and print it
+[00:50] and you will be printing we've been
+[00:52] doing that for something like three
+[00:53] months or so we've learned little bits
+[00:55] as we've gone along and tried to learn
+[00:57] everything straight away to do it
+[00:58] perfectly I've tried to make it start do
+[01:01] it and learn as I go I've had two failed
+[01:04] prints in all that time which is
+[01:05] ridiculous when you think about it the
+[01:07] printing has been stupidly simple and of
+[01:10] course all we've been doing is printing
+[01:12] things from thingiverse that other
+[01:13] people have designed now we've been able
+[01:16] to do some pretty interesting projects
+[01:17] with that but of course part of that
+[01:19] learning experience is the next step and
+[01:22] the next step you're going to want to
+[01:23] take is modifying what other people have
+[01:27] done because whenever you pick something
+[01:29] that somebody else has done it never
+[01:31] quite matches what you actually want so
+[01:34] the thing you're going to want to be
+[01:35] able to do is modify it so take this for
+[01:37] example this is a hand generator it'll
+[01:40] turn about 4000 RPM produce about 40
+[01:42] volts or so something like that hand
+[01:45] generators are fun but I'd much prefer
+[01:48] if I could put it onto a windmill or
+[01:50] maybe a water wheel or maybe a bicycle
+[01:52] and what I've got is this this is the
+[01:54] hand crank and it's got this bit
+[01:56] sticking out and that I don't want I
+[01:58] want to be able to bop something on
+[02:00] there like a wind turbines I need to
+[02:02] modify that part let me show you how to
+[02:05] do that okay to modify that what we want
+[02:08] is tinkercad tinkercad is an Autodesk
+[02:12] product to find it go to Google type in
+[02:15] tinkercad hit enter and click on the
+[02:19] first entry and that will take you
+[02:20] straight there it's an Autodesk product
+[02:22] and it's part of their camera commitment
+[02:24] to stem an online education it's free to
+[02:27] use and it's all it's awesome you have
+[02:30] to register you do that by entering your
+[02:31] email address and when you're ready
+[02:33] click on new 3D design and it will open
+[02:36] the workspace for you the workspace is
+[02:40] that piece of graph paper that we can
+[02:42] see and we can move around the workspace
+[02:44] using the mouse you click and hold down
+[02:46] the right key you'll be able to rotate
+[02:48] the workspace around it you scroll in
+[02:51] and out you'll be able to zoom to
+[02:53] various features here you have the
+[02:55] ability to look dead on front
+[02:58] or on top so you can get different views
+[03:02] and zoom straight to them it's all about
+[03:04] exploring guys we're going to cover some
+[03:07] of the basic stuff but really get into
+[03:09] it and explore it's designed for kids so
+[03:12] it's a little bit cartoony but it really
+[03:15] is immensely helpful for that
+[03:17] intermediate step of using what other
+[03:20] people have done to modify what other
+[03:22] people have done when you're ready we
+[03:24] want to get our file for that you click
+[03:26] import it'll open up this box and ask
+[03:29] you to choose a file so let's choose a
+[03:31] file we'll choose the file that we want
+[03:33] and that is
+[03:35] crank because we're going to modify this
+[03:38] crank handle so that we can use it for
+[03:40] something else like a wind turbine or a
+[03:42] bicycle or a water wheel upload it
+[03:45] it gives you here the choice between
+[03:48] millimeters and inches scale 100 leave
+[03:51] the scale alone it tells you the
+[03:52] dimensions of the thing now there are
+[03:54] some restrictions on what you can put in
+[03:56] here I think it's no greater than 23
+[03:59] megabytes as a file size and I can't
+[04:01] remember how many polygons but it'll
+[04:03] tell you if the thing is too big mostly
+[04:06] though it won't be so you import it and
+[04:08] give a little bit of time you can see
+[04:10] here it's actually importing the STL
+[04:12] file
+[04:15] and when it's done there we go we have
+[04:17] our crank handle with some bits and
+[04:20] pieces missing these artifacts are just
+[04:22] to do with the important Warriors but
+[04:25] there it is there's our crank handle now
+[04:27] the first thing we want to do is we want
+[04:29] to get rid of this bit here the
+[04:32] important ones for us are these two here
+[04:35] these are effectively cut tools so if we
+[04:39] click on the box pop the Box onto the
+[04:42] work plane and then use the handle here
+[04:44] to drag that to the size that we want
+[04:47] you can see at the bottom we've got
+[04:49] handles there we go we can take that and
+[04:52] we can move that all the way up to cover
+[04:56] the bottom part
+[05:01] of the crank handle so we can spin that
+[05:04] around we can see we've got a little too
+[05:06] high see where that box is so click on
+[05:08] it grab the handle and move it down a
+[05:12] little bit
+[05:16] until we get it to just about where we
+[05:18] want it which is right there then
+[05:22] go out somewhere here highlight the
+[05:25] whole lot
+[05:26] and here you can see the group Tool
+[05:29] click on group it'll flash red for a
+[05:32] moment and then the whole of the handle
+[05:34] disappears and we're left with just our
+[05:36] Cog click on the Cog press command d
+[05:40] and it will create a copy of the Cog and
+[05:43] drop it to the Bottom now this shape is
+[05:46] actually made out of a number that we've
+[05:49] actually grouped so it would be a pain
+[05:51] to do the next bit using that shape
+[05:53] because the other bits that we've done
+[05:54] might interfere so all we do is export
+[05:57] it you'll see here the file name
+[06:01] and we get a choice what we can export
+[06:03] it as we want to export it as an STL
+[06:06] file and there we go preparing model for
+[06:08] export the next thing we're going to do
+[06:10] is re-import that
+[06:18] workspace we can re-import that file it
+[06:21] might consume a bit of a nuisance to you
+[06:23] to export and re-import but it just
+[06:25] gives you one file to work with and
+[06:28] having that one file means that you
+[06:30] don't have to worry about moving
+[06:31] absolutely everything else so find the
+[06:34] exported file which is right there
+[06:36] upload it import it give it a second to
+[06:39] import
+[06:40] [Music]
+[06:46] and there we go we now have this as a
+[06:50] whole one piece STL or at least
+[06:53] tinkercad understands it that way but we
+[06:55] need to put some holes in it because
+[06:56] we've basically got rid of our handle
+[06:58] created a bigger Cog and now we need
+[07:00] some holes in it so we can bolt it to
+[07:02] stuff like wind turbine blades or
+[07:05] something like that in order to do that
+[07:07] we need to be a little bit more accurate
+[07:09] so you click on that tool there which is
+[07:11] the ruler tool go up to the corner click
+[07:13] on the ruler here you've got use
+[07:16] midpoint as his reference point which is
+[07:18] exactly what it'll use so click on
+[07:20] midpoint and then click on your piece
+[07:22] and you will find you've suddenly got
+[07:24] all these numbers absolutely everywhere
+[07:26] this piece of graph paper is 200 by 200
+[07:30] and the center point is at a hundred if
+[07:32] we look there we'll see it's at minus 99
+[07:34] it's minus because it's going from this
+[07:36] point here where I set the ruler if I
+[07:39] put the ruler in the midpoint it would
+[07:40] be zero but I put the ruler here I could
+[07:42] drag the rule about it I wanted to minus
+[07:45] 99 however average just a little
+[07:47] off-center so click on it and type in
+[07:49] minus 100
+[07:51] and you'll see it moves a little bit so
+[07:53] now the center of this is at the center
+[07:56] of the graph paper and it is at 100 by
+[07:59] 100 so we've got something now that we
+[08:02] can work with because we have a frame of
+[08:04] reference and it's also showing the size
+[08:06] of the piece that we're working with
+[08:08] here if I hover over those figures then
+[08:11] that will change to red meaning I can
+[08:13] either use the mouse and hold the
+[08:16] handles and drag it up and down or I can
+[08:19] type directly into the box there to
+[08:21] change the height and to change that
+[08:23] size so we'll see there that it's
+[08:25] actually
+[08:27] 36.58 millimeters tall I think that's a
+[08:30] bit high so we can change that height to
+[08:32] 30 millimeters or three centimeters
+[08:37] and when we move out that box it will
+[08:39] change its height now it has a midpoint
+[08:42] and you'll see there it's just hovering
+[08:45] a work
+[08:46] above the work plane and that's this
+[08:49] number here so if we change that to 15
+[08:53] it'll drop down to the workplace there
+[08:55] we go it's now on the bench on the
+[08:57] pledge itself and we've got it three
+[08:59] centimeters high we don't want to change
+[09:01] the size obviously because we're going
+[09:02] to use it with everything else and we
+[09:05] want it to fit back in the original
+[09:07] machine however we do want to put holes
+[09:10] in there if we click on our shape so
+[09:12] that we highlight the shape you'll
+[09:14] notice something else there you see
+[09:17] there's a couple of arrows and a hover
+[09:19] over those arrows we get this circle
+[09:21] design around it what you do is you
+[09:23] click and hold as you move now you will
+[09:27] rotate it if you're inside the surfing
+[09:30] you rotate it at 22 and a half degree
+[09:32] increments if you're outside the circle
+[09:34] you'll rotate it in one degree
+[09:36] increments and if we rotate it so that
+[09:39] we get it level there we go so that
+[09:41] these lines now come level with those
+[09:44] bets there then we've got it at 90
+[09:47] degrees which is going to make our next
+[09:49] job much easier because we want some
+[09:51] holes in there do we what made you think
+[09:54] about these as kind of as erasers let's
+[09:56] grab a hole
+[09:58] or a cylinder if you like plonk it back
+[10:01] on there and because the rule is engaged
+[10:03] of course we get all the sizes we want
+[10:04] an eight millimeter hole because you
+[10:06] want to put an eight millimeter bolt in
+[10:08] it if you want six type that as six
+[10:10] notice until then either not locked it's
+[10:12] actually made an ellipse that's really
+[10:14] useful for doing things like arches
+[10:19] now we've got our eight millimeter hole
+[10:21] if we spin that around a bit we can see
+[10:23] that it's 20 high and that's 30 so let's
+[10:26] change that to 31 and poke out a little
+[10:28] bit
+[10:32] and it also goes from the midpoint so if
+[10:35] we look at that it's poking down below
+[10:37] the plane a little bit so we need to
+[10:39] change that say to 15.5 and that's
+[10:43] because that's at 31 and then it sits it
+[10:45] on the plane
+[10:52] we click on this then we know this is a
+[10:54] hundred by a hundred back on this one we
+[10:57] can see the location here is -23 by 175
+[11:01] we want to bring it down to that Center
+[11:03] Line which is why we rotated everything
+[11:05] so we put that at -100
+[11:08] then it will move down there it is now
+[11:11] we've got one seven five let's change
+[11:13] that to 160.
+[11:16] and we have a hole
+[11:18] [Laughter]
+[11:21] there we go we want to repeat that four
+[11:23] more times so we can bolt it in place
+[11:26] I'll bolt something in place so if we're
+[11:28] click on that so it's highlighted and
+[11:31] duplicate it it will duplicate and this
+[11:33] time it's at -100 it's at 160 so let's
+[11:36] change that to 40.
+[11:40] Bingo wake up two holes and we do that
+[11:44] with the other two holes only with this
+[11:46] one of course we change it to um 100 and
+[11:49] minus 40 if that last two
+[11:52] there we go
+[12:02] there it is
+[12:18] and we get our next hole in place
+[12:23] last one duplicate it
+[12:26] and this time we want it at minus
+[12:36] and there we go potholes now we've got
+[12:39] that done we can export it
+[12:42] STL
+[12:45] when it's ready we can drop it into Cura
+[12:51] I like you Cura find the part we just
+[12:53] exported it exports to your downloads
+[12:55] incidentally and I've moved it to this
+[12:57] here open it allow it to render and drop
+[13:01] in and there it is there's the part we
+[13:04] made the code that will fit on the
+[13:06] machine with four holes in it so I can
+[13:08] bolt it to something else like a bicycle
+[13:10] a wind turbine a water wheel so there we
+[13:13] go we've now made our own part
+[13:17] okay so that part is now ready to print
+[13:20] and we've created our own part and
+[13:23] adapted something else now tinkercad's
+[13:26] pretty awesome and I've seen people uh
+[13:28] merge Parts take one part from one St
+[13:31] I'll take another Park grid a whole new
+[13:33] part uh use bits of parts so we used a
+[13:37] part of a part if you like it's exactly
+[13:38] what we did and it is extremely useful
+[13:42] to use and because it's for stamen for
+[13:45] kids extremely easy without cluttering
+[13:48] up all of that stuff now tinkercad isn't
+[13:52] an answer it's a step on your journey
+[13:54] because one of the things people forget
+[13:57] is to have fun to enjoy the experience
+[14:00] they sit down at the computer they're
+[14:02] wearing their hair shirt the whip is
+[14:04] right there and come hella high water
+[14:06] they're going to learn cats and of
+[14:09] course what they get is a long time a
+[14:12] very frustrating experiences you've got
+[14:14] to remember it's an elephant burger and
+[14:17] eating a burger made out of an elephant
+[14:19] is done one bit at a time not don't
+[14:22] forget that and forget to have fun on
+[14:26] your journey do things where you're
+[14:28] gonna get success and therefore rewards
+[14:32] don't line yourself up for failure
+[14:35] 3D printing Begin by printing what other
+[14:38] people have done find things you like
+[14:40] you enjoy move on to something like
+[14:42] tinkercad adapt it to these things that
+[14:45] you want in a really easy way and merge
+[14:48] things together play with things print
+[14:51] them and have fun and in the meantime
+[14:54] you can be learning this wonderful old
+[14:56] singing old dancing cat program whatever
+[14:58] it is but if you're doing and you're
+[15:02] enjoying the learning will just happen
+[15:05] all by itself
+[15:07] hope you enjoyed the video thank you
+[15:09] very much for watching and please do
+[15:11] remember to like subscribe and click the
+[15:13] notifications Bell

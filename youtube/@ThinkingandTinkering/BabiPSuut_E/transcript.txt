@@ -1,0 +1,247 @@
+[00:02] [Music]
+[00:15] hi
+[00:15] so this is an old vcr recorder it's
+[00:18] actually a vcr dvd
+[00:20] now you can still find these things
+[00:22] hiding in people's attics or
+[00:24] occasionally getting thrown away they're
+[00:25] not as popular as they once were
+[00:27] obviously
+[00:28] but you find quite a lot of them just
+[00:30] collecting dust
+[00:31] somewhere now if you take the top off
+[00:34] what you'll find inside this one anyway
+[00:37] is the
+[00:38] carriage return for the video cassette
+[00:40] and obviously the cd dvd
+[00:42] drive are right here now if we take out
+[00:44] the carriage return which is that
+[00:46] section here
+[00:47] then it's only held on by three screws
+[00:49] there there and there so you can do
+[00:50] those screws you take out the carriage
+[00:52] return
+[00:53] well you'll find attach the carriage
+[00:54] returner two things actually
+[00:57] underneath you'll find this looks a bit
+[00:59] like a flywheel
+[01:00] and on top you'll find this now
+[01:03] this is the tip head drum to remove
+[01:06] that again it's really simple there are
+[01:09] three screws underneath and you remove
+[01:10] the tape head drum
+[01:12] and the same thing with this it'll have
+[01:14] a rubber band around it on the central
+[01:16] pulley three screws holding it on
+[01:17] and you take that off now this looks
+[01:20] like a flywheel but actually it isn't
+[01:22] it's actually a
+[01:23] brushless motor which is really really
+[01:25] cool because it's got this flat pancake
+[01:26] profile
+[01:27] and the same is true of these things
+[01:29] these things have a brushless motor
+[01:31] right there
+[01:32] driving these rather pretty aluminium
+[01:34] heads to put that to one side
+[01:36] it's this pulley that we're going to use
+[01:39] now
+[01:39] you'll see on the pulley there's a
+[01:41] couple of screws holding the circuit
+[01:42] board down if you undo those two screws
+[01:45] you can actually separate the pulley
+[01:47] out and you get two sections to the
+[01:49] pulley this section which is the coil
+[01:51] section
+[01:52] and then the outer case section which is
+[01:55] what i'm looking for
+[01:59] which is right here so we have the outer
+[02:02] bit that spins on there
+[02:04] and then this motor coil bit which did
+[02:07] attach to
+[02:08] there now we're going to make this into
+[02:10] a generator and not a motor
+[02:12] and i've done a video on how to do that
+[02:16] but let me give you a close-up of this
+[02:18] anyway so here's a close-up of it
+[02:21] now if you want to know more about this
+[02:23] check out the uh video i did called
+[02:25] all about brushless dc motors when i go
+[02:27] further into this
+[02:28] but basically what we need to do is
+[02:30] identify where those three dots of
+[02:32] solder
+[02:32] are because they're the ends of the
+[02:33] coils and we need to solder on
+[02:36] a three-phase bridge rectifier which is
+[02:38] really easy and i'll show you that in a
+[02:40] moment
+[02:41] but as i said the full details on it are
+[02:42] on that video the other thing we need to
+[02:44] do is remove
+[02:45] all of these electronics just leaving
+[02:47] three wires soldered onto those dots
+[02:49] there
+[02:50] okay so all i've done is removed the
+[02:52] circuit board and solder a wire to each
+[02:53] of the ends of the coils that blob of
+[02:55] solder is the common
+[02:57] so this is obviously a y configuration
+[02:59] like i said if you want to know more
+[03:00] about this check out that
+[03:02] brushless dc motor video that i did then
+[03:05] i've taken those three wires and i've
+[03:07] put them in
+[03:07] a three-phase bridge rectifier right
+[03:09] there which is six diodes
+[03:12] and i've taken off the dc outputs there
+[03:15] so clearly what i need to do now is
+[03:17] mount that in some arrangement
+[03:19] that will get that to spin and obviously
+[03:22] there's a whole load of things you could
+[03:23] do with that
+[03:24] you could put a little um pelton wheel
+[03:26] on it spin it with water
+[03:28] we could put some fan blades on it get a
+[03:31] spin in the air
+[03:32] we could put a um fan rotor on it and
+[03:35] make a little vawt
+[03:37] there's just a ton of things you could
+[03:38] do because all you really need to do is
+[03:40] to get that to spin
+[03:42] so let's mount up that up in something
+[03:44] where we can get it to spin and output
+[03:46] okay so you can see all i've actually
+[03:48] done with it is i've stuck this squirrel
+[03:49] cage rotor on
+[03:50] it's from a fan actually it's got cone
+[03:52] in the middle and it's a squirrel cage
+[03:53] rotor
+[03:54] stuck on the top and i've stuck a pipe
+[03:56] on it so i can actually hold it now this
+[03:57] thing will take air from this direction
+[03:59] but works better with the air from that
+[04:00] direction
+[04:02] don't get too tied up with what i've
+[04:03] done on the generation side of things
+[04:05] incidentally
+[04:06] it's just to illustrate something okay
+[04:09] it's not what i'm recommending as a
+[04:10] particular thing because
+[04:12] there's just so much you could do with
+[04:13] such a thing like i say a water wheel
+[04:15] a different um a normal propeller
+[04:19] a vawt just a whole host of things and
+[04:23] all i'm going to do is
+[04:24] put a hairdryer on this and spin it up a
+[04:27] little bit that's
+[04:28] really all i'm going to do so i'll just
+[04:30] check everything is connected
+[04:33] yep fantastic and we'll put a hairdryer
+[04:36] on and watch that spin and have a look
+[04:37] at some faults being generated
+[04:52] okay so about 1.6 volts
+[04:56] you might hear the music actually um so
+[04:59] that's my new neighbors they've just
+[05:00] moved in there they're actually
+[05:02] uh chefs in fact and what they're doing
+[05:05] is this
+[05:05] uh it's italian zimbabwean fusion
+[05:08] apparently
+[05:08] i've tasted it actually because they
+[05:10] come around every now and then with
+[05:12] something
+[05:12] it's just it's delicious it's really
+[05:14] nice food really is my kind of food i
+[05:17] mean
+[05:17] this isn't my kind of music but the food
+[05:20] they do is my kind of
+[05:21] food you know it's that kind of like
+[05:23] spicy bit of heat
+[05:24] really lovely stuff um i believe
+[05:26] actually they're on instagram and
+[05:28] facebook if anybody's in the canterbury
+[05:30] area and wants to look on them up
+[05:31] i can certainly recommend them but let's
+[05:34] get back to this
+[05:34] so i get told a lot of times that
+[05:37] reading voltage
+[05:38] isn't telling you anything and i think
+[05:40] well actually that's kind of fair enough
+[05:43] actually so what i've started doing is
+[05:46] putting a capacitor across it and
+[05:47] putting some
+[05:48] charge in the capacitor and people have
+[05:51] been saying well some folks
+[05:52] have been saying equally that's an
+[05:54] unfair test because it doesn't tell you
+[05:56] what it's generating
+[05:57] then i suppose that's kind of fair too
+[05:59] it doesn't tell you what it's generating
+[06:01] but when you stop it certainly tells you
+[06:04] what you have generated
+[06:06] because what you have generated is being
+[06:08] stored in this capacitor so if i start
+[06:11] this capacitor off
+[06:12] and give that a bit of time to actually
+[06:15] charge a bit
+[06:22] and you can actually watch the voltage
+[06:24] going up now in this case of course
+[06:26] we're measuring the voltage across the
+[06:28] capacitor
+[06:29] not the voltage of the output
+[06:36] when i turn that off of course the
+[06:37] voltage stays stable because we're still
+[06:39] measuring the voltage in the capacitor
+[06:41] now this one is a 500 farad 2.7 volt
+[06:46] supercapacitor
+[06:47] but it's still a capacitor and if i want
+[06:49] to now i've
+[06:50] actually got something on there that
+[06:52] this is real and can
+[06:54] do some work well put it on a motor and
+[06:57] watch that motor spin
+[07:07] there is real energy on here that energy
+[07:10] has come from here
+[07:12] gone into here and he's driving this
+[07:14] motor here
+[07:15] if we want to know how much energy we've
+[07:17] got dead simple
+[07:19] 500 fahrenheit capacitor whatever the
+[07:22] voltage is read across that you can
+[07:23] calculate the joules
+[07:25] and that's what's come from here and
+[07:26] gone into here and is now doing
+[07:29] real work across this motor so
+[07:32] i i don't necessarily agree that just
+[07:34] putting a capacitor across a generator
+[07:37] doesn't give you information on what
+[07:38] that generator is producing
+[07:40] i think it depends how you deal with it
+[07:42] actually i don't think you necessarily
+[07:44] need to put a resistor across i mean
+[07:46] sure putting a resistor across is a
+[07:48] standard way of doing it but i don't
+[07:50] think you actually
+[07:51] absolutely have to i think there are
+[07:53] other ways of doing things if you think
+[07:55] around a little bit
+[07:57] and i find this to me far more
+[07:59] satisfying because i want to know how
+[08:01] much power i've got
+[08:02] stored away so that i can do something
+[08:05] with it later
+[08:06] if you don't like power then how much
+[08:07] energy i've got like i said don't get
+[08:09] tied up with this particular arrangement
+[08:11] it's just for me to
+[08:12] test those ideas out but the
+[08:14] illustration here really is
+[08:16] it's dead simple to do something on your
+[08:18] tabletop you can actually make yourself
+[08:20] a usable generator creating usable
+[08:22] energy
+[08:23] to do some work with a few basic tools
+[08:26] and a few bits and pieces
+[08:28] anyway i hope you enjoyed the video and
+[08:30] thank you very much for watching

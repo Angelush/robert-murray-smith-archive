@@ -1,0 +1,254 @@
+[00:02] [Music]
+[00:15] all right so as you know we've got this
+[00:17] e-bike that we've been um given to do
+[00:20] some reviews and bits and pieces of and
+[00:22] we did an unboxing video what we're
+[00:24] going to do now is look at this thing
+[00:26] which is the control circuitry and we're
+[00:29] going to look at the basic codes there's
+[00:31] about 20 of them incidentally and for
+[00:34] research and information purposes only
+[00:37] i'm going to show you how to remove the
+[00:39] speed block
+[00:40] and adapt it so that the throttle
+[00:42] control works as well as the pedal
+[00:44] assistance because this is purely pedal
+[00:46] assist but to bear in mind it's for
+[00:49] research and interest purposes only by
+[00:52] no way am i encouraging you to do this
+[00:55] i'm just going to show you how you could
+[00:57] do it
+[00:58] purely so that you know
+[01:01] not so that you do it anyway let's get
+[01:03] this down and have a look at those codes
+[01:05] so the whole thing is actually
+[01:06] controlled by this little controller
+[01:08] here it's an s86 incidentally that's a
+[01:11] usb port you can just charge your phone
+[01:13] with that as long as the key is in that
+[01:15] will actually charge your phone it's
+[01:17] kind of cool but this is the controller
+[01:19] now to power it on you obviously press
+[01:21] the power button hold it for about three
+[01:23] seconds and it will power on if you hold
+[01:25] the plus and the minus button down at
+[01:27] the same time for a few seconds there we
+[01:29] go we go into what's called the p
+[01:31] settings and this is p setting one p
+[01:33] setting one actually just changes the
+[01:35] brightness and you go up and down the p
+[01:36] settings using that you have to scroll
+[01:38] all the way through so we've got two
+[01:40] three four five and it goes up to 20. so
+[01:42] those are the p settings how you access
+[01:44] them
+[01:45] now they're really interesting ones that
+[01:47] are in fact for us p2 p8 and p9 so let's
+[01:52] have a look at p2
+[02:00] so p2 all it does is change the display
+[02:02] from miles to kilometers so
+[02:05] 1 is miles
+[02:07] zero is kilometers just change that and
+[02:10] you get the display to be relevant to
+[02:12] your country which is great if you
+[02:13] happen to be in britain of the usa
+[02:22] ph is the speed limit now when you get
+[02:25] that from the factory it's 25 kilometers
+[02:27] per hour and you can see i've put that
+[02:29] up at 100. this bike won't do 100
+[02:31] kilometers an hour it's got a um three
+[02:34] volt bat sorry a 36 volt battery in it
+[02:37] it's got a uh 350 watt motor so the best
+[02:40] will in the world sails up backing wind
+[02:42] going downhill you're still not going to
+[02:44] do 100 kilometers an hour you know get
+[02:46] about 35 maybe if you're really lucky
+[02:49] and it's all very favorable 40 so it
+[02:51] will max out at that kind of level but
+[02:54] the controller now has its speed limit
+[02:56] removed and you do that really really
+[02:58] easily
+[03:00] go back into it
+[03:01] now we're at p8 just by pressing the
+[03:03] plus and the minus key
+[03:05] so we press that we can take that up to
+[03:07] the the limit that we want and as i say
+[03:08] it comes with 25 and you can change that
+[03:10] speed limit really easily the next one
+[03:13] is p9
+[03:14] p9 is what's called the non-zero start
+[03:19] this is like a sensitivity reading if
+[03:21] you put this at zero
+[03:27] if you put this at zero then you don't
+[03:30] need to give it much in the way of a
+[03:32] push at all in order to get it going so
+[03:35] it will go really beautifully really
+[03:37] easily just by gently pushing and it
+[03:39] will go up to that speed limit so those
+[03:42] are the settings that you need to change
+[03:44] to remove the speed limit and it's the
+[03:46] first step actually of um getting
+[03:49] throttle control so until a couple of
+[03:51] months ago adjusting p8 and p9 was all
+[03:54] you had to do in order to get it into
+[03:56] throttle mode they've done an update on
+[03:58] this 866 controller so now what you need
+[04:01] to do is a little hack to do that
+[04:04] to get into throttle mode you need to be
+[04:06] sure that it's in pedal assist mode so
+[04:09] the first thing you do is the pedal
+[04:11] assist mode hack for that
+[04:13] pull on both brakes turn on the
+[04:15] controller
+[04:19] and you'll see there's a warning sign
+[04:20] right there the brakes are on you count
+[04:22] to 20 slowly in your head let go
+[04:26] turn it off
+[04:28] and now it's in pedal assist mode and
+[04:30] you're certain it's in pedal assist mode
+[04:33] to get it into throttle mode there's the
+[04:35] throttle there twist the throttle all
+[04:37] the way around
+[04:38] pull on that brake
+[04:40] pull on that brake and turn it on
+[04:44] count to 20 in your head
+[04:46] let go
+[04:49] and when you turn it back on again the
+[04:51] throttle will work the throttle will
+[04:53] only work in level three
+[04:58] do you see this level here it's one two
+[05:00] three that's where the throttle will
+[05:02] work
+[05:03] to get it back into pedal assist
+[05:07] both brakes on
+[05:15] when you turn it back on again it'll be
+[05:17] in pedal assist
+[05:19] it'll only work on throttle
+[05:23] in assist mode three so that when it's
+[05:26] in there will now work on the throttle
+[05:29] control let me show you that
+[05:31] okay twist that throttle
+[05:39] this sounds beautiful isn't it cool
+[05:44] okay so let's have a quick run through
+[05:45] on the other pea coats
+[05:54] okay so that's p1 and that's just screen
+[05:57] brightness p2 we actually covered
+[05:59] changing between miles and kilometers p3
+[06:02] is the battery voltage you can see it's
+[06:04] 36 volt volts there you set it to the
+[06:06] voltage of your battery
+[06:08] p4 is the auto sleep timer this is set
+[06:10] for 10 minutes you can set it up to 60
+[06:12] minutes
+[06:13] p5 is the number of assists and it can
+[06:16] be zero one or two and that sets the
+[06:19] levels that you get assistance at which
+[06:21] you can use to set
+[06:23] markers for speed
+[06:24] p6 is the wheel diameters machine
+[06:27] specific
+[06:28] p7 is the number of magnets in the
+[06:30] sensor again it's speed um
+[06:32] specific p8 as we know is the speed cap
+[06:36] and we change that to 100
+[06:38] p9 is the non-zero start and we've put
+[06:40] that down to one so it should be zero so
+[06:44] we'll have to change that again if you
+[06:46] change it and you do that then you have
+[06:48] to wait for it to
+[06:49] close itself out turn it off turn it on
+[06:52] so it's closed out
+[06:56] turn it on
+[06:57] and then that should have stayed at zero
+[07:01] so one two three four five six seven
+[07:04] eight nine and we're still at zero p ten
+[07:08] is what's called the drive mode zero is
+[07:10] no assist one is electric only and two
+[07:13] is both so i've got on two so it can be
+[07:15] pedal bank only or electric bike
+[07:18] this oh
+[07:23] p10 in p11 this is the assist delay it's
+[07:28] the time it takes for you to do a bit of
+[07:30] pedaling when the motor will actually
+[07:31] kick in and at one it's the lowest at 24
+[07:34] it's the highest and it takes a little
+[07:36] bit of uh um for a little bit of
+[07:38] pedaling to get the power assist with
+[07:39] you
+[07:40] p12 is the acceleration strength i've
+[07:43] set this to the highest acceleration
+[07:45] strength zero is the lowest five is the
+[07:46] highest
+[07:48] p13 is the sensor type
+[07:51] p14 is the control amps limit p15 is the
+[07:56] battery discharge voltage it cuts out
+[07:58] when it gets to 29 volts p16 is reset
+[08:01] the speedometer or the odometer
+[08:04] p17 is cruise control it's actually
+[08:06] turned on and see we actually got cruise
+[08:08] control which is weird
+[08:10] 18 is the display adjustments 19 is the
+[08:13] zero gear so you can either enable or
+[08:15] disable it in which cases either pedal
+[08:17] powered or no pedal power and only
+[08:19] electric and p20 is to communicate with
+[08:21] the controller so very quickly those are
+[08:24] the codes what they do and how to go
+[08:26] about removing that cap and getting it
+[08:28] to work on the throttle only so that
+[08:30] controller really is easy to use hey and
+[08:32] to my mind it's a bit of a benefit that
+[08:34] it's so easy to mod i mean a couple of
+[08:37] little swaps around a couple of little
+[08:38] hacks you can basically make that into
+[08:41] whatever you want it to be and for me
+[08:42] that's actually one of the cool things
+[08:44] about that bike i really liked it when i
+[08:46] found out how easy it was to change
+[08:48] everything around them to do things like
+[08:50] remove the um speed lock on it and to
+[08:52] change it from pedal assist to throttle
+[08:54] control obviously
+[08:57] educational purposes only and this has
+[08:59] been put back into uh pedal assist
+[09:01] because that's the legal requirement
+[09:03] here in the uk so we've got this back
+[09:05] into pedal assist now and now we've had
+[09:07] a look at how the controller works and
+[09:09] how to make those adaptations the next
+[09:11] thing we're going to do is take this up
+[09:12] to london anyway i hope you enjoyed the
+[09:14] video ah
+[09:16] one thing before i sign off
+[09:18] and this actually is as based on
+[09:21] experience
+[09:23] if you're going to make changes like
+[09:24] this your best bet is to write down
+[09:27] what the factory settings were because
+[09:30] it's almost impossible in fact it is
+[09:32] impossible to find those factory
+[09:33] settings so go through the p numbers
+[09:36] write down what the settings were so
+[09:38] that if you do make a mistake you can
+[09:39] put it back to the factory settings i
+[09:42] tell you this experience because it took
+[09:43] me about four hours to put it back
+[09:46] because i changed the setting uh
+[09:48] accidentally which is uh easier to do
+[09:50] than you think and the thing just
+[09:52] wouldn't work and me and luke were in
+[09:54] the car park for a couple of hours
+[09:55] trying to get it to work uh he finally
+[09:58] gave up because he's young and has no
+[09:59] staying power and i managed to actually
+[10:01] get that thing changed back and it was
+[10:04] one single setting moved by one number
+[10:06] was all it actually was so write down
+[10:08] the settings before you actually begin
+[10:10] playing around with it so if you do make
+[10:12] a mistake you can go back to ground zero
+[10:14] without spending four hours of utter
+[10:16] frustration anyway i hope you enjoyed
+[10:19] the video thank you very much for
+[10:20] watching and please remember to like and
+[10:22] subscribe

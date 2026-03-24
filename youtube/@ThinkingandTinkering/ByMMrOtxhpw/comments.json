@@ -1,0 +1,1517 @@
+[
+  {
+    "id": "UgxXBudMCwmQ8MgX5hR4AaABAg",
+    "author": "@freakent",
+    "author_channel_id": "UCG1IYa9tNdkhuW__vwKYx0g",
+    "text": "It would be great if you could go into more detail on the need for dump loads and how to create one.",
+    "likes": 0,
+    "published_at": "2025-07-15T13:54:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyv2HWTG-bCU7b1N6F4AaABAg",
+    "author": "@windywayra",
+    "author_channel_id": "UCOpTG9sSam-BhrvH4vSSGRg",
+    "text": "Hi there! We are the owners of a sailboat, our youtube channel is @windywayra. We are currently designing a hydro generator system using the same propeller shaft, with a pulley and belt driving a PMA when under sail. My current idea consists of using a lawnmower PTO clutch to engage/disengage the PMA depending on different conditions, like RPM or battery voltage, which will be controlled using a Raspberry Pi Pico. \n\nMy biggest concern and the reason I am writing you is because of all the videos and info I could find online, you seem to be one of the most knowledgeable persons... To answer a question I have: Pairing the right PMA with the right charge controller.\n\nI have been researching the web and to be honest I want to make it efficient but not overly expensive, so I have bought a Double MPPT Hybrid solar and wind controller with the following specs (advertised): Max 100A combined, and 5kW of wind and 2kW of solar, and it can switch between 12V/24V and 48V.\n\nTo be honest, I think the only MPPT technology in it is in the wind boost function, but once enough voltage is reached by the PMA, it seems that it is just a PWM. Our battery bank is LiFePo4 12V 600Ah, so it does need some amps to charge it. \n\nI am trying to understand if a PWM charge controller rated at 5kW will make a 2kW PMA overheat/stall/sag voltage due to the high current it will be capable of drawing... I don´t think I can adjust how many amps it will try to use to charge the batteries.\n\nI know I have to be careful not to use a PMA that delivers more power than the charge controller can handle, but what happens in the opposite case?\n\nThank you in advance!",
+    "likes": 0,
+    "published_at": "2025-03-13T06:34:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_hfcldXuJRE2bx3J4AaABAg",
+    "author": "@raddastronaut",
+    "author_channel_id": "UCwzXe0pWz1K6_c2X1AhEXLQ",
+    "text": "Absolutely love this channel. \nPure engineering at its finest. \n\nDC is still technically the same bilateral current in a vortex as AC, you are just creating an imbalance between the negative (blue) and the positive (red) beam.  That’s why DC current isn’t good for long distance transmission as there is not a Planks constant in vortex energy spiraling around each other in both directions.  DC just has an overly charged negative that flows until it can reach a source with an equally balanced positive energy or simply run out.  \nJust like “waves” in the ocean. \nThere is no such thing as a wave though, just a vortex at any given angle.  \nLight/electricity looks just like the flow of a magnet.  \nA perfectly balanced beam of light (like from the sun. Is a vortex.  A red/left spinning spiral coming from the center, and blue/right spiral going back to the center. Positive and negative spiraling around each other creating a yellow tube/ neutral zone with no energy in between. (Much like a tornado). \nTo see this simply magnify a beam of\nLight through a drop of water.  \nIt’s simple, yet nearly impossible, but it will show you how all energy in the third dimension flows.  Sunlight is the best form of light to use.  There is nothing available to us more pure or powerful.",
+    "likes": 0,
+    "published_at": "2025-02-05T18:10:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxw2cEKzFQKjD072-54AaABAg",
+    "author": "@jeffsteele1295",
+    "author_channel_id": "UCsMT0-KOCSf0ReIV417MjyQ",
+    "text": "Great review thanks so much.",
+    "likes": 0,
+    "published_at": "2024-07-05T02:55:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyq_OLhhzC0BxdF8zF4AaABAg",
+    "author": "@dominicmogridge3920",
+    "author_channel_id": "UCdn8_DCoFq0u5kObyV4h7Pw",
+    "text": "thank you sir for providing us with all your knowledge and information.you've taught me a lot.stay safe and lucky.maddog.off grid,horse drawn survivalist.West cork.eire",
+    "likes": 2,
+    "published_at": "2024-03-01T20:07:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0oNB3uXQ9tETYvIl4AaABAg",
+    "author": "@richardschofield2201",
+    "author_channel_id": "UCSAjIyTvfjGTnJf76nDnmOw",
+    "text": "If you have multiple chargers connected to a single battery bank, how do you prevent one charge as it raises the voltage from making another charger think the bank is full when it isnt.",
+    "likes": 0,
+    "published_at": "2023-11-25T11:41:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzuy3a3Z-Od626PLF94AaABAg",
+    "author": "@wersonst-d4q",
+    "author_channel_id": "UC3DO2sTc73xkcg1RbhG99dQ",
+    "text": "Well,  this video gives a false   idea of  what  the MPPT   Idea means   for Windturbines  ,  pls  search for better  explanations     from the midnite   charge controller people  ,   there is  a good video about the midnite clipper and the classic  to explain Mppt",
+    "likes": 0,
+    "published_at": "2023-11-16T22:39:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyKweiBKgqlCm-5B7h4AaABAg",
+    "author": "@ibme8359",
+    "author_channel_id": "UCMgAGBE7euZ8QqxNHAjuIoA",
+    "text": "Mechanically, How about drive a water pump directly. No worry about \"Power Failures\"!",
+    "likes": 0,
+    "published_at": "2023-09-28T21:08:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5GYQZXYcUH-9SGMN4AaABAg",
+    "author": "@SLCTheElk",
+    "author_channel_id": "UCvVp3fCpEuS3amPZwXKkB3w",
+    "text": "Sir, Thank you so very much for the work you do! Found your channel 2 days ago and you've helped me SOO much! \n\nLove your enthusiasm and emphatic nature!",
+    "likes": 0,
+    "published_at": "2023-09-25T07:18:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5GYQZXYcUH-9SGMN4AaABAg.9v4Ieb4PntY9v4PMKKC0vo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Great to hear!",
+        "likes": 0,
+        "published_at": "2023-09-25T08:17:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzS4O_k-WvbDGeSjYp4AaABAg",
+    "author": "@UFOinterceptor",
+    "author_channel_id": "UCnVBVPdkERXeIQzJhuK2d3g",
+    "text": "Can you do video: Wind to grid, with no battery system. Best buy product ans so one. 🖤",
+    "likes": 0,
+    "published_at": "2023-09-19T16:19:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwgZVz8A0Pg0CYVrwt4AaABAg",
+    "author": "@yutub6972",
+    "author_channel_id": "UCC5Z5AZn5fRfSfDgbepENqg",
+    "text": "For wind generator wc is better pwm or mppt?",
+    "likes": 0,
+    "published_at": "2023-06-22T12:09:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw8vFHQQ4Z6O1IDhxt4AaABAg",
+    "author": "@k.toddweaver6584",
+    "author_channel_id": "UCaU5xE6cATrGwuukw0iZRkw",
+    "text": "QUESTION... Can I use the same charge controller that my MPPT Solar lines come into it? I'm going to run both solar and wind generator on my property. Should I use a separate charge controller for my wind generator?\nAny advice would be greatly appreciated.\nTodd",
+    "likes": 0,
+    "published_at": "2023-06-22T06:10:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxgKC5gv4ZgUXAv3-94AaABAg",
+    "author": "@k.toddweaver6584",
+    "author_channel_id": "UCaU5xE6cATrGwuukw0iZRkw",
+    "text": "QUESTION... Can I use the same charge controller that my MPPT Solar lines come into it? I'm going to run both solar and wind generator on my property. Should I use a separate charge controller for my wind generator?\nAny advice would be greatly appreciated.\nTodd",
+    "likes": 0,
+    "published_at": "2023-06-22T06:06:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxgKC5gv4ZgUXAv3-94AaABAg.9rFYvPUmffJACYoJr2lZBk",
+        "author": "@JohnT.4321",
+        "author_channel_id": "UCH0pU998M7YL0pCK-tQCrfQ",
+        "text": "I am surprised you got no answer to your question. You may have already figured out that you have to have a separate charge controller for wind power seeing you already have an MPPT controlling your solar input.",
+        "likes": 0,
+        "published_at": "2024-12-27T13:06:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzfMV290TOZKwCyLPd4AaABAg",
+    "author": "@Istandby666",
+    "author_channel_id": "UCBHl6R75NO1z-XnVSmr0hEw",
+    "text": "The other difference between an MPPT and a PWM is their efficiency. MPPT is around 90% and the PWM is around 70%.",
+    "likes": 0,
+    "published_at": "2023-05-27T08:51:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzfMV290TOZKwCyLPd4AaABAg.9qCu89VUbm09rFZ2nV4fYa",
+        "author": "@k.toddweaver6584",
+        "author_channel_id": "UCaU5xE6cATrGwuukw0iZRkw",
+        "text": "QUESTION... Can I use the same charge controller that my MPPT Solar lines come into it? I'm going to run both solar and wind generator on my property. Should I use a separate charge controller for my wind generator?\nAny advice would be greatly appreciated.\nTodd",
+        "likes": 0,
+        "published_at": "2023-06-22T06:08:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxYt1kjzP0Unk3wS5J4AaABAg",
+    "author": "@TimeSurfer206",
+    "author_channel_id": "UCOWr1KrtecAbgYI4dj7piGw",
+    "text": "Well, Pulsating Direct Current IS actually \"Going in a straight line,\" it just changes the pressure behind the continuous direction periodically.",
+    "likes": 0,
+    "published_at": "2023-02-23T20:04:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzUoaRCksWiQy7g8QR4AaABAg",
+    "author": "@PVflying",
+    "author_channel_id": "UCLZ3tSBkHiMhnXVY9enx-eg",
+    "text": "I’d like to see more on how to make a working electrical system which is charged from a generator or PV panel. Maybe you could show us your workshop’s battery setup and how it is charged.",
+    "likes": 2,
+    "published_at": "2023-02-09T08:06:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyWgE7hsZX2-JwlSVx4AaABAg",
+    "author": "@ourkilkennyhomestead2006",
+    "author_channel_id": "UCXi83M0synXxdBPpQ7bE0_Q",
+    "text": "Great video Rob, the clearest and most concise explanation I've seen so far.",
+    "likes": 0,
+    "published_at": "2023-02-07T18:08:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUULa7K6GLL91dCtJ4AaABAg",
+    "author": "@Trefuckor963",
+    "author_channel_id": "UCeju8nRZd_fG4r3mT0yMN5Q",
+    "text": "I wish it was this easy. I tried connecting my wind turbine to my portable power station and it didnt work.",
+    "likes": 0,
+    "published_at": "2023-02-07T01:02:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyUULa7K6GLL91dCtJ4AaABAg.9loOoMEPkQY9rFZ9zlsiZ8",
+        "author": "@k.toddweaver6584",
+        "author_channel_id": "UCaU5xE6cATrGwuukw0iZRkw",
+        "text": "QUESTION... Can I use the same charge controller that my MPPT Solar lines come into it? I'm going to run both solar and wind generator on my property. Should I use a separate charge controller for my wind generator?\nAny advice would be greatly appreciated.\nTodd",
+        "likes": 0,
+        "published_at": "2023-06-22T06:09:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwYYKQg0FQbfonVbH94AaABAg",
+    "author": "@atomicsix",
+    "author_channel_id": "UCZJ5IKG8Na0n34FrTslTBRw",
+    "text": "here is a simple basic program for an arduino nano, to make it into a MPPT charge controller, lithium battery charger.\n\nconst int voltagePin = A0;  // Pin to read the voltage of the solar panel\r\nconst int currentPin = A1;  // Pin to read the current of the battery\r\nconst int pwmPin = 9;       // Pin to control the voltage/current of the solar panel\r\nconst int chargingPin = 8;  // Pin to control the charging of the battery\r\n\r\nfloat panelVoltage, panelCurrent, batteryVoltage, batteryCurrent;\r\nfloat batteryTargetVoltage = 4.2;  // Target voltage for a fully charged lithium battery\r\n\r\nvoid setup() {\r\n  pinMode(pwmPin, OUTPUT);\r\n  pinMode(chargingPin, OUTPUT);\r\n}\r\n\r\nvoid loop() {\r\n  panelVoltage = analogRead(voltagePin) * (5.0 / 1023.0) * (19.0 / 3.0);\r\n  panelCurrent = analogRead(currentPin) * (5.0 / 1023.0) * (19.0 / 3.0);\r\n  batteryVoltage = panelVoltage;\r\n\r\n  // Calculate the duty cycle of the PWM signal based on the panel voltage and battery voltage\r\n  float dutyCycle = panelVoltage / batteryVoltage;\r\n  analogWrite(pwmPin, dutyCycle * 255.0);\r\n\r\n  // Turn on the charging pin when the battery voltage is below the target voltage\r\n  if (batteryVoltage < batteryTargetVoltage) {\r\n    digitalWrite(chargingPin, HIGH);\r\n  }\r\n  // Turn off the charging pin when the battery voltage reaches the target voltage\r\n  else {\r\n    digitalWrite(chargingPin, LOW);\r\n  }\r\n}\n\nthis is just a starting point, and will need more attention to the power handling, but it is probably better than a simple 555 timer",
+    "likes": 3,
+    "published_at": "2023-02-06T02:07:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyP_LHtegyog1IlfBp4AaABAg",
+    "author": "@JBExplorer3283",
+    "author_channel_id": "UCTolMKreDjbloYplQAdAB0A",
+    "text": "Hi there I have a question does a mains supply battery charger have a charge controller built into it",
+    "likes": 0,
+    "published_at": "2023-02-05T13:06:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyP_LHtegyog1IlfBp4AaABAg.9lkY-UxX-8v9lkYIMB3_R4",
+        "author": "@JBExplorer3283",
+        "author_channel_id": "UCTolMKreDjbloYplQAdAB0A",
+        "text": "Could I integrate a plug into my power source",
+        "likes": 0,
+        "published_at": "2023-02-05T13:08:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyq-aEkG0zOxQK2WLl4AaABAg",
+    "author": "@bwfrench2616",
+    "author_channel_id": "UC8ozULWlMeut6wKmNOQvsHQ",
+    "text": "Please explain how power needs are determined. Say I have a 2000 watt computer running 24/7. How to calculate battery needs and generation needs. I love how simply you make it.",
+    "likes": 2,
+    "published_at": "2023-02-05T03:54:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxnFy6eA-yFTphXtuB4AaABAg",
+    "author": "@garrylarkin433",
+    "author_channel_id": "UCL8jSyv1CLbdYK6O2vRFaSw",
+    "text": "what about mppts ability to changr volts to current?",
+    "likes": 1,
+    "published_at": "2023-02-05T03:49:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxnFy6eA-yFTphXtuB4AaABAg.9ljYJLZSaQY9rFZtzKrIik",
+        "author": "@k.toddweaver6584",
+        "author_channel_id": "UCaU5xE6cATrGwuukw0iZRkw",
+        "text": "That's true with MPPT a friend told me about. That it will take any extra Voltage and convert it into Amps.\nQUESTION... Can I use the same charge controller that my MPPT Solar lines come into it? I'm going to run both solar and wind generator on my property. Should I use a separate charge controller for my wind generator?\nAny advice would be greatly appreciated.\nTodd",
+        "likes": 0,
+        "published_at": "2023-06-22T06:15:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHRGULM7o3PUykLuZ4AaABAg",
+    "author": "@bradleyale",
+    "author_channel_id": "UC1j_zEJ39mnIDekB4InF9nw",
+    "text": "Why not use a diode or two \"in-line\" between the generator and battery being charged (to prevent drainage when the wind stops)? Then, adding another pair of leads from the battery to whatever device, appliance, switch, etc you'd like to energize would complete the arrangement. This is a serious question even though I obviously don't know what I'm talking about.\nBy the way, I love your videos- really",
+    "likes": 1,
+    "published_at": "2023-02-04T21:17:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzHRGULM7o3PUykLuZ4AaABAg.9liqRSG1ETQ9rFaFf8qs3L",
+        "author": "@k.toddweaver6584",
+        "author_channel_id": "UCaU5xE6cATrGwuukw0iZRkw",
+        "text": "That's the exact same thing I was thinking. Send the power out from the inverter, running through my entire motorhome so I will not need the brake, or dumping excess. Why not dumb it into 2 saltwater batteries to store electricity, and use when needed?\n QUESTION... Can I use the same charge controller that my MPPT Solar lines come into it? I'm going to run both solar and wind generator on my property. Should I use a separate charge controller for my wind generator?\nAny advice would be greatly appreciated.\nTodd",
+        "likes": 0,
+        "published_at": "2023-06-22T06:27:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbUZT7IVpcxlxY1994AaABAg",
+    "author": "@takyrdai2432",
+    "author_channel_id": "UCX0_tNfeH8Go_2WW45zoyxw",
+    "text": "diy charge controller with dump load to sand battery?",
+    "likes": 1,
+    "published_at": "2023-02-04T21:11:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyyP2W4AJLnk1oXFQF4AaABAg",
+    "author": "@ChristieNel",
+    "author_channel_id": "UCWrQ00sT531VE0shByDhnYA",
+    "text": "That's a nice summary.  Charging can be a bit more involved, though.  You may get away with just turning on and off charging to a lead-acid, but especially with lithium polymer, you typically have separate high current and voltage float modes as a minimum, to extend your battery life.",
+    "likes": 0,
+    "published_at": "2023-02-04T18:30:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgydKCgTwf_rfY9yfNt4AaABAg",
+    "author": "@keithfloyd1178",
+    "author_channel_id": "UCQcJit_CtcLUKV4zlQH1zew",
+    "text": "Could you clarify something for people? I've live off grid for 8 years and I have 2 charge controllers for my solar panels 12 total and I have a load controller and load coil for the battery bank. My permanent magnet alternator wind generator is wired direct to the batteries. I have 2 Outback 60 amp solar charge controllers and a Xantrex C40 40 amp charge/load controller, the load controller doesn't connect to the wind generator like the solar controller does so mine is wired to the battery and to the load coil..... 4 wires.",
+    "likes": 0,
+    "published_at": "2023-02-04T16:53:22Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgydKCgTwf_rfY9yfNt4AaABAg.9liNCSauTCK9loz59RosCd",
+        "author": "@tlangdon12",
+        "author_channel_id": "UCkwhoin7aBfQE5i_cIvMIEg",
+        "text": "Does the wind turbine alternator have a built-in rectifier? Some do.",
+        "likes": 1,
+        "published_at": "2023-02-07T06:28:36Z"
+      },
+      {
+        "id": "UgydKCgTwf_rfY9yfNt4AaABAg.9liNCSauTCK9lpZNO5MioM",
+        "author": "@keithfloyd1178",
+        "author_channel_id": "UCQcJit_CtcLUKV4zlQH1zew",
+        "text": "@tlangdon12 yes",
+        "likes": 0,
+        "published_at": "2023-02-07T11:54:24Z"
+      },
+      {
+        "id": "UgydKCgTwf_rfY9yfNt4AaABAg.9liNCSauTCK9lpjCpmT4yo",
+        "author": "@tlangdon12",
+        "author_channel_id": "UCkwhoin7aBfQE5i_cIvMIEg",
+        "text": "@keithfloyd1178 So you don’t a separate rectifier because there is one in the generator, and the c40 charge/load controller is act as a dump load controller to divert excess wind power from the battery terminals to the dump load. It does this by monitoring the voltage at the battery terminals. It is normal to connect the turbine directly to the batteries and then take the dump load from the battery terminals. The alternative would route the power through the dump controller, but this would create higher loses unless the controller could be located on the shortest route from the turbine to the batteries.",
+        "likes": 1,
+        "published_at": "2023-02-07T13:29:05Z"
+      },
+      {
+        "id": "UgydKCgTwf_rfY9yfNt4AaABAg.9liNCSauTCK9lptfwEHMx9",
+        "author": "@keithfloyd1178",
+        "author_channel_id": "UCQcJit_CtcLUKV4zlQH1zew",
+        "text": "@tlangdon12 exactly. I also have had a solar panel hooked direct and the load controller keeps the panel from over charging the system. I'm planning on making a sand battery heater to capture the heat from the load coil and use it at night for hot water or a room heater.",
+        "likes": 0,
+        "published_at": "2023-02-07T15:00:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwbqeM-hYIEPvLGbSx4AaABAg",
+    "author": "@ibme8359",
+    "author_channel_id": "UCMgAGBE7euZ8QqxNHAjuIoA",
+    "text": "Dump Load (5:45) I'm gonna dump my extra into a chiller and cool my beer! Why waste that power!",
+    "likes": 2,
+    "published_at": "2023-02-04T15:59:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLqrS4OcUrNrwJ1ud4AaABAg",
+    "author": "@aronbraswell1589",
+    "author_channel_id": "UC4QFg6Jn0J_vEaBhEE_Z42w",
+    "text": "now you have the 3d printers could you make a toroidal coil winder?",
+    "likes": 1,
+    "published_at": "2023-02-04T14:28:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz0kGUGz22E0oXQXwF4AaABAg",
+    "author": "@unicornadrian1358",
+    "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+    "text": "The interesting difference between pwm and mppt is that pwm, as you said simply switches on and off. The current can never exceed the panel current. MPPT on the other hand when it drops the voltage to match the batteries, is able to increase the current and allow more total power through. I didn’t catch this aspect in the video, so I apologise if you already covered it Rob.",
+    "likes": 2,
+    "published_at": "2023-02-04T12:30:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwi_6wYvOeU0iruIyl4AaABAg",
+    "author": "@davidhartland8307",
+    "author_channel_id": "UCaMj31-1oQFttbzl0IU_A5g",
+    "text": "Are y going to make a pwm?",
+    "likes": 1,
+    "published_at": "2023-02-04T12:28:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxsem5k6VnS9LUSUGt4AaABAg",
+    "author": "@LaudCranium",
+    "author_channel_id": "UCytmn2UKI6aNm2CLofnkgLQ",
+    "text": "thank you for your level-headed and pragmatic advice. you have really clarified controllers for me. ta me duck!",
+    "likes": 0,
+    "published_at": "2023-02-04T11:04:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwswxP1hMa1zr0uiZp4AaABAg",
+    "author": "@ericblenner-hassett3945",
+    "author_channel_id": "UC2Xfi79rshqfPWbzdFPJBvg",
+    "text": "You mentioned the 555 Timer IC and reminded me that there is another open source use.  The 555 timer for 12V battery charger.  It will work with solar, wind, or other inputs as long as you add rectification with smoothing.  The NE556 dual single-chip timing circuit can be used to have both the charge controller and an output controller in one chip and be done on a breadboard.",
+    "likes": 4,
+    "published_at": "2023-02-04T04:39:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzF8kH0RQ-7tDifSp14AaABAg",
+    "author": "@guywhoknows",
+    "author_channel_id": "UCBALC-cNOivHvycbqW8tGdA",
+    "text": "I had to watch twice to make sure. But if you have a full bridge rectification the battery can't back feed.\n\nAlso with pwm and  mppt , you missed the bucking. Volts to current.. I think that makes more sense when picking either.",
+    "likes": 0,
+    "published_at": "2023-02-04T03:33:16Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzF8kH0RQ-7tDifSp14AaABAg.9lgwdGFoFkY9lhfnM-T8A8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it didn't m make sure - I said if you connect the battery straight to the wind turbine you would have problems - hence no rectifier - you are just making the point I made in the video - badly it would seem since you missed it - oh and I didn't miss bucking - this is just a guide not an instruction manual",
+        "likes": 0,
+        "published_at": "2023-02-04T10:25:20Z"
+      },
+      {
+        "id": "UgzF8kH0RQ-7tDifSp14AaABAg.9lgwdGFoFkY9li7OdRRNa_",
+        "author": "@guywhoknows",
+        "author_channel_id": "UCBALC-cNOivHvycbqW8tGdA",
+        "text": "@ThinkingandTinkering I was following along at  silly o'clock... I won't be watching it again  to check why I got that impression ... :)\n\nI think it (buck) would be worth a mention  as that is the consideration between the two. I know you said about the current v voltage tracking. But I have more people who don't understand this part of charging and types.",
+        "likes": 0,
+        "published_at": "2023-02-04T14:35:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxjeefMvsWK3r7LDKJ4AaABAg",
+    "author": "@donniewatson9120",
+    "author_channel_id": "UCjis31zfjRO7DbN2LvWcpTg",
+    "text": "Quote, \"If you're getting a half of a percent for a couple of thousand dollars, you can keep it.\" Here, Here, I totally agree!",
+    "likes": 1,
+    "published_at": "2023-02-04T02:34:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxjeefMvsWK3r7LDKJ4AaABAg.9lgptj39iEr9lhfwJfs9OA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2023-02-04T10:26:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzDRmXyCUBxcoeKqfh4AaABAg",
+    "author": "@LifelongExperience",
+    "author_channel_id": "UCyl2YQULBgWuEFMnobYIdVw",
+    "text": "Is there any easily obtainable source for charge controllers, for instance in a car or an old battery charger?\nI'm constructing a Darwin wind collector - mainly as a means of developing my 3D printing skills, but it would be nice if it would charge an old car battery or a couple of rechargeable torches!",
+    "likes": 3,
+    "published_at": "2023-02-04T01:47:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzDRmXyCUBxcoeKqfh4AaABAg.9lgk_A3NwHD9lhum5TZ_4G",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "Most car alternators have a regulator on the back. It might work.",
+        "likes": 1,
+        "published_at": "2023-02-04T12:36:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmzxA8w3JIN4OltdV4AaABAg",
+    "author": "@Spiritman597",
+    "author_channel_id": "UC9gezUPtU0n-HFuaTvUmPKg",
+    "text": "Can you do something else with the extra power that your sending to the dummy load to save the power that your getting versus just dumping it ?",
+    "likes": 1,
+    "published_at": "2023-02-04T01:42:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwN5RBVX8Rgd3BXLH94AaABAg",
+    "author": "@unsettled-h7v",
+    "author_channel_id": "UCJXQV6HWFon5J8uILuLZChw",
+    "text": "Now if I could just figure out how to draw energy from the Thames underneath my boat…",
+    "likes": 0,
+    "published_at": "2023-02-04T01:31:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxB3TNKd890ef2kpGZ4AaABAg",
+    "author": "@shortbuslife3440",
+    "author_channel_id": "UCrWJOj2XV8WtYwgwQ9uoVrA",
+    "text": "I'd say 90% correct as I sell them for Victron, only point I'd add is if your battery voltage is very similar to generator voltage then go with pwm if there is a large or frequent difference then go with mppt unless you're happy to lose alot of the power you generate.",
+    "likes": 11,
+    "published_at": "2023-02-04T01:00:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxB3TNKd890ef2kpGZ4AaABAg.9lgfBeu3Nlz9lhuOySgrdv",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "Victron gear is great! I have been building off grid systems for almost 12 years and Victron is my favourite.",
+        "likes": 2,
+        "published_at": "2023-02-04T12:32:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz5bHHJJC_tW8PsQ-l4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "With solar I prefer mppt, so the solar panel voltage. Can be much higher, for less losses in the wiring,.  Pwm is fine if the voltage is close to the battery voltage, I like 2x battery voltage, atleast, or up to 3x for mppt, with pwm say 16-18v for a 12v , and 32-36v for 24 v systems,  any more and the losses just multiply,  most charge controllers have limits,  if the voltage of the PV is pulled down much below the max power output, the efficiency falls fast, a decent mppt will keep it at a decent level,  and there is good affordable mppt out there,.  We need more mppt that will track turbines,  a solar mppt will keep the voltage pulled down stalling the turbine !",
+    "likes": 0,
+    "published_at": "2023-02-03T23:47:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzr30BNSZaT9IfgZid4AaABAg",
+    "author": "@nocturnmidnight",
+    "author_channel_id": "UCg-3BLODtvrg9FDBPbZonYw",
+    "text": "Awesome video. I have a pwm solar charge controller. Can I also connect a wind turbine to it? Do I have to get one specifically made for wind turbines?",
+    "likes": 0,
+    "published_at": "2023-02-03T22:37:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzr30BNSZaT9IfgZid4AaABAg.9lgPlB4WjyU9li8tET5uXh",
+        "author": "@borium",
+        "author_channel_id": "UCt6OKw55OK7HKAGagZQWrZg",
+        "text": "Yes you can use pwm on wind turbines but you have to make sure you have a dump load like a heater or somthing when the batteries are full as the wind turbine needs to have a constant load on it to keep it from spinning out of control and causing damage.Some of the larger turbines will just shut down but that is a much more complicated system.I think an mppt controller is a better fit for a wind turbine as it will ajust to the power output of the wind turbine in varying wind speeds as it will ajust to a wide range of varying voltages and covert it to the voltage system you are using be it 12 24 or so on.",
+        "likes": 0,
+        "published_at": "2023-02-04T14:48:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyiIvNRg4u8Kd-kVR54AaABAg",
+    "author": "@seelenschlucht",
+    "author_channel_id": "UCLHe2vyqLnNUAgrIeY-n1KA",
+    "text": "The video was very much interesting to me since i have very little clue how electronics work. It was also the point where i was stuck. I didn't know what to do with all that windpower on the roof of my gardenshed.",
+    "likes": 0,
+    "published_at": "2023-02-03T21:32:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzWacG5gkaQ6cfOdwp4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "Nice explanation and makes it fairly simple",
+    "likes": 0,
+    "published_at": "2023-02-03T20:51:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwkuvQFTC6TOfn9yIR4AaABAg",
+    "author": "@bretthorwood9396",
+    "author_channel_id": "UCya2tZZmmmoONJrledZNf8g",
+    "text": "I've played around with wind power in Sydney Australia and most of the time the blades don't spin, due to the fact minimum wind speed is required to overcome the internal things going on in the generator. So I get much better and consistent power from solar panels in a built up area like Sydney. MMPT IS actually a buck /boost inverter eg it will incerase the voltage when below change voltage and decrease the voltage when above charge voltage.",
+    "likes": 0,
+    "published_at": "2023-02-03T20:24:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwkuvQFTC6TOfn9yIR4AaABAg.9lgA_2Ci51f9xBrAdHxerb",
+        "author": "@wersonst-d4q",
+        "author_channel_id": "UC3DO2sTc73xkcg1RbhG99dQ",
+        "text": "no ,better wording than decrease would be translate   the voltage    as the voltage is allowed to rise  in an Mppt idea    and that  is important for a turbine",
+        "likes": 0,
+        "published_at": "2023-11-16T22:46:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzeokuXvnPnFiP3_HJ4AaABAg",
+    "author": "@BalticHomesteaders",
+    "author_channel_id": "UCDCF_7ASckhpF4q6F4abXLw",
+    "text": "Great video. I’d love to see some of your ideas installed and actually powering someone’s home. Is there a way to get viewer’s installations somehow? I know for one I’d love to have a windwall or 2 about the place :)",
+    "likes": 0,
+    "published_at": "2023-02-03T20:13:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwj-xD2Ncg1GnG0pj54AaABAg",
+    "author": "@rcbran",
+    "author_channel_id": "UCBu75NqJiqk9T3I_Sg2aT3A",
+    "text": "Great video content! Any chance of a DIY CO-safe tent heater?",
+    "likes": 0,
+    "published_at": "2023-02-03T19:48:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXjzWhwdTL-mlcYFZ4AaABAg",
+    "author": "@foxabilo",
+    "author_channel_id": "UCamhkqGGcoGdSRyGxdVj2Aw",
+    "text": "I design custom MPPT systems for solar and wind, it really can improve performance a great deal.",
+    "likes": 5,
+    "published_at": "2023-02-03T19:44:52Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgyXjzWhwdTL-mlcYFZ4AaABAg.9lg61cGwUxM9lhfHFPWMmt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I really don't doubt it does mate - but it does that at a cost and that cost is not always needed",
+        "likes": 2,
+        "published_at": "2023-02-04T10:20:48Z"
+      },
+      {
+        "id": "UgyXjzWhwdTL-mlcYFZ4AaABAg.9lg61cGwUxM9lhv8AHdQvZ",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "The other bonus is that the higher voltage from the panels in series, keeps the amps low and reduces the wire sizes needed.",
+        "likes": 0,
+        "published_at": "2023-02-04T12:39:23Z"
+      },
+      {
+        "id": "UgyXjzWhwdTL-mlcYFZ4AaABAg.9lg61cGwUxM9li4qffBTp1",
+        "author": "@foxabilo",
+        "author_channel_id": "UCamhkqGGcoGdSRyGxdVj2Aw",
+        "text": "@ThinkingandTinkering :D cost is not always a problem when you know a guy who designs them ;)",
+        "likes": 2,
+        "published_at": "2023-02-04T14:12:58Z"
+      },
+      {
+        "id": "UgyXjzWhwdTL-mlcYFZ4AaABAg.9lg61cGwUxM9li5VH3fx_K",
+        "author": "@foxabilo",
+        "author_channel_id": "UCamhkqGGcoGdSRyGxdVj2Aw",
+        "text": "@unicornadrian1358 Precisely, if your panel voltage and your battery voltage are very similar then PWM is absolutely fine, but as soon as your solar/wind voltage is significantly higher than your battery... then you can be loosing large %'s of your power, over 50% in many cases, and MPPT will intelligently buck that down and find the sweet spot knee on the power curve.",
+        "likes": 1,
+        "published_at": "2023-02-04T14:18:39Z"
+      },
+      {
+        "id": "UgyXjzWhwdTL-mlcYFZ4AaABAg.9lg61cGwUxM9xBrcPa_B6y",
+        "author": "@wersonst-d4q",
+        "author_channel_id": "UC3DO2sTc73xkcg1RbhG99dQ",
+        "text": "@ThinkingandTinkering   well  than do your research better ..... mate !",
+        "likes": 0,
+        "published_at": "2023-11-16T22:50:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzSkiPJyhoyYSCcSpV4AaABAg",
+    "author": "@matthewellisor5835",
+    "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+    "text": "Well, looks like my mention of Mike Davis' 555 based charge controller (that you can build for less than ordering a pizza and can easily scale to a household size) was memory-holed. Thanks for Fox Alpha yt.\nI expect that the mentioned (easily searchable) terms will provide those interested with the schematic.",
+    "likes": 0,
+    "published_at": "2023-02-03T19:36:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTqbY447ocpocsNGt4AaABAg",
+    "author": "@JohnSmith-ih1ic",
+    "author_channel_id": "UCBICsXJOKTjbZZRARzv0a5g",
+    "text": "I never run my inverter from the load side of the charge controller, I always connect direct to my battery bank...as had issues in the past of smoke escaping  😆",
+    "likes": 2,
+    "published_at": "2023-02-03T19:35:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwRCPxIY6hlOjei9iZ4AaABAg",
+    "author": "@DIYGUY1-2-3",
+    "author_channel_id": "UC1k5f-Ko8VGCyzfNhbDz4Kw",
+    "text": "Hi, So..... I have an old VW Beetle generator and its VW voltage regulator.... am I good to go? Plan on fitting a fan on the generator and mounting it on a pole, will I need to gear it or work it through pulleys to increase the speed?",
+    "likes": 0,
+    "published_at": "2023-02-03T19:01:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhO6ZNpzRTMmqtGnd4AaABAg",
+    "author": "@QuantumMarmalade",
+    "author_channel_id": "UCeg3dWTNH-_vXUf-OK-VzLQ",
+    "text": "Clearly Robert hasn't ever used them seriously head to head. There is no competition, for any application of charging mppt absolutely crushes pwm.",
+    "likes": 0,
+    "published_at": "2023-02-03T18:43:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwhO6ZNpzRTMmqtGnd4AaABAg.9lg-2Kxp5AB9lhfSyCDSAZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you missed the point mate - MPPT is better but it is better at a cost and sometimes that is not justified",
+        "likes": 0,
+        "published_at": "2023-02-04T10:22:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwV3dHwGCE8qfH09WN4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "ppps I just discovered your new(ish) other channel and program. Please read my previous.",
+    "likes": 0,
+    "published_at": "2023-02-03T18:37:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwV3dHwGCE8qfH09WN4AaABAg.9lfzGwbUfrD9lhfaxq_rZl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I only really have time to reply to some comments these days mate - I am sorry I missed yours - it's not I am being an ass - well I hope it isn't - it's more there are som nay comments it's just not possible for one person to answer them all and still do something else in a day",
+        "likes": 1,
+        "published_at": "2023-02-04T10:23:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxT0wUB8oNlE7RBCgJ4AaABAg",
+    "author": "@John_B55",
+    "author_channel_id": "UCj0cqqNRblAUq7g8e54nnow",
+    "text": "Or for a small  wind turbine, just use the AC directly by connecting it to a resistive load like a heater (in a sand battery) and cut out the rectifier/charge controller completely.",
+    "likes": 2,
+    "published_at": "2023-02-03T18:27:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxT0wUB8oNlE7RBCgJ4AaABAg.9lfyCRwyHIB9nCi8RVtvGH",
+        "author": "@adamoshea2793",
+        "author_channel_id": "UCunq7JqtemKjpP8IfTHb22w",
+        "text": "Cool idea I am currently working on a project at the moment that needs constant 35 degree water for the system to operate and wondering would a small wind turbine with a sand battery be a good alternative instead of just heating it up with electric from the grid.\n\nOnce the sand is at its max temperature that it can store how efficient is blowing cold air through pipes in terms of what percentage of energy is transferred from the sand into the cold air each second. \n\nWould this system be an effective way of keeping water at 35 degrees c 24/7",
+        "likes": 1,
+        "published_at": "2023-03-13T17:32:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyVJMbM5_B5l-mXmXh4AaABAg",
+    "author": "@richardsandwell2285",
+    "author_channel_id": "UCvF7BNro_bViy-bhKcl89nA",
+    "text": "One thing to remember is always have the charge controller energized and connected to the battery or bank of batteries before switching on or connecting inputs like solar panels and turbines.",
+    "likes": 14,
+    "published_at": "2023-02-03T18:11:08Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyVJMbM5_B5l-mXmXh4AaABAg.9lfwJ5sPhAa9lgjYeCUmy5",
+        "author": "@hoofheartedicemelted296",
+        "author_channel_id": "UC7P7Scmi9tYmgOAuG56ES4A",
+        "text": "Thanks Mr Sandwell for this very important piece of information.  I'm new to this, so I'm going to write this bit of info down on a post it and hang it somewhere I keep bumping into it to keep this in mind.👍",
+        "likes": 3,
+        "published_at": "2023-02-04T01:38:54Z"
+      },
+      {
+        "id": "UgyVJMbM5_B5l-mXmXh4AaABAg.9lfwJ5sPhAa9xXqLVmYouY",
+        "author": "@richardschofield2201",
+        "author_channel_id": "UCSAjIyTvfjGTnJf76nDnmOw",
+        "text": "Can someone explain why. Easier to remember if you know the consequences.",
+        "likes": 1,
+        "published_at": "2023-11-25T11:42:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBuDEpLe5XlTpi7o14AaABAg",
+    "author": "@StratRider",
+    "author_channel_id": "UCquylH-_zbILkpMLKUh3f2w",
+    "text": "This would be the perfect spot to also show the differences between pure sine waves vs modified sine waves.  Modern electronics prefer the pure sine but many items don't.",
+    "likes": 0,
+    "published_at": "2023-02-03T18:08:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-7_jkHQEO2ZQLGYN4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "pps I have loved your content since I found you in 2018. Chin up, fix it.",
+    "likes": 0,
+    "published_at": "2023-02-03T18:01:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwYlTo66lCS_Fo0oVN4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Great video and the diagrams are very helpful..great stuff. It is interesting how you explain MPPT vs PWM. My limited experience with MPPT has always been associated with Solar power and trying to maximize it, and PWM has always been with controlling motors (things like VFD' etc_...) or things like dimming circuits etc... Thanks for a new viewing angle!",
+    "likes": 4,
+    "published_at": "2023-02-03T17:58:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwlYrU-wMJUasceBY94AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Fin, peace out. Contact me Rob if you need a syllabus or outline.\nV/r  kas",
+    "likes": 0,
+    "published_at": "2023-02-03T17:57:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzimUuYVqfRl_9r01V4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Rob, you owe everyone eleven minutes and thirteen seconds, at least.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:56:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzimUuYVqfRl_9r01V4AaABAg.9lfucy86M249lfvylI6C0P",
+        "author": "@marcfruchtman9473",
+        "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+        "text": "? What are you talking about?",
+        "likes": 1,
+        "published_at": "2023-02-03T18:08:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgznTdOTQoGk5RwzPhh4AaABAg",
+    "author": "@ThomasAndersonbsf",
+    "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+    "text": "seems like they need a better term for things than direct current, but maybe shifted AC with a 0 or something 0sAC? since it is basically AC waves that are shifted 50% so that the voltage does not shift back the other way, but rather shifts further in to one pole so it only reaches the \"zero mark\" rather than fully or partially to the other side of the mark of 0 volts?",
+    "likes": 0,
+    "published_at": "2023-02-03T17:56:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwm7d-cw0UE4QifJ2V4AaABAg",
+    "author": "@redrocket-u8e",
+    "author_channel_id": "UCa6GKjAwvRtSlfYp0-ScVzQ",
+    "text": "rob do a video on lead acid and  ni cad  batteries  which is better your the man for it thanks",
+    "likes": 0,
+    "published_at": "2023-02-03T17:55:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxm_JjY2wrZ0ZdKEa94AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Power conversion losses are what steal our hard earned (electrical) energy. Resistance, reluctance, impeadance, et. al., create heat in components. How do we minimize these losses?\nCarefully, with due considersation.",
+    "likes": 2,
+    "published_at": "2023-02-03T17:54:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxm_JjY2wrZ0ZdKEa94AaABAg.9lfuRsO_g9W9nQtL_t4P_2",
+        "author": "@mookiemorjax",
+        "author_channel_id": "UCRRTZYilaqfR_bM59VhBNeg",
+        "text": "Or if you're in a heating climate, can you just put these components indoors and utilize the waste heat as a space heating offset?",
+        "likes": 0,
+        "published_at": "2023-03-19T05:40:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgziWMou6BvyfTPwYV94AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "2nd L Thermo: Power can neither be created nor destroyed, only converted in form.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:53:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwFj2KUwP_3DedcftR4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "What is a power conversion loss? See the 2nd Law of Thermodynamics!",
+    "likes": 0,
+    "published_at": "2023-02-03T17:51:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztxjPxg0j5bziIMRN4AaABAg",
+    "author": "@Engineerd3d",
+    "author_channel_id": "UCVYxpZ1B3c41ZysowqKMXsg",
+    "text": "I had a very decent PWM controller on my solar panels. I got somewhere in the 150w range due to running a 12v system. I upgraded to MPPT and now get somewhere in the 200-280w range. It cost 100USD to buy the controller. VS the PWM controller that was name brand cost in the same neighborhood price. -150usd. If your running modern panels, which run in the 30-40v range and try to charge 12v batteries your leaving allot on the table.",
+    "likes": 9,
+    "published_at": "2023-02-03T17:51:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxD7Q4aXEPr4m7nrr54AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Why is a PWM/MPPT necessary? To mimimize power conversion loss.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:50:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwY5KsP4idRZv6mFAl4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Youve mastered storage tech. Lets go back and do basic physics FIRST.\n\nNrg balance eq:\nE(s)=E(i)-E(o)",
+    "likes": 0,
+    "published_at": "2023-02-03T17:49:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwDJv79lnA1FAA1Ygt4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Mark this one as a \"Whoops.\" Leave it up as a (learning) lesson on why NOT to \"run to the press\"  with the first version.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:46:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzDb3TQ59sbjmPQH-x4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Rob, theres this thing called\nCOLLABORATION.\nTry it please.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:43:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzDb3TQ59sbjmPQH-x4AaABAg.9lft80g-ppb9lg1iyYwM_O",
+        "author": "@canberradogfarts",
+        "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+        "text": "Just discovered Robs other, somewhat hidden by ewetoobs algorythm, channel and program that includes collabs.",
+        "likes": 1,
+        "published_at": "2023-02-03T19:07:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwtmEPXZds2G-f7j894AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Damn man make q MAGAMP for crying out loud THEN attempt MPPT!",
+    "likes": 0,
+    "published_at": "2023-02-03T17:38:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyVSUp52RxDXEmguP94AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Thanks for the master class!  👏",
+    "likes": 2,
+    "published_at": "2023-02-03T17:38:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx2fbn0ZIqhulIDaNV4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "I mean, you just spent all that bandwidth \"teaching\" us about windings etc. Why couldnt you actually teach about magnetics PROPERLY.\nHyterysis vs frequency\nSaturation.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:38:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx2fbn0ZIqhulIDaNV4AaABAg.9lfsXml0yTZ9lhipoI-0H4",
+        "author": "@joeds3775",
+        "author_channel_id": "UCoRngRotDFpvoV7VSA9nOPA",
+        "text": "Dude. Go start your own channel. Stop shitting on someone else's parade. You don't have to watch. You don't have to subscribe. You don't have to post comments. You don't have to be a dic*. You just chose too.",
+        "likes": 0,
+        "published_at": "2023-02-04T10:51:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw612QjCiKhqVygAMl4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "I made my own 1kw mppt 23 yrs ago using MML. For frogs snacks Rob, try again!",
+    "likes": 0,
+    "published_at": "2023-02-03T17:35:11Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw612QjCiKhqVygAMl4AaABAg.9lfsBs2TBgk9lftDYH7g8K",
+        "author": "@canberradogfarts",
+        "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+        "text": "\"Mickey Mouse Logic\"",
+        "likes": 1,
+        "published_at": "2023-02-03T17:44:09Z"
+      },
+      {
+        "id": "Ugw612QjCiKhqVygAMl4AaABAg.9lfsBs2TBgk9lfvoHA7Drl",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "everyone loved \"ferranti\" inverting Schmitt triggers ",
+        "likes": 1,
+        "published_at": "2023-02-03T18:06:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx_5BtNUH2mAOwe4954AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "Bob, you straight up screwed the pooch on this one!",
+    "likes": 0,
+    "published_at": "2023-02-03T17:30:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxr5Ak6SvKwQj2xx214AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "There is no maybe. MPPT Controllers.\n\nFor crying out loud, YOUR battery argument...\n\nExpesive battery that lasts 27 years\n\nCheap batteries that last 1 year\n\nMPPT are at least 20% more efficient than PWM\n\nMPPT can be homebrewed just as easily as PWM. Use and Arduino to control IGBTs.\n\nFFS This is a no brainer",
+    "likes": 0,
+    "published_at": "2023-02-03T17:29:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwcAWkhE8-sec8vFtB4AaABAg",
+    "author": "@mattg6472",
+    "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+    "text": "Hey Rob have you seen these new ground battery commercials on you tube . There are a bunch of replica commercials with different people saying the same thing about this \"new\" power source from the ground making you independent , and emergency safe",
+    "likes": 0,
+    "published_at": "2023-02-03T17:28:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5zQOslQT2jg09oQB4AaABAg",
+    "author": "@canberradogfarts",
+    "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+    "text": "You're making this sooo much harder than it needs to be.",
+    "likes": 0,
+    "published_at": "2023-02-03T17:23:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5zQOslQT2jg09oQB4AaABAg.9lfqoq3PUnm9lftPLoKay1",
+        "author": "@De_Raaf",
+        "author_channel_id": "UCgs7iYW3Bc2UjePCDMY2r2A",
+        "text": "Why?",
+        "likes": 0,
+        "published_at": "2023-02-03T17:45:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyGkNB4-wVYN1h8VXR4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "MPPT is about the  neither the power source, or the load. It's about setting the  load's  apparent resistance to the source such that the maximum power flows out of the source and into the load  battery and other electronic equipment.  MPPT adjust the apparent resistance of the load as it appears to the source.  \n\n\nHere is the theory. \nTake a solar panel, Let's say in full sun, it's unloaded output is 20 volts, and its short circuit currentb is 5 amps:\n\n1) 20 volts/practically infinite resistance = 0 amps, and 20v × 0amps = 0 watts.  \n2) Or when we short it and the pannel outputs 5 amps.  Then 5 amps × nearly zero resistance = 0 volts.  And 0 volts × 5 amps = zero watts.   At these two extreme there is no power transfered. But there is a resistance in between  between ware the maximum  power flows from the source and through the MPPT controller.    \n\nMPPT adjust the apparent resistance of the load as it appears to the source.",
+    "likes": 3,
+    "published_at": "2023-02-03T17:16:02Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgyGkNB4-wVYN1h8VXR4AaABAg.9lfq-ZkqtGJ9lfy7fteN7W",
+        "author": "@aware2action",
+        "author_channel_id": "UCBzzlhIwomrAnuCGs-kMHcA",
+        "text": "Also almost all regulators involving wide range of input and output voltage/current use high efficiency switching regulators. One case PWM would work well is, if the output of the solar cell is matched to the battery voltage. The loading effect of increasing duty cycle tries to bring down the output voltage of the solar cell to the desired charging voltage. MPPT on the other hand boost/buck the voltage levels (through high freq switching regulators) to maintain optimal loading by the battery being charged. PWM is simpler and more reliable in general, but a little bit less efficient and cost effective. The same cannot be said for MPPT controllers on the market(esp. the cheaper ones).",
+        "likes": 0,
+        "published_at": "2023-02-03T18:27:03Z"
+      },
+      {
+        "id": "UgyGkNB4-wVYN1h8VXR4AaABAg.9lfq-ZkqtGJ9lg3eUKdYrH",
+        "author": "@canberradogfarts",
+        "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+        "text": "Mmmmm \nYes\n\nand no. Rob isnt an EE. Heʻs a ChemE. So, you just allotropically phase transformed his stoiciometry past the vapor, triple point.",
+        "likes": 1,
+        "published_at": "2023-02-03T19:24:05Z"
+      },
+      {
+        "id": "UgyGkNB4-wVYN1h8VXR4AaABAg.9lfq-ZkqtGJ9lg5xQ-7tOr",
+        "author": "@aware2action",
+        "author_channel_id": "UCBzzlhIwomrAnuCGs-kMHcA",
+        "text": "@canberradogfarts  But Rob is spot on in most cases, simple and elegant, being one of the reasons I subscribed. His conversational style, is also soothing and helps overcome sporadic dopamine deficit.",
+        "likes": 0,
+        "published_at": "2023-02-03T19:44:09Z"
+      },
+      {
+        "id": "UgyGkNB4-wVYN1h8VXR4AaABAg.9lfq-ZkqtGJ9lgBCF09M_h",
+        "author": "@canberradogfarts",
+        "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+        "text": "@aware2action I almost completely agree with you 100%. Which is why this was such a dissapointment. This video was too clever by half and completely wrong in fundemental concepts. Which he could have prevented had he done more homework. MPPTs are VERY old, the technology, circuitry and theory go back to at least the 1950s. Ampldynes and mag amps are still in manufacture today that were originally designed during,  WWII, USING MPPT.\nIts old, its mature, and it is SIMPLE. Yet Rob missed the mark. Not out of malice or incompetance. He got ahead of himself, he got, for lack of a politely British word, lazy. \n\nRobs not an Electrical Engineer. He is a Chemical Engineer. He should have done a week or two of expl8cit homework on the subject and written a script, IMHO.\nfin",
+        "likes": 1,
+        "published_at": "2023-02-03T20:30:00Z"
+      },
+      {
+        "id": "UgyGkNB4-wVYN1h8VXR4AaABAg.9lfq-ZkqtGJ9lgJtZNGPhu",
+        "author": "@Infinion",
+        "author_channel_id": "UC24jAl_d52dEpprDJyw-4fA",
+        "text": "@canberradogfarts he only made this video because someone in the comments was complaining that he only covers energy generation and not the portion concerned with connecting the battery/energy storage. So Rob said Okay I'll do a video. The guy is spread thin with managing the fan's whims and he is committed to daily videos covering wide ranges of topics. \n\nThis topic of charge controllers for energy harvesters is widely covered on YouTube BECAUSE it is a mature technology, this is just a summary in the style of his videos and it was fine for that purpose. What this community needs isnt the most clever ideas but some form of self-organization so RMS can juggle less responsibilities. I prefer a forum, myself.",
+        "likes": 1,
+        "published_at": "2023-02-03T21:45:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy3Ds0lX8oI5Tr1TWV4AaABAg",
+    "author": "@brad0nja",
+    "author_channel_id": "UCVqXVxij6UeLoYNz5c5esNg",
+    "text": "I know that my question is not related with current video, but I have to ask... Are you assembling a Dalek? ;)",
+    "likes": 4,
+    "published_at": "2023-02-03T17:13:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-DBZJrMooZe1kC8l4AaABAg",
+    "author": "@stewiex",
+    "author_channel_id": "UCM10XkEswdz1M_bxIS-iBLw",
+    "text": "Very interesting! Thank you for this video!",
+    "likes": 0,
+    "published_at": "2023-02-03T17:10:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_sXBk5KVnR58J0xZ4AaABAg",
+    "author": "@objection_your_honor",
+    "author_channel_id": "UCgHpRxImkGOIrj2jfJeOFOw",
+    "text": "I built my own using a 555 timer, a 78L05 regulator, 2 GP transistor, 2 mosfets and a handful of passive components. \nI needed one for my DIY wind turbine asap, and didn't want to wait months ordering one from China. \nAdjusted the potentiometer to stop charging at 14V, charging a 12V SLA battery. If it goes over 14V, the power is diverted to the 10 Ohm 100W dump resistor. \nWorks like magic! MPPT is for systems > 1KW. Otherwise, you're wasting your money.",
+    "likes": 3,
+    "published_at": "2023-02-03T17:06:06Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugy_sXBk5KVnR58J0xZ4AaABAg.9lforpSZJPR9lg4KuV-Vd8",
+        "author": "@canberradogfarts",
+        "author_channel_id": "UCmWvt9L05BmGVWSd0976cLA",
+        "text": "Uhhhhh FALSE!\n\nGet an Arduino and learn It is literally easier than what you did. Plus, what you did is so 1976. I hope who ever is grading you project is a social studies instructor and not a competant science instructor. Really. You should be using the best, least tech thats been around for two decades, not six decades.",
+        "likes": 0,
+        "published_at": "2023-02-03T19:30:01Z"
+      },
+      {
+        "id": "Ugy_sXBk5KVnR58J0xZ4AaABAg.9lforpSZJPR9lg5CdbBwEr",
+        "author": "@objection_your_honor",
+        "author_channel_id": "UCgHpRxImkGOIrj2jfJeOFOw",
+        "text": "@canberradogfarts I was using Microcontrollers when you were in diapers little man. How old were you back in 1982?",
+        "likes": 0,
+        "published_at": "2023-02-03T19:37:38Z"
+      },
+      {
+        "id": "Ugy_sXBk5KVnR58J0xZ4AaABAg.9lforpSZJPR9liFpRkONcD",
+        "author": "@mememan2344",
+        "author_channel_id": "UCRuWm-3vK94e15jXkB8frPg",
+        "text": "@canberradogfarts what he did cost pence and works exactly like you'd want it to.",
+        "likes": 0,
+        "published_at": "2023-02-04T15:48:55Z"
+      },
+      {
+        "id": "Ugy_sXBk5KVnR58J0xZ4AaABAg.9lforpSZJPR9yg2QxMLSBR",
+        "author": "@TheInsultInvestor",
+        "author_channel_id": "UCJocL6xHz9Ay5HZmuCmzo_g",
+        "text": "You're both wrong. Also, take your new fall apart phone controlled gen z 'tech' and shove it@canberradogfarts",
+        "likes": 0,
+        "published_at": "2023-12-23T22:01:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZuxfcS4g7zyPDhsF4AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "Hi not being part of the electronic community, this video is extremely useful to me, informative & handheld information. Thank you. 👍🐝🌞",
+    "likes": 2,
+    "published_at": "2023-02-03T17:05:12Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwZuxfcS4g7zyPDhsF4AaABAg.9lfolFk5tRy9lfoyj_oYIq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 1,
+        "published_at": "2023-02-03T17:07:03Z"
+      },
+      {
+        "id": "UgwZuxfcS4g7zyPDhsF4AaABAg.9lfolFk5tRy9lfp_u3_lA-",
+        "author": "@jimdaly5077",
+        "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+        "text": "@ThinkingandTinkering you always are. 👌🌞🙃",
+        "likes": 0,
+        "published_at": "2023-02-03T17:12:23Z"
+      },
+      {
+        "id": "UgwZuxfcS4g7zyPDhsF4AaABAg.9lfolFk5tRy9lh6RcEB8E0",
+        "author": "@rossbixley3173",
+        "author_channel_id": "UCzbI4wA73iOVURl6LV-U7Ew",
+        "text": "@ThinkingandTinkering   \nWhy can't we use regenerative braking.\nDoesn't it make sense to add a freewheeling generator into the system ?",
+        "likes": 0,
+        "published_at": "2023-02-04T05:07:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwv16s2jPBmlYqDB9x4AaABAg",
+    "author": "@VacuumTube88",
+    "author_channel_id": "UCOF6udRdBvEhnLXPcByl3Kg",
+    "text": "Question: I've made a small zinc-bromine battery, put it in parallel with a small supercapacitor (made following one of your videos) and connected to a small solar stirling (is a glass tube with steel wool and partially painted black, closed with a ballon with a linear generator and a diode to rectify the output). It seems to be fine as it is, it charges during the day and lights a small led the whole night (never measured how long it would last). In the small scale I did not use a charge controller, if I want to upscale the project, do Ineed a charge controller for the zinc-bromine batteries?",
+    "likes": 1,
+    "published_at": "2023-02-03T16:58:13Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwv16s2jPBmlYqDB9x4AaABAg.9lfny2Cre__9lhudY8c-iK",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "If the generator voltage greatly exceeds the battery voltage, yes. Also need to make sure the current going in is not excessive, otherwise your batteries will use a lot of water due to gassing.",
+        "likes": 1,
+        "published_at": "2023-02-04T12:35:03Z"
+      },
+      {
+        "id": "Ugwv16s2jPBmlYqDB9x4AaABAg.9lfny2Cre__9liK5i1joTW",
+        "author": "@VacuumTube88",
+        "author_channel_id": "UCOF6udRdBvEhnLXPcByl3Kg",
+        "text": "@unicornadrian1358 thanks",
+        "likes": 1,
+        "published_at": "2023-02-04T16:26:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwiU_WVcLJTEmqjk9h4AaABAg",
+    "author": "@chiperchap",
+    "author_channel_id": "UCEHnSJ_pXT1xWWrCsjkSSbg",
+    "text": "Great informative video rob.",
+    "likes": 2,
+    "published_at": "2023-02-03T16:56:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6rJCHnDBejvDFNLp4AaABAg",
+    "author": "@SeaforgedArtifacts",
+    "author_channel_id": "UCXpCYGkCTYfIsai8WitS-JQ",
+    "text": "One nice thing is that MPPT can modulate your voltage from a 12-24v generator to a higher voltage like 48v and also reduce the risk of damage to lipo and li-ion batteries",
+    "likes": 0,
+    "published_at": "2023-02-03T16:55:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGQCEJ2zTZgRDoyeF4AaABAg",
+    "author": "@David_Mash",
+    "author_channel_id": "UC6wheNORAmFmkPA_fx7J6Pw",
+    "text": "A good brain teaser is how can we generate DC without rectification?",
+    "likes": 0,
+    "published_at": "2023-02-03T16:51:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQ0fZuD2-K_Zn2slt4AaABAg",
+    "author": "@cymacymulacra2301",
+    "author_channel_id": "UCb05I2ob-_mmn90LpGKEqxw",
+    "text": "Great overview of basic power controllers!!! Starting to get into senior-year engineering economics, tho.  Sounds like an awesome application for your ultra-robust AC carbon bacitors configured to the desired voltage range with your fractal relay array.  Wouldn't that be cheap, powerful, and safe?",
+    "likes": 1,
+    "published_at": "2023-02-03T16:31:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOETul7U5IEW4gOhJ4AaABAg",
+    "author": "@Bigman-hi2ne",
+    "author_channel_id": "UCqM7iHRXeByhlTKPCLXlP3A",
+    "text": "Awesome video. Believe it or not finding this info on the internet is a total pain in the neck.",
+    "likes": 5,
+    "published_at": "2023-02-03T16:28:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzaodgUhzrSjtzU8j14AaABAg",
+    "author": "@toml.8210",
+    "author_channel_id": "UCc-YRPmzu2f_QoBiyhGGmdA",
+    "text": "Will we be tested  over this material next week?",
+    "likes": 1,
+    "published_at": "2023-02-03T16:25:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwMYTiDxvbykU3KUb14AaABAg",
+    "author": "@jamesemery1",
+    "author_channel_id": "UCZfznuiKTq6umkmqxMFNJYQ",
+    "text": "much better picture quality today was yesterday just an aberration?",
+    "likes": 0,
+    "published_at": "2023-02-03T16:24:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJNuMWqGtLlI4WwtV4AaABAg",
+    "author": "@Laser2120",
+    "author_channel_id": "UCnBZLrtX_L3sHkuoKJK5LeA",
+    "text": "I haven't really played about with wind generation I was under the impression you needed a different type of charge controller to let the blades spin up before applying the load and also varying the load depending on wind conditions",
+    "likes": 2,
+    "published_at": "2023-02-03T16:11:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgySNSz0Ksfd8e4Q4YJ4AaABAg",
+    "author": "@cyberlizardcouk",
+    "author_channel_id": "UCleBbSMmhnWNCQhBE7qdqmQ",
+    "text": "another idiots video might be the process of connecting a turbine to the thing it attaches to, for example how do you stop the windmill falling off the post.",
+    "likes": 0,
+    "published_at": "2023-02-03T16:11:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxN8-FI3nnYZEPk15h4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Forget all that with a sand battery but you may need to know it when the sand battery is full.",
+    "likes": 0,
+    "published_at": "2023-02-03T16:09:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqeeVghp5Qm0dTuzR4AaABAg",
+    "author": "@grazianoturbogas",
+    "author_channel_id": "UCFZA1JQFFL9fKAJO776LREw",
+    "text": "As always: \"NOT SO FAST MY DEAR!\" If for example your battery is empty, and the wind blows lightly, at first the voltage produced raises up, then your switch close, a lot of amps flows (maybe also in a pre programmed amount) and your wind turbine slows down till stop.\nThan the switch open up again, the turbine without load resistance turns up againg until reached the desired voltage closing the charging switch, will came back again to a full stop (or so)...\nThen?\nHow do I set the amps to allow to flow not knowing how much wind is blowing?\n??????????????????????????????????????????????????????????????????????????\nAnd there falls the donkey! (As We say in Italy)",
+    "likes": 0,
+    "published_at": "2023-02-03T16:07:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-ASl9aAYuQYuweCZ4AaABAg",
+    "author": "@mfr58",
+    "author_channel_id": "UCSpqTNmBrNFGYOVVA-K2fNw",
+    "text": "The other good thing about mppt is that you don't have to match your battery voltage to your input voltage, which can be quite useful. I've got 67volt of solar module with a 24V battery, which I couldn't do with PWM charge controllers.",
+    "likes": 7,
+    "published_at": "2023-02-03T16:04:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw-ASl9aAYuQYuweCZ4AaABAg.9lfhoTLGF1M9lflAXdGMVT",
+        "author": "@cymacymulacra2301",
+        "author_channel_id": "UCb05I2ob-_mmn90LpGKEqxw",
+        "text": "So let me just ask - if you ONLY had a PWM controller, would you have to shunt excesses to a power dump, like a heating element?",
+        "likes": 0,
+        "published_at": "2023-02-03T16:33:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7cp6HV0o-m9XU_Ch4AaABAg",
+    "author": "@petevenuti7355",
+    "author_channel_id": "UCHosuxST005Afqwq0OjGzbQ",
+    "text": "Is there any reason you can't imagine why I shouldn't use a wind turbine charge controller with a solar system? Because I was thinking of connecting my grid tie inverter to the dump load... And drawing my power directly from the battery system. Do you see any problems with that configuration?",
+    "likes": 0,
+    "published_at": "2023-02-03T16:04:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8spcZKZNRtZkxQKZ4AaABAg",
+    "author": "@ur_quainmaster7901",
+    "author_channel_id": "UCL0zGrYuGYLnhvfmtQU_2OA",
+    "text": "\"you aren't going to be programming a MPPT controller\"  Yes, probably not.... But if you know how to  ask the right questions, I'd bet ChatGPT could do it for you. I can't get over how good it is. Scary, really.\n\nA lot of people are about to lose jobs. If you haven't tried it out, you are letting the Next Big Thing™ sneak up on you.",
+    "likes": 0,
+    "published_at": "2023-02-03T16:04:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8OUSewsJJ3OAXK9p4AaABAg",
+    "author": "@EastBayFlipper",
+    "author_channel_id": "UCQnoVp925RgwbJH-uQmLuVg",
+    "text": "Put the dump load resister into a sand battery and get the extra heat over an extended time.",
+    "likes": 4,
+    "published_at": "2023-02-03T16:03:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy5_duOVyikSm6bneN4AaABAg",
+    "author": "@wocookie2277",
+    "author_channel_id": "UCNDj20FXMLese6PxvA3Stjw",
+    "text": "Could you hook up an electric stove element in a sand battery directly to a wind turbine?",
+    "likes": 4,
+    "published_at": "2023-02-03T16:01:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyn1NcQLDe9o2b1pfN4AaABAg",
+    "author": "@petevenuti7355",
+    "author_channel_id": "UCHosuxST005Afqwq0OjGzbQ",
+    "text": "I understand high efficiency monocrystalline solar cells have a rapid drop in efficiency when used in off angle and defuse (cloudy) light, however lower efficiency amorphous cells have a slower drop in efficiency under the same conditions. Does ANYBODY test solar cells in those less than optimal conditions ? I want to know under what circumstances an amorphous cells will outproduce a high efficiency monocrystalline cell‽\n    If there is no consistent testing, can we start a site that would show test curves?\n   If you are into that, we will have to come up with a plan for the \"standard test condition\" \nWhat do you recommend?",
+    "likes": 1,
+    "published_at": "2023-02-03T16:00:38Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "Ugyn1NcQLDe9o2b1pfN4AaABAg.9lfhNL-vYC49lfljcEUkgg",
+        "author": "@hommerdalor6301",
+        "author_channel_id": "UCH9ImhaUmbRX3DxT4Hbo4_w",
+        "text": "Hello.\nmr carlson’s lab did that kind of tests.\nCheers.",
+        "likes": 0,
+        "published_at": "2023-02-03T16:38:46Z"
+      },
+      {
+        "id": "Ugyn1NcQLDe9o2b1pfN4AaABAg.9lfhNL-vYC49lgNypxnWH3",
+        "author": "@hommerdalor6301",
+        "author_channel_id": "UCH9ImhaUmbRX3DxT4Hbo4_w",
+        "text": "Sorry, it’s not mr carlson’s lab, I’m still searching for the video. 😅",
+        "likes": 0,
+        "published_at": "2023-02-03T22:21:38Z"
+      },
+      {
+        "id": "Ugyn1NcQLDe9o2b1pfN4AaABAg.9lfhNL-vYC49lgXBHOrb4e",
+        "author": "@petevenuti7355",
+        "author_channel_id": "UCHosuxST005Afqwq0OjGzbQ",
+        "text": "@dedu456 yes it does, and by testing conditions how do you define the diffused lighting condition at what angle do you test indirect lighting at. \n   What ever is done for rating a solar panel has to be done at some standard condition.\nAnd I would like that condition to resemble more like real life, then at a 90-degree angle on the equator on the sunniest day possible.\n   I'm hoping some of us YouTubers can come together define a standard and test what we have, plus we may be willing to get, and upload the results, both to YouTube and a specific website for collecting all the results. In that way benefiting all from the knowledge that the manufacturers would never be willing,or even able to coordinate, to get results on.\n   Are you with me‽",
+        "likes": 0,
+        "published_at": "2023-02-03T23:42:07Z"
+      },
+      {
+        "id": "Ugyn1NcQLDe9o2b1pfN4AaABAg.9lfhNL-vYC49lgYFvvWHF6",
+        "author": "@petevenuti7355",
+        "author_channel_id": "UCHosuxST005Afqwq0OjGzbQ",
+        "text": "@hommerdalor6301 if you find it, that would be great, especially if he already has a database and a standard testing condition. Hopefully he will join the bandwagon.",
+        "likes": 0,
+        "published_at": "2023-02-03T23:51:29Z"
+      },
+      {
+        "id": "Ugyn1NcQLDe9o2b1pfN4AaABAg.9lfhNL-vYC49lgYViav8LO",
+        "author": "@petevenuti7355",
+        "author_channel_id": "UCHosuxST005Afqwq0OjGzbQ",
+        "text": "What about you Mr. Robert Murray-smith? You have plenty of test equipment, and the knowledge to help define a good testing condition.",
+        "likes": 0,
+        "published_at": "2023-02-03T23:53:38Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5HThBef7MMcNP1nV4AaABAg",
+    "author": "@UndergroundLiving",
+    "author_channel_id": "UC5xaFYp67ARioxaQ0Ho5MoQ",
+    "text": "If you were using it to heat a sand battery couldn’t you hook it up directly to the heat element?",
+    "likes": 8,
+    "published_at": "2023-02-03T15:53:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5HThBef7MMcNP1nV4AaABAg.9lfgZ5DZe4k9lfhacmWqnY",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "If I were using it to heat a sand battery, I would take advantage of the Lenz effect and just heat a copper plate and use a heat exchanger to extract the heat.",
+        "likes": 2,
+        "published_at": "2023-02-03T16:02:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx-wXHJ6voIeSkDY0V4AaABAg",
+    "author": "@SecretState",
+    "author_channel_id": "UC0dcZyGjaJ-yFRvkJ4tE2yw",
+    "text": "Many years ago on Dragon’s Den (UK) there was a man who had developed a gear system that increase the end upturn to a 8x the out put of a normal gear system ….I wonder what happened to him he wouldn’t sell out to the dragons and decided to walk away 💚✌️",
+    "likes": 2,
+    "published_at": "2023-02-03T15:49:56Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugx-wXHJ6voIeSkDY0V4AaABAg.9lfg8x-v6BM9lfg_xAHdmg",
+        "author": "@D-B-Cooper",
+        "author_channel_id": "UCDn8S_vHItdRK_Eq9fRFnUA",
+        "text": "He died a trillionair by inventing over unity.",
+        "likes": 0,
+        "published_at": "2023-02-03T15:53:45Z"
+      },
+      {
+        "id": "Ugx-wXHJ6voIeSkDY0V4AaABAg.9lfg8x-v6BM9lfq2AVcPQT",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "Just remember, the more output gears you have the harder it is to turn the input gear. Its like trying to get your car rolling in High gear.",
+        "likes": 2,
+        "published_at": "2023-02-03T17:16:23Z"
+      },
+      {
+        "id": "Ugx-wXHJ6voIeSkDY0V4AaABAg.9lfg8x-v6BM9lg2h8gk8GM",
+        "author": "@SecretState",
+        "author_channel_id": "UC0dcZyGjaJ-yFRvkJ4tE2yw",
+        "text": "@dedu456 that’s the guy 🤔 thanks for that I though I was going mad 😂😂💚✌️",
+        "likes": 1,
+        "published_at": "2023-02-03T19:15:43Z"
+      }
+    ]
+  }
+]

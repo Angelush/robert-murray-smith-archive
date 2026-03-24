@@ -1,0 +1,134 @@
+[00:03] so I'm working on various bits and
+[00:05] pieces of things a friend of mine wrote
+[00:07] to me and he's doing a 3d printed glove
+[00:10] and what he wants to be able to do is
+[00:12] print the components of that glove
+[00:14] because always using our additional
+[00:16] components that he has to put on and it
+[00:18] made me think what would be useful and
+[00:21] in terms of a conductive 3d printing
+[00:24] filament and I came across this now
+[00:27] obviously what you need for a3
+[00:30] development is something I'll go through
+[00:31] the heating head something's got a lower
+[00:33] melting point so essentially you're
+[00:35] looking for a lower melting point
+[00:36] plastic and this stuff is called polymer
+[00:39] you can buy it at Radio Shack or
+[00:41] Macklin's and lots and lots of places
+[00:43] get it on eBay and generally on the web
+[00:45] and it's not that expensive that's about
+[00:48] I think half a kilo in there and it cost
+[00:51] me about 10 pounds something like that
+[00:54] so not massively expensive stuff and you
+[00:57] mix that with the conductive element now
+[00:59] the conductive element use can become
+[01:01] black or in my case of course the
+[01:04] graphite powder could have got a ton of
+[01:06] this stuff and this is 5 micron pounded
+[01:10] flat graphite so extremely conductive
+[01:12] and good to use in this now the ratio of
+[01:15] the plastic to the graphite is going to
+[01:17] be something you're going to have to
+[01:18] experiment with but there is a level at
+[01:21] which it won't conduct underneath but if
+[01:23] you get it too high it won't go through
+[01:25] your head under and somewhere between 15
+[01:28] to 40 percent it's going to be about
+[01:31] right it's going to be the right balance
+[01:33] between
+[01:33] activity and flexibility for getting
+[01:36] through the print now you might think
+[01:38] what you have to do is melt this stuff
+[01:40] stir in the graphite hair presto you've
+[01:42] done and you can try that if you like
+[01:44] but it's a nightmare it definitely
+[01:46] creates a huge sticky mess and it still
+[01:49] remains quite thick before it starts to
+[01:51] burn and the graphite just wouldn't go
+[01:52] in there so the methodology used and
+[01:55] this is from a paper incidentally it's
+[01:56] called a simple low cost conductive
+[01:59] composite material for freedom printing
+[02:02] of electronic sensors if you burn it
+[02:03] insert your 5 mat and what they do is
+[02:06] use a solvent extraction of solvent
+[02:09] castigated in a solvent casting method
+[02:11] you dissolve the plastic in a solvent
+[02:13] and the graphite to it stir it for about
+[02:16] an hour and let it dry let all the salt
+[02:18] evaporate off unfortunately the solvents
+[02:21] that you have to use for this stuff are
+[02:22] not very nice this one is that Laura
+[02:26] methane and this does a really good job
+[02:28] at dissolving the point you can also use
+[02:31] acetone and you can use ether a subject
+[02:34] that'll do a good job of it as well an
+[02:37] attention the cornea solvent in human it
+[02:39] has this now it's about 100 milliliters
+[02:41] of solvent and about seven and a half
+[02:45] grams of this stuff you pour it in stir
+[02:48] it until it dissolves it takes a while
+[02:50] took about an hour for it dissolved and
+[02:52] dissolve once it's dissolved you add
+[02:55] your graphite powder to it and you add
+[02:58] the powder that is to save anywhere
+[03:00] between 15 and 40 percent and you need
+[03:02] to do a number of tests just to work out
+[03:04] what your powder is going to do now is
+[03:07] 40 percent incidentally and it produces
+[03:10] quite a nice plastic and once you've
+[03:12] done that you then leave it on the
+[03:14] stirrer on your stirrer it by hand for a
+[03:16] further hour
+[03:19] so once you've got the plastic to
+[03:21] dissolve then you round at one point one
+[03:23] to five grams of graphite to it and this
+[03:27] is the five micron graphite that we use
+[03:30] for just about everything and you stir
+[03:33] it for an hour
+[03:34] and after the end of that hour we set it
+[03:36] somewhere to evaporate so once it's
+[03:37] finished on the stirrer just pour it
+[03:39] onto a Weibring something another player
+[03:41] times depended actually and stick it
+[03:44] outside until the solvent evaporates so
+[03:46] enormous solvent evaporates what you get
+[03:48] is this which is a graphite arm plastic
+[03:52] composite and this will mount at about
+[03:54] sixty degrees and now obviously it's in
+[03:56] a lot like this and what we want to do
+[03:58] is get it into a filament fall there's a
+[04:01] number of ways you can get into the
+[04:02] filament form you can make for the
+[04:04] filament extruder and there are filament
+[04:06] extruder do yourself kits available
+[04:08] there's some nice videos actually on the
+[04:11] net on how to make your own filament
+[04:12] extruder or when this is tacky and just
+[04:16] before it's actually got to it's nice
+[04:18] firm stage you roll it out and here is a
+[04:21] filament now you can see that
+[04:22] particularly one it's about three
+[04:23] millimeters thick and you roll it out I
+[04:25] did it by hand you can do between two
+[04:27] bits of glass and this has no
+[04:30] resistivity of around about 9 ohms a
+[04:32] centimeter now that's pretty good
+[04:34] actually
+[04:35] and I could play around with that a
+[04:36] little bit more to try and get that
+[04:38] resistance down
+[04:39] against its actual print ability now I
+[04:43] obviously don't have a 3d printer so I
+[04:45] can't do those I went for a reasonable
+[04:48] resistance to make sure that the thing
+[04:49] worked as a theory and a practice so if
+[04:53] anybody actually run a 3d printer and
+[04:55] once we give this a go it'd be great and
+[04:57] you could report back to me let me know
+[04:59] how it gets on that'll be cool to know
+[05:01] as well but there we go a conductive
+[05:04] filament for a 3d printer for printing
+[05:07] your components directly using your
+[05:10] printer

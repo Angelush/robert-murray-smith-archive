@@ -1,0 +1,287 @@
+[00:02] [Music]
+[00:15] hi so it's time to have a look at this
+[00:17] thing and turn it into a generator
+[00:19] now we recently did a video awesome
+[00:21] exercise bike into generator hack
+[00:23] and somebody noticed that that was
+[00:26] actually a trial run for this
+[00:28] and i have to say i was pretty impressed
+[00:31] because the problem with this thing
+[00:32] obviously is
+[00:33] it's going to turn but obviously not
+[00:36] like super fast i mean fast but not
+[00:38] super fast
+[00:39] and the torque on the shaft is going to
+[00:41] be really really low
+[00:43] so you can't just bolt a motor onto it
+[00:46] well
+[00:46] that's what i think i think that that
+[00:48] wouldn't work very well and you wouldn't
+[00:49] get
+[00:50] that much energy out of it which is why
+[00:52] we did that thing on the motor on the
+[00:54] exercise bank
+[00:55] because when we turn at the center of a
+[00:58] shaft we have a much lower speed than
+[01:00] when we turn at the edge of the shaft
+[01:02] and i wanted to see
+[01:03] what kind of things would happen if we
+[01:05] did that and to be honest it was
+[01:06] mightily impressive
+[01:08] now we used the internals of this thing
+[01:10] this is a synchronous
+[01:12] motor meant for the turntable from a
+[01:15] microwave oven
+[01:16] when you crack it open what you get is
+[01:18] this it's a coil
+[01:19] basically it's a coil of hair thin wire
+[01:22] that's relatively flat and quite
+[01:24] open and that's what gave us the good
+[01:27] results so of course
+[01:28] that's what i began to think about what
+[01:31] i'm thinking about
+[01:32] is sticking a load of coils on the edge
+[01:33] here so that we cover the circumference
+[01:36] sticking a load of magnets on the spinny
+[01:38] bit and
+[01:39] spinning it around and seeing what we
+[01:41] get now it didn't take a lot of spinning
+[01:43] to get that going and we have an
+[01:45] awful lot of turns there a very tiny
+[01:47] wire
+[01:48] now i could buy a load of these and
+[01:51] crack them open and get the coils but i
+[01:54] was looking at these and i need
+[01:56] something like 40 or 50 of them
+[01:58] and they're about five pounds each it's
+[02:01] not too bad really i suppose
+[02:03] but that would be 200 to 250 quid
+[02:06] just for the coils plus then i'm buying
+[02:09] a load of these and throwing a load of
+[02:10] scrap away and that doesn't strike me as
+[02:13] a particularly good thing to do
+[02:15] so what i want to do is i want to mimic
+[02:17] this coil but make it
+[02:19] call us now in order to do that i
+[02:21] obviously have to make a bobbin
+[02:23] and the bobbin requires an awful lot of
+[02:24] plastic so i came across
+[02:27] these things this is half of it actually
+[02:29] it's an abs light fitting of impact
+[02:31] resistant abs
+[02:33] you can see what i've done i've just
+[02:34] gone down the back with the flat end and
+[02:36] drilled out a lot of discs and i used a
+[02:39] hole cutter to do that
+[02:41] then i obviously cleaned the discs up
+[02:44] and made sure that the center hole was
+[02:46] eight millimeters
+[02:47] so they are going to be the basics of my
+[02:50] bobbin
+[02:51] so what i've got in front of me here is
+[02:53] a jig and i'll give you a close-up of
+[02:54] that in a second
+[02:56] that jig is to help me form those
+[02:58] bobbins and there is a completed bobbin
+[03:01] and i need to make a whole load of those
+[03:03] that are going to go around the edge of
+[03:05] there so let me give you a close-up of
+[03:07] the jig and how it actually works
+[03:09] okay so the jig is just a bit of plastic
+[03:11] board and i've drilled an eight
+[03:12] millimeter hole
+[03:13] i've got some eight millimeter perspex
+[03:15] rod stick that in
+[03:16] put a disc on bit of super glue around
+[03:19] it to hold it in place
+[03:21] then i've got this which is a bit of
+[03:23] hard board and the hardboard is
+[03:25] um six millimeters
+[03:29] so i've got a bit of six millimeter
+[03:30] hardboard there another disc goes on top
+[03:38] press it down put a super glue around it
+[03:49] move that out the way so it doesn't glue
+[03:51] when that super glue is dried
+[03:53] i'll end up with another one of them so
+[03:55] i can make a whole bunch
+[03:57] all the time okay so when i measured up
+[03:59] it turned out i needed 32 so i made 32.
+[04:02] now i've left a little bit on here of
+[04:05] the inner bark so i can put them in the
+[04:07] lathe when it comes to turning the
+[04:08] actual
+[04:09] coil and there's a coil that i've turned
+[04:11] so all i did was chuck that in the
+[04:13] layers
+[04:14] and then turn that coil up and then i
+[04:16] removed that little bit and sanded it
+[04:18] flat so i've got a nice flat
+[04:19] coil there now i need to make sure all
+[04:22] the other coils are
+[04:23] roughly in the same region and i'm going
+[04:26] to do that by
+[04:27] distance from the edge here i mean it's
+[04:29] a bit rough and ready you could check it
+[04:31] by checking the resistance
+[04:33] but hey we're after speed more than
+[04:34] anything here so we've got our coil i've
+[04:37] got one made i need to make another 31.
+[04:39] but this one obviously i want to test
+[04:42] the idea and see whether i'm actually on
+[04:44] the right track or not
+[04:45] so what i'm going to do is stick this in
+[04:47] the exercise bike
+[04:49] just like the previous coil and we'll
+[04:50] spin it up and see what we get out of it
+[04:52] so there's the coil right there it's
+[04:54] where we put that other coil when we did
+[04:56] this
+[04:56] the first time round and all i'm going
+[04:58] to do to test whether this idea would
+[05:00] work or not is
+[05:01] jump on the bike and pedal it now put
+[05:04] the meter here
+[05:05] and it's reading vaults at the moment so
+[05:07] hopefully you'll be able to see that
+[05:09] i can't obviously which is a bit of a
+[05:12] disappointment
+[05:13] but let's give it a go
+[05:25] whoa hey 16 volts
+[05:30] that's very cool okay i'm going to swap
+[05:32] it on to the
+[05:33] amp reading
+[05:41] see what milliamps we can get
+[05:49] oh i got 120
+[05:55] that's awesome okay so that was really
+[05:58] kind of cool
+[05:58] i did check the video and i think we got
+[06:00] 19 volts at 110 milliamps at the max
+[06:03] really which is about 2 watts or so so
+[06:06] that little coil
+[06:07] will produce in the setup there about 2
+[06:10] watts now a couple of things to bear in
+[06:11] mind
+[06:12] the magnets i'm using are ceramic
+[06:15] magnets ferrites actually
+[06:17] and i'm using those because that's what
+[06:19] i had available
+[06:20] now i have ordered some magnets to go in
+[06:23] here because i think it's worth the
+[06:25] spend
+[06:26] but i ordered ferrite magnets i can buy
+[06:28] 100 fahrenheit magnets of that size for
+[06:30] 25 quid
+[06:31] and if i want near dini dimiums there
+[06:33] would be a
+[06:34] uh a fiver each i think i could get a
+[06:37] five for the same price
+[06:38] i'm not spending 500 quid on magnets i
+[06:41] don't mind spending 25 quid on them but
+[06:43] i'm not going to spend 500 quid on them
+[06:45] so it's really a cost benefit exercise
+[06:48] for me
+[06:49] how much i spend on it and how much i
+[06:51] get back out of it
+[06:52] matters to me if i wanted to up the
+[06:55] power output obviously i'd
+[06:57] buy a stronger magnet stronger field
+[06:59] more power
+[07:00] the other thing on that disc obviously
+[07:01] is it's a bit starved of magnets it's
+[07:04] about a third of the number of magnets
+[07:05] that will fit on there because that's
+[07:06] all the magnets i had
+[07:08] i've actually ordered 100 so i should be
+[07:10] able to get this crammed with magnets
+[07:12] so we should see a higher output just
+[07:14] using more magnets and if you use a
+[07:16] stronger
+[07:17] magnet with a stronger field you should
+[07:19] see a higher output
+[07:20] but people do like to calculate and we
+[07:22] got two watts out of that so that's the
+[07:24] way it is
+[07:25] and if we have 32 of them we can kind of
+[07:27] expect around about 64 watts which
+[07:30] i personally think is really quite
+[07:32] reasonable especially when you think
+[07:33] where i've spent on this
+[07:34] i mean this basically is a couple of
+[07:37] broken light fittings and some broken
+[07:39] microwaves so that cost me
+[07:41] nothing apart from the time it took to
+[07:44] do it and it took me a couple of hours
+[07:45] i've got about an
+[07:46] hour spinning coils so about three hours
+[07:49] for
+[07:50] the price of that what would that be
+[07:52] seven eight hundred quid yeah i'm happy
+[07:54] to spend three hours on that
+[07:56] so the plan of this obviously is to
+[07:59] basically attach them somewhere on there
+[08:01] go around fit the magnets in and we're
+[08:03] going to have ourselves an axial
+[08:05] generator
+[08:06] now this thing um the
+[08:09] idea of this is that it takes hot air
+[08:12] from the inside of your house and
+[08:14] blows it outside and these are to catch
+[08:16] the wind and that helps create a little
+[08:18] vacuum air
+[08:19] in there which pushes the thing through
+[08:22] and out comes the wind
+[08:23] now the aussies are very keen on this
+[08:25] sort of stuff and they improve the
+[08:27] efficiency of this by adding
+[08:29] this thing so it's a fan blade now fan
+[08:32] blades obviously are pitched to force
+[08:33] the air in one direction
+[08:35] and in this case it's in that direction
+[08:37] so they've fitted a fan blade to it
+[08:39] forcing the air up
+[08:41] spinning around forcing it out and they
+[08:43] reckon they've got a 40 percent increase
+[08:44] in the efficiency on that
+[08:46] don't know if that's true or not but
+[08:47] it's certainly what they reckoned and
+[08:48] they stuck a fan blade in
+[08:50] my thought is to reverse that fan blade
+[08:52] and stick it in so the air
+[08:55] coming here creates a slight negative
+[08:58] pressure on the inside
+[08:59] this should assist that pressure and
+[09:01] hopefully we should get
+[09:02] a efficiency improvement from this
+[09:06] now the other thing of course is that
+[09:08] this is actually
+[09:09] itself a flywheel i mean there's mass
+[09:12] here this thing weighs a few kilos
+[09:14] so when this gets spinning it stays
+[09:17] spinning because it's a flywheel
+[09:19] i want to use that flywheel effect which
+[09:21] is why i haven't put metal cores in here
+[09:23] now i was really interested in that
+[09:25] output from the lack of metal core
+[09:27] you could put a metal core in if you
+[09:29] want but of course you've got a magnet
+[09:30] next to a metal you're going to have
+[09:32] cogging and that's going to have to be
+[09:34] overcome so
+[09:35] i decided that there was plus and
+[09:37] minuses to all things
+[09:38] and i'd leave out the metal core and
+[09:40] given that we're getting actually a
+[09:42] reasonable output from that i'm quite
+[09:43] okay with that that's what i'm going to
+[09:45] do
+[09:46] anyway what i now need to do obviously
+[09:48] is wind these other 31
+[09:50] coils and get them stuck in there the
+[09:53] magnets are on order so
+[09:54] the video showing more of this won't be
+[09:56] tomorrow because they still have to
+[09:57] arrive
+[09:58] but i will continue this project as and
+[10:01] when i hope you enjoyed the video
+[10:02] thank you very much for watching and
+[10:04] keep your eyes open for the rest of it

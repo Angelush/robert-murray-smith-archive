@@ -1,0 +1,246 @@
+[00:02] [Music]
+[00:15] hi so in
+[00:16] videos 1034 on 103.5 what we did
+[00:18] basically was make
+[00:20] this which is a flux switching generator
+[00:22] now that really got me thinking so i've
+[00:24] done some of the work and i'm going to
+[00:26] go through it step by step because
+[00:28] i think it's of interest and i'd like
+[00:30] people to be able to replicate it
+[00:32] now with that in mind i've made the
+[00:34] whole thing out of one of these which is
+[00:35] a microwave oven transformer and i've
+[00:37] used no welding all i've done is saw it
+[00:39] if you take off these coils and separate
+[00:42] them out what you get is a whole bunch
+[00:44] of ease like that and a whole bunch of
+[00:46] eyes like that and they're all in one
+[00:48] block
+[00:49] if we saw that central tang out there
+[00:51] then we get something that looks like
+[00:53] that
+[00:53] and if we can put an eye on it we get
+[00:55] this metal square
+[00:56] well that's exactly what i've got here
+[00:59] with a whole load of neodymium magnets
+[01:01] in there
+[01:02] they're pretty powerful magnets but i
+[01:03] can separate them out
+[01:05] and we've got our u and our i and they
+[01:07] go together
+[01:08] now when they're together like that
+[01:13] then they do something that everybody
+[01:15] knows what they do and there's no total
+[01:17] surprise about it at all
+[01:19] so i pop them together there we go
+[01:22] here we go got it a little bit of steel
+[01:26] here and
+[01:27] absolutely nothing now you saw me
+[01:30] putting them together these are very
+[01:32] powerful magnets and there's quite a lot
+[01:34] of them
+[01:34] but what happens is the magnetic flux is
+[01:37] contained with this
+[01:38] in iron ring that we've done so the
+[01:39] north flows here
+[01:41] to the south there we've got magnetic
+[01:43] flux containment that's a magnetic for
+[01:45] a magnetic circuit as it happens and it
+[01:48] means that there's no flux
+[01:49] escaping outside so it can't pick
+[01:51] anything up we've got no magnetic field
+[01:54] there it's all inside now everybody
+[01:56] knows that and it's the same thing that
+[01:57] you put
+[01:58] you do when you put keepers on now
+[01:59] here's another interesting thing that
+[02:01] everybody also knows
+[02:02] that's an electromagnet what it is is a
+[02:05] bunch of these
+[02:06] eyes and i've wrapped a coil around a
+[02:08] little bobbin of it and the coil
+[02:10] i got from the microwave button
+[02:12] transformer it's the primary the primary
+[02:14] is actually unwind really nicely so you
+[02:16] can recover it
+[02:17] not sure how many turns i've got on but
+[02:19] there's 50 grams of primary copper wire
+[02:21] got two of them
+[02:23] and that one if i apply a current to
+[02:24] that we make an electromagnet so i'll
+[02:26] put a bit of current on okay so there's
+[02:28] my bench top power supply i've connected
+[02:30] it to my
+[02:30] coil and if i give it a bit of power so
+[02:33] it's got about six volts going through
+[02:35] it
+[02:35] and pressed up we've got an
+[02:37] electromagnet turn that off
+[02:40] there we go electromagnet goes away
+[02:42] obviously something everybody knows yet
+[02:44] again
+[02:45] but it occurred to me wouldn't it be
+[02:47] interesting
+[02:48] if we put those coils on there what
+[02:51] would happen
+[02:51] would all that we get is a lossy
+[02:53] transformer i don't know
+[02:55] so let's see okay so i've wired up my
+[02:57] coils in parallel and stuck them on that
+[02:59] metal u
+[03:00] and what we've got is an electromagnet
+[03:02] and they're wired so that both of these
+[03:03] poles are north
+[03:05] now when we turn that on and we supply
+[03:07] it with the dc voltage it is going to
+[03:09] create an electromagnet and those two
+[03:11] poles will be south
+[03:12] it'd be nice to know what kind of force
+[03:15] is being generated
+[03:16] though we don't have expensive meters to
+[03:18] be able to measure that but we
+[03:20] do have this as a deviation meter
+[03:24] actually what it is is a mass on the
+[03:25] spring when in reality it's
+[03:27] two of these eyes glued out the side of
+[03:30] a hacksaw blade and stuck into a bit of
+[03:32] acrylic
+[03:33] but it will do the job if i line my
+[03:35] magnet
+[03:36] up like that and i put some current in
+[03:38] we'll get a
+[03:39] amount of deviation which is
+[03:41] proportional to the magnetic field
+[03:43] the magnetic field obviously being
+[03:44] generated is proportional to the number
+[03:46] of turns and the amps supplied because
+[03:48] this amp turns is what
+[03:49] generates emf so we'll be able to get
+[03:52] some measure that'll
+[03:53] allow us an internal yardstick of how
+[03:55] much force we're generating
+[03:56] when we put a certain amount of volts
+[03:58] and currents in there so let's have a
+[04:00] look at that
+[04:00] okay so i have i've got everything in
+[04:02] there's our weight that we're going to
+[04:04] deviate there's the electromagnet there
+[04:06] because it's quite close
+[04:07] and here's the voltage reading i'm going
+[04:09] to swap so you have an overhead view so
+[04:11] i'm going to put some volts on have an
+[04:12] overhead view and see the deviation
+[04:26] there's the voltage and amp draw
+[04:27] required to do that
+[04:30] okay that was kind of fun what it's
+[04:32] telling us really
+[04:33] is that this is a very poor
+[04:35] electromagnet if i take my neodymium
+[04:37] magnets incidentally and hold them
+[04:40] not particularly close we get a really
+[04:42] strong deviation because obviously
+[04:44] they're very strong magnets
+[04:46] of course why bother with all of this
+[04:48] well the question is
+[04:50] what would happen if i put these two
+[04:52] together
+[04:53] when there's no current flowing in the
+[04:54] coil then of course we'll have no
+[04:56] magnetism there'll be no deviation
+[04:59] but if we put current in those coils the
+[05:01] question is
+[05:02] will the permanent magnets assist in
+[05:05] that deviation
+[05:06] let's have a look
+[05:14] and there's the voltage required to do
+[05:16] that voltage in the amps okay so that
+[05:18] may not seem
+[05:19] earth shattering at first sight but if
+[05:21] we take a better look at it then
+[05:23] if we multiply the volts times the amps
+[05:25] we get watts
+[05:26] now the bare electromagnets took
+[05:28] something like 19.2 watts for that
+[05:30] deviation
+[05:31] and the switching operation took
+[05:33] something like 4.8 watts
+[05:35] so it took about four times more to
+[05:38] move that lump now moving that lump of
+[05:41] small deviation is doing work
+[05:43] so if you like four times more work was
+[05:46] done
+[05:47] or a quarter less power was used
+[05:50] to do the same amount of work that's
+[05:53] really interesting that we can get more
+[05:56] work
+[05:56] using permanent magnets now obviously
+[05:59] this flux
+[06:00] switching gives us the ability to turn a
+[06:02] magnet or a permanent magnet
+[06:04] on or off and a lot of machines don't
+[06:08] because they can't do that permanent
+[06:10] magnets are on
+[06:11] all of the time but with flux switching
+[06:14] it looks like a small input of
+[06:16] energy in terms of a current and that
+[06:18] added voltage
+[06:19] will allow us to turn the magnet off and
+[06:22] on and it assists to quite a degree
+[06:26] with the work that a machine can do now
+[06:28] there's
+[06:29] huge implications of that i mean motors
+[06:31] generators
+[06:32] all kinds of things if we can assist
+[06:35] them
+[06:36] or we can utilize that to do real work
+[06:38] which is exactly what we saw with the
+[06:40] deviation of the mass
+[06:42] then that's got to be fascinating now
+[06:44] there was a lot wrong with what i did i
+[06:46] mean the deviation was quite
+[06:48] small so the error is going to be quite
+[06:50] large
+[06:51] but at four times improvement well
+[06:53] there's something there that convinces
+[06:54] you to have a look isn't that
+[06:56] the reason i made it so rough and ready
+[06:58] out of lumps of stuff i found
+[07:00] lying around is so that it can be
+[07:01] replicated it's
+[07:03] easy to make this and it's something you
+[07:05] can make quite simply at home
+[07:07] with nothing more than a microwave oven
+[07:09] transformer and a hacksaw
+[07:10] to see if this effect is real or not
+[07:12] rather than just taking my word about
+[07:14] it and that's what science is science is
+[07:16] about experimentation about looking for
+[07:18] yourself about working things out and
+[07:20] seeing what you can do
+[07:22] so i quite enjoyed that because it
+[07:24] really made me
+[07:25] think about whether we could use
+[07:28] permanent magnets to assist or run a
+[07:31] machine
+[07:32] i mean you are looking at some really
+[07:34] controversial things here
+[07:35] i mean four times the power you're
+[07:37] thinking over unity aren't you
+[07:39] you're thinking free energy i mean that
+[07:41] is a heretical thing to say
+[07:44] i really have to go wash my mouth out
+[07:46] with soap now
+[07:47] but it was really interesting to see
+[07:51] that simple effect from something we
+[07:53] could knock together
+[07:54] probably took me an hour to make that
+[07:56] something we could not together
+[07:58] really easily so if you're interested in
+[07:59] it try replication
+[08:01] see what you get and i certainly will be
+[08:03] looking at that a little bit more i
+[08:05] think
+[08:05] anyway i hope you enjoyed the video i
+[08:07] hope you sparked some ideas
+[08:09] and thank you very much for watching

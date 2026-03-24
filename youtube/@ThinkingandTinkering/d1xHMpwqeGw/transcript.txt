@@ -1,0 +1,237 @@
+[00:00] [Music]
+[00:08] hi so in video 2270 we talked about
+[00:11] making things move in particular the pin
+[00:15] joint now I said in that video that
+[00:17] things like hinges and chains were great
+[00:20] examples of pin joints and of course
+[00:22] right there is a hinge there one of
+[00:24] those everyday things that are
+[00:26] absolutely everywhere and we tend to
+[00:29] ignore so what I was thinking is we'd go
+[00:31] and look at how you would model
+[00:34] something like this and then 3D print it
+[00:37] how you would model and 3D print a chain
+[00:40] and then an alternative to the pin hinge
+[00:43] because some of the concepts in there
+[00:45] are key to how you would model anything
+[00:48] now surprisingly when you're modeling or
+[00:51] in fact making real stuff there are only
+[00:53] two approaches you can either build up
+[00:56] or you can cut down and they what this s
+[00:59] the tin build up is where you add
+[01:01] material to form the shape that you want
+[01:03] and an example of that would be
+[01:05] something like sculpture clay sculpture
+[01:06] for example cut down is where you begin
+[01:09] with a big block of material and remove
+[01:11] the excess you don't want so things like
+[01:13] drilling Milling filing to create the
+[01:16] shape out of the block now the odd thing
+[01:20] is it doesn't matter what you do those
+[01:22] two approaches are always available to
+[01:24] you and are the only two approaches ever
+[01:26] used whether it's in real life with hand
+[01:29] tools or or on the computer with a
+[01:31] design program so let's use a hinge as
+[01:34] an example of that and design it in
+[01:36] Tinker count using both build up and cut
+[01:40] down so if you open Tinker CAD in a new
+[01:43] workspace we of course on the workpl and
+[01:45] I've placed my ruler and so we're now
+[01:47] ready to model our component which is
+[01:50] the hinge now remember every component
+[01:52] is made of parts so what we have to do
+[01:55] is decide what the parts are of course
+[01:58] in the hinge they're not particularly
+[01:59] difficult this flaps barrel and a pin
+[02:02] but we still need to recognize those
+[02:04] parts and then make those parts so let's
+[02:06] make the barrel and the barrel is just a
+[02:09] cylinder so place a cylinder primitive
+[02:11] and we can make that cylinder nice and
+[02:13] smooth and make it exactly the size that
+[02:15] we want and in my case I'm going to make
+[02:17] it
+[02:19] 10 by
+[02:23] 10 of course we need a hole in the
+[02:26] center there because we're going to put
+[02:27] a pin in it and so we take the hole from
+[02:30] smooth it out and we need to decide the
+[02:33] size of our hole in this case I want it
+[02:35] to be six by 6 and then if I align those
+[02:39] by highlighting the two of them with the
+[02:41] cursor hit the Align button align it to
+[02:44] this there and there and if we
+[02:47] then merge those what we've got is a
+[02:51] part of our barrel and in this we've
+[02:52] used to cut down process with two
+[02:54] Primitives because we've removed that
+[02:56] Center section to cut out the shape that
+[02:59] we want now it's not quite right of
+[03:02] course because we need it to attach to
+[03:04] something and so we need a little bit
+[03:05] sticking out so we can attach it to the
+[03:08] flap and here I've used the block
+[03:09] primitive and I want it again round
+[03:11] about the same 10 by 10 and then on the
+[03:16] height it's going to be the height
+[03:17] thickness of the hinge let's call that
+[03:19] four so we've got our block primitive
+[03:22] we've got our cylinder cut down that's
+[03:24] obviously not in the right orientation
+[03:26] so we can change that orientation around
+[03:28] 90°
+[03:30] and then we can align the two so if we
+[03:33] align those two to that by there and
+[03:37] there and we have our little flap nicely
+[03:40] in the center there but of course we
+[03:41] want to move it out by 5 mm we do that
+[03:45] by making sure that that is set at one
+[03:47] and press the cursor Arrow five times 1
+[03:50] 2 3 4 5 if we were to unite those of
+[03:54] course we'd have this lump so just
+[03:56] highlight that unmerge it highlight the
+[03:58] whole thing and and then merge it again
+[04:01] and we've got our hinge primitive now I
+[04:04] want five of those so I can duplicate
+[04:06] that duplicate and I can move it
+[04:12] up so I copied them five times and this
+[04:15] one has s through 180° CU that'll be the
+[04:17] other side of the hinge now what we can
+[04:19] do is take a block primitive to create
+[04:22] the other component we need which is the
+[04:23] flap so let's make that 25 and of course
+[04:26] four high and the question is how far
+[04:29] here do you make it we're going to have
+[04:31] five into measuring each one of these is
+[04:32] 10 so you would think 50 but we need to
+[04:35] leave a little Gap and if we leave a gap
+[04:37] of .1 mm then we make that
+[04:41] 50.8 we'll have enough of the Gap so
+[04:43] that these don't actually catch on each
+[04:45] other but again they're all over the
+[04:46] place we're making hinges so what we
+[04:48] need to do is align them so if we align
+[04:50] those two and only to that edge there
+[04:53] then click shift key click that one and
+[04:57] we can align those two to the middle
+[04:59] partion here and then this last
+[05:04] one we can align to the bottom there if
+[05:07] we take these three then we can align
+[05:10] those
+[05:11] three all to that edge there so that
+[05:14] they're nicely in line and then' be in
+[05:16] line like that and now we can create one
+[05:18] piece out of that by uniting them and we
+[05:21] get our single piece what we need to do
+[05:23] is move that to be directly onto that so
+[05:26] if we zoom into
+[05:27] that we need that to go but against that
+[05:30] edge and it's a neat little trick in
+[05:32] Tinker cab that allows you to do that
+[05:34] and that's the work plane tool so click
+[05:36] on that put the work plane right on
+[05:39] there then click on that and press D and
+[05:42] it drops it right onto the new work
+[05:45] plane that you've put on to clear that
+[05:47] click the work plane and just put it
+[05:48] into some space somewhere or other now
+[05:51] these are absolutely but against the
+[05:54] flap that we've just made and if we
+[05:56] align those again then we can just check
+[05:58] the alignment hasn't move by clicking
+[06:00] that and there is one side of our hinge
+[06:03] complete and we United we've got a
+[06:05] complete hinge if what we do now is just
+[06:07] duplicate that we can move that out of
+[06:10] the way and then we can more or less do
+[06:12] exactly the same thing that we've just
+[06:14] done if we take that one there and align
+[06:18] that to this edge here and then we take
+[06:21] these two and align them to the bottom
+[06:23] Edge then remember these are going to be
+[06:27] 10 mm yes 10 mm apart from each
+[06:40] other so we need them somewhere round
+[06:43] about there that setting there is at 10
+[06:45] so if we click on that and move it down
+[06:48] with the down arrow
+[06:53] 10 then that will be almost in position
+[06:56] change that setting to 0.1 and once more
+[06:59] with the down arrow and that will be in
+[07:03] position that one same thing only change
+[07:06] that back to one up in
+[07:15] 10 change that back to
+[07:17] 0.1 and then up 0.1 and then we getting
+[07:21] these will now be in line with there and
+[07:23] all we have to do is unite them there so
+[07:25] let's just make sure we haven't moved
+[07:26] any the alignment away yep we're good
+[07:29] and then we can do exactly the same
+[07:31] thing using that work plane tool zoom in
+[07:33] on
+[07:35] it take our work plane make sure that
+[07:38] it's
+[07:44] there unite those and then drop them
+[07:46] onto the work plan now we can get rid of
+[07:49] the work
+[07:51] plane and we have those perfectly
+[07:54] aligned there now when we've made them
+[07:56] we can have a quick look just to make
+[07:58] sure all the alignment is really nice
+[08:00] and we've got enough gap for that hinge
+[08:01] to actually work on here I haven't
+[08:04] bothered putting holes in because we're
+[08:06] going to 3D print it and we'll glue it
+[08:07] onto something but you would use exactly
+[08:09] the same cut down to place holes in that
+[08:12] flap where you would want to put your
+[08:14] screws all we've got to do now is make a
+[08:17] hinge and of course we made that 6 mm
+[08:20] across but with this what we really need
+[08:23] to do is to give it a bit of clearance
+[08:25] so let's smooth those sides of the
+[08:27] cylinder and we need to make that
+[08:33] say 5.6 to 5.8 that'll make sure that
+[08:38] the hinge will the pin will go into the
+[08:40] hinge without it snaring up but with
+[08:43] enough clearance to make it work if we
+[08:47] make that 50 and that's going to be our
+[08:49] hinge pin and again we need to orientate
+[08:51] that round and when it does that it does
+[08:54] around the center so we can see that
+[08:55] it's actually off the work plane and if
+[08:57] we press D remember it will drop it to
+[09:00] the work plane so that's the magic key
+[09:02] to drop things to the work plane is D
+[09:05] and we use that to make sure that these
+[09:07] two surfaces of this Barrel component
+[09:10] the flat component were directly surface
+[09:12] to surface we can put a little cap on
+[09:14] that if we want but now we're ready to
+[09:16] print and when we've printed it this is
+[09:19] what we get so those two go together the
+[09:21] pin drops in the
+[09:23] center there we go and we have our
+[09:25] working hinge now this is not really a
+[09:28] tinker cab tutorial I mean I thought was
+[09:30] kind of interesting with that work plane
+[09:32] and the D key so you could align
+[09:34] surfaces so well but the whole thing is
+[09:37] about how to go around design the
+[09:39] components using Parts with cut down or
+[09:42] build up that methodology goes outside
+[09:45] of Tinker C of pretty much all design if
+[09:49] anybody's feeling like it then a bit of
+[09:51] homework would be to use the same
+[09:53] methodology but to create a chain now a
+[09:56] link hint you only need to create one
+[09:58] link and repeat it I'll do a tutorial
+[10:01] video on chain making as part of this
+[10:04] but that is how you go around thinking
+[10:07] about making components breing into
+[10:10] Parts using cutout or buildup as the
+[10:14] methodology linking them together to
+[10:16] make yourself what you want to make
+[10:19] anyway I hope you enjoyed the video
+[10:21] thank you very much for watching and
+[10:23] please do remember to like And subscribe

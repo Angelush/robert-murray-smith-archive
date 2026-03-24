@@ -1,0 +1,597 @@
+[
+  {
+    "id": "UgznMhFuzth0ZT1lPiJ4AaABAg",
+    "author": "@longanghoai9881",
+    "author_channel_id": "UCBhSCGJx8WWTxrTf75qyQCg",
+    "text": "I like this video very much ! It is very usefull ! But how can the frequency be calibrated for more accuracy?",
+    "likes": 0,
+    "published_at": "2022-05-09T08:13:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwmnC6idwKVutJhj_V4AaABAg",
+    "author": "@BushImports",
+    "author_channel_id": "UCcT1D-gVHYtZfl9WDlDW--w",
+    "text": "Thanks Robert, that's great. What does the wave form look like with a load on it? Which sensitive electronics need AC ? All laptops run on DC, the wall adapter rectifies what comes out of the main to DC, A desktop internally runs on DC, the power supply converts the mains voltage to low voltage DC to run the internal components.  Billy on Tulas' Endless Summer channel said he has used a modified sine wave inverter for years and had no problems with their laptops or anything else they use an inverter for.",
+    "likes": 0,
+    "published_at": "2021-05-29T21:33:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhX3arnl1TThTJnvJ4AaABAg",
+    "author": "@steveangel6400",
+    "author_channel_id": "UCGcw62SY2gokQt3dImKsIIg",
+    "text": "Robert I love your videos, they always make me think. After watching this video I had to wonder about your car alternator to block motor conversion. Since a car alternator generates 3 phase, pure sine wave 120 ac. You could use your converted alternator to drive a second alternator with rectifier removed. But how can you reduce the hex down to 60. Maybe use your manual drive control to reduce hz?",
+    "likes": 0,
+    "published_at": "2021-04-17T06:20:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzkI4eqTjyZMOHKDTB4AaABAg",
+    "author": "@hissst69",
+    "author_channel_id": "UCXUVWucsFkFJUXRMt1eyyGg",
+    "text": "Hey Robert, was thinking if you ever want to changebthe hertz would be a cool thing to throw that magnet coupling/transmission you had lookked at in earlier videos.. all mechanical :)",
+    "likes": 0,
+    "published_at": "2021-04-09T22:03:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-pEw4ry9PiHmsEeh4AaABAg",
+    "author": "@AtaruMor0boshi",
+    "author_channel_id": "UCK0jW6l44s2Yd8qe_WW6MvA",
+    "text": "Pure sine wave inverters (barring frauds - assuming good products from reputable manufacturers) do actually produce beautiful sine waves. Nyquist-Shannon works in both ways, and it is about the *perfect* reconstruction of any given bandwidth-limited signal. Don't fall in the old if-it's-digital-then-it's-jagged argument. Nope. You can reconstruct a perfectly pure (in the real world, to a tiny fraction of a percent) sine wave  from a digital stream double its frequency. Besides, digital topologies may carry great benefits but are not really required.\nIn fact, many real world devices are specified to <1% THD and some reach unity power factor. That's the kind of output you get, for example, from grid-connected PV inverters or any online double-conversion (VFI) UPS (again, assuming non-scams). You can view most of them a bit as mighty powerful class-D subwoofer amplifiers, or even class-C radio transmitters with a <100Hz bandwidth, depending on their topology. They are available in powers from <1kW to >1MW, with or without galvanic insulation from the DC side, single or three-phase, and they can be quite efficient too (even >99% recently, increasing with the actual power output) and reliable (again, barring garbage).\nSo-called modified or approximate sine wave inverters or UPSs are a whole other thing: their output doesn't even remotely look like a sine function, but they are much cheaper and acceptable in many cases. Feeding the SMPSU of your average PC, for example. Hint: some hair driers at half power can be a lethal challenge for sub-par products.\nTime-domain plots (the classic oscilloscope view) can fool even experts: looking at your inverter output also on a spectrum analyzer (a frequency domain view based on a FFT of the input signal) tells a lot more about the quality of the waveform you are producing, and preferably under different loads (impedance is a /complex/ thing). Maybe your scope has this function or you can unlock it with a license upgrade.",
+    "likes": 0,
+    "published_at": "2021-04-09T21:04:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhKg725r1TcffiRDN4AaABAg",
+    "author": "@LiLi-or2gm",
+    "author_channel_id": "UC3A2U6y4M5cGpIMe-MAW7sA",
+    "text": "There's some high-end audio amplifiers that use 400Hz AC for power input. The higher frequency allows the use of smaller transformers and lower capacitance values (with low ESR), making it far easier to eliminate ripple, and to react quickly to the high current transients required by the bass drivers.",
+    "likes": 0,
+    "published_at": "2021-04-08T22:36:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz0GLXTq18CevjiGY14AaABAg",
+    "author": "@dayleedwards3521",
+    "author_channel_id": "UC2Hlo9chhYhmMY4yICIg16g",
+    "text": "Whats the RMS  <Robert Murray Smith> voltage?  These are not new, the motor/dynamo was used under the names of dynomotor, genemotor, rotary inverter to supply valve radio HT from batteries during WW2 and before. Still used or voltage/frequency conversion in high power  installations today.",
+    "likes": 0,
+    "published_at": "2021-04-08T20:40:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-DDzdPGsshzDuQKx4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "One thing to look out for is loading.\nObviously if you are using it as an input for an amplifier it will have a very small load, but if you use it for an actual power device you may see a change in frequency. I only mention this in case someone has the idea to connect it as a mains device to reduce their electric bill ..... or similar ;0)",
+    "likes": 1,
+    "published_at": "2021-04-08T12:03:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx-DDzdPGsshzDuQKx4AaABAg.9LsNnZ7AqlT9LzS3AYM0ZA",
+        "author": "@leviahamefula3994",
+        "author_channel_id": "UCpBZLH3J4AXX-_i3DpPLhuA",
+        "text": "😂",
+        "likes": 0,
+        "published_at": "2021-04-11T05:55:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzrTEy3czxp7WBLm94AaABAg",
+    "author": "@1mremington",
+    "author_channel_id": "UChEOqxtvaLGwhg3i0P9I-uQ",
+    "text": "Well done on the videos and ingenuity Robert!   Envision the possibilities If you were to apply these skills to magnet fishing! :)",
+    "likes": 0,
+    "published_at": "2021-04-08T11:58:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzySs0_0dcdfL7dL2J4AaABAg",
+    "author": "@jaxonevax6135",
+    "author_channel_id": "UCAA-cTgQXMerpphaC8HTy-g",
+    "text": "Clever",
+    "likes": 0,
+    "published_at": "2021-04-08T08:41:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzoskCJNaN5QNeLddN4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "True True True about inverters. Am still trying to find the 3 wire connection via video from the other cooling fan. Others have responded in your name to my query but not as clear as I had hoped for. Much respect to this video showing results of this application.  A sign of clarity / inspired interest to those interested. Peace DVD:)",
+    "likes": 0,
+    "published_at": "2021-04-08T02:53:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJVlY_K7eAMrFw1RZ4AaABAg",
+    "author": "@401ksolar",
+    "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+    "text": "Reading through the comments is kind of like watching people drive for the first time out on the highway without training lol",
+    "likes": 0,
+    "published_at": "2021-04-08T02:52:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxDZSOk2O0xl-52SlN4AaABAg",
+    "author": "@neatt3815",
+    "author_channel_id": "UC55efLqx9MRG5M4MCg2i9Yg",
+    "text": "I bought a cheap invertor once and tried to power my laptop with it and I'd constantly get the blue screen of death.",
+    "likes": 0,
+    "published_at": "2021-04-08T02:13:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxDZSOk2O0xl-52SlN4AaABAg.9LrKEmV9joi9M0O-5VT-mR",
+        "author": "@plainedgedsaw1694",
+        "author_channel_id": "UCpV44KdH-stlB2LXN_Pp7Nw",
+        "text": "Noisey it must have been. Smps can run from DC aswell (it does rectify incoming AC in first step) so if u added rectifier and lotta filtering it would perhaps work better.",
+        "likes": 0,
+        "published_at": "2021-04-11T23:58:13Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy09ix1MHQAqFYEhxx4AaABAg",
+    "author": "@NorthernKitty",
+    "author_channel_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+    "text": "The \"false advertising\" is astonishing, really.  And, anymore, they don't even try to deny it.\n\nI regularly do product reviews for merchants in exchange for merchandise.  It's managed through an intermediary, so I'm under no obligation to give anyone a \"good\" review - they don't know who their products are being reviewed by.  In one particular instance, I was reviewing a USB power bank, and it wasn't producing anywhere near the amp-hour rating they advertised.  When I contacted the manufacturer's support line, I was told flat-out, \"oh, we inflate that number to match what our competitors advertise... but everybody does that so you'll find ours actually performs better than our competitors.\"\n\nNeedless to say, they didn't get a stellar review from me, and I was sure to include their quote in my review.  😋",
+    "likes": 1,
+    "published_at": "2021-04-08T02:12:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwgLzB3UU5ktsJtwn54AaABAg",
+    "author": "@electronresonator8882",
+    "author_channel_id": "UC0GpK82-At-guMQWpsmtFRg",
+    "text": "rather than a signal generator that again must deal with mosfets,  I think it's better to pick 120 mm of that fan,  put strong magnets on the blades, lots of coils on the side, and spin it near 50 Hz, connect it to a transformer and hope that can generate 1000 watts or more",
+    "likes": 0,
+    "published_at": "2021-04-08T00:50:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwgLzB3UU5ktsJtwn54AaABAg.9LrAmJFcIF79LzSNBMjrY5",
+        "author": "@leviahamefula3994",
+        "author_channel_id": "UCpBZLH3J4AXX-_i3DpPLhuA",
+        "text": "Doesn't work that way unfortunately",
+        "likes": 0,
+        "published_at": "2021-04-11T05:57:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyukgZrK-Jp0ktOM1J4AaABAg",
+    "author": "@electronresonator8882",
+    "author_channel_id": "UC0GpK82-At-guMQWpsmtFRg",
+    "text": "but digital oscillators also produce pure sine wave, is just that when you want more power, even operational amplifiers must connect to transistors or mosfets to do it, and they're able to switch really fast with lots of amperes, but still they have to rely on Pulse Width Modulation (PWM) to create average voltage which follow a certain code sequence in microcontrollers, which in end that sequence looks like sine wave",
+    "likes": 1,
+    "published_at": "2021-04-08T00:37:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKzOoqdRlpGL-v-fF4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Morning Rob, nice work.",
+    "likes": 0,
+    "published_at": "2021-04-07T23:33:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxQicklL3kkukDn13N4AaABAg",
+    "author": "@Topsiekku",
+    "author_channel_id": "UC-qFwNmQC5YM4kX6w_X3liA",
+    "text": "Don't you have to make that electric car?",
+    "likes": 0,
+    "published_at": "2021-04-07T22:44:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBit-1mMORSeTVDYl4AaABAg",
+    "author": "@eulusgarza5765",
+    "author_channel_id": "UC45-nMtRcIY8y1MpBhYqnHQ",
+    "text": "How to drive high-voltage and amperage is the key to make it cheap, high power solid state electronics are quite expensive, I generated the sine-wave with a DAC but the current required to drive the coils takes quite a high amperage so... that's the challenge.",
+    "likes": 0,
+    "published_at": "2021-04-07T22:29:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyTnc5RN2n-4meIa0l4AaABAg",
+    "author": "@brettmoore3194",
+    "author_channel_id": "UCdcVugB5r6PDcl5gxrApB3g",
+    "text": "I know man tired of my comments. A spark gap with cap and load could produce a perfect sine. A forgotten guy name tesla designed it. So to get around the emf noise one could use 12v neon bulbs in parallel or series for the gap. Cap would vary as well as load. Electronic engineering isnt hard just forgotten. Most designers follow misinformed knowledge which leads them to the same results as others. Who could be the first to past gamma waves by using specialized vacuum pentodes?",
+    "likes": 1,
+    "published_at": "2021-04-07T22:06:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxrra_leg2bThnxRIB4AaABAg",
+    "author": "@McRootbeer",
+    "author_channel_id": "UC5O7TtGnUjhFYWYZKgeIKNg",
+    "text": "Any chance of this adding up to you making a truly diy solar \"generator\" with homemade battery and inverter?  It would be so cool to see.  Plus it would be good practice before scaling up to a whole home system. 😃",
+    "likes": 5,
+    "published_at": "2021-04-07T21:50:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyocJs5LRojhZJI0xN4AaABAg",
+    "author": "@saiello2061",
+    "author_channel_id": "UCsQiuEDozzUfA8eH6-CPzDQ",
+    "text": "Wonder if its possible to create other waveforms in this simple way just by adjusting the positional interaction of magnet and coil. Square wave? Sawtooth...?",
+    "likes": 0,
+    "published_at": "2021-04-07T21:45:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyfZ92THfVPaoMDDNd4AaABAg",
+    "author": "@Nick_Tag",
+    "author_channel_id": "UCQuQ5lvcFq7sES_QJ77qjJQ",
+    "text": "Hmm i’ll dig out my old lab book and check out the humble “Op-Amp”... Using this mechanical drive to modulate the wave form but not carry the bulk of the power makes we wonder if not having a precise enough “clock” is the issue with the commercial inverters. This one IS the clock!",
+    "likes": 0,
+    "published_at": "2021-04-07T20:24:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyfZ92THfVPaoMDDNd4AaABAg.9LqhOr8oGPO9M0OLlzmYG1",
+        "author": "@plainedgedsaw1694",
+        "author_channel_id": "UCpV44KdH-stlB2LXN_Pp7Nw",
+        "text": "No, its principle commercial converters work at that creates waveform similar in V/A RMS characteristics to pure sine wave but in reality it's just AC PWM and it's noisy and problematic with certain loads.",
+        "likes": 0,
+        "published_at": "2021-04-12T00:01:18Z"
+      },
+      {
+        "id": "UgyfZ92THfVPaoMDDNd4AaABAg.9LqhOr8oGPO9M2Q3Gn9BBI",
+        "author": "@Nick_Tag",
+        "author_channel_id": "UCQuQ5lvcFq7sES_QJ77qjJQ",
+        "text": "@plainedgedsaw1694 RMS stands for \\Root Mean Square? [of the Ohmic Resistance] ? That would def explain why and when non-Ohm-like components introduce noise. And to be specific i guess that would be a periodic AC wave but then needing to be shifted down to centre over +-0V",
+        "likes": 0,
+        "published_at": "2021-04-12T18:54:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyRRz2wgirfPHrCWcx4AaABAg",
+    "author": "@czechyorker",
+    "author_channel_id": "UCBnRkcjNqjDcyWrzwaie3Dw",
+    "text": "I'm just watching a video on YT that's called \"Ambri: A Battery that Could Change the World\". Maybe that's something you may want to look into. If we can try to make a liquid battery at home that would be awesome.",
+    "likes": 0,
+    "published_at": "2021-04-07T19:47:07Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyRRz2wgirfPHrCWcx4AaABAg.9Lqd4UADmwC9LqhfwENGEZ",
+        "author": "@Nick_Tag",
+        "author_channel_id": "UCQuQ5lvcFq7sES_QJ77qjJQ",
+        "text": "*liquid metal.. hehe sounds like a challenge to do at home",
+        "likes": 0,
+        "published_at": "2021-04-07T20:27:19Z"
+      },
+      {
+        "id": "UgyRRz2wgirfPHrCWcx4AaABAg.9Lqd4UADmwC9LqlS5iMwGe",
+        "author": "@kyleb3754",
+        "author_channel_id": "UCjeLRHkRfdFJ1LRlpE_9QWw",
+        "text": "If something has \"change the world\" in the title, its probably b***sh**",
+        "likes": 0,
+        "published_at": "2021-04-07T21:00:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw4CRmsEjkpjnZQNZF4AaABAg",
+    "author": "@jimmycorkhill1390",
+    "author_channel_id": "UCdAZgScr2uxt1ihjZ4FEd7w",
+    "text": "It is great and I was impressed by its simplicity. However, I have 4 of the claimed pure sine wave inverters, the smallest is in a power pack (solar generator) 400wh and is 400W output costing 330 euros. The largest is a 4kW model with combined 4kW solar charge controller and utility charger costing about 450 euros. They all work all electronic and digital stuff perfectly well for years. Unless one could get free or cheap motors to make a true pure inverter, would it be cost effective? I know it would be fun and great experience. Best wishes.",
+    "likes": 1,
+    "published_at": "2021-04-07T19:42:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0_37pEJGRgikgRF14AaABAg",
+    "author": "@overbuiltautomotive1299",
+    "author_channel_id": "UCq3DTW3znRPwfZlXaL1X7uQ",
+    "text": "be fun to have you as a nieghbor",
+    "likes": 0,
+    "published_at": "2021-04-07T19:35:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx0_37pEJGRgikgRF14AaABAg.9LqbkBUZT409Lqtz1uXqWF",
+        "author": "@____________________________.x",
+        "author_channel_id": "UCTHt3aSZ5kVogGZxr680ppQ",
+        "text": "I'd prefer Gillian Anderson tbh",
+        "likes": 0,
+        "published_at": "2021-04-07T22:14:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxAo8moZYvt2UXtl2F4AaABAg",
+    "author": "@EnterTheRealm",
+    "author_channel_id": "UCqFMRq6kMZ_dE6LKd6SbvHw",
+    "text": "Love it. Nice to actually see it in the scope.",
+    "likes": 1,
+    "published_at": "2021-04-07T19:28:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyxeX_CXwfjcD4aErx4AaABAg",
+    "author": "@ChristieNel",
+    "author_channel_id": "UCWrQ00sT531VE0shByDhnYA",
+    "text": "A \"pure\" sine wave is generated digitally by using a very high frequency PWM into high power MOSFETs (half bridge?), where the PWM duty is modulated using a DAC, which will consequently have the resolution of the DAC. But add an inline inductor or bypass capacitor and it's pretty smooth. But then, once you add a decent load, especially an inductive load, it will distort the shape and frequency of the sine. It's pretty messy stuff. You might use the fans to drive the duty cycle. There's also the start up to consider. If you're starting up, you'll be generating DC initially instead of 50 Hz, which will seriously mess up some devices.",
+    "likes": 4,
+    "published_at": "2021-04-07T19:05:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzvnw4NrOaE7axXOql4AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "Thats true. Modern inverters will not produce perfect sine waves. In reality though it's good enough. These could do way better but for reasons of switching loses it's not done.\nFor a function generator, if you do not need a to high frequency ( say up to 1 MHz ) it can be done with digital pwm and a filter, kind of like the inverter and it will be a more perfect sine wave then any generator. I think  it's done like this in modern function generators",
+    "likes": 0,
+    "published_at": "2021-04-07T18:55:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwrZA3-NTET_zWN6Pl4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "Great connect it to a transformer and get bigger fans ,awesome videos....you are getting to look like doc Brown every day",
+    "likes": 2,
+    "published_at": "2021-04-07T18:48:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxlanjZqAGwxsQ7F1B4AaABAg",
+    "author": "@thomasmoore4576",
+    "author_channel_id": "UCgvC4RzC4YX_VN0QUDMjTrQ",
+    "text": "That's a nice pure sine wave inverter but how could you make it run something like a refrigerator or actually pull a decent load on it",
+    "likes": 1,
+    "published_at": "2021-04-07T18:42:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxlanjZqAGwxsQ7F1B4AaABAg.9LqWgY3x7899LrI_t1QlUt",
+        "author": "@401ksolar",
+        "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+        "text": "Some questions should require a prerequisite",
+        "likes": 0,
+        "published_at": "2021-04-08T01:58:32Z"
+      },
+      {
+        "id": "UgxlanjZqAGwxsQ7F1B4AaABAg.9LqWgY3x7899LrJtoSTgDe",
+        "author": "@neatt3815",
+        "author_channel_id": "UC55efLqx9MRG5M4MCg2i9Yg",
+        "text": "Bigger motors.",
+        "likes": 0,
+        "published_at": "2021-04-08T02:10:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzcyNPyjuPyGfgt2ud4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "I'm still amazed at the... simplistic complexity of this... whole thing. \nCan't wait til my hobby room/lab is up again. Between nothing now.\nI always keep my bottle of FWG conductive ink in sight, for inspiration. 😁",
+    "likes": 2,
+    "published_at": "2021-04-07T18:19:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZ58F_wWFQtPw0dEZ4AaABAg",
+    "author": "@breezer1788",
+    "author_channel_id": "UCQ4zV_-wA0oWDSSQzYkqFQw",
+    "text": "Thank you sir.",
+    "likes": 0,
+    "published_at": "2021-04-07T17:59:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKe69QwPt7f20FPBd4AaABAg",
+    "author": "@Beeeeeeeeeee",
+    "author_channel_id": "UCeGoviyzbvMOJTk-6NEdXxw",
+    "text": "Isn't this more of a signal generator than an inverter? Solid shaft coupled would be much better, as any required power will cause cogging of the driven generator, instantly stopping the interaction between the 2 fans.",
+    "likes": 2,
+    "published_at": "2021-04-07T17:51:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzKe69QwPt7f20FPBd4AaABAg.9LqQo6cTOOb9LqXX5AHi16",
+        "author": "@markhodgson2348",
+        "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+        "text": "Used in aircraft",
+        "likes": 0,
+        "published_at": "2021-04-07T18:49:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLG-wJwmmff0DTt5N4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "Trully, pure sign waves exist only in math functions. Every signwave in the real world is an approximation with some being very very close others just a rough appearance. \n\nmodified sign wave seen in cheap inverters put out effectivly the same rms  valve a sinewave would over a cycle through a pure resistive load but its behavior with nonlinear loads can be tough on motors and electronics. \n\nsocalled \"pure sign wave\" inverters use a pulse width modulation and a filtering inductor and capacitor to put out a reasonably good approximate sign wave that most electronics and motors can work normally with.",
+    "likes": 1,
+    "published_at": "2021-04-07T17:33:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzLG-wJwmmff0DTt5N4AaABAg.9LqOjX0vJR39LqVUPkUIv1",
+        "author": "@dremaboy777",
+        "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+        "text": "You're too educated.\nYou need to go and play with a \"Bi-Toroid Transformer\". Then do the math on the COP, of both the primary and the two secondary coils - during operation 'under load'.",
+        "likes": 0,
+        "published_at": "2021-04-07T18:32:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyzRf-DjExBef6fB614AaABAg",
+    "author": "@tawnihaynie1065",
+    "author_channel_id": "UCUR9y9cDIDADFcEsocXJLcA",
+    "text": "Hi Robert.   Great video.   Please stay safe and healthy and take care of yourself and your family members.   To all members also.  Talk to you later my friend.  ☺☺☺😇😇😇",
+    "likes": 2,
+    "published_at": "2021-04-07T17:26:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxiDNNiOMTrp0E55rF4AaABAg",
+    "author": "@benniedonald",
+    "author_channel_id": "UCzl2RTC5bVpl3YbSjkkMdRw",
+    "text": "Nice information. I just took apart an smart tv 55\". Also a microwave and a vent hood. I am anxious to see what I can come up with. \nAny ideas for the smart tv power supply???",
+    "likes": 0,
+    "published_at": "2021-04-07T16:48:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyVO9QPzTuJ_hyTZKR4AaABAg",
+    "author": "@MisterRorschach90",
+    "author_channel_id": "UCl2H7eNgmGOK9Er11ri0uYg",
+    "text": "I’m not completely awake so I thought this video was about a device from the year 1055.",
+    "likes": 0,
+    "published_at": "2021-04-07T16:40:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzIhjTAu1wuzYeO1U54AaABAg",
+    "author": "@huarwe8797",
+    "author_channel_id": "UCLCLQ_MJyEegJ0VPjn9Inig",
+    "text": "It's a sine of the times 😁",
+    "likes": 9,
+    "published_at": "2021-04-07T16:34:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBQ3WZxBPoztLhDOZ4AaABAg",
+    "author": "@stevecummins324",
+    "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+    "text": "Great video. Voltage+current under load would be interesting too. For reactive and complex power capability etc.\n\nIf DC around and wanting higher volt DC out I'd have thought would be better to boost convert it at high frequency then use low pass filter to block above audio frequency.",
+    "likes": 3,
+    "published_at": "2021-04-07T16:30:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzBQ3WZxBPoztLhDOZ4AaABAg.9LqHZbjufS_9NX7kswnRp_",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "Not electronic.... search 'mechanical boost converter'\n\n'Ludic Science Electromechanical Boost Converter' Nov 17, 2015\n\"This video shows *a curious joule thief circuit that uses a mechanical switch* to do the commutation instead of a transistor. \"\n\ngood enough ? long term  for a bunch running off some cleaned from plastic on one side free aluminium can + carbon earth batteries! under the tree",
+        "likes": 0,
+        "published_at": "2021-05-19T13:42:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzlmO36k2cevAT9Yj94AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Well done.",
+    "likes": 0,
+    "published_at": "2021-04-07T16:28:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzTC-Ue7ETO1hbV0Id4AaABAg",
+    "author": "@LordAroyeum",
+    "author_channel_id": "UCbzwwPjTKzVdKBWPf9OHTjQ",
+    "text": "second",
+    "likes": 0,
+    "published_at": "2021-04-07T16:26:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwRrIPMJAvg4Uvki_l4AaABAg",
+    "author": "@tristan4777",
+    "author_channel_id": "UC3434yNYftuv_441kcleusg",
+    "text": "Awesome little inverter. Thanks for the video.",
+    "likes": 3,
+    "published_at": "2021-04-07T16:26:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwBImrkTrBgo-94B-x4AaABAg",
+    "author": "@justthinkalittle8913",
+    "author_channel_id": "UCm6xvsgmKJvQgQ057MB_g6w",
+    "text": "first comment and great video. What do you think the efficiency is on something like that?  85% or so?",
+    "likes": 2,
+    "published_at": "2021-04-07T16:23:52Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgwBImrkTrBgo-94B-x4AaABAg.9LqGotyD3PD9LqOB-r2zp9",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "I think this one is more about proof of concept than efficiency. Now we know the output waveform it's a good project for us to experiment with at home. Rob is about inspiring us to further experiment on his ideas rather than expect him to do the work for us. Is good and well to watch YouTube and see what's possible but unless we actually do what are we really learning?\nBy the way, I am not saying this is what you do, just saying for others to try these ideas.",
+        "likes": 2,
+        "published_at": "2021-04-07T17:28:11Z"
+      },
+      {
+        "id": "UgwBImrkTrBgo-94B-x4AaABAg.9LqGotyD3PD9LqPWbHutoa",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "assuming  a motor is 90% and a generator were 90% efficent then together 90%×90%=81%. \n\nmotors and generators performance varies with load but I'm guessing more realistic guess is probably close 85%×85%=72.25% for loads close to the limit.",
+        "likes": 0,
+        "published_at": "2021-04-07T17:39:53Z"
+      },
+      {
+        "id": "UgwBImrkTrBgo-94B-x4AaABAg.9LqGotyD3PD9LqUVaTG47e",
+        "author": "@dremaboy777",
+        "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+        "text": "@kreynolds1123 \n\nAs Rob would say 'do the test, mags a vid, and share your results'.",
+        "likes": 1,
+        "published_at": "2021-04-07T18:23:26Z"
+      },
+      {
+        "id": "UgwBImrkTrBgo-94B-x4AaABAg.9LqGotyD3PD9LqadwQV5w6",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@dremaboy777 I have fans and an oscilloscope plus I won the camera giveaway. When it arrives it just give me incentive to film a few experiments, even using a couple of decent DC motors I have turning 3-4 modified fans each might be worth sharing the results.\nOf course this would mean I will have to clean my workbench, lol 🤔",
+        "likes": 1,
+        "published_at": "2021-04-07T19:25:52Z"
+      },
+      {
+        "id": "UgwBImrkTrBgo-94B-x4AaABAg.9LqGotyD3PD9LqePGxZPJm",
+        "author": "@dremaboy777",
+        "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+        "text": "@stevetobias4890 \n\nCompletely understand.\nBetween moving now, and can't wait to get my hobby/lab room assembled again, and for the last time. 👍",
+        "likes": 1,
+        "published_at": "2021-04-07T19:58:41Z"
+      }
+    ]
+  }
+]

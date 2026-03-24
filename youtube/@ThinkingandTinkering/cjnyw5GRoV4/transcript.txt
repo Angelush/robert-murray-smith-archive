@@ -1,0 +1,204 @@
+[00:00] [Music]
+[00:08] so there was is are a whole class of
+[00:11] engines called Hit and Miss engins they
+[00:14] were incredibly popular from about the
+[00:16] 1880s to the 1930s even the
+[00:20] 1950s they were a sort of halfway house
+[00:23] between a steam engine and an internal
+[00:25] combustion engine and what they were was
+[00:27] a great big flywheel so if you give a
+[00:29] fly a mighty shove of course it will
+[00:31] continue to spin under its own inertia
+[00:34] and hit and miss engines were basically
+[00:36] that the Piston had an injection of fuel
+[00:39] a spar was a bang give off a mighty KCK
+[00:42] flywheel the flywheel had a belt
+[00:44] attached to it you could run new
+[00:45] Machinery of course as the flywheel
+[00:48] started to run down there was a governor
+[00:50] attached that would close close a latch
+[00:52] more fuel more spark another kick and
+[00:56] they had a you know characteristic kind
+[00:58] of chuffing whooing sound to them as
+[01:00] they ran now the main reason you don't
+[01:03] see such a lot of them around is because
+[01:05] a lot of them were given up to the steel
+[01:07] Drive during the second world war to
+[01:09] make tanks planes boats but they were a
+[01:13] very reliable machine that just chugged
+[01:16] on for ages because of their inherent
+[01:19] Simplicity they were open to the
+[01:21] atmosphere so they needed Fair bit of
+[01:23] Maintenance but they were incredibly
+[01:24] reliable incredibly simple and did a job
+[01:28] making them very po popular now another
+[01:31] way of referring to this class of engine
+[01:33] is flywheel engine is all you really
+[01:35] needed the heart of it was that flywheel
+[01:38] with a kick that was a mechanical
+[01:41] battery used to run something for a belt
+[01:45] and because this idea hasn't actually
+[01:48] died it's still with us and perhaps one
+[01:50] of the most interesting iterations of
+[01:52] this is a set of electric motors being
+[01:54] run as these flywheel engines or if you
+[01:58] like H and miss engines now there's a
+[02:00] chat who does this called lid motor he's
+[02:03] got his own YouTube channel he's been
+[02:04] doing it for years and basically what
+[02:06] that guy doesn't know about uh pulse
+[02:08] engines isn't worth knowing what you do
+[02:11] is have a fly with some magnets attached
+[02:14] as the magnets pass usually a read
+[02:16] switch it operates a battery gives it a
+[02:19] coil of PS and then of course gives the
+[02:21] flywheel a kick in exactly the same way
+[02:24] as hit and miss
+[02:26] engines now it turns out you don't
+[02:28] actually need the read switch you can
+[02:30] wind a second coil that as the magnet
+[02:33] passes it gives it a pulse that operates
+[02:35] a transistor which turns on a battery
+[02:38] and gives a m Drive coil of puls and off
+[02:40] goes the flywheel now we could make that
+[02:45] couple of coils a transistor capacitor
+[02:48] and a resistor and you're away you'll
+[02:50] have it actually made but came across
+[02:53] this it's a clock pendulum mechanism
+[02:56] available on Amazon and I bought two of
+[02:58] them for £10 if if we look under that
+[03:00] cover what we get is this it's a little
+[03:04] circuit you'll notice that there's a
+[03:06] coil on that circuit and a tiny
+[03:09] integrated circuit right
+[03:12] there that little chip combines a
+[03:14] transistor a compass and a resistor all
+[03:17] in one little IC and it's able to pull
+[03:20] from that pulse coil to turn it off and
+[03:22] on and a battery fits in there to make a
+[03:25] pulse motor so the whole thing is in one
+[03:27] neat little bundled package and you know
+[03:30] sometimes if the grapes are more
+[03:31] expensive than the wine by the wine I'd
+[03:34] have a lot of trouble being able to wind
+[03:36] that hair thin coil we're going to get a
+[03:38] good voltage because there so many turns
+[03:40] and it's so thin and of course it's all
+[03:42] the sold dring to do and then the apart
+[03:44] themselves so finding that was um quite
+[03:48] a thing really big clim was done a
+[03:51] breakdown of what exactly this circuit
+[03:53] is but we can use this circuit directly
+[03:56] to make ourselves a pulse motor and
+[03:58] that's what I thought I'd do
+[04:00] that i' design print and build a pulse
+[04:02] motor all in an afternoon in a lazy
+[04:04] Sunday afternoon when it's sunny outside
+[04:06] and I feel like doing something I'm
+[04:08] going to 3D print the pulse motor and
+[04:10] use this to actually run it so let's get
+[04:13] on with that so the first thing I did
+[04:16] was draw this up in Tinker cat and it's
+[04:18] a pretty simple machine without many
+[04:19] components this red and blue here are
+[04:22] the stand these three parts the blue
+[04:24] wheel the pink wheel and the cream
+[04:27] Center make up the flywheel and that's
+[04:29] the a axle now if you look at the axle
+[04:31] you'll notice there's a little hole in
+[04:32] there because you're going to need some
+[04:34] extra parts one thing you're going to
+[04:36] need is a needle that goes in that
+[04:37] little hole and the next thing you're
+[04:39] going to need are some magnets that fit
+[04:41] in these Square spaces so the magnets
+[04:43] you need are 1 cm by 1 cm by 2 mm anyway
+[04:48] let's get that printed
+[04:57] off to make this nice and quick easy
+[05:00] we're going to reuse the case so we pop
+[05:02] that back in there pop the top back
+[05:07] on and then what we want to do is snip
+[05:10] it here
+[05:12] and here and it will extract that whole
+[05:15] unit as one piece and there it is back
+[05:18] together and snipped off so I've just
+[05:19] snipped off the body put a battery in it
+[05:21] replaced everything and we've got this
+[05:23] one whole Drive Unit that we can just
+[05:25] basically glue onto our model now when
+[05:28] you buy magnets especially flat ones
+[05:30] like this what you find is they're
+[05:32] normally magnetized with one surface
+[05:34] North and the other surface South I
+[05:37] checked out the pendulum what I found
+[05:39] was that this was North and this was
+[05:41] South so it's not north south that way
+[05:44] it's north south that way and so I
+[05:46] figured it'd be better off replicating
+[05:48] what the pendulum magnet was done so
+[05:50] that it fitted with the drive to do that
+[05:53] I use these These are tiny emply they're
+[05:55] 1 cm by half CM by 1 mm and if I fold
+[05:59] them in half like that what I
+[06:01] automatically get is a north side and a
+[06:04] south side and stuff those into the
+[06:06] flywheel two layers deep that's what you
+[06:08] get we've got a north south north south
+[06:11] and they're replicating the pendulum
+[06:13] magnet to finish the flywheel the ring
+[06:16] goes on that Center piece then that
+[06:17] piece drops on top of there like that
+[06:20] and that's the flywheel finished to
+[06:22] finish the base plate glue this bit at
+[06:24] 90° on that bit and you'll see there
+[06:26] I've got the trimming knife blade which
+[06:28] is just a bit of steel for the bearing
+[06:30] to rest on and of course we've got our
+[06:32] two skater bearings one goes in there
+[06:35] and one goes in there to finish the axle
+[06:39] get a household needle and stick it in
+[06:41] that hole finish the assembly Slide the
+[06:44] flywheel in there and drop the axle down
+[06:47] through the center with the needle
+[06:49] resting on the metal plate what you
+[06:51] should find is that that is incredibly
+[06:53] easy to
+[06:54] spin now we take our pre-prepared Drive
+[06:57] mechanism and attach it on to there all
+[07:00] of this incidentally is held together
+[07:02] with Superglue because that's a really
+[07:05] good bond for this kind of thing and
+[07:07] then that model is ready to
+[07:09] go and there it is chugging away now
+[07:12] it's going at a pretty thick speed
+[07:14] because remember this is a pendulum
+[07:16] drive as I said before you can construct
+[07:18] this yourself and if you construct it
+[07:20] yourself then you can change that speed
+[07:23] here you fixed with what you've got but
+[07:26] it is a project you can do in an
+[07:28] afternoon right from Ground Zero now I
+[07:30] used the battery but it could of course
+[07:33] use super capacitor if you use a super
+[07:35] capacitor it becomes much more
+[07:37] impressive in what it can actually do
+[07:39] and how long it can actually run lid
+[07:41] mot's had one of these running I think
+[07:43] it's for something like 6 years so there
+[07:46] you go a hit and miss a pulse engine a
+[07:49] flywheel engine a flywheel motor pulse
+[07:51] motor whatever you want to call it
+[07:54] there's a project to do that I really
+[07:56] did design print and build in less than
+[07:59] a day probably about half a day on a
+[08:01] Sunday afternoon so can be a fun project
+[08:04] now there's lots of actual work that
+[08:06] goes on on these things looking
+[08:08] particularly actually at the electronics
+[08:10] that drives it and trying to get the
+[08:13] least amount of energy used to keep that
+[08:15] thing turning but it also makes a pretty
+[08:17] interesting desk toy I will put the FES
+[08:19] on thingy ver if you're interested thank
+[08:22] you very much for watching and I do hope
+[08:24] you enjoyed the video

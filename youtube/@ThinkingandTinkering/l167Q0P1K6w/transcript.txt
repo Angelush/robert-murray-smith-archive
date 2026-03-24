@@ -1,0 +1,124 @@
+[00:02] [Music]
+[00:15] hi
+[00:16] and welcome to another video on working
+[00:17] with the arduino now it's called working
+[00:19] with the arduino for a really good
+[00:21] reason
+[00:22] if you thought i knew how to program the
+[00:24] arduino
+[00:25] i don't all i know how to do is to go to
+[00:28] the arduino hub and find a bit of code
+[00:31] that i
+[00:31] want to do a job and i know i'm standing
+[00:35] on the shoulders of giants those guys
+[00:37] who write that code well they deserve
+[00:38] our respect and they're
+[00:40] really bright guys and i'd like to give
+[00:42] a shout out to all of them
+[00:43] who've contributed to the forums and to
+[00:46] the hub that i'm taking this code from
+[00:48] and using it
+[00:49] and that's all i'm doing taking it and
+[00:52] using it
+[00:53] so here's a good example very often
+[00:56] you want to press a button have
+[00:58] something do something until you press
+[01:00] that button off again and we've done
+[01:02] relay latching circuits where we've done
+[01:04] exactly that using mechanical relays
+[01:07] now because you can do that using the
+[01:08] arduino as well
+[01:10] pretty easy actually and there's loads
+[01:12] of times you'd want to do that for
+[01:14] instance press a button run a motor
+[01:15] motor runs until you press that button
+[01:17] again and the motor stops and that's
+[01:19] called latching
+[01:20] now that's relatively easy to do on the
+[01:22] arduino and
+[01:24] here is the code
+[01:29] now because i haven't given a link to
+[01:30] the code because you just put in
+[01:32] latching arduino in a google search
+[01:35] it'll take you straight there and you
+[01:36] can copy that code you'll find different
+[01:38] code for different things
+[01:40] the circuit actually looks like this
+[01:47] and here is the board you might notice
+[01:49] it looks exactly like it did in
+[01:51] video 1011 where we used uh
+[01:54] the internal pull up resistor and we are
+[01:56] using input pull up on this
+[01:59] but there's something different that
+[02:00] happens watch what happens to the led
+[02:02] when i press the button
+[02:04] it goes on and it stays on so if i press
+[02:08] the button
+[02:09] it goes off and it stares off on
+[02:14] in the previous video i had to hold the
+[02:15] button down in this one i press it
+[02:18] let it go and it does that job now in a
+[02:20] sensor
+[02:21] you'd want that to be active only when
+[02:23] you press the button down which is why
+[02:25] we used it that way
+[02:26] in this application where we want
+[02:28] something to run we just want to push
+[02:30] have it run until we push the button
+[02:32] again and that's all we need to do
+[02:34] okay so it's lighting a light and that
+[02:36] light stays on that might not seem
+[02:38] really super but if you look at the code
+[02:41] and you might have to skip back on this
+[02:42] you can see the bit of code that does
+[02:44] that and it's here digital right led pin
+[02:47] and we've defined led pin as pin 13
+[02:50] which we did earlier
+[02:51] pin 13 is the led on this board but the
+[02:54] bit of code that
+[02:55] turns that light on or sends that signal
+[02:57] to do that like job is that digital
+[02:58] right led pin
+[03:00] now we can equally do digital right pin
+[03:03] seven
+[03:04] and if we did pin seven and sent that to
+[03:06] a relay
+[03:07] we could turn the motor off and on so
+[03:09] you only need to do two things
+[03:11] really one find the bit of code that
+[03:13] does the job you want
+[03:14] two recognize in the code which bit it
+[03:18] is
+[03:19] that does that job and then change that
+[03:22] bit
+[03:22] only that bit and it's not even that
+[03:24] complicated all i have to do is change
+[03:26] that number thirteen to seven and
+[03:28] instead of do what i'm putting here
+[03:29] it'll output on pin seven
+[03:31] if i stick a relay on pin seven i can
+[03:33] turn the motor off and on
+[03:35] that is basically all i'm doing here i'm
+[03:38] not programming it particularly
+[03:39] i am really am using other people's
+[03:42] genius
+[03:43] to do the work i want to do now i'm not
+[03:46] pretending it's my genius and i'm very
+[03:48] grateful to those people for having done
+[03:50] that
+[03:50] but we can use that when we're working
+[03:53] with
+[03:54] it and we should use that when we're
+[03:56] working with it
+[03:57] because we want to do a job with the
+[04:00] we don't necessarily want to program it
+[04:02] i mean it does get really fascinating
+[04:04] okay so you will get into programming
+[04:06] i'm sure
+[04:07] when you start working with arduino but
+[04:09] to work with an arduino and to program
+[04:11] an arduino
+[04:12] they're two different things we're more
+[04:15] interested in working with the arduino
+[04:17] anyway i hope that was inventors to you
+[04:19] and thank you very much for watching

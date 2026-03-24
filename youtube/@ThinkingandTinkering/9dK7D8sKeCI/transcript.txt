@@ -1,0 +1,526 @@
+[00:03] so you want to build an induction coil
+[00:06] eh well let me begin there are a number
+[00:11] of items on this board which are
+[00:13] integral to the operation of the device
+[00:16] namely two mads these commute
+[00:19] electricity through the coil in the tank
+[00:21] and they cause an oscillation to occur
+[00:24] between the capacitor and the duwal
+[00:26] lining over here now electricity fls
+[00:31] through here minimum of 15 volts through
+[00:34] this inductor here and through the
+[00:36] center tab it goes around each of the
+[00:39] coils through each of the mosfets and
+[00:42] out through the
+[00:43] ground now you may be wondering well how
+[00:47] does this thing oscillate given that
+[00:49] electricity is Flowing around through
+[00:51] both of the mosed gates and out wouldn't
+[00:54] this just approach a steady state you
+[00:56] might be wondering and I wouldn't that
+[00:58] too well let us examine this a little
+[01:01] bit closer first of all a couple of
+[01:04] things out of the
+[01:05] way these two things here are Xeno
+[01:08] diodes set 12vt Xeno diodes their
+[01:11] purpose is singularly to regulate the
+[01:14] voltage at the gates so should we see a
+[01:17] higher voltage than 12 volts here these
+[01:20] xenides will shunt the voltage shun the
+[01:22] current through to the ground thereby
+[01:25] limiting the voltage of the gates since
+[01:27] these Ms the way they are constructed
+[01:29] you cannot have more than 20 volts
+[01:31] difference between the gate and the
+[01:35] source
+[01:36] thus the 10K resistors here are simply
+[01:39] to pull down the mosfet gates in the
+[01:42] event that we approach zero to ensure
+[01:44] that these things go properly off and
+[01:48] the 470 resistors here are to limit the
+[01:51] current going through the both the Zena
+[01:53] and the
+[01:54] 10K okay the 200 M micro micro
+[02:00] Henry inductor here is to prevent the
+[02:04] backf from destroying your power supply
+[02:06] quite
+[02:07] crucial right now let us proceed to
+[02:10] explain how this thing
+[02:13] operates the crucial element here are
+[02:17] the dodes you will see from either side
+[02:20] a diode connected to the opposite side
+[02:23] of the coil thus this top rail here has
+[02:26] a diode connected to the bottom rail of
+[02:29] the inductor tank zuit and this bottom
+[02:32] rail here has the diode connected to the
+[02:34] top rail of the inductor tank
+[02:37] zuit now imagine we turn this thing on
+[02:40] and we have current flowing through the
+[02:43] center T and through each of the MOs
+[02:45] spads this is a steady state there's no
+[02:48] potential difference between here and
+[02:49] here so how can the capacity be charged
+[02:51] How can any oscillation happen well as
+[02:54] it happens any minute fluctuations
+[02:57] caused by differences in the mo or the
+[03:00] resistors or uh atmospheric conditions
+[03:03] or you know whatever May will cause a
+[03:06] potential difference to occur this will
+[03:09] cause the capacitor to be charged ever
+[03:11] so
+[03:12] slightly and then what this will also do
+[03:15] because there is now a potential
+[03:16] difference there will be a potential
+[03:18] difference between this R let's imagine
+[03:20] for example that this is charged here
+[03:22] positively and this negatively there
+[03:24] will also be a potential difference
+[03:26] between this top Rail and the bottom
+[03:28] rail which means we will start to draw
+[03:30] current away from this gate this will
+[03:33] turn this gate off which will stop the
+[03:36] flow of current here and therefore it
+[03:40] will allow the potential difference to
+[03:44] be to be normalized and the current will
+[03:47] have nowhere to go so it must flow out
+[03:49] of the capacitor and through the
+[03:52] induction
+[03:54] coil this
+[03:56] then because of the back EMF of the
+[04:00] coil pulls the uh current in the
+[04:04] opposite direction
+[04:05] slightly so what we get set up is a very
+[04:08] minute oscillation so the capacitor
+[04:11] charges pull pulling this gate off which
+[04:14] then allows current to flow through the
+[04:17] way and it charges this one and when
+[04:20] this one charges it then pulls pulls
+[04:22] this gate off which then uh causes the
+[04:26] current to flow back through this way
+[04:28] each time the back EMF contributes to
+[04:30] the buildup of
+[04:32] voltage so that I hope that was clear
+[04:36] but it's rather complicated so I'm going
+[04:38] to show you an animation which might
+[04:39] make that more apparent but essentially
+[04:42] this is how it happens what we have is
+[04:46] the capacitor charging and the charging
+[04:49] action being set up by a potential
+[04:51] difference causes the gate to close
+[04:54] which then causes
+[04:56] a the capacitors to be discharged
+[04:59] through the coil
+[05:01] uh with a corresponding back EMF that
+[05:03] then charges the Capac the other way so
+[05:05] this action is commutated by the diodes
+[05:08] and this causes what is known as the
+[05:10] zero voltage switching of these mosfets
+[05:13] since they go to zero voltage and they
+[05:15] turn
+[05:16] off in in sequence like this the
+[05:20] oscillation of this tank circuit will
+[05:22] have a resonant frequency determined by
+[05:25] the capacitance and the inductor that is
+[05:27] chosen so we can set the frequency by
+[05:29] changing these things of course we often
+[05:32] manufacture this using copper coil and
+[05:35] this may be quite difficult to
+[05:37] manufacture therefore our inductance is
+[05:39] often set so then we have to modify our
+[05:42] capacitor in order to get the frequency
+[05:43] we desire for the correct heating of the
+[05:45] metal
+[05:47] element okay so that's how it works and
+[05:52] uh let's have a look at animation shall
+[05:58] we okay so I've been de possessed from
+[06:01] that Victorian fellow and I'm back to
+[06:04] normal so what I want to show you is a
+[06:06] quick animation of how this works um I'm
+[06:09] using a tool here called circuit
+[06:11] simulator which is from fad. comom so
+[06:16] www.fast.com circuit it's a very nice
+[06:19] simulator because it shows the flow of
+[06:22] current I've got this um the C the file
+[06:25] for this uh circuit from a YouTuber
+[06:28] called Doom 2 Pro
+[06:30] cuz he had a um simulation of it now
+[06:32] what you might notice is that it
+[06:34] actually says flyback driver this is
+[06:38] because um the circuit is identical
+[06:40] we're using a flyback driver circuit but
+[06:43] instead of a um secondary coil here
+[06:46] being a high voltage generator our
+[06:49] secondary coil will be the thing that we
+[06:51] put
+[06:52] inside the induction coil so you know
+[06:55] the piece of metal that we want to heat
+[06:57] and that'll be like a a single
+[07:00] a coil with a single turn essentially
+[07:03] and how the induction heater works is
+[07:04] when over the primary so our work coil
+[07:08] when we induce a
+[07:10] alternating current of a very high
+[07:13] frequency this obviously sets up a very
+[07:15] strong alternating magnetic field which
+[07:18] then induces in the secondary which will
+[07:20] be our work piece that we put in there
+[07:22] our piece of metal induces currents
+[07:25] these are called Eddie currents and
+[07:27] because everything's trying to move
+[07:28] around and the is nowhere for it to go
+[07:31] it generates resistance as in any piece
+[07:34] of wire generates resistance which
+[07:35] causes the workpiece to heat up to a
+[07:38] very high temperature so let's have a
+[07:40] quick look at this
+[07:42] um so the oscillations are between the
+[07:45] capacitor and the secondary so this is a
+[07:49] center tapped uh coil here and this
+[07:52] driver is known as a mazili driver after
+[07:55] the guy that you know popularized it but
+[07:58] there's another circuit called a royal
+[07:59] oscillator upon which it is based which
+[08:02] it dates back to
+[08:03] 1954 so let me reset this simulation and
+[08:06] I've got a plot down here which is going
+[08:07] to show the voltage over the
+[08:09] capacitor and okay so now it's running
+[08:12] and you can see the oscillation so going
+[08:15] back and forth on to both plates of the
+[08:18] capacitor charging and discharging and
+[08:20] you can see at the bottom here on the
+[08:21] graph that the um the system reaches a
+[08:25] kind of uh steady state or steady
+[08:28] oscillating state
+[08:30] where the oscillations are fixed they
+[08:33] actually build up if you look at the
+[08:34] beginning they build up from nothing
+[08:36] until they reach the peak and then they
+[08:38] they stop at that Peak to Peak and they
+[08:41] remain stable like that now the reason
+[08:43] that they build up is because every time
+[08:45] you get a discharge if I slow it slow it
+[08:48] down and reset
+[08:51] it
+[08:54] uh we
+[08:56] go is because once when this is charging
+[08:59] up and I've slowed it down so you can
+[09:01] see that the capacitor is discharging
+[09:03] and this initial potential difference to
+[09:05] charge the capacitor can be very small
+[09:07] to begin with but it
+[09:11] discharges um across the um across the
+[09:16] inductor which means that when the
+[09:18] second plate is then charged and we
+[09:21] discharge in the opposite direction
+[09:23] you've actually got a collapse of a
+[09:24] magnetic field here so you get the back
+[09:26] EMF which then causes an incre increase
+[09:29] of voltage when it's charging up the
+[09:31] other way so each time the oscillations
+[09:34] occur you have the additive effect of
+[09:38] the back EMF from the coil which then
+[09:41] causes the voltage to increase that's
+[09:43] why we see a voltage increase as the O
+[09:47] oscillations Ono until we reach the
+[09:49] resonant frequency of the capacitor and
+[09:52] the coil which is just uh you know we're
+[09:55] just about reaching the the first
+[09:56] swinger bar oscillation here if I speed
+[10:00] it up we'll be going back the other
+[10:03] way but yeah just that's really the key
+[10:06] there the to the voltage buildup between
+[10:09] in the tank circuit is that we're
+[10:11] swinging through an inductor so you get
+[10:14] back EMF adding to the charge and now
+[10:17] also what you can see in this animation
+[10:20] is that if I have a look at the uh the
+[10:24] gate this is called zero voltage
+[10:27] switching which means that the gates
+[10:28] really go go all the way
+[10:31] off
+[10:34] um
+[10:36] okay struggles a little bit to you can
+[10:39] see here on the gate that we're actually
+[10:41] off we've got off periods
+[10:44] here now with this particular inductor
+[10:46] and this capacitor are about 65 um ktz
+[10:49] we want it to be faster than that for
+[10:51] most heating because the heating occurs
+[10:53] very skin effect and um for different
+[10:57] frequencies are suitable for different
+[10:59] metals and depending on the size of
+[11:01] metal you want to choose different
+[11:02] frequencies so it's good to be able to
+[11:03] change out your capacitor to to get the
+[11:06] matching
+[11:07] correct right so the final thing I
+[11:10] wanted to say is every time we switch
+[11:13] the switching causes this via these
+[11:17] dodes these two dodes that's what
+[11:20] actually pulls the gates down and turns
+[11:22] them off and so if you look at the gates
+[11:24] you'll see them alternately going green
+[11:27] because they're alternately on and off
+[11:29] because each one this corresponds with
+[11:32] the flow of with the changing potential
+[11:36] difference between these two lines
+[11:38] because that causes alternately each of
+[11:40] these dooses to pull off each of those
+[11:42] Gates alternately and that's how you get
+[11:44] the switching effect all right well I
+[11:47] hope that made things a bit clearer but
+[11:49] you know you can um look up this guy
+[11:51] download the simulator and play around
+[11:53] with this yourself and it's a very
+[11:56] simple oscillator and it's probably the
+[11:58] easiest induct IND induction heater to
+[12:00] make and that's why I chose it to
+[12:04] do all right I'm going to tell you how
+[12:06] now I'm going to tell you how I built
+[12:07] mine so the components I used this is a
+[12:12] irfp 150n
+[12:15] mosfet and on here these are heat sinks
+[12:19] I got off a very large uninterruptible
+[12:22] power supply a very large one and so
+[12:26] this will keep these nice and cool these
+[12:28] will get hot now the
+[12:32] irfp150n has a voltage maximum tolerable
+[12:36] voltage between the drain and the source
+[12:38] of 100
+[12:39] volts that means that we
+[12:42] cannot really use uh an input power of
+[12:46] more than something like 40 volts this
+[12:48] is because the the way that the
+[12:52] induction coil cause the back EMF of the
+[12:55] induction coil causes the the resonant
+[12:58] voltage to be a lot higher than your
+[13:00] supply voltage it's approximately pi
+[13:02] times the supply voltage I've got um 24
+[13:06] volt Supply and so yeah you'd expect
+[13:09] that to be something like 70 volts
+[13:13] around that and that's pretty much what
+[13:15] it looks like from the
+[13:17] oscilloscope so there's only 30 volts to
+[13:20] play with there if you want to drive it
+[13:22] with a higher voltage then you're
+[13:24] probably going to need a bigger
+[13:26] mosfet uh another important feature of
+[13:28] the mosfet there is make sure you get
+[13:30] one with a low uh on voltage on
+[13:33] Resistance uh it's I guess that's pretty
+[13:36] obvious you don't want it to heat up
+[13:38] when it's on so you want it you want you
+[13:40] want it to look like a closed circuit
+[13:43] when it's when it's on the other
+[13:46] components here are the these are the
+[13:47] dodes the two dodes the switching diodes
+[13:50] the ones that feed
+[13:52] um feed the signal back to either side
+[13:55] of the work coil and switch it on and
+[13:57] off and in this particular case I pulled
+[14:00] off the UPS on DS1 145 5-08 a um they're
+[14:07] they've got a reverse maximum reverse
+[14:09] voltage of 800 volts they can tolerate
+[14:12] and quite a high current by the way the
+[14:15] mosfets can have a forward current of 44
+[14:18] amps so they're pretty pretty beefy
+[14:20] things the Xena dios here 12v Xeno dios
+[14:23] are just one watt um they don't pass a
+[14:26] lot of current the 10ks here are 2 W
+[14:29] resistors and the 470s here are two 2 W
+[14:33] resistors as
+[14:35] well looking at the capacitor bank now
+[14:40] the capacitor bank is going to be
+[14:41] switching as fast as your resonant
+[14:43] circuit is switching so this means it
+[14:45] has to be able to tolerate high
+[14:47] frequency switching otherwise it does
+[14:49] get very hot and it it will get hot this
+[14:51] will heat up quite a lot in my case it
+[14:55] won't because these are 850 volt
+[14:59] um capacitors designed for a rectifier
+[15:02] so designed for highfrequency switching
+[15:05] each of these is one microfarad each and
+[15:08] in order to ensure that they do not get
+[15:10] hot I've got four of them in series to
+[15:13] give a capacitance of quarter of a
+[15:17] microfarad and then put two put that
+[15:21] configuration back to back with another
+[15:22] four to give
+[15:24] approximately half a microfarad or 500
+[15:27] nanofarad now that coupled with the coil
+[15:32] this is a Rob special coil rectangular
+[15:36] coil we've got a special purpose in mind
+[15:39] for this one and this has an inductance
+[15:42] of around uh
+[15:44] three micro henries now if you do the
+[15:46] calculations it's 1 over 2 pi to the
+[15:50] square root of the inductance SI of
+[15:52] capacitance and the calculations say
+[15:54] it's around
+[15:55] 136 um KZ but in prac this is actually
+[15:59] oscillating at 175 khz so because you
+[16:04] know probably haven't measured the
+[16:05] inductance properly and the capacitance
+[16:07] isn't exactly as I imagine it to be and
+[16:10] so on and in reality things in the
+[16:12] physical world tend to not behave
+[16:17] ideally so that's the the tank and the
+[16:22] inductor we need to power this thing as
+[16:24] well of course so I'll give you a quick
+[16:26] look at what power supply I'm using here
+[16:29] now we've got this computer place and
+[16:32] they get these by the ton literally by
+[16:35] the ton and um so we managed to get
+[16:37] these pretty cheap off them and these
+[16:39] are old server power supplies this is
+[16:41] this model is a
+[16:45] 7,814 and this model is an NPS 700 AB
+[16:49] these are 12vt power supplies they're
+[16:52] actually both the same they both got a
+[16:54] rated current at 12 volts of 57.3 amps
+[17:00] now this the only difference between
+[17:02] this one and this one is this one has a
+[17:05] little voltage adjustment see little
+[17:07] trim pot in there so you can change the
+[17:08] output voltage if you want now I've
+[17:11] wired these up in series to give me 24
+[17:13] volts the way to wire them up in series
+[17:16] well what you need to do is the DC
+[17:18] output and the AC um input are both
+[17:22] grounded to the case which means if you
+[17:25] take the DC output from here and just
+[17:27] try to wire it in series like you would
+[17:29] with a couple of batteries you're in
+[17:31] essence shorting the DC output to
+[17:33] directly to ground since they're all
+[17:35] tied together so the way to put them in
+[17:37] series is to open this up and remove the
+[17:40] DC grounding which means that when you
+[17:43] put the DC positive into here in series
+[17:46] you're not shorting it to ground and
+[17:48] therefore you actually get the 24 volts
+[17:49] you want the way I did that I don't if
+[17:51] you can see here I just um took just
+[17:54] took the screws out and bent away the
+[17:57] chassis grounding
+[17:59] attachments and that worked just fine
+[18:02] and dandy
+[18:04] actually I'm going to clean this wiring
+[18:06] up I know it's a mess the only other
+[18:07] thing you'll note here is I've put a
+[18:09] couple of uh rather crude uh filters on
+[18:13] the back to stop me putting my fingers
+[18:16] in there and getting them chopped off in
+[18:18] those powerful
+[18:19] fans all right oh one final thing I
+[18:22] forgot to mention couple of things we've
+[18:25] got
+[18:26] the induction coil this is a filter
+[18:29] induction coil that stops backy from
+[18:31] wrecking your power supplies and from
+[18:33] well from Power leaking away essentially
+[18:35] away from the tank and just got that off
+[18:38] the UPS again it I measured it it had a
+[18:41] inductance of 184 micro Henry the final
+[18:44] piece here is just around here is um on
+[18:48] the back if you'll notice but I've got a
+[18:52] fan over there which again was off the
+[18:56] ups and that's a 24 4V DC fan so that's
+[19:01] blowing air across
+[19:04] the um mosfets to stop them from
+[19:10] overheating so that is the complete
+[19:12] setup there and this makes a hell of a
+[19:14] lot of noise when you plug it in but it
+[19:17] does
+[19:18] work right well let's fire this thing up
+[19:21] and have a look what it can
+[19:23] do all right before I turn this thing on
+[19:26] you know I've already turned it on and I
+[19:28] wasn't happy with the power and yeah I
+[19:31] had a very high frequency there was half
+[19:33] a microfarad capacitor bank and that
+[19:37] ended up with a frequency it was
+[19:39] probably something like 300 Nar a bit
+[19:42] more imp impr practice measured cuz the
+[19:44] frequency was 175
+[19:47] khz now that's a very high frequency so
+[19:50] you'd expect it to be a very high um
+[19:53] skin effect and high resistance from the
+[19:55] skin effect good heating because of that
+[19:57] uh very good history effect changing of
+[19:59] the magnetic domains of fer magnetic
+[20:01] material and I'm heating iron so uh
+[20:05] you'd expect that to be very good with a
+[20:06] high
+[20:07] frequency
+[20:08] but it wasn't heating very
+[20:11] quickly so what I've done I've replaced
+[20:14] this bank with
+[20:16] a well this only part of the bank the
+[20:18] rest of it is now about 2 and 1 half
+[20:21] microfarads so we got a higher
+[20:23] capacitance there that reduces the
+[20:25] frequency but now more current can flow
+[20:29] now if you look at the how magnetic
+[20:31] field is induced it's proportional to
+[20:33] the voltage so you see a lot of people
+[20:35] saying oh well just use a higher voltage
+[20:37] well I haven't got higher voltage so but
+[20:41] what's happening at
+[20:42] 175 K the inductor has a time constant
+[20:48] so the magnetic field is not able to
+[20:49] fully build up because the current
+[20:53] doesn't probably doesn't reach
+[20:54] saturation through the coil so but if
+[20:57] you use a bigger capacitor then you're
+[20:59] getting much greater current flowing
+[21:02] through the um coil so you're getting
+[21:05] more power
+[21:07] transfer so I'm going to turn it on set
+[21:09] up the camera so you can see heating an
+[21:11] iron bar and turn it on and show you
+[21:14] just how quickly this thing can reach an
+[21:16] iron bar even if it's a big
+[21:27] inductor
+[21:50] okay so he heated this thing are glowing
+[21:53] let's stick it in some water and here it
+[21:55] hits I'm just going to turn it off or
+[21:57] put it out
+[21:59] right here we go you can see it in there
+[22:02] that's pretty hot piece of uh
+[22:06] steel so let's take it over to the
+[22:08] sink see see that in the sink glowing
+[22:11] red that's a pretty hot piece of metal
+[22:14] I'm just going to
+[22:17] uh do a bit of a kneeling on
+[22:22] it that's really hot there you
+[22:27] go you may be wondering why there is a
+[22:30] spoon inside the induction coil do you
+[22:32] recall the video where Steve copper
+[22:35] plated a stainless steel spoon and Rob
+[22:38] subsequently solded a wire to it well
+[22:41] that spoon didn't like it it didn't like
+[22:43] to be burned like that and it set Upon
+[22:46] Us its Army of spoons I captured one and
+[22:49] now I'm going to interrogate it to make
+[22:51] it yield its secrets so let us see will
+[22:55] it reveal its Secrets or
+[22:57] not
+[23:00] throw the switch I throw the
+[23:03] switch it
+[23:27] melts
+[23:33] so there you have it an iron bar and a
+[23:36] spoon heated to glowing red we've not
+[23:38] seen anything melt yet so there's only
+[23:42] one solution to that problem we need
+[23:45] more
+[23:50] power the aim will be to build something
+[23:52] with a lot more power but for now
+[23:55] hopefully you've seen how to build a
+[23:56] induction heater and you understand how
+[23:58] Works we'd love to see what you can
+[24:00] build as
+[24:01] well all right thanks for listening hope
+[24:03] that helped

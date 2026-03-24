@@ -1,0 +1,145 @@
+{
+  "thing_id": 6989687,
+  "name": "The Scroller Wolfrom Drive",
+  "description": "You can find a video abut this here https://youtu.be/ip9R3Drt8js\n\nThe TPU should be printed with zero layers for top and bottom, 2 layers for walls and 15% triangular infill. Bend Pattern is ABCDDCBA",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "ip9R3Drt8js",
+      "url": "https://youtu.be/ip9R3Drt8js"
+    }
+  ],
+  "tags": [],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2025-03-24T14:07:29+00:00",
+  "modified": "2025-03-26T14:19:36+00:00",
+  "url": "https://www.thingiverse.com/thing:6989687",
+  "thumbnail": "https://cdn.thingiverse.com/assets/eb/c8/4e/f1/2a/large_display_Screenshot_from_2025-03-24_13-57-08.png",
+  "like_count": 19,
+  "collect_count": 6,
+  "comment_count": 0,
+  "download_count": 133,
+  "files": [
+    {
+      "name": "Base.stl",
+      "size": 2284,
+      "url": "https://www.thingiverse.com/download:15311499",
+      "download_url": "https://api.thingiverse.com/v2/files/15311499/download"
+    },
+    {
+      "name": "Bearing_Cone_x_4.stl",
+      "size": 33584,
+      "url": "https://www.thingiverse.com/download:15311500",
+      "download_url": "https://api.thingiverse.com/v2/files/15311500/download"
+    },
+    {
+      "name": "Bearing_Housing_x_2.stl",
+      "size": 47684,
+      "url": "https://www.thingiverse.com/download:15311501",
+      "download_url": "https://api.thingiverse.com/v2/files/15311501/download"
+    },
+    {
+      "name": "Bearing_Stop_x_2.stl",
+      "size": 38484,
+      "url": "https://www.thingiverse.com/download:15311502",
+      "download_url": "https://api.thingiverse.com/v2/files/15311502/download"
+    },
+    {
+      "name": "Crank.stl",
+      "size": 409084,
+      "url": "https://www.thingiverse.com/download:15311503",
+      "download_url": "https://api.thingiverse.com/v2/files/15311503/download"
+    },
+    {
+      "name": "Drive_Axel.stl",
+      "size": 48484,
+      "url": "https://www.thingiverse.com/download:15311504",
+      "download_url": "https://api.thingiverse.com/v2/files/15311504/download"
+    },
+    {
+      "name": "Drive_Peg.stl",
+      "size": 38284,
+      "url": "https://www.thingiverse.com/download:15311505",
+      "download_url": "https://api.thingiverse.com/v2/files/15311505/download"
+    },
+    {
+      "name": "End_Cap_x_2.stl",
+      "size": 101084,
+      "url": "https://www.thingiverse.com/download:15311506",
+      "download_url": "https://api.thingiverse.com/v2/files/15311506/download"
+    },
+    {
+      "name": "Handle.stl",
+      "size": 386584,
+      "url": "https://www.thingiverse.com/download:15311507",
+      "download_url": "https://api.thingiverse.com/v2/files/15311507/download"
+    },
+    {
+      "name": "Large_Roller_x_76.stl",
+      "size": 15984,
+      "url": "https://www.thingiverse.com/download:15311508",
+      "download_url": "https://api.thingiverse.com/v2/files/15311508/download"
+    },
+    {
+      "name": "Output_Drive.stl",
+      "size": 73684,
+      "url": "https://www.thingiverse.com/download:15311509",
+      "download_url": "https://api.thingiverse.com/v2/files/15311509/download"
+    },
+    {
+      "name": "Planet_Roller_x_4.stl",
+      "size": 544084,
+      "url": "https://www.thingiverse.com/download:15311510",
+      "download_url": "https://api.thingiverse.com/v2/files/15311510/download"
+    },
+    {
+      "name": "Small_Roller_x_16.stl",
+      "size": 16384,
+      "url": "https://www.thingiverse.com/download:15311511",
+      "download_url": "https://api.thingiverse.com/v2/files/15311511/download"
+    },
+    {
+      "name": "Sun_Roller.stl",
+      "size": 544084,
+      "url": "https://www.thingiverse.com/download:15311512",
+      "download_url": "https://api.thingiverse.com/v2/files/15311512/download"
+    },
+    {
+      "name": "TPU_Ground_Ring_x_2.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:15311513",
+      "download_url": "https://api.thingiverse.com/v2/files/15311513/download"
+    },
+    {
+      "name": "TPU_Output_Sleeve.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:15311514",
+      "download_url": "https://api.thingiverse.com/v2/files/15311514/download"
+    },
+    {
+      "name": "TPU_Roller_Belt_x_8.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:15311515",
+      "download_url": "https://api.thingiverse.com/v2/files/15311515/download"
+    },
+    {
+      "name": "Wolfrom_Peg_x_8.stl",
+      "size": 25484,
+      "url": "https://www.thingiverse.com/download:15311516",
+      "download_url": "https://api.thingiverse.com/v2/files/15311516/download"
+    },
+    {
+      "name": "Geared_Ground_Ring.stl",
+      "size": 733784,
+      "url": "https://www.thingiverse.com/download:15316234",
+      "download_url": "https://api.thingiverse.com/v2/files/15316234/download"
+    },
+    {
+      "name": "Geared_Roller_Peg.stl",
+      "size": 178184,
+      "url": "https://www.thingiverse.com/download:15316235",
+      "download_url": "https://api.thingiverse.com/v2/files/15316235/download"
+    }
+  ]
+}

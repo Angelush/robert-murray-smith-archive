@@ -1,0 +1,342 @@
+[00:02] [Music]
+[00:15] hi so high voltage experimentation is
+[00:17] super cool
+[00:18] of course and there used to be a couple
+[00:21] of ways of getting a high voltage supply
+[00:23] now there's
+[00:23] loads of ways of getting a high voltage
+[00:25] supply you can use a car ignition coil
+[00:27] you can buy high voltage generators
+[00:29] online you can build your own marks
+[00:30] generator
+[00:31] loads and loads of ways but a real
+[00:33] favorite one was to scavenge this thing
+[00:36] a flyback transformer from a television
+[00:38] and make use of that
+[00:39] the problem is of course televisions and
+[00:41] cathode ray tube displays
+[00:43] are disappearing you don't see them
+[00:44] anymore in the same way that you used to
+[00:46] with these things inside them but there
+[00:48] is an alternative
+[00:50] now you used to find that these things
+[00:52] appeared in microwave ovens
+[00:54] and they're a microwave oven transformer
+[00:56] another way of getting good high voltage
+[00:57] incidentally
+[00:58] but they're starting to replace them
+[01:00] with this thing a flyback transformer so
+[01:02] we're going to have a look
+[01:03] at scavenging those bits okay so you
+[01:05] don't come across these kind of things
+[01:06] very often these days once obviously
+[01:09] they're absolutely
+[01:09] everywhere because this is a cathode ray
+[01:12] tube and they were used to see uh
+[01:13] computer displays and televisions and
+[01:15] just got tons of them
+[01:16] these days were all into flat screens
+[01:18] and lcds so these are a bit
+[01:20] more rare but um i work near to a
+[01:23] company called biotech or a computer
+[01:25] company and sometimes when they have
+[01:26] bits of old scrap and i show an interest
+[01:29] they're quite happy to let me take
+[01:31] someone or give me something and they
+[01:32] gave me this so thank you very much
+[01:34] biotech
+[01:35] what we're going to do is we're going to
+[01:36] take it to pieces now it's dead easy
+[01:38] there's only four screws holding the
+[01:39] back on
+[01:42] and once you undo those four screws you
+[01:44] can pull this apart
+[01:49] there we go and have a look at the
+[01:51] gubbins inside
+[01:52] now this is the crt obviously this line
+[01:55] here
+[01:56] is the flyback transformer which is
+[01:58] sitting down there and there's a ton of
+[02:00] projects you can do with high voltage
+[02:01] and flyback transformers
+[02:03] and that's what we're actually after but
+[02:06] obviously there's quite a few other bits
+[02:07] here as well so i'm going to take this
+[02:09] apart
+[02:10] and lay out the parts okay so all i've
+[02:12] done is pull apart the case and pull
+[02:13] every plug out
+[02:15] that's obviously the electronics board
+[02:17] this is the power this is the control
+[02:19] it's this bit we're after
+[02:21] the flyback transformer so we're going
+[02:24] to get that board out and desolder that
+[02:26] and then
+[02:26] any other components that i think are
+[02:28] going to be worth rescuing
+[02:29] there's a couple of very nice resistors
+[02:31] there for instance which would be pretty
+[02:33] cool
+[02:34] but we can desolder that and get some
+[02:36] parts off of that
+[02:37] then we've got the cathode ray tube
+[02:38] itself this bit is the electron
+[02:40] gun and that's the control unit there we
+[02:43] go
+[02:43] and it just lifts off there's a screw in
+[02:46] here that holds this collection on this
+[02:48] is the control coils
+[02:50] that's a ferrite right there and there's
+[02:52] a whole load of
+[02:53] ins um interference wireless wire i
+[02:56] believe wrapped around everything
+[02:58] so we're going to take this to pieces as
+[02:59] well and see what bits that we've got
+[03:01] out there
+[03:02] the only interesting thing about this is
+[03:04] this this is the cup that goes to the
+[03:06] crt
+[03:07] there's a hole right there in the glass
+[03:10] and it comes from the flyback it's the
+[03:11] main height voltage out
+[03:13] and it hooks into that hole with this
+[03:15] little hook all you do is fold back the
+[03:17] cup
+[03:17] stick a screwdriver in there and it
+[03:18] leaves it leave it straight out
+[03:20] okay let's get the rest of those bits
+[03:22] off okay so we've desoldered the flyback
+[03:24] transformer that's the bit that we want
+[03:26] this bit which i thought was shielding
+[03:28] actually is a de-gaussing coil so
+[03:30] underneath all this
+[03:31] is just a massive coil of copper wire so
+[03:34] it's a lot of copper wire and it hasn't
+[03:36] been resined or anything so that's
+[03:38] really usable
+[03:39] so we're going to save that and
+[03:40] sometimes strip off the rest of this
+[03:42] plastic aluminized plastic wind that up
+[03:45] and we'll be able to use that copper
+[03:47] again because like i said it's just a
+[03:48] degassing coil
+[03:50] this is the shielding coil right here
+[03:52] which was held on by springs and loops
+[03:54] and then goes to earth so that's the
+[03:56] shielding coil right there
+[03:58] then we've got the control unit now this
+[04:00] is an rgb so you can um
+[04:02] see that these actually control the
+[04:04] electron gun which is right here so that
+[04:06] fires electrons at the screen
+[04:08] these field coils deflect that according
+[04:11] to the signals that come from the
+[04:13] from the computer and we get the picture
+[04:15] on now there's a
+[04:16] small bolt holding that there if you
+[04:18] undo that then the field coils
+[04:21] lift straight off and you can see the
+[04:22] field coils right in there
+[04:24] these actually have been resin together
+[04:26] so they're a bit of a pain
+[04:28] but right around there is another coil
+[04:30] of wire very fine wire which is many
+[04:32] meters long and that hasn't been
+[04:34] resonant that's just been wound on
+[04:36] so that can be recovered quite easily
+[04:38] actually
+[04:39] but this is the actual crt itself
+[04:42] now the dangers of this because
+[04:46] everybody loves to hear about the
+[04:47] dangers of things don't they
+[04:49] the glass used in this stuff is
+[04:51] extraordinarily thick
+[04:52] because it's a vacuum obviously and it
+[04:55] is in a vacuum so it's a very thick
+[04:56] glass it's in a vacuum and it's a lead
+[04:58] glass
+[04:59] the phosphors in here are also um
+[05:02] supposed to be
+[05:02] very dangerous so you're not supposed to
+[05:04] breathe them in and it by itself it is
+[05:06] actually a capacitor
+[05:08] so it can be a very lethal charged
+[05:10] capacitor
+[05:11] this one i happen to know has been lying
+[05:14] around for ages so
+[05:15] that any chance of capacitance has now
+[05:17] bled off if you're working with one
+[05:19] that's been used you may want to take
+[05:21] precautions against that because if you
+[05:23] get that as a shock
+[05:25] once you're probably never going to get
+[05:27] it again and you
+[05:28] certainly won't want to have that shock
+[05:30] once it's going to hurt it's a high
+[05:32] voltage
+[05:33] so if it's a bit new i guess wear gloves
+[05:35] if it's been kicking around for ages the
+[05:37] chances of it actually storing anything
+[05:39] are next to
+[05:40] nothing but you do need to have a degree
+[05:43] of
+[05:43] care about such a thing it is also why
+[05:46] these things are regulated for disposal
+[05:48] because of the lead content in the glass
+[05:50] so that's going to have to be properly
+[05:51] disposed off we can't just be slung in
+[05:53] the bin
+[05:54] okay the more observant of you might
+[05:56] notice i have some glasses and a hammer
+[05:58] and a lack of concern for my own
+[06:00] personal safety because what we're going
+[06:01] to do is crack this open and have a look
+[06:03] at the inside
+[06:04] definitely not one that i would
+[06:06] encourage you to try at home
+[06:07] but let's put this somewhere where the
+[06:09] flying glass won't go too far
+[06:11] and smash it open okay this is
+[06:13] definitely a one-time event
+[06:20] [Laughter]
+[06:25] oh sorry you have to laugh don't you
+[06:27] because you get so many warnings about
+[06:29] this don't do this because it'll implode
+[06:31] and shower you with glass
+[06:32] and you do that and to be honest it's
+[06:35] disappointing isn't it
+[06:46] okay that white ash you can see that's
+[06:48] the phosphors
+[06:49] there's the glass as you can see it's
+[06:52] really really
+[06:53] thick it's coated here this is kind of
+[06:56] like a doping coating i believe
+[06:58] and then we have a shield in there we're
+[07:00] going to clean up a bit and have a bit
+[07:01] of a better look at that
+[07:03] okay that was sincerely disappointing i
+[07:06] was expecting one tiny implosion at
+[07:08] least you know glass shards flying
+[07:09] everywhere
+[07:10] from what they tell you that's what
+[07:11] should happen but as you saw it was a
+[07:13] bit of a damp squid
+[07:14] but anyway we cracked it open here is
+[07:16] the front screen and you can see the
+[07:18] remains of the phosphors on it
+[07:19] these are the bits that glow when they
+[07:21] get hit and here is the
+[07:23] mesh screen it's a separate uh that's
+[07:26] the mesh interference screen
+[07:27] bit damaged because of the glass and
+[07:29] it's got a metal shield on it
+[07:31] and there are the three electron guns so
+[07:34] that's really all there is to a cathode
+[07:36] ray tube
+[07:37] of course we went through all of that to
+[07:38] get this thing the flyback transformer
+[07:41] and these used to be absolutely
+[07:43] everywhere because with cathode ray
+[07:45] tubes going out of fashion and we're now
+[07:47] on lcds
+[07:48] this is going to become much much rarer
+[07:50] there's still a lot you can do with that
+[07:52] in terms of high voltage so it's still
+[07:53] an interesting piece if you get a piece
+[07:55] and you've got some lying around there's
+[07:56] loads of things you can
+[07:58] do with it but they're getting harder
+[08:00] and harder to find
+[08:01] however all is not lost i was recently
+[08:04] taking apart a microwave oven and heard
+[08:07] the rumor
+[08:08] that they were going to get rid of these
+[08:09] things this is a microwave oven
+[08:11] transformer it's responsible for
+[08:12] stepping up mains voltage to about 2000
+[08:14] volts or so
+[08:15] and this big block of iron is what you
+[08:17] found in just about
+[08:18] every microwave you ever come across but
+[08:21] i heard a rumor they were getting rid of
+[08:22] these things i'm going to replace it
+[08:24] with electronics and i thought oh
+[08:26] that's a sham and i took apart a philips
+[08:29] inversion
+[08:30] um microwave oven and instead of this
+[08:34] there was this now all of the other
+[08:37] goblins were in there the control
+[08:39] circuits the super sorry the capacitor
+[08:42] and this instead of the microwave oven
+[08:44] transformer so i've cracked it off them
+[08:47] and there's the inside of it and lo and
+[08:49] behold right there
+[08:50] is a flyback transformer so we're not
+[08:53] going to be able to get these things
+[08:54] from tvs but we are going to be able to
+[08:56] get them from microwave ovens which is
+[08:58] pretty awesome
+[08:59] let me give you a close-up of that
+[09:01] circuit board okay so there is the
+[09:03] flyback transformer removed from the
+[09:05] microwave oven
+[09:06] now you can see that that's the input
+[09:08] side right there
+[09:10] and then the output side actually is
+[09:13] and here it was stunningly easy to
+[09:16] remove
+[09:16] actually and if you want to this is
+[09:19] going to be super easy to do any
+[09:20] modifications on because
+[09:22] nothing is sealed so you can rewind this
+[09:24] one into primer if you want you can
+[09:26] rewind the secondaries if you want
+[09:28] you can see on this side it goes through
+[09:30] rectification here we've got a couple of
+[09:31] high voltage diodes bit of smoothing a
+[09:33] couple of capacitors there
+[09:35] so that is an awesome thing and then
+[09:38] compare it to what we used to use which
+[09:40] is this thing here
+[09:41] now you did have to go through a little
+[09:43] bit to try and find out which was the
+[09:45] ground pin and that was invariably the
+[09:48] high voltage you used although there's
+[09:49] high voltage available here
+[09:51] they're a lower high voltage but still
+[09:52] high voltage remember these drive the
+[09:54] electron guns and the field coils
+[09:56] and this is for the actual crt itself so
+[09:59] that can still be got hold of and still
+[10:01] is useful
+[10:02] but it is on its way out however this
+[10:05] is on its way in so as a flyback
+[10:08] transformer
+[10:09] it's fantastic to be able to just get
+[10:11] that from a microwave oven
+[10:13] and that will make it superbly easy to
+[10:15] modify
+[10:17] so i didn't actually pull apart a
+[10:18] microwave because i've done a microwave
+[10:20] oven pull apart video
+[10:22] and all you'll find is that white box
+[10:24] sitting in there so just follow that
+[10:25] video and you'll find it
+[10:26] my vote incidentally on high voltage
+[10:29] that you can source yourself has
+[10:30] got to be the microwave oven flyback
+[10:34] it's stunning in its simplicity it's
+[10:36] really easy to see how to modify it and
+[10:38] to see what's going on so
+[10:39] fantastically awesome if you have some
+[10:41] microwaves with those things in them
+[10:43] grab them incidentally as these things
+[10:45] are going out these are
+[10:47] stunningly useful for no end of
+[10:48] experiments so start
+[10:50] hoarding them because you're not going
+[10:52] to be able to find them soon
+[10:53] but you will be able to find a ton of
+[10:55] these things anyway i hope the video is
+[10:57] interesting
+[10:58] and thank you very much for watching

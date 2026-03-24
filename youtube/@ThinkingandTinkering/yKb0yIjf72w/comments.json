@@ -1,0 +1,887 @@
+[
+  {
+    "id": "UgyOYERWxuzCCzQKd0x4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Very interesting, thanks!",
+    "likes": 1,
+    "published_at": "2025-02-10T16:50:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0XhvFMEaHnXkGZcx4AaABAg",
+    "author": "@jannehokkanen8175",
+    "author_channel_id": "UCHLBMGIULiFzY-1on_FYKCQ",
+    "text": "You can use DC voltage almost everywhere in your home nowadays, B'cos they have a Switch mode power supply. And if not. Put the micro inverter only there ;)",
+    "likes": 0,
+    "published_at": "2024-08-23T18:01:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx47Tbul2t2kh7o3dh4AaABAg",
+    "author": "@jellibeens",
+    "author_channel_id": "UCz9dRvfF85Y_Ygu2MboVlpw",
+    "text": "cant add a battery to micro inverters unless you add  extra inverters to the battery",
+    "likes": 0,
+    "published_at": "2024-07-06T22:23:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzy3jg56EhxEilQuRt4AaABAg",
+    "author": "@somebody3524",
+    "author_channel_id": "UClVLRPwNOAUFq6cqPLBFiow",
+    "text": "But when you add a battery to such a system stuff gets inefficient because you convert the electricity from dc at the solar panels to ac using the microinverters and then back to dc to charge a battery with it. In such a case it would be better if we had micro mppt chargers which could directly charge the battery with dc. Those might also be cheaper than microinverters because they don't have to handle any high voltage like 220V or 120V but just the <50V of the solar panel as an input and the 48V lifepo4 battery pack as an output.\nThis would also have the added benefit of being off-grid capable as the micro mppt chargers would only need the battery and not the grid to output power.",
+    "likes": 0,
+    "published_at": "2024-07-04T07:49:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwsOtOq6W-ar_j-CWh4AaABAg",
+    "author": "@samosborne7329",
+    "author_channel_id": "UCfPmXH6H3PYnF36xPm7tl2Q",
+    "text": "100 amp 240v ac to my house seems so out dated when i am looking at the dc voltage of the power tools and e bikes etc in it ....micro inverters and battery storage??. Few i wish i could give up work and just test out all the variables in my head..,thanks for a great informative article Robert , sincerely hope you battle onward X",
+    "likes": 1,
+    "published_at": "2024-05-07T14:09:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyh2rmcZF9GQgiJB-N4AaABAg",
+    "author": "@oaklejant",
+    "author_channel_id": "UC3PhIyCje5cslrio6f1j69g",
+    "text": "Maybe there's no good or bad system. If you do not want to have batteries, you'd better use microinverters (but note you can still have a virtual battery  -at least in some countries-)",
+    "likes": 0,
+    "published_at": "2024-04-20T17:18:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxDpQy_sD8Fmr_TKFl4AaABAg",
+    "author": "@Sailorman6996",
+    "author_channel_id": "UCCEoSm5l8B6a8Y1JdIru-aQ",
+    "text": "I'm voting for team  \"big single accessible inverter\".\n\nElectronics usually last 10 to 20 years indoors.\nOn the roof where humidity vary from 0 to 100% several times each year. And temperature from negative 25*C to positive 40*C can't be healthy. I give it 5 to 10 years before microinverters break.",
+    "likes": 0,
+    "published_at": "2024-04-12T20:10:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwi2MhCmW2wv_9foCp4AaABAg",
+    "author": "@sigun0",
+    "author_channel_id": "UCH5mwmYjuHzmNaVZeTB7qZA",
+    "text": "I am the owner of several solar systems at my home and help maintain several more at my parents' and grandparents' homes. Among them, one with an inverter and optimizers, one with an inverter without optimizers and several systems with microinverters.\nMy observations over the years:\na) Systems with inverters produce more per year than systems with microinverters of the same power. Even when shadows fall on part of the panels, modern inverters are able to find the right working point (global mppt) to minimize the influence of partial shadowing.\nb) If grid code does not require panel level disconnect, optimizers do not pay off. Especially with shingled panels.\nc) Quality microinverters of the same power cost significantly more than a single inverter of 5 kW or more. The cheapest and most primitive microinverters without any control may cost a little less, but I would never think of installing them on the roof. When microinverters are installed somewhere further from the panels, the price of additional connectors, combiner boxes and cables starts to add up quickly.\nd) System scalability and resilience with microinverters is an advantage. But not that big, because inverters fail much less often. Also, if the system is being expanded with only a few panels, the same inverter is usually suitable. When expanding in large quantities, you can buy a second inverter and have a resilient, simpler and cheaper system than with a bunch of microinverters.\ne) Microinverters have their niche in a small systems. For example a simple permit from the local grid company is enough for systems up to 800W in my country and such microsystem can be installed by anyone even on their balcony.",
+    "likes": 1,
+    "published_at": "2024-04-10T21:21:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzuX4onMTTI2OKkcJx4AaABAg",
+    "author": "@davidvwilliamson",
+    "author_channel_id": "UChZalwv3NkNtfU9paagHQ4g",
+    "text": "no-one seems to talk about the difficulties of bodging up leaky roofs",
+    "likes": 0,
+    "published_at": "2024-04-09T08:38:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxrMIAOh80oZcMpEfl4AaABAg",
+    "author": "@nagaster",
+    "author_channel_id": "UCT5gAt6AUmrHm2nBwg5JDRQ",
+    "text": "They would be great for panel arrays remote from the house as AC is more conveniently transported over lighter wiring.   But how are the microinverters synchronised ?",
+    "likes": 0,
+    "published_at": "2024-04-09T00:39:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxRmUSPIg1y_A3n12t4AaABAg",
+    "author": "@sirjohng1",
+    "author_channel_id": "UCnOVxwj5ET8WutwkmK4WEPQ",
+    "text": "They keep the DC line length to virtually nothing which reduces DC line loss and if one goes down the rest are not affected.",
+    "likes": 0,
+    "published_at": "2024-04-08T06:21:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwVlqpn6G87GWtc1Yl4AaABAg",
+    "author": "@CitizenJourno-1",
+    "author_channel_id": "UCUEiwNQtnnakFqW6TxfhC2Q",
+    "text": "You learned something new every day... I thought an inverter would make the solar panel not work because the panel would end up upside down in an inverted state.",
+    "likes": 1,
+    "published_at": "2024-04-07T13:45:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-NyhovSbpK7PU1Gd4AaABAg",
+    "author": "@sciencetestsubject",
+    "author_channel_id": "UCt0t2Hqa8Ah2tQU65iwgCcA",
+    "text": "1 tiny point about micro inverters being \"exposed to the elements\" there is a about 2m² roof over it in the form of the solar panel itself.",
+    "likes": 0,
+    "published_at": "2024-04-07T05:57:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy-NyhovSbpK7PU1Gd4AaABAg.A1vGML2OWnvA1vROQ12Amm",
+        "author": "@Mr2cmE",
+        "author_channel_id": "UCK3H-WjbYNTQ5GL0Srv7jeA",
+        "text": "Radiating extreme heat on the micros.  Had more micros fail on me than strings.  But then again I did not use Enphase and I believe they are much better.  Also like their IQ8 micros but can't see them competing with Huawei, Solis and Sungrow. Coming from South Africa.  Also in my 16 years experience, never had an issue with DC voltages up to 1500V.  So not sure what the fuss is.  More of a marketing campaign",
+        "likes": 3,
+        "published_at": "2024-04-07T07:33:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw4NcKiLDqBI3HWLAp4AaABAg",
+    "author": "@ellooku",
+    "author_channel_id": "UCIVrxDBzH5JkLuF9K_b1s0Q",
+    "text": "In my house, I run D.C to D.C due to power loss during inversion and also another power loss converting it back to D.C. So I use Buck and Boost Converter to power all the D.C appliance that uses A.C adapter. My Bulbs are now 12V D.C while things like TV and Refrigerator goes to Inverter. Honestly, there is a lot of power saved using this method. I can still turn off my inverter to save more power then use my PC which runs on D.C to watch videos.",
+    "likes": 3,
+    "published_at": "2024-04-05T11:05:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzqCL6GexQEv92hl4N4AaABAg",
+    "author": "@jwc4520",
+    "author_channel_id": "UCadNzMXRCt7QrVvkI1OcQsQ",
+    "text": "Living in Ohio I doubt the benefit of solar , too many cloudy days, temperature variations, tinkered with them years ago , wasn't impressed. What ever happened to Kodak's flexible cells, all the rage on popular electronics over. 45 years ago. Lightweight plastic. Wanted to get some and apply to a radio controlled plane ? Alas many systems show sever losses after a short time.",
+    "likes": 0,
+    "published_at": "2024-04-05T05:24:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzqCL6GexQEv92hl4N4AaABAg.A1q30BWlG8VA4XAXD5c1Qt",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "Depends where in Ohio you live. Even in northeast, solar PV is becoming feasible. My projected breakeven point was about 12 years, down from over 15 as little as 5 years ago. Increasingly efficient panels keeps improving those numbers. If I could afford the upfront cost, I'd jump on it. Lots of flexible panel options nowadays, too.",
+        "likes": 0,
+        "published_at": "2024-06-11T01:39:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy84J3NmBhcTWxQnuJ4AaABAg",
+    "author": "@reivanen",
+    "author_channel_id": "UCFcUHWmymkPdFDtvCnInmIg",
+    "text": "having 20 micro inverters to service a 20 panel installation is the peak of idiocy. Every inverter has a base power draw that is multiplied 20 times with micros.\nThey are useful only for installations so small where it's not beneficial to purchase a separate inverter. So 1-3 panel ones.",
+    "likes": 0,
+    "published_at": "2024-04-04T18:15:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy84J3NmBhcTWxQnuJ4AaABAg.A1orQFDh-TXA4X9gcLR1P1",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "True. But with the advent of larger, higher voltage panels, the per-panel loss is less of a problem. It seems there are advantages to both string inverters and micro inverters. For myself, I think I would rather risk replacing a single panel and high quality micro inverter than have my whole system go down.",
+        "likes": 0,
+        "published_at": "2024-06-11T01:32:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBkNcbGPe70JXUK2x4AaABAg",
+    "author": "@guywhoknows",
+    "author_channel_id": "UCBALC-cNOivHvycbqW8tGdA",
+    "text": "Got both...\nJust running out some tests on them and performance.\nThere are pros and cons to both and some faff.\n\nString inverter will take 450v PV. The micro 80v.\nThey are about the same in current.\nIt is more a matter of where they go, and roofs can get hot both inside and outside and the new regs may put an end to many installs in the loft.\n\nThe on roof isn't so bad, as would the balcony systems. But the problem with micro inverters is that they make AC but dont have a battery.\nSo you only save when you use. And you can't store it unless you get a AC coupled inverter charger for adding a battery. So it won't always be the best price if you want a 'fit your life system '.\n\nIf you wanted to give solar a try, then why not, but if you want solar to workm, your best off going down the hybrid route.\n\nMaking solar all day when your at work, and the sun's down by the time you get home, well that's pretty useless. Unless you small scale to cover the day time loads of a empty home which is going to be small. But then the idea would be to lower your bills. \n\nI'm having a play, I've a grid tied string, and a off grid system and trying out this micro inverter set up...",
+    "likes": 2,
+    "published_at": "2024-04-04T16:38:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhgYUG3-l5Jj9eXrl4AaABAg",
+    "author": "@bigmouthstrikesagain4056",
+    "author_channel_id": "UC1a_TwgrD3EINqBiTZE3bBQ",
+    "text": "Electromechanical inverters,charge controllers, voltage regulators and  adjustable bimetal power cutoffs for overcharging FTW....",
+    "likes": 0,
+    "published_at": "2024-04-04T14:58:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwhgYUG3-l5Jj9eXrl4AaABAg.A1oVu4CYEELA1oW9ebHmQz",
+        "author": "@bigmouthstrikesagain4056",
+        "author_channel_id": "UC1a_TwgrD3EINqBiTZE3bBQ",
+        "text": "Honestly it might not be perfect but Wheatstone bridges and huygens mechanisms for storing solar power like a voltage smoother/supercap with a flywheel ect ect is Honestly the best way to go for it I think especially as electromechanical is much more hardened to emp and solar storms.",
+        "likes": 0,
+        "published_at": "2024-04-04T15:00:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3vPjaVtOALCsPCjt4AaABAg",
+    "author": "@anthonyscott9936",
+    "author_channel_id": "UCeNr4yj7P3SHAzBV7OR1YZA",
+    "text": "Hey Robert, I’ve been watching your videos for a while now, years, I really like what you are doing, I’m currently working on a circuit that I think you would be very interested in.. I think I’ve built an electron pump? I think you would find it very fascinating.. I can send you any information on it if you choose to investigate the effects? Thank you!",
+    "likes": 0,
+    "published_at": "2024-04-04T14:17:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhYaxL_D7SJNrpyid4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Ac coupling is now catching on so the need for long strings can be avoided if desired.",
+    "likes": 0,
+    "published_at": "2024-04-04T13:31:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxssljogFXv-hHjcmB4AaABAg",
+    "author": "@tysonjbest",
+    "author_channel_id": "UCA12cyUlBtriCvS8WKMsuSA",
+    "text": "Factory direct miroinverters are soo cheap and accessible for $70 for a grid tie micro inverter you can have a ground mount or balcony solar anywhere instantly! It is just plug and play for renter or home owners ,best to go with a provider with metrics on there app ,if you dont want to push any electricity into the grid ,you can just put a consumption only sensor on your inverter also meaning your inverter will also last much longer.. . WIN WIN either way🤩🌞",
+    "likes": 0,
+    "published_at": "2024-04-04T10:20:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwOirYkAJRIhuHq4jh4AaABAg",
+    "author": "@shortbuslife3440",
+    "author_channel_id": "UCrWJOj2XV8WtYwgwQ9uoVrA",
+    "text": "For off grid I'd go with just a charge controller to a battery and then run what you can off of DC like lighting and have an inverter for power outlets, this would be far more efficient than micro inverters. However if grid tied then pay your money and take your choice personally I'd still go with the same setup so I can change out any failed components much easier.",
+    "likes": 3,
+    "published_at": "2024-04-04T08:27:42Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwOirYkAJRIhuHq4jh4AaABAg.A1noA_vUjKyA1oVhCcYGEu",
+        "author": "@bigmouthstrikesagain4056",
+        "author_channel_id": "UC1a_TwgrD3EINqBiTZE3bBQ",
+        "text": "Or use solar panels to charge a bank of batteries that add up to 240v so you can intermittently power 240v stuff from them",
+        "likes": 0,
+        "published_at": "2024-04-04T14:56:46Z"
+      },
+      {
+        "id": "UgwOirYkAJRIhuHq4jh4AaABAg.A1noA_vUjKyA1oXr9BSRjV",
+        "author": "@shortbuslife3440",
+        "author_channel_id": "UCrWJOj2XV8WtYwgwQ9uoVrA",
+        "text": "@bigmouthstrikesagain4056 except batteries are DC and 240v equipment is AC",
+        "likes": 0,
+        "published_at": "2024-04-04T15:15:36Z"
+      },
+      {
+        "id": "UgwOirYkAJRIhuHq4jh4AaABAg.A1noA_vUjKyA1ukE901VaR",
+        "author": "@beamer.electronics",
+        "author_channel_id": "UCFfwEJnfkZgnLADU7uRwXBg",
+        "text": "​@bigmouthstrikesagain4056 Just a thought: 240VDC is equivalent to the RMS mains peak Voltage of 338VAC. A filament device, like a tungsten bulb, will run OK on 240VDC, but most electronic equipment will have problems: They usually need both +Ve and -Ve alternating cycles to share heat, operate correctly and a peak value of 338VAC. Some equipment is designed to run happily on both mains AC and 12/24/240VDC to state a few.",
+        "likes": 0,
+        "published_at": "2024-04-07T01:07:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxlAOMZrfvbUDE9FW14AaABAg",
+    "author": "@Kangsteri",
+    "author_channel_id": "UC3_WprYVZXAxB0uI4duyKwg",
+    "text": "I would love modular panels with everything included (battery, charger and inverter). Maby even connector for external generator. So I could just buy and stack them like regular batteries.",
+    "likes": 0,
+    "published_at": "2024-04-04T07:18:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwOYEiE7LQ9Tw22ghd4AaABAg",
+    "author": "@flymypg",
+    "author_channel_id": "UCKuRdkeGBOGkbkPhxhaIQTw",
+    "text": "Heat is a problem for both solar panels and microinverters (and electronics in general). Heat alone can steal 5%-10% of a solar system's capacity. The question isn't microinverters versus string inverters, but instead must focus on establishing and maintaining overall efficiency.\n\nMy feed delivers to me all things solar, and agrivoltaics are always included. Recently, vertical agrivoltaics has been getting attention because the expected losses due to the vertical orientation were not seen! Instead, the actual production was 5% better than expected, which eventually was traced to the vertical panels running cooler, but also running cleaner, as less dirt and dust was deposited on them. This also applies to electronics co-located with the solar panels.\n\nI had been postponing my home solar because my roof has nearly a decade of good use remaining. I didn't want to install a solar system on my roof, only to remove and reinstall it several years later when the roof needed replacing. That seems to be a waste of labor and money. Sure, I could replace my roof sooner, but that also seemed wasteful to me.\n\nBut my fence also needs replacing. What about incorporating vertical solar in my fence? I ran the numbers, and I'd need about half of the fence (the east-west part that faced the street) to be bifacial panels, with the rest being conventional single-face panels (that faced the neighbors).\n\nI ran the numbers, and soon found that I'd need a few additional panels, but I could do the installation myself, except for an electrician to make the final connections. While solar fence posts cost more than roof installation systems, the labor savings and ease of access make the vertical fence solution hugely preferred.",
+    "likes": 1,
+    "published_at": "2024-04-04T07:10:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwXlMoHRU_WkOgTIKh4AaABAg",
+    "author": "@pblakez",
+    "author_channel_id": "UC_1WyTw-9jywyMCkbxxt6OA",
+    "text": "don't microinverters introduce inefficiency when charging batteries? DC=>AC=>DC",
+    "likes": 1,
+    "published_at": "2024-04-04T05:48:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwXlMoHRU_WkOgTIKh4AaABAg.A1nWuGqjuE9A1vRwDmU29P",
+        "author": "@Mr2cmE",
+        "author_channel_id": "UCK3H-WjbYNTQ5GL0Srv7jeA",
+        "text": "That's why I prefer a DC and AC coupled system.  Better efficiency.  I use Victron with Fronius/ABB and a variety of BESS.  Pylontech been my favourite.  Micros have failed on me plenty and hard to monitor if there is any noise on the AC line.",
+        "likes": 1,
+        "published_at": "2024-04-07T07:38:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyElQ6ltw5cqewRi_B4AaABAg",
+    "author": "@greghellings",
+    "author_channel_id": "UCDQftMc7LY7bZsUWemgZ8Yg",
+    "text": "My local (Dallas, Texas) installers wouldn't do microinverters. They said the temperatures here are too harsh and cause accelerated failures. So i went with a DC optimizer setup.",
+    "likes": 8,
+    "published_at": "2024-04-04T04:16:07Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgyElQ6ltw5cqewRi_B4AaABAg.A1nMNwnp4xRA1oM6qajxys",
+        "author": "@offgridwanabe",
+        "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+        "text": "The failure rate of DC optimzers is greater than Micro inverters.",
+        "likes": 2,
+        "published_at": "2024-04-04T13:33:01Z"
+      },
+      {
+        "id": "UgyElQ6ltw5cqewRi_B4AaABAg.A1nMNwnp4xRA1oiw27pkN0",
+        "author": "@shazzz_land",
+        "author_channel_id": "UCWtTodEJBvJ-U4V1BmKw3VQ",
+        "text": "@offgridwanabe might be so; still it s another small box out \"in the wind\" prono to failure if you have year variations from minus 20 to plus 35; for places with only plus 10 degrees then it might work; if you have a company then you could consider reason to bill somethin extra from time to time to have someone change a few micro inverters;\n\nI like the idea of micro inverters but i doubt the quality for minus 20 to plus 35 degrees difference in year per location",
+        "likes": 0,
+        "published_at": "2024-04-04T17:01:07Z"
+      },
+      {
+        "id": "UgyElQ6ltw5cqewRi_B4AaABAg.A1nMNwnp4xRA1oj24y0VIV",
+        "author": "@shazzz_land",
+        "author_channel_id": "UCWtTodEJBvJ-U4V1BmKw3VQ",
+        "text": "doesn t make sense to put an optimiser and not a micro inverter, it is still another small box out in the open with possibilities to failure",
+        "likes": 0,
+        "published_at": "2024-04-04T17:02:05Z"
+      },
+      {
+        "id": "UgyElQ6ltw5cqewRi_B4AaABAg.A1nMNwnp4xRA1ouAIv49E4",
+        "author": "@offgridwanabe",
+        "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+        "text": "@shazzz_land well I have had them installed for 8 years with no maintenance and we get +35 and -35 c every year but if one goes it may cost $100 and not thousands for a new inverter.",
+        "likes": 2,
+        "published_at": "2024-04-04T18:39:19Z"
+      },
+      {
+        "id": "UgyElQ6ltw5cqewRi_B4AaABAg.A1nMNwnp4xRA1wtXJ3uF4w",
+        "author": "@andrewsmithmilan1780",
+        "author_channel_id": "UC2HLmwtJizLCciSewcYKorA",
+        "text": "The installer likely just likes that product and was able to charge more because of more parts. Micro inverters are more efficient in most cases if you're grid tied.",
+        "likes": 1,
+        "published_at": "2024-04-07T21:07:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz7fqBIuLUS6T6SJet4AaABAg",
+    "author": "@davidl.howser9707",
+    "author_channel_id": "UCHI42u8YAAnXBl_MTsnjmHA",
+    "text": "Hello Robert, Good Day ! : ) . Robert, what is your take on the  \"EnergyDome'' proposed Utility scale backup power electric generation concept. Does the Round Trip Efficiency (RTE) chemistry seem a sound way to store Renewable Energy, then have sufficient Electrical Energy Current Capacity to be released to the electric transmission grid to balance load when wind, and solar are not available ? Is the cost to benefit ratio there ? I ask you because this seems a simple system that is deployable in mass and at low cost if the reserve capacity is robust enough. You U.S. Dollar / Pound to watt . Thank you for any of your valuable time spent in research efforts done to answer these questions using your vast insight abilities. As always you, and Luke's efforts are much appreciated here.",
+    "likes": 0,
+    "published_at": "2024-04-04T03:41:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVNRk7_6PZ93cO-Yx4AaABAg",
+    "author": "@GroovyVideo2",
+    "author_channel_id": "UCgAROILzyFpM5kTRGzuX8jA",
+    "text": "I like simple and less parts to fail",
+    "likes": 0,
+    "published_at": "2024-04-04T02:00:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGOAcvOZaKsOriOfF4AaABAg",
+    "author": "@THEOFFGRIDMOUNTAINHOMESTEAD",
+    "author_channel_id": "UCJHk57Xdo3-GNhiaVgPsHNg",
+    "text": "Some AIO hybrid string inverters have provisions included to work with micro inverters.",
+    "likes": 0,
+    "published_at": "2024-04-04T01:34:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTky2IEiLObmWaG7Z4AaABAg",
+    "author": "@Rostol",
+    "author_channel_id": "UC6C4NonFsDZ3VD4N72-AOeA",
+    "text": "you left a HUGE point with the microinverters, they NEED the grid to function, the part that they cut out is the frequency matching and they match what the grid does. \nso it might be all the distributed system you want, but if the grid goes so does your solar system.",
+    "likes": 5,
+    "published_at": "2024-04-04T01:21:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqeSF7qtrkBjrtt_p4AaABAg",
+    "author": "@VacuumTube88",
+    "author_channel_id": "UCOF6udRdBvEhnLXPcByl3Kg",
+    "text": "that is if you don't have an accumulator, so the micro inverter option also limits the whole system to be upgraded in the future",
+    "likes": 0,
+    "published_at": "2024-04-04T00:36:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-KN6Lio7TbKVymgV4AaABAg",
+    "author": "@billy-go9kx",
+    "author_channel_id": "UCVefJ5B-i7g3yvSVVLvzRjg",
+    "text": "I would not use micro inverters. Just run DC to your Inverter.  It will charge your batteries and use that DC to make AC.  If you have shading or a bad panel then fix that problem.  The newer panels use diodes that break up the cells into groups so you don't lose the entire panel output when shaded.  I am more in favor of ground mounted panels so I would not have the problem of rules with roof mounted.",
+    "likes": 1,
+    "published_at": "2024-04-04T00:17:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwuzwWIOVWpcwt90EJ4AaABAg",
+    "author": "@davidfuller851",
+    "author_channel_id": "UCJwQ1IKvj7MF37hWPWKS44A",
+    "text": "We run our panels through regulators then batteries then inverter…",
+    "likes": 0,
+    "published_at": "2024-04-04T00:14:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4WidKs_DEUTCQnrZ4AaABAg",
+    "author": "@8ank3r",
+    "author_channel_id": "UC_8w58bflRGWjE4krHNv_vg",
+    "text": "I am with you on not wanting my electronics on the roof.  I think that the simpler the better.  Granted there is a single point of failure if you use one big inverter as opposed to micro inverters, there is still the ability to use a greater mix of equipment such as various solar panels without the need to match the micro inverters.  Just my 2 cents worth.  Cheers Rob",
+    "likes": 0,
+    "published_at": "2024-04-03T23:42:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxNiXgvep3D3Kghr_Z4AaABAg",
+    "author": "@robertnoonan4953",
+    "author_channel_id": "UCIELSVd3gJDjDgXEU2_8oyg",
+    "text": "There is another aspect to using nicroinverters, and that is local electricity authority codes. I was told by a young tech who was installing a microinverter system at my house  that his next job was likely to be a nightmare. He said it was to install solar panels on the roof of a two story house but using a central inverter. Local code stipulates that if you run a DC high voltage cable, it must be in a metal conduit. So he would have to run metal conduits from the roof to the ground floor before any cabling work could be done. However, if the cable is AC, it only needs to be in a plastic conduit (which could be flexible) with the benefits of lower initial cost and less installation problems. He much preferred microinverter installations as they involved less complicated wiring and conduit work.",
+    "likes": 0,
+    "published_at": "2024-04-03T23:27:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx07AVqLQIQIOtaskZ4AaABAg",
+    "author": "@Barskor1",
+    "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+    "text": "We need a linxus or Android system of standardized microinverters and other such electronics so no matter what you can plug in and update and it would all just work.",
+    "likes": 0,
+    "published_at": "2024-04-03T22:57:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwWzyHx_Qkb81AVJit4AaABAg",
+    "author": "@chrisgriffiths2533",
+    "author_channel_id": "UCWEhW_8HKkOlpRW4Cx-umpw",
+    "text": "Interesting RMS.\n\nFirst Point\nDefinitions are an Issue here.  I Would Argue Most of the Current Invertors are Micro Invertors.\nThe World Still has No Large Scale Solar Power Stations.   \nOf Course the Definition of Distributed System is Also Subject to Size Considerations.\n\nSecond Point.\nAC Synchronization is an Issue for Micro Invertors Per Solar Panel.\nThis is More than Likely the Biggest Reason They Need to Communicate with one another.\nBut of Course this Means Coms Electronics is Now Also Needed along with Invertor Electronics.   This Increases the Likelyhood of Individual Solar Panel Failure.  Hence if Electronics can be Mass Produced with 25 Year Gaurantees, then Maybe Micro is Ok.\n\nThird Point\nThe Argument of Rotating Electrics Verses Stationary Electronics is a Much Closer Contest than Many People Think.  In Fact Sometimes the Rotating Electrics is Superior.\nFurther, We are Yet to See, or Hear of DC Motor Driven AC Generators Used with Medium to Large Solar Panel Arrays.     Maybe I will have to do this.\n\nFourth Point\nAt this Stage, I Think Micro Invertor Solar Panels is a Reasonable, Even Good Idea for Small Solar Systems.\n\n\nRMS, Thanks for Your Knowledge Again.",
+    "likes": 0,
+    "published_at": "2024-04-03T22:53:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxWtfrL-Pu3o3rBTD54AaABAg",
+    "author": "@simongross3122",
+    "author_channel_id": "UC88olTq3jC6CA-yjwojlvQw",
+    "text": "We use microinverters because parts of our solar array get shading at various times of the day.  This way a panel's output that is reduced because of shade does not impact the other panels on the array.",
+    "likes": 1,
+    "published_at": "2024-04-03T22:50:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxWtfrL-Pu3o3rBTD54AaABAg.A1mm49dtvvaA1vSWJs92CA",
+        "author": "@Mr2cmE",
+        "author_channel_id": "UCK3H-WjbYNTQ5GL0Srv7jeA",
+        "text": "The MPPTs in a string inverter would pretty much solve that problem.  Doing this since 2008 and used both technologies. String>micro.  Enphase may however change that in the future or another company.  I like their new products and want to see their performance before I completely shut down micros.  The world evolves and micros will have their time.",
+        "likes": 0,
+        "published_at": "2024-04-07T07:43:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxkUz7lnpt8MiLi3Op4AaABAg",
+    "author": "@mikeguitar9769",
+    "author_channel_id": "UCGyjmcfX3L2fGiL3ZphVEbg",
+    "text": "I run circles around this. What a pity.",
+    "likes": 0,
+    "published_at": "2024-04-03T21:47:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw8m9cV3CGBkBw_r514AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "HEY PROFESSOR SMITH  The inverter type depends on the loads that will be powered  When going into a grid (grid tied) made up of TONS of transformers and even the thousands of miles of wire  Micro inverters and high freq inverters will work out ok no matter the load  This is because the grid is providing (instant magnetic push flux) similar to a giant flywheel   So if any of your loads have a very high starting current the grid will provide it when grid tied and using micro inverters  But if you are off grid and have high start up currant loads your inverter and batteries has to supply it  The start up currant could be over 10 times higher than running wattage or currant  High frequency inverters with have small light transformers switched at high frequency to raise the voltage   There is very little flux stored in the magnetic core of theses small light transformer cores  So the high frequency inverter has to get that instant amperage of start up load mainly from your battery's  There is lots of components in high frequency that that amperage spike has to go through to make it to your load  Boosting mosfets switching dc from solar panels/batteries into high frequency ac then though diodes to back to dc to be stored in high voltage 300 or 400 volt dc capacitors  Then through switches like mosfets to turn high voltage dc from capacitors into lower 120 or 240 volt 50 or 60hz   This is simplified there is lots of other components that makes all that happen  Point is high frequency inverters has tons of components that spike has to go though to get to your starting current giant instant load   Every time its hard on every one of them components   Low frequency inverter uses a big heavy iron core transformer that hold lots of flux to step up the voltage  So the low dc voltage from your solar panels/batteries goes through switches like mosfets to turn to low voltage ac  This low voltage ac is stepped up to high voltage ac through the big heavy iron core transformer  It comes out of transformer at 120volt or 240 volt 50 or 60 hz ac  There for it has way less components to go bad or to be hard on  With the added flux needed to start big loads stored in the core of the big transformer      It is a lie that all low frequency inverters has a high idle losses  I built a 10k low frequency inverter maybe 5 or 6 years ago  It has been running 24/7 in harsh conditions powering apartment over a garage It powers them both big saws welders and all zero problems   It usages around 15 watts at idle that's fully powered up idle   Its all about how you wind the transformer and your choke   I have people in the inverter bezz that have tested my wound transformers and cant find any losess  But still say it has losses imposable not to have LOL LOL                                                                                                                                                        The grids inductance/magnetic flux can be thought of as a flywheel or pushing a person on a swing  There is lots of force that will knock you a flying if you step in front of some one swinging on a swing   All the switching magnetic flux in the transformers and lines work just like person on the swing  It takes very little input to keep them swinging if your push is timed correctly Transformers/ power line works the  same the push is at 50 or 60 hz  120 volt or 240 volt ac    The loads you need to start up is what makes one inverter WAY better than other also the way smaller componet count    OK thats all you need to know to make good choice!!!",
+    "likes": 0,
+    "published_at": "2024-04-03T21:08:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwIhAwC4EXWZdUf30h4AaABAg",
+    "author": "@tg_privat",
+    "author_channel_id": "UCELH_Ue0Z7MVHOFa1wSBORw",
+    "text": "I use Microinverters for almost 10years. I like easy instalation. Main drawback for me is self consumption. They need 25+ Volts to start working. So in winter conditions their performance is worse, because you can't connect strings of pannels to them. So with string inverters you can reach start voltage much sooner, and get at least some production in bad conditions.",
+    "likes": 0,
+    "published_at": "2024-04-03T20:12:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_6NUaKhZNdBh9S7Z4AaABAg",
+    "author": "@selfcorrected-Bobby",
+    "author_channel_id": "UC7AY3QZQ98Pz07gnPK6id3Q",
+    "text": "But doesn't an MPPT inverter also do this and its ground based?  My dad's friend is having some problems with an old system and the company is not lending support, and he is suffering from macular degeneration. Here's what they say about an MPPT, so I wonder: An MPPT (Maximum Power Point Tracking) inverter is a type of solar power inverter that optimizes the energy conversion efficiency of solar panels by tracking the maximum power point of the solar array. This technology allows the inverter to extract the maximum possible power from the solar panels, ensuring efficient energy conversion and reducing energy losses. MPPT inverters are commonly used in off-grid and grid-tied solar power systems, providing a reliable and efficient way to convert solar energy into usable electrical power. These inverters are designed to work with solar charge controllers, which regulate the charging of batteries in off-grid systems, further enhancing the overall performance and efficiency of the solar power system\" END QUOTE. So from panels, to MPPT inverter, the mppt inverter goes to the charge controller, which goes to the batteries. Erm. But like... so that is energy going in. But so energy goes like out of the MPPT to devices? So it goes rom panel to mppt to charge controller to battery. and does the charge controller or the mppt \"realise\" that the devices need battery power?",
+    "likes": 0,
+    "published_at": "2024-04-03T19:31:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy_6NUaKhZNdBh9S7Z4AaABAg.A1mQLoVQQXcA1mWkRVWOqH",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "Your question is a little confusing... usually, the power is dumped from the charge controller(DC-DC) into the bus that feeds the batteries... the whole-house inverter(DC to AC) draws from that bus/batteries as much power as necessary to support the demand on the AC side.",
+        "likes": 1,
+        "published_at": "2024-04-03T20:27:28Z"
+      },
+      {
+        "id": "Ugy_6NUaKhZNdBh9S7Z4AaABAg.A1mQLoVQQXcA1wrKRNlmWH",
+        "author": "@andrewsmithmilan1780",
+        "author_channel_id": "UC2HLmwtJizLCciSewcYKorA",
+        "text": "​@onestoptechnologies7305a charge controller is for charging batteries. A micro inverter or a string inverter is usually grid-tied and not including batteries. There are some string inverters that are called hybrid inverters that can be used with or without batteries. Some are grid tied, some are strictly off grid. All of them that I just listed will have mppt technology. If you get a cheap $20 Chinese charge controller, it won't have much for specs and it'll use the older technology that is not as effective.",
+        "likes": 0,
+        "published_at": "2024-04-07T20:48:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRnF_ltQrwM-1OoQl4AaABAg",
+    "author": "@JohnSmith-qm5xu",
+    "author_channel_id": "UCd8Wr1mpUVOR-Ir0VJ36lJA",
+    "text": "How stupid is all of our electronic systems? Show me a device in the house that doesn’t convert ac to Dc… so switch from dc, to ac so it can switch BACK to dc… ffs, we aren’t going to make it as a species",
+    "likes": 0,
+    "published_at": "2024-04-03T19:18:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwGiG7uvCIJviLp9kd4AaABAg",
+    "author": "@vivisector3489",
+    "author_channel_id": "UCH8LFACvC0kMFJwPxSQEWOg",
+    "text": "Excellent video.",
+    "likes": 1,
+    "published_at": "2024-04-03T18:23:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJj6UEJM1rzAXEfH94AaABAg",
+    "author": "@pfitzsimmons008",
+    "author_channel_id": "UCTGrKa88DQ5wSDGhKut5fNQ",
+    "text": "Can you put a 600watt led light in sunlight and get any electrical current out of the power cable which you would be putting power in just a thought",
+    "likes": 0,
+    "published_at": "2024-04-03T18:16:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzJj6UEJM1rzAXEfH94AaABAg.A1mHmcO9_d0A1mQzMSELBV",
+        "author": "@asandax6",
+        "author_channel_id": "UC2zh0EQXxjGTFEbdHm1xBwQ",
+        "text": "No the efficiency of LEDs are one way (Electricity to Light) in the opposite direction they are bad infact way worse then TECs when used as TEGs. Also remember that solar panels are also worse efficiency when used as LEDs.",
+        "likes": 1,
+        "published_at": "2024-04-03T19:37:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRGQ35tc0tkhfJNLR4AaABAg",
+    "author": "@Russmayra",
+    "author_channel_id": "UC3U2oiquIkt2EO94ieQ9IPA",
+    "text": "Grow trees use gasifier to produce electricity much more efficient",
+    "likes": 1,
+    "published_at": "2024-04-03T18:03:16Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxRGQ35tc0tkhfJNLR4AaABAg.A1mGFM9IHFeA1mTj9oAUEx",
+        "author": "@TheBaconWizard",
+        "author_channel_id": "UCXAOdDzYrMdKAR-r5QZazvQ",
+        "text": "Sure, but what about on the local council estate? Or just suburbia.",
+        "likes": 0,
+        "published_at": "2024-04-03T20:01:04Z"
+      },
+      {
+        "id": "UgxRGQ35tc0tkhfJNLR4AaABAg.A1mGFM9IHFeA1mXSWwKYku",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "Great for backup power, but engines using gasifier fuel will fail at a much higher rate than using regular gasoline/diesel. Also, gasifier generator requires a lot more continual maintenance over the 25 year life of solar panels. \nP.S. You might consider finding a way to add a little oil to the cylinders to aid in lubrication to extend the life of the engine.",
+        "likes": 0,
+        "published_at": "2024-04-03T20:33:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxlD9pu2DyN-g4hKvB4AaABAg",
+    "author": "@amadensor",
+    "author_channel_id": "UCpjWIfbVv1T-vVaEdYopp9A",
+    "text": "On my camper, I use solar just to charge batteries. Then I use 12vdc or an inverter from there.",
+    "likes": 3,
+    "published_at": "2024-04-03T17:55:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzZzPz3vSeYr6ZKnvR4AaABAg",
+    "author": "@grendel1960a",
+    "author_channel_id": "UCugJVwvz-clavvlmL2XsCuw",
+    "text": "surely many household appliances actually run on a low DC voltage nowadays, computers phones, even most washing machines and TV's nowadays all take the mains power , transform it down and then rectify it. so many household items are actually running at low DC voltages, with all the losses involved in transforming and rectification, anything that is run off its own power brick is converting back down to a DC voltage- So why dont we do away with the electrical losses involved in creating AC from DC - then converting it back again - the only stumbling block put in our way is manufactures of these items, who effectively will only let you put mains AC in, if they has an external DC input socket that could be plugged into a DC supply, at low voltage, then the solar panels could supply these sockets easily enough and the only electronics required would be dc dc converters or voltage limiting circuits, so many less components so a cheaper manufacturing process.",
+    "likes": 1,
+    "published_at": "2024-04-03T17:51:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzZzPz3vSeYr6ZKnvR4AaABAg.A1mEuFRh6cEA1nOhRNUGYo",
+        "author": "@technicalfool",
+        "author_channel_id": "UCXp6bK6QY8FVehtnLAoDnsw",
+        "text": "USB-C and the PD standards are kinda helping there. Cheap chips and components that have enough brains in to give your device what it wants. You can have a power brick, but you could also use a battery pack or \"power station\" (basically, a really big battery pack). PD already has the ability to throw 250W over a cable with the latest revision; anything more than that you can probably bite the bullet and go via an inverter.\n\nRight now, I have a little GAN brick that's good to 120W, a small power station, a pocketable power pack, and it basically keeps all the small little phone/tablet type things nicely topped up. That along with a 100w foldable solar panel if I ever want to go remote, and I'm basically covered for anything I might want to take with me.",
+        "likes": 0,
+        "published_at": "2024-04-04T04:36:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwjrROMq-g9GfjE7LJ4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Thanks for this video! One of the channels I follow is \"Solartime with Martyna\" -- she initially liked the use of MicroInverters but overtime she found that they add a complication because if they are proprietary or the \"company\" doesn't stay in business as you mentioned... then the whole solar panel becomes useless. I think the overall problem with Microinverters is not worth the hassle unless they are easily \"swappable\".",
+    "likes": 11,
+    "published_at": "2024-04-03T17:50:43Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwjrROMq-g9GfjE7LJ4AaABAg.A1mEoRqPtyVA1n27K9GiGK",
+        "author": "@shazzz_land",
+        "author_channel_id": "UCWtTodEJBvJ-U4V1BmKw3VQ",
+        "text": "or you could skip 7 billion people out of existence and all problems go away; it is that simple; no more water issue; no more such a big environment impact etc, all by skipping out of existence 7 billion people",
+        "likes": 1,
+        "published_at": "2024-04-04T01:19:05Z"
+      },
+      {
+        "id": "UgwjrROMq-g9GfjE7LJ4AaABAg.A1mEoRqPtyVA1n34rDEtyg",
+        "author": "@brucedownunda7054",
+        "author_channel_id": "UCUyRmuF1NGMyrVCCh8UGAWQ",
+        "text": "​@shazzz_land  Klaus Schlobb gives You a Thumbs up",
+        "likes": 4,
+        "published_at": "2024-04-04T01:27:29Z"
+      },
+      {
+        "id": "UgwjrROMq-g9GfjE7LJ4AaABAg.A1mEoRqPtyVA1nBvS_Nfzd",
+        "author": "@shazzz_land",
+        "author_channel_id": "UCWtTodEJBvJ-U4V1BmKw3VQ",
+        "text": "@brucedownunda7054 sadly I know; i don't agree with the idea but it is a truth to it; \n\nWhat do you work if I may? what is your field, maybe we could colaborate in the future",
+        "likes": 0,
+        "published_at": "2024-04-04T02:44:42Z"
+      },
+      {
+        "id": "UgwjrROMq-g9GfjE7LJ4AaABAg.A1mEoRqPtyVA25Ud-oG64-",
+        "author": "@TexasVeteranPatriot",
+        "author_channel_id": "UClU__9hYqizPWgVKWdwqy8A",
+        "text": "If they were standardized with cross brand compatibility, they could be a contender against string, but that's not how they like to operate in the corporate world.",
+        "likes": 0,
+        "published_at": "2024-04-11T14:33:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyS_enSfAvPsr_oyAN4AaABAg",
+    "author": "@DavidPaulNewtonScott",
+    "author_channel_id": "UCYShkubzRgRwaA3uO1t-_Pw",
+    "text": "I am doing as little of this as possible I try to use my electricity as DC. No losses and cheaper. I have bought lots of cordless power tools. I will charge them from solar and if there is enough sun I will even run them from the panels direct.",
+    "likes": 3,
+    "published_at": "2024-04-03T17:42:30Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyS_enSfAvPsr_oyAN4AaABAg.A1mDsEPXmfdA1mTMVyrBGv",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "I too use both the DC and AC, but remember the whole reason we do not use DC everywhere is that DC has substantial transmission losses. I use the DC to power pumps in the mechanical room, but beyond that it really became impractical. Pumping 48VDC through parallel wiring, just so I can power a stepdown transformer for low voltage lighting, USB charging, et cetera, really didn't make sense in the long run. The 10-15% inverter loss was immaterial compared to the headache of designing, building and maintaining a separate DC system that no one else understood. I came to the same conclusion regarding solar tracking, I just slapped on a few more stationary solar panels and kept the system simple. I love efficiency, but at some point...",
+        "likes": 1,
+        "published_at": "2024-04-03T19:57:51Z"
+      },
+      {
+        "id": "UgyS_enSfAvPsr_oyAN4AaABAg.A1mDsEPXmfdA1mfr1z3g2B",
+        "author": "@DavidPaulNewtonScott",
+        "author_channel_id": "UCYShkubzRgRwaA3uO1t-_Pw",
+        "text": "@onestoptechnologies7305  I am off grid as you would see on my channel.  When I build my house in the Philippines and restore the house in Portugal, both will be off grid. I have tried in vain to provoke  Robert Murray Smith into coming up with a system that can put out something like 50 watts to no avail. In the end I have solved the problem myself. I will be developing all this stuff after I get this dugout cabin done and post it all on my channel. Anyway one of my strategies is to use the least amount of electricity possible. Something that us now possible with low power devices. My strategy with losses will be to keep the runs short and power down (low current). One big idea I have is carbon foam insulation formed by an extremely cheap process. Consider subscribing.",
+        "likes": 0,
+        "published_at": "2024-04-03T21:55:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw6ANCoTGjpjGHCB494AaABAg",
+    "author": "@bartronicsecurity",
+    "author_channel_id": "UCSPNvKqUmd_mVG-uLI_FBGw",
+    "text": "Inverters of all types whether large single units or micro inverts have running losses and all have standby current. The result is generally that around twice as much solar panels and batteries are needed than would be required if just using 24Volts DC directly. But the solar panel and battery suppliers won’t tell you that because that would mean a loss in sales volumes. Edison was pushing DC in his day which is usable in a typical house or office building. DC 24 volt refrigerators, deep freezers, TV’s, kettles etc are available which all draw less than 220V AC versions further reducing the volume of solar panels and batteries needed. I am a firm believer that DC is a far better way to go. A single large inverter of 5kW draws a stand by current of around 1,5 or 3 amps with no load in the output. At 51V DC that means 100Watts being used. Multiply that X 24 hours and you have a standby wattage in a given day of 2,4kW hr. Or put it another way 1 panel of 400W with 6 hours of sun just to keep the standby power of an inverter. Now a fridge uses on average 200W and runs for 4 hours a day = 800W hr. A deep freezer is similar in power used. A TV uses 50W at 5 hours a day = 250 W hr. Lights for 5 hours at 50W hr = 250W hr. Total of all of these is 2100 W hr. In other words the inverter doing nothing uses more than all of these put together. And that is not even looking at the losses of stepping up the 51V DC to mains voltage where another 20% is lost. Now in 10 years when the batteries of an inverter installation site has to be replaced from aging the user will be paying far more than the few batteries used in DC installation. Time to stop using inverters and start looking at using DC in houses.",
+    "likes": 1,
+    "published_at": "2024-04-03T17:41:37Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "Ugw6ANCoTGjpjGHCB494AaABAg.A1mDlly5eiIA1mFqU6f6Mp",
+        "author": "@gerryplayz4532",
+        "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+        "text": "Pretty sure a lot of the things you plug in has to have their own inverter to convert the AC to DC, with those you'd just be going DC to AC then back into DC again!",
+        "likes": 0,
+        "published_at": "2024-04-03T17:59:44Z"
+      },
+      {
+        "id": "Ugw6ANCoTGjpjGHCB494AaABAg.A1mDlly5eiIA1mW-l7HNVJ",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "I idolized Edison for the first 20 years of my life... but frankly, he was an idiot that promoted DC purely out of jealousy! DC is a TERRIBLE way to transport power compared to AC... this is why the entire world uses AC. DC is OK for very short, low power applications, but transmission losses and wire cost make DC impractical.",
+        "likes": 0,
+        "published_at": "2024-04-03T20:20:57Z"
+      },
+      {
+        "id": "Ugw6ANCoTGjpjGHCB494AaABAg.A1mDlly5eiIA1mpIRlLNDA",
+        "author": "@bartronicsecurity",
+        "author_channel_id": "UCSPNvKqUmd_mVG-uLI_FBGw",
+        "text": "@gerryplayz4532 In my case the satalite decoder, the modem, the WiFi and a bunch of other stuff  has a 12v external power box. So I made up a bunch of cables with the correct sockets and wired them all up to a single 24v to 12v converter I got from aliexpress. Also put in a few car DC sockets in the formerly mains socket boxes and ran a few 4mm wires to the battery via a DC distribution box. Got a roll of 24v led strips for the light and using the same previous wiring all works well. This is the kind of stuff that any handy man can do. Just remember the fuses have to be in line in case rats or ants eat the insulation and wires short out. When I switch off my appliances nothing is drawn any more. No stand by current of any sort.",
+        "likes": 0,
+        "published_at": "2024-04-03T23:18:16Z"
+      },
+      {
+        "id": "Ugw6ANCoTGjpjGHCB494AaABAg.A1mDlly5eiIA1mpw5CZEPS",
+        "author": "@bartronicsecurity",
+        "author_channel_id": "UCSPNvKqUmd_mVG-uLI_FBGw",
+        "text": "@onestoptechnologies7305 Yep I called 50 meters the max. Ideal distance which is why the batteries sit as near to the centre of the house outside. Works well. Absolutely zip current when everything is off. But the water has to be heated with solar water heaters as pv cells is so low on efficiency. Use gas for cooking.  Only thing is there are no DC powered washing machines so here an inverter is used on cold wash cycle.",
+        "likes": 0,
+        "published_at": "2024-04-03T23:23:49Z"
+      },
+      {
+        "id": "Ugw6ANCoTGjpjGHCB494AaABAg.A1mDlly5eiIA1mysCnH4EQ",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "@bartronicsecurity Sounds like a great setup. Gas clothes drier? I'm installing hydronic heated floors with in-ground hot water storage tank using flat plate collectors. I assume you don't need air conditioning?\nCould you retrofit a washer with a DC motor and use the AC motor wires to activate a relay for the DC motor?",
+        "likes": 0,
+        "published_at": "2024-04-04T00:41:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwVSK7uAFTKg9mkBxZ4AaABAg",
+    "author": "@ur_quainmaster7901",
+    "author_channel_id": "UCL0zGrYuGYLnhvfmtQU_2OA",
+    "text": "I have used microinverters, string inverters, and hybrid inverters and there are indeed pros and cons of each. Biggest plus for microinverters for me has been that they don't complain about ground fault on old used panels. Those old panels would bring down the entire string on a wet or foggy day. And it sure is an issue getting an new micro inverter to replace one that failed because the manufacturer doesn't make it any more. Also, some require gateways or other monitoring hardware to turn the darn things on and that is just another layer of failure points and annoyance.  \n\nStill, they are in use, working with panels that would have otherwise been worthless.",
+    "likes": 4,
+    "published_at": "2024-04-03T17:31:14Z",
+    "reply_count": 12,
+    "replies": [
+      {
+        "id": "UgwVSK7uAFTKg9mkBxZ4AaABAg.A1mC_kqPH-VA1mHRfUHrty",
+        "author": "@TexasVeteranPatriot",
+        "author_channel_id": "UClU__9hYqizPWgVKWdwqy8A",
+        "text": "Re: micros...EXACTLY!! That's what put me off them right off the bat. They're too proprietary.",
+        "likes": 0,
+        "published_at": "2024-04-03T18:13:41Z"
+      },
+      {
+        "id": "UgwVSK7uAFTKg9mkBxZ4AaABAg.A1mC_kqPH-VA1mTz5y5Rbv",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "Are you saying that you cannot mix-and-match different microinverters? \nI assumed each micro would sense the voltage, frequency and phase then match it... making them virtually independent. I do not currently use micros, but had been thinking about them.",
+        "likes": 0,
+        "published_at": "2024-04-03T20:03:15Z"
+      },
+      {
+        "id": "UgwVSK7uAFTKg9mkBxZ4AaABAg.A1mC_kqPH-VA1m_9ZhN879",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "Yeah... I'm not a fan of proprietary either... it usually just means they have you over a barrel!\nHopefully, someone designs an open source version! For now, I'll stick with a single inverter until the micro tech matures.",
+        "likes": 1,
+        "published_at": "2024-04-03T20:57:15Z"
+      },
+      {
+        "id": "UgwVSK7uAFTKg9mkBxZ4AaABAg.A1mC_kqPH-VA1m_bI84bE-",
+        "author": "@TexasVeteranPatriot",
+        "author_channel_id": "UClU__9hYqizPWgVKWdwqy8A",
+        "text": "@onestoptechnologies7305 critical factor to an off-grid prepper type such as myself. I need max flexibility and options or it's no-go...",
+        "likes": 0,
+        "published_at": "2024-04-03T21:01:10Z"
+      },
+      {
+        "id": "UgwVSK7uAFTKg9mkBxZ4AaABAg.A1mC_kqPH-VA1mk50psJrg",
+        "author": "@onestoptechnologies7305",
+        "author_channel_id": "UCsAjqh6RPeopJpeW8KAi7qA",
+        "text": "@TexasVeteranPatriot Absolutely Right! I'm hoping we get smaller stackable inverters. 3x2kw not 1x6kw  \nHave you heard about vertical installation of solar panels? \nIt's not the perfect angle to squeeze out every drop, but panels are fairly cheap... \nBetter convection cooling, Longer panel life, No snow, No dirt, More consistent production...\nAnd if you loose a few... you can always drop them out... set the angle and still get what you need.",
+        "likes": 0,
+        "published_at": "2024-04-03T22:32:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHw_LRqTbt_TbKtFp4AaABAg",
+    "author": "@TexasVeteranPatriot",
+    "author_channel_id": "UClU__9hYqizPWgVKWdwqy8A",
+    "text": "MicroInverters = massively more points of failure and expense. KISS method better in the long run. EDIT: DUDE! Was that a Fallout mini-nuke I saw??? Awesome!",
+    "likes": 9,
+    "published_at": "2024-04-03T17:11:09Z",
+    "reply_count": 17,
+    "replies": [
+      {
+        "id": "UgwHw_LRqTbt_TbKtFp4AaABAg.A1mAH_4VoeEA1mBxJ-8Z6K",
+        "author": "@boathemian7694",
+        "author_channel_id": "UCQAl0jVcqZ7hoKo6HVlInBg",
+        "text": "disagree. Micros run cooler and you have redundancy.",
+        "likes": 4,
+        "published_at": "2024-04-03T17:25:43Z"
+      },
+      {
+        "id": "UgwHw_LRqTbt_TbKtFp4AaABAg.A1mAH_4VoeEA1mD2Sp0xmQ",
+        "author": "@yasirrakhurrafat1142",
+        "author_channel_id": "UCNFChs80ceMb2L3iBoJpzvA",
+        "text": "​@boathemian7694 dayum, good point.",
+        "likes": 3,
+        "published_at": "2024-04-03T17:35:18Z"
+      },
+      {
+        "id": "UgwHw_LRqTbt_TbKtFp4AaABAg.A1mAH_4VoeEA1mD6K6-tkL",
+        "author": "@yasirrakhurrafat1142",
+        "author_channel_id": "UCNFChs80ceMb2L3iBoJpzvA",
+        "text": "True and not, I guess.\nSo, true, but depends.",
+        "likes": 3,
+        "published_at": "2024-04-03T17:35:49Z"
+      },
+      {
+        "id": "UgwHw_LRqTbt_TbKtFp4AaABAg.A1mAH_4VoeEA1mExymKykX",
+        "author": "@TexasVeteranPatriot",
+        "author_channel_id": "UClU__9hYqizPWgVKWdwqy8A",
+        "text": "@boathemian7694 Enphase IQ8 runs $150-250 EACH. On a 400w x28 array (mine is 7 series x 4 string parallel) that's an additional $5600 (taken at avg $200). My off-grid system has 2x 12kw split phase inverters that cost less than $3k total for BOTH and $4500 with the SPARE (STILL LESS $$$). One is for 240v loads the other for 120v. Because they are identical, IF one fails, the other can run everything for the short time it takes to replace them. Temperature is irrelevant to the issue. I've done the homework for years on options before choosing and installing the final setup and it didn't take me too long to abandon the idea of microinverters as undependable as a system in the long run. If supply chains crash and burn, there are a lot more common inverters (even small chinese ones) around that you can make-do with than micros. Also, let's not forget LIGHTNING which will fry many of the micros at a time (I use a spark gap protector). Oh, BTW, I've been in electronics 47 years and did power generation for ATT for 20 years; DC battery systems, inverters, 48v plant, generators, etc. I'm a guy that kept service running in multiple towns after hurricanes trashed everything ...just sayin'...   😎",
+        "likes": 0,
+        "published_at": "2024-04-03T17:52:01Z"
+      },
+      {
+        "id": "UgwHw_LRqTbt_TbKtFp4AaABAg.A1mAH_4VoeEA1mKBV_yjdu",
+        "author": "@TexasVeteranPatriot",
+        "author_channel_id": "UClU__9hYqizPWgVKWdwqy8A",
+        "text": "@Warp9pnt9 A false premise irrelevant to the conversation at hand. Ideology is impractical and irrelevant to the reality of historical use of micros vs inverters and the results reported therein. You can't just stop there, you MUST consider the logistics; cost, availability of replacements, esp if older DISCONTINUED models, etc. A lightning strike will take out multiples (poss all) and considering their manufacturers proprietary nature and mfg support, micros are a long term FAIL. Standardized and flexible equipment and systems are the only PRACTICAL way. NEVER be dependent on a single proprietary system that is inflexible if components can't be acquired. See @ur_quainmaster7901 comment, he explains it best.",
+        "likes": 0,
+        "published_at": "2024-04-03T18:37:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwVxxTF0mb2162eeDh4AaABAg",
+    "author": "@petrikarkela6800",
+    "author_channel_id": "UCgWlcITgyVjynUSkplYDOfA",
+    "text": "Terific echo.",
+    "likes": 0,
+    "published_at": "2024-04-03T17:07:45Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

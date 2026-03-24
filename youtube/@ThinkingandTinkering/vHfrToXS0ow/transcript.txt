@@ -1,0 +1,302 @@
+[00:00] [Music]
+[00:08] Now, this is an Archimedian spiral gear,
+[00:11] and it's really quite interesting. I
+[00:13] only for one thing, it's effectively one
+[00:15] tooth. And so, it has a huge gear ratio
+[00:18] because it's always a one to whatever it
+[00:20] is you're driving. In this case, it's
+[00:22] 25. So, this is 1 to 25, which is
+[00:24] enormous when you actually think about
+[00:26] it. Now, it will go one way or go the
+[00:29] other, but this can't turn it. So, once
+[00:32] you try to turn that, it's not going to
+[00:34] turn this. So, it has a self-locking
+[00:36] property, which is really useful in
+[00:38] things like lifts, for example, or where
+[00:41] you want to drive something in and keep
+[00:43] it wherever it is you've driven it, then
+[00:46] this kind of gear is extraordinarily
+[00:48] useful. And you find them actually in
+[00:50] leads. These are in the headstock of
+[00:52] leads. They're usually about five or
+[00:54] seven turns and they have a rack on them
+[00:56] because you can use them to drive racks.
+[00:58] So, you could make a lathe head from
+[01:00] this. I've used these actually to make
+[01:03] differentials as well and they're very
+[01:04] useful. And I thought it would be
+[01:06] interesting to know how to make one any
+[01:08] size and possibly the easiest way to
+[01:12] make one because I'm lazy and I like
+[01:14] things easy. And for me, the easiest way
+[01:16] is to combine fread and tinkercad. So,
+[01:19] we're going to look at Frecad and how
+[01:21] you actually draw the spiral in FreeCAD
+[01:23] and then how you use that drawing to
+[01:26] create this gear set. So, let's make the
+[01:29] spiral in Frecad. And I assure you it's
+[01:32] dirt simple. Right, we're in Frecad.
+[01:35] Let's open a new file. Right, we're on
+[01:37] part design, which is my default. Let's
+[01:40] jump into part. When we're there, we
+[01:42] want this one, which is create
+[01:45] primitives. It's the creation of a
+[01:47] parameterized geometric primitive. Click
+[01:49] on that and you'll get this screen.
+[01:52] Click there. And what we're looking for
+[01:54] is spiral. Click on spiral and you'll
+[01:57] get a whole load of different sections
+[02:00] that you can actually change to suit
+[02:02] what you need. Now growth is clearly how
+[02:05] big it grows by. For us, we want to
+[02:07] create a spiral which will take a tooth.
+[02:09] So we want to grow that big enough so
+[02:12] that it would can accommodate the tooth
+[02:15] that we're going to interface a gap for
+[02:17] the tooth of the original gear and the
+[02:20] other side. So something like five
+[02:25] uh 2 mm is going to be pretty good for a
+[02:28] mod 2 number of rotations. We actually
+[02:31] only really need one rotation because
+[02:34] we're creating a Archimedi spiral. And
+[02:37] the radius is the radius from which it
+[02:39] begins. Now, we want something about 100
+[02:42] mm across. So, we make that radius say
+[02:47] 45 and then create. And there we go.
+[02:51] We've created our spiral. And when we've
+[02:53] done that, of course, we can just click
+[02:54] okay. When I'm here, I've gone to the
+[02:56] view and we're going to turn on toggle
+[02:59] axis cross, which shows where it lies on
+[03:02] the plane. Now, I want that because I
+[03:05] want to move this start of the spiral
+[03:07] into the center. The reason I need to
+[03:09] see that is because I want to move that
+[03:11] to the center. And the reason I want to
+[03:13] move it to the center is it just makes
+[03:14] it easier to place the sketch, which
+[03:16] we're going to do next. And we're going
+[03:18] to rotate that sketch along that spiral
+[03:21] path. So, let's double click on spiral.
+[03:23] And that pulls up the spiral parameters.
+[03:25] And you remember we made the radius 45.
+[03:28] And if we look at this location and we
+[03:30] see position XY Z they are notionally
+[03:33] zero. So if we change X to minus 45,
+[03:39] it'll jump 45 because that's the radius
+[03:42] and that now is at the center. Now this
+[03:45] is going to become a path. It's going to
+[03:46] become a path that we can sweep a
+[03:48] sketch. And we can sweep a sketch to any
+[03:50] profile we like. We just have to draw it
+[03:53] first. So, let's just okay on that. But
+[03:56] first of all, go to part design
+[03:59] and create a body to hold the sketch.
+[04:02] Once you're there, of course, we can
+[04:04] click on create sketch. Now, we can see
+[04:06] why we've got crossaxes. This one, the
+[04:10] XY plane is where the spiral path lays.
+[04:13] We want to have it a shape that is on
+[04:16] the XZ or the YZ plane. So, let's do the
+[04:19] XZ plane. That will create our sketch on
+[04:22] this plane here. Then we'll sweep it
+[04:25] around the spiral that was on this plane
+[04:27] here. And that will create us the body
+[04:29] that we need. And there we go. There's
+[04:32] our sketch. Now we can draw the sketch
+[04:34] using these tools up here. And as I
+[04:37] said, we can draw any profile we like.
+[04:39] In this one, I'm just going to do a
+[04:40] pretty straightforward and simple
+[04:42] triangle to represent a tooth a tooth
+[04:45] profile. But of course, I could draw a
+[04:47] tooth profile. Well, it's just quicker
+[04:49] to draw it as a triangle for this
+[04:51] demonstration. So, we're going to use
+[04:53] some lines. Click on the line tool and
+[04:55] we'll create a line. Now, that line is
+[04:58] free floating and at the moment has no
+[05:01] nothing to constrain it. So, we want to
+[05:04] create some constraints. One of the
+[05:06] constraints I want is that the line is a
+[05:08] specific height and a specific distance
+[05:11] away from the center. Now, I want my
+[05:13] tooth to be about 2 mm. So I'm drawing
+[05:17] half the tooth and I'll I replicate it
+[05:19] for the other side. So we want it a
+[05:21] millimeter away from that actual center
+[05:23] line here. So to do that we can
+[05:25] dimension it. We can create a constraint
+[05:29] distance. To do that click on the blue
+[05:32] click on this line and it'll give you a
+[05:34] choice. And you can see that you've got
+[05:36] 41.48 mm. I want to change that to one.
+[05:42] And now we want to do exactly the same
+[05:44] thing with this one. But we want that
+[05:46] constraint to be constrained from here
+[05:55] and I want that 8.75.
+[05:59] So the reason I'm doing this is because
+[06:01] we want a tooth if you like and the
+[06:03] tooth has to mesh with a mod tool gear.
+[06:06] Now it's still not constrained properly.
+[06:09] We just constrained the heights of
+[06:10] things. What we need to do now is
+[06:12] constrain them to the axes. So we go
+[06:15] back up here and we use what's called a
+[06:17] constraint coincidence. So click on the
+[06:20] constraint coincidence. This one
+[06:23] we want to lie on this axis
+[06:28] and this one
+[06:30] we want to lie on that axis.
+[06:33] Okay, now we've done that, we just need
+[06:35] to repeat that here and we need to put a
+[06:38] bottom in there. Now, to be honest,
+[06:40] there's a million ways you could do that
+[06:42] sketch. It's basically a question of
+[06:44] whatever works for you. All you really
+[06:46] need to do is draw a sketch which is
+[06:49] closed on the right plane and create a
+[06:52] spiral. The spiral is going to be the
+[06:54] path that we extrude that sketch on. And
+[06:57] equally, there's a million different
+[06:59] shapes you can draw. As long as you can
+[07:01] draw a sketch of it, you can extrude it.
+[07:04] So once you draw that sketch, well it
+[07:06] can be anything you want pretty much as
+[07:08] long as you can draw a sketch of it. So
+[07:10] there's my triangular tooth all done.
+[07:13] Let's close that.
+[07:15] And then we've got our tooth lying here.
+[07:18] The spiral is hidden. So if I unhide the
+[07:20] spiral, we can see that that spiral path
+[07:23] is going to be what that triangle
+[07:26] follows. Right. Select sketch. And then
+[07:29] up here you'll see this yellow thing
+[07:31] called additive pipe. Click on that.
+[07:34] When you've clicked on additive pipe,
+[07:36] it's going to sweep that triangle along
+[07:39] whatever object I say. So, what it's
+[07:42] going to sweep is profile sketch. There
+[07:45] are other options if you want, but the
+[07:47] one we're really interested in is the
+[07:49] object, which is going to be this
+[07:50] spiral.
+[07:53] And there we go. Has swept it around.
+[07:59] Cool. Click okay. And it'll come up with
+[08:01] this. We want to make an independent
+[08:04] copy. And there we go. There is our
+[08:07] Archimedes spiral. Now, we could carry
+[08:11] on with this in Frecad. What we're going
+[08:13] to do is transfer it into Tinkercad
+[08:15] because remember, I like Tinkercad
+[08:18] because it's so easy, but all I've
+[08:20] really done is make a spiral primitive.
+[08:23] And I'm going to use that primitive in
+[08:25] Tinkercad because it's fast and it's
+[08:27] easy. In order to do that, highlight
+[08:30] your object, go up to file and export,
+[08:35] export as an STL. So if you think about
+[08:38] it, actually we did three very simple
+[08:40] things to create that. The first thing
+[08:42] we did was create a spiral using create
+[08:45] spiral. Then we drew a sketch in
+[08:48] Sketcher. And then in part design, we
+[08:50] linked those two together using additive
+[08:53] pipe. And bingo, we had ourselves a
+[08:56] spiral. Now, that's a spiral tooth for a
+[09:00] spiral gear. And of course, what we want
+[09:01] to do is create that spiral gear. Now,
+[09:04] we could do that in Fread, 100%.
+[09:07] However, I like to do things quickly.
+[09:09] Once we've created that primitive, bring
+[09:11] it into Tinkercad. It's extraordinarily
+[09:14] quick to turn our spiral tooth into our
+[09:18] spiral gear. Right, we're in Tinkercad
+[09:21] and I've imported that spiral that we
+[09:23] created. And as you can see, it's a
+[09:25] triangular tooth following an
+[09:26] Archimedian spiral into Tinkercad. And
+[09:29] the only other things I need to change
+[09:31] it into a gear are a couple of
+[09:33] cylinders. So here I've created a
+[09:35] cylinder just by pulling this solid
+[09:37] primitive down, making the sides nice
+[09:39] and smooth. And you'll see it's 112 by
+[09:41] 112. And that's because this one is
+[09:44] 111.8
+[09:46] from there and 108.81 across there
+[09:49] because this is not circular. Whereas
+[09:51] this is circular. And of course, we need
+[09:53] to center it. So to center it, what we
+[09:55] do is highlight both of them, use the
+[09:58] centering key, and we're going to center
+[10:00] it to the edges. So we center it to that
+[10:03] edge and that edge. Now, of course, it's
+[10:07] out of true. It's out of true on this
+[10:09] side by 0.1 of a millimeter. So we hit
+[10:14] the 0.1 and nudge it across. And now
+[10:17] it'll be centered. It's centered off
+[10:20] center at this side. We can see that
+[10:22] 108. So it is 4.8 that it's out. So once
+[10:27] we do know how far we need to nudge it,
+[10:30] highlight that. Change this
+[10:34] to one. Now it's 4.8 which means it's
+[10:36] 2.4 because we're working by the radius.
+[10:38] So 1 2
+[10:43] and then four. 1 2 3 4. And we've
+[10:46] centered the spiral to our cylinder.
+[10:50] Now, of course, he wants something to
+[10:51] hold a bearing, which is what these two
+[10:53] are for. So, we can center those to that
+[10:56] cylinder by using the centering key.
+[11:03] There we go. Now, if we highlight the
+[11:05] whole lot, we can group it.
+[11:10] And then we can print that off. And that
+[11:11] is our single tooth comedian gear. And
+[11:14] when we've printed it off and pushed the
+[11:16] bearing in the center, that's what we
+[11:17] get. Now this is a driving gear and it
+[11:20] is essentially one tooth. So any gear
+[11:23] that is the driven gear with this is
+[11:25] going to be a one to whatever number of
+[11:27] teeth ratio. Now of course it isn't much
+[11:31] use like this. We do need a whole lot of
+[11:32] other bits. And that is just a modulus
+[11:35] to gear. In my case I've printed 25
+[11:38] teeth. So this is going to be 25 to one.
+[11:40] And I don't mean to go into these
+[11:42] because I've done these in other
+[11:43] tutorials. This is just a gear primitive
+[11:45] sized at modulus 2 and with 25 teeth.
+[11:48] And this is just our well their
+[11:51] cylinders and cubes bunk together in the
+[11:53] right relationship. Once we've done
+[11:55] that, of course, we can pop our driving
+[11:58] gear onto that spindle there like that.
+[12:01] So that it's just popped on there and
+[12:03] rested on there. And then our driven
+[12:05] gear goes over the top like that. And
+[12:08] there's a clip that holds it in place.
+[12:10] Now, if you're designing one of these
+[12:11] from scratch, be aware that this needs
+[12:15] to be more or less center but off a bit,
+[12:18] and it takes a little bit of fiddling
+[12:20] around to make sure where that space
+[12:21] actually is. But now we have ourselves
+[12:24] an Archimedes screw gear with a 1:25
+[12:28] ratio. So, if we spin that that way,
+[12:30] then it will drive this gear round very,
+[12:33] very slowly. I will of course put these
+[12:36] things on Thingiverse should anybody
+[12:38] just want to print them off to play
+[12:39] around with them. But if you want to
+[12:42] make this to any size you want and you
+[12:44] can put more than one spiral if you
+[12:46] want. But if you want to make these to
+[12:47] any size yourself, that's how to go
+[12:49] about it using Frecad and Tinkercad and
+[12:52] Free CAD to make something like this.
+[12:54] It's an absolute breeze. Anyway, I hope
+[12:57] you enjoyed the video. Thank you very
+[12:59] much for watching and please do remember
+[13:01] to like and subscribe.

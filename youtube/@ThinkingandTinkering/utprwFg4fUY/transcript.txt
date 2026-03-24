@@ -1,0 +1,219 @@
+[00:00] [Music]
+[00:08] Now, I don't know if you remember this.
+[00:10] It's from video 2399. And what it is,
+[00:13] it's a mechanism that'll take a variable
+[00:16] linear motion and turn it into a
+[00:18] consistent one-way rotary motion. So, if
+[00:21] I push this a little bit, we get a
+[00:23] little turn. If I push it a lot, we get
+[00:25] lots of turn. But the turn is always in
+[00:28] the same direction. And this can wobble
+[00:30] about meaning that there's a degree of
+[00:32] variability as well in the direction
+[00:34] that force is actually applied. Now that
+[00:37] might seem a little obscure but actually
+[00:40] it has 100 uses. I mean wave power would
+[00:44] be one example. Different kind of wind
+[00:46] power where you're blowing something
+[00:47] backwards and forwards would be another
+[00:49] example of where it can be used. So for
+[00:52] me it's a very useful mechanism. We used
+[00:54] it actually in video 2400 where we
+[00:58] constructed this which is a a CVT. We
+[01:01] made a CVT out of that mechanism. So
+[01:04] that ability to do that is uh really
+[01:08] very useful and consequently I'm on the
+[01:10] lookout for things that will do that
+[01:13] things that will take a variable input
+[01:15] that's backwards and forwards and turn
+[01:17] it into a consistent turning output to
+[01:20] run something say like a generator. And
+[01:23] this is one of the things that has great
+[01:25] possibilities for doing exactly that
+[01:28] job. Now I do wonder if engineers think
+[01:31] before they name things because this is
+[01:33] called a floating rack. And I can
+[01:36] imagine the number of onandras and
+[01:38] innuendos you're going to get when
+[01:40] somebody says, "Oh, nice rack rub." But
+[01:42] what it does is if you push it in that
+[01:45] direction, it folds back the way. If you
+[01:48] push it in that direction, it folds back
+[01:50] down automatically and locks in place.
+[01:52] So that's dependent on the direction of
+[01:55] motion. If we pushing it that way, it
+[01:58] won't push. If we push it that way, it
+[02:01] will push. So I was thinking, could we
+[02:04] turn that into a mechanism like the one
+[02:06] I've just showed you? Of course, what we
+[02:08] need to do then is design it. Right, I'm
+[02:12] in Frecad. And just to warn you, this is
+[02:14] not going to be a Frecad tutorial. I
+[02:16] just want to show you something that
+[02:17] Frecad has that makes the life of a
+[02:20] designer incredibly straightforward and
+[02:23] it's one of their workbenches. If you go
+[02:26] to tools and add-on manager, it'll pull
+[02:29] up the workbenches available for you.
+[02:31] And there they are. And the one we're
+[02:33] looking for is called the Gears
+[02:35] Workbench. So, you click in the search
+[02:37] bar and type in Gear and it'll pull up
+[02:40] this. Click on it, install it. You'll
+[02:44] have to restart it and you'll get the
+[02:46] gears workbench.
+[02:49] Once we've got the workbench, it's
+[02:51] accessible like any workbench in this
+[02:53] pulld down menu here. And there it is.
+[02:56] Gear. Click on that. If you click on
+[02:58] that, this is what you'll get. And what
+[03:00] you've got is a starter pack for a whole
+[03:02] bunch of gears. If you just look at this
+[03:04] here, you'll see that there's a whole
+[03:06] lot of gear symbols, including what
+[03:09] we're looking for, where we've got an
+[03:11] involute rack, and we're going to need
+[03:12] that. We've got the involute gear, the
+[03:15] straightforward gear, which we're going
+[03:17] to need. There's the ring gear there.
+[03:19] There's bevel gears. There's worm gears.
+[03:22] There's even some really weird ones.
+[03:24] This timing gear would be great for
+[03:26] things like bicycle chains. Here we've
+[03:28] got a lantern gear. Here we've got a
+[03:31] hyper cycl gear. Now, they're an utter
+[03:33] pain to design. You have to go right
+[03:35] back to the mathematics. But here, all
+[03:37] you have to do is click it. Once you
+[03:40] click it, it will create the cyclloid
+[03:42] gear for you. There it is right there.
+[03:45] And if we click on that, we get the
+[03:46] parameters of site of the cyclloid that
+[03:49] we can change. Things like the disc
+[03:51] height, whether there are center pins,
+[03:53] how big the enemricity is, how many um
+[03:57] little loops there are. There's
+[03:58] absolutely everything in there to make
+[04:00] designing something like a hypercyclloid
+[04:02] gear, well, piece of cake. Now, the
+[04:06] things we're interested in here because
+[04:07] of the floating rack, of course, is the
+[04:08] involute rack. So, let's pull one of
+[04:10] those up. Click on that. Let's just hide
+[04:13] that. There we go. Click on that. And we
+[04:16] have an involute rack. And if we're on
+[04:17] the involute rack again, we can see all
+[04:20] of the things that we need to change.
+[04:22] I'm currently in Imperial, incidentally.
+[04:24] If I want to change that and I click on
+[04:26] there down there and I can change that
+[04:29] to something like standard for
+[04:30] millimeters in which case everything in
+[04:33] here will change to millimeters. There
+[04:35] you go. We've got it there. And the kind
+[04:38] of information that we need to change
+[04:40] like number of teeth for instance right
+[04:42] there module module is the relationship
+[04:45] of the number of teeth to the pitch
+[04:47] angle. So modules always have to match.
+[04:50] If you have a normal spur gear, an
+[04:52] envelope gear with module two, we need
+[04:54] to change that to module two in order
+[04:56] for them to mesh with each other. But
+[04:59] what's important here is we've got a
+[05:01] rack gear immediately and we could get
+[05:04] any any of these gears immediately where
+[05:06] we change a few parameters. I just
+[05:08] thought that was awesome. Now, the
+[05:10] reason I'm not going to do much of a of
+[05:11] a um tutorial on it is because it's so
+[05:14] straightforward and all you really have
+[05:16] to do is play around with these things,
+[05:18] focusing on teeth and module size, and
+[05:21] you'll be able to create really stupidly
+[05:24] easy gears that you might want. Now,
+[05:27] let's take that and create our floating
+[05:30] rack. And here are the parts. And
+[05:33] clearly, I've made two of them because
+[05:34] I'm going to need two. Now, this really
+[05:37] was pretty easy to do. one. So, give it
+[05:39] a go. But I will put these on
+[05:41] Thingiverse, should anybody be
+[05:43] interested. But if you give it a go,
+[05:45] you're probably going to do a much
+[05:46] better job than I did. But you'll notice
+[05:49] that they have a couple of bevels. That
+[05:51] bevel faces that way. And on this one,
+[05:53] the bevel faces that way. Then we've got
+[05:56] these pin plates, and the lever arms
+[05:58] just slot onto the pin plates like that
+[06:01] so that they're free to wobble backwards
+[06:03] and forwards. Then we press the pin
+[06:05] plate into the rack first. We do exactly
+[06:10] the same with the second pin plate. And
+[06:13] that gets pressed
+[06:15] into that bar there. And what we end up
+[06:19] with is two of them. And we need to join
+[06:21] those together. We join those together
+[06:23] with these two U-shaped bars. They
+[06:25] basically just glue on there and glue on
+[06:28] there. So it's facing like that. And the
+[06:31] other bar goes the same but at the
+[06:33] bottom. So that it looks like that. Now
+[06:35] when you fix them, just make sure you
+[06:37] fix them so they move in opposite
+[06:39] directions. So that one folds up that
+[06:41] way like that. And this one folds up in
+[06:43] the opposite direction like that. Then
+[06:46] the whole thing just drops in this
+[06:48] backing case like that. So you'll also
+[06:51] have a gear and an axle. And you just
+[06:53] drive the axle through the gear so it
+[06:55] sticks about 3 mm out. And there is one
+[06:57] other thing that I forgot on this bar.
+[07:00] There's a hole. In that hole, you put a
+[07:02] spring. Now, I used a spring from a pen.
+[07:05] I guess you could use any other spring
+[07:06] if you want to resize it or maybe even
+[07:08] print a 3D printed spring. So, the gear
+[07:12] slots in there in the center. And the
+[07:13] final thing is there's a cover plate
+[07:15] that goes on the top like that. Right,
+[07:18] let's put a dot on it so we can see it
+[07:20] work. And all we really do is pull it
+[07:22] backwards and forwards.
+[07:26] As you can see, that dot moves in only
+[07:29] one direction.
+[07:32] That's awesome.
+[07:36] It's brilliant. E, now that's a
+[07:39] functional model. So, if you like, it's
+[07:41] another arrow for your bow when you're
+[07:43] looking for solutions. And I can think
+[07:45] of things to do with this, but as I say,
+[07:47] it's a functional model and I'm sure
+[07:50] improvements can be made on it. Now,
+[07:52] discovering free CAD gears workbench
+[07:55] made this relatively a breeze to design
+[07:57] and come up with and so to modify and
+[08:00] change for your own purposes. You really
+[08:02] should be looking at that. If you if
+[08:04] you've got free CAD and you've not
+[08:06] looked at the gears workbench, then boy
+[08:08] are you missing out. If you're a bit
+[08:10] afraid of free, then you know, jump in
+[08:12] there. It doesn't take actually that
+[08:14] much learning to be honest. It's like
+[08:16] everything. Have a look at some of the
+[08:17] earlier videos I've done on this. If
+[08:19] you're using a different program, then
+[08:21] you know these kind of gear workshops,
+[08:24] workbenches are available in other
+[08:25] programs. I just thought it was awesome
+[08:27] to discover it in Frecad and I thought
+[08:29] that was an awesome mechanism that would
+[08:31] be great to share with you. As I said,
+[08:33] it will be on Thingiverse should you
+[08:35] want to print it out and play with it. I
+[08:36] hope you enjoyed the video. Thank you
+[08:38] very much for watching and please do
+[08:40] remember to like and subscribe.

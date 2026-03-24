@@ -1,0 +1,203 @@
+[00:00] [Music]
+[00:07] right so I get asked this a lot okay
+[00:08] because we do these generators and we
+[00:11] light something up with it people say
+[00:12] well that's great but how do you
+[00:13] actually connect it up and to be honest
+[00:16] you can just connect it straight it
+[00:18] depends on your load so if I'm using
+[00:20] something like a light bulb or a heater
+[00:22] which just has a resistive load well I
+[00:24] can connect it straight up makes no
+[00:26] difference it'll wobble around a bit but
+[00:28] you can just clip it straight onto the
+[00:30] wires now that's often not acceptable
+[00:33] for people they want something that's
+[00:35] going to be a bit smoother instead of
+[00:37] absolutely open down so what you do is
+[00:40] you attach a capacitor across the lead
+[00:41] to WR that negative the capacitor to the
+[00:44] negative and positive of the capacitor
+[00:45] to the positive that will smooth the
+[00:47] output because the motor will first
+[00:50] charge the capacitor then when it's
+[00:52] running a load it'll come from the
+[00:53] capacitor not the motor so if the motor
+[00:55] goes up and down the capacitor will even
+[00:57] it out a little bit to make it smoother
+[01:00] that now the values of the capacitor
+[01:02] obviously you need to give it a voltage
+[01:04] that's coming off of here so if you're
+[01:07] whizzing around and creating like 100
+[01:09] volts and you stick a 50 volt capacitor
+[01:10] on you'll blow your capacitor so stick a
+[01:12] 200 volt capacitor on so the voltage
+[01:14] needs to match what you think you're
+[01:16] going to be outputting or what you've
+[01:18] seen that you're outputting then you
+[01:20] need the voltage to match that U the
+[01:23] capacitance value itself well that's
+[01:24] 1,000 microfarads so something around
+[01:26] about there is going to be just Jim
+[01:27] Dandy something too small you won't get
+[01:29] much smoothing something too large it'll
+[01:31] take too long to actually charge the
+[01:33] capacitor so a nice median one will do
+[01:36] that just Chim Dandan that will smooth
+[01:39] it now sometimes of course you want to
+[01:41] charge a battery to it the problem with
+[01:43] this is it is a motor when we drive it
+[01:46] we're obviously driving the electricity
+[01:48] out if we stop driving it and it's
+[01:50] connected to a battery the battery will
+[01:52] treat it like a motor and it'll start
+[01:54] spinning that's an obvious disadvantage
+[01:56] so to do that you just connect the diode
+[01:59] so we've got our capacitor across the
+[02:00] positive and negative then our diode on
+[02:03] the positive with the anode pointing at
+[02:04] the positive and the cathode pointing at
+[02:06] the battery easy to tell which is which
+[02:08] the cathode is the one with the silver
+[02:09] bar against it and the anode is the
+[02:11] whole black so the all black goes
+[02:13] towards the motor silver bar to the
+[02:15] battery and that prevents the
+[02:17] electricity coming back so you'll be
+[02:19] charging your battery when you stop
+[02:22] pedaling cycling the wind stops nothing
+[02:24] can come back so it can't run as a motor
+[02:25] your battery won't discharge so at its
+[02:28] simplest the capacitor across the wires
+[02:31] and a diode on the positive with the
+[02:34] anode pointing towards the motor is
+[02:37] going to be the answer it's going to be
+[02:38] all you really need but sometimes of
+[02:41] course you want a regulated voltage cuz
+[02:43] this is smoothed but not regulated it's
+[02:46] still going to be all over the place and
+[02:48] if the wind is blowing hard it's going
+[02:49] to be high if the wind is blowing gently
+[02:51] it's going to be soft if it gusts it's
+[02:52] going to go up and down if you're using
+[02:54] a hand crank generator you're going to
+[02:55] get tired so it's going to be all over
+[02:57] the blers you might want to regulate
+[02:59] that voltage
+[03:00] now there are a ton of voltage
+[03:02] Regulators out there and I bought this
+[03:05] little module which is the LM 259 SW um
+[03:09] 6 it's a switched voltage regulator I
+[03:12] bought it off of Amazon right here and
+[03:15] as you can see the um regulator itself
+[03:18] can take in somewhere between 4 and 40
+[03:20] volts and you can um this one's a
+[03:22] variable one but you can get them at
+[03:24] fixed output of 12 volts so you would
+[03:26] stick a voltage regulator in there as
+[03:28] well this particular board has a couple
+[03:30] of other requirements on the out you
+[03:32] need another capacitor and on the in the
+[03:35] RMS value is what's really important but
+[03:38] the circuit itself would look like
+[03:40] this the
+[03:42] lm25 uh sorry
+[03:45] lm2596 that we can see in there is just
+[03:48] something I chose randomly because sets
+[03:50] about 130 for that entire board so you
+[03:53] wouldn't really bother much with it it's
+[03:54] just pick one that fits your needs and
+[03:58] stick it in that position in the circuit
+[04:00] and you're aware you'll have yourself a
+[04:02] regulated voltage output that you can
+[04:04] use to do anything you want so that's
+[04:07] how you go about connecting it up it's
+[04:09] actually really quite
+[04:11] simple very basically you don't need to
+[04:13] do Jack but you're going to be running a
+[04:15] basic load if you're going to be running
+[04:17] it into a battery or something in
+[04:18] feedback stick a DI in there if you
+[04:20] don't want it all over the place put a
+[04:22] capacitor across the two leads and if
+[04:24] you want to regulate a voltage bu a
+[04:26] voltage regulation circuit now no mo no
+[04:30] generator is actually DC they all
+[04:32] produce AC but the commutator and
+[04:35] brushes in here Rectify it they Rectify
+[04:38] it to pseudo DC because it's actually
+[04:41] got quite a lot of Ripple in it because
+[04:43] um when it
+[04:44] rotates then the commutator swaps a
+[04:47] direction and you get Peaks having lots
+[04:50] of coils means you have lots of Peaks
+[04:52] you only get the reading at the top of
+[04:55] the Peaks there's still a bit of Ripple
+[04:57] so all Motors stroke generators generate
+[05:01] AC current but brushed DC motors do a
+[05:05] rectification through the brushes and
+[05:06] the commun commutator so that you get a
+[05:09] good approximation of DC now we can take
+[05:12] that Ripple out by the capacitor that we
+[05:14] put across the two uh wires that we
+[05:16] showed in this video but of course these
+[05:18] aren't the only kind of Motors you get
+[05:20] lots of different kinds of Motors you
+[05:22] get some Motors that don't have brushes
+[05:24] like this for instance which is a
+[05:26] brushless DC motor well this produces is
+[05:29] AC now there are three separate calls in
+[05:31] here so it has three different wires and
+[05:33] it's busy producing three fees of
+[05:36] AC it's pretty unusual for us to want
+[05:39] three FS of AC we pretty much want one
+[05:42] DC output but it's a piece of ceg you
+[05:45] connect a diode bridge over this the
+[05:47] diode bridge is arranged like this and
+[05:50] what that does is convert it into DC
+[05:54] obviously there's a little bit Ripple in
+[05:56] there because of the way you actually
+[05:58] run these things and again you do
+[06:00] exactly the same that we did with DC
+[06:02] motors after the diode Bridge connect
+[06:05] the capacitor and it will smooth out the
+[06:07] Ripple then again like we did in the DC
+[06:10] motors connect the voltage regulator and
+[06:12] you're there another form of brushless
+[06:15] motor is the stepper motor this has two
+[06:17] separate coils in it no brushes and so
+[06:19] of course on those two coils it produces
+[06:22] 2 AC currents for that you connect a
+[06:27] diode Bridge a diode is just four car is
+[06:29] arranged like this you connect them up
+[06:32] and you get DC out after the output
+[06:35] connect the capacitor and then you
+[06:37] voltage regulator and you're back to the
+[06:39] DC brushes this is quite often used it's
+[06:43] an alternator this is what's used in
+[06:45] your car this produces AC because
+[06:48] although it has brushes it doesn't have
+[06:51] a commutator the commutator is in
+[06:53] segments in here to do the collection
+[06:56] there are two solid Rings called slip
+[06:58] rings and because the the slip Rings
+[07:00] they don't change the direction and so
+[07:02] you get AC out from an alternator you
+[07:06] actually get um a three phase AC but
+[07:09] inside the alternator is a rectifier
+[07:12] that rectifier means that you get 12
+[07:15] volts out but it is an alternate current
+[07:19] generator that has been rectified in the
+[07:21] body using that rectifier circuit that I
+[07:24] showed you so that we get DC out anyway
+[07:27] I thought we'd quickly run through how
+[07:29] to convert AC Motors because they're a
+[07:31] piece of cake it's just that with
+[07:34] brushes you get rectification and so you
+[07:38] only need smoothing and to prevent the
+[07:40] electricity coming back from the battery
+[07:43] with AC generators you need to change it
+[07:46] into DC and then the smoothing anyway I
+[07:50] hope that helped thank you very much for
+[07:52] watching and please remember to like And
+[07:54] subscribe

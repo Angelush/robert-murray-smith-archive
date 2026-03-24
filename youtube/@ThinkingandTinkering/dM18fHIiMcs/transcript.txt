@@ -1,0 +1,198 @@
+[00:00] foreign
+[00:09] list of parts really because
+[00:12] um well I don't want my videos to be
+[00:14] half an hour along with the first 29
+[00:16] minutes is repeating what I do in every
+[00:18] other video so I tend to break it up so
+[00:20] the first thing you're going to need is
+[00:22] a serpentine coil now this is a 0.1
+[00:25] millimeter wire and it's 400 turns of it
+[00:28] and we went through coil making in video
+[00:31] 1859 so if you want to know how to make
+[00:33] this review video 1859 dead simple
+[00:36] wonder round wrap some tape and make
+[00:38] sure it's the right size I go through
+[00:41] video 1859 on how to make sure it's the
+[00:44] right size the next thing you're going
+[00:47] to need to know about is the maglev
+[00:49] system that we talked about in video
+[00:51] 1874
+[00:53] 1874 we did a demonstration of Matlab
+[00:56] using the savonius turbine and I've got
+[00:59] a maglev system in this so they pick up
+[01:02] on that maglev then watch that video but
+[01:04] it's basically very simple there's a
+[01:07] ring magnet here there's a ring magnet
+[01:09] there and there's a spike in the middle
+[01:10] to stop it shooting off the two magnets
+[01:13] Force each other apart the last thing
+[01:16] you're going to need is 1868 and in
+[01:18] video 1868 we talk about the basic
+[01:21] generation system this generation system
+[01:23] is Generation on the rim not generation
+[01:26] on the axle so we don't have to fit
+[01:28] anything to the axle all the magnets are
+[01:31] glued around the rim the serpentine oil
+[01:34] goes in now you pop that one on top and
+[01:36] that one on top and we will generate on
+[01:39] the rim of the generator rather than
+[01:41] having to attach everything to the axle
+[01:43] and get loads of connections gearings
+[01:45] and Motors we don't need to do any of
+[01:47] that and that makes it super super
+[01:49] simple okay this in itself is actually
+[01:53] just two parts let's have a look at the
+[01:55] tinkercat file okay here are the
+[01:57] tinkercat drawings and you can see it's
+[01:58] basically two parts if we look at the
+[02:00] Yellow Part first the little stubby bits
+[02:03] where the coil goes that indentation
+[02:05] there is where the magnet drops in and
+[02:07] that is for the axle that hole through
+[02:09] there so the yellow bit is just those
+[02:11] three bits we look at the blue bit and
+[02:14] obviously we're using a squirrel cage to
+[02:16] be our turbine and you'll notice that's
+[02:18] the bit where the magnet goes in these
+[02:20] are the bits where the little magnets go
+[02:21] in pointing north south north south and
+[02:24] they are one millimeter by one
+[02:25] centimeter and 35 near Demian magnets
+[02:29] this hole here takes a bearing now I
+[02:32] almost exclusively use skater bearings
+[02:34] which are 22 mil by seven mil by eight
+[02:36] mil because they're cheap and they're
+[02:39] absolutely everywhere and they do a
+[02:41] pretty decent job although for these
+[02:42] bearings I did in fact choose the
+[02:44] ceramic skater bearings that you can get
+[02:47] and that's it there's just those two
+[02:49] parts that you need to print off and
+[02:51] stick together now
+[02:53] tinkercad you can get these files if
+[02:56] you're logged in so you have to have an
+[02:58] account I did try setting up a cineverse
+[03:02] account but for some reason it
+[03:03] completely failed so I will give it
+[03:05] another goal I also think I've worked
+[03:07] out how to do links to tinkercad so I'll
+[03:09] put a link to these drawings in the
+[03:11] actual
+[03:12] um description of the video to help you
+[03:15] get them if you want them oh you need to
+[03:17] remember the name so we print out two
+[03:19] parts we've got our coil and you need to
+[03:21] buy some of these these these are
+[03:23] ceramic magnets that just ring Madness I
+[03:25] got from Amazon and they're 10
+[03:27] centimeter 10 millimeters thick 72
+[03:30] millimeters outside diameter 32
+[03:32] millimeters inside diameter and then
+[03:34] drop rather nicely into that space right
+[03:37] there that bar is eight millimeters
+[03:40] thick it's just a bit of steel bar I got
+[03:42] from the local B and Q now we need two
+[03:44] of those magnets because one goes in
+[03:46] there
+[03:47] and that recession the other goes in
+[03:49] that recess and you need to point them
+[03:51] no facing north but right fist is facing
+[03:53] each other if you're pointing the wrong
+[03:55] way around they'll just stick together
+[03:58] so if you hold them and they're pulling
+[04:00] they're the wrong way swap them around
+[04:02] and you'll find that they push and the
+[04:04] right they are the right way that one
+[04:06] drops in with that face up there now all
+[04:08] we've got to do with that is stuff our
+[04:10] coil in which we've made previously so
+[04:13] that's it that's done this one other end
+[04:16] magnet in there you end 35s around there
+[04:19] and that's done and then we can put the
+[04:21] coil in and drop that on there so to put
+[04:24] the coil in all you do is match up the
+[04:27] two bits of black tape you've done so
+[04:29] you make a nice little Bend in it and go
+[04:31] around the whole thing and that coil
+[04:34] will slot in that position there
+[04:36] okay that's the coil in it could be a
+[04:39] little bit fiddly but you'll get it in
+[04:41] there and once you've done that we can
+[04:43] just drop this bit on there
+[04:45] there we go and we're ready to go now if
+[04:48] you don't like magnetic bearings just
+[04:50] replace the magnetic bearing in the
+[04:51] thrust bearing but what you need to do
+[04:53] with that now is get it in some wind and
+[04:55] see what it does
+[05:00] okay so we're outside sitting on the
+[05:03] wall in a very slightly breezy day and
+[05:06] we've got it Lighting in LED and it's
+[05:08] spinning just fine as it happens that is
+[05:11] awesome
+[05:20] teapot let's go see some numbers
+[05:25] so I've got a fan on it and that fan is
+[05:27] about 3.4 meters per second it's uh 180
+[05:32] High 150 cross we're getting about four
+[05:34] and a half volts okay I think it's
+[05:36] really cute and I thought that was a
+[05:38] really cute thing because we got this
+[05:39] actually producing something in well
+[05:42] next to no wind at all I mean I couldn't
+[05:45] actually measure it on the anemometer
+[05:46] because it was too slow really
+[05:50] um but we put it on the meter uh sorry
+[05:51] on the fan at 3.4 meters per second so
+[05:54] we get some idea of how it actually
+[05:56] performed now you've got to remember
+[05:57] that when you have a low wind like that
+[06:00] you won't get much power out because
+[06:01] there's no power in a low wind
+[06:05] um
+[06:05] in England though we have a sort of a
+[06:08] four four and a half meters out per
+[06:09] second average wind speed and that's why
+[06:12] I tend to focus on these ones that need
+[06:14] a slow start Speed because we just don't
+[06:16] get that many hurricanes but inevitably
+[06:19] what I'm going to get asked is what do
+[06:21] you do about a hurricane well in a
+[06:23] hurricane you could just do that in
+[06:25] which case nothing's gonna happen you
+[06:27] get mornings hurricane is coming just
+[06:29] pick the rotor off and that will sit
+[06:31] there because this bit is in the um uh
+[06:34] atmosphere in the environment and if
+[06:37] you're worried about this well pour some
+[06:39] potting compound in there and that'll
+[06:41] seal the whole thing and it will
+[06:43] basically last forever and then when you
+[06:45] win a hurricane is done
+[06:52] there we go
+[06:54] stick it back on and you're ready to go
+[06:57] so I thought it performed really quite
+[06:58] well given what it is and given the
+[07:00] situation it has and I think it's got a
+[07:02] neat sort of combination here with the
+[07:05] squirrel cage and the flat pack pancake
+[07:07] generator that we've got as an
+[07:09] all-in-one version and you could clearly
+[07:12] put lots and lots of things on here
+[07:13] whatever your favorite is if it's
+[07:15] sevonious if it's a grinsky if it's a
+[07:17] squirrel cage if it's a fan whatever it
+[07:19] is the whole point of this is to show a
+[07:22] different style of incorporating the
+[07:24] generator unit into the wind capture
+[07:26] unit and what mag love will do and if
+[07:28] you don't like Mug left well use the
+[07:29] thrust bearing hey main thing is to um
+[07:33] experiment and see what you can come up
+[07:35] with because I don't see this as a
+[07:37] finished thing I see this as a
+[07:39] suggestion on how we can improve it and
+[07:41] what could we do in order to make it
+[07:43] better but I do think it's very cute so
+[07:46] I hope you enjoyed the video thank you
+[07:48] very much for watching and please do
+[07:50] remember to like And subscribe

@@ -1,0 +1,1807 @@
+[
+  {
+    "id": "Ugxgl4FWi-gTkOefQWl4AaABAg",
+    "author": "@Dolphin219",
+    "author_channel_id": "UC82Ekd-i2AeVI_bL2799ypg",
+    "text": "What a cool video, I'm currently making an alternator into a motor and your video is a lot of help, though I have one question, on the brush assembly underneath where the two brushes sit what is that negative space? I'm trying to decide whether to remove it like you did or leave it, I also don't know what it does, any help would be greatly appreciated.",
+    "likes": 0,
+    "published_at": "2025-12-09T02:02:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxgl4FWi-gTkOefQWl4AaABAg.AQV7A-GgkGRAQVDmt2h_lq",
+        "author": "@Dolphin219",
+        "author_channel_id": "UC82Ekd-i2AeVI_bL2799ypg",
+        "text": "also are the brushes fully extended into its surrounding brush cover? I noticed you left the pin(drill bit) still in the plastic part, did you remove it? Also because turning an alternator into a motor the brushes aren't technically needed for its original purpose, does not using the brushes for their original purpose mean that they do not have to be fully extended?",
+        "likes": 0,
+        "published_at": "2025-12-09T03:00:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy4bBlSU7XW_GXJFy14AaABAg",
+    "author": "@PeriliousPaddy",
+    "author_channel_id": "UC0C8PgGPKDkyEuiajrkeDTQ",
+    "text": "Have you considered turning the alternator motor into a brush-less one with Neodymium magnets?",
+    "likes": 0,
+    "published_at": "2025-07-12T04:38:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVEkE85jaSFP4eGbh4AaABAg",
+    "author": "@topspeed250k5",
+    "author_channel_id": "UCcuKCsW7TpKjLsLFQQvg1hQ",
+    "text": "That was the wrong way to extract the rotor from the back housing! Dragging the brushes across the slip-rings (they usually wear into a groove, especially in older units) will smash the brushes or at least chip edges off.\nTheres always a way to retract the brushes first. You pull back on the \"pigtail\" which is the braided copper wire connected to the carbon brush, and insert a straight piece of wire, small drill, straightened paper clip etc into a small hole in the casing, which will hold the brushes out of contact with the rings. \nDo the same thing for assembly- the brushes need to be retracted & held to get them over the rings.",
+    "likes": 0,
+    "published_at": "2025-05-20T23:20:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbbZocIkjVP0bE5F94AaABAg",
+    "author": "@michaeladetunji",
+    "author_channel_id": "UCBVeFx4jj314HkrAV2buvJQ",
+    "text": "What about 220v AC alternator to a motor",
+    "likes": 0,
+    "published_at": "2025-03-15T14:54:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyvbTM4B53jG99nrUp4AaABAg",
+    "author": "@Skilled4dathrill39",
+    "author_channel_id": "UC8qdHU1gCRSERXPeVdL0Q8Q",
+    "text": "I dont have a speed controller circuit board, can I just use a verriable switch? Like a light dimmer or fan speed switch? Those only have two leads though...",
+    "likes": 0,
+    "published_at": "2024-10-08T11:32:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwYteTiCMlU2_i2kLV4AaABAg",
+    "author": "@ajingolk7716",
+    "author_channel_id": "UCHv_GtNoiCKq7UjLJ3biU_w",
+    "text": "Was the stator winding  connected star or delta?",
+    "likes": 0,
+    "published_at": "2024-05-12T19:28:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVHW_VJ2j-Mt-ist54AaABAg",
+    "author": "@CraigLandsberg-lk1ep",
+    "author_channel_id": "UCVQWbNpS_6ymv_i1ePYpx9Q",
+    "text": "Are the outside coil windings 'serpintine' ?",
+    "likes": 0,
+    "published_at": "2024-04-11T12:55:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyd4aOlA5bZjZcAbid4AaABAg",
+    "author": "@growleym504",
+    "author_channel_id": "UCpegs-6Sg73nXf9AT1VmxQg",
+    "text": "So you are saying that it is almost the same thing as a brushless motor except that it is not brushless.\n\nActually though, it is relatively simple to actually make it brushless, with a corresponding increase in efficiency. The expensive but simple and extremely efficient method is to remove the rotor windings and replace them with one large donut magnet, retaining the pole pieces, so instead of one large electromagnet with the poles distributed radially, you have one permanent magnet with the poles distributed radially. The not quite as good but MUCH cheaper way is to drill or mill into the pole piece claws and mount round or bar magnets, with the poles of course alternated. An intermediate method is to make a magnetic rotor to replace the windings and the pole pieces, both. Do that, add hall effect sensors, and upgrate your bearings and instead of just an academic exercise or very very general proof of concept, you actually get a motor that with the correct controller operates at around 90% efficiency, at 1/10 the cost of a commercially available motor operating at 90% to 92% efficiency. This makes the end result very practical, instead of just youtube content for the purpose of making youtube content.",
+    "likes": 0,
+    "published_at": "2024-02-17T19:31:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxHz93YwlBP1hy-hTR4AaABAg",
+    "author": "@cecilsabourin9462",
+    "author_channel_id": "UCTbhSLSppcrZOegrSP8fT1g",
+    "text": "You,ve nailed it , easily explaned and understood . Looked at a few other  videos and I must say this is the best I,ve seen ,not too winded ,to the point and effective .Thank you so much .",
+    "likes": 1,
+    "published_at": "2024-01-25T19:00:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQyCb0JHWaUaT-jLN4AaABAg",
+    "author": "@davidhilton7780",
+    "author_channel_id": "UCJck5T9HAtJakefhjA1k-rw",
+    "text": "There is tons of possibility for applications using this as a motor...",
+    "likes": 0,
+    "published_at": "2024-01-08T17:05:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx1YXft9YsdxtwdsP14AaABAg",
+    "author": "@KevAF_",
+    "author_channel_id": "UCe7YAqKEIC1y340sORPzaWw",
+    "text": "curious in regards to the rpm, hp ...etc results you can get from one.",
+    "likes": 0,
+    "published_at": "2023-12-18T22:09:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx25W7EuEjcCpIaiDN4AaABAg",
+    "author": "@JereimeHoward-qu2sp",
+    "author_channel_id": "UCiefmF-tY_niPFfFS0kR8pg",
+    "text": "All the 3 stator wires are positive? Sorry im new to this conversion,  thanks for your time.",
+    "likes": 0,
+    "published_at": "2023-11-29T00:57:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyZ-yLx4JToCRtjub94AaABAg",
+    "author": "@paulmccredie3106",
+    "author_channel_id": "UCu4m_C1dCG9YuXEAQq-CghQ",
+    "text": "Thank you for an entertaining and informative video.\nJust one small point. I think I'm right in observing that you brought each of the stator connections out through a separate opening in the casing. Depending on how you are driving the stator these wires will either be passing AC or pulsed DC (which for the purpose of the explanation below has the same effect as AC).\nThe problem is that by passing the the conductors through individual openings in a conductive material you are effectively introducing a 'shorted secondary turn' resulting in currents being induced in the the casing. The effect may be insignificant at the current levels involved in this video, but if you are intending to use a higher power driver as you suggest, then the effect may become significant – not only reducing efficiency – but also resulting in heating of the casing in the proximity of the cable insulation passing trough it.\nIf you route all 3 conductors through the same opening you cancel out the magnetic field produced by the current and avoid the issue.\nYou are unlikely to see a competent electrician passing individual AC carrying conductors through their own openings in a conductive material. Instead they will route all conductors carrying AC current from the same circuit through the same opening.",
+    "likes": 0,
+    "published_at": "2023-05-22T09:29:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzIC1D9UfTDZ5S90mR4AaABAg",
+    "author": "@jasonchristopher2977",
+    "author_channel_id": "UCR6W7w8VwOaEmBq4ige328g",
+    "text": "This may be dumb but why can't ev cars have each wheel run a motor like this to charge battery when wheels are turning?",
+    "likes": 0,
+    "published_at": "2023-04-27T03:46:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzjhxmDhEMcH0WPMId4AaABAg",
+    "author": "@308dad8",
+    "author_channel_id": "UCxM5kY5yJXNKzp4k_OPuXxA",
+    "text": "Seen this done elsewhere before but I don’t get why it’s good for any reason other than someone enjoys tinkering and they got it cheap or free because used motors aren’t too expensive and are designed to more efficiently do the job and you know how strong they are so you aren’t hoping an alternator can do a job meant for a 3/4HP motor. You buy a motor you know what RPM that motor will spin and what HP and what wattage demand it has. Again it makes perfect sense if someone wants to tinker and learn electronics.",
+    "likes": 0,
+    "published_at": "2023-01-05T15:49:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwswMxN5hhF6UIZYOF4AaABAg",
+    "author": "@MLFranklin",
+    "author_channel_id": "UCc7Q6YtSr6_lHFXqxkKRfaQ",
+    "text": "Three wires = Delta.  Four wires = Wye.  Right?  So this looks like a Delta.  Correct me if I'm wrong.",
+    "likes": 0,
+    "published_at": "2022-12-28T22:02:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxikPybODip5MJp1l14AaABAg",
+    "author": "@robertmorin6495",
+    "author_channel_id": "UCZweT7-9GjGy474C8e0UmFg",
+    "text": "Nice! Good idea using the thick wire.  I may be trying it soon.  Subscribed",
+    "likes": 0,
+    "published_at": "2022-11-22T14:39:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxR6DLSJyCtDjMYuIF4AaABAg",
+    "author": "@Spiritman597",
+    "author_channel_id": "UC9gezUPtU0n-HFuaTvUmPKg",
+    "text": "That is awesome stuff!\nI really enjoyed watching you do that gives me great confidence in knowing that I could do it myself. It also gave me a great idea for you to try something that I've seen several times people do and that is taking a motor and attaching it to a flywheel then from a flywheel to a generator and somehow using the slip connection of the belts and the power stored in the flywheel to create a generator that will then make electricity on its own in sustain itself. I've attached a YouTube video that will give you some idea of what I'm talking about",
+    "likes": 0,
+    "published_at": "2022-10-19T21:36:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxR6DLSJyCtDjMYuIF4AaABAg.9hNmlg9s6fT9kW16K79UBw",
+        "author": "@308dad8",
+        "author_channel_id": "UCxM5kY5yJXNKzp4k_OPuXxA",
+        "text": "No such thing as free energy. No flywheel can sustain momentum or movement without more energy going in to keep its RPM sustained. Different flywheel diameters and weights do have benefits for certain applications such as faster acceleration with lighter ones and more efficient sustained cruising speed from heavier ones, but all require more in than you get out.",
+        "likes": 1,
+        "published_at": "2023-01-05T15:58:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwW48dMSWKQ6zrkEyB4AaABAg",
+    "author": "@joelaichner3025",
+    "author_channel_id": "UCmveVozJPvPZJpDmw1JPcfQ",
+    "text": "Extra Quality !",
+    "likes": 0,
+    "published_at": "2022-10-10T04:27:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzMculiowHMgPq7aHF4AaABAg",
+    "author": "@melwilliams6285",
+    "author_channel_id": "UCvwTsMGeg3a93TYzKXTw_Ug",
+    "text": "Great vids , could you run an alternor through an inverter to power 240 apliances?",
+    "likes": 0,
+    "published_at": "2022-09-15T13:41:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw9_9W-yLYCBQ8ubdJ4AaABAg",
+    "author": "@andrewratcliffe5039",
+    "author_channel_id": "UCUQGGBXH8kc-rnNaVfi7haQ",
+    "text": "Do you want to sell one of them to me and if yes how much do you want for it mate ??",
+    "likes": 0,
+    "published_at": "2022-09-13T04:04:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz_CmKk_aly7_f6Y9p4AaABAg",
+    "author": "@maukaman",
+    "author_channel_id": "UCALU2TXbEJvNTHizS196Q9g",
+    "text": "I wonder if it would be possible for someone to manufacture permanent magnet rotors that fit a variety of alternator models and sell them online.  It would be nice if people could just simply swap out the rotor on their salvaged alternator and *bing bang boom* you’ve got a nice big BLDC motor.",
+    "likes": 0,
+    "published_at": "2022-09-11T22:18:13Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugz_CmKk_aly7_f6Y9p4AaABAg.9fr0K-DMTC99kcyA93Icju",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "Seems just as easy to do Rob's modification, and WAY cheaper.\nAnd a permanent magnet rotor would NOT make it a DC motor, it is a slip-ring design with field windings, supply it with DC and it would just lock in place.",
+        "likes": 0,
+        "published_at": "2023-01-08T17:58:16Z"
+      },
+      {
+        "id": "Ugz_CmKk_aly7_f6Y9p4AaABAg.9fr0K-DMTC99kfBm7eGc9j",
+        "author": "@maukaman",
+        "author_channel_id": "UCALU2TXbEJvNTHizS196Q9g",
+        "text": "@bikerfirefarter7280BLDC stands for brushless DC motor and yes its kindof a misnomer because the motor is powered with a 3 phase AC current.  The motor controller is supplied with DC though.   Ive got a converted alternator with magnets set into the rotor and it runs great with a cheap \"BLDC\" ebike controller",
+        "likes": 0,
+        "published_at": "2023-01-09T14:44:24Z"
+      },
+      {
+        "id": "Ugz_CmKk_aly7_f6Y9p4AaABAg.9fr0K-DMTC99kfQ6bPoJM-",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "@maukaman Yep, BLDC is easier to say than 'DC Supplied, 3-Phase Controller Driven, Brush-Less Motor'. DCS3PCDBLM. \nThough I still regard Robs design easier/cheaper, and has way less engineering involved.\nAn alternative magnet arrangement is to replace the centre winding with 1 or 2 circular magnets from a microwave cavity-magnatron. It is less trouble balancing it., though getting the clawpoles apart can be a bit tricky.\nHere's a question. Why are the clawpoles triangular and not 'square'?",
+        "likes": 0,
+        "published_at": "2023-01-09T16:49:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyBvA3a6Du5aTanUDh4AaABAg",
+    "author": "@murraymadness4674",
+    "author_channel_id": "UCVJluivd10zltmdHoDxGu2A",
+    "text": "I am working on a v4 outboard and I wanted to change its alternator (which is integrated into the flywheel)\ninto a motor/generator so it can operate as a hybrid (add extra electrical power when taking off, and recharge it back when planing).   I have two, one is newer and there is both the spark plug timing/capacitor charge and alternator in one, and it uses permanent magnets in an aluminum flywheel.  The older version has a distributer and so the flywheel/stator is just an alternator.  The flywheel also has those \"V\" shapes, and I finally figured out that is done because when the rotor is powered to make it magnetic, each \"v\" alternatives between the front and back,\nmake them alternative between positive and negative poles.  In my outboard flywheel, it has the coil inside the stator and inducts the charge to the steel flywheel to get the positive and negative poles in the \"V\"s.  So it does not have any brushes to do this.  I'm sure it is not efficient at all...this is like a 1965 outboard, vs the newer 1980 (haha still old.:)\nJust thought I'd mention that because it makes more sense of those \"V\" configurations.",
+    "likes": 0,
+    "published_at": "2022-08-17T01:50:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzpy-B1KP3MEBm3MXV4AaABAg",
+    "author": "@bobbyleigh9686",
+    "author_channel_id": "UCajcH0biTeFXq6fjFi0uY2Q",
+    "text": "Great video Rob, love the happy vibe you give off whilst teaching such interesting things! did you use the Alternator(Motor) to drive anything in the end?",
+    "likes": 2,
+    "published_at": "2022-07-11T14:55:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnBiMyhnN9BX4G0_t4AaABAg",
+    "author": "@metabeta6993",
+    "author_channel_id": "UCZivV8trKNl8WGqKzt_PVfQ",
+    "text": "Is it \"Ajvan\" or Ivan?",
+    "likes": 0,
+    "published_at": "2022-06-27T23:49:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwnBiMyhnN9BX4G0_t4AaABAg.9cnUIUsCIuc9cnUPeAHt4N",
+        "author": "@metabeta6993",
+        "author_channel_id": "UCZivV8trKNl8WGqKzt_PVfQ",
+        "text": "Maybe Eyevan?",
+        "likes": 0,
+        "published_at": "2022-06-27T23:50:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxnzPHmECOVSqmBqb14AaABAg",
+    "author": "@ugotit33x",
+    "author_channel_id": "UCACLJ5zoyy3jnvIrpL0AiaA",
+    "text": "I HAVE A QUESTION ( ALL YOU DID IS GOOD ) EVERYONE DOES THE SAME THING BUT NOT ALL THE INFO. NO INFO ON THE CONTROLLER THEY USE OR MAKE AND HOW THE THREE WIRE ARE CONNECT.\nMY QUESTION IS ARE YOU ALL HIDING THE ANSWER OR DON'T KNOW HOW TO EXPLAIN\nTHE CONNECTION. GIVE IT UP",
+    "likes": 0,
+    "published_at": "2022-06-17T10:32:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwJA6VV99R_06BogNp4AaABAg",
+    "author": "@robertnorris5669",
+    "author_channel_id": "UCmTbpNLB5PWP0wJYe-8LJxw",
+    "text": "You have to swap one of the 3-phase legs with another one swap any two of the three phase input it will reverse the direction",
+    "likes": 0,
+    "published_at": "2022-06-17T05:05:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy5SIidYHGWepfUeWZ4AaABAg",
+    "author": "@robertnorris5669",
+    "author_channel_id": "UCmTbpNLB5PWP0wJYe-8LJxw",
+    "text": "If you reverse the polarity of the brushes it will not change the direction of rotation",
+    "likes": 0,
+    "published_at": "2022-06-17T05:04:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw8o1_BdMlzkEjNGCR4AaABAg",
+    "author": "@andersgren8068",
+    "author_channel_id": "UCw1b4PaXaPMm-LkV013geyg",
+    "text": "How mutch amps vill the generator stand? Befor itse broken.",
+    "likes": 0,
+    "published_at": "2022-06-14T21:39:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwvYkmwkDJaTjdCvHZ4AaABAg",
+    "author": "@harryburford6629",
+    "author_channel_id": "UCSwp03WewDvm_c7Ozt1Zd6w",
+    "text": "go to   tiger  part  1 and 2  an 3",
+    "likes": 0,
+    "published_at": "2022-05-18T01:24:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzXOOzAzt58VnnunWJ4AaABAg",
+    "author": "@owensdaniels6244",
+    "author_channel_id": "UCVOqg5lp5EbUeAUQGx2zduA",
+    "text": "i truly like the way you explain everything! you are wonderful! my friend! hope! i can shake your hand one day!  thanks!! for teaching! me about this alternator!",
+    "likes": 0,
+    "published_at": "2022-05-17T22:06:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyFw46xZhWGxPD9kbV4AaABAg",
+    "author": "@marykeburger6999",
+    "author_channel_id": "UCn6oW77h5tnqnAGlH-U-New",
+    "text": "How will you connect a 4 wire stator, need help here thanks",
+    "likes": 0,
+    "published_at": "2022-04-26T15:32:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyAmmDsTIsgQkrtf0B4AaABAg",
+    "author": "@ugotit33x",
+    "author_channel_id": "UCACLJ5zoyy3jnvIrpL0AiaA",
+    "text": "EXCELLENT THE BEST ONE ON YOU TUBE YET, BUT YOU NEVER COVERED THE CONNECTIONS TO THE ALTERNATOR . SO CAN YOU REVISE THIS VIDEO THANK YOU",
+    "likes": 0,
+    "published_at": "2022-03-27T22:36:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBnDYgDf4gc6MoFT94AaABAg",
+    "author": "@morriscarroll5422",
+    "author_channel_id": "UC8f-goq9pQafAnkswNr8aPw",
+    "text": "How is the A B and C connected to the speed controller.",
+    "likes": 0,
+    "published_at": "2022-03-19T16:50:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnRfEjHqqowEoy6qh4AaABAg",
+    "author": "@jezzybarnes",
+    "author_channel_id": "UCtataIDd7r5Zqfa0CWseBOQ",
+    "text": "I have 4 wires instead of three",
+    "likes": 0,
+    "published_at": "2022-03-01T10:42:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw2ehDogXI5ZTrfcld4AaABAg",
+    "author": "@proverbs3561000",
+    "author_channel_id": "UCvipiJPoIoDWdqRkOCap6Jg",
+    "text": "what  size wire did you use",
+    "likes": 0,
+    "published_at": "2021-11-29T12:51:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwi1GY8SnGd6oOdvEZ4AaABAg",
+    "author": "@bradsteeves5403",
+    "author_channel_id": "UCsHIXq3WgCvGO5EBbhwbP2A",
+    "text": "Every video like this I watch they don't explain how to hook up the three wires",
+    "likes": 0,
+    "published_at": "2021-11-10T19:12:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwi1GY8SnGd6oOdvEZ4AaABAg.9U_KckZFGZR9U_Ki1mdYR_",
+        "author": "@bradsteeves5403",
+        "author_channel_id": "UCsHIXq3WgCvGO5EBbhwbP2A",
+        "text": "Like which of the three wires has power and negative or does power go to all three wires",
+        "likes": 0,
+        "published_at": "2021-11-10T19:13:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwClG0aOn99Qspz-al4AaABAg",
+    "author": "@vicstudios2733",
+    "author_channel_id": "UCMsUyE_JqS7hrJwJx_zAfAg",
+    "text": "Hi, how about converting a gasoline gensets alternator into a motor?",
+    "likes": 0,
+    "published_at": "2021-10-25T17:53:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy7G7AG1U_R34DgB0B4AaABAg",
+    "author": "@yahyah28",
+    "author_channel_id": "UCh8p7gIw95Ek6yMH25xoyXA",
+    "text": "Can we made brushless alternator and make its efficiency as brushe alternator?",
+    "likes": 0,
+    "published_at": "2021-08-29T15:08:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyIlMsB1GbLvUtIzmZ4AaABAg",
+    "author": "@dank6905",
+    "author_channel_id": "UCek5r8I-UVnl78GcYEGgj3Q",
+    "text": "you leave to much out,we need to see everything you did",
+    "likes": 1,
+    "published_at": "2021-07-30T13:45:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzWjZm0ssti3LrZJjJ4AaABAg",
+    "author": "@ireneoyu1926",
+    "author_channel_id": "UCzBXjdOPifQLtkpe9d6KrsQ",
+    "text": "Can you supply the accessories specially the speed controller & how much thank you",
+    "likes": 0,
+    "published_at": "2021-07-28T18:32:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-AbbiwtR5bTLO_Kd4AaABAg",
+    "author": "@rutgerokkie4245",
+    "author_channel_id": "UCk0o9uSM_WvngvPYC-fvYGw",
+    "text": "how do you connect the three cabels coming out of the altenator? i understand you connect the plus and minus of the bruches to the speedcontroler. but i do not understand how to connect the three cabels since you only have a plus and minus. do you connect two of them together?",
+    "likes": 0,
+    "published_at": "2021-06-15T20:11:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy-AbbiwtR5bTLO_Kd4AaABAg.9OcLl_0IkVl9Pl9l4ANCDU",
+        "author": "@sc1338",
+        "author_channel_id": "UCS_q-OXovzKoZqDuhEiDbkA",
+        "text": "Those are the 3 phases of the alternator",
+        "likes": 0,
+        "published_at": "2021-07-14T02:51:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxPCqHGgp3ETCiY1dJ4AaABAg",
+    "author": "@da33ie",
+    "author_channel_id": "UCd87ErVH2E6mHNCm3CsB1Kg",
+    "text": "Awsome....Stick it in an ebike!",
+    "likes": 0,
+    "published_at": "2021-06-12T07:51:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5MlIfj_8Goofe_M94AaABAg",
+    "author": "@victorortiz193",
+    "author_channel_id": "UCAqfvzD1Wt4L6QIoVL4458Q",
+    "text": "Awesome¡¡¡ To me brushless dc motors are so expensive... this may be the solution I'm looking for an ebike...",
+    "likes": 0,
+    "published_at": "2021-05-14T02:49:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwQORF05ZQ46tOQO0p4AaABAg",
+    "author": "@shibafarhat2005",
+    "author_channel_id": "UCt_xLIYVSsvqeGQf3H4SRpA",
+    "text": "Unable to see connections with closeup everything is suspence",
+    "likes": 0,
+    "published_at": "2021-04-26T09:06:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5Gps_QK0z_FpIjkt4AaABAg",
+    "author": "@jamaicawilliams6181",
+    "author_channel_id": "UCJGqC-eEoHMOr5JAEdhadDg",
+    "text": "Hi  rob,\n can you please show me how  to put the wires  to a electeic fence, to give it a bit more power to stop the cows getting out.  I have done what you have shown me but get hot and",
+    "likes": 0,
+    "published_at": "2021-04-21T02:39:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxT0qfVsQibbvfaQtx4AaABAg",
+    "author": "@fourtoes412",
+    "author_channel_id": "UCNTCDlKLKjEMT1Uo1J8oPeA",
+    "text": "Well done - great video, totally coherent, I know understand how an alternator works.",
+    "likes": 0,
+    "published_at": "2021-04-10T18:11:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlUpE2-2sQ5a7PaMR4AaABAg",
+    "author": "@charlesmorris69",
+    "author_channel_id": "UC9CzwjVQ177SDo5WBsMbcCQ",
+    "text": "Thanks so much for what you do. What speed controller would you suggest? So many pop up on the net.",
+    "likes": 0,
+    "published_at": "2021-03-11T19:32:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzp0lxJJxXI7Ed1vip4AaABAg",
+    "author": "@nathansingleton2008",
+    "author_channel_id": "UCdfNdFRyiLqyNlU93ctbOXg",
+    "text": "Bunch of bologna!",
+    "likes": 0,
+    "published_at": "2021-02-20T09:33:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyC9u7uUqqImx-uviF4AaABAg",
+    "author": "@johnmirbach2338",
+    "author_channel_id": "UCkei6fu8iSTW-OgRhx7JYFQ",
+    "text": "😁👍👌🖖✌ 😎",
+    "likes": 0,
+    "published_at": "2021-02-05T20:55:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy8lI4cc_tRQIRnI3t4AaABAg",
+    "author": "@wesleycastner4860",
+    "author_channel_id": "UCflOfGKUc1MrE4WVN3tM2hQ",
+    "text": "Another motor or engine project i find fascinating is the steam or 2 stroke motor from ac type compressor i bet if you aint seen it it'll get u thinking of possible way to use it",
+    "likes": 0,
+    "published_at": "2021-01-29T22:59:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqkiJ0G7FRmuSzGW54AaABAg",
+    "author": "@azertaieb442",
+    "author_channel_id": "UCho3Kt597DO2eQUbrEg2J1A",
+    "text": "Is that work without hall sensor ...you thenk that is ok without sensor??",
+    "likes": 0,
+    "published_at": "2021-01-27T03:22:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZIA1o08DxQKknVrp4AaABAg",
+    "author": "@markleeks1116",
+    "author_channel_id": "UCFvX5fPkXOijPJ6U8zcI2aw",
+    "text": "I m having a go at this with the only knowledge gained from these videos and forums. I ve only got the alternator and get a short if I connect battery to brush terminals when they don't have continuity.a little knowledge is dangerous!",
+    "likes": 1,
+    "published_at": "2021-01-17T17:18:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQoVLnaNZlD8cdKgV4AaABAg",
+    "author": "@DavidThompson-dr9mb",
+    "author_channel_id": "UCiF5nrmtDDa47If7iJDKgbg",
+    "text": "Thamks for rhe  post. Im making an electric car for my grandson and wanted a motor out of what  was laying around",
+    "likes": 0,
+    "published_at": "2021-01-08T10:32:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwkLR-Xxb94z7ZAFPh4AaABAg",
+    "author": "@07HDFatboy",
+    "author_channel_id": "UCb7ixHLoQ33blUO32xk-vgw",
+    "text": "Looks like you need more coffee, to help you hold the camera steady.",
+    "likes": 0,
+    "published_at": "2021-01-02T21:45:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbWmzA641-wz_0Ymx4AaABAg",
+    "author": "@brotube6804",
+    "author_channel_id": "UCf-z7mWXNoykEF2dScelLNQ",
+    "text": "I want to communicate with you",
+    "likes": 0,
+    "published_at": "2020-12-26T23:54:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyZfZqv-Njsj1kEXcZ4AaABAg",
+    "author": "@TheOnedeadguy",
+    "author_channel_id": "UCXsbaVrgBbSbJqXPXMJR0Ug",
+    "text": "You should definitely try to make it into a full BLDC motor! I think all you'd need to do is get some neodymium magnets and \"place\" (well, grind out slots, and epoxy) them onto the rotor. That way you do away with the brushes and hopefully, make it into an actual, brushless DC motor. Would help with efficiency too!",
+    "likes": 5,
+    "published_at": "2020-12-10T10:07:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyIOEDorsXH89KdDsx4AaABAg",
+    "author": "@charlescleland7152",
+    "author_channel_id": "UCjO8WWD7cVxnuyPdp0i6WJg",
+    "text": "O boy I\"ll bet the price of alternators will go sky high please don't tell the scrappers what you 'er going to do with it!",
+    "likes": 1,
+    "published_at": "2020-12-06T17:23:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx04d5hVqJKQ-okPkl4AaABAg",
+    "author": "@morgannaidu734",
+    "author_channel_id": "UC89zj2IyCUQGtd6KP7TjHiw",
+    "text": "Very nicely done, well explained and joyful to listen.",
+    "likes": 0,
+    "published_at": "2020-12-03T20:19:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnC3mw75b0LGkQZeZ4AaABAg",
+    "author": "@michaelnelson9140",
+    "author_channel_id": "UCuJuLIgNTOtyl6j5vMq3CPQ",
+    "text": "You said, you put 5v. To the rotor. But then you mentioned 12v.? Also, where did you hook up to get the five v.? I fly rc airplanes, and have numerous esc’s. So I understand that side.because the little ac motors on airplanes have three wires, but are brushless, in ductive.  Did you get your 5v. From the small three wire connector off the esc that hooks to your servo tester? Or on an rc, it would connect to the crafts radio reciever. And as a side note. Esc’s are cheap to purchase, for low amp ones, but they get very expensive for the high amp ones. I suppose one could double or triple them up to give the alt/ motor more power. Cool video.",
+    "likes": 0,
+    "published_at": "2020-11-30T17:44:07Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwnC3mw75b0LGkQZeZ4AaABAg.9GgpFd4gVwl9GgqpMTxJsv",
+        "author": "@michaelnelson9140",
+        "author_channel_id": "UCuJuLIgNTOtyl6j5vMq3CPQ",
+        "text": "Foot note.. I built a twin engine rc airplane . When you connect the two motors together, with the three wires, you can spin one motor, and you’ll see the other motor twitching. So, I knew they are related to an alternator. And to change rotation direction, you just swap two of the three wires around, doesn’t matter which two.",
+        "likes": 0,
+        "published_at": "2020-11-30T17:57:52Z"
+      },
+      {
+        "id": "UgwnC3mw75b0LGkQZeZ4AaABAg.9GgpFd4gVwl9LJuXN-9pVs",
+        "author": "@alme4774",
+        "author_channel_id": "UCVS6aDbFoPP3y9C7dt0_RJA",
+        "text": "There is a coil inside of the rotor, five, twelve or other voltage is fed by brushes. Bigger BEC might be enough, some people use two 18650 LiIon batteries in series. Comb like iron brings alternating S and N poles of electromagnet near stator. \nSome people replace coil with one hollow magnet, other use several magnets. And others drill holes in metal and glue in button shaped magnets... so no need for rotor supply",
+        "likes": 0,
+        "published_at": "2021-03-25T17:25:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyHDui7dzveyfX8NDx4AaABAg",
+    "author": "@spanishmackerel2200",
+    "author_channel_id": "UC9JhCCVZ7TFCmaBMhAkHZgQ",
+    "text": "Can you run it without a speed controller? And if so how? Can you use a single source power supply for both if not using a controller",
+    "likes": 1,
+    "published_at": "2020-11-29T01:00:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyHDui7dzveyfX8NDx4AaABAg.9GcSZdBkl2M9ZoRbRLM8dZ",
+        "author": "@agt155",
+        "author_channel_id": "UCJETcVPuGzORpP74rFXxYtQ",
+        "text": "Connect it to a mains 3 phase supply and run away.",
+        "likes": 0,
+        "published_at": "2022-03-20T22:39:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAg8ugRWcwfIOa7GR4AaABAg",
+    "author": "@jgoforth2112",
+    "author_channel_id": "UCGhjT_-7izvwB33wvGeFq-Q",
+    "text": "You mentioned turning it into a generator. Can you explain that a bit further please",
+    "likes": 0,
+    "published_at": "2020-11-20T23:33:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAg8ugRWcwfIOa7GR4AaABAg.9GIhJuZg2aq9Pm88_7ItU7",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "An 'alternator' IS a generator, the diodes in the casing just turn the AC output from the coils to DC.\nIf you want AC output, just remove the diodes.\n\nNote: It is normal when used as a alternator/generator the voltage/current to the rotor coils is taken from the output, which makes it self-energising without needing permanent magnets.",
+        "likes": 0,
+        "published_at": "2021-07-14T11:56:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzXF4qDLz8sXRdCEvp4AaABAg",
+    "author": "@jamesfrankland6820",
+    "author_channel_id": "UCarRH_VAtxrXLLxpXpnA-lA",
+    "text": "Hey mate, that's by fare the easiest way I've seen it done. Hid I'd known this before I could have saved myself a lot work with only one difference. The difference is in my application I needed the diodes in place. As always mate, great video and good job.\n   Thanks.",
+    "likes": 1,
+    "published_at": "2020-11-06T00:53:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxs8gHid1wNhEKOhCh4AaABAg",
+    "author": "@trabant_e_drive",
+    "author_channel_id": "UCsjpLmhbtYNXneQRBZ_bjuw",
+    "text": "A similar generator pushes my car with a driver and a passenger. I like it. I also like to make interesting projects, one of which I do on my YouTube channel",
+    "likes": 0,
+    "published_at": "2020-10-29T15:56:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxMeff5G1AWeyJ07AV4AaABAg",
+    "author": "@RetiredYTChannel",
+    "author_channel_id": "UC5k2pNhkT5x3gDyf6H1XeZA",
+    "text": "I wonder how one would run at 72v 20a....🤔 And about how many watts would you say it would be?",
+    "likes": 0,
+    "published_at": "2020-10-27T03:11:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxMeff5G1AWeyJ07AV4AaABAg.9FIiKrK6-4p9Pm8Yc9gnvK",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "72 x 20 = 1440w. (but depending on efficiency etc the output to 'torque', motive force, would be less).",
+        "likes": 0,
+        "published_at": "2021-07-14T12:00:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgymA76jzXHXM9DZgpp4AaABAg",
+    "author": "@rryder994",
+    "author_channel_id": "UC0FkBjug9PI3A-7VieOT_Ag",
+    "text": "back in the 60s & 70s when working on an alternator, replacing brushes or voltage regulator, we'd use a toothpick to hold the brushes in place, which worked rather well.",
+    "likes": 1,
+    "published_at": "2020-09-29T09:44:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgymA76jzXHXM9DZgpp4AaABAg.9EBK1wAFWu-9GgqExeij6v",
+        "author": "@michaelnelson9140",
+        "author_channel_id": "UCuJuLIgNTOtyl6j5vMq3CPQ",
+        "text": "The old gm10 si.😀 they were very user friendly alts.",
+        "likes": 0,
+        "published_at": "2020-11-30T17:52:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRd0u_gpl45aT0rX14AaABAg",
+    "author": "@almostfamous9796",
+    "author_channel_id": "UCVo4rF2VMLSGbpkjYzzs2bA",
+    "text": "You havent confirmed is the stater voltage ac or dc sir",
+    "likes": 0,
+    "published_at": "2020-08-27T09:59:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzcCePqPm40aepQt4B4AaABAg",
+    "author": "@tamiebasse6595",
+    "author_channel_id": "UCOwey1YCCC2plyo7C-F0gvA",
+    "text": "By using a variable DC source to power the brushes (field winding), you will be able to implement field weakening.  Weakening the field allows higher RPM at the expense of torque which may be useful for a vehicle without a gearbox.  On the other hand, leaving field current high limits rpm to whatever generates back EMF equal to the 3 phase supply voltage. \"Electric Motors and Drives\" by Austin Hughes was, and may still be available for free download as a pdf and is an interesting read.",
+    "likes": 4,
+    "published_at": "2020-08-23T00:56:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxB24grwJQ_xJfrI0R4AaABAg",
+    "author": "@petergambier",
+    "author_channel_id": "UC0DKQTJzbgE5Rq9mZzHumAg",
+    "text": "Rob has infectious enthusiasm in spades.",
+    "likes": 0,
+    "published_at": "2020-07-14T03:48:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5n3au9kuqYhU0Vax4AaABAg",
+    "author": "@arnbon6241",
+    "author_channel_id": "UCwgh3f8X_hxfvPM-qNYvieg",
+    "text": "Many thanks for posting this educational video - well done.",
+    "likes": 2,
+    "published_at": "2020-07-12T18:59:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz5n3au9kuqYhU0Vax4AaABAg.9B0tk9NpMtr9B2AYNbavvq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate - cheers",
+        "likes": 0,
+        "published_at": "2020-07-13T06:53:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzYMCO0tag4WACHeFt4AaABAg",
+    "author": "@superrodder2002",
+    "author_channel_id": "UCBTRh4937BHocDPh2PyzfIw",
+    "text": "A buddy of mine owned an old BMW from the early 60's. The generator and starter motor were the same. When the key was in the start position it was wired as the starter motor and when the key dropped back to the run position, it was wired as a generator. It worked great until it didn't. ;-)",
+    "likes": 23,
+    "published_at": "2020-07-03T13:53:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzYMCO0tag4WACHeFt4AaABAg.9AeA_F0x8g79kW0Fi8S_CD",
+        "author": "@308dad8",
+        "author_channel_id": "UCxM5kY5yJXNKzp4k_OPuXxA",
+        "text": "Seriously? Engineer showing off or did it serve a practical purpose?",
+        "likes": 0,
+        "published_at": "2023-01-05T15:51:19Z"
+      },
+      {
+        "id": "UgzYMCO0tag4WACHeFt4AaABAg.9AeA_F0x8g79kcvom3ltp8",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "I wondered about that, but then realised the strain on the alternator drive belt(s) is really high when starting. So it comes with it's own issues. Maybe not so bad for smaller 'generators/engines', but for big/diesel engines its got problems.",
+        "likes": 1,
+        "published_at": "2023-01-08T17:37:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyeThVzXtX5cgFeBLl4AaABAg",
+    "author": "@csmith1696",
+    "author_channel_id": "UCPsEyHgPkjya6l04YySGuaQ",
+    "text": "WOW!  I think I'll have a go at one to drive my generator.",
+    "likes": 0,
+    "published_at": "2020-07-02T21:54:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyeThVzXtX5cgFeBLl4AaABAg.9AcSqj1YLKu9AdgvBEDosx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "go for it mate",
+        "likes": 0,
+        "published_at": "2020-07-03T09:25:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgydsuuKE9gXRN61bRR4AaABAg",
+    "author": "@samaddeh9309",
+    "author_channel_id": "UCvG_TNFGQZpz3NrDKhoK0Zg",
+    "text": "Great. Please, can you at sometime demonstrate how to convert an auto alternator to an AC generator.",
+    "likes": 4,
+    "published_at": "2020-07-01T20:17:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgydsuuKE9gXRN61bRR4AaABAg.9A_hz1sfw899GcSMcjZ4jJ",
+        "author": "@spanishmackerel2200",
+        "author_channel_id": "UC9JhCCVZ7TFCmaBMhAkHZgQ",
+        "text": "You just remove the diodes.",
+        "likes": 4,
+        "published_at": "2020-11-29T00:58:24Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxb33FC9LU_59zi4h54AaABAg",
+    "author": "@jimmacaulay844",
+    "author_channel_id": "UCyFFZbhvCuPxbW8Kqvr8jgw",
+    "text": "I'd like to know more about what you're feeding the stator with.  Is it 3 phase sinewave?  What would I look for in a controller?  And guestimate on horsepower?  Would it be a good candidate for a variable speed drill press motor?  My antique drill press was originally ⅓hp which was ok, but the pulleys couldn't be set to a low enough speed for drilling stainless steel, so variable speed would be great.",
+    "likes": 2,
+    "published_at": "2020-06-29T15:52:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxb33FC9LU_59zi4h54AaABAg.9AV53iNI_Fr9kcvIJZWfw4",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "Stator feed is DC, Rob clearly explained that.\nHe also explained you'll need at least a 1.5kw speed-controller.\nRe-watch and pay attention.",
+        "likes": 0,
+        "published_at": "2023-01-08T17:33:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxCW68W82CVV2mlVGp4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "Funny I should watch this tonight after getting all my pulleys and motor in place and then to find the first motor was broken and then my alternative to have a 240 supply with a bridge rectifier in it. Unfortunately I dont have a speed controller for dc so spent a lot of time learning more useful stuff on ac to dc circuits and bridge rectifiers.  I'm just happy I love learning lol",
+    "likes": 0,
+    "published_at": "2020-06-28T22:31:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxCW68W82CVV2mlVGp4AaABAg.9ATDu6KSnir9AUK6Q4dKBB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate - thanks for taking the time to post",
+        "likes": 1,
+        "published_at": "2020-06-29T08:44:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkyXjUa63xqm6yRIZ4AaABAg",
+    "author": "@boblewis5558",
+    "author_channel_id": "UCCAu6vgrcRzsGfIw_Txs6yQ",
+    "text": "Surprised the slip ring connection arrangement on that alternator was so odd. Most alternators around these days just bring out the slip ring connections in a way that you can leave the external terminals in place and use them as is without needing to resolder anything. The voltage regulator in the alternator (typically) is the biggest issue to resolve as that is often connected directly to one of the slip rings, the other slip ring is just taken to vehicle ground - i.e. the case.\nThe stator of course must have the three phase bridge rectifier disconnected or removed as you did and the phases wired to outside the case as you also did. In principle there should be little need on most alternators to do anything but remove the half of the casing next to the drive pulley as all the needed work can be done without the need to access the other end. Makes for a simpler life. \nMany people are also unaware that the EXPENSIVE replacement (and frankly RUBBISH quality) of the custom designed rectifier pack that uses nothing but common or garden diodes spot welded to connections at one (or both) ends and mechanically push fit at the other can EASILY and more cheaply be replaced by VASTLY superior off-the shelf three phase 100, 200 or 400A commercially available (via eBay et al) epoxy packaged rectifier packs with excellent heatsinking facilities. If anyone has to repair a broken alternator due to failed rectifier pack it's a conversion WELL worth considering. A typical 100A alternator specific pack typically costs around the £30 mark whereas a 100A three phase generic rectifier pack costs around 1/3 of that!",
+    "likes": 1,
+    "published_at": "2020-06-24T14:47:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzkyXjUa63xqm6yRIZ4AaABAg.9AI5cxLrNK29ARewSVLnKD",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "You are right..",
+        "likes": 0,
+        "published_at": "2020-06-28T07:57:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwyFt8qMNOm6W_L47B4AaABAg",
+    "author": "@Expedient_Mensch",
+    "author_channel_id": "UCmaPPhw0gh4iUGSZOPQFntQ",
+    "text": "Slip ring motor.  Never heard of one?  Very common before VSDs became common.  Delivers speed\\direction control of large motors in machines like cranes for example.",
+    "likes": 0,
+    "published_at": "2020-06-22T11:49:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz47moKjSj6R_Rg9kJ4AaABAg",
+    "author": "@martinnash007",
+    "author_channel_id": "UCkCRy7gyms25_l2QFfDS-8Q",
+    "text": "If the windings are in a Y configuration then thats Star not Delta, but the middle of the star would be a neutral wire which I didn't see on your coil so it must be wired as Delta.",
+    "likes": 3,
+    "published_at": "2020-06-22T10:53:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz47moKjSj6R_Rg9kJ4AaABAg.9ACXDkLrfvD9q01g3FwV5x",
+        "author": "@paulmccredie3106",
+        "author_channel_id": "UCu4m_C1dCG9YuXEAQq-CghQ",
+        "text": "The absence of the 4th wire does not necessarily indicate delta configuration. It can still be wired as  and function in the star or Y configuration without bringing out the central/neutral connection.",
+        "likes": 0,
+        "published_at": "2023-05-22T08:56:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyCDDMd6REqAig-4B54AaABAg",
+    "author": "@joshinawoods-mubmub2600",
+    "author_channel_id": "UCWD9MTCgx6EzjzqqSLmkdNQ",
+    "text": "Legend cheers dude",
+    "likes": 0,
+    "published_at": "2020-06-20T16:11:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx2ER7EodJfAxaxj7l4AaABAg",
+    "author": "@DeliciousDeBlair",
+    "author_channel_id": "UC6foW9jE6xKBwxz3lUvU1_Q",
+    "text": "I will genuinely say that for the power output, AND how totally rugged they are, since you can in fact get them for very cheap, you can not buy a commercially produced motor of comparable power and ruggedness for that kind of money.",
+    "likes": 1,
+    "published_at": "2020-06-02T06:58:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx_PYB-oLoi98mWruJ4AaABAg",
+    "author": "@DeliciousDeBlair",
+    "author_channel_id": "UC6foW9jE6xKBwxz3lUvU1_Q",
+    "text": "Depending on how you connect and feed power to the 3 separate phases of this system you have, you can actually make it a fully speed controlled, reversible motor at virtually any speed up to its self destruct speed limit [centrifugal force]. ~( 'w')/\nI have seen people wire these up with as much as 72 volts and using a phase controlled field modulator, run them in excess of 10,000 RPM on go karts for the duration of the batteries [which at these power levels, require quite robust batteries, as you can imagine] ~( 'w')/\nI have heard people claiming as much as 5 horsepower for as much as 30 minutes nonstop under load without overheating them, so if they are set up well, one can use them for pretty punchy little electric vehicles [go karts, bikes, very small boats and the likes, possibly even a large model airplane].",
+    "likes": 2,
+    "published_at": "2020-06-02T06:13:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3XCTNtZonmhSCk9B4AaABAg",
+    "author": "@waltersmart1824",
+    "author_channel_id": "UCPbTdNSygh2ipDOPHdCcvfg",
+    "text": "He's mucking around! That sounds funny to us Americans ! 😁♥",
+    "likes": 1,
+    "published_at": "2020-05-31T20:44:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJuVjJKcbeNYCZwsl4AaABAg",
+    "author": "@lukegretton8081",
+    "author_channel_id": "UCnbEEZ3q8zazX_SxSOqgK7g",
+    "text": "I have the exact same esc but am having trouble getting it to turn.....could you possibly show a close up of the esc wiring including the potentiometer please? Great video!",
+    "likes": 3,
+    "published_at": "2020-05-24T22:13:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw24clQ2y0YnGGrumx4AaABAg",
+    "author": "@woody1766",
+    "author_channel_id": "UCNirecg7IQ3BBmKlw1bJKkw",
+    "text": "can you make a car or motorbike run on water you can use your hydrogen generator to make it  ?????????",
+    "likes": 0,
+    "published_at": "2020-05-15T15:57:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgywCjLUMShy5pw4mEZ4AaABAg",
+    "author": "@mustafagames6809",
+    "author_channel_id": "UCqxonAf3Tv9bOVxXrkJeM8w",
+    "text": "i like your ideas  .",
+    "likes": 0,
+    "published_at": "2020-05-12T10:50:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgywCjLUMShy5pw4mEZ4AaABAg.98YxL-JQRh498Z13fTK3nl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-05-12T11:31:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaIly0P_e5Heghr1B4AaABAg",
+    "author": "@captainprototype187",
+    "author_channel_id": "UCpcp1EfFbH0nCNQgrWjq6Lw",
+    "text": "Very useful conversion. I tried to make a motor out of a bicycle dynamo once. Didnt work. Anyone know why? Maybe cause its an ac generator? How could you do it with a bridge rectifier?",
+    "likes": 0,
+    "published_at": "2020-05-05T14:16:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwaIly0P_e5Heghr1B4AaABAg.98HINDvbJ-K9ARbXRjXpJs",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "Yes, AC generator need AC input. Use 12 volt inverter.",
+        "likes": 0,
+        "published_at": "2020-06-28T07:28:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyTLucc12L38-c4Zfh4AaABAg",
+    "author": "@davidcole6236",
+    "author_channel_id": "UCtkl4jVvF8nDyO865FOhOKg",
+    "text": "By the way, reversing the polarity of the field (rotor) brushes does NOT reverse the motor, but swapping any pair of the 3 phase leads of the stator will.\n\n\nRunning with mechanical drive input (generator mode), adjusting the rotor (field) drive current will control the output voltage at any given shaft speed, it will also change the load on the device (turbine, engine, windmill ,etc.) \n\nWhen in motor mode, adjusting the DC field excitation is used to match motor HP output availability to that the load is demanding, which also controls the power factor (phase angle between Voltage and Current, lead or lag), which can make a synchronous motor appear Capacitive, Resistive, or Inductive, depending on field current.\nPower utilities like to see unity Power Factor (in phase aka resistive loading).\n\n\nHTH\n\n\nCheers,\nDave",
+    "likes": 6,
+    "published_at": "2020-04-21T02:00:21Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgyTLucc12L38-c4Zfh4AaABAg.97gvzBWuZXs99rwm8wrpph",
+        "author": "@2highview",
+        "author_channel_id": "UC9mUaBEQ5r3B79vpT0CgiEA",
+        "text": "Great info! Thx. Re: brush currents controlling to load (motor mode), what if you convert the rotor to PM, brushless? I suppose the magnet strength then would match to torque/speed demands on motor? What if also powering motor with variable voltage and current, say a solar PV panel? I wonder how to coordinate variable solar input to rotor field strength (with permanent magnets embedded into rotor to eliminate brushes and excite) to set load?",
+        "likes": 0,
+        "published_at": "2020-06-14T01:41:45Z"
+      },
+      {
+        "id": "UgyTLucc12L38-c4Zfh4AaABAg.97gvzBWuZXs9ARWammB5QM",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "@2highview 1.  Magnet strength for rotor not that critical, weaker magnets produce somewhat higher speeds, but less torque. Stronger magnets, slightly lower speed but high torque. The alternating arrangement of N and S is critical.\nAnyway the rotor (on DC) require a minimum of about 3 volt, max 12 volts.         \n2.  If you use a variable DC input to the Electronic speed controller (ESC) from for example  solar panel, you need to know what input voltage range the solar panel/s would provide.  Generally alternators can work from 36 volts to 72 volts or even higher than that, but heat would start to build up fast the higher you go.  ESC have various types, generally you need one that can handle voltage of your average solar panel input. (minimum 36 volts, max about 60-72 volts) also having an amperage of not less than 30 amps (higher is OK). Best that you get a 1500-2000 watts controller. You can determine wattage that the alternator can handle by the volt and amp of alternator. E,G 12v X 80 amp alternator can handle 960 watts.\n Every ESC has minimum and maximum voltage cut-off.  Depending on the voltage you expect from your solar panel, you can use a DC to DC convertor to ensure that you have a steady DC input voltage into the ESC.,  Good luck.",
+        "likes": 1,
+        "published_at": "2020-06-28T06:36:10Z"
+      },
+      {
+        "id": "UgyTLucc12L38-c4Zfh4AaABAg.97gvzBWuZXs9Cn7yvD55pZ",
+        "author": "@ernestmurphy3898",
+        "author_channel_id": "UC9Sq4MkbpOR5QDwmpL2PWbw",
+        "text": "@gensyed I would like to know more,  do you have a source that I may be able to generate a recipie to use one for a trailer tug?",
+        "likes": 0,
+        "published_at": "2020-08-25T18:26:20Z"
+      },
+      {
+        "id": "UgyTLucc12L38-c4Zfh4AaABAg.97gvzBWuZXs9CnIcwA9On_",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "@ernestmurphy3898 Sorry, I do not have 'a' source, they're all from you tube. 'How to convert alternator to motor and the likes, AND from my own efforts converting and repairing alternators.  I buy my ESC and batteries from Ali express or Lazada and some from computer shops. Wish you success.",
+        "likes": 0,
+        "published_at": "2020-08-25T19:59:26Z"
+      },
+      {
+        "id": "UgyTLucc12L38-c4Zfh4AaABAg.97gvzBWuZXs9CnKAQ1gKoD",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "@ernestmurphy3898 If you have a specific question, I maybe able to assist.",
+        "likes": 1,
+        "published_at": "2020-08-25T20:12:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHJ6Mqp95CBEJ51Ot4AaABAg",
+    "author": "@davidcole6236",
+    "author_channel_id": "UCtkl4jVvF8nDyO865FOhOKg",
+    "text": "If you connect 2 of these in paralell (each wire 1 to 1 w/ the corresponding 2nd unit's wire), then energize the rotor (slip rings) w/ single phase AC (use your variac) enough to provide excitation, you will have a Synchro (or Selsyn) system.\nRotating one shaft slowly, and the other shaft will follow it, remotely reading the other input.\n\n\nThink a remote wind direction indicator.\n\n\n\nEnergizing with DC, then driving one shaft at high speed, the other shaft will \"motor\" at the same speed. (this is like a power plant generating 3 phase AC, running  a Synchronous motor at a customer's plant.\n\n\nCheers,\nDave Cole",
+    "likes": 0,
+    "published_at": "2020-04-21T00:16:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwpMWgCO1m2f3DGdat4AaABAg",
+    "author": "@thagrit",
+    "author_channel_id": "UCK61R1Ki4GL-lexY3dGV64g",
+    "text": "you can run an alternator like a stepper motor.  I saw a video here on YT that showed doing just that.",
+    "likes": 1,
+    "published_at": "2020-04-20T22:47:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwpMWgCO1m2f3DGdat4AaABAg.97g_sGowql-98PP_wdsa_7",
+        "author": "@foxxyytofficial",
+        "author_channel_id": "UCZtN-dgoqJQTEEFnA-R_HUQ",
+        "text": "can you find the link please?",
+        "likes": 1,
+        "published_at": "2020-05-08T17:53:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyzDjDba5pdw03nkHx4AaABAg",
+    "author": "@alt-swe5503",
+    "author_channel_id": "UCAQ-NBD5Cy3CB4G1qisP5nQ",
+    "text": "So,if you remove the 3-phase power feeding, instead turning the shaft with whatever sounds fun, then you got a 3-phase generator, output voltage regulated by changing the 12V and the frequency by the speed you turn the shaft, right?",
+    "likes": 0,
+    "published_at": "2020-04-19T23:49:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyzDjDba5pdw03nkHx4AaABAg.97e7DI0HzY19ARgMx5_p79",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "Yes, AC out put.",
+        "likes": 0,
+        "published_at": "2020-06-28T08:10:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzmVhh9V7B9_l8WCDN4AaABAg",
+    "author": "@LeftyLucyRightyTyty",
+    "author_channel_id": "UCrVT3BHhNrCPnpoLKj6cmmA",
+    "text": "Could this be configured to work BOTH as an Alternator OR a motor? If so, it could be used as a pseudo Hybred system, if reinstalled on the original vehicle.",
+    "likes": 1,
+    "published_at": "2020-04-19T14:00:16Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzmVhh9V7B9_l8WCDN4AaABAg.97d3mEJL62R98D55N4dZWI",
+        "author": "@foxxyytofficial",
+        "author_channel_id": "UCZtN-dgoqJQTEEFnA-R_HUQ",
+        "text": "You're wanting a mild hybrid system\nThey already exist, made by GM, Continental, Hyundai and others",
+        "likes": 0,
+        "published_at": "2020-05-03T23:03:39Z"
+      },
+      {
+        "id": "UgzmVhh9V7B9_l8WCDN4AaABAg.97d3mEJL62R9ARc6uSsWvk",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "It could, but you have to just tap the necessary connections and have switches to make it either motor or alternator.  Also you need another source of DC top-up for your car batt because its taking the load of the car's electricity requirements.",
+        "likes": 0,
+        "published_at": "2020-06-28T07:33:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzE_-K8WILn5728JpJ4AaABAg",
+    "author": "@mwm2929",
+    "author_channel_id": "UC5NsduGaq_p1llxSdzoojWg",
+    "text": "My latest project video can be easily used as a variable frequency drive for you.  You will need one amplifier per phase and have a multichannel input with 120° phase shifts between channels for 3 phase.  Probably much cheaper than a commercial DC input to 3 phase VFD.  I found it much more fun to build as well!",
+    "likes": 0,
+    "published_at": "2020-04-19T02:00:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzE_-K8WILn5728JpJ4AaABAg.97bmRJqIxYz9M4xFtDPk3K",
+        "author": "@nanfwangdabiring1520",
+        "author_channel_id": "UCGeM4qXeTmEns5an1bf3jhg",
+        "text": "Please can you explain further, I mean how to amplify the 3 phase output?",
+        "likes": 0,
+        "published_at": "2021-04-13T18:32:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwJd-oieKeYBLMLIIl4AaABAg",
+    "author": "@kolinevans9127",
+    "author_channel_id": "UCyxgojcCon-llyWeVN_yV-g",
+    "text": "I Like these videos \n\nInteresting, i wonder if you were to self loop the rotor if that configuration would still function like an induction rotor , that is to say universal opposing force? The way in which the metal core is folded would suggest it may. \n\nThen if you disconnect the winding to their individual 3 windings you will be able to identify the 3 phases. \n\nAnd you have a 3 phase motor, which can then be operated by adding a ‘condenser’ to run single phase or by self looping one phase and connecting the other two in circuit I believe. \n\nBut I’d have to try it.\n\nThe advantages of a pulse control is you have speed control, as you would know induction motors are frequency dependent \n\nHowever, there are also then generator options with the induction motor as you have already outlined and you lose the brushes this way so? \nAnd other advantages like being very prevalent at most local tips or scrap yards. \n\nOh I just thought but to self start you would need to check the L and the R of one winding to determine the phase angle  \nYou can use  \n\nArctan { xl / R}   To get the phase angle \n\nThe you would use  on another phase Arctan {xl - Xc / R } to sum that offset phase angle so it is 90deg alternate to the phase you run\n\nThen it should self start, but I’m not sure as to the self connection on the third phase I’d have to try , I have some old alternators I might try it. \n\nRegards",
+    "likes": 1,
+    "published_at": "2020-04-18T11:32:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwJd-oieKeYBLMLIIl4AaABAg.97aE2lHA7IZ9EEzUNc6C6l",
+        "author": "@rapcolifestylecorp1922",
+        "author_channel_id": "UCyUS4rVuIHc1DobROe5Oqzg",
+        "text": "Please put u a video.",
+        "likes": 0,
+        "published_at": "2020-09-30T19:52:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAPqe_DHt9URDu_d14AaABAg",
+    "author": "@jamesguinness6209",
+    "author_channel_id": "UCIglgA0ZNBTfsFKcQ0yo2KA",
+    "text": "Thank you for your answer.  What if the rotor connections were shorted?   Could the 3 phase field induce a voltage into the rotor?",
+    "likes": 0,
+    "published_at": "2020-04-18T00:18:15Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzAPqe_DHt9URDu_d14AaABAg.97_0ufdlm_59ARXjmAKS6u",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "No and you'll spoil your ESC.",
+        "likes": 0,
+        "published_at": "2020-06-28T06:46:08Z"
+      },
+      {
+        "id": "UgzAPqe_DHt9URDu_d14AaABAg.97_0ufdlm_59B0wktREeIs",
+        "author": "@arnbon6241",
+        "author_channel_id": "UCwgh3f8X_hxfvPM-qNYvieg",
+        "text": "Yes , you can do that , the alternator will become now a 3 phase induction motor with the exception that now you cannot control the speed and torque of the motor now as the rotor magnetism is fixed now.",
+        "likes": 0,
+        "published_at": "2020-07-12T19:25:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyVsy92GapZVBMbqk94AaABAg",
+    "author": "@gcewing",
+    "author_channel_id": "UCOfam1glqK75M8tQKc5R2wA",
+    "text": "Reversing the rotor polarity won't change the direction of rotation. To do that you need to swap two of the stator phases, or have the controller cycle the phases in the opposite order.",
+    "likes": 0,
+    "published_at": "2020-04-17T22:03:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyVsy92GapZVBMbqk94AaABAg.97ZmT6dwhrG97aD0jcTj0d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure - my bad - cheers",
+        "likes": 0,
+        "published_at": "2020-04-18T11:23:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx85jt6xOSlNVJHKcd4AaABAg",
+    "author": "@alexwild4350",
+    "author_channel_id": "UCCHTClbsnTtFfSePXfmtSjQ",
+    "text": "Now you've opened a can of worms - of fun. Lets say the Alternator would have produced 70 Amps in its original configuration. Now the voltage regulator is out of the circuit, the Stator winding should produce up to about 120 volts AC. 70 amps times 120 volts gives 8,400 Watts. And believe it or not, that little alternator will produce that sort of power. Not as a motor, but as a generator. The main issue in such a configuration is of course Heat dissipation. Even half that power is a bundle of fun.\n\n\nUsing your home made batteries on this Alternator/ Motor and your well on your way to a revolution in personal electric transport..",
+    "likes": 0,
+    "published_at": "2020-04-17T14:11:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx85jt6xOSlNVJHKcd4AaABAg.97YwUEjokNq97Z1fs141pr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is awesome mate - thanks for posting that",
+        "likes": 0,
+        "published_at": "2020-04-17T15:05:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzpAxxc-NoLZDdn44x4AaABAg",
+    "author": "@lezbriddon",
+    "author_channel_id": "UCDrNjRt_-fUWLRBvEawfd3w",
+    "text": "some early ebikes were built this way. swapping the rotor for magnets was a pita.",
+    "likes": 1,
+    "published_at": "2020-04-17T13:55:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzpAxxc-NoLZDdn44x4AaABAg.97YueEnOz1d97Z1h3eu-yP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool",
+        "likes": 1,
+        "published_at": "2020-04-17T15:05:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaQ7AZd7xDbP_yiz54AaABAg",
+    "author": "@denniskramer9788",
+    "author_channel_id": "UCF-p5hotaAamxz18w_Uhpvg",
+    "text": "Hi Rob I've use this Kelly Controller for an E Scooter  KLS7218, https://www.kellycontroller.com/shop/kls-s/  .   A little pricey but programmable and overall a good value  in a 3 phase brushless arrangement.  They have many others as well. \nDennis",
+    "likes": 0,
+    "published_at": "2020-04-17T13:03:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwaQ7AZd7xDbP_yiz54AaABAg.97YodWaGhFj97Z1mbhIeIg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate - that is a nice piece of kit for sure",
+        "likes": 0,
+        "published_at": "2020-04-17T15:06:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAPFi_kjk5OHt8vY54AaABAg",
+    "author": "@johnmarkgatti3324",
+    "author_channel_id": "UCrmJ9JHaRnQkUC9jM28t8iA",
+    "text": "interesting , my suby alternaters are rated at 100 amps ,[ unlikely to be 100% duty ],even at 50 amps 48V you should have a couple of killowats ,very usefull for a bike . may be able to up the field voltage before saturating, for a bit more . Could actually be interesting to really up the voltage and limit current aka Charles Newman  ,  have to rewind  rotor though. I take it that is a 3phase speed controller ? pretty amazing the controllers you can get for drones and things . dang! now you've got me thinking ,how many of those to get a personal flying machine on the cheep ...now all we need is some really good light wieght batteries ....... !?",
+    "likes": 0,
+    "published_at": "2020-04-17T11:50:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAPFi_kjk5OHt8vY54AaABAg.97YgKce4Ix597Yj3pr8s2s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "electronic speed control for brushless motor mate - but works fine here as basically that's what a converted alternator is - well in principle",
+        "likes": 1,
+        "published_at": "2020-04-17T12:14:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyTIH7Rg2HQ9XJMAFt4AaABAg",
+    "author": "@4gauge10",
+    "author_channel_id": "UCcZv9KEoWg84-Z8eSSEQGjQ",
+    "text": "You need to do next is hook do another one like that and you can have a perpetual energy machine,the alternator would drive the motor that's driving it,making more power then what's being used.(overunity)",
+    "likes": 1,
+    "published_at": "2020-04-17T09:15:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyTIH7Rg2HQ9XJMAFt4AaABAg.97YPb9OmmAX97Yix_82RLy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I can't tell - are you joking?",
+        "likes": 0,
+        "published_at": "2020-04-17T12:13:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxNLpZgdI68FUxePf14AaABAg",
+    "author": "@Matriarchy_Feminism",
+    "author_channel_id": "UCWGhbp1m4a635cwYUm0xspA",
+    "text": "Thank you. First time I become able to know how the electromagnets of a alternator's rotor works (by watching this video). This experiment is useful and entertaining too. ☺️",
+    "likes": 4,
+    "published_at": "2020-04-17T08:41:29Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxNLpZgdI68FUxePf14AaABAg.97YLhdzEAKJ97YMRQS2rfG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and I am glad you liked it",
+        "likes": 1,
+        "published_at": "2020-04-17T08:47:52Z"
+      },
+      {
+        "id": "UgxNLpZgdI68FUxePf14AaABAg.97YLhdzEAKJ97hu6A31Ken",
+        "author": "@Matriarchy_Feminism",
+        "author_channel_id": "UCWGhbp1m4a635cwYUm0xspA",
+        "text": "@Robert Murray-Smith   I always like your videos the most. You are an outstanding inventor. \nSorry I have written stator instead of rotor. Edited now 😝😝😝. sorry",
+        "likes": 1,
+        "published_at": "2020-04-21T11:03:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzWpXKyQvfse4ow1e94AaABAg",
+    "author": "@jamesguinness6209",
+    "author_channel_id": "UCIglgA0ZNBTfsFKcQ0yo2KA",
+    "text": "Would it work as a three phase induction motor without the D.C. voltage on the rotor?",
+    "likes": 0,
+    "published_at": "2020-04-17T02:23:01Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzWpXKyQvfse4ow1e94AaABAg.97XfOcJuMEX97Y3m3AiquD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I would think without the dc on the rotor it would be a challenge - you would most likely have to reconfigure the rotor",
+        "likes": 0,
+        "published_at": "2020-04-17T06:04:48Z"
+      },
+      {
+        "id": "UgzWpXKyQvfse4ow1e94AaABAg.97XfOcJuMEX9ARcJvjH9Rq",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "No.",
+        "likes": 0,
+        "published_at": "2020-06-28T07:34:53Z"
+      },
+      {
+        "id": "UgzWpXKyQvfse4ow1e94AaABAg.97XfOcJuMEX9B0x5tueJs2",
+        "author": "@arnbon6241",
+        "author_channel_id": "UCwgh3f8X_hxfvPM-qNYvieg",
+        "text": "Yes it will work as a 3 phase induction motor if you short the slip rings.",
+        "likes": 0,
+        "published_at": "2020-07-12T19:28:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFCX-Jdc9kfiwLHnp4AaABAg",
+    "author": "@andrewbeaton3302",
+    "author_channel_id": "UCaaMpLEOQZ0JOIQc5Ci-ETw",
+    "text": "Love to see you guys incorporate this into a windmill optimized with your graphene projects!",
+    "likes": 2,
+    "published_at": "2020-04-17T02:18:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzFCX-Jdc9kfiwLHnp4AaABAg.97XepWJuVMx97Y3pNt3zjN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's certainly an idea mate - cheers",
+        "likes": 2,
+        "published_at": "2020-04-17T06:05:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwyjXKn6Y3DJsABwbB4AaABAg",
+    "author": "@DrHarryT",
+    "author_channel_id": "UCx0mfixIPjZIPwtrPo9CaZw",
+    "text": "Basically it's a three phase motor with the potential for varying the output by how much current is applied to the rotating field. You could use the controller to drive mosfets [mosfet has \"Source, Gate and Drain\"]  which are sourced by house current or ...If three phase is available like in industrial shops then you use those mosfets but the gate's are variable controlled to limit the current applied to the stator windings. In both cases the mosfet must be able to handle the source voltage and current that is needed to apply to the stator windings, you MUST never exceed the current limits of both the mosfets or stator windings.\nThere is a pretty good chance you could apply the three phase signal to the stator windings at a voltage that generates a nominal current drain...Then when you begin to drive the field winding with current, that would trigger induction to the stator and the shaft would begin to rotate causing stator current to increase. The amount of stator current would be related to the field voltage applied and the load put on the rotating shaft.",
+    "likes": 1,
+    "published_at": "2020-04-17T00:49:41Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwyjXKn6Y3DJsABwbB4AaABAg.97XVi4fbk8Q97Y48vtAXOC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am not sure I got everything you said mate - but i certainly liked the ideas and will look at this as a way to try to efficiently drive the motor - thank you for taking the time to post",
+        "likes": 0,
+        "published_at": "2020-04-17T06:08:03Z"
+      },
+      {
+        "id": "UgwyjXKn6Y3DJsABwbB4AaABAg.97XVi4fbk8Q9kcxB5D6x9y",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "8-12 parallel BUZ10 and BUZ111Mosfets were used in quite powerful brushless electric r/c car speed controllers, very cheap, and you just rank more of them in parallel if you need to control more power.",
+        "likes": 0,
+        "published_at": "2023-01-08T17:49:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDtOEvGBnZ35KyWAZ4AaABAg",
+    "author": "@Mr31Vince",
+    "author_channel_id": "UCvCtgSI6ThxTapSLd6IE8IA",
+    "text": "You need to join us on hackyracers.co.uk we race these things with motors just like that 😎",
+    "likes": 0,
+    "published_at": "2020-04-16T22:48:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwDtOEvGBnZ35KyWAZ4AaABAg.97XHnXaNTqi97Y6pYCU2gY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I had a look at the website - that is awesome! - ok I am building a vehicle lol",
+        "likes": 1,
+        "published_at": "2020-04-17T06:31:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLYuyTx-qDQ7koYaF4AaABAg",
+    "author": "@Eagleoneradiogod",
+    "author_channel_id": "UCQjEsuZKMmmZAHxiopK-q3A",
+    "text": "The plug with the electronics. Is the charging regulator. It communicates with the cars computer to know exactly how much voltage and amperage to output according to the cars electrical demand. It usealley works off of a bus can data and/or 5 v reference on obd2",
+    "likes": 0,
+    "published_at": "2020-04-16T20:08:29Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzLYuyTx-qDQ7koYaF4AaABAg.97X-XWRsLcV97Y4rU18QdF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I pulled this from an old car mate - there is no CAN bus is a 1980s Nissan Micra lol - I joke of course but get what you are saying and thanks for posting",
+        "likes": 0,
+        "published_at": "2020-04-17T06:14:17Z"
+      },
+      {
+        "id": "UgzLYuyTx-qDQ7koYaF4AaABAg.97X-XWRsLcV97Y78J-APc5",
+        "author": "@Eagleoneradiogod",
+        "author_channel_id": "UCQjEsuZKMmmZAHxiopK-q3A",
+        "text": "Ok did not realize it was that old. I drive a 1990 Lincoln with obd1. And it has a regulator that goes to the ecm. Well I am no expert. But I do want to learn as much as I can about electro- mechanics as possible.  Here is an idea for your next video. How about running the generator motor off of. Fuel vapors. Other people have done this on YouTube. With success. That way we know exactly how wastefull a combustion engine really is.",
+        "likes": 0,
+        "published_at": "2020-04-17T06:34:11Z"
+      },
+      {
+        "id": "UgzLYuyTx-qDQ7koYaF4AaABAg.97X-XWRsLcV97Zm2Bj2WnJ",
+        "author": "@gcewing",
+        "author_channel_id": "UCOfam1glqK75M8tQKc5R2wA",
+        "text": "It's probably just a simple circuit that regulates the output voltage by varying the rotor current. There's no need for it to communicate with anything.",
+        "likes": 0,
+        "published_at": "2020-04-17T21:59:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxQSInBE8IMavn0FL94AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "I have been planning a ebike,  and sometimes you can't just buy stuff, and knowing how to make stuff can come in handy!",
+    "likes": 1,
+    "published_at": "2020-04-16T20:02:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxQSInBE8IMavn0FL94AaABAg.97Wzs2Q8jQo97Y4vE8Os0O",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate - I just love exploring stuff I guess - and no better way to explore than to do lol",
+        "likes": 1,
+        "published_at": "2020-04-17T06:14:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzd-yQp-cPKt-9UVHF4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "I have a delco external regulated alternator already set up to work like this, and a remanufactured one just like it to do something with also, got it for $15 , I was going to make a pma wind turbine! Maybe I still will, being offgrid, power is always in demand! A 20 meter tower that is needed is the hold up!",
+    "likes": 1,
+    "published_at": "2020-04-16T19:58:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzd-yQp-cPKt-9UVHF4AaABAg.97WzRtYIPEJ97X6Enu5Z_B",
+        "author": "@ancapftw9113",
+        "author_channel_id": "UC1ChjN_EcJ--pcU9m1DnMYw",
+        "text": "I've seen people that turn them into a VAWT by putting a 55 gallon drum (cut lengthwise and put the two halves side by side on the shaft to turn it.)",
+        "likes": 1,
+        "published_at": "2020-04-16T21:07:06Z"
+      },
+      {
+        "id": "Ugzd-yQp-cPKt-9UVHF4AaABAg.97WzRtYIPEJ97Y5-iAIl1Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they are awesome bits of kit mate - so much you can do with them",
+        "likes": 0,
+        "published_at": "2020-04-17T06:15:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZA73gTSdA6lyFcPJ4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "I have a 1500+ watt controller, and a few alternators to do this with, I have smaller bldc motors,  that are not rated for the higher voltage of the controller, 48-72 volts, I'd say the alternator can handle it, my lil 350w 24-36v motors wouldn't last to long at 72v!  A unrelated alternator can output as much as 600+ volts at a decent speed, some more some less, the 12v output, is with the rotor being pulsed rapidly, 12v on the rotor, at 2k rpm the alternator will easily do 18-36v open circuit,  it's amazing how little alternators have changed since the 60's! Great video, I hope to see more videos like this! Awesome!!",
+    "likes": 7,
+    "published_at": "2020-04-16T19:54:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxZA73gTSdA6lyFcPJ4AaABAg.97Wyz1htOr-97Y55N3j_wZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are lucky to have that mate - I must get one lol",
+        "likes": 1,
+        "published_at": "2020-04-17T06:16:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxQjbuchYX_xK7SlAl4AaABAg",
+    "author": "@77pete7",
+    "author_channel_id": "UCbtxrLaYqlHakXGaBx14QHA",
+    "text": "Your joyful laugh is great to brighten anyone’s day. Thanks for sharing Rob! Here’s something for you!\n\n  SMILING ... from Steve Judd\n\nSmiling is infectious; you catch it like the ‘flu’.\nWhen someone smiled at me today, I started smiling too.\nI walked around the corner, and someone saw me grin, \nAnd when he smiled, I realised I had passed it on to him.\n\nI thought about the smile, and then realised its worth.\nA single smile like mine could travel round the Earth!\nSo if you feel a smile begin, don’t leave it undetected:\nLet’s start a pandemic quick, and get the world infected!",
+    "likes": 13,
+    "published_at": "2020-04-16T19:40:33Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxQjbuchYX_xK7SlAl4AaABAg.97WxKxWVerI97Y5F-veCrc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - awesome mate - that made me smile - loved the poem!",
+        "likes": 1,
+        "published_at": "2020-04-17T06:17:37Z"
+      },
+      {
+        "id": "UgxQjbuchYX_xK7SlAl4AaABAg.97WxKxWVerI98QcsHkStU0",
+        "author": "@chrishayes5755",
+        "author_channel_id": "UCj6Pq389GLLdZ2aqPfzuREg",
+        "text": "@ThinkingandTinkering I'm new to learning about electronics, and what makes a great teacher isn't just knowledge.. enthusiasm is key. I really enjoyed the video. Next time crank the motor up to full power though :)",
+        "likes": 3,
+        "published_at": "2020-05-09T05:17:41Z"
+      },
+      {
+        "id": "UgxQjbuchYX_xK7SlAl4AaABAg.97WxKxWVerI9Be4m1YpRX-",
+        "author": "@NusantaraMegah",
+        "author_channel_id": "UCIM8dXLkijrsYB2Zip_CcKg",
+        "text": "\"Let’s start a pandemic quick, and get the world infected! \"\nIn the current Covid-19 era, not exactly good advice! LOL",
+        "likes": 0,
+        "published_at": "2020-07-28T09:33:47Z"
+      },
+      {
+        "id": "UgxQjbuchYX_xK7SlAl4AaABAg.97WxKxWVerI9p-6eK7m1OS",
+        "author": "@jasonchristopher2977",
+        "author_channel_id": "UCR6W7w8VwOaEmBq4ige328g",
+        "text": "@NusantaraMegah Something got tge world infected with all these ppl swapping gender and making up new ones. I recall kindergarten cop with Arnold and the lil boy says Boys have a penis and girls have a vagina. Now who knows what they got. I do know they got brain worms and need help. Open up all Asylums NOW.",
+        "likes": 0,
+        "published_at": "2023-04-27T03:49:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxhtPtITsCJjPFFQZd4AaABAg",
+    "author": "@gusteffan",
+    "author_channel_id": "UCq1c8WxNRPnarx6ByFktCRQ",
+    "text": "Awesome, great video, great motor and great price, on my to do list, thanks Rob, again",
+    "likes": 1,
+    "published_at": "2020-04-16T19:40:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxhtPtITsCJjPFFQZd4AaABAg.97WxHahiOo297Y5FopMiEv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-04-17T06:17:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyCdIp367ch6pqIdV4AaABAg",
+    "author": "@alpergokcek6756",
+    "author_channel_id": "UC8d3_uPFpnzWRc3-WGxBlEw",
+    "text": "Quarantine fun..",
+    "likes": 1,
+    "published_at": "2020-04-16T19:31:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyCdIp367ch6pqIdV4AaABAg.97WwJ8b2B6y97Y5INw2L4k",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep - something to do when there is nothing to do lol",
+        "likes": 1,
+        "published_at": "2020-04-17T06:18:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNVLPD24f-0ZUE8d54AaABAg",
+    "author": "@AndyFletcherX31",
+    "author_channel_id": "UCySM8-dJpGKlefNvpV7E2Qg",
+    "text": "A very interesting way of getting a low voltage 3-phase motor",
+    "likes": 2,
+    "published_at": "2020-04-16T19:15:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNVLPD24f-0ZUE8d54AaABAg.97WuVXw5VTH97Y5NfR1NkP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate",
+        "likes": 1,
+        "published_at": "2020-04-17T06:18:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxhICrB4wN_FHNcUC54AaABAg",
+    "author": "@olivierroy1301",
+    "author_channel_id": "UC_8E6a4tLoSwxCVxBPrrqhg",
+    "text": "Will you explain how the generator works? I'd like to be able to make a motor with mine.",
+    "likes": 0,
+    "published_at": "2020-04-16T19:12:37Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxhICrB4wN_FHNcUC54AaABAg.97Wu8NXJXC_97Y68iuvk1r",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "In an alternator it's basically just like a normal generator - the dc current on the rotor makes the rotor a big old magnet - then the rotation of that magnetic fields generates the current in the normal way - field lines intersecting the coils of the stator - So you need energy in - DC on the rotor -  the amount output is proportion to rotation speed. So, when it spins slowly input is bigger than out put but when speed goes up beyond a point output is bigger than input and you get a generator. What we did here was reverse that and we can do the same thing for pretty much any generator - but - I have just picked up a pretty big generator and I may well do a video on the conversion of that - the videos we did on turning pc fans into generators are also the principle behind any generator it's only a size difference - having said all of that - I also picked up an broken microwave today so if you like I can take that as an opportunity to further explain - hope this helps, Rob",
+        "likes": 1,
+        "published_at": "2020-04-17T06:25:30Z"
+      },
+      {
+        "id": "UgxhICrB4wN_FHNcUC54AaABAg.97Wu8NXJXC_97YKbuyAW4j",
+        "author": "@olivierroy1301",
+        "author_channel_id": "UC_8E6a4tLoSwxCVxBPrrqhg",
+        "text": "@ThinkingandTinkering I think I'll watch those videos again. I just watched the one about PC fans. Thanks for the precision, you got my attention.",
+        "likes": 0,
+        "published_at": "2020-04-17T08:31:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxm7pFL5G5k4iU_3OB4AaABAg",
+    "author": "@tinkmarshino",
+    "author_channel_id": "UCILUza8HB5zmSMb3sS3rqPw",
+    "text": "I always loved to do things like this just to do them.. We did make an old alternator into a motor back in the old days.. just to see if we could.. what fun!!!!",
+    "likes": 6,
+    "published_at": "2020-04-16T19:04:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxm7pFL5G5k4iU_3OB4AaABAg.97WtA_WCVJF97Y6AqQQzev",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate lol",
+        "likes": 2,
+        "published_at": "2020-04-17T06:25:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwIvwLgjxkuC2097l94AaABAg",
+    "author": "@jeffreyrood8755",
+    "author_channel_id": "UCnBAl1YsLyr6eRTF3UB8V-w",
+    "text": "I never thought about doing that. I know motors can be expensive and you certainly got the alternator for the right price. Great video!",
+    "likes": 21,
+    "published_at": "2020-04-16T18:58:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwIvwLgjxkuC2097l94AaABAg.97WsWTAPtfc97Y6EKkKyh4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-04-17T06:26:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6UYcutDq1PeGJ_FJ4AaABAg",
+    "author": "@excitedbox5705",
+    "author_channel_id": "UCy_mskF9E1ZM2eGlQQ231IQ",
+    "text": "What about wiring the magnet wires into the speed controller so you can power both with 1 power supply and also increase the efficiency. You would need a transformer to get the voltage right for each but rectifiers are only a couple cents so you can even switch from AC to DC.",
+    "likes": 1,
+    "published_at": "2020-04-16T18:58:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy6UYcutDq1PeGJ_FJ4AaABAg.97WsVl8bYsn97Y6JmbDsPT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I was thinking of a battery pack and tapping off a bit like a transformer",
+        "likes": 0,
+        "published_at": "2020-04-17T06:27:01Z"
+      },
+      {
+        "id": "Ugy6UYcutDq1PeGJ_FJ4AaABAg.97WsVl8bYsn9ARawThUXEv",
+        "author": "@gensyed",
+        "author_channel_id": "UC0scq0_MRWPnbvBO2x78Ywg",
+        "text": "Possible, but for the rotor, you'd need max 12 volts thereabout. So you need a DC convertor for tap off.",
+        "likes": 0,
+        "published_at": "2020-06-28T07:22:49Z"
+      }
+    ]
+  }
+]

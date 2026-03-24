@@ -1,0 +1,340 @@
+[00:00] [Music]
+[00:08] So, this is the Flash Forge AD5X, which
+[00:12] I think I've had for uh about 5 months
+[00:14] now. I got this on its first release,
+[00:16] and it has a bit of a curious history,
+[00:18] which we'll go into in a minute. But, I
+[00:21] was sent this to review it and give it a
+[00:23] go, and of course, I said yes because I
+[00:25] thought it was quite a fascinating
+[00:26] machine. Now, if you watch the channel,
+[00:29] you know that I print a lot. And I
+[00:31] actually have two 3D printers. So, my 3D
+[00:35] printers, well, they're workh horses.
+[00:37] They're running all of the time. It's
+[00:39] actually complaints about the videos
+[00:41] that people can hear machines in the
+[00:42] background printing. So, I print a lot.
+[00:46] Now, I normally print in one color.
+[00:48] Well, let me say I have normally printed
+[00:51] in one color. Because to be honest with
+[00:54] 3D printing, it's not about the time
+[00:56] that the printer takes. That doesn't
+[00:58] bother me because um you know, they're
+[00:59] so reliable. I just leave them alone.
+[01:01] I'll print overnight. I don't care. And
+[01:04] I get very very few um spaghetti
+[01:06] malfunctions. They just they just print
+[01:08] and I just get used to them doing that.
+[01:10] And so, you know, I'll set a print
+[01:12] going. I'll make a cup of cocoa and go
+[01:14] to bed and in the morning it's all ready
+[01:17] for me. So, it's not about the time that
+[01:19] they take. It's actually about the
+[01:21] contact time that you have with them.
+[01:24] But you spend quite a a a reasonable
+[01:27] amount of time setting them up, making
+[01:30] sure the filaments in there, making sure
+[01:32] the plate is clean and is sticky enough
+[01:34] for the actual thing to stick without it
+[01:36] being too sticky that you have to prize
+[01:38] off the covering when you take the print
+[01:40] off the bed. So setting it up the
+[01:42] contact time working with the actual
+[01:44] machine is actually the time I consider
+[01:48] it takes because once it's running and
+[01:50] printing although it's taking printing
+[01:52] time I don't have to do anything I'll go
+[01:54] out shopping I'll mow the lawn all kinds
+[01:56] of stuff I don't actually have to stand
+[01:58] over the thing and that for me is one of
+[02:00] the big things about a 3D printer if
+[02:03] you're making a component and you don't
+[02:05] do it on 3D printing your contact time's
+[02:08] huge because you know you're tooling the
+[02:10] thing you're working with the tools,
+[02:11] you're working with the piece, and
+[02:12] you're at it all the time. With this,
+[02:14] once you've drawn it, got it set up, you
+[02:17] leave it to run. So, there's two times,
+[02:19] contact time and production time. To
+[02:23] produce the whole thing, which includes
+[02:24] the time taken to print, is quite a long
+[02:27] time, but the contact time is really
+[02:29] quite short. And that really matters
+[02:31] with something like this because
+[02:33] although I haven't been doing a lot of
+[02:36] color printing because this encouraged
+[02:38] me to do it and I've started producing
+[02:40] multiolor models like this where the
+[02:42] parts are all one color but the whole
+[02:44] model is assembled to be a multicolor
+[02:48] model. Now I do that for deliberate
+[02:49] reasons. I do that because of the way
+[02:52] that this thing actually does its color
+[02:54] printing. But once I put these four
+[02:57] rolls on, and I enter the colors into
+[02:59] the actual slicer, it just gets on with
+[03:02] the job. If I have one roll, I can still
+[03:05] do it. I just pause the printing with a
+[03:07] bit of G-code, swap over the filament,
+[03:09] put a new color in, and restart it at
+[03:11] the pause. But of course, I have to put
+[03:13] the new filament in, and that takes
+[03:16] time. Actually, in terms of the contact
+[03:18] time of the printer, a considerable
+[03:19] amount of that time is spent unfeeding,
+[03:23] refeeding, and getting it going again.
+[03:26] This thing does that automatically for
+[03:28] you. Once it detects a change of color,
+[03:30] it will automatically change the color.
+[03:32] And so, I don't have that contact time
+[03:35] because on the other printer, I hang a
+[03:37] kilo roll and and by the time it's
+[03:39] getting down to the edge of the kilo, I
+[03:41] have to put another kilo in. With this
+[03:42] one, I've got four kilos any one time.
+[03:45] That's a lot of filament. And so I found
+[03:48] this actually surprisingly useful. Now,
+[03:51] about the only time that I'll do a
+[03:53] single print when the single print part
+[03:55] has got two colors in it are things like
+[03:58] dials. Here's a machine that I'm working
+[04:00] on that needs a dial. It needs um 360°.
+[04:03] And I've put a marker dial on that
+[04:05] that's printed in two colors. Here's
+[04:08] another example. This is a clockfest
+[04:11] dial where I've printed the back in
+[04:13] white and the numbers have been printed
+[04:15] on the top in black. That kind of thing
+[04:19] is trivial, easy, simple, but a real eye
+[04:23] opener for me because it's making a big
+[04:26] difference in how the actual thing looks
+[04:28] with such a simple task. And I do it
+[04:30] that way because when it's printing a
+[04:33] color, if it prints it in layers in that
+[04:35] direction and prints on top, it has one
+[04:37] color change. If I were to make this
+[04:40] half black that way, half black, half
+[04:42] white that way, it print the white bit,
+[04:45] stop, change to black, print the black
+[04:46] bit, stop, change to white, and so on
+[04:48] each layer as it grows up. So, there
+[04:50] would be an awful lot of time wasted and
+[04:52] material wasted. Take a hell of a lot
+[04:54] longer to do that. Again, I guess it
+[04:56] doesn't really matter, but it would use
+[04:58] a lot of material because every time it
+[05:01] has to change, it purges it and it gives
+[05:03] out a little bit of poop in the poop
+[05:05] shoot of wasted material. So, my choice
+[05:08] is to just print on top of things. I
+[05:10] tend not to mix them up, but that
+[05:13] printing on top of things and the being
+[05:15] able to swap the colors without having
+[05:17] to muck around with the settings, I
+[05:18] think it's just awesome, actually. And
+[05:20] I've used this a lot and found this
+[05:22] tremendously useful. What I'm going to
+[05:25] do is go through uh quickly how I
+[05:28] actually made this section here, which
+[05:31] is the dial that I need to show the
+[05:34] degrees when that is being turned.
+[05:37] So, here's a dial gear loaded up into
+[05:39] the slicer software for the Flash Forge.
+[05:42] And if we zoom in a little bit, you can
+[05:44] see the actual dial that I want to make
+[05:47] black. So, there's going to be a
+[05:48] twocolor print. The gear itself, which
+[05:51] incidentally is herring bone, is going
+[05:53] to be in white and the dial is going to
+[05:55] be in black. So, it shows up really
+[05:57] nicely. And to do that, what we need is
+[05:59] color painting. So, if we click on color
+[06:02] painting, it'll pull up this screen.
+[06:04] Now, previously if we look over here on
+[06:06] the filaments, you can see that into
+[06:08] this drawing I've loaded two filaments.
+[06:10] One is the Flash Forge basic white. Two
+[06:13] is the Flash Forge basic black. If I
+[06:16] want to change those colors, then I
+[06:18] click to edit the presets. If I want to
+[06:20] remove or add a filament, well, it's up
+[06:22] there in remove or add filament. All
+[06:24] we're really going to do is change this
+[06:26] so that we can actually have that dial
+[06:29] print in black and the gear print in
+[06:31] white. And it's actually pretty easy.
+[06:34] What we want is height range. And we
+[06:36] also want fill. Now, there's a lot of
+[06:38] different things that you can get, but
+[06:40] fill works really well. If we go on to
+[06:42] height range, we can highlight the bit
+[06:44] that we want right there, and we can
+[06:47] collect, and we can connect fill. So,
+[06:50] you select the color that you want,
+[06:52] highlight the range that you want. There
+[06:54] it is, our image. We click on that, and
+[06:56] suddenly the whole thing's black. If I
+[06:59] want to actually make it deeper black
+[07:02] because these edges are white, then
+[07:04] obviously what we're going to do is
+[07:05] height range and then move down that
+[07:08] height so that it makes the whole thing
+[07:10] black. Now, when we've done that,
+[07:12] obviously we can just proceed how you
+[07:15] normally proceed. Add some
+[07:18] support. There we go. And click slice
+[07:22] plate. Export that. And we're ready to
+[07:24] print. Right. To print it, I'm on home.
+[07:26] Press that one, which takes you to the
+[07:28] print screen. It's actually on the USB
+[07:30] stick because that's how I like to work.
+[07:32] And there it is. Highlight it and it'll
+[07:35] come up. Click next. Now, we want two of
+[07:39] these colors. And I've already preloaded
+[07:41] them as per the previous video. I want
+[07:44] the background to be white, which I set,
+[07:46] remember, in the slicer. Now, I want the
+[07:49] actual lettering to be in black. And
+[07:52] we're ready to print. So, just press
+[07:54] print.
+[07:58] And when it's printed the white, it
+[08:00] stops, swaps for the black, and prints
+[08:02] the
+[08:02] black. So I've used this machine for
+[08:05] multicolor, multi layer, and I've also
+[08:07] used it for multiaterials because this
+[08:09] is an Archimedes drive, and in it, it
+[08:12] works on the wolf from principle. There
+[08:13] are some stepped TPU rollers. So at the
+[08:16] same time, I've printed uh multiaterials
+[08:18] on this PLA, carbon fiber, and TPU, and
+[08:22] it's responded really well for me. I've
+[08:25] had no real issues with it. And of
+[08:28] course, I've had this as as a first
+[08:30] machine. I think I got it in about
+[08:32] February or something like that. And
+[08:34] I've just been using as a workhorse
+[08:36] machine. Never really thought about it.
+[08:39] But here's where the curious things come
+[08:41] in. They they wrote to me and asked me
+[08:44] to do this update video to to describe
+[08:46] my experience with this machine. And my
+[08:49] experience with machine has been
+[08:51] positive really. But they brought it out
+[08:54] and they stopped it because they said
+[08:56] there's some issues with it. And there's
+[08:58] one little niggly issue that I noticed
+[09:00] and it's these cardboard rolls. When you
+[09:03] use a cardboard roll, it does tend to
+[09:05] have a little bit of twist into it. I
+[09:07] think it wears out the inside of the
+[09:08] cardboard or something like that. And
+[09:11] that little twist once snatched the
+[09:13] filament and spoiled a print and I've
+[09:16] been keep an eye on it. It happens
+[09:18] mostly when the filament starts to get
+[09:20] down to the last sort of three or four
+[09:22] row turns of filament. When it's loaded
+[09:24] like this, no problem at all. When it's
+[09:26] a bit lightweight, then it can actually
+[09:28] pull it. So, I tend to keep a closer eye
+[09:30] on it when it's lightweight. But I
+[09:31] wouldn't say that that was a an an
+[09:34] issue. I would say it was a niggling
+[09:36] thing really. But this is something they
+[09:39] took on board. And they've redesigned
+[09:41] the filament holders in the new release.
+[09:44] And I'm supposed to get a set of
+[09:45] filament holders to replace these ones
+[09:46] with them being redesigned. And
+[09:49] apparently people were having issues
+[09:51] with the nozzle clogging. And they did
+[09:53] write to me actually. They wrote saying
+[09:55] there are issues that nozzle clo nozzle
+[09:58] clogging. There we go. We'll send you a
+[10:00] new nozzle. Uh it never happened. I've
+[10:02] more or less ignored it because that's
+[10:05] not actually done that. But but they've
+[10:07] redesigned the nozzle apparently. So a
+[10:09] new nozzle design and they're giving a
+[10:11] four Yeah. 4 mm nozzle along with this
+[10:15] machine to help with those clogging
+[10:17] issues that other people say they've had
+[10:19] and I've never experienced, but that's
+[10:21] what they say. And they appear to be the
+[10:23] two big changes. There have been some
+[10:25] software updates for some odd things
+[10:27] that happened on certain people's
+[10:29] machines, but I tend to keep this up to
+[10:31] date. It tells me there's a new one, I
+[10:33] redo the firmware just because it tells
+[10:36] me to do it and I do it and and so I've
+[10:39] not really had an issue there either.
+[10:41] So, it's a huge mystery to me why they
+[10:43] stopped it and did these
+[10:45] redesigns and now they're bringing it
+[10:47] out again. I believe it's the 9th or
+[10:49] 10th of this month it comes out, which
+[10:51] is why they wrote to me and saying,
+[10:52] would I do an update of what I think of
+[10:54] the machine and where I am with it and
+[10:56] what I use it for, which, you know, I'm
+[10:58] quite glad to do because I think it's a
+[11:00] good machine. I mean, I think it retails
+[11:02] at something like
+[11:04] $399. There's a a coupon available at
+[11:07] the moment where you you answer a survey
+[11:08] that they've got and I believe it's four
+[11:10] or five pages and they give you $30 off
+[11:13] and there's something to do with a a
+[11:15] lifetime supply of filament if they give
+[11:18] you in the first 100 people or something
+[11:20] like that. You'll have to check the
+[11:21] website. It's something like that where
+[11:23] you get a lifetime supply of filament
+[11:25] with it. So this is grand launch going
+[11:27] on again and of course you know that's
+[11:29] why they've asked me to do this but you
+[11:32] know I I haven't taken payment to do
+[11:34] this. They gave me the first machine and
+[11:36] I get to keep the machine but that's the
+[11:39] only basis I do these things on because
+[11:41] if I think something's worth knowing
+[11:43] about then I I'll I'll do a video on it
+[11:46] because I think it's worth knowing
+[11:48] about. I never ask for money for the
+[11:49] videos. I ask to keep these machines
+[11:52] certainly but I don't ask for money for
+[11:54] them. I just do them because I I think
+[11:56] they might be worth doing. So, nobody's
+[11:58] paying me to say this. They did give me
+[12:00] the machine. I'm quite happy to say it
+[12:03] because honestly, the last 5 months I've
+[12:05] used this extensively and basically had
+[12:08] no real trouble with it. I don't
+[12:10] understand why they stopped it. Uh, and
+[12:13] I don't understand why uh people are
+[12:15] having problems with it, but I
+[12:16] understand that they are and and the
+[12:18] company has addressed those issues
+[12:20] apparently. Uh, and I'll be getting the
+[12:22] updates of this. But I' i've had nothing
+[12:24] but um a a pleasurable experience. I
+[12:28] mean, it's not like eating a bowl of
+[12:30] chocolate cake covered with custard ice
+[12:31] cream pleasurable experience, but it's
+[12:34] not been a fight to get it to work and
+[12:36] it's done some pretty interesting things
+[12:39] and it continues to do those interesting
+[12:41] things. So, I'm quite happy to agree to
+[12:44] do a where I am 5 months later with this
+[12:47] machine kind of video to let you know
+[12:49] that well, I've had no problems. I quite
+[12:52] like using it. I think it's a worthwhile
+[12:54] machine. I hope you enjoyed the video. I
+[12:56] hope it helps you when you're making
+[12:58] your decisions about things. Thank you
+[13:00] very much for watching and please do
+[13:02] remember to like and subscribe.

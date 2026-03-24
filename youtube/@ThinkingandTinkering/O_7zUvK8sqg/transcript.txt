@@ -1,0 +1,154 @@
+[00:02] [Music]
+[00:15] hi so i'm quite sure a lot of people
+[00:17] know what this is
+[00:18] it's a synchronous motor it's a
+[00:20] turntable motor actually from a
+[00:21] microwave
+[00:22] it turns about four to five rpm now it's
+[00:25] quite a common thing to take these
+[00:27] actually
+[00:28] and turn them into little generators you
+[00:30] put a handle on there and crank it
+[00:31] you can actually charge a capacitor
+[00:33] light an led that sort of stuff to the
+[00:35] canonical
+[00:36] but i don't know you've had a look
+[00:37] inside them so what we're going to do is
+[00:39] take it apart and have a quick look
+[00:41] inside
+[00:42] okay it's a pretty simple thing there's
+[00:44] four little tabs around there if you
+[00:46] take those tabs out you can flip that
+[00:48] top cover off
+[00:49] and you see a whole bunch of gears you
+[00:51] take those gears out
+[01:04] it's an underneath plate which you can
+[01:06] remove
+[01:07] and that is a magnet and
+[01:11] it sits here in this coil so that's just
+[01:15] a straightforward coil of wire round in
+[01:17] that direction
+[01:18] which is really really interesting when
+[01:21] you think about it because what you're
+[01:22] actually doing
+[01:23] is spinning that magnet in that coil of
+[01:26] wire to generate some electricity from
+[01:28] it and actually it does a reasonable
+[01:30] job now that's a non-traditional
+[01:33] arrangement
+[01:34] what you kind of expect is the call to
+[01:35] be like that facing onto the magnet that
+[01:38] way
+[01:38] instead it's looped entirely around the
+[01:40] magnet
+[01:42] isn't that fascinating and a little
+[01:44] bizarre actually it's not at all what
+[01:46] you would expect it to be
+[01:47] but it did encourage me to try this
+[01:50] now i've made a large bobbin that's just
+[01:53] a single coil
+[01:54] on a bit of blue plastic with a bit of
+[01:56] red plastic as an inner
+[01:58] then i've wound 500 feet of 38 swg
+[02:01] wire in there reason that's what i had
+[02:05] it was just a coil wire i had and i put
+[02:06] the entire coil onto this bobbin
+[02:09] because i want to make a big version of
+[02:11] that little motor
+[02:13] because i'm wondering if a big version
+[02:15] would actually do the similar thing
+[02:17] because remember we're not interested in
+[02:20] efficiency we're interested in
+[02:21] sufficiency
+[02:23] that is what's the sufficient amount of
+[02:25] work we need to put into something to
+[02:27] get a result that is acceptable to us
+[02:30] now the problem with these larger ones
+[02:32] is all the finding of those coils
+[02:34] if you look at the thing we did on the
+[02:36] rotating wind turbine
+[02:38] i had to make something like 50 coils it
+[02:41] was quite tedious
+[02:43] if i only have to make one it'll be
+[02:45] quicker it'll be cheaper
+[02:46] and that's a really important thing so
+[02:49] if this actually does
+[02:51] work then it's a way of getting those
+[02:53] things
+[02:54] made in an economic way if the output is
+[02:57] sufficient against the cost so i thought
+[02:59] i'd try it
+[03:00] so what i've done is make this big
+[03:01] problem now the bobbin
+[03:03] fits into this which if you remember was
+[03:06] an exercise bike
+[03:08] i've chopped the seat off i've chopped
+[03:09] the handlebars off i've
+[03:11] taken out the pulley and um made this
+[03:14] so that it will fit into there so my job
+[03:17] is to fit
+[03:18] that fit the pulley back and let's see
+[03:20] if it'll actually work
+[03:21] is attached now all of the magnets are
+[03:24] north facing
+[03:25] incidentally and that coil has a
+[03:27] resistance of 900
+[03:29] ohms that's quite a lot that's nearly a
+[03:31] killer ohm
+[03:32] let's give it a spin and see what
+[03:44] happens
+[03:49] there we go okay we're getting a voltage
+[03:52] reading
+[03:53] it's at point eight of a volt point nine
+[03:56] one one point
+[03:59] 1.2 1.3
+[04:05] so we're definitely generating voltage
+[04:08] what about the ambulance it's 1.3 volts
+[04:17] and we're getting about a milliamp out
+[04:19] of it
+[04:29] one and a half milliamps okay so
+[04:33] that is not blistering is it but it
+[04:35] might raise the question
+[04:36] why bother well let's face it that's an
+[04:38] unusual coil arrangement
+[04:40] and having all of the magnets north
+[04:42] facing is equally pretty unusual
+[04:45] now that resistance on that coil is
+[04:47] really high
+[04:48] so i think that maybe if we made
+[04:51] separate coils
+[04:52] running in that direction but with a
+[04:54] lower resistance we ought to get more
+[04:56] out of it
+[04:57] and in places this isn't brilliantly
+[04:59] made this ring it's actually about a
+[05:00] centimeter more
+[05:01] actually nearly a centimeter and a half
+[05:04] away from the magnets and as we know
+[05:05] it's a square of the distance
+[05:07] so we need to make that um coil fit more
+[05:10] closely around the spinning magnets the
+[05:13] fact that we're getting anything
+[05:15] i think is really pretty interesting
+[05:17] stuff i mean
+[05:18] we kind of thought we might because
+[05:19] we're really just modeling what there
+[05:21] was
+[05:22] in that motor um but
+[05:25] i think something like that has
+[05:27] potential and i think that's really
+[05:28] super interesting
+[05:30] because if we can get that to work it's
+[05:31] obvious that this is
+[05:33] much more much simpler as a method of
+[05:36] construction
+[05:37] than 50 separate little coils all put
+[05:39] around it it's just
+[05:40] one big coil really uh like i said i
+[05:43] think we want to look at
+[05:44] unwinding that rewinding it in shorter
+[05:47] length so the resistance is shorter
+[05:49] but pretty interesting i thought so i
+[05:51] hope you thought so too
+[05:53] i hope you enjoyed the video and thank
+[05:54] you very much for watching

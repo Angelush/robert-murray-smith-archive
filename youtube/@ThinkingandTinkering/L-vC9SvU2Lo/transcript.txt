@@ -1,0 +1,176 @@
+[00:02] [Music]
+[00:15] hi
+[00:15] so an inverter is basically a device
+[00:17] that changes dc
+[00:18] into ac and if you're doing home
+[00:20] generation of course it's
+[00:22] core to what you want to do because you
+[00:24] want to save stuff in a battery
+[00:26] and that battery you wanted to run your
+[00:28] household bits and pieces which are
+[00:29] going to be 120 volts or 240 volts
+[00:32] now this isn't a problem just for us
+[00:34] this has been a problem
+[00:36] for ages so there are lots and lots of
+[00:39] solutions out there to do it now
+[00:41] perhaps the simplest way is a way that
+[00:43] was done
+[00:44] right up until about the 1950s and they
+[00:46] still made this at the sort of
+[00:48] the turn of the century so in 1990 year
+[00:50] 2000
+[00:51] they don't do it anymore but that's how
+[00:54] old that history
+[00:55] is and it's really really simple so let
+[00:58] me give you a close-up of what's needed
+[00:59] the first and most important thing you
+[01:01] need is this
+[01:03] this is a vibrato now the construction
+[01:05] details on this are given in the video
+[01:07] uh how to make a speaker out of a
+[01:09] microwave oven transformer
+[01:10] which goes through in detail how this is
+[01:12] actually made
+[01:14] you see what it is it's a vibrating reed
+[01:16] made from a hacksaw blade you've got a
+[01:17] coil here
+[01:18] and we've got some magnets there these
+[01:20] magnets actually take the place of a
+[01:22] spring what they used to do is use a
+[01:23] normal spring i've used magnets
+[01:25] we've got a couple of contacts on the
+[01:27] end there and as that vibrates it makes
+[01:29] and breaks the contact
+[01:31] and that creates a pulsed dc now when
+[01:34] you feed a dc into a transformer
+[01:36] not very much will happen but when you
+[01:38] feed your pulsed dc
+[01:40] into a transformer it can step it up so
+[01:42] the other thing you need is a step
+[01:44] up transformer and that one is just
+[01:46] pulled from a microwave oven
+[01:48] now we're obviously not interested in
+[01:49] frequency per se we're not
+[01:51] obviously not interested in the step up
+[01:52] itself at the moment or interested in
+[01:55] is how to get dc to pulse
+[01:59] and then transform and there's the two
+[02:01] bits you need
+[02:02] in order to be do that to get this thing
+[02:04] to work is dead simple the positive
+[02:06] comes out of here to this side of the
+[02:08] contact that one there then which on the
+[02:10] other side of the content to the coil
+[02:11] and the negative to the coil so it's all
+[02:13] in series
+[02:13] so the power comes out and is joined
+[02:15] it'll create a field in that coil which
+[02:17] will deflect that
+[02:18] turning off that field go back and so on
+[02:21] and it will vibrate so if we put some
+[02:23] power in there
+[02:26] there we go we've now got it vibrating
+[02:29] what's coming out of there is pulse
+[02:31] dc now we've only got two contact points
+[02:34] here and here
+[02:35] but the dc pulse is the one that's going
+[02:37] in there
+[02:38] now this is at 12 volts so obviously
+[02:40] that's going to do nothing and what we
+[02:41] need to do now is step it up and to do
+[02:43] that we're going to use
+[02:44] this thing now what we do is connect to
+[02:47] the big thick
+[02:48] coil which is the primary coil and we
+[02:50] connect this
+[02:51] to our 240 volt piece of equipment
+[02:54] and we should get step up we've
+[02:56] connected the transformer let's give it
+[02:57] a bit of power
+[03:06] that light is lighting but you should
+[03:08] notice this as well
+[03:10] that is arcing so all i've done is
+[03:12] replaced the uh homemade vibrator
+[03:15] with the relay that's been wired as a
+[03:16] vibrator and i've replaced the mot
+[03:18] transformer
+[03:19] with a 12 volt to 240 volt transformer
+[03:22] appropriate
+[03:23] now if i give that some power so that
+[03:24] this vibrates
+[03:32] lo and behold they'll have the here's
+[03:34] the cluster of the arrangement
+[03:35] there's the relay set is a vibrator
+[03:37] there's the power transformer connection
+[03:39] block
+[03:39] plug socket going to the lamp that we
+[03:41] lit up and it's that simple so you
+[03:42] really looks like this there are three
+[03:44] contact points there's a common
+[03:46] a normally open and a normally closed
+[03:49] and normally closed in rest position
+[03:51] has a switch connecting it now from your
+[03:54] supply
+[03:55] you bring the negative to a coil
+[04:02] that coil is the electromagnetic relay
+[04:04] that operates the switch
+[04:06] and then that same negative goes
+[04:07] straight to one side of your transformer
+[04:10] now the positive comes to the normally
+[04:14] closed
+[04:15] and then from the common
+[04:19] to the positive side of your coil so
+[04:22] when you turn that on the current can
+[04:25] flow
+[04:26] that gets turned on it pulls it to
+[04:29] normally open and breaks it
+[04:31] and then it will vibrate and you take
+[04:33] the other side of this
+[04:35] from the common to your transformer
+[04:38] that's how the relays wire you've got a
+[04:40] really easy inverter to construct
+[04:43] now you got to remember this was the
+[04:44] height of technology in the 40s and 50s
+[04:46] and it has been superseded by
+[04:48] semiconductors
+[04:49] but it has its advantages as well as its
+[04:51] disadvantages
+[04:52] some of the advantages clearly are it's
+[04:55] so easy to make
+[04:56] it's actually relatively cheap this bit
+[04:58] wears out rest of it
+[04:59] doesn't it does have disadvantages i
+[05:02] don't know if you noticed when we
+[05:03] actually turned the power up to 12 volts
+[05:05] and this got glowing
+[05:06] the frequency went down so it's not
+[05:08] frequency stable
+[05:09] you're not going to run any sensitive
+[05:10] electronics on it but you are going to
+[05:12] be able to run various
+[05:13] loads on it of course this thing arcs
+[05:16] now it acts like crazy here because i
+[05:18] didn't use the right gear
+[05:19] if you put a high voltage capacitor
+[05:22] across that output
+[05:23] it snubs the arc and helps extend the
+[05:25] life of the electrodes
+[05:27] they have a spring in here and that
+[05:28] spring wears out the little flexible
+[05:30] contact will break because it is
+[05:32] mechanical so eventually
+[05:33] wear out now they used to make these in
+[05:35] cans so you could just swap the can over
+[05:38] these days they don't make them but
+[05:39] these are very similar they just
+[05:41] actually
+[05:43] says heat pull straight out no tools
+[05:45] required
+[05:46] so it's both got pluses and minuses i
+[05:49] thought i'd show it to you because if
+[05:50] you fancy making an
+[05:51] inverter it really is the easiest one to
+[05:54] make and get a good result
+[05:56] out of anyway i hope you enjoyed the
+[05:58] video and thank you very much for
+[05:59] watching

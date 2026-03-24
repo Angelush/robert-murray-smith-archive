@@ -1,0 +1,177 @@
+[00:02] [Music]
+[00:15] hi so this turbine
+[00:16] it's approaching the end of its build
+[00:18] actually now obviously i've rebuilt it
+[00:20] from the original one because of all
+[00:22] that i learned from it
+[00:23] but the costs involved in building this
+[00:25] particular version are really just
+[00:27] minuscule
+[00:28] i mean i paid for the magnets and i paid
+[00:30] i think it was about 20 pounds for
+[00:32] 50 of them something like that i paid
+[00:35] for the bearings which were
+[00:36] three or four pounds and the coils
+[00:39] remember were donated thank you very
+[00:41] much guys for all the donations actually
+[00:43] and on each
+[00:44] coil working with what we worked before
+[00:46] we've got a tiny bridge rectifier
+[00:48] these bridge rectifiers were a pound for
+[00:50] 10 so i paid 10 pounds for each of those
+[00:52] and there are 38 of them
+[00:54] so 3 pounds 80. so if we add that up and
+[00:57] put in a bit of leeway for things like
+[00:58] welding rods and that sort of stuff
+[01:00] we're probably talking about no more
+[01:02] than 50 pounds to build this entire
+[01:04] thing
+[01:05] that's pretty awesome now the amount of
+[01:07] energy that this can actually generate
+[01:09] is fixed it's fixed by its size uh
+[01:12] i'll check the size but i think it is 48
+[01:15] centimeters
+[01:16] tall by uh what was it
+[01:20] 58 centimeters in diameter so you can
+[01:22] always calculate what the
+[01:24] maximum output of that is going to be
+[01:26] any particular wind speed if you want
+[01:28] it is of course going to be governed by
+[01:30] the bet's law so what is that uh 59.3
+[01:34] percent
+[01:34] of the available wind power can be taken
+[01:36] out at maximum
+[01:38] that will give you an idea of that if
+[01:40] this was 100 efficient what kind of
+[01:42] energy
+[01:43] something like this can generate now we
+[01:45] can get more out of it
+[01:47] if we put more coils on but we can't get
+[01:49] more than the maximum that it's going to
+[01:51] be able to generate
+[01:52] now with these coils what i've done is
+[01:54] i've arranged them in a little arc in
+[01:56] four segments as you can see here i've
+[01:58] connected them all
+[01:59] up and connected in parallel but each
+[02:01] one comes with its own bridge rectifier
+[02:02] there are four segments that go on the
+[02:04] bottom
+[02:05] like that and then we put a screw in
+[02:08] there to hold those together
+[02:10] okay so there's the basics of it
+[02:11] finished now i was going to take it out
+[02:13] in the
+[02:14] fresh air but it's absolutely chucking
+[02:16] it down and i don't fancy getting that
+[02:18] wet and cold so what i've done is i've
+[02:19] put a blower on it
+[02:20] and i've put a blower on it just so that
+[02:22] you can see it spin
+[02:24] really and listen to its spin
+[02:28] that is really ultra quiet okay the only
+[02:30] noise you can hear in fact is the blower
+[02:32] noise
+[02:33] now i connected those um output coils
+[02:37] to a couple of capacitors they're um
+[02:40] microwave oven capacitors because that's
+[02:42] what i've got
+[02:43] they were denoted along with all the
+[02:44] other microwave oven parts that lots of
+[02:45] this is made from
+[02:47] and here you can see a diode on the
+[02:49] positive that's a blocking diode
+[02:51] that means is all of this energy is
+[02:53] getting dumped into this capacitor
+[02:55] this capacitor then can dump it into
+[02:57] this battery here
+[02:58] and when this is not running or it runs
+[03:00] below then it can't go the other way
+[03:02] so we're blocking it from returning and
+[03:04] all we're doing is charging the battery
+[03:06] now i'm measuring the battery voltage
+[03:08] it's uh 12.046.045.046
+[03:14] and what we're going to do is leave that
+[03:16] to run and watch that battery charge
+[03:17] voltage go
+[03:18] up now to my mind that's an accurate
+[03:21] measure of what these things can do
+[03:23] it's extremely rare for you to put a
+[03:26] wind turbine directly to a load it's
+[03:29] really
+[03:30] much more common to put it to some kind
+[03:32] of storage and then run reload from the
+[03:34] storage
+[03:35] so what we really want to know is how
+[03:37] long does it take to charge up
+[03:38] this battery and how long how much will
+[03:40] this battery hold
+[03:42] now obviously i want to do that over an
+[03:44] entire day so what i want to do is
+[03:46] discharge the battery
+[03:48] set this up leave it running come back
+[03:50] and find out how much charge is on that
+[03:52] battery so that i can see how much that
+[03:55] has actually generated and put into my
+[03:57] store for me
+[03:58] which i can then really use so to me
+[04:01] that
+[04:02] emulates more of a real world condition
+[04:04] because it doesn't give you an instant
+[04:05] answer which is a bit unfortunate
+[04:07] but it does emulate the real world
+[04:09] condition in which this thing is going
+[04:10] to operate
+[04:12] so the next test of this really is to
+[04:14] set up on my roof
+[04:15] and connect it discharge the battery and
+[04:18] leave it
+[04:18] until that battery is charged and we'll
+[04:20] see what it actually does
+[04:22] now i did go to the trouble of
+[04:24] calculating what the possible output
+[04:26] given when speed of this thing was
+[04:28] then i adjusted it for the bets
+[04:29] coefficient and i made a graph of it
+[04:32] and here's the graph
+[04:38] now from that graph you can obviously
+[04:40] see the upscale as wind speed increases
+[04:43] and when it gets to about 22 miles an
+[04:45] hour or something which is quite a wind
+[04:46] speed
+[04:47] this thing is supposed to be able to
+[04:49] generate
+[04:50] at about 1.2 kilowatts i think
+[04:54] now it's not going to do that okay
+[04:55] because there are inefficiencies in here
+[04:58] that will bring that
+[04:59] down i don't know what it's going to
+[05:01] bring it down to but we can assume
+[05:03] that it will bring it down but
+[05:06] theoretically
+[05:07] it has the possibility of a kilowatt
+[05:09] hour a kilowatt generator
+[05:11] in a 22 mile 22 meter per second wind
+[05:14] as i say putting it on the blower inside
+[05:17] because it's raining and cold
+[05:18] is hardly ideal so let's get it outside
+[05:21] on the next test
+[05:22] but that is the basic idea complete and
+[05:25] i'm really enjoying that actually
+[05:27] because it is
+[05:28] really charging a battery what it's
+[05:31] actually outputting
+[05:32] we don't know okay but can it output
+[05:35] something and hold and store that charge
+[05:37] categorically yes it can hopefully we
+[05:40] can answer that next question
+[05:41] when we put it in a real world condition
+[05:43] that is get it on the roof
+[05:45] get that battery charging and see how
+[05:46] long it takes to charge
+[05:48] okay we're at um 1.204
+[05:53] so over that period of the video it's
+[05:55] gone up a few hundredths of a volt
+[05:57] anyway i thought i would um show you
+[06:00] that i hope you enjoyed the video and
+[06:01] thank you very much for watching

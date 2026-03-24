@@ -1,0 +1,153 @@
+[00:00] foreign
+[00:22] I was asked to look at these things this
+[00:25] is a toroidal propeller it started its
+[00:28] life as far as I can work out in the
+[00:30] world of boats where this little Loop
+[00:32] here is supposed to reduce cavitation
+[00:34] and therefore improve efficiency and
+[00:36] therefore decrease the amount to fuel
+[00:39] you burnt some person had the right idea
+[00:41] of turning them that way after all about
+[00:44] propeller is a Thrust application and if
+[00:46] we stick that on a drone well it's a
+[00:48] Thrust application and use them as a
+[00:50] drone and rumor is there are quieter and
+[00:53] more efficient although I've heard
+[00:55] exactly the opposite about them in terms
+[00:58] of their ability to function as a
+[01:00] propeller I really I really don't care
+[01:02] Hayes of no interest to me but I was
+[01:05] asked how do I think they will do as a
+[01:10] generator blade because of generator
+[01:12] blood and the propeller blade are very
+[01:14] similar and of course that's the blade
+[01:16] from a generator and you'll notice it
+[01:17] has the same swept area so rather
+[01:19] quickly rudely did a rough comparison of
+[01:22] the two and this left a lot of people
+[01:24] extremely unhappy the reason I did a
+[01:27] rough comparison is because some
+[01:29] when I look at that I don't think
+[01:32] there's going to be that much in the way
+[01:34] of a significant difference and to be
+[01:36] honest significant differences show up
+[01:38] very rapidly indeed if you bolt this to
+[01:41] a motor like that for instance The Malt
+[01:44] has its own torque its own internal
+[01:46] resistance and the only thing that's
+[01:47] going to vary on that is speed and
+[01:49] therefore output voltage Circuit look at
+[01:52] the output voltage it'll give you an
+[01:54] idea if there's going to be anything
+[01:56] significant or not because if it's super
+[01:58] significant you're going to see it
+[02:00] immediately that really upset a load of
+[02:03] folk and I thought well that's a fair
+[02:05] comment because really my prejudices
+[02:07] about this are what we're showing for me
+[02:10] it's got the same swept area as good a
+[02:12] blade design I doubt very much that does
+[02:13] Jack so you know let's have a quick look
+[02:16] and see if it does and it didn't so I
+[02:18] could just be displaying my prejudices
+[02:19] and not being one to be too like that I
+[02:22] thought well it's worth a better go at
+[02:24] it particularly because a friend of mine
+[02:27] sent me this one this is a full-blooded
+[02:30] thyroid or propel hour of much larger
+[02:32] Dimensions so I've bolted it to a Nema
+[02:36] stepper motor and I've rectified that
+[02:38] output and put it in series so what
+[02:40] we've got there is a propeller and a
+[02:43] generator now the propeller has a
+[02:44] certain size obviously it's 13 and a
+[02:46] half centimeters blood size
+[02:48] if I put that in a wind speed it's going
+[02:50] to generate a torque laptop will turn
+[02:52] this motor and this motor should start
+[02:54] generating something now everybody but
+[02:58] everybody moans at me when I don't do
+[03:00] this properly so I'm supposed to put it
+[03:03] on a fixed load so you know 100 ohms or
+[03:07] so spin it at a fixed speed and measure
+[03:10] directly the voltages and amps at the
+[03:12] same time whoa what I've got here is a
+[03:17] BK position 8500 it's a programmable
+[03:20] electronic load that does exactly that
+[03:24] I've said it at 100 ohms in this
+[03:26] programmable resistance and we'll be
+[03:28] able to read the voltage and the amps at
+[03:32] the same time when we put some wind in
+[03:35] this we'll put some wind in it we'll
+[03:37] read those voltages and that will give
+[03:39] us the power that's generated under that
+[03:41] load here with that given wind speed and
+[03:43] if this is any good then that should do
+[03:47] wonders so I'll tell you what let's zoom
+[03:50] in on this and give this a go okay so
+[03:53] I've got this turned on let's give it a
+[03:55] go
+[03:58] and we should be reading something on
+[04:00] that meter what are we reading what uh
+[04:02] 0.4 zero but I see 0.5 volts at around
+[04:06] 0.5 so half a bolt half a volt around
+[04:09] 0.007 so about seven milliamps
+[04:13] that is not the most impressive is it
+[04:16] and you can see how far away we are so
+[04:18] I'm going to measure that wind speed in
+[04:20] a second
+[04:22] so let's measure the wind speed about
+[04:24] here if actually she's measuring bad
+[04:25] because it goes down the further we get
+[04:27] so let's give it every Advantage we
+[04:29] possibly can
+[04:31] [Music]
+[04:42] yeah
+[04:44] three meters per second
+[04:47] so what does that give us a hundred ohm
+[04:49] low Riggle about 3.6 milliwatters the
+[04:52] output for a 13 and a half centimeter
+[04:54] blade and a three meter per second wind
+[04:57] and
+[04:58] it is not impressive what you should
+[05:01] expect is somewhere in the region of I
+[05:03] don't know uh 200 230 milliwatts
+[05:06] something like that because everybody's
+[05:08] going to say but what about this this
+[05:10] bit of remember is 85 percent efficient
+[05:12] and of course all wind turbines have to
+[05:14] output on a generator and then 85
+[05:17] efficient on the generator is pretty
+[05:19] good even so I would say that that is
+[05:22] not
+[05:23] right home kind of stuff it's okay but I
+[05:28] get a suspicion that the big thing about
+[05:30] these things is they look cute they look
+[05:33] like they should do something it turns
+[05:35] out they're dumped and it's no real
+[05:37] surprise because you know this wept air
+[05:39] is the swept area the energy in the wind
+[05:41] is the energy in the wind so looking
+[05:44] like you're gonna do something and doing
+[05:46] something seem to be two different jobs
+[05:48] altogether because as I said before I
+[05:52] know nothing about them as propellers
+[05:53] and I don't really care but as winter
+[05:57] Bond generators
+[05:59] I don't think they've got anything
+[06:00] really above a a standard wind turbine
+[06:03] blade I didn't think that was
+[06:04] particularly great anyway I thought it
+[06:06] was fair to revisit it because I I agree
+[06:09] I didn't do a particularly Fair job when
+[06:11] I was perhaps being a bit I don't know
+[06:14] prejudice against them but it seems for
+[06:18] me anyway but my Prejudice is well
+[06:20] founded that this actually just doesn't
+[06:23] with all the vessel in the world perform
+[06:25] any better than any other wind turbine
+[06:28] and to be honest it looks like it
+[06:29] performs worse anyway I hope you enjoyed
+[06:32] that follow-up thank you very much for
+[06:34] watching and please do remember to like
+[06:36] And subscribe

@@ -1,0 +1,261 @@
+[00:01] thank you
+[00:02] [Music]
+[00:10] hi everybody so we've been talking a lot
+[00:12] about heaters at the moment and that's
+[00:14] because it's bloody cold and it's bloody
+[00:16] expensive and you can see me wearing at
+[00:18] least three layers of thermal clothing
+[00:20] because I'm working a shed so heaters
+[00:24] are very much on my mind and I think on
+[00:25] other people's minds two and video 1761
+[00:29] we talked about
+[00:32] controlling them how to do it and doing
+[00:35] it super simple the idea of behind doing
+[00:38] it of course is a little bit more
+[00:40] complicated but it involved Ohm's law
+[00:42] now these heaters I've been talking them
+[00:44] about about them as resistive heaters
+[00:46] because that's the way I think about
+[00:48] them they're big old resistors and it's
+[00:50] a common way of looking at them but
+[00:52] they're also called omicators and if
+[00:54] you've watched 1761 you now know why
+[00:57] they're called omic heaters but there's
+[00:59] also another way of referring to them
+[01:01] and that's calling them Jewel heaters
+[01:03] they're often called dual heaters
+[01:05] because they've got jewel is um the
+[01:08] measure of energy
+[01:10] handably enough one watt is equal to one
+[01:14] joule per second someone will thinking
+[01:16] about electricity we can instantly
+[01:19] convert watts to joules
+[01:22] super easy and that makes it great to
+[01:25] get hold of how big your heater needs to
+[01:29] be
+[01:30] and we're going to hit a space
+[01:32] we need a heater that's big enough to
+[01:34] heat that space where we don't have to
+[01:37] wait for the second coming we want it to
+[01:39] happen within a reasonable amount of
+[01:41] time imagine trying to make your cup of
+[01:43] coffee if you have to wait for 20 years
+[01:46] before your Brewers up you'll want to
+[01:48] know how big to make these things and
+[01:51] that's about designing the heater and
+[01:53] that's what we're thinking of we're
+[01:55] thinking of how do you go about
+[01:57] designing a heater well the first place
+[02:00] to start is
+[02:02] what is it that you want to eat now
+[02:05] luckily for us there's only really two
+[02:07] things we're interested in that is the
+[02:09] air for space Heating and water for hot
+[02:13] water and materials have a property now
+[02:16] have a property called the specific heat
+[02:18] capacity the specific heat capacity is
+[02:21] the energy needed to raise the
+[02:24] temperature of a material by one degree
+[02:27] Centigrade for a fixed Mass so it's
+[02:31] usually given in kilojoules per kilogram
+[02:33] per degree Centigrade so the mass is one
+[02:36] kilogram
+[02:37] the joules is the amount of energy you
+[02:39] need to put in and the degree centigrade
+[02:42] is how much you want to raise it by and
+[02:44] there are tables of these things you can
+[02:45] actually just look them up if you go to
+[02:47] Wikipedia you'll get the specific heat
+[02:49] capacity of air and water dead easy just
+[02:52] by reading it water it turns out to be
+[02:55] 4.2 kilojoules per kilogram per degree
+[02:58] and air it's
+[03:00] 1.006 kilojoules per kilogram per degree
+[03:03] you don't need to remember those numbers
+[03:05] you just need to know that those numbers
+[03:07] exist you can look them up on Wikipedia
+[03:10] anytime you need them and that is the
+[03:14] amount of energy needed to raise one
+[03:18] kilo by one degree and of course that's
+[03:21] essential information that you need when
+[03:23] designing a heater because you need to
+[03:26] know how much energy you need to put
+[03:28] into the material that you want to heat
+[03:33] so let's take a kettle as an example say
+[03:35] we have a bug standard Kettle let's make
+[03:38] it a kilowatt to make everything easy
+[03:40] box standard cattle is going to hold
+[03:42] about two and a half liters density of
+[03:44] water is one so it's going to be about
+[03:45] two and a half kilos now it's 4 200
+[03:50] joules to raise one kilo one degree and
+[03:54] let's say the water's at zero we want to
+[03:56] take it to a hundred where it's boiling
+[03:58] again just for ease so that means we
+[04:02] roughly need about a million joules in
+[04:05] order to do that that sounds like quite
+[04:07] a lot but remember a what is a joule per
+[04:11] second so we need about a million joules
+[04:14] we've got about a thousand Watts so a
+[04:18] thousand joules per second is the heat
+[04:21] energy we can transfer from the kettle
+[04:24] heating element into the water if we do
+[04:28] that work out that calculation it turns
+[04:30] out that that kettle is going to take
+[04:33] like about 17 minutes to boil something
+[04:36] round about there now that that's quite
+[04:39] a long time which is why most kettles
+[04:41] are around about three kilowatts because
+[04:43] that'll take about six minutes or so to
+[04:46] boil from zero to a hundred and of
+[04:49] course you know you take it out your
+[04:50] pipe it's somewhere between 10 and 20 so
+[04:52] it usually takes about five minutes or
+[04:55] so and if you turn your kettle on full
+[04:57] you'll find out it's about five minutes
+[05:00] and it's always going to be that because
+[05:02] it's about energy transfer the water
+[05:05] needs that much energy to boil the
+[05:08] element can provide that much energy per
+[05:12] second and so it takes that long to do
+[05:15] it now it's the same with air it's just
+[05:18] with air the specific heat capacity
+[05:20] changes instead of being 4 200 joules
+[05:23] it's
+[05:24] 1006 joules per kilogram
+[05:28] per degree Centigrade so it's going to
+[05:31] take less but even so it's the same
+[05:34] calculation you take the specific heat
+[05:37] capacity you need to look up multiply it
+[05:40] by the mass in kilos that you want to
+[05:42] heat up and you can work that out for
+[05:44] the amount of air in a room you take the
+[05:46] volume and the density and you'll get
+[05:48] the mass and then the number of degrees
+[05:52] you want to raise it by are quite often
+[05:54] inside a building sort of 10 degrees
+[05:56] Centigrade or so and you want it
+[05:58] comfortable around about 20 degrees
+[06:00] Centigrade or so so you're probably
+[06:02] going to be raising the temperature of
+[06:04] the air by about
+[06:06] 10 degrees or so so let's say we have a
+[06:10] 100 cubic meters which is roughly what
+[06:12] this space is in there is round about
+[06:15] 125 kilograms of air and we want to
+[06:19] raise it by 10 degrees Centigrade so the
+[06:24] answer is
+[06:26] one roughly its specific heat capacity
+[06:28] will round it to one one times 125 Times
+[06:32] by 10 and that will give us the Jaws
+[06:36] that we need to put out there to raise
+[06:40] that temperature now remember a what is
+[06:43] a joule per second and that will tell us
+[06:46] exactly how many watts we need over what
+[06:50] time we need as a heater to heat that
+[06:53] mass now that's just physics that is a
+[06:58] straightforward relationship you can
+[06:59] look up and you can calculate by
+[07:01] multiplying three numbers together and
+[07:03] tell you the answer of it
+[07:06] it won't change
+[07:08] irrespective of what you're trying to
+[07:10] Hitch it with let me give you an example
+[07:12] of that this is not chrome wire it's the
+[07:16] same stuff as this it's only thinner so
+[07:18] the resistance is going to be higher it
+[07:20] is universally the wire that is used in
+[07:23] cookers and Kilns and Kettles and vape
+[07:28] cigarettes and just about anything where
+[07:31] you need a heating element that's what
+[07:33] you're going to use okay so it's pretty
+[07:34] much standard this stuff was bought from
+[07:37] Crazy Wire and it is for Vapes it's just
+[07:40] a lot thinner if I cut off a length of
+[07:42] that
+[07:46] resistance of that it's about one arm or
+[07:50] so okay
+[07:51] now then this is bog Standard carbon
+[07:56] fiber it's the stuff that you make
+[07:58] racing boats out of car panels and very
+[08:01] expensive bits and pieces now if I use a
+[08:04] length of that
+[08:07] about the same
+[08:14] the resistance of that bit there is more
+[08:17] or less 50 ohms or so okay
+[08:21] let's take our heating wire and we can
+[08:23] put that onto a DC Supply which is what
+[08:26] exactly what this is here if I take that
+[08:29] voltage up to two volts
+[08:32] it will pull about two amps or so and
+[08:36] what will happen is obviously it'll get
+[08:38] hot and there we go it's cutting through
+[08:41] the polystyrene so for that wire we need
+[08:44] about four watts in order to get it hot
+[08:47] enough to cut through the polystyrene so
+[08:50] I've replaced my heating wire with that
+[08:52] little bit of carbon and if I take that
+[08:53] up to 12 volts it'll draw about 0.3 of
+[08:56] an amp in other words four Watts
+[09:08] lo and behold it's cutting through the
+[09:11] polystyrene
+[09:13] okay that was a bit Rough and Ready but
+[09:15] what's it telling us well it's telling
+[09:18] us that we need four watts to cut
+[09:20] through this bit of polystyrene and it
+[09:22] doesn't matter what the material is it
+[09:25] needs four Watts for this stuff and it
+[09:28] needs four Watts for this stuff both of
+[09:32] them need to be four Watts
+[09:34] if you get four watts of energy
+[09:36] converted into heat we can cut through a
+[09:39] lump of Palestine now those thoughts and
+[09:40] those calculations are in fact a little
+[09:42] rough and ready because remember
+[09:44] there's a homeostasis that goes on in
+[09:46] temperature if I heat this inside the
+[09:48] building of course the building begins
+[09:49] to radiate heat unless I've insulated it
+[09:52] and so it can be thrown out a little bit
+[09:54] about how much heat you need by that
+[09:57] factor that's why insulation is
+[10:00] important because it brings that factor
+[10:02] closer to the calculation that we just
+[10:05] made and so we have a better idea of how
+[10:08] much we're going to spend when heating a
+[10:09] space but it's why insulation is so
+[10:13] important now interestingly enough there
+[10:15] is in fact a specific heat capacity for
+[10:17] people it's a
+[10:20] 3.47 kilojoules or
+[10:23] 3470 joules per kilogram per degree
+[10:26] Centigrade so if you're a large person
+[10:28] you're going to need an awful lot more
+[10:31] heat to keep you warm but then of course
+[10:32] you have an awful lot more insulation
+[10:34] around the middle but it's the same idea
+[10:38] that you need in order to work out how
+[10:42] big your heater needs to be now
+[10:45] I was asked how can we make heaters more
+[10:48] efficient well unfortunately the whole
+[10:50] process is pretty efficient it's
+[10:52] reckoned to be a hundred percent
+[10:53] efficient for the conversion of
+[10:55] electrical energy into heat energy so
+[10:57] you can't do a lot there
+[10:59] but you can do a lot with all the other
+[11:02] things for example insulating it well or
+[11:07] heating a smaller space which is what
+[11:09] we've been banging on about we've been
+[11:11] banging on about it because there's
+[11:13] basically Jack you can do and by the
+[11:16] latest and greatest
+[11:18] advertising BS isn't going to help you
+[11:21] much you're still going to spend the
+[11:23] same amount of money because you still
+[11:25] need the same amount of energy to heat
+[11:27] the same space to the same degree it's
+[11:30] just the way it goes anyway I hope you
+[11:34] enjoyed the video thank you very much
+[11:36] for watching please do remember to like
+[11:38] And subscribe

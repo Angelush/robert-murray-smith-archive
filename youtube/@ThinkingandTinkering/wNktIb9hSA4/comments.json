@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "UgxDGYJEbapizeBBuCp4AaABAg",
+    "author": "@johnalith",
+    "author_channel_id": "UCopE36AOHlcMjbpTmQTce-A",
+    "text": "i'snt the noise one of the major disturbances of wind turbines? From what I understood, one of the advantages (on top of efficiency, etc.) of these types of propellers was that they were a lot quieter in water than traditional ones, and that meant a great deal from an environmental perspective. With  the same logic, wouldn't this shape be better for wind propellers near inhabited areas? I seem to recall MIT making quieter drones with this.",
+    "likes": 0,
+    "published_at": "2024-08-31T09:35:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzXhFzCT-k3SP2_nOJ4AaABAg",
+    "author": "@pir869",
+    "author_channel_id": "UC1yGWqO2jdfV8Z8vLg9DUkg",
+    "text": "Why did you not use a normal dc motor or for that matter an AC generator , both of which rotate more freely than a stepper motor , i have yet to see a stepper motor used in mainstream power generation . As the maker of the toroid blade stated about the orientation of convex vs concave i don't see that doing anything other than change rotation direction , but i would be inclined to try different wind direction angles to see if this increases or worsens the outcome.\n\nAs for the design ,i've seen a few videos about this in boating applications with lower rpm giving the same thrust , and as water and air are both considered fluid mediums with different viscosities the same should be for air , with a reversal of air as a generator it should create more torque.\n\nI would like to try it myself as i want to make a hand crank and wind powered generator for a super capacitor power bank to feed  AC inverters here in the UK (Scotland bit), i'm pretty sure pvc pipe could be cut into even strips and bonded to a pvc hub with the proper twist added to make each petal.\n\nI do enjoy the video series and get some good ideas , i have a copied book on AC motors used as water turbine generators , i believe you wanted to know the hows and whys of the cap calculations etc , if you can pm me i'll send the pdf i have for this , maybe you could update the  turbine diy generator video ,likely a hit with the video audience.\n\nBest wishes.",
+    "likes": 0,
+    "published_at": "2024-05-29T11:32:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyuPCxH5tNCYqJ_I6F4AaABAg",
+    "author": "@B.Cote39",
+    "author_channel_id": "UCM72C8QbH-OCsfBd1rHbnPQ",
+    "text": "seen one from old corrugated steel to increase surface area ...kinda makes sense oh and i think it was 4 blade configuration",
+    "likes": 0,
+    "published_at": "2024-03-26T14:32:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxYLQuQrlR5X9VkmYF4AaABAg",
+    "author": "@rommelcarino967",
+    "author_channel_id": "UCeKuk5L6dmhgExqMrAGswfQ",
+    "text": "There are now neodymium motors which means they have low rpm but produced high voltage or amp. This low rpm motors need good torque like this turbine design.",
+    "likes": 0,
+    "published_at": "2023-12-01T02:45:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyneb9tR3ifAs4OcOJ4AaABAg",
+    "author": "@rommelcarino967",
+    "author_channel_id": "UCeKuk5L6dmhgExqMrAGswfQ",
+    "text": "Ur text is insufficient. The advantage of this design is not good rpm, but high torque even at a low wind speed. This is the merit of this design. RPM can be remedied with a gear, but without torque nothing can be done.",
+    "likes": 0,
+    "published_at": "2023-12-01T02:44:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzNQmwvy1cW9QSnK0d4AaABAg",
+    "author": "@experimentchannel9692",
+    "author_channel_id": "UC-jg4c1GJwQi5mSMd4mB22g",
+    "text": "I think it would be better if each blade was swept back or forwards so it has a broader angle from which to catch the wind",
+    "likes": 0,
+    "published_at": "2023-09-20T18:39:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgykwljCAJIRPyLREFR4AaABAg",
+    "author": "@HostileRespite",
+    "author_channel_id": "UCf6S-TFB28ugpp49GnPqTSA",
+    "text": "Toroidal props are just inverted Archimedes screws cut into short sections. Their advantage in water is negating cavitation. Under water cavitation is a destructive force due to microbursting air pockets which form when water is \"cut\" at high speeds. It's not unlike breaking the sound barrier in the air, only this happens at much lower speeds under more dense water. When this happens the microbursting air bubbles cause damage to the surface of the part over time. This is hardly noticeable to external propellers where the bursts can dissipate their shock to the surrounding water but do affect the noise and thrust... The microburst can also cause huge spikes in pressure for internal parts like impellers and can crack the engine casing entirely. So reducing underwater cavitation is a big deal. It's just disappointing that toroidal props only seem to offer a slight noise reduction for aerial applications and don't seem to offer any other real benefits... yet.",
+    "likes": 0,
+    "published_at": "2023-07-27T13:15:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhP-WcFVjumgcetKl4AaABAg",
+    "author": "@KittyKontrol850",
+    "author_channel_id": "UCfl_0QWSaPP6_BMjxh6fPIQ",
+    "text": "I think maybe the best part about this design is the lack of low freq noise that has been (in vanishingly few studies i admit) shown to have negative effects on humans over the long haul, mostly with reference to sleep.",
+    "likes": 0,
+    "published_at": "2023-05-19T19:16:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwpADcr5ey56luz09h4AaABAg",
+    "author": "@Istandby666",
+    "author_channel_id": "UCBHl6R75NO1z-XnVSmr0hEw",
+    "text": "I don't understand the constant laughter.",
+    "likes": 0,
+    "published_at": "2023-04-21T11:29:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlpflkSyz9duzmD3l4AaABAg",
+    "author": "@SuperYellowsubmarin",
+    "author_channel_id": "UC6osyJN8Tmi6XENt89UWCCw",
+    "text": "It tooks decades to refine the usual propeller. It will take decades to refine the toroidal propeller. With all respect,  this contraption ought to be compared with a paddle wheel propeller.",
+    "likes": 0,
+    "published_at": "2023-04-08T07:16:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy1tc5QDdfyHra5Zkt4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "You need the blades more off set like a double winged plane that is connected by a loop in a way that make more lift. I don't think the crazy eight is aerodynamic enough. Or could be made more efficient with better geometry.",
+    "likes": 0,
+    "published_at": "2023-03-19T22:40:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKE0VzeaINtwSS4fV4AaABAg",
+    "author": "@curious_hiccup",
+    "author_channel_id": "UCqmeUBsUpIC5553ZBaApBUg",
+    "text": "It's design of the blade is awkward. It's not like an airfoil. It's just a very bad amature design.",
+    "likes": 0,
+    "published_at": "2023-03-05T19:18:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy2F4zAl82f_4kFvCh4AaABAg",
+    "author": "@DinoDiniProductions",
+    "author_channel_id": "UCd359G69NIqKeS-rP5v04lw",
+    "text": "I think the advantage of the toroidal propeller is only seen at high velocities, where linear relationships break down. When used to propel, the velocity of the air (and rpm of the propeller) is going to an order of magnitude higher at least, I imagine.",
+    "likes": 0,
+    "published_at": "2023-03-05T17:53:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_HUquqav6fK2X5mZ4AaABAg",
+    "author": "@matsgustavsson665",
+    "author_channel_id": "UCyFNt-Rycj2OdYSFMPmyzLQ",
+    "text": "Now lets see how it compares as a water turbine.",
+    "likes": 0,
+    "published_at": "2023-03-05T16:41:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhQUmFdBYsOF2zWMJ4AaABAg",
+    "author": "@josephdupont",
+    "author_channel_id": "UCd_kXH19pxIvBRcjZvbP2yQ",
+    "text": "Wouldn't that work good in a stream with a bunch of those on a shaft and a stream to capture some energy out of they're plastic they're not gonna corrode and they seem to have a little bit of gifts so they might not chop up the fish",
+    "likes": 0,
+    "published_at": "2023-03-04T17:19:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynYWxEp1MxE33sb5h4AaABAg",
+    "author": "@animeniac978",
+    "author_channel_id": "UC4EBcjqacb0D9yZdL5EaXcQ",
+    "text": "Is there an airfoil anywhere in the design of that toroidal propeller? It *looks* like it boils down to interestingly arranged inclined planes.",
+    "likes": 0,
+    "published_at": "2023-03-03T09:10:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUCCswGfi-KSvzz8N4AaABAg",
+    "author": "@SoundzAlive1",
+    "author_channel_id": "UCmc78GZdEf3BZx9c8YkMQZQ",
+    "text": "Hi Robert, Maybe if it is mounted in a short tube it may perform better. The big thing for me will be the reduction in noise when sleeping on my boat. The different turbulence on the tips will create a less noisy generator. André in Sydney",
+    "likes": 0,
+    "published_at": "2023-03-01T02:41:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxYnzlLZ7nokz1mkAV4AaABAg",
+    "author": "@aronbraswell1589",
+    "author_channel_id": "UC4QFg6Jn0J_vEaBhEE_Z42w",
+    "text": "we have all had our fun with how the Toroidal Propeller just don't live up to the hype in air but, wasn't it developed for water use? if so, its dementions need adjusted for the fluid its working in to work at peak efficiency . Please try the traditional blade vs. Toroidal in water",
+    "likes": 0,
+    "published_at": "2023-02-28T12:27:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy9Dmz06t47sTMzplJ4AaABAg",
+    "author": "@royharkins7066",
+    "author_channel_id": "UCQII4Z74ZG7Ufed2bQwanaA",
+    "text": "Is that a grinding wheel on your chop saw ?",
+    "likes": 1,
+    "published_at": "2023-02-27T18:49:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwdZGt2Wlg-bBkXoFB4AaABAg",
+    "author": "@GpunktHartman",
+    "author_channel_id": "UCcd9fhf1QD1eBy5Jyrb36-Q",
+    "text": "I like the themes, but your zynical laughing seems like youre a little bit jelous of the thinks you \" testet\" ...",
+    "likes": 0,
+    "published_at": "2023-02-27T12:47:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxYbyMwE_IJ8wrE2gh4AaABAg",
+    "author": "@macmaccourt",
+    "author_channel_id": "UC8E1qEuSMRzDo8M2HoU9uRA",
+    "text": "\"To achieve the best aerodynamic design it is best to copy the hydrodynamic shapes of sea creatures\" - Luigi Colani",
+    "likes": 0,
+    "published_at": "2023-02-27T05:42:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyHE0W3rWKWGCh1kft4AaABAg",
+    "author": "@aether-elephant",
+    "author_channel_id": "UCJp2mAFjzu04-FBcVi7Ai1A",
+    "text": "Those flower shaped windmills we had as kids went real fast..",
+    "likes": 0,
+    "published_at": "2023-02-27T02:32:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy2FKKCLHD_MVCGoxN4AaABAg",
+    "author": "@hazenwilson4944",
+    "author_channel_id": "UCA17AEFoZlIDyeUC2-qlniA",
+    "text": "Now I’m trying to think of a way to put a toroidal blade on a vawt",
+    "likes": 0,
+    "published_at": "2023-02-26T20:14:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyorqa-zkx4hNOfWql4AaABAg",
+    "author": "@jonbell3531",
+    "author_channel_id": "UC8SqsV4PN2yCQGb_FCaaL9A",
+    "text": "Sorry, Rob. It's definitely on backwards.",
+    "likes": 0,
+    "published_at": "2023-02-26T18:42:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz3ILJ7nL34RwzxNdZ4AaABAg",
+    "author": "@ThomasAndersonbsf",
+    "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+    "text": "seems like the angle of the blade is more important than it's shape, just as you found that a flat sheet at 35º was the sweet spot for redirecting oncoming wind downward into your tunnel for that project, and so the angle of the bladed needs to be more obtuse to the wind up to a point, to redirect it, (which is what generator blades are doing, the more redirection the more energy they can take from that incoming wind, while the propeller the more obtuse to it, the more energy it can impart into it as it redirects it, say for thrust.) \n\nwhat I want to know is can this angle be changed as the speed of the blade is moved to get more gains, or is this a fools errand and it changes nothing. :) \n\nthe one benefit I can see these blades once the angle is set correctly if that bowed tip can reduce air current vibrations, would be on giant turbines they worry about birds and bats being harmed by the sonic vibrations created, but the direction you are going of many smaller units coupled together to get the higher value amount and in parallel so each one is redundancy, also completely does away with the worry to birds, bats and such because any sound they produce is so small it gets absorbed by air particles and reduced quickly so they don't have the range of influence on the environment, sonically that is. :)",
+    "likes": 0,
+    "published_at": "2023-02-26T17:32:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTyKkb4f5XxVrlM-J4AaABAg",
+    "author": "@lorizaruba5008",
+    "author_channel_id": "UChaD-q8H6h3POCt5nCbP11w",
+    "text": "At first I thought that it was a moebius blade, great a trans dimensional propeller, no it's a MIT scamming plot, !o! !",
+    "likes": 0,
+    "published_at": "2023-02-26T09:31:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzjllfFEwhSI5dvzK54AaABAg",
+    "author": "@wetmelon",
+    "author_channel_id": "UC9_xKPCbWcJsKIQt2I7z1Gw",
+    "text": "The benefit comes when you're approaching supersonic blade tip velocities.  A subscale model won't tell you anything here you don't already know.",
+    "likes": 0,
+    "published_at": "2023-02-25T17:59:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-WGqQ-pj0fxT6YPR4AaABAg",
+    "author": "@johnramirez5032",
+    "author_channel_id": "UCeX7Mb_E9b45Af4P2LEtrOw",
+    "text": "I think diameter of blade is a fair comparison. I think area of blade is a better measurement.",
+    "likes": 0,
+    "published_at": "2023-02-25T15:42:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz1aAD_rE44s1iZLjx4AaABAg",
+    "author": "@ericwazhung",
+    "author_channel_id": "UCtE3RqZeq9S_bSCNdJLvulg",
+    "text": ":/ Disappointed... \nHere's the guy who mixed highlighter-pen ink with gelatin and laughed with infectious glee when it questionably squeezed out a few extra milliwatts from a solar panel... Now we've a stepper motor as a generator as a reliable test? \"Steppers are 80% efficient,\" he says... but this means nothing without a side-by-side and more detail... NEMA has to do with mounting, not winding-resistance, turns, or even the size/spacing/type/strength of the rotor's magnets. If you shine a spotlight on a tiny calculator solar cell mounted in an 8x10 picture frame, it won't give you much more power than a fluorescent ceiling lamp would. And nowhere near the power of an 8x10 solar panel with room lighting.\nNot saying I expect a huge difference, nor even improvement, from these blades, but I am saying that you seem surprisingly/uncharacteristically opposed to giving them an honest chance. Almost like you're either afraid of, or hiding, something.\n\nHere's an idea I'd've considered more characteristic of you: I wonder if a toroidal prop could be made of little more than a twisted strip of paper stapled to a hub. Its flexibility may actually be beneficial for different wind speeds and loads, a bit of a centripetal governer... More of a sail than a prop. And, most of all: easy to build. Which is right up your alley as someone usually trying to inspire folk to try things that aren't necessarily the most-efficient, but *doable*.\nMaybe I missed a vid?",
+    "likes": 0,
+    "published_at": "2023-02-25T08:18:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwOW0msuNb1kROoHax4AaABAg",
+    "author": "@Astro_Alphard",
+    "author_channel_id": "UCf5AGkHwSRDPMRTneUwVBHg",
+    "text": "I suspect the reason you're not getting anything out of those toroidal propellers is due to 2 reasons:\n1.  the models on the internet are not designed for wind turbines and are instead designed as propellers. I personally recommend lowering the angle of attack (making the blade angle closer to the vertical axis by about 5 degrees) and using a slightly thicker airfoil at the root. \n2. You held it backwards the entire time, I can see the camber on the blades. It's like using a solar panel as an LED, possible but not very efficient! \n\nThe advantages toroidal propellers have over their more traditional cousins is faster wake recovery, elimination of wingtip vortices, and a more evenly distributed turbulence area. This means that you can place wind turbines closer together for the same energy output. I don't think anyone is making toroidal propellers for wind turbines but if you do the aerodynamic characteristics of wind turbines and propellers are similar yet very different!",
+    "likes": 0,
+    "published_at": "2023-02-25T06:23:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKcs2ooYzVfzlOLQd4AaABAg",
+    "author": "@TimeSurfer206",
+    "author_channel_id": "UCOWr1KrtecAbgYI4dj7piGw",
+    "text": "I'm sure it has greater effects at much higher speeds than the wind typically makes.",
+    "likes": 0,
+    "published_at": "2023-02-25T05:32:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyYH5bGho6DBrSxl4d4AaABAg",
+    "author": "@TechKnowCSS",
+    "author_channel_id": "UCHavSOTFE2vIz6yuG2EHc4w",
+    "text": "THE BLADES WERE NOT DEEP ENOUGH LIKE THE BOAT APPLICATION IT WAS DESIGNED FOR AS A WATER PROP, W/REDUCED TURBULENCE AND MORE EFFICIENT BY FAR.",
+    "likes": 0,
+    "published_at": "2023-02-25T05:14:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5A0orpaHdAniEEj14AaABAg",
+    "author": "@chaosopher23",
+    "author_channel_id": "UCAwO9kRjxhx0NYMGT0_9PnA",
+    "text": "With a little more diameter, you can put one on a bicycle and charge your phone with the right electronics in between.  1/2 volt in a 6 mph wind isn't bad at all.",
+    "likes": 0,
+    "published_at": "2023-02-25T01:34:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyZutkyfueKbHE1F814AaABAg",
+    "author": "@myblueocean2",
+    "author_channel_id": "UC2E3Y0V2E1tqn2HyrZT-zqg",
+    "text": "What you need is a Prantl based prop!    Most efficient ducted fans are found in the cooling fans of the ISS. Also i almost never see a proper toroidal fan in this new found hype. There was an aircraft a long while back that had this kind of prop, but the tips were bent differerently in order to enhance lift and reduce tip vortices. Unfortunately i dont remember who made it. Cheers",
+    "likes": 0,
+    "published_at": "2023-02-24T23:18:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzGjlCQxUXKG5wsRnB4AaABAg",
+    "author": "@peterca2655",
+    "author_channel_id": "UCDx7HjFlQjUFvv0jqMcfzBA",
+    "text": "darwin",
+    "likes": 0,
+    "published_at": "2023-02-24T19:53:43Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzGjlCQxUXKG5wsRnB4AaABAg.9mXBjqROAoj9m_neDrm145",
+        "author": "@peterca2655",
+        "author_channel_id": "UCDx7HjFlQjUFvv0jqMcfzBA",
+        "text": "why is all of so challenging?",
+        "likes": 0,
+        "published_at": "2023-02-26T05:31:27Z"
+      },
+      {
+        "id": "UgzGjlCQxUXKG5wsRnB4AaABAg.9mXBjqROAoj9m_oPkBV1N_",
+        "author": "@peterca2655",
+        "author_channel_id": "UCDx7HjFlQjUFvv0jqMcfzBA",
+        "text": "Why is all of electronic back and forth so challenging to my time and spirit?",
+        "likes": 0,
+        "published_at": "2023-02-26T05:38:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyGmeGZG5OXyVnTnbl4AaABAg",
+    "author": "@peterca2655",
+    "author_channel_id": "UCDx7HjFlQjUFvv0jqMcfzBA",
+    "text": "Darwin",
+    "likes": 0,
+    "published_at": "2023-02-24T19:52:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyfP_rqQSkslM7qRsN4AaABAg",
+    "author": "@dougcowlthorp1976",
+    "author_channel_id": "UCUzFxoRUM6kx2xf8H4lR8sw",
+    "text": "Well.....I have to say it if others haven’t .****##**....WHY did you NOT take a 2 bladed Propeller of the same Diameter, with the same motor and same wind speed (measured by the same Instrument) to do a comparison??????##**##.   \nIt means NOTHING of course without the 2 blade (regular propeller) comparison.          Keep up the great videos though.  Love them.",
+    "likes": 0,
+    "published_at": "2023-02-24T16:57:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyfP_rqQSkslM7qRsN4AaABAg.9mWsaefBXxV9m_ScxKjY9f",
+        "author": "@dougcowlthorp1976",
+        "author_channel_id": "UCUzFxoRUM6kx2xf8H4lR8sw",
+        "text": "rhoda5641 Did I win the turbine?   WooHoo",
+        "likes": 0,
+        "published_at": "2023-02-26T02:19:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykWoyyjDXEiTJJJxR4AaABAg",
+    "author": "@ScoreGuru123",
+    "author_channel_id": "UCq7JENv8o-moI1QShYtmZmQ",
+    "text": "Oh my God you would be an awesome Dr Who! Far better than the non binary pan sexual semi conductor rubbish they have now! 😜",
+    "likes": 1,
+    "published_at": "2023-02-24T16:44:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbtIt23DPi-EC7pQp4AaABAg",
+    "author": "@ericblenner-hassett3945",
+    "author_channel_id": "UC2Xfi79rshqfPWbzdFPJBvg",
+    "text": "Very great overview of the test process and how to check the results.  One thing people overlook is it was ' designed to overcome cavitation ' and not to increase rotation speed or torque.  One additional test would be to use a motor and a sound meter to ' listen ' if you can hear either type of blade when the wind blows, however, I believe that kind of testing becomes moot when thinking of power generation.  We, as people, have put up with hit-miss engines in our collective history for power generation and sound output is only a convenience factor.",
+    "likes": 0,
+    "published_at": "2023-02-24T15:26:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwAnn9yqcGcsbLrXZB4AaABAg",
+    "author": "@Spriggen1337",
+    "author_channel_id": "UCcIN5aHAVtHQiAJ6xEwVswg",
+    "text": "have you tried putting the toroidal blade in a different orientation to the direction to the wind? like in the horizontal plane",
+    "likes": 0,
+    "published_at": "2023-02-24T12:56:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyvsba6mJLgprj69Ax4AaABAg",
+    "author": "@petevenuti7355",
+    "author_channel_id": "UCHosuxST005Afqwq0OjGzbQ",
+    "text": "A conventional propeller as several characteristics like pitch, and the rate the angles change from center to edge, the curvature, straight blade vs swept blade , different values for different sizes and wind speed, that have been refined over many years to be better then just popsicle sticks.\n   The new design may have merrit , obviously they will need a lot of research to figure out what kind of characteristics and values need to be understood then tweeked to make them work at their peek before we can truly judge.",
+    "likes": 0,
+    "published_at": "2023-02-24T09:00:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz87OcoHJqF2IyRMEl4AaABAg",
+    "author": "@nigelsutton9073",
+    "author_channel_id": "UCtEFnWiHKexjrjf9og1dxiw",
+    "text": "Hi Rob, love the video's, so much information! One difference between the toroidal props and the powerboat prop is the plain on which each surface starts and finishes. The Sharow prop has a distinct double level, almost like a biplane, whereas all the props built for drones etc are simple loops. Big difference and may be why the 3d printed props are pretty useless? Just a thought!",
+    "likes": 0,
+    "published_at": "2023-02-24T08:33:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwUcGXOqiHRFJRdyGd4AaABAg",
+    "author": "@Hermaphroditolog",
+    "author_channel_id": "UCsMEnLR_D-7oT_bQ0Nr135A",
+    "text": "EXPANSION ENGINES - Helmholtz FREE ENERGY!",
+    "likes": 0,
+    "published_at": "2023-02-24T07:51:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzmYETGWavnPU-DWWJ4AaABAg",
+    "author": "@markmmm1737",
+    "author_channel_id": "UCPmEbLTDl9Xf4OUdx5_jf1Q",
+    "text": "It does look like it needs to be adapted to be more like a \"normal\" blade.  Yes it looks pretty but surely the blade centre should be wider and the tips be thinner.",
+    "likes": 0,
+    "published_at": "2023-02-24T07:42:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_ln8Nz9Pl1g9jicJ4AaABAg",
+    "author": "@markkevin7245",
+    "author_channel_id": "UCn0tiyffFuFL6fd_IufJYKg",
+    "text": "I’m glad it’s not that brilliant …. As the looking fancy doesn’t = science but science is very fancy it’s own",
+    "likes": 0,
+    "published_at": "2023-02-24T07:40:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyilY2Y1Nlp6V4tmkl4AaABAg",
+    "author": "@cratch1959",
+    "author_channel_id": "UCZROeRrh6jE7G_AsaxfWC6Q",
+    "text": "Hi Robert. I'm the friend you mentioned who sent you this '4 petal' toroidal propeller. Looks a great 3D print but when I make these 'windmills' as garden ornaments I always orientate the concave edge of the blade into the wind. My guess is that it will catch more wind this way, very much like an anemometer cup. I noticed in your test that you had the convex side of the blade facing your wind source and maybe this lessened the efficiency of the blades. Anyway as I say, I make these windmills as garden ornaments and not for power generation, finding that they turn effortlessly in the slightest breeze and the toroidal blades are very strong compared to single blades. My 6 petal version, which I like to see as having effectively 12 blades spins even better and faster. Keep up the great work, love your videos...",
+    "likes": 0,
+    "published_at": "2023-02-24T07:28:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxgbOnTG4iOys69KiB4AaABAg",
+    "author": "@richardglickman7203",
+    "author_channel_id": "UCTO0svlq-18-ERwAYOHx9kQ",
+    "text": "I still don’t see how these tests are “proper”.  All your tests, so far, seemed like comparing apples and oranges. \nFirst a 2 bladed toroidal and a 3 bladed standard propeller, of equal diameter, with a common wind source. \nNext, a much larger diameter 4 bladed toroidal with an unknown (I couldn’t see it in the video) wind source. If the blower used in this test was the same one used in the first test then it would only be pushing a fraction of the toroidal blade surface at any one time.\nTo me, a “proper” test would be of a 3 bladed toroidal and 3 bladed standard propellers of equal diameters and a single blower used on both propellers.\nI have no idea what the results will show but they should show if one blade is more efficient than the other.",
+    "likes": 0,
+    "published_at": "2023-02-24T06:06:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqEAMadeqcvCKZUYJ4AaABAg",
+    "author": "@markhonea2461",
+    "author_channel_id": "UC31xZ3ADmulPv_3R9G7ficA",
+    "text": "I am probably the 100th person to ask- ' why didn't you do the same thing with the standard propeller for a direct comparison'?. \nTotally surprised after all that you skipped the one thing we were all waiting for.",
+    "likes": 0,
+    "published_at": "2023-02-24T05:57:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhfzzS5a7O4ZSOSpd4AaABAg",
+    "author": "@sshutupurface8345",
+    "author_channel_id": "UCRoHAHNPTyM0NXiNbt3lHIQ",
+    "text": "the only difference i see is the blade shape isn't even in the mit one its wider in the middle",
+    "likes": 0,
+    "published_at": "2023-02-24T05:10:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbNGaUvAFhVymKSUx4AaABAg",
+    "author": "@williamwitter3783",
+    "author_channel_id": "UCYavbuaQEU6LiUcnopPSBeQ",
+    "text": "I am curious if the toroidal prop might perform better at maximum rpms. Conventional props are rpm limited as tip speed approaches the speed of sound. Always entertaining and educational. Thanks",
+    "likes": 2,
+    "published_at": "2023-02-24T03:28:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbGhfVML4EbQzq9Qx4AaABAg",
+    "author": "@ArjayMartin",
+    "author_channel_id": "UCYP6fsrfRqqtpm0lOh3HNjw",
+    "text": "instead of being same surface area, please try with the same size. the longer the arms = leverage effect and also the 'per area' calculation... so if a 1 M long turbine blade covers 0.79 M^2. (Pi x R^2).  Then what would a toroidal turbine blade that covers the save 0.79 M ^2 do?  Sure, extra weight, but still.",
+    "likes": 0,
+    "published_at": "2023-02-24T03:18:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzmU0e6DAPJzKSpqNx4AaABAg",
+    "author": "@ArjayMartin",
+    "author_channel_id": "UCYP6fsrfRqqtpm0lOh3HNjw",
+    "text": "lol",
+    "likes": 0,
+    "published_at": "2023-02-24T03:11:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwg0lrI48J0wRafiHB4AaABAg",
+    "author": "@hudsonbrown31",
+    "author_channel_id": "UCsev3YNnw6gOysHjcMpB5yA",
+    "text": "This is Mr. Bean's spiritual successor",
+    "likes": 0,
+    "published_at": "2023-02-24T03:01:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzHWAkc80mbWmnSGL54AaABAg",
+    "author": "@wellingtonbeef7306",
+    "author_channel_id": "UCNkTm2-NrMnwGvYT58FAoAw",
+    "text": "What design gives the strongest torque.?",
+    "likes": 0,
+    "published_at": "2023-02-24T02:31:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynglVXwzJYMQx5_6d4AaABAg",
+    "author": "@austinbambooinc2507",
+    "author_channel_id": "UCQ0BlUaVQ17FebwMDmKsKAQ",
+    "text": "The very things that make it better as a cavitation free propeller keep it from catching enough wind to work as a turbine. Rather than increasing the blade length, it would work better if you increased the \"depth\" of the blades. It's too flat, so rather than properly diverting the wind and gaining momentum, it's just resisting it.",
+    "likes": 0,
+    "published_at": "2023-02-24T02:25:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxIF0S80obKt2Ji-VN4AaABAg",
+    "author": "@Enjoymentboy",
+    "author_channel_id": "UCnEMVPyQTXxvP3b2Lr2N6bA",
+    "text": "I'd like to see the efficient comparisons to a ducted propeller.  I suspect that most of the gains with toroidal props comes from them essentially having their own moving duct included instead of open blade tips.  Rather than the air sliding off the tips it is \"scooped\" and sent back in the same direction as the rest of the air.  I very well may be wrong but when I look at them and see them in motion it's what I see happening.  So any gains they'd have over a standard prop for a wind generator would likely come from lower velocity winds and even more so only with much larger prop blades.  Scale them up to sale 5 -6 metres and then I think you'll start seeing noticeable differences.",
+    "likes": 0,
+    "published_at": "2023-02-24T01:03:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0XrMHZciq3uRBz-14AaABAg",
+    "author": "@Howie672",
+    "author_channel_id": "UCxj-BmoC_5hSGEVPxnmX5Hg",
+    "text": "I was surprised how much less it produced than a standard prop. I was also unaware that normal props were good at 3ms. Thanks for your great video.",
+    "likes": 0,
+    "published_at": "2023-02-24T00:50:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbcYn5pU2Dt_xFtBx4AaABAg",
+    "author": "@yewenyi",
+    "author_channel_id": "UCMHvpYcgxMv__03yG8C2E5g",
+    "text": "I would have thought that they were not meant to be more efficient. I thought that they were meant to be quieter.",
+    "likes": 0,
+    "published_at": "2023-02-24T00:47:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxAkUISq7rNVLCoV5V4AaABAg",
+    "author": "@Rouverius",
+    "author_channel_id": "UCEp1FjNuhRCY4tMfTz0HPYg",
+    "text": "The Channel \"Major Hardware\" tried to make a toroidal propeller into a PC fan and was similarly disappointed. My uninformed guess is that by optimized these for a specific use case (better drone flight) that they become less useful in other applications.",
+    "likes": 0,
+    "published_at": "2023-02-24T00:40:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxzIBzWNPZSz-v-_Wl4AaABAg",
+    "author": "@danblankenship5744",
+    "author_channel_id": "UC1rbYu7sY7QUQNZfTBB4uIQ",
+    "text": "Can you explain why the best blade design for a generator to catch the air isn't the same shape used in a fan to push the air?",
+    "likes": 0,
+    "published_at": "2023-02-24T00:13:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxpRI2AHRHLlPvf-Ed4AaABAg",
+    "author": "@lachlanraidal5100",
+    "author_channel_id": "UCej3VG4mIYuz-tfX_mxCyMQ",
+    "text": "Robert Murray Smith is a timelord - confirmed!",
+    "likes": 1,
+    "published_at": "2023-02-24T00:10:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8LrkBukcIqjHp54F4AaABAg",
+    "author": "@5roundsrapid263",
+    "author_channel_id": "UCKeGGykGcvqpKgUHS6ZwPdg",
+    "text": "I’m an American, but got the reference! I’m 43, and grew up on Tom Baker and Peter Davison repeats. You’d make a good Doctor!",
+    "likes": 0,
+    "published_at": "2023-02-23T23:33:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4drXh5eRCD0CcccR4AaABAg",
+    "author": "@johnmarkgatti3324",
+    "author_channel_id": "UCrmJ9JHaRnQkUC9jM28t8iA",
+    "text": "ha , Rob is not convinced , trust plus a good dose of scepticism is a good recipey, i would still say watch this space  . These props do work well in water ,claims of 30 % improvements . We are talking fluids so there must be some comparative gains in air , apart from the obvious safety ,ie the E-hang type flying mincers potential damage could be treating bad graze ,rather then limb reatachment surgery . But ,tip vortexes are a huge loss area in air ,on wings and props . john McGiuness , with his Synergy box wing ,seems to be onto a win with wings [ i'd love to play with water foils in a similar way ,could raise their top usefull speeds ] . very interesting watching the ultra high bypass jet developements and the almost return to turbo props ,but with stationary intermediary blades !?.Is it possible these closed tip blades could give the benifits of ducting plus swept area . I can see a return to supersonic props with out the leathal noise ,as seen in the flying banshee  the Republic thunderscreech , or the sound bomber ,or bear topolov TU95 , I believe a hazard to chase planes of other nations that get close to enquire as to why it is flying in their airspace .",
+    "likes": 0,
+    "published_at": "2023-02-23T23:27:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-yJcSiIQQrg8o1VB4AaABAg",
+    "author": "@Spinningininfinity",
+    "author_channel_id": "UCAdVqI-6ruR_as6KcwEG5QA",
+    "text": "Twisted logic 😀",
+    "likes": 0,
+    "published_at": "2023-02-23T23:18:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxr73WyFlisB3hdH8V4AaABAg",
+    "author": "@steve_ancell",
+    "author_channel_id": "UCUgI2AsnaEbjVGE1GmGS9kQ",
+    "text": "Nice TARDIS Rob, you should audition for the next Doctor.",
+    "likes": 0,
+    "published_at": "2023-02-23T23:10:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbdtEp_gXCZiH-ZYN4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Good demonstration!  I especially appreciate the use of the load meter for measurement of amps and volts.  \nYou are probably completely right in your conclusion, but your critics won't approve.  A toroidal \"blade\" has more than one aerodynamic surface in the swept area, with the same outer strength reinforcement as a ducted blade prop.  A four-blade toroidal propeller should best be compared to an eight-blade ducted fan prop.  Both are going to suffer from increased drag within a given swept area in a turbine drive configuration, and neither would be as effective as a three-bladed, simple prop in the same swept area and wind speed.  I don't think that a toroidal blade can be feathered, either, as they are in MW-scale turbines.  However, one proposition to answer to the problem of bird and bat killing by conventional turbines is using a ducted fan blade, and the toroidal design may answer some of the same issues without the same engineering complications.",
+    "likes": 0,
+    "published_at": "2023-02-23T22:53:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwyxyhK0ZPx0S_agTd4AaABAg",
+    "author": "@JoesWebPresence",
+    "author_channel_id": "UCXhQ7DEuyY71XqS5M3EThOg",
+    "text": "No. You are thinking statically, and not at all like an aeronautical engineer. It's already a proven innovation in water propulsion. Those blades are supposed to give more lift at lower speeds and the entire performance curve slightly better than any comparative blade. Quieter too. To see if it's truly better, you need to compare it to a similar diameter blade at various speeds, on an identical shaft held better than just by hand. You need a dB tester too. Alternatively, clip them on to a performance drone and time it through a measured course, recording the noises they make. More fun, but given you are more interested in the generation possibilities, I'm sure something could be rigged up and hooked to that multimeter.",
+    "likes": 0,
+    "published_at": "2023-02-23T22:40:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0EbqT7kubB_Wyhcp4AaABAg",
+    "author": "@unicornadrian1358",
+    "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+    "text": "Swept area seems like an odd metric. Wouldn’t surface area of the blades be a more accurate comparison?",
+    "likes": 0,
+    "published_at": "2023-02-23T21:59:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwqcFOBVPjo_bOVYTB4AaABAg",
+    "author": "@t.l.b.steadfastvideos5404",
+    "author_channel_id": "UCbIKhd2VSNVNk3ET0vK2oBg",
+    "text": "yeah thats why most wind turbines have three blades instead of four.",
+    "likes": 0,
+    "published_at": "2023-02-23T21:57:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwi9ZjoKaARTyVmH194AaABAg",
+    "author": "@ravenmad9225",
+    "author_channel_id": "UCqv19oHKPcIwqnY0agOKZqg",
+    "text": "No gains,so not worth the effort.",
+    "likes": 0,
+    "published_at": "2023-02-23T21:55:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzFwuAc3Ul0AZMEfOB4AaABAg",
+    "author": "@jaganetwork1966",
+    "author_channel_id": "UCj--f2esATRUWtO2KwtBJ3g",
+    "text": "I am not sure these,  but I do know that in the world of PC fans there are 2 very distinct types of fan one produced maximum air flow and the other maximum static pressure. I was wondering whether this may have detrimental effect, as in the pitch of the blades is designed to be push air rather then be pushed by air? I am sure someone who understands these things may be able to enlighten me.",
+    "likes": 0,
+    "published_at": "2023-02-23T21:41:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwV1I3nheG3cnGw2MF4AaABAg",
+    "author": "@nirodha7028",
+    "author_channel_id": "UC5xFcvdoNN4_Af7gXjfzSWA",
+    "text": "These are meant to ‘drive’ something at high rpm… and have advantages ‘then’… Not to be driven by wind at low rpm. Their positive effect lies in their ability to get rid of or greatly reduce the tip vortices which arise only at those high rpms. Those vortices consume energy which isn’t adding to forward motion… hence getting rid of them helps make propulsion more efficient. Essentially you are now pushing a car by hand with a 600 HP engine and measuring the ability of the dynamo to fill the battery… and compare that number to a 100 HP engines car being pushed at the same speed and stating the 600 HP engine doesn’t add any performance to the car. Lol… carry on 😂",
+    "likes": 0,
+    "published_at": "2023-02-23T21:21:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwAgS6Ft70Df0M_V3p4AaABAg",
+    "author": "@jwioo",
+    "author_channel_id": "UCTbXJxW2-a8gUdfB8BR53aw",
+    "text": "It doesn't appear to have any aerofoil profile so is acting as a screw?",
+    "likes": 0,
+    "published_at": "2023-02-23T20:59:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyYdKTzNMVBHA-N9Ip4AaABAg",
+    "author": "@theoriginalrecycler",
+    "author_channel_id": "UCUsXTrOyQERyK-1e_HIMZHA",
+    "text": "Maybe swept volume is a possible differentiator",
+    "likes": 0,
+    "published_at": "2023-02-23T20:47:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy6Bqg2ZCfrfIOd2mx4AaABAg",
+    "author": "@simongross3122",
+    "author_channel_id": "UC88olTq3jC6CA-yjwojlvQw",
+    "text": "Ah well.  If you paint it red it will generate more.  Red things always go faster and are more powerful.",
+    "likes": 0,
+    "published_at": "2023-02-23T20:41:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwD4zSL2XoRPZQUXA94AaABAg",
+    "author": "@franzschmidt6199",
+    "author_channel_id": "UCzyKVO09MPLbaY3T8Xnbd5w",
+    "text": "I t might work better when it spins in a tube at the bottom of your Darwin wind turbine where all of the incoming air touches the blades head on.",
+    "likes": 0,
+    "published_at": "2023-02-23T20:40:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzMmVhO9Xnooqffmyx4AaABAg",
+    "author": "@danielfeyerabend904",
+    "author_channel_id": "UCUJB04NYU0LCvQ6IqdZclOg",
+    "text": "Was that your version of the Tardis, good Doctor?!  Wouldn't that be a bit of tinkering?",
+    "likes": 0,
+    "published_at": "2023-02-23T20:33:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwivi5i_Dxki4SvVv94AaABAg",
+    "author": "@darkfieldcarnivore3928",
+    "author_channel_id": "UC_w-gRpJ1Yt132X9JhbyuSw",
+    "text": "Is the change air disturbance exiting the blades potentially an avenue for many in a row behind each other?",
+    "likes": 0,
+    "published_at": "2023-02-23T20:24:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6LsKgRu1TMQ1RHSJ4AaABAg",
+    "author": "@Zane.1376",
+    "author_channel_id": "UCopbyZRy2X9IoL4E3E22R8g",
+    "text": "The toroidal prop was made at all of the wrong angles",
+    "likes": 0,
+    "published_at": "2023-02-23T20:11:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz7NtfBaxVEfHcuWHR4AaABAg",
+    "author": "@martinlicht1969",
+    "author_channel_id": "UCtltQ89uqS2OOW6jzXEvZtQ",
+    "text": "Maybe stack 12 of those and subject to the Darwin wind collector.\nThanks always, cheers!",
+    "likes": 0,
+    "published_at": "2023-02-23T20:09:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxDsDoW-7JAxq9TAXp4AaABAg",
+    "author": "@sooldt6591",
+    "author_channel_id": "UCvRDf3G1K2yo9hnUoLkIJAg",
+    "text": "Comparing this Toroidal propeller to an classic propeller shows no improvement, but what is the best propeller robert M-S ? thanks So Oldt",
+    "likes": 0,
+    "published_at": "2023-02-23T20:07:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyV2bqxxknxu8xceFZ4AaABAg",
+    "author": "@toml.8210",
+    "author_channel_id": "UCc-YRPmzu2f_QoBiyhGGmdA",
+    "text": "A successful failed experiment! \nWe learned at university that your failures can lead to new or better discoveries.\n\n\nI made some PCBs for the rectifier, with AC on one end and the DC on the other, so I can simplify things.\nI believe you can even but DIP rectifier \"chips\" that do the same.",
+    "likes": 0,
+    "published_at": "2023-02-23T20:05:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxuqDhFS22BoyI5d5t4AaABAg",
+    "author": "@armandbarbe1812",
+    "author_channel_id": "UCIZdpVxgfdNsS-Nxd0jrQqg",
+    "text": "1. Needs high pitch angle at hub, low pitch angle at tips, to keep constant angle of flow. 2. Could benefit from slot effect between parts of the blade if designed properly for high torque, slow speed. 3. It’s all about thrust versus drag. Single foil has low drag.",
+    "likes": 0,
+    "published_at": "2023-02-23T20:02:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwNRBabAiXvDy85FeZ4AaABAg",
+    "author": "@Dalorath",
+    "author_channel_id": "UCNlACByIOUbVsDOK2qNnGUA",
+    "text": "The benefit of this blade is only in its reduction of sound production... THis was created so the government could silently drone around.... THe sound waves deflect into different areas due to the blade design, And away from the human ear, and still gives enough lift to keep a drone in the air. if angles correctly... Its a scarry technology and My morals restrict usage where it would harm.",
+    "likes": 0,
+    "published_at": "2023-02-23T19:42:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQXkDhi-DWN4hPuiB4AaABAg",
+    "author": "@R2NOTU",
+    "author_channel_id": "UCfV_QYBlJbzlN6YxQoDLkJw",
+    "text": "I saw a article in popular science or mechanics magazine decades ago concerning a new discovery in aerodynamics it was little bumps over a windfoil that dramatically hugely dropped the resistance unlike golf balls with their holes this was bumps and I always wondered what it might do to a windmill if you can find it when you're doing your 3D printing you might be able to apply the technology but they said it was a huge improvement that most improvements had a certain degree of success but this was many times higher and I've never seen it used in any application why have a breakthrough if you don't use it",
+    "likes": 1,
+    "published_at": "2023-02-23T19:36:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzXGoe544gwoJN6gb54AaABAg",
+    "author": "@markgrayson7514",
+    "author_channel_id": "UCwchaTRL-taKfjuVfQMtimg",
+    "text": "My home's 1500W turbine is quite annoying, but winter days that have no sun in my location have strong wind. Generating the same power without the annoyance (especially tip speed) with a much larger but quiet prop replacement would be great. Something along these lines has promise.",
+    "likes": 0,
+    "published_at": "2023-02-23T19:30:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyTHCPSEYYMnRtgfzR4AaABAg",
+    "author": "@Xanderbelle",
+    "author_channel_id": "UCovhD1EwY8RAVipE1VU__2w",
+    "text": "The blade profile looks very flat, do you think it  would improve any if it had more of a 'wing' aerodynamic ?",
+    "likes": 0,
+    "published_at": "2023-02-23T19:28:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzUTWPzU36onGP3EG94AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "wonder if there would be a difference in your darwin turbine with one of these blades. directed airflow and enclosed around the blades.",
+    "likes": 0,
+    "published_at": "2023-02-23T19:27:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx8UZV1Z6nFczA-wZ14AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Thank you for making this video. And that is why we do testing! great stuff. \nWhen I was making fan blade designs, \"cute\" designs generally did very poorly.",
+    "likes": 1,
+    "published_at": "2023-02-23T19:21:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy6-l4ZfgEttVzb1cd4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Nice 👏",
+    "likes": 1,
+    "published_at": "2023-02-23T19:21:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyI-4eSAEmfdCxmkiF4AaABAg",
+    "author": "@ZirothTech",
+    "author_channel_id": "UCezOhPRojzE_Du7XQodCKxQ",
+    "text": "Enjoying these videos Robert! Always interesting to see things actually built and on the test bed. From what I have seen you need pretty high RPM to make use of the dispersed tip vortices. I wonder if you made a small light-weight one and used high speed compressed air to get it really spinning up, whether you might see any improvements. Cheers for the video!",
+    "likes": 8,
+    "published_at": "2023-02-23T19:19:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVtjuQfUVMFug87vp4AaABAg",
+    "author": "@Mrjrich37055",
+    "author_channel_id": "UCrKczoFxSM5hEitXYUmSp7w",
+    "text": "I think if you were to put a squirrel cage in the flow of your Darwin turbine it would work a treat. At least in theory it would.",
+    "likes": 0,
+    "published_at": "2023-02-23T19:15:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwvFBeoAa2gMBAwlvZ4AaABAg",
+    "author": "@hoog111",
+    "author_channel_id": "UCtPnGokuGL_vxSvi8flzpNA",
+    "text": "Sorry Rob I’m not Fan",
+    "likes": 0,
+    "published_at": "2023-02-23T19:14:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbeIgTLsEdTHmT4sZ4AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "Hi looks like the plastic from the top off a 4 pack,so supply wouldn’t be a problem if it did a better job. 👍🌞🐝",
+    "likes": 0,
+    "published_at": "2023-02-23T19:06:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzAZDx0S42s3yu2GGV4AaABAg",
+    "author": "@pauldent3059",
+    "author_channel_id": "UCXbRFSVEqQrmkvpCPNuaQ3Q",
+    "text": "I think the reason it works so well on boats is because of fluid dynamics it's cutting through the water and in effect trying to compress the fluid and in doing so produces thrust but in air it just causes turbulence and the momentum is lost.",
+    "likes": 0,
+    "published_at": "2023-02-23T19:00:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw70Rg4-zE7U5Mt9yZ4AaABAg",
+    "author": "@ile84",
+    "author_channel_id": "UCUYihge_pM14WoGlPwe616Q",
+    "text": "Well good to know that it is quite likely a garbage as a generator blades as well. Too bad since it looks pretty. :D",
+    "likes": 0,
+    "published_at": "2023-02-23T18:50:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJYovUOlFk44TFHlN4AaABAg",
+    "author": "@ToninFightsEntropy",
+    "author_channel_id": "UC9MaHZ-CYK9g0aSvXekiQAA",
+    "text": "Hehe nice TARDIS! For a bit more realism try adding shadows by making black layers and adding a Mask on em to draw the shapes. Edges can then be feathered/blurred, and opacity down to about 20-30% usually looks nice. Are you using Adobe After Effects, or something similar?",
+    "likes": 1,
+    "published_at": "2023-02-23T18:38:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgznmTF0IJxx8KLTFhp4AaABAg",
+    "author": "@mikaelfransson3658",
+    "author_channel_id": "UCQo1WsG4MKxTWKpce3BvzNw",
+    "text": "For a few yaers ago! they turn the end in a round position! it look funny and they never get to be a hit! Then I see this I see something how can be stronger and have more  endurance! but that is a guess nothing more but if we do this in a metal it might be worth a test! It can be like the oldest VAWT it do what we want and in long run it might be a hit! But do I  believe in it not  minute! But have an open mind is important! And if we take out the energy from a bicycle wheel rim around this it is interesting!  🥸 /Mikael PS. You get out of a small room Rob. like Clark Kent! and in near all Marvels comics series has Nicola Tesla in it one of his name is Lex Luthor! When Elon Musk explaines his condition with Asperger I see a coming Lex... People are just mean! But when the Fatboy and his friends do this World to a better place again, we do not care about this bad comments we just smile on are trip to the Bank! DS.",
+    "likes": 1,
+    "published_at": "2023-02-23T18:29:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzmPQLJ_2AG4PBYHjd4AaABAg",
+    "author": "@industrialmonk",
+    "author_channel_id": "UCjIlhKpZohPeyDaTBs9q_lw",
+    "text": "I think it's the medium in which thay work that's why ship's don't use air craft blade's & vice Versa even though you can technically consider air or water as the same in fluid mechanics but thay require different designs for the different mediums.",
+    "likes": 1,
+    "published_at": "2023-02-23T18:28:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxM00dUjspnaZbiJgN4AaABAg",
+    "author": "@ur_quainmaster7901",
+    "author_channel_id": "UCL0zGrYuGYLnhvfmtQU_2OA",
+    "text": "With the way turbine blades resemble sail plane wings, I've often wondered if adding winglets would help reduce losses from vortex generation.  \n\nAlso, nothing is more reassuring than someone who goes back to check their work.... I've known confident fools all my life. Nice job.",
+    "likes": 0,
+    "published_at": "2023-02-23T18:19:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxM00dUjspnaZbiJgN4AaABAg.9mUS75Z7PwT9mZLWutJAu-",
+        "author": "@johnramirez5032",
+        "author_channel_id": "UCeX7Mb_E9b45Af4P2LEtrOw",
+        "text": "Perhaps little winglets at the right angle for the speed would help. Putting fan in a tube might make a difference also. All blade design work differently at certain speeds. You almost need a viable pitch to get the most torque and relative speeds. Area of blade in a torado blade is much greater. . So a smaller  diamerer speeking would be needed. Comparing blades by diameter is a mistake.",
+        "likes": 0,
+        "published_at": "2023-02-25T15:57:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzpakt7nJfa04wbh_V4AaABAg",
+    "author": "@hommerdalor6301",
+    "author_channel_id": "UCH9ImhaUmbRX3DxT4Hbo4_w",
+    "text": "Hi Rob.\nCould the tested toroïdal turbine have a preference, for wich way the wind goes in?\nIt seems that the shapes of the loop are curve differently on each end, maybe some aerodynamic lifting could occur?\nSure, at the tip of the blade something in the design is not right, as you’ve show.\nWith a roll meter, we can reproduce one blade loop, and change the angle to find some kind of idea to inproove it.\nCheers.",
+    "likes": 0,
+    "published_at": "2023-02-23T18:16:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwDbh_EwWGlG8Zj8sp4AaABAg",
+    "author": "@krisztianvirag4807",
+    "author_channel_id": "UCS0gZ7gGR27aoyhggluCi2w",
+    "text": "Same as stirling motor, it's not good for anything, but they still make it .",
+    "likes": 0,
+    "published_at": "2023-02-23T18:15:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwKMilyH940QkDXLQ54AaABAg",
+    "author": "@High-Tech-Redneck",
+    "author_channel_id": "UCWBFpqDeDGk9EVE177v-pvQ",
+    "text": "the boat propellers are a little different shape, and you should investigate the EXACT design of the boat propeller torodial propeller",
+    "likes": 0,
+    "published_at": "2023-02-23T18:13:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyrvR0vxQtAL5phex14AaABAg",
+    "author": "@saiello2061",
+    "author_channel_id": "UCsQiuEDozzUfA8eH6-CPzDQ",
+    "text": "I don't have any faith in these new fangled props, but to be fairer, you have the prop on the wrong way round.... 😋",
+    "likes": 0,
+    "published_at": "2023-02-23T18:09:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzyXXDWkGdQ0qFIm8x4AaABAg",
+    "author": "@1992jamo",
+    "author_channel_id": "UC0zkbMawSnDivhZTL3Zs76g",
+    "text": "Thanks for the video. These things are only more efficient when the blades would otherwise cause cavitation. While you're not interested in them as propellers, that is where they shine (at much higher RPM).",
+    "likes": 2,
+    "published_at": "2023-02-23T18:08:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyXXDWkGdQ0qFIm8x4AaABAg.9mUQuEbKcaj9mUX_27gANm",
+        "author": "@helenlawson8426",
+        "author_channel_id": "UCNPXUBhR4N_IFrHHVoGLMXA",
+        "text": "This^\nThe Toroidal Prop was designed for reduced cavitation at high speed and in water. With a redesign & enough revs you might get it to work reasonably good as a flight propeller but as a blade for a wind turbine I can't see much point. Better to play with blade tip design on a normal blade to increase efficiency & reduce noise. Also just increasing the number of blades can reduce noise at the right speed. The right blade for the expected wind speed is very important.",
+        "likes": 2,
+        "published_at": "2023-02-23T19:06:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyS_KdNCgVhRfxqtBd4AaABAg",
+    "author": "@timothyneiswander3151",
+    "author_channel_id": "UC1aRRnNcQvLUe8nDND6RyVw",
+    "text": "There is a certain advantage to it looking cute.\nCertain communities might oppose you putting up wind turbines because they don't like the look of them. Take an aesthetically pleasing blade design, give it a paint job to have an interesting visual effect in motion and you will get less opposition.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:56:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgySwhq5K48N6d5A5gV4AaABAg",
+    "author": "@EpIcHoBoGuY",
+    "author_channel_id": "UCAunnBKEcQzlJZD3CJJoHog",
+    "text": "the only reason these are impressive when used on drones is because they are much quieter at high speeds without much loss of thrust, maybe it could be good for home use if conventional turbines are too loud but i think if you are getting windspeeds that can turn this in the 1000s of rpm then you have bigger things to worry about",
+    "likes": 2,
+    "published_at": "2023-02-23T17:53:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxifNurmAfWRWSDnql4AaABAg",
+    "author": "@oneplaneteer1708",
+    "author_channel_id": "UCqGlxgTdGX5FO5TU0BLQE4Q",
+    "text": "I keep seeing a design flaw in a lot of these test rotors. The pitches are backwards, in that the pitch closest to hub are shallow and the pitch at the outside is damn near parallel to the axis.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:51:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzWljoHMkrvT92tVUF4AaABAg",
+    "author": "@C-M-E",
+    "author_channel_id": "UC-uO_c1bTtfJCBh8ltJ30qg",
+    "text": "For the novelty of these, I can see them being useful in water where the material density is dramatically different than air, though in that respect, you can simply add a ring shroud to a standard propeller and achieve the same result. If the aim is to 'catch more wind', two archaic cones counter positioned on a stick would serve better. You nailed the end note though, Robert. It looks neat, therefor it must be better than standard.  SOP for the internet I'm afraid.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:49:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzWLOrGMm-1akB9uut4AaABAg",
+    "author": "@ryanlebeck259",
+    "author_channel_id": "UC6p_9ZsOo1BZU71I1abBTxA",
+    "text": "Without meaning offense it occurs to me that a propeller designed for use in water will behave differently when it encounters a compressible fluid.\n\nAlthough many might just waive their hands about at me when I say this it important to consider the compressibility of fluids as materials when you apply the discipline of materials science to your engineering formulations.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:46:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugze2qhZ758oAWAvUrd4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "It seems to me that Propulsion sort of props (which need to not have drag) are the precisely wrong concept for trying to Catch the wind.  \nThe things I see that spin the best in wind are like pinwheels, or your rose turbine.\n\nIt seems like (and I may be wrong) you dont want something designed to cut Through the wind, if youre trying to Catch it.\n\nDunno.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:41:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxEhNfnhByylJ8YzGd4AaABAg",
+    "author": "@sirskullington9213",
+    "author_channel_id": "UCFv9GtgjU2iWTVA9yVo-dqw",
+    "text": "What would happen if u used one to drive a pump?",
+    "likes": 0,
+    "published_at": "2023-02-23T17:40:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzsYrAd7O5qGuMyR3Z4AaABAg",
+    "author": "@IlluminatedFeline",
+    "author_channel_id": "UCVF50tOXS-55lwU184EBCrQ",
+    "text": "What if you duct it?",
+    "likes": 0,
+    "published_at": "2023-02-23T17:40:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzgNEuIdhm_WwQM88V4AaABAg",
+    "author": "@jonbutcher9805",
+    "author_channel_id": "UCw0lryIDvU4GbMeqUo0V59w",
+    "text": "It looks like the angles are all wrong. I wouldn't be to quick to dismiss especially after your lecture on expert vs expertise. More experiments on design shape and angle to the prevailing winds may be in order. I'm a dummy on most things but it seems a swept area has to be more than that. Is it possible that the same area between a flat board and a aerodynamic shaped board have the same area but wildly different performance values. I'm sure I've missed the nuance of the subject matter. But remember your audience is varied and some like myself would like more than the spoken word when we see  that slight changes May yield better results even if we are totally wrong about it. Or at least let us know we should try it ourselves but to give the eager minds the it's no good because of AB and C when the rest of the alphabet is unexplored is a tad uneducable to some. Darn it. Im having trouble trying to explain without causing offense. Please don't take it as such. Non is intended.",
+    "likes": 1,
+    "published_at": "2023-02-23T17:32:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynpyazwLuZSkROQcR4AaABAg",
+    "author": "@valveman12",
+    "author_channel_id": "UCgp4fA-C6_I4k3PtRQepZuA",
+    "text": "The beginning of your video reminded me of Dr. Who...",
+    "likes": 0,
+    "published_at": "2023-02-23T17:32:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxgSqXmpHVdqw026KJ4AaABAg",
+    "author": "@jonbell3531",
+    "author_channel_id": "UC8SqsV4PN2yCQGb_FCaaL9A",
+    "text": "Dear Robert sir, I think you may have it on backwards. If so, it won't have been a fare test. Looking at the video the wind will be deflected by the front edge of the blade then be turbulently sucked back round as it passes causing deceleration and drag. If it was on the other way round then after the initial deflection it would be further accelerated by the curve of the blade. Yes/No?",
+    "likes": 0,
+    "published_at": "2023-02-23T17:26:54Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxgSqXmpHVdqw026KJ4AaABAg.9mUM8f6yF6h9mUMJ7K1yqU",
+        "author": "@tlangdon12",
+        "author_channel_id": "UCkwhoin7aBfQE5i_cIvMIEg",
+        "text": "No, it's mounted the correct way. You can see the camber on the blades.",
+        "likes": 0,
+        "published_at": "2023-02-23T17:28:20Z"
+      },
+      {
+        "id": "UgxgSqXmpHVdqw026KJ4AaABAg.9mUM8f6yF6h9mUNfLLkp5j",
+        "author": "@jonbell3531",
+        "author_channel_id": "UC8SqsV4PN2yCQGb_FCaaL9A",
+        "text": "@tlangdon12 someone else already questioned the direction, describing it as set up for thrust. Turned 180 the \"camber\" would be similar but deflecting the blade to cause further acceleration, at least in low wind speeds. The way shown in the video seems that the initial leading angle is steeper but becomes shallower - should it not be shallower on the leading edge becoming steeper to add further acceleration?",
+        "likes": 0,
+        "published_at": "2023-02-23T17:40:14Z"
+      },
+      {
+        "id": "UgxgSqXmpHVdqw026KJ4AaABAg.9mUM8f6yF6h9mUb-td-V7h",
+        "author": "@tlangdon12",
+        "author_channel_id": "UCkwhoin7aBfQE5i_cIvMIEg",
+        "text": "@jonbell3531 The blade in the video is quite flexible so it will untwist under load. It doesn’t matter if the load is from it being driven by a motor or by the wind.",
+        "likes": 0,
+        "published_at": "2023-02-23T19:45:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJw6RR41UJYKkogq14AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "The design is to reduce cavitation which is to reduce the formation of bubbles or air pockets as it produces thrust.\n\nIn reverse, the blade is not spinning to produce thrust and therefore will not produce cavitation and does not need to reduce cavitation. \nIn reverse, thrust that already exists in the wind, is causing the blade to spin.\nIn reverse, the blade is the consumer rather than the producer.\nThe blade is reducing the amount of thrust through consumption.\n\nI think that your tests show that just because a blade is more efficient in producing thrust in water, that does not necessarily equate to being more efficient in producing thrust in air, and especially does not make it more efficient in converting the thrust of wind, into useful energy.\n\nIt may also mean that, the claim of the design being more efficient in water is actually not true and just a marketing scheme.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:25:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6dLBu3TnGyBEwaK94AaABAg",
+    "author": "@grunwode",
+    "author_channel_id": "UCBSqV7b6nnIFX0e0JuuzzTA",
+    "text": "Is that better than other methods of limiting cavitation?",
+    "likes": 0,
+    "published_at": "2023-02-23T17:21:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwduWQUoN-qgWsXRtd4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "I think the reason for the popularity of the Toroidal Propeller is several fold .....\n\n1. It started off in the marine industry where there are definite advantages due to lack of cavitation.\n2. It made a Noise as a quiet prop for drones. Whilst this is less obvious the high spin rate and the formation of vortices from traditional blades causing noise the obverse is also true.\n3. It is new and sexy, MIT have jumped on the bandwagon ( prostituting an organisation like that is beyond me .... but it is American) and everyone jumps on board .... and they can't be wrong because everyone else is doing the same! It reminds me of Tulips!\n\nInteresting fact ...... In a plane driven by propellers most of the noise is generated not by the engine, but by the propeller! (At least in modern planes, Not sure about some of the WarBirds)",
+    "likes": 0,
+    "published_at": "2023-02-23T17:21:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTS0lSu1iEjjPc_AF4AaABAg",
+    "author": "@Nuts-Bolts",
+    "author_channel_id": "UCAceNs7SDg2wtp2K1LT1QDg",
+    "text": "Any plans to build a wind generator that flaps like an ornithopter (from Greek ornis, ornith- \"bird\" and pteron \"wing\") ? It would look good even if it was a little... err you know.",
+    "likes": 0,
+    "published_at": "2023-02-23T17:19:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZ8FXqsAN9lMKwehZ4AaABAg",
+    "author": "@pauljenkinson1452",
+    "author_channel_id": "UCr9zs241THkgNXyc8w9vcbw",
+    "text": "I am surprised why people think they can get more than what is expected by a wind turbine after you have explained the power generation calculations. Wishful thinking and emotional attachment me thinks.",
+    "likes": 1,
+    "published_at": "2023-02-23T17:18:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx7nG0npD7b3EFht2d4AaABAg",
+    "author": "@c3N3q",
+    "author_channel_id": "UC6iNjsYqBoF5uRrrUPuR4WQ",
+    "text": "As a guy who has never built or tested a propeller, I wouldn't dismiss these toroidal blades just yet.\nMaybe they need some sort of external enclosure/funnel to get the best of the design,, hashtag Vortex/Tesla... 🤫\nComputer guys claim they are quieter as cooling fans, which if true should account for something...",
+    "likes": 0,
+    "published_at": "2023-02-23T17:17:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxv7s8ZDjxJ1KzRgq14AaABAg",
+    "author": "@ArbitraryOnslaught",
+    "author_channel_id": "UChhlgNFDTjUWTgqFiIjNo2g",
+    "text": "Some papers claim they are more suitable for water, reducing cavitation(Boat prop). Would a hydro turbine perform better with less drag?",
+    "likes": 0,
+    "published_at": "2023-02-23T17:16:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxpBvFQ8bV0OP6gpch4AaABAg",
+    "author": "@timlowery7156",
+    "author_channel_id": "UCFzm7HzVglJr79G34_IZsGw",
+    "text": "Mmmm... a budget TARDIS",
+    "likes": 0,
+    "published_at": "2023-02-23T17:14:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz1Rrk2WQ3_54xuPKN4AaABAg",
+    "author": "@jaynejones5743",
+    "author_channel_id": "UCmMjhFozr36jI6Ug75rUBTg",
+    "text": "Hey Robert Neat video.  Would this work in a hydro turbine application 🤔",
+    "likes": 0,
+    "published_at": "2023-02-23T17:12:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzDtTbnOrh7pWcBBgl4AaABAg",
+    "author": "@jerrodlopes186",
+    "author_channel_id": "UCaCbBqtJWPbjAgx6E2KN4Yw",
+    "text": "I would be willing to bet that the pitch of the blades is just too steep for the application. Flatten it out a fair number of degrees and you will likely see a big difference. Also, there appears to be no chord line to this toroidal prop you were given. It looks on video like a flat ribbon that was twisted into shape. There needs to be an arc to its surface area in order to fully utilize the air pressure being directed at it. In this case you want an impeller rather than a propeller, so the inverse orientation is what is needed...I think 🤔.\n\n*Not an EXPERT, just a guy with a lot of boating and aviation experience (propellers).",
+    "likes": 1,
+    "published_at": "2023-02-23T17:12:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzsncF6vSWMsTRLNi94AaABAg",
+    "author": "@andyperry7884",
+    "author_channel_id": "UCKkBzelDLDazdO6nb2ZYdag",
+    "text": "3 blade vs 4 blade hmmm.....not a comparison........wind turbine use 3 blades coz they are the most efficient Rob...but i do think the toroidal is naff....stick to the wind wall down thrust generators....dont waste time on this",
+    "likes": 0,
+    "published_at": "2023-02-23T17:11:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwf6RKr3jZ-xHY56zl4AaABAg",
+    "author": "@jamesrcrypto",
+    "author_channel_id": "UC42DOIgPeEUra3KGhkvy02A",
+    "text": "Looks like another persons gold there",
+    "likes": 0,
+    "published_at": "2023-02-23T17:10:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyT77-BTQjjuifo_KF4AaABAg",
+    "author": "@jswets5007",
+    "author_channel_id": "UCaHm0hnXL9so65kPTUmk83w",
+    "text": "Trying to beat hydrodynamics with aerodynamics only works to affect the handling of the object. It does nothing to increase the total hydrodynamic forces. I think...",
+    "likes": 0,
+    "published_at": "2023-02-23T17:05:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwECzB5koHAbLfZF8h4AaABAg",
+    "author": "@robinvince616",
+    "author_channel_id": "UCx5Rahewiv5ENRwcfY61SuQ",
+    "text": "Well done Robert! A resistive load is much more sensible than an LED which just clamps the output voltage to the LED array's natural forward voltage characteristic, allowing it to light even with a ridiculously small amount of current. But a fairer test still, would be to choose a load resistor that causes the output voltage to drop to half of its off-load value. Now do that with your two different designs of propeller under the same wind conditions, and compare the resultant powers produced.",
+    "likes": 8,
+    "published_at": "2023-02-23T17:03:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwrGW-vpjhbiesuexV4AaABAg",
+    "author": "@billy-go9kx",
+    "author_channel_id": "UCVefJ5B-i7g3yvSVVLvzRjg",
+    "text": "When are you Brits going to share that technology with the USA?  \n\nI am speaking of the Targus. LOL\n🤣🤣🤣",
+    "likes": 0,
+    "published_at": "2023-02-23T17:02:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxQvQRxNDWQdTalSTh4AaABAg",
+    "author": "@OverUnity7734",
+    "author_channel_id": "UCiZlxqFPOVIk8WDbI8mCSUw",
+    "text": "The promotional video I saw pointed out that the friction / density of water is different than air and that means different angles and distances of blades are needed when going from one to the other.  If tests were done with properly dimension \"air\" blades then I would be more inclined to believe the \"debunking\".",
+    "likes": 1,
+    "published_at": "2023-02-23T17:00:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxQvQRxNDWQdTalSTh4AaABAg.9mUJ8Sjv6-59mUJkl-Bk8S",
+        "author": "@OverUnity7734",
+        "author_channel_id": "UCiZlxqFPOVIk8WDbI8mCSUw",
+        "text": "I don't think I have seen anything more efficient than the Golden Ratio Turbine.",
+        "likes": 0,
+        "published_at": "2023-02-23T17:06:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxdPD41mgOWrUb2rap4AaABAg",
+    "author": "@andrewalexander4024",
+    "author_channel_id": "UCkLaQ1-Qh5bHr0SWSmjhJig",
+    "text": "Thank you Robert for a more considered look at the possibility the toroidal fan might be better but it ain't, we don't ask you try things to anoy you we ask to participate great channel",
+    "likes": 0,
+    "published_at": "2023-02-23T17:00:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-XF3t9DPiiBo5FX14AaABAg",
+    "author": "@FinGoju",
+    "author_channel_id": "UCts-Pmhca3UqMmn3tDOPBJw",
+    "text": "Totally unrelated to this propeller.But I was just thinking if that Darwin wind generator could be used as a vawt, so that high wind speeds would rotate the whole thing AND push the air to the tube.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:58:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgysWDW2xQUSLN3l1HV4AaABAg",
+    "author": "@Mr.Unacceptable",
+    "author_channel_id": "UCrLA6oIS9vdBp_NXk79sRww",
+    "text": "Major Hardware is testing a bunch of fan shapes. I wonder if his experiments are any help to you. They do appear to be a lot of variations. Or are people inspired in asking after watching his videos.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:57:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzvCc1PyfFuhrQKHNB4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "Did you know that different resistive loads produce different power? For a given rpm of the alternator there is one resistance that produces the most power. Voltage times current. At other resistances the voltage is highest and others the current is highest. But only one resistance that produces the most watts. My theory is that that ideal resistance is equal to the inductive reactance of the alternator stator at that rpm. Change the rpm/ frequency and the ideal load resistance changes also.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:57:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJswM2FtTXW7jYxk94AaABAg",
+    "author": "@JohnTarbox",
+    "author_channel_id": "UCdTkYCjJNiuqZrvytKSdm4A",
+    "text": "Why did you test with a 100-ohm load? Will the power output vary with load resistance?\n\nWhen testing the output of a solar panel it is generally measured at its MPPT and an MPPT curve is produced.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:55:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw9qsP-xMEPt2cH5hd4AaABAg",
+    "author": "@oSonine",
+    "author_channel_id": "UC5KuwKgmDT2XvPacNTyjrFQ",
+    "text": "Just a thought 🤔... If the working surface was further out on the edge of the peripheral like a standard turbine blade wouldn't it be more effective and produce more torque? Seems like the working surface is only usable in the middle of the \"blades\".",
+    "likes": 1,
+    "published_at": "2023-02-23T16:51:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxDUm0YijkWMZdX0Ad4AaABAg",
+    "author": "@deltonlomatai2309",
+    "author_channel_id": "UCQG53cvws9rnNxIt1uOGm8Q",
+    "text": "How well does a TORQEEDO or a toy wind spinner propeller work?",
+    "likes": 0,
+    "published_at": "2023-02-23T16:50:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwv_Imq611vAcc0LNV4AaABAg",
+    "author": "@throngcleaver",
+    "author_channel_id": "UCctVtIyU2cL7i0BJKVo7K0A",
+    "text": "A single blade propeller is the most efficient.  However, the rotating thrust forces strain the driveline components.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:50:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0k5SIGM-5t2ismv94AaABAg",
+    "author": "@reincarnatethylacine70",
+    "author_channel_id": "UC8T6xjWFzlmrn2Hu9lFUqqg",
+    "text": "A possible gain toroidal propellers might offer is in reducing blade tip drag as all wings produce drag inducing vortexes as a part of producing lift. This is the aerodynamic improvement behind high aspect ratio wings, Q tip propellers and winglets on aircraft. Then again it might not. (Is there any-one out there with CFD abilities to assist? ) If Q tips made any real improvements in wind turbine blades, which already have high aspect ratios, they would already be in use.",
+    "likes": 1,
+    "published_at": "2023-02-23T16:48:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw0k5SIGM-5t2ismv94AaABAg.9mUHmDmiNMX9mULvmk3pvP",
+        "author": "@tlangdon12",
+        "author_channel_id": "UCkwhoin7aBfQE5i_cIvMIEg",
+        "text": "And they are. Some large scale wind turbine blades have winglets.",
+        "likes": 0,
+        "published_at": "2023-02-23T17:25:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxbJ5SzsX0gNd2NC7F4AaABAg",
+    "author": "@tonysummers2334",
+    "author_channel_id": "UCQw39LEW-PxbKLZdEYfWSvw",
+    "text": "I like the idea of the Darwin wind diverter as a mobile system for motorhome/camper use. Can you develop this to use a 3d printed vertical turbine with generator and some form of exhaust to create a venturi to produce charging for a 12v system?",
+    "likes": 1,
+    "published_at": "2023-02-23T16:47:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwNYBHlkKeLqowj9rx4AaABAg",
+    "author": "@jyvben1520",
+    "author_channel_id": "UCwb-5YjCNwSK_dhS00QObWg",
+    "text": "doesn't the rectifier part use up energy ?",
+    "likes": 0,
+    "published_at": "2023-02-23T16:46:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbvYnqRjZmbPwBpLF4AaABAg",
+    "author": "@newmonengineering",
+    "author_channel_id": "UCz_0pvSiiZs68SpQbDcsjxw",
+    "text": "I think their application in water is the key. They are more efficient in liquid and prevent cavitation pitting which was the intention. They may work in air but they need some redesign to work efficiently in air. The current versions in water are very good but air and water are 2 different things. Although they obey some similar fluid dynamics there is no comparison to the drag and density of them. Maybe someone smarter could design one that works well with air but until then these should remain for boats in my view.",
+    "likes": 17,
+    "published_at": "2023-02-23T16:46:09Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwbvYnqRjZmbPwBpLF4AaABAg.9mUHU89s-_E9mUNjGS7n5U",
+        "author": "@pompeymonkey3271",
+        "author_channel_id": "UCC4FYU9329L3i4dmrdJCXCQ",
+        "text": "I understand that cavitation damage to props reduces efficiency, and is also is expensive to repair/replace.\nI do not understand the relative economics of maintenance vs efficiency, but I can very much see that this design could save on both, so it must be a winner(?) :)",
+        "likes": 0,
+        "published_at": "2023-02-23T17:40:46Z"
+      },
+      {
+        "id": "UgwbvYnqRjZmbPwBpLF4AaABAg.9mUHU89s-_E9mVJQN4vKcg",
+        "author": "@russellzauner",
+        "author_channel_id": "UCHQd6hTYRdoLy0LlcEI777g",
+        "text": "@pompeymonkey3271 Think if you never had to replace the propeller on a cargo ship, ferry, or large yacht.  Theoretically, no cavitation, no steam damage, no extraordinary stress or degradation could result in props you can use not for the lifetime of the powerplant but the lifetime of the *vessel* itself.",
+        "likes": 1,
+        "published_at": "2023-02-24T02:22:21Z"
+      },
+      {
+        "id": "UgwbvYnqRjZmbPwBpLF4AaABAg.9mUHU89s-_E9mVsNzLkLBG",
+        "author": "@benholroyd5221",
+        "author_channel_id": "UC28lZqvZS6ItO_UedQsuRZw",
+        "text": "I would expect them to be more efficient due to wing tip vortices.\n\nIf they end up quite, that's also a plus, and a sign of increased efficiency.\n\nBut they're harder to make, and I doubt you could make these as big as an equivalent normal blade.",
+        "likes": 0,
+        "published_at": "2023-02-24T07:36:35Z"
+      },
+      {
+        "id": "UgwbvYnqRjZmbPwBpLF4AaABAg.9mUHU89s-_EA40jDiAvCGt",
+        "author": "@pir869",
+        "author_channel_id": "UC1yGWqO2jdfV8Z8vLg9DUkg",
+        "text": "yes water and air have the difference in that one is wet and the other is dry,but that is where the differences stop other than water is more viscous than air both are fluid mediums and react in the same manner,so if the toroidal blade can have less input power to get the same thrust or water movement throughput then the same can be said for a toroidal blade in air.\n\nReverse this and the same wind speed should create more torque for the same water or air throughput versus a straight fan blade.\n\nBe aware that  stepper motors do not rotate freely like a normal dc motor/generator.And are not the device of choice for a generator or motor  application ,they are used for precision movement in cnc applications.\n\nI'm not convinced that the test was done in the best way.",
+        "likes": 0,
+        "published_at": "2024-05-29T11:16:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyBJmlVoQlO8VE58lB4AaABAg",
+    "author": "@snekmeseht",
+    "author_channel_id": "UCP88GEaU4tocLD7Sbm5iaVg",
+    "text": "The theory would be that given constant maximum working windspeed, you could use a bigger diameter for the toroidal propeller without exceeding noise limitations. That is, you could run at higher tip speed.",
+    "likes": 1,
+    "published_at": "2023-02-23T16:45:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyBJmlVoQlO8VE58lB4AaABAg.9mUHS0idHHY9mV2dnnfgel",
+        "author": "@claudiopiccoliromera2646",
+        "author_channel_id": "UC6-aun6YoPyjzEB68_NRlkg",
+        "text": "Also, this closed-loop design seems to be inherently more flutter-resistant, which adds to noise reduction. I also would like to see some simulation on what would happen in a larger generator and at higher wind speeds.",
+        "likes": 0,
+        "published_at": "2023-02-23T23:55:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygnB9b10vbfeRJ20x4AaABAg",
+    "author": "@michaelvaughn7137",
+    "author_channel_id": "UCNKJausN5-cg7uFOzTTUzHw",
+    "text": "It's my understanding it was developed to be quieter not more efficient. Which of course is going to translate into less effective !",
+    "likes": 0,
+    "published_at": "2023-02-23T16:44:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy2ODURt2cAQJEmpCp4AaABAg",
+    "author": "@paulwright8378",
+    "author_channel_id": "UCQcUhUPhBM5YQojLuulnK_Q",
+    "text": "They look like those hand held things you see at the sea side",
+    "likes": 0,
+    "published_at": "2023-02-23T16:44:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy2lZp2Ug02uphwjxN4AaABAg",
+    "author": "@mattmill30",
+    "author_channel_id": "UC17S6cwPdS1OFh_PPlvfY1w",
+    "text": "disguised tardis found in Kent",
+    "likes": 0,
+    "published_at": "2023-02-23T16:42:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgznTOWwhis0BEeBvN14AaABAg",
+    "author": "@deltonlomatai2309",
+    "author_channel_id": "UCQG53cvws9rnNxIt1uOGm8Q",
+    "text": "As always, good stuff.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:40:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5R8AMGHevsVytpW94AaABAg",
+    "author": "@murdocks4304",
+    "author_channel_id": "UCrIHrTgo59EBgoBWhEhmTEA",
+    "text": "👍Rob, truth hurts hey mate!  those are built for lift and thrust. Don’t take everything so personal folks.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:39:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzEtrwvVv0tUrX3Lgp4AaABAg",
+    "author": "@mattg6472",
+    "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+    "text": "Man I keep getting a bunch of different ground battery commercials on YouTube claiming it's a great power source that's all sorted out. Are you guys not getting these ?",
+    "likes": 0,
+    "published_at": "2023-02-23T16:38:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzEtrwvVv0tUrX3Lgp4AaABAg.9mUGbUps7aL9mUGh8u4JO1",
+        "author": "@mattg6472",
+        "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+        "text": "And it's scripted all the actors say the exact same words",
+        "likes": 1,
+        "published_at": "2023-02-23T16:39:19Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw9izxCdYaVtl7lhYp4AaABAg",
+    "author": "@werewolf1195",
+    "author_channel_id": "UCt5S2tpmLIkXVuc3zCA2b3w",
+    "text": "from the side view it looks to me that the prop was mounted like a thrust propeller / like a fan. if you mount it the other way aroud maybe the geometry of the prop is more effective as a turbine\n\nreminds me of the tesla turbine as a pump video. I think in that video it ran in the wrong direction too. (the housing was distinguishing the airflow direction)",
+    "likes": 2,
+    "published_at": "2023-02-23T16:37:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw9izxCdYaVtl7lhYp4AaABAg.9mUGW_wMs0L9mULhJWtIjJ",
+        "author": "@tlangdon12",
+        "author_channel_id": "UCkwhoin7aBfQE5i_cIvMIEg",
+        "text": "No, it won't generate more power if it was reversed. That way round, it would only produce power using the drag of the blades. As Robert had it held, it was generating power using the lift that the blades produce as the air moves over them. This movement of air is exactly the same relative movement that the blades would encounter if they were powered by a motor or engine.",
+        "likes": 1,
+        "published_at": "2023-02-23T17:23:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxd79KVlhD0XNMXjR14AaABAg",
+    "author": "@yaka2490",
+    "author_channel_id": "UCJYKyLrgnV_Wtyeeas6LZ2g",
+    "text": "thanks for further test robert and i think your right as a wind turbine its not great however hehe... if you look at the efficiency curve when in a boat application it seems this style of propeller simply gets to best efficiency point much quicker and therefore imo the amount of input require to sustain the output is where it seems better maybe... how this translates into a wind turbine application i am unsure but could it be measured by seeing what the moment of inertia is with this prop vs a standard prop ?",
+    "likes": 0,
+    "published_at": "2023-02-23T16:35:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxtbnbq5yZg-lStJGN4AaABAg",
+    "author": "@stevebratton5654",
+    "author_channel_id": "UC9vtpBFmlE8MNXrpCjCPeHA",
+    "text": "I like your new special effects at the beginning of your vids.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:35:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzaF_5XN7XOKN4VALx4AaABAg",
+    "author": "@ET_AYY_LMAO",
+    "author_channel_id": "UCO7NtKggv0JHP3bnUkIDKgQ",
+    "text": "If a fixed resistive load is applied, isn't it sufficient to just measure the voltage and compare those? I mean with Ohms law you would know the amp draw from I = V / R or have I misunderstood something fundamental?\nGreat video BTW. Glad to see people actually debunk this instead of just regurgitating viral videos.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:34:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzYC5qWxYgbbfPoiht4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Thank you very much Robert!!\nI feel as though you have done the work on This....\nSo,,, I don't have to!!😁\nPs, Fantastic Thumbnail!!\nOh and I am not being lazy, I have not been too well recently. ...XxX....",
+    "likes": 1,
+    "published_at": "2023-02-23T16:33:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzcKEly5LcvslevSQJ4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "I agree with having a prejudice from the start. my prejudice is that an increased surface area will likly result in poorer performance.\n\n It is also  good to put our prejudices aside and make a proper comparison.  But I disagree that testing with a fixed resistance is a proper comparison, because  efficiency depends on tip speed ratio. And unfortunately, a fixed resistance does not allow one to vary the tip speed ratio. One simply need glance at a graph showing coefficient of performance as a function of tip speed ratio.\n\n I'm not saying this turbine will have any tip speed ratio that results in a greater efficiency, but one can't prove that with some radomly chosen fixed load.  \n\nI Love what your doing on your channel but your test here, all by it self, is almost a useless comparison.😃",
+    "likes": 0,
+    "published_at": "2023-02-23T16:30:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw5DU0JXQPYGxvQaUl4AaABAg",
+    "author": "@sealpiercing8476",
+    "author_channel_id": "UCSSwe6epldSm2nScoH9IoqQ",
+    "text": "You are shockingly incurious. I'm disappointed in you and will unsubscribe and ignore your channel. It's really embarrassing for you to throw stones given the impractical bric a brac you usually go on about. Is it an ego thing or what?\n\nWings have, like, a zillion parameters, and wind turbine blades are built at the continuously improving limits of what the materials can support. A comparably efficient blade set that improved stiffness would already be important. No comment on how to ship a 150 m radius toroidal propeller blade, though.",
+    "likes": 0,
+    "published_at": "2023-02-23T16:29:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugygn6sosK9LZK735md4AaABAg",
+    "author": "@keithbatcheler4166",
+    "author_channel_id": "UCszuWSLKIvoScMgEHIQb2FQ",
+    "text": "Is there any use with adding winglets to a regular wind generator blades as planes now use, to reduce wind slipage/ tip vortexes , probably not very big due to the relative slow speed but small gains?",
+    "likes": 1,
+    "published_at": "2023-02-23T16:26:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-DSeUIBzpLFxqLxd4AaABAg",
+    "author": "@David_Mash",
+    "author_channel_id": "UC6wheNORAmFmkPA_fx7J6Pw",
+    "text": "Unfortunately I've seen enough to convince me that MIT exploited Google algorithms for press with a stolen design, false claims, and an interestingly empty study that earned them an award. If anything it was a great investigation on the effects of promotion and the Google algorithm in the tech industry.",
+    "likes": 1,
+    "published_at": "2023-02-23T16:25:34Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz-DSeUIBzpLFxqLxd4AaABAg.9mUF7QsnFk39mUFC0TGaCD",
+        "author": "@David_Mash",
+        "author_channel_id": "UC6wheNORAmFmkPA_fx7J6Pw",
+        "text": "I think we should all stop helping them unless we are exposing them.",
+        "likes": 1,
+        "published_at": "2023-02-23T16:26:11Z"
+      },
+      {
+        "id": "Ugz-DSeUIBzpLFxqLxd4AaABAg.9mUF7QsnFk39mUGzZTtceY",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "​@David_MashI Agree 💯👍👍",
+        "likes": 0,
+        "published_at": "2023-02-23T16:41:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLbFCztHgIt18sIqx4AaABAg",
+    "author": "@chiaridude9098",
+    "author_channel_id": "UCevPDCA2t_AtcgSwsg2_36A",
+    "text": "They do look cool.\nI’d like to see some strength/weight ratios with different fill % and support angles 👍",
+    "likes": 3,
+    "published_at": "2023-02-23T16:25:13Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyLbFCztHgIt18sIqx4AaABAg.9mUF4qydULg9mUHfzjtqLS",
+        "author": "@deltonlomatai2309",
+        "author_channel_id": "UCQG53cvws9rnNxIt1uOGm8Q",
+        "text": "I think mass plays a part and fluid viscosity.  The torid has more mass than the regular blade to produce electricity.  I wonder what happens in a high wind?",
+        "likes": 1,
+        "published_at": "2023-02-23T16:47:54Z"
+      },
+      {
+        "id": "UgyLbFCztHgIt18sIqx4AaABAg.9mUF4qydULg9m_peuMjeVA",
+        "author": "@peterca2655",
+        "author_channel_id": "UCDx7HjFlQjUFvv0jqMcfzBA",
+        "text": "I WONDER WHAT EFFECTS CAVITATION HAS ON BEARING WEAR.",
+        "likes": 1,
+        "published_at": "2023-02-26T05:49:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwyLbMqf4QK0Y4IhbN4AaABAg",
+    "author": "@Allan_aka_RocKITEman",
+    "author_channel_id": "UC3C2NBax9OIgVPitEfO41mA",
+    "text": "@RobertMurraySmith  >>> 👍👍",
+    "likes": 1,
+    "published_at": "2023-02-23T16:23:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKse2QS5li9t8MnxR4AaABAg",
+    "author": "@InspectorTony",
+    "author_channel_id": "UCX0W8dv6iUStQUjb7yBbbGQ",
+    "text": "It seems that propeller is predominately designed for safety",
+    "likes": 2,
+    "published_at": "2023-02-23T16:23:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyv1Fg_2kpfO3h1P2h4AaABAg",
+    "author": "@paulmurgatroyd6372",
+    "author_channel_id": "UCQuaBjDG3VULSqpvJxlOcOQ",
+    "text": "Better than the last series of Dr Who.",
+    "likes": 1,
+    "published_at": "2023-02-23T16:22:52Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyv1Fg_2kpfO3h1P2h4AaABAg.9mUEockYmtg9mUJf6J4g66",
+        "author": "@susieshaw2910",
+        "author_channel_id": "UC4Ypjn_F9notGfZ8A4FW56A",
+        "text": "Dr who has gone down 😢 for years",
+        "likes": 1,
+        "published_at": "2023-02-23T17:05:15Z"
+      },
+      {
+        "id": "Ugyv1Fg_2kpfO3h1P2h4AaABAg.9mUEockYmtg9mUhk5VIowq",
+        "author": "@simongross3122",
+        "author_channel_id": "UC88olTq3jC6CA-yjwojlvQw",
+        "text": "@susieshaw2910 I think the last \"good\" doctor was Tom Baker.  Just the right amount of silliness.",
+        "likes": 0,
+        "published_at": "2023-02-23T20:44:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw4ZWFUVP2C9uaCwuZ4AaABAg",
+    "author": "@Boblee84",
+    "author_channel_id": "UCtAIxKaBc8ihxcMwqc7GKtQ",
+    "text": "50% more material than a traditional design, but not 50% more power. In my opinion these props are not worth it. Even if they are 20% less noisy. Like polishing up a good turd, it still a turd at the end.",
+    "likes": 1,
+    "published_at": "2023-02-23T16:19:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw4ZWFUVP2C9uaCwuZ4AaABAg.9mUENyRt2V09mUFKTgEy7Y",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "That's what my husband says when I put my Makeup on 😂!!\n(Seriously, he Does! Fortunately he's quite funny and I Have got a sense of humour!!😆)",
+        "likes": 0,
+        "published_at": "2023-02-23T16:27:21Z"
+      },
+      {
+        "id": "Ugw4ZWFUVP2C9uaCwuZ4AaABAg.9mUENyRt2V09mUKdraWypr",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "A traditional wind turbine with four  blades has a peak efficiency slightly less than than two blades. The presumption is increased surface area results in increased resistance  But the four blade peek efficency is at about half the the rate of rotation and the pitch needed to be changed.  \n\nBut because the wind remained the same, the same energy is in the wind,  and because the rate of rotation was halfed, the voltage from  the same generator was halfed. Rhetorically, how were the researches able to test and come up with roughly equlivent  peek efficency? Because they didn't use a fixed resistance. \n\nOne may  look up \"graph, tip speed ratio or TSR, and coefficient of performance\"  and take note that for any given wind and turbine, the only way to vary the TSR is to vary the load resistance. \n\nI'm not sugesting this MIT inspired  blade will have a peak TSR  that is better than a traditional turbine. Mater of fact I would place money on a bet that it won't. But I am saying that a test with just one randomly chosen resistance is a near useless test on its own.  \n\nAnd while I'm not critical of entering a comparison with a prejudice. I am critical of conclusions resulting from testing methods that are incapable of supporting the conclusion. One may as well just stick with their prejudice and not test because they think a higher surface area always means more drag and lower efficiency. \n\nIn summary, To find the peak efficiency of any turbine and generator, you need to vary the load to vary the turbine's TSR that when graphed, results in an efficency  curve with an optimal efficiency at one load dependent TSR.",
+        "likes": 0,
+        "published_at": "2023-02-23T17:13:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyDZ1RFVXzrQDVlk-94AaABAg",
+    "author": "@tractorguy97",
+    "author_channel_id": "UCLH_bOu0oRNc_WT2amBioig",
+    "text": "Gave the old MIT conspiracy propeller a go 😄 sometimes the math on paper doesnt quite cut it. Nice thumbnail 😂",
+    "likes": 4,
+    "published_at": "2023-02-23T16:15:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyDZ1RFVXzrQDVlk-94AaABAg.9mUE14LkYxh9mUHQWXgIqj",
+        "author": "@technosaurus3805",
+        "author_channel_id": "UCFqusJ9JPYNyb25Oa9JBusQ",
+        "text": "When you use the equations for laminar flow but use the device in turbulent flow, the numbers won't add up. It's a difficult problem to solve in the real world... most US Navy submarine screws (propellers) are classified to protect the research that has gone into (almost) solving this problem in water, at different pressures and speeds. An enlisted submariner (usually a nuke mechanic) with dive quals has to cover it before going into drydock.",
+        "likes": 2,
+        "published_at": "2023-02-23T16:45:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVRHi1w6veIVyUOad4AaABAg",
+    "author": "@brotherpaul963",
+    "author_channel_id": "UCzzZ1tEoGVVq4e1CeLo7sgQ",
+    "text": "The toroidal blade has a greater surface area within the same sweep area. However the angles of the blade are self checking and the drag produced more than compensates for the area gained? I think one haif of a Toroidal blade makes more sense for air interactions.",
+    "likes": 4,
+    "published_at": "2023-02-23T16:13:56Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "UgzVRHi1w6veIVyUOad4AaABAg.9mUDnD9mkvN9mZNJXSIgyz",
+        "author": "@johnramirez5032",
+        "author_channel_id": "UCeX7Mb_E9b45Af4P2LEtrOw",
+        "text": "I think were missing some points here. Area of blade is not being considered.  There is much nore area in a torado blade. Its ment to push more and have less drag.  So a test should include area of blade? Lots of other tests.",
+        "likes": 0,
+        "published_at": "2023-02-25T16:13:19Z"
+      },
+      {
+        "id": "UgzVRHi1w6veIVyUOad4AaABAg.9mUDnD9mkvN9mtxp1gbaPL",
+        "author": "@brotherpaul963",
+        "author_channel_id": "UCzzZ1tEoGVVq4e1CeLo7sgQ",
+        "text": "@johnramirez5032 How can drag be calculated without the size of the blade being considered?",
+        "likes": 0,
+        "published_at": "2023-03-06T01:25:07Z"
+      },
+      {
+        "id": "UgzVRHi1w6veIVyUOad4AaABAg.9mUDnD9mkvN9mu1yF7qknL",
+        "author": "@johnramirez5032",
+        "author_channel_id": "UCeX7Mb_E9b45Af4P2LEtrOw",
+        "text": "@brotherpaul963 exactly.  The diameter is the same. The surface area of blade is not being considered.  The larger  surfave of blade makes it heavier. They are not considering these factors.",
+        "likes": 0,
+        "published_at": "2023-03-06T02:10:04Z"
+      },
+      {
+        "id": "UgzVRHi1w6veIVyUOad4AaABAg.9mUDnD9mkvN9muCuXiwVN6",
+        "author": "@brotherpaul963",
+        "author_channel_id": "UCzzZ1tEoGVVq4e1CeLo7sgQ",
+        "text": "@johnramirez5032 The surface to sweep ratio is a factor and even if you do not see anyone else talking about it, I am. By the way Why are you trolling me? Why don't you have anything positive to say?",
+        "likes": 0,
+        "published_at": "2023-03-06T03:45:41Z"
+      },
+      {
+        "id": "UgzVRHi1w6veIVyUOad4AaABAg.9mUDnD9mkvN9muIlAHPIjz",
+        "author": "@johnramirez5032",
+        "author_channel_id": "UCeX7Mb_E9b45Af4P2LEtrOw",
+        "text": "@brotherpaul963 im not trollimg you. I really was agreeing  with you. Im sorry you think that or if i have said something in a way that is trolling u it was not my intention.  Im fine with what u said. Sorry for any mis understanding.",
+        "likes": 0,
+        "published_at": "2023-03-06T04:36:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAdsZbiUF9Np5EYk54AaABAg",
+    "author": "@D-B-Cooper",
+    "author_channel_id": "UCDn8S_vHItdRK_Eq9fRFnUA",
+    "text": "It is 300% more efficient than a tongue depressor.",
+    "likes": 20,
+    "published_at": "2023-02-23T16:13:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzAdsZbiUF9Np5EYk54AaABAg.9mUDgyA6M6N9mUhQqYeJ8h",
+        "author": "@simongross3122",
+        "author_channel_id": "UC88olTq3jC6CA-yjwojlvQw",
+        "text": "Not at depressing tongues :)",
+        "likes": 2,
+        "published_at": "2023-02-23T20:41:37Z"
+      },
+      {
+        "id": "UgzAdsZbiUF9Np5EYk54AaABAg.9mUDgyA6M6N9m_oL1Geuxy",
+        "author": "@martythemartian99",
+        "author_channel_id": "UCEtgF0shbMx3UmPPpN-VMUw",
+        "text": "Speaking as a tongue, these comments are making me depressed.   ;)",
+        "likes": 0,
+        "published_at": "2023-02-26T05:37:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyNiMq-WZZbjDihQS54AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Oh my they will still be disappointed as it just has to work otherwise why are all the Engineers working on it.",
+    "likes": 2,
+    "published_at": "2023-02-23T16:12:28Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

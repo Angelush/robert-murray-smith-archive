@@ -1,0 +1,324 @@
+[00:02] [Music]
+[00:15] hi so i wanted to talk about the design
+[00:17] principles
+[00:18] of a wind generators now in their
+[00:20] essence they're actually extremely
+[00:22] simple
+[00:22] i mean don't get me wrong they can get
+[00:25] very complicated when you go
+[00:26] really into it but at their very basics
+[00:30] there's actually not a lot to it and you
+[00:32] have to think about that a little bit
+[00:33] when it comes to designing your wind
+[00:35] turbine and what it is
+[00:36] you're going to do when you're going
+[00:38] around building one because a wind
+[00:40] turbine has
+[00:41] three essential components it's got the
+[00:43] rotor
+[00:44] which is the bladed bit that captures
+[00:45] the wind it's got the generator which is
+[00:48] the bit that converts that into
+[00:49] electricity
+[00:50] and then it's got the tower where it all
+[00:52] sits on so you can poke it up into the
+[00:54] wind
+[00:55] now the generator is actually just
+[00:56] essentially this is a dc motor
+[00:58] the job of the rotor is to turn that
+[01:02] it has to turn that with a certain
+[01:04] amount of force at a certain speed
+[01:06] and that will generate now we're going
+[01:08] to do another video on selecting motors
+[01:10] as generators because
+[01:11] again it's another one of those things
+[01:13] that is simple but gets a bit
+[01:14] complicated so we'll have a look at that
+[01:15] in a different video
+[01:17] in this one we're looking at the rotor
+[01:18] the bit that is responsible for turning
+[01:21] that and that's the whole job of the
+[01:25] now if i take a lump of wood
+[01:28] like this out on a windy day the wind is
+[01:31] going to push that
+[01:32] and i'm going to be able to feel it if i
+[01:33] hold that in the wind i'll feel that
+[01:35] pushing against me
+[01:36] that's not a very big bit of wood but
+[01:38] actually it's about the same size as a
+[01:40] blade in the old american west with
+[01:42] those
+[01:43] pump windmills that you saw absolutely
+[01:45] everywhere
+[01:46] but the wind will push on that flat
+[01:48] surface and you'll be able to feel it
+[01:49] pushing against you if you take a great
+[01:52] big bit a bit of eight before
+[01:54] or 2.4 by 1.2 meters on a windy day
+[01:57] you're likely to take off you're not
+[01:58] going to be able to hold that
+[02:00] because that push is very much stronger
+[02:03] the
+[02:03] push is actually proportional to the
+[02:06] area so the bigger the area the harder
+[02:08] you feel the push and
+[02:09] we've all know that if you try to hang a
+[02:11] bed sheet up in a windy day it's a bit
+[02:13] of a struggle if you hang it up on a
+[02:14] still day it's a piece of cake
+[02:16] so we all know that intuitively the
+[02:18] bigger the area
+[02:19] the harder that push now i'm referring
+[02:21] it to his push
+[02:23] but it can be push or lift it's just a
+[02:25] good way of looking at it is
+[02:27] as push so you get a sense that the wind
+[02:30] has a certain amount of power
+[02:32] and that wind power is dependent on how
+[02:35] hard the wind
+[02:36] is blowing and how big that area is that
+[02:38] you're trying to hold up in that blowing
+[02:41] wind that's the amount of power that's
+[02:42] actually available
+[02:44] now because there is no more power
+[02:45] available that's it
+[02:47] if you have those two factors then you
+[02:49] are going to get a certain amount of
+[02:52] push the amount of push that you
+[02:55] get is proportional to the efficiency
+[02:58] of the thing so if i've got a wind
+[03:00] coming straight at me
+[03:01] and i hold that in front of it quite a
+[03:03] lot of push if i do that with it
+[03:06] there's not much at all because i've
+[03:07] reduced the surface area so clearly if i
+[03:09] design a wind turbine blade right
+[03:11] it's pointing that way in the wind it's
+[03:13] going to be pretty inefficient
+[03:15] if i point it that way in the wind i'm
+[03:17] going to get a greater efficiency
+[03:19] because i can capture more of the push
+[03:21] and that's what rotor design is all
+[03:24] about
+[03:24] rotor design is about capturing as much
+[03:28] push as you can get and converting that
+[03:32] into the turning force that
+[03:35] this requires so when you're designing
+[03:37] rotors
+[03:38] asking how many watts that outputs how
+[03:40] many amps how many volts is
+[03:42] actually meaningless it doesn't mean
+[03:44] anything when you're looking at rotors
+[03:46] the two
+[03:46] things that you're looking at really are
+[03:48] the speed at which it goes
+[03:50] and the amount of push that it has when
+[03:53] it's turning around in a circle
+[03:55] now push turning in a circle is called
+[03:56] talk so we're interested in two aspects
+[03:59] when it comes to router design
+[04:01] the speed at which it turns and the
+[04:03] torque at which it turns because that
+[04:06] torque is a turning force now
+[04:09] when i hold this and try to turn that
+[04:11] you can
+[04:12] feel the resistance that it has to
+[04:14] wanting to turn
+[04:16] now this is actually a very low
+[04:18] resistance i can feel that just because
+[04:20] i can spin it easily by my hand
+[04:22] i've got a treadmill motor here
+[04:28] this is a treadmill motor it's a dc
+[04:30] motor
+[04:31] this requires a lot more push to get it
+[04:34] going and again i can
+[04:35] feel it just in my hand how much push
+[04:39] that needs that turning force the torque
+[04:43] the starting talks to get that to go
+[04:46] is the minimum that we actually require
+[04:49] from our rotor design
+[04:51] so our rotor design has to turn with
+[04:53] enough force
+[04:55] to turn this otherwise it won't convert
+[04:59] wind energy into electrical energy
+[05:01] obviously we can't turn that we're going
+[05:02] to get nothing out of here
+[05:04] so the primary consideration we have is
+[05:07] not the number of volts and amps
+[05:09] that a rotor will do because that
+[05:10] doesn't mean anything it's the speed and
+[05:13] torque at which it will turn now speed
+[05:16] and talk
+[05:16] uh can be calculated from first
+[05:18] principles or you can use an online
+[05:21] calculator to give you those without
+[05:22] having to worry too much about
+[05:24] what those equations actually are
+[05:27] or you can model it you can use an
+[05:29] element analysis modeling system and
+[05:31] model what it should be
+[05:33] or you can test it you can take it out
+[05:36] into the wind and you can measure the
+[05:37] wind speed and measure the speed of turn
+[05:40] and measure the torque that it generates
+[05:42] now i'm a practical guy that's what i'm
+[05:44] really interested in i'm interested in
+[05:46] measuring those things
+[05:48] rather than calculating them i will
+[05:50] calculate them because it gives me a
+[05:52] theoretical
+[05:53] amount of talk that can be generated and
+[05:56] that's what those online calculators do
+[05:58] they give you theoretical limit of what
+[06:00] it is that you can actually get
+[06:02] now in terms of the rows what we
+[06:05] actually calculate
+[06:06] using the online calculators and i use
+[06:08] omni calculator incidentally is 0.25
+[06:10] newton meter at 500 rpm that's its
+[06:14] theoretical torque and speed
+[06:17] and that is a target figure for looking
+[06:20] at how efficient your design
+[06:22] is if you want to know how efficient
+[06:24] your design is against what the
+[06:26] theoretical design limit is going to be
+[06:29] an online calculator is awesome for that
+[06:32] job and it can tell you
+[06:33] what it is that your ballpark figure is
+[06:36] when you're designing your particular
+[06:38] rotor and you
+[06:40] measure that rpm and you measure that
+[06:42] torque on the shaft
+[06:44] that can be compared directly to what
+[06:46] the theoretical limit is to give you an
+[06:48] idea of the efficiency of the rotor that
+[06:50] you've designed or the router that
+[06:52] you're trying to use
+[06:54] now measuring um rpm's tendencies upon
+[06:57] an rpm meter at it you'll measure it
+[06:59] measuring torque is a little bit more
+[07:01] difficult
+[07:02] there are now talk as it happens splits
+[07:04] into two bits this static talk and
+[07:06] dynamic talk
+[07:07] static torque is the amount of turning
+[07:09] force that is in balance and it's that
+[07:11] easy to measure just get yourself a rod
+[07:12] bolt it onto your shaft have a weighing
+[07:14] scale underneath and when it tries to
+[07:16] turn it'll press on that scale and give
+[07:18] you a gram reading and of course you'll
+[07:19] know the length of your rod and so you
+[07:21] can work out the newton meters
+[07:23] but of course motors are actually done
+[07:25] while they're turning
+[07:26] and if you have a look at a graph of the
+[07:29] torque of a motor you'll see it's done
+[07:30] in terms of torque over speed
+[07:32] so we need some way of measuring it
+[07:35] while it's actually turning now
+[07:36] you can buy a torque sensor they're a
+[07:38] little expensive or you can make
+[07:40] yourself something called a prony brake
+[07:42] now prony brakes aren't that difficult
+[07:44] to make and once you have one of those
+[07:47] measure the rotational speed and the the
+[07:49] torque as the thing
+[07:50] moves if anybody's interested actually
+[07:53] then i'm quite happy to do a video on
+[07:55] making a prony brake
+[07:56] so using that information that we've got
+[07:58] on the dynamic
+[07:59] torque and the actual power available in
+[08:02] the wind from the wind speed as you
+[08:04] measure it
+[08:04] we can work out the efficiency of the
+[08:06] rotor that is what power that rotor is
+[08:08] actually generating as a rotor
+[08:11] and that's what we really want when it
+[08:13] comes to router design because
+[08:15] the combination of rotor to generator is
+[08:18] yet another step
+[08:19] when we're interested in what that rotor
+[08:21] is doing what we're looking is
+[08:22] at is the amount of power that rotor can
+[08:25] capture
+[08:26] in relation to the wind not the amount
+[08:28] of volts and amps it puts out
+[08:30] that's a step down the line when we
+[08:32] consider generators when we're
+[08:33] considering our rotor design
+[08:36] we're really interested in how much
+[08:38] power that
+[08:39] rotor can capture as mechanical energy
+[08:42] we've not yet transferred it to
+[08:44] electrical energy
+[08:45] because we're using the mechanical
+[08:46] energy of the wind to mechanically turn
+[08:49] a rotor and we need to know
+[08:51] what that mechanical transformation
+[08:54] is how efficient it is so for that we
+[08:57] don't need
+[08:58] amps and faults at this stage we need
+[09:01] speed and so the people involved in wind
+[09:03] turbine design well they basically fall
+[09:05] into two
+[09:05] camps you find all the people who are
+[09:07] interested in that mechanical
+[09:09] capture of the wind energy rotor side of
+[09:12] the design of the turbine and then a
+[09:13] whole bunch of people
+[09:15] who are interested in the generator side
+[09:16] of design so when you look at the
+[09:18] generator side you see all those things
+[09:20] like
+[09:20] axial flux generators interesting sounds
+[09:23] like switch reluctance that sort of
+[09:25] stuff
+[09:25] because they're looking at that
+[09:27] mechanical to electrical energy
+[09:28] conversion part of it and the efficiency
+[09:31] of that and how well that can do it
+[09:33] whereas things like the power pod and
+[09:35] shrouded
+[09:36] windmill designs so the vertical tunnels
+[09:39] where they capture the wind and put it
+[09:41] through a vertical tunnel
+[09:42] all of those are looking at the
+[09:44] mechanical side of it
+[09:46] how best to capture as much of the wind
+[09:48] energy as you possibly can now
+[09:51] it's obviously um the cube of the wind
+[09:53] speed so increasing in wind speed is
+[09:55] something people look at the
+[09:56] um effective catcher area so when you
+[09:59] have a turbine that big we make the
+[10:01] effective area that big then obviously
+[10:03] you're capturing more
+[10:05] inverted commas off the wind and you see
+[10:07] designs focusing on that sort of
+[10:09] stuff so the shroud designs all focus on
+[10:13] that
+[10:13] because that's one of the key elements
+[10:15] of it of course the rose design focuses
+[10:17] on that by having an effective aperture
+[10:20] greater than its actual aperture
+[10:22] the power pod design is something very
+[10:24] similar as well
+[10:25] there are some other interesting designs
+[10:27] that look at capturing buffering winds
+[10:29] from different directions
+[10:30] and you have some nice solutions there
+[10:32] as well but they're all looking at
+[10:35] the effective capture of the mechanical
+[10:38] energy of the wind
+[10:39] in their rotor design the coupling is
+[10:41] just a straightforward coupling
+[10:43] and then you get a whole bunch of people
+[10:44] looking at the generation side anyway i
+[10:47] thought i would cover that
+[10:48] just as a first section we'll deal with
+[10:50] the other section in a later video
+[10:52] i hope it was of interest and thank you
+[10:54] very much for watching please remember
+[10:56] to subscribe

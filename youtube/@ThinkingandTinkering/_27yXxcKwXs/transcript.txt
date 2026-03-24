@@ -1,0 +1,178 @@
+[00:01] so quite a few of the previous videos
+[00:03] have been on Theory and ideas that I
+[00:05] have and the kind of ideas that I work
+[00:07] with when I'm working on these things
+[00:09] now as you know I'm really a practical
+[00:10] kind of guy and I like to do things more
+[00:12] than talk about things so this is all
+[00:14] about the Practical implementation of
+[00:16] some of the ideas that I've been
+[00:17] burbling on about in the discussion
+[00:20] videos now obviously um I work with
+[00:22] batteries and super capacitors so
+[00:24] surprise surprise the whole thing is
+[00:26] going to be about super capacitors hey
+[00:29] now there are two kinds of super
+[00:31] capacitors there's something called the
+[00:32] edlc super capacitor which is a double
+[00:34] layer super capacitor which is when
+[00:36] you're using um mesoporus carbons is
+[00:39] what you're actually interested in but
+[00:40] there's a whole other set of super
+[00:42] capacitors called pseudo faradic um
+[00:44] super capacitors that use short time um
+[00:47] short scale reversible faradic reactions
+[00:51] for energy storage so if you have a
+[00:53] think about what's going on there then
+[00:56] when we oxidize a metal what happens on
+[00:58] the whole is that energy is given out
+[01:00] then in order to reverse that or reduce
+[01:02] that metal we have to put energy back in
+[01:03] again so the capacitor works by putting
+[01:06] energy in to um reduce it and then it
+[01:09] will naturally want to oxidize the
+[01:11] energy given back is back out when it
+[01:13] oxidizes so have a look at what's
+[01:15] happening there we've got our capacitor
+[01:17] plate and it's got its metal on it and
+[01:18] as we charge it then we effectively
+[01:21] reduce it so we move that ion out to get
+[01:25] a reduced form of the metal when we
+[01:28] remove the charge it wants to to oxidize
+[01:30] because that's the uh low energy state
+[01:32] of it so it will reoxidize and then we
+[01:35] can take energy out of it so essentially
+[01:37] that's kind of what's Happening here now
+[01:41] if we think about this a little bit and
+[01:43] we look at the actual reaction kinetics
+[01:45] of it then the reaction kinetics have
+[01:48] this kind of shap to them so it sits in
+[01:49] a little Hill there of local Maxima
+[01:51] local Minima we have to put a little bit
+[01:53] of energy in to get it up here and then
+[01:55] it will automatically roll down that
+[01:57] hill and come to the bottom here when we
+[01:59] get the energy uh back out again if we
+[02:02] let it do that all the way we have a
+[02:04] farad reaction if we stop it and reverse
+[02:08] it then we have a pseudo farad reaction
+[02:10] now what we're doing in a super
+[02:11] capacitor is kind of stopping it here
+[02:13] and reversing it back here so we're
+[02:15] getting this kind of thing going on
+[02:17] obviously to get it over that hump then
+[02:19] what we need to do is give it a bit of a
+[02:21] push we give it a bit of a push to force
+[02:23] it into doing what we want to do roll it
+[02:25] down there and then push it back up
+[02:27] again effectively okay um and we're
+[02:30] pushing it but what about if we get it
+[02:32] somewhere in between here if we get it
+[02:34] somewhere in between here then
+[02:35] effectively what we're looking at is
+[02:37] kind of like sitting with a child on a
+[02:39] swing you sit a child on a swing and you
+[02:40] start to get them going take a lot of
+[02:42] energy once they're going it just takes
+[02:44] that periodic tap to keep them swinging
+[02:47] backwards and forwards so that's the
+[02:49] idea that we're looking at if we can get
+[02:51] it to this range and give it a periodic
+[02:54] tap so we can oscillate it up and down
+[02:56] there then we're going to work more
+[02:58] efficiently with this thing now we can
+[02:59] do that obviously because we've got some
+[03:02] kind of distance here these ions
+[03:04] actually move incidentally this wouldn't
+[03:07] work so well with electrons because
+[03:08] electrons move far too quickly ions are
+[03:11] much bigger so they move much more
+[03:13] slowly so they have to move over this
+[03:15] distance this distance takes time so
+[03:17] when we're moving something over a
+[03:19] distance through time then we can do a
+[03:21] frequency of it so we've got that kind
+[03:24] of shape to it because it's moving
+[03:26] backwards and forwards Through Time
+[03:28] across a distance as it does that we've
+[03:30] got a field in here that field is a
+[03:33] capacitive field an electrostatic field
+[03:35] that field will change as the ions move
+[03:37] backwards and forwards to each other
+[03:39] that changing of the field can be
+[03:41] harvested as energy this is what energy
+[03:43] harvesting is all about but instead of
+[03:45] doing this at a micro scale which is
+[03:48] what microscale energy Harvesters do
+[03:50] we're doing it at the atomic scale at
+[03:52] least we're going to try and attempt to
+[03:53] do this at the atomic scale now we can
+[03:56] do this because of the ideas about
+[03:57] looking at a system that we've been
+[03:59] talking about now you remember in a
+[04:01] previous video and I've left it up here
+[04:02] deliberately we've got this
+[04:05] um dual Thief circuit that Ashley was
+[04:08] talking about in the video that he did
+[04:10] on this circuit and he was talking about
+[04:12] generating the back EMF to support the
+[04:14] voltage to light the diode because the
+[04:16] diode only lights at something like 2.3
+[04:18] 2.4 IT supplies at 1.5 the back EMF
+[04:22] collapse of this field adds to that and
+[04:23] will light that diode even though the
+[04:25] voltage is too low to do it now we're
+[04:27] talking about that kind of circuit
+[04:28] because that kind of circuit generates a
+[04:30] back EMF so if you like what we're
+[04:33] thinking of is that when we want energy
+[04:35] out then we move that way and we Ed the
+[04:38] back EMF in this pendulum swing motion
+[04:40] to move it back out again and we're then
+[04:43] in this range so we've got our kid on
+[04:46] the swing it's not going so we're over
+[04:48] this energy hump and we're just tapping
+[04:50] it to keep it swinging backwards and
+[04:52] forwards and we plan on doing that using
+[04:55] a very similar circuit to this the back
+[04:58] EMF is the little tap that we're going
+[05:00] to give it if you like okay so that's
+[05:03] the kind of ideas that we're thinking
+[05:06] about so using that swing back EMF kind
+[05:10] of pulsing from this circuit we can make
+[05:13] those irons oscillate backwards and fors
+[05:16] in this range at a frequency now we're
+[05:18] talking really short distances okay so
+[05:21] the kind of frequency we're going to be
+[05:22] talking about so remember the frequency
+[05:24] is the cycle here that kind of frequency
+[05:27] is going to be pretty fast we probably
+[05:29] looking certainly in the megahertz
+[05:31] probably in the gigahertz range to get
+[05:33] this effect to actually work now um
+[05:37] mechanically that's a challenge to do
+[05:39] you're just not going to get it that
+[05:40] fast if you do a mechanical
+[05:41] implementation of it but there's some
+[05:43] really cool kit out there so getting
+[05:45] this frequency using Electronics to
+[05:47] operate in a gigahertz range although
+[05:50] challenging which is what of course
+[05:52] Ashley's all about he's the guy who's up
+[05:53] to these electronic challenges not I
+[05:55] mean getting it to operate in that kind
+[05:58] of range I am told old is doable and I
+[06:01] believe it as well from what I've read
+[06:03] myself so we should be able to do this
+[06:05] we're certainly working on doing this so
+[06:07] we're building the cap we're building
+[06:09] the circuit it's not quite like this
+[06:11] circuit it's slightly different but
+[06:12] we're building the circuit in order to
+[06:14] get this thing to swing up and down
+[06:16] there then we're going to attach a light
+[06:18] to it and see how long we can light that
+[06:19] light anyway there is some of the theory
+[06:22] in practical application so I thought
+[06:24] I'd share it with you and I hope it was
+[06:26] of interest and thank you for watching

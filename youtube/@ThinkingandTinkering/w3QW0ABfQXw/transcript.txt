@@ -1,0 +1,243 @@
+[00:02] [Music]
+[00:15] hi so in video 101.7 i introduced the
+[00:18] idea of
+[00:18] this thing it's a commutator actually
+[00:21] it's a mechanical commutator
+[00:22] meant for externally driving brushless
+[00:24] dc motors
+[00:25] and what's the point when they can be
+[00:28] driven by semiconductors really well and
+[00:30] yes they can
+[00:31] but only up to a certain point and
+[00:35] they are difficult to actually build
+[00:37] unless you really understand the
+[00:39] electronics
+[00:40] the good thing about these kind of
+[00:42] things are they're really easy to build
+[00:44] so you can build these from little bits
+[00:46] and pieces lying around that cost you
+[00:48] next to nothing and what i'm going to do
+[00:50] is go into
+[00:51] how to build this thing because i think
+[00:53] this thing could be tremendously useful
+[00:55] to people
+[00:56] who are wanting to control large motors
+[00:59] don't
+[00:59] don't want to spend a fortune and
+[01:01] perhaps don't have the electronic
+[01:03] knowledge behind them to be able to do
+[01:04] that
+[01:05] you just don't need it if you want to
+[01:07] drive a motor for an electric vehicle
+[01:09] you don't need those kind of electronics
+[01:11] you can do it really well
+[01:12] from something as simple as this now
+[01:16] what brushless dc motors do is control
+[01:19] the on
+[01:19] and off of the power to the coils inside
+[01:22] the motor
+[01:23] essentially brushless dc motors contain
+[01:25] three coils
+[01:27] if you look at them you may see six or
+[01:28] multiples of that but they are in a
+[01:30] sense
+[01:30] essence three coils and they're wired up
+[01:34] in a white configuration which looks
+[01:36] like this
+[01:40] what i need to do is send power down one
+[01:43] coil in one direction and the other coil
+[01:46] in the other direction
+[01:47] because it creates a north south which
+[01:49] will both push and pull the rotor
+[01:51] and i do that when i'm using electronics
+[01:54] with effectively a series of six
+[01:56] switches
+[01:57] and these six switches are arranged like
+[01:58] this
+[02:02] now if i turn those switches off and on
+[02:05] in the right
+[02:06] order the power will flow
+[02:09] through the right number of coils
+[02:11] turning them off and on
+[02:13] into electromagnets and pushing the
+[02:15] rotor around which is pretty much
+[02:16] exactly how brushless motors work
+[02:19] i mean the challenge is getting that
+[02:21] turn off and on sequence right
+[02:23] because at separate stages different
+[02:26] coils need to be
+[02:27] on or off as positive or negative and
+[02:30] actually that waveform
+[02:31] looks like this
+[02:36] that's only really indicating to you
+[02:39] which ones need to be positive and which
+[02:41] ones need to be negative we don't
+[02:43] really need to know what the coils are
+[02:45] actually doing we just need to know that
+[02:47] we need to turn one positive and the
+[02:49] corresponding one negative
+[02:51] that waveform has to be duplicated now
+[02:54] it turns out that it's stunningly easy
+[02:56] to duplicate
+[02:58] if we have a look at this
+[03:03] see i divided that circle up into six
+[03:05] segments of 60 degrees each
+[03:07] the orange arc covers two segments
+[03:10] making 120 degrees
+[03:12] then there's a 60 degree separation then
+[03:14] there's another orange arc and then
+[03:16] there's a 60 degree separation
+[03:18] those orange arcs are actually the
+[03:20] contact points for the uh
+[03:22] commutator drum right here the brushes
+[03:25] are shown in blue
+[03:27] as abc so if we position those brushes
+[03:29] 120 degrees apart
+[03:31] and build that commutator like that it
+[03:34] will reproduce this signal
+[03:39] so we will get the switching that we
+[03:41] need to get
+[03:42] now let's have a close look up a
+[03:44] close-up look at this
+[03:46] so you can see how that drawing
+[03:48] corresponds to the actual thing
+[03:51] okay so there is the device itself and
+[03:53] these are called
+[03:54] munson rings and they hold ball bearings
+[03:57] so if i take those off we can take that
+[03:59] commutator section
+[04:00] out and we can see there's the brushes
+[04:03] on that
+[04:03] ring so they're set at 120 degrees apart
+[04:06] on this plastic ring to hold them in
+[04:08] registration and clearly the munson
+[04:09] rings support
+[04:11] form the support and the commutator
+[04:13] drops down through the center there
+[04:15] and the commutator itself is really a
+[04:17] bit of a 10 mil pipe
+[04:19] and it's on these things i'll show you
+[04:21] what these are in a minute a couple of
+[04:22] bearings so that it can turn
+[04:24] you can see that the brass connection on
+[04:26] one side covers 120 degrees
+[04:29] then there's a 60 degree gap and then
+[04:31] there's the brass section on the other
+[04:32] side
+[04:33] covering the 120 and a 60 degree gap
+[04:37] now the commutator contacts here cross
+[04:40] the midline so the brushes go over and
+[04:42] will make contact with either side of
+[04:44] the commutator
+[04:44] swapping it from plus to minus this is a
+[04:47] bit of a resin keeping these two halves
+[04:49] separate
+[04:49] that's the positive side that's the
+[04:51] negative side that contact is actually
+[04:53] made through the monson ring so we
+[04:55] connect
+[04:56] there and there positive negative
+[04:59] giving us a positive negative side so we
+[05:01] connect through the
+[05:02] bunsen ring it connects through that
+[05:04] ball bearing
+[05:05] to the central um brass pipe there
+[05:08] to this half of the commutator to making
+[05:10] that side positive
+[05:12] exactly the opposite happens on this
+[05:14] side making that side negative
+[05:16] the reason this is a bit of pipe is i
+[05:17] can put a motor drive in there
+[05:19] and use a small dc motor to drive that
+[05:21] now these separate these sections of the
+[05:23] commutator
+[05:24] were made out of this it's a plumbing
+[05:26] fitting this is a 15 mil
+[05:29] compression fitting on one side and a 10
+[05:31] mil compression fitting on the other
+[05:33] side and all i did was turn off the
+[05:35] threads
+[05:36] and then i cut that between those two
+[05:38] hexagonal marks giving me 120 degrees of
+[05:40] brass
+[05:41] then i turned the whole thing down put
+[05:44] it together with some resin
+[05:45] so that the two halves didn't touch so
+[05:48] this resin between these two
+[05:49] made two of those put them together in
+[05:51] that commutator and that's how i made
+[05:54] that's shown in the drawing now the
+[05:56] commutator can be a barrel like this
+[05:58] obviously or it could be a disc it
+[05:59] doesn't really matter which i just found
+[06:01] that the barrel was easier for me to
+[06:02] make
+[06:03] and that's how i made the commutator
+[06:05] section when we put that together with
+[06:07] the brush action
+[06:08] then we get the switching action that
+[06:10] they're actually looking for so that's
+[06:11] how that mechanical commutator was made
+[06:13] that's how it was made now if you think
+[06:16] silicon is the only answer then this
+[06:17] isn't the video for you
+[06:18] okay and this is what i think is a
+[06:21] suitable alternative that can be easily
+[06:23] built at a cheap cost
+[06:25] to run your brushless motor or run your
+[06:28] ev
+[06:29] now there is another relationship to
+[06:31] bear in mind
+[06:33] because the only control parameter is
+[06:34] not speed of the driving motor it's
+[06:36] actually speed at which this has been
+[06:38] driven and diameter
+[06:39] of which this has been driven because
+[06:41] that diameter and that speed together
+[06:43] will dictate the on
+[06:44] off time of the switches which is going
+[06:46] to speed to the motor
+[06:48] but there is a direct relationship
+[06:50] between the speed at which this is
+[06:51] driven and the speed at which your main
+[06:53] motor is driven
+[06:54] now obviously we're going to drive this
+[06:56] with a very tiny dc motor
+[06:58] and a very tiny dc motor is really easy
+[07:01] to drive
+[07:02] it's not very complicated you just put a
+[07:05] variable voltage on it more voltage more
+[07:07] speed
+[07:08] you don't have to have a complicated
+[07:10] understanding to drive the tiny dc motor
+[07:13] that'll drive this
+[07:14] that tiny dc motor courtesy of the
+[07:16] heftiness
+[07:17] of these brushes and that brass contact
+[07:19] is going to be what you use to drive
+[07:22] big motor and so you don't need
+[07:24] expensive or complicated electronics to
+[07:26] drive the big motor
+[07:27] you don't need expensive and complicated
+[07:29] electronics to drive a small dc
+[07:30] motorizer
+[07:32] variable control drive will just do fine
+[07:34] so they're using a motor to drive motor
+[07:36] there is a definite cost advantage there
+[07:40] in terms of the size at which this has
+[07:42] to be driven
+[07:43] in order to drive that very big one but
+[07:45] like i say
+[07:46] it's really a mechanical solution for
+[07:48] people who want to
+[07:49] build their own but don't necessarily
+[07:52] have the electronics
+[07:53] i think it's and here's the heresy i
+[07:56] think it's a better solution actually
+[07:58] anyway i thought i'd go through how it
+[07:59] was made for those folks who would like
+[08:01] to give it a go
+[08:02] and maybe develop this further because
+[08:03] remember this is proof of concept i hope
+[08:05] you enjoyed the video and thank you very
+[08:07] much for watching

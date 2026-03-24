@@ -1,0 +1,345 @@
+[00:02] [Music]
+[00:14] hi so we've been looking in previous
+[00:16] videos at our electric motors in
+[00:19] particular configuring those motors to
+[00:21] be generated so we've been looking at
+[00:23] this kind of thing this one is a motor
+[00:27] from a printer then you can see it in a
+[00:29] ring magnet in there and that in this
+[00:31] case that's the stator and then we've
+[00:33] got the sorry that's the rotor then
+[00:35] we've got this thing here lots of calls
+[00:37] whine arounds basically electromagnet
+[00:40] that's the state so that's the rotor
+[00:41] they fit together like that this is held
+[00:43] flat you pass a current through that and
+[00:46] that will rotate and obviously if we do
+[00:49] the opposite of that we rotate that then
+[00:51] we can get a current out of that by the
+[00:53] induced current of the magnetic field
+[00:56] lines cutting the coils so that is the
+[00:59] kind of motor that we've been looking at
+[01:01] now it doesn't represent the most
+[01:04] popular kind of motor the most popular
+[01:07] kind of motor etches the induction motor
+[01:09] and here's one I took from a drill
+[01:12] actually now I take that to pieces then
+[01:16] you look at the inside of it here we've
+[01:19] got the rotor that casts and the stator
+[01:21] in this case it looks very similar to
+[01:23] the ones we've got in that we can pass a
+[01:25] current down here to create a magnetic
+[01:27] field in this data and then we pass an
+[01:30] opposite current using the brushes and
+[01:32] the commutator just there to pass the
+[01:35] field on there creating another
+[01:36] electromagnet so instead of using
+[01:38] permanent magnets we use two
+[01:41] electromagnets to do essentially the
+[01:43] same job to the requirements of that
+[01:45] obviously is commutation from these ones
+[01:48] then we can actually use electronic
+[01:50] commutation so they're brushless motors
+[01:52] these ones they have these little
+[01:54] brushes in them making them a brushed
+[01:56] motor so that one actually I think is
+[01:59] relatively easy to understand you we
+[02:02] know what's going on there
+[02:03] create an electromagnet and we can
+[02:06] create electromagnet by passing a
+[02:07] current but equally they are not
+[02:10] particularly popular in that style
+[02:13] because it uses brushes and those
+[02:14] brushes wear out what do you find an
+[02:17] awful lot of is this kind of motor this
+[02:20] one I actually took from
+[02:23] I think never take that to pieces it's
+[02:28] going to look something similar to the
+[02:31] electric motor that we just looked at
+[02:33] but it's got something really weird in
+[02:36] it that kind of makes it difficult to
+[02:38] understand and I think it's because it's
+[02:40] difficult to understand that you find a
+[02:42] lot of DIY projects using variants of
+[02:46] this kind of motor and very very few
+[02:48] indeed using variants of this kind of
+[02:51] motor and most of the projects what they
+[02:54] do is drill the motor out and put
+[02:56] magnets in to effectively make this into
+[03:00] this that's what they try to do if I
+[03:02] take that out well seize there is our
+[03:07] stator and it's as we expect it's a
+[03:09] couple of field coils and we generate a
+[03:12] magnetic field with that by passing an
+[03:15] alternative current down it so that we
+[03:18] understand the really weird one is this
+[03:20] this actually has no connection at all
+[03:25] it doesn't have brushes it has no coils
+[03:27] on it and yet when we pass a current
+[03:29] down there that will rotate then there
+[03:32] that's a mystery what why that actually
+[03:35] works is is really really mysterious and
+[03:38] I think it's one of the reasons so what
+[03:40] people are we doing with this is
+[03:41] drilling holes in it and blue magnets in
+[03:43] and then when you can spin that you can
+[03:46] make that into a generator like that if
+[03:50] we just put that in there and spin it
+[03:52] because there's no magnetic force on
+[03:54] there then it won't do anything it won't
+[03:56] generate and I guess that's why people
+[03:58] are gluing magnets to it or they replace
+[04:00] the entire thing with it another magnet
+[04:02] that these kind of motors which are
+[04:05] induction motors as well are absolutely
+[04:08] fascinating now I've got a even bigger
+[04:10] one here I can see a little bit better
+[04:13] and this I took from a wet grinder and
+[04:18] we pull that to pieces
+[04:26] status' I expect there's a whole lot of
+[04:28] coins in there
+[04:29] no surprise there at all and here is the
+[04:32] rota now if you look on that rotor you
+[04:35] can see little lines going down on that
+[04:38] rotor in this packed shell this shell is
+[04:42] made of a thin laminations of steel and
+[04:45] those lines are actually electrically
+[04:47] conductive with each other and joined up
+[04:49] in loops so they're shorted at the ends
+[04:51] here so all of these lines are
+[04:53] effectively little circuits now what
+[04:56] happens is when you put a current in
+[04:59] here then the field will induce a
+[05:02] current in here now if you only use
+[05:05] things with air see because we let that
+[05:07] alternate current drop then that field
+[05:09] will drop and this field here will also
+[05:11] drop and that will induce a current so
+[05:14] the magnets if you like electromagnets
+[05:17] themselves are self-contained in this
+[05:18] tiny little circuit in the rotor and
+[05:21] that kind of fluxed me four edges so I
+[05:24] think you certainly think that foxes
+[05:25] people but there is no way of making a
+[05:29] connection to that and the connection
+[05:30] isn't needed because when that feel and
+[05:33] that current stops it will also generate
+[05:36] its own collapsing magnetic field now
+[05:39] that's really curious when you think
+[05:41] about it that we're inducing a field
+[05:44] with an actual contact it's very similar
+[05:47] to how a transformer works now a
+[05:49] transformer can have a gap between one
+[05:52] part of the transformer and the other as
+[05:55] long as they're close enough they will
+[05:56] magnetically couple and putting an AC
+[05:59] current down on one side will produce an
+[06:01] AC current on the other side of the
+[06:02] transformer even if there's a tiny gap
+[06:04] there but sometimes they put a gap in
+[06:06] deliberately and that's things like
+[06:08] flyback transformers so effectively it's
+[06:12] a kind of transformer with a very small
+[06:14] circuit and these lines are in fact this
+[06:16] circuit now if I were to do that then
+[06:19] just like the flip transformer it won't
+[06:21] move because there's no actual force on
+[06:23] it what I need to do is get that field
+[06:25] to rotate in here and I can do that if I
+[06:30] use not in a current so as that
+[06:32] alternate current drops down again if I
+[06:34] start another alternate current 90
+[06:36] degrees out of step of that first off
+[06:38] current then I will get a force on this
+[06:43] because of the time like difference and
+[06:45] that's difference in force will in fact
+[06:47] lead to rotation in this that's very
+[06:50] cool
+[06:50] now you often find these thing things in
+[06:52] three-phase AC because the AC feed has
+[06:55] given you that rise and fall in steps of
+[06:58] 120 degrees and that will create the
+[07:00] force on that and just spin that magnets
+[07:02] but you also find these in single-phase
+[07:06] to have a single-phase of these what you
+[07:10] need to do is and lapse the field by at
+[07:15] least 90 degrees and you can do that
+[07:17] just by putting a capacitor on one so
+[07:19] this one that easily has two sets of
+[07:21] windings it has a primary winding where
+[07:25] the main phase is going in and then
+[07:27] what's called an auxiliary winding where
+[07:29] the capacitor feeds it and it's in the
+[07:31] auxiliary winding that you get that
+[07:36] starting motion because a phased motor
+[07:39] like this will actually turn if I start
+[07:42] it by hand so I just feed that phase and
+[07:44] give it a spin it'll continue to spin if
+[07:48] I put the ancillary winding in there it
+[07:51] makes itself starting so there's a
+[07:53] single phase induction motor now equally
+[07:58] there is nothing on that adds on that
+[08:00] rotor at the moment so if I spin that
+[08:02] I'm not going to get a current out of it
+[08:04] I have to do something to get a current
+[08:06] out of it and again people been drilling
+[08:08] holes in it and gluing magnets on but
+[08:11] actually you don't need to you can do
+[08:13] this just by using a couple of
+[08:15] capacitors and I've got a couple here
+[08:17] these are microwave oven the transformer
+[08:19] capacitors incidentally there are about
+[08:21] in micro farad each and they're a couple
+[08:23] of thousand volts in order to make this
+[08:25] work properly you need a couple of
+[08:28] hundred default capacitors about 400
+[08:32] volts because this one's actually 240
+[08:34] volt motor about 400 volts and about a
+[08:38] hundred two hundred microfarad something
+[08:40] like that so you'd need it quite a few
+[08:42] of those but get it working with this
+[08:44] which is what we're going to actually do
+[08:45] now this motors really counter call
+[08:47] because it tells you how many diaphragm
+[08:50] how to actually connect these things
+[08:52] so this capacitor that I'm putting on at
+[08:54] the moment is the one that will feed the
+[08:56] of jewelry wand in creating that 90
+[08:58] degree out of phase step here are my
+[09:01] main power this used to go into the
+[09:03] mains if I connect that up to the
+[09:08] multimeter
+[09:09] I'll get absolutely nothing even a spin
+[09:12] map because there's just no magnetic
+[09:14] field however if I connect that I'm
+[09:18] looking for cable so we got if I connect
+[09:21] that with the capacitor there is enough
+[09:23] residual magnetism in that router to
+[09:27] start a tiny tiny charge and that charge
+[09:30] will build up and be stored in the
+[09:32] capacitor and then that stored charge
+[09:35] will create a magnetic field within the
+[09:37] rotor and then it will build up and
+[09:40] actually generate which i think is super
+[09:43] super cool there are a couple of
+[09:47] limitations with this incidentally
+[09:49] because that field has a specific time
+[09:53] that it rises and falls for us obviously
+[09:56] it's 50 to 50 Hertz here in the Europe I
+[09:59] think it's 60 Hertz in the US you might
+[10:01] be the other way around but there's a
+[10:02] fixed time that these things work and
+[10:05] there has to be a lag between the rotor
+[10:09] and the stator and that lags called the
+[10:11] slip and that gives a force on it that
+[10:13] will turn it and it's really rated at a
+[10:16] fixed speed so they tend to be about
+[10:19] 1415 1800 rpm when you run them at that
+[10:23] then they're absolutely incredible
+[10:25] motors they are in fact the motor that
+[10:27] you find in in electric vehicles at the
+[10:29] moment for obvious reasons they're cheap
+[10:31] and robust and they don't use magnets
+[10:34] they find them a lot in thirst kind of
+[10:37] things as a generator which is what
+[10:41] we're bringing up here incidentally as a
+[10:43] generator then we have a limitation on
+[10:46] speed just like we have a speed
+[10:49] limitation now there are ways of varying
+[10:52] that called variable frequency drives
+[10:54] for a motor for a generator it will be a
+[10:58] motor as long as it has that positive
+[11:02] slip that is it spins at
+[11:05] less than are up to its rates and
+[11:07] spinning speed let's say fifteen hundred
+[11:10] every preserve fifty Hertz if we spend
+[11:14] that fifteen fifty or fifteen sixty then
+[11:17] it has a negative slip and the reverse
+[11:19] happens it actually becomes a generator
+[11:22] so we can make that a generator if we
+[11:25] feed a current into the device prior to
+[11:29] getting it up to speed now that might
+[11:31] seem like a hell of a lot of things to
+[11:32] do in order to get that to generate but
+[11:35] the current you need to feed in is tiny
+[11:37] compared to the currently you get out
+[11:39] because you're adding in the motion of
+[11:41] the rotation by the load that you're
+[11:43] putting on this now it is also self
+[11:47] leveling it won't exceed its load it can
+[11:49] only get up to a certain amount and then
+[11:52] it just doesn't get any higher so a
+[11:53] self-protective which is great when you
+[11:55] think about a wind turbine for example
+[11:58] where you got that variability new is
+[11:59] too fast you can blow your motor you
+[12:01] electronics here you can't do that like
+[12:04] I said the amount you have to put in is
+[12:06] very very tiny and that's the point of
+[12:08] it connecting the capacitor in line with
+[12:12] the actual motor output is initially
+[12:14] with that in residual magnetism then we
+[12:17] will get magnetization of that rotor
+[12:19] that will feed back into here to or feed
+[12:21] back into there and continue that build
+[12:24] up until there's an excess and then an
+[12:26] excess we can draw off as actual power
+[12:29] under load so to demonstrate that
+[12:31] obviously I've just connected the whole
+[12:34] thing off what I'm going to do is give
+[12:37] you a close-up of that and spin that
+[12:39] motor okay so I'm just gonna spin this
+[12:42] by hand and there's the voltage reading
+[12:44] there it's an AC output incidentally
+[12:47] then I just give that a little spin then
+[12:57] just by twiddling that with my fingers
+[13:00] which really is not the best I can get
+[13:04] that up to about a vault of output okay
+[13:10] so that's quite a bit of fun um it is
+[13:13] actually tremendously easy to turn one
+[13:15] of these won't motors it's called a
+[13:17] squirrel cage incidentally and when it's
+[13:20] like that that's a squirrel cage rotor
+[13:22] another term one of the squirrel cage
+[13:24] inductor motors into a generator it's
+[13:27] actually really really easy I don't have
+[13:30] to go around drilling holes and gluing
+[13:32] magnets onto the thing all you have to
+[13:34] do is put a capacitor in parallel with
+[13:37] the motor when you do that it becomes
+[13:40] self-starting and a generator that's
+[13:43] actually very very cool not to know what
+[13:45] kind of capacitance you put in there I
+[13:47] don't really know all I did was stick
+[13:49] capacitors on there until it actually
+[13:52] worked
+[13:52] no buds it worked I was happy I guess is
+[13:56] aware of calculating you'd have no idea
+[13:58] hopefully somebody can post that for me
+[14:00] that would be awesome if there was a
+[14:01] post on that it is limited by speed you
+[14:06] do have to get it above that ratted
+[14:09] speed so it's rated at 1500 then you do
+[14:12] have to get it around about 1550 1600
+[14:15] and then it's actually a really good
+[14:17] generator but even spinning that by hand
+[14:20] or the capacitor in parallel with it
+[14:23] then we can get a few volts out of it
+[14:25] and if we get that at the right speed
+[14:27] actually there's a dramatic change as
+[14:30] there's this point at which the torque
+[14:32] curve becomes incredibly stable and so
+[14:37] you can put a load on it at that stage
+[14:39] you ever spinning it by hand if we put a
+[14:40] lid on we would just kill it if we get
+[14:43] it up to speed him again on that point
+[14:44] of the talk of we can actually put a
+[14:47] very high load on that and it will
+[14:49] continue to generate and feed back into
+[14:51] it without you having to drill things
+[14:53] out and glue magnets in so there we go
+[14:56] hope that was of interest but that's how
+[14:57] to convert a squirrel cage induction
+[15:00] motor into a generator stick in a
+[15:04] capacitor on I hope that was of interest
+[15:06] and thank you very much for watching

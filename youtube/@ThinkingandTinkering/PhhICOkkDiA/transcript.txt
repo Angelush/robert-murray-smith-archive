@@ -1,0 +1,322 @@
+[00:00] [Music]
+[00:08] these things cycloids they're absolutely
+[00:11] brilliant I mean they give excellent
+[00:13] gear ratios and a very compact mechanism
+[00:17] they're able to transmit torque well
+[00:19] they're very hard wearing and they're
+[00:20] stunningly easy to make I mean we've
+[00:23] made these by 3D printing we've made
+[00:25] them by laser cutting I've handmade them
+[00:27] we've made them in wood made them in
+[00:29] plastic it's a huge range of materials
+[00:31] and a huge range of ways you can
+[00:33] actually make a compact gear set that
+[00:35] can be used in a machine very
+[00:37] efficiently but the problem is what do
+[00:40] you do if you don't want this particular
+[00:42] gear ratio I mean this one is 11:1 I
+[00:45] know it's 11 to1 because he's got 11
+[00:47] bumps on it and that's how you know what
+[00:49] a gear ratio for a cycloid is but what
+[00:52] about if you don't want that how do you
+[00:54] actually draw it how do you go around
+[00:55] creating your own cycloid for the gear
+[00:58] ratio that you want now I have heard it
+[01:01] said that you really need a computer
+[01:03] program to do that but to be honest you
+[01:06] don't at all what really helps is to
+[01:09] have a think about what it is you're
+[01:11] actually doing now if we take a couple
+[01:13] of circles and this might seem really
+[01:16] stupid but it's also something people
+[01:17] forget when we take a couple of circles
+[01:20] if I rotate that Circle so that the
+[01:22] movement from here on the edge is 1 cm
+[01:26] it'll push against that Circle that
+[01:28] Circle will also move one cm why because
+[01:32] it's two surfaces pushing against each
+[01:33] other so they're going to move the same
+[01:36] distance and that's what's important
+[01:38] about gears it's actually the distance
+[01:41] that it moves if this is very small say
+[01:44] it was at 1 cm all the way around and
+[01:46] this was 100 cm all the way around one
+[01:49] turn of this will travel 100 cm what
+[01:52] that means is that this has to travel
+[01:55] 100 cm because it's 1 cm it's going to
+[01:58] have to turn 100 times and that's where
+[02:01] gear ratios come from gear ratios are
+[02:04] really an approximation when it's done
+[02:06] by teeth because teeth is a fixed step
+[02:09] size and it does help to have an
+[02:11] approximation like that but it's
+[02:13] actually all about the distance that's
+[02:16] being moved and nothing to do with the
+[02:18] number of teeth the number of teeth is
+[02:21] just an approximation it's all about
+[02:24] distance and this seems to be something
+[02:26] that we kind of forget because the
+[02:28] distance from the Ed of that Circle as
+[02:31] it moves transfers into other movement
+[02:35] so if your car travels a mile the
+[02:38] distance around the wheel has gone a
+[02:40] mile it must do because they're rubbing
+[02:42] against the road and this must do
+[02:44] because it's rubbing against that the
+[02:47] only other problem here of course is you
+[02:48] do get slip and gears prevent slip the
+[02:52] gear ratios and PO rati is exactly the
+[02:54] same because its distance moved that's
+[02:58] it that may seem trivial
+[03:00] but actually it's kind of
+[03:02] important so here we are in Tinker Cad
+[03:05] and that's my big disc 100 by 100 that
+[03:07] I'm going to turn into my cycloid now
+[03:10] cycloids obviously work by Ecentric cams
+[03:13] and to create an Ecentric cam we've got
+[03:16] one there at 20x 20 and one there 26x 26
+[03:20] and then right there I've got something
+[03:22] 8X 8 where I'm going to put my axle
+[03:25] Tinker cat has a few sort of odd little
+[03:28] bits and pieces about it that mean it's
+[03:30] um well sometimes a pain and sometimes a
+[03:34] benefit in this case it's a benefit so
+[03:36] if I line those two
+[03:43] up like that so the what's going to
+[03:46] become our Centric is touching the edge
+[03:48] of the larger Circle and then I line up
+[03:51] the larger circle with the
+[03:55] hole but I Center it to the larger
+[03:57] Circle
+[04:01] it's Ecentric to the smaller Circle and
+[04:05] if I group
+[04:07] those we have our cam so that's going to
+[04:10] become our cam that's going to become
+[04:13] our cycloid so what I've done is drawn
+[04:16] this big blue circle and positioned it
+[04:18] central to the orange circle and I've
+[04:20] put the cam so it's right on the edge of
+[04:22] the orange circle the blue circle
+[04:24] represents the path of the larger disc
+[04:27] that we drew as that larger disc rotates
+[04:30] of course it won't move from the blue
+[04:31] circle because the center of rotation is
+[04:33] in the center of the disc but of course
+[04:35] this cam here will start to bash into
+[04:38] the orange bit what we need to do is
+[04:41] carve out a path of that orange bit to
+[04:44] allow that cam to move so the question
+[04:47] is of course how do you do that well
+[04:50] let's say we want 10 teeth on our
+[04:52] cycloid and the reason for 10 it's easy
+[04:55] to do the math if you can't divide 360
+[04:58] by 10 in your hedge then you should
+[04:59] shouldn't be allowed out in public with
+[05:01] money if I have a full circle at
+[05:04] 360° and I want to move 1/10th of that
+[05:07] Circle I need to move
+[05:09] 36° what we need to do is make sure that
+[05:12] the can rotates one full rotation for
+[05:15] every 36° of that go around the big
+[05:19] circle what that will do is create a
+[05:22] path and the length of that path or the
+[05:25] distance moved needs to be equal to the
+[05:28] distance around the cam that we've just
+[05:31] made okay hopefully that's clear because
+[05:34] this is how we do it so to do this first
+[05:37] of all copy
+[05:40] that then rotate
+[05:43] that by
+[05:45] 180° why 180° because we're going from
+[05:49] bottom dead center to top dead center
+[05:52] then click on the one you just rotated
+[05:54] shift and click on the big blue dis
+[06:01] and then rotate that
+[06:04] 18° you rotate that 18° because it's
+[06:07] half of 36 and of course we're just
+[06:09] moving half the distance because we're
+[06:12] going from Top Dead Center to bottom
+[06:14] dead center and zoom in on here you can
+[06:17] see that the cam is now eaten into the
+[06:20] Big Orange disc so here it's sitting at
+[06:23] let's call that top dead center right on
+[06:26] the edge 180° is at bottom dead center
+[06:31] we can repeat that now to take out this
+[06:34] small section here we only rotate that
+[06:42] 9° and this
+[06:45] one we only rotate 90° because it's
+[06:49] halfway and again if we zoom in on
+[06:54] that we can see we've taken another
+[06:57] chunk out and that path is beginning to
+[06:59] be followed now to carve that out all we
+[07:01] do is make these holes and merge
+[07:10] it you can see that we've got these
+[07:12] little chips here we repeat that process
+[07:17] but this time at 45° and 4 and 1/ 12°
+[07:21] and so on taking out those chips until
+[07:23] we form a nice smooth line so basically
+[07:26] if you take about half a degree rotation
+[07:29] of the big disc and four and a half
+[07:31] rotations of a little disc you'll more
+[07:33] or less get 40 little chips out of it
+[07:35] and 40 little chips is enough to
+[07:38] approximate a smooth line when it comes
+[07:40] to printing or cutting it what it equ
+[07:43] equates to is something like 1,800
+[07:45] little chips all around the circle and
+[07:47] you repeat that process now you can do
+[07:49] it manually but that' be pretty tedious
+[07:52] for 1,800 chips but you don't need to do
+[07:55] that because everything is a mirror or a
+[07:58] duplication when it comes to these kind
+[08:00] of things you only really need to do one
+[08:02] half of a tooth then you can mirror it
+[08:04] and then join it to create the whole
+[08:06] tooth and copy that and go around the
+[08:09] circle to create the whole disc you only
+[08:11] to do it about 40 times but equally 40
+[08:15] times is a little bit tedious and
+[08:18] luckily Tinker can comes with something
+[08:21] called code blocks so here I am on the
+[08:24] home screen and you'll see code blocks
+[08:26] right here we've got 3D circuits and
+[08:29] then code blocks just click on codee
+[08:31] blocks and it will pull up code blocks
+[08:34] and we have an option here of either
+[08:37] opening one we're already working on or
+[08:40] opening a new one by typing in the name
+[08:43] of it and create and it will create a
+[08:46] code
+[08:48] block project for
+[08:52] you when it opens up the screen this is
+[08:55] what it looks like now on the left hand
+[08:57] side here you've got all of the stuff
+[08:59] that you're able to do and it's grouped
+[09:04] into shapes modify control math
+[09:10] variables and then stuff that's left
+[09:13] over from older versions that still
+[09:15] incredibly useful what you're doing in
+[09:17] code blocks is essentially coding for it
+[09:21] to do what you would normally do on the
+[09:23] screen so say we want a cylinder if I
+[09:26] pull on that cylinder shape then I can
+[09:30] open that up and it will give me the sh
+[09:33] the
+[09:34] cylinder parameters so here the radius
+[09:37] is 10 so it'll create a cylinder of 20
+[09:40] of height of 20 with Sid 20 we can
+[09:43] change that to 64 which is the maximum
+[09:47] now if I run it by stepping through it
+[09:49] here what it'll do is in this display
+[09:52] screen show me the shape I just created
+[09:55] we would do that normally in Tinker cat
+[09:59] but going to the shapes menu and pulling
+[10:01] it onto the work plane here we can code
+[10:04] it to be able to pull it onto the work
+[10:07] plane for it and this is really
+[10:08] important particularly when it comes to
+[10:11] doing something tedious because I can
+[10:13] modify and build the different shapes in
+[10:16] here by adding code to it so let's put a
+[10:19] cylinder in there a square in there as
+[10:22] well and if we add a square in there
+[10:25] reload this we'll change that square to
+[10:29] height
+[10:32] 10 now I can step through and it will
+[10:36] add the cylinder and add the square and
+[10:39] it adds them sequentially as it goes
+[10:41] down this list what I could then do was
+[10:45] change that uh square into a hole reload
+[10:51] it I change the command step through
+[10:53] cylinder square with a that is a hole
+[10:57] but I can modify this by
+[11:01] picking a modifier so let's group that
+[11:05] and again click it on there just like
+[11:07] Lego clear this so that we can step
+[11:09] through it again it will Begin by
+[11:11] loading the cylinder loading the square
+[11:13] hole and now it will group them and we
+[11:16] get well exactly what we would get and
+[11:19] we can look at it in the same way
+[11:21] exactly what we would get on the work
+[11:23] play the single exemption is it places
+[11:26] the position of the object halfway
+[11:29] through the plane normally when you drag
+[11:31] it in Tinker G it places on top of the
+[11:33] plane but all you're doing is LEGO
+[11:36] building these things where it performs
+[11:38] an action one after the other and of
+[11:41] course that's extremely useful if we
+[11:43] want to do something 40 times because we
+[11:48] have this we can repeat that by clicking
+[11:51] that adding
+[11:57] it and then everything in this will get
+[12:00] repeated once or whatever I happen to
+[12:02] type in there so if I type in 10 there
+[12:05] it will go through these two 10 times
+[12:09] performing that action which is of
+[12:11] course exactly what we want to do
+[12:13] because we want to do a repeated action
+[12:16] 40 times now I strongly recommend you
+[12:18] have a look at code blocks because it is
+[12:21] like Lego it's pretty easy to use but
+[12:23] immensely powerful for doing repetitive
+[12:26] jobs and here's the code that I wrote in
+[12:29] order to be able to do what we're trying
+[12:31] to do and you can see from here it goes
+[12:34] through these steps 40 times okay let's
+[12:38] run that and see what it actually does
+[13:00] of course what I can do then is export
+[13:03] that half a tooth from code blocks and
+[13:06] reimport it as an STL into a normal
+[13:10] Tinker C
+[13:12] page and here is what I produced in code
+[13:14] blocks now if I click on that duplicate
+[13:17] it mirror
+[13:24] it I can use the workspace
+[13:30] drop that on there with
+[13:33] d and then merge it so we get a single
+[13:38] tooth now I can copy that tooth and
+[13:40] rotate it around 36° and create me the
+[13:43] whole
+[13:46] cycloid so that I get that that's now
+[13:49] actually ready to print so I can export
+[13:52] that as an
+[13:53] stdl and then I can print it off and
+[13:57] once I printed it off that's what I get
+[14:00] and the Ecentric will turn and follow
+[14:03] that path that we've just created and as
+[14:06] it turns then it turns the right
+[14:09] distance because we made it that way so
+[14:11] that the length of this path between top
+[14:13] to top is the same as one full rotation
+[14:16] of that
+[14:18] Ecentric so that's how you create
+[14:20] cycloids along with their eccentric to
+[14:23] drive them the distance around the
+[14:25] entric is created by making that path
+[14:30] the same length of the dis Distance by
+[14:33] chiseling little bits out you can do
+[14:35] that with a pen and paper you can do
+[14:38] that with Tinker CAD as we've just seen
+[14:40] you do it or you can do with the more
+[14:42] complex program it doesn't really matter
+[14:45] all you're doing is making sure that the
+[14:47] distance around that is the same as the
+[14:50] distance of that path by chiseling bits
+[14:52] out anyway that's how you go about
+[14:54] making cycloids I hope it was of
+[14:56] Interest I understand it was a bit of a
+[14:59] Whistle Stop but the essence is there so
+[15:02] that if you want to replicate this well
+[15:05] just quot a few circles and chisel them
+[15:06] out or get to gr with code blocks
+[15:09] because it's there it is only a macro so
+[15:13] it's quite easy to learn and it starts
+[15:16] getting you thinking in the way of
+[15:18] producing macros and later in the way of
+[15:21] handling more complex programs anyway I
+[15:23] hope you enjoyed the video I hope it
+[15:25] helped thank you very much for watching
+[15:27] and please do remember to like and
+[15:29] subscribe

@@ -1,0 +1,201 @@
+[00:00] [Music]
+[00:08] were involved in making a 3D printer.
+[00:12] Now, I think there are issues with 3D
+[00:14] printers. They're brilliant, don't get
+[00:16] me wrong, but I still think there are
+[00:17] issues. I mean, I think there are issues
+[00:19] with modern cars. So, there are always
+[00:22] issues. One of the biggest ones I think
+[00:24] is accuracy. You only get the accuracy
+[00:27] better. I think we need to rethink them
+[00:29] a little bit. Of course, you can get
+[00:31] accuracy, but it tends to come with
+[00:35] cost. Accuracy tends to be expensive.
+[00:38] And I was wondering if we could get the
+[00:40] accuracy we needed, the resolution down,
+[00:44] but not increase the cost, would that be
+[00:46] a good thing? So, that was the main
+[00:48] motivator for looking at this. Now, one
+[00:51] of the inspirations was friction drives.
+[00:54] Friction drives are renowned for being
+[00:56] actually quite cheap and to have
+[00:59] nanometer scale accuracy. They're
+[01:01] incredible if you think about it. Now,
+[01:03] they're not actually very efficient. And
+[01:05] that's okay because we're not looking
+[01:07] for efficiency. What we're looking for
+[01:10] is accuracy against cost. And what
+[01:13] inspired me was this thing, the
+[01:16] hyperscyloid drive. Like that. It was no
+[01:18] use. and led me to this thing called the
+[01:21] Goodman mechanism which is an adaptation
+[01:24] of the hyperscyloid drive and of course
+[01:26] we took that as the basic inspiration
+[01:29] and then moved to build
+[01:32] this which is a geared version of the
+[01:36] drive that I'm thinking about in order
+[01:38] to be able to build this new accurate
+[01:41] cheap 3D printer. So that's the kind of
+[01:44] path we took. Now, I say we because it's
+[01:49] a community. I actually pay attention to
+[01:52] the comments that people make down
+[01:55] below. And there are some great
+[01:57] comments. To be honest, if you're not
+[01:59] reading some of those discussions,
+[02:00] you're totally missing out because a lot
+[02:03] of people make brilliant suggestions and
+[02:06] the best comments are the comments that
+[02:09] help the development. They're brilliant
+[02:11] actually and I love them and a couple of
+[02:13] them have been inspirational. One for
+[02:15] instance is this mechanism here based on
+[02:18] gears. Now the gears have backlash and
+[02:21] of course it led to the backlashfree
+[02:24] worm dre worm gear drive that we did in
+[02:28] a separate video. Now the overall
+[02:30] objective of course is not to use gears
+[02:33] at all. We're going to use friction but
+[02:34] it doesn't matter. that kind of
+[02:36] development helps everybody. And really,
+[02:40] if you're thinking about comments, I
+[02:41] think that that's the kind of thing to
+[02:43] be thinking about. It's about what the
+[02:45] rest of the community can actually use.
+[02:48] So, although I value all comments,
+[02:51] comments like that'll never work really
+[02:55] don't help very much. Comments like
+[02:58] that'll never work because the arm's too
+[03:00] flimsy or the gears have backlash.
+[03:02] equally that that's not as helpful as it
+[03:05] could be. Comments like that will have a
+[03:09] problem working because the arm's too
+[03:11] flimsy. You might want to stiffen it up.
+[03:14] Oh, that's a brilliant comment because
+[03:17] not only does it highlight what might
+[03:19] potentially be a problem, it also
+[03:22] presents what potentially could be a
+[03:24] solution. So, if you see problems, try
+[03:28] to think about what a solution might be
+[03:30] and suggest that solution. If you do
+[03:32] that in the comments, then truly you're
+[03:34] helping the rest of the community as we
+[03:36] start to develop this kind of thing. And
+[03:38] for me, that's actually a key issue when
+[03:41] it comes to this sort of stuff. Now, as
+[03:43] I say, I'm not really complaining about
+[03:45] it. I'm trying to encourage people to go
+[03:49] that one step. Instead of just seeing
+[03:51] the problem, I mean there are always
+[03:53] problems, but instead of just seeing the
+[03:55] problem, try to think a solution that
+[03:58] might be good to that problem and
+[04:00] suggest that solution. That's
+[04:02] tremendously helpful to me and to
+[04:04] everybody else. I mean, the folks who
+[04:06] mentioned the backlash I thought was
+[04:08] brilliant and I took that on board and
+[04:10] did a bit of research and came up with a
+[04:12] way of curing the backlash. Even though
+[04:14] it's of no use to me because I won't be
+[04:16] using gears, it's still a brilliant
+[04:20] comment. And when I read through that
+[04:22] comment and we had a little exchange on
+[04:24] it, it helps me. It helps everybody. And
+[04:28] that's the whole point. Brilliant
+[04:30] comments are comments that are designed
+[04:32] to help the community. All comments are
+[04:34] interesting. All comments can be useful,
+[04:36] but brilliant comments are comments that
+[04:40] do something along those lines. Now, of
+[04:42] course, we've got this far with it, and
+[04:44] I'm quite pleased with how it's going. I
+[04:46] have
+[04:48] I have absolutely no idea whether this
+[04:52] will work or not. But to be honest,
+[04:55] that's barely the point. The point of it
+[04:57] is to think through a problem, approach
+[05:02] that problem, and try to design answers
+[05:04] to it. Because it's not only making this
+[05:08] that matters. It's that stages of how
+[05:11] you design something to create a pro to
+[05:14] solve a problem you may have that is a
+[05:17] skill in itself. It's it's goes beyond
+[05:21] the actual thing that you're making
+[05:23] because that's a process you can apply
+[05:25] to anything at all. So when somebody is
+[05:28] doing something when they're solving a
+[05:29] problem for a specific design criteria
+[05:31] and outline that that becomes a road map
+[05:34] for any problem you might actually be uh
+[05:37] trying to resolve. So the big thing to
+[05:40] do is not to see the mechanism as is
+[05:44] which is this but try to understand the
+[05:47] principles of the mechanism and the
+[05:49] principle here really is a tussy couple
+[05:51] that's two one and that will always move
+[05:54] in a straight line when it's arranged in
+[05:57] a 2C couple. So you can see the
+[05:59] principle of something rather than just
+[06:01] the design itself. You can carry that
+[06:03] principle over to any other solution
+[06:06] because believe it or not that
+[06:10] and that in principle are exactly the
+[06:14] same thing even though the design looks
+[06:16] very much different. It isn't. So seeing
+[06:19] the principle of what's going on is
+[06:21] again another really important thing to
+[06:24] take away when you're actually watching
+[06:27] a video. If you're watching a video,
+[06:29] there are two things to take away from
+[06:32] it really. One is what's being
+[06:34] demonstrated, the thing in itself. And
+[06:37] the other is the principles behind it.
+[06:39] What kind of problems are being solved
+[06:41] and how are they being solved. So our
+[06:44] problem was to reach every point on a
+[06:46] plane. That can do it. So that is a
+[06:51] possible answer. Not like that because
+[06:53] you know it's there are two fluids in
+[06:55] the gears have backlash. So that no but
+[06:58] that principle can be taken if we take
+[07:01] that principle apply it here with
+[07:04] friction drive that's not too flimsy and
+[07:06] there is no backlash. So taking the
+[07:09] principles from designing with those
+[07:11] principles
+[07:12] really helps. Having a community to
+[07:15] point out the things that you still need
+[07:17] to develop and what possible solutions
+[07:19] are actually really helps. And those are
+[07:22] the kind of things I think that should
+[07:25] be looked for when it comes to making
+[07:28] comments or watching a video or taking
+[07:30] away something from a video. Now, this
+[07:35] obviously uses a set of coordinates
+[07:37] called polar. It it rotates around and
+[07:39] then takes steps out. So, it's angle and
+[07:41] steps. And that's polar coordinates. Now
+[07:44] a lot of um up and down printers, a lot
+[07:47] of cartesian printers use cartisian
+[07:49] coordinates and so we need to do a
+[07:51] translation between polar and cartesian.
+[07:54] Luckily though, Marlin has a program or
+[07:58] a set of codes that does exactly that.
+[08:02] So all we have to do is adapt the Marlin
+[08:04] code and we'll be doing that. But again,
+[08:07] it's not really much of a challenge. So
+[08:12] identify a problem, look for an answer,
+[08:15] suggest the answer. Fantastic.
+[08:19] Have a look at the principle that's
+[08:21] being displayed and how that principle
+[08:23] is being adapted and how you might adapt
+[08:26] that principle to do something that you
+[08:29] want to do. As I say, we're looking for
+[08:31] something that is more accurate, cheap
+[08:34] to build, and can reach every point in
+[08:37] space. That is I exactly why that was a
+[08:42] answer really. Anyway, I hope you
+[08:45] enjoyed this video. I hope it helped.
+[08:47] Thank you very much for watching and
+[08:50] please do remember to like and
+[08:51] subscribe.

@@ -1,0 +1,198 @@
+[00:00] [Music]
+[00:07] hi everybody so we're involved in
+[00:08] working on this which is our new
+[00:10] generation system at the heart of this
+[00:12] is right there it's a ratchet it's
+[00:14] actually this ratchet which is the SEO
+[00:16] magic winding ratchet but ratchets
+[00:19] themselves are tremendously useful and
+[00:21] used in lots of different places for
+[00:24] example here is saram Med's catapult and
+[00:28] that's using a ratchet right there there
+[00:30] the ratchet has a long slope here a
+[00:32] sharp slope there that captures and then
+[00:34] when we release it of course the
+[00:37] Catapult will fire there we go but
+[00:41] they're also used in a ton of things
+[00:43] like this for instance there a ratchet
+[00:45] right in the side there and ratchets can
+[00:47] be super super useful now I've been
+[00:50] saying on the other videos okay let's
+[00:52] just go do this and then presented it as
+[00:55] done because I'd already done this on a
+[00:58] previous video but I haven't done
+[01:00] anything on how to actually make the
+[01:02] ratchet and the ratchet itself is a core
+[01:05] to many mechanisms so what we're going
+[01:07] to do is go through how to draw and
+[01:10] print a ratchet now the ratchet we're
+[01:12] going to draw is going to be very
+[01:14] similar to this one we're going to do 12
+[01:16] teeth about 40 mm across and create this
+[01:19] ratchet the same principles apply if
+[01:22] you're going to create a ratchet like
+[01:23] that you just make the teeth smaller so
+[01:26] let's get on with this okay grab
+[01:28] yourself a cylinder and make that 4 mm
+[01:31] High smooth it out and make it 30 by 30
+[01:35] now I always start Tinker cab with the
+[01:37] ruler showing so I can see how big
+[01:39] everything is and we need to cut that
+[01:40] circle into the tooth so to do that grab
+[01:43] a cube which is a hole and make it a
+[01:46] third this 2/3 the size so 30 by 20 or
+[01:49] 21 align it to the edge of the circle
+[01:52] you just cut and then merge the two and
+[01:55] you'll have the basis for the tooth all
+[01:58] we really need to do is rotate hit that
+[02:00] but we need another Circle that we make
+[02:02] a little bit smaller and make that 40x
+[02:04] 40 because that's how big our ratchet is
+[02:06] going to be and align that tooth now the
+[02:09] edge of the chord needs to be aligned
+[02:12] with the center of the circle that we've
+[02:15] just put there what we do is take
+[02:17] another Cube to help as an alignment
+[02:19] tool and make that 40 by 20 which is
+[02:22] half align it to the large Circle and
+[02:26] then we'll get the center line of the
+[02:27] large Circle that we can align our to we
+[02:31] align it by using the arrow keys and it
+[02:33] will snap to the grid but it's a bit
+[02:35] difficult sometimes to get it exact so
+[02:37] zoom in and you'll see it's a little bit
+[02:39] out set it at 0.1 mm and nudge it with
+[02:42] the arrow keys until it's aligned to the
+[02:44] center once you've aligned that you can
+[02:47] delete it now we can highlight the whole
+[02:49] thing and we can rotate it because it
+[02:52] will rotate a lot around the larger
+[02:55] Circle so we copy it and rotate then we
+[02:58] can rotate it to 30° because we want 12
+[03:01] teeth and then we can click repeat and
+[03:04] it will repeat it for 12 teeth for us in
+[03:06] a beautiful Circle then we can delete
+[03:09] our alignment circles and there we go we
+[03:12] now have our actual ratchet merge that
+[03:17] and then we can put a hole in the center
+[03:19] and I want an 8 mm hole smooth it I'll
+[03:21] make it 8.2 is a bit of leeway and we
+[03:24] got 8.2 Center those to each
+[03:28] other
+[03:31] there you go there is our ratchet
+[03:33] finished now we need to make the pole
+[03:35] obviously so to make the pole move the
+[03:38] ratcher out the way and grab another
+[03:40] Circle smooth it and this time make it
+[03:42] 35 by 35 Because the actual curve
+[03:45] remember was 30 by 30 we want it a bit
+[03:48] bigger make a whole 25 by 25 because
+[03:52] again we want it a little smaller this
+[03:54] time align the two of those to this Edge
+[03:57] and the center move it 1
+[04:01] mm there we go because we want a little
+[04:04] bit of leeway now if we merge those two
+[04:07] what we get is a Cresent to make the
+[04:09] pole of course what we need is a uh
+[04:12] pivot another Circle smooth this time 10
+[04:15] by 10 and then we can align
+[04:19] that to this Cresent to help us make our
+[04:24] Pole now it's a bit difficult to see it
+[04:26] sometimes so changing the color helps
+[04:28] you recognize what's going on align that
+[04:30] to the edge and we have a Cresent with
+[04:33] the pivot where the pivots a little bit
+[04:35] out so move the pivot until it aligns
+[04:38] with the edge of the cresant there we go
+[04:40] and you can see it's just a little bit
+[04:42] out there and we can move that by .1 mm
+[04:45] changing that setting and then move that
+[04:47] until we align it beautifully once we've
+[04:50] got it aligned we have the basis of our
+[04:52] pole because that Circle we just drawn
+[04:55] will be the pivot point of the pole and
+[04:57] the inner the outer curve that we just
+[04:59] draw draw we'll make sure that it fits
+[05:01] but of course we have that tooth there
+[05:03] at the edge which you want rid of so get
+[05:05] a hole which is a block align it with
+[05:08] the edge of the tooth merge it and we
+[05:13] have most of our cresant the rest of the
+[05:16] most of our pole sorry the rest of the
+[05:17] cresant we actually want rid of because
+[05:19] we only want one part of this so grab a
+[05:23] box resar the Box whole so that we have
+[05:27] a more than enough really and then tilt
+[05:30] that on the axis by using the Tilt keys
+[05:34] and there are three ways you can tilt it
+[05:35] we want to tilt it that way around 45°
+[05:38] as a guess and then we can align that to
+[05:41] our Pivot Point at the dead center of
+[05:43] the pivot point this I just do by R you
+[05:46] could center it if you want to you can
+[05:47] see it's a little bit out so let's move
+[05:49] it a couple more degrees until we get it
+[05:51] lined up with the center there we got
+[05:54] lined up with the center move it and
+[05:56] then we can merge that
+[05:58] again and we get our
+[06:01] Pole now we need a central hole to that
+[06:04] pole so pick a cylinder Center hole
+[06:06] smooth it to make it eight and eight and
+[06:10] then we can align to the circle that we
+[06:12] put as our pivot
+[06:14] point there we go we have an artifact
+[06:17] left over there it is we want rid of
+[06:19] that artifact and we can use the cube
+[06:21] hole as a kind of a razor so if we
+[06:24] position that align it it'll arise it
+[06:26] position and align and we have our po
+[06:28] all made so there's the ratchet and the
+[06:31] pole to print it export it from Tinker
+[06:34] gab to import it into Cura and we can
+[06:36] import the ratchet and then we can
+[06:39] import the
+[06:40] pole and there we go now let's check the
+[06:43] settings we don't really need it to be
+[06:45] touching the base plate for support
+[06:47] because it's a flat but let's leave that
+[06:49] anyway and it does need a raft with a
+[06:50] little bit like that and then we can
+[06:53] when happy with the settings we can
+[06:54] slice it when it's sliced then we can do
+[06:57] the save to file and then we can take it
+[06:59] over to the printer press print there it
+[07:02] is and we can press that and it will
+[07:25] print and when it's printed scrap it off
+[07:28] with the scraper
+[07:36] and there it is snap the raft off and
+[07:38] we'll have our ratchet and our
+[07:46] p and there is our ratchet and pole so
+[07:49] the pole will drop down the tooth stop
+[07:51] the ratchet turning until we lift the
+[07:52] tooth and it can then turn and be
+[07:54] stopped again or it'll only go in that
+[07:57] direction because obviously it drops in
+[07:59] and and stops it in turning in that
+[08:01] direction now the key to it is that
+[08:03] guide Circle that I put in you can put
+[08:05] anything you want on top of a circle if
+[08:08] you rotate the whole thing with the
+[08:10] circle it will rotate around the circle
+[08:12] and maintain your geometry and we did 12
+[08:16] teeth so we had a 30° rotation if I did
+[08:18] 360 teeth well it' be a 1 degree
+[08:21] rotation because you want the teeth
+[08:23] evenly spread for every degree of turn
+[08:25] and now I made the teeth out of circular
+[08:28] intersections because I wanted this nice
+[08:30] slope for a big tooth like that little
+[08:33] tooth then you probably just use
+[08:34] triangles where you have a long and a
+[08:36] short arrange the triangle on the edge
+[08:38] of your guide Circle go around the same
+[08:41] way repeating it and you'll create the
+[08:43] teeth of your ratchet anyway I hope that
+[08:46] was helpful thank you very much for
+[08:48] watching please do remember to like And
+[08:50] subscribe

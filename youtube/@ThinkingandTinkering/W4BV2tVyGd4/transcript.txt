@@ -1,0 +1,153 @@
+[00:00] [Music]
+[00:11] now I am often accused of playing with
+[00:14] computers and that's no real surprise if
+[00:16] you think about what I do I'm going to
+[00:18] spend most of my life either 3D printing
+[00:21] or doing videos and that basically means
+[00:24] I need a halfway decent setup and of
+[00:27] course a halfway decent setup can be one
+[00:29] of two things it can be an incredibly
+[00:31] expensive computer or it can be a much
+[00:34] cheaper computer and a better operating
+[00:38] system and by better I mean one that's
+[00:40] more stable one that can handle a huge
+[00:43] amount of data processing that the
+[00:45] system is going to do and one that is
+[00:47] efficient in the uses of its resources
+[00:50] of course if you're talking like that
+[00:51] and thinking like that what you're
+[00:53] thinking of really is Linux of course
+[00:56] that does mean I've got to get my
+[00:57] favorite programs onto Linux and then
+[00:59] learn the little ins and outs of using
+[01:02] them and the first one when it comes to
+[01:04] 3D printing is the slicer the slicer is
+[01:07] that piece of software that takes the
+[01:09] STL file and converts it into commands
+[01:11] that the printer can understand it's a
+[01:14] bit like a Word document when you type
+[01:16] up a Word document and send it to print
+[01:18] it can't actually print from the word
+[01:20] document what word does is translates it
+[01:23] into a series commands that run the
+[01:25] printer and you get your print out it's
+[01:27] the same thing with 3D printing the s L
+[01:30] file is a graphic representation of the
+[01:33] model that you've just built the printer
+[01:35] can't understand that the slicer turns
+[01:38] that into a set of commands moving the
+[01:41] head backward and forward timing the
+[01:43] Extrusion of the plastic that sort of
+[01:45] stuff so that a physical print can be
+[01:47] made by commands that the physical
+[01:49] printer understands from the STL file
+[01:52] that you did the drawing in that's the
+[01:55] job of the slicer software
+[01:56] unsurprisingly Linux has its own set of
+[01:59] slicers mango 3D do something called a
+[02:02] light cheese slicer and if you have a
+[02:04] look on there you'll see that the elus
+[02:06] are all supported by mango 3D through
+[02:09] their light cheese slicer the slicer I
+[02:11] favor is Cura so of course what I want
+[02:14] to know is how do you get Cura to work
+[02:16] on Linux so turns out it's really easy
+[02:20] Linux has come a long way since the dark
+[02:22] days when it was the realm of the Techno
+[02:24] nerd it's now just another operating
+[02:27] system so to install a package on it all
+[02:30] you do is Click down on the menu bar now
+[02:32] I'm using Linux Mint uh 21.2 cinnamon
+[02:36] enter your password click authenticator
+[02:38] and up will come your package manager
+[02:41] then you type what you're looking for in
+[02:42] the search bar and in this case of
+[02:44] course we're looking for Cura and then
+[02:46] we search this is one of the things that
+[02:48] people like about Linux it will always
+[02:50] ask you for a password for everything
+[02:52] that you do and that's one of the
+[02:54] reasons that it's so much more secure
+[02:56] and less prone to virus
+[02:58] attack
+[03:16] scroll down to Cura click on it and then
+[03:19] click on apply and it will automatically
+[03:21] update all the packages and everything
+[03:23] else you need to support your
+[03:28] selection
+[03:33] that's it and the next time you click on
+[03:34] the menu bar Cura will be
+[03:37] there now when you start the cura it's
+[03:40] Ultima Cura so it's generic and we need
+[03:43] to add a printer because we're going to
+[03:44] put the elu Neptune 4 Pro on here and we
+[03:48] click add a
+[03:51] printer now we do non Network printers
+[03:54] we'll have a scroll list available to us
+[03:57] and if we're lucky then the printer
+[03:58] we're using is on that scroll list but
+[04:00] if it's new like the Neptune 4 then it's
+[04:03] not going to be so what we need to do is
+[04:05] choose
+[04:07] custom and it's here where we can add
+[04:09] the name of our printer and let's put in
+[04:11] Lun NE June 4
+[04:15] Pro and click next and it'll ask us for
+[04:19] these settings so we need to replace
+[04:21] these settings with some other settings
+[04:24] to make this thing work like the start
+[04:26] G-Code and the end
+[04:28] G-Code
+[04:31] and these are the code settings that we
+[04:32] need now I'll copy and paste these into
+[04:35] the description bar below so you've got
+[04:37] them available to you and if we go to
+[04:39] the extruder we also need to make some
+[04:41] extruder changes and these are the
+[04:43] extruder changes that we need to
+[04:48] make when you've done that save it and
+[04:51] that will be your custom printer and it
+[04:54] will now appear in the drop- down bar to
+[04:56] test this works of course we want
+[04:58] something to print so we do exactly what
+[05:00] we did before we can select the file
+[05:02] from the file drop-down list and I've
+[05:04] created a hook to hold up the Christmas
+[05:06] stockings against the fireplace because
+[05:08] they keep dropping off and you can't put
+[05:10] a drawing pin in the fireplace so we can
+[05:13] select that and we're going to print it
+[05:15] in generic PLA and set the usual
+[05:18] settings that we want to set because
+[05:20] it's a Neptune 4 so we can increase the
+[05:22] speed from 60 to say 120 then we can
+[05:26] slice it and save it to file then we can
+[05:30] take it over to the printer and print it
+[05:32] as per
+[05:58] normal
+[06:12] so there you go how to set up Cura on
+[06:15] Linux and how to set up the Cur itself
+[06:18] for the elu 4 now I'm Keen to doing this
+[06:21] because I want to show you how
+[06:22] inexpensive it can be I'm running Linux
+[06:25] incidentally on a Dell Precision uh T56
+[06:29] 600 it's an X server I'm running it on
+[06:32] that the reason I've chosen Linux is
+[06:34] because Linux is renowned for making the
+[06:37] best use out of older equipment and
+[06:39] making older equipment do some work it
+[06:42] wouldn't necessarily do and I'm adapting
+[06:44] that server so I can run Da Vinci and if
+[06:47] you know about D Vinci then you'll know
+[06:48] it's pretty difficult to run on anything
+[06:51] but super expensive computers then I
+[06:54] plan on running it for something that
+[06:55] cost me £100 from eBay so you can do
+[06:58] this stuff without a huge amount of
+[07:01] expense and it's never as frightening as
+[07:04] perhaps you might once have thought
+[07:07] anyway perhaps we'll do some more
+[07:09] playing around with computers anyway I
+[07:12] hope you enjoyed the video and thank you
+[07:14] very much for
+[07:15] watching

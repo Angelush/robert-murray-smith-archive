@@ -1,0 +1,653 @@
+[
+  {
+    "id": "UghB3ZFYtVT27ngCoAEC",
+    "author": "@handleismyhandle",
+    "author_channel_id": "UCHaQg7_sjNBFxIIz_rPCmYg",
+    "text": "Electrostatic generator to separate graphitic (conductive) from non-graphitic carbon particles?",
+    "likes": 0,
+    "published_at": "2015-11-15T00:10:08Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UghB3ZFYtVT27ngCoAEC.86YwOFir-ks86cCdzBlXqh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "+Blitherer Masterman sounds like a good idea - have you tried it?",
+        "likes": 0,
+        "published_at": "2015-11-16T15:57:55Z"
+      },
+      {
+        "id": "UghB3ZFYtVT27ngCoAEC.86YwOFir-ks86ifwt42aMf",
+        "author": "@handleismyhandle",
+        "author_channel_id": "UCHaQg7_sjNBFxIIz_rPCmYg",
+        "text": "Tried a charged balloon but the particles were super fine and stuck regardless of charge. I am thinking of an aqueous suspension or some other means. . . With a more powerful charge I could probably lift the particles if the process actually works. Things are rarely as simple as they seem.",
+        "likes": 1,
+        "published_at": "2015-11-19T04:18:05Z"
+      },
+      {
+        "id": "UghB3ZFYtVT27ngCoAEC.86YwOFir-ks86jzYMez3cQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "+Blitherer Masterman yep - the translation from idea to working unit is often fraught lol",
+        "likes": 0,
+        "published_at": "2015-11-19T16:28:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugjb43gBko1leXgCoAEC",
+    "author": "@aaron8526",
+    "author_channel_id": "UC3sAYU0pC_-wpVu4yKnqXcg",
+    "text": "Fantastic stuff! I'm a EE student with an interest in audio; when I looked at electrostatic design, my mind naturally went to graphene (new materials to update old tech, etc).\nI'm glad to see you're on top of that.\nAny chance you could hook up an oscilloscope and show us source vs. speaker? Maybe give us some idea of what kind of impedance we're looking at, and what kind of frequency response? I'm curious what this would sound like if it were hooked to an amp circuit with appropriate impedance matching and filtering.",
+    "likes": 0,
+    "published_at": "2015-08-14T16:11:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggfKiuzLPT9M3gCoAEC",
+    "author": "@prototype9000",
+    "author_channel_id": "UCWyGXMmeAcrlCjxKPXit2bw",
+    "text": "could you perhaps use something like tin oxide as well ?",
+    "likes": 1,
+    "published_at": "2015-06-16T06:30:00Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UggfKiuzLPT9M3gCoAEC.80SE1XWtq6X7-H1HbofMe5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "prototype9000 now that's an interesting idea - i'll give it a go when i get a chance - maybe applied with a SILAR process - nice one",
+        "likes": 0,
+        "published_at": "2015-06-16T06:36:21Z"
+      },
+      {
+        "id": "UggfKiuzLPT9M3gCoAEC.80SE1XWtq6X7-H1KOat8x4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "prototype9000 or AZO would work well - you got me thinking lol",
+        "likes": 0,
+        "published_at": "2015-06-16T06:36:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UggPRjsIABOkeHgCoAEC",
+    "author": "@mayad8509",
+    "author_channel_id": "UCQfKr_1L25uGqoYcAn_wYzg",
+    "text": "graphene master",
+    "likes": 0,
+    "published_at": "2015-04-24T00:11:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Uggzk1DCCb4DUXgCoAEC",
+    "author": "@Doncious",
+    "author_channel_id": "UCnqQu0Xm_uL1y9tJO9oibgA",
+    "text": "Hi robert,\n\nIs this a departure from classical electrostatic speaker design? I see the two aluminum electrodes and then the graphene in the middle, is that the asymmetric capacitor? or is it a a single plate with current flowing through the graphene which then vibrates the membrane? \n\ncheers, \n\nDR",
+    "likes": 0,
+    "published_at": "2014-12-29T17:56:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Uggzk1DCCb4DUXgCoAEC.7-H0Z7-9ENX7-Iaelze2iD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's a different design - the current runs through the graphene and vibrates the membrane by setting up an equal an opposite charge",
+        "likes": 0,
+        "published_at": "2014-12-30T08:39:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgiX8tZ_D2IMNngCoAEC",
+    "author": "@oxiigen",
+    "author_channel_id": "UCNul83TJXOvB5QeD0-z30xQ",
+    "text": "aha, i see, graphene can be useful for an electrostatic speakers, therefore high frequency range, so called tweeters. what about low frequency speakers from 16Hz up, can be graphene used for a bigger membranes too, is graphene strong enough for such a purpose?",
+    "likes": 0,
+    "published_at": "2014-07-17T15:41:57Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgiX8tZ_D2IMNngCoAEC.7-H0Z7-8n2L7-H8BCAGHt1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah it's just to do with distance moved as I am sure you know",
+        "likes": 0,
+        "published_at": "2014-07-17T16:48:35Z"
+      },
+      {
+        "id": "UgiX8tZ_D2IMNngCoAEC.7-H0Z7-8n2L7514GzksUpF",
+        "author": "@Yotakari14",
+        "author_channel_id": "UCQwyw9AInDgoF53Htv9NGCQ",
+        "text": "For electrostatics to reproduce bass the panel ideally needs to be the same size as the physical wavelength, for example to reproduce 20Hz (lowest end of human hearing range) you would need a panel at least 17 meters high (since 340m/s divided by 20Hz = 17m). I am unsure as to the width (currently studying electrostatics for my final project at university). ",
+        "likes": 0,
+        "published_at": "2014-12-07T14:14:57Z"
+      },
+      {
+        "id": "UgiX8tZ_D2IMNngCoAEC.7-H0Z7-8n2L7514Ns5FjQP",
+        "author": "@Yotakari14",
+        "author_channel_id": "UCQwyw9AInDgoF53Htv9NGCQ",
+        "text": "Yotakari14 This is why most modern ESLs use a hybrid design (ESL for mid and high frequencies and a standard cone woofer for bass extension)",
+        "likes": 0,
+        "published_at": "2014-12-07T14:15:53Z"
+      },
+      {
+        "id": "UgiX8tZ_D2IMNngCoAEC.7-H0Z7-8n2L754A2S--dQO",
+        "author": "@oxiigen",
+        "author_channel_id": "UCNul83TJXOvB5QeD0-z30xQ",
+        "text": "Yotakari14\nthank you",
+        "likes": 0,
+        "published_at": "2014-12-08T19:03:06Z"
+      },
+      {
+        "id": "UgiX8tZ_D2IMNngCoAEC.7-H0Z7-8n2L8YzlktEYrOQ",
+        "author": "@kcajmortsnnew1488",
+        "author_channel_id": "UCmwmj3eFtM14WjgvXx_DpHQ",
+        "text": "actually, cut-off is determined by wavelength and displacement ,and IF you have a diaphragm capable of enough excursion ,it can be mounted in a large panel (think folding screen ,or in wall between two rooms)which prevent cancellation.....also,a single sided ESL only produced 1/2 wavefront....all this was done early on ,and by the 50's ,the golden age of sound reproduction ,was as highly developed as it got ,i suspect.....we moved on ,and now people seem satisfied to listen to plastic music out of plastic boxes....................16 Hz. will make you crap your pants ,by the way ,but almost no music below 32.....I'm into horns ,myself ,nearly as quick and thus clear ,as ESLs , but w/o the power demands...thus one can have natural sounding amps (tubes @ 5 Watts sufficient))..bt my big bass horn feeds up the wall into the attic,follows the roof line to the peak ,thus huge mouth...hopefully sub 39 notes...not tested yet.......ESLs ,as you know ,are capacitors,discovered in the 30's i believe from hearing caps \"sing\"..i never went to university ,just read it....",
+        "likes": 0,
+        "published_at": "2017-10-21T18:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UggWwftMsimSXngCoAEC",
+    "author": "@JohnMcHugh",
+    "author_channel_id": "UCwv5mTsAL7jrC6IbGh0vY3A",
+    "text": "Does the thickness of the coating of graphene matter?﻿",
+    "likes": 2,
+    "published_at": "2014-04-15T19:35:31Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "UggWwftMsimSXngCoAEC.7-H0Z7-B2aK7-H1f-sn5uZ",
+        "author": "@JohnMcHugh",
+        "author_channel_id": "UCwv5mTsAL7jrC6IbGh0vY3A",
+        "text": "Also could you use a similar technique to create a wireless charging pad?",
+        "likes": 0,
+        "published_at": "2014-04-15T19:45:11Z"
+      },
+      {
+        "id": "UggWwftMsimSXngCoAEC.7-H0Z7-B2aK7-H6iiozrcL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hiya mate, Listen - I don't really know the answer to your questions - my best response is that your ideas seem really cool and quite workable as far as I think things are workable - beyond that your best answer is to do the experimentation and see how it goes - Rob.",
+        "likes": 1,
+        "published_at": "2014-04-15T20:29:23Z"
+      },
+      {
+        "id": "UggWwftMsimSXngCoAEC.7-H0Z7-B2aK7-H6tm4ZeuX",
+        "author": "@JohnMcHugh",
+        "author_channel_id": "UCwv5mTsAL7jrC6IbGh0vY3A",
+        "text": "Cool, thanks",
+        "likes": 0,
+        "published_at": "2014-04-15T20:30:54Z"
+      },
+      {
+        "id": "UggWwftMsimSXngCoAEC.7-H0Z7-B2aK7-H8hN9NJsd",
+        "author": "@JohnMcHugh",
+        "author_channel_id": "UCwv5mTsAL7jrC6IbGh0vY3A",
+        "text": "Sorry about the multiple posts, not sure what happened. Was using my phone to reply and only posted one.",
+        "likes": 0,
+        "published_at": "2014-04-15T20:46:41Z"
+      },
+      {
+        "id": "UggWwftMsimSXngCoAEC.7-H0Z7-B2aK7-HAOsVkp3L",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - it did weird me out a bit lol- i figured you just really wanted an answer",
+        "likes": 0,
+        "published_at": "2014-04-15T21:01:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgiMCd8hNya6wXgCoAEC",
+    "author": "@JohnMcHugh",
+    "author_channel_id": "UCwv5mTsAL7jrC6IbGh0vY3A",
+    "text": "Does the thickness of the graphene coating on the glass make any difference?",
+    "likes": 0,
+    "published_at": "2014-04-15T19:33:38Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgiMCd8hNya6wXgCoAEC.7-H0Z7-B2aJ7-H6QEE9pxa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "probably",
+        "likes": 0,
+        "published_at": "2014-04-15T20:24:51Z"
+      },
+      {
+        "id": "UgiMCd8hNya6wXgCoAEC.7-H0Z7-B2aJ7-H6ppnvRzU",
+        "author": "@JohnMcHugh",
+        "author_channel_id": "UCwv5mTsAL7jrC6IbGh0vY3A",
+        "text": "Robert Murray-Smith and do you think you could use a similar technique for making a wireless charging pad?",
+        "likes": 0,
+        "published_at": "2014-04-15T20:28:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UggyXk_gcFBkVHgCoAEC",
+    "author": "@trlc768",
+    "author_channel_id": "UCqNtcURM7sEeceX5KbWFwLw",
+    "text": "You need to use one of your single layer graphene sheets as the moveable diaphragm.  As I recall, the lighter the diaphragm the more efficient the speaker.\nMaybe an ultra high end speaker company would buy some of your material?",
+    "likes": 0,
+    "published_at": "2014-02-19T04:38:40Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UggyXk_gcFBkVHgCoAEC.7-H0Z7-SK9n7-IHL8yG8yE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "maybe lol - cheers mate",
+        "likes": 0,
+        "published_at": "2014-02-19T16:24:33Z"
+      },
+      {
+        "id": "UggyXk_gcFBkVHgCoAEC.7-H0Z7-SK9n73EJJi5UF31",
+        "author": "@PietSpaans",
+        "author_channel_id": "UCTPB3enOAiEz_n7TSOUuaIw",
+        "text": "The weight of the diaphragm is not that important, because the diafragm drags some air with it. I  think graphite (!!!) coated Mylar was already fine for making electrostatic speakers. There are more critical things that pose challenges for electrostatic speakers. \n\nI think it might be possible to squeeze the graphene between to mylar sheets, that way a very thin membrane is isolated from the stators, so higher voltage can be used to as  bias voltage and the elektrostatic speaker will be louder and greater excursion of the membrane will be allowed compared to graphite coated mylar which will spark at some distance from the stator, because there is nothing but air between the stator and the conductor (graphite).\n\nThe concept of building electrostatic speakers is very well explained by Roger Sanders in his Electrostatic Speaker Design Cookbook (accesible from the web).\n\nSqueezing the Graphene between stretched mylar will be the hardest thing maybe, if it could be isolated my a more elegant means it would be better, also I wonder if the graphene can withstand the forces and if it can will it stretch enough to perform the excursions the music signal demands?",
+        "likes": 0,
+        "published_at": "2014-05-28T13:30:27Z"
+      },
+      {
+        "id": "UggyXk_gcFBkVHgCoAEC.7-H0Z7-SK9n73F3HZZprAY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Hiya mate, thanks for that. I am now a bit stuck on what to say because the working principle behind this speaker and that behind the biased electrostatic speaker is very different. I am pretty sure from your general comments that you understand the concepts behind a biased electrostatic speaker very thoroughly so I will confine myself to the differences. In this speaker the base plate of the speaker was the only recipient of charge and the diaphragm had no graphene on it at all. well an induced charge exists or it wouldn't move. the graphene was used in the demo only to demonstrate - you could use anything at all as long as it conducted - so an aluminium foil would work well - probably better - as would a block of ali. The important thing is that it is stable and can carry a high voltage - 2-6 kV. The diaphragm is placed in front of the block and has no electrical connection to anything. The induced voltage is what causes the deflection and hence sound reproduction. My guess is that better reproduction would be from higher voltage, wider seperation of block and diapragm and better diaphragm material and design - i suspect a cell arrangement would be good.\n\nRob.",
+        "likes": 0,
+        "published_at": "2014-05-28T20:29:35Z"
+      },
+      {
+        "id": "UggyXk_gcFBkVHgCoAEC.7-H0Z7-SK9n73GRW7kXuJb",
+        "author": "@PietSpaans",
+        "author_channel_id": "UCTPB3enOAiEz_n7TSOUuaIw",
+        "text": "Robert Murray-Smith The wonderful reproduction of electrostatic speakers has to do with the push pull mechanism. If the diafragm moves to one stator the coulom force on the other stator changes accordingly. With a high bias voltage the situation is symmetrical and the waveform of the sound will be the same as the waveform of the driving voltage. The push pull mechanism is sometimes also applied to woofers, that are screwed together on the front an where one gets a reversed phase signal. That way the asymmetry of the one woofer design is eliminated.\nI looked a littel further in graphene and it seems that large sheets are still hard to produce. I guess it will be nice to start building a condenser mic first and then maybe an electret headphone. That could make electorstatic headphones obsolete maybe if it is possible to create a high permanent bias voltage. I think there is enough literature on the web, check for Stax headphones. I would recommend Roger Sanders book, it contains a lot of knowledge on engineering and about sound perception and it is just a google search away.\nhttp://www.introni.it/pdf/Sanders%20-%20Electrostatic%20Loudspeaker%20Design%20Cookbook%201995.pdf",
+        "likes": 0,
+        "published_at": "2014-05-29T09:20:32Z"
+      },
+      {
+        "id": "UggyXk_gcFBkVHgCoAEC.7-H0Z7-SK9n73GWN-27jgj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "dude - your missing the point",
+        "likes": 0,
+        "published_at": "2014-05-29T10:02:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwOt9AWARhVvEXqBdR4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "cheers mate",
+    "likes": 0,
+    "published_at": "2013-10-27T21:20:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLoBA5Zjhx_kBfvz54AaABAg",
+    "author": "@Santa4me",
+    "author_channel_id": "UC7uDywKPFDmNZw98Lw5iZ8w",
+    "text": "Preety fucking cool!\n",
+    "likes": 0,
+    "published_at": "2013-10-27T20:59:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyEuFCXLpHZFdQ6AgZ4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "What stuff?",
+    "likes": 0,
+    "published_at": "2013-10-01T19:27:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz_amIy-5q2LrZaIcN4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "Lol",
+    "likes": 0,
+    "published_at": "2013-09-27T07:42:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzUGLdov9x7mlnE6V94AaABAg",
+    "author": "@funaishorts999",
+    "author_channel_id": "UC-F50uL5Nvw7P0fOmqdB69A",
+    "text": "the prophet has spoken :)",
+    "likes": 0,
+    "published_at": "2013-09-27T06:24:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgybMrmtFC2vowXG0l54AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "Cool - love to see them",
+    "likes": 0,
+    "published_at": "2013-08-20T23:49:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxd6ylYApePBF4lI3Z4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "Lol as a simple idea test it rocks lol",
+    "likes": 0,
+    "published_at": "2013-08-20T09:15:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwBvNse9dtdiBmVwl14AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "thank you",
+    "likes": 0,
+    "published_at": "2013-05-21T07:27:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxSjMo9lNkzY5TZ-Ld4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "I do like the ideas. Teflon would work as it is an insulator. It sounds to me as if you are thinking of some kind of fluid based induction machine a bit like a bonetti machine but with a rotating fluid as opposed to a rotating disk. It's a really nice idea if you put you the fluid in a plastic pipe with a short metal section as a draw off point it could be pretty cool. Anyway, keep up the good work and let me know how you get on - Rob",
+    "likes": 0,
+    "published_at": "2013-05-21T07:27:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzMfn-OxEBhoTimB-F4AaABAg",
+    "author": "@stephanieweber5343",
+    "author_channel_id": "UC_iks_m9kkSFo_Y1JLeOZ4A",
+    "text": "P.s. Your videos are great",
+    "likes": 0,
+    "published_at": "2013-05-21T07:01:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyYt_DXZEcH07rOJDp4AaABAg",
+    "author": "@stephanieweber5343",
+    "author_channel_id": "UC_iks_m9kkSFo_Y1JLeOZ4A",
+    "text": "Well I made a electret using teflon I heated up and put in a strong magnetic field and let it cool on a static field and was noticing when I put in water I could get a volt reading off it up to 0.4v so I was wondering is that now kenetic and no longer static? and if you used that conductive graphite liqiud (from your recent video) instead off water, or possibly a magnetic fluid you might get motion? Or a magnet in that diamagnetic graphite liqiud ? Those are kind of my ideas",
+    "likes": 0,
+    "published_at": "2013-05-21T06:59:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzbkcKAeMk-oh-NFt94AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "HIya Stephanie, Oddly electrets normally have very poor conductivity. This helps maintain the field. I suppose a graphene oxide electret might be a possibility or graphene in carnuba wax. I would expect the graphene to respond in a way similar to aluminum sheet but a bit faster - Do you have something specific in mind?",
+    "likes": 0,
+    "published_at": "2013-05-20T21:42:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw6qtKefqafd9SFcEh4AaABAg",
+    "author": "@stephanieweber5343",
+    "author_channel_id": "UC_iks_m9kkSFo_Y1JLeOZ4A",
+    "text": "Robert is it possible to make a graphene electret ? also what are the responses between graphene and electrets?",
+    "likes": 0,
+    "published_at": "2013-05-20T00:52:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxXpufhDmlXdBVprLl4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "lol - you heat it to 350 degrees centigrade for 10 minutes",
+    "likes": 0,
+    "published_at": "2013-04-26T06:45:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw61TsuN0_oQjyb8s14AaABAg",
+    "author": "@neer85",
+    "author_channel_id": "UCE3f-XmgOqlaH4n4LQkREQA",
+    "text": "tq for ur answer. already watch ur video but still have question haha my bad.. after coating, how can i reduce GO to graphene?",
+    "likes": 0,
+    "published_at": "2013-04-26T01:41:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzYe6jEJoltwfrxifV4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "Hiya, watch the video on spin coating graphene. I show you how I did it on that one.",
+    "likes": 0,
+    "published_at": "2013-04-26T01:22:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyAUrf2lkUAu-h0J5x4AaABAg",
+    "author": "@neer85",
+    "author_channel_id": "UCE3f-XmgOqlaH4n4LQkREQA",
+    "text": "how do you coated the graphene on the surface of the glass? it really nice hand work",
+    "likes": 0,
+    "published_at": "2013-04-26T00:59:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynqlKcBlwJd6Q2PSx4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "I'm not sure what kind of answer to give here because graphene shows some pretty weird effect in magnetic fields. For example because of its high mobility and minimum conductivity, and because of certain peculiarities explained in Pseudo-relativistic theory, graphene shows particularly interesting behavior just in the presence of a magnetic field and just with respect to the conductivity-quantization. Fascinating stuff ",
+    "likes": 0,
+    "published_at": "2013-04-09T00:18:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzWXJ8tbAc4MYSXPdx4AaABAg",
+    "author": "@usserrnamee",
+    "author_channel_id": "UCwuvdSUNnTbrIwq6gC2WXaQ",
+    "text": "First off thank you for replying to every dumbasses question mostly mine pol and what you do is great. Now on the principle od generators how well do you think graphene instead of copper wiring surrounding the rotating magnets would work? Thanks",
+    "likes": 0,
+    "published_at": "2013-04-09T00:08:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzbpWTIQC2ay5MRI7F4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "Lol - Cheers mate,\nI have thought about writing it down - but you are right it is a lot of work - still I may yet do it. I did hear about berkeley and yes it was a diaphragm though there is one that is thermoacoustic. The trouble with thermoacoustic speakers is they double the input frequency so unless you have correction electronics we all sound like minnie mouse! - Still, I will definately think about writing this stuff down",
+    "likes": 0,
+    "published_at": "2013-04-03T21:38:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw3J3JvpEi0iAS5Dt14AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "No probs with the recording and thanks for the kind comments",
+    "likes": 0,
+    "published_at": "2013-04-03T05:22:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxwuFTiGwA0rztBGsJ4AaABAg",
+    "author": "@mwm2929",
+    "author_channel_id": "UC5NsduGaq_p1llxSdzoojWg",
+    "text": "I think you are beyond Mr. Wizard, and have now gone farther than MacGyver ever thought about!  Keep up the amazing work!  Would it be acceptable to record and show your videos to others in a class?",
+    "likes": 0,
+    "published_at": "2013-04-03T04:57:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxjLZlYMfBNklBqPxF4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "cheers mate!",
+    "likes": 0,
+    "published_at": "2013-04-02T13:34:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxlZh6Taukydwqcaux4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "yeah me too - there's a bit more to it than just sticking a sheet over it though - but if i do succeed i'll do a show and tell lol",
+    "likes": 0,
+    "published_at": "2013-04-02T12:42:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz36Rw8OG7A46z14Ad4AaABAg",
+    "author": "@SiriusXification",
+    "author_channel_id": "UC0oTHHNGFte6ZOhAKElfAEA",
+    "text": "That sounds great. I bet you can make some pretty potent electrostatic speakers with that. \nActually right now, electrostatic headphones start from half a grand and go up to a few thousand dollars. This might be a way to make a decent DIY version of those @ home.",
+    "likes": 0,
+    "published_at": "2013-04-02T11:37:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy6-JbI1IyPO2qVVe14AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "It's the next thing I am going to do. I did the foil because that's what I had to hand.",
+    "likes": 0,
+    "published_at": "2013-04-02T11:29:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxfY8Ggk4CBjLLmfqN4AaABAg",
+    "author": "@SiriusXification",
+    "author_channel_id": "UC0oTHHNGFte6ZOhAKElfAEA",
+    "text": "Robert, would a graphene sheet bouncing off graphene stators work or is it far too thin?",
+    "likes": 0,
+    "published_at": "2013-04-02T11:14:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxY6I_OPskrIhNhrHJ4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "And when I ro do the front as a graphene coated plastic it will be see through so it can be put on windows",
+    "likes": 0,
+    "published_at": "2013-04-02T09:18:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzc44UVAdmj2iho1iN4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "I like the panacea boys. But it doesn't matter. The idea is now in the public domain having been disclosed to the world prior to any patent application and therefore now un patentable by anyone. Which means now everyone owns it.",
+    "likes": 0,
+    "published_at": "2013-04-02T09:17:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTB2YK_OYQ0JxO0vt4AaABAg",
+    "author": "@IndianaBoys",
+    "author_channel_id": "UCpmYAUqjIsUzXWjmYXY2MQw",
+    "text": "In a first-to-file system, the right to the grant of a patent for a given invention lies with the first person to file a patent application for protection of that invention, regardless of the date of actual invention.\n\nen.wikipedia (dot) org/wiki/First_to_file_and_fir­st_to_invent\n\nAshweth at Panacea may have some resources to keep your developments protected as Open SOurce:\n\npanacea-bocaf (dot) org/about.htm\n\n",
+    "likes": 0,
+    "published_at": "2013-04-02T08:39:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzgFJTkuoWqoeyMcQF4AaABAg",
+    "author": "@IndianaBoys",
+    "author_channel_id": "UCpmYAUqjIsUzXWjmYXY2MQw",
+    "text": "Robert, patent law just changed here in the US.  \nFirst to file and first to invent are legal concepts that define who has the right to the grant of a patent for an invention. The first-to-file system is used in all countries[citation needed] including the United States, which switched to a first-to-file system on March 16, 2013 after the enactment of the America Invents Act.\n\nen.wikipedia (dot) org/wiki/First_to_file_and_first_to_invent",
+    "likes": 0,
+    "published_at": "2013-04-02T08:28:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxwscn47_8n29u2dOJ4AaABAg",
+    "author": "@Slider2732",
+    "author_channel_id": "UCFqtTvDJtJRQFdRxwiCAWXw",
+    "text": "Very cool ! \nI wonder, could you create a box with the aluminium and get a better sound output ? I'm rusty on speakers, but am thinking of those nearly flat 'modern' types or some kind of waveguide method. Imagine a 100W speaker nearly as flat as a pancake...could fit one more shopping bag in the boot of most cars too lol",
+    "likes": 0,
+    "published_at": "2013-04-02T07:43:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyavIF47Mdzy0iPhvl4AaABAg",
+    "author": "@IndianaBoys",
+    "author_channel_id": "UCpmYAUqjIsUzXWjmYXY2MQw",
+    "text": "Robert, now add a drop of water on top of the glass and run some frequencies through it the Cymatics way.\n20 Sonations for Healing (Cymatics).wmv \nyoutube.com/watch?v=evw4BykapTU\n\nIt is great you support open sourcing your work!\n",
+    "likes": 0,
+    "published_at": "2013-04-02T02:03:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwX1ua9szyYYMghZpJ4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "It couples through electrostatic induction. Have a look at the speaker from a pencil and crisp packet vid for more on the theory. The foil just rests on the top of the graphene coated glass. It is not connected to anything - interesting isn't it.",
+    "likes": 0,
+    "published_at": "2013-04-02T00:35:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxmkt0KqKA3o0n1eZh4AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "It's all about having laugh! Cheers mate",
+    "likes": 0,
+    "published_at": "2013-04-02T00:28:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx9I5FjJJtDFzcHgy54AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "It's just a bit of fun really",
+    "likes": 0,
+    "published_at": "2013-04-02T00:23:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyxdEReJY8ni0SX2594AaABAg",
+    "author": "@ThinkingandTinkering",
+    "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+    "text": "Solar reflective PET. It's aluminium coated. I am going to replace it with a graphene coated PET so it is totally see through",
+    "likes": 0,
+    "published_at": "2013-04-02T00:22:44Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

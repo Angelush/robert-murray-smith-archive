@@ -1,0 +1,577 @@
+[00:00] [Music]
+[00:08] So this is a Geneva mechanism and
+[00:11] they're they're astonishing actually.
+[00:12] They're really quite cool. They used to
+[00:14] find a lot of use in cine projectors.
+[00:17] These days they're very useful for pick
+[00:19] and place machines or actions that you
+[00:21] want to be definite and then held. So it
+[00:25] has a really interesting property.
+[00:28] Here's the input wheel. It's got a pin
+[00:29] on it there. As the pin moves, it pushes
+[00:33] against this star and then the star
+[00:35] moves around to that circular section
+[00:37] which locks it in place. So, it'll
+[00:39] continue to move round, but this can't
+[00:41] move. Then, it comes right the way
+[00:43] around into the next slot and moves it
+[00:46] on by one slot. So, if you want to
+[00:50] repeat an action, control an action,
+[00:52] time an action, then this is a pretty
+[00:54] good option. Unfortunately, of course,
+[00:57] it you want to do it a certain number of
+[01:00] times. You have to troll the net to find
+[01:02] one of these that has the right number
+[01:04] of slots. And sometimes that's not as
+[01:07] easy as it might sound. And sometimes
+[01:09] it's not quite right when you find the
+[01:12] actual thing. So, I think it's always
+[01:14] better to be able to make these
+[01:16] yourself. Now, surprisingly enough, it's
+[01:19] actually not that difficult. It's a few
+[01:22] basic things that as long as we keep in
+[01:24] mind when we're working out how to draw
+[01:26] this and how to make it. Turns out it's
+[01:29] pretty easy. And it's all based on a
+[01:31] right angled triangle. Now, all
+[01:33] triangles add up to 180°. Of course, the
+[01:36] right angle means it's 90. And then we
+[01:39] have two more angles. One we don't know.
+[01:42] The one we don't know is the one that we
+[01:44] can work out from the number of slots
+[01:46] we've got. Then you take 180 and divide
+[01:48] it by your number of slots. And in this
+[01:50] case, we've got five. So 180 / 5 is 36.
+[01:55] Means we've got to make a triangle of
+[01:58] 36°. The other angle will be set to that
+[02:00] be 54. But we need a 36° right angle
+[02:04] triangle as the basics of what it is
+[02:08] that we're going to do. Now, if you're
+[02:10] doing another CAD package, of course,
+[02:11] you can just set those angles. Tinkercad
+[02:15] has a couple of quirks that enables you
+[02:18] to do some accurate geometry. So, we can
+[02:20] actually draw this in Tinkercad. Right,
+[02:23] we're in a brand new file. The ruler is
+[02:26] found here, right there. I click it and
+[02:29] place it in that corner and it will have
+[02:32] a little symbol by it there. If I click
+[02:34] on that, it's got use end point. If I
+[02:37] click on it once, it's use midpoint.
+[02:40] What that does is measures from where
+[02:42] this dot is to the midpoint of the
+[02:44] object obviously. And when we use end
+[02:47] point, what that does is go to the point
+[02:50] that the object actually starts at. So
+[02:53] let's leave it on use midpoint for right
+[02:55] now. The other thing that we're going to
+[02:57] need is this work plane tool here. So
+[03:00] let's put an object on the workbase and
+[03:02] we can see what that actually does. If
+[03:04] we place that triangle there, then
+[03:06] because we've got use midpoint, what
+[03:08] it's doing is measuring the length of
+[03:10] the sides and measuring where that
+[03:13] midpoint is. And you can see that in
+[03:15] green here. So the midpoint of that
+[03:18] object has these coordinates - 99 and
+[03:21] 101. That's where it's sitting more or
+[03:23] less at the center of the plane. So the
+[03:26] other useful tool is found here. It's
+[03:29] the work plane tool. You click on it,
+[03:32] hold down the mouse button and shift it.
+[03:34] And when you move it to the object, it
+[03:37] will sit on an object plane. Release the
+[03:39] shift key. And now that plane is
+[03:42] actually level with that. That will
+[03:44] become very useful soon to get that rid
+[03:48] of that and put it back to the default
+[03:50] plane. Click on the work plane and just
+[03:52] put it somewhere in the space. And now
+[03:54] the object is sitting where we
+[03:56] originally placed it. Now if we click on
+[03:59] that we can see the coordinates of the
+[04:01] midpoint. If we change that to use end
+[04:04] point the coordinates will change. The
+[04:06] coordinates are taken from that point
+[04:08] there and we can read different
+[04:10] coordinates. Those two tools are going
+[04:12] to be immensely useful for placing
+[04:15] accurate geometry. So three bits of
+[04:17] information. The ruler tool to measure a
+[04:20] couple of things. the plane tool so that
+[04:22] we can change our perspective. And that
+[04:25] little thing about dividing 180 by the
+[04:28] number of slots so we know what the
+[04:30] angle is. Armed with those three bits of
+[04:32] information, we can now set out to draw
+[04:34] this. To draw this, we need three
+[04:37] circles and one right angle triangle. To
+[04:40] start this, we need a cylinder. So,
+[04:43] let's grab a cylinder and pop it on the
+[04:45] work plane. Now, that cylinder is 20x
+[04:47] 20x 20, so let's make it 80. That's just
+[04:50] a random choice. Incidentally, making it
+[04:53] 5 mm high will be allow us to see the
+[04:56] drawing as it progresses. And 80 by 80
+[04:58] is just what I've chosen to do. Now, we
+[05:01] need to create a right angled triangle.
+[05:04] Unfortunately, in Tinkercad, doing that
+[05:07] accurately actually isn't that easy
+[05:09] because you do get triangle primitives,
+[05:11] but the ways of changing them makes it a
+[05:13] bit difficult to know what's going on.
+[05:15] So, we need to create a right angle
+[05:18] triangle with a 36° angle. And that's
+[05:21] the problem. To do that, however,
+[05:23] there's a neat little trick we can use
+[05:25] by taking the semic-ircular cylinder
+[05:27] primitive, reorienting it, resize it,
+[05:31] and then we can place it on the actual
+[05:33] cylinder covering half. Now, we
+[05:36] duplicate that and then rotate that
+[05:39] along with the cylinder underneath it
+[05:43] 180°. then we can rotate it exactly 36°
+[05:47] and that's going to be the basis of our
+[05:50] triangle with an accurate 36° rotation.
+[05:54] Now, of course, we need to make it a
+[05:56] right angle triangle. To do that, we're
+[05:59] going to use a square, a cube primitive,
+[06:02] because cube primitives, of course, have
+[06:04] a right angle, and we need to match it
+[06:07] up. And we need to match it up to this
+[06:10] plane right here. To do that, then we
+[06:13] put a plane in place. That means that
+[06:16] we're now going to be absolutely
+[06:18] parallel to that section that we need
+[06:20] and we can drop the cube to it. And then
+[06:23] we can go back to the original plane and
+[06:25] place that cube. And we do that using
+[06:28] the alignment tool so that it aligns
+[06:31] perfectly with that edge there. Then we
+[06:35] stretch that out until we make it much
+[06:38] bigger than we want it to be.
+[06:42] Now we want to get rid of a section.
+[06:44] This section here. Again to do that we
+[06:46] can use the plane and put a plane on
+[06:50] this bit
+[06:52] here. We add the plane. Well now
+[06:55] anything we do will be in line with that
+[06:58] there. And we don't have to worry too
+[07:00] much about it. We want to chop a bit
+[07:02] out. Now we drop a cube on there. A
+[07:04] hollow cube this time. But this time
+[07:06] it's above the plane. And we actually
+[07:08] want to get rid of the bit below the
+[07:10] plane. So if we make that minus 20,
+[07:13] it'll move it below the plane. And we
+[07:15] can rotate around to see where we are.
+[07:17] We're on the other side of the plane.
+[07:19] Now we need to stretch that cut out so
+[07:21] that it will cut out what it is that we
+[07:24] want it to do. And we make that
+[07:28] ridiculous. Now we go back to the
+[07:30] original plane so that we're working in
+[07:32] that plane. And we can see that we cut
+[07:34] out basically a right angled triangle.
+[07:37] And what we can do now is merge the two.
+[07:40] Let's drop it down to the
+[07:42] plane. Merge the two and then get rid of
+[07:46] our construction semicircles. What we
+[07:48] can see is that we've got an
+[07:53] 80 mm diameter circle and then a right
+[07:58] angle triangle with the center at the
+[08:01] center of the circle. And this edge here
+[08:04] is in line or rather a tangent to that
+[08:07] circle there. Now we need to create a
+[08:10] second circle. A circle with this radius
+[08:14] that point at the center that radius
+[08:17] means that the circle that we draw here
+[08:19] will intersect where the right angle of
+[08:22] the triangle and the bigger circle
+[08:25] meets. Of course for that we need to
+[08:27] know what that radius is. That radius is
+[08:30] actually relatively easy to
+[08:36] discover. Place a plane on there. And
+[08:39] then if we click on that, we'll get the
+[08:42] actual size of that, which is
+[08:45] 29.06. Let me go back to the original.
+[08:48] Now 29.06 is the radius. So we need to
+[08:52] double that to
+[08:54] 58.12 and create yet another cylinder.
+[08:58] This time the cylinder is going to be
+[09:02] 58.12. There it is. Now all we need to
+[09:05] do is place that on the edge right there
+[09:08] because that is the center. And there's
+[09:10] a neat little trick. If we pop there, we
+[09:13] can see that that says use midpoint.
+[09:16] What that means is all the measurements
+[09:17] are taken to the centers of things. If
+[09:20] we change that by clicking on it, it
+[09:22] will change to use end point. Now if we
+[09:25] click on that there what we'll get are
+[09:27] the coordinates of that point there and
+[09:30] we can see that it's
+[09:31] minus12 and 80.94. These are the green
+[09:36] arrows. So if we set that circle here go
+[09:40] back and now use midpoint. If we set the
+[09:44] midpoint to the previous coordinates
+[09:46] that we just read what we'll get is that
+[09:49] circle centered on that point
+[09:52] there. So this one we change
+[09:57] to
+[09:59] -12 and this one we change to
+[10:07] 80.94. There we go. And now that circle
+[10:11] is centered on that
+[10:15] point of the triangle. And that circle
+[10:18] is centered on that point of the
+[10:20] triangle. Now there's one more circle
+[10:23] that we need to add and that's the
+[10:25] circle that comes from that center to
+[10:28] that point there. Now that point there
+[10:32] is the one that we need to
+[10:34] know. If we flip that up again and this
+[10:37] time we put a plane on that
+[10:42] edge. If we click on the triangle then
+[10:45] we can read how long that triangular
+[10:48] edge is which is 49.4. 44. Then we can
+[10:52] go back to the original
+[10:59] plane. Now we know what that distance
+[11:01] is. We just read it and that was
+[11:04] 29.06. We know what that distance is. We
+[11:07] just read it and that was
+[11:09] 49.44. If we take one away from the
+[11:12] other, we get
+[11:13] 20.38, which is going to be the radius
+[11:16] of the circle with that at the center
+[11:18] touching that point there. So we double
+[11:20] that to
+[11:22] 40.76. And then we can add another
+[11:27] cylinder and we make that
+[11:31] cylinder
+[11:32] 40.76. Now we can just center that
+[11:35] cylinder to that cylinder by
+[11:37] highlighting the two and using the
+[11:39] centering tool. So if we hit shift and
+[11:43] click use the centering tool center to
+[11:49] this. There we go. That actually
+[11:52] currently
+[11:55] is off the base. Drop it down. There we
+[11:58] go. And we can see that construction
+[12:00] drawings are now done. So the trick of
+[12:04] using the planes and swapping between
+[12:06] end point and midpoint is how we can lay
+[12:09] out some very accurate geometry which is
+[12:12] the basics of what we need. So that was
+[12:15] the complicated part. The rest of it
+[12:18] pretty much just laying on shapes. And
+[12:20] to be honest, apart from the little
+[12:22] triangle drawing that we had to do, you
+[12:24] would be doing exactly the same thing in
+[12:26] any CAD program. You need to work out
+[12:29] what those circles are, which means you
+[12:31] need to know those lengths. And then
+[12:32] they need to be held in relation by the
+[12:35] right angled triangle. And you do that
+[12:37] whatever program you're using. Tinkercad
+[12:39] is the same as any other program, apart
+[12:42] from the little trick that we needed to
+[12:43] create that accurate right angled
+[12:46] triangle. Now, what we're going to do is
+[12:48] use that construction drawing to lay out
+[12:51] the rest of the shapes and build our
+[12:54] Geneva mechanism. Now, what we need to
+[12:56] do is create the slot. And we create the
+[12:58] slot using a cylinder primitive. Now,
+[13:01] I'm going to choose 6 mm as my slot size
+[13:04] because it's just a choice that I think
+[13:06] is reasonable. And I'm going to make
+[13:08] that 8 mm high so I can grab it, but
+[13:11] it's still in place. We need that first
+[13:13] hole to be right there where the
+[13:15] triangle intersects with the circle. But
+[13:18] in this orientation, we know that's
+[13:21] perpendicular and we know it's
+[13:23] perpendicular to this. So we can
+[13:26] take the hole and the inner circle and
+[13:30] we can align them by pressing the align
+[13:32] key and we align them to the center and
+[13:36] this edge here. Now the edge is actually
+[13:39] on the inside of the circle and we need
+[13:40] it to be directly on the circle center
+[13:43] to center. It's six. So use the arrow
+[13:45] key to move that down three. 1 2 3. Now
+[13:49] we can copy that using the copy key. And
+[13:52] we can move that down to where
+[13:55] the 90° angle meets that edge. But
+[13:59] again, remember it's perpendicular. So
+[14:01] we can do that by clicking on the copied
+[14:04] hole, holding the shift, clicking on the
+[14:06] larger circle, aligning it, and this
+[14:09] time aligning it to the bottom edge of
+[14:11] that circle there. Then we can move that
+[14:15] down by three because remember we want
+[14:17] the center of the hole to be on the
+[14:19] center on the edge of the circle. Now if
+[14:22] we highlight both those
+[14:24] holes and merge them we get a single set
+[14:29] that we know is
+[14:30] 25.62 apart center to center. So we can
+[14:34] pull down a cube primitive a hollow cube
+[14:37] primitive make it six.
+[14:41] Make this this measurement
+[14:46] 25.62 minus 6 because we want it to go
+[14:49] to the center, not to the
+[14:56] edge. So that's
+[14:59] 19.67. Again, we'll make it the same
+[15:01] height, which is going to be eight. And
+[15:03] now we can center that and this together
+[15:06] with each other using the alignment key.
+[15:08] And we can center to this shape because
+[15:11] we merge that shape to make it a hole.
+[15:13] If we center the center, what we get is
+[15:17] our actual slot. So when we merge those,
+[15:20] that will be the slot where the pin
+[15:21] goes. And the pin actually will sit
+[15:24] right there. Now what we need to do is
+[15:26] rotate it because as you've seen,
+[15:28] whenever we put anything onto the work
+[15:30] plane, Tinkercad automatically puts it
+[15:33] perpendicular to the work plane. At the
+[15:36] moment, we've been working along that
+[15:38] edge, which is fine. But we now want to
+[15:40] work along that edge. If we try to put
+[15:43] something on and get it to that edge,
+[15:46] we'll be forever bending something by
+[15:48] 36°. So, all we really need to do is
+[15:50] make that the perpendicular. So,
+[15:52] highlight the whole thing and then
+[15:54] rotate the whole thing by 36°.
+[16:04] When we've done that, we've made that
+[16:06] edge
+[16:07] perpendicular because what we need is
+[16:09] yet another circle running in here that
+[16:11] has its edge at that edge of the hole.
+[16:15] This will all become clear when I draw
+[16:17] it. What we do is take another block
+[16:21] primitive. Again, make it
+[16:26] six. 20 will be fine. Make it eight.
+[16:31] Actually, let's make that a bit bigger.
+[16:32] Let's say
+[16:34] 40. And this time, we can align it to
+[16:37] this. But remember, we made that a whole
+[16:39] thing. So, don't forget to ungroup it so
+[16:42] that it's just aligning itself to that
+[16:45] circle, that cylinder right
+[16:52] there. Align it to the center. And the
+[16:57] top edge will do fine. and we get
+[17:00] something that we can use as a cutout
+[17:02] going all the way down there. Because
+[17:03] what we need is the distance from this
+[17:06] point to the distance to that point
+[17:09] right there in order to be able to know
+[17:12] where that next
+[17:15] cylinds go. Now to get that of course we
+[17:19] can take yet another drawing tool which
+[17:23] we're going to make 2 mm apart.
+[17:26] We're going to make that eight so that
+[17:29] we can actually remove it. And let's
+[17:31] make that about 16. Something like
+[17:35] that. Now we drag that away up
+[17:40] here. Move around a little
+[17:42] bit. And this is to get nice accurate
+[17:45] alignment. Drop in another
+[17:47] plane right there. And then we can drop
+[17:51] this by hitting it and pressing the D
+[17:53] key. And it will drop to that plane.
+[17:56] replace the plane. What we need to do
+[17:59] now is line this edge up with this edge.
+[18:04] So, click on there, shift key, click on
+[18:07] there, align
+[18:09] tool, and align to the edge.
+[18:14] Now, if we hit
+[18:16] this, hit that little drawing mark we
+[18:19] just made, merge the two of
+[18:22] them, then that
+[18:25] length, 1408 + 6 is the radius of the
+[18:30] next circle that we need to draw. You'll
+[18:33] notice the diameter is 40.16. That's
+[18:37] because the radius we just measured was
+[18:39] 20.08. And of course, we need to double
+[18:41] it for the diameter. I've already put an
+[18:43] 8 mm hole in there. So, that'll be the
+[18:46] axle point. And you'll notice as well,
+[18:48] it's 6 because in all of these drawings,
+[18:51] these are.5 and we'll be able to grab
+[18:53] that at some later date. In order to do
+[18:56] that, raising it by a millimeter makes
+[18:58] it much easier to grab. Now, of course,
+[19:00] we can center those two circles here and
+[19:05] here. And we center it to that one.
+[19:15] What we need to do now is make a cutout.
+[19:18] The cutout is actually the big circle,
+[19:20] but the big circle, remember, is 80. And
+[19:22] we need a little bit of leeway. So, I've
+[19:24] created a cutout cylinder here of 80.2,
+[19:28] giving us.1 of a millimeter either side
+[19:30] as a bit of leeway. And we center that
+[19:33] cut out to the big circle.
+[19:42] Then when we've done that, we can click
+[19:44] on the cutout, hold down the shift key,
+[19:47] click on the small circle that we made,
+[19:50] and then merge the
+[19:53] two. And what we'll get is our cam. So
+[19:58] that's the cam with the right size
+[20:00] circle cut out of it. Now we need to cut
+[20:04] out little slices from this big circle
+[20:06] which will in fact be our driving our
+[20:08] driven slot mechanism. In order to do
+[20:11] that, what I've done is taken exactly
+[20:13] what this was, which was 40.16, and
+[20:16] again raised it by 2 of a millimeter to
+[20:18] give us a bit of clearance. So we've got
+[20:21] 40.36. And we're going to need to do
+[20:23] this five times. So what we do is leave
+[20:27] it to one side. Copy
+[20:32] it. Center it to this one
+[20:47] here. Click on it. Then click on the big
+[20:52] circle and merge the two.
+[20:55] Now we've got a cutout in that big
+[20:58] circle. We need to rotate that around.
+[21:01] If we do that currently, you'll notice
+[21:02] that although we've got 80 here, we've
+[21:05] got
+[21:06] 76.79 there. So, we can't rotate it just
+[21:10] by grabbing that because it will skew it
+[21:12] and we don't want that to happen. What
+[21:14] we need is a rotation guide circle a
+[21:18] little bit bigger than that 80 by 80
+[21:21] that we previously had. So, what we want
+[21:23] to do is create a circle that's a little
+[21:26] bit
+[21:27] bigger. And there is it in place. It's
+[21:30] 84 by 84 and it's been centered on that.
+[21:33] Now, if I grab both of those together,
+[21:36] it will rotate for the outer edge. And
+[21:39] we need to rotate that 72° because our
+[21:42] initial rotation was 118 and it gave us
+[21:45] 36. Twice * 36 is 72. So, let's rotate
+[21:48] that by
+[21:49] 72. When we've done that, that's what we
+[21:52] get with some nice chunks bitten out of
+[21:54] it. Now, we need to put the slots in. We
+[21:56] have the slot drawn right here. So,
+[21:58] click on
+[22:00] it, copy
+[22:03] it, hold down the shift key, click on
+[22:05] that one, and group them. Then again,
+[22:09] rotate it
+[22:11] 72° and repeat that
+[22:14] procedure. And after you've done that
+[22:16] five times, that's what you get. And
+[22:18] I've also put an axle hole in just by
+[22:20] creating an 8 mm hole cut out and
+[22:23] centering it to one of the cylinders.
+[22:26] Now, if we drag that off, there we go.
+[22:29] We've got our actual driver for the
+[22:31] mechanism. So, the only thing that we're
+[22:33] really missing is the placement of the
+[22:36] pin. Okay, I just dragged this off to
+[22:39] show you. Let's actually replace it and
+[22:42] drag off a copy. So, highlight it and
+[22:44] copy it. And then drag a copy away.
+[22:48] Because now what we want to do is put
+[22:50] the pin in. And the pin is actually one
+[22:52] of those slots. So if we ungroup it,
+[22:56] we'll get the slot back. And that means
+[22:58] that we can delete both the rest of the
+[23:00] shape to get rid of it nicely out of the
+[23:02] way. And we can delete that center hole
+[23:04] because we don't need it. Once we've
+[23:06] done that, we're left with this slot
+[23:08] that we created. And remember, it was a
+[23:10] grouped object. So if we ungroup that
+[23:13] then we can delete the elements we don't
+[23:15] need which was that hole there and the
+[23:18] keyway that we put in there leaving
+[23:21] us with just this pin here and we can
+[23:24] create a pin out of that by turning it
+[23:26] into a solid. Now it is 6x6 so if we
+[23:30] wanted to we could make it with a bit of
+[23:32] leeway 5.8 x 5.8 date, but you will also
+[23:36] notice it's actually jutting out there
+[23:39] quite a way actually. And what we want
+[23:42] to be able to do is have a bit of
+[23:44] support. So, we need yet another circle.
+[23:46] So, we'll just take that one, copy it,
+[23:49] and make it something, I don't know, 68x
+[23:51] 68 should be big enough. If it's not, we
+[23:55] can change its size. Then, when we've
+[23:57] copied it, we can center it to the
+[23:58] circle again. And we have a carrier for
+[24:01] the pin. Now, that was a copy, so it's
+[24:03] five. Let's make that a bit smaller.
+[24:05] Let's make it three. And then we can
+[24:08] group that and the pin with each
+[24:14] other. Now that pin actually has to sit
+[24:17] in the center of that cup. In order to
+[24:21] do that, we need to rotate it. Now we
+[24:23] rotate it by 54° because the pin needs
+[24:26] to sit there or there. And if you
+[24:28] remember that angle is 54. This angle
+[24:31] was 90. This angle was 36. And so this
+[24:34] angle is 54°. And so if we take that and
+[24:38] rotate that by
+[24:48] 54°, then that pin is now sitting in the
+[24:51] right position. And so we can grab it
+[24:53] and move it out of the way. Once you've
+[24:56] moved it out of the way, we need to
+[24:57] merge it with this. In order to merge it
+[24:59] with this, ungroup that. So we've got an
+[25:02] actual circle that we'll be able to
+[25:04] merge with. We need to raise that by
+[25:06] three because this is three high. It's
+[25:08] still at six. So let's change that to
+[25:11] five, which is what we want. We need to
+[25:14] raise that by three, which is where we
+[25:16] needed to be hovering above this. Then
+[25:19] we can center on that one. Then we can
+[25:23] click the whole
+[25:24] thing and again remerge them. And
+[25:28] there's our driving. And there's our
+[25:30] driven. Now we need the central bets. We
+[25:33] finished with the triangle. So let's get
+[25:35] rid of it. Here we need a pin that will
+[25:38] come up there. And remember that's
+[25:40] eight. So we'll make a pin at 7.8 and a
+[25:42] pin at 7.8 there. And we've done that.
+[25:45] This is what we get. Now we can merge
+[25:47] those. But remember this has a platform
+[25:50] of 3 mm it's sitting on. This is 5 mm.
+[25:53] This is 5 mm. So this will be lower if
+[25:57] we just left it like that. So, what I've
+[25:59] done is create yet another circle 20x 20
+[26:02] at six. And then we can center those
+[26:05] two. And that will just raise them to be
+[26:08] the same height. And then we can
+[26:09] actually merge the whole lot together.
+[26:12] And there we go. There's our three
+[26:13] components made. All we need to do now
+[26:16] is print them off. And once you've
+[26:18] printed them off, this is what you get.
+[26:20] That goes on
+[26:23] there. This one goes on there.
+[26:33] And we have ourselves a Geneva drive.
+[26:35] Now remembering that 180 divided by the
+[26:38] number of slots, the rule is to measure
+[26:41] a few coordinates and using planes to
+[26:43] change your orientation. You could
+[26:45] actually make that in any size that you
+[26:48] wanted with any number of slots that you
+[26:51] might happen to want. I think that's a
+[26:53] pretty cool thing, especially as that
+[26:55] can be done in Tinkercad. The process we
+[26:58] went through, remember, is the same in
+[26:59] any CAD program. I hope it helped. I
+[27:02] hope it was of interest to people. And
+[27:04] thank you very much for watching.

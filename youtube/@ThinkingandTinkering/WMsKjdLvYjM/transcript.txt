@@ -1,0 +1,354 @@
+[00:00] [Music]
+[00:08] now when you think about it certainly
+[00:10] historically the engines we make
+[00:13] primarily are all about shoving
+[00:15] something up and down and turning it
+[00:17] into rotation an internal combustion
+[00:19] engine explodes some fuel shoves a
+[00:22] piston up and down and we put it through
+[00:23] a crankshaft and turn it into rotation
+[00:27] and of course the same with steam steam
+[00:29] expands press is on the Piston pushes a
+[00:31] piston up and down Sterling engine we
+[00:33] Heats on air it's expansion pushes a
+[00:36] piston up and down and this is true for
+[00:38] a whole load of weird and wonderful
+[00:40] engines like the gunpowder engine the
+[00:42] acline engine the coal engine now we do
+[00:45] have rotary engines and here I'm
+[00:47] thinking of things like the wankle
+[00:49] engine and the dietro air engine but
+[00:52] predominantly when you look at the
+[00:54] engines were using it's pushing a piston
+[00:57] up and down and turning into rotation of
+[01:00] course universally we use a crankshaft
+[01:03] but that hasn't always been the only
+[01:06] thing that we did we have of course
+[01:08] explored things and some things have
+[01:10] been abandoned but not because they're
+[01:13] rubbish sometimes because they're
+[01:15] rubbish and sometimes because we just
+[01:17] move on and forget about them and there
+[01:20] are some very interesting ways of
+[01:22] turning that up down into rotation that
+[01:26] have been running for years and this is
+[01:29] a fin example it's Murray's hypers side
+[01:32] clal engine and it was built in 1805 and
+[01:35] ran continuously until 1961 and it's
+[01:38] still working it's in the Birmingham
+[01:41] Museum it's the third oldest engine in
+[01:44] the world to still be working and the
+[01:46] only other copy of it is in the Henry
+[01:48] Ford Museum and it uses something called
+[01:51] a hyper cycloidal drive to do that job
+[01:54] of up and down into round and round
+[01:57] hyper cycl is pretty straightforward if
+[02:00] you take a little circle and rotate it
+[02:01] around on a big circle take a point on
+[02:04] that little circle and it'll draw its
+[02:06] own curve these have been known about
+[02:09] since or the 1200s but were a
+[02:10] mathematical curiosity until the Advent
+[02:14] of engines in the industrial revolution
+[02:16] hyper cycloids however were more or less
+[02:19] forgotten about until recently when
+[02:21] these things came along this is a hyper
+[02:24] cycloid gear and it found favor in
+[02:27] robotics because it's an extraordinarily
+[02:29] good gear in system that can be put in a
+[02:32] very compact form with high gear
+[02:35] ratios now there is a special case of
+[02:38] the hyp cyclor called the 2C couple if
+[02:41] the small circle is half the diameter of
+[02:44] the large Circle then instead of making
+[02:46] a curve what it does is the point on the
+[02:48] circle follows a straight line and this
+[02:51] is what Murray used and it's also an
+[02:53] example of what I go on about when I say
+[02:55] that if you want to look forward look
+[02:57] back a lot of these things are actually
+[03:00] just forgotten and of course the titty
+[03:02] couple formed an engine that's been
+[03:04] running successfully for hundreds of
+[03:07] years so I thought it might be fun to
+[03:10] construct a hyper cycloid engine
+[03:13] mechanism so how do we go about doing
+[03:16] that well let's start with some circles
+[03:18] let's take a whole primitive and we're
+[03:20] going to make that 100 by
+[03:22] 100 let's smooth it out and then we'll
+[03:25] take a normal primitive and we'll make
+[03:27] that half the diameter so 50 by
+[03:30] 50 now we've aligned those two using the
+[03:34] Align tool align it to the center and
+[03:36] the edge then that point of the edge
+[03:39] will touch the point of the edge of the
+[03:40] big circle and we've got our toy couple
+[03:43] because this the Orange is half the size
+[03:46] of the hole but of course we want
+[03:49] something that's going to be a structure
+[03:51] for that we need an outer ring so if we
+[03:53] take that and copy it make it into a
+[03:56] solid increase its size 120
+[04:00] 120 and align these two to the center of
+[04:04] each
+[04:07] other then we can group
+[04:10] them and we get the basic shape we need
+[04:13] we've got one Circle the Inner Circle
+[04:15] here at 100 this circle at 50 and the
+[04:18] edges are touching and where those Point
+[04:20] touch when that rotates will'll be the
+[04:23] straight line that we're looking for now
+[04:26] this is just a construction drawing and
+[04:28] construction drawings have found very
+[04:29] often the key to what it is that you're
+[04:32] designing because as long as we place
+[04:34] everything in relation to the
+[04:36] construction drawing we'll end up with
+[04:38] the gear system that we know is going to
+[04:41] work and if you delete the construction
+[04:44] drawing just look at the gear system it
+[04:45] can be a little bit of a mystery of how
+[04:47] that was put together but a construction
+[04:49] drawing forms the backbone of what you
+[04:52] want to do so everything's in line
+[04:55] nicely so I've thinn those down to 2 mm
+[04:57] and made them a light color so we can
+[04:59] see what's going on but we essentially
+[05:01] need three important bits of information
+[05:03] from this we need to drive it from the
+[05:06] center of the big cutout we need this to
+[05:08] have its own Center that it's going to
+[05:10] spin around and we need a drive pin
+[05:13] right where those two touch so let's do
+[05:15] that bit first let's take a cylinder
+[05:19] that's going to be the drive pin and
+[05:21] we'll make
+[05:23] that
+[05:25] 8 by 8
+[05:31] now we can Center it to this press the
+[05:34] shift key click on it hit the centering
+[05:36] button and we can Center it to the
+[05:39] circle there and right at the edge there
+[05:42] but when we Center it right at the edge
+[05:44] the edge of that cylinder is touching
+[05:47] the edge of this cylinder and what we
+[05:50] want is for the center point of that
+[05:52] cylinder to be on the edge of that
+[05:55] thinner cylinder now we know it's eight
+[05:57] so all we have to do is move it on by
+[05:59] four
+[06:01] and now the center pin is right at the
+[06:04] center there where we need it to be in
+[06:07] order to drive it properly and now we
+[06:09] could need a couple of reference Drive
+[06:11] points so we'll take another
+[06:14] cylinder and this time we're going to
+[06:17] Center that to
+[06:22] there then we take another one just copy
+[06:24] it and Center it to the center of the
+[06:27] big Drive
+[06:34] and those are the key points that we
+[06:35] need we could actually now get rid of
+[06:38] that construction drawing and as long as
+[06:40] we maintain those centers everything is
+[06:43] going to be hky Dory super
+[06:45] brce now this technique of using
+[06:47] construction drawings is actually pretty
+[06:49] Universal it doesn't matter if you're
+[06:51] using on shet Fusion 360 whatever your
+[06:53] favorite flavor of cat is or Tinker cat
+[06:57] it all comes down to the construction
+[06:59] drawing and referencing everything to
+[07:01] the construction drawing means your
+[07:03] parts are going to be in the right place
+[07:06] so let's make the Central Drive arm for
+[07:08] the Central Drive arm then we need that
+[07:10] bit there and we're going to copy that
+[07:12] I'd copy a lot incidentally change the
+[07:14] size of that to say 40 by 40 by
+[07:22] 3 then we can make that Central to the
+[07:26] reference cylinder that we did just by
+[07:29] highlighting Li in it and centering it
+[07:30] to that cylinder and this one here which
+[07:33] is going to be driving the main gear we
+[07:36] also need a little step only this one
+[07:39] needs to be about a millimeter higher to
+[07:41] stop it fouling on that Center step
+[07:43] there so let's copy it again and this
+[07:45] time we'll make it why not
+[07:48] 30 by 30 by
+[07:52] 4 and again we can Center it now to our
+[07:55] reference point
+[08:05] and then if we join those two click
+[08:08] it highlight it and then group them
+[08:12] we'll get the drive arm of course the
+[08:14] drive arm does need a point at which it
+[08:17] can be driven through so if we take our
+[08:19] reference
+[08:21] cylinder copy it make it a hole and then
+[08:25] merge it with the two that we just made
+[08:31] we'll have a drive hole in there which
+[08:32] we'll see you in a minute this one again
+[08:35] copy
+[08:36] it leave well alone for the moment click
+[08:39] on that merge it and that when we drag
+[08:43] that out of the way there it is that's
+[08:45] our Drive arm and the drive arm is now
+[08:48] perfectly referenced to these two and we
+[08:50] can print that off and when we print it
+[08:53] off this is what we get now you'll
+[08:55] notice there's a little indentation in
+[08:57] there and that indentation is to take
+[08:58] that c clip now I've done clip making in
+[09:01] a previous video but as long as you
+[09:03] don't disturb the relationship between
+[09:05] this and this you can fiddle on with
+[09:07] that as much as you like making it
+[09:09] pretty and then printing it off okay
+[09:13] let's make the drive Cog to make the
+[09:14] drive Cog go to here type in
+[09:21] gear you'll find the metric gear there
+[09:24] pull it onto the work plane and here we
+[09:27] can see the module which is a tooth size
+[09:29] make that
+[09:31] 1.5 number of teeth
+[09:37] 30 we'll make it 7
+[09:41] High and we can see that it's 4748 so
+[09:44] about 48x 48 which is near the 50 that
+[09:48] we actually want which is pretty good
+[09:50] now what we need to do is make a plate
+[09:53] because this remember pokes over a
+[09:56] little bit and we want to carry it this
+[09:59] is 50+ 4 so we'll make a plate at 54 58
+[10:06] sorry copy
+[10:08] it
+[10:13] 58
+[10:18] 58 raise it off the ground by seven
+[10:21] because we want it to sit on top of
+[10:23] there and make it 3 mm thick
+[10:29] now we can click on
+[10:32] this and
+[10:34] this and this by holding the shift key
+[10:38] down Center them but Center them to our
+[10:44] point then we can see that the pin is
+[10:46] now being carried by the top plate it
+[10:49] doesn't matter where that pin actually
+[10:51] is as long as the center of the pin
+[10:54] touches the center of that and it's the
+[10:56] same with the gear the gear can be out a
+[10:58] little bit as long as we don't change
+[11:00] these reference points now we want to
+[11:02] put that together so hit that and copy
+[11:06] it again but make it a hole because you
+[11:08] want to drive hole hold down the shift
+[11:10] key hit that we need to carry the pin
+[11:13] with us so hit the pin and in a minute
+[11:15] we'll need the gear so let's just merge
+[11:20] those and if we hit the gear hold the
+[11:23] shift key down hit that one and merge
+[11:26] those
+[11:32] and when we've done that we can take
+[11:33] hold of that and move it out of the way
+[11:35] and there is our drive gear now you can
+[11:37] see that pin actually is going right the
+[11:39] way through to the Gear so let's just
+[11:42] unmerge
+[11:43] that Ra's that pin by
+[11:50] seven and REM merge
+[11:57] it now we can print the that off and
+[12:01] there it is printed now I have changed
+[12:03] that PIN to a snap fit but I've covered
+[12:05] that again in a previous video so I'm
+[12:07] not going to cover it here that goes on
+[12:09] there and the clip goes in place to hold
+[12:14] on now we have actually pretty much
+[12:16] finished with the role of construction
+[12:17] drawings in this key element so we can
+[12:19] get rid of those so just highlight them
+[12:21] and delete them the one thing we still
+[12:23] need is to make this into a ring gear
+[12:26] because we need that driven gear to be
+[12:29] driven round the ring so to do that
+[12:31] highlight it let's change that to seven
+[12:34] remember we made the gear size
+[12:38] seven mer it and then delete that
+[12:40] Central hole the thing we need here is a
+[12:44] gear so if we pull down the gear
+[12:46] remember this gear here was 30 so this
+[12:49] one number of teeth needs to be 60 and
+[12:52] the module is
+[12:54] 1.5 now to give it a little bit of slack
+[12:57] when we're going to do this cut out
+[12:59] method I usually make that just a tiny
+[13:00] bit bigger so 1.55 and that will make a
+[13:04] slightly wider very slightly wider tooth
+[13:08] space so that it won't snag as it moves
+[13:10] around then we can make that into a hole
+[13:13] we can merge those two Center them sorry
+[13:16] Center
+[13:19] them and then merge
+[13:27] them and we get our ring gear now again
+[13:30] as long as we don't disturb these
+[13:33] relationships we can do whatever we like
+[13:35] to make this pretty including putting
+[13:37] holes in there and pegs in there so that
+[13:39] we can hold it apart but now we need to
+[13:42] do those changes on it and then print
+[13:45] that off now I don't mean I'm doing
+[13:47] everything step by step or that would
+[13:49] make a tremendously L boring video all I
+[13:52] really want to do is highlight the role
+[13:53] of construction drawings when it comes
+[13:55] to placing everything and building the
+[13:58] parts you want to build and making sure
+[14:00] they're in the right place so what I did
+[14:02] was took that ring VI we made and added
+[14:04] these nice little projections on it so
+[14:06] we can put a backing plate on there and
+[14:09] these projections so we can have the
+[14:10] sliding on then I duplicated that and
+[14:13] change the holes into those pegs so that
+[14:16] these two fit together rather neatly and
+[14:19] then we fit those together and clip them
+[14:21] in place so once you've clipped the back
+[14:23] onto the front the D driving Cog goes on
+[14:26] this axle and it slots in there making
+[14:29] sure that they're in line as you push it
+[14:37] down like that now on the back you take
+[14:42] this piece and glue it on there when
+[14:45] that bit's glued then this bit goes on
+[14:48] the snap fitting and it only fits one
+[14:50] way around that way and then the two
+[14:53] long bits one feeds through there and
+[14:56] glues in here and the other feeds in
+[14:59] them from the other side and glues them
+[15:01] that side there when you've done that
+[15:03] the final thing to do is add this
+[15:05] massive flywheel which goes on there so
+[15:10] stick it on a base and there it is
+[15:12] finished and of course if I turn that
+[15:14] flywheel then what we see is this bar
+[15:16] going backwards and forwards in a nice
+[15:19] straight line it's meant to be an engine
+[15:21] obviously so equally if I push the drive
+[15:24] Rod it'll Spin The Fly wheeel turning
+[15:26] that nice straight line into rotation
+[15:29] and we could put anything on here I mean
+[15:31] I could put a steam piston if I like I
+[15:33] could put a solenoid if I like I will of
+[15:36] course put these files on the thingy
+[15:38] verse should anybody want to play with
+[15:39] it a little bit I'm likely to do more
+[15:42] with it but I wanted to highlight on the
+[15:44] use of construction drawings using that
+[15:47] mathematically correct construction
+[15:49] drawing means that I could place
+[15:50] everything and even though we've got
+[15:52] bits of slack in this it makes no
+[15:54] difference it still allows that nice
+[15:56] movement because we use the instruction
+[15:59] drawing to make it anyway I hope you
+[16:01] enjoyed the video thank you very much
+[16:03] for watching and please do remember to
+[16:05] like And subscribe

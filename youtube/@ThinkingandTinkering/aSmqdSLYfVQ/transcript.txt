@@ -1,0 +1,170 @@
+[00:00] [Music]
+[00:08] so that is a dish of soap and water and
+[00:11] if I take a ring and I made this out a
+[00:12] bit of spare filament that I glued
+[00:14] together dip it in we get a soap film
+[00:17] that we can make a bubble with and of
+[00:19] course big whoop we've been doing that
+[00:20] since we were kids but what about if I
+[00:24] take two of them if I take two of them
+[00:26] pop them in one on top of the other lift
+[00:29] it out
+[00:30] gently and then part them what
+[00:35] happens is I get this kind of convex
+[00:37] shape now there's a hole in the middle
+[00:39] there the two unjoined and this is
+[00:43] called a
+[00:45] gyroid now that was kind of surprising
+[00:47] because what you would expect is there
+[00:49] would be a cylinder soap Buble joining
+[00:52] those two rings together instead you get
+[00:54] this weird gyroid shape now it turns out
+[00:57] that that gyroid shape is formed because
+[01:00] it's actually the minimum amount of
+[01:02] material needed to join those two rings
+[01:05] and in fact a cylinder uses more
+[01:07] material so it naturally falls into this
+[01:10] gy Rod shape to use the minimum amount
+[01:13] of material and that's really kind of
+[01:15] interesting because what would you get
+[01:18] if you had a load of them side by side
+[01:20] that way that way and that way to form a
+[01:23] block of these minimum
+[01:25] materials well what you get is this and
+[01:28] it's called a gyroid l and it turns out
+[01:31] that in nature it will automatically
+[01:34] form and we've been seeing these all of
+[01:36] the time without really realizing it you
+[01:39] find them in butterflies Wings bird
+[01:41] feathers Crystal structures and even the
+[01:43] eyes of some animals because they have a
+[01:45] Ming properties the mathematics of it
+[01:48] was discovered by uh Alan Sher in the
+[01:50] 1970s and C they've been come incredibly
+[01:54] popular now if you haven't have Cura to
+[01:57] make a gyroid ltis is incred incredibly
+[02:00] easy so to make a gyroid lce with Cura
+[02:04] open Cura stick a block in there and
+[02:06] then go here click down and if you look
+[02:09] you'll see you've got INF full pattern
+[02:11] and it's a grid and it's set a 15%
+[02:14] density if I click that down arrow there
+[02:16] is gyroid so click on gyroid and you can
+[02:19] change the infill density to actually
+[02:21] change the size of your gyroid there's
+[02:24] also something else you need to do if
+[02:26] you go to the Shell you'll see that the
+[02:28] war line count is two set that to zero
+[02:31] and the same with the top thickness and
+[02:33] the bottom thickness just set them to
+[02:36] zero then when you've done that hit
+[02:38] slice and it will autogenerate your
+[02:40] gyroid for you click on preview and
+[02:43] you'll see we've formed ourself a
+[02:46] GID incidentally it's also available in
+[02:49] bamboo if you go to bamboo look at
+[02:52] strength and then go to the info sparse
+[02:55] info and you see it set at grid if I
+[02:57] click on that
+[03:01] there it is there's the gyroid pattern
+[03:04] once we've done that of course we can
+[03:05] print
+[03:16] it and when you print it that's what you
+[03:20] get now apart from being beautiful in
+[03:22] itself it has three astounding
+[03:23] properties the first one is well it's
+[03:26] aort in itself and so it doesn't need
+[03:28] supports which is great right because
+[03:30] you how would you get into those
+[03:31] channels to clean them out otherwise the
+[03:34] next one is that it doesn't have a weak
+[03:37] axis you can press them that way that
+[03:40] way or that way it makes no difference
+[03:42] it's as strong in every single Direction
+[03:45] and the third one is when you look at it
+[03:48] it looks like it's all one channel going
+[03:50] through the block but it isn't what it
+[03:52] does is separated into two channels that
+[03:56] are intimately intermingled so you can
+[03:59] put fluid through there without them
+[04:01] actually mixing but with them being as
+[04:05] as close as they possibly can and that
+[04:07] one has got lots of Interest especially
+[04:11] in this it's a heat exchanger designed
+[04:13] by Advanced engineering Solutions and
+[04:16] it's about half the size of current heat
+[04:18] exchangers uh said to be four times more
+[04:20] efficient and is destined for
+[04:22] helicopters now it is a beautiful design
+[04:25] and if it lives up to its promise what
+[04:27] an awesome advancement but when you look
+[04:29] at something like like that then the
+[04:31] other uses of it I would say would be
+[04:34] really quite obvious and that would be
+[04:36] in things like flow battery so maybe
+[04:38] thein bromide battery that we came up
+[04:40] with in previous videos so having those
+[04:43] channels like that that we can 3D print
+[04:45] and in fact it's the only way of
+[04:46] creating channels like that to improve
+[04:49] the efficiency of things like batteries
+[04:52] is extremely
+[04:53] interesting and it doesn't stop there
+[04:55] look at these channels instead of
+[04:57] thinking of these channels as channels
+[04:59] we think of about them as a network now
+[05:01] we can create that Network by making
+[05:03] this block a hole merging it with
+[05:05] another block intersecting them and we
+[05:07] get a
+[05:10] network and then again of course we can
+[05:12] print it and like the other one we can
+[05:14] print it without any
+[05:17] supports actually what we get is a dual
+[05:20] network shown by the red and the blue
+[05:22] and these two networks are intimately
+[05:25] intermingled but at no point do they
+[05:27] touch and this is how Crystal form when
+[05:30] they form from different materials and
+[05:33] when it comes out it is in fact much
+[05:35] easier to see that it is in fact two
+[05:37] lates as they move side by side so what
+[05:39] would you use something like this for
+[05:41] well you could do what intesa did and
+[05:43] neck pled and make it electrodes of a
+[05:46] hydrogen generation system where he got
+[05:48] improved generation he actually had um
+[05:51] problems with it because of the metal
+[05:53] that he used but it could be used like
+[05:55] that or again you could use it as the
+[05:57] electrodes for Batteries because they
+[06:00] interpenetrate so well now of course
+[06:02] I've made these quite large so we can
+[06:04] actually see them but they could be made
+[06:07] very very small indeed and that would
+[06:09] improve the energy density of a standard
+[06:11] battery as well as the hydrogen
+[06:14] generation for a generation unit so that
+[06:16] would be really useful for something
+[06:18] like that this one as I said could be
+[06:20] used quite well for a flow battery so
+[06:22] we've got these kind of gyroid lates
+[06:26] that have potential to be used in the
+[06:28] application of energy generation and
+[06:30] storage which I thought was super
+[06:32] interesting now they're plastic
+[06:34] representations so we could do better if
+[06:37] we made them in metal certainly but
+[06:39] there are companies that would produce
+[06:41] something like that for you once you
+[06:43] give them their design or you could
+[06:46] copper plate it or electroplate it in
+[06:48] the metal of your choice I thought there
+[06:50] were absolutely fascinating things with
+[06:51] a ton of possibilities and if you
+[06:53] haven't heard about them you should
+[06:55] certainly look into them because of
+[06:58] their immense usefulness in potential
+[07:02] anyway I hope you enjoyed the video
+[07:04] thank you very much for watching and
+[07:05] please do remember to like And subscribe

@@ -1,0 +1,59 @@
+{
+  "thing_id": 6249273,
+  "name": "Stand Alone Generator Module - Axial Flux, Serpentine Coil",
+  "description": "You can find a video on this at https://youtu.be/lK1ZM9WIBh4\r\nto finish this you will need 36 x 10mm by 2mm neodymium magnets, 2 x 22mmOD 8mm ID 7mm thick skater bearings, 50mm of 8mm steel bar.and some enameled copper wire 0.1mm to 0.2mm thick depending on number of turns you want to put on",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "lK1ZM9WIBh4",
+      "url": "https://youtu.be/lK1ZM9WIBh4"
+    }
+  ],
+  "tags": [
+    "Axial",
+    "coil",
+    "flux",
+    "fwg",
+    "generator",
+    "Magnets",
+    "robert",
+    "serpentine",
+    "tnt"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2023-10-04T16:10:33+00:00",
+  "modified": "2023-10-04T16:10:33+00:00",
+  "url": "https://www.thingiverse.com/thing:6249273",
+  "thumbnail": "https://cdn.thingiverse.com/assets/b7/37/86/7a/0b/large_display_b6a41946-e2bb-4678-b083-e13d00148b2f.jpg",
+  "like_count": 47,
+  "collect_count": 43,
+  "comment_count": 0,
+  "download_count": 652,
+  "files": [
+    {
+      "name": "Adaptor_plug.stl",
+      "size": 51284,
+      "url": "https://www.thingiverse.com/download:13550208",
+      "download_url": "https://api.thingiverse.com/v2/files/13550208/download"
+    },
+    {
+      "name": "magnet_ring.stl",
+      "size": 269684,
+      "url": "https://www.thingiverse.com/download:13550209",
+      "download_url": "https://api.thingiverse.com/v2/files/13550209/download"
+    },
+    {
+      "name": "Cover_Plate.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:13550210",
+      "download_url": "https://api.thingiverse.com/v2/files/13550210/download"
+    },
+    {
+      "name": "Coil_Former.stl",
+      "size": 230084,
+      "url": "https://www.thingiverse.com/download:13550211",
+      "download_url": "https://api.thingiverse.com/v2/files/13550211/download"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+[00:02] [Music]
+[00:15] hi so just to warn you off the bat this
+[00:17] is going to be an
+[00:17] unboxing video and a bit of a product
+[00:19] review if you don't like that
+[00:21] feel free to skip the video okay first
+[00:24] thing
+[00:24] soapbox everything takes learning i mean
+[00:27] everything you have to learn to eat tie
+[00:29] your shoelaces and you even have to
+[00:31] learn not to pee yourself
+[00:33] it's great that babies can't understand
+[00:35] language because you can imagine what it
+[00:37] would be like you're bound to get
+[00:39] somebody somewhere explaining the
+[00:40] physics of leverage aerodynamics the
+[00:42] perfect spoonful
+[00:44] and the baby just be sat there terrified
+[00:47] to eat
+[00:48] now i'm a bit of an idiot in that i'm
+[00:50] not afraid of that i don't mind
+[00:51] trying to stuff a bit of carrot in my
+[00:53] ear i don't mind if i get food all over
+[00:55] the place
+[00:56] i'm ready to learn and learning means
+[00:59] doing
+[01:00] of course i'm not a complete imbecile
+[01:02] and it's
+[01:03] great to have some kind of assistance
+[01:06] so seed s triple e d sent me this thing
+[01:10] now seed i'm aware of actually because i
+[01:13] do a fair bit of work with arduino i use
+[01:15] it mostly for machine control
+[01:17] and i think it's a really useful thing
+[01:19] to be able to do especially in this day
+[01:21] and the control of machinery and sensors
+[01:24] is
+[01:24] really a useful skill to have and it
+[01:26] really is one of those terrifying skills
+[01:28] because it's just like those people
+[01:30] teaching your baby
+[01:31] there's an awful lot of very good people
+[01:34] who've invested a lot of time who are
+[01:36] willing to share
+[01:37] and share just that bit too much so it's
+[01:40] just too much information you just
+[01:42] sit there thinking okay so what do i do
+[01:45] now
+[01:46] sometimes all you really need is a
+[01:49] kickstart
+[01:50] something that makes it simpler for you
+[01:52] now seed have produced
+[01:53] this thing that they say is a great
+[01:55] kickstart into it and it is the growth
+[01:58] beginner kit for arduino
+[02:00] now they sent me this for free because
+[02:03] they want me to do this video and i'm
+[02:05] quite happy to do the video because i
+[02:06] think anything
+[02:07] that gives you a bit of an assist to get
+[02:10] you going
+[02:11] is a good thing and that's me included i
+[02:14] love things that has give me an assist
+[02:16] and get me going on something
+[02:18] so they sent me this to have a look at
+[02:20] what we're going to do is we're gonna
+[02:21] unbox it
+[02:22] lay it out and have a look at it okay so
+[02:25] here's what's in the box there's the
+[02:27] board itself now the board
+[02:29] is all wired up on the back tons of
+[02:31] information telling you what it is so
+[02:33] you
+[02:33] literally don't have to do anything you
+[02:35] can leave it on the board but they do
+[02:37] snap out and it's giving these little
+[02:38] snap outs so you can re-jig everything
+[02:40] to fit in a pretty box if you want
+[02:42] and there are little connector clips on
+[02:44] this side that are keyed so they only
+[02:46] click
+[02:46] click in one way and there's the
+[02:48] connector cable giving you power and
+[02:50] communication with your computer
+[02:54] now electronics is all about signal
+[02:56] control
+[02:57] and basically you have a sensor that
+[03:00] gives
+[03:01] information in an actuator that does
+[03:04] something
+[03:05] based on that information and then this
+[03:07] thing a processor
+[03:09] to change the in and to and
+[03:12] out depending on what you want to do
+[03:14] with it or rather
+[03:15] control the signal so the sensors
+[03:17] provide a signal
+[03:18] the board provides control the actuators
+[03:22] provide the ability to do something
+[03:25] because
+[03:26] what's the point unless you do something
+[03:29] now this is a beginner kit so they've
+[03:31] clearly made a choice about these things
+[03:33] and what they think
+[03:34] you're going to be interested in doing
+[03:36] so we've got an led
+[03:37] a buzzer an oled display as a humidity
+[03:41] air pressure
+[03:43] accelerometer light and sound sensors
+[03:46] so you can do basic stuff that you might
+[03:49] want to do
+[03:49] but seeds do have i think they claim 300
+[03:53] 350 other modules to do something with
+[03:57] this setup for arduino on the plug and
+[04:00] play so the idea here is
+[04:02] to get rid of the electronics bit to get
+[04:04] rid of the soldering bit
+[04:06] to get rid of the breadboard and the
+[04:08] shaky connections that breadboards
+[04:10] inevitably give you
+[04:12] so you're getting rid of a whole tool
+[04:13] set turning it into plug-and-play
+[04:16] and concentrating on the um programming
+[04:20] of the arduino because it's the
+[04:21] programming of the arduino
+[04:23] where you control the in and out cedar
+[04:26] no different from other companies they
+[04:28] think their product is awesome and to be
+[04:30] honest it's
+[04:30] pretty neat but where seed and arduino
+[04:33] really win really knock it out the park
+[04:37] is the support that they give
+[04:39] the support given for this stuff is just
+[04:42] astonishing actually
+[04:43] and it's really easy to get to all i did
+[04:45] was put a growth beginner kit
+[04:48] seed in my google search and it pops
+[04:50] straight up and you have a look at it
+[04:52] there's so much stuff on there that if i
+[04:55] tried to cover any of it
+[04:56] you're probably talking about 20 to 30
+[04:58] videos and it's all just laid out for
+[05:01] so they introduce the stuff they give
+[05:03] you projects to do
+[05:05] they give you the arduino coding to give
+[05:07] you a handheld
+[05:08] help into stepping into that world of
+[05:11] arduino and if you go to the arduino
+[05:13] and download the ide you get exactly the
+[05:15] same thing
+[05:16] so one of the reasons arduino and seed
+[05:19] are so popular
+[05:20] isn't so much for the product i mean i'm
+[05:22] not knocking the product i think the
+[05:23] product is awesome
+[05:25] but it's not that it's the support they
+[05:28] give the hand holding to get you through
+[05:30] those early stages of where you're going
+[05:32] to be scared
+[05:34] is just there and it's so easy for you
+[05:37] to get to and have a look at
+[05:39] and it's not really terrifying the
+[05:41] projects don't involve anything
+[05:43] all you've really got to do is plug this
+[05:45] thing into the back of your computer
+[05:46] with that thing
+[05:47] download the ide and in five seconds
+[05:50] flat you're going to be
+[05:51] blinking an led or lighting a light
+[05:53] because you clap it
+[05:54] and it's all here for you just to follow
+[05:58] so this is the bmw um brushless motor
+[06:02] fan that we used in the previous videos
+[06:04] and it was suggested to me to link
+[06:06] it up to a speed controller and then
+[06:07] we'll be able to get it to run so i've
+[06:09] got an esc
+[06:10] right there and i've put that straight
+[06:12] into the growth beginner kit board
+[06:14] because we're using the potentiometer as
+[06:16] the actual speed controller
+[06:18] so all i had to do was plug in the live
+[06:20] and neutral and then the signal wire to
+[06:22] the esc
+[06:23] because the signal in is from the
+[06:26] potentiometer the signal out is this
+[06:28] green wire that controls the motor's
+[06:30] speed
+[06:31] now this is running off this power
+[06:33] supply the power supply is actually
+[06:35] feeding
+[06:35] the arduino as well so if i turn that on
+[06:38] we should get a couple of beeps telling
+[06:39] us this is ready there it is
+[06:42] there we go and then now it draws a lot
+[06:44] of power so i need to give it a little
+[06:46] flick start
+[06:54] and we're off i turn the potentiometer
+[06:58] down
+[06:59] it slows down
+[07:11] so there we go using the growth beginner
+[07:13] kit as a speed controller to control a
+[07:15] brushless
+[07:16] motor on the setup of it actually it's
+[07:18] really not a lot to say about it because
+[07:19] it's really simple i mean i
+[07:21] do really need a fritzing diagram the
+[07:23] black and the red
+[07:24] go to the ground and the plus 5 volts
+[07:27] and the signal wire is actually on
+[07:28] pin 9 on digital pin 9. the code i put
+[07:32] in the description so that was the code
+[07:33] that i used in order to run the
+[07:35] brushless motor
+[07:36] and to install it i used the arduino ide
+[07:39] and
+[07:39] grove have a patch for the communication
+[07:42] the serial port communication
+[07:44] it's at usb to uart patch uh i have a
+[07:47] mac
+[07:48] which is notoriously difficult to do
+[07:49] anything on and actually found it really
+[07:51] easy to follow their instructions and
+[07:53] install that patch so the whole thing
+[07:55] got set up in about
+[07:57] 10 minutes and as for making this like
+[07:59] you say it was
+[08:00] three jumper cables and embarrassingly
+[08:02] very little so hopefully if you want to
+[08:04] reproduce it
+[08:04] then that's all the information you're
+[08:06] going to need in order to control the
+[08:10] so all in all it is a pretty neat
+[08:12] product i mean there's several things i
+[08:13] like about it i mean they include the
+[08:15] standoffs actually and that really is
+[08:17] neat
+[08:17] so if you're sticking this in a project
+[08:19] box you obviously need standoffs and you
+[08:21] very often have to get them
+[08:23] separately so they've really thought
+[08:25] about it you know and really included
+[08:26] everything so i do love the standoffs
+[08:29] the fact that you can snap it out or
+[08:30] leave it in i also
+[08:32] like and when you think about it there's
+[08:34] 10 modules an arduino board on that for
+[08:37] um 28 was that about 20 pounds or so
+[08:40] so that's not bad when you think about
+[08:42] it but like i said to my mind
+[08:44] it is about the support really that they
+[08:46] give but the product itself is quite a
+[08:48] nice product i do like it
+[08:50] so i'm sure i'll find lots of uses
+[08:53] beyond what we did for that
+[08:54] anyway i hope you enjoyed the video
+[08:56] thank you very much for watching and
+[08:58] please do remember to subscribe

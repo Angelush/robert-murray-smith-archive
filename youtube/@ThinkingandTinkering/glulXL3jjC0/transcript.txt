@@ -1,0 +1,277 @@
+[00:00] [Music]
+[00:07] everybody so n of you to use your 3D
+[00:09] printer for anything other than a very
+[00:11] large paper we you need to be able to
+[00:13] get yourself an object that you can
+[00:15] print now there are a whole load of
+[00:17] repositories where people have designed
+[00:19] objects and put them up under Creative
+[00:22] Commons and you're thinking about places
+[00:23] like ygy uh cult 3D principles thingy
+[00:27] verse there's just loads of them on some
+[00:29] of the you'll find that they will charge
+[00:31] but a huge range of them they're just
+[00:34] there to download I I tend to put up on
+[00:37] thingy verse and all of my downloads are
+[00:39] free so knock yourself out and a lots of
+[00:42] people do that getting a hold of an
+[00:44] object to print is surprisingly easy now
+[00:48] once you've got that object you can't
+[00:50] literally print it on your 3D printer
+[00:53] you need to do something called slice it
+[00:55] slicing is where you create lots of
+[00:58] layers two Di I layers that you the
+[01:01] printer will stack up for you to create
+[01:03] your 3D object and there are two main
+[01:05] slicer programs the most straightforward
+[01:10] if you like is Cura I'm quite a fan of
+[01:13] cura it's got a very simple front end
+[01:15] and it's very easy to use but there are
+[01:18] restrictions with Cura one of the most
+[01:21] popular because it's a bit more complex
+[01:23] but is able to do more is prer now there
+[01:27] are others particularly for the Linux
+[01:29] platform but
+[01:30] mostly that's what the manufacturers of
+[01:33] filament printers are going to be
+[01:35] providing because well they're are de
+[01:37] facto standard they're well supported
+[01:39] they're open source and they're really
+[01:41] good programs so why not those I would
+[01:44] think would be the men to that you're
+[01:46] going to run into now if you get
+[01:48] something like the quiddy x max 3 what
+[01:50] they'll do is they'll send you a USB and
+[01:54] on that USB is the actual slice of
+[01:57] software so let's stick that in and and
+[01:59] have a look at it and this is what
+[02:01] you've got on that USB stick there's a
+[02:03] quick start guide there which basically
+[02:06] is um like the users's
+[02:09] handbook they're obsessed with the
+[02:12] unpacking there's a a tutorial on the
+[02:15] front screen there's a tutorial in here
+[02:19] where they point out all of the packing
+[02:21] that needs to be removed and the little
+[02:22] screws you need to remove and then it
+[02:24] goes step by step through the setting up
+[02:26] procedure which we've already seen in
+[02:28] the previous video is an absolute piece
+[02:31] of cake then there's a bunch of test
+[02:33] files that they've got for you includes
+[02:35] that horrendous Beni that everybody does
+[02:37] well I suppose you know a yard stick is
+[02:39] a good thing and then finally the slice
+[02:41] of software itself and it's available in
+[02:44] Linux Mac and windows and of course
+[02:47] we're going to use the windows one
+[02:49] because we have a Windows machine and
+[02:50] there's the setup just double click on
+[02:52] the setup and it will begin to run the
+[02:54] setup program for you where it installs
+[02:57] the slicer onto your desktop
+[03:01] just click yes on whatever your language
+[03:04] is and then next of course you have to
+[03:06] agree with the uler choose that if you
+[03:09] want to I just tend to accept the vaults
+[03:11] and it will whiz its way through and
+[03:13] finish in no time when we click finish
+[03:16] then it's going to run the slicer
+[03:18] program itself and do this startup and
+[03:21] configuration on the first startup this
+[03:23] is what you see now this has been
+[03:25] provided by Chey for you so all of the
+[03:27] presets are done you can have a further
+[03:30] into it if you want but basically all
+[03:32] you have to do is Click next next next
+[03:35] next next next next and flick finish now
+[03:39] there is one little thing if you're used
+[03:41] to using inches you can click that
+[03:43] inches button there and it'll measure
+[03:45] everything in inches and you click
+[03:46] finish and bingo you're at the startup
+[03:49] screen now let's load up a model the
+[03:51] model I'm going to load up is this one
+[03:53] which I've drawn up in Tinker Academy to
+[03:55] get it out I just click on it and Export
+[03:58] it as an sdl file
+[04:02] same with the other one export as an STL
+[04:06] file and then I'm ready to upload it I'm
+[04:10] back in my slicer and go here to the add
+[04:12] button so we can add it we can find it
+[04:14] it's my downloads click on it open and
+[04:18] it will import it onto the slicer for me
+[04:20] now I want the other one and import it
+[04:23] and open and there we go you'll notice
+[04:25] that they overlap each other so if you
+[04:27] have a look at these These are the edit
+[04:29] buttons right here and here we've got
+[04:31] arrange if we click arrange there we go
+[04:33] it arranges it really nicely for me
+[04:36] there's a lot of other things I can do
+[04:37] with it these are movement buttons so if
+[04:40] I click on that then I can actually move
+[04:42] the highlighted object using those
+[04:45] arrows there so I can move it around or
+[04:48] if I like I can use this section here
+[04:51] which gives me the absolute positions
+[04:52] and if I type in there it will reflect
+[04:55] that by moving that to the same amount
+[04:58] here what we can do is scale now we can
+[05:00] scale it by grabbing a green button and
+[05:02] pulling it that way it will scale there
+[05:04] is the undo button or if grab the red
+[05:07] button and pull it that way it will
+[05:09] scale it in that direction undo it if I
+[05:11] grab the white button at the corner then
+[05:13] it will evenly scale and I can undo it
+[05:16] so I can scale quite easily equally we
+[05:19] can use rotate and you'll see that we've
+[05:21] now got these where we can rotate it and
+[05:24] we can rotate it in any position that we
+[05:26] want to fit it actually on the bed plate
+[05:29] and again all of this stuff is repeated
+[05:31] here so I can lock the scale or unlock
+[05:34] the scale by clicking that button there
+[05:36] and then if I type in there it will
+[05:39] scale in the X direction if I lock the
+[05:42] button and I type in there it will scale
+[05:45] XY and Z by the same
+[05:48] amount there we go and it scaled it by
+[05:51] 110 and now if I want to undo that then
+[05:54] just click the undo
+[05:56] button it'll only give me these edit
+[05:58] buttons when an object is highlighted by
+[06:01] clicking on it here we've got where we
+[06:04] can place it to a face so if I click
+[06:06] that and I want to invert that I click
+[06:08] on the invert and it will swap it round
+[06:11] so it's now placed on that face in that
+[06:14] direction to move around this screen
+[06:16] what I'm doing is I'm holding down the
+[06:19] left hand button and that moves it
+[06:21] around if I hold down the right hand
+[06:23] button I can move it across the screen
+[06:25] like that and never I use the scroll I
+[06:27] can scroll into it to have a better look
+[06:29] at it let's undo that again there we go
+[06:32] and we're back to our original position
+[06:34] where we wanted it now in order to print
+[06:37] this it's actually a piece of cake here
+[06:39] we've got some generic settings that we
+[06:42] accepted when we did the yes yes yes yes
+[06:44] yes now most of these will work just
+[06:48] fine
+[06:49] 99.999% of the time and we can see here
+[06:52] got abs PG PLA and TPU most of the
+[06:56] printing I do is in pla and that's an
+[06:58] extremely popular material because it's
+[07:00] really easy to use here we got our
+[07:03] printer that's specified and here we've
+[07:05] got the print settings where we got at
+[07:06] Point 2 point two is the most common
+[07:10] setting and it does a really good job
+[07:12] here we've got supports on build plate
+[07:14] only when we print something if it has
+[07:17] overhangs it'll collapse so we don't
+[07:19] want the overhangs to collapse then we
+[07:21] turn support on but here we've got two
+[07:23] flat objects which aren't don't have any
+[07:25] overhangs so we don't need any support
+[07:28] now when it prints this it prints it a
+[07:30] bit like an egg it creates an outer
+[07:32] shell of two or three layers and then
+[07:34] the inner shell it creates an infill
+[07:37] pattern to prevent you having to waste
+[07:40] an awful lot of plastic printing a solid
+[07:42] lump when it just doesn't need it and
+[07:44] pretty common is 25% although you can
+[07:47] change that making it solid to less
+[07:51] solid to 25% and I almost universally
+[07:54] use
+[07:56] 25% here we got something marked called
+[07:58] Brim brim is where it prints a line on
+[08:01] the outside to help adhesion of the part
+[08:04] to the pled now this big flat one I
+[08:06] don't care about it's going to stick
+[08:08] just fine there's little one here though
+[08:10] where it's got the spiral may not stick
+[08:13] where the spiral is very thin so if I
+[08:15] put a brim on it it'll print a first
+[08:18] layer and stick to the brim here helping
+[08:21] all of that ADH here meaning that that
+[08:23] can print really really nicely now all
+[08:27] we have to do is slice it we slice it
+[08:29] what it does is creates a gcode
+[08:34] file once that gcode file is created
+[08:38] then we can see what it's going to look
+[08:40] like in terms of the print right there
+[08:42] and these colors correspond to here so
+[08:44] there's the perimeter there's the
+[08:46] external there's the skirt and the brim
+[08:48] and you can see them just right there I
+[08:50] can have a look at that by using the
+[08:52] slide Arrow to slice down on it visually
+[08:56] so I can see how it's actually going to
+[08:58] print and what the info pattern will
+[09:00] look like when I'm ready to export that
+[09:02] I can export the G-Code if I export the
+[09:05] gcode it'll pull up the far where I want
+[09:08] to put it and I can put that anywhere I
+[09:11] want and what I'm going to do is stick
+[09:13] it onto a USB stick and it will save
+[09:15] that G-Code file to the USB
+[09:18] stick okay now we got it on our USB
+[09:21] stick we stick that in the back of the
+[09:22] machine and now I prefer USB sticks
+[09:25] because it means I can turn my computer
+[09:26] off and go to bed and leave it printing
+[09:28] in it doesn't take any other resources
+[09:30] but you can print it by Wi-Fi or network
+[09:33] cable if you like I just like to do it
+[09:35] this way and to get to it you press that
+[09:37] icon there and then we press the f file
+[09:40] folder there is our thing and give it a
+[09:43] second and that's it now you'll notice
+[09:45] it's going to take uh 47 minutes to
+[09:48] print and to start the printing then I
+[09:50] press that and
+[09:53] confirm leave it alone and it'll print
+[09:58] it
+[10:12] there it is finished now I appreciate
+[10:15] this is very much a Whistle Stop tour
+[10:17] because it's meant to be your first
+[10:19] print easiest way to get a print out of
+[10:22] this thing in no time at all now the
+[10:26] print slicer is PR the best so it is is
+[10:29] a very powerful slicer there's a lot
+[10:31] more behind it than what we just did we
+[10:34] just did that so that you can get your
+[10:36] first print off as easily as possible
+[10:40] and of course this is a learning
+[10:41] experience as you get used to it and you
+[10:44] get into it you'll find more and more
+[10:46] about it and there are some really
+[10:47] useful tutorials out there H I plan on
+[10:50] doing a few myself going behind prer a
+[10:53] bit so that we can see some more of the
+[10:56] things that prer can actually do for
+[10:58] your models but to use it to do a print
+[11:02] that maybe you've downloaded from
+[11:04] thingiverse maybe you've drawn up in
+[11:06] Tinker CAD to get that print out the
+[11:08] presets that were put in there by chii
+[11:12] are brilliant for
+[11:14] 99.99% of the times and they'll do
+[11:17] really really well for those first few
+[11:19] prints when you're finding your feet in
+[11:21] this and I know that there are lots of
+[11:23] people who know lots more about this
+[11:25] than I do and then what we've covered in
+[11:27] this video and that would be great if
+[11:29] they share some of their knowledge in
+[11:31] the comments but sometimes all you
+[11:33] really want is the ABC anyway I hope you
+[11:37] enjoyed the video thank you very much
+[11:39] for watching and please do remember to
+[11:41] like And subscribe

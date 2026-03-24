@@ -1,0 +1,90 @@
+[00:01] hi so what we have here is a magnetic
+[00:03] model of the film device
+[00:04] it's done on femm 4.2 which is a
+[00:08] modeling program by david meeker
+[00:10] it's freely available on the internet if
+[00:12] you want to download it it's on a gnu
+[00:14] license for private use and i think
+[00:16] there's a fee if you want to use it
+[00:17] commercially
+[00:18] so what we have here is the hedge
+[00:20] framework device defined as metal
+[00:23] m steel m 45
+[00:26] there are four coils around the center
+[00:28] of the h frame that you can see
+[00:30] and then there are two neo n50 magnets
+[00:33] placed between those coils
+[00:36] what i'm doing is i'm pulsing one amp at
+[00:39] eight volts
+[00:40] through each of the top and bottom coils
+[00:43] that you can see
+[00:45] and that's the effect it's having on the
+[00:46] flux the flux density is shown to the
+[00:49] right hand side with the blue green
+[00:51] being no flux density
+[00:52] for rolling up through green yellow
+[00:54] orange red and purple being the highest
+[00:56] flux density
+[00:57] the neos are pretty easy to see they're
+[00:59] flashing between purple and orange
+[01:01] and the north north is at the top and
+[01:03] the south south is at the bottom
+[01:05] so it's showing what's happening to the
+[01:07] fl inside the flynn device showing
+[01:08] what's happening to the flux
+[01:10] as you pull this current through one amp
+[01:13] to each of those coils at that voltage
+[01:15] is uh at 16 watts so there's a 16 watt
+[01:18] power usage
+[01:19] now it's fairly simple to play around
+[01:22] with this thing
+[01:23] so i did
+[01:27] so what i decided to do was instead of
+[01:29] pulsing the center coils that you can
+[01:31] see
+[01:31] i decided just to pulse one of the side
+[01:34] coils in this case the left hand side
+[01:36] coil
+[01:37] so i'm pulsing it with one amp at eight
+[01:39] volts and that's an eight watt usage
+[01:42] and as you can see it's actually having
+[01:43] pretty much the same effect as it would
+[01:45] if you pulse the two
+[01:46] center coils um so i decided to take
+[01:49] that down a little bit
+[01:50] and i ended up pulsing it with a half an
+[01:52] amp at four volts
+[01:54] and this is the effect that you can see
+[01:56] so it seems that instead of pulsing the
+[01:58] two center coils to get the effect if
+[02:00] you just pulsed one of the coils on the
+[02:02] end there
+[02:03] it would still produce the flynn effect
+[02:08] so what i decided to do was pulse it in
+[02:10] the reverse direction
+[02:11] so first of all i'm pulsing it with
+[02:13] point five of an amp at four volts
+[02:16] uh in a clockwise and then i reverse
+[02:18] that to counter clockwise
+[02:20] and you can see what's happening the
+[02:22] flux is shifting through the flynn
+[02:24] device
+[02:25] in a most interesting manner now this is
+[02:27] only taking
+[02:28] about two watts as opposed to 16 watts
+[02:31] to get the same effect
+[02:33] so it looks like quite an improvement on
+[02:35] the flynn device
+[02:36] um the next thing to do really i'm
+[02:38] obviously this is just a model so
+[02:39] it's all working in theory the next
+[02:41] thing to do really is build a working
+[02:43] prototype and and see what happens when
+[02:45] we start pulsing it with that kind of
+[02:47] current so that's what i'm going to do
+[02:48] next anyway i thought this was really
+[02:50] interesting
+[02:51] and i thought i'd share it at this stage
+[02:53] i'm going to go right now and build a
+[02:55] model
+[02:55] and i'll show you that later

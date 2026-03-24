@@ -1,0 +1,357 @@
+[00:02] [Music]
+[00:15] hi so in video 1324 we unboxed this
+[00:18] thing and in video 1334 we set it up now
+[00:21] we're actually going to look at the chat
+[00:23] of book software now the chater box
+[00:26] isn't the actual design tool software
+[00:28] it's the slicing software it's a
+[00:30] software that changes your design file
+[00:32] into a file that the printer can
+[00:34] understand and print because it needs to
+[00:37] create a series of images that it can
+[00:40] shine the light through as this raises
+[00:42] up curing the resin and creating your
+[00:45] part now the key to understanding the
+[00:48] slicing software is also to understand
+[00:50] how this thing actually works now that
+[00:53] bed is the base plate that goes into
+[00:56] this resin reservoir and it sits on the
+[00:59] bottom the light shines and then it
+[01:02] pulls up a little bit and then goes back
+[01:04] down but not quite as far it goes back
+[01:06] down to 50 microns getting ready for the
+[01:08] next slice but that resin is effectively
+[01:11] a uv glue so it glues onto this bed
+[01:15] plate and that's where it's going to
+[01:16] stick but it also glues onto this fep
+[01:19] sheet and there's a tug of war as that
+[01:22] actually pulls up
+[01:23] because you've got two glued surfaces
+[01:25] and what you want to happen is you want
+[01:28] the bed plate to win and you don't want
+[01:30] this sheet to win otherwise you'll just
+[01:33] pull the part off it'll stick to this
+[01:35] and then every other slice will just be
+[01:37] shining onto something that's already
+[01:39] there so you won't get a part you'll
+[01:41] just get a lump of cue of resin stuck to
+[01:43] your fep sheet
+[01:44] understanding that that you must win
+[01:47] that tug of war is actually key to
+[01:50] understanding how to draw the image that
+[01:52] you want with its support and with its
+[01:54] raft size so that this wins the tug of
+[01:58] war anyway let's go and look at that
+[02:00] software we're in videos 1324 and
+[02:03] 1334 we opened up and set up the mars to
+[02:08] pro and then the software that comes
+[02:10] with it is this it's chatterbox and i've
+[02:13] got version 1.8.1
+[02:15] although they will update it on their
+[02:17] website for any updates that have been
+[02:19] brought out now the software is slicing
+[02:22] software so in order to create your part
+[02:25] you need to have a different kind of
+[02:28] software where you can draw it or grab
+[02:30] yourself some stl files from things like
+[02:33] thingiverse something like that but you
+[02:35] need your part once you've got your part
+[02:37] you can drop it into the file list here
+[02:40] which will then present it actually on
+[02:42] this
+[02:43] image here and that's the bed plate that
+[02:45] you're going to be printing with
+[02:47] now try to box is a slicing software so
+[02:50] it prepares your part for the actual
+[02:52] process of being able to print it and
+[02:54] we've got a little bit of mucking about
+[02:56] with it that we need to do now when you
+[02:58] drop this in it drops straight onto the
+[03:00] bed plate as if it were a filament
+[03:02] printer and filament printers and resin
+[03:05] printers are slightly different in that
+[03:07] resin printers don't like the large foot
+[03:10] plate like this if you part straight on
+[03:13] the bed plate because that bottom
+[03:15] section here
+[03:17] is exposed the longest and there's a
+[03:19] tendency for it to be slightly larger
+[03:22] than the actual
+[03:23] part that you've designed but there are
+[03:25] things you can do about that i mean one
+[03:27] thing is just accept it when it's
+[03:29] non-critical and carve it down to the
+[03:31] size you wanted or just leave it alone
+[03:33] the other thing is to muck around with
+[03:35] it a little bit now because this is an
+[03:37] stl file you can see that the
+[03:40] part is actually bigger than the plate
+[03:43] so there's going to be some issues there
+[03:46] at actually being able to get that to
+[03:48] print now not to rotate that what i'm
+[03:50] doing is using the right mouse button
+[03:53] the left mouse button
+[03:55] selects and moves it or changes the
+[03:58] perspective if you're outside of it the
+[04:00] right mouse button helps you rotate it
+[04:02] and you do have these rotation buttons
+[04:04] here at the top in order to put this
+[04:07] part to the right size and right
+[04:09] orientation on the plate what we need to
+[04:11] do is scale it and if you here you've
+[04:13] got move rotate scale and mirror if we
+[04:16] scale that then we can lock the scale
+[04:18] ratio or we can scale x y and z
+[04:20] independently i want to lock the scale
+[04:23] ratio so if i change that to 80 percent
+[04:28] it'll automatically scale it for me and
+[04:30] lock that ratio so now it fits nicely on
+[04:33] the bed plate and it's 80 percent of the
+[04:35] original size
+[04:37] if i want to move it
+[04:39] then i can
+[04:41] put it on the plate i can center it or i
+[04:43] can just move it along the xyz
+[04:45] coordinates what i actually want to do
+[04:48] is rotate it if i rotate it then i want
+[04:50] to rotate it 60 degrees on the y-axis
+[04:57] and it lifts it off the plate for me
+[05:00] so that now it's at a 60 degree angle to
+[05:02] the plate now obviously this is a
+[05:04] circular thing so i can rotate it if i
+[05:07] like on the uh
+[05:12] y-axis and put that back to zero or i
+[05:15] can rotate it on the x-axis
+[05:28] or again on the z-axis
+[05:44] anything that rotates that part from the
+[05:46] bed plate so that it's an angle to the
+[05:48] bed plate because of the way these resin
+[05:50] printers work
+[05:54] in order to get them to print i need to
+[05:56] give it a raft and some support so if i
+[05:59] click on that one there then you can see
+[06:02] it's created this object for me at the
+[06:04] bottom which is the raft that raft is a
+[06:07] large area that prints onto the bed
+[06:11] plate
+[06:12] so that the rest of the part can have
+[06:14] supports and be printed from it and if i
+[06:16] look there you can see that that red
+[06:18] mark there is indicating that the part
+[06:22] will actually be printed beyond the bed
+[06:24] plate so that's not a good thing we need
+[06:26] to rotate that again so that we get that
+[06:29] raft plate actually lined up on the bed
+[06:44] now lined up
+[06:48] go back to the support section
+[06:55] now when i was doing the research on
+[06:57] this we got some advice you got to
+[06:59] remember that this thing actually is
+[07:01] being printed that way around
+[07:03] so this section here
+[07:06] is the bit that actually touches the
+[07:08] film and gets exposed first and then as
+[07:12] the exposure increases it goes down to
+[07:15] print the rest of it and we can look at
+[07:17] that by sliding this slider to show us
+[07:19] what the print routine would be
+[07:22] so as it prints the raft grows then the
+[07:24] supports are put in and then the part
+[07:26] grows until the whole thing is printed
+[07:28] and lifts out of the resin
+[07:41] but there's an issue here with the raft
+[07:43] we look at that raft a little closer you
+[07:45] can see that it's actually got a cup
+[07:47] like formation there's a lip here
+[07:50] if this has any flexibility at all as it
+[07:52] prints this little cup will fill with
+[07:55] fluid and because we've got a lip here
+[07:57] that's slightly flexible it effectively
+[08:00] makes a sink plunger and this will stick
+[08:02] to the fep sheet and we'll pull the raft
+[08:06] away from the bed plate and you'll get a
+[08:08] failed print and apparently this is one
+[08:10] of the main reasons why printing fails
+[08:13] for folk and you're just left up with
+[08:15] left with a raft at the bottom and no
+[08:17] part so what you need to do
+[08:20] is change that
+[08:22] so if we click on that we can actually
+[08:24] have a look at the raft and we've got a
+[08:25] difference on raft shape and here we can
+[08:28] see the raft shapes and we're using
+[08:30] what's called the skate we have a raft
+[08:32] area ratio here which is 110
+[08:35] because that raft actually forms the
+[08:38] main point of attachment to the bed
+[08:40] plate and pulls against the fep sheet as
+[08:43] it prints you want that relatively large
+[08:45] i'm going to leave it at that now you
+[08:47] notice that the raft thickness is one
+[08:49] millimeter and the raft height is 1.8
+[08:51] millimeters that's what changes the cup
+[08:54] so if we change that to two millimeters
+[08:58] and two millimeters
+[09:00] and there's a little quirk here we have
+[09:01] to go back to there and then back to
+[09:03] there
+[09:06] you see the raft has been redesigned now
+[09:08] so that there is no cup and this is one
+[09:10] of the things that helps it print
+[09:13] more successfully another thing is you
+[09:15] can see that angle there that angle has
+[09:18] been set at a raft slope of 30 degrees
+[09:24] my research tells me that 75 degrees is
+[09:26] quite a good raft slope to have
+[09:30] i go that and that and it will change it
+[09:32] so now basically we've got a raft
+[09:34] there's a great big slab with a tiny
+[09:37] overhang we can get something under to
+[09:39] price it off and that forms a good basis
+[09:42] for later on when we want to actually
+[09:44] print this thing
+[09:47] okay so having built the raft what we
+[09:49] need to do now is add support to it so
+[09:51] the thing can actually print and you'll
+[09:53] notice this area here
+[09:55] if i were to click all it would add
+[09:57] supports that it thought based on these
+[09:59] density values here now this is the
+[10:02] first time i've been using this so i
+[10:04] don't want to over support it and it is
+[10:06] a hundred percent that i'm over
+[10:08] supporting it and if i put in 85 click
+[10:11] all now it adds to the support that it
+[10:14] thinks i want
+[10:17] and if we have a look at that we can see
+[10:19] the kind of support values that it's got
+[10:21] that's quite a lot of support
+[10:23] chances are it is over supported but i'd
+[10:26] rather have a successful print and send
+[10:29] them off than just have failure after
+[10:31] failure and when i was reading on this
+[10:33] this is what it suggested to do so i
+[10:35] quite liked it and thought that's what
+[10:37] we'd do
+[10:38] now if we have a look at how that's
+[10:39] actually printing which we can do here
+[10:41] by sliding that bar down we can see
+[10:44] where the supports are being printed and
+[10:46] when the first part is actually being
+[10:48] attached to the supports and we've got
+[10:50] this section down here with lots of
+[10:52] support as it begins to print now as it
+[10:55] moves up in its print
+[11:00] we can see that it actually begins to
+[11:03] progress to the left-hand side of the
+[11:05] screen so it's going off in this
+[11:07] direction
+[11:10] and there there isn't actually that much
+[11:13] support as it continues to grow up
+[11:19] so what we can do is add supports and if
+[11:21] you see there it just comes by itself
+[11:24] and we can click it and add some extra
+[11:27] support
+[11:29] just to make sure that we get the thing
+[11:31] to actually print
+[11:33] and
+[11:34] if you want to answer the question am i
+[11:36] over supporting this then that's 100 yes
+[11:38] i am
+[11:39] but as i say this is the first few times
+[11:41] i've done this i'd rather have success
+[11:44] out of it than anything else
+[11:46] so i'm looking for that more than
+[11:47] anything
+[12:08] and we can continue with that just
+[12:10] adding support until you feel that
+[12:11] you've got enough support in there
+[12:18] okay so having done that we're pretty
+[12:20] much done now obviously this is just to
+[12:21] get going with it it's a first time
+[12:23] print and there's clearly plenty of
+[12:25] things to play around with there we go
+[12:27] back here to the settings
+[12:32] and print
+[12:33] then we can have a look at the print
+[12:35] settings now these heights here
+[12:38] are the thickness that each print layer
+[12:41] will do so it's 50 microns we've got a
+[12:43] bottom layer count there of eight
+[12:46] i'm going to change that to five
+[12:48] so it prints the first five layers
+[12:52] this exposure time is the exposure time
+[12:54] for the print i've been told that two
+[12:57] and a half seconds is a good time and
+[12:59] this bottom exposure time is the
+[13:01] exposure time that those first five
+[13:03] layers get and those first lines five
+[13:06] layers get 50 seconds to make sure that
+[13:08] they're good and cured now the light off
+[13:11] delay
+[13:12] is the amount of time that the light is
+[13:14] off and that leaves it
+[13:16] time for the resin to flow back in
+[13:18] because we're obviously lifting this up
+[13:20] and down as we print it to pull each
+[13:23] successive layer from the fep sheet to
+[13:25] allow the next layer to print
+[13:27] that light off allows for the
+[13:30] resin to flow back in underneath the
+[13:33] part that you've just pulled off so the
+[13:35] default is clearly zero and we want to
+[13:37] give that some time and seven seconds is
+[13:40] going to be lots of time we've got a
+[13:42] bottom light off delay as well and that
+[13:44] is for the bottom few layers
+[13:47] now this bottom lift distance is the
+[13:49] height at which it actually pulls it off
+[13:52] from the plate and
+[13:54] the lift distance default is five and
+[13:56] five which is fine the bottom lift speed
+[13:59] is the speed at which it pulls it if you
+[14:01] set that too high it tries to yank it
+[14:04] off basically and if you set it too low
+[14:06] then it actually peeled has a much
+[14:09] better chance to peel and 60 to 65
+[14:12] seconds is just plenty of time for that
+[14:16] the retract speed is the speed at which
+[14:18] it lifts up
+[14:20] we'll set that to
+[14:22] 210.
+[14:25] that's it now clearly there are an awful
+[14:27] lot of other bits and pieces that you
+[14:29] can play around with and you can change
+[14:31] some of these to cure some of those
+[14:33] other things that we were talking about
+[14:35] like um the largest size and extra
+[14:37] exposure time that the bottom layers get
+[14:40] but this is something to play with later
+[14:42] and as i say we're really just looking
+[14:44] at getting this thing to make a print so
+[14:46] having set those settings
+[14:49] then we're pretty much ready to slice it
+[14:51] so you slice it
+[15:08] and it generates this screen
+[15:10] now this area here shows what the
+[15:13] exposure is like so if we take that down
+[15:18] then these are the images
+[15:21] that will be displayed by the monochrome
+[15:23] screen as it prints so it's going to
+[15:26] display those images the uv light will
+[15:28] shine through those images and it will
+[15:30] result in this print here i think that's
+[15:32] kind of cute actually
+[15:35] and to get a print that's basically all
+[15:37] there is to it
+[15:40] so now we can save the file
+[15:43] stick it on the thumb drive and we're
+[15:44] ready to go
+[15:46] so that's it and the
+[15:48] file is on this thumb drive which gets
+[15:50] inserted in here and we're actually
+[15:52] ready to print on the next video we will
+[15:54] start that print running anyway i hope
+[15:56] you enjoyed this video thank you very
+[15:58] much for watching and please remember to
+[16:00] like and subscribe

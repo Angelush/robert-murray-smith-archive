@@ -1,0 +1,309 @@
+[00:02] [Music]
+[00:15] hi so brushless dc motors they're
+[00:17] absolutely everywhere as it happens you
+[00:19] find them in printers
+[00:20] if you've ever been tempted to buy one
+[00:22] of those backpacking things or those
+[00:24] micro generator wind turbines that's
+[00:26] going to be a brushless dc motor
+[00:28] only used in reverse because basically
+[00:30] if you have a coil of wire and a magnet
+[00:33] you can make a motor or a generator if
+[00:35] you stick some current in there it's
+[00:37] going to move if you move it it's going
+[00:38] to give some current out
+[00:40] when it's arranged as a coil or a magnet
+[00:42] it's either going to be a generator
+[00:44] or a motor depending on how you use it
+[00:46] and you can use it either way
+[00:48] and that's really really useful now the
+[00:50] thing about
+[00:51] brushless motors obviously is they're
+[00:53] incredibly robust and cheap to make i
+[00:55] mean they don't have any brushes
+[00:56] so there's very little to wear out apart
+[00:58] from the bearings and they just go on
+[01:00] and on and on
+[01:01] and their output is actually quite
+[01:02] respectable so this is from a printer
+[01:05] it's actually about the size you would
+[01:06] find in a
+[01:09] generator now if we take the top off of
+[01:12] these and we're going to do that and
+[01:13] have a close-up
+[01:14] what we'll really see is just a ring
+[01:16] magnet and some coils that's all there
+[01:18] is and then some control electronics
+[01:21] now there are in two ways of wiring this
+[01:24] one looks like this
+[01:35] and you'll notice it's incredibly like a
+[01:37] y and so it's called the y
+[01:38] configuration those three coils are
+[01:41] joined at a center point
+[01:42] now when you look at your motor when
+[01:45] you've got a brushless dc motor you'll
+[01:47] either see
+[01:47] three spots or four spots of solar
+[01:51] where the wires to the coils go if
+[01:53] there's four
+[01:54] spots then as you saw in that diagram
+[01:56] that's a wide configured
+[01:58] brushless dc motor now there is another
+[02:01] one that's like a triangle
+[02:02] and the coils look like this
+[02:12] now the greek letter with a triangle is
+[02:14] called the delta so that's the delta
+[02:16] configuration and you'll notice there
+[02:18] are only three junctions in the delta
+[02:19] configuration
+[02:20] so if you spot your brushless motor has
+[02:23] only three spots of solder on it
+[02:25] it's likely to be delta if it's got four
+[02:27] spots
+[02:28] it's y configured what you need to do is
+[02:31] identify the one where there's lots of
+[02:33] wires in one spot of solder and then
+[02:34] promptly ignore it
+[02:36] which is great and then after that you
+[02:38] proceed exactly the same way
+[02:41] now if you have a brushless dc motor and
+[02:44] you want to run it
+[02:46] then you can use the control electronics
+[02:48] so you can build your own
+[02:50] control electronics so you can be really
+[02:52] really cheap
+[02:53] and buy one of these it's called an
+[02:55] electronic speed controller
+[02:57] now i bought this because it was three
+[02:59] pounds on ebay and there's no way i
+[03:00] could make that for that kind of price
+[03:03] so i bought this and this will do 20
+[03:04] amps or something crazy
+[03:06] so really cheap to buy an electronic
+[03:08] speed controller
+[03:09] the other thing you need is a servo
+[03:11] tester to change the speed
+[03:13] when you want to rotate a motor then
+[03:16] what you need to do is rotate the
+[03:18] magnetic field
+[03:19] if you rotate the magnetic field while
+[03:21] another fixed magnet is there which is
+[03:23] what brushless dc motors are they're a
+[03:25] fixed magnet in a rotating magnetic
+[03:27] field
+[03:28] what you need to do is pump some
+[03:31] electricity in each
+[03:32] coil in sequence so we have three coils
+[03:36] you put a little bit of electricity in
+[03:37] coil one and it creates a magnetic field
+[03:39] it gives a magnet
+[03:40] a kick the permanent magnet it'll just
+[03:42] go to its little position of least
+[03:44] um energy and just stay there if you
+[03:47] then turn off
+[03:48] that current you're supplying to coil
+[03:49] one and supply to coil two it'll kick it
+[03:51] some more
+[03:52] do the same thing off with two on with
+[03:54] three it'll kick it some more
+[03:56] and you keep doing that in sequence you
+[03:58] are creating a rotating magnetic field
+[04:00] within those
+[04:01] coils and that magnet will spin and of
+[04:03] course that means your motor will spin
+[04:06] so the electronic controller what it
+[04:08] does is
+[04:09] times the sequence of the off and the on
+[04:12] to the coils in order to create a
+[04:14] rotating magnetic field
+[04:16] like i say you can do that yourself it's
+[04:18] just such a lot of trouble to do it when
+[04:20] it comes
+[04:21] readily packaged so cheaply but it can
+[04:24] be done quite easily yourselves
+[04:26] but what we're going to do is we're
+[04:27] going to use an electronic speed
+[04:29] controller
+[04:30] and we're going to set these motors up
+[04:31] to run from the electronic speed
+[04:34] so let's have a closer look at them
+[04:35] let's start with this one this is the
+[04:37] motor from cd-rom drive if you want to
+[04:39] know how to get one of these out i've
+[04:40] done some stuff on cd-rom drive videos
+[04:42] where i just show exactly how to get
+[04:44] this out
+[04:45] this isn't attached on particularly well
+[04:47] it actually just pulls straight off
+[04:48] and if you'll see in there is a ring
+[04:50] magnet that's the
+[04:52] permanent magnet that the electrical
+[04:54] rotating field acts against
+[04:56] here we've got our little star shape
+[05:00] and that's where the coils are now i
+[05:02] look on that and i can see
+[05:04] one two three spots of solder telling me
+[05:07] that this is a delta configuration
+[05:09] so i don't have to try and identify
+[05:11] which one is the y but like say if you
+[05:13] want to see which one is the y it'll be
+[05:15] the one with three wires coming to it
+[05:17] this one we've only got three spots on
+[05:18] it so we we know which one this is
+[05:21] now if we sold the three wires to there
+[05:24] and connect them to this
+[05:25] we can get that motor to spin which is
+[05:27] exactly what we're going to do
+[05:29] when we look at the pc fan
+[05:33] we have exactly the same thing there are
+[05:35] the coils
+[05:38] there is the permanent magnet that they
+[05:39] act against and if we take that off
+[05:43] which i can't do we'll see the spots of
+[05:45] solder
+[05:47] this is the printer the printer one's
+[05:49] actually really good because you can see
+[05:50] the spots right there so we can just
+[05:52] solder to those and we'll be able to run
+[05:54] that
+[05:54] as a motor so the first thing we're
+[05:56] going to do is run these motors
+[05:58] then we're going to have a look at how
+[05:59] to turn them into generators so we're
+[06:01] going to use this as a printer motor
+[06:03] we're going to use this because we've
+[06:04] got these three nice spots
+[06:06] there that are really easy to get to so
+[06:08] let's use it
+[06:09] we've got a whole bunch of electronics
+[06:11] around here which had to do with
+[06:12] position
+[06:13] sensing that kind of thing we don't need
+[06:15] any of that in fact that'll get in the
+[06:16] way because we're going to use that
+[06:18] so the first thing to do is just to
+[06:20] strip all of those off
+[06:22] okay and here's our printer motor
+[06:24] stripped off the electronics soldered on
+[06:26] the three wires it's got a driver here
+[06:28] so
+[06:29] we pop it in there and give that a
+[06:30] twiddle
+[06:33] and there we go
+[06:36] running the printer motor so as i say
+[06:39] they're all
+[06:40] pretty much the same thing
+[06:45] just identify those wires that you're
+[06:47] interested in
+[06:48] solder an extension to them use one of
+[06:50] these cheap controllers
+[06:52] servo tester and you're away you can run
+[06:55] just about any
+[06:56] brushless dc motor okay so we've done
+[06:58] the cd-rom motor but it's exactly the
+[07:01] same for every single brushless motor
+[07:03] you're going to come across
+[07:04] i've soldered a wire to each of the
+[07:06] three important wires all i have to do
+[07:08] is put that case back on
+[07:10] just make sure it's not catching i've
+[07:12] attached it here to the electronic speed
+[07:14] it really doesn't matter which order you
+[07:16] put so each of these output wires is
+[07:18] going to one of the input wires
+[07:20] i've got it on a power supply here at
+[07:21] six volts and i've got a servo tester
+[07:24] on it so that i can test it
+[07:27] there we go running
+[07:31] a brushless motor it's a piece of cake
+[07:38] okay so that's pretty easy and a bit of
+[07:40] fun the other side of it like i say is
+[07:42] generation
+[07:43] quite often you want to turn these into
+[07:45] generators and for good reason they're
+[07:46] quite good generators
+[07:48] now it actually emulates three phases
+[07:51] so what we do with it is a three-phase
+[07:53] rectifier
+[07:54] now a three-phase rectifier looks like
+[07:56] this
+[08:05] if you're unsure about things like
+[08:07] rectification and doing the circuits
+[08:09] have a look at the video all about
+[08:11] stepper motors
+[08:13] i'd go into a bit more depth there but
+[08:16] basically we need to grab some diodes
+[08:18] and arrange them like that drawing now
+[08:20] the diodes we can use are a whole range
+[08:22] of things actually
+[08:23] lots of people recommend lots of
+[08:25] different things i tend to go for
+[08:27] whatever i've got lying around or what's
+[08:28] the cheapest stop
+[08:30] just what works for me it means i use an
+[08:32] awful lot of one and four double of
+[08:34] sevens
+[08:34] although i'm always told to use
+[08:36] something else
+[08:37] it matters if you've got a very heavy
+[08:39] voltage drop uh
+[08:41] you're not getting much output and the
+[08:43] forward drop is gonna
+[08:44] have a large impact otherwise to be
+[08:47] honest
+[08:47] if i get anything out especially of
+[08:49] scrap i'm usually very happy
+[08:51] so we're going to just use bog standard
+[08:53] one four double or seven so we're gonna
+[08:55] make a
+[08:56] three phase rectifier bridge and then
+[08:58] we're gonna test its output
+[09:00] okay so to make the rectifier circuit
+[09:02] you need six diodes you take
+[09:04] two three sets of two and you put the
+[09:08] silver to the black
+[09:13] give it a twist and repeat that for the
+[09:15] other two
+[09:16] silver to black
+[09:21] when you've done that you'll end up with
+[09:23] something looking like this where each
+[09:24] wire has
+[09:25] two diodes at the end one with the
+[09:28] silver line and one with the black line
+[09:30] you take all of the blacks
+[09:37] and twist them together
+[09:41] and in that little mix put a black wire
+[09:44] because
+[09:44] these ones are your dc negative out
+[09:49] okay that's it done we're now ready to
+[09:51] give it a spin and see what we get out
+[09:52] of it
+[09:53] so these are obviously positive dc
+[09:56] negative dc and it's really easy to know
+[09:59] because it's the black end to the black
+[10:00] wire
+[10:01] negative silver end of the red wire
+[10:03] positive
+[10:04] and you deal with all brushless motors
+[10:06] the same way
+[10:08] okay there it is connected up to the
+[10:09] voltmeter and we've got it on dc volt
+[10:12] readings give it a spin not sure if you
+[10:18] can see that
+[10:19] there we go
+[10:24] so we can get a couple of volts out of
+[10:25] that easily enough so there you go
+[10:27] brushless dc motors how to use them as
+[10:29] motors and how to use them as generators
+[10:31] it doesn't matter which way around they
+[10:33] are whether the delta or y
+[10:34] you just follow the same procedures
+[10:36] identify the entire coils
+[10:38] solder them onto a three-phase bridge
+[10:40] rectifier and get your output or solder
+[10:42] them onto a
+[10:44] electronic speed controller and spin
+[10:46] them up as a motor
+[10:47] anyway i hope that was of interest thank
+[10:49] you very much for watching
+[10:51] and please do subscribe

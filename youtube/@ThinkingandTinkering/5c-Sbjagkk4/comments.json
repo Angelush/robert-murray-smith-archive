@@ -1,0 +1,1851 @@
+[
+  {
+    "id": "Ugy1YD62EyIpoVCdeIp4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome 🎉",
+    "likes": 1,
+    "published_at": "2025-02-08T20:03:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyH9C0TzoQTaqfiJOd4AaABAg",
+    "author": "@cidercreekranch",
+    "author_channel_id": "UCazO00PricueHEn0gAEx0LA",
+    "text": "I has a Chemical Engineering prof that would refer to most of the processes as bucket chemistry. Plus or minus one bucket, or then for that matter makes little difference when working in quantities of 10K buckets.",
+    "likes": 0,
+    "published_at": "2025-01-05T00:23:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxagkQWRjZQFgCGkAN4AaABAg",
+    "author": "@billschwandt1",
+    "author_channel_id": "UCNVSpnbml22kUbN1_R15k6Q",
+    "text": "I'm looking into my first 3d printer. You convinced me Mr. Murray-Smith.",
+    "likes": 0,
+    "published_at": "2025-01-01T14:42:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPBwhrYWpagp38GAZ4AaABAg",
+    "author": "@garrenosborne9623",
+    "author_channel_id": "UCZIfPma0F1oKL5ezU_wjdjA",
+    "text": "Hold on just hearing some suger landing in a nice Brownian motion generator😉",
+    "likes": 0,
+    "published_at": "2024-09-23T11:51:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwoahvjVRkXT8dYPKJ4AaABAg",
+    "author": "@Morbazan125",
+    "author_channel_id": "UC-2XTbfa0P4YWF54T9iN2zQ",
+    "text": "If I ever wanted parts to fit I had to give a 0.2mm tolerance and it worked for me",
+    "likes": 0,
+    "published_at": "2024-08-13T16:28:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVLW8Ua24WweD0rMF4AaABAg",
+    "author": "@JamesThompson-xl4yu",
+    "author_channel_id": "UCvkmO_ARVPXZDkNLiaZXl7w",
+    "text": "Please get a remote microphone for your camera, the big room echoes are so annoying. But do keep on the great videos :)",
+    "likes": 0,
+    "published_at": "2024-08-12T05:28:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxVLW8Ua24WweD0rMF4AaABAg.A71DzcdsUaFA71RlpvfO8U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Working on it!",
+        "likes": 0,
+        "published_at": "2024-08-12T07:28:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxc0bh5S_1wmXhSId54AaABAg",
+    "author": "@douglasmckinley-sr1507",
+    "author_channel_id": "UCCSn9MdlwQyDB5sP1-i5P-w",
+    "text": "Having a controlled temperature environment can make a difference in tolerances.  At Lockheed, we did aircraft prototypes in Burbank, CA and assembly was flawless.  Then went into production and machining parts in Marietta, GA and Burbank, with production assembly in Palmdale, CA.  The parts did not fit.  One facility was not temperature-controlled and we had to reprogram all the CNC machines to allow for the thermal expansion.  Point being if you are doing precision work it would behoove you to get a 3D printer with a temperature controlled enclosure.",
+    "likes": 0,
+    "published_at": "2024-08-08T02:06:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy6fSV-5O988E0ddYZ4AaABAg",
+    "author": "@bobcalhoun3714",
+    "author_channel_id": "UCqnpRN3yG7CrrF8VGa5nRQQ",
+    "text": "Cheers Robert! I've started making reference templates for my 3D printer so that I can know the tolerances that I need to build in to make things like bolts, rods, bearings, etc, fit into the printed product. I now know that when I create a 5mm hole in my design, my printer will print a hole that is 4.8-4.9 in PLA+. What is interesting is that same .1 tolerance holds at 10mm. Calibrating the tool helps enormously. Using a 3D printing has been quite a learning experience.",
+    "likes": 0,
+    "published_at": "2024-08-02T16:42:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzezQ_TGeut38w1P6l4AaABAg",
+    "author": "@makeitreality457",
+    "author_channel_id": "UC-NgP2sfp8bXMVMSi1yP48g",
+    "text": "I find that a tolerance of 0.8mm will fit parts loosely. And 0.4mm for a tight fit. Of course it depends on materials and flow rate. Additionally, printer kits usually come uncalibrated. You have to calibrate it to get reasonable tolerances. TeachingTech has some calibration info on YouTube.",
+    "likes": 0,
+    "published_at": "2024-07-31T07:18:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwFExY343T9qZJoKS54AaABAg",
+    "author": "@k.o.0",
+    "author_channel_id": "UCwGx7F1TuL06W1UCnqxk1Sg",
+    "text": "Robert, surprised nobody mentioned but it is well known that PLA, PETG, ABS, etc all have specific expansion and contraction factors in the X,Y and Z axis. These values have been published, so it should always be considered when designing fitted parts. Cheers.",
+    "likes": 3,
+    "published_at": "2024-07-31T05:01:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwyfYJVsiamm8oVkgR4AaABAg",
+    "author": "@michaelvaughn7137",
+    "author_channel_id": "UCNKJausN5-cg7uFOzTTUzHw",
+    "text": "Fost show sense your back very glad to see you !",
+    "likes": 0,
+    "published_at": "2024-07-31T04:07:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzjEfu878fZJl2-5Tl4AaABAg",
+    "author": "@conorstewart2214",
+    "author_channel_id": "UCJPiJCRYwjHrG46WZRFKstg",
+    "text": "This is an attitude that I have come across a lot, that 3D printers can print anything so just design the part first then think of the 3D printing later when you are slicing it, often the same people that say you shouldn’t have to design for 3D printing.\n\nEvery tool and method needs designed for though, if you are injection moulding something you will design it differently to casting or CNC machining or turning on a lathe or making it out of flat panels, but people see 3D printing and think that none of that applies that you don’t need to design for 3D printing like you need to for every other manufacturing method.\n\nI think part of the problem is that a 3D printer can produce an awfully designed part with little fuss, especially if supports are used. You can print parts in the worst possible orientations for strength but they will likely still print. I have even seen demos from professional engineers that just completely fail at the basic stages of orienting the model in the slicer, sure they get a good looking model out but it will be so much weaker than it could have been. So I do think it is too easy, people can ignore all material properties or design principles and still end up with a semi functional part, you can’t do that with other methods.",
+    "likes": 0,
+    "published_at": "2024-07-31T01:25:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwK0ItsX8oUKw7OITl4AaABAg",
+    "author": "@roscoepatternworks3471",
+    "author_channel_id": "UCrQB6HTYimLFEreLYgF1LRQ",
+    "text": "If you design anything, design for the process. You can't fit a 30mm shaft into a 30mm hole.  You have to design with the tolerances required. Doesn't matter if it's an as cast part, machined, or 3d printed part. Tolerances are a very much overlooked part of home designing.",
+    "likes": 0,
+    "published_at": "2024-07-30T23:35:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBpK0MCQ6FW-3wvf54AaABAg",
+    "author": "@hel1copter",
+    "author_channel_id": "UC7fHIoLqKtfBHNRgwNlgTiA",
+    "text": "You've long been an advocate of 3D printing, in a way that would encourage viewers to give it a try. And you've mentioned the topic of tolerance a couple of times in recent videos. Would you consider doing something a little more in-depth about tolerance and some of the other things we need to take into account when we design our prototypes?",
+    "likes": 0,
+    "published_at": "2024-07-30T16:41:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1ch4ErvFAEPsCsNh4AaABAg",
+    "author": "@TheSimonarne",
+    "author_channel_id": "UCB2ZlNfcIH54WQtDBfiaZMQ",
+    "text": "My P1S's layer width is 0.42mm at the highest in my settings. So all my x and y corners are designed with a fillet with a radius of 0.42mm. my other edges are based on 0.2mm wich is my standard layer height. 0.1 mm between parts seems to make everything fit fine for me might even be. a bit tight for some applications but for a hole and a pin that won't be taken apart it's good",
+    "likes": 0,
+    "published_at": "2024-07-30T16:24:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw5_A0AsbqMHkV8J7t4AaABAg",
+    "author": "@paulgee1952",
+    "author_channel_id": "UC3SBW1L_BRhbrh8AsE5DT9Q",
+    "text": "Tolerances ,always err too tight than too lose. Rules of engineering practice with moving parts that generate friction . Materials all have expansion and contraction levels , metals especially ,that is what when prototyping anything better to make it tighter , unless the compression levels are too high ,causing a stall or worse the destruction of the machine . The crux is getting the sweet spot , which is low friction and maximum use of the force imputed to generate movement usable , not lost in the conversion. Efficiency.  Long time since school, but hope a more practical explanation , if I have understood this ? All the laws of physics are just math equations, without being able to apply them ,paperwork exercises.",
+    "likes": 0,
+    "published_at": "2024-07-30T12:53:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxpmwOS02cWR1w0cvh4AaABAg",
+    "author": "@DadofScience",
+    "author_channel_id": "UCI8xq5b48ALUwT0FbgXuxGg",
+    "text": "I've seen this complaint several times and, as humans have want to do, they're always looking for the easy outcome with the least effort.  Having spent money on the printer (or anything else for that matter) and it doesn't perform the way they dreamt it would, they whine. I'd rather get on with the job, get things working, and then wine at my leisure.",
+    "likes": 0,
+    "published_at": "2024-07-30T02:01:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzago57fe3agQU4Qd54AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "I watch a variety of 3D modeling online tutorials. Why, because they all teach differently. You must build in tolerances. And every 3D printer has its own specifics. Once you dial-in a model for one printer, don't expect it to work for another without having to tweak a few things. I learned this the hard way of course. Sandpaper is your friend.",
+    "likes": 0,
+    "published_at": "2024-07-29T21:24:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqxOmXOTii0wgNVuB4AaABAg",
+    "author": "@nicksantitoro",
+    "author_channel_id": "UCMpwilwpRTSOm-kD9Wvv_9Q",
+    "text": "What happened to that low temp Stirling engine with a magnet idea? I was looking forward to that.",
+    "likes": 0,
+    "published_at": "2024-07-29T20:26:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwlUDRY_V4OyhypSPB4AaABAg",
+    "author": "@6teeth318-w5k",
+    "author_channel_id": "UCbZjVMmVd-bncnUiY4vrPaw",
+    "text": "Brilliant explanation.\nIt is like making music.\nYou start at home with equipment that is not top dollars, to make a product you can get made, or rent a studio, later. when all is ready to go.",
+    "likes": 0,
+    "published_at": "2024-07-29T18:49:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzFld7lQ-p1dV8_prB4AaABAg",
+    "author": "@markscarborough1018",
+    "author_channel_id": "UCtN5ujQPQkD08SKJQTye-AA",
+    "text": "Very, very true Robert! Senior designer here.... I'm developing 'production' items to be 3D printed which we we're hoping to use on a current project, but I had to make the call to revert back to traditional fabrication as I knew the tolerance issue would require 2-3 more weeks in trials and re-designs to fully understand the parameters of this particular application. If I had stuck with the 3D route, we'd've missed our deadline and drained our budget. Uneducated end users of our equipment often ask 'why don't you just 3D print them?', to which I sensitively inform them that it is not a suitable process, when I really want to say, 'don't be monumentally stupid'!! Whilst we can't 3D print 90% of what we do, I am finding ways in which it can be another tool in our box to complement all other processes. If I, or any of my design staff didn't design to suit the manufacturing method, then we wouldn't last long in our trade. All processes need thorough understanding before approving their suitability for any given application. It's all fun and games :)",
+    "likes": 1,
+    "published_at": "2024-07-29T16:48:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxmJ0SpOccEXIG1pIl4AaABAg",
+    "author": "@brawndo8726",
+    "author_channel_id": "UCHI9JZGkRZD8fZ0S14nj39w",
+    "text": "Sorry but you're wrong. You should design to spec and adjust your slicer settings to compensate for your specific printer. For example, search Cura for a setting called \"horizontal expansion\" which allows you to push or pull the external dimensions to suit your needs.\n\nEmbedding loose tolerances into object files is an anti-pattern since there's no universal constant between printers. For example, my printer might be much sloppier than yours due to ambient heat and humidity.",
+    "likes": 0,
+    "published_at": "2024-07-29T08:11:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmJ0SpOccEXIG1pIl4AaABAg.A6TTXFcimSTA6TUi6tUrsE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't mind being wrong mate - if it works for you that's awesome and thank you for sharing it in case others want to go the route you suggest - I am really just sharing my own experiences and part of this video is so folks share theres and folks can make a good suggestion like you just did - i really do appreciate your input",
+        "likes": 0,
+        "published_at": "2024-07-29T08:21:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyT7FpoE37pJUbQpSZ4AaABAg",
+    "author": "@preciousplasticph",
+    "author_channel_id": "UCg2gkpYKxpDGJahlopJQUiw",
+    "text": "I will add that when doing 3D printed machines, you do NOT have to 3D print every single component if you can buy it from the local hardware store. for example bearings and connecting rods.  I see people doing 3D printed parts that will fail easily when they should be using a metal part.  The strength of 3D printing is to use it to make those custom plastic items that you can NOT EASILY purchase.  As a example, we are building a Flash graphene machine and it will have a lot of 3D printed parts, but not at the cost of reducing the machine durability.  As a Example, one machine I designed, had holes in it to insert long steel bolts to reinforce the part.  other times I printed a item hollow, and then filled it with resin.",
+    "likes": 0,
+    "published_at": "2024-07-29T07:44:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyT7FpoE37pJUbQpSZ4AaABAg.A6TQSxmEDV6A6TUlejT4BO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I absolutely agree mate and you make a very good point",
+        "likes": 0,
+        "published_at": "2024-07-29T08:22:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyGKvlJ4JOaDHhsxt4AaABAg",
+    "author": "@studioxiiiarts",
+    "author_channel_id": "UC082HWF02OBMWc6vU0iyImg",
+    "text": "Bad design, contracting, expansion and all sorts of things can go wrong, just like any other machine. \nResize, reprint or redesign till you get it right, just like any other machine work.",
+    "likes": 0,
+    "published_at": "2024-07-29T06:27:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyGKvlJ4JOaDHhsxt4AaABAg.A6THfuxcvQjA6TNvhSSV0-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "exactly",
+        "likes": 0,
+        "published_at": "2024-07-29T07:22:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqMiDmCbzuSECPp3R4AaABAg",
+    "author": "@Tiemu93",
+    "author_channel_id": "UCFjH3wbVkpdILGOVTJFZTAg",
+    "text": "Printing outside wall first will massively help with part accuracity.",
+    "likes": 0,
+    "published_at": "2024-07-29T04:42:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyqMiDmCbzuSECPp3R4AaABAg.A6T5d-vxOy-A6TNwPqndBT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 0,
+        "published_at": "2024-07-29T07:22:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy8qVgZKjBKKUfnhht4AaABAg",
+    "author": "@arbjful",
+    "author_channel_id": "UCZwN5a3j_ryVOF8XOupzAaQ",
+    "text": "Is that an owl hooting in the background…🤔🤔",
+    "likes": 0,
+    "published_at": "2024-07-29T02:12:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy8qVgZKjBKKUfnhht4AaABAg.A6SpS-ZVic-A6TNunxRqgA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes",
+        "likes": 0,
+        "published_at": "2024-07-29T07:22:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxJyjczbrS0T6y6O9x4AaABAg",
+    "author": "@withourhandsAB",
+    "author_channel_id": "UCWZVOMAa_F9cBsHko17wQcA",
+    "text": "Hey Robert, not sure if you're already doing it or not, but there is a setting in most slicers the will print outside walls first, this helps with tolerances, but things like thermal creep and elephants foot/squish will still be a problem, just a decreased amount. So that in mind with more precision parts I will always print outside walls first.",
+    "likes": 0,
+    "published_at": "2024-07-29T02:04:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxJyjczbrS0T6y6O9x4AaABAg.A6SoXj7Yi0SA6TO-WXZZMZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:23:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyXxZI-JmsJIzbfVP54AaABAg",
+    "author": "@3DJapan",
+    "author_channel_id": "UCTSwcNqNj6LZIhxis5Tn9vQ",
+    "text": "You can adjust tolerances in the slicer. If it doesn't fit you need to learn your slicer better.",
+    "likes": 0,
+    "published_at": "2024-07-29T01:54:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyXxZI-JmsJIzbfVP54AaABAg.A6SnRWBY_O6A6TO1cpICIl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:23:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxBs8xrTZs_4CYX0I54AaABAg",
+    "author": "@BurntKittyForge-pl8ol",
+    "author_channel_id": "UCm6HMau6U_piGSb22QncFgg",
+    "text": "...i teach a young relative driving so i was explaining our cars can go very fast because we carry passengers and cargo and when we need to pass there's a burst of power needed to get the little extra speed to pass and it's really no fun driving with a vehicle floored nonstop, the motor would feel terrible and not as much milage lifespan probably and that's why cars can go fast but it's very dangerous to use the cars total power ..... i ride to the store in a nice size car and there;s golf carts , would be nice to ride free but they cost $10,000 minimum range i think for the tagged golf cart stuff ...i can order a rebuilt jdm motor with trnasmission maybe $1500 i think with Trump even EV sales will go up because it's luxury buy stuff , extra tech money ...imo",
+    "likes": 0,
+    "published_at": "2024-07-28T21:56:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxBs8xrTZs_4CYX0I54AaABAg.A6SN8psODvKA6TVDfwMF6Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good one mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:26:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyzHV7_bK_E-COvZoN4AaABAg",
+    "author": "@BurntKittyForge-pl8ol",
+    "author_channel_id": "UCm6HMau6U_piGSb22QncFgg",
+    "text": "i wish i had a tandem bicycle and on the back seat i'd use a motor with proper rpm to have an opposing pin each (one pin top one side shaft other pin bottom on the wheel , each side of motor) side to work the legs to the rear pedals so the battery would be in the body or chest and i'd control my buddies speed fro the front seat ...i like the tandem frame just for the length maybe for electric , i think we realize at motorcycle speed you need a motorcycle but i like an add on pedaller concept ..../daydream i got tons lol...thanks for the vids I'm intersted in different investments in tools including 3D IF i could just find the side income potential for certain but i see more and more ads from 3d products too, i'd like even a lumber mill but then it's best the trailer version for mobile lumber recovery compared to the weight ......i'll find some i hope, the dollar value flipped down so fast i think retal or manufacure type ideas , maybe stocks will go nuts in ways next political cycle etc....God Bless",
+    "likes": 0,
+    "published_at": "2024-07-28T21:50:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyzHV7_bK_E-COvZoN4AaABAg.A6SMVfxxIRoA6TVBH5kQlB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:25:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwg_hhSOPLFlP79qzJ4AaABAg",
+    "author": "@BurntKittyForge-pl8ol",
+    "author_channel_id": "UCm6HMau6U_piGSb22QncFgg",
+    "text": "...i like metal work , i get stuck on gun designs because the similarity high carbon and compactness , but anyway i wish they made a black powder colt 1851 type revolver BUT it has a top strap frame like the colt 1873 or remington 1858 ....so then it uses a simple [edit: cylinder insert] bushing to have a 1873 size cylinder pin , you'd replace the solid cylinder pin 1851 with a threaded bushing insert or smooth but the point is you could fast change the cylinder to loaded ones like a remington but it handles like an overpriced 1873 ..../deep thoughts\n\nEDIT\":  to clarify the hammer, trigger lock up; and cylinder lock mechanisms,  the springs usually interchange 1851/1873 , the 1873 was colt's brass shell cased shell model so it has the firing pin hammer but the geometry exactly the same in the frames first generation , the screws have different threads between brands of remakes , they 3d print play real copies but expensive ....there's different platforms worthy of study like glock , colt 1911 colt 1873/1851, the old double barrel 12 gauges all similar usually , the ar 15s , ak47/ 74s ....all common designs worth familiarization imo ...i find the precision trigger groups and such proprietary ...",
+    "likes": 0,
+    "published_at": "2024-07-28T21:26:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwg_hhSOPLFlP79qzJ4AaABAg.A6SJhUAtWD8A6TV8UAuH2K",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:25:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwi9jMCNIZ0LwyTzwJ4AaABAg",
+    "author": "@BurntKittyForge-pl8ol",
+    "author_channel_id": "UCm6HMau6U_piGSb22QncFgg",
+    "text": "what i mentioned regarding a type linear steam motor , design was when you kick one direction on a bicycle like a half pedal but any amount it doesn't have to be half, the sprocket turns and the freewheel spocket is the key i guess to this potential of linear only piston travel , simplifies a crankshaft where the cylinder is filled off a chamber with a quick exhaust valve or pston type valve with a solenoid pilot , so it's set for pressure switch and only needs to shoot the piston linear to press the now crankshaft rear portion of bicycle ..for bigger power they could be \"daisy chained \" maybe 2- 3 hp each or so",
+    "likes": 0,
+    "published_at": "2024-07-28T21:17:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwi9jMCNIZ0LwyTzwJ4AaABAg.A6SIhKOT-EWA6TV4X5M0xQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "like a compound engine?",
+        "likes": 0,
+        "published_at": "2024-07-29T08:25:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx6BxtVnHylgvqy1EJ4AaABAg",
+    "author": "@BurntKittyForge-pl8ol",
+    "author_channel_id": "UCm6HMau6U_piGSb22QncFgg",
+    "text": "in high precision work i ALWAYS cut too big and then size down , actually with firearms metal work variety ,similar \"match grade\" means needs hand fitted for precise fit ...",
+    "likes": 0,
+    "published_at": "2024-07-28T21:13:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx6BxtVnHylgvqy1EJ4AaABAg.A6SIDKZI2lXA6TV04SgDjJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "always mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:24:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwgVSnkFj6WabAulWR4AaABAg",
+    "author": "@pcka12",
+    "author_channel_id": "UCuYT0XU2Qxa-6evXX4d8CKA",
+    "text": "The original machine tools were hand fettled to make the parts fit, then a better machine was made with what the engineers had, & so on.\nI am repeatedly amazed by what 3d printers can achieve!",
+    "likes": 0,
+    "published_at": "2024-07-28T13:42:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwgVSnkFj6WabAulWR4AaABAg.A6RUaVIrAiYA6TUoeUbYen",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "me too and nice point mate",
+        "likes": 1,
+        "published_at": "2024-07-29T08:22:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw1t5lFMHjrsWHZCtl4AaABAg",
+    "author": "@Karmabim123",
+    "author_channel_id": "UCEkAbMCea-BpiwFbKfdtJwA",
+    "text": "A lot of people seem to produce their designs with just one material (plastic) in mind. Another way to design for a 3D printer is to use it for a combination of materials. For example, I will often use stainless steel tubes when I need a close but sliding or rotating fit.  And of course, I use ball bearing races for rotating parts which need to rotate faster. Then I draw the plastic parts to work as the supporting structure for the parts. I will often also combine plywood parts cut with my laser engraver. There will still often remain the task of making things fit but this is easy with a drill or file to open out holes or reduce surfaces to suit.",
+    "likes": 1,
+    "published_at": "2024-07-28T12:23:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw1t5lFMHjrsWHZCtl4AaABAg.A6RL_YnMQKTA6TOEdpCIwh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I absolutely agree mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:25:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx9MlZRm374JhAe5fd4AaABAg",
+    "author": "@lwhack458",
+    "author_channel_id": "UC-9f7OwMUwkPO_7COCeuSMg",
+    "text": "You need a sound baffle.",
+    "likes": 0,
+    "published_at": "2024-07-28T10:50:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9MlZRm374JhAe5fd4AaABAg.A6RAwCRCKGNA6TOFdPukp9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 0,
+        "published_at": "2024-07-29T07:25:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzIagQqr21FiK6aKgR4AaABAg",
+    "author": "@PhilR0gers",
+    "author_channel_id": "UCfk1lbzUME7s0VHahdQcXLQ",
+    "text": "I think the biggest problem is peoples' mentality.  They have come to believe that you can just make something with a 3D printer without having to do any extra work.\nIf you cast something in metal, it still needs some machining to get the exact piece that you want.  The same is true for mechanical parts that are 3D printed.  Most owners are not engineers, so they don't understand this.",
+    "likes": 0,
+    "published_at": "2024-07-28T09:53:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzIagQqr21FiK6aKgR4AaABAg.A6R4NhhQIT2A6TOLGN1En6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "very true",
+        "likes": 0,
+        "published_at": "2024-07-29T07:26:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyD0Hul0_ydzByYW8t4AaABAg",
+    "author": "@filepz629",
+    "author_channel_id": "UCwqNwavDc7-5VG6XecQBbhA",
+    "text": "🫂",
+    "likes": 0,
+    "published_at": "2024-07-28T09:25:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyD0Hul0_ydzByYW8t4AaABAg.A6R1F2-4GunA6TUpgpUjvS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:22:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmVQpMyIjrMYX5Wrd4AaABAg",
+    "author": "@bradleykurtz2605",
+    "author_channel_id": "UCrTzn-5SKnFU7vD7_Y_0RmA",
+    "text": "Fairly tight tolerances are possible with FDM printers, but you have to work to attain it, and then maintain it.",
+    "likes": 1,
+    "published_at": "2024-07-28T09:18:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmVQpMyIjrMYX5Wrd4AaABAg.A6R0Loqc7oKA6TUqepyaUx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they are indeed",
+        "likes": 1,
+        "published_at": "2024-07-29T08:23:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxn8WqfeU57Zn09h5R4AaABAg",
+    "author": "@user-by5yj7wf3q",
+    "author_channel_id": "UCdAYAFcj2VzQOOVMEvYYeTQ",
+    "text": "Be careful of \"measure with micrometer, mark out with chalk and cut with Axe\"  accuracy of the weakest link in the whole process will dictate the accuracy of the outcome.",
+    "likes": 0,
+    "published_at": "2024-07-28T08:36:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxn8WqfeU57Zn09h5R4AaABAg.A6QwZEF8u0QA6TUsG_QZtk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i like that mate lol",
+        "likes": 0,
+        "published_at": "2024-07-29T08:23:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxjDjPqplY7JOItWl54AaABAg",
+    "author": "@buka9993",
+    "author_channel_id": "UCLYjdmHAAbZrfYpmbj8KYDQ",
+    "text": "Hey Robert.\n\nYour dreams may just come true. Check the SLS4All project. The printer is already out and on sale. I cant afford one, but it's \"only\" 6k. Maybe you can do a video on it. They probably would send you one.",
+    "likes": 0,
+    "published_at": "2024-07-28T07:43:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4GsqoRpaE9wjzuMt4AaABAg",
+    "author": "@kurenai5000",
+    "author_channel_id": "UC8KMoha84ttSjvDgjDgSOAA",
+    "text": "Yes. I always make my pegs a little bit smaller than my holes. There is a sweet spot where it fits tight. If you go too far it becomes a loose joint, which can be useful in some cases.\nAnother good point which you mentioned, the larger you make things, the easier it is.",
+    "likes": 0,
+    "published_at": "2024-07-28T04:32:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz4GsqoRpaE9wjzuMt4AaABAg.A6QVekgbYwfA6TOPlxF5Sj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:26:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwwSbvTw4mNjEKdpNB4AaABAg",
+    "author": "@JessWLStuart",
+    "author_channel_id": "UC2m33kfAVMw8mDEv2gvkjuA",
+    "text": "Good point, and well said!",
+    "likes": 0,
+    "published_at": "2024-07-28T04:30:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwwSbvTw4mNjEKdpNB4AaABAg.A6QVPriUwA2A6TOQnA1bSL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:26:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNhIU8EerSlcUp2Zd4AaABAg",
+    "author": "@josephpk4878",
+    "author_channel_id": "UCpAd0CIQKZhMG4HtPN8YA7Q",
+    "text": "Once you've dialed in your filaments and gotten used to the particulars of your machine, you'll know what tolerances will work for you and your parts will pretty-much always fit. There's a lot to be said for doing some cubic intersections in your CAD and printing some test sections, when you're in question. My .25mm always gives me the snug slip I need - the .30mm always gives the play I need - the .40mm always gives the gap I need.",
+    "likes": 3,
+    "published_at": "2024-07-28T04:27:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNhIU8EerSlcUp2Zd4AaABAg.A6QV7pkgCTYA6TOU7PRQPT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice thanks mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:27:21Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy5dsLYoAI7gCCb9cN4AaABAg",
+    "author": "@kurtandlazanneilander724",
+    "author_channel_id": "UCOByHp-nzveRrAAdNVqMS1A",
+    "text": "As Rob says, \"it comes at a cost\". \nA Formula-One racecar has tighter tolerances and a resulting higer efficiency than a family station wagon.  And that's ok. (The average person couldn't afford one otherwise.)",
+    "likes": 0,
+    "published_at": "2024-07-28T03:21:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy5dsLYoAI7gCCb9cN4AaABAg.A6QNVy67J0NA6TOXP9KZjS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "exactly mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:27:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyBkjSHycoRHdzSzEh4AaABAg",
+    "author": "@improvyourlife-y9m",
+    "author_channel_id": "UCddEEMnJxK0sOXpCFKSlR9A",
+    "text": "This is casting in plastic without the 2000 C* temps and yes one has to sand and mill up whats needed. Great point sir. My heart still goes out to you.",
+    "likes": 0,
+    "published_at": "2024-07-28T03:10:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyBkjSHycoRHdzSzEh4AaABAg.A6QMGwfcbkpA6TOZUZheLq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate and thank you for taking the time to say that",
+        "likes": 1,
+        "published_at": "2024-07-29T07:28:05Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwdn9UUbQG9OKtwgUV4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "🙂",
+    "likes": 0,
+    "published_at": "2024-07-28T03:04:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwdn9UUbQG9OKtwgUV4AaABAg.A6QL_kq5QE2A6TUtIyzV5l",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:23:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxvC_PNEmWqDyLG6xF4AaABAg",
+    "author": "@MrMatthewPR",
+    "author_channel_id": "UCkWiTGKF9hkhbfoxkMc0tCw",
+    "text": "I've really enjoyed the last few design subject videos.",
+    "likes": 0,
+    "published_at": "2024-07-28T02:51:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxvC_PNEmWqDyLG6xF4AaABAg.A6QK3ugObSuA6TObGI8KIQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:28:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwgORtXbfbZ2yyM7H14AaABAg",
+    "author": "@Borgedesigns",
+    "author_channel_id": "UCb6kgJyChDCR4aK0-GEsZKQ",
+    "text": "I cannot believe that some designers release files without ever printing them, especially ones with mechanical elements. Its just disrespectful to the people whos time and filament you will waste.",
+    "likes": 0,
+    "published_at": "2024-07-28T02:28:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwgORtXbfbZ2yyM7H14AaABAg.A6QHT10y7tnA6TOe0Yl0xM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yesp - for sure",
+        "likes": 0,
+        "published_at": "2024-07-29T07:28:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxEoiQyy7j4HgVzMkV4AaABAg",
+    "author": "@Patriarchtech",
+    "author_channel_id": "UCEfwQCaVY78vPV49YhiAXsg",
+    "text": "Absolutely right. I design all the stuff I'm 3d printing myself using Fusion360. I have two Printers, a modified CoreXY Sapphire SP5 Pro and a modified Ender 3. Both Printers use the same MicroSwiss hot end and the same cooling housing. I ALWAYS use the same PETG, I ALWAYS print at the same temperatures because knowing your tools and materials is key in my opinion. If you leave as many variables as constant as possible, then when designing you can account for tolerances in your CAD software easily. eg an 8 millimeter hole will always need a specific offset of say 0.2mm. Changing materials and print speed and cooling will affect shrinkages or thermal expansion and therefore tolerances  - don't do it if you want consistency. Find a good all round filament which is cheap and consistent and likely to stay available where ever you buy it - then fine tune your slicer/ print settings / printer and designing to that filament.",
+    "likes": 1,
+    "published_at": "2024-07-28T01:50:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxEoiQyy7j4HgVzMkV4AaABAg.A6QD8ELlvhhA6TOkrBVV8S",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is good advice mate - thanks for sharing",
+        "likes": 1,
+        "published_at": "2024-07-29T07:29:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwjgMSDIDfUoth3YYl4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "I'm also reminded of the early days of mass production- it always took some work with a file to get the standardized parts to fit right.  This seems the same sort of thing. \nAnd I think it's brilliant how you often get around the tolerance issue by using things like standard sized rods and bearings that Are made to those tolerances.  You only need the parts to fit perfectly that Must do so.  the rest?  Eh, it'll do.",
+    "likes": 1,
+    "published_at": "2024-07-28T01:47:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwjgMSDIDfUoth3YYl4AaABAg.A6QCmZH-9YUA6TOsKjyJHW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "exactly mate - it often astounds me that folks don't appreciate an it will do approach for some things - they want perfect all the way",
+        "likes": 1,
+        "published_at": "2024-07-29T07:30:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy24_vx3L6VpqUp5S14AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "It's important to have the proper clearances in the design for parts to fit. Of course It's perfectly possible to import raw STL files and edit them to suit your needs. Lots of CAD programs allow this.",
+    "likes": 0,
+    "published_at": "2024-07-28T01:24:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy24_vx3L6VpqUp5S14AaABAg.A6QA8fGxBYOA6TUvxuxDbl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes i do that too",
+        "likes": 1,
+        "published_at": "2024-07-29T08:23:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzedgcAwmuDALJU44l4AaABAg",
+    "author": "@wacomtexas",
+    "author_channel_id": "UCk4tGrgw2FMDP31uMdHHskA",
+    "text": "5:26 Knuckles meshing perfectly to illustrate point lol.",
+    "likes": 0,
+    "published_at": "2024-07-28T01:01:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzedgcAwmuDALJU44l4AaABAg.A6Q7_PXQ1eLA6TUxKgQE5t",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - well spotted!",
+        "likes": 0,
+        "published_at": "2024-07-29T08:23:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw006xKViLzWYy5ZT94AaABAg",
+    "author": "@AITrainingSmallBusiness",
+    "author_channel_id": "UCQ0sT7l_IKV8hdElGWIxSrQ",
+    "text": "Very well said.  Your channel is one of the best on youtube.  You are very knowledgeable, and I love your infectious laugh. You are like a big kid in a candy store. You show science can be fun and not boring. I have been a development chemist for 25 years, and I get ideas from your videos.  Thank you for all you do.",
+    "likes": 1,
+    "published_at": "2024-07-28T00:14:41Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw006xKViLzWYy5ZT94AaABAg.A6Q2AMHCAeAA6TOzoqrZSj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thank you! and I am glad i have helped even just a little",
+        "likes": 1,
+        "published_at": "2024-07-29T07:31:49Z"
+      },
+      {
+        "id": "Ugw006xKViLzWYy5ZT94AaABAg.A6Q2AMHCAeAA6ljSSoqC8r",
+        "author": "@AITrainingSmallBusiness",
+        "author_channel_id": "UCQ0sT7l_IKV8hdElGWIxSrQ",
+        "text": "​@ThinkingandTinkering The Zinc Bromide battery made me stop and think.  Because of that episode, I developed a method to analyze metallic zinc in zinc oxide.",
+        "likes": 0,
+        "published_at": "2024-08-05T19:44:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw3EBykz-dAcYtSdK14AaABAg",
+    "author": "@dSquared0162",
+    "author_channel_id": "UCqMYzfz_2v3MULwOHWpz7oA",
+    "text": "Sage advice as always.",
+    "likes": 0,
+    "published_at": "2024-07-27T23:04:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw3EBykz-dAcYtSdK14AaABAg.A6PvAhh3SlsA6TP-sKtQ5T",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:31:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzRkN85cybjL4R88VV4AaABAg",
+    "author": "@CubbyBear-cn5kh",
+    "author_channel_id": "UC9nu4Zp-wL2GpYc9doVGmzg",
+    "text": "When I started 3d printing I was always added or removing 0.2mm to every measurement to compensate.\nNow I use a Fine Detail profile on Cura when tolerances matter. CHEP has a video about it \"Fine Detail to Hyper Fast\"\nI also design all holes for being drill or taped as I've found taped threads are better than printed threads.\nWhen Casting Bronze I model to scale and before making the cast I scale it up by the expected shrinkage, this gives good results and I don't have to worry about anything other than will it cast",
+    "likes": 0,
+    "published_at": "2024-07-27T21:35:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzRkN85cybjL4R88VV4AaABAg.A6Pkz-PxMusA6TQJl3dw-U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:43:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5TA-EmZBoScZeogx4AaABAg",
+    "author": "@richardglickman7203",
+    "author_channel_id": "UCTO0svlq-18-ERwAYOHx9kQ",
+    "text": "I agree. Designs work when they account for the manufacturing process. \nBecause my first prints, with parts, did not fit, I learned to design for my Elegoo N4. Now, when I make something with parts, they tend to fit. If I sent those designs to a machine shop, I suspect the “fit” would be very sloppy and nothing would work properly, if at all!",
+    "likes": 0,
+    "published_at": "2024-07-27T20:57:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5TA-EmZBoScZeogx4AaABAg.A6Pg_-h_IqIA6TQN2BtS-F",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "exactly mate -t hanks for dharing",
+        "likes": 0,
+        "published_at": "2024-07-29T07:43:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzB7MmiYFFkltA82DZ4AaABAg",
+    "author": "@TheLaXandro",
+    "author_channel_id": "UCxRTgYOix-ZqGpKiIvK2RXw",
+    "text": "3D printing has issues with precision, but not as much with tolerances. A calibrated printer (including filament calibration, or just using the same spool) can get consistent parts, they will just consistently have wrong sizes, and that is solved by engineering these tolerances into the part itself. If a 4mm hole prints as 3.8mm, you can drill it out, or if you are making more you can change it so it's a 4.2mm hole in CAD and then turns into perfect 4 in the flesh.",
+    "likes": 0,
+    "published_at": "2024-07-27T20:48:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzB7MmiYFFkltA82DZ4AaABAg.A6PfaBx62D0A6TQS2emf_C",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:44:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyeMpIRdA_zUG9psDZ4AaABAg",
+    "author": "@jsincoherency",
+    "author_channel_id": "UC3mFc35e-mCoxoAo0oPYUSg",
+    "text": "Well said.\n\nAnd re PLA gears wearing out quickly, it really depends on how much load they're carrying. In a clock-like application the loads are really really small so the gears will last for ages. Source: I have a clock next to me right now with gears made out of PLA, it has been running for probably 9 months and shows no visible wear whatsoever.",
+    "likes": 1,
+    "published_at": "2024-07-27T19:56:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyeMpIRdA_zUG9psDZ4AaABAg.A6P_dz6jJ43A6TQW7tX7J4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice! cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:45:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0lhcxXnRktEj0odt4AaABAg",
+    "author": "@aerotro",
+    "author_channel_id": "UC4duw-yrWOLpJycU82ZmyOg",
+    "text": "Robert it is all in the settings, if you set the layers to have offsets such as -0.1mm or wall thickness -0.1mm you can subtract some layers to make stuff fit better. or just scale some stuff down or up!",
+    "likes": 0,
+    "published_at": "2024-07-27T19:54:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy0lhcxXnRktEj0odt4AaABAg.A6P_Rg1XPwpA6TQn9XjLJi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am sorry mate I don't agree - settings play an important role for sure - but every other industry and design work involves an understanding of the manufacturing process and application of the limitations and nature of the material and process incorporated into that design - we should do the same with 3d printing.",
+        "likes": 0,
+        "published_at": "2024-07-29T07:47:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz8qsI3Lml6xVBF6LZ4AaABAg",
+    "author": "@Ammoniummetavanadate",
+    "author_channel_id": "UCjKEwl_vVHCzSP1kM4v4rDQ",
+    "text": "This design mindset is the difference between good engineers and what I am going to lovingly call \"computer jockeys\".\n\nIt is actually extremely important that engineers early in their education and career understand how thing are actually made and differ from their sketches and calculations.\n\nIt also speaks a lot to those who understand design trade-offs. It is super easy to shut out the real world and think things must be perfect but working with a printer in your bedroom can often show you directly and physically that you can make an awesome design that has relaxed tolerances.",
+    "likes": 2,
+    "published_at": "2024-07-27T19:27:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz8qsI3Lml6xVBF6LZ4AaABAg.A6PXGObMxbVA6TQsVwcME7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nicely put mate - cheers",
+        "likes": 1,
+        "published_at": "2024-07-29T07:48:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxNH6SHCYNXBKljKox4AaABAg",
+    "author": "@blandman3471",
+    "author_channel_id": "UCji6b7Q8cPyd4MTW49iZm6A",
+    "text": "Another advantage to using a larger scale is that the air motor for other devices, could do practical work. Let's design a 3D printed lawn mower or vacuum cleaner.",
+    "likes": 0,
+    "published_at": "2024-07-27T19:22:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxNH6SHCYNXBKljKox4AaABAg.A6PWg5_jumJA6TQwiykAyu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i like that mate - and to my mind it is very 'do-able'",
+        "likes": 0,
+        "published_at": "2024-07-29T07:48:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRU_FxAcgVDLYJGet4AaABAg",
+    "author": "@mauriceupp9381",
+    "author_channel_id": "UC8MG1V9YU1jcOwTtSinUE0A",
+    "text": "I've missed you I'm off to push the wrong button here a while back and you were just gone I couldn't find you I'm so glad to see you again",
+    "likes": 0,
+    "published_at": "2024-07-27T19:17:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwRU_FxAcgVDLYJGet4AaABAg.A6PW7mN48MIA6TQyMNdnvc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:49:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwnofpP36qLtv_ArNh4AaABAg",
+    "author": "@tenij000",
+    "author_channel_id": "UCgwJKYmKdWPswBUEaui9MNg",
+    "text": "is not like layers or nozzle thing does 0.2 make part of 2cm cube then it works dont think that a 1.9 cm cube gone be exact 1.9",
+    "likes": 0,
+    "published_at": "2024-07-27T19:07:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwnofpP36qLtv_ArNh4AaABAg.A6PV-r5lZbSA6TR-h4ZSqK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no it won't be",
+        "likes": 0,
+        "published_at": "2024-07-29T07:49:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygNd5gxqCwWT10ry94AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "Hi Robert, I suppose you could make a test to work out how much flow your printer has and then work that into your calculations. I think it would make sense to check how thick your line of filament is compared to the digital line it's trying to replicate too.",
+    "likes": 0,
+    "published_at": "2024-07-27T19:05:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygNd5gxqCwWT10ry94AaABAg.A6PUpNB-97WA6TR30YKFqi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:49:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVm5vb4J6ZSMDEvDl4AaABAg",
+    "author": "@red00eye",
+    "author_channel_id": "UCtIpPAG9k8GNli8ZOl9gTtg",
+    "text": "'It's terrible' is much easier than 'i can't work it'",
+    "likes": 0,
+    "published_at": "2024-07-27T19:00:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVm5vb4J6ZSMDEvDl4AaABAg.A6PUDd_dm8sA6TR3wPNMB2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes it is",
+        "likes": 0,
+        "published_at": "2024-07-29T07:49:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz9N_ZyktMNrhCDGlJ4AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "The problem cited by the individual is not with the equipment, it's with the CAD program being used. I'd say it lies more so in the CAD program rather than the machine.\n\nIn 3D printing, a 3mm hole is the exact same size as a 3 mm pin. The end result is that the pin will not go into the hole because the heated plastic, as any liquid, flows out from it's point of origin. Even though it's not all that viscous.\n\nWhen using a milling lathe, a 3 mm pin may go inside a 3 mm hole, but your using solid material to make those parts and will not experience any change of tolerance for a greater period of time. \n\nWith 3D printing; if you do not allow that part to cool completely before taking it off the build plate, you risk warping the part. If the part has a hole, that hole may no longer be round which will prevent a pin from being inserted into it.\n\nPart of the problem as Rob demonstrated is with the CAD programs. Being able to instruct the CAD program to scale down the model by the .05 mm to .3 mm, would go a long way to resolve this problem. The end result would be that an inside radius' would be a bit larger, while an outside radius' would be a bit smaller.\n\nI've been using FreeCAD, and while there is a tutorial that tells you how to scale an object, the menu command to scale an object is not where the tutorial says it is supposed to be. In fact, I've looked through all  the menu commands and there is no scale command.\n\nAs I am progressing in the use of my printer, I will print a 3mm high test part and make size adjustments to the original design until I find the tolerances that work. This means that I won't print an actual part until I have tested and adjusted all unions that need to move or come together. \n\nI don't see much point in expecting perfect tolerances when I'm not working with wood or metal. But even with these materials, you sometimes have to remove additional material for the parts to fit together as intended.",
+    "likes": 0,
+    "published_at": "2024-07-27T18:50:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz9N_ZyktMNrhCDGlJ4AaABAg.A6PT6h9TwFlA6TRL2CWZ4V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "again mate a CAD program is just a tool for design a 3mm hole in a cad drawing is never a 3mm hole in a real object and it doesn't matter if it is 3d printing or traditional manufacture. But your suggestion of design and test is spot on",
+        "likes": 0,
+        "published_at": "2024-07-29T07:52:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy5C0vsPxQlGpnvWCJ4AaABAg",
+    "author": "@dudleysmith5111",
+    "author_channel_id": "UCRMowy2ZYXAwXJyMOipdRqw",
+    "text": "Given your experience, for the typical home 3D printer (Ender 3D Pro as an example), what tolerances do you typically incorporate in your designs? I realize different parts, such as gears, will be different than others. Just looking if you’ve developed some “rules of thumb”.",
+    "likes": 0,
+    "published_at": "2024-07-27T18:42:25Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy5C0vsPxQlGpnvWCJ4AaABAg.A6PS8cj0gpkA6TRSjchuzU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i leave 0.2mm mate - then print and test",
+        "likes": 1,
+        "published_at": "2024-07-29T07:53:23Z"
+      },
+      {
+        "id": "Ugy5C0vsPxQlGpnvWCJ4AaABAg.A6PS8cj0gpkA6VTWHlqbKn",
+        "author": "@dudleysmith5111",
+        "author_channel_id": "UCRMowy2ZYXAwXJyMOipdRqw",
+        "text": "@ThinkingandTinkering Thanks!",
+        "likes": 0,
+        "published_at": "2024-07-30T02:49:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyuTKaNavSdBK-x_fh4AaABAg",
+    "author": "@ezone913",
+    "author_channel_id": "UCNlGh_08j6iqyMbZS5lPK0Q",
+    "text": "Brilliant indeed. \nA screwdriver makes a terrible chisel, but it can be one with enough force.",
+    "likes": 1,
+    "published_at": "2024-07-27T18:24:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyuTKaNavSdBK-x_fh4AaABAg.A6PQ3wSdw6UA6TRUHxlKfR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - absolutely",
+        "likes": 0,
+        "published_at": "2024-07-29T07:53:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy7JoUSfV5TBUJHtNd4AaABAg",
+    "author": "@daveherd6864",
+    "author_channel_id": "UCC5dGU1VmC7GrskoeUwvpBg",
+    "text": "Gears are a prime example, but scale is your friend",
+    "likes": 0,
+    "published_at": "2024-07-27T17:59:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy7JoUSfV5TBUJHtNd4AaABAg.A6PNFo0qkMCA6TRYLd7t7P",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes it is lol",
+        "likes": 0,
+        "published_at": "2024-07-29T07:54:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwwYlq77VOyhT_tMXp4AaABAg",
+    "author": "@quantumenergysolutions9128",
+    "author_channel_id": "UCA1Ufv_K57q79mzFkFh8SEg",
+    "text": "Thanks Robert.",
+    "likes": 1,
+    "published_at": "2024-07-27T17:28:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwwYlq77VOyhT_tMXp4AaABAg.A6PJgAR6k1JA6TRZWXgopO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:54:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwGpI77WP8ad0-3mzh4AaABAg",
+    "author": "@westwashere2214",
+    "author_channel_id": "UCeOFHqh6DmPUoKABW5IeVYQ",
+    "text": "let's examine the effeciency of acting in regard to not acting, I'm a daydreamer that puts ideas to action and this compounds effeciency, zero action confounds effeciency in all cases but Buddha's. This 3D printing is a great success and has high effeciencey, butmileage may vary depeding on how cheap a printer is put into service. The Elegoo Neptune 3 Plus you promoted has served well and above expectations in every way, it's build plate size is of practical use and it's accuracy is precise for something spitting out a glob of glue. For future printists keep in mind the earlier a model design is the less accurracy can be expected. I am no print wizad but i can tell you a cheap refurbished thimble printing toy will bore quickly and soon be just a memory.",
+    "likes": 0,
+    "published_at": "2024-07-27T17:26:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGpI77WP8ad0-3mzh4AaABAg.A6PJWCXbrjzA6TRcD75RGe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you miss 100% of the goals you never try for mate",
+        "likes": 0,
+        "published_at": "2024-07-29T07:54:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwFIDwIMep62C3WMTR4AaABAg",
+    "author": "@seewaage",
+    "author_channel_id": "UCsC_BFaSqCNBodpovRc-PcA",
+    "text": "Thanks for the great video. I think that the fantastic thing about 3d printers is that is allows lots of every day people to develop ideas quickly. I'm excited about the innovative ideas that I think will be developed in the coming years.",
+    "likes": 2,
+    "published_at": "2024-07-27T17:23:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwFIDwIMep62C3WMTR4AaABAg.A6PJ55RgSU4A6TRelKLxtP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i absolutely agree mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:55:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx8J6HmAfZAXHp90214AaABAg",
+    "author": "@grantdeisig1360",
+    "author_channel_id": "UCwf-WoAoQ70cTnS_tafBpPQ",
+    "text": "Yes so true... Sometimes it is printer variance, say like within 100um, but there are times when the design clearly is faulty because the designer didn't take the time to think  if it would work on a 3D printer. People ask me all the time to print them stuff they find online, and I always have to tell them that if for some reason it doesn't print correctly, I can't be held responsible, because it's not my design.",
+    "likes": 1,
+    "published_at": "2024-07-27T17:08:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugx8J6HmAfZAXHp90214AaABAg.A6PHMHUZfiBA6PLuqhnVHI",
+        "author": "@westwashere2214",
+        "author_channel_id": "UCeOFHqh6DmPUoKABW5IeVYQ",
+        "text": "I always tell them the print head is broken right now and the can go to PCB way. LOL",
+        "likes": 1,
+        "published_at": "2024-07-27T17:47:58Z"
+      },
+      {
+        "id": "Ugx8J6HmAfZAXHp90214AaABAg.A6PHMHUZfiBA6TRrzT__yr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "a very useful suggestion mate - cheers lol",
+        "likes": 0,
+        "published_at": "2024-07-29T07:56:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgziHsbLuvkmzPh1Jch4AaABAg",
+    "author": "@stevvieb",
+    "author_channel_id": "UCw_JmNxNyl2ZVgVonzDLYAw",
+    "text": "Different 3d Printers have different tolerances.  I can't print size critical parts on my different printers. If I need size critical parts that's I've designed then my go to is the P1S, I've had good results with this. The only time I've had tolerance issues is when I've downloaded a model.",
+    "likes": 4,
+    "published_at": "2024-07-27T17:07:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgziHsbLuvkmzPh1Jch4AaABAg.A6PHH6cr3lwA6TRuPzZimR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "same here mate",
+        "likes": 1,
+        "published_at": "2024-07-29T07:57:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFvHI0CvMJpYbBdOx4AaABAg",
+    "author": "@disklamer",
+    "author_channel_id": "UCY-81bGZUjM18o8O2myL0DA",
+    "text": "GD&T for the uninitiated - Geometric Dimensioning and Tolerances, it's another useful expertise",
+    "likes": 0,
+    "published_at": "2024-07-27T17:01:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzFvHI0CvMJpYbBdOx4AaABAg.A6PGYoBCdeiA6TRw6EpXOu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice good pointer mate - cheers",
+        "likes": 0,
+        "published_at": "2024-07-29T07:57:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzfGgfxFImNoQazC4l4AaABAg",
+    "author": "@grendel1960a",
+    "author_channel_id": "UCugJVwvz-clavvlmL2XsCuw",
+    "text": "I totally agree, with my 3d printer it prints internal holes smaller than the size it measures, but conversely prints external circles dead to size, the difference, if I want an internal hole to fit an external cylinder, the difference for a tight fit is 0.4mm, for a running fit, and extra 0.05mm makes all the difference. for me a 3d prnter is a rapid prototyping tool, i can rapidly try things and change the parameters and try again, then when I am happy, I can go to the lathe or the mill and produce the part to whatever tolerance i please. think on this, drawings used to precisely machine parts have the tolerance stated on them, a shaft might be 10mm plus 0mm - 0.1mm as an example- the mating hole might be quoted at 10mm plus 0.1mm -0mm this would guarantee the shaft would fit the hole- the problem being that if both parts were at the extreme range of their tolerance the fit would be sloppy by 0.2mm. thus when someone is designing a set of parts that need to fit together, they need to decide how snug a fit and how loose a fit between parts they want to allow, and the tolerances are put on the drawing for the person making that part, maybe if the part is more than .01mm off its tolerance it will be scrap and another part needs to be made. \nEngineers are always designing things to tolerances, so why dont 3d designers follow this industry practice?, engineers take into account what the lathes and mills can reasonably achieve and the materials that are being used- so should 3d designers. when doing a 3d design, do I have to tweak and reprint the part to get the fit I want, heck yes I do, all the time. especially if I want a nice tight fit, sometimes its the surface texture that causes an issue, the layering, so I expect (even after desgning in the allowances I think i need) to have to tweak the design and try again. thats the beauty of a 3d printer, I only have to wait a few hours to get a new part to try, if I was making it on the lathe or mill, that could be a few hours remaking the part, not to mention the cost of material.",
+    "likes": 1,
+    "published_at": "2024-07-27T16:49:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzfGgfxFImNoQazC4l4AaABAg.A6PFHDtzAmoA6PMv1xuQjm",
+        "author": "@westwashere2214",
+        "author_channel_id": "UCeOFHqh6DmPUoKABW5IeVYQ",
+        "text": "Upon exploration some may find the Vallhalla of the Machine shop numbers in tools more than 1, the king of tools, the metal lathe, is supportend by chisels and hammers, drills and reamers, His fine majestic lady at his side, the milling machine doeth not stand alone, members of the tool court at her side, welders, drivers, spanners, who are these fools suffering unrealistic expectations the 3D printer is an island to itself?",
+        "likes": 0,
+        "published_at": "2024-07-27T17:56:44Z"
+      },
+      {
+        "id": "UgzfGgfxFImNoQazC4l4AaABAg.A6PFHDtzAmoA6TSIJvFrx7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is excellent advice mate - thank you for taking the time to say it - and - of course - we know each other well and I have great respect for your work so i would recommend anyone reading this pay attention!",
+        "likes": 0,
+        "published_at": "2024-07-29T08:00:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_mhezFosy5eqhosJ4AaABAg",
+    "author": "@OZtwo",
+    "author_channel_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+    "text": "Well, it depends on the printer you have. My QIDI X-Plus prints perfectly. I print very small parts like what you have with no issue. One of the latest project I needed to print 12.6 MM custom bearings. (using steel balls)",
+    "likes": 0,
+    "published_at": "2024-07-27T16:25:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_mhezFosy5eqhosJ4AaABAg.A6PCXElAsf3A6TSQK65xK1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-07-29T08:01:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxyiFy0I4OWuabueSl4AaABAg",
+    "author": "@kennedy67951",
+    "author_channel_id": "UCjxV3uqs53Cl6RBeb9_o1Wg",
+    "text": "Well explained Robert.😊 Nice to see you back sir.😊",
+    "likes": 0,
+    "published_at": "2024-07-27T16:24:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxyiFy0I4OWuabueSl4AaABAg.A6PCJozM45bA6TSSZEIFpH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate and good to hear from you",
+        "likes": 0,
+        "published_at": "2024-07-29T08:02:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHUHIKQk20IcFCnSx4AaABAg",
+    "author": "@Charlie-Oooooo",
+    "author_channel_id": "UCZyNf7hKgLg6VDrFUXW8DRQ",
+    "text": "💯👍Excellent points! (IMHO, as one who has not yet entered the realm of 3D printing.)  Cheers Robert! 😊",
+    "likes": 0,
+    "published_at": "2024-07-27T16:20:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzHUHIKQk20IcFCnSx4AaABAg.A6PBrQmf4n_A6TSYkaBvCh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers to you too mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:02:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKNR2iEzfXUrx4gip4AaABAg",
+    "author": "@blah4264",
+    "author_channel_id": "UCDUIIsrB5BT_kdG39Eg6TKg",
+    "text": "Good to see you back chap :)",
+    "likes": 1,
+    "published_at": "2024-07-27T16:18:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyKNR2iEzfXUrx4gip4AaABAg.A6PBd3SCKi5A6TSaNQafkn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate and good to hear from you",
+        "likes": 0,
+        "published_at": "2024-07-29T08:03:18Z"
+      },
+      {
+        "id": "UgyKNR2iEzfXUrx4gip4AaABAg.A6PBd3SCKi5A6UHruEMVQw",
+        "author": "@blah4264",
+        "author_channel_id": "UCDUIIsrB5BT_kdG39Eg6TKg",
+        "text": "@ThinkingandTinkering when you do your ride and head through Cornwall, I'll keep an eye out :)",
+        "likes": 0,
+        "published_at": "2024-07-29T15:48:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygD5fyL-g1vP_cs6t4AaABAg",
+    "author": "@___chill",
+    "author_channel_id": "UC6-CxfninTQfzNcO-hu2LnA",
+    "text": "This advice applies to the person printing as well. If you aren't taking the time to calibrate your printer, don't expect every design to function perfectly. Taking measurements, feeding them back into the slicer, and fine tuning every setting you can find will get you production level prints no matter the printer. I've still got the $99 Anet A8 kit my mom bought for me in 8th grade, and that thing could deliver <±0.1mm ABS parts while covered in jackets and cardboard. The walls in my most recent print are less than 0.2mm and print beautifully. \n\nNo matter where you are or what you've got, you can always get more precision than you think. You just have to understand your machine.",
+    "likes": 1,
+    "published_at": "2024-07-27T16:16:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygD5fyL-g1vP_cs6t4AaABAg.A6PBSiGSY4wA6TSc479zbN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nicely said mate - cheers",
+        "likes": 1,
+        "published_at": "2024-07-29T08:03:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxs1JVGzM3IZiAd6c94AaABAg",
+    "author": "@JFSmith-nb8hf",
+    "author_channel_id": "UCOK3W4AiMzU5hSgeMM4rnig",
+    "text": "I'm considering getting a printer to produce patterns for investment casting. Most of these castings will be machined anyway, so the tolerance issue never arises. Great vid, thanks.",
+    "likes": 0,
+    "published_at": "2024-07-27T16:11:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxs1JVGzM3IZiAd6c94AaABAg.A6PAuMSdKmTA6TSdyh64NB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate - cheers",
+        "likes": 1,
+        "published_at": "2024-07-29T08:03:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzTpChWTryGYhw63g14AaABAg",
+    "author": "@401ksolar",
+    "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+    "text": "Why not just call them prototype printers?",
+    "likes": 0,
+    "published_at": "2024-07-27T16:05:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzTpChWTryGYhw63g14AaABAg.A6PAAXfmD2EA6TSy8e8qmu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:06:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwajpClGRuauXk8A2l4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "Quick, Cheap, Accurate ...... You get to chose any two!\nIn the real world you do not need accurate, you just need accurate enough!\n\nI have to say I do like the occasional glimpse of a model (or part of one) to be seen in the background occasionally!",
+    "likes": 2,
+    "published_at": "2024-07-27T16:03:25Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwajpClGRuauXk8A2l4AaABAg.A6P9x5khDS2A6PURrT-8cF",
+        "author": "@qwertyqwerty9587",
+        "author_channel_id": "UCT9feGXy14iBYWJOwFq3pPQ",
+        "text": "Accurate and cheap all day 😂",
+        "likes": 0,
+        "published_at": "2024-07-27T19:02:31Z"
+      },
+      {
+        "id": "UgwajpClGRuauXk8A2l4AaABAg.A6P9x5khDS2A6TT2hAfq70",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - a lot of the time folks want the lot - good luck with that if that is what they want lol",
+        "likes": 1,
+        "published_at": "2024-07-29T08:07:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw6QWNqKh0OPGb86k94AaABAg",
+    "author": "@Rantandreason",
+    "author_channel_id": "UC-U694yC3jmdHuWU3JmYRWA",
+    "text": "You want to design a 0.4 mm tolerance as a good general number\nIt may take a couple attempts to figure out the  exact fit, but I REGULARLY have prints that are 0.01 mm accuracy\nThat is INCREDIBLE! I use a Creality K1 fyi",
+    "likes": 0,
+    "published_at": "2024-07-27T15:58:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw6QWNqKh0OPGb86k94AaABAg.A6P9M_shXjpA6TT866yRE2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice rule of thumb mate - thanks for sharing it",
+        "likes": 0,
+        "published_at": "2024-07-29T08:08:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz2wNvhpBDX4SOu9JJ4AaABAg",
+    "author": "@liamwinter4512",
+    "author_channel_id": "UCWVFx7zLgCO6yQtFTs76-0g",
+    "text": "I'd like to see your take on electroplating your prints.",
+    "likes": 0,
+    "published_at": "2024-07-27T15:49:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz2wNvhpBDX4SOu9JJ4AaABAg.A6P8MeWHRaCA6TT9zAQPNP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i have done that l aready mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:08:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaA_9UISP7YTZYWbx4AaABAg",
+    "author": "@leiflindqvist9095",
+    "author_channel_id": "UCQeyBAF7EM_CvynIyODZzSg",
+    "text": "It should be obvious that design and manufacturing require thought and knowledge. When it comes to engineering, you always have to design for the manufacturing method to be used. Even the good methods such as milling and turning have tolerances, the better tolerances you require, the more expensive the product. When you design and 3D print yourself, you need to take the role of designer and production technician, there are probably many people who don't see the whole picture. You can often do a lot with settings in the slicer to get pretty good tolerances on outer and inner dimensions (also with cheap printers). When you have tested and documented the printer, the designed parts usually fit together well. But some people probably believe that everything should go by itself and that knowledge and preparation is unnecessary in this context.",
+    "likes": 4,
+    "published_at": "2024-07-27T15:48:44Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwaA_9UISP7YTZYWbx4AaABAg.A6P8Gd_R2kaA6TTHY_jJnO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is true lots of folks don't consider that - and you can understand why",
+        "likes": 1,
+        "published_at": "2024-07-29T08:09:19Z"
+      },
+      {
+        "id": "UgwaA_9UISP7YTZYWbx4AaABAg.A6P8Gd_R2kaA6TUCeZopb_",
+        "author": "@leiflindqvist9095",
+        "author_channel_id": "UCQeyBAF7EM_CvynIyODZzSg",
+        "text": "@ThinkingandTinkering \nAbsolutely, we can't all be engineers. That would not be good for humanity.",
+        "likes": 0,
+        "published_at": "2024-07-29T08:17:24Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6CuffeHM-vL5mYXh4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Thumbs 👍 😊",
+    "likes": 0,
+    "published_at": "2024-07-27T15:47:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6CuffeHM-vL5mYXh4AaABAg.A6P84JQ1cOSA6TTIdLtYmu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate lol",
+        "likes": 1,
+        "published_at": "2024-07-29T08:09:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgztTrv4BJ8RX1yMxEl4AaABAg",
+    "author": "@tommontgomery2674",
+    "author_channel_id": "UCbgH-IGXtOsHHRKA220c8WA",
+    "text": "I had some epic disagreements with stubborn inspectors and young designers during my 50 year machinist career...A .250\" shaft WILL NOT go into a .250\" hole!!!...Get those tolerances right!!",
+    "likes": 35,
+    "published_at": "2024-07-27T15:46:25Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgztTrv4BJ8RX1yMxEl4AaABAg.A6P8-crt8JkA6PGIHPRWgm",
+        "author": "@disklamer",
+        "author_channel_id": "UCY-81bGZUjM18o8O2myL0DA",
+        "text": "We'll just dip the shaft in liquid nitrogen first, and heat up the bearing in the autoclave, that won't affect the material, like, at all ;D",
+        "likes": 6,
+        "published_at": "2024-07-27T16:58:52Z"
+      },
+      {
+        "id": "UgztTrv4BJ8RX1yMxEl4AaABAg.A6P8-crt8JkA6PGY8I6-Iv",
+        "author": "@RandomNoob",
+        "author_channel_id": "UCFoTDnhKQRRS0m5_NWvKMWg",
+        "text": "@tommontgomery2674 Technically it will go in if made fro metal but you need to heat and/or cool one of the parts to make them expand/contract BUT it's not coming back out.",
+        "likes": 3,
+        "published_at": "2024-07-27T17:01:02Z"
+      },
+      {
+        "id": "UgztTrv4BJ8RX1yMxEl4AaABAg.A6P8-crt8JkA6Q9UMbXdMa",
+        "author": "@steviegwhizz345",
+        "author_channel_id": "UCJWFBLTuyMRL77JNbxaWgWA",
+        "text": "Only real engineers understand fits, clearance fit, interference fit etc. When you've machined bores with a +0.02 to +0.04 tolerance , then you know about fits.",
+        "likes": 2,
+        "published_at": "2024-07-28T01:18:35Z"
+      },
+      {
+        "id": "UgztTrv4BJ8RX1yMxEl4AaABAg.A6P8-crt8JkA6RNpyIRxEg",
+        "author": "@bascomnextion5639",
+        "author_channel_id": "UCwI8uXYayjdZFb_H5NUA5XA",
+        "text": "Yes it will just need a big enough hammer !😊",
+        "likes": 3,
+        "published_at": "2024-07-28T12:43:15Z"
+      },
+      {
+        "id": "UgztTrv4BJ8RX1yMxEl4AaABAg.A6P8-crt8JkA6RU3Odqr-I",
+        "author": "@pcka12",
+        "author_channel_id": "UCuYT0XU2Qxa-6evXX4d8CKA",
+        "text": "​@steviegwhizz345anyone with an inkling of knowledge in physics should be able to get it!",
+        "likes": 0,
+        "published_at": "2024-07-28T13:37:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzEUJBGbdjAGALF3np4AaABAg",
+    "author": "@haytrvilleusa3696",
+    "author_channel_id": "UCDEh-vYbPphuYUWJDCNDONQ",
+    "text": "User error 100% of the time. Math is hard for most people apparently! I use my cheap creality s1 pro to make stainless steel, nickel, etc, and it's flawless. 3d printers are not set it and forget it. Just like anything. You actually have to learn to do it right.",
+    "likes": 5,
+    "published_at": "2024-07-27T15:44:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzEUJBGbdjAGALF3np4AaABAg.A6P7jboWZcgA6TTSb-CGqt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "spot on mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:10:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy5WkH6uR-d8xaKL9N4AaABAg",
+    "author": "@vidard9863",
+    "author_channel_id": "UCtCiY3al0xZjmvBAxH9Jqww",
+    "text": "That's a very good point. 3d printers are effectively rapid prototyping machines if you want perfection you need to buy a machine shop. Tolerance for prints should be relatively loose.",
+    "likes": 2,
+    "published_at": "2024-07-27T15:34:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy5WkH6uR-d8xaKL9N4AaABAg.A6P6eP-4hTdA6TTVP2TI5d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-07-29T08:11:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwAVESL34hgmSbuCIV4AaABAg",
+    "author": "@TheeFrancis",
+    "author_channel_id": "UCRLsLN5ufnXTtOSe4lRsFyw",
+    "text": "Hello Mr.Smith, have you heard of The Cool Parts Show? They showcase products that was made possible with 3D printing.\nIt's really unique and creative🧠",
+    "likes": 1,
+    "published_at": "2024-07-27T15:33:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxEKBLCnMZwJMoor9R4AaABAg",
+    "author": "@tbabbittt",
+    "author_channel_id": "UCJH3d9_jNlkvxDiXFmYXUnA",
+    "text": "I had a rough idea about replacing air displacement in a sterling engine with weights and springs so I 3d print it.",
+    "likes": 0,
+    "published_at": "2024-07-27T15:29:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxEKBLCnMZwJMoor9R4AaABAg.A6P679_7GxvA6TTWNbOyoq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice!",
+        "likes": 0,
+        "published_at": "2024-07-29T08:11:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwYACl-00lSKDBHlY94AaABAg",
+    "author": "@CCoburn3",
+    "author_channel_id": "UC-AF2Pb8YVVRbus89NezOBQ",
+    "text": "During WWII, the German manufacturers often created masterpieces of machining. Their weapon systems were often machined to the most exacting tolerances. The problem was that battlefields are dirty. And the tight tolerances would get clogged with dirt. Plus, the weapons were not being maintained by trained engineers. The weapons were extremely difficult to maintain and they were often breaking down just because of the dirt and mud. So these tolerances worked against the weapons in the field. \n\nContrast that with the American M-3 machine gun (the \"grease gun\"). It was made from stamped parts and it looked like it was thrown together by children. But it could be thrown in the mud and pulled out and it would still work like a champ. The point is that people get all worked up over tolerances and efficiency and forget the function of the device and the environment in which it will be used.",
+    "likes": 52,
+    "published_at": "2024-07-27T15:29:13Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwYACl-00lSKDBHlY94AaABAg.A6P61c2_7J4A6RptQGlbmU",
+        "author": "@pazguatos",
+        "author_channel_id": "UCc6xHjlxNrZHqAJeeX-bnLA",
+        "text": "I would hate my 3D printed generator to stop working after I cover it in mud like I usually do. Jk thanks for sharing an interesting point tho",
+        "likes": 0,
+        "published_at": "2024-07-28T16:57:08Z"
+      },
+      {
+        "id": "UgwYACl-00lSKDBHlY94AaABAg.A6P61c2_7J4A6SHQBwrLoO",
+        "author": "@CCoburn3",
+        "author_channel_id": "UC-AF2Pb8YVVRbus89NezOBQ",
+        "text": "@pazguatos The point of the post is that people often get so wrapped up in \"precision\" that they design products that the design doesn't function in the intended environment.",
+        "likes": 3,
+        "published_at": "2024-07-28T21:06:25Z"
+      },
+      {
+        "id": "UgwYACl-00lSKDBHlY94AaABAg.A6P61c2_7J4A6TTdODPiuH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "very good point mate - I enjoyed reading it - cheers",
+        "likes": 3,
+        "published_at": "2024-07-29T08:12:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwBm5aUOXhyGMIY_314AaABAg",
+    "author": "@donniewatson9120",
+    "author_channel_id": "UCjis31zfjRO7DbN2LvWcpTg",
+    "text": "So true! You have to make sure the settings in the slicer or the model is going to work with the 3D printer.",
+    "likes": 0,
+    "published_at": "2024-07-27T15:27:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwBm5aUOXhyGMIY_314AaABAg.A6P5qV9sAYoA6TTfEwW_Jx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate",
+        "likes": 1,
+        "published_at": "2024-07-29T08:12:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwj7msdG_yJ5s2yF8F4AaABAg",
+    "author": "@steveallen8987",
+    "author_channel_id": "UC7HZf0NE9IeWrMMu3hwDqig",
+    "text": "Cura slicer has a slicing tolerance setting.\nThis allows you to specify inclusive or excluding as extra settings to normal.\nExample, if you extrude a circle of a set dimension inclusive will create a circle slightly larger and exclusive slightly smaller.\nExclusive thus shrinks parts slightly allowing more space between close fitting parts.\nIt works at each layer but also affects layers creating a slope.\nExample a square based pyramid, exclusive creates each square layer slightly smaller resulting in a slightly narrower pyramid.\nIn practice this can mean the difference between not fitting and fitting.\nIn my older version of cura there is no scalability just the three settings. Perhaps the current version has this.\n\nSteve",
+    "likes": 20,
+    "published_at": "2024-07-27T15:19:33Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwj7msdG_yJ5s2yF8F4AaABAg.A6P4vuJKRUcA6PEWceULkT",
+        "author": "@adventurousloner",
+        "author_channel_id": "UCwNKxuzZlutAE-qQz-4AeJg",
+        "text": "Yeah, this sounds like user error to me",
+        "likes": 0,
+        "published_at": "2024-07-27T16:43:21Z"
+      },
+      {
+        "id": "Ugwj7msdG_yJ5s2yF8F4AaABAg.A6P4vuJKRUcA6TTlKc7S_l",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice tip mate - cheers",
+        "likes": 2,
+        "published_at": "2024-07-29T08:13:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkSGw7dxkh0mIyjtF4AaABAg",
+    "author": "@doogee6157",
+    "author_channel_id": "UCNd_pLSj4VSTwJal5GOjjJg",
+    "text": "I have owned 2 quality printers and i would have to say there awful. So many prints that didn't work plus the cost of good filament which 85% ends up in the bin.",
+    "likes": 0,
+    "published_at": "2024-07-27T15:17:06Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzkSGw7dxkh0mIyjtF4AaABAg.A6P4dxEsBOxA6TTq9o2uXh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it sounds like a rethink of the model design is needed mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:14:11Z"
+      },
+      {
+        "id": "UgzkSGw7dxkh0mIyjtF4AaABAg.A6P4dxEsBOxA6U-h4ZCZsQ",
+        "author": "@doogee6157",
+        "author_channel_id": "UCNd_pLSj4VSTwJal5GOjjJg",
+        "text": "@ThinkingandTinkering well yes maybe , but all the files were created in Fusion 360 and exported for 3d printing then sliced in slicer, nuts and bolts never fitted, very disappointing",
+        "likes": 0,
+        "published_at": "2024-07-29T13:10:03Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzu7ZMraDDDDmblwWl4AaABAg",
+    "author": "@leonbarry5403",
+    "author_channel_id": "UCr0uU6z-WPmxMfEG2-hE-sw",
+    "text": "I agree about the cost prohibiting. I'm doing an Axial flux atm. I have the magnets I have the coils made up, I have the bits and bobs needed to connect everything up. But I'm having a hard time sourcing some 15cm steel disks. . Crazy prices.",
+    "likes": 1,
+    "published_at": "2024-07-27T15:14:19Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzu7ZMraDDDDmblwWl4AaABAg.A6P4KUUIH4TA6TTunfQoh_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "steel has got expensive and perfect circles even more so",
+        "likes": 0,
+        "published_at": "2024-07-29T08:14:49Z"
+      },
+      {
+        "id": "Ugzu7ZMraDDDDmblwWl4AaABAg.A6P4KUUIH4TA6WjcyfgPRm",
+        "author": "@leonbarry5403",
+        "author_channel_id": "UCr0uU6z-WPmxMfEG2-hE-sw",
+        "text": "@ThinkingandTinkering initially I had bought two acrylic discs of temu but I read a lot of information saying you needed a metal backing on the magnet rotors to direct the flux back inward.\n\nLast night I had a root through the shed and found a few older pc cases made from steel. My plan is to cut then sandwich a couple to make them more rigid. \nI had an idea to place the rough cut circles into a roses tub lid and pack the edge with some resin putty I have that can be sanded when set. \n\nI like the thought of having lovely machine cut disks but half of me loves the tinkering. \n\nFor anybody interested the wire came from two broken electric lawnmowers the connectors came from temu for pennies, the magnets came from a broken electric scooter and another broken scooter of the same I bought on Facebook market for 10 euro.",
+        "likes": 0,
+        "published_at": "2024-07-30T14:38:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwS6C56eI6cbGzIEYV4AaABAg",
+    "author": "@SpaceDeviant",
+    "author_channel_id": "UC-aUfd7SHNrIqLjYVG_pbVg",
+    "text": "Sometimes a little of both.  Using a SLS 3D printer I agree you would probably run into that far less.  There is a home build out there to cheaply build an SLS (I believe hack-a-day has one).  Time on the other hand, I'm sure it would be a huge investment.  It almost seems like those who have attempted it end up trying to turn it into a product to market, back to square one tens of thousands of dollars to average joe.\n\nA thought, perhaps someone will create an AI algorithm to adapt designs on the fly for 3D printers.",
+    "likes": 0,
+    "published_at": "2024-07-27T15:13:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwS6C56eI6cbGzIEYV4AaABAg.A6P4GUfRVaKA6TU33M5K_Q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "we can hope mate",
+        "likes": 0,
+        "published_at": "2024-07-29T08:16:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxlXiUgcszq1O7EJ0x4AaABAg",
+    "author": "@CCoburn3",
+    "author_channel_id": "UC-AF2Pb8YVVRbus89NezOBQ",
+    "text": "While 3D printers can be calibrated to get a better fit, most of us don't know how to do that and wouldn't take the time even if we did. (Most of us are lazy -- especially including me.) But even calibrated, a 3D printer is not going to create parts that are done to the tolerances some designers call for.  You're right, people need to design for the tools they are going to be using.",
+    "likes": 17,
+    "published_at": "2024-07-27T15:13:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxlXiUgcszq1O7EJ0x4AaABAg.A6P4Dp9HTeQA6TUAwc-xez",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it all depends on what you want to do - i don't mind a little 'slop' in a machine as long as it isn't important to the function",
+        "likes": 1,
+        "published_at": "2024-07-29T08:17:10Z"
+      }
+    ]
+  }
+]

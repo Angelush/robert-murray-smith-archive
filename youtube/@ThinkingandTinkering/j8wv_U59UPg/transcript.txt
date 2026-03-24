@@ -1,0 +1,212 @@
+[00:00] foreign
+[00:07] so one of the curious things about
+[00:09] motion is its relative and one of the
+[00:11] best places to show that is on the train
+[00:14] station
+[00:16] of course when we're on the station it's
+[00:18] the train that comes towards us
+[00:23] and of course when we're on the train
+[00:25] it's the station that moves towards us
+[00:28] what's moving depends on your point of
+[00:30] view but actually it's more than your
+[00:32] point of view it's actually called frame
+[00:34] of reference because this is a physical
+[00:36] real world effect it's why when I'm in a
+[00:40] car and I throw something up it comes
+[00:42] back down instead of shooting to hit the
+[00:44] back windscreen because it moves within
+[00:48] that frame of reference
+[00:49] and the same is true of wind turbines I
+[00:52] can either take them to the top of a
+[00:55] hill where there is some wind and let
+[00:56] that wind blow over them or I can take
+[00:59] it to somewhere where there isn't wind
+[01:00] and move the turbine either way the
+[01:03] rotor and the stator are going to see
+[01:05] the same Force applied to them and
+[01:07] that's because the force applied is
+[01:10] relative to the framework that it
+[01:12] operates in which is in part what
+[01:14] relativity is all about so all of that
+[01:17] came to mind because a friend of mine
+[01:18] coach Geo pointed this out to me now I
+[01:22] love the concept it's a little bit wacky
+[01:24] and I can ask the question why not just
+[01:26] use the hand crank generator but I did
+[01:28] love it because it's a turbine that will
+[01:30] work even when the wind isn't blowing
+[01:32] you basically swing it around your head
+[01:34] and use relativity I thought that was so
+[01:36] cool but when I looked at it I thought
+[01:38] there were a couple of things that I
+[01:40] wouldn't have done that way that seemed
+[01:41] to me to be vulnerabilities and because
+[01:44] I don't like to criticize people what I
+[01:46] like to do is I think I'll do it
+[01:48] differently while I just do it
+[01:49] differently and that was the inspiration
+[01:52] for this I'm thinking about attaching a
+[01:54] string in that hole at the bottom which
+[01:56] is provided and Swinging that around and
+[01:58] seeing what it gets because one of the
+[02:01] things I didn't like about the other
+[02:03] turbine was those blades seemed a little
+[02:06] bit vulnerable to me and another thing
+[02:08] that I thought was a little bit of a
+[02:09] vulnerability was the chat was swinging
+[02:11] around from the connection leads that I
+[02:13] never liked to swing things on a bit of
+[02:15] wire no I don't know why it's just one
+[02:18] of those unreasonable things I think I
+[02:20] might break the wire either way I wanted
+[02:23] to do changes to it to suit the way I
+[02:25] thought about it rather than the way the
+[02:27] chat was thinking about it so I'm not
+[02:29] saying this is better it's different to
+[02:31] suit what I think rather than a direct
+[02:34] copy of what that chap did so the idea
+[02:37] of this is obviously it's just tie it to
+[02:39] a string and whiz it around but then of
+[02:41] course I've got to collect the energy
+[02:42] somehow because here's my generator
+[02:44] wires just two wires so what I need to
+[02:46] do is stick on a rectifier Bridge and
+[02:50] then a voltage regulator and some kind
+[02:52] of energy storage device something like
+[02:55] this is stunningly easy to use so to
+[02:58] help me do this I've got a power supply
+[03:00] set at Tom 10 volts and I've got a
+[03:03] multimeter that's reading the DC voltage
+[03:06] because you're going to muck around with
+[03:07] these should already have a power supply
+[03:09] and a multimeter if you don't you
+[03:10] probably need to get one I've also got a
+[03:12] very tiny screwdriver and I've connected
+[03:14] this up and I know which is in and out
+[03:17] because it tells me which is in and out
+[03:18] and I know which is plus and minus
+[03:20] because it says plus and minus so you
+[03:23] connect it out to your voltmeter so you
+[03:26] can read the out and you connect your in
+[03:28] to your power supply so you can give it
+[03:31] the voltage that you want to give it and
+[03:33] this voltage will vary on your actual
+[03:35] application but when you're doing the
+[03:37] setting you do the setting by using a
+[03:41] stable Supply okay so it's reading 9.46
+[03:45] and that's because of the setting of The
+[03:48] Factory now we're going to total this
+[03:50] knob on the top there's a little brass
+[03:52] screw right there you pop a little
+[03:54] screwdriver in and give that a turn and
+[03:57] watch the voltage
+[04:03] so it's clockwise to increase the
+[04:06] voltage setting in anti-clockwise to
+[04:08] decrease it and that is the voltage out
+[04:10] so the voltage out will be stabilized at
+[04:12] the setting you just put and it doesn't
+[04:15] matter if this changes its voltage so
+[04:18] let's say 15 volts
+[04:22] and we still get five volt sound so
+[04:25] that's how easy something like that is
+[04:26] to use and all we do is we solder it in
+[04:30] and of course it's plus the plus minus
+[04:32] to minus so on your rectifier you'll
+[04:34] have a plus out and that goes to the
+[04:36] Plus in
+[04:38] on the voltage regulator on your
+[04:41] rectifier you'll have a minus out and
+[04:43] that goes to the minus in on your
+[04:45] voltage regulator then your plus out and
+[04:48] minus out will be the bits that you're
+[04:50] going to take to whatever application
+[04:52] you want like a battery charger a phone
+[04:54] charger something like that now we're
+[04:56] going to use this which is a hundred
+[04:58] farad super capacitor at 2.7 volts quite
+[05:02] honestly because it'll charge quickly
+[05:04] but you can use a battery in which case
+[05:06] you'd check your voltage regulator at
+[05:07] 3.7 volts or you can use a USB out in
+[05:10] which case you'd set your regulator at
+[05:12] five volts whatever it is that regulator
+[05:14] can be set we're going to set this to
+[05:16] 2.7 so we get the voltage regulation
+[05:19] charging this and that's what we're
+[05:21] going to charge up by spinning this
+[05:23] above our heads so let's solder this in
+[05:26] place and it sold Us in place
+[05:28] on the out plus to plus minus to minus
+[05:32] the idea is to swing it around collect
+[05:34] the energy and when you've got the
+[05:35] energy use it to do something like
+[05:38] charge your phone and when you've
+[05:39] charged your phone a bit swing it around
+[05:40] some more and so on so I want it all in
+[05:43] one unit where I can put a sturdy bit of
+[05:46] string or rope on here and not worry
+[05:48] about that electrical connection then
+[05:50] equally because it's a ball shape I
+[05:52] don't have to worry about shattering the
+[05:53] blades
+[05:55] Okay so we've got our super capacitor
+[05:57] strapped to the side to get our
+[05:59] Electronics in that little box now that
+[06:00] box is a little bit too small so I had
+[06:02] to make it larger I have updated the
+[06:04] thingiverse file on that though so
+[06:06] that's all done now we can charge this
+[06:08] super capacitor because we set the
+[06:10] voltage regulator at 2.7 volts and
+[06:12] there's only one super capacitor so no
+[06:14] problem at all if you want to do
+[06:15] something different like a battery for
+[06:17] instance then you would need a battery
+[06:19] control circuit but that comes after the
+[06:21] voltage regulator and of course you can
+[06:22] just buy them at Amazon for pennies so
+[06:24] not really a worry I've also attired a
+[06:27] bit of string to the bottom and I'm
+[06:29] going to step back and swing it over my
+[06:30] head and see if we can get some charge
+[06:32] out of this now I have to say now not a
+[06:35] hundred percent confident but let's give
+[06:36] it a go
+[06:53] laughs
+[07:01] I can't see if it's working but I can
+[07:04] hear it whirring a little bit so we're
+[07:05] going to give it about five minutes and
+[07:08] see if we can get some charge in there
+[07:16] okay not sure I did five minutes a
+[07:19] couple of minutes certainly we took the
+[07:21] capacitor up to 2.3 volts so for 100
+[07:23] farads that's not bad at all and it is
+[07:25] lighting this led I'm not sure if you
+[07:27] can see that in the studio lights
+[07:28] because it is a bit dim but it is
+[07:30] collecting and storing that energy now I
+[07:34] loved the concept but I'm not quite sure
+[07:36] why you wouldn't just use a hand crank
+[07:38] generator it was a lot of fun to make
+[07:40] and try and in deference to the guy
+[07:43] here's the link to his Kickstarter
+[07:45] campaign in case you want to support
+[07:47] what it is that it's doing but I have no
+[07:49] affiliation or association with the chap
+[07:52] it's just that coach Geo put me in touch
+[07:55] with it and I thought it was an awesome
+[07:56] concept and that's why we built this to
+[07:59] explore that concept because this seems
+[08:02] to work much better when the wind is
+[08:04] blowing over it and it's certainly far
+[08:06] less effort there isn't any wind well
+[08:09] you know it does make me think of
+[08:11] putting a gear on here maybe so that you
+[08:13] could attach it to a hand crank
+[08:14] mechanism so it could be hand cranked or
+[08:16] blowing but chucking it around your head
+[08:19] on a bit of string I'm not 100 sure
+[08:21] about that but it does actually work
+[08:24] anyway I hope you enjoyed the video
+[08:25] thank you very much for watching and
+[08:28] please do remember to like And subscribe

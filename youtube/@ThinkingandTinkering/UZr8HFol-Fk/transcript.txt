@@ -1,0 +1,110 @@
+[00:02] [Music]
+[00:16] so with this thing the elegant mouse 2
+[00:18] pro
+[00:19] uv msla printer it seems quite a few
+[00:23] people have been reporting that they're
+[00:24] having problems with files not printing
+[00:28] in order to resolve that problem you
+[00:30] need to think about what it is that this
+[00:31] thing is actually doing now an stl file
+[00:35] is a model file and this thing can't
+[00:37] understand it because what it needs to
+[00:39] do is it needs to create an image on the
+[00:41] lcd screen
+[00:42] the image is split into two there's a
+[00:44] clear section the white section and then
+[00:46] the black section and when the uv light
+[00:48] turns on it can go through the clear
+[00:50] section and of course it's masked off by
+[00:52] the black section where it can't shine
+[00:55] so it's a bit where the sun doesn't
+[00:57] shine i suppose but it creates a series
+[01:00] of those images that act like masks they
+[01:03] mask off with the black section the bit
+[01:05] that's not going to be exposed the white
+[01:07] section gets exposed it cures it moves
+[01:10] up a bit and it repeats that process
+[01:12] building the model by using a series of
+[01:15] masks and it needs to be able to create
+[01:17] those masks
+[01:18] now these printers they all have mono
+[01:21] screens in them well the bulk of them do
+[01:23] but of course the mono screens
+[01:25] themselves change size depending on the
+[01:28] printer they also change the
+[01:30] size going that way or the size going
+[01:32] that way and so the address of the pixel
+[01:34] is changed what that means is that when
+[01:36] the file needed to create that series of
+[01:39] masks is created it can only be specific
+[01:42] to the printer but that's not really a
+[01:44] problem with chatterbox because
+[01:46] chatterbox does offer you a number of
+[01:48] options so let's have a quick look at
+[01:50] that so we've opened chatterbox with our
+[01:52] image in it there and what we need to do
+[01:55] is click on settings
+[01:56] and when we click on settings we'll get
+[01:58] the settings profile and here we are on
+[02:00] machine you'll notice
+[02:02] we've got defaults and then we've got
+[02:03] elegu mouse 2 pro which is the machine
+[02:06] i'm using to add another printer click
+[02:08] add printer and you'll get this drop
+[02:10] down list of the various printers that
+[02:12] you can choose including the elego so it
+[02:15] not only does the ela goo section you've
+[02:17] got epacts flash forge
+[02:19] peopley frozen quiddy spark maker vox
+[02:23] lab and so on and so on and so on so you
+[02:26] choose the printer you want to pro you
+[02:29] see a pretty little image of it there
+[02:31] and it's the same for the others so if
+[02:32] you've got the creality there's the
+[02:34] image of the creality you check which
+[02:36] printer it is that you want you click ok
+[02:39] and it will add that printer to your
+[02:41] printer list once you've got that
+[02:43] printer in the printer list
+[02:47] now when you slice it it will create the
+[02:49] images you want
+[02:51] shouter box remember is the slicing
+[02:53] software you create the model in another
+[02:55] program and export it as an stl file you
+[02:59] import the stl file set chatterbox with
+[03:02] the printer that you want because it
+[03:04] needs to know what that lcd screen is
+[03:07] then it will create the series of masks
+[03:10] which is what slicing is and then it can
+[03:12] present that series of masks in time to
+[03:15] the lcd screen that's in here and that
+[03:18] cures the resin as that foot moves up
+[03:22] then it's cured with those images with
+[03:25] those masks sliced by slice and that's
+[03:27] how the model is built so if you're
+[03:29] having a problem with your print and not
+[03:32] recognizing the file format then the
+[03:35] chances are you've got the wrong file
+[03:37] format so remember it will not print stl
+[03:40] you have to slice an stl file you have
+[03:43] to slice it in accordance with the
+[03:45] printer you've got now they're out of
+[03:47] the box it comes with quite a selection
+[03:49] of printers and i'm willing to bet if
+[03:51] you have a look on the lagoo site you'll
+[03:54] see backup for other mono lcd printers
+[03:57] under that title others but
+[04:01] that was how i cured that problem and i
+[04:03] did have a look around and it didn't
+[04:04] seem to me that there was a particularly
+[04:06] clear way of people telling you that and
+[04:07] it's really just to do with
+[04:10] the way the slices are formed and that
+[04:12] when you print make those slices through
+[04:14] chatterbox you need to have set the
+[04:17] right printer so it gets the printer
+[04:18] gets the right information so it can
+[04:20] display that mask image anyway i hope it
+[04:23] was a help thank you very much for
+[04:25] watching and please remember to like and
+[04:26] subscribe

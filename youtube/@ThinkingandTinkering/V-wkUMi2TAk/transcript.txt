@@ -1,0 +1,205 @@
+[00:03] [Music]
+[00:10] hi so i get asked about these a lot not
+[00:13] lead acid in particularly but batteries
+[00:15] in themselves and the questions i get
+[00:17] asked are how can i make them live
+[00:19] longer how can i reduce the price how
+[00:22] can i get more out of them well the
+[00:25] issue really isn't so much to do with
+[00:27] the battery i mean if you think about
+[00:28] this it's about 200 years old the reason
+[00:31] it's still in use is because it's just
+[00:33] awesome i mean it has its drawbacks like
+[00:36] everything has its drawbacks so it
+[00:37] wouldn't be great if trees grew in 2.4
+[00:40] metre planks so we didn't have to saw
+[00:41] them but they don't they they are what
+[00:43] they are and this is
+[00:45] what it is it's an energy storage device
+[00:48] that does extraordinarily well and has a
+[00:49] huge history yeah if you recharge it it
+[00:53] has it gives off lots of hydrogen
+[00:55] so at this size it's not really an issue
+[00:57] but when you have a battery bank of them
+[00:58] of course you have to provide something
+[01:00] to take that hydrogen away but then
+[01:02] lithium ion has a nasty habit of
+[01:05] exploding burning into a greasy spot so
+[01:08] if all got the problems and they all are
+[01:11] what they are
+[01:12] they store energy and give it out
+[01:15] slowly and that's the issue now if i
+[01:18] were to plug a heater into this it would
+[01:20] run that heater run it for about 10
+[01:22] minutes or so and then it would die if i
+[01:24] unplug the heater and give it a little
+[01:25] bit of time
+[01:26] everything in there would have time to
+[01:28] move and if i plug the heater back on it
+[01:30] would run again for a little bit because
+[01:33] everything in here moves slowly so when
+[01:35] we take a lot of energy out of there it
+[01:38] doesn't like it it can give what it can
+[01:40] give and then it does when you remove it
+[01:42] it has time to settle out and you can
+[01:45] use it again no it doesn't like that if
+[01:47] we do that it will shorten the life of
+[01:49] the battery dramatically we put
+[01:51] something low power on there like an led
+[01:53] well it'll run for a millennium because
+[01:55] the self discharge is greater than the
+[01:57] amount of power the led is drawing so
+[01:59] it'll last for a very long time because
+[02:02] it's all moving slowly everything will
+[02:04] have time to move and we'll see that
+[02:06] this battery will last a long time and
+[02:09] that's the issue the issue isn't the
+[02:10] battery itself
+[02:12] it's the way we use a battery we use a
+[02:15] batteries it's supposed to be used as an
+[02:16] energy store and then we put demands on
+[02:19] it that the battery can't cope with it
+[02:21] so turn on a cooker or turn on the
+[02:23] washing machine or run a drill or
+[02:24] something like that and the same is true
+[02:26] in electric cars when you accelerate you
+[02:29] put demand on the battery the battery
+[02:31] doesn't like and so it gives out less
+[02:33] energy than the battery contains because
+[02:35] the speed of movement and because you're
+[02:37] stressing it it wears out much more
+[02:40] quickly now it's not only lead acid that
+[02:42] behaves like this every battery behaves
+[02:45] like this if only there was something
+[02:48] that could sit in between sit in between
+[02:51] what we use it for the load
+[02:53] and the battery so that it could take
+[02:56] the slow amount of energy the battery
+[02:58] can provide and deliver it quickly when
+[03:01] we need to have that quick delivery
+[03:04] that thing that we could sit in the
+[03:05] middle would act like a sponge soaking
+[03:08] up all that excess we could do it the
+[03:10] other way around obviously we have a
+[03:12] wind generator that's in a blowy
+[03:14] condition producing peak power and we're
+[03:16] trying to dump it into the battery the
+[03:18] battery's not going to like that if we
+[03:21] had something that could soak it up and
+[03:22] then deliver it slowly
+[03:25] that'd be awesome
+[03:26] luckily we do have something that can do
+[03:30] that
+[03:30] and that's this thing
+[03:33] this is a super capacitor it's almost
+[03:35] the opposite of a battery a battery can
+[03:37] store a lot of energy but deliver it
+[03:39] slowly this can store very little energy
+[03:41] but deliver it quickly if we stick that
+[03:45] between our battery and either our
+[03:47] generator or our load it will be the
+[03:50] sponge that we're talking about when the
+[03:52] load wants a whole lot of energy
+[03:54] straight away this can deliver it quite
+[03:56] happily when the generator peaks it can
+[03:59] absorb it so it's like a sponge in the
+[04:01] middle that can do that and then it can
+[04:03] feed it into the battery or take it from
+[04:05] the battery as needed
+[04:07] slowly
+[04:08] so the question is how do you connect
+[04:10] one of those how do you use one of those
+[04:13] well you can use it in the same way that
+[04:15] we use it to remove ripple out of
+[04:17] current usually you put a capacitor
+[04:20] there the capacitor charges first and
+[04:23] then delivers it and it smooths the
+[04:26] current that's coming out of your
+[04:27] generator and we can do exactly the same
+[04:29] thing we could just connect the negative
+[04:30] to the negative the positive to the
+[04:32] positive because the resistance of this
+[04:34] is so much lower than the resistance of
+[04:36] this
+[04:37] this will be the first one that gets
+[04:40] used or delivers the energy
+[04:43] but it's not the best way to do it
+[04:46] this is a dc-dc converter what it does
+[04:49] is takes a variable voltage in and gives
+[04:51] a fixed voltage out so if you stick that
+[04:54] between those two this battery voltage
+[04:57] will vary but then as it goes through
+[04:59] there this dc to dc converter will make
+[05:02] sure that this gets the voltage it
+[05:04] requires because this
+[05:06] charges by fixed voltage i can put that
+[05:08] voltage in there as long as i like once
+[05:11] that reaches the voltage stop charging
+[05:13] if i do that with this thing i'm
+[05:15] actually going to wear the battery out
+[05:17] if we put a dc to dc converter link
+[05:20] between the two then we'll cure that
+[05:22] mismatch and you remember in here
+[05:25] are six individual cells it adds up to
+[05:27] 12 volts they're around about two volts
+[05:29] each roundabout this is 2.7 volts so we
+[05:32] do have a mismatch of course you
+[05:33] wouldn't use one of these you'd actually
+[05:35] put a little line so it matched the
+[05:37] battery that you were feeding you put a
+[05:38] dc to dc converter in between the two
+[05:41] and that would even out the issue that
+[05:43] you might have with differing voltage in
+[05:45] your supply beard a battery or a wind
+[05:48] generator
+[05:50] okay all that seeming very rosy but
+[05:52] pretty passive it would be much better
+[05:55] if we could sense and switch and of
+[05:57] course we can do that using these things
+[06:00] this is a solid state rectifier it's
+[06:02] just a switch it takes a low power
+[06:05] control signal is able to switch off and
+[06:08] on very high powers this one is up to 40
+[06:11] amps at five to 250 volts dc so
+[06:15] that can handle an awful lot of power
+[06:19] now if we had three of those we could
+[06:21] switch that circuit using a relay
+[06:23] controller something like the millennium
+[06:25] three digital relay controller if we
+[06:28] bugged that whole thing down onto a
+[06:30] circuit then we would get a circuit like
+[06:32] this that would be able to do that job
+[06:36] these are relatively new ideas and they
+[06:38] grew up because of the car industry
+[06:40] because the car industry has exactly the
+[06:42] same problems how to get the most out of
+[06:45] your batteries how to make the battery
+[06:46] pack as small as possible how to make
+[06:48] those batteries live longer and there's
+[06:51] lots of research available on google
+[06:53] scholar for individual implementation
+[06:55] specifically
+[06:56] on home storage if you go to google
+[06:59] scholar and look up battery super
+[07:01] capacitor hybrid home storage you'll
+[07:03] find lots of examples to look through
+[07:06] there where people have developed
+[07:07] systems on this and it enables the use
+[07:10] of any battery now lead acid lithium ion
+[07:13] nickel metal hydride because it sorts
+[07:16] out that problem of lower energy density
+[07:19] it also means that homemade batteries
+[07:22] could be used because one of the issues
+[07:24] with homemade batteries is they tend to
+[07:26] be
+[07:27] slow they tend to have low energy
+[07:29] density
+[07:30] if you can implement a system like this
+[07:33] then it opens up the possibility
+[07:35] of using your own homemade batteries
+[07:37] that previously
+[07:39] probably weren't very usable anyway i
+[07:41] thought i would share that with you i
+[07:43] hope it was of interest thank you very
+[07:45] much for watching and please do remember
+[07:47] to like and subscribe

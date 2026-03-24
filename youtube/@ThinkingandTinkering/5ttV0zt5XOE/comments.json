@@ -1,0 +1,2435 @@
+[
+  {
+    "id": "Ugw-N3rIHGIcsdA1k8l4AaABAg",
+    "author": "@Ihavetruth22",
+    "author_channel_id": "UCmdwNZKcqyY_TPC3kHq0LyA",
+    "text": "Great stuff.",
+    "likes": 0,
+    "published_at": "2026-02-19T04:13:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxvY62NjGDv3TxoKvV4AaABAg",
+    "author": "@jaajram4906",
+    "author_channel_id": "UCIVENwShJF8UMyGK9mEbpIg",
+    "text": "U man may God bless abundantly b'se u are a good teacher may he give more wisdom and knowledge thanks for freely teaching and sharing",
+    "likes": 0,
+    "published_at": "2025-09-01T12:52:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgywT1sBXLPYY1y1qdZ4AaABAg",
+    "author": "@tehspamgozehere",
+    "author_channel_id": "UC2_ANGZou-hC2Rmb0TTjf8w",
+    "text": "3:20 The tilted wire. I've been trying to find some decent mag-field modeling software. One I looked at featured an animation for a motor being designed that showed the wire AND the magnet at an angle so as the  wire passes, it's fully intersecting the field from start to finish. Which explains some of the weird slanted-slats rotors I've been seeing in some fancier motors. Cuts down on copper due to no squares again and resolves the mag field strength issue, or so it seems.\n\nI want to do some experimentation with fields though. It seems to me that every permanent magnet you have in a rotor has a north and south side.. And we're only running a coil past one. Why not run a second set of coils past the other side and make use of both poles?  Better yet, when we hold two bar magnets apart N-S the mag field doesn't curve away from the poles but instead leaps across the gap. Running a coil through that gap between two banks of magnets results in the coil intersecting a stronger field and cutting through the whole field, rather than slicing across the top of the toroidal field. More field and/or thicker coil at the cost of twice the permanent magnets, or a second lighter 'guide' magnet to extend a stronger field out further perhaps?\n\nI really need some decent modeling software to tinker with. Or some of that fancy mag field visualising plastic and a bunch of magnets. And a 3D printer.",
+    "likes": 0,
+    "published_at": "2025-08-11T16:29:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxXFGROqGfVOFO_TIx4AaABAg",
+    "author": "@MikaelIsaksson",
+    "author_channel_id": "UCHXXe5VDACpL868xnNqH-sA",
+    "text": "If you wind it carefully on some styrofoam, superglue it along one edge, or something else to hold it together, then use acetone to melt the core styrofoam, you could shed some weight by getting rid of the support core.",
+    "likes": 0,
+    "published_at": "2025-05-19T17:47:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy70qg3BRb6xa_Kn0F4AaABAg",
+    "author": "@racheenighteyes5496",
+    "author_channel_id": "UCwJs2frF7SdNv56_RzvHu9w",
+    "text": "Probably a dumb question if anyone is still reading this. From what I see, getting the wire closer to the magnets is a good thing, so I was wondering, could you put it between two hot plates and melt the plastic so you lose the 3mm plastic gap between the front wire and back wire?",
+    "likes": 0,
+    "published_at": "2025-05-04T23:35:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyyiRB1f8v6p7NiCyd4AaABAg",
+    "author": "@justinwinje5398",
+    "author_channel_id": "UCI_Jz2jX6kt29AD6E7c4MRg",
+    "text": "Very cool video. I spinning some thick copper wire around a piece of 1” pipe and gonna energize it. Not sure what I’m shooting for but having fun in the process.",
+    "likes": 0,
+    "published_at": "2025-05-01T05:15:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyb4O9WHz7vbEMISvN4AaABAg",
+    "author": "@nicktipton5675",
+    "author_channel_id": "UC4UYCOD4iSNZuxVu8vnYaTA",
+    "text": "why not use a solid piece of copper?",
+    "likes": 0,
+    "published_at": "2025-04-13T04:29:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-sKe-skhWRhBJpcZ4AaABAg",
+    "author": "@floridacoder",
+    "author_channel_id": "UCGasE5bSvLBU3oZBV7WTHDQ",
+    "text": "Is there a matrix or decision tree to determine the best winding type based on your specific needs?",
+    "likes": 0,
+    "published_at": "2024-12-22T02:16:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgymRZq6HplAn0n79BF4AaABAg",
+    "author": "@JamesYounger-w6c",
+    "author_channel_id": "UCwAGqhadfxXqeE-ARK1so9A",
+    "text": "This might be a dumb question but can you use insulated wire to make a coil ?",
+    "likes": 0,
+    "published_at": "2024-12-11T18:38:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyixUgSy2VHH3vXk6h4AaABAg",
+    "author": "@steffenmutter",
+    "author_channel_id": "UCOYmyug10fJWZ2_RDbdHoCA",
+    "text": "Interesting. I think I will build one of those faulhaber coils, but I want to do it a little different. I have no idea if it will work out as intended, but it seems to me as it would make more sense if the (open) Triangle would span exacly over one Magnet (North for example) and will continue with the next (South). In addition I will give ferromagnetic PLA for the ring-plate a try to wind the coils on. That will be an interesting project apart winding those coils will probably come out as a pain in the a... doing it properly - I want 3 phase but wrapping them besides each other, not over one and another. Thrilling...",
+    "likes": 0,
+    "published_at": "2024-08-20T09:56:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6t-XYe0U0HTuV00V4AaABAg",
+    "author": "@GustavoMontoya-j6l",
+    "author_channel_id": "UCZ4bSoQUw5zU6hMpMNfVc2w",
+    "text": "Traducir a español",
+    "likes": 0,
+    "published_at": "2024-08-19T23:36:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx6t-XYe0U0HTuV00V4AaABAg.A7LC8Dz2Y7yA7LE86ssQAg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no hablo en espanol",
+        "likes": 0,
+        "published_at": "2024-08-19T23:54:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyVM8oqBDHE75NAxsp4AaABAg",
+    "author": "@Ma_X64",
+    "author_channel_id": "UCSaYHZZrPRbQQJl8UgewgBA",
+    "text": "Wow! Cool artistic whistling!",
+    "likes": 0,
+    "published_at": "2024-05-13T12:09:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgziMRnr4C1vV1qa2gh4AaABAg",
+    "author": "@jobloggs6528",
+    "author_channel_id": "UCe8tzTxbjf_BNTtfrXTFaaA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2024-05-02T01:45:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwEXftq_XQF6aaNkZx4AaABAg",
+    "author": "@diegoatzeni.",
+    "author_channel_id": "UC2AVbsgYmvmsFn8jVTMvKGw",
+    "text": "n°1",
+    "likes": 0,
+    "published_at": "2024-01-23T21:58:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygtCLD9FTnrFEy-714AaABAg",
+    "author": "@joshhoman",
+    "author_channel_id": "UCa9Jnxwy1WY5bVrqv2aMDSg",
+    "text": "Now I know why Faulhaber  moved their production to India.  Winding coils like that must be quite costly!  I can't imagine the machine that they would need to do that!",
+    "likes": 0,
+    "published_at": "2024-01-19T06:45:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxs7xrr4MTKGcKJobd4AaABAg",
+    "author": "@chehystpewpur4754",
+    "author_channel_id": "UCmzh70LvJmOaHwIxmWJyMWg",
+    "text": "its the old 6 point star we seen in every old culture. and now we know why they regarded it. it was a power device and we seen it taken out of context. they were like yeah we dont need explanation cause theyll still be using it...",
+    "likes": 0,
+    "published_at": "2023-12-24T06:11:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy40kxVgxEjTich4P94AaABAg",
+    "author": "@Naturalcrusader",
+    "author_channel_id": "UCwkvdoUgTp93jbbSwKWS0fQ",
+    "text": "1) what about angling the magnets also, either with it opposite the copper? \n2) what about making a longer axel on it and putting two coil types one to pick up the low wind and one to pick up the higher wind? \n3) advantage/disadvantage of one phase vs three?  Why not more than three if three is better than one?",
+    "likes": 1,
+    "published_at": "2023-11-11T12:56:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwe6MuSBWPO71QnoG94AaABAg",
+    "author": "@chrissavill8713",
+    "author_channel_id": "UCFwOY2E8dTdF-zIZnhTH5nQ",
+    "text": "Litz wire is used in the tone arm of record players.  It's normally in higher end decks.",
+    "likes": 0,
+    "published_at": "2023-10-19T15:42:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxmMbW2QZG-wpgNshJ4AaABAg",
+    "author": "@seancole7087",
+    "author_channel_id": "UCTKeHBDxuHp802mVit-FcFw",
+    "text": "I have been trying to figure out how to make my farm more self-sufficient and this channel has basically all the ideas I've thought of with actual testing them. I absolutely need to get a 3D printer and get started. I have plenty of room to do both wind and solar I was previously convinced wind was outside my grasp, but not anymore ❤",
+    "likes": 0,
+    "published_at": "2023-10-09T15:26:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhYjdm2xCOCsJRPlN4AaABAg",
+    "author": "@JaimeHuertas-po8hy",
+    "author_channel_id": "UCnxm2Mt0kuMt8zOufOnGBFw",
+    "text": "wow. I have a question.... what happens if the plastic is replace with a core of metal?\n Thanks",
+    "likes": 0,
+    "published_at": "2023-08-14T21:30:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxw8yPoh3Rx0rwEXnZ4AaABAg",
+    "author": "@colinnesbitt7093",
+    "author_channel_id": "UCWvz6PbCg7ROPWexxw-MYcA",
+    "text": "This is the first time I've seen your program, I've been looking at many that are producing 220 vAC power. Bur the star winging gave me an idea, the suggestion I have is if the Magnets were made in the shape of the star windings, then they would have the star windings at the correct orientation to the magnetic force 100%of the time. Then I there was another star winding on the same shaft using the other pole of the magnet there would be in opposite phase. Use one of the phases to drive the electric motor to turn the generator and the other phase to use to operate other machines and lighting. I haven't looked at how magnets are produced but they come in various shapes so how much a star winding would cost an of course demand.",
+    "likes": 1,
+    "published_at": "2023-06-12T07:48:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOmofBmR38f0ZmEZJ4AaABAg",
+    "author": "@manuagarwal5689",
+    "author_channel_id": "UCJ83-2HBKDfDm5_VhE8PjyQ",
+    "text": "This is nice Rob! Can you also show how to make a radial flux coreless stator? Im fascinated by slotless/coreless winding with the faulhaber pattern!",
+    "likes": 0,
+    "published_at": "2023-06-04T06:51:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8P5oN2o8JAJmt5f94AaABAg",
+    "author": "@rickhalverson2252",
+    "author_channel_id": "UCXPzoqjhUq3WsEVXU-YGtqQ",
+    "text": "Very cool. I would think a huge advantage of individual coils would be that each phase is wired in series. So load capacity increases proportionate. The interconnects can be larger wire. Much less resistance, less energy wasted as heat. It's like a 100 ohm vs 1000 ohm. This may save winding time though. Unless i'm seeing it wrong... that's a long resistance wire; It must be vastly larger to now handle the entire load. Individual coils do not have to carry every load in front of it. That would take some serious large amperage wire.",
+    "likes": 0,
+    "published_at": "2023-05-09T20:04:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_LFcgvMBYdtwhpyt4AaABAg",
+    "author": "@johnhopkins6260",
+    "author_channel_id": "UCeEUrasWAYhzZ-EfOhR83wg",
+    "text": "As opposed to manually passing the spool of wire through the center of the plexi former (frame), will this work by using pins(in lieu of notches), on one side on the former/frame?",
+    "likes": 0,
+    "published_at": "2023-05-03T14:53:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwffJKLJDlUXs3OYs94AaABAg",
+    "author": "@chaorrottai",
+    "author_channel_id": "UCH0uF6KeCGygTvvaMRoKPeA",
+    "text": "Speaking of coils, any one else wonder why we still wind coils mono-fillar when it was discovered over 100 years ago, that winding the coils bi-fillar creates capacitance inside the coil itself and power-factor corrects the coil extremely efficientlly?\n\nI did, I read the patent and was like \"Oh that make sense, just make this one simple change to the manufacturing process and we automatically make every machine on the planet more efficient.\"\n\nThe other thing, about the coreless motors and generators makes sense because, with nothing for the magnets to be attracted to, there's nowhere where they want to \"stick\" so you don't have to fight that. After I'm done my current project I was actually thinking of making a bi-fillar panckake coreless generators/motor. Want to bifillar pancake set-up to make the most of the air/epoxy core before it atennuates too much, then the generator/motor will be automatically power factor correted and I should have a really efficient machine! It'll be a brushless PM-AC motor/generator and since it uses bifillar coils, if I tune the coil length right, I should be able to get the generator coils to resonate if I get the rotational speed right.",
+    "likes": 0,
+    "published_at": "2023-04-28T12:48:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynL30qTw05kfiJPzF4AaABAg",
+    "author": "@colemcleod941",
+    "author_channel_id": "UCjNMNE5tpGA0b1rtlZgb25g",
+    "text": "If more classroom teachers taught with the same joyous enthusiasm as you, students would learn much better than they do, Because you teach love OF the subject, not just the subject - and you do that with your sheer unbridled exuberance, demonstrating your love for what you're doing. Once someone is hooked by love for a subject, there's nothing they cannot learn About it. That is your gift.",
+    "likes": 3,
+    "published_at": "2023-04-26T22:07:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtF7m6pIe_73s0eVl4AaABAg",
+    "author": "@davidewing9088",
+    "author_channel_id": "UCijLD3Lw3T1zSKetCWICNkw",
+    "text": "I love your channel",
+    "likes": 0,
+    "published_at": "2023-04-09T02:12:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxeci7JabDdno8AKzx4AaABAg",
+    "author": "@chuckthebull",
+    "author_channel_id": "UCxCZ-0NeRGaG0cEdB2h604A",
+    "text": "just had a thought to cock the magnets staggered the same degree to parallel the coils? but i see the problem there too would be the next coil would have less effect.or would it?",
+    "likes": 0,
+    "published_at": "2023-04-08T20:17:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyp1Ef2DLLiY4fH5lB4AaABAg",
+    "author": "@ejrupp9555",
+    "author_channel_id": "UCgBK54WY5WJ0_T994t1EI3Q",
+    "text": "Would a rhomboid shaped magnet on an angle that matches the angle of the wire help anything? So that the over lap of the wire is the same or maybe 90° rotated so that the magnetic field to wire angle is always 90°?",
+    "likes": 0,
+    "published_at": "2023-04-07T18:56:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy6qGO5-UAc5gyoy-B4AaABAg",
+    "author": "@rfiskillingussoftly6568",
+    "author_channel_id": "UC5m1A5TeqSEgfbdkQ2O4ohQ",
+    "text": "Have you tried the Rodin coil?",
+    "likes": 0,
+    "published_at": "2023-04-06T22:01:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwtORx9ej160fnj3zx4AaABAg",
+    "author": "@ihtsarl9115",
+    "author_channel_id": "UCDmlxsySH24E3CMoeROHLYg",
+    "text": "Appreciate taking your  time to show this process Thank you",
+    "likes": 0,
+    "published_at": "2023-04-02T06:10:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzD5oTshR9Ne7vnVCF4AaABAg",
+    "author": "@johndingman879",
+    "author_channel_id": "UCS0vEEqUwajSfY0PaNms57g",
+    "text": "I was wondering the same as Matt Hatt and commenter response.  If the magnets are angled is that where the diamond and rhomboid coil shapes come into play?  Really dig this info, thanks.",
+    "likes": 0,
+    "published_at": "2023-03-31T18:21:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyx68uxYq7UhUmucf14AaABAg",
+    "author": "@robdagenais3023",
+    "author_channel_id": "UC2lD9A0EgNMAgjyfPQAIUHw",
+    "text": "can magnetic float bearing",
+    "likes": 0,
+    "published_at": "2023-03-31T13:36:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgypRwPa5A6q7c9TStZ4AaABAg",
+    "author": "@bernardmacniak9431",
+    "author_channel_id": "UCPEKQMQMgrHnKkUYnOVEx9Q",
+    "text": "wow .. this man is legend .. i love his videos .. so much info ,,. and trhe enthusiasm hahaha i love it. Thank you for all your work and sharing wid us sir.",
+    "likes": 0,
+    "published_at": "2023-03-25T08:48:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzqr3dmBoFq3vcK_ol4AaABAg",
+    "author": "@ClownWhisper",
+    "author_channel_id": "UCrQVopd67OnwpMyLTSP73Sw",
+    "text": "I have wondered and I have not tested this I'm gonna make excuses but it is true I am very disabled . Would it work do you think just off the top of your head to take a coil single layer wild like a slinky the toy? And fanned it out like a deck of cards into a circle around your apparatus. Seems like it might have electrons collide YouTube always being North and South at the same time but I don't know if I'm understanding this scenario correct. I just figured I would ask",
+    "likes": 0,
+    "published_at": "2023-03-17T08:19:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzVVLmlpddx5YbOIh54AaABAg",
+    "author": "@robgad2271",
+    "author_channel_id": "UCVeayZlwdQaqIPb84ANxtxQ",
+    "text": "Correct and good explanation of where and why to wind the coil in  this spacing and angle based on the magnet size  and not just any angle or location of without a logical spacing.",
+    "likes": 0,
+    "published_at": "2023-02-25T04:34:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxy82gNbjJGCHzH0Ld4AaABAg",
+    "author": "@w8lvradio",
+    "author_channel_id": "UCucq4RJ_aEy6515NsNPLtQw",
+    "text": "And when you start getting into diamond shaped coils, and every wave is an e-field and and h-field, you see the same thing evolving into fractal antennas. So I wonder if a more fractal pattern will make for a better generator? 73 DE W8LV BILL",
+    "likes": 0,
+    "published_at": "2023-01-31T06:05:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwyZi-rAk9Ri0hHhwN4AaABAg",
+    "author": "@jzeerod",
+    "author_channel_id": "UCZCuY0k7SOtBQ-R5G5w2iUA",
+    "text": "you need to make the spindle of ramsbreath attached to the ferroloc wound in such a way, introduce a lode stone at certain points around your spindle mounted on a shaft.",
+    "likes": 0,
+    "published_at": "2023-01-30T15:36:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyszVRlKUvJzFO0Sch4AaABAg",
+    "author": "@marz.6102",
+    "author_channel_id": "UC6NtauuS2Jrk93KWZsIiR-A",
+    "text": "Educational as always, thx for sharing this, thx for uploading,\n\nAlso don't forget not to get burnout and pace yourself if truly needed!",
+    "likes": 0,
+    "published_at": "2023-01-30T06:25:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXK7_Wr4V8SGKMO194AaABAg",
+    "author": "@westwashere2214",
+    "author_channel_id": "UCeOFHqh6DmPUoKABW5IeVYQ",
+    "text": "I'd like to see a generator made with Harbor freight magnetic tool holders. approx 18 inch magnet. will many of these holders together possibly work?",
+    "likes": 0,
+    "published_at": "2023-01-29T19:38:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyENc1-m-Oe-BzAasF4AaABAg",
+    "author": "@johnrobert3883",
+    "author_channel_id": "UC2CFNUN23AcICt_ussyxNvA",
+    "text": "I've read some articles that you just extend the steel up above the part that hang out and make sure magnets at them too and you can gain 10 to 15% efficiency on your motor so it really wasted coils if you do this? I have a few of these motors smaller from Japan but have a way higher power 2 size ratio than other motor similar size. but dual axle flex is definitely the way to 30-40% more torque the equivalent rated radial motors. I have a 96s32p beast I'm winding now",
+    "likes": 0,
+    "published_at": "2023-01-29T04:25:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwYfuJwrM0oMZqp3Qt4AaABAg",
+    "author": "@dadygee",
+    "author_channel_id": "UC_EzGWaVG-Ry3EZ49ry3vDg",
+    "text": "Have anyone ever made an electric motor with both magnet and coil spinning and all it does is drain power.. nothing gets moved but those two.\nMaby for a gyroscope or something.",
+    "likes": 0,
+    "published_at": "2023-01-27T08:14:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwBu1JV1UjWwXf9gmR4AaABAg",
+    "author": "@markhonea2461",
+    "author_channel_id": "UC31xZ3ADmulPv_3R9G7ficA",
+    "text": "Lap wound or wave wound. Unsure how it's inductivity is affected in xfmrs but no one seems to care during diy motor winding. \nBut I am way off topic.",
+    "likes": 0,
+    "published_at": "2023-01-26T22:38:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKDAvpWEMWRegCRpV4AaABAg",
+    "author": "@nathanrice1796",
+    "author_channel_id": "UCCWzb9GJn7eDTAuX2b6inzQ",
+    "text": "I think some automobile alternators are wound that way.",
+    "likes": 0,
+    "published_at": "2023-01-26T02:43:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyaIoj4ZJ3imc0SF8B4AaABAg",
+    "author": "@sorindumitru6101",
+    "author_channel_id": "UC41jDAjpb70WLObD_5nDNpg",
+    "text": "Munca lui Sisif!!",
+    "likes": 0,
+    "published_at": "2023-01-24T11:28:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwKBeC021I4s8nfmf94AaABAg",
+    "author": "@jwc4520",
+    "author_channel_id": "UCadNzMXRCt7QrVvkI1OcQsQ",
+    "text": "Spent a large part of my adult life working on electric motors, up to 6000 horsepower, they tend to dim the lights on the entire grid when starting .  Have had many an adventure, survived enough to retire. I'll have to watch this over to determine a use for your motor concept. Look forward to learning new concepts . The motors I deal with now are mostly on little flying things, that are being slowly outlawed. Why they are worried about the threat of small flying things now but ignored a German saboteur,  who worked just down the road, kinda confuses me. Heck as a young man I shipped many a large black airplane kit to embassies,  American  only, now 50 years latter they are dangerous ... and China makes all the parts , lol .",
+    "likes": 0,
+    "published_at": "2023-01-23T03:23:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw5_XMWFqYVyB01z0B4AaABAg",
+    "author": "@dampandrew",
+    "author_channel_id": "UC0qTA-kDNU-fyCJtEcK6vug",
+    "text": "Im fascinated with coils and antennas and I am amazed by the sounds of my handmade AM radios as I tune the channel",
+    "likes": 0,
+    "published_at": "2023-01-23T02:14:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4AykrzZo2-Y0D3RB4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "It is not as though you can use a three dimensional coil and spinning ferrrofluid to make a generator.",
+    "likes": 0,
+    "published_at": "2023-01-23T00:24:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxgHuQoa1bbFmjrWMx4AaABAg",
+    "author": "@mikeadler434",
+    "author_channel_id": "UCwvX_0wATBeld8C4Xz6mQbg",
+    "text": "👍👍",
+    "likes": 0,
+    "published_at": "2023-01-22T21:05:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxNWow-yiiaRm-BD2R4AaABAg",
+    "author": "@SirHackaL0t.",
+    "author_channel_id": "UCRk5TwHPmj65GPmaM_CM2rw",
+    "text": "If you cut the wire at the edge you can make a bobble for a hat. 😂",
+    "likes": 0,
+    "published_at": "2023-01-22T20:08:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwN4PoyLlnbkmZVC4J4AaABAg",
+    "author": "@mrnobody2873",
+    "author_channel_id": "UC_60dDhBpkIAIAZTey6O2QA",
+    "text": "Can you  run multiple windings in layers one for speed and one for torque then switch the circuit to the desired coils depending upon the need for speed or torque?",
+    "likes": 0,
+    "published_at": "2023-01-22T16:44:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw8f8BfGa4bi6wGtWl4AaABAg",
+    "author": "@77thTrombone",
+    "author_channel_id": "UChD6IrtRnCwwIKxdn8K03dw",
+    "text": "Wow.   Seems to be a great channel.  There is insufficient time to satisfy all my curiosity.  3 minutes in, I'm seeing an exemplary presentation by a skilled teacher.  I don't expect to be back, but I wish the best to the channel!",
+    "likes": 0,
+    "published_at": "2023-01-22T15:41:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwgzwlXrgrgTeMrnx54AaABAg",
+    "author": "@knarf802",
+    "author_channel_id": "UCaNIV_W1R9J_QS-y3efUQcw",
+    "text": "thats great, this is how ive been doing my litz wire for years. makes great matched load windings too, within limits.",
+    "likes": 0,
+    "published_at": "2023-01-22T05:47:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZOSUjgzMHwsxj2wd4AaABAg",
+    "author": "@Yaman-D-Chhaya",
+    "author_channel_id": "UCzu578KU4hlPXKvY3a4Cd2w",
+    "text": "Hi Rob Sir this came much in time I am working with a windmill project these days, will share images soon 🙏🏻🙏🏻",
+    "likes": 0,
+    "published_at": "2023-01-22T03:32:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxM5rwKsBVKkkr83QR4AaABAg",
+    "author": "@JonM-youtube",
+    "author_channel_id": "UCrTqxXFqq122SLYRgN3VBNQ",
+    "text": "I work for the company that \"invented\" litz. When it was explained to me exactly what litz is, my immediate thought was \"wait, it's just magnet wire in a bunch lay?\" I don't think it's particularly special, but the company advertises it like it's made of gold and solves all electrical problems. We charge way more than we should for it and companies gobble it up. Enameled wire in a group really isn't anything special.",
+    "likes": 0,
+    "published_at": "2023-01-21T22:30:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxM5rwKsBVKkkr83QR4AaABAg.9l9vdgiAk-j9rLbnUQ9IlX",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "Maybe not special, but convenience always seems to come at a higher price. If your product is in demand, good for you!",
+        "likes": 0,
+        "published_at": "2023-06-24T14:36:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxlEmuvQJk0g0iR2Td4AaABAg",
+    "author": "@lionlinux",
+    "author_channel_id": "UC_jj5u42YW3UsfhadjPM8RA",
+    "text": "Thank you very mush.. that was wonderful explanation",
+    "likes": 0,
+    "published_at": "2023-01-21T16:20:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyG8M8LdoPmVLX9Qw54AaABAg",
+    "author": "@peterwright4224",
+    "author_channel_id": "UCsyihNX7At-wnLUBClE4Fxw",
+    "text": "Robert pse DM me on messenger I think I can widen your horizons",
+    "likes": 0,
+    "published_at": "2023-01-21T12:07:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwQqe45lqKrkdz4oYV4AaABAg",
+    "author": "@heartobefelt",
+    "author_channel_id": "UCd7i6mqTvMAXj-EDe72HObQ",
+    "text": "Very interesting RMS , I am looking forward to seeing how options in phases / pole count can affect horsepower / torque outcomes for EV use.\nThere are many successful pancake style axial flux motors being developed recently . :)  woohoo",
+    "likes": 0,
+    "published_at": "2023-01-21T11:46:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwI0DXVCYyDXtZRcKV4AaABAg",
+    "author": "@NeverTalkToCops1",
+    "author_channel_id": "UC2ACqn7qLo217UisLYEhhuw",
+    "text": "This man developed the process of whacking a gallium arsenide semiconductor with a block of wood to create the first UAP de-cloaking sensors.",
+    "likes": 0,
+    "published_at": "2023-01-21T08:14:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzS6fHi1_j6LCL08N94AaABAg",
+    "author": "@electrake2063",
+    "author_channel_id": "UCkdxkPaGcEckPLYylsEX47w",
+    "text": "@4:09, it’s hard to understand how people with a technical understanding get basic terminology wrong.  You meant to say “more energy”, not more power.  Getting a high peak power means nothing really - but getting consistently more energy does.",
+    "likes": 1,
+    "published_at": "2023-01-21T01:12:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_8Yf971r0q2ZDhBV4AaABAg",
+    "author": "@thomassutrina7469",
+    "author_channel_id": "UCS_c-12jRyyuTi5VobdG2JA",
+    "text": "Mechanical engineer for an Aerospace company that makes generators. And designed PM and switch reluctance machines. That plastic disc significantly decreases fielded strength. Heat up the coil to melt the disc and then extrude the plastic through the coil to remove its thickness from the air gap.",
+    "likes": 0,
+    "published_at": "2023-01-20T23:22:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw3O8i0EDAdvPF5WmF4AaABAg",
+    "author": "@rondoc1936",
+    "author_channel_id": "UC8zb-k4ZLd3X-jSeZl7KK2Q",
+    "text": "If you make the core from a water or alcohol soluble material you could remove the center . This will make the coil thinner and that allows for thinner magnets. I have a design like this that uses three windings one for each phase.\nNice job explaining basic electrical phenomenon.  Thank you.",
+    "likes": 0,
+    "published_at": "2023-01-20T19:32:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugywoi2l2wU1gVzeBX14AaABAg",
+    "author": "@wYatt121509",
+    "author_channel_id": "UCgntGG8dcICEycuRWu6BRZA",
+    "text": "Great info as usual. I appreciate the education kind sir.",
+    "likes": 0,
+    "published_at": "2023-01-20T19:18:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0IdBUEu01T2BzK_h4AaABAg",
+    "author": "@Metaldetectiontubeworldwide",
+    "author_channel_id": "UCxdkj2WEJHcd_F0cge3yFTQ",
+    "text": "Hi i'm curious , if it would benecial for netaldetecting coils ?\nHigher magnetic density and less copper = weight , sounds imo VERY GOOD\nwe swing ower coils thousands of times a month  manualy around , to search old relics and coins.\nRealy would l9ve to hear your advice .\nThsnks well done budy ☆☆☆☆☆\nGrts from the netherlands \nJohny geerts",
+    "likes": 1,
+    "published_at": "2023-01-20T19:09:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyf2R3yzMAlFuRDaq54AaABAg",
+    "author": "@draganignjatovic4812",
+    "author_channel_id": "UCdGCLrf3nUuhZ6cJv7up_cw",
+    "text": "If the copper is at an angle to he rotational direction, say at 45 deg, the usable length will be sqrt(2) times the length, so that 41% is wasted. This amount may as well be positioned in the overhang position( end windings) wit the wires straight. You cannot rally win. Thank you.",
+    "likes": 0,
+    "published_at": "2023-01-20T15:12:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwRoUVw85ww9dAJC-14AaABAg",
+    "author": "@TheKaos90",
+    "author_channel_id": "UCUO_NDzcfKSHG5gj1fqhcmw",
+    "text": "Coreless motors/generators would be an interetsing topic for me as it implies I could 3D print the housing/stator assembly and have it all be just PETG, the magnets and some copper",
+    "likes": 0,
+    "published_at": "2023-01-20T13:42:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwKiCia3MY0TJ8TbLp4AaABAg",
+    "author": "@jacobe2995",
+    "author_channel_id": "UCMj9wrPGTs0S0di9A53w5JA",
+    "text": "I must have unsubbed from you by mistake. youtube recommended a video from you and I noticed.",
+    "likes": 0,
+    "published_at": "2023-01-20T13:23:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyDH4PEhoNkvo5pW6Z4AaABAg",
+    "author": "@vanhetgoor",
+    "author_channel_id": "UCfQmoHrlGOuH00C9WGYqNgg",
+    "text": "I was thinking, if a coil has the maximum magnetic influence on a magnet when it is diagonal and less influence when it is at the corner tip of the magnet then the magnetic field must be diagonal too. Else it would be that the field and the magnet are not in position with each-other. Shifting or rotating one of the two will not have a positive effect on the effectiveness. \n \nNOT ALL GERMAN scientists have created real scientific work AUTOMATICALLY! For instance, Aether was invented to get the theories in line with other assumptions, and actually it does not do anything, nor does it exist.",
+    "likes": 0,
+    "published_at": "2023-01-20T09:55:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzpHqhqa_etstY3Vgd4AaABAg",
+    "author": "@ddegn",
+    "author_channel_id": "UC8CcZBzDa2o2lYq-uLMkuZA",
+    "text": "I'm pretty sure this is NOT Litz wire. Litz wire isn't just twisted together. Each strand needs to spend equal time inside of the bundle and outside of the bundle as every other strand in the bundle. Real Litz wire is much more difficult to make.",
+    "likes": 0,
+    "published_at": "2023-01-20T03:10:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugye4bsKpJjaVafIGs14AaABAg",
+    "author": "@stephenrocks7004",
+    "author_channel_id": "UCr5soVM1g0AJrn4tCdarhAA",
+    "text": "As a master electrician for over 45 years I have been exposed to many different electrical projects.\n  I majored in chemistry and received my master electricians license in the 90s . \n   You have presented a new idea with motors and magnetism I salute you.And I will have many sleepless nights understanding what you have described.\n   Post script: I am working on a DC /AC motor based on similar principles .  LOL like for the last 45 years.! LOL",
+    "likes": 0,
+    "published_at": "2023-01-20T01:27:07Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugye4bsKpJjaVafIGs14AaABAg.9l55HEQqjwZ9lO_OSI9qss",
+        "author": "@funnycatvideos5490",
+        "author_channel_id": "UCs_s6raW00wBUan4_sSlahA",
+        "text": "This is an extremely common star delta been around for a century or more",
+        "likes": 0,
+        "published_at": "2023-01-27T15:04:33Z"
+      },
+      {
+        "id": "Ugye4bsKpJjaVafIGs14AaABAg.9l55HEQqjwZ9lOy99i0Zon",
+        "author": "@stephenrocks7004",
+        "author_channel_id": "UCr5soVM1g0AJrn4tCdarhAA",
+        "text": "@funnycatvideos5490 Unfortunately I’ve only been around for 67 years lol",
+        "likes": 0,
+        "published_at": "2023-01-27T18:40:55Z"
+      },
+      {
+        "id": "Ugye4bsKpJjaVafIGs14AaABAg.9l55HEQqjwZ9lP-Mbw6Lac",
+        "author": "@stephenrocks7004",
+        "author_channel_id": "UCr5soVM1g0AJrn4tCdarhAA",
+        "text": "Hint by obtaining fine copper, ( Cu2So4 + Fe203) creating aluminum channels in the rotor and exciting the copper in oil in those tubes were the Centrifugal force creates a flow, etc. some luck but time is short.",
+        "likes": 0,
+        "published_at": "2023-01-27T19:00:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFN_GFg3R5Ezf_-3d4AaABAg",
+    "author": "@hkkhgffh3613",
+    "author_channel_id": "UCX6Pt5hxP9Ima01bx9lqQCw",
+    "text": "Wicked!",
+    "likes": 0,
+    "published_at": "2023-01-19T17:57:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3FaM1lBrJjagXHGV4AaABAg",
+    "author": "@isettech",
+    "author_channel_id": "UCe7QJploJamzgiyCEnat1Ng",
+    "text": "I have a bunch of the Maxon DC motors. They are insane for response n servo applications. With no iron in the winding, the start, stop, and position response is really quick with good torque and very little change in torque for the current in the rotation. It is as close to a rotary voice coil drive as possible to get in a motor.  Older motors unfortunately get clogged up with carbon from the brushes as most are sealed for clean applications, so the dust is trapped inside leading to the eventual failure. Similar tech is now using AC permanent magnet motors for servo application in robotics.",
+    "likes": 0,
+    "published_at": "2023-01-19T06:12:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwrqkO97F9KmlDdEAd4AaABAg",
+    "author": "@ManyHeavens",
+    "author_channel_id": "UCqYhhfobGsY-2ffKqwkz5Pg",
+    "text": "we haven't even begun to use\nSuperfluids.",
+    "likes": 2,
+    "published_at": "2023-01-18T18:01:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx43B2ffLOsBO5zhNF4AaABAg",
+    "author": "@ManyHeavens",
+    "author_channel_id": "UCqYhhfobGsY-2ffKqwkz5Pg",
+    "text": "why don't you make a flux capacitor, induction motor\nwill run off Anything, even Cans ,Trash, even coke bottles Hot, Hot.",
+    "likes": 1,
+    "published_at": "2023-01-18T18:00:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzySc2uERnav24fuqJ4AaABAg",
+    "author": "@angrydoggy9170",
+    "author_channel_id": "UCUFRl2asOGOt4zvWWmZ8XDA",
+    "text": "This brings me back to my school years. My physics teacher made me wind all kinds of coils for loosing a bet or discussion and sometimes as an alternative punishment for being a bit of a prick. Good times. He’s still my favourite teacher.",
+    "likes": 2,
+    "published_at": "2023-01-17T21:07:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzy_ArfGg9hbHwg-Kh4AaABAg",
+    "author": "@Blue.star1",
+    "author_channel_id": "UCblQfqCKISIDQs3EFCbG0ew",
+    "text": "Can we use single phase,  dc motor, brushless 10kw, magnets rotate , no slip rings , instead of 3 phase bldc",
+    "likes": 0,
+    "published_at": "2023-01-17T07:40:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxHT8Jpa67QjxCELA94AaABAg",
+    "author": "@BlazingShackles",
+    "author_channel_id": "UC1_XeFtUtR7XwS4OOI1oSUQ",
+    "text": "you didnt make Litz wire, you made stranded wire. wheres the individual sheathing?",
+    "likes": 2,
+    "published_at": "2023-01-16T19:13:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxb8g0k8D8tL8x3RNV4AaABAg",
+    "author": "@andypag1071",
+    "author_channel_id": "UCDK-eVK-DqbJO129iIOqIDA",
+    "text": "Do you have a video about resins? I'm using epoxy to rebuild a stator, but I'm worried about it's ability to dissipate heat. What are the options?",
+    "likes": 0,
+    "published_at": "2023-01-15T23:09:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzNZ-f2WKRf-2BmH7F4AaABAg",
+    "author": "@joehernan3544",
+    "author_channel_id": "UCLnBys5pem6On5m69c03TdA",
+    "text": "Could I use a coil like that for a metal detector? min 8:41",
+    "likes": 0,
+    "published_at": "2023-01-14T15:39:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztPozYYcfxKmpadT54AaABAg",
+    "author": "@daveherd6864",
+    "author_channel_id": "UCC5dGU1VmC7GrskoeUwvpBg",
+    "text": "i deal  a lot with coils to but not for generators or motors but for metal detecting we have a lot of discussion about it whats better basket loop dual you name it but i still havent found a good way, the thing is its so simple energise the target then listen to the result whats hard about that but it has to happen less than 50 microseconds or you wont detect gold so you need the coil to be quiet so you need to dump all the ringing and capacitance thats built up less that 50 microsecond using damping resistors so its not so simple after all but there must be a better way other that resistors to do it",
+    "likes": 0,
+    "published_at": "2023-01-14T12:17:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzjlJqqnmhWu5tku9F4AaABAg",
+    "author": "@sailingmohican2767",
+    "author_channel_id": "UCSTQZ8IxT1vyoN3C4YPj4OQ",
+    "text": "This may sound crazy but I thought of a copper/ ferrofluid in a flat tube as the conductor/ coolant all in one, mabe the flow would increase mag field or cancel it depending on polarity just a thought 🤔 I had this idea years ago and haven't had time to experiment with it",
+    "likes": 0,
+    "published_at": "2023-01-14T02:03:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxrI8yt8OuO1THQs2R4AaABAg",
+    "author": "@gregmilstead1369",
+    "author_channel_id": "UCgagu6tBMNbtKSmYFYm4PzQ",
+    "text": "Why couldn't you put the magnet at an the same angle as the wire is?",
+    "likes": 0,
+    "published_at": "2023-01-13T14:32:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyopQ839JqSG23qit94AaABAg",
+    "author": "@7sArts",
+    "author_channel_id": "UCKUK6GtDxH25HSNzXDgL3Aw",
+    "text": "Robert, you should test Tesla’s patent re ‘coil for electromagnets’. You may find some really interesting power increases. If you are so inclined, you should also see how he uses it in his other patents. You might find he was a master puzzle maker. A few pieces missing of course, can’t give the JP Morgan’s of the world a treasure map.",
+    "likes": 0,
+    "published_at": "2023-01-12T22:41:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyirXnVuZkeG_r-0Vh4AaABAg",
+    "author": "@originsdecoded3508",
+    "author_channel_id": "UCEfi1JB2NOqWfSq4f3Hu4BA",
+    "text": "To think one of those roles of copper drums he has is thousands of dollars. And this star pattern designs which increase voltages is giving me some insights into Ancient Star Forts found around the world. Shape modulates voltage and energy flow and them Star Forts might actually have been built as some kind of giant Generator.",
+    "likes": 0,
+    "published_at": "2023-01-12T21:07:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwU8rpWOQkpw4sedDp4AaABAg",
+    "author": "@g0fvt",
+    "author_channel_id": "UCWGwrPnGzNfUWCgBu7rN6qg",
+    "text": "A useless bit of information, terminating Litz wire was often done using a spirit lamp with an opening in the tank, heating the end of the wire and then plunging the hot wire into the meths to strip the individual conductors. Then the ends are ready for soldering. Nowadays of course a lot of enamel wire is self fluxing so no need for this process.",
+    "likes": 0,
+    "published_at": "2023-01-12T19:59:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxw0Mk9Hb6nNncx_qJ4AaABAg",
+    "author": "@yowild9629",
+    "author_channel_id": "UCl5Nzag-VG1hyA8G5VO9LnA",
+    "text": "permanent magnet \nBifilar winding could be used to trap the magnetic field in the wire so it becomes a electromagnet / designed poles as you want \nso it can become corless magnetless rotor. calculated length to the wire relation to frequency you aim at to spin is the hardes part. \nfor that smooth run. as negative resistor that feeds in the back emf (usless / usefull current ) frequency . \nswiching system to make a magnetic sucking effect .on / off . so it attracts. & when it pass that point swiches of by collected voltage / solid statate or sensor tipe system .",
+    "likes": 0,
+    "published_at": "2023-01-12T11:49:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwcsYFFmz29A0Yl_jZ4AaABAg",
+    "author": "@Badgii",
+    "author_channel_id": "UCFGd54cJ4tFTS7Qs-WzWtWQ",
+    "text": "I think I still didn't get it from your description how to separate the winding into those two coils. I thing that some picture might really help here.",
+    "likes": 0,
+    "published_at": "2023-01-12T10:42:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTXOWRdnnXCKNadBZ4AaABAg",
+    "author": "@CottonTailJoe",
+    "author_channel_id": "UCEXqsTwoxvzRTBFfaouaNtw",
+    "text": "I have always wondered why don't they just use a solid piece of copper instead of wire? That way its all even enclosed and the correct shape. I know there is probably a reason, but I have never found an answer for this. Great video! Cheers.",
+    "likes": 0,
+    "published_at": "2023-01-12T01:50:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTXOWRdnnXCKNadBZ4AaABAg.9klXYQby7HH9rLYU1TB9YZ",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "The number of windings transiting the magnetic field at the same time (as much as physically possible) multiplies the output voltage. A solid block of copper would be like a single wire. With multiple windings, the magnetic field pushes electrons in the same direction, adding power with each winding of the wire. Do note that the windings are electrically insulated from each other. When a motor or generator burns out, this insulation can be melted away, resulting in a single block of copper and essentially a short circuit.",
+        "likes": 0,
+        "published_at": "2023-06-24T13:58:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzH4fw4ZgCyYcVmjaB4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome 👏",
+    "likes": 1,
+    "published_at": "2023-01-12T01:36:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyllQ9HOAIIl_QbVHR4AaABAg",
+    "author": "@hadleybee9710",
+    "author_channel_id": "UCWpIWmmTqtfPt46yMwzK4Dw",
+    "text": "Delightful Sir!",
+    "likes": 0,
+    "published_at": "2023-01-11T19:48:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyG7Rbnnj3aWEdsQVF4AaABAg",
+    "author": "@peterfelecan3639",
+    "author_channel_id": "UCVdKr43mky1YF4F9SdycH9A",
+    "text": "As former president Clinton would say-it: it's about topology ...",
+    "likes": 0,
+    "published_at": "2023-01-11T18:51:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxdaAXRpelAR9HtNAV4AaABAg",
+    "author": "@ProlificInvention",
+    "author_channel_id": "UC1IN2VQpsjvfw6N5y6jaXrw",
+    "text": "Can you show how to make a DIY Marx generator capable of millions of volts?",
+    "likes": 0,
+    "published_at": "2023-01-11T18:06:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJIsUotshPrYOZVJ14AaABAg",
+    "author": "@zylascope",
+    "author_channel_id": "UCphMk5-_5d-DivOnXDBgbhw",
+    "text": "I wondered why the little drone motors had that kind of coil/wrapping pattern. But never looked into it. Thanks, Rob! :)",
+    "likes": 4,
+    "published_at": "2023-01-11T18:05:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxcqcbyGpfYmzXLOY94AaABAg",
+    "author": "@pacmandrugs",
+    "author_channel_id": "UCgRbXi2-Vqx_hhnXKj5xC3w",
+    "text": "Dollar store earbuds are a great source for extremely fine litz wire. Just skin the cord. I was using individual strands for repairing pcb traces.",
+    "likes": 0,
+    "published_at": "2023-01-11T16:02:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxQszWk-wNSt7Mxs3Z4AaABAg",
+    "author": "@alt3241",
+    "author_channel_id": "UCPXsEVojQBbMw7tyoVLYu3w",
+    "text": "With more phases you get less ripple , if you rotate the coils and your diode array the diodes can be arranged so that while spinning they get air cooling , such an arrangement can have output through sliprings with multiple brushes on each ring to minimize electrical noise that can be minimized with small capacitors and because of the low ripple smaller filters ( my favorite being a voltage follower set to a voltage below the ripple ( completely eliminating power ripple capacitor ) ) to no filters are necessary for direct utilization .",
+    "likes": 0,
+    "published_at": "2023-01-11T14:29:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxEr_B8AzTkblbmfhh4AaABAg",
+    "author": "@cookinsteve9281",
+    "author_channel_id": "UCep5VGNS7bcvMZS4YtGG5gw",
+    "text": "What happened to the sputtering at the end of the intro music? Ends so abruptly :(",
+    "likes": 0,
+    "published_at": "2023-01-11T13:48:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyAnpYLsRZMHrVBfx4AaABAg",
+    "author": "@andypat2775",
+    "author_channel_id": "UC15w_IGosIDoujcX-3MeCbg",
+    "text": "Rob, something I’ve been thinking about for a while, but could you get more current out of that arrangement if you made both the coil and the magnets counter rotating? Like double the speed of magnet across coil? Just curious…",
+    "likes": 1,
+    "published_at": "2023-01-11T13:33:04Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxyAnpYLsRZMHrVBfx4AaABAg.9kkDCPaQj2a9l0Tkxm4jmd",
+        "author": "@James-L-83",
+        "author_channel_id": "UCwPQ6_i7ABFxM9IYQ1JBXbA",
+        "text": "One way to increase velocity and rpms would be to make the coil a larger radius and add more windings. That way you could avoid losses due to gearing and weight/complexity. Have you checked out planetary gearsets? I think that would be what you need for counter-rotating magnets, it would be more compact but lose some of the power to friction.",
+        "likes": 0,
+        "published_at": "2023-01-18T06:24:49Z"
+      },
+      {
+        "id": "UgxyAnpYLsRZMHrVBfx4AaABAg.9kkDCPaQj2a9l1KAbxpvWJ",
+        "author": "@andypat2775",
+        "author_channel_id": "UC15w_IGosIDoujcX-3MeCbg",
+        "text": "@James-L-83 Hi James, that’s true about increasing the friction, but I got the idea from the spitfire’s contra rotating propellers, and I’m sure they got more speed out of them.. it would be ok I guess if despite the increased  friction there was still more power, but I don’t know as I have never built one and am not set up for it… would be a great project for TNT though!",
+        "likes": 1,
+        "published_at": "2023-01-18T14:20:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQqStCwP1Q-F52aIx4AaABAg",
+    "author": "@davidwhite-vh2rr",
+    "author_channel_id": "UCY5vzYZV7uMp_KiHGxCf1rg",
+    "text": "Excellent Robert Murry Smith, what great initials you have. RMS. I'll be very interested to see your Generator with the Faulhaber coil fixed and rotating magnets. And very interested in what Wire AGW  and turns etc you use and what power of Magnets you use. You've given me loads of enthusiasm to DIY rather than anything bought of the shelf.",
+    "likes": 0,
+    "published_at": "2023-01-11T13:27:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzNDNGrIW-6eOhhv-Z4AaABAg",
+    "author": "@williamphillips2415",
+    "author_channel_id": "UCZ5A4cCg2GoPilV49_2BJkw",
+    "text": "OMG Rob you made Star Gate...😃! Is Earth going to get attached by Aliens now 😂!   Plz say yes.",
+    "likes": 0,
+    "published_at": "2023-01-11T12:32:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5gdkGjrPtW9QlDSN4AaABAg",
+    "author": "@frankrothe7023",
+    "author_channel_id": "UC3Vhe5JAV6rdaZv1G-v67cQ",
+    "text": "Dear Robert, as much as I admire your videos I have to criticize your timing now. If you were a little bit faster, just say about 20 days you could have used your half-ready star-wired disc as a formidable Christmas tree top-ornament! ... Oh what a bright bronce/copper shine that might would have been ... 🤔 ...\n\n😉🙋🏻‍♂️",
+    "likes": 0,
+    "published_at": "2023-01-11T12:09:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9TNnunaPTDzoIBxN4AaABAg",
+    "author": "@qmangillett",
+    "author_channel_id": "UCqC68F0eBOjAEzdLDomp4nw",
+    "text": "I am extremely glad I fell upon your channel. The subjects you talk about are always interesting, and informative. Keep up the great content creation.",
+    "likes": 1,
+    "published_at": "2023-01-11T10:21:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-dSOOfBAOkz-eDWR4AaABAg",
+    "author": "@janbeute4902",
+    "author_channel_id": "UCL09PwC9LActKobO9rzT7dQ",
+    "text": "Think slowly approaching TESLA free energy",
+    "likes": 0,
+    "published_at": "2023-01-11T09:52:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9Cfj_UTYz7Wlvlxd4AaABAg",
+    "author": "@tolsen4893",
+    "author_channel_id": "UCsWJTn2sZCQ7apQQ-FuGa_A",
+    "text": "Fascinating! Looking forward to seeing how it all works out!",
+    "likes": 2,
+    "published_at": "2023-01-11T09:02:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJ4TdSaBTwey0Lkax4AaABAg",
+    "author": "@joellagace1679",
+    "author_channel_id": "UCTRRfV5LtvSsOBIBa3ccuww",
+    "text": "You have too many videos lol im looking for the one where you make batteries out of paper and conductive paint and I can't remember the name its so frustrating lol.",
+    "likes": 0,
+    "published_at": "2023-01-11T08:08:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxzE_FvJn0GXylVRy94AaABAg",
+    "author": "@SimonPlatten",
+    "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+    "text": "Am I’m being stupid?  I don’t see how any style of winding makes any difference when the wire isn’t insulated so isn’t the end result the same as if you melted the wire down and transformed into a solid structure?",
+    "likes": 0,
+    "published_at": "2023-01-11T07:50:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxzE_FvJn0GXylVRy94AaABAg.9kjax48-3OD9kjcTNXsN1r",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the wire is insulated - it's enamel coated",
+        "likes": 1,
+        "published_at": "2023-01-11T08:03:20Z"
+      },
+      {
+        "id": "UgxzE_FvJn0GXylVRy94AaABAg.9kjax48-3OD9kkLH3zhoeE",
+        "author": "@SimonPlatten",
+        "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+        "text": "@ThinkingandTinkering now it makes more sense, thank you",
+        "likes": 0,
+        "published_at": "2023-01-11T14:43:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw7mpo4ac0_9wNC-8l4AaABAg",
+    "author": "@wizrom3046",
+    "author_channel_id": "UCTqUtzkaQe1PbD7MqhMYVgw",
+    "text": "The problem with trying to harvest low wind speeds is that the power contained in the wind is a function of wind speed cubed.\nSo if your local wind is 4m per sec, you only get 1/8 of the power compared to if it was 8m per sec. Doubling the wind speed gives you 8 times the power.\nSo to harvest low wind speeds with any decent result means MASSIVE surface area to catch the wind. And the working surface area of the turbine is very expensive being (probably) the highest cost of the enture turbine.\nIf you seriously want to get usable,power generated from 4m per sec winds, I think you should be focusing on building very large turbine area very cheaply, and the type of electric generator etc is almost irrelevant (provided you gear it at the optimum ratio).\nAnd there is a reason why commercial windpower operations dont try to harvest low wind speed areas... 🙂",
+    "likes": 1,
+    "published_at": "2023-01-11T07:39:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyF02EIPAhR3rqaAEF4AaABAg",
+    "author": "@awheeles1",
+    "author_channel_id": "UC7AsGdL9TVZ7-k22dCbsMWw",
+    "text": "Keep up the good work mate ;)",
+    "likes": 0,
+    "published_at": "2023-01-11T07:15:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgylDKwqCbKiE32fhp54AaABAg",
+    "author": "@dariusj33",
+    "author_channel_id": "UCqfQ3fhX75zqbEgd4W9HC-w",
+    "text": "For the central piece I think I'd go with sandwiching the coil disk with two more acrylic or whatever disks. 1. protects the coils from accidental touches to the stator/rotor (and damaging the coating), 2. more stable central axis when it's threaded through 2 points further from each other, 3. easier access to the coils should they require maintenance (compared to glueing the central disk in), 4. completely rules out the need to know the inner diameter (or outer, for that matter), 5. keeps the coils compressed and in shape at all times, and prevents winding slips on the acrylic disk (which could damage the coating).",
+    "likes": 0,
+    "published_at": "2023-01-11T06:58:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0jl6Ni_9Kz0ghS514AaABAg",
+    "author": "@SasquatchTrevor",
+    "author_channel_id": "UC_JJZTYFMqmaImfccwzzibw",
+    "text": "Awesome!",
+    "likes": 0,
+    "published_at": "2023-01-11T06:26:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwlEkZKX-j3vVFHKQJ4AaABAg",
+    "author": "@af0ulwind",
+    "author_channel_id": "UCOnUD1_h-dVC7vBEjOQq9rw",
+    "text": "problem with your star coil like most other coils is that every time you cross the wires you create impedance.\nthe entire reason why a current is created by a moving magnetic field is that the field reorients the alignment and paths of the electron orbitals of the conductive metal...the reason skin affect is a thing is that the thicker the metal the more atoms sharing valent bonds have to fight with each other to orient their orbitals when the field passes by them...  the best coil will be one where the wires never change the direction they are moving... more importantly they never cross one another",
+    "likes": 0,
+    "published_at": "2023-01-11T05:45:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLHLnmXk8mMvU3dlZ4AaABAg",
+    "author": "@Twistedmetal-qe8kx",
+    "author_channel_id": "UCkSYIDkJte109QqAXq1XuLw",
+    "text": "Beautiful winding",
+    "likes": 0,
+    "published_at": "2023-01-11T05:17:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyzzVc6-eUrEMpLlLN4AaABAg",
+    "author": "@fransmurati2370",
+    "author_channel_id": "UCKcS0rhNyDy1vj-98gUC3yw",
+    "text": "Patience is a virtue😄",
+    "likes": 0,
+    "published_at": "2023-01-11T04:46:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwqXDihKMLBpXiSpD14AaABAg",
+    "author": "@Digidoc316",
+    "author_channel_id": "UC9YO2MXWSUonPFZ2v07GraA",
+    "text": "Fascinating! Never saw a Faulhaber winding before!  How would it perform against a rewired F&P washer motor?",
+    "likes": 0,
+    "published_at": "2023-01-11T04:40:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwHOGwZ4Fx0WCc-_z94AaABAg",
+    "author": "@stevenfaber3896",
+    "author_channel_id": "UCViZ7pKDKY4MwTordPqYa0A",
+    "text": "Great video, but I'm confused a bit on how magnet wire is litz wire capable. Is each \"wire element\" coated already?",
+    "likes": 0,
+    "published_at": "2023-01-11T04:19:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwHOGwZ4Fx0WCc-_z94AaABAg.9kjDrGVuJyO9kjKf7SaojQ",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "Yes it has to be so the speaker coils work",
+        "likes": 0,
+        "published_at": "2023-01-11T05:19:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykGhkTDMRETO3ry8p4AaABAg",
+    "author": "@rayg436",
+    "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+    "text": "Awesome build if you put 1 on each side of the magnets disk and spin the magnets turn 1 of the coils 11 degrees out of sink with the other you should have a very clean output. might  be worth giving it a try . Another great video Robert cheers mate.",
+    "likes": 3,
+    "published_at": "2023-01-11T04:14:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy9yoi1nDIv0VPYtA54AaABAg",
+    "author": "@anthonygregory3022",
+    "author_channel_id": "UCzf-iUXnOOL-YiBvj_KvZcw",
+    "text": "You have gone black screen",
+    "likes": 0,
+    "published_at": "2023-01-11T04:08:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwcEJBAsF_3GjxhQ1J4AaABAg",
+    "author": "@sultanast",
+    "author_channel_id": "UCsZDrlOA-YN4WuZZVQ2mVeQ",
+    "text": "Very good, indeed! Thanks Rob. Waiting for the next  fascinating videos.",
+    "likes": 0,
+    "published_at": "2023-01-11T03:21:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyK2ufRSnGma-yB9UJ4AaABAg",
+    "author": "@victoryfirst2878",
+    "author_channel_id": "UCEA42l13uiXOq9ry4BPsklg",
+    "text": "I am wondering how much increase in the electrical efficiency you will get with the Litz wire Robert. I am just amazed with all the amount of experimentation that is happening these days some has not found a super way of super efficiency. \nLook forward to see what you will come up next Sir. Good day too. vf",
+    "likes": 0,
+    "published_at": "2023-01-11T03:05:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQhz4ivIDdvgwASmZ4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "Forming the resin would be really super easy, put mold release in the bottom of a cake tin [if the diameters allow it] or some similar sized pan [of course it would be helpful to know in advance so you can find a pan the size that matches your coil] even a pizza pan might work, albeit you might need one made for deep crust, and some restaurants have round server's trays with lips on them that might also work.\n\nBut if none of those are the right size, just put some waxed paper on the top of a smooth board and cut a hole in a matching sized piece of board, and line its edges with waxed paper, and maybe rub just a little bit of bee's wax or softened candle wax into the gap between the boards so the resin does not run out, and you should be ready to place the coil and pour.\n\nOf course be sure you have your slip ring arrangement already prepared and attached, as well as safely masked off so epoxy does not get on them and have to then be removed later.\n\nA couple of small lengths of copper pipe slipped over some PVC pipe, slipped over a metal axle would give both connectivity, insulation and strength.\n\nThen slip those into a pair of bearings, and on one end add a pulley, or chain sprocket or gear, or fan blade, or water turbine.\n\nOf course finding the best working speed might take some tinkering.",
+    "likes": 1,
+    "published_at": "2023-01-11T02:56:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqCqJyHcJukiCM9Xx4AaABAg",
+    "author": "@brettmciver432",
+    "author_channel_id": "UC5uTl0619Q5NzG7H1boHVmQ",
+    "text": "Can't you have the stator and the rotator revolve in the opposite directions?\nInstead of the stator being stationary have it rotate? Will that work?\nWhat about mixing the diameter of the  wires? Have a thin wire in between the larger wire in the gap formed by the 4 larger wires?",
+    "likes": 0,
+    "published_at": "2023-01-11T02:50:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz_pfX1YpVHcz1YIWV4AaABAg",
+    "author": "@3dprecisionscanning55",
+    "author_channel_id": "UCst5Vhx2jHlP-DCffaUDkQw",
+    "text": "Oh great I can not whistle so how in the world do I make one of these if I can not whistle like you?",
+    "likes": 0,
+    "published_at": "2023-01-11T02:49:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygsCSQY4I2ktM3XHB4AaABAg",
+    "author": "@JohnnyAtlas",
+    "author_channel_id": "UCGOFW7tN7wPay6wx81lWl2g",
+    "text": "After this Great Series maybe DIY coil tester like motor shops use and I don't mean an ohm meter or Megger.",
+    "likes": 0,
+    "published_at": "2023-01-11T02:14:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwSy37MSTniOLZF9ad4AaABAg",
+    "author": "@shanealexander9952",
+    "author_channel_id": "UCBuRKPcIph51Js4zPu_MtQA",
+    "text": "Cool",
+    "likes": 0,
+    "published_at": "2023-01-11T01:58:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZ7iinalqIE17blh14AaABAg",
+    "author": "@paulwright8378",
+    "author_channel_id": "UCQcUhUPhBM5YQojLuulnK_Q",
+    "text": "Could it be done with 2 halves of a circle then you're not passing it through that hole every time if you know what I mean to make it easier",
+    "likes": 0,
+    "published_at": "2023-01-11T01:36:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyiWalQfiir5d2TGFx4AaABAg",
+    "author": "@DanielbenDaniel",
+    "author_channel_id": "UCx8tgDTfaxnfvPm-kZe15Rw",
+    "text": "Did i miss sumthing?  Do you have shiny Moles in England 🇬🇧",
+    "likes": 0,
+    "published_at": "2023-01-11T01:24:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwXYl_iLB--moCUAU14AaABAg",
+    "author": "@Chris-yo4ks",
+    "author_channel_id": "UC5U7tiVdWczDqMVWPINhmZA",
+    "text": "Should you want to make a 3ph version, would there be an advantage to 3 identical coils and have 2 sets of magnets? It seems to me that should a fault happen in one coil, it could be replaced instead of scrapping a coil with all 3 windings combined. It seems to me that there is potentially an increase of magnetic field.....perhaps additional sets of magnets would be needed on the outer as well to keep the fields even across the coils.",
+    "likes": 0,
+    "published_at": "2023-01-11T01:15:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwmPDVijSgriOuQX094AaABAg",
+    "author": "@jc021286",
+    "author_channel_id": "UC_UmSxFx1G4y9WEB2J7L37g",
+    "text": "Why not spin both in opposite directions?",
+    "likes": 0,
+    "published_at": "2023-01-11T01:06:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5EiwF8puW0lDwDMF4AaABAg",
+    "author": "@8ank3r",
+    "author_channel_id": "UC_8w58bflRGWjE4krHNv_vg",
+    "text": "Can you go into how to align the magnets to the coils so that you make the best use of the magnets without working against yourself? (generation wise)",
+    "likes": 0,
+    "published_at": "2023-01-11T01:03:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyxyKcDLS5etblIIUB4AaABAg",
+    "author": "@maxkennedy5073",
+    "author_channel_id": "UCaZKpxNAV_Fr744TXcsYfTQ",
+    "text": "The field may be intersecting at an angle and so weaker on a per strand basis but is that still true if you maintain the same amount of copper?  Using the wasted copper of the standard or serpentine coils means you'd have more strands per section in the Faulhaber coils so would that compensate for the weaker field interaction?  Would it be a net gain, a loss or just equal?  Thought experiment, 10 strand flat coils, 1 at a 30 degree angle like the Faulhaber coils and 1 vertical like a standard coil.  Magnets the width of the 10 strand coils at 30 degree angle.  As the coils pass over the magnet the total length of copper for the vertical coils is a little under 2x the Faulhaber from when it 1st comes onto the magnet to when the last leaves.  However the total length of the wire in the regular coil where 60% is not used is 2.5x the length of the wire over the magnet (did the math for both a 30-60-90 triangle and the regular coils as each strand entered and exited the magnet.) whereas the Faulhaber coil is only 1.15x the length of the regular coil portion over the magnet.  So for each strand of the regular coil you can have about 2.2 coils of the Faulhaber.  All other things being equal this seems to indicate the same length of copper in the Faulhaber as in the regular coils would give 10% more energy than the regular motor and still be far lighter without the iron.  Now there's a LOT I don't know about electromagnetism so if there's something I am missing, which I deem likely, please edumacate me.  Thanks.",
+    "likes": 0,
+    "published_at": "2023-01-11T00:58:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwwdy8tcDWc1ulOuvh4AaABAg",
+    "author": "@Drjtherrien",
+    "author_channel_id": "UCqTuwOthFwLWDP6slHCjkTQ",
+    "text": "I don't know why I thought making Litz wire would be harder than this.",
+    "likes": 0,
+    "published_at": "2023-01-11T00:56:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUqLcMm6NmRe12raB4AaABAg",
+    "author": "@scotts.2624",
+    "author_channel_id": "UCEPjXSUxMJmqQ9dHHjDg8YQ",
+    "text": "3:01 I wonder what a triangular magnet would do. Lay them in alternating points zig zag like.",
+    "likes": 0,
+    "published_at": "2023-01-11T00:46:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyUqLcMm6NmRe12raB4AaABAg.9kiqWydWfhV9rLcTfQARZv",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "Arc segment magnets would address the gaps quite nicely.",
+        "likes": 0,
+        "published_at": "2023-06-24T14:42:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyjQoa7QZlocAG9BWN4AaABAg",
+    "author": "@davenooner2142",
+    "author_channel_id": "UCqXuN32vSdVle2_0HINc7rw",
+    "text": "Very cool...Thank You !!!",
+    "likes": 0,
+    "published_at": "2023-01-11T00:39:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw49rfE4XOZGlRfZi54AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "Ty!",
+    "likes": 1,
+    "published_at": "2023-01-11T00:19:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzVmA-osrisdb3z4uZ4AaABAg",
+    "author": "@TrueSighted",
+    "author_channel_id": "UCE2J62dfay8u0zjTvDt3pTw",
+    "text": "Spinning like billy oh huh? 🤔😅 And thank you again for another wonderful english euphemistic expression to add to my vocabulary. Lol\n\nThanks for the rundown.",
+    "likes": 0,
+    "published_at": "2023-01-11T00:16:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPIGw6f1s9jd2gFk14AaABAg",
+    "author": "@kmoecub",
+    "author_channel_id": "UCbT0-G6dshz5-v90dRkq8hg",
+    "text": "One of the traadeoffs not mentioned is about what's needed when spinning the coil. A pair of slip rings. And a pair of brushes for said slip ring. Both parts add complexity and maintenance. Nothing at all wrong with that, but tradeoffs. Always tradeoffs.",
+    "likes": 0,
+    "published_at": "2023-01-10T23:54:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyPIGw6f1s9jd2gFk14AaABAg.9kikTd5TfCj9rLawEGN41_",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "10:51 Rob did mention it. :-)",
+        "likes": 0,
+        "published_at": "2023-06-24T14:28:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyhAY4eHpaYQRQDqRd4AaABAg",
+    "author": "@KronosGodwisen",
+    "author_channel_id": "UCWihwwWM5API2GgZxfcH2lA",
+    "text": "That makes a rather pretty winding. It will be interesting to see how it performs.",
+    "likes": 0,
+    "published_at": "2023-01-10T23:50:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-mmRr7aMW1GW6FjN4AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "Thank you. 👍👍🐝🌞",
+    "likes": 0,
+    "published_at": "2023-01-10T23:49:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwis8BVecSKoQhTKYx4AaABAg",
+    "author": "@badWithComputer",
+    "author_channel_id": "UCME0JOhvbT_aMeqBF6UiFvw",
+    "text": "Have you heard of Rodin Toroidal Coils? I hear they are popular with the free energy crowd. Very complex and unproven to be any better than a standard coil.",
+    "likes": 0,
+    "published_at": "2023-01-10T23:36:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwK_VjMXrSLikE-9ut4AaABAg",
+    "author": "@davidl.howser9707",
+    "author_channel_id": "UCHI42u8YAAnXBl_MTsnjmHA",
+    "text": "As interesting as Infinitum Electric which is now Infinitum and the Aircore Mobility electric motor.",
+    "likes": 0,
+    "published_at": "2023-01-10T23:18:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxW7uDB2zUAwm2QUyB4AaABAg",
+    "author": "@Spinningininfinity",
+    "author_channel_id": "UCAdVqI-6ruR_as6KcwEG5QA",
+    "text": "You're a STAR.\nToo late for Christmas, but they would have made great halos (don't fret, just winding you up 😁)",
+    "likes": 1,
+    "published_at": "2023-01-10T23:17:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxW7uDB2zUAwm2QUyB4AaABAg.9kigGKuQcVB9kjKm1L0pC2",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "Lol",
+        "likes": 0,
+        "published_at": "2023-01-11T05:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw97mJMVwsjLCFS2IF4AaABAg",
+    "author": "@5roundsrapid263",
+    "author_channel_id": "UCKeGGykGcvqpKgUHS6ZwPdg",
+    "text": "Zigzags are the most efficient shape for UHF TV/radio antennas, too. I’ve built several designs, and I get the best gain with them.",
+    "likes": 0,
+    "published_at": "2023-01-10T23:12:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwPB_lgdiZCPaY3BEJ4AaABAg",
+    "author": "@dexterdixon2000",
+    "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+    "text": "Hi Rob. Love the Litz wire - great stuff. I’m struggling slightly with the geometry of the coil - maybe I’m missing something and you can clear it up? I would have thought there would have to be some sections of the coil which had no copper - to allow for the ac to flip direction? If I’ve understood the method correctly (other than the litz providing 10 turns in parallel) everything is in series (you just kept wrapping). I can’t see how the magnetic field is going to be changed in the coil as the magnets rotate past it. I thought you had to have (say) north poles over the coils all at once then a gap then south poles over the coils all at once. By spreading the phase to cover the whole sheet of acrylic don’t you have all of your norths and souths all acting simultaneously on different parts of the coil which will cancel out any emf?",
+    "likes": 2,
+    "published_at": "2023-01-10T23:11:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwPB_lgdiZCPaY3BEJ4AaABAg.9kifZH9M5hG9kk6bu6ROJf",
+        "author": "@JehuMcSpooran",
+        "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+        "text": "I'm having the same trouble visualising this too.",
+        "likes": 0,
+        "published_at": "2023-01-11T12:35:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy94Ys2RKBCCbXSs554AaABAg",
+    "author": "@sokol",
+    "author_channel_id": "UCJC_NZwj1qGT0H7JY0Xcxbw",
+    "text": "I got there from trying to make balancing robots, and telescope aiming systems.",
+    "likes": 0,
+    "published_at": "2023-01-10T23:00:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtFC7PEb0dnqP4M1p4AaABAg",
+    "author": "@capthappy345",
+    "author_channel_id": "UCSxwjVwdKG9TchGQYurZHqQ",
+    "text": "What if u spin both in opposite directions",
+    "likes": 0,
+    "published_at": "2023-01-10T22:55:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw4rEwRFbFeQ0WTAzx4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Looking forward to seeing the results. Very cool Rob!",
+    "likes": 2,
+    "published_at": "2023-01-10T22:54:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbkFOlwHEJRcfmnud4AaABAg",
+    "author": "@skampp",
+    "author_channel_id": "UCv_-s83LvXaO_PNZd0R0WHQ",
+    "text": "Hey so as you say, everything is a tradeoff.  What do you gain by applying the resin?  I've seen it done but have no idea the magnitude of the impact.  Are we talking fine margins improvement or, hey, you really should always do this improvement?",
+    "likes": 0,
+    "published_at": "2023-01-10T22:53:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzbvnQ02co9fYAZ-BZ4AaABAg",
+    "author": "@fredcaveman3892",
+    "author_channel_id": "UCvKdgi-t2zQEtHEJ6Rba7hw",
+    "text": "Good, 100% agree! Thank you:o)) Try a \"Star Coil\" may be bifilar!   Cheers, great video",
+    "likes": 0,
+    "published_at": "2023-01-10T22:48:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx8PxVqiAmeCBaAVwF4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "But , don't you have areas of wire not covered by a magnet? Then isn't that a wasted area at that instant in time? But wind turbines don't have high frequency current, its less than 200 hertz. What good is litz wire then?",
+    "likes": 0,
+    "published_at": "2023-01-10T22:29:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxx3aQZJ31gIihxbaN4AaABAg",
+    "author": "@luiscarlosdestefani2715",
+    "author_channel_id": "UCzmhLaUeeezg1V5K5F8R7eg",
+    "text": "That Liz wire was sold in comerce for radiotecnics named antena wire very useful for GALENA RADIOS in the pastime.",
+    "likes": 0,
+    "published_at": "2023-01-10T21:57:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxC7bx2dfUPcNjToLx4AaABAg",
+    "author": "@luiscarlosdestefani2715",
+    "author_channel_id": "UCzmhLaUeeezg1V5K5F8R7eg",
+    "text": "THE SUPERETHERODINE RADIOS OR WIRELESS USED THAT TIPE OF COIL IN THE STAGES OF INTERMEDIARY FREQUENCIES in a range OF 275 Kc tô 475 Kc AND it was named \"Honey Comb\" coil in order tô dimmnish the counter motor electro force the Lenz Law in these frequencies.",
+    "likes": 1,
+    "published_at": "2023-01-10T21:45:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgydVs_qWTtWGIaLy0p4AaABAg",
+    "author": "@mattg6472",
+    "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+    "text": "Robert please look at the Newman motor as a generator . It has only one coil with a magnet inside of it spinning. Soo Corless  and very simple and no wasted copper.  Perhaps ignore the \"free electric \" nature of Newman himself if necessary",
+    "likes": 0,
+    "published_at": "2023-01-10T21:38:13Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "UgydVs_qWTtWGIaLy0p4AaABAg.9kiVvsZN8ad9kkBXnnFa7D",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "Not Newman again, arrggh",
+        "likes": 0,
+        "published_at": "2023-01-11T13:18:31Z"
+      },
+      {
+        "id": "UgydVs_qWTtWGIaLy0p4AaABAg.9kiVvsZN8ad9kkdzTAw99G",
+        "author": "@mattg6472",
+        "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+        "text": "@justtinkering6713 I know I'm not a Newman fan either . Whats wrong with that coil / magnet arrangement for home generation . Like I said forget Newman and his \"free\" electricity . . He still has a working motor or generator. Spin the shaft and voltage comes out like any generator .",
+        "likes": 0,
+        "published_at": "2023-01-11T17:35:50Z"
+      },
+      {
+        "id": "UgydVs_qWTtWGIaLy0p4AaABAg.9kiVvsZN8ad9kkeJ6c903_",
+        "author": "@mattg6472",
+        "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+        "text": "@justtinkering6713 does that particular coil / magnet arrangement not work well as far as output or efficiency? I see one interesting thing about that arrangement is it looks to be producing pure sine wave",
+        "likes": 0,
+        "published_at": "2023-01-11T17:38:39Z"
+      },
+      {
+        "id": "UgydVs_qWTtWGIaLy0p4AaABAg.9kiVvsZN8ad9kkiC6KkLzf",
+        "author": "@mattg6472",
+        "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+        "text": "@justtinkering6713 awe bro you could have just said 1561 instead . Why not be helpful ? I do t get it",
+        "likes": 0,
+        "published_at": "2023-01-11T18:12:39Z"
+      },
+      {
+        "id": "UgydVs_qWTtWGIaLy0p4AaABAg.9kiVvsZN8ad9kl2hOf34nR",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "@mattg6472 okay, I'll check it out too. I just connected the Newman name with hokum. LoL",
+        "likes": 0,
+        "published_at": "2023-01-11T21:20:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwFzWou9Vye129Er8B4AaABAg",
+    "author": "@Dr_Wrong",
+    "author_channel_id": "UCBpWQqbi3DTHl1GTF2com-A",
+    "text": "This is disk is effectively a toroidal coil though..",
+    "likes": 0,
+    "published_at": "2023-01-10T21:17:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzebXb4SWdhQDakYol4AaABAg",
+    "author": "@maxv-o6u",
+    "author_channel_id": "UCtLQGoqiXDpW2iH3-My_duQ",
+    "text": "Love the extra detail and information about how stuff works and showing it almost all the way through. ❤ keep it up!",
+    "likes": 13,
+    "published_at": "2023-01-10T21:17:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPsXRP4oEVQGOShyp4AaABAg",
+    "author": "@wubwub89",
+    "author_channel_id": "UCmZD5pGnVXovnIvX-JpOBEQ",
+    "text": "As some others have alluded, changing the geometry of the permanent magnets can provide an excellent trade off for additional torque, both with angles and overall sizes (reduced distance between poles, more poles per cycle, lower kV [for simplicity], higher relative torque vs the opposite). One should also consider, assuming this is an academic conversation, that changes in the current geometry must also change the thrust geometry, so in instances like this demonstration (and as another user has pointed out about power tool stator geometry that use FB coils), one may potentially lose more than they gain to friction without a carefully tuned alignment. Again, this is almost purely academic, food for thought, makes hardly any (if any at all) difference in concept demonstration and learning, but it can make a fair difference in industrial or infrastructural scales. I suppose the real question... Really is whether or not a given design in the real world can maintain electrical, mechanical, and thermodynamic efficiency above the cost of copper saved. The amount of motors I've repaired, handled, I have definitely seen a fair bit of poor, low budget executions that still work, and that's sometimes frustrating because the real cost to do it right for a given application (better?) Is about the same. It just doesn't make sense to me as a reasonable corner to cut, circumstantially on a precision motor; RM-S's explanation enforces this, IMO. \n\nThank you again, another great video. Cheers from across the pond.",
+    "likes": 2,
+    "published_at": "2023-01-10T21:15:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxRLmwkhyCPZj_2kQl4AaABAg",
+    "author": "@Dr_Wrong",
+    "author_channel_id": "UCBpWQqbi3DTHl1GTF2com-A",
+    "text": "Hypothetically; \nIf the magnetic flux side-penetrates the disk, it may produce opposing electron flow, ending generation.\nIf instead one used steel wire, it's own magnetic permeability may block flux penetration.\n\n\nOr a high permeable disk, metglas, silicon steel, Permalloy, etc..",
+    "likes": 0,
+    "published_at": "2023-01-10T21:07:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxRLmwkhyCPZj_2kQl4AaABAg.9kiSSQRiUps9kk82I2Mgjd",
+        "author": "@JehuMcSpooran",
+        "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+        "text": "Yes, but iron or steel can also bend the magnetic field too. Check out how guitar pickup coils work.",
+        "likes": 0,
+        "published_at": "2023-01-11T12:48:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxw-_3_bY7RRXRWGOF4AaABAg",
+    "author": "@rsummers1974ify",
+    "author_channel_id": "UCN43k0yhgbauaHV8DhbBpDQ",
+    "text": "I'm really excited 😁 too see you covering this topic. I hope you do some on liner generator also. Thank you Robert for being such an Inspiration and explaining electric generation.. A+",
+    "likes": 5,
+    "published_at": "2023-01-10T21:00:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxUb0D4b95Df43UrPp4AaABAg",
+    "author": "@msowdal",
+    "author_channel_id": "UChuSqu4gjOiZ27r6S2dOnaQ",
+    "text": "Could this be made as a printed circuit board? Very helpful.",
+    "likes": 1,
+    "published_at": "2023-01-10T20:59:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUb0D4b95Df43UrPp4AaABAg.9kiRTmNrZT-9rLZLdLtnbq",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "Great idea if you connected the traces correctly across the different layers. Still wouldn't be as dense as wire windings, though.",
+        "likes": 0,
+        "published_at": "2023-06-24T14:06:05Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw1Et-ZWybJKIiVhRF4AaABAg",
+    "author": "@Dr_Wrong",
+    "author_channel_id": "UCBpWQqbi3DTHl1GTF2com-A",
+    "text": "DYI Litz caution: Damaging the insulation while twisting..",
+    "likes": 2,
+    "published_at": "2023-01-10T20:52:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw1Et-ZWybJKIiVhRF4AaABAg.9kiQhCPyN9fATIJ4SOjiFU",
+        "author": "@twitchy5710",
+        "author_channel_id": "UCBCxNsJaMi2XwndElIxYvfg",
+        "text": "Thanks for that, wouldn't have even considered it otherwise.",
+        "likes": 0,
+        "published_at": "2026-02-16T16:10:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxI1frJlLk74yx4BaJ4AaABAg",
+    "author": "@ScandalistRick",
+    "author_channel_id": "UCxEwB_IYRt_s9eNWWIcMZ7Q",
+    "text": "There were some other comments asking about how versatile this setup could be for places with varying wind speeds.  I had an idea that I thought could make a really fun project, but I am not quite sure how it could be completed.\n\nThe basic thought is this...  Construct a Faulhaber generator with 3-6 phases, then dictate a way (without electronics) to open and close the circuit to each phase depending on wind speed (turbine RPM).\n\nIn low wind speeds, only one phase would be online.  As the wind got faster and the turbine sped up, it would hit an RPM threshold and close the circuit to phase 2; effectively increasing the load and slowing the turbine.  Vice versa if it slowed down to a certain threshold it would open said circuit.\n\nIn theory, you should be able to scale the number of phases up or down for any amount of wind correct?  Running 10 phases in 150kph winds, I GOT YOU ;p",
+    "likes": 1,
+    "published_at": "2023-01-10T20:51:52Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxI1frJlLk74yx4BaJ4AaABAg.9kiQcQ4a8BM9kjKHd09UtE",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "Centrifugal switch \nThey are found in lots of washing machine motors \nChange the springs for different speeds",
+        "likes": 0,
+        "published_at": "2023-01-11T05:15:43Z"
+      },
+      {
+        "id": "UgxI1frJlLk74yx4BaJ4AaABAg.9kiQcQ4a8BM9kk6n_Co5sH",
+        "author": "@JehuMcSpooran",
+        "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+        "text": "The other option would be to vary the field strength.",
+        "likes": 0,
+        "published_at": "2023-01-11T12:37:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz1Lp5XxF2ZtaECqlx4AaABAg",
+    "author": "@mattmiller220",
+    "author_channel_id": "UCzvEx1nvvcS6FJUZPNZ9MSg",
+    "text": "The skin effect and self inductance are actually pretty deep concepts in the study of electro-magnetism. 😅",
+    "likes": 0,
+    "published_at": "2023-01-10T20:51:28Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz1Lp5XxF2ZtaECqlx4AaABAg.9kiQ_UR3KdK9kk7iIjWRxv",
+        "author": "@JehuMcSpooran",
+        "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+        "text": "Not really. it happens as low as 50Hz in mains generation. My local hybrid pumped hydro station uses Aluminium tubes as buss bars. because of the high AC currents, a solid conductor would have big eddy currents being induced in itself from the changing magnetic field. Those eddy currents then set up their own magnetic fields and tend to push the main current to the outside of the conductor. I was shown this in a tour as a first year electrical student.",
+        "likes": 0,
+        "published_at": "2023-01-11T12:45:08Z"
+      },
+      {
+        "id": "Ugz1Lp5XxF2ZtaECqlx4AaABAg.9kiQ_UR3KdK9kk849zD6-C",
+        "author": "@mattmiller220",
+        "author_channel_id": "UCzvEx1nvvcS6FJUZPNZ9MSg",
+        "text": "@JehuMcSpooran Oh okay.",
+        "likes": 0,
+        "published_at": "2023-01-11T12:48:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxNGMdbH9dHybejMlJ4AaABAg",
+    "author": "@Dr_Wrong",
+    "author_channel_id": "UCBpWQqbi3DTHl1GTF2com-A",
+    "text": "Why are the \"triangles\" not equilateral?",
+    "likes": 0,
+    "published_at": "2023-01-10T20:50:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGC0vyugg8ooq3GVF4AaABAg",
+    "author": "@Dr_Wrong",
+    "author_channel_id": "UCBpWQqbi3DTHl1GTF2com-A",
+    "text": "Can you rotate the magnet to get closer to perpendicular to the wire?\nPerhaps reshape the magnets more pie shaped parallelogram?",
+    "likes": 1,
+    "published_at": "2023-01-10T20:49:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKMoinqu03bucvHJF4AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "It's a good wind up lol",
+    "likes": 0,
+    "published_at": "2023-01-10T20:35:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzzppQub8sE96_V4_54AaABAg",
+    "author": "@Inspiredamericanspersonalarmor",
+    "author_channel_id": "UCEAcv049Dm5UdibyOB5fjPQ",
+    "text": "Hi Robert. Thank you for your wonderful work and series! \n\nHave you done any work or research on Motionless Electromagnetic Generators (MEG)?",
+    "likes": 1,
+    "published_at": "2023-01-10T20:34:30Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzzppQub8sE96_V4_54AaABAg.9kiOd9BQ56T9kjFYV6TY-L",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "Check out some of the early videos from last year and the other channel with Luke.",
+        "likes": 0,
+        "published_at": "2023-01-11T04:34:19Z"
+      },
+      {
+        "id": "UgzzppQub8sE96_V4_54AaABAg.9kiOd9BQ56T9rLYyZ0x8j_",
+        "author": "@edeaglehouse2221",
+        "author_channel_id": "UCUMDQ2upRU3yuavbaMbwa9w",
+        "text": "Hmmm. If they were truly motionless, they wouldn't produce any power.",
+        "likes": 0,
+        "published_at": "2023-06-24T14:02:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOxd2D-MDAd-ELAJl4AaABAg",
+    "author": "@jimsmindonline",
+    "author_channel_id": "UCDUVppcgTqC5fkxBKtaeLCA",
+    "text": "I'm seriously jealous of your huge roll of copper wire! 😮😆",
+    "likes": 28,
+    "published_at": "2023-01-10T20:33:40Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxOxd2D-MDAd-ELAJl4AaABAg.9kiOY4nPTu-9kivxG3SKF1",
+        "author": "@mafftv3801",
+        "author_channel_id": "UCvr-pwfvcGu4mNWmAc5BlPw",
+        "text": "An me!! Wouldn’t be cheap tho",
+        "likes": 4,
+        "published_at": "2023-01-11T01:34:20Z"
+      },
+      {
+        "id": "UgxOxd2D-MDAd-ELAJl4AaABAg.9kiOY4nPTu-9kkKVsgONwn",
+        "author": "@OKFrax-ys2op",
+        "author_channel_id": "UCfyoe8cV9jl4g233x3rXMiQ",
+        "text": "Monthly payment’s are available",
+        "likes": 4,
+        "published_at": "2023-01-11T14:36:54Z"
+      },
+      {
+        "id": "UgxOxd2D-MDAd-ELAJl4AaABAg.9kiOY4nPTu-9lBt5oUKmYB",
+        "author": "@mrnobody2873",
+        "author_channel_id": "UC_60dDhBpkIAIAZTey6O2QA",
+        "text": "Spool envy...",
+        "likes": 5,
+        "published_at": "2023-01-22T16:46:39Z"
+      },
+      {
+        "id": "UgxOxd2D-MDAd-ELAJl4AaABAg.9kiOY4nPTu-A4FYPOCjcYr",
+        "author": "@Ferd414",
+        "author_channel_id": "UCYHXPa3wD72MmiWQbQa1Tkw",
+        "text": "@mrnobody2873 Now we KNOW we're a crowd of geeks, what? 🤓🤓🤓",
+        "likes": 0,
+        "published_at": "2024-06-04T05:21:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwg8N27PSmpc9_LaK14AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "A lot of people don't realize flywheel mass in a wind turbine is less desirable.   Spinning a coil under a load pose a challenge in keeping it secured to the rotor when experencing back torque, but the wind turbine will be operating more efficently in varying wind.",
+    "likes": 0,
+    "published_at": "2023-01-10T20:28:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_NX3DBfev5a8AcMR4AaABAg",
+    "author": "@ET_AYY_LMAO",
+    "author_channel_id": "UCO7NtKggv0JHP3bnUkIDKgQ",
+    "text": "Seems like you got a cool coil design to show us every day. Are you doing research and experimentation with a specific goal in mind? You seem very fixated on axial-flux lately and that is great because I have the same need for a cheap / diy generator for VAWTs.",
+    "likes": 4,
+    "published_at": "2023-01-10T20:27:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzgn5occde6VuXD7Xl4AaABAg",
+    "author": "@wickedprotos1937",
+    "author_channel_id": "UCt9HpIyRIL2eWSA5S-f4svQ",
+    "text": "My Resmed Airsesne 10 cpap machine has a ~ 3cm diameter coil wound like this and 3phase.",
+    "likes": 0,
+    "published_at": "2023-01-10T20:21:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlW49PXp7gHFGnP-V4AaABAg",
+    "author": "@RoyAllanThomassen",
+    "author_channel_id": "UC-O3hKelRtLhzFNcqye9VhA",
+    "text": "have you ever looked at Searl Effect Generator (SEG)",
+    "likes": 0,
+    "published_at": "2023-01-10T20:19:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5tIxecQIvD6Dg2et4AaABAg",
+    "author": "@comelighttheway",
+    "author_channel_id": "UCKENrvzzl5Q7aDs3weCXq8A",
+    "text": "jumping jee-bobs! would u like a post card from a stranger? 🤖🥩: just beet it!",
+    "likes": 0,
+    "published_at": "2023-01-10T20:18:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwWgoqNcWBOC7_3tlF4AaABAg",
+    "author": "@TheBaconWizard",
+    "author_channel_id": "UCXAOdDzYrMdKAR-r5QZazvQ",
+    "text": "I LOVE this stuff, I became fascinated with axial-flux motors and litz-wire when designing one of the many thousands of abandoned robot-wars entries that litter the world lol.",
+    "likes": 1,
+    "published_at": "2023-01-10T20:11:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxrVllf3vsfPgFCxOB4AaABAg",
+    "author": "@ScandalistRick",
+    "author_channel_id": "UCxEwB_IYRt_s9eNWWIcMZ7Q",
+    "text": "This is so cool to me.  I am curious how this would compare to a geared \"stepper\" wind generator.\n\nMaybe after you turn this into a generator, you could: \nA) grab one of the generators you made with a stepper motor.\nB) gear it, so that it takes an equal amount of force to spin as the Faulhaber coil generator (so both work in low wind speed).\nC) see how they perform under equal conditions.\n\nI feel you would have to create a 2-phase Faulhaber coil (or only hook up half the stepper motor) to get accurate comparisons..  But I consider you the professional here.\n\nThanks again for the great content!  And even more teaching us how to make Litz wire.  I have been spending WAAAY too much time on my toroidal transformers..",
+    "likes": 3,
+    "published_at": "2023-01-10T20:07:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwpw2I7XL6s84kElJB4AaABAg",
+    "author": "@janeblenkins5370",
+    "author_channel_id": "UCdiPb8S4QEpZ0hDLqNqWcqw",
+    "text": "This channel is strangely addictive I love it. This one reminds me of making xmas wreaths. If only we knew the physics country women would (and do) power the world!!",
+    "likes": 2,
+    "published_at": "2023-01-10T20:05:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxakDvV2Wm3ea8ZrPJ4AaABAg",
+    "author": "@MikeGrayM70",
+    "author_channel_id": "UC1oAPl0jpAOi0AebQ5KEjNg",
+    "text": "I'm very interested to see how this turns out. I may be getting hold of an old car engine soon, and I had the crazy idea to turn it into an inverter generator. I'm not sure how, but I think I'd need to come up with some sort of governor so the engine can idle low, but get some extra fuel when more power draw is placed on the generator. I'm also thinking of replacing the stock alternator with a more standard generator/motor since car alternators aren't very efficient. This would be a \"just for fun\" project. I wouldn't expect a machine that's as good as store-bought, but as the engine would be free, I suspect it may be slightly cheaper. Depending on the cost of the generator/motor and inverter.\n\nAnyway, I love all this DIY stuff. I wish I had enough wind to make wind generators worth while, but it's just too calm here, except for wind storms. Good for painting outdoors though. :)",
+    "likes": 1,
+    "published_at": "2023-01-10T20:03:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxakDvV2Wm3ea8ZrPJ4AaABAg.9kiL4jxED3n9kjHxMC8Sa9",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "I think you may want to keep the alternator to charge your starter battery.",
+        "likes": 0,
+        "published_at": "2023-01-11T04:55:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwPvXcGOlY0Twt6wsZ4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "I have to admit I am struggling to see how this works with one coil wound completely round as you have it.\nIf you had 3 coils covering the whole circumference between them (each covering a third) I could see it, if the magnets were spaced correctly.\n\nWould you not get opposing potentials set up against each other as they pass a N-S field and at the same time but further down the coil S-N field?\n\nOne thing I will say though ...... it looks Cool, in a very 70's way of things! ;o)",
+    "likes": 1,
+    "published_at": "2023-01-10T19:57:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwPvXcGOlY0Twt6wsZ4AaABAg.9kiKOPcrky69kkCKrm1CGE",
+        "author": "@totherarf",
+        "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+        "text": "Giving this some thought .... I think it could work! \nYou would need to create a monopole magnetic field though. This could be by having a magnetic bridge from one side of the coil to the other so that the N is on one side and the S on the other .... then rotate the coil within this! \nNot elegant ... but I think it would work!",
+        "likes": 0,
+        "published_at": "2023-01-11T13:25:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyXxC1MWA-8p3X5Ju94AaABAg",
+    "author": "@crafter2u",
+    "author_channel_id": "UCUiOHg0quzayi_2fMyOzkBA",
+    "text": "every body needs to get off the grid",
+    "likes": 1,
+    "published_at": "2023-01-10T19:51:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKKWna75inFEQ8gC54AaABAg",
+    "author": "@idratherstayprivate",
+    "author_channel_id": "UCkYSyJ9niQdDcrCplq7bUZQ",
+    "text": "Interesting winding especially for low wind applications. Here in Toronto, we have low winds one day and high winds the next. I wonder how this would work across the entire range of wind speeds. \n\nRegarding the winding however, perhaps power density goes up but I don't think it's due to eliminating the \"edge\" excess copper. The wire still loops over the edge and if you integrate the volume of metal on it, it should still amount the same mass as in the other winding architectures. Here perhaps you have more room to fit larger magnets all the way to the edge so you might get more out of your winding but I wouldn't say that you use less copper along the edge. Also, diagonal or not, you will still cover the entire thing with copper, so I'm not sure you're actually saving on weight there. Eliminating the core is definitely a plus though.",
+    "likes": 0,
+    "published_at": "2023-01-10T19:51:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzKKWna75inFEQ8gC54AaABAg.9kiJeyoNKtQ9kiOjQ9wd0o",
+        "author": "@ScandalistRick",
+        "author_channel_id": "UCxEwB_IYRt_s9eNWWIcMZ7Q",
+        "text": "I was wondering the same thing, here in NV the wind is all over the place.",
+        "likes": 0,
+        "published_at": "2023-01-10T20:35:21Z"
+      },
+      {
+        "id": "UgzKKWna75inFEQ8gC54AaABAg.9kiJeyoNKtQ9kk2AuZ0qkB",
+        "author": "@JehuMcSpooran",
+        "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+        "text": "It's less about the weight savings and more about keeping as much length of copper in the magnetic field.",
+        "likes": 1,
+        "published_at": "2023-01-11T11:56:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwavk6B-KXoHkIXfs54AaABAg",
+    "author": "@StrategyYouDidntKnow",
+    "author_channel_id": "UCgBgMdoC1BTVmqaLcIVioJg",
+    "text": "I don't think I've seen hallbach array covered on this channel.",
+    "likes": 0,
+    "published_at": "2023-01-10T19:49:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwtM1_zmLQiiz6SlV94AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "A single coil wound around the 100% of the form as you did in the video will generate zero volts.  One half of the coil will always be 180 degrees out of phase with the other half. You may do 50% of the disk,  and then you will get a sine wave output. Or you may wind as you did with 100% fill if you connect the beginning and end  and leave a center tap at 50% wound. One coil becomes 2 coils,  and by tapping the center, both  coils can constructivly work in phase with the other, rather than fight each other with destructive interference. \n\nCogging torque can be eliminated in generarators with iron by eliminating slots in the stator.  Very much like the ion stator I used in the motor on my channel.  It has no slots and zero cogging. \n\n\n\nFreqency dependent skin effect is almost non existing at the (rpm × (rotor magnetic pole pairs)) freqency we see in wind generators. Skin effect may become something to consider in motors that are controlled with pulse width modulation (pwm) at 20khz using wires that are too thick for that rate of switching, but most certainly skin effect is virtually non existing in wind generator having 8 pole  pairs  spinning at maybe 120-240 rpm (2-4 revolutions per second), whose output freqency is maybe 16-32 hz.",
+    "likes": 0,
+    "published_at": "2023-01-10T19:37:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwtM1_zmLQiiz6SlV94AaABAg.9kiI6y_00qI9kiNRuwQN1H",
+        "author": "@TheBaconWizard",
+        "author_channel_id": "UCXAOdDzYrMdKAR-r5QZazvQ",
+        "text": "While that's absolutely correct re litz-wire, the point of making some here was to make winding the coil less of a chore.",
+        "likes": 0,
+        "published_at": "2023-01-10T20:24:05Z"
+      },
+      {
+        "id": "UgwtM1_zmLQiiz6SlV94AaABAg.9kiI6y_00qI9kiSCYhAvIl",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "@TheBaconWizard I though stranded wire with one outer insulation coating would better use the space, especially on the inner radius. \n\nHave a look on my channel at how I built my first axial flux motor with three faulhaber coils. 😃 Yes I struggled a little with solid copper core.",
+        "likes": 0,
+        "published_at": "2023-01-10T21:05:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx1TlrQE93zd0677Qp4AaABAg",
+    "author": "@Enjoymentboy",
+    "author_channel_id": "UCnEMVPyQTXxvP3b2Lr2N6bA",
+    "text": "I'm finding this series fascinating.  I've been toying with the idea of building and winding my own generator for a long time and I think this has finally incentivised me to do so.  One project I have wanted to do for a while is to build a generator with some VERY strong HDD magnets I salvaged from very old SCSI drives many years ago.  The problem (as I understand it) is that the poles are not oriented correctly.  The poles are at the edges instead of at the top and bottom so they would essentially cancel each other out as they pass by the coils.  I've been thinking that there must be a way to wind the coils to not only eliminate this issue but actually take advantage of it but I'll be damned if I can figure it out.  Not my area of expertise.",
+    "likes": 22,
+    "published_at": "2023-01-10T19:37:09Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "Ugx1TlrQE93zd0677Qp4AaABAg.9kiI45-BM5L9kiWYI4IipB",
+        "author": "@EgonSorensen",
+        "author_channel_id": "UCaqsQdvMRUofud-GQeSIhZA",
+        "text": "If you heat the magnets above a certain temperature they'll loose their magnetization 'permanently'.\nIt is then possible to re-magnetize them by putting the magnet inside a coil and applying a large current/magnetic field - any way you'd like.\n(It is not easy to do, it requires very large voltage and currents - so don't do it if you aren't sure what you're doing)\nThere is videos here on YouTube on how magnet producers magnetize their magnets - it's the same process.  Good luck either way!",
+        "likes": 4,
+        "published_at": "2023-01-10T21:43:36Z"
+      },
+      {
+        "id": "Ugx1TlrQE93zd0677Qp4AaABAg.9kiI45-BM5L9kiZAZSX0x7",
+        "author": "@Enjoymentboy",
+        "author_channel_id": "UCnEMVPyQTXxvP3b2Lr2N6bA",
+        "text": "@EgonSorensen I think I've seen that video or at least one that shows the same principles but that goes far beyond what I could do at home.  I was thinking of a dual coil setup with one on the outside and one on the inside and the magnets in the middle.  The N pole of the magnet would pass the outer coil at the same time as the S pole would pass by the inner coil.  The way it operates in my head tells me it should work but how they'd be wired together so that the voltages \"sync up\" instead of cancelling each other out is where I'm stuck.  And TBH I would prefer the challenge of making it work with the parts I have as-is instead of modifying them.",
+        "likes": 2,
+        "published_at": "2023-01-10T22:06:34Z"
+      },
+      {
+        "id": "Ugx1TlrQE93zd0677Qp4AaABAg.9kiI45-BM5L9kp-ngZeGFK",
+        "author": "@stormatron6184",
+        "author_channel_id": "UCyLF5iP__ARyM7-gcn0nUSA",
+        "text": "@Enjoymentboy Not sure I understand correctly but if they are in sync but opposite, just reverse the polarity of one of the coils?",
+        "likes": 1,
+        "published_at": "2023-01-13T10:12:10Z"
+      },
+      {
+        "id": "Ugx1TlrQE93zd0677Qp4AaABAg.9kiI45-BM5L9kp4Qa87Fng",
+        "author": "@Enjoymentboy",
+        "author_channel_id": "UCnEMVPyQTXxvP3b2Lr2N6bA",
+        "text": "@stormatron6184 My apologies for not describing very well.  The magnets are the typical radius style (ie 6 of them set side to side will form a perfect circle) with the poles at the edges instead of the top and bottom faces.  I have been told on a few occasions that this is why they will not work.  In my head I can see two sets of coils with one on each side of the magnets with the magnets forming a ring.  The magnet ring would be mounted on a shaft and would be the only part to move and would effect both coils simultaneously.  I am NOT engineer so what I see in my head is likely not possible, or at best not efficient enough to be workable.  BUT...I was recently gifted a 3D printer and I'm slowly learning a CAD program so with luck I'll be able to start producing parts to see if I can get the image out of my head and onto the work bench.  I am 99% certain I can build the structure and such but it's the coil winding and wiring that has me stumped.  Perhaps I need to get it to the point where I actually need to wind coils so I can then see exactly how everything moves in relation to each other to tell just what I have to do.",
+        "likes": 1,
+        "published_at": "2023-01-13T10:52:34Z"
+      },
+      {
+        "id": "Ugx1TlrQE93zd0677Qp4AaABAg.9kiI45-BM5L9l0UWUBePve",
+        "author": "@James-L-83",
+        "author_channel_id": "UCwPQ6_i7ABFxM9IYQ1JBXbA",
+        "text": "Magnetic antennas for vehicles use a metal shield to focus the field into a tightly focused area. Maybe you could use that somehow to modify the \"shape\" or path of the field?",
+        "likes": 0,
+        "published_at": "2023-01-18T06:31:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz5cTKG3iuLJ1qsJ0l4AaABAg",
+    "author": "@nickwhite2996",
+    "author_channel_id": "UC6FT3KhIriFAFIUxn-rYQWQ",
+    "text": "Could you angle the magnet?",
+    "likes": 0,
+    "published_at": "2023-01-10T19:30:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzuDoskJ7FElMISzvt4AaABAg",
+    "author": "@lnwolf41",
+    "author_channel_id": "UC7PJ198UyAyRgvsDr66LjXg",
+    "text": "I understand that the different windings have advantages, but the common windings on the average motor are many times easier, and quicker to make, are cheaper, and the extra weight doesn't affect the power used or generated. I do find the last 2 videos interesting, and informative.",
+    "likes": 0,
+    "published_at": "2023-01-10T19:19:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGyAeUCBFW_ka5Tzp4AaABAg",
+    "author": "@Ilamarea",
+    "author_channel_id": "UCwkBUnJP-eJIbQkP51RrnLg",
+    "text": "Does it make sense to spin the coil one way and the magnets the other way?",
+    "likes": 1,
+    "published_at": "2023-01-10T19:11:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyGyAeUCBFW_ka5Tzp4AaABAg.9kiFAb0DS8-9kiOCeszd1t",
+        "author": "@ScandalistRick",
+        "author_channel_id": "UCxEwB_IYRt_s9eNWWIcMZ7Q",
+        "text": "In a situation where you are trying to obtain a high power density with minimal materials this does not make sense.\n\nThe added engineering to make both of them spin alone, you either need gearing or an additional propeller to facilitate opposite direction movement.\n\nEXTRA GEARING\n- If you use gearing you have extra friction losses.  Then the power from the wind is split between turning the magnets AND the copper.  Since some of that (say 10%) was lost to friction, each rotating piece will get 45% of the power from the wind.  For example, say this results in the copper rotating clockwise at 4.5cm/s, and the magnets rotating counter-clockwise at 4.5cm/s.  This is a relative difference in speed of 9cm/s.\n- Now, compare it to the one with only one set of moving parts.  Without those friction looses from the gearing there will be a relative difference in speed of 10cm/s.  \n\nEXTRA PROPELLER\n- It is just a matter of having to try and fit more things into one.  From a fiscal and engineering standpoint it is just more.  For me, it would be easier to create two identical, more simple generators.\n- I believe keeping it simple in this instance is just better.",
+        "likes": 0,
+        "published_at": "2023-01-10T20:30:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz4Mn7YeGD-JRbzUsl4AaABAg",
+    "author": "@il51diablo",
+    "author_channel_id": "UCBktDbNyOLZOqWcQnnIUMdQ",
+    "text": "great!",
+    "likes": 0,
+    "published_at": "2023-01-10T19:05:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6AO_muNdLUT15BaB4AaABAg",
+    "author": "@pedrojorge4684",
+    "author_channel_id": "UCwYfI10-rrpV3h9QU7CNjNQ",
+    "text": "Thanks again for the teachings, very enlightening. Cheers mate!",
+    "likes": 0,
+    "published_at": "2023-01-10T19:02:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlvRVgi7jA2lJZOxN4AaABAg",
+    "author": "@edwingolddelirium",
+    "author_channel_id": "UCTHqYkUDyn-AYym6-rOPWxw",
+    "text": "master of excellence.",
+    "likes": 0,
+    "published_at": "2023-01-10T19:01:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzct5ywyH71tQp0ZVp4AaABAg",
+    "author": "@Nick_Tag",
+    "author_channel_id": "UCQuQ5lvcFq7sES_QJ77qjJQ",
+    "text": "Looks nice, super nice. Could it be made reversible i.e. spin the copper at some speeds and spin the magnets at other speeds?",
+    "likes": 4,
+    "published_at": "2023-01-10T19:01:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwT3Kju2QL5-HnQi_14AaABAg",
+    "author": "@izzyfury8126",
+    "author_channel_id": "UCWHAUQTrkOplhTQPxDgb6iQ",
+    "text": "Can I get a pair of earrings please ha ha",
+    "likes": 0,
+    "published_at": "2023-01-10T19:00:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXANMZLtI8ntgrUhd4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "So, heres's a question on the magnets- as the point is to get the  field to cross the wires and change fast, instead of using, for instance a single large magnet, you used several small magnets in that same space? It Seems like that would get you more changes in distinct magnetic field, faster for the motion of the wheel?\nDo you see what Im pointing at there?\nIm sure theres some kind of tradeoff but instead of a N/S change over a couple inches you could get 3 or 4 in the same amount of motion.  \nDont know if thats a useful thought, but I wondered if, like this coil gets more copper under the magnets, if more magnets over the copper might also have a benefit?",
+    "likes": 0,
+    "published_at": "2023-01-10T19:00:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxO5PjSvFFi-HKme6h4AaABAg",
+    "author": "@catalinalb1722",
+    "author_channel_id": "UCQOPzadIF11j14TwvYxdmfA",
+    "text": "I wonder how a Tesla motor is built....",
+    "likes": 0,
+    "published_at": "2023-01-10T18:59:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyelRN8xCdtzD5gHAZ4AaABAg",
+    "author": "@Ezio-Auditore94",
+    "author_channel_id": "UC6Xor3puP-i-eJrgeDlZ2vw",
+    "text": "You've always been a great whistler",
+    "likes": 2,
+    "published_at": "2023-01-10T18:59:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy1VABBe6HC1RoZZ5F4AaABAg",
+    "author": "@hiddenchambers2922",
+    "author_channel_id": "UCopm1kh-fX6HASXmlpAy03A",
+    "text": "Amazing! Thank you!",
+    "likes": 0,
+    "published_at": "2023-01-10T18:56:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8mYEgT05xx6yyV_14AaABAg",
+    "author": "@TheSRDR79",
+    "author_channel_id": "UCZxfr5o6zt-jdSrKuiO8rKA",
+    "text": "4 utube alograt.",
+    "likes": 0,
+    "published_at": "2023-01-10T18:56:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyebTgDrST8iwfO_h4AaABAg",
+    "author": "@donniewatson9120",
+    "author_channel_id": "UCjis31zfjRO7DbN2LvWcpTg",
+    "text": "Patience and attention is required.",
+    "likes": 0,
+    "published_at": "2023-01-10T18:52:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVd4FAYlloJAt4s0t4AaABAg",
+    "author": "@marvinhuth4487",
+    "author_channel_id": "UCPMYspwZ0N0uOBYJOefqEiQ",
+    "text": "\"headphone lead\" is a great soure of HF-Litz wire for small projects",
+    "likes": 1,
+    "published_at": "2023-01-10T18:48:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyYxFHyljS7cKLnFOx4AaABAg",
+    "author": "@McRootbeer",
+    "author_channel_id": "UC5O7TtGnUjhFYWYZKgeIKNg",
+    "text": "Cool, after you make this a generator it would be cool to see how you run it as a motor.  Could you control it with off the shelf ebike components?",
+    "likes": 1,
+    "published_at": "2023-01-10T18:48:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwkBrIiSZP7FUVhYmV4AaABAg",
+    "author": "@InspectorTony",
+    "author_channel_id": "UCX0W8dv6iUStQUjb7yBbbGQ",
+    "text": "Fascinating Mr. Smith! It looks cool, too!",
+    "likes": 0,
+    "published_at": "2023-01-10T18:44:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQ_B3wXYPE8eGvnGt4AaABAg",
+    "author": "@8BiT_fpv",
+    "author_channel_id": "UCNQ_yAfmsK-AU2YrrTo2Tlw",
+    "text": "how would something like this translate into micro scale, say similar to a 802 sized brushless motor for micro drones?",
+    "likes": 0,
+    "published_at": "2023-01-10T18:43:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLUbOH_eB7AL7HAEd4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Good stuff 👍",
+    "likes": 1,
+    "published_at": "2023-01-10T18:42:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnHGiXc_tv-9Rw02d4AaABAg",
+    "author": "@Struthio_Camelus",
+    "author_channel_id": "UC9--Pq-QxxcErIw7tpJIDjw",
+    "text": "Nice! Thank you Robert.",
+    "likes": 2,
+    "published_at": "2023-01-10T18:41:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbR0oFmh4qswylsQp4AaABAg",
+    "author": "@matthat8125",
+    "author_channel_id": "UCzGNxXociT3FsvFnxjfyWWw",
+    "text": "in power tool motors the magnets are set at angles to coincide with the angle of the copper.",
+    "likes": 46,
+    "published_at": "2023-01-10T18:39:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxbR0oFmh4qswylsQp4AaABAg.9kiBSmtMUFb9lSa3JgbtuV",
+        "author": "@johnrobert3883",
+        "author_channel_id": "UC2CFNUN23AcICt_ussyxNvA",
+        "text": "the angle magnets in electric motors to reduce the caulking effect that way there's less slowing the motor down, makes it react more like a coreless motor with higher RPM in way better and remained almost same torque",
+        "likes": 4,
+        "published_at": "2023-01-29T04:27:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQpXDbqTNCL7Rz7hd4AaABAg",
+    "author": "@andrewmorris5947",
+    "author_channel_id": "UCR0CBFrR83m8Wc6nJBoTvuA",
+    "text": "Could you overview the Rodin/abba coil 👀",
+    "likes": 1,
+    "published_at": "2023-01-10T18:38:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwQpXDbqTNCL7Rz7hd4AaABAg.9kiBJAg-hjT9kiCc7CXUrb",
+        "author": "@dremaboy777",
+        "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+        "text": "The Rodin/Abba coil is a donut form. For a frequency generator, or pulsing voltage input - yes... excellent (and still undiscovered) properties. BUT... how will you rotate a magnet to interact efficiently with that style coil ???",
+        "likes": 0,
+        "published_at": "2023-01-10T18:49:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHK9zugBvtgDFPivB4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍🙏",
+    "likes": 0,
+    "published_at": "2023-01-10T18:35:15Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

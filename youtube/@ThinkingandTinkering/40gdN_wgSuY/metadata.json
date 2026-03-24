@@ -1,0 +1,15 @@
+{
+  "video_id": "40gdN_wgSuY",
+  "title": "LED Rhythm with ink and an arduino",
+  "description": "Playing with LEDs and play with arduinos - awesome - and they call this a job\nThe Sketch\nint LED1 = 13;\nint LED2 = 12;\nint LED3 = 11;\nint LED4 = 10;\n\n\n\nvoid setup() {\n   pinMode(LED1, OUTPUT);\n   pinMode(LED2, OUTPUT);\n   pinMode(LED3, OUTPUT);\n   pinMode(LED4, OUTPUT);\n \n}\n\n\nvoid loop() {\n\n \n  \n  digitalWrite(LED4, HIGH);    // turn on LED4\n  delay(200);                  // wait for 200ms\n  digitalWrite(LED1, HIGH);    // turn on LED1\n  delay(200);                  // wait for 200ms       \n  digitalWrite(LED2, HIGH);    // turn on LED2 \n  delay(200);                  // wait for 200ms\n  digitalWrite(LED3, HIGH);     // turn on LED3\n  delay(200);                  // Wait for 200ms\n  \n  digitalWrite(LED4, LOW);     // turn off LED4\n  delay(300);                  // wait for 300ms\n  digitalWrite(LED1, LOW);     // turn off LED1\n  delay(300);                  // wait for 300ms\n  digitalWrite(LED2, LOW);     // turn off LED2\n  delay(300);                  // wait for 300ms\n  digitalWrite(LED3, LOW);     // turn off LED3\n  delay(300);                  // wait for 300ms before running program all over again\n}",
+  "published_at": "2019-11-26T09:21:25Z",
+  "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+  "channel_title": "Robert Murray-Smith",
+  "tags": [],
+  "duration": "PT3M25S",
+  "view_count": "2354",
+  "like_count": "76",
+  "comment_count": "27",
+  "url": "https://www.youtube.com/watch?v=40gdN_wgSuY",
+  "thumbnail": "https://i.ytimg.com/vi/40gdN_wgSuY/hqdefault.jpg"
+}

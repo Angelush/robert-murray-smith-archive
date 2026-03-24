@@ -1,0 +1,418 @@
+[00:00] [Music]
+[00:08] I don't know if you remember this. It's
+[00:09] a model I made of the Archimedes drive.
+[00:12] And in there is this. This is a cross
+[00:16] roller bearing in a ring cage that takes
+[00:18] the axial load and the thrust load of
+[00:22] the actual model. And it does that for
+[00:24] absolutely anything. Now, using rollers
+[00:27] instead of balls is, I think, really
+[00:30] good for 3D printing because rollers
+[00:32] print much better than balls. Try to
+[00:34] print a ball. You'll have a whole load
+[00:37] of well support structure really that
+[00:39] takes a lot of cleaning off. And the
+[00:41] smaller they get, the worse that is
+[00:43] because you can't really get to them
+[00:44] without a lot of work. And this works
+[00:47] really well as an ideal bearing
+[00:49] according to me for 3D printing. But it
+[00:52] does something else as well. It doesn't
+[00:54] have a center. Now, I really wished I'd
+[00:57] known about this or thought about this
+[00:59] when I made this thing. This thing is my
+[01:02] uh cube sort of tube wind turbine. The
+[01:06] idea is the wind is followed into the
+[01:07] center and spins it. And of course, I
+[01:10] did that with the central axis. And
+[01:11] there's the central axis right there.
+[01:13] And in this housing are some support
+[01:15] bearings to keep the cylinder turning
+[01:18] nice and cylindrically so that we can
+[01:20] put magnets and coils and generate from
+[01:23] that because what that represents is a
+[01:26] huge obstruction to wind flow. If I put
+[01:29] one of those in, I don't know what kind
+[01:31] of efficiency improvement I would get,
+[01:33] but I would get an improvement in this
+[01:35] kind of wind turbine certainly. So,
+[01:37] there's a whole load of really good uses
+[01:39] for this from well turntables, wind
+[01:42] turbines, motors, and drives. And I
+[01:45] didn't really go into exactly how I made
+[01:48] this because, as you know, if you know
+[01:50] how to make something, well, you can
+[01:52] make it to any size you want for any
+[01:54] project you want rather than having to
+[01:57] fish around on Thingiverse and find
+[02:00] something approximating what you want.
+[02:02] So, we're going to go into exactly how
+[02:04] that was made so that you can have a
+[02:06] bearing set that you can use for well, a
+[02:09] whole range of projects. Right. To do
+[02:12] this, I've opened up a new work plane in
+[02:14] Tinkercad. I've put the ruler on the
+[02:15] corner and you can see I've pulled a box
+[02:18] primitive onto the work plane because to
+[02:20] do this, what we're going to do is use
+[02:22] our friend SVG rotate. So you go to the
+[02:25] search shapes, click it, type in SVG,
+[02:28] and it will pull up something called SVG
+[02:31] revolver. We pull the revolver down onto
+[02:34] the work plane, and what it's going to
+[02:36] ask for is a file to work from. So we
+[02:39] need to create the SVG file. And for
+[02:41] that, we use the box. Click on the box
+[02:43] and export it. But when you export it,
+[02:46] export it as SVG, and it will create
+[02:49] that file for you. What we then need to
+[02:51] do, obviously, is go to where that file
+[02:53] is, and usually it's in your downloads
+[02:56] menu, uh, your downloads folder. I
+[02:58] apologize, but once you found it in your
+[03:00] downloads folder, click and hold and
+[03:02] drag it into the SVG rotate box, and it
+[03:05] will apply that box to SVG rotate. Now,
+[03:10] what the race actually is is basically a
+[03:12] box turned on its side. So we need to
+[03:14] rotate that sketch by 45° and that will
+[03:18] rotate it on its side to create us a
+[03:20] diamond that we can see there. Now we
+[03:23] want to make that diamond close and you
+[03:25] see the revolve angle is 300. Change
+[03:27] that to 360 and we'll get ourselves a
+[03:30] closed circle. Now here are the some of
+[03:33] the curious things about SVG revolver.
+[03:36] You'll see that the sketch height is set
+[03:38] to five and the inside diameter diameter
+[03:41] maximum is 20. So, we're going to have
+[03:43] to do something else to get bigger
+[03:45] sizes. I work with things that are easy.
+[03:48] So, I'm aiming for something that's
+[03:49] about 220 mm across, and I'm working
+[03:52] with something at about 20 mm across.
+[03:55] So, I'm going to need in to increase its
+[03:58] size by
+[03:59] a,000%. And this is where noticing the
+[04:02] sketch height comes in. If we decrease
+[04:04] the sketch height to one and we have a
+[04:06] look at that, we'll see it's 1 millm
+[04:08] high and 22 mm across either side. So,
+[04:11] if I increase that by a,000%, what I'll
+[04:14] get is a race um depth of 10 and I'll
+[04:20] get a 220 race diameter, which is more
+[04:24] what I want for a kind of turntable
+[04:26] maybe or something like that. You'll see
+[04:29] the number of sides is actually quite
+[04:30] low. It's 24. So, we slide up the number
+[04:32] of sides to make ourselves a smoother
+[04:35] race bearing. And then we can export
+[04:37] that and we export that as an STL. And
+[04:41] then quite promptly what you've do when
+[04:43] you've exported it is reimpport it but
+[04:46] this time at a thousand sub%. So we
+[04:49] import the file set it to a,000% and
+[04:52] click import. And what we'll get is a
+[04:55] massive res
+[04:56] bearing. We shrink that down a little
+[04:58] bit. You can see how big it's suddenly
+[05:00] got. Now we don't need the box anymore.
+[05:02] So we can delete that. And we don't need
+[05:04] our little test ring anymore. So we can
+[05:06] delete that. Now, if we click on our new
+[05:09] ring, we'll see that in fact it is 220
+[05:11] and it's 10 high. We want to surround
+[05:14] that this is going to be in because this
+[05:16] is going to be a cutout. So, we make
+[05:18] that a hole. Raise it from the ground
+[05:20] say 3
+[05:21] mm and we need to create the cutout that
+[05:24] this is going to be. Now, it's 220 and I
+[05:27] want 30 mm all the way around. So, what
+[05:29] we now need is another cylinder. Smooth
+[05:33] it
+[05:34] out. And we want it to be 16. If we make
+[05:37] it 16 high, that'll be 10 for the height
+[05:39] of the race that we've created. Three
+[05:42] for the bottom, three for the top. This
+[05:44] is already moved up three. So, we've got
+[05:47] a nice measurement that will actually
+[05:49] enclose that completely because that's
+[05:51] what we're looking to enclose it by.
+[05:53] Now, it's 220. So, we want 226x 226. And
+[05:57] that will enclose our cutout completely.
+[06:00] But of course, it will leave a solid
+[06:01] center, which we don't want. So, what we
+[06:04] need is another cylinder. but this time
+[06:07] as a hole. So just copy that, make it a
+[06:10] hole. 226 will get rid of this whole
+[06:12] thing. We want it on the inside diameter
+[06:14] which is 200. And again we want three
+[06:16] either side. So less six. So we make
+[06:19] that 194 by 194. Then we can align all
+[06:24] of this to the same center and then we
+[06:26] can group them. Now it looks like we've
+[06:28] got a solid ring. But if we make the
+[06:30] ring a hole so we can see through it,
+[06:32] we'll see that there's a cutout in there
+[06:34] which is actually the race that we're
+[06:36] going to want. So let's turn that back
+[06:37] to a solid. Now we want two at exactly
+[06:40] the same size. Remember it's 16 high. So
+[06:42] if we take ourselves yet another
+[06:45] cylinder and this time again a cylinder
+[06:48] hole. Smooth it out. This is 226. So
+[06:52] let's make that a little bit bigger so
+[06:54] we make sure we don't get any artifacts.
+[06:56] Make it 230 by 230. And that will cover
+[06:59] the entirety of this if we were to cut
+[07:02] it out because we cut it out, we'll cut
+[07:03] the whole thing out. So we need to raise
+[07:06] that about halfway. Now halfway is
+[07:09] eight. If I were to do that now, then I
+[07:12] would get two raises identical cut
+[07:15] through at 8 mm. But of course, what I
+[07:17] want to do is add a 4 mm ring in there
+[07:21] that is going to be a cage for the
+[07:23] rollers. Because it's 4 mm, I need to
+[07:25] take 2 mm off. And I need a little bit
+[07:28] of three free play. So what we need to
+[07:30] do is lower that by 2 millimeters. Six.
+[07:33] And then a little bit of three play free
+[07:35] play. So we'll call it
+[07:37] 5.75. If we lower that by 5.75, then
+[07:40] we'll get the bottom half. Let's
+[07:43] just align those and then group them.
+[07:46] And we have our bottom half race. Now we
+[07:48] need to print two of those out. Print
+[07:50] off two of those identical rings.
+[07:52] They're going to go on top of each other
+[07:53] like that. And that is our raceway made.
+[07:56] Now we need the cage. Now to make the
+[07:59] cage, we start with a cylinder 4 mm high
+[08:02] by 228x 228. Remember this was 226. I
+[08:06] quite like leaving overlaps and leeway,
+[08:09] but you can trim this down to suit
+[08:10] yourself if you want tighter fits on
+[08:12] things. I've given it an extra
+[08:14] millimeter all the way around just to
+[08:16] make sure everything works nicely. And
+[08:19] of course, we need to cut a hole in that
+[08:20] because we only want it to go in a
+[08:22] little bit here. And again, a
+[08:24] millimeter. If you remember this inner
+[08:26] of the thing that we've moved out of the
+[08:28] way was 1 196. So I've made this 194 uh
+[08:32] sorry 194. I've made this 192x 192. And
+[08:36] again we just center those two to create
+[08:38] our cage ring. Now we've created that.
+[08:41] Of course we need our roller cylinder.
+[08:44] And our roller cylinder is going to be
+[08:46] 10x 10x 10 because the chase that we cut
+[08:49] was 10x 10x 10. Now again, you can play
+[08:52] around with tolerances and clearances on
+[08:54] this and maybe make it 9.8 or whatever
+[08:57] it is that you want to make it. I'm
+[08:58] making mine 10 by 10 by 10. And I need
+[09:01] to use that as a cutout in the ring so
+[09:05] that we can actually get a slot that
+[09:08] this thing can go into. And rollers,
+[09:10] remember, are set at a 45° angle. And
+[09:14] that's because we made that diamond
+[09:15] pattern to make that a hole. Now what we
+[09:18] need to do is align it to our cage. So
+[09:21] highlight both of them and align it to
+[09:23] the cage. You align it to the center and
+[09:26] then one edge. That means that that is
+[09:30] right at the edge of that cylinder which
+[09:32] we don't want. Of course we made it a
+[09:34] millimeter too big. So setting the snap
+[09:36] grid at 1 millm. Use the arrow key to
+[09:39] move it a millimeter. Now if we align
+[09:42] this to the center of that
+[09:45] ring. So, we align it here as well. Then
+[09:48] it will sink down so that the peak of
+[09:51] the cylinder, the roller that we're
+[09:53] going to have is at the center of the
+[09:55] trench that we just dug in the other
+[09:57] ring. Of course, we need to be able to
+[09:59] get that in there. Get that in there. We
+[10:02] need to have a snap fitting. And so,
+[10:03] this has to open a little bit. To do
+[10:06] that, we create a slot in it. So, pull
+[10:08] down another cube primitive. A lot of
+[10:11] this is only primitives upon primitives.
+[10:14] Make it 2 mm wide. And again, align it
+[10:17] to the outer ring cage that we're just
+[10:19] making. By zooming in, we can see that's
+[10:22] well out. It's cutting all the way
+[10:24] through. And we don't want it to cut all
+[10:25] the way through. So, use the arrow key
+[10:28] and bring it back. So, it just cuts into
+[10:30] this section here where the cylinder is
+[10:33] going to go. Now, if we group those,
+[10:36] we'll get what we're looking for where
+[10:38] we can snap fit a roller into that space
+[10:41] because it's got a little gap here. Now,
+[10:44] we need to copy that and put it out the
+[10:45] way for a minute. It'll become clear in
+[10:47] a minute why we've done that. Move it
+[10:49] out of the way. Make sure that you can
+[10:51] see all of this. Right, having moved
+[10:54] that out of the way, what we need to do
+[10:56] is ungroup it. We ungroup it so you can
+[10:59] see everything. Now, we need to work out
+[11:01] how many of these cylinders that we're
+[11:03] going to need to put in here. It's easy
+[11:06] enough to work out. All you actually do
+[11:09] is hit the
+[11:11] cylinder, copy
+[11:13] it, hold down the shift key, and click
+[11:16] the ring, and you'll get this arrow
+[11:18] here. We can move that arrow around. And
+[11:20] once we get to about 8°, we can see that
+[11:23] we're actually clear of the other
+[11:25] cylinder. So, it can only be about 8°
+[11:27] apart. But if I divide 360 by 8, I don't
+[11:31] get a whole number, which will be the
+[11:33] number of cylinders. I get
+[11:35] 22.5. If I double that, if I take that
+[11:37] up to nine, though, what I'll get is 20
+[11:40] cylinders to fit that space. Now, of
+[11:42] course, we need to reverse those
+[11:44] cylinders. So, what we're going to need
+[11:45] to do is move it 18° to leave us the
+[11:50] space for the cylinder. So, it'll
+[11:51] actually be placed
+[11:53] 18°. So, let's just delete that and do
+[11:56] this whole thing again. Now we know how
+[11:58] many we want and what the angle is. We
+[12:00] can highlight the whole thing. We can
+[12:02] copy it and then we'll get this arrow.
+[12:06] If you click on that arrow, you're able
+[12:08] to type directly into the degrees 18 and
+[12:11] it'll move it 18°. Now we'll repeat that
+[12:15] 20 times. And we get to that. Highlight
+[12:18] the whole lot and group
+[12:21] it. Once it's grouped, just move it out
+[12:24] of the way. And let's bring this other
+[12:26] one that we
+[12:27] copied into play. And now we ungroup
+[12:30] that. Click on
+[12:33] this. This cylinder is facing the wrong
+[12:36] way. We want the reverse of this. So
+[12:38] once we're clicked on the cylinder, all
+[12:41] we have to do is click this mirror key
+[12:43] right there. And you get these mirroring
+[12:45] arrows. If we mirror it that way, it'll
+[12:48] be in the right position and it'll be
+[12:49] facing the right way. And we can repeat
+[12:52] the same steps to get a ring with the
+[12:56] opposite way round facing cylinders.
+[12:59] When we've got that, what we need to do
+[13:01] next is rotate that by 9°. Cuz if you
+[13:04] remember, we rotated the whole thing by
+[13:06] 18. We doubled it. Now we want to fill
+[13:09] in those blanks. So rotate it by 9°. And
+[13:12] then line it up with this other ring.
+[13:14] And we get that. If you click somewhere
+[13:16] in this looking wine glass looking
+[13:17] thing, we can delete the other ring
+[13:19] because we don't necessarily want
+[13:21] duplication and that's what we get.
+[13:23] Highlight the whole thing, group it, and
+[13:26] that's what we get. And we're now ready
+[13:27] to print off our cage. And there's our
+[13:30] cage. Now, of course, we need rollers.
+[13:33] These rollers are 9.8x 9.8x 9.8.
+[13:36] Remember, this was 10 x 10 x 10. Now,
+[13:39] that's a habit of mine to leave that
+[13:41] kind of clearance because it's 3D
+[13:43] printing and there's a whole range of 3D
+[13:46] printers out there and I want people to
+[13:47] be able to print it on whatever printer
+[13:49] they've got. If you've got a a more
+[13:52] accurate printer and don't like the
+[13:54] amount of clearance that I'm leaving, by
+[13:56] all means change it. Do 9.95 if you
+[13:59] like. Leave a little bit, but do
+[14:02] whatever you like with these things. And
+[14:04] of course, you're able to print off this
+[14:07] now in any number of you want. Now, to
+[14:09] fit these rollers, then the slots look
+[14:12] like little wine glasses. There's a
+[14:14] little lip right there. You feed the
+[14:16] roller in from behind so that it hits
+[14:18] the little lip. And then you twist it
+[14:20] with the spring because underneath the
+[14:22] spring there's another little lip. So,
+[14:25] you give it a twist until it snaps into
+[14:28] place. So, I should mention there's
+[14:30] another way to do this. A roller
+[14:32] alignment. First of all, get your roller
+[14:34] tilted to 45° and your race and then
+[14:38] align the two to the race at the center
+[14:42] and the edge. Then what you do is you
+[14:44] make the razor
+[14:47] hole. Now, if we zoom down onto that
+[14:49] roller by clicking it and using the zoom
+[14:52] down button, we can see where the roller
+[14:55] actually is. And we can see here that
+[14:57] it's too far down. And it would be
+[14:59] because it's got to be three up from the
+[15:01] bottom, remember? So when we tilted it,
+[15:03] it went below the plane. Now we press
+[15:05] three, it'll raise at the right level
+[15:07] above the plane. And we can look at that
+[15:09] and see where it actually is. And it's
+[15:12] pretty obvious that that grade bit there
+[15:14] is sunk in. And we've got a gap there.
+[15:17] So with your snap grid at one, just
+[15:20] press it once and it will move into the
+[15:22] position that it's supposed to be in.
+[15:24] And we can see there's now no gray bits
+[15:27] and no gaps, which is exactly what we
+[15:29] want. If we zoom back out to home, then
+[15:32] we've got the cage already. And this
+[15:35] time we first align the
+[15:39] cage to the
+[15:41] race. And then we align the cage to the
+[15:44] center of the roller. So highlight the
+[15:47] cage, highlight the roller, hit the
+[15:50] align tool, and you'll see these three
+[15:52] dots, and that aligns it to the center
+[15:55] of the actual roller. And there we go.
+[15:58] It's now nicely aligned. Of course, we
+[16:00] need to make that not a hole
+[16:03] anymore. And then we can proceed as we
+[16:06] did before. So, when we've got them in,
+[16:08] we drop that onto the bottom. And of
+[16:10] course, we put the top of what we have
+[16:13] is a massive ring bearing. Now, these
+[16:16] are surprisingly strong. Now, this was
+[16:18] only printed with a 25% infill.
+[16:22] Okay, we got the bearing on the floor
+[16:23] and I put a sheet of 1 cm acrylic on it
+[16:26] and we're going to see if it can take my
+[16:29] weight. Well, that bit worked. It's not
+[16:40] breaking. Well, how about that? Now, I'm
+[16:43] not sure how much I weigh, but a good 11
+[16:46] or 12 stone and this thing survived it
+[16:49] no problem at all. no damage to it. Now,
+[16:52] you could print it with 100% infill if
+[16:54] you wanted it a bit more if you were a
+[16:56] bit more worried about it breaking when
+[16:57] you'd step on it, but certainly that can
+[17:00] carry an awful lot of weight. And it, as
+[17:02] I say, it works in thrust that when it
+[17:04] was flat, it was thrusting. It works in
+[17:07] axial loads and it works in radial
+[17:09] loads. So, it's a brilliant bearing and
+[17:11] clearly pretty strong and works quite
+[17:14] nicely from 3D printing. And I think
+[17:16] I've got a whole host of uses for this,
+[17:18] not least improving the efficiency of
+[17:21] that. Anyway, I hope you enjoyed the
+[17:23] video. Hope it's helpful to you. Thank
+[17:24] you very much for watching. And please
+[17:26] do remember to like and subscribe.

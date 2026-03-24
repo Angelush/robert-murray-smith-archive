@@ -1,0 +1,208 @@
+[00:02] [Music]
+[00:15] so what spark video 1080 was finding two
+[00:18] vacuum cleaners by the side of the road
+[00:20] we pulled them apart we got a couple of
+[00:21] these out
+[00:22] well these are a universal motors with
+[00:25] an impeller because of course it's a
+[00:26] vacuum cleaner
+[00:27] now you find vacuum cleaners which i do
+[00:30] thrown away all the time once you take
+[00:33] the impeller
+[00:34] off and you get the case off what you
+[00:36] get is actually something like this this
+[00:38] is a really rather beautiful universal
+[00:41] motor
+[00:42] now universal motor can work on sc or dc
+[00:46] and it is a straightforward dc generator
+[00:50] now there are issues with universal
+[00:52] motors i mean their speed control is
+[00:53] rubbish
+[00:54] which is why you find them in vacuum
+[00:55] cleaners because you've only got one
+[00:57] speed on
+[00:58] fast however when you want to make a
+[01:01] generator out of them you've got to
+[01:02] remember
+[01:03] that the electromagnetic force e
+[01:06] is equal to blv sine theta at least
+[01:08] that's why i remember it
+[01:10] b is the strength of the field l is the
+[01:12] length of the wire
+[01:13] v is the velocity at which it turns and
+[01:16] sine theta is the angle of the wire to
+[01:17] the field
+[01:18] velocity clearly has a huge impact on
+[01:21] what these
+[01:22] can do if you can spin these slowly
+[01:25] they won't generate very much you can
+[01:27] spin these quickly
+[01:28] naturally they generate an awful lot
+[01:31] because the series wound the field
+[01:33] current and the armature current are
+[01:35] dependent on each other
+[01:37] you're running this a a very high
+[01:39] resistance you get a low current flow
+[01:41] you have a very weak
+[01:42] field don't generate much lower
+[01:44] resistance high current flow
+[01:46] strong field generates a lot so the
+[01:48] velocity at which you can turn these
+[01:50] is really key to how much these things
+[01:53] can generate
+[01:54] and if i spin nice by hand i'll get a
+[01:56] few volts out of it let's have a look at
+[01:57] that so i've hooked it up to my
+[01:58] voltmeter it's on an open circuit and
+[02:00] i'll give that a twiddle
+[02:02] 21 millivolts which is pathetic i won't
+[02:06] even bother doing the open circuit
+[02:07] voltage because i can tell you it's a
+[02:08] milliamp or less
+[02:10] now that's a real issue obviously if you
+[02:12] wanted to run your house on there
+[02:13] because that's
+[02:14] less than you're gonna find in a lemon
+[02:16] battery so we really need to do
+[02:18] something with that to get that gearing
+[02:21] up there so that when we give it a spin
+[02:23] we can get that to spin quickly one
+[02:26] thing about these incidentally is they
+[02:27] are self-exciting
+[02:29] if they're not you stick a magnet on
+[02:31] there or you put a separate current down
+[02:32] the
+[02:33] field windings you'll get them going but
+[02:35] they're self-exciting with the residual
+[02:36] magnetism that's already in there
+[02:38] but even so we'll let you that problem
+[02:40] that if you can't spin that you're not
+[02:42] gonna get anything out
+[02:43] so need some gearing easiest way to get
+[02:46] gearing
+[02:47] is the other thing i seem to find at
+[02:50] least a million of a week
+[02:52] these things exercise bikes this
+[02:54] particular exercise bike came from the
+[02:56] same place as our rowing machine that's
+[02:58] our friends who run the boxing club
+[03:00] they donated this to us the exercise
+[03:02] bike itself i'm not going to use that
+[03:04] much of it actually what i'm interested
+[03:06] in
+[03:08] is this section here which is the
+[03:12] gearing resistance section so let's get
+[03:14] that apart and have a look at that
+[03:15] it is with its support bar plastic cover
+[03:17] removed and that's the heart of the
+[03:18] beast
+[03:19] let's have a look at that so here's my
+[03:21] driving pedal uh pedal attached to this
+[03:23] big pulley that works the little pulley
+[03:25] there
+[03:25] working that big pulley working the
+[03:26] little pulley working the flywheel the
+[03:28] flywheel can go against this magnet shoe
+[03:30] here that i'm holding back with my thumb
+[03:32] to increase the resistance so we've got
+[03:34] this nice gear train here
+[03:36] and if i give that a little turn and i'm
+[03:38] turning that quite slowly
+[03:40] but the flywheel turns really quite
+[03:43] quickly so obviously we've got the
+[03:44] mechanism we need if we can attach our
+[03:46] motor somehow to this point
+[03:49] then when we turn this slowly the motor
+[03:52] will turn
+[03:52] okay i've got the whole thing for bits
+[03:54] and this is the main bit and there's the
+[03:56] flywheel free spinning but it's driven
+[03:59] by that belt
+[04:00] now we've got to connect that somehow
+[04:02] because there's no other way
+[04:03] got to connect that somehow to the motor
+[04:06] in a robust manner because we're going
+[04:08] to be turning this
+[04:09] and alan i've done this before but i did
+[04:12] this before with these tiny two spells
+[04:14] and i went to see our mates down at
+[04:15] canterbury auto
+[04:16] and they gave me this it is a really
+[04:19] sturdy
+[04:20] toothed belt just so happens it fits
+[04:23] nicely round there
+[04:24] and matches up so i'm going to slice
+[04:26] this off glue it around there and that
+[04:28] will make my flywheel
+[04:30] one massive cog then i can bolt the
+[04:32] whole thing together
+[04:34] okay i tell you what this is going to
+[04:35] annoy some folks but what the hey i was
+[04:37] looking for something to make the
+[04:39] smaller cog to go with this big cog that
+[04:41] we made when i realized
+[04:43] i actually have a few of these this is a
+[04:45] printer motor
+[04:46] and you'll notice it's just a great big
+[04:48] drum so that's going to be really easy
+[04:51] for me to put that around and make that
+[04:53] the smaller cog
+[04:54] and everything's mounted rather than
+[04:56] having to make a cog for that and then
+[04:58] mount it
+[04:59] so that will work and you're just going
+[05:01] to have to make one yourself or take my
+[05:03] word for it whichever way around you
+[05:05] want to do it
+[05:06] because i'm going to use a printer motor
+[05:08] instead of the hoover motor
+[05:10] just because i like it now i do think
+[05:12] that these are as a
+[05:13] as readily available if not more
+[05:16] available than hoover's i mean
+[05:17] printers you just come across them all
+[05:19] the time so
+[05:21] it's easier for me i'm going to make
+[05:22] that into the cog and then
+[05:24] mount that on there and that would be
+[05:26] the generator i actually
+[05:28] love the idea so sorry about the change
+[05:30] but hey ho
+[05:31] that's the way life is okay i am
+[05:35] super pleased with this really super
+[05:37] pleased there's our little gearing
+[05:39] system
+[05:40] handle to turn it here and i can tell
+[05:41] you this stupid little thing
+[05:43] it turns out about 12 volts and two or
+[05:46] three amps it's amazing
+[05:48] now what i've got to demonstrate the 12
+[05:49] volts is this little 12 volt lightning
+[05:51] strip and i can tell you when i turn
+[05:53] this it gets bright
+[05:54] so let me give it a turn over because we
+[05:57] don't need to turn it quickly and we'll
+[05:58] get some real bright light out of that
+[06:00] i'm not looking at it
+[06:09] isn't that awesome i mean that's really
+[06:11] awesome
+[06:12] and i measured that on the meter
+[06:14] obviously and there's the results i got
+[06:16] now clearly if you bother to put a cover
+[06:18] on this and
+[06:19] here where we've attached the handle
+[06:23] there we go there then you could attach
+[06:25] some blades now it's made from a bicycle
+[06:27] so a bicycle chain sprocket with some
+[06:29] blade screwed to that is going to make
+[06:31] you a wind turbine
+[06:32] this entire thing was made for nothing
+[06:36] and not brilliant it's it's zero cost to
+[06:39] me
+[06:40] um new cogging system
+[06:43] 12 volts three or four amps at that rate
+[06:46] of turn
+[06:47] absolutely fantastic anyway i thought
+[06:49] i'd share that with you i hope you
+[06:50] enjoyed the video and thank you very
+[06:52] much for watching

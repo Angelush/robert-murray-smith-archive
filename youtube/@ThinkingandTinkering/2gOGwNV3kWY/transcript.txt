@@ -1,0 +1,134 @@
+[00:02] [Music]
+[00:13] hi so it's a little update on the cell
+[00:15] we're back on the bench with 1 cm square
+[00:17] cells that's what's under here and of
+[00:19] course it's running the motor it's
+[00:20] running the motor at about 22 23
+[00:23] milliamps of the moment dropping down to
+[00:25] about uh 173 mots now the reason we're
+[00:29] doing this and there is
+[00:30] the reason we're doing this is because I
+[00:32] bothered to get some of these These are
+[00:34] duel theves so I've stuck a jeel thief
+[00:36] in here just to see how it'll run and
+[00:38] I've been running it off and on a few
+[00:40] times um it tends to last on this one
+[00:43] square cm about 6 minutes and the
+[00:45] outputs fairly steady until it begins to
+[00:47] die it sort of dies round about uh well
+[00:50] you saw um and it outputs round about 30
+[00:53] milliamps for the most the duration of
+[00:56] that but it was pretty exciting so I
+[00:58] thought I'd just quickly share with you
+[00:59] the the jewel thief in with it being
+[01:02] able to run that motor so let's charge
+[01:05] it up
+[01:07] again and in a minute we'll discharge it
+[01:13] again oh hell that's
+[01:17] enough just reset me U me
+[01:22] watch there we
+[01:28] go so the J Thief is able to help pull
+[01:31] this uh device down now what we're
+[01:33] measuring here incidentally is the power
+[01:35] that's going across the load not the
+[01:36] power that's been drawn through the
+[01:38] circuit we don't actually know what that
+[01:39] is we know what power is being delivered
+[01:42] to this motor and that's a really
+[01:44] important point I think because I think
+[01:46] what matters is the power that you're
+[01:48] actually getting at the point of which
+[01:49] you use it the power in the battery we
+[01:51] don't know we're guesstimating it we
+[01:53] know we got a ton of losses are going on
+[01:54] in this jumble of wires that connects
+[01:56] everything together but the important
+[01:58] point is what are we getting out here
+[02:00] what work can actually be done so the um
+[02:03] ameter is actually measuring the drawer
+[02:05] across that load the voltmeter is
+[02:07] measuring the volts across the cell so
+[02:09] we can see the cell drop and see when
+[02:10] it's sort of you know getting towards
+[02:12] the end of its life but what we really
+[02:14] want to know is how long how much power
+[02:18] is going to be delivered to what we want
+[02:19] to do with it so that's what we're
+[02:21] measuring here we're not measuring the
+[02:23] battery uh and what the battery actually
+[02:26] has we're measuring what the battery can
+[02:28] supply to the load and if you think
+[02:32] that's a really significant point and a
+[02:34] really important point when looking at
+[02:36] these kind of devices now I can tell you
+[02:38] that's been running 1 minute 16 seconds
+[02:40] for the few seconds that I gave it a
+[02:42] charge because I was pretty fed up with
+[02:44] it really so no attention span that's
+[02:47] the problem with the kids today they
+[02:49] can't concentrate 20 seconds plenty of
+[02:52] time to charge a battery get it
+[02:54] working so we're now 1 minute 32 uh 148
+[02:59] molts and still 20 milliamps the power
+[03:02] is very low but the point is that
+[03:04] battery there you go 142 seconds that
+[03:07] battery can deliver to the load that
+[03:11] amount of power we put the duel thief in
+[03:13] to try and draw out more power from the
+[03:16] device and it seems to work it works
+[03:18] really quite nicely actually on full
+[03:20] charge this ran this device for 6
+[03:22] minutes at a fairly level load of about
+[03:25] 31 33 milliamp hours but I thought I'd
+[03:29] share with you uh and that's the jewel
+[03:32] thief we used and that one is supposed
+[03:34] to drop down to the voltage it drop down
+[03:37] this is a low voltage duel Thief which
+[03:39] we'll give it a go that's supposed to
+[03:40] drop down to
+[03:43] 0.03 molts apparently and if you worried
+[03:47] about how big this would be when we
+[03:48] build the actual device here's a SMD
+[03:52] jeel Thief that I just love the hate cuz
+[03:55] that's a really tiny little thing and we
+[03:56] could glue that to the side of the back
+[03:59] um also the thing I wanted to talk about
+[04:01] actually was some of my thoughts on on
+[04:03] what to do with this so here's a thing
+[04:06] this is um Steves ecigarette now they're
+[04:09] tremendously popular things uh whatever
+[04:12] you think about smoking these are very
+[04:15] popular they one of the biggest growing
+[04:16] markets and of course what they got in
+[04:18] them is a lithium and of course the
+[04:19] problem with them is um you have to
+[04:21] leave them on overnight to charge and
+[04:23] they last as long as the lithium charges
+[04:25] now remember this device can be tap
+[04:28] charged so we can charge this device
+[04:30] almost instantly and my thoughts are
+[04:32] going along the lines of a um battery
+[04:36] about that size coupled with a um very
+[04:41] small jewel thief bundle of resistive
+[04:44] wire so we get the Heat and package the
+[04:46] whole thing into something like that and
+[04:49] that's where I'm kind of thinking of
+[04:51] when we're looking at some kind of
+[04:52] product that we might maybe for instance
+[04:54] Kickstart the point being of course
+[04:57] however long this lasts it doesn't
+[04:58] really matter the charge time is going
+[05:00] to be a matter of going click click and
+[05:03] you're going to be charged and you're
+[05:04] going to get quite a long run time so
+[05:07] you're not going to be waiting it it
+[05:09] changes the sort of concept of these
+[05:10] things a little bit so I'm beginning to
+[05:12] think about a product maybe along those
+[05:14] lines that we could perhaps
+[05:17] Kickstart anyway there's my thoughts on
+[05:20] how to get that power out of there
+[05:22] despite the voltage being so low and I
+[05:24] thought you'd be interested and I
+[05:25] thought I'd share it with you so thank
+[05:27] you very much for watching

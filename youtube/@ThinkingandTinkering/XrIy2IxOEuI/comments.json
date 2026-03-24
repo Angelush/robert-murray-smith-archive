@@ -1,0 +1,882 @@
+[
+  {
+    "id": "UgyJKJwejLO3-c4jh9B4AaABAg",
+    "author": "@screen-protector",
+    "author_channel_id": "UCUDSb0gHgpnhvoWPYfGLmfw",
+    "text": "Just a few wee notes from myself. It's better to use the series to get more volts as this will be less amps = less loss on the wiring and thiner wires = cheaper to build the whole system.\n\nJust keep in mind you need a MPPT controller, the one I'm building now to stabilize the charging power to the batteries and load. Without it, with a regular controller, you won't have:\n\n1. Charging phases which are 3 and some for a quick charge and other to sustain. Without it you're killing the battery quicker.\n2. If no controller, no protection, can damage batteries and other equipment.\n3. The charging itself if no MPPT controller = higher losses, but synchronous controller like MPPT max out the possible charge.\n\nThe one I'm building now goes up to 80V on the input and max 30A, but firmware is limited to 1kW. It's a great project and open source with an app for your smartphone. I'll make a video about the build soon on this/my Youtube channel.",
+    "likes": 0,
+    "published_at": "2024-05-03T13:44:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxwTKd9mjaR94LFXD94AaABAg",
+    "author": "@zeshan144",
+    "author_channel_id": "UCPyhRm6YkOGtdYhUhHUMr7Q",
+    "text": "Ive built myself a similar generator. I would like to work out the power output of it but not sure how to do it. I understand I need to put the generator under load and that volts x amps = power. I can measure volts easily but struggle to measure amps. Can I do it without a precision calibrated load like you have? I have a couple of multimeters to measure volts and amps at the same time. What sort of set up can I do with multimeters and LEDS or resistors as a load? I have built a rectifier for it too",
+    "likes": 0,
+    "published_at": "2024-04-07T19:07:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyscFiZFoG0A94GR94AaABAg",
+    "author": "@davidcarpenter603",
+    "author_channel_id": "UCz09sgWbnVCD9957T26FC_A",
+    "text": "Robert what glue did you use for the magnets on the rotor?",
+    "likes": 0,
+    "published_at": "2023-08-05T08:07:35Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxyscFiZFoG0A94GR94AaABAg.9t13hebyQCb9t164FiTgxv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "superglue mate",
+        "likes": 1,
+        "published_at": "2023-08-05T08:28:17Z"
+      },
+      {
+        "id": "UgxyscFiZFoG0A94GR94AaABAg.9t13hebyQCb9t17ZHIclZA",
+        "author": "@davidcarpenter603",
+        "author_channel_id": "UCz09sgWbnVCD9957T26FC_A",
+        "text": "@RobertMurraySmith  Thanks Robert. Love the videos. Working on the Generator as we speak.",
+        "likes": 0,
+        "published_at": "2023-08-05T08:41:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzO-kG2pItLJzEHB3d4AaABAg",
+    "author": "@alonzohopkins5771",
+    "author_channel_id": "UCr3aLLVHt-qiVtvWkD5UJVA",
+    "text": "\"Promosm\" 🎶",
+    "likes": 0,
+    "published_at": "2023-07-21T11:27:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxd6KLmOPuGltBlupl4AaABAg",
+    "author": "@emilalmberg1096",
+    "author_channel_id": "UCLFsduHHdkpWlAJR-_C1P7A",
+    "text": "You are making several mistakes!\nYou measure the efficiency of the entire system, generator, rectifier, thin cables and a non-linear LED!\nThe worst is that you connect 3 voltages that are out of phase with each other.\nStart over, connect only one resistor per phase, measure voltage and current, multiply for power...",
+    "likes": 0,
+    "published_at": "2023-06-22T11:09:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzfxgn9UXPNdG9Sjfx4AaABAg",
+    "author": "@reypolice5231",
+    "author_channel_id": "UCD0Ph_kdHdmpcY1XbZDIB1g",
+    "text": "Very encouraging the watch you go from idea and concept to finished proof-of-concept, and fully working prototype. \nThank you so kindly for taking us on these many journeys, of exploration and discovery.\nA plethora of positive spiritual energy in a world that has at times forgotten itself.",
+    "likes": 1,
+    "published_at": "2023-06-22T05:20:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxaEmJJSoxtg8DUZ9p4AaABAg",
+    "author": "@CDNTheOnePath",
+    "author_channel_id": "UC_L6CuHjWJ6Rm9mhuvqyFtA",
+    "text": "Crazy bastard! Beatiful.",
+    "likes": 0,
+    "published_at": "2023-06-22T04:43:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxc_2mNrhCp5sIw_GZ4AaABAg",
+    "author": "@mikeconnery4652",
+    "author_channel_id": "UCQZWq3h1Kdl4AJJf3J7HBNQ",
+    "text": "Nice informative video",
+    "likes": 0,
+    "published_at": "2023-06-21T16:35:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw7HkQ_8AWxtJHrCjJ4AaABAg",
+    "author": "@marek298",
+    "author_channel_id": "UCEwE-uYcF06kT8HLc8r9zhQ",
+    "text": "this cliffhanger video parts are killing me!",
+    "likes": 0,
+    "published_at": "2023-06-21T15:14:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTilx8mBDh60fa6nd4AaABAg",
+    "author": "@extremebudget",
+    "author_channel_id": "UCIY_2EZWXzhcyHNlo2BS_GA",
+    "text": "Hi Robert!  i have made \"Penny Sand Batteries\"!  I got an LED to light up from it.  and I have been experimenting with charging little capacitors with them to see the potential in the concept.  Super awesome.    I'm trying to find ways that people can make cool things like this with the stuff they find around the house.   Thank you for sharing your ideas!  I'm trying to do get those ideas out there.  :)",
+    "likes": 1,
+    "published_at": "2023-06-21T12:43:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyFJk80cgTjJVpwEYF4AaABAg",
+    "author": "@MichaelSkinner-e9j",
+    "author_channel_id": "UCVsEDsBvNtCXomFRB3RSBdA",
+    "text": "How much could graphene strengthen a carbon fiber hydrogen tank?  With just compressed hydrogen?\n\nWhat about those tanks that have both compression and liquid hydrogen?",
+    "likes": 0,
+    "published_at": "2023-06-21T09:48:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzy9K3cRMrBn4nL0rh4AaABAg",
+    "author": "@colrodrick8784",
+    "author_channel_id": "UC4dC5Czc7fDVN_MGAWys2Hw",
+    "text": "I’m anxious to fast forward to the final episode lol",
+    "likes": 0,
+    "published_at": "2023-06-21T09:46:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy8ZtEHrJou_Nt3o-14AaABAg",
+    "author": "@salilsahani2721",
+    "author_channel_id": "UCzdUqnsHcb7NW9uvAIvc8pg",
+    "text": ":)",
+    "likes": 0,
+    "published_at": "2023-06-21T09:31:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKsqZ7L7Gi4yH1E4t4AaABAg",
+    "author": "@simonexperiences",
+    "author_channel_id": "UCU6ga7uFadTuY4bWC7XKj6Q",
+    "text": "super!\nhow to find your old videos on youtube?\nit's a shame that your valuable work is not archived....\nis it youtube removing them or is it a choice on your part?\nthank for your work",
+    "likes": 0,
+    "published_at": "2023-06-21T07:51:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxKsqZ7L7Gi4yH1E4t4AaABAg.9rDA3MdXJyZ9rDFdrg3LRy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is hard to get to them with them not being archived properly - i am in the process of putting relevant videos together in omnibus editions in the omnibus playlist - that should make them more accessible",
+        "likes": 0,
+        "published_at": "2023-06-21T08:40:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzSYK6EnMin2lwBHO94AaABAg",
+    "author": "@POKERDEAL",
+    "author_channel_id": "UCidEBjtpwEsvlsepQ-XOEqg",
+    "text": "Anyone else hoping Rob was going to stick it to the planet gear stack from vid  1960. 27 to 1 hand crank",
+    "likes": 1,
+    "published_at": "2023-06-21T04:04:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzSYK6EnMin2lwBHO94AaABAg.9rClAPWBy5Z9rDEZyNYejE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - i am an open book lol",
+        "likes": 1,
+        "published_at": "2023-06-21T08:30:37Z"
+      },
+      {
+        "id": "UgzSYK6EnMin2lwBHO94AaABAg.9rClAPWBy5Z9rDJTKNCP45",
+        "author": "@archibaldvonkranski8881",
+        "author_channel_id": "UCsdMbWWib3M0vNDuR94SMXw",
+        "text": "👍",
+        "likes": 0,
+        "published_at": "2023-06-21T09:13:24Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwi-V_muqSX_HUBJ7V4AaABAg",
+    "author": "@OFerrell21",
+    "author_channel_id": "UC8Avau6ZyJHjPzwmrd7OALA",
+    "text": "Hay Robert, just became a member a few days ago. Really enjoy the projects and has had me collecting stuff as of late and pulling parts out. Do any of the earlier videos break down some of the basics on electricity? Trying to wrap my mind around the components I’m pulling out and what Is useful.",
+    "likes": 0,
+    "published_at": "2023-06-21T03:32:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwi-V_muqSX_HUBJ7V4AaABAg.9rChUgjCWAB9rDEd-DBer5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes they do mate",
+        "likes": 0,
+        "published_at": "2023-06-21T08:31:10Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwz3KT7c-a9HzqsWTN4AaABAg",
+    "author": "@archibaldvonkranski8881",
+    "author_channel_id": "UCsdMbWWib3M0vNDuR94SMXw",
+    "text": "I'm surprised you didn't connect the gear contraption from episode 1960. Then we would see good readings😎. Great video mate 👍",
+    "likes": 0,
+    "published_at": "2023-06-21T00:57:40Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwz3KT7c-a9HzqsWTN4AaABAg.9rCQjOrU2hM9rDEf6qplIF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "don't get ahead of yourself lol",
+        "likes": 0,
+        "published_at": "2023-06-21T08:31:27Z"
+      },
+      {
+        "id": "Ugwz3KT7c-a9HzqsWTN4AaABAg.9rCQjOrU2hM9rDG_A0rFjM",
+        "author": "@archibaldvonkranski8881",
+        "author_channel_id": "UCsdMbWWib3M0vNDuR94SMXw",
+        "text": "@ThinkingandTinkering 😅",
+        "likes": 0,
+        "published_at": "2023-06-21T08:48:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypyExda36YH4_b12t4AaABAg",
+    "author": "@Ewr42",
+    "author_channel_id": "UCHNpyZ0-DdG0h9bb81TyIyg",
+    "text": "I'd love to see an expandable wind turbine with flexible blades to adjust the height.\n\ncould fabric work well enough for a vertical turbine?",
+    "likes": 1,
+    "published_at": "2023-06-21T00:03:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgypyExda36YH4_b12t4AaABAg.9rCKXOiN8pn9rCKkEoe1BC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep - i have made a few",
+        "likes": 0,
+        "published_at": "2023-06-21T00:05:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFg0sAJgiSZvNKIi54AaABAg",
+    "author": "@lawrencegt2229",
+    "author_channel_id": "UCigZve3RGKYpODEOqlqkMwg",
+    "text": "If this was only used for charging a large capacity storage battery, what would be better - coils in series or parallel?",
+    "likes": 0,
+    "published_at": "2023-06-20T22:17:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzFg0sAJgiSZvNKIi54AaABAg.9rC8N0T3knu9rCKmvewaXU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i don't know",
+        "likes": 0,
+        "published_at": "2023-06-21T00:05:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwmiB7rc8kHSRtYKKJ4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "Some systems use capacitors on diode bridges to smooth out the dc out.",
+    "likes": 0,
+    "published_at": "2023-06-20T21:44:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwmiB7rc8kHSRtYKKJ4AaABAg.9rC4dechDje9rCJ4isdB9s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i covered that in other videos mate - yo might want to check them out too",
+        "likes": 1,
+        "published_at": "2023-06-20T23:50:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwB_jV-9gZEu8Qe5pp4AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "Instead of spinning by hand, it might be easyer to wind a string or rope on pully. One can pull it by hand, or for more consistant results for testing, one might add a known weight and let gravity pull. 😊",
+    "likes": 0,
+    "published_at": "2023-06-20T21:30:08Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwB_jV-9gZEu8Qe5pp4AaABAg.9rC2zV_ugvE9rCJ8s4yCaE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "this is not really testing mate - i am just demonstrating it does something",
+        "likes": 0,
+        "published_at": "2023-06-20T23:51:22Z"
+      },
+      {
+        "id": "UgwB_jV-9gZEu8Qe5pp4AaABAg.9rC2zV_ugvE9rCXHFO_CIS",
+        "author": "@kreynolds1123",
+        "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+        "text": "@ThinkingandTinkering  it's time for me to unsubscribe.  I  wish you the best.",
+        "likes": 0,
+        "published_at": "2023-06-21T01:54:51Z"
+      },
+      {
+        "id": "UgwB_jV-9gZEu8Qe5pp4AaABAg.9rC2zV_ugvE9rDDJV-6yzP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@kreynolds1123 cya - all the best to you too",
+        "likes": 0,
+        "published_at": "2023-06-21T08:19:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwsyjaQffu6bH3XOi94AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "Not knowing what you want to do and remain flexable, It may  be nice to simply terminate  three coils with 6 terminals. That gives you the flexibility to  try different ways to recitify three phases.  \n\nIf you seperately rectify the output of each of three phases, you may as well as also add three capacitors, one across the output of each bridge rectifyer.  This way, unloaded, you'll get closer to 3× the peek voltage of each coil, rather than the sum of three different phases. The down side of three sets of bridge rectifyers with output in serries is a voltage drop in the amount of six diodes.",
+    "likes": 0,
+    "published_at": "2023-06-20T21:23:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwsyjaQffu6bH3XOi94AaABAg.9rC2BXvtVmp9rCJEaeaIap",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have covered the electronics in more detail in other videos mate - you might want to check them out",
+        "likes": 0,
+        "published_at": "2023-06-20T23:52:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxd6k1qIkwuPFZQ1QN4AaABAg",
+    "author": "@DavidD6969",
+    "author_channel_id": "UCKlWrdvus4QvEK8-WAiF3Pw",
+    "text": "Nice👍",
+    "likes": 0,
+    "published_at": "2023-06-20T21:18:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxd6k1qIkwuPFZQ1QN4AaABAg.9rC1dJCOF8y9rCJF4Ey1ov",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2023-06-20T23:52:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTjJKKdxP6UN10gWR4AaABAg",
+    "author": "@chriskeeble",
+    "author_channel_id": "UCiehDmTXmKHWeM1EOExU3PQ",
+    "text": "Fantastic watching this project develop & evolve. Thank you Robert - keep going!",
+    "likes": 2,
+    "published_at": "2023-06-20T20:20:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTjJKKdxP6UN10gWR4AaABAg.9rBvztX0iIn9rCJFl_fQoi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thanks, will do!",
+        "likes": 0,
+        "published_at": "2023-06-20T23:52:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOKCyGDSlMUNjdDjV4AaABAg",
+    "author": "@26jared1",
+    "author_channel_id": "UCCOa6t3N8AipOqrFE1FuRQg",
+    "text": "I would love to see everything working in conjunction. The gravity battery working with the pendulum and flywheel using your gearing system and generator. What is possible? I love the content and you're a great teacher.",
+    "likes": 0,
+    "published_at": "2023-06-20T20:06:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxOKCyGDSlMUNjdDjV4AaABAg.9rBuQ6DAQrO9rCJJc3O0ZA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - but you really should give it a go - there is no seeing like seeing your own work",
+        "likes": 1,
+        "published_at": "2023-06-20T23:52:50Z"
+      },
+      {
+        "id": "UgxOKCyGDSlMUNjdDjV4AaABAg.9rBuQ6DAQrO9rCM1_zIHbx",
+        "author": "@26jared1",
+        "author_channel_id": "UCCOa6t3N8AipOqrFE1FuRQg",
+        "text": "@ThinkingandTinkering And thank you for the plans, sir. What you do is admirable. Curing ignorance is what you do!",
+        "likes": 0,
+        "published_at": "2023-06-21T00:16:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_SwX7_WI4ym-G4n54AaABAg",
+    "author": "@robsfish4485",
+    "author_channel_id": "UCTS8B_iOg7CLsCh7b1RUiLQ",
+    "text": "What values would you plug into the EMF formula that you often mention? And, does it correspond with the actual output you measured?",
+    "likes": 0,
+    "published_at": "2023-06-20T19:34:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_SwX7_WI4ym-G4n54AaABAg.9rBqjIS7_Mu9rCJPNdKdjB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's BLV sine theta mate - and yes more or less",
+        "likes": 1,
+        "published_at": "2023-06-20T23:53:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxBlMraWXOv8V3M0Dp4AaABAg",
+    "author": "@sailaway8244",
+    "author_channel_id": "UC-8-Y9j3DiT94OlYLEwYiJg",
+    "text": "Why push the volts? anything above 55v outside you start seriously breaching IEE regulations (RCDs etc) surely you're safer limiting the volts at 13 m/s (likely top power  output) ? Va x Ia = power .... there's a reason why site transformers are limited to 110v (55v centre tapped)🤔48v peak output maybe the best option but 24v or 12v shouldn't be discounted depending on location/system",
+    "likes": 0,
+    "published_at": "2023-06-20T19:29:11Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgxBlMraWXOv8V3M0Dp4AaABAg.9rBq8YPt7xd9rCJW-kH-V0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "stick a transformer in there mate",
+        "likes": 0,
+        "published_at": "2023-06-20T23:54:31Z"
+      },
+      {
+        "id": "UgxBlMraWXOv8V3M0Dp4AaABAg.9rBq8YPt7xd9rD4OjgBPj9",
+        "author": "@sailaway8244",
+        "author_channel_id": "UC-8-Y9j3DiT94OlYLEwYiJg",
+        "text": "@IC86688 tru , but is it worth the risk ? 55v is the limit for a reason... the cost between a cable size or 2 is negligible unless you're talking long distances (volt drop)",
+        "likes": 0,
+        "published_at": "2023-06-21T07:01:42Z"
+      },
+      {
+        "id": "UgxBlMraWXOv8V3M0Dp4AaABAg.9rBq8YPt7xd9rD4mmctN10",
+        "author": "@sailaway8244",
+        "author_channel_id": "UC-8-Y9j3DiT94OlYLEwYiJg",
+        "text": "@ThinkingandTinkering why suffer the losses involved in gearing up to then transform the voltage down to a safe limit and over complicate the build?",
+        "likes": 0,
+        "published_at": "2023-06-21T07:05:07Z"
+      },
+      {
+        "id": "UgxBlMraWXOv8V3M0Dp4AaABAg.9rBq8YPt7xd9rDELXj0Rkr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@sailaway8244 there is a limit to how fast you can turn something - you can't make your arm turn faster it is just physically impossible - but you can use gears to do it until you reach a torque you can't shift - that way you are getting the most efficient output from your machine. You can just turn it slower in which case the volts will drop but you are using your machine in a very very inefficient way - almost making it not worth doing. But then everything is safe if you just don't do it.",
+        "likes": 1,
+        "published_at": "2023-06-21T08:28:39Z"
+      },
+      {
+        "id": "UgxBlMraWXOv8V3M0Dp4AaABAg.9rBq8YPt7xd9rDJIyr4LB_",
+        "author": "@sailaway8244",
+        "author_channel_id": "UC-8-Y9j3DiT94OlYLEwYiJg",
+        "text": "@ThinkingandTinkering agreed, just highlighting the issues with breaking the 55v extra low voltage barrier that you'd break gearing up with 2 or 3 sets of gears.... maybe a form of speed switch maybe a future project switching coil configurations with wind speed something like a star-delta starter would do using trigger voltages on a relay or two.",
+        "likes": 0,
+        "published_at": "2023-06-21T09:11:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZuW4lcRRQIxXQE5Z4AaABAg",
+    "author": "@jeremiahbullfrog9288",
+    "author_channel_id": "UCf_CiilWn2SUg0U0ztvcaRQ",
+    "text": "This is great! Some of your older videos achieved the weak milestone of \"lighting a led\" .... would love to see some of them revisited with a proper test\nCheers mate",
+    "likes": 2,
+    "published_at": "2023-06-20T19:13:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZuW4lcRRQIxXQE5Z4AaABAg.9rBoIlFHJ_99rCJdnt7XNS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sure",
+        "likes": 0,
+        "published_at": "2023-06-20T23:55:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwFqOlOmAOEZ3LX0xh4AaABAg",
+    "author": "@mikeyb7263",
+    "author_channel_id": "UC6ZT5bfWnCAr67AtsvZ9MyQ",
+    "text": "\"You can bet your bottom dollar.\" Odd choice for a man from the UK, but it \"just goes to show you\" that great ideas are universal, and not just the province of the rich. Kind of your theme, I suppose.",
+    "likes": 3,
+    "published_at": "2023-06-20T19:11:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwFqOlOmAOEZ3LX0xh4AaABAg.9rBo9jX19Js9rCJfP_eoAp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes it is mate lol",
+        "likes": 3,
+        "published_at": "2023-06-20T23:55:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy_x6hCssXBDrCU4LN4AaABAg",
+    "author": "@allanjacques1738",
+    "author_channel_id": "UCsSNXXTpou-_wCs1qkQUlxg",
+    "text": "I am having difficulty wrapping the coils. I have two on now and although they each read about 60 oh one seems to be producing more than the other .  I  The weaker coil is the outermost one and is farther from the magnets. Not sure how I am going to stuff a third coil on. I modified the stator to have thicker vanes. making it sturdier and expanded things a bit to fit inside a 4 inch green PVC pipe.  The ends are square allowing 4 long threaded rods to hold the top and bottom together. Happy with the design mods for the most part but I can't see m to get more than 12 volts when I wrap a string around the shaft and give it a good pull Series about  12.8v and parallel about 7 V. Am I doing something wrong? should I bother to pit on a third coil. I did make the jig but had to expand it. these were AC readings",
+    "likes": 0,
+    "published_at": "2023-06-20T18:43:36Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy_x6hCssXBDrCU4LN4AaABAg.9rBkvft5I6u9rCL1uSwyvS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh - i managed to line my up side by side - you shouldn't feel much in the way of torque when you pull - what that means is it is going no where near fast enough - so you are going to have to gear it as you are not spinning it fast enough mate - tomorrows vid should make this clearer",
+        "likes": 0,
+        "published_at": "2023-06-21T00:07:53Z"
+      },
+      {
+        "id": "Ugy_x6hCssXBDrCU4LN4AaABAg.9rBkvft5I6u9rDZ3WIJFiA",
+        "author": "@allanjacques1738",
+        "author_channel_id": "UCsSNXXTpou-_wCs1qkQUlxg",
+        "text": "@ThinkingandTinkering  Ok Rob. I will realign  and give it a spin!  then gear it up!",
+        "likes": 0,
+        "published_at": "2023-06-21T11:29:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAdM_0guy_Gyup0gZ4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "Looking excellent Robert! (~_^)-b",
+    "likes": 0,
+    "published_at": "2023-06-20T18:40:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAdM_0guy_Gyup0gZ4AaABAg.9rBkXW-buVS9rCJgNxAn6n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2023-06-20T23:56:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwVYcMDWcnwfyOHmel4AaABAg",
+    "author": "@PaulOvery001",
+    "author_channel_id": "UCaeuClP5c40g58D76P5s_JQ",
+    "text": "Please please please stop using digital zoom.  BTW:  Keep up the good work!",
+    "likes": 1,
+    "published_at": "2023-06-20T18:07:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwVYcMDWcnwfyOHmel4AaABAg.9rBglPq34pn9rCJo1nlx3E",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's a funny thing when i don't use it i get exactly the opposite complaint lol - just goes to show - no pleasing everyone - in fact i have also been praised for zooming in - lol - sorry mate but that did tickle my funny bone",
+        "likes": 1,
+        "published_at": "2023-06-20T23:57:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwsy3uo31-cwlA7QGV4AaABAg",
+    "author": "@aaronsj80",
+    "author_channel_id": "UC7ld2kAVGNLsnWxlbMMxFOw",
+    "text": "Do you have an oscilloscope? I think it would be really cool to see the outputs of some of your generators on an oscilloscope.",
+    "likes": 0,
+    "published_at": "2023-06-20T18:06:46Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugwsy3uo31-cwlA7QGV4AaABAg.9rBgi1VlS-L9rCJsSTYQI5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I strongly suspect only for you mate sorry",
+        "likes": 0,
+        "published_at": "2023-06-20T23:57:44Z"
+      },
+      {
+        "id": "Ugwsy3uo31-cwlA7QGV4AaABAg.9rBgi1VlS-L9rCKa8I6aw7",
+        "author": "@aaronsj80",
+        "author_channel_id": "UC7ld2kAVGNLsnWxlbMMxFOw",
+        "text": "@ThinkingandTinkering I'm sure other people would find it interesting. It would be a good throwback to your old capacitor videos where you could talk about smoothing output and such.",
+        "likes": 0,
+        "published_at": "2023-06-21T00:03:58Z"
+      },
+      {
+        "id": "Ugwsy3uo31-cwlA7QGV4AaABAg.9rBgi1VlS-L9rCLVRqJ6oo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@aaronsj80 lol - fair enough mate - cheers",
+        "likes": 0,
+        "published_at": "2023-06-21T00:11:56Z"
+      },
+      {
+        "id": "Ugwsy3uo31-cwlA7QGV4AaABAg.9rBgi1VlS-L9rCS73TPX8F",
+        "author": "@55Ramius",
+        "author_channel_id": "UCAGlxkxgWMg6EzBHW3vPvKw",
+        "text": "@ThinkingandTinkering I would like to see it on a scope too. Which ever way, all is good.   😀",
+        "likes": 0,
+        "published_at": "2023-06-21T01:09:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzrcY3RvmADYsCrKnB4AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "in making the ring gear for the planetary gear system. I subtract away a inside gear from a larger circular shape.  I assume this is how you do it in Tinkercad. I am wondering how you add backlash to a ring gear doing it this way.",
+    "likes": 0,
+    "published_at": "2023-06-20T17:32:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzrcY3RvmADYsCrKnB4AaABAg.9rBckSvVuFO9rCK0b2wcEC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i actually make the inner gear 1mm wider on the diameter before subtracting to create a little slop - stops them binding",
+        "likes": 0,
+        "published_at": "2023-06-20T23:58:59Z"
+      },
+      {
+        "id": "UgzrcY3RvmADYsCrKnB4AaABAg.9rBckSvVuFO9rDACXBR-CP",
+        "author": "@silverpc4611",
+        "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+        "text": "​@ThinkingandTinkering So you increase pitch circle diameter or module a bit. I wonder if the programs like Tinkercad or Onshape, do that same thing, when you add backlash to a gear.",
+        "likes": 0,
+        "published_at": "2023-06-21T07:52:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzIUuco_9eyDMOZCql4AaABAg",
+    "author": "@loucipher67",
+    "author_channel_id": "UCDLU0siX7iORDC4gnSEvS5Q",
+    "text": "Fascinating .... \nOh! Look, a butterfly...\nAdhd rules.\nSeriously though,I can't wait to see where this is going.\nI'm hooked.",
+    "likes": 0,
+    "published_at": "2023-06-20T17:31:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzIUuco_9eyDMOZCql4AaABAg.9rBcfMs30St9rCK24jwbhF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2023-06-20T23:59:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyApa--JoNvB3-x6qV4AaABAg",
+    "author": "@davidellis1355",
+    "author_channel_id": "UCYHTk6YRkaHLJyKWZXrCqUA",
+    "text": "What filament material are you using just out of curiosity?",
+    "likes": 0,
+    "published_at": "2023-06-20T17:25:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyApa--JoNvB3-x6qV4AaABAg.9rBc-4x3CS69rCK4mn-kzt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "PLA - but often strengthen it with CA glue - I did a video on it",
+        "likes": 0,
+        "published_at": "2023-06-20T23:59:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxoLV0vOoddWCV2xj94AaABAg",
+    "author": "@William_Hada",
+    "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+    "text": "I finished building one of these myself last week from your older STL file. ( I designed a longer end cap ) and was very happy with how it turned out. I used 3 coils with 200 turns each of 0.2 mm O.D. wire, about 90 ohms each. Wired it in parallel with a full wave rectifier on each coil. I spun it with a drill and it dimly lit a 12v incandescent auto bulb load and produced about 8 volts at 400 milliamps. So it was putting out about 3.2 watts. :)",
+    "likes": 5,
+    "published_at": "2023-06-20T17:25:19Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "UgxoLV0vOoddWCV2xj94AaABAg.9rBbyRa7JBN9rBel-1KJEW",
+        "author": "@mikejones-vd3fg",
+        "author_channel_id": "UCWFGa3YJNdRrCgD8MOD1HTA",
+        "text": "Same here although i wish he'd use parametric desing(the downside of using tinkercad i guess) so the files were easier to modify to fit our custom needs. I want to make a smaller version of the fold up turbine and simply scalling doesnt do it,  but thats not easy to do as im finding with my own designs so i dont blame them. Maybe they'll find some benefit in it for themselves as well and start add some to their designs.  I see the'yre reusing the same thigns over and over and if im not mistaken you have to make them from scratch in tinkercad which must not be a problem if youre good at it and it seems like they are, so whatever works.  But if anything needed parametric desing, all these shapes and sizes of gears would be it.",
+        "likes": 0,
+        "published_at": "2023-06-20T17:49:42Z"
+      },
+      {
+        "id": "UgxoLV0vOoddWCV2xj94AaABAg.9rBbyRa7JBN9rBhOwqIcr5",
+        "author": "@jima3252",
+        "author_channel_id": "UCxExw_VMqHHbgbsWtp2PcQA",
+        "text": "Do you know what the impedance of one coil is?",
+        "likes": 0,
+        "published_at": "2023-06-20T18:12:47Z"
+      },
+      {
+        "id": "UgxoLV0vOoddWCV2xj94AaABAg.9rBbyRa7JBN9rBj94e3pTm",
+        "author": "@William_Hada",
+        "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+        "text": "@mikejones-vd3fg The best solution is to be able to use a CAD program well enough to design your own models from scratch. It is a little painful at first to get to that level but if you  stick with it you will definitely get to that level. There is so much help available from the internet and YouTube to help you get there. Just Google any single problem you are having and you will find the answer to that hurdle. Step by step you will learn it.",
+        "likes": 1,
+        "published_at": "2023-06-20T18:28:05Z"
+      },
+      {
+        "id": "UgxoLV0vOoddWCV2xj94AaABAg.9rBbyRa7JBN9rBk983ajnH",
+        "author": "@William_Hada",
+        "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+        "text": "@jima3252 No, didn't measure AC reluctance. DC resistance is  about 90 ohms.",
+        "likes": 0,
+        "published_at": "2023-06-20T18:36:50Z"
+      },
+      {
+        "id": "UgxoLV0vOoddWCV2xj94AaABAg.9rBbyRa7JBN9rBqfZQvyC0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's actually really good considering a drill spins around 500rpm or so - wait until tomorrows vid lol",
+        "likes": 3,
+        "published_at": "2023-06-20T19:33:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgydHGjgZxKSneGraFh4AaABAg",
+    "author": "@solosequenosenada7096",
+    "author_channel_id": "UCXilk6D9ndXxD1M8vIgX6Ew",
+    "text": "Hey, Have you ever heard about solid-state electronic generator?  Bard, Google's AI told me it has the potencial to be a clean energy producing method.\nIt would be interesting to check that!",
+    "likes": 0,
+    "published_at": "2023-06-20T17:06:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgydHGjgZxKSneGraFh4AaABAg.9rB_lnJyJ359rCKTL3MSiP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are whole load of different types mate - they are interesting and the subject of research for sure",
+        "likes": 1,
+        "published_at": "2023-06-21T00:02:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzy6jTDHLeNqENJDSd4AaABAg",
+    "author": "@jyvben1520",
+    "author_channel_id": "UCwb-5YjCNwSK_dhS00QObWg",
+    "text": "bevel gear on top would eliminate wiring problem",
+    "likes": 0,
+    "published_at": "2023-06-20T16:53:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzy6jTDHLeNqENJDSd4AaABAg.9rBZN9bUmXP9rCKV5X5Q-f",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "what wiring problem?",
+        "likes": 0,
+        "published_at": "2023-06-21T00:03:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxcZc0deJDeZKxXZwB4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "What is the comparison to the Thunderbolt generator?",
+    "likes": 1,
+    "published_at": "2023-06-20T16:53:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxcZc0deJDeZKxXZwB4AaABAg.9rBZK3Hjp6m9rCKa42fifs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "to be honest they are all about the same mate",
+        "likes": 0,
+        "published_at": "2023-06-21T00:03:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxLefmGL4OMnsbQM5d4AaABAg",
+    "author": "@SolidBuildersInc",
+    "author_channel_id": "UCln_Rutk4FCx9zFjq2uqbbg",
+    "text": "Can it be a Magnetic Gear Ratio to ???, since it would offer no friction ???",
+    "likes": 0,
+    "published_at": "2023-06-20T16:52:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxLefmGL4OMnsbQM5d4AaABAg.9rBZBqEyECX9rCKdGKuLdt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep - use them if you want - they have there pros and there cons - it's really up to you",
+        "likes": 0,
+        "published_at": "2023-06-21T00:04:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzi4n1bupisdjhVr1d4AaABAg",
+    "author": "@jondoe598",
+    "author_channel_id": "UC5dJjsyt_Qu0GTEzNwXugqQ",
+    "text": "Brilliant very powerful little bit of kit made for next to nothing literally thanks Robert tell you the truth I'm quite impressed with it and I've have bundles of thoughts around the gear ratio system i mean there's so many possibilities it's a must Good Job 👍",
+    "likes": 1,
+    "published_at": "2023-06-20T16:34:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzi4n1bupisdjhVr1d4AaABAg.9rBX8uuvonT9rCKgDp8WUI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2023-06-21T00:04:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyD-leIHAUIajL7saB4AaABAg",
+    "author": "@r5bc",
+    "author_channel_id": "UCVzcc4vU_2cMDHsSr0YP_Eg",
+    "text": "Can't wait for the next video",
+    "likes": 2,
+    "published_at": "2023-06-20T16:28:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyD-leIHAUIajL7saB4AaABAg.9rBWVUtgmW69rCKh7ozpAs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2023-06-21T00:04:55Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzmy1_o_hebkyffH9N4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "First",
+    "likes": 0,
+    "published_at": "2023-06-20T16:18:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzmy1_o_hebkyffH9N4AaABAg.9rBVKjoH10r9rCKi1QdW_K",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome lol",
+        "likes": 0,
+        "published_at": "2023-06-21T00:05:02Z"
+      }
+    ]
+  }
+]

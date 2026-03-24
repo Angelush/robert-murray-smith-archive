@@ -1,0 +1,174 @@
+[00:02] [Music]
+[00:16] hello everybody Luke here and welcome
+[00:18] back to the channel so something I've
+[00:21] been working on and there's a few
+[00:23] concepts that I've had to learn to
+[00:24] actually be able to do what I've done
+[00:26] here which we'll get onto in a sec so
+[00:29] the concept I want to talk about is
+[00:31] pulse width modulation which is kind of
+[00:35] cool this it's a few other things that
+[00:37] related to this which I'll talk about as
+[00:39] well but I've got the concept
+[00:41] information down on right here and I
+[00:43] feel like it'd be easier to read it off
+[00:44] my notes then it would be to try and
+[00:46] remember everything and get it wrong so
+[00:48] let's go through this first and then
+[00:50] we'll talk about afterwards
+[00:52] such as pulse pulse width modulation
+[00:56] well pulse width modulation or PWM it's
+[00:59] also known as pulse duration modulation
+[01:02] which is PDM it's a method of reducing
+[01:05] the average power delivered by an
+[01:07] electrical signal the average value of
+[01:10] voltage and current is controlled by the
+[01:13] turn of a switch between the supplied
+[01:15] load on and off so what does this mean
+[01:19] in simpler terms well an example that
+[01:21] pops to my mind would be a flipbook so
+[01:24] if you imagine having a flip book and
+[01:26] you're flipping through it and a nice
+[01:28] fast break to your eyes it's going to
+[01:31] seem like one fluid motion all the way
+[01:34] through which is pretty cool
+[01:36] but the exact it to be exact I think is
+[01:38] one twenty-fourth per second is the rate
+[01:41] that you have to flip it that's the read
+[01:42] of your icy fluid motion which is also
+[01:45] so what does this have to do any diesel
+[01:48] motors well I can tell you that it
+[01:51] basically works on the same of a similar
+[01:53] concept realistically when you're
+[01:56] wanting to dim like dim an LED or slide
+[01:59] out lighter which is pretty cool so I've
+[02:02] got some graphs here and hopefully this
+[02:05] will make what I'm saying a little bit
+[02:07] easier and
+[02:08] let's understand so I'm going to do is
+[02:11] I'm gonna pause the camera going to get
+[02:12] these grass grass ready and I'll be back
+[02:15] to try and explain a little bit more so
+[02:16] I'll see you guys in a second so welcome
+[02:19] back and before we get any further I
+[02:21] just want to let you guys know that I'm
+[02:23] still personally learning this concept
+[02:25] so if I get anything wrong
+[02:27] please do say in the comments I'm not
+[02:29] trying to are will try to correct myself
+[02:31] so now that's out of the way that's
+[02:34] actually getting to these graphs so what
+[02:36] I've got here is I've got two types of
+[02:37] graphs and this explains what's actually
+[02:40] happening with this Arduino right here
+[02:42] so the LED that's connected into here is
+[02:45] about three point three point two volts
+[02:47] and how in any deed works is they
+[02:52] absolutely has to hit their three point
+[02:55] two volts otherwise it just will not
+[02:57] turn on
+[02:58] so when it hits that three point two
+[03:00] volts what's going to happen obviously
+[03:02] is going to turn on but it's going to be
+[03:05] at a brightness of whites it's going to
+[03:08] be supposed to what it's supposed to be
+[03:10] wait where is supposed to be yes so what
+[03:16] happens when you drop the low frequency
+[03:17] balls it's gonna turn off of cokes so
+[03:23] how do you dim the light we're gonna let
+[03:28] you think about that for a second
+[03:32] okay so basically what's happening is
+[03:35] that obviously the Arduino draws five
+[03:38] bulbs so it's 100% enough to power the
+[03:41] LED so what's happening obviously to
+[03:46] turn either this mitre on or this meb is
+[03:51] that it's gonna go above that line to
+[03:55] when it actually turns off so obviously
+[03:58] it has to be about free point two volts
+[03:59] for it to turn on which is correct so
+[04:02] what's actually happening to make this
+[04:05] dinner which I can actually show you now
+[04:08] if I unplug these yet it turns on and
+[04:15] the more I twist this pedometer the
+[04:19] brighter the LED gets
+[04:21] which is pretty awesome as well so I
+[04:25] could get up to show you de Gras but
+[04:26] actually so I show you what sort of
+[04:28] happening so here's the top one
+[04:34] obviously even got the line right here
+[04:36] or three point two volts and that's the
+[04:38] line it has to hit before the LED turns
+[04:41] on and only you see the top line is 5
+[04:43] volts which is what the Arduino is
+[04:44] driving so what's happening is that it's
+[04:47] turning on off on off on off but at such
+[04:54] a fast rate that our eyes are analog
+[04:57] eyes just cannot pick it up so to us
+[05:01] when it really looks like is one solid
+[05:04] color exactly like what it's doing right
+[05:07] this second I turn it up the LED gets
+[05:10] brighter I turn it down and it gets
+[05:12] dimmer but it's not dimming the light I
+[05:15] can't express that so I've got one more
+[05:20] graph here to show you which hopefully
+[05:22] explains what I'm trying to talk about a
+[05:24] little bit more so obviously we've got
+[05:26] time constants wait let me get up to
+[05:28] show you the graph so you guys could
+[05:30] pause it and follow along if you wanted
+[05:32] to so here's the graph right here so in
+[05:39] that you can obviously see that there's
+[05:43] a time constant time on and time off
+[05:45] that's what the T's mean T C equals time
+[05:48] constant T was time so what's happening
+[05:51] is that in one twenty-fourth of a second
+[05:55] it's going from on/off on/off but don't
+[06:06] forget that slightly in one
+[06:07] twenty-fourth of a second so there has
+[06:10] to be a specific interval of time
+[06:13] between the on period and the off period
+[06:16] so to our eyes it looks like they is
+[06:19] dimming or get umbrella right so I'm
+[06:24] going to bring the camera a bit closer
+[06:25] so I can show you the self that I've
+[06:27] done here if you wanna know the specific
+[06:30] components that I've used I've gone
+[06:31] arduino uno and they're relatively cheap
+[06:34] online
+[06:35] oh god breadboard some jumper leads a
+[06:38] pedometer an LED and a 1k ohm resistor
+[06:41] that's literally all there is driving
+[06:43] this driving this setup and I will put
+[06:46] the sketch in the description as well if
+[06:48] anyone else is interested in doing this
+[06:50] so I'll see you guys in a second okay so
+[06:52] welcome back guys and I'll put the graph
+[06:55] here just in case if anyone else wanted
+[06:56] to have a look at it again cure out the
+[06:59] video so you can sort of relate to one
+[07:01] talking about earlier oh so this is the
+[07:05] Arduino setup that I've got going on at
+[07:07] the moment I've got a potential
+[07:10] potentiometer right here which is
+[07:13] connected sorry when I twist this yeah
+[07:17] he gets brighter Wow and when I pissed
+[07:22] at the my it gets dimmer but also I can
+[07:25] have it set levels will of whatever I
+[07:27] want which is pretty cool so there's a
+[07:30] closer look at what's going on anyway
+[07:36] guys I just really want to express that
+[07:38] I'm no professional in this subject
+[07:40] this is something I've done a little bit
+[07:42] of research into myself or some of the
+[07:44] people who have taught me different
+[07:45] concepts about it so I'm not expecting
+[07:49] to be 100% correct I know I said this
+[07:51] before but I'll say it again and if I
+[07:53] did get anything wrong please do put it
+[07:56] in the description I've tried to correct
+[07:57] myself and I obviously it's allowing the
+[07:58] experience both of us so I really hope
+[08:02] this wasn't too or something of interest
+[08:03] for you guys and I hope you enjoyed the
+[08:06] video please leave a comment and a like
+[08:07] and I will see you later bye

@@ -1,0 +1,189 @@
+[00:03] [Music]
+[00:10] so in the previous video which is linked
+[00:12] to the end of this video we set up this
+[00:14] machine which is the auteur arfaro laser
+[00:17] 2 that was sent to me for review
+[00:20] now we went through a little bit of
+[00:21] history and we put the machine together
+[00:22] which was stupidly easy to do obviously
+[00:25] and in this video what we're going to do
+[00:27] is have a look at the software and how
+[00:28] we interface it and actually use the
+[00:30] machine
+[00:31] and
+[00:32] in the same way that putting this was to
+[00:35] uh putting this together was dirt simple
+[00:38] using it is really astoundingly trivial
+[00:41] software control of these things has
+[00:44] been a pain in the neck because usually
+[00:46] it's some bit of proprietary software
+[00:48] and you have a hell of a job getting the
+[00:51] computer to talk to this this will
+[00:53] handle any computer
+[00:55] um windows me windows 7 windows 2000 xp
+[01:01] it'll do all of those but it works best
+[01:03] obviously on the more up-to-date
+[01:05] versions that you've got if you're using
+[01:07] an older version then there are drivers
+[01:09] but again
+[01:11] it's the only auteur page you can volume
+[01:13] some drivers to get it to drive but with
+[01:15] propriety software very often those
+[01:17] drivers are essential and finding them
+[01:20] can be a real pain auto have made some
+[01:23] what i think a very clever decisions
+[01:26] because this thing runs on some pretty
+[01:28] standard software you can use laser grbl
+[01:31] or laserjable and again that's on the
+[01:34] support page for auto or you can use
+[01:36] light burn which is again on the support
+[01:39] page now light burn is a commercial
+[01:41] product you get a 30 day free trial
+[01:43] period and it's a bit like laser gerbil
+[01:46] and inkscape mashed together so it's a
+[01:48] nice program
+[01:49] but there is a license feature of pay
+[01:52] laser grpl there's a gerbil is freeware
+[01:55] and so you can produce a file in
+[01:57] whatever you want because laser job will
+[01:59] take
+[02:00] loads of stuff i mean jpegs pdfs pngs
+[02:04] bmps loads of stuff as well light burn
+[02:07] incidentally so you can design your
+[02:09] design in another program bring it into
+[02:11] laser gerbil where it will convert it so
+[02:14] it can run this thing and this thing
+[02:15] interfaces with layers of gerbil really
+[02:17] easily and it also interfaces with light
+[02:20] burners really easily so you pays money
+[02:23] you take your choices i'm a dreadful
+[02:25] cheapskate so i'm going to be using
+[02:26] laser gerbil
+[02:28] but when you set it up you click on the
+[02:31] download link that's available on the
+[02:32] software page the support page of alter
+[02:35] and you just click yes yes yes yes yes
+[02:37] to everything and it will
+[02:40] install itself and recognize this
+[02:42] straight off from the back which i
+[02:44] thought was amazing actually both of
+[02:46] those bits of software recognized this
+[02:48] and connected to it no problem at all
+[02:51] but there is a little tweak that you
+[02:52] need to know because of this home
+[02:54] function laser gerbil and light burn
+[02:57] have a default set for home home is
+[02:59] where it's a limit switch and so it
+[03:01] tells you where it is what you have to
+[03:03] do with um
+[03:05] layers of gerbil is when you connect it
+[03:08] you get a flashing notice on here and
+[03:11] there's a lock symbol on laser job when
+[03:14] you click the unlock you're ready to go
+[03:16] it's the same thing with light burn
+[03:19] you'll get that flash here on light burn
+[03:22] and it will be locked so you have to
+[03:24] click the stop button and when you click
+[03:27] the stop button it's ready to go and
+[03:29] then it'll just
+[03:30] run as per normal so does
+[03:33] a really easy little software quirks to
+[03:36] get over this
+[03:37] problem in inverted commas of not having
+[03:40] a home but as i said before i really
+[03:42] prefer it not having a home for the
+[03:44] click of a button or two so where are
+[03:46] the wins here well apart from being a
+[03:49] nice machine that's um well built this
+[03:52] home function that i absolutely adore
+[03:54] auto have been so clever at that
+[03:57] decision on the software to run it
+[03:59] apparently software as it says a pain
+[04:02] having the software that's
+[04:04] pretty much a standard software means
+[04:06] you've got a huge community around you
+[04:09] when you get this going and running it's
+[04:11] a piece of cake it's really just
+[04:12] dragging a file click run and it'll
+[04:14] engrave or cut out whatever it is you've
+[04:16] got on the screen so to get going is
+[04:19] really easy because this is something
+[04:21] you explore and develop with and as you
+[04:23] explore it having a community that's
+[04:26] done that already means that when you
+[04:28] have a problem there are the answers
+[04:30] already out there there's just such a
+[04:32] ton of stuff on layers of gerbil and
+[04:34] light burn that you're going to be able
+[04:35] to find
+[04:36] answers to your questions really really
+[04:39] easily it's like how arduino ran it
+[04:41] arduino built a community which is why
+[04:44] when you want to program our programming
+[04:46] arduino you can more or less guarantee
+[04:48] somebody's done it before you can grab
+[04:50] that code and tweak it a little bit to
+[04:51] your own program and you're going to be
+[04:53] doing some really interesting stuff it's
+[04:55] the same thing with laser jobal and with
+[04:57] light burn there's such a community out
+[04:59] there explaining how to use the in-depth
+[05:02] bits and pieces of those programs that
+[05:04] you get some astonishing stuff as you
+[05:06] develop and learn
+[05:07] when you're using a proprietary piece of
+[05:09] software very often and there isn't that
+[05:11] much support and it can be a bit of a
+[05:13] pain so the support for the software
+[05:16] choice that o2 made is just huge and
+[05:19] that for my mind was just such an
+[05:22] important thing because it makes this
+[05:24] machine much more usable by a much
+[05:26] broader scope of people as they learn
+[05:29] because it starts and it runs and it
+[05:31] does the simple stuff off the bat
+[05:34] but the more complex stuff that you want
+[05:36] to do the help's already out there to be
+[05:39] able to do that so that was a stunningly
+[05:41] clever decision of them in terms of
+[05:43] laser cutters of course altura are
+[05:45] really quite well respected anyway and
+[05:47] this is one of their flagship machines
+[05:49] and you can see it's a flag flagship
+[05:51] machine because they're working hard at
+[05:54] promoting it god bless them and
+[05:56] rightly some it's a lovely machine is
+[05:58] why they sent me one to do this sing all
+[06:00] the praises of and i am singing the
+[06:03] presence of it because i do think it is
+[06:05] a nice offering for what it is actually
+[06:07] i'm quite impressed by it now it runs at
+[06:09] something like 10 000 millimeters per
+[06:11] second at its fastest speed which
+[06:13] obviously won't cut very deep but boy is
+[06:15] that fast and it will cut what it says
+[06:18] it will cut so four millimeter plywood
+[06:20] three to five millimeter acrylic it'll
+[06:22] engrave on glass no worries at all it'll
+[06:25] do all that sort of stuff that you would
+[06:27] want it to do
+[06:29] so if you're thinking about a laser
+[06:30] cutter i'm pretty sure you could do
+[06:32] worse than this
+[06:34] it came really quickly it's stunningly
+[06:36] well boxed i mean there's a lot of
+[06:38] support for it to make sure that it was
+[06:40] protected as it came it really was a
+[06:43] piece of cake to put together in about
+[06:45] half an hour i had it up and running and
+[06:47] cutting out things that i wanted to cut
+[06:49] with it and like i say
+[06:51] nice machine
+[06:52] well built does what you'd want it to do
+[06:55] great community support brilliant choice
+[06:58] on the software that o2 made and a
+[07:01] reliable company what more can you say
+[07:03] about such a thing anyway i hope you
+[07:05] enjoyed the video thank you very much
+[07:07] for watching and please do remember to
+[07:08] like and subscribe

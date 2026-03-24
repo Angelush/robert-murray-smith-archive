@@ -1,0 +1,209 @@
+[
+  {
+    "id": "UgxYFBrilW9I7Ft1LYF4AaABAg",
+    "author": "@richardb1018",
+    "author_channel_id": "UCF8VQw6UNknMeO_jcm6LDyQ",
+    "text": "Wonderful enthusiasm, I wonder where you get some of that from :) Keep up the videos please, love them, yours Luke and of course Roberts :)",
+    "likes": 0,
+    "published_at": "2020-07-28T13:35:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbA4YGPOchp2VA25R4AaABAg",
+    "author": "@edxr12",
+    "author_channel_id": "UCSX6TycLykQxrtdFcXuCZbw",
+    "text": "Keep this guy around. 👍🏽",
+    "likes": 1,
+    "published_at": "2020-03-18T01:51:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBJxap35RyIJS9zrZ4AaABAg",
+    "author": "@michealludy8552",
+    "author_channel_id": "UCVrEongzCe4TnMIldrHp3Og",
+    "text": "Just so you know...  The reason that you keep losing control of your stir bar is because you used the hard drive magnets.   I'll try to be clear, since I cant draw a diagram in this comment, lol.  The HDMs (Hard Drive Magnets) each have a north pole on one end and a south on the other.   Looking at the positioning of the HDMs, if they were attracted to each other when you glued them down, then the lines of force between the HDMs are traveling mainly in the plain of the rotation of the disk, and if they were repelling each other, the lines of force are being pushed outwards, and up into the beaker.  The second situation, provides your stir bar with two north poles and two south, one set of poles from HDMs and one from the disk shaped neos.  That will allow the magnetic stirrer to switch from one set of poles to the other, eventually with enough force to break free from the magnetic cogging that keeps the bar spinning in the middle of the beaker.  The first situation, would provide a weakened field over all, allowing the stir bar to sling itself loose from its magnetic coupling, via centrifugal force or when hitting any solid bits in the mixture that you are heating.  I suspect that you have the second situation there, judging by the way that the bar was still rotating while against the side of the beaker...  that is tremendously dangerous!  Hot solvents or acids dumped on live electronics, due to broken glassware can cause chemical burns, regular burns, and even explosions. \n\n    For best control of the stir bar, it must see two distinct magnetic poles.  This is impossible to achieve with HDMs, as their north and south poles are so very large, each taking up nearly half of the face of the magnet.  I would recommend that you rebuild, at least, the magnet assembly using only the disk magnets and an Iron or steel bar under the disk magnets to bridge the under sides of the magnets.  This will provide a more positive lock on the stir bar.\n    A second concern may be that the graphene in the heater is paramagnetic,  and therefore will reduce the amount of magnetic field penetrating it.   This should be negligible at lower speeds, but as rpms increase your hold on the stirrer will get weaker and weaker.  A solution to that would be to run the stirrer with the heater in place as the ink dries.  Doing this should allow the graphene flakes to orient to the flux from the magnets as the ink sets, greatly reducing the magnetic reluctance of the ink.  However, this may change the resistance of the heater, and/or cause a cool spot in the center of your hot plate.  But if the metal plate is aluminum, and the magnets are close enough together, that may be acceptable, due to the high thermal conductivity of the aluminum.\n    Of course aluminum is also mildly paramagnetic, so the optimal choice would be a piece of borosilicate glass, but that would be over-kill, as even professional units use aluminum, I think.   Hope that this helps, would love to see an update with a safely working model.",
+    "likes": 0,
+    "published_at": "2020-03-10T13:21:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzqKbUm8YDOQvtiFbR4AaABAg",
+    "author": "@truthseeker3907",
+    "author_channel_id": "UC2aMW78MhuDDvF4ox7feNSA",
+    "text": "Thumbs up!",
+    "likes": 0,
+    "published_at": "2020-03-07T15:53:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzqKbUm8YDOQvtiFbR4AaABAg.95uYZYWkHbW96H7dWvIoIK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-03-16T19:40:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzSH6J8HGbQNWzHfIZ4AaABAg",
+    "author": "@stevansmusic",
+    "author_channel_id": "UCGmS3nLf7vEi5lkWaQe_K_g",
+    "text": "This might be a bit funny but also pretty cool. I posted a method for what I believed to have been a method for producing graphene but was instead silicon that was deposited on the glass. \nWhat I did was take AGS graphite powder and put in a teaspoon of isopropyl alcohol in a small open glass jar and kept igniting it until the alcohol evaporated. A thin grayish film was left behind. It turns out in the graphite powder by that brand they also put silicone in there and ash. So if I were to aim to produce a thin layer deposit of silicon I would use isopropyl alcohol, silicone powder and ignite on glass to deposit a thin silicon film. Thin silicon is excellent for batteries I realized what my mistake was after reading the label and seeing a news article that was recent online about a similar method to produce thin silicon deposits for super batteries which was a huge technological breakthrough.",
+    "likes": 0,
+    "published_at": "2020-03-06T12:36:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1IJFtprtXUEjPOgp4AaABAg",
+    "author": "@Mr_Blinky",
+    "author_channel_id": "UCTRSwFjjxYuj9JtNy091sfw",
+    "text": "The heater is very interesting. Not what I expected. I expected something resembling a spiral element or similar painted onto the plate. I would be interested to see how even the spread is with your heater. Do you have a thermal camera (FLIR etc) that you could show this with? Great video, keep up the good work!",
+    "likes": 1,
+    "published_at": "2020-03-05T17:45:39Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugw1IJFtprtXUEjPOgp4AaABAg.95pan_qXcsI95r4CKvfizE",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thank you!\nI don't think I have a thermal camera but that would be awesome if I did.\nI might have to source one very soon!",
+        "likes": 1,
+        "published_at": "2020-03-06T07:30:33Z"
+      },
+      {
+        "id": "Ugw1IJFtprtXUEjPOgp4AaABAg.95pan_qXcsI95sEssHu-e8",
+        "author": "@Mr_Blinky",
+        "author_channel_id": "UCTRSwFjjxYuj9JtNy091sfw",
+        "text": "@MyNameIsLukey Get Rob to buy you one! Seriously though, a thermal camera would be a must, not a want, if you were to get into designing and or producing heating elements. Not just for you, but all of FWG.",
+        "likes": 0,
+        "published_at": "2020-03-06T18:23:07Z"
+      },
+      {
+        "id": "Ugw1IJFtprtXUEjPOgp4AaABAg.95pan_qXcsI95sFW6CjHHa",
+        "author": "@Mr_Blinky",
+        "author_channel_id": "UCTRSwFjjxYuj9JtNy091sfw",
+        "text": "Oh, I forgot to mention; it may be an idea to place the thermocouple in the actual fluid that is being heated as opposed to on the heating plate itself as you will loose heat as it transfers to the beaker/fluid and the temp of your fluid may be less than that indicated. My hotplate stirrer has a stainless steel probe that I mount on a bracket so the end is going into the fluid. It does however overshoot the temp somewhat until it stabilizes but I get around that by setting the temp about 5 degrees below what I want, let it overshoot then increase the temp to my desired temp and it levels out nicely.",
+        "likes": 0,
+        "published_at": "2020-03-06T18:28:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0SWg-RkZRLeODcwJ4AaABAg",
+    "author": "@sphinx151",
+    "author_channel_id": "UCeokYJpDoVP_JpoWpUAZH3Q",
+    "text": "I've been waiting for 5 years for a big battery or a Powerwall. It seems it will never happen.",
+    "likes": 1,
+    "published_at": "2020-03-05T10:35:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPX93sLEeVicMoqhZ4AaABAg",
+    "author": "@aaaricmondroofing1703",
+    "author_channel_id": "UCCRt6t3lInG2hxYJEOrCNWQ",
+    "text": "Love it , do you think a sonicator, heat,stir would be possible?",
+    "likes": 1,
+    "published_at": "2020-03-05T09:00:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzPX93sLEeVicMoqhZ4AaABAg.95oeeN-Osoi95r3z-e1I-2",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "This is a great idea!\nI'm definitely going to look into this!\nThanks!",
+        "likes": 0,
+        "published_at": "2020-03-06T07:28:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz5AVMBo87TT4IOgvJ4AaABAg",
+    "author": "@ricininepartypillz9248",
+    "author_channel_id": "UCtGMLB3XtuYTt2YmBD09xkA",
+    "text": "Was the aluminium hotplate part coated with anything other than the graphite like when Robert use a Teflon coated baking tray for his hotplate?",
+    "likes": 1,
+    "published_at": "2020-03-05T08:59:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz5AVMBo87TT4IOgvJ4AaABAg.95oec5r2ZE595r5gGcAcV1",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Well, the heat plate part is insulated with stove paint. \nI did this so when I'm stirring solutions, it shouldn't react with the aluminum sheet which was a bit of a worry for me.\nIt seems to be doing the job just fine which is awesome!",
+        "likes": 1,
+        "published_at": "2020-03-06T07:43:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw3Hqji2x_ryTAVTcd4AaABAg",
+    "author": "@mihaiaragon",
+    "author_channel_id": "UC3hhvPvqnV5wTV9QMnChBdA",
+    "text": "I lòve your enthusiasm,  please keep on doing videos!",
+    "likes": 2,
+    "published_at": "2020-03-05T08:42:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw3Hqji2x_ryTAVTcd4AaABAg.95oceaKVLqz95r3q8t_nhm",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thank you!\nI'm going to try lol.",
+        "likes": 0,
+        "published_at": "2020-03-06T07:27:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwhrxy6Ljh4xi1Rdpl4AaABAg",
+    "author": "@dmenace9288",
+    "author_channel_id": "UC4Wdx7-Lsh8WIdT1cj4NRgQ",
+    "text": "Hey Robert.. Apparen tly if you do your videos above 10 min, Google might reward you more for your videos. Thought i let you know.",
+    "likes": 0,
+    "published_at": "2020-03-05T08:19:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwhrxy6Ljh4xi1Rdpl4AaABAg.95oa2aPT3sU95oetw2wajx",
+        "author": "@ricininepartypillz9248",
+        "author_channel_id": "UCtGMLB3XtuYTt2YmBD09xkA",
+        "text": "What does it reward you with",
+        "likes": 0,
+        "published_at": "2020-03-05T09:02:13Z"
+      },
+      {
+        "id": "Ugwhrxy6Ljh4xi1Rdpl4AaABAg.95oa2aPT3sU95pa7K2ZxTp",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "​Smattless \n\"here are a lot of channels doing it, adding nonsense filler in desperate attempts to make their videos above 10 mins.\"\n\nThat will hurt those channels in the long run as people will click away from the videos when the filler nonsense is reached or stop watching that channel altogether.\n\nWhen videos are clicked away from the algorithm takes that as an indication of bad content and lowers the ranking of those videos.\n\nThe rule of thumb is to make a video as long as it needs to be in order to convey the message of the video. No shorter and no longer.",
+        "likes": 1,
+        "published_at": "2020-03-05T17:39:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgySLXY-Qirno8rafP14AaABAg",
+    "author": "@Jimunu",
+    "author_channel_id": "UCexzmX6696NuoYoZtxJmcyQ",
+    "text": "I guess the future build videos will have a list of all the parts? And I am curious about diy laboratory equipment.",
+    "likes": 2,
+    "published_at": "2020-03-05T08:16:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgySLXY-Qirno8rafP14AaABAg.95o_gcT48BZ95r3nDHkjiz",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Yes, the build guides in the future will have all the parts listed.\nThe main two parts are the controllers I had everything else lying around, which was awesome.\nKeep an eye on the channel for that soon!",
+        "likes": 0,
+        "published_at": "2020-03-06T07:26:59Z"
+      }
+    ]
+  }
+]

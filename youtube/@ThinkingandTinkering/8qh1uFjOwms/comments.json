@@ -1,0 +1,289 @@
+[
+  {
+    "id": "Ugw71i2yXOiJMR8dU-l4AaABAg",
+    "author": "@luciankristov6436",
+    "author_channel_id": "UCuCDhamRPkiHv_VkXfsBdOg",
+    "text": "Amazing work robert ! I hate orca ! Way too many redundancies and overly complicated setting thats effect simple actions.",
+    "likes": 0,
+    "published_at": "2024-12-29T02:59:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyyi6wBeD06ZivCFMh4AaABAg",
+    "author": "@rogerwalsberg",
+    "author_channel_id": "UCqbgV9kKY5yUAHtENi6a33g",
+    "text": "Your examples don't match the current folders on the qidi site.",
+    "likes": 0,
+    "published_at": "2024-12-18T00:08:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzc8Bs8q0ZRNwR43194AaABAg",
+    "author": "@brucewilliams6292",
+    "author_channel_id": "UCh4qKo1zRSxUpbNjL8PeBAQ",
+    "text": "Thank you so much!",
+    "likes": 0,
+    "published_at": "2024-09-11T03:25:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9Ys52Fri2nDXHsvl4AaABAg",
+    "author": "@MrMods-SlipStreamGT",
+    "author_channel_id": "UC29Vl8PkiEi1shc8erq_r8g",
+    "text": "In desperate need of help! Good day sir, I am currently ripping my hair out!  I followed your instructions to the q but the bed moves down and error message says \" movement Beyond range of provisions\"  I have the same exact printer qidi x max 3 just like you.  I paused your video and typed everything in since you did not include the settings in your video description but still does not work!  Could you please include the settings of bed size gantry gcodes into your description, I would really appreciate it!  I searched the net and no luck your the only hope for stocking our issues for x max 3.  Thanks!",
+    "likes": 1,
+    "published_at": "2024-04-18T10:29:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwyCPSLFqYwqcJMcFl4AaABAg",
+    "author": "@BOSS_DOG",
+    "author_channel_id": "UC5Q1Jh1P2k25_1KdbRE3r7Q",
+    "text": "Will this profile work with an xplus3?  changing print bed dimensions of course.",
+    "likes": 0,
+    "published_at": "2024-03-07T00:01:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwPNkYH3zWHbbTBeqV4AaABAg",
+    "author": "@javieralday7001",
+    "author_channel_id": "UCUimzEHQfA3sp-S0mCmVNIA",
+    "text": "The printables link seems to be corrupted I tried to download and unzip today but all the files give me errors. would you happen to know anywhere else where to get those files? Not sure if this would be too much of an ask but would you be able to zip and share them?",
+    "likes": 0,
+    "published_at": "2024-02-01T16:41:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgySeshlkjGTdLwhuO54AaABAg",
+    "author": "@bivaet_kysaka",
+    "author_channel_id": "UCrYq02j2uQyooBP4nX21WRQ",
+    "text": "Здраствуйте, я скачал, но там нет x-max 3, только x-max (((( На сайте официалов все еще в разработке Cura, а мне она очень нужна т.к. их софт полная лажа. Помогите, дайте Вашу ссылку на x-max 3,  буду благодарен!!))",
+    "likes": 0,
+    "published_at": "2024-01-13T05:55:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxaL6i3tl0sKtg5pkB4AaABAg",
+    "author": "@VeniceInventors",
+    "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+    "text": "I've been toying with making time lapses of 3D prints, but didn't like how the model and head keep moving in each frame. I watched how some people add g-code to move the head out of the way at the end of each layer, pushing a switch at the far end to trigger the camera, while others use special cameras feeding the g-code to the printer, allowing it to control when to take the shot. In both case the result is amazing as the head and model remain static and the model just grows as if coming out of a replicator in Star Trek. Then it occurred to me that a simpler trick would be to trigger the camera at the end of each motion of the Z axis motor. It would require adding a sensor on the motor wire or shaft and pair it with a micro-controller to trigger the camera or capture, but it might be worth the extra effort to get nice shots without modifying the g-code or using an expensive camera.",
+    "likes": 0,
+    "published_at": "2024-01-12T13:08:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPgmTpYz3Nn52147V4AaABAg",
+    "author": "@VeniceInventors",
+    "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+    "text": "I've been toying with making time lapses of 3D prints, but didn't like how the model and head keep moving in each frame. I watched how some people add g-code to move the head out of the way at the end of each layer, pushing a switch at the far end to trigger the camera, while others use special cameras feeding the g-code to the printer, allowing it to control when to take the shot. In both case the result is amazing as the head and model remain static and the model just grows as if coming out of a replicator in Star Trek. Then it occurred to me that a simpler trick would be to trigger the camera at the end of each motion of the Z axis motor. It would require adding a sensor on the motor wire or shaft and pair it with a micro-controller to trigger the camera or capture, but it might be worth the extra effort to get nice shots without modifying the g-code or using an expensive camera.",
+    "likes": 0,
+    "published_at": "2024-01-12T13:07:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwn-vUlexnRvytRB8F4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "I've just done something to my laptop,,, and it's Stuck on the Camera Mode!!\nI'm going to have to ask my Nextdoor neighbour,, who's younger than myself and Tech Savvy!!\nThank you very much for your inspiration to keep our brains Active!!❤",
+    "likes": 0,
+    "published_at": "2024-01-11T04:29:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-yLnr9fFplDJ__J94AaABAg",
+    "author": "@dquinceyhjornevik7823",
+    "author_channel_id": "UCAVPr56IccKLchUtH0b_6kA",
+    "text": "Sorry, off topic \n\nI was looking at duel axiel flux.  Was wondering about double layers of coils vs double layers of magnets...",
+    "likes": 0,
+    "published_at": "2024-01-10T16:13:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwYxEJku9sVU_cmXdt4AaABAg",
+    "author": "@tonysummers2334",
+    "author_channel_id": "UCQw39LEW-PxbKLZdEYfWSvw",
+    "text": "I use Linux, I just download the AppImage package for Cura, never had a problem. I also use  OctoPrint.",
+    "likes": 0,
+    "published_at": "2024-01-10T11:53:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVujdecfJCh9vbw1F4AaABAg",
+    "author": "@shawnwoodbury001",
+    "author_channel_id": "UCVbGU5RgeG-3RllHLS13khA",
+    "text": "I can't get past the accent",
+    "likes": 0,
+    "published_at": "2024-01-10T11:13:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyxVcWWFuvNJAJYID54AaABAg",
+    "author": "@gman7543",
+    "author_channel_id": "UC3kzTFLZuvBuMoV9I0STuig",
+    "text": "Hello sir. I love the videos but can you make one on producing liquid hydrogen\nThat would be amazing 🤩\nMuch love💕",
+    "likes": 1,
+    "published_at": "2024-01-10T01:19:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw25cCJmxSGmwSYrdR4AaABAg",
+    "author": "@ozb2006",
+    "author_channel_id": "UCUS3GfDRk8gIXEbWikdadeA",
+    "text": "good for you, for moving to linux, did it 3 years ago and never looked back and very time someone say's windows i cringe ms platform is just so full of bugs!!!\ni still edit video on premiere pro on windows 10 but i locked it away from the internet so it runs more \"stable\" as stable as windows and all it's bugs can be lol...\nRobert, i noticed you installed mint (good start) you should try debian 12, with flatpack support.\nand i was wondering how is davinci resolve for editing? and how hard was it to install on mint???",
+    "likes": 0,
+    "published_at": "2024-01-10T00:57:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxnFZijpX50Ai0yAjx4AaABAg",
+    "author": "@colinstevens8968",
+    "author_channel_id": "UC3ojbQu9Za5qcmat1knZ5dg",
+    "text": "What flavour of Linux are you using?",
+    "likes": 0,
+    "published_at": "2024-01-10T00:18:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxnFZijpX50Ai0yAjx4AaABAg.9zN3acVLJxy9zP6T7gFbRM",
+        "author": "@rlemoyne007",
+        "author_channel_id": "UCEy2riC-kiyvycNIvBJJqAQ",
+        "text": "Linuxmint, probably cinnamon.",
+        "likes": 0,
+        "published_at": "2024-01-10T19:21:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbQV4N-1PwL66dPuB4AaABAg",
+    "author": "@010Larry010",
+    "author_channel_id": "UC6wS72m5ZlGhDh-chi4x1Xg",
+    "text": "Very interestring. I joined the 3D printing world about 18 months ago after purchasing an Artillery Hornet. I had an old HP Chromebox which was happy to run Lubuntu Linux along with Cura. Despite having no previous Linux experience, the installation went well with no particular difficulties. The included Firefox browser running Tinkercad completes the setup. Bootup is very quick and it's proved to be very stable. Cura has been updated a couple of times to keep pace with the latest version.",
+    "likes": 2,
+    "published_at": "2024-01-09T23:42:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxUQCBO4-h3qLbDvCp4AaABAg",
+    "author": "@gordslater",
+    "author_channel_id": "UCV-CYKkSV2zV2IhZnJfiDrg",
+    "text": "Just be aware that some distro package repos for Cura will be rather out of date, for example, downloading the appimage (and making it executable to make it run) direct from the Cura website gives me v5.6.0, but using MX-Linux repo (installing it via  apt) only gives me version 4.13.0",
+    "likes": 1,
+    "published_at": "2024-01-09T22:21:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwkI6uUeIk2qC3wdpx4AaABAg",
+    "author": "@AverLife",
+    "author_channel_id": "UCJTMP9GGi0z5njgg60jNDaA",
+    "text": "zorin OS is based on Ubuntu just like linux Mint, but is closer to windows including folder structure and task bar/menu. \nThought you might be interested.",
+    "likes": 0,
+    "published_at": "2024-01-09T21:58:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyFyBxCsyQn8Y8rbGh4AaABAg",
+    "author": "@killpidone",
+    "author_channel_id": "UCibym_thRFrXTHkbmplf6Fg",
+    "text": "That's a nice shitty x max 3 printer",
+    "likes": 1,
+    "published_at": "2024-01-09T21:42:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy31wrgnXTB--ICRop4AaABAg",
+    "author": "@danob9869",
+    "author_channel_id": "UC0P1rVF5ydZJbp2w16ZZIlw",
+    "text": "you can jailbrake the Qidi x3 so you can run anything you want like for example klipper. its super easy to do. And if its jailbroken you can still use cura assif it aint jailbroken. It opens up allot of possibilitys.\n@Robert Did you get the printer to review or did you buy it?",
+    "likes": 0,
+    "published_at": "2024-01-09T19:31:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwebvRcDzPCI2qMj4p4AaABAg",
+    "author": "@JFSmith-nb8hf",
+    "author_channel_id": "UCOK3W4AiMzU5hSgeMM4rnig",
+    "text": "You might as well have stated that \" The tree's hat has no carburetor\" and it would have made as much sense to me.😆",
+    "likes": 0,
+    "published_at": "2024-01-09T19:04:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwebvRcDzPCI2qMj4p4AaABAg.9zMViBa_dmb9zQtM3TXccx",
+        "author": "@FlakeyPM",
+        "author_channel_id": "UCw7zivDc2_75JpkPuIgIc6Q",
+        "text": "He did, I heard him! ;-)",
+        "likes": 0,
+        "published_at": "2024-01-11T11:57:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxbg9vCC4wtjRZE0Dl4AaABAg",
+    "author": "@WilliamFrick",
+    "author_channel_id": "UCtyLmD2xCa75UCpsOqoPfeg",
+    "text": "I have been using Linux for 15 years and 3 D printing for 10+.  You will find that all slicers and print interfaces have a linux version.  Klipper itself is a linux program.   It usually comes down to what flavour you like.  For me it is Ubuntu as all things needed to be productive come with the base install.",
+    "likes": 3,
+    "published_at": "2024-01-09T18:49:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw5GfewUnoWc99xpjN4AaABAg",
+    "author": "@industrialmonk",
+    "author_channel_id": "UCjIlhKpZohPeyDaTBs9q_lw",
+    "text": "I look forward to seeing your cheep Linux pc video as i have been repurposing computer's since the 1980s & forcing old windows laptops to work with newer win os quite successfully but not many people will use Linux other than me even though it is infinitely better for normal use but there are odd things that will not work on Linux or have missing features.",
+    "likes": 0,
+    "published_at": "2024-01-09T18:20:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw5GfewUnoWc99xpjN4AaABAg.9zMQfOSsoD29zMrlh_dI0g",
+        "author": "@gordslater",
+        "author_channel_id": "UCV-CYKkSV2zV2IhZnJfiDrg",
+        "text": "Yeah I'd love a quick vid on moving to Linux. I've been using Linux and BSDs as a dailys since about '96 and have never looked back. Be interesting to see how a new mover is going about it these days.",
+        "likes": 0,
+        "published_at": "2024-01-09T22:26:12Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyqq1sj1VuAUF03_ml4AaABAg",
+    "author": "@replikvltyoutube3727",
+    "author_channel_id": "UCkKQR4AVP_NZUGM1GnIO-5A",
+    "text": "Great that you embrace Linux !",
+    "likes": 8,
+    "published_at": "2024-01-09T18:16:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVWOTtlF65ajVc41l4AaABAg",
+    "author": "@pt2575",
+    "author_channel_id": "UCIc11I_s_PQMM1tBou3UMBQ",
+    "text": "No audio",
+    "likes": 0,
+    "published_at": "2024-01-09T18:09:46Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

@@ -1,0 +1,162 @@
+[00:00] foreign
+[00:08] a lot actually and I haven't done it in
+[00:10] previous videos but probably never a
+[00:12] video by itself and that is
+[00:14] how do you make use of the devices
+[00:16] you're making because we make lots of
+[00:18] wind turbines lots of generators and my
+[00:21] tendency is just to leave it with a
+[00:23] couple of wires sticking out there and
+[00:24] say okay wire it up and the reason I do
+[00:26] that is because the okay wire it up bit
+[00:30] is always the same it doesn't actually
+[00:32] matter if you've got some really tiny
+[00:34] tiny little project you're doing or some
+[00:36] really big project the process is always
+[00:39] the same now all electromagnetic
+[00:42] generators that is generators where you
+[00:44] waggle a magnet field around a coil
+[00:46] produce AC you have to do something with
+[00:50] that and in order to do something with
+[00:53] that the very first stage that you do is
+[00:55] Rectify it now some DC generators use
+[00:59] brushes to pseudo-rectify but it's never
+[01:02] really very good what you really need to
+[01:04] do is stick a rectifier on those two
+[01:07] wires coming out now Rec device can be
+[01:09] bought as a package and then bought
+[01:11] usually at oh I don't know less than a
+[01:14] penny per unit and use a diode in a
+[01:17] diamond Arrangement like this and wire
+[01:20] them that way and you will get some DC
+[01:23] out now that DC won't be perfect it'll
+[01:26] still be bouncing around as DC and
+[01:28] that's called Ripple you might want to
+[01:30] take that out in which case your strap a
+[01:32] capacitor in there but let's leave it
+[01:34] for a second and just say the first
+[01:36] thing we do is Rectify it the very next
+[01:40] thing we do is stabilize the voltage
+[01:43] because it's extremely rare if you want
+[01:45] the voltage that rises up and down like
+[01:47] crazy what you really want is something
+[01:49] nice and level so that you can feed it
+[01:52] into a battery or feed it directly into
+[01:54] your phone or feed it directly into some
+[01:56] kind of application and for that you
+[01:59] need a nice stable voltage regulator
+[02:01] voltage Regulators are stunningly cheap
+[02:05] I mean there's five of them in this
+[02:07] package and it costs 6.99 and there it
+[02:09] is it's a little circuit board that's
+[02:11] just ridiculously cheap to buy so you
+[02:14] can make thankless from discrete
+[02:15] components if you want to but to be
+[02:17] honest I just think it's a waste of time
+[02:19] and that you just get something like
+[02:21] this now this is based on the popular
+[02:23] chip the
+[02:25] lm2596s it's a voltage regulatory chip
+[02:28] it will take three amps on the input
+[02:32] it'll take something like oh between
+[02:34] three and 40 volts coming in and that's
+[02:37] 340 volts varying wildly on the output
+[02:40] it will output something like 1.5 to 3.5
+[02:43] volts and you can set that to be a
+[02:46] voltage between those ranges that you
+[02:48] want now three amps is a considerable
+[02:51] amount of power it's it's more than
+[02:53] you're going to use for a phone charging
+[02:55] for example it's more than you're going
+[02:57] to use for an awful lot of applications
+[02:59] so it's a very popular little board
+[03:02] that's relatively easy to buy and
+[03:04] relatively cheap and I'm quite sure that
+[03:07] in the comments people will put their
+[03:09] favorite boards and the reasons why it's
+[03:11] their favorite and this is no good
+[03:12] because X Y and Z and that that's great
+[03:15] it's nice to hear what other people's
+[03:16] favorites are I choose this because it's
+[03:19] basically Dirt Cheap really easy to use
+[03:21] and represents the same whatever
+[03:23] whatever you do you take those two wires
+[03:27] and you Rectify them once you've
+[03:29] rectified them you stabilize the voltage
+[03:32] where it's something like this and
+[03:33] something like this is stunningly easy
+[03:36] to use so to help me do this I've got a
+[03:39] power supply set at Tom 10 volts and
+[03:42] I've got a multimeter that's reading the
+[03:44] DC voltage because you're going to muck
+[03:46] around with these you should already
+[03:47] have a power supply and a multimeter if
+[03:49] you don't you probably need to get one
+[03:50] I've also got a very tiny screwdriver
+[03:52] and I've connected this up and I know
+[03:55] which is in and out because it tells me
+[03:57] which is in and out and I know which is
+[03:59] plus and minus because it says plus and
+[04:01] minus so you connect it out to your
+[04:04] voltmeter so you can read the out and
+[04:06] you connect your in to your power supply
+[04:09] so you can give it the voltage that you
+[04:11] want to give it and this voltage will
+[04:13] vary and you actual application but when
+[04:16] you're doing the setting you do the
+[04:18] setting by using a stable Supply okay so
+[04:23] it's reading 9.46 and that's because of
+[04:26] the setting the factory now we're going
+[04:28] to twiddle this knob on the top there's
+[04:30] a little brass screw right there you pop
+[04:33] a little screwdriver in and give that a
+[04:36] turn and watch the voltage foreign
+[04:44] to increase the voltage setting and
+[04:46] anti-clockwise to decrease it and that
+[04:48] is the voltage out so the voltage out
+[04:50] will be stabilized at the setting you
+[04:52] just put and it doesn't matter if this
+[04:56] changes its voltage so let's say 15
+[04:58] volts
+[05:02] you still get five volt sound so that's
+[05:04] how easy something like that is to use
+[05:06] and all we do is we solder it in and of
+[05:10] course it's plus to plus minus to minus
+[05:12] so on your rectifier you'll have a plus
+[05:14] out and that goes to the Plus in
+[05:17] on the voltage regulator on your
+[05:20] rectifier you'll have a minus out and
+[05:22] that goes to the minus in on your
+[05:24] voltage regulator then your plus out and
+[05:27] minus out will be the bits that you're
+[05:30] going to take to whatever application
+[05:32] you want like a battery charger a phone
+[05:34] charger something like that so the
+[05:36] reason I'm going through this well I'm
+[05:38] actually making a change to that singer
+[05:40] machine so that it can become powerful
+[05:41] enough to charge a phone and it doesn't
+[05:44] matter whether it's something like this
+[05:46] or if it's a wind turbine or if it's a
+[05:49] wave machine or if it's a pedal bicycle
+[05:51] it doesn't matter the two wires that
+[05:54] come out go through a rectifier than a
+[05:57] voltage regulator and after that well
+[05:59] you can just use them straight away if
+[06:01] you want if you could get the two wires
+[06:03] into your phone you could just stick the
+[06:04] two wires into your phone it's probably
+[06:06] better you put a plug on the end of it
+[06:08] but you could just stick them straight
+[06:09] in there or you can connect them
+[06:11] straight up to a battery and then stick
+[06:14] that battery into your phone whatever it
+[06:16] is you want to do the same process is
+[06:19] done and I've been asked like I said a
+[06:20] number of times so I thought I would
+[06:21] dedicate a video to it meanwhile we'll
+[06:24] finish our phone charger from our Singer
+[06:26] sewing machine mechanism I hope you
+[06:28] enjoyed the video hope it was helpful
+[06:29] thank you very much for watching and
+[06:31] please do remember to like And subscribe

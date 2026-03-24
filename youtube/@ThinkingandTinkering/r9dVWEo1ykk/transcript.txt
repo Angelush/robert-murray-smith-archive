@@ -1,0 +1,177 @@
+[00:00] foreign
+[00:07] hi everybody and welcome to Oxford
+[00:09] Street now in a typical day something
+[00:11] like half a million people will walk
+[00:13] down this street and at Christmas it can
+[00:15] be 10 times that there's so many people
+[00:17] here you can't walk against them you
+[00:19] have to go with the flow that's an awful
+[00:23] lot of people walking by when you think
+[00:26] about what walking actually is it's more
+[00:29] controlled falling you basically pick up
+[00:32] your foot lean forward and stick that
+[00:35] out there to stop yourself falling flat
+[00:37] on your face do if you think about
+[00:40] walking that way as dropping a weight
+[00:42] from a height in effect what you've got
+[00:45] is a gravity generator and of course
+[00:46] this is not something that have escaped
+[00:48] people and in 2017 pervgen stuck a
+[00:53] pavement here to collect all of that
+[00:55] energy it's gone now
+[00:58] all right
+[01:13] so I'll know the Bird Street project has
+[01:15] gone the company installed another of
+[01:17] their Pavements right here at Finsbury
+[01:20] Square Avenue and the company well
+[01:22] they're quite shy about talking about
+[01:24] their technology what's behind it and
+[01:26] all them really say is it's an
+[01:28] electromechanical device there are three
+[01:31] main ways that football harvesting is
+[01:33] being implemented and that's
+[01:35] piezoelectric
+[01:36] electrostatic and electromechanical the
+[01:39] electromechanical is pretty much what
+[01:42] we've used for generation for ages it is
+[01:44] essentially a coil and a magnet that are
+[01:47] moving if you look closely at the pair
+[01:49] of gen device then it's not much more
+[01:50] than a ruggedized internals of a speaker
+[01:53] it's a circular coil a circular magnet
+[01:56] uh rubber cap to stop it all wearing out
+[01:59] and it bounces up and down by five
+[02:01] millimeters as you tread on the pavement
+[02:03] which is made out of recycled tires but
+[02:06] what sets them apart is that they've
+[02:09] actually installing a device whereas
+[02:11] lots of the others and sitting on lab
+[02:14] benches because energy how we get it how
+[02:17] we use it and the impact it has in our
+[02:19] environment is a huge concern for us
+[02:23] of course everything new needs time to
+[02:26] mature new technologies need time to
+[02:29] develop when it comes to ideas about
+[02:31] energy harvesting of course they need
+[02:34] time and they're at the early stage but
+[02:36] we need Solutions as well
+[02:39] because the big arguments against energy
+[02:42] harvesting is that there isn't that much
+[02:44] energy now I always think of arguments
+[02:47] like that as a little bit spurious
+[02:49] because nothing when it starts as a new
+[02:51] technology is any good and if you
+[02:53] applied that argument to electric motor
+[02:55] as well we just wouldn't have them
+[02:58] so bearing all that in mind I've decided
+[03:00] to give it a go doing an
+[03:01] electromechanical energy Harvester and I
+[03:05] came up with this now I've drawn this in
+[03:06] tinkercad but have made the files
+[03:08] available in thingiverse if you want to
+[03:10] copy this and give it a go and change it
+[03:12] then by all means do and the main part
+[03:14] is this part here this is a big old gear
+[03:17] Cog which is modulus 1.5 and right in
+[03:20] the center integral to the Cog is a
+[03:22] spring so if I do that it will oscillate
+[03:25] so I'm figuring that if this has the
+[03:27] impact of something like a footfall
+[03:29] maybe or like a wind blowing it when it
+[03:32] stops it will continue to oscillate and
+[03:34] therefore act as its own store of energy
+[03:37] and continue to generate and of course
+[03:39] we need something to put that in so we
+[03:41] have these flat plaques now these flat
+[03:43] plates have these nodules on them and on
+[03:45] there I've round a serpentine coil so it
+[03:48] goes in and out in and out and across
+[03:49] the top to make a serpentine coil there
+[03:52] are two of those and there are these
+[03:53] three pins the three pins except this so
+[03:57] we can put that on there with the
+[03:58] magnets obviously in line with the coil
+[04:01] and now they oscillate that we have a
+[04:03] magnet oscillating around the coil it's
+[04:05] going to be a generator but of course we
+[04:07] have the other side now if we were just
+[04:10] to hit this it would bounce up and down
+[04:11] a lot of the force would be gone so we
+[04:14] have two gears that go here
+[04:18] and here and they stop it from going up
+[04:22] and down it can only go backwards and
+[04:24] forwards courtesy of those two gears
+[04:26] because those two gears are also acting
+[04:28] as a gear ratio so there'll be a lot of
+[04:30] torque on here in fact much more talk
+[04:32] than there is on here you can use that
+[04:34] in a different design now top of this
+[04:36] you'll see there's a four millimeter
+[04:38] hole and that's so that I can do
+[04:40] something like this this is a bit of
+[04:41] four millimeter rod and that could go in
+[04:44] there take it away to the top and when
+[04:46] the wind blows of course it's going to
+[04:48] oscillate it but equally we could put a
+[04:51] bar on here and if we tread on a panel
+[04:53] again it will oscillate it because I
+[04:56] want this to be adaptable and that's why
+[04:58] I've arranged it that way now we have
+[05:00] the other plate done exactly the same
+[05:02] way and that plate goes on there and
+[05:05] then between the two there's a foot
+[05:07] plate which is there and that goes on
+[05:09] there so let's glue all that together so
+[05:11] there's my little energy Harvester and
+[05:13] all we're going to do is flick it
+[05:14] backwards and forwards and see we'll get
+[05:15] out of it and I've got it attached here
+[05:17] to this voltmeter
+[05:32] out of it which is quite astounding for
+[05:35] what it is if you think about it now
+[05:37] this isn't a finished project it's meant
+[05:38] to be the heart of oh the project it's a
+[05:41] generation system that is adaptable to
+[05:43] other things like I mentioned before if
+[05:45] we put a rod in there and tie it to a
+[05:47] tree or a bush or we put a flag on the
+[05:50] top because the wind is going to blow it
+[05:52] and it's going to continue to oscillate
+[05:54] if we put a lever on it into a pavement
+[05:56] exactly the same thing it'll press there
+[05:58] around oscillate if we put a rack on it
+[06:00] right there attach it to a shoe it would
+[06:03] become a shoe generator so there's a
+[06:05] whole load of things you could do with
+[06:06] that which is why I designed it that way
+[06:08] I think it wins because it stores the
+[06:11] energy between One impact and another in
+[06:14] this Central Spring so when you take a
+[06:16] step and it pushes it down and you're
+[06:18] taking the next step it will continue to
+[06:21] oscillate because extra energy from the
+[06:23] step is being stored in the spring and
+[06:25] that's being released as you're taking
+[06:27] the next step so I think it's likely to
+[06:30] be reasonably efficient and it certainly
+[06:31] adaptable so I'm hoping that people will
+[06:34] take this and work with it and come up
+[06:36] with other things that they could do
+[06:38] with it whether it's a wind generator or
+[06:40] a footfall harvester or whatever it is
+[06:42] that folks come up with that'd be
+[06:44] absolutely fascinated to see now the
+[06:46] wire here is 0.2 millimeters diameter
+[06:49] it's only 0.2 millimeters diameter
+[06:51] because that's the wire I have had
+[06:53] thinner wire I'd have put thinner wire
+[06:55] on but I didn't have that and that's
+[06:57] what I put on and it worked really quite
+[06:59] nicely so remember the files for this
+[07:01] are in thingiverse the link is in the
+[07:03] description I hope you find it
+[07:05] interesting and useful and I'd love to
+[07:06] see what you come up with if you do do
+[07:08] adaptations of it thank you very much
+[07:10] for watching and please do remember to
+[07:12] like And subscribe

@@ -1,0 +1,158 @@
+[00:00] foreign
+[00:07] one of the things that probably isn't
+[00:09] readily appreciated is I work on things
+[00:11] all of the time the reason you don't see
+[00:14] them as videos because can you imagine
+[00:16] how dull it would be with oh here's
+[00:18] another rotor but this time it's
+[00:20] slightly pink on this section here
+[00:22] try to do things where there's something
+[00:24] interesting to report and I was thinking
+[00:27] about the efficiency of this rotor that
+[00:29] we're planning on putting in the Darwin
+[00:31] wind turbine and I thought how do we
+[00:33] measure that efficiency which is because
+[00:34] well I went into all the stuff about how
+[00:37] to calculate because I was thinking well
+[00:39] a Direct Energy to energy that would be
+[00:42] kind of good can we get to kinetic
+[00:43] energy in the wind and then kinetic
+[00:45] energy that we're measuring so what I've
+[00:48] got here is the blowtorch and blowtorch
+[00:51] is pretty cool but what it actually
+[00:52] represents more than anything is just a
+[00:54] flywheel if I pop that bit out there
+[00:57] then we have ourselves a flywheel that
+[00:59] weighs about 183 grams flywheel kinetic
+[01:03] energy is really really easy to
+[01:05] calculate so if I put this together says
+[01:08] he
+[01:10] tips there we go put it back together
+[01:13] stick my rotor on there and then get
+[01:16] that turning what I've got is a flywheel
+[01:19] system where I can store and measure the
+[01:21] kinetic energy so let's put together an
+[01:24] experimental setup to do exactly that
+[01:28] okay so here's our setup what I've got
+[01:30] here is a fan blower now that fan blower
+[01:32] takes a little bit of time to get to
+[01:33] speed but when it's up to speed it'll
+[01:35] blow out a column of air at about 2.4
+[01:38] meters per second and I know that
+[01:39] because I read it on an anemometer and I
+[01:42] put the anemometer right there to read
+[01:43] that wind speed so it's a little faster
+[01:46] than the wind that's hitting here but
+[01:47] not enough to make much of a difference
+[01:49] we'll give it 10 seconds so um we'll
+[01:52] hold on to that start that let it get up
+[01:54] to speed set the timer going let go 10
+[01:57] seconds and then we'll take a speed
+[01:59] reading and RPM reading of the flywheel
+[02:01] using a laser tachometer it's got a
+[02:04] little reflective strip on the back so
+[02:06] that we can do that and that will give
+[02:08] us an RPM after 10 seconds of this wind
+[02:11] blowing at it now the idea of 10 seconds
+[02:14] is important 2.4 meters per second is
+[02:17] important and we'll get a reading out of
+[02:19] this so let's set the whole thing going
+[02:25] [Music]
+[02:38] so the amount of energy stored in the
+[02:40] flywheel is half the moment of inertia
+[02:42] times the angular velocity squared if
+[02:44] you can't come with that then there's
+[02:46] plenty of online calculators like this
+[02:48] one this one's really easy we just put
+[02:49] in the mass of the flywheel which is 183
+[02:52] grams and then the diameter which is 150
+[02:55] millimeters and then we can put in the
+[02:57] RPM figure that we just got press
+[02:59] calculate and we get the number of
+[03:01] joules stored which turns out to be 1.2
+[03:04] okay so we start 1.2 joules in our
+[03:07] flywheel big whoop how much energy was
+[03:10] actually coming out well this is why we
+[03:12] did video 1921 because we can work out
+[03:15] what the kinetic energy of the wind was
+[03:17] in fact all kinetic energy is a half MD
+[03:20] squared which is half the mass times the
+[03:22] speed the mass is traveling at now what
+[03:25] we really need to know is the mass of
+[03:26] the air that we're hitting it with which
+[03:28] is why the 10 seconds was important if
+[03:30] we take a speed at 2.4 meters and hit it
+[03:33] for 10 seconds it's equivalent to having
+[03:35] a column 24 meters deep so we've got
+[03:38] this column 24 meters deep and we know
+[03:40] the area because it's the area here we
+[03:43] know what the mass of the air is because
+[03:45] the density is 1.22 and that's
+[03:47] equivalent with hitting that with about
+[03:49] 1.5 joules so we hit 1.5 joules and we
+[03:54] stored 1.2 joules anybody interested in
+[03:58] percentages that's 80 percent of the
+[04:02] wind energy we stored as rotational
+[04:05] energy in the flywheel so we're able to
+[04:08] capture 80 percent of the kinetic energy
+[04:11] of the Wind
+[04:13] that's more than the Vets limit the pets
+[04:16] limit is 59.3 percent we got 80 percent
+[04:24] okay there is some argument that that
+[04:26] was with the fan inside so I brought out
+[04:28] and I stuck it on the car in a real
+[04:30] world condition let's see what happens
+[04:37] looks like it'll spin in real world
+[04:40] that's awesome
+[04:45] so at First Sight looks like we've
+[04:49] created a router that will beat the
+[04:51] vessel in it which is pretty cool if you
+[04:53] think about it now that is First Sight
+[04:55] because there's a lot of things that
+[04:57] could go wrong I mean one thing is my
+[04:59] measurement error might have been
+[05:01] horrendous equally I could just be as
+[05:03] mad as a bag of kittens I don't really
+[05:05] know but I haven't done this in
+[05:07] tinkercad I've made it publicly
+[05:09] available the link is in the description
+[05:11] so if anybody wants to print off this
+[05:13] rotor and do some testing themselves
+[05:16] then you know that will be brilliant and
+[05:18] we can actually see if this is a pile of
+[05:20] nonsense or it is as efficient as it
+[05:24] would first appear to be that certainly
+[05:26] is what's going in the Darwin wind
+[05:28] turbine anyway now there's a couple of
+[05:30] things I've done to this I've reduced
+[05:31] the height of this you're only a
+[05:32] centimeter and I was thinking of
+[05:34] reducing it even further because the
+[05:36] idea obviously when turbine turns the
+[05:41] only bit that gets hit by the wind is
+[05:42] the blade and of course the rest of it
+[05:44] the wind is just going past it now in
+[05:47] that tip speed ratio does come in here
+[05:50] remember the tip speed ratio is about
+[05:52] six the tip speed ratio represents the
+[05:54] speed of the blade in relation to the
+[05:57] speed of the wind it's hitting about six
+[06:00] times the amount of wind the weather
+[06:02] wind turbine if it were a solid disc it
+[06:05] would block it completely this one works
+[06:07] really well if it's a solid disc because
+[06:10] it takes the air separates it in a flow
+[06:13] probably with uh sticks to it like a
+[06:15] quander effect blush out of these little
+[06:18] angled bits here which are what are
+[06:20] shoving it around so there is no wasted
+[06:23] wind in the same way that there is a
+[06:25] wind turbine and something like a tip
+[06:27] speed ratio probably doesn't have much
+[06:29] relevance although I guess it might do
+[06:31] here but
+[06:32] interesting router available for anybody
+[06:35] who wants it hope you enjoyed the video
+[06:37] and thank you very much for watching oh
+[06:40] and please do remember to like And
+[06:42] subscribe

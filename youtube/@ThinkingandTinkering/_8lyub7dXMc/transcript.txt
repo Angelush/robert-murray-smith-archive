@@ -1,0 +1,147 @@
+[00:02] [Music]
+[00:15] hi so these things they have quite a lot
+[00:17] of these actually and people including
+[00:19] me use them a lot for generation
+[00:21] particularly wind generation
+[00:23] unfortunately their output is uh pretty
+[00:26] disappointing and there's a reason for
+[00:28] that let's have a look inside the reason
+[00:30] these are disappointing as generators
+[00:32] actually is right there and right there
+[00:36] because the strength of any emf in a
+[00:39] generator is directly proportional to
+[00:41] the strength of the magnetic field the
+[00:44] length of the wire that passes through
+[00:46] that field and the speed at which it
+[00:48] passes through that field now a coil is
+[00:51] just a long bit scrunched up so there's
+[00:53] not much length there actually for a
+[00:56] generator
+[00:57] these although they're pretty good for
+[00:59] what they do aren't the most powerful of
+[01:00] magnets they're just ceramic magnets and
+[01:02] of course the speed at which this turns
+[01:05] is proportional to the wind speed
+[01:06] passing over it and the ability of these
+[01:09] blades to capture that wind speed and
+[01:11] turn it into rotation
+[01:14] but that's why so if you want to do
+[01:17] something about improving the output of
+[01:18] these then we've got to alter one of
+[01:20] those factors we've got to make it spin
+[01:22] faster give it a stronger magnetic field
+[01:24] or get a longer length of wire now
+[01:27] obviously we're going to use this magnet
+[01:28] because it comes as is and it's all
+[01:30] balanced and set up and everything so
+[01:32] nothing we can do about magnetic field
+[01:34] the rate of spin is going to be
+[01:36] proportional to the wind speed that we
+[01:38] plan on sticking it in so about the only
+[01:40] thing we can do is increase the length
+[01:41] of wire here so we can rewind that with
+[01:44] longer wire now it's pretty traditional
+[01:46] to take these boards off solder to the
+[01:48] ends of the coils and you have yourself
+[01:49] a generator we're going to do exactly
+[01:51] that remove the board and then remove
+[01:53] the wires and then rewind it okay so
+[01:55] i've taken the wire off and i've got the
+[01:57] bare poles now they were wired or rather
+[01:59] coiled pole to pole obviously so the
+[02:02] opposite poles are wired they use six
+[02:04] meters of wire so it's three meters each
+[02:06] pole 62 turns and this is uh 24 swg now
+[02:10] that's pretty thick wire and not a lot
+[02:12] of it for something like that but then
+[02:14] it's not a surprise it was a servo motor
+[02:16] so it's meant to take quite a lot of
+[02:18] power it's using thick wire so it can
+[02:20] carry the amps so you can bang quite a
+[02:22] lot of amps in there and get that to
+[02:24] spin but that's great for a motor but
+[02:27] not so good for a generator because
+[02:29] remember the um
+[02:31] magnetic field length of the wire speed
+[02:34] of the turn determines the voltage the
+[02:36] current is going to be determined by the
+[02:37] load that you apply on it and the amount
+[02:39] of torque you need to put on it is going
+[02:42] to be related to the load that you put
+[02:44] on and the reactants that the load has
+[02:47] based on the generation and based on
+[02:49] what it's tied onto so what we really
+[02:51] would love is a lot of thin wire in
+[02:53] there so we get a greater length of wire
+[02:55] now obviously there's an interplay
+[02:57] because that will limit the current
+[02:59] because if we put thin wire on there
+[03:01] it's got quite a high resistance and
+[03:03] that means if we try to draw too much
+[03:04] current for it and we've tried to put it
+[03:06] onto a load that wants too much current
+[03:08] we're going to have to put a lot of
+[03:10] force in there to turn it and that amp
+[03:12] could exceed the wire so that's the
+[03:14] relationship between the wires actually
+[03:16] but we can bang a bit of thin wire on
+[03:19] there and we should get a much higher
+[03:21] voltage out of this anyway let's rewind
+[03:24] it i've basically rewound it with some
+[03:27] 30 gauge wire which is about 0.25 of a
+[03:30] mil that's replacing this which was
+[03:32] about 0.5 mil more or less and i put on
+[03:35] 240 turns instead of the 60 turns that
+[03:38] were on there so basically about four
+[03:40] times the length now we can bang it back
+[03:42] together and see if it's made a
+[03:43] difference okay so what i've got here is
+[03:45] an identical pc fan where the only
+[03:47] modification i've done is to make it
+[03:49] into a generator just removed the
+[03:51] circuit board and soldered the wires
+[03:53] onto the ends of the coils now we set
+[03:55] that one up
+[03:57] so i've got a vault meter here and i've
+[03:59] got a little led is allowed
+[04:16] so we get about 1.4 volts out of that we
+[04:18] can't light our led now let's try our
+[04:21] modified one
+[04:36] and we get 2.6 volts out of that easily
+[04:38] and the led lights brightly
+[04:42] the moral of this story really is if you
+[04:44] want to improve the output of a pc fan
+[04:47] as a generator then you have to do one
+[04:49] of those three things either improve the
+[04:51] magnetic field increase the speed at
+[04:54] which it turns or increase the length of
+[04:56] wire that's passing through the magnetic
+[04:57] field now we could have used a thinner
+[05:00] wire and got even more turns in there in
+[05:02] which case we've got a much much higher
+[05:04] voltage this incidentally is why those
+[05:06] um turntable generators where people
+[05:09] have been taking turntable motors from
+[05:11] microwaves attaching a handle it's why
+[05:13] they generate such high voltages because
+[05:15] that that wire in there is basically
+[05:18] hair and there's a couple of thousand
+[05:20] tons we only did that because that's the
+[05:22] wire i had and it's easy to handle at
+[05:24] that kind of swg
+[05:26] so doing any of those three things is
+[05:28] going to actually improve generation in
+[05:31] any generator but remember there are
+[05:33] trade-offs because although the voltage
+[05:36] goes up if you're supplying a load and
+[05:38] that load has quite a high amp draw then
+[05:41] of course you're going to risk burning
+[05:42] out your wires so you always have a
+[05:44] trade-off with these things but to
+[05:46] improve the pc fan as a generator in
+[05:48] fact anything as a generator you need to
+[05:51] be looking at improving one of those
+[05:53] three things anyway i hope it was of
+[05:55] interest thank you very much for
+[05:57] watching and please remember to like and
+[05:59] subscribe

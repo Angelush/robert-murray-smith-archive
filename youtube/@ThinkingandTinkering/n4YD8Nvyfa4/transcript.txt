@@ -1,0 +1,188 @@
+[00:06] hi so I've made a large scale ESD and
+[00:08] I'm just leaving this to dry and while I
+[00:11] leave this to dry I want to talk to you
+[00:13] about this and this is something I first
+[00:16] showed you about oh I don't know 3 years
+[00:19] ago something like that and it's a fine
+[00:21] example of the things that you put on
+[00:22] the Shelf until you get around to
+[00:24] looking at them again and this is one of
+[00:25] them it looks a bit like an
+[00:27] electromagnet and if I touch it there
+[00:30] nothing happened which is no surprise
+[00:32] really until I put a current through it
+[00:36] when I put a current through it again
+[00:38] you're probably not going to be
+[00:39] surprised if I put a quick pulse current
+[00:41] through and suddenly it has become
+[00:43] magnetic but there is one thing to
+[00:45] notice about this let me disconnect it
+[00:48] when I disconnected it it remains
+[00:51] magnetic not like an electromagnet at
+[00:53] all let me just connect it up again for
+[00:56] you
+[01:05] now I'm going to swap the leads
+[01:08] around so I'm reverse charging it if you
+[01:11] like and I just touch it and it loses
+[01:15] its magnetism this is a switchable
+[01:19] magnet not an
+[01:21] electromagnet all I actually have to do
+[01:23] is pulse a current through that coil and
+[01:27] when I pulse a current through that coil
+[01:29] it is either non- magnetic which it is
+[01:31] now or puls it and suddenly it's
+[01:34] magnetic again and it retains that
+[01:37] quality without the current going
+[01:39] through I only have to pulse it once
+[01:41] it's pulsed I can disconnect it totally
+[01:44] and it remains in the state that it was
+[01:47] actually in now that's very cool but
+[01:50] let's go have a discussion about what
+[01:52] that actually means so let's have a bit
+[01:54] of a better look about what was going on
+[01:56] in that device now what we had were two
+[01:59] magnets side by side and let's say for
+[02:01] argument sake they're north south south
+[02:03] north and we had our Keepers on
+[02:07] that now in that situation the magnetic
+[02:10] flux is going to follow the path of
+[02:11] least reluctance and it's just going to
+[02:12] go there and there that's why we
+[02:14] couldn't observe magnetic effect it was
+[02:16] all kept within the keepers now we had a
+[02:18] coil around it and we put a charge
+[02:21] across that coil in a brief moment and
+[02:23] these two magnets are different
+[02:25] materials this one's a Neo and this
+[02:26] one's an Alo the Neo is a hard magnetic
+[02:30] material putting a brief pulse through
+[02:32] it like that it's going to do nothing
+[02:33] the iono is a soft magnetic material so
+[02:36] if we pulse out in the right direction
+[02:38] what will happen there is that that will
+[02:39] change polarity so that become North and
+[02:41] that will become South when that happens
+[02:44] the path of leas reluctance is actually
+[02:45] outside of the keepers and our field
+[02:47] goes like that so by pulsing it we could
+[02:50] suddenly have that magnetic effect then
+[02:53] when we reverse that pulse and reverse
+[02:55] the poles again again the least
+[02:57] reluctance path is in the keeper and so
+[02:59] so we lost the magnetic effect now we
+[03:01] only had to do that when by pulsing it
+[03:04] we didn't have to apply a constant
+[03:06] current that you would have to do when
+[03:07] you used an
+[03:08] electromagnet so it's kind of like
+[03:11] electromagnet but actually it switches
+[03:14] the polarity of the alol and takes
+[03:16] account of the paive Le reluctance so
+[03:19] that the field is either inside or
+[03:21] outside of those Keepers and that's a
+[03:23] really interesting device now it's
+[03:25] interesting in itself but what can be
+[03:27] done with it
+[03:32] well let's say we have a situation like
+[03:50] this and we fix this it's not like a
+[03:53] rotor but here we have a rotor with
+[03:55] teeth in it
+[04:05] now if we turn that on then that will be
+[04:08] pulled to top dead center of that again
+[04:10] because it's path ofu reluctance and
+[04:13] once it gets there if we turn that off
+[04:14] but turn that on then we'll be able to
+[04:16] pull that one again stopping it turning
+[04:18] it off turn that one and we can make
+[04:20] this whole thing rotate continually by
+[04:24] changing the switch in here now this is
+[04:26] called a switch reluctance motor if
+[04:28] these were just electromagnets that's
+[04:30] what switch reluctant motor is by
+[04:32] switching these in series we can use the
+[04:35] path of least reluctance to rotate this
+[04:37] Outer Rim around there now these switch
+[04:41] at about a microc or so this takes a
+[04:44] time if the revolution here is quite low
+[04:48] lower than the switching speed of these
+[04:50] then we actually should be able to get
+[04:52] an advantage out of that because instead
+[04:54] of having to power these as
+[04:55] electromagnets continually we only have
+[04:57] to switch them on and then let the rest
+[04:59] the work the um mechanism do the work
+[05:01] for us once it gets that switch them off
+[05:04] again so we should have some kind of
+[05:07] efficiency saving there at least that's
+[05:08] the theory now this obviously is
+[05:11] beginning to look like a um motor and
+[05:14] that's exactly what we're planning on
+[05:15] building is we're planning on building
+[05:17] this magnetically assisted switch
+[05:19] reluctance motor and using it with the
+[05:22] ESD to drive a vehicle or at least
+[05:25] that's the plan and that's why we've
+[05:26] been cutting discs because we're
+[05:28] actually engaged in building this
+[05:30] right
+[05:31] now there we go nice and magnetic and
+[05:34] pulse it and it loses its magnetism and
+[05:37] we can use that as we described on the
+[05:39] board to build a
+[05:41] motor and the idea is that this m this
+[05:44] motor this magnetically assisted switch
+[05:47] lons motor will have some kind of
+[05:51] advantage over an electr Magnet or just
+[05:54] a straightforward switch fluon motor we
+[05:57] should be able to get some kind of
+[05:58] Advantage with that or at least it's
+[06:00] possible and we're going to be looking
+[06:02] at that by building that motor now I
+[06:04] could play with this all day because I
+[06:05] think it's absolutely
+[06:07] fascinating just got to make sure that
+[06:09] it's actually
+[06:13] connected there we go now what's in
+[06:16] there as I say uh just um two
+[06:19] magnets I'm now looking for
+[06:24] them
+[06:27] ah two magnets so we got a Neo and an
+[06:31] alic Co and we put them together and
+[06:33] wrap them in that coil of water let me
+[06:36] show you how so to make this is really
+[06:37] easy all you need are two magnets one
+[06:39] neodium magnet and one alnor magnet
+[06:42] about the same length these are 2.5 cm x
+[06:45] 4 mimet a little bit of scrap steel this
+[06:47] is some laminations from a Transformer
+[06:50] you want to cut off about 1 cm here 1 cm
+[06:52] here glue these two magnets together the
+[06:55] orientation doesn't matter and then spot
+[06:57] glue a little bit of the steam onto the
+[07:00] end of it and that's what you'll end up
+[07:01] with something that looks like that now
+[07:04] all we need to do is take some copper
+[07:06] wire the gauge doesn't really matter and
+[07:08] bu a couple of hundred turns on that and
+[07:11] just wind it on and there it is finished
+[07:13] and connected up to a power supply you
+[07:15] can use a battery if you want at this
+[07:17] stage it won't have any magnetism or it
+[07:19] shouldn't have any magnetism we don't
+[07:22] know which way around it's connected
+[07:24] doesn't really matter if
+[07:26] you can't get it working on the first
+[07:28] try just swap it round to the other one
+[07:30] so let's give it a bit of a zush of
+[07:33] power see if we've got any magnetism
+[07:35] coming out and we do there we go so now
+[07:38] if we reverse those
+[07:46] again give it little
+[07:52] pulse oops make sure it's
+[07:57] connected and give it a little pulse
+[08:01] and then it loses its magnetism
+[08:03] again so there we go PS it it's magnetic
+[08:09] swap it and P it again it'll lose that
+[08:18] magnetism anyway I thought you'd find
+[08:20] that interesting and thank you for
+[08:22] watching

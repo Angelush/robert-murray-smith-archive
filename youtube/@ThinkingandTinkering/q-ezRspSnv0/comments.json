@@ -1,0 +1,217 @@
+[
+  {
+    "id": "UgzDXtPbIjyeKjs8aQ94AaABAg",
+    "author": "@mookiemorjax",
+    "author_channel_id": "UCRRTZYilaqfR_bM59VhBNeg",
+    "text": "Comparing to the Elegoo Neptunes weve come a long way in a half dozen years!!",
+    "likes": 0,
+    "published_at": "2023-05-27T03:19:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggkwZCNABndIXgCoAEC",
+    "author": "@agentbertram4769",
+    "author_channel_id": "UC-a2UvIO_arf7WYEqPN47jg",
+    "text": "It looks a lot more technical than I thought it would be.  However, it is a very useful tool.",
+    "likes": 0,
+    "published_at": "2017-07-05T18:07:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UghmkXABinQKY3gCoAEC",
+    "author": "@MarkDurbin",
+    "author_channel_id": "UCtH700lrozAEBLUQWcCfDFQ",
+    "text": "Let me know if you need any modelling or help with 3D printing",
+    "likes": 0,
+    "published_at": "2015-07-19T15:56:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggKiAIBdhuzungCoAEC",
+    "author": "@nickpinnetti4107",
+    "author_channel_id": "UCVEDk9qO_L-1NtMzmcJyV3A",
+    "text": "Any Thoughts on developing graphene based filaments? You Could print curcuit boards? Maybe even print a heated bed? I would be interested in experimenting with it.\nOn the subject of 3d printing, I have build 4 repraps. 3 prusa style and one kossel. Pretty easy builds once you understand how they work. I have found cura a great program. I also find myself using \"matter control\" which has cura slicer and their own slicer in one program. It's free and worth a look. \n\nI also find that the layer height you print at is very important. There is a calculator based on your stepper motors and lead screw that determines the ideal layer height to print at for best quality layers. I believe it has something to do with motor holding torque between full steps. I don't have the link on hand but I found it with a Google search. I believe the prusa founder made it. \n\nA lot of fdm printing is trial and error. Nozzle Temps between different types of filament (brand, color etc.) I use an aluminum headed bed coated with aquanet super hold hair spray and my prints always stick. Bed leveling is also very important for good print quality. Look into an inductive proximity sensor. I use it for auto bed leveling and have never looked back.",
+    "likes": 0,
+    "published_at": "2015-07-18T16:32:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggKiAIBdhuzungCoAEC.81khONPWjjP7-P662LxTcD",
+        "author": "@BobEarlRacing",
+        "author_channel_id": "UCT9QWjBQMCxjrxew58fFYog",
+        "text": "Nick Pinnetti Graphene filaments are already offered by Graphene 3D Labs in Canada. I wonder if they going to use this tech in the battery products at Sunvault????",
+        "likes": 0,
+        "published_at": "2015-07-21T19:54:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgiGHulsOCgO73gCoAEC",
+    "author": "@rawsome369",
+    "author_channel_id": "UCZPqRXBduyJ2JLtT_JI-dsg",
+    "text": "I have a good idea(generally) as to how to print liquid graphene into hardened aligned structures. Is this the next step you're going to be taking?",
+    "likes": 0,
+    "published_at": "2015-07-13T02:52:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggP5wb7g3IzsXgCoAEC",
+    "author": "@planetengineeringofficial8545",
+    "author_channel_id": "UCq-5BVHWH67AOFvbBcWlKjw",
+    "text": "Nice it sounds easy enough how much is that 500$?",
+    "likes": 0,
+    "published_at": "2015-07-11T07:58:46Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UggP5wb7g3IzsXgCoAEC.81Sl3ZyS3807-HObYUJHLt",
+        "author": "@stevem153",
+        "author_channel_id": "UCm4CN_i5YRrQaZCGoKurIEg",
+        "text": "сталкер чворович The model we have was pre-built. The kit is cheaper if you want to put it together yourself but ours with delivery was around £500 so $750 ... quite expensive but I think the pay-back poeriod will be very short.",
+        "likes": 1,
+        "published_at": "2015-07-11T11:28:57Z"
+      },
+      {
+        "id": "UggP5wb7g3IzsXgCoAEC.81Sl3ZyS3807-IS5eb4IX4",
+        "author": "@planetengineeringofficial8545",
+        "author_channel_id": "UCq-5BVHWH67AOFvbBcWlKjw",
+        "text": "Steve M i can agree",
+        "likes": 0,
+        "published_at": "2015-07-11T21:18:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UggFUzpwVboP6ngCoAEC",
+    "author": "@planetengineeringofficial8545",
+    "author_channel_id": "UCq-5BVHWH67AOFvbBcWlKjw",
+    "text": "Nice it sounds easy enough how much was that 500$?\n",
+    "likes": 0,
+    "published_at": "2015-07-11T07:57:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgiSLLZEQhXgkHgCoAEC",
+    "author": "@jblistener7491",
+    "author_channel_id": "UCtiLh3T659DKQaMrRjS2ZpQ",
+    "text": "Consider using Blender (http://www.blender.org/) for design, as it has tools built-in to make 3D printing easier.\n\nAlso, when laying the tape, begin from the periphery, and layer the tape inwards from both sides.  This way, you can simply lift off the portions in the center that are actually used, and lay down replacement tape quickly if you're printing multiple objects. \n\nIt's not important for demo objects, but for the kind of work you do, you won't want to pry and/or smack carefully detailed models off the table. :)",
+    "likes": 1,
+    "published_at": "2015-07-11T06:58:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgiSLLZEQhXgkHgCoAEC.81SeCJJ8P0N7-HUekttpxB",
+        "author": "@stevem153",
+        "author_channel_id": "UCm4CN_i5YRrQaZCGoKurIEg",
+        "text": "jb listener Thanks for that JB. I am on the steep learning curve with Blender at the moment it's a great program for design and I'm interested in editing our videos in it too.\n\n\nGreat tip about the tape, makes perfect sense.",
+        "likes": 1,
+        "published_at": "2015-07-11T11:21:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugi8AZ6DAjat-3gCoAEC",
+    "author": "@partisanguerrilla3167",
+    "author_channel_id": "UCfNfa6gC-JM6FINaoyRnK1g",
+    "text": "suggestion - tape a sheet of wax paper on on the table",
+    "likes": 1,
+    "published_at": "2015-07-11T06:06:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggKQFIMH3MVwngCoAEC",
+    "author": "@chrisstevens2",
+    "author_channel_id": "UCecxiP-KWH_MBjmkSPUQstQ",
+    "text": "Frogtape!  ...That's it, I just saying frogtape.",
+    "likes": 0,
+    "published_at": "2015-07-11T04:55:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UghtVr5hv0E87XgCoAEC",
+    "author": "@bridgendesar",
+    "author_channel_id": "UCUfYu5QE1sevbPxIL9AAOaQ",
+    "text": "You can now start a side 3d printing business making the battery covers for remote controls that people keep losing!",
+    "likes": 0,
+    "published_at": "2015-07-11T02:15:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghtVr5hv0E87XgCoAEC.81S8poiZZEX7-I-_-sJ0ix",
+        "author": "@stevem153",
+        "author_channel_id": "UCm4CN_i5YRrQaZCGoKurIEg",
+        "text": "bridgendesar We have a 10001 uses for this mahine from casings and enclosures for our own prototypes to finished parts. I'm really enjoying it.",
+        "likes": 0,
+        "published_at": "2015-07-11T11:26:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjNBx5UFjMww3gCoAEC",
+    "author": "@MichelPASTOR",
+    "author_channel_id": "UC2k9rSB37rtsIsQ4eQEUw-Q",
+    "text": "Cura is good but you can use slic3r too to slice the model before printing. I find it gives more control over the print parameters. I don't know about the Ultimakers but I've got a reprap clone and it seems like I get better quality and tolerances when printing parts sliced with slic3r. It is important when printing technical parts. I recently discovered that for most printers the extrusion algorithm is naive and does not consider the pressure buildup in the extruder. To circonvent that and still get pretty good quality print I set the speed of the perimeters and external perimeters to the same value. RepetierHost is a free software you can use to slice parts with slic3r and print it just like with cura.\n\n3D printers are very useful tools but FDM printers can be difficult to calibrate and very time consuming to make good parts depending on the complexity of the part. Tell me if you have any question. Maybe I can help.",
+    "likes": 0,
+    "published_at": "2015-07-11T02:01:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgjE37GYZnQxVXgCoAEC",
+    "author": "@thebluefarmer6406",
+    "author_channel_id": "UCrBH107T8uxfTMEin2f6eAA",
+    "text": "the sound is too bad. i can't make out 1/2 of what is being said.",
+    "likes": 0,
+    "published_at": "2015-07-11T00:48:01Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "UgjE37GYZnQxVXgCoAEC.81RzlfAP5jf7-H5J8xaBDb",
+        "author": "@fossil98",
+        "author_channel_id": "UCti2vbMCt_-YHs2QyulkwRg",
+        "text": "The Blue Farmer Sounds fine to me.",
+        "likes": 2,
+        "published_at": "2015-07-11T01:29:32Z"
+      },
+      {
+        "id": "UgjE37GYZnQxVXgCoAEC.81RzlfAP5jf7-HmP8JDeeP",
+        "author": "@solarhope",
+        "author_channel_id": "UCB45svVX-jnuoYVUE_aUH7A",
+        "text": "Fossil98   No left channel",
+        "likes": 0,
+        "published_at": "2015-07-11T07:54:50Z"
+      },
+      {
+        "id": "UgjE37GYZnQxVXgCoAEC.81RzlfAP5jf7-I6LDFH3pG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "The Blue Farmer the sound is very good - i suspect you are whining for no good reason on this one mate - lol",
+        "likes": 0,
+        "published_at": "2015-07-11T10:57:48Z"
+      },
+      {
+        "id": "UgjE37GYZnQxVXgCoAEC.81RzlfAP5jf7-Kb4USI4iz",
+        "author": "@solarhope",
+        "author_channel_id": "UCB45svVX-jnuoYVUE_aUH7A",
+        "text": "Robert Murray-Smith Well that's odd, works fine on speakers, no left channel on headphones, but headphones work ok on other youtube vids?  - I stand corrected the sound is very good - lol",
+        "likes": 0,
+        "published_at": "2015-07-12T10:13:37Z"
+      },
+      {
+        "id": "UgjE37GYZnQxVXgCoAEC.81RzlfAP5jf7-MDv5zlwan",
+        "author": "@ClownWhisper",
+        "author_channel_id": "UCrQVopd67OnwpMyLTSP73Sw",
+        "text": "solarhope no left on my headset either but the sound quality is just fine",
+        "likes": 0,
+        "published_at": "2015-07-13T01:20:58Z"
+      }
+    ]
+  }
+]

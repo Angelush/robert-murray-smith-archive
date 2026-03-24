@@ -1,0 +1,162 @@
+[00:02] [Music]
+[00:15] hi so because i want to automate my
+[00:17] electrode making machine what it means
+[00:19] doing
+[00:19] is writing some arduino code because i'm
+[00:21] going to have to use an arduino to
+[00:23] control everything
+[00:24] now the first thing i want to control
+[00:26] obviously is the switches so i need to
+[00:28] turn them off and on basically
+[00:30] to do that what i'm going to do is use a
+[00:32] bunch of relays
+[00:33] so this arduino board which is just
+[00:36] awesome actually because you can buy a
+[00:38] lot of these things these things are
+[00:39] called shields
+[00:40] and when you buy these they do different
+[00:43] jobs this is a four relay shield you can
+[00:45] get a two rail relay shield
+[00:47] all of the pins match up and they slide
+[00:49] rather neatly into the arduino board to
+[00:51] make you a little stack
+[00:53] everything's nice and neat everything's
+[00:55] held together and these things are
+[00:56] really quite cheap so
+[00:58] it stops an awful lot of work i mean if
+[01:00] you want to buy them individually and
+[01:01] get them pin them in there
+[01:03] knock yourself out i like shields
+[01:04] especially i'm using lots of relays
+[01:07] because it's just so simple to do now if
+[01:09] you buy an arduino relay shield
+[01:12] from arduino site it'll come with the
+[01:14] pin outs telling you which
+[01:15] which of these pins are the ones that
+[01:17] you're going to be need to use
+[01:19] if you buy a slightly cheaper version
+[01:21] because you're cheapskate like me
+[01:22] then you don't get that and that can be
+[01:24] a real challenge
+[01:26] just working out which of these pins is
+[01:29] actually going to be the pin you need to
+[01:31] send the information to
+[01:32] to get that relay to turn off and on and
+[01:34] it's a little daunting to be honest
+[01:36] but actually it's really quite simple if
+[01:39] you flip the shield over
+[01:41] you'll see the tracers going to the pins
+[01:44] you don't need to know where those
+[01:45] traces go on the actual board
+[01:47] you just need to know which pins the
+[01:49] tracers are going to
+[01:50] and when you look at the bottom of here
+[01:52] there aren't any traces
+[01:53] at all on any of those pins apart from
+[01:56] four of them
+[01:56] these four here and they're pins four to
+[01:59] seven
+[02:00] those pins are the only pins with
+[02:02] tracers going to them
+[02:03] so logically they must be the control
+[02:06] pins
+[02:07] so identify which pins have got tracers
+[02:09] going to them they'll be the control
+[02:10] pins and write them down
+[02:12] and as i say mine is four to seven then
+[02:14] i can put the two shields to
+[02:16] the together they are doing on the
+[02:17] shield together incidentally if i wanted
+[02:19] to do another job i could stick another
+[02:21] shield on here which is i think really
+[02:22] cool
+[02:23] and that is going to be my control board
+[02:25] because remember we're just pressing
+[02:26] switches so all we really
+[02:28] need is relays and we need that
+[02:29] information coming out of some of these
+[02:31] and we're not quite sure yet
+[02:32] which ones but we know which pins they
+[02:35] are so now all you do is grab yourself
+[02:37] an arduino sketch and this one is
+[02:40] actually from the arduino hub
+[02:42] so it's copyright free public domain
+[02:45] easy to use and just copy that sketch
+[02:47] and paste it into your sketchbook
+[02:50] now the sketch actually looks like this
+[02:57] so all you do is connect your arduino to
+[02:59] your computer
+[03:00] open up the sketch pad i actually use
+[03:02] the ide
+[03:03] online although you can download the ide
+[03:06] so you uh uploaded your sketchpad
+[03:08] and then upload it to the arduino and
+[03:11] what will happen
+[03:13] is that light will come on so that light
+[03:16] is
+[03:16] telling me which of the relays
+[03:20] is being used now quite often on these
+[03:22] boards it will actually say
+[03:23] which relay it is because there are
+[03:25] little blocks of four each one is its
+[03:26] own led
+[03:27] and it'll say relay one and that led
+[03:30] will light up
+[03:31] and you're done so i put pin four in
+[03:33] there and i get that led to light up
+[03:36] if i change my sketch to pin five
+[03:46] and upload that sketch
+[03:49] there we go we get a different led you
+[03:52] should have heard the click
+[03:53] that led goes on and that led goes off
+[03:56] sorry and that led comes on
+[03:58] so we know just by changing those pin
+[04:01] assignments we can work out
+[04:03] which led that the pins aren't going
+[04:06] to now if you don't have
+[04:09] a little bit of writing there telling
+[04:11] you which one then you can just grab
+[04:13] yourself a multimeter
+[04:14] and go between the common and the
+[04:16] normally open
+[04:18] just stick them on those pins there
+[04:21] set it to the resistance reading pop
+[04:23] them on the common and normally open
+[04:25] and you'll get a low resistance if you
+[04:27] put them on the others you're getting
+[04:28] infinite resistance because
+[04:30] that's the one that's working and we can
+[04:31] read that resistance
+[04:33] telling us which pin goes to which they
+[04:36] really get a piece of cake to
+[04:37] actually work out and you work it out
+[04:39] just by looking at them
+[04:41] and then turning off and on using a
+[04:43] freely available sketch you don't even
+[04:45] need to write
+[04:46] copy and paste it and use it it's free
+[04:48] for all of that stuff
+[04:49] now what that sketch will do that i
+[04:51] showed you is stick taken straight from
+[04:53] the hub
+[04:54] and it will turn the relay on and the
+[04:55] relay stays on
+[04:57] obviously what we want to do is have the
+[04:59] relay turn on and turn off
+[05:01] and with a slight adaptation this sketch
+[05:08] will do exactly that and now we upload
+[05:10] it just by uploading
+[05:13] and then every couple of seconds
+[05:17] that relay will turn off and on which is
+[05:19] exactly what we wanted to do
+[05:21] so using and identifying relays on an
+[05:25] unknown board
+[05:26] really is easy you just have a look and
+[05:29] you'll see on the board enough
+[05:30] information for you to be able to work
+[05:32] it out
+[05:32] free sketch bingo you're ready to rock
+[05:35] and roll
+[05:36] anyway i hope you enjoyed this quick
+[05:38] introduction to using relays on arduinos
+[05:40] and thank you very much for watching

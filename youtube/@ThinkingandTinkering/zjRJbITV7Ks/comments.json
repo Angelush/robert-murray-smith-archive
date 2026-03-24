@@ -1,0 +1,1073 @@
+[
+  {
+    "id": "UgyXyKlen_NDa1dgVE54AaABAg",
+    "author": "@mattmill30",
+    "author_channel_id": "UC17S6cwPdS1OFh_PPlvfY1w",
+    "text": "I am trying to create a 7S6P Li-ion battery pack from disposable e-cigarettes and retrofit a replacement for a 2S Lead-acid e-scooter. However, the only way I can fit 6P is 2x3P end-to-end (either shared negative rail with two positive rails or shared positive rail with two negative rails), so I was hoping for some design suggestions and terminology, particularly around safety considerations.\nI've previously seen a battery, either from a children's toy or a tool, with two female terminal receptacles on one edge and one female terminal receptacle on the parallel edge. But what would this terminal configuration be identified as? e.g. The Makita BL1830-PK3 battery has \"sixteen firm holding contact terminals\", but how would that be presented in notation? e.g. 7S6P instead of \"42 cells\"",
+    "likes": 0,
+    "published_at": "2025-03-10T11:36:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyTPmTvTikeYTmRNvt4AaABAg",
+    "author": "@benniedonald",
+    "author_channel_id": "UCzl2RTC5bVpl3YbSjkkMdRw",
+    "text": "I hope I find the next part. I love you guys videos.",
+    "likes": 0,
+    "published_at": "2021-03-20T10:48:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlJBqMrNVoA98dezF4AaABAg",
+    "author": "@ryanlebeck259",
+    "author_channel_id": "UC6p_9ZsOo1BZU71I1abBTxA",
+    "text": "I like the volts imagery, though amps is more like traffic on a highway 😉. Either way it is good to see that you are pacing your presentations better and still delivering the same energy to them.",
+    "likes": 0,
+    "published_at": "2020-12-26T03:16:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwX_GGaq5Qs1Pn1KV54AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "Not a bad project. I do need to comment on you energy definition. 4 Ah is not energy. You need to multiply with the voltage to get the energy contained. It's really simple. P = U * I. E=P * T. Where P is in Watt, U is in V, I is in Amps, T is in seconds and E is in Joules which is the same as a WattSecond. I hope you don't mind I point this out to you, I feel it's kind of important as the same mistake is made in nummerous articles or even in technical reports which is kind of a pain ( usually mixing up power and energy ) . If it's not clear ask your dad. He can tell you all about it.\nAnd it's so great you spotwelded the batteries. Some people just solder them which is a big mistake potentially destroying isolation inside( for lithium batteries I'm sure of that. for others probably also. )",
+    "likes": 0,
+    "published_at": "2020-12-20T19:41:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTtcDdcNBUVqVVg_R4AaABAg",
+    "author": "@josephmurphy1404",
+    "author_channel_id": "UCcREk-6VoJZdsdS3t-Wab0w",
+    "text": "I am impressed with your types of interest wish I had them at your age",
+    "likes": 1,
+    "published_at": "2020-12-20T19:28:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlIt5tol_0W9DNFYl4AaABAg",
+    "author": "@endadalton",
+    "author_channel_id": "UCOZZjL3LDZa1pPMxnf2OzFw",
+    "text": "Thanks, great explanation. I am excited about the next video.",
+    "likes": 1,
+    "published_at": "2020-12-20T00:26:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzlIt5tol_0W9DNFYl4AaABAg.9HTTQzdYjHa9HWmkYlVCmw",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate! Hopefully for friday lol.",
+        "likes": 0,
+        "published_at": "2020-12-21T07:22:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwYbRYWP8WxQ7EszXF4AaABAg",
+    "author": "@dazer123",
+    "author_channel_id": "UCdtJvy6z9VL4P89HS6qwUCQ",
+    "text": "Lol dad hovering in the background",
+    "likes": 0,
+    "published_at": "2020-12-19T20:31:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyu8Sy5ZJJfYsAtzXx4AaABAg",
+    "author": "@rodciferri9626",
+    "author_channel_id": "UCqsC-us9y9vEhUuzzAuuKtw",
+    "text": "Thank you for your amperage/voltage analogy - this electrical newbie finally understands!",
+    "likes": 1,
+    "published_at": "2020-12-19T20:26:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzZTnDNSM69MvJboxd4AaABAg",
+    "author": "@Matriarchy_Feminism",
+    "author_channel_id": "UCWGhbp1m4a635cwYUm0xspA",
+    "text": "I have got 32old and good li ion battery at free of cost.☺️",
+    "likes": 1,
+    "published_at": "2020-12-19T12:56:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwtioozWo_BxOW-hiJ4AaABAg",
+    "author": "@joinedupjon",
+    "author_channel_id": "UC2AaLAQogVbU6-Po1ADufow",
+    "text": "Couple of things,\n I think you could have shown the spot welding. Rob might have done a video about DIY spot welding batteries in the past but if not you could show us how to make & use the equipment... \nHow did you charge the batteries? I don't think consumer NiMh chargers would work with long series packs like that so this'll be important information to people you inspired to make up similar packs - probably you could use a fairly simple circuit and make another video about that.\nThis isn't intended to be harsh criticism btw :)",
+    "likes": 0,
+    "published_at": "2020-12-19T12:51:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxkVsa6Jb5TQua72jJ4AaABAg",
+    "author": "@Bunnunoox",
+    "author_channel_id": "UCYHPCkxAXpcOpSm-YXwVc-A",
+    "text": "Where can you scavenge those kinds of batteries from?",
+    "likes": 1,
+    "published_at": "2020-12-19T07:53:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxkVsa6Jb5TQua72jJ4AaABAg.9HRgnWyEvOD9HWmsgTYIT5",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "We found these in a skip, a few months ago. Cheers mate!",
+        "likes": 1,
+        "published_at": "2020-12-21T07:23:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwBRk8sG5THxwTtPXh4AaABAg",
+    "author": "@stuwilson3146",
+    "author_channel_id": "UCFcWtW-_v4qVRLQIFhP1JUw",
+    "text": "Your doing great Luke..well presented..keep up the good work..us Aussies in my household love your videos..cheers mate.",
+    "likes": 1,
+    "published_at": "2020-12-19T07:09:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwBRk8sG5THxwTtPXh4AaABAg.9HRbfyBFu0f9HWmEGfiblz",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Awesome! I'm glad you like them. Cheers mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-21T07:17:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxCbEfP5WijaaTm2_F4AaABAg",
+    "author": "@lylehintz7275",
+    "author_channel_id": "UCZCWmAV2Kss7rMmn2AxG0QA",
+    "text": "I like your use of the older technology battery, should be much more cost effective to use and power density pretty good too.",
+    "likes": 1,
+    "published_at": "2020-12-19T06:35:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzgP4VKykcxLrPUFtV4AaABAg",
+    "author": "@paullewis1637",
+    "author_channel_id": "UCUi898uYLnYoX_xB3pO9RtQ",
+    "text": "Well dne",
+    "likes": 0,
+    "published_at": "2020-12-19T05:33:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyL4xv0ezOV00U5mZ14AaABAg",
+    "author": "@paullewis1637",
+    "author_channel_id": "UCUi898uYLnYoX_xB3pO9RtQ",
+    "text": "Brilliant Robert, spins really easily. Be nice if you had a light wind though.",
+    "likes": 1,
+    "published_at": "2020-12-19T05:29:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwNMuVYyCL36VD4EQh4AaABAg",
+    "author": "@hempev",
+    "author_channel_id": "UCxcZah38HU0vtRU822f-S7A",
+    "text": "Take care with charge balance on NiMH (as with NiCd). Voltage is not the most accurate measure of % charge. Hybrid cars use single strings of NiMH for this reason; if you parallel them, you may end up with different current into *each* string. \n\nOr just make a single string at a higher voltage - depends on what you use as a controller or have for charging.",
+    "likes": 0,
+    "published_at": "2020-12-19T04:29:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwYchRoYEH_CB4nDkB4AaABAg",
+    "author": "@BaudirenergieDe",
+    "author_channel_id": "UCj-HzMLqR9nNG2zYeWQ7pmA",
+    "text": "Great Video Luke. Hope that the batteries are enough for your experiment. It would be great if we could see you do a one or few laps with it :) \nI am looking forward to the following videos. best regards..Markus",
+    "likes": 0,
+    "published_at": "2020-12-19T01:46:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx7_wHSjGvXA5i8gVd4AaABAg",
+    "author": "@jonnyswalk_7",
+    "author_channel_id": "UCvRYvG-_p8EfhM6n7uuqCOQ",
+    "text": "Well done Luke 👏 A really enjoyable video  - Easy to understand too with your cracking analogies for clueless folk like me 😉 - Very inspiring - Looking forward to your next one ☝️ Keep it up and you’ll be presenting “Tomorrow’s World” before you know it 😉 Nadolig Llawen  🎄 from South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 - Jonathan 😊 👍",
+    "likes": 0,
+    "published_at": "2020-12-19T01:18:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxwaSTlVUlQc1QVPoR4AaABAg",
+    "author": "@LeonardoGonzalez-mq6zx",
+    "author_channel_id": "UCbLU0UWI8LaxioaVs84M4KQ",
+    "text": "Could you talk about the motor?  Good job, videos are good. Keep it up",
+    "likes": 2,
+    "published_at": "2020-12-19T01:14:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxwaSTlVUlQc1QVPoR4AaABAg.9HQz3K6n4sR9HWlmq6qyZf",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Yes thanks for the tip, I should have explained a bit more about the motor. I will do this in the second part of the scooter video. Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-21T07:13:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJKCxYgqPgfBgl4Ud4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Probably use the plumbing analogy for electricity. Dam wall pressure voltage and river or creek water flow for current.",
+    "likes": 0,
+    "published_at": "2020-12-19T00:43:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzvuv1fTtY-cucqzIp4AaABAg",
+    "author": "@stevenbeaumont1698",
+    "author_channel_id": "UCPuWBcR4SaqlJS_vKTraCDg",
+    "text": "Great video Luke keep up the great work.  Can see your confidence growing video by video ....",
+    "likes": 0,
+    "published_at": "2020-12-19T00:39:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXQy0A_-Qjyfuiqch4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Keep it up.",
+    "likes": 0,
+    "published_at": "2020-12-19T00:39:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwo4-DuzcVb3RWHiYJ4AaABAg",
+    "author": "@rubartknas7075",
+    "author_channel_id": "UCVVORMS_rkxyx_3FDPw79KQ",
+    "text": "Well done, Luke.",
+    "likes": 0,
+    "published_at": "2020-12-19T00:26:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJ3gsUubr0Zt03O-t4AaABAg",
+    "author": "@robertpitt8418",
+    "author_channel_id": "UC7YCK70LdIjCtwO1Duf__zA",
+    "text": "Good man luke - By the way if your ever making any more videos to share,  remember always be yourself and you cant go wrong. and if there's anybody out there that dislikes you,   ,, we'll ,, you know what to think  :  )  ,,cheers,,",
+    "likes": 0,
+    "published_at": "2020-12-19T00:07:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyFFrkWymh4xqipFsV4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "Hey mate great video.",
+    "likes": 0,
+    "published_at": "2020-12-18T22:57:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJp2xTOJp71Jf8FYd4AaABAg",
+    "author": "@thornhedge9639",
+    "author_channel_id": "UCIMKHC6F1yXffx86P0faOTw",
+    "text": "Another winner!   Lol   Great presentation Luke; Thanks!",
+    "likes": 1,
+    "published_at": "2020-12-18T21:05:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzJp2xTOJp71Jf8FYd4AaABAg.9HQXcGbW5xT9HWmwXpHO7c",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate! :)",
+        "likes": 1,
+        "published_at": "2020-12-21T07:23:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx6SoZqO4dNGueFyVx4AaABAg",
+    "author": "@Scott_C",
+    "author_channel_id": "UC3MHDTWT9M9mOm-PD2URjdA",
+    "text": "Rob just strait chomping and smoking in the background is just ... amazing.",
+    "likes": 3,
+    "published_at": "2020-12-18T20:39:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyIVjRatrnQVXpDauR4AaABAg",
+    "author": "@garywillis5790",
+    "author_channel_id": "UCsOtnDTinrVNcJQIfaWn5EQ",
+    "text": "Looking forward to seeing the scooter whizzing about.\nNice video!",
+    "likes": 2,
+    "published_at": "2020-12-18T20:38:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyIVjRatrnQVXpDauR4AaABAg.9HQUUYZJ1uE9HWlpvLSbqc",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate, It's almost done! :)",
+        "likes": 1,
+        "published_at": "2020-12-21T07:14:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6PLCbhQ71LbAwZ_N4AaABAg",
+    "author": "@barbufodor1186",
+    "author_channel_id": "UC21l1uZwi0gyg_AaJM1rPhQ",
+    "text": "nice vid.  are those the batteries Rob scavenged from the brand new emergency lights ?",
+    "likes": 1,
+    "published_at": "2020-12-18T20:11:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy6PLCbhQ71LbAwZ_N4AaABAg.9HQROGzSgty9HV_rR-e7FW",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "obviously.",
+        "likes": 0,
+        "published_at": "2020-12-20T20:10:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx-mtk3rz5CTaGTe3V4AaABAg",
+    "author": "@jamescunliffe9872",
+    "author_channel_id": "UCrp4qRhltXQBqXuajGd2LMA",
+    "text": "Spin your cap backwards to cope with the extra velocity while running tupac!!!;)",
+    "likes": 2,
+    "published_at": "2020-12-18T19:16:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx-mtk3rz5CTaGTe3V4AaABAg.9HQL6eF1Xe89HWl__t8qo5",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "hahahaha lol!! Cheers mate haha :)",
+        "likes": 1,
+        "published_at": "2020-12-21T07:11:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzTTj6SqyK9g0B72LJ4AaABAg",
+    "author": "@gilbertsprojects2954",
+    "author_channel_id": "UC3onGb2IFRBAox99BcCbGwA",
+    "text": "Nice one Luke, maybe a future upgrade could be to use lithium cells from an old laptop battery?.. 👍🏼",
+    "likes": 2,
+    "published_at": "2020-12-18T18:54:15Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzTTj6SqyK9g0B72LJ4AaABAg.9HQIa3Byz_u9HV_nVHWdsI",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "That is not a good idea. Lithium cells in laptops do not contain protection circuitry. Packs for laptops do. This will protect against over temperature and over current. Single cells with this protection circuitry do exist but are virtually never found in laptop battery packs.\nOnly if you do include the protection circuitry and you know what you are doing it is safe.  Imagen a short circuit and the pack catches fire close to some private parts you care a lot about.",
+        "likes": 0,
+        "published_at": "2020-12-20T20:09:34Z"
+      },
+      {
+        "id": "UgzTTj6SqyK9g0B72LJ4AaABAg.9HQIa3Byz_u9HVi7yA0EER",
+        "author": "@gilbertsprojects2954",
+        "author_channel_id": "UC3onGb2IFRBAox99BcCbGwA",
+        "text": "@hanslepoeter5167 yes you’re correct, I meant use the cells with a charging/protection circuit, readily available from sites like AliExpress/eBay etc. I should have stipulated that 👍🏼",
+        "likes": 0,
+        "published_at": "2020-12-20T21:22:24Z"
+      },
+      {
+        "id": "UgzTTj6SqyK9g0B72LJ4AaABAg.9HQIa3Byz_u9HVmOll1D5p",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "@gilbertsprojects2954 Yes you can buy these. But they will not match the 16450 format as these need some space for protection. But thats a great comment. It indicates you know what you are talking about.",
+        "likes": 0,
+        "published_at": "2020-12-20T21:59:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyAfIx34jlaOhxHvMF4AaABAg",
+    "author": "@lnwolf41",
+    "author_channel_id": "UC7PJ198UyAyRgvsDr66LjXg",
+    "text": "It turns the motor with no load on it.  Will it have enough amperage to actually MOVE the scooter with 120 pound person on it?",
+    "likes": 0,
+    "published_at": "2020-12-18T18:30:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyAfIx34jlaOhxHvMF4AaABAg.9HQFtkvb9la9HQWQN6sZN_",
+        "author": "@dolanbaker",
+        "author_channel_id": "UCzA90TUYVcLDLMycJ8mb6xQ",
+        "text": "It would probably be in the region of 150w that would be OK on the flat, but I doubt it would be much good on the hills, Luke, It would probably be better to use four of those pack as opposed to just two. of course, I have no idea of the motor rating.",
+        "likes": 0,
+        "published_at": "2020-12-18T20:55:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzOHwoQlajhG4kAFkd4AaABAg",
+    "author": "@hommerdalor6301",
+    "author_channel_id": "UCH9ImhaUmbRX3DxT4Hbo4_w",
+    "text": "Interesting subjet.\nGood choice keep up.\ncheers.",
+    "likes": 1,
+    "published_at": "2020-12-18T17:51:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzOHwoQlajhG4kAFkd4AaABAg.9HQBQ8lm13V9HWmtiG4Qlb",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-21T07:23:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugybl2ms8sins2Gey6Z4AaABAg",
+    "author": "@colleenforrest7936",
+    "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+    "text": "Good visuals! Never really heard Volts and Amps described that way but it's going to stick with me now :)",
+    "likes": 3,
+    "published_at": "2020-12-18T17:46:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugybl2ms8sins2Gey6Z4AaABAg.9HQAq1Orin19HWlQ-X0ttH",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Awesome! Cheers mate. :)",
+        "likes": 0,
+        "published_at": "2020-12-21T07:10:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyy9JpvsGR3zdBCBaV4AaABAg",
+    "author": "@AdricM",
+    "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+    "text": "please outline the charging system..  its a good chance you will want to put a timer or thermal cut off on the battery charging.  im guessing you might be using the motor controller for the battery charging control ?  if so its probably designed for lead acid nt Nickel metal hydride.  and it will likely kinda cook your battery packs unless you plan for it.",
+    "likes": 0,
+    "published_at": "2020-12-18T17:35:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwNdJxSoRg7Q8hz6rl4AaABAg",
+    "author": "@nicksgarage8295",
+    "author_channel_id": "UCOAM2egRefNYKcaTS7IjiWg",
+    "text": "can you talk about the state of charge and the C ratings of these batteries, what about low minimum voltage and cell balancing",
+    "likes": 1,
+    "published_at": "2020-12-18T17:35:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0RWGaYSc3VWQgg5F4AaABAg",
+    "author": "@nicksgarage8295",
+    "author_channel_id": "UCOAM2egRefNYKcaTS7IjiWg",
+    "text": "you should cut the cells in half. they make fun fireworks!!!! please do it.",
+    "likes": 0,
+    "published_at": "2020-12-18T17:33:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw0RWGaYSc3VWQgg5F4AaABAg.9HQ9NvcTzqK9HVb4P0j39e",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "These do not. It's not lithium. These will get very hot when shorted but not explode or catch fire,",
+        "likes": 0,
+        "published_at": "2020-12-20T20:20:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzJyL3zTMWYyd3gp5Z4AaABAg",
+    "author": "@AdricM",
+    "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+    "text": "tip,  a little tape flag on the motor shaft is a great way to let people see it is spinning,  also  love the Robert cameo.   can you show how you spot welded the batteries?  did you use a full sized welder? (actually im sure at FWG they have a  proper tab welder. )",
+    "likes": 0,
+    "published_at": "2020-12-18T17:31:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-lB4Z-B2IAAEqKmN4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "Nice to see a new way of explaining it! Well done Luke ;0)\nMost people would have gone with the hosepipe analogy, it is good to see someone try something different!\n\nThe only thing I would say is that Amps in battery terms is totally different from AmpHours. \nAmps is how much energy you can safely take out at any time.\nAmpHours is the total amount of energy stored.\n..... of course you need to add in the voltage multiplier to get the actual Power of the unit!",
+    "likes": 0,
+    "published_at": "2020-12-18T17:15:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyU0gJyUK2Uu1lBiyB4AaABAg",
+    "author": "@reaneccles754",
+    "author_channel_id": "UC17T-7TOYjOyoWUBFolhS_Q",
+    "text": "What a fabulous job you and Robert are doing. Keep up the brilliant work :)",
+    "likes": 2,
+    "published_at": "2020-12-18T16:57:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyU0gJyUK2Uu1lBiyB4AaABAg.9HQ5E7mFZXB9HWmAR71xba",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-21T07:16:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykJLZdqciMtwRCrPJ4AaABAg",
+    "author": "@johnwilson3668",
+    "author_channel_id": "UCeld_-f2QPxMKZW4aqWcwOA",
+    "text": "Great video Luke . Like your enthusiasm .Robert looks very proud of you and so he should",
+    "likes": 6,
+    "published_at": "2020-12-18T16:56:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzROeBT9vIfcLuHPw94AaABAg",
+    "author": "@OldMysticFantasist",
+    "author_channel_id": "UCX_y-cDDMqRkKaC0o5NkAAQ",
+    "text": "Good explanations. Analogies are very helpful. Nice show of confidence, energy, & enthusiasm! Scooter looks like it will be quite functional & loads of fun.",
+    "likes": 4,
+    "published_at": "2020-12-18T16:36:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzROeBT9vIfcLuHPw94AaABAg.9HQ2qIisscS9HWlUo__IL2",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "I hoping the scooter will be comfortable to ride most of all lol. Thanks mate! :)",
+        "likes": 1,
+        "published_at": "2020-12-21T07:10:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyfLH50rGF0bKezy7t4AaABAg",
+    "author": "@McRootbeer",
+    "author_channel_id": "UC5O7TtGnUjhFYWYZKgeIKNg",
+    "text": "Nice work, where did you get the speed controller?",
+    "likes": 2,
+    "published_at": "2020-12-18T15:59:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyfLH50rGF0bKezy7t4AaABAg.9HPzZC1gVbe9HWm8LfkgS7",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "I did a little bit of searching, and this one is from amazon. This cost me a total of £5.29. but has gone up to £10.79 since then. But if you look on places such as eBay you can get them for around £5-£7. Hope this helps mate. Cheers! :)",
+        "likes": 1,
+        "published_at": "2020-12-21T07:16:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyIxso0KMj5BHvR7O54AaABAg",
+    "author": "@colouroboros9993",
+    "author_channel_id": "UCbWCKaz6lZw4binMzNhm7Aw",
+    "text": "lovin the analogy",
+    "likes": 0,
+    "published_at": "2020-12-18T15:09:57Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwjrx-hgR3lMna1qtd4AaABAg",
+    "author": "@juggernautsvaderdmunchkinland",
+    "author_channel_id": "UCCFf2oobx0-9qGf-dOBiarQ",
+    "text": "Thanks Luke :) Nice work!!",
+    "likes": 0,
+    "published_at": "2020-12-18T14:37:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwBP_RTS4J2h58_kfp4AaABAg",
+    "author": "@ecospider5",
+    "author_channel_id": "UCOVM3cj9uUZVXEybHfRK3GQ",
+    "text": "So we need to be careful when talking about Amp hours vs amps. You were describing Amp hours and said just amps a couple times. \n\nAmp hours are how long it will last. Amps are an instantaneous thing about how much wattage a battery can output right now. So at 18v hopefully you are getting at least 5.5A so you can be pushing the motor at 100w.",
+    "likes": 2,
+    "published_at": "2020-12-18T14:37:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz1VJCrlE7ckCpd5lt4AaABAg",
+    "author": "@3dmaker699",
+    "author_channel_id": "UCQm13e8FuvkOz5eWsGvhdAA",
+    "text": "Nice job Luke. How long will the battery pack last and can you tell us more about the motor you are using.",
+    "likes": 2,
+    "published_at": "2020-12-18T14:20:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz1VJCrlE7ckCpd5lt4AaABAg.9HPoIrrYO-L9HPq2vYHhs3",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Great point mate, I will now go through this in the 2nd part of the scooter video. Thanks for the suggestion! :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:36:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3a-QPn83TgjD_FC14AaABAg",
+    "author": "@martynjones973",
+    "author_channel_id": "UCYepQY76qzsuO7vMOAKwC6A",
+    "text": "Looking good 👍👍👍👍",
+    "likes": 1,
+    "published_at": "2020-12-18T14:17:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx3a-QPn83TgjD_FC14AaABAg.9HPnx9riIfD9HPqL_k_iCl",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate!",
+        "likes": 0,
+        "published_at": "2020-12-18T14:38:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbBx-NwD5Ecu-waXx4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "Well done :)",
+    "likes": 0,
+    "published_at": "2020-12-18T14:15:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXWrxbf30tcx6HbKV4AaABAg",
+    "author": "@Aerotech007",
+    "author_channel_id": "UCz3WBPmmmp7F5OivZ_9uicA",
+    "text": "Great job Luke, really enjoying this series, looking forward to the next episodes. Tim",
+    "likes": 2,
+    "published_at": "2020-12-18T14:08:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyXWrxbf30tcx6HbKV4AaABAg.9HPmpvMJIk79HPp_g6PHy_",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate! There's only a few more things todo before the scooter is done. I'm super excited lol. :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:32:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSlbDbCdbslBP8Igh4AaABAg",
+    "author": "@chandracarol232",
+    "author_channel_id": "UC5Lyl43w5to0aRHvHqAXjyQ",
+    "text": "Thank U I great video",
+    "likes": 2,
+    "published_at": "2020-12-18T14:02:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzCwiwF_lGdmRZcPbN4AaABAg",
+    "author": "@jameskeating6626",
+    "author_channel_id": "UCZuc-UND1nQRfNNFnl2XW8w",
+    "text": "If you do any primary electrical science videos, might I suggest the water analogy would be good for video demonstration,  especially as a bucket of water to the face is always good for comedic learning enhancement. ( thinking about it, summer might be a better time to do this )",
+    "likes": 0,
+    "published_at": "2020-12-18T13:45:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwAxNU8YanXXgIgqHZ4AaABAg",
+    "author": "@herbetone",
+    "author_channel_id": "UCSKJ8wh9LcvOSOnz46Q-yhQ",
+    "text": "Nice cameo appearance by we know who😅,enjoying the series Luke, many thanks.🛴🎄🎄🎄 .... race race race...🤫🏁 🛴🛴",
+    "likes": 2,
+    "published_at": "2020-12-18T13:43:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwAxNU8YanXXgIgqHZ4AaABAg.9HPjyoOdX-t9HPpqUcmaAi",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Hahahaha lol, Yes I definitely want a race when they are both done! That would be pretty cool lol. Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:34:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyX0luApkK4_7pw65h4AaABAg",
+    "author": "@Nico-vh1qp",
+    "author_channel_id": "UCTH5h5C-70vv4KeCi_OTPYQ",
+    "text": "what are those batteries from? never seen those type but I am on other side of pond and all hahaha",
+    "likes": 0,
+    "published_at": "2020-12-18T13:33:52Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyX0luApkK4_7pw65h4AaABAg.9HPivU8gpGO9HPlK7sV28Q",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "They're from emergency lights, if I recall correctly.",
+        "likes": 0,
+        "published_at": "2020-12-18T13:54:50Z"
+      },
+      {
+        "id": "UgyX0luApkK4_7pw65h4AaABAg.9HPivU8gpGO9HPqY3p6QR4",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Yes, they were scavenged from an old light system. each individual battery has 3 cells inside. so it may look a bit different. Cheers mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:40:26Z"
+      },
+      {
+        "id": "UgyX0luApkK4_7pw65h4AaABAg.9HPivU8gpGO9HVbcEW-k4r",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "These have replaced nicad batteries and are common for yearsnow, They outperfom nicad but can use the same charger.",
+        "likes": 0,
+        "published_at": "2020-12-20T20:25:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwStVJKvB8oEx3veth4AaABAg",
+    "author": "@hkitservices",
+    "author_channel_id": "UCK0gVi26CyKQTMJ8zeyVi8Q",
+    "text": "Nice Video :)\nnext time you show a motor, put a bit on colored tape on the axial so we can see it turn.",
+    "likes": 6,
+    "published_at": "2020-12-18T13:27:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwStVJKvB8oEx3veth4AaABAg.9HPiCvp6kGW9HPpVQLK9k9",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Great tip! I should of done this. Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:31:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBdIGU2E1z8aQ02Zh4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "Hey Luke maybe you could explain why you chose to may 2 batteries of full voltage instead of one by paralleling the individual cells which may give you a more stable battery Cheers and keep up the good videos.",
+    "likes": 1,
+    "published_at": "2020-12-18T13:21:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzBdIGU2E1z8aQ02Zh4AaABAg.9HPhZ8eBsTo9HPr3kUyDsc",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Hi mate, Great question. my reason is that I needed more voltage on the packs to run the motor controller and the motor its self. So connecting 4 batteries into series at 3.6v each, I managed should get a higher voltage(12-16v), then connecting both packs into parallel iI should increase the amp hours from 4 to 8. I'm open to suggestions so let me know what you think. Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:45:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHV06qN2v3DFukHvV4AaABAg",
+    "author": "@Tony-Elliott",
+    "author_channel_id": "UCfXdnYZ2Evc93YgWcY9pMkw",
+    "text": "Great video Luke",
+    "likes": 1,
+    "published_at": "2020-12-18T13:18:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzHV06qN2v3DFukHvV4AaABAg.9HPh8uPhKak9HPqZ5jijhv",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate!",
+        "likes": 0,
+        "published_at": "2020-12-18T14:40:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9_nxPUYLMqQZYikp4AaABAg",
+    "author": "@charlesdickens6706",
+    "author_channel_id": "UCfJdl7nExq9mWevpa5YOO1Q",
+    "text": "......motor is 200 watts is it ?.The batteries could almost be from the 20 watt led emergency lights that Rob salvaged cos they can also be configured to 28 volts nominal for 4ah .The 28 volts is the turn on voltage required by the salvaged led array . I'm noting what you do for your build cos I've decided to finish off my twenty year old mothballed build . I have several 100 watt motors in the style of your motor, I'll look at using my lithium power tool battery packs paralleled up as the battery . Those lithium battery packs didn't exist twenty years ago .",
+    "likes": 0,
+    "published_at": "2020-12-18T13:16:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyc8KLeMbN-Hzxy2bt4AaABAg",
+    "author": "@MAGnetICus_Attractus",
+    "author_channel_id": "UCwb1r3mE7bKTUje4db-at-w",
+    "text": "For some reason seeing those batteries chained together reminds me of a water fight between the men and the women. The women occupied the second floor of the building keeping us men pinned down on the ground floor. I decided we needed a distraction and asked the men for their Nextel phone batteries. At 4.5 volts each one alone couldn't light a 24 volt fog light, but daisy chained together using 5 or 6 batteries(ran in series) I had plenty of voltage. I added a flasher relay in series with the light. Pointed the light out the back door and turned it on. Sure enough those women got curious what the bright flashing light was and all went towards the back, in the mean time the men went running up to the third floor. FYI the flasher relay acts like a thermal limiter on the system. I still remember being told a pair of 100 watt light bulbs were cheaper to replace than 200 watt speakers. Basically saying put something inline to burn up before the motor or batteries that is cheaper to replace.",
+    "likes": 0,
+    "published_at": "2020-12-18T13:11:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzR1m1IyFFJPR83DkV4AaABAg",
+    "author": "@binmanblog",
+    "author_channel_id": "UCbpPLr8ZOcwXSSXZsrVAHRw",
+    "text": "Hi Luke, would your cell come from emergency lighting units?",
+    "likes": 3,
+    "published_at": "2020-12-18T13:11:50Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzR1m1IyFFJPR83DkV4AaABAg.9HPgP8K-d0n9HQ99jhkPsp",
+        "author": "@AdricM",
+        "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+        "text": "Yeah Robert found a bunch in the skip like 6 months or so ago.",
+        "likes": 2,
+        "published_at": "2020-12-18T17:31:53Z"
+      },
+      {
+        "id": "UgzR1m1IyFFJPR83DkV4AaABAg.9HPgP8K-d0n9HRuy2AtaTv",
+        "author": "@binmanblog",
+        "author_channel_id": "UCbpPLr8ZOcwXSSXZsrVAHRw",
+        "text": "Letting the public know where to find the parts is really helpful. Thanks for the vids and the ideas 🙂",
+        "likes": 1,
+        "published_at": "2020-12-19T09:57:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypK8W40i6oZ-QUQMZ4AaABAg",
+    "author": "@edwyncorteen1527",
+    "author_channel_id": "UCVLESuzu3nBLXH6NP9e6UxA",
+    "text": "Next task, finish the new battery for the Twizy!",
+    "likes": 4,
+    "published_at": "2020-12-18T12:36:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwp82d1mrtWxKlU00N4AaABAg",
+    "author": "@jasonroe4570",
+    "author_channel_id": "UCl7aJAA-DaXd58j9d81f8YQ",
+    "text": "Really enjoying this series Luke. Keep it up. Would be great to watch you both working on the same project. Maybe the next car project? Question for you, what are you planning to use to control the speed of the motor?",
+    "likes": 1,
+    "published_at": "2020-12-18T12:35:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwp82d1mrtWxKlU00N4AaABAg.9HPcF5Gt1tv9HPqK4sadaG",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate, that is a pretty cool idea! How I'm going to be controlling the speed of the motor is by using an electronic throttle. And a 24v 250w motor controller.",
+        "likes": 1,
+        "published_at": "2020-12-18T14:38:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmGzG3zbRYKZDQZRZ4AaABAg",
+    "author": "@shiftingsign",
+    "author_channel_id": "UCQ1aTNcUif9JskBTxQ9lI_A",
+    "text": "Rob is like the sun shining onto the seedling of a maker that is luke......cool video by the way",
+    "likes": 1,
+    "published_at": "2020-12-18T12:33:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmGzG3zbRYKZDQZRZ4AaABAg.9HPbzyWATH49HPgYqACDQs",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "Of course Rob has some influence but Luke's got his own thing going on the side. Good stuff!",
+        "likes": 0,
+        "published_at": "2020-12-18T13:13:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzG96Ct3aemmC9-Y6R4AaABAg",
+    "author": "@BramleyProductions",
+    "author_channel_id": "UC08VTwFYeXJITZ8aSbJFfig",
+    "text": "A great video I'm looking at building an e-battery so very interesting thanks Kev.",
+    "likes": 2,
+    "published_at": "2020-12-18T12:32:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzG96Ct3aemmC9-Y6R4AaABAg.9HPbwFc-5Y19HWn9J4qxQt",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate! I hope it is going well. :)",
+        "likes": 0,
+        "published_at": "2020-12-21T07:25:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzXG4UwVUIJ4owHMeZ4AaABAg",
+    "author": "@Wilksey37",
+    "author_channel_id": "UCcMMA5093_vbZ2MFzAenzPg",
+    "text": "2:42 - Rob preparing for his football game? (referring to current explanation).",
+    "likes": 10,
+    "published_at": "2020-12-18T12:29:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4mOfJB_yfngjIfrN4AaABAg",
+    "author": "@jimmycorkhill1390",
+    "author_channel_id": "UCdAZgScr2uxt1ihjZ4FEd7w",
+    "text": "Interesting and informative video well presented. Best wishes.",
+    "likes": 2,
+    "published_at": "2020-12-18T12:29:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy4mOfJB_yfngjIfrN4AaABAg.9HPbW8OfGPv9HPpdJM3VpI",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:32:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwW8LjaFs13Xed2akl4AaABAg",
+    "author": "@scantrain5007",
+    "author_channel_id": "UCwLsHcf9-EcD5DHB7WW0bJw",
+    "text": "Hi Luke,\nthis project is a good start on DIY E-Mobility. \nFirst steps are done; I'm waiting for results how it's running.\nGood luck!",
+    "likes": 2,
+    "published_at": "2020-12-18T12:25:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwW8LjaFs13Xed2akl4AaABAg.9HPb6jU-6pN9HPq7OXGxbr",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate! I'm excited to see how it actually does. :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:36:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyMJd-wZqi4HkmrjTF4AaABAg",
+    "author": "@ashantimundy7603",
+    "author_channel_id": "UCyrPwIdkxkxiglCs3ZrlVSA",
+    "text": "😍😍😍📒",
+    "likes": 1,
+    "published_at": "2020-12-18T12:14:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhG3n6qwxoY7a-a6V4AaABAg",
+    "author": "@allanwood3562",
+    "author_channel_id": "UC4_K2nonQFmJEZTvZunnZGQ",
+    "text": "Thanks Luke. Looks like a fun project mate.",
+    "likes": 1,
+    "published_at": "2020-12-18T11:59:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyhG3n6qwxoY7a-a6V4AaABAg.9HPZ6eu2MUf9HPpu9C2gU1",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers mate! I'm 100% enjoying it. :)",
+        "likes": 0,
+        "published_at": "2020-12-18T14:34:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwC8p2TzoCOrogldCF4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Never seen batteries like that before, very cool. Are you going to use a BMS to manage the cells? I would imagine that a standard 18650 lithium based BMS would work with these batteries because they both hold about the same voltage. What is the charge of a flat cell with those batteries, is it around 3v like the standard lithium cells?\nLooking forward to seeing you scoot around the carpark when this is done.",
+    "likes": 1,
+    "published_at": "2020-12-18T11:56:30Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwC8p2TzoCOrogldCF4AaABAg.9HPYmQ582z29HPiFRmplry",
+        "author": "@charlesdickens6706",
+        "author_channel_id": "UCfJdl7nExq9mWevpa5YOO1Q",
+        "text": "....so it looks like each tube is composed of 6 C size 2ah NiMH cells at nominal 1.2 volts per cell which would give 7.2 volts for each tube .",
+        "likes": 0,
+        "published_at": "2020-12-18T13:27:59Z"
+      },
+      {
+        "id": "UgwC8p2TzoCOrogldCF4AaABAg.9HPYmQ582z29HPptTLMb_0",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@charlesdickens6706 I thought Luke said each tube was about 4v, having 4 in series gives him the 16v each pack so a standard 4S BMS would work well.",
+        "likes": 0,
+        "published_at": "2020-12-18T14:34:45Z"
+      },
+      {
+        "id": "UgwC8p2TzoCOrogldCF4AaABAg.9HPYmQ582z29HQV80GMwdO",
+        "author": "@charlesdickens6706",
+        "author_channel_id": "UCfJdl7nExq9mWevpa5YOO1Q",
+        "text": "......voltage readings will be up and down all over the place. Freshly charged reading could hover around say 1.45 per cell for several days depending on manufacturing, settled voltage is say a nominal 1.25 but seem to be higher until partially drained , charging voltage reading could well touch on 18 volts for 12 cells in series depending on internal resistance and charger .",
+        "likes": 0,
+        "published_at": "2020-12-18T20:43:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxhdVz6xCrH79ysKf94AaABAg",
+    "author": "@uncledodge9396",
+    "author_channel_id": "UCgqNweeJ5pWfDsf9GsAWHsw",
+    "text": "Ģreat video, however although many do understand the differences between series and parallel wiring I'm sure that there are many that don't, how about a video on this?",
+    "likes": 3,
+    "published_at": "2020-12-18T11:53:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxhdVz6xCrH79ysKf94AaABAg.9HPYRf3oUJh9HPpjbauIfk",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Great point! I should of explained the differences. It definitely might be worth doing a video on. Cheers mate!",
+        "likes": 0,
+        "published_at": "2020-12-18T14:33:25Z"
+      },
+      {
+        "id": "UgxhdVz6xCrH79ysKf94AaABAg.9HPYRf3oUJh9HPqKY_SDmu",
+        "author": "@uncledodge9396",
+        "author_channel_id": "UCgqNweeJ5pWfDsf9GsAWHsw",
+        "text": "@MyNameIsLukey excellent, I do enjoy your videos mainly because you show the same Enthusiasm that I had at your young age, I'm now a radio amateur with the top licence and enjoy playing with electronics.",
+        "likes": 0,
+        "published_at": "2020-12-18T14:38:35Z"
+      }
+    ]
+  }
+]

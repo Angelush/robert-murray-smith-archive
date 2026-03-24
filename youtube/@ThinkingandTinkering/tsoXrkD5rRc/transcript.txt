@@ -1,0 +1,343 @@
+[00:03] So, I've been working with the um swag
+[00:06] ink a little bit and I found something
+[00:07] very curious that whenever I change the
+[00:09] formulation of the swag ink, its
+[00:12] generation properties actually get
+[00:13] worse, which is kind of cool in one way
+[00:16] because it means that almost by accident
+[00:19] I've stumbled on this formula that will
+[00:22] generate electricity. And I kind of
+[00:23] can't believe that in a way in another
+[00:26] way, however I play with it, it's
+[00:28] getting worse. So it just must be luck.
+[00:30] And that's astounding. It shows you
+[00:32] really that if you're playing with these
+[00:35] things, you never know what you're going
+[00:37] to come across. You never know what
+[00:39] you're going to find. And it's just the
+[00:41] act of looking that will very often lead
+[00:44] to something. So when people say, "What
+[00:46] are you doing and why are you doing this
+[00:47] and where's your specific direction?"
+[00:49] Sometimes you just don't need one
+[00:51] because you're going to stumble over
+[00:53] something. So a lot of the times just
+[00:55] play with it. have a go and see what you
+[00:57] come up with. It's amazing what people
+[00:59] come up with. Obviously, they're writing
+[01:01] me and showing me some of the things
+[01:02] they're coming up with and I just sit
+[01:03] there thinking, "Wow, that's
+[01:04] incredible." Anyway, this is about um
+[01:07] implementing the swag generator because
+[01:10] having discovered that, I'm actually
+[01:11] just going to leave the ink alone. I was
+[01:13] playing with it. I was talking to my
+[01:15] wife um last night and she was saying,
+[01:17] "Well, look, you've got something that
+[01:18] works. Why don't you just see if you can
+[01:20] build something out of it? You build it,
+[01:22] they'll come." And I thought, "Yeah,
+[01:23] actually, she's right. Yeah, yeah, yeah.
+[01:25] Let's stop playing with it. Let's
+[01:26] actually build a prototype. Now, I've
+[01:28] had a lot of input on prototypes from
+[01:30] people what kind of setup they think
+[01:33] would be a good setup. And I've taken
+[01:35] those on board and had a think about
+[01:36] them. Now, quite a popular one, and this
+[01:39] is an odd one actually. There's a lot of
+[01:41] people are saying paint the bottom of a
+[01:42] boat with it. And I guess you could
+[01:44] because you know, bottom of a boat, it
+[01:46] moves through the water all by itself.
+[01:47] If there's a sailboat, it's going to
+[01:49] generate electricity. Cool. Um, but it's
+[01:52] kind of restrictive in a way in that you
+[01:54] have to have a boat and you've got your
+[01:55] electricity on your boat, but you're not
+[01:57] going to be able to get it to to land
+[01:59] and only those people who near the sea
+[02:01] can use it. So, I find it a bit
+[02:03] restrictive. So, not something I'd
+[02:04] actually going to um pursue very much is
+[02:07] I think that what we really need is a
+[02:09] unit that you can um put into the sea
+[02:12] and just have it generate for you. Now,
+[02:15] I'm a huge fan of microgeneration. that
+[02:17] is generating the power that you need at
+[02:19] the site at which you apply it. And and
+[02:21] I think that's great. And um I live by
+[02:23] the sea so I can do that. Lots of people
+[02:25] who talk to me live by the sea so they
+[02:26] can do that. But lots of people don't.
+[02:29] So what that's going to mean is we're
+[02:30] going to need to deise some kind of
+[02:32] system that's scalable. So we can do
+[02:34] little ones if you want to generate for
+[02:35] your own house, but we can do big ones
+[02:37] for centralized distribution. As I say,
+[02:40] I'm not a fan of centralized
+[02:41] distribution, but sometimes it's the
+[02:42] only way you can go. So we're looking at
+[02:44] some kind of system that is scalable.
+[02:46] can either be small or big, can be put
+[02:49] into the grid and can be distributed to
+[02:51] everybody as well as form a
+[02:53] microgeneration system. So you can just
+[02:55] build one yourself and generate your own
+[02:57] electricity at home. So the system has
+[02:59] to have those kind of qualities to it.
+[03:01] Now I've had a number of suggestions on
+[03:03] mechanical systems involving power and
+[03:06] they're very interesting. Um there's two
+[03:08] that I want to talk about. The first one
+[03:10] uh it's been a popular one is the Tesla
+[03:12] turbine. Now we all know what a Tesla
+[03:14] turbine looks like. It's
+[03:18] essentially a row of discs on an axle.
+[03:21] You force in a fluid at a tangent. The
+[03:24] fluid goes around in that direction and
+[03:27] exits through the central axle port and
+[03:29] the motion of the fluid spins the discs.
+[03:32] Now Tesla turbines spin at phenomenal
+[03:35] speeds. They spin at hundreds sorry tens
+[03:38] of thousands of revolutions per minute.
+[03:40] So they spin very very quickly. The
+[03:43] other thing you can do with them is if
+[03:45] you attach a
+[03:46] motor to your axle and you turn the
+[03:49] motor, then the reverse will happen. It
+[03:51] would actually pump fluid through it.
+[03:54] And this has been the idea. People said,
+[03:55] "Stick some salt water, stick a motor
+[03:57] on, pump the fluid through it, and
+[03:59] you'll get electricity generation across
+[04:01] those discs as long as those discs have
+[04:03] that same format that we've looked at."
+[04:05] So the disc would have a central
+[04:07] conducting section, an edge conducting
+[04:10] section, and then our graphine ink coat
+[04:12] in between the two of them. Because from
+[04:14] the experiments that I've done, if the
+[04:16] metal coat is continuous with the
+[04:19] graphine on top, it doesn't work. And
+[04:21] that makes sense if you think about it.
+[04:24] Because the whole thing works by being
+[04:25] able to separate the charge
+[04:27] distribution. If you have a continuous
+[04:29] conductor underneath your graphine ink,
+[04:31] there's no charge separation. And so it
+[04:33] doesn't generate because there's no way
+[04:35] for it to do that. So there must be a
+[04:37] separation between the edge collectors,
+[04:39] the uh current collectors and an area
+[04:42] that has no conduction so that you can
+[04:44] get that charge distribution separation
+[04:46] going on. Anyway, so the disc would have
+[04:49] to be coated like this. And then what
+[04:51] you would do is attach your motor,
+[04:53] connect up your collector here and
+[04:57] collector here. And that's where you
+[04:59] would get your voltage from. Now this
+[05:01] looks very similar to me to the
+[05:03] homopolar motor generator. Now the
+[05:06] homopolar generator is another really
+[05:08] interesting device. It is essentially a
+[05:11] big old copper
+[05:13] disc. And if you put a magnetic field
+[05:17] across that disc, incidentally that
+[05:19] field can either be static or moving
+[05:21] with the disc. It doesn't make a
+[05:22] difference and that's very curious. But
+[05:24] if you put a magnetic field across that
+[05:26] disc and then spin it, you'll get
+[05:29] generation. Now it's a high current DC
+[05:32] voltage that's generated and it's
+[05:34] collected in the same way that the um
+[05:36] Tesla fans are saying we collect it from
+[05:40] the edge contact and the central axle
+[05:42] contact. Um this incidentally is very
+[05:44] similar to the um end motor as well
+[05:47] that's been proposed. But there is a a
+[05:50] quite a significant problem with that.
+[05:51] In order to get the generation you have
+[05:53] to spin this very quickly. When you spin
+[05:55] this very quickly, then this edge
+[05:58] contact is next to impossible to
+[06:00] maintain properly. It bounces and when
+[06:02] it bounces, it loses contact. What they
+[06:05] did originally was they made that go
+[06:07] through a bath of
+[06:08] mercury because the mercury is always in
+[06:11] constant contact with the edge. And of
+[06:12] course, we don't like to use mercury
+[06:14] because it's um very very poisonous. I
+[06:18] suppose you could use gatalinium if you
+[06:19] wanted uh or a gatal gatalinium indium
+[06:23] um alloy which would have a low melting
+[06:26] point temperature say below room
+[06:28] temperature something like that as an
+[06:29] alternative but edge contact is a
+[06:32] serious problem with this kind of design
+[06:35] now that's not something that escaped
+[06:37] Tesla of course Tesla's a bit of a
+[06:40] genius bless his heart um and he looked
+[06:43] at the homopolar generator and what he
+[06:45] came up with was two discs
+[06:48] and you connected those discs by a
+[06:51] flexible metal belt. So when you rotated
+[06:53] one of them, it would rotate the other
+[06:56] one in the correct direction that the
+[06:58] voltage could actually just be pulled
+[07:00] off at the two axles. And of course that
+[07:03] is a significant improvement because it
+[07:05] reduces the engineering challenge right
+[07:07] down. So we could implement a very
+[07:10] similar system to the Tesla turbine
+[07:12] system that was suggested in that the
+[07:14] turbine blades there would be two of
+[07:16] them connected by a flexible material
+[07:18] that conducted and we could pull the
+[07:20] voltage off from the central axle. So
+[07:22] that's a very interesting idea. Now
+[07:24] there is a slight problem with that as
+[07:26] far as I'm concerned in that in order to
+[07:29] do that you need a motor.
+[07:32] Now, if you put a motor onto anything
+[07:35] that you want to generate from, you're
+[07:38] already going to enter a whole world of
+[07:40] pain because what you need to prove is
+[07:43] net power output. That is that the net
+[07:46] power output is greater than the power
+[07:49] input. And that can be very difficult to
+[07:53] prove. And the minute you start going
+[07:55] into those kind of proofs and
+[07:56] calculations, you are going to get a
+[07:58] whole host of people saying that can't
+[08:00] possibly work. You've forgotten this.
+[08:02] You haven't taken that into account. You
+[08:04] haven't put this forward. And really,
+[08:06] you could spend the rest of your life
+[08:08] arguing with those kind of people about
+[08:10] this kind of setup. And it's not
+[08:13] something I really want to do. And it's
+[08:14] something that I want to shy away from
+[08:16] and um not get involved in. So the motor
+[08:20] attachment is the real killer for this
+[08:22] idea. For me personally, I don't think
+[08:24] it's a bad idea. I think it's an
+[08:25] excellent idea. It's just because of the
+[08:28] motor attachment, then I'm really not
+[08:31] going to look at that as a first
+[08:32] implementation. I just don't like it
+[08:34] because I don't want to get involved
+[08:36] those bill those people who are going to
+[08:38] argue that it can't possibly work. Now,
+[08:40] equally, there have been other
+[08:41] suggestions involving
+[08:43] motorization, including having a tube or
+[08:46] a wheel that serves that kind of
+[08:48] cross-section, the fluid inside,
+[08:50] spinning the wheel, and you'll get power
+[08:51] out. Well, yes, you probably would. But
+[08:53] again, you've got the motor involvement.
+[08:55] And once you get the motor involvement,
+[08:56] I kind of switch off. Um really because
+[08:59] what I'm looking for is a passive
+[09:01] system. That is a system with no moving
+[09:03] parts where the um fluid flow is
+[09:07] literally from the external environment.
+[09:09] That is the rush of the sea and it just
+[09:11] sits there having the sea over it
+[09:13] generating power. That kind of thing.
+[09:16] You don't really need to get yourself
+[09:17] involved in it. As long as the damn
+[09:19] thing generates power, you're going to
+[09:20] be able to say, "Told you so." Now, we
+[09:23] do know that if we take our sheet of A4
+[09:26] and connect up our current collectors,
+[09:29] paint that in there, then depending on
+[09:31] wave conditions, we'll get somewhere
+[09:33] between 8 to 2
+[09:36] milliamps. That's pretty poor. That's
+[09:38] pretty bad. But what we need to do
+[09:41] obviously is improve the power output.
+[09:44] And the simplest way of improving the
+[09:46] power output is just to stack these
+[09:47] things up. So if we point paint both
+[09:50] sides of it and then have a 500 of
+[09:53] those, we're going to get somewhere
+[09:55] depending on sea conditions between 8 to
+[09:58] 2 amps all day every day. That's cool.
+[10:02] Now a,000 sheets sounds like a lot of
+[10:05] sheets. But like I said, paint both
+[10:07] sides and it's 500. That still sounds
+[10:09] like a lot of
+[10:11] sheets, but that's a ream of paper.
+[10:14] There's 500 sheets of paper in that. And
+[10:17] of course, our ink won't increase the
+[10:19] thickness of that by very much. We need
+[10:22] to separate it so that the fluid can
+[10:23] flow in between it, but the separation
+[10:25] that we need is not going to be
+[10:26] significant. So, we're going to end up
+[10:28] with a um unit that's about that size
+[10:32] and say about that thick probably. And
+[10:35] that unit is going to generate between 8
+[10:37] and 2 amps all day long every single
+[10:41] day. The only thing that we need to be
+[10:43] able to do with
+[10:45] that is wash the sea over it. So if we
+[10:48] set up a situation where we
+[10:51] have a box with 500 of our
+[10:56] sheets set in there so the sheets poke
+[10:59] up a little bit. connect a connect a
+[11:01] current collector to the top and bottom
+[11:03] and allow the sea to wash up and down on
+[11:06] that. Then we're going to have the unit
+[11:08] that we're looking for. Now, in order to
+[11:10] get that to happen, all we actually have
+[11:11] to do is stick a pipe in the
+[11:14] sea. If we put a pipe in the sea that
+[11:17] narrows with the weight of the water
+[11:20] that's forced in there, the distance of
+[11:25] travel is going to be quite easy to
+[11:27] control. I mean a lot of people um live
+[11:30] by areas where the distance of traveling
+[11:33] is in the order of 5 10 20 m. So you're
+[11:36] not going to have this kind of problem.
+[11:38] As you see I've got live on quite a
+[11:40] shallow beach. So the up and down is
+[11:42] quite a lot but it doesn't have um a
+[11:46] really significant look to it when
+[11:47] you're sitting there. This kind of thing
+[11:50] would allow you to concentrate that so
+[11:52] that you would put this box in here and
+[11:55] have that wave travel up and down
+[11:59] washing over those plates and that would
+[12:02] generate you somewhere between
+[12:06] 8 to 2 amps every day all day long with
+[12:11] a unit about the size of a re of paper.
+[12:14] So, in terms of prototyping something,
+[12:16] that's probably what I'm going to go for
+[12:18] is this sort of gill like structure. And
+[12:21] that's what actually struck me was a bit
+[12:22] like a fish gill. So, we get this
+[12:24] gill-like structure, stick it in a pipe,
+[12:27] we should be able to generate a
+[12:29] significant amount of power without
+[12:31] actually having to put any power in. I
+[12:35] mean, of obviously we are putting power
+[12:37] in. We're putting power in from the
+[12:39] power of the sea, but we don't actually
+[12:41] have to turn a motor to do anything. So
+[12:43] we don't have to get ourselves involved
+[12:44] in those net power output calculations.
+[12:47] All we do is stick it in the sea, take
+[12:49] some readings, and say, "Hey, look,
+[12:51] we've got a seawater generator." So
+[12:53] that's what I'm going to be building
+[12:54] over the next few days, weeks. Anyway, I
+[12:57] hope that was of interest to you, and
+[12:59] thank you very much for watching.

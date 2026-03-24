@@ -1,0 +1,100 @@
+[00:00] [Music]
+[00:08] these things ring gears there's two of
+[00:10] them actually here there's one right
+[00:11] there and there's one right there are
+[00:14] tremendously useful for a whole range of
+[00:16] things maybe an turntable planetary
+[00:19] gears an internal gear for a generation
+[00:22] set they find lots of uses so it's handy
+[00:26] to know how to make them now some people
+[00:29] will suggest one way is just to take a
+[00:31] gear profile make it a hollow put it in
+[00:34] with a circle merge the two and head
+[00:36] press still you have a ring gear and
+[00:38] that's true it kind of works
+[00:41] particularly if the gear that you're
+[00:43] going to engage with it has a slightly
+[00:45] different modulus so there's lots of
+[00:47] Tolerance and slack then sure it'll work
+[00:51] but it's a bit of a clutch to change the
+[00:53] module and say you want to have this
+[00:55] professionally 3D prined or release it
+[00:57] on thingy verse and who knows what 3D
+[00:59] printer it's going to go on then it
+[01:01] could be a little
+[01:04] unsatisfying luckily there are things
+[01:07] out there to help and what I'm talking
+[01:09] about our gear Builder apps now
+[01:12] unfortunately quite a lot of them are
+[01:13] paid for some of them are incredibly
+[01:15] complex to use and some of them just
+[01:17] don't work but this one by Dr hesmer is
+[01:21] free to use and I find stunningly easy
+[01:24] and is able to generate the gears that
+[01:26] you're looking for so a regular gear a
+[01:28] conv vinion gear or was specific
+[01:29] speically interested in an internal gear
+[01:32] now we have a look at the values that we
+[01:34] can put in there actually we don't need
+[01:36] to change that much one of the important
+[01:38] ones is the clearance because I'm on the
+[01:41] of course on the clearance of something
+[01:43] like Tinker CAD which prints at2 mm then
+[01:46] we want to set that clearance at
+[01:49] 0.2 and that'll give us plenty of
+[01:52] clearance so that we can printed gears
+[01:54] that actually into mesh none of the rest
+[01:57] of this really matters apart from
+[01:59] circular
+[02:00] pitch here circular pitch is set at
+[02:03] eight the circular pitch is the distance
+[02:07] the ratio of the distances between two
+[02:09] adjacent teeth however it can be used
+[02:12] quite happily as oh a guess at what the
+[02:16] module would be because the module is
+[02:18] the ratio of the number of teeth to the
+[02:20] pitch Circle so if we have that as two
+[02:23] what will effectively get is a module 2
+[02:26] gear tooth and that's my favorite module
+[02:30] so handy enough and here we can see we
+[02:32] get two gear teeth when we've got 30
+[02:35] there it'll give us an ring gear we'll
+[02:37] be popping minus 30 sorry when we've got
+[02:40] positive 30 it'll give us a normal gear
+[02:42] when we pop in minus 30 then we'll
+[02:45] actually get a ring gear and here we've
+[02:47] got gear one Center hole diameter we
+[02:51] don't want it because we're going to
+[02:53] have a great big hole it's a ring gear
+[02:55] set it at zero this is Gear 2 which will
+[02:58] be the meshing gear here so let's set
+[03:00] that at 10 and we'll give it an 8 mm
+[03:04] hole now we can display both of them
+[03:07] with that pull down menu gear one and
+[03:09] two if we click update it'll generate
+[03:12] the picture that we want of our actual
+[03:14] gear set so you can see our ring gear
+[03:16] there and you can see our meshing gear
+[03:19] right there and if we go here we can
+[03:22] download that as an SVG it will download
+[03:25] the whole thing so what we need to do is
+[03:27] show gear one only click
+[03:31] update we'll get gear one and then we
+[03:34] can download that and then do the same
+[03:36] for the other gear and we'll get both
+[03:39] Gears of course once you've got it as an
+[03:41] STL you can reimport it into your design
+[03:44] program of choice which for me of course
+[03:46] is Tinker cat and I've been making quite
+[03:48] a few of those in various sizes and I
+[03:51] found it an absolute Breeze just being
+[03:53] able to specify it like that so I
+[03:55] thought you might find it useful too of
+[03:57] course I'll put the links to the actual
+[03:59] site in the description below should
+[04:01] anybody want to use it and should
+[04:03] anybody be working on something where
+[04:05] making ring gear would be awesome if it
+[04:09] was really really simple which turns out
+[04:11] it is anyway I hope you enjoyed the
+[04:13] video thank you very much for watching

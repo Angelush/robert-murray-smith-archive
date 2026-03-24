@@ -1,0 +1,143 @@
+[00:00] [Music]
+[00:08] surprisingly enough we've done quite a
+[00:09] lot on differentials we've done a hyper
+[00:11] cycloid differential we've done a
+[00:13] differential made out of free wheels and
+[00:15] we did a differential based on a
+[00:16] planetary gear system that could be
+[00:18] easily converted into a constantly
+[00:20] variable transmission so differentials
+[00:23] are fascinating things one thing we
+[00:25] haven't done is a bevel differential
+[00:27] which is pretty much standard that you
+[00:29] see on most cars there's another kind of
+[00:32] differential you see on lots of cars so
+[00:34] for instance Rolls-Royce used to use it
+[00:36] I believe Toyota used it and I think
+[00:38] Lancia used it as well called the speria
+[00:41] differential what's interesting about
+[00:43] the speria differential is it's really
+[00:45] easy to make if you want to model it you
+[00:48] can model it in Tinker cat using just
+[00:50] Tinker cat Primitives and so because I'm
+[00:53] going to do this of course what I did
+[00:55] was turn to Tinker cat so I turned to
+[00:58] Tinker cat and I drew this which is the
+[01:01] whole assembly in one piece now let's
+[01:04] take it to Parts a bit remove the frame
+[01:06] by taking off the clips and we can see
+[01:08] the central bit that small bevel gear is
+[01:10] the drive for the drive handle let's
+[01:12] remove that and there is the heart of
+[01:14] the machine if we take away the dry
+[01:17] flanges and the big bevel gear which is
+[01:19] a dry flange remove the spaces and the
+[01:21] clips that hold on the top and we can
+[01:24] see what it's actually like on that men
+[01:26] Carriage it's composed really of two Sun
+[01:29] gears and six Planet gears the sun gears
+[01:32] fit in the center and have a space
+[01:34] between them to hold them apart and
+[01:36] those Planet gears as you can see in
+[01:38] opposite directions but they're exactly
+[01:40] the same just one is twisted around and
+[01:42] those are the parts to be able to make
+[01:44] this spur gear differential we put them
+[01:47] together back again in fast frame you'll
+[01:49] see how they all actually just fit back
+[01:51] together with the sun gears Contra
+[01:53] rotated put the top on replace the clips
+[01:56] and put the spaces in and we're getting
+[01:58] back tomorrow that's where we started on
+[02:00] with the drive bevel and then the
+[02:01] connection flanges the drive gear itself
+[02:04] and we can rest it back in the frame and
+[02:06] that is the spur gear differential once
+[02:09] we've printed it there are the parts now
+[02:12] to put this together is pretty much
+[02:13] exactly what we saw in the animation
+[02:15] there's the men carriage and I've glued
+[02:17] the bevel gear the large bevel gear onto
+[02:19] the bottom of the men carriage and put
+[02:21] one of the Spur Gears on there there are
+[02:23] three sets actually it'll work well with
+[02:25] one three sets just spreads the load one
+[02:28] of these goes in in that direction and
+[02:31] the other one is reversed and Slots on
+[02:33] in the opposite direction so that
+[02:35] there's a crossover between the
+[02:43] two and once they're on they should be
+[02:45] free to spin and then we add the others
+[02:48] now we take one of the sun gears and
+[02:50] with the long axle pointing outwards you
+[02:52] feed it right the way through between
+[02:54] those Spur Gears that you've just
+[02:57] added and it should be free to spin
+[03:02] in now there are two spacers one short
+[03:05] one long take the long spacer and just
+[03:07] pop it onto that Center Sun Gear then
+[03:10] put that to one side take the other Sun
+[03:12] Gear and this time the cap and the Cap's
+[03:15] got these little flanges on it goes on
+[03:18] with the little flange Facing The Sun
+[03:20] Gear then that Sun Gear fits onto
+[03:25] there and then we clip those upright
+[03:28] on when you put the clips on give it a
+[03:31] quick test and it should spin everything
+[03:33] freely now we can drop it into its frame
+[03:36] that way around oops my mistake a spacer
+[03:39] goes on here this small spacer so put
+[03:42] that small spacer on then drop it into
+[03:44] its frame add the flange connectors
+[03:46] don't push it on too tight otherwise
+[03:49] you'll lock it to the frame glue them on
+[03:51] and then add the clip on there to hold
+[03:53] it into the frame and do that b TI for
+[03:56] the drive glue the small bevel gear onto
+[03:58] the axle that side not that side quite
+[04:01] close against a little sort of dip in it
+[04:04] pop it in there there's the clip glue
+[04:06] the clip on
+[04:09] there and the handle glues on there by
+[04:12] sliding onto there turn the handle and
+[04:15] that's it working right so of course our
+[04:18] drive is driving the carriage now you
+[04:20] quite often see these with the gear on
+[04:22] the M outside of the carriage and the
+[04:23] whole thing shrunk down like a pancake I
+[04:26] just chose this because I like it and
+[04:28] it's easy to demonstrate but if I hold
+[04:30] it and turn the handle of course what it
+[04:32] does is Drive the carriage and drive
+[04:34] these two output flanges which be
+[04:36] connected to wheels or whatever those
+[04:38] differentials are all about splitting
+[04:41] power or combining power from one shaft
+[04:44] to two shafts or vice versa now with the
+[04:47] differential of course something very
+[04:48] interesting happens as I turn that and
+[04:50] apply a breaking force to this side then
+[04:53] of course that side keeps on turning
+[04:56] it's exactly what you want them to do
+[04:58] and equally of course the same is true
+[05:01] on the opposite way if I hold this side
+[05:04] this side will still turn as it is
+[05:06] supposed to do so that is a
+[05:09] demonstration nice demonstration of a
+[05:11] spur gear differential that's really
+[05:14] easy to make from basic Primitives I
+[05:16] mean it's astounding what you can do on
+[05:18] Tinker CAD if you just explore it a
+[05:20] little bit oh inly they also rotate in
+[05:22] opposite directions and if you explore
+[05:24] it a little bit and design stuff up for
+[05:27] yourself I will of course put this onto
+[05:29] s verse should anybody want these files
+[05:32] feel free to modify them feel free to
+[05:34] reuse them feel free to explore them
+[05:36] because I feel there's a lot of really
+[05:38] interesting different things that could
+[05:40] be done with something like like that
+[05:43] anyway I hope you enjoyed the video
+[05:45] thank you very much for watching and
+[05:46] please do remember to like And subscribe

@@ -1,0 +1,227 @@
+[00:02] [Music]
+[00:15] hi I don't think we've ever heard of a
+[00:17] reaction system called sila it stands
+[00:19] for single iron layer absorption
+[00:21] reaction and what it is is it relies on
+[00:24] a property of materials if you dip a
+[00:26] substrate into a fairly weak solution
+[00:30] then atoms will adhere to that substrate
+[00:32] then you wash it and you get a single
+[00:35] layer of atoms sticking to the surface
+[00:37] then you can react them to make
+[00:39] something insoluble and you can build up
+[00:42] mono atomic layers gradually by dipping
+[00:44] and washing and reacting and washing and
+[00:47] dipping and washing and reacting again
+[00:50] and again and again and you can do some
+[00:52] really interesting things with this one
+[00:54] thing that is quite popular is aluminium
+[00:57] zinc oxide transparent conductive
+[00:59] coatings for things like solar cells as
+[01:01] other stuff but there's a whole host of
+[01:04] things you can do with sila now if you
+[01:07] want to know more about sila then just
+[01:09] put in a Google Scholar search si la ah
+[01:13] and you'll come up with a ton of things
+[01:15] to do now it's really an interesting way
+[01:18] of manipulating the nanoscale but with
+[01:21] the most rudimentary of equipment now
+[01:24] all you really need are four beakers one
+[01:27] with the solution you're interested in
+[01:28] two with water a mum with the reactant
+[01:31] and you dip it in the solution water
+[01:33] reactant water solution and you keep on
+[01:36] going like that now the only problem
+[01:38] with it is you have to do something like
+[01:41] two to five hundred times it's really
+[01:44] tedious because you dip it for about
+[01:46] anywhere between 10 and 30 seconds
+[01:48] whatever the reaction system you're
+[01:49] looking at is and you cycle it through
+[01:51] lots and lots of times and it's
+[01:54] stunningly easy to get very very bored
+[01:57] and lose count and Missy times and all
+[01:59] that sort of stuff so what you really
+[02:01] need if you're gonna do something like
+[02:02] sila is a cylon machine something that
+[02:06] will do that tedious job for you so I
+[02:09] started on Friday it's now Monday and
+[02:11] I've built this this it's a cipher
+[02:14] machine I think it's kind of Awesome
+[02:16] actually it's not quite finished but I
+[02:19] thought I'd show you where it was at the
+[02:21] moment because it is in basics finished
+[02:23] so it's obviously three axes it goes
+[02:26] that way that way and
+[02:28] this is the stage we'll have a look at
+[02:30] there later as a sample stage and it
+[02:33] moves backwards and forwards and left
+[02:35] and right and up and down to do that
+[02:37] dipping portion of it but it's not
+[02:40] really a CNC machine the accuracy of
+[02:43] looking at is is terrible really yeah
+[02:46] trying to hit a target like that there
+[02:48] you have an awful lot of leeway now
+[02:51] you're only hitting four points so all
+[02:53] you wanted to do is hit those four
+[02:54] points and regulate the time when it
+[02:56] hits so what I've done here is I've set
+[03:00] up limit searches if we look at the top
+[03:02] gantry here you can see there's a switch
+[03:04] there the switch there and a motor to
+[03:07] drive the belt now I could you step in
+[03:09] afters and I could use fairly complex
+[03:11] command control procedures to make sure
+[03:14] those stepper motors are in the right
+[03:15] position but I can also use a DC motor
+[03:20] which is what this is it's just a window
+[03:21] winder DC motor when it hits the limit
+[03:24] switch turns itself off what we need to
+[03:27] do is get some way for it to turn back
+[03:29] on again and go to that limit switch and
+[03:31] turn itself off again now you can do
+[03:34] that with a double pole double throw
+[03:35] switch or you can do it with a double
+[03:38] pole double throw a relay which is right
+[03:40] here so I got set up here three relays
+[03:43] to run those four motors these two
+[03:45] relays run the top gantry so this one
+[03:47] runs the stage this one runs the left
+[03:50] right and this one runs these two motors
+[03:53] backwards and forwards when they hit the
+[03:56] limit switch they turn off until you
+[03:58] activate the relay that turns it back on
+[04:00] again hits the next limit switch turns
+[04:02] it off deactivate the relay and it will
+[04:04] come back so we have four positions now
+[04:07] these limit switches of which there are
+[04:09] eight incidentally are normally closed
+[04:11] normally open so they've got two ways of
+[04:14] looking at them you are them normally
+[04:17] closed and I'll do a circuit diagram for
+[04:19] the wiring but you are the normally
+[04:20] closed when they get hit by the gantry
+[04:23] then it's the normally open that gets
+[04:26] closed and the normally closed gets open
+[04:29] and that's what stops the DC motor that
+[04:33] closing the normally open obviously
+[04:35] could be a signal so I've taken it to a
+[04:38] bar here where I've got the eight limit
+[04:41] switches in
+[04:42] normally open widened to here so it hits
+[04:45] the limit I'll get a signal through
+[04:47] there that I can read to tell me what
+[04:49] the position of that is but the normally
+[04:52] closed a wired directly into the double
+[04:54] pole double throw relays here so that
+[04:57] when it's open as it normally closed
+[04:59] gets hits and is open then it will shut
+[05:01] off the DC motor and I need a signal
+[05:04] into the relay to reverse that so
+[05:07] obviously these relays 1 2 & 3 what I
+[05:09] can do is run those through an Arduino
+[05:11] so that's exactly what I'm gonna do and
+[05:13] that's what's best for his for here is
+[05:15] to put my Arduino to send a relay signal
+[05:18] so that I can turn those relays on when
+[05:20] I've read the position of the position
+[05:23] switches which are also the limit
+[05:25] switches so that's what's yet to do is
+[05:28] to fit the Arduino fit the Arduino relay
+[05:31] board right back programmed so that I
+[05:33] can go of one of four positions for any
+[05:36] number of seconds and read when the
+[05:38] thing is in the up position the down
+[05:40] position or the home position or any
+[05:42] position I want I can read that so I can
+[05:44] time the sequence of my Cylon machine
+[05:47] now I plan on doing quite a bit of silo
+[05:49] experimentation which is why I have
+[05:51] built this machine it took me about four
+[05:53] days to build as I say you can see what
+[05:56] it's made on it's just the aluminium
+[05:57] square stuff I made two squares out of
+[06:00] it but some feet on it but a little
+[06:02] board in here and then made that stage
+[06:05] and one of the electronics
+[06:07] that's all I actually did but it still
+[06:09] took about four days now I'm thinking
+[06:12] about doing something in the way of a
+[06:14] kit for this so when it's completed and
+[06:17] running a little bit then I will do
+[06:19] something in the way of a kit now it is
+[06:21] on at the moment but everything's in the
+[06:24] home position so what I've got here is a
+[06:27] trip switch so that's going to my life
+[06:29] supply but I've tripped it here and it
+[06:32] might rip it onto the middle relay
+[06:34] you'll see that relay come on there it
+[06:36] is and there is the top gantry moving
+[06:40] and if I take that off it reverses its
+[06:43] direction because the relay is gone on
+[06:44] hits the limit switch turns itself off
+[06:48] it's really kind of cool let's have a
+[06:51] look at the sample stage so here's the
+[06:54] sample stage
+[06:55] that I made and you can see it's in the
+[06:57] home position and needs to be up for the
+[06:59] home position because it's going to move
+[07:00] and there's the limit switch for it and
+[07:02] this bit of black plastic goes up and
+[07:05] down and here is where you attach your
+[07:07] sample and you can attach your sample
+[07:08] with a bit of tape because it's really
+[07:10] only a bit of polypropylene or acetone
+[07:12] acetate sheet or something like that it
+[07:15] gets dipped in and out of the beaker
+[07:17] which sits underneath that position
+[07:19] there now I might put some heat of
+[07:21] stirrers in there as well so we can
+[07:23] change the temperature of the reaction
+[07:24] that we've been looking at not
+[07:26] absolutely essential but would be useful
+[07:28] and that would just mean buying some
+[07:30] heater stereos and popping in them in
+[07:31] there and that will go up and down
+[07:33] limited by the limit switches and the
+[07:36] same relay to reverse the direction of
+[07:38] this window minder motor now I chose
+[07:41] 10-hour p.m. because it's the first time
+[07:43] I've made this I think tends a bit slow
+[07:45] actually I may go for a hundred just to
+[07:47] speed everything up a little bit but it
+[07:49] is nice and gentle and I don't have to
+[07:50] sit there I can just set the number of
+[07:52] cycles that I want and leave it alone
+[07:54] until it's done here out the relays that
+[07:56] you can see right there there is my
+[07:58] relay blocks that's where the Arduino
+[08:00] signal will go in here's my sensor bar
+[08:03] where the sensor wires are going to be
+[08:05] here are mine relays that are
+[08:07] responsible for reversing the direction
+[08:08] of the motor and are tripping those
+[08:11] limit switches and this is just the life
+[08:13] of neutral in it's all there is to it
+[08:15] really that's the space there for the
+[08:17] Arduino I go a cylon machine to do some
+[08:20] Sanger experimentation with and to be
+[08:22] able to play at that nano scale but
+[08:25] using a macro scale technique I'll
+[08:28] finish that off with the Arduino I'll
+[08:30] probably do another video demonstrating
+[08:32] it probably with something like
+[08:34] transparent conductive oxide but once
+[08:36] I've done this I will put this together
+[08:39] as a kit I think and we'll probably put
+[08:42] that up on the shop but anyway I'll let
+[08:45] me know if that's of interest because
+[08:47] obviously there's quite a lot to put
+[08:48] those kids together I will do a circuit
+[08:52] diagram so you can have a look at the
+[08:53] circuit diagram not at the whole thing
+[08:55] I'll just do one but you just repeat it
+[08:57] three times that's all you do anyway I
+[09:00] hope that was of interest and thank you
+[09:02] very much for watching
+[09:11] you

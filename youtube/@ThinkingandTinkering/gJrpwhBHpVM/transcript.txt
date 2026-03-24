@@ -1,0 +1,231 @@
+[00:03] [Music]
+[00:10] hi so it seems to me that when people
+[00:12] are thinking about generation whether it
+[00:14] winds turbines or water turbines or
+[00:16] whatever it is the first thing to go to
+[00:18] is a dc brushed motor or some kind of
+[00:21] magnet and coil arrangement to be honest
+[00:24] that's not always the best answer
+[00:27] magnets have a fixed field strength and
+[00:29] though so there's a fixed amount of
+[00:31] torque that you have to put on whatever
+[00:32] it is you're turning to move it through
+[00:35] those magnets so sometimes like wind for
+[00:38] instance the wind doesn't blow that hard
+[00:40] so what would be really great is if you
+[00:42] could adjust that torque requirement or
+[00:45] adjust the magnetic field strength so
+[00:47] that in low wind conditions well you had
+[00:49] a low field and in high wind conditions
+[00:51] well you just up the field so you get
+[00:53] more generation out of it
+[00:55] that to me would be a huge benefit
+[00:58] because magnets particularly neodymium
+[01:01] magnets are really expensive i was
+[01:03] reading a chap who was doing one out
+[01:05] neodymium magnets and he reckoned
+[01:07] because he was using neodymiums his
+[01:09] payback period was going to be something
+[01:11] like 44 years
+[01:13] no that's crazy because they are
+[01:15] expensive they come from china we're
+[01:16] just coming out of kobe and we've got a
+[01:18] crisis in delivery around the world so
+[01:21] they're expensive
+[01:23] get away from using those magnets then i
+[01:25] think there are real definite positive
+[01:27] benefits to that whole arrangement and
+[01:29] in 1502
+[01:31] we did something about that we started
+[01:33] to talk about car alternators now car
+[01:35] alternators aren't that expensive you
+[01:36] can buy a brand new one
+[01:38] without a trade in for something like 80
+[01:40] 90 pounds something like that however if
+[01:43] you're like me what you prefer to do is
+[01:45] pay absolutely nothing and have
+[01:47] reasonable generations so that your cost
+[01:49] per kilowatt hour drops through the
+[01:52] floor that's what we'd be looking at now
+[01:53] what i've got here
+[01:55] is a washing machine motor now quite a
+[01:57] lot of europe
+[01:58] these washing machine motors are
+[02:00] something called a universal motor means
+[02:02] they'll run off ac or dc
+[02:04] and what they are is a set of field
+[02:07] coils right here in the stator there's a
+[02:09] whole bunch of coils and in the rotor
+[02:12] there's a whole bunch of coils fed by
+[02:14] these two brushes here
+[02:16] now we can use that in the same way that
+[02:18] we did with the alternator that is
+[02:21] we can put little power into the magnet
+[02:24] coils to create a magnet as long as
+[02:27] we're turning it we're going to get more
+[02:29] out than we put in because we're turning
+[02:31] it we're putting more energy in
+[02:33] and so we can store some of that energy
+[02:36] that comes out into something like a
+[02:38] feed battery or a supercapacitor and
+[02:40] feed that back into the field coils to
+[02:43] improve the strength of the field of
+[02:45] course if we link that with an arduino
+[02:48] we could have some measure of the speed
+[02:50] using a tachometer of some kind and use
+[02:52] that as a signal to change that magnetic
+[02:55] field strength so the field strength was
+[02:57] low when the torque applied was low and
+[03:00] the field strength was high when the
+[03:02] talk applied is high so when you have a
+[03:05] low wind condition you can turn it when
+[03:07] you have a high wind condition you can
+[03:09] turn it and generate more and if it gets
+[03:12] crazy wind condition we can feed a load
+[03:14] in and break it so there's a whole load
+[03:17] of reasons you might want to use
+[03:18] something like an alternator but it's
+[03:20] still a hundred quid and a washing
+[03:22] machine motor well in the last month i
+[03:25] found three just lying by the side of
+[03:27] the road and they're perfectly good
+[03:28] motors now the issue with them is they
+[03:31] have this clip here which has got loads
+[03:33] of really weird little connectors and
+[03:35] you start to worry about where
+[03:36] everything goes but it's actually really
+[03:38] simple
+[03:39] we can see right there there's a green
+[03:41] and a yellow one they go to the brushes
+[03:43] and those brushes go to the rotor we use
+[03:46] those two
+[03:47] here we've got one going into the body
+[03:50] and there are three wires in there a
+[03:51] browner black and a white there's a heat
+[03:54] sensor in there the heat sensor is just
+[03:56] a bi-metallic strip and it'll turn it
+[03:58] off if the motor gets too hot well we
+[03:59] don't need that so we just find the two
+[04:02] wires where we have continuity and they
+[04:04] are going to be the two we use for the
+[04:06] field coils the other wires are just
+[04:08] various sensors that we don't actually
+[04:10] need so ignore them completely now i'm
+[04:12] going to make those adaptations and show
+[04:14] them so there is the stator with its two
+[04:15] coils right there and there's the three
+[04:17] wires and you can actually see the
+[04:19] sensor right there it's a heat sensor i
+[04:22] checked continuity between the brown and
+[04:24] the black and we've got about 2.08 ohms
+[04:27] resistance and they're going into those
+[04:28] two coils so i plan on feeding a voltage
+[04:32] down there to create essentially
+[04:34] two permanent magnets
+[04:36] the reason i'm doing that is here is the
+[04:38] rotor and we've got a commutator there
+[04:40] so remember when a rotor like this moves
+[04:43] between a permanent magnetic field what
+[04:46] we get is dc out because there's
+[04:49] commutate the commutation
+[04:51] performs the rectification so we don't
+[04:53] need to worry about ac coming out dc is
+[04:56] going to come straight out and of course
+[04:58] the washing machine says the brush
+[05:00] these brushes are meant to be replaced
+[05:02] so they're really easy to get to and
+[05:03] really easy to change over what's more
+[05:06] this thing it's got a coating of plastic
+[05:08] on it because it's a washing machine
+[05:10] motor so brilliant for outdoor use
+[05:14] anyway
+[05:15] now i'm showing that to you let's put it
+[05:17] back together
+[05:18] okay so we've got our washing machine
+[05:20] motor in this test rig that we developed
+[05:22] in video 1503 incidentally if you swap
+[05:26] the feed around you'll swap the magnetic
+[05:28] poles and you swap comes out so you can
+[05:31] just test that to see which one comes
+[05:32] out here we've got a positive voltage
+[05:34] coming out if i spin this of course it's
+[05:37] going to generate
+[05:52] here we go light our load couple of
+[05:54] vaults coming out now being a bit
+[05:56] careful with it because i blew the last
+[05:58] one up remember however
+[06:01] alternators aren't actually that well
+[06:03] made they're a bunch of cast iron that
+[06:06] put around magnetic field and they don't
+[06:07] have a lot of magnetic remnants however
+[06:10] this stuff here is a silicon steel and
+[06:13] its magnetic remnants is really strong
+[06:20] so we can get rid of the power supply
+[06:22] let's do exactly that
+[06:25] and now we're going to use a self-feed
+[06:27] mechanism so when we take the output
+[06:30] from the coils which is the rotor output
+[06:33] and we feed that back into the field
+[06:35] coils which is the stator then that
+[06:38] rotor will act as a positive feedback
+[06:41] mechanism feeding the stator and
+[06:43] building the magnetic field
+[06:46] okay so i've wired it up now so that the
+[06:48] rotor field feeds the stator so anything
+[06:51] that's generated actually goes into the
+[06:53] field coils become its own load it's a
+[06:56] bit harder to turn but it will now have
+[06:59] a positive feedback mechanism and i put
+[07:01] this led strip on turn on voltages for
+[07:04] that is about 20 volts it's a bit of a
+[07:06] harder turn but there we go
+[07:16] so
+[07:17] using its own magnetism it's remnant
+[07:20] magnetism to start that process
+[07:23] it can generate quickly enough to like
+[07:26] this
+[07:27] but it is a harder turn so you do lose
+[07:31] the control that you would have over
+[07:34] when we can feed in a lower voltage to
+[07:37] control the torque this becomes its own
+[07:40] resistance surprisingly enough universal
+[07:43] motors actually make pretty good
+[07:44] generators whether you feed them with a
+[07:46] separate supply or you feed them with
+[07:49] their own remnant magnetism to
+[07:51] beef up that supply and they're really
+[07:54] easy to get hold of most washing
+[07:56] machines have them in there's a a
+[07:58] tendency at the moment for um brushless
+[08:00] dc motors in washing machines but
+[08:02] they're pretty rare to find i have seen
+[08:05] a couple around these you just pick them
+[08:08] up no worries at all and put them in the
+[08:10] test rig obviously you can work out all
+[08:13] those kind of things that you need to
+[08:14] work out in terms of gearing and give
+[08:16] that a go and see if you can actually
+[08:18] make a decent generator now motors
+[08:20] themselves
+[08:21] have an efficiency rating these kind of
+[08:24] motors are sort of the 75 efficient
+[08:26] range somewhere around about there
+[08:29] the generation is dependent on the motor
+[08:32] efficiency as well as the efficiency
+[08:35] that this can capture in terms of
+[08:37] mechanical effort so you have two sides
+[08:39] to be looking at one is how well your
+[08:42] mechanism captures the mechanical effort
+[08:45] of whatever you're using so wind or
+[08:46] water the other side is how well this
+[08:49] can convert that mechanical power that's
+[08:52] going in through this belt into
+[08:54] electrical power
+[08:55] so these are i think well worth
+[08:58] investigating particularly with that
+[09:00] torque control that we can add in there
+[09:03] anyway i thought i'd point out universal
+[09:05] motors as a possible replacement for
+[09:07] alternators i hope you enjoyed the video
+[09:09] thank you very much for watching and
+[09:11] please do remember to like and subscribe

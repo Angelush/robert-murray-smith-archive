@@ -1,0 +1,118 @@
+[00:02] [Music]
+[00:15] hi so this
+[00:16] is a capacitor big whoop hey what i
+[00:19] think they get excited about it's a
+[00:22] thousand farad 50 volt electrolytic
+[00:24] capacitor but the same is going to be
+[00:26] true for any capacitor that we use and i
+[00:29] think that
+[00:30] we all know about these things i mean
+[00:32] essentially they're used for energy
+[00:34] storage or filtering on an ac circuit
+[00:36] that kind of thing until recently that's
+[00:39] all i thought about them really
+[00:41] they're actually
+[00:43] much weirder than that they can do some
+[00:46] pretty amazing things when you put them
+[00:48] in the right circuit and the circuits
+[00:50] don't actually need to be that
+[00:52] complicated so let me have a show you
+[00:54] this circuit
+[00:55] you can see essentially all it is is a
+[00:58] capacitor connected to a ground
+[01:00] and then two switches either side of the
+[01:02] capacitor
+[01:04] i've implemented that circuit here for
+[01:06] my two switches i'm using a relay to
+[01:09] control the relay set is to control the
+[01:11] switches i've wired a switch across the
+[01:14] coil input from this 12 volts of power
+[01:17] supply i've got here all that does is
+[01:19] turn on the coil and operate those
+[01:21] switches so that no switches are in the
+[01:25] same position when one switch is closed
+[01:27] the other one is open when that same
+[01:29] switch is open the other one is closed
+[01:31] and to do that i've got a double pole
+[01:33] double throw relay which is right here
+[01:36] then i've connected this capacitor there
+[01:39] to the ground on the other side of the
+[01:41] power supply incidentally and then
+[01:43] between those switches as we just saw in
+[01:45] the circuit diagram so the only
+[01:47] difference between this and the circuit
+[01:48] diagram is i've got a little control
+[01:50] switch here to control those switches
+[01:52] through the coil on the relay
+[01:54] now if you have a look at the voltage
+[01:57] out that i'm reading there it is that's
+[01:59] the voltage across the capacitor the
+[02:01] voltage out of that circuit 3.4 volts
+[02:04] and of course my voltage in right there
+[02:06] is 3.4 volts now
+[02:09] watch this
+[02:17] i think that is far more awesome than it
+[02:19] first appears let's
+[02:21] do it again so there's the voltage which
+[02:23] is pretty much the voltage in start
+[02:25] pressing that switch
+[02:29] and the voltage out changes depending on
+[02:32] how fast i press that switch that is
+[02:35] super cool
+[02:36] now it's super cool because these things
+[02:38] can actually be printed so when they
+[02:41] make an integrated circuit then they can
+[02:43] include the switch and the capacitor in
+[02:46] that printing so that integrated circuit
+[02:48] doesn't need to have resistors external
+[02:51] to it or resistors added on the resistor
+[02:55] is a capacitor switch network where the
+[02:57] resistance value or the voltage drop
+[03:00] across it which is exactly what a
+[03:01] resistor is doing is dependent on the
+[03:03] frequency of the switch that we press
+[03:06] now
+[03:07] that's great for making a
+[03:09] straightforward resistor and kind of
+[03:11] exciting in its own way
+[03:13] but it does allow you to do other things
+[03:16] depending on that frequency that voltage
+[03:18] will change and so we can create a step
+[03:21] of voltage so we can use switches in a
+[03:24] capacitor to actually create simulate a
+[03:27] sine wave and of course what we're
+[03:29] getting when we simulate a sine wave is
+[03:32] an inverter we can use a dc input with a
+[03:36] switch to create a sine wave through a
+[03:38] capacitor and have a capacitor only
+[03:41] inverter so not only can
+[03:44] capacitors act as resistors this little
+[03:46] setup a little bit more complicated but
+[03:48] basically this little setup can be used
+[03:51] to construct an inverter and that begins
+[03:53] to get very exciting of course because
+[03:55] you can get rid of all that ion that you
+[03:59] need when you use a transformer so
+[04:01] instead of using inductance we can use
+[04:03] capacitance to create an inverter anyway
+[04:06] i thought i would show you that simple
+[04:07] circuit because you can bet your bottom
+[04:09] dollar we're going to explore that more
+[04:11] but
+[04:12] that is the basics of what we're going
+[04:14] to explore so when we look at
+[04:16] capacitor-based inverters later it will
+[04:19] come back to
+[04:20] capacitors as a resistor through
+[04:23] switching a capacitor at frequency now
+[04:26] i've gone through the math of this on
+[04:27] the members channel but i won't include
+[04:30] it here if you do want to read up about
+[04:32] it then there's plenty of information
+[04:33] out there on how these things actually
+[04:35] work but i hope you enjoyed this quick
+[04:38] and introductory visit video to these
+[04:40] capacitive switch networks
+[04:42] and we will be following it through so
+[04:44] please remember to like and subscribe
+[04:46] and i hope you enjoyed this video

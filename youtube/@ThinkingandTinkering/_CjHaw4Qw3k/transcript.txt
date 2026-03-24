@@ -1,0 +1,98 @@
+[00:02] [Music]
+[00:14] hi so welcome to another arduino video
+[00:17] now what i've been saying is that
+[00:18] getting started with arduino is really a
+[00:20] piece of cake
+[00:22] and it's true it is but the uh
+[00:24] programming of the arduino
+[00:26] can get really complicated when you
+[00:28] start to delve in it
+[00:29] but it's like going to the swimming pool
+[00:31] if you've never been swimming before
+[00:32] you'd be an idiot
+[00:33] to jump off the diving board into the
+[00:35] deep end you don't do that
+[00:36] you get in the bit where you can paddle
+[00:38] around for a bit and get used to the
+[00:40] water
+[00:41] and that's what it's about really it's
+[00:43] about jumping in that little bit
+[00:45] paddling around getting used to it and
+[00:46] to do that piece of cake
+[00:48] and we did one with the switch where we
+[00:50] used the thing that you could find on
+[00:52] the arduino board and it's pretty
+[00:55] standard
+[00:56] really and it looks like this
+[01:02] okay that was the circuit diagram we're
+[01:04] showing you where to stick things in the
+[01:05] pins and here's the
+[01:07] actual board that i have there's the
+[01:09] resistor going to ground here's my
+[01:11] switch
+[01:12] i press that switch and the led lights
+[01:14] up
+[01:15] big whoop but it's kind of really
+[01:17] important
+[01:18] to be able to do that control from a
+[01:20] switch now there's a reason that
+[01:23] that resistor is there incidentally this
+[01:25] to do with the
+[01:26] noise on the signal lines but it's there
+[01:28] for a good reason and
+[01:30] this is the standard thing you'll see
+[01:32] for attaching a switch to your arduino
+[01:35] it's what you see on the arduino hub the
+[01:37] sketches on the hub and it's really easy
+[01:39] and freely available
+[01:40] and that's pretty much a standard setup
+[01:43] however
+[01:44] to dive in a little bit more this board
+[01:47] has its own resistors on it and we can
+[01:49] use those resistors so that we don't
+[01:51] need these separate parts
+[01:54] those resistors on the board are used by
+[01:56] a code called
+[01:58] input pull up now let's have a look at
+[02:00] the quick look at the sketch i used and
+[02:02] here it is
+[02:06] look down that sketch to pin mode button
+[02:09] pin
+[02:10] input that's the control now we're going
+[02:12] to change that to this
+[02:17] if you have a look you'll see that pin
+[02:19] mode button pin
+[02:20] input has changed to pin mode button pit
+[02:24] button pin input underscore
+[02:28] pull up that input underscore pull up
+[02:31] is the command to use the resistor on
+[02:34] the board and it means we can get rid
+[02:36] of this external resistor so the circuit
+[02:39] looks like this
+[02:44] in deal there's the board there's the
+[02:46] switch press the switch and that led
+[02:49] goes off which is kind of cool we've got
+[02:52] rid of the resistor so now we have no
+[02:54] external components apart from the
+[02:56] switch because we're using
+[02:57] the resistor on the board with input
+[03:00] pull up
+[03:00] there's something else to notice
+[03:02] incidentally in the previous version
+[03:05] the light did this
+[03:12] this version the light does that
+[03:16] so it starts on the switch turns it off
+[03:20] and the other one it started off and the
+[03:22] switch turned it on
+[03:24] so the logic is reversed you need to
+[03:26] remember that when you're actually doing
+[03:28] this
+[03:28] but using um input pull up
+[03:31] allows you to get rid of some external
+[03:34] components and obviously that's really
+[03:35] really useful
+[03:36] in some cases anyway i thought i'd draw
+[03:39] your attention to input pull up an
+[03:40] extremely useful bit of code
+[03:43] and i hope you enjoyed the video and
+[03:44] thank you very much for watching

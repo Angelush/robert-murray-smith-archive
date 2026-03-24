@@ -1,0 +1,238 @@
+[00:00] [Music]
+[00:08] So this is the Elegus Centuri Carbon and
+[00:11] it's a pretty nice machine. I use it
+[00:14] quite a lot. It is a Core XY machine and
+[00:17] Core XY is the de facto standard for
+[00:20] higherend machines. So what it is
+[00:22] essentially is a couple of motors, some
+[00:25] belts and pulleys that's able to move
+[00:26] the print head to any point in the XY
+[00:29] plane in this plane. The Z plane, which
+[00:32] is this plane here, is taken care of by
+[00:34] the bed plate, which moves up and down
+[00:36] on lead screws. And so that's actually
+[00:39] pretty accurate and has very little
+[00:41] shake. The Core XY design, because it's
+[00:43] lighter and has less inertia, has
+[00:46] allowed greater accuracy and greater
+[00:48] speed in printing. And so the more
+[00:52] higherend machines are able to print
+[00:54] much faster and much more accurately.
+[00:56] And things like 2.1 of a millimeter
+[00:59] resolution, they're becoming pretty
+[01:01] standard. But of course, it relies on a
+[01:04] belt drives. So it has its own
+[01:07] limitations. If you want to look at
+[01:09] taking that resolution down even further
+[01:11] to 05 or maybe even 0.005 005 of a
+[01:15] millimeter. The belts themselves are
+[01:17] going to become a problem. They're going
+[01:19] to become a problem for simple reasons.
+[01:21] When the temperature changes, those
+[01:24] belts will shrink and stretch. Not by
+[01:26] much. Very true. But when you're looking
+[01:28] at those kind of resolutions, that can
+[01:30] actually spoil the resolution of a
+[01:32] machine. And I was thinking, what would
+[01:34] be an improvement, a way of getting over
+[01:38] that? And in my mind really, it's only
+[01:41] doable with meshing gears. If we can get
+[01:44] some kind of gear system to replace the
+[01:46] pulley and drive system and the belt and
+[01:49] the motors that we've got in here, we
+[01:51] might be able to do that. Get that
+[01:53] resolution down even further. So, what
+[01:56] I'm looking for with those thoughts in
+[01:57] mind is some kind of geared mechanical
+[02:00] system that can move a point anywhere on
+[02:03] the XY plane. Of course, we've seen a
+[02:07] mechanism that might be able to do that
+[02:09] already in this thing, the
+[02:10] hyperscyclloid drive. As long as that
+[02:14] circle in there is half the diameter of
+[02:16] the circle it moves in, it will draw a
+[02:19] straight line. If we keep it in that
+[02:21] position, that line will always be
+[02:23] backwards and forwards. But if we rotate
+[02:25] the whole thing, we can get the line to
+[02:27] go that way anywhere we want and would
+[02:30] be able to cover that entire space. Now
+[02:32] like this, of course, it's all a bit too
+[02:35] big. We have to make steel bits like
+[02:37] that. When you think about a bed size
+[02:39] sort of 300 by 300, this would be huge
+[02:43] and prohibitively expensive. However,
+[02:46] motion is of course relative and just
+[02:48] because it moves inside the circle and
+[02:51] the circle, believe it or not, doesn't
+[02:54] actually have to be there. As long as we
+[02:57] maintain the key elements of what the
+[02:59] hyperscycloid is doing, we can probably
+[03:02] arrange it so we can get that movement
+[03:04] without actually having the circle in
+[03:07] place. Okay, let's have a bit of a
+[03:09] closer look at this. Let's say we have a
+[03:11] circle at 200 by 200, which is the
+[03:14] distance we wanted to describe. If we
+[03:16] want a bed plate, we're probably looking
+[03:17] about 300 350, but this will be fine for
+[03:20] us to have a look at. If we take a
+[03:22] circle at 200 by 200 and add a circle
+[03:25] 100 by 100 right there, as long as it's
+[03:28] at the edge here and touching the center
+[03:30] of the circle there, then two turns of
+[03:32] that will travel it around there and a
+[03:35] point on that circle will be described
+[03:37] on that circle there as that smaller
+[03:40] circle travels around the big circle.
+[03:43] Now a very curious thing is that if we
+[03:46] take a fixed point on that circle
+[03:49] like that then as those circles move
+[03:52] around that point will actually travel
+[03:54] in a straight line across the center of
+[03:57] the 200x 200 and that is the basis of
+[04:00] the hyperscyloid drive. Now we want to
+[04:02] get rid of this outer ring. It's a
+[04:05] notional ring that is described as
+[04:07] opposed to a real ring that we need to
+[04:10] have. As long as we maintain those
+[04:12] relationships, we should get exactly the
+[04:14] same effect. So, as long as this large
+[04:18] circle has a center that goes to the
+[04:20] center of the small circle, the small
+[04:22] circle rotates around the center of the
+[04:24] large circle and we have a fixed point
+[04:26] on that. Then, we should be able to get
+[04:28] it to work. And we should be able to get
+[04:30] it to work with gears. And we can do
+[04:32] that as long as you maintain that
+[04:34] relationship. So if we place a couple of
+[04:37] gears in there, a small one in the
+[04:39] center of the disc we want to move and a
+[04:41] larger one on the center of the largest
+[04:44] circle we want to move. And that gear
+[04:45] ratio is in 2:1. So that is twice the
+[04:48] size of that. Then if we rotate this
+[04:51] large gear, as long as the small gear is
+[04:54] fixed to the large gear with say an arm,
+[04:57] then that gear will rotate pretty much
+[04:59] in a sun and planet kind of way. but
+[05:01] will rotate twice. If that fixed point
+[05:05] is connected to this larger circle or if
+[05:07] we draw another arm in there, then that
+[05:10] point should describe a straight line
+[05:13] even though it's moving around the
+[05:15] inside. Of course, the thing to do is to
+[05:18] print it and test it. So, I've printed
+[05:20] it off as a quick model and as I rotate
+[05:23] this around, what should be immediately
+[05:26] obvious is it doesn't work. this clearly
+[05:29] is not describing a straight line across
+[05:32] there. So I clearly have forgotten
+[05:35] something. So I had to go back and have
+[05:37] a rethink about it. And it suddenly
+[05:38] became very obvious to me when I rotate
+[05:41] around an inner circle then as this
+[05:44] rotates here that gear is rotating in
+[05:47] that direction anticlockwise.
+[05:50] Because if I were rotating around a ring
+[05:52] then because it's the opposite side that
+[05:54] gear would actually be rotating in the
+[05:57] opposite way. So I need to change the
+[05:59] direction of rotation. Changing the
+[06:02] direction of rotation is pretty easy
+[06:04] actually. you just drop in an idle gear.
+[06:07] Idle gears have the unusual property in
+[06:09] that they don't change the gear ratio,
+[06:11] but they will change the direction of
+[06:13] rotation. The reason they don't change
+[06:15] the gear ratio is because if I have an
+[06:17] idle gear and I get a step down gear
+[06:19] ratio from the main gear to the idle
+[06:21] gear, it's exactly equal to the step up
+[06:24] ratio that I get from the idle gear to
+[06:27] the driven gear. So idle gears have no
+[06:29] effect on the gear ratio. They just
+[06:31] change direction of rotation. So clearly
+[06:34] what I need to do to take care of my
+[06:36] mistake is reprint this but with an idle
+[06:40] gear in between. And here is the
+[06:42] reprinted version. Now this is the sled
+[06:45] that carries everything and it has a
+[06:47] driving gear there that forces into that
+[06:50] hole there. This is the foot. This bit
+[06:54] is going to be static and attached to
+[06:55] the foot, but the sled needs to move
+[06:57] around it. So it goes in there so that
+[06:59] the sled can pivot on it. And then that
+[07:01] gets in there. So it's fixed to that
+[07:04] part. Before we fix a sled to the foot,
+[07:06] this bit is the actual bit that's going
+[07:08] to drive it. And it goes through there.
+[07:10] And there's a little turny handle that
+[07:12] goes on there. And then we attach the
+[07:14] sled to the foot. So now if we hold the
+[07:17] foot and turn that handle, then the
+[07:18] sledge moves around, but that stays
+[07:21] still relative to the sled. So now the
+[07:25] arm goes on top of this gear and it
+[07:27] clips in place. And then these two gears
+[07:29] drop into their positions. Okay. So,
+[07:32] let's hold the foot and we'll turn our
+[07:34] gear. Now, what you should notice is
+[07:36] that this part here, that point there,
+[07:38] will travel in a straight line.
+[07:54] [Laughter]
+[07:57] All right, let's see if we can
+[07:58] demonstrate this a little bit better.
+[08:00] What I've done is set up a straight line
+[08:01] here and we'll put this point onto the
+[08:04] straight line and see if we can see it
+[08:06] moving. So, it's this point that you're
+[08:08] interested in. And as I hold the foot
+[08:10] and turn that gear, we should see that
+[08:12] move in a straight line.
+[08:22] So there we go.
+[08:28] So what we have is a pretty complex
+[08:31] hyper cycloid mechanism where the length
+[08:34] that this point can move is twice the
+[08:36] distance of these two. So it can move a
+[08:39] long way covering a straight line for
+[08:41] that area. And if we want to cover the
+[08:44] whole of that circle, well, all we
+[08:46] really do is turn the foot. So, we need
+[08:48] another bit on here with the gear on it
+[08:51] where we could place that because that
+[08:53] will move in a straight line from
+[08:54] whatever position it's in covering the
+[08:57] entire distance. And of course, we only
+[08:59] have to rotate that 90° in order to
+[09:01] cover that entire distance. Now, it's
+[09:04] named after John Goodman who came up
+[09:06] with it in 2021. It's called a Goodman
+[09:09] mechanism. And the key points are this
+[09:12] gear and this gear must be in a ratio of
+[09:15] 2:1. They don't necessarily need to be
+[09:17] in a straight line. And then this point
+[09:20] must come to the midpoint of that
+[09:24] so that that arm is at the midpoint of
+[09:26] that gear. As long as you do that, then
+[09:28] you're going to make a pretty good
+[09:29] hyperyloid. And as I say, if we're
+[09:31] rotating the foot, what we've got is a
+[09:34] potential compact mechanism for
+[09:36] replacing drive belts on 3D printers. I
+[09:39] think that's actually pretty
+[09:40] interesting. Now, I'm going to put this
+[09:42] a good mechanism up onto Thingiverse.
+[09:45] Should anybody be interested with it and
+[09:47] want to play around with that, I
+[09:49] certainly would like to look a bit more
+[09:51] at the possibility of turning this into
+[09:54] the support for the print head to
+[09:57] reconfigure and redesign 3D printer XY
+[10:01] mechanisms. Anyway, I hope you enjoyed
+[10:03] the video. I hope you found it
+[10:04] interesting. Thank you very much for
+[10:06] watching and please do remember to like
+[10:08] and subscribe.

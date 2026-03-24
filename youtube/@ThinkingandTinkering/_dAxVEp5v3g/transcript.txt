@@ -1,0 +1,159 @@
+[00:02] [Music]
+[00:15] hi
+[00:15] so this is what i was babbling on about
+[00:18] in video 103.9
+[00:20] now in 103.9 we use this solid steel
+[00:23] rotor because i had it from a generator
+[00:25] and we were looking at the flux path
+[00:27] through the rotor and i said i don't
+[00:29] think it matters that the flux path goes
+[00:30] through the rotor i only think it
+[00:32] matters if the flux path has a path
+[00:34] through the sea
+[00:35] so i built this plastic rotor let me
+[00:37] give you a close-up of it
+[00:39] okay so i've got the two c's that i was
+[00:41] talking about and
+[00:42] here what we've got is a plastic rotor
+[00:45] with these bits of metal
+[00:46] these bits of metal are actually just a
+[00:48] stack of washers and i'll talk about
+[00:49] that in a minute
+[00:50] now the c is midpoint between two bits
+[00:53] of metal and if i give that a pulse of
+[00:56] power there we go that's what you'd
+[00:57] expect it to do spins around so that the
+[01:00] metal lies underneath the c but it also
+[01:02] moves this section of the rotor so now
+[01:04] this c is midpoint between these two
+[01:07] metal bits
+[01:08] so if i swap that over
+[01:14] sorry
+[01:22] and give it a pulse of power it does the
+[01:24] same thing
+[01:25] and the rotor will continue so what i
+[01:28] need to do obviously is arrange some
+[01:29] electronics that will pulse this
+[01:32] on then turn it off this on while this
+[01:34] is off and then turn it off and
+[01:36] so on and that will make that rotor
+[01:38] continue to turn
+[01:40] now that is what i was talking about and
+[01:43] the basis of the motor
+[01:44] so if these two c's were only
+[01:46] electromagnets that is they were a c
+[01:48] shape of the metal laminates and they
+[01:50] only had a coil around them
+[01:52] it would in fact be something called an
+[01:54] axial flux
+[01:55] reluctance motor now if you pop that
+[01:57] into google scholar
+[01:58] you'll actually find a ton of research
+[02:00] on these motors with their various
+[02:02] benefits and detriments and why they're
+[02:04] a good idea and why they're a bad idea
+[02:06] i like that i like that because it means
+[02:09] that you're going along the right track
+[02:11] you're not really going a bit loopy
+[02:12] now i've got a paper here called axial
+[02:14] flux switch reluctance machines a
+[02:16] comprehensive review of design and
+[02:18] topologies
+[02:19] i'll pop that title in the description
+[02:21] along with the doi
+[02:23] it's an open access paper which
+[02:25] discusses
+[02:26] the ins and outs of these particular
+[02:28] motors now
+[02:29] we have made a change to this motor
+[02:31] remember this is not
+[02:32] just an electromagnet what this is doing
+[02:35] is you've got magnets on there as well
+[02:37] you can see them right there
+[02:38] and right there so this is a
+[02:40] magnetically assisted
+[02:42] axial flux switched reluctance motor
+[02:45] which is
+[02:45] quite a mouthful really and we're gonna
+[02:47] have to come up with a new name aren't
+[02:49] we but that's what this actually is
+[02:51] now switching flux
+[02:55] and magnetically assisted motors exist
+[02:58] all by themselves i mean
+[02:59] that's what the flynn motor is the flynn
+[03:01] motor is a magnetically assisted motor
+[03:04] well the flynn motor does though it uses
+[03:06] two coils and two magnets to switch that
+[03:08] flux
+[03:09] what we're doing is using one coil and
+[03:12] one magnet
+[03:13] we're also using the mass of the arm
+[03:16] here
+[03:16] so we use that massive arm to create
+[03:18] reluctance in the same way you create
+[03:20] resistance
+[03:21] and there is a tiny amount of magnetism
+[03:23] in here which is kind of cool because it
+[03:25] holds the metal in place but not enough
+[03:29] that this can't overcome it relatively
+[03:31] easily but we're using one coil on one
+[03:33] magnet
+[03:34] to switch the flux rather than the flind
+[03:36] motor which is u2 uses two cars and two
+[03:38] magnets
+[03:39] we've also got an axial flux design so
+[03:42] that's why i think the motor
+[03:44] is interesting and different because the
+[03:46] magnetic assist i think
+[03:48] helps with the amount of power that
+[03:50] magnet is going to draw
+[03:52] if you look up axial flux machines
+[03:54] you'll see that they're just
+[03:55] electromagnets
+[03:56] here we're using magnetically assist now
+[03:59] there is a
+[04:00] an interesting thing about the
+[04:01] laminations on the sea
+[04:03] the laminations run in that direction
+[04:06] and on the stacks which are washers they
+[04:08] run
+[04:08] in that direction now according to my
+[04:11] reading the 90 degree twist in the
+[04:13] direction of the laminate actually is
+[04:14] important
+[04:15] i didn't know that i just did it that
+[04:16] way and read it later and thought oh
+[04:18] that's kind of cool
+[04:19] so we are getting toward the motor that
+[04:22] we want obviously i just switched those
+[04:23] by hand what i need to do now is build
+[04:25] some electronics that will switch them
+[04:27] but it would look like two coils would
+[04:29] be enough
+[04:30] to get that rotor to return now we
+[04:33] discussed improvements on it early and
+[04:34] about a whole bunch of coils but it does
+[04:36] look like two coils or pairs of two
+[04:38] coils
+[04:38] will be enough to get the motor to
+[04:40] return round to turn anyway i thought
+[04:42] i'd keep you up to date with where it is
+[04:43] that's what we've actually done we've
+[04:45] actually built
+[04:46] the prototype we now need to put some
+[04:48] switching in there to get continuous
+[04:50] rotation
+[04:50] but that on off to move it round in a
+[04:53] gradual stepwise motion
+[04:55] is certainly working the disc is fine in
+[04:58] plastic
+[04:59] and axial flux motors they tend to use
+[05:01] non-ferromagnetic materials like
+[05:02] aluminium
+[05:03] because it will help with heat
+[05:04] dissipation we've used a lump of plastic
+[05:07] which is just
+[05:07] fine anyway thought i'd keep you up to
+[05:10] date hope you enjoyed the video hope
+[05:12] you're enjoying the project
+[05:13] and thank you very much for watching

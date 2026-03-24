@@ -1,0 +1,686 @@
+[
+  {
+    "id": "UgxFmQkuSppzrRCGEzV4AaABAg",
+    "author": "@themathtutorusa",
+    "author_channel_id": "UCWgGJWxKgEgRBD9LGZkRNAQ",
+    "text": "Your exposition on mathematical concepts is lucid, enthusiastic, and  extemporaneous.",
+    "likes": 0,
+    "published_at": "2025-02-09T05:03:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzegOmAVBwAsWPrOc14AaABAg",
+    "author": "@peterh.vanleeuwen6318",
+    "author_channel_id": "UCJX17z7pgXzUTkoCQvthF9A",
+    "text": "Good show and exacter what we need to move forward. Thanks man.",
+    "likes": 0,
+    "published_at": "2023-01-04T23:08:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwQhyjJHo4lJoRIuth4AaABAg",
+    "author": "@floridacoder",
+    "author_channel_id": "UCGasE5bSvLBU3oZBV7WTHDQ",
+    "text": "Have you tried mixing cell sizes?  What I'm thinking is one or two very large storage cells - possibly two to overcome the .8 volt drop in a diode.   The storage cell or cells would be in parallel with 6 smaller super capacitors in series and charged by the storage cell(s) with blocking diodes, so we still get 12+ volts from the battery.  Instead of charging with a 12 voltage source you would charge with a 2(ish) volt source.  Your battery would need 3 posts.   1 negative, 1 positive input at ~2 volts.  And 1 positive 12 volt output.  The PV cells would instead be connected all in parallel instead of series for charging. \n\nWould there be any significant disadvantages to that approach?  What I was thinking was one massive 1 or 2 cell storage battery.  Because of the simplicity it would be extremely easy to manufacture.   That would be the primary power supply for super capacitors.",
+    "likes": 0,
+    "published_at": "2022-05-29T16:48:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyHf2QgkuDVyJSqjrB4AaABAg",
+    "author": "@williama6710",
+    "author_channel_id": "UC7dM7_QlJeHepPODJU_Iq1w",
+    "text": "Bravo !",
+    "likes": 0,
+    "published_at": "2022-05-13T12:20:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyOysD4MVi4_8FXjgB4AaABAg",
+    "author": "@stevecummins324",
+    "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+    "text": "a big one for energy storage is the upper limit of breakdown voltage\ncapacitor energy\nE=C *V*V/2\ncan be expanded with inclusion of what you derived there.... \nE= u0*A*V*V/2*d\nif everything else kept same, with double the maximum voltage that a capacitor can hold, the energy storage goes up by *2*2 ie *4",
+    "likes": 0,
+    "published_at": "2022-05-12T23:23:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGr6difYsmlKG1IvF4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "Something for your mind to toy with: If you change your plates into bifilar coils and make your separator into a bifilar coil, will charging the coil plates cause a current flow in the coil separator? The electromagnetic maths say yes. For every change in an electric field there is a change in magnetic and vis-vers-a.",
+    "likes": 0,
+    "published_at": "2022-05-11T02:27:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxaGnvfx4zxstBsQYp4AaABAg",
+    "author": "@suijuris8518",
+    "author_channel_id": "UCXuoEiwL63rkDpwZ8DXVg7w",
+    "text": "Rob, free space has nothing in it correct?  How does nothing polarize?",
+    "likes": 0,
+    "published_at": "2022-05-10T18:18:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxSHxD4fGPuLU97cEt4AaABAg",
+    "author": "@dannysmith8035",
+    "author_channel_id": "UCW1U_mu27TDOAF87Tf8ypoQ",
+    "text": "this should be the first explaination of mathematics that anyone gets at school",
+    "likes": 0,
+    "published_at": "2022-05-08T20:20:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzcC8WlRzg4nsNZ2994AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍🙏",
+    "likes": 0,
+    "published_at": "2022-05-08T20:14:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-mJAHxWvdvtq5asB4AaABAg",
+    "author": "@nicksgarage8295",
+    "author_channel_id": "UCOAM2egRefNYKcaTS7IjiWg",
+    "text": "nice. my physics 2 class taught us this so it all is clear cut, ofc u did a better job than the skool teacher but ye.",
+    "likes": 0,
+    "published_at": "2022-05-08T20:02:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhgULdBEyi35J6uo54AaABAg",
+    "author": "@theramblingsofamadman7009",
+    "author_channel_id": "UCpLy-2y9qTps6bRXheBrZFQ",
+    "text": "This takes me back to college.",
+    "likes": 0,
+    "published_at": "2022-05-08T15:46:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx4utVjyzbG-MAbcml4AaABAg",
+    "author": "@colleenforrest7936",
+    "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+    "text": "Striving for the \"highest value possible\" has probably gotten us into the problems we have today of needing rare/toxic elements only found in certain locations around the globe.\n\nGoing along with things you've been saying on your channel, maybe we should be focusing on \"lowest value necessary\" that meets our requirements (the big ones being available space, cost of materials, and the interface requirements).  Then, instead of having one super solution to the energy storage problem, we could have a plethora of solutions.\n\nThe problem then moves from finding \"The Best\" energy storage materials to dinging the most accommodating interface that allows you to connect power generation to power usage.  Kind of like the way a AA alkaline battery and an AA lithium battery can fit into the same holder in a flashlight and be able to power the flashlight without any (or very little) modifications.  Then you could take any power storage or production device, and as long as it could connect to the--let's call it the \"in\" side of the interface, it could power any device that hooks up to the \"out\" side.",
+    "likes": 0,
+    "published_at": "2022-05-08T11:39:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx4utVjyzbG-MAbcml4AaABAg.9alR2OHPFS99alTFcNQKVq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh I agree 100% with what you are saying here - thanks for posting",
+        "likes": 0,
+        "published_at": "2022-05-08T11:58:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwXoiifcOUiXqHYQNl4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Great video.  Hope that you get to talk some time about the series vs parallel features of capacitors and coils.",
+    "likes": 0,
+    "published_at": "2022-05-08T05:35:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwXoiifcOUiXqHYQNl4AaABAg.9akmNZW4ft79alTJVBZXsx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I will add it to the list mate",
+        "likes": 0,
+        "published_at": "2022-05-08T11:59:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxg2fbUQYbIVsrT-ip4AaABAg",
+    "author": "@drscott1",
+    "author_channel_id": "UCqcTMSY1qNqATcXGl-8wGag",
+    "text": "👍🏼",
+    "likes": 0,
+    "published_at": "2022-05-07T23:53:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxg2fbUQYbIVsrT-ip4AaABAg.9akAGAL6wQG9alRPgUCWcH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-05-08T11:42:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5a-_fnMzOnGTZQNV4AaABAg",
+    "author": "@matsveritas2055",
+    "author_channel_id": "UCTH-Wgstafizu4w0YzaHMnA",
+    "text": "Earned a like, for sure!\n\nSo the capacitance is... nanoscale? Atomic crystal lattice dependent? Smaller?\nIs charge in its simplest constituent ‘the plank scale’?",
+    "likes": 0,
+    "published_at": "2022-05-07T23:41:57Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugx5a-_fnMzOnGTZQNV4AaABAg.9ak8x7qA7sI9alRVMJLMdN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - at that level the capacitance Is formed by the double layering of ions",
+        "likes": 1,
+        "published_at": "2022-05-08T11:43:17Z"
+      },
+      {
+        "id": "Ugx5a-_fnMzOnGTZQNV4AaABAg.9ak8x7qA7sI9arvvXI-dJX",
+        "author": "@matsveritas2055",
+        "author_channel_id": "UCTH-Wgstafizu4w0YzaHMnA",
+        "text": "@ThinkingandTinkering Yeah, but \"ions\" is a collective term for \"charged particles\", but we've got charged sub-atomic particles...\nHow small does charge run, I guess is my question. At what scale can we best store the potential?",
+        "likes": 0,
+        "published_at": "2022-05-11T00:13:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyWh92vBtNmxeZLzz94AaABAg",
+    "author": "@daveojanen1721",
+    "author_channel_id": "UCbnoRPwfCnb7SnYBVJy1Tiw",
+    "text": "Always figured if I could do the math I could understand, but, never made the language connection.  Thank you for illuminating my mathematical love.",
+    "likes": 0,
+    "published_at": "2022-05-07T23:14:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyWh92vBtNmxeZLzz94AaABAg.9ak5mGcLdfz9alRXk2Viyg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate",
+        "likes": 0,
+        "published_at": "2022-05-08T11:43:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwvggjc5xy6UFnkLMl4AaABAg",
+    "author": "@peterclark6290",
+    "author_channel_id": "UCchb4mCCy4YQf8ozmpisG-g",
+    "text": "Mrs. Beeton is gobsmacked. \"First kill your ox\" is no longer the cutting edge she was talking about.",
+    "likes": 0,
+    "published_at": "2022-05-07T23:06:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhwgcRBCMTGG_IBo14AaABAg",
+    "author": "@orpheuscreativeco9236",
+    "author_channel_id": "UCkeMoNnpg96EEgb_Igl_n6g",
+    "text": "I really appreciate the time taken to break this down into digestible bites. Thanks so much Robert!",
+    "likes": 3,
+    "published_at": "2022-05-07T21:26:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxhwgcRBCMTGG_IBo14AaABAg.9ajuVFnhN3i9alRYvPwj9W",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 0,
+        "published_at": "2022-05-08T11:43:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwV42b98pqF4riaVkN4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Really useful, thanks for this 👏",
+    "likes": 1,
+    "published_at": "2022-05-07T20:51:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwV42b98pqF4riaVkN4AaABAg.9ajqUhmf7yM9alRZf7lZTp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad to hear that!",
+        "likes": 1,
+        "published_at": "2022-05-08T11:43:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz8A09EVvU6b1k7EKJ4AaABAg",
+    "author": "@garywillis5790",
+    "author_channel_id": "UCsOtnDTinrVNcJQIfaWn5EQ",
+    "text": "Great thanks Rob. 👍👍",
+    "likes": 0,
+    "published_at": "2022-05-07T20:08:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz8A09EVvU6b1k7EKJ4AaABAg.9ajlXk0ft9S9alRcrp6Tc_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-05-08T11:44:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzYUt_O5uE5RJYn-8d4AaABAg",
+    "author": "@israelgiron9089",
+    "author_channel_id": "UCWzzPl-oy2U_dD2RbB0sezw",
+    "text": "YES! Thank you",
+    "likes": 0,
+    "published_at": "2022-05-07T20:03:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzYUt_O5uE5RJYn-8d4AaABAg.9ajkzNI1rEK9alRdCZybZB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You're so welcome!",
+        "likes": 1,
+        "published_at": "2022-05-08T11:44:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxSobR0deytC0ABOxV4AaABAg",
+    "author": "@Nico-vh1qp",
+    "author_channel_id": "UCTH5h5C-70vv4KeCi_OTPYQ",
+    "text": "You are absolutely brilliant. Never has anyone really explained math as a language as you have....genius. It makes so much more sense it just never occurred to apply it as such. Well done thanks",
+    "likes": 5,
+    "published_at": "2022-05-07T19:28:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxSobR0deytC0ABOxV4AaABAg.9ajgwrV2RSO9alRetI7KJE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thank you!",
+        "likes": 1,
+        "published_at": "2022-05-08T11:44:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxghBxbYUs-n2OtVCJ4AaABAg",
+    "author": "@DeeP_BosE",
+    "author_channel_id": "UCGvawLW_4hO0WYsuNfuuf0w",
+    "text": "Have been using 3000F * 6, 2.8V supercaps in series for my car for the last couple of years. These are just amazing devices. However i find one of the cells(of the 6) leaking a white electrolyte that solidifies and crystalizes in air. This cell also has a very high self discharge rate, which is making me lose balanced condition( i dont use a balancing circuit cz the other 5 have equal capacitance n discharge rate). There is an electrolyte filler screw , i was wondering what i can use, to fill  it up with to temporarily reduce the self discharge. Im guessing oil based electrolyte.",
+    "likes": 0,
+    "published_at": "2022-05-07T19:13:19Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxghBxbYUs-n2OtVCJ4AaABAg.9ajfCWV6XJq9alTQJ6nR3q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "chances not mate - usually supercpapacitors have an acetonitrile solvent",
+        "likes": 1,
+        "published_at": "2022-05-08T12:00:04Z"
+      },
+      {
+        "id": "UgxghBxbYUs-n2OtVCJ4AaABAg.9ajfCWV6XJq9auDXetdBmh",
+        "author": "@DeeP_BosE",
+        "author_channel_id": "UCGvawLW_4hO0WYsuNfuuf0w",
+        "text": "@ThinkingandTinkering thank you for looking into it.",
+        "likes": 0,
+        "published_at": "2022-05-11T21:34:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBsftkxIhXzaSmTUN4AaABAg",
+    "author": "@Dionysios_Skoularikis",
+    "author_channel_id": "UCJPVVPsx5wqU2xe982j3JQQ",
+    "text": "Φίλε μου, σε βλέπω, είσαι έτοιμος να έρθεις να μείνεις στην Ελλάδα.....χαχαχαχα!!!!!!!!!",
+    "likes": 0,
+    "published_at": "2022-05-07T18:29:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzBsftkxIhXzaSmTUN4AaABAg.9aja8TMF3Xo9alTX7NJnzj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I love Greece!",
+        "likes": 0,
+        "published_at": "2022-05-08T12:01:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwhzkDNaUD-S77z4hx4AaABAg",
+    "author": "@justthinkalittle8913",
+    "author_channel_id": "UCm6xvsgmKJvQgQ057MB_g6w",
+    "text": "Hello, I remember you doing a step down system for high voltage capacitors \"fractal something\" anyway you showed how diodes could be used to lower the voltage from really high to lower usable voltage. \nSo question, when I lower the voltage using that system does the extra voltage come out as usable current or not?   example 100v x 1amp using the (fractal set up)  lower voltage to 10v would make the system produce 10amp? like Ohms law",
+    "likes": 0,
+    "published_at": "2022-05-07T17:57:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwhzkDNaUD-S77z4hx4AaABAg.9ajXXzRY2Pf9alT_HiSXE-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "well it's really power W=VI minus losses - but basically yes it would follow that",
+        "likes": 0,
+        "published_at": "2022-05-08T12:01:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxwGjEqlBzLwQgbw3B4AaABAg",
+    "author": "@paulbrouyere1735",
+    "author_channel_id": "UC2RHRmXjXRy-OHelyDQO1sg",
+    "text": "Great explanation as always, very down to earth focusing on what is important. I remember struggling in my 20’s when I tried to figure things out, because often it was poorly explained. Thanks for another nice video.",
+    "likes": 3,
+    "published_at": "2022-05-07T17:23:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxwGjEqlBzLwQgbw3B4AaABAg.9ajTbc9spum9alTh4u3p7M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks mate",
+        "likes": 1,
+        "published_at": "2022-05-08T12:02:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0fT8UDwkwvi3INRh4AaABAg",
+    "author": "@AlexB-nw7jt",
+    "author_channel_id": "UCWRxmNVe18VdRx5I9e2k39Q",
+    "text": "I wish you had a school that I could be a part of. Or some sort of creation lab or something. I feel like the people that watch your videos could change the world.",
+    "likes": 0,
+    "published_at": "2022-05-07T16:57:33Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy0fT8UDwkwvi3INRh4AaABAg.9ajQfCDDFVM9alTkuOe4wb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are some really awesome guys here that's for sure",
+        "likes": 0,
+        "published_at": "2022-05-08T12:03:01Z"
+      },
+      {
+        "id": "Ugy0fT8UDwkwvi3INRh4AaABAg.9ajQfCDDFVM9apNonxINhl",
+        "author": "@AlexB-nw7jt",
+        "author_channel_id": "UCWRxmNVe18VdRx5I9e2k39Q",
+        "text": "@ThinkingandTinkering any recommendations on courses I can take? Low cost courses? I plan to watch every single one of your videos, they are all fascinating to me, all on topics I'm interested in",
+        "likes": 0,
+        "published_at": "2022-05-10T00:28:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCz3NVbH8HbMdRSpF4AaABAg",
+    "author": "@paulwright5440",
+    "author_channel_id": "UCPiCpItn_2zar7niBmf24LQ",
+    "text": "Why do capacitors loose their energy quicker than batteries when there similar in construction",
+    "likes": 0,
+    "published_at": "2022-05-07T16:55:38Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzCz3NVbH8HbMdRSpF4AaABAg.9ajQS6AWXuA9ajWD_A7dYX",
+        "author": "@spamhead",
+        "author_channel_id": "UCjqHB8WnTIgCA_q-hXtgMRw",
+        "text": "I suppose it is because a battery will hold a fairly constant voltage, and therefore power output until it is nearly flat. A capacitor’s voltage starts dropping the second it starts to discharge, and the power available drops proportional the voltage at any given current. If there is a fixed resistive load, the power will drop proportional to the square of the voltage. Presumably, Formula 1 KERS devices have some very fancy electronics to mitigate these problems!",
+        "likes": 0,
+        "published_at": "2022-05-07T17:46:04Z"
+      },
+      {
+        "id": "UgzCz3NVbH8HbMdRSpF4AaABAg.9ajQS6AWXuA9alTx3BiNoG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they don't lose their energy quicker mate - they just don't store a lot",
+        "likes": 0,
+        "published_at": "2022-05-08T12:04:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwsaqpr51Lb9hyeETJ4AaABAg",
+    "author": "@edwardhughes352",
+    "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+    "text": "Amazing. you made that understandable.",
+    "likes": 0,
+    "published_at": "2022-05-07T16:49:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwsaqpr51Lb9hyeETJ4AaABAg.9ajPmQ9Z0e49alTz4jeG2x",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - that is great mate - cheers",
+        "likes": 0,
+        "published_at": "2022-05-08T12:04:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_zk_0GnOvGhJHbvx4AaABAg",
+    "author": "@celldanumba1",
+    "author_channel_id": "UCrAhdydXTFvs1Pb5pLFE4BA",
+    "text": "What could be the whole of that 2 way series ?",
+    "likes": 0,
+    "published_at": "2022-05-07T16:42:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_zk_0GnOvGhJHbvx4AaABAg.9ajOvbhJ1H89alU9iDNSJ6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "?",
+        "likes": 0,
+        "published_at": "2022-05-08T12:06:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzzntU6SQRF3sHdjpB4AaABAg",
+    "author": "@celldanumba1",
+    "author_channel_id": "UCrAhdydXTFvs1Pb5pLFE4BA",
+    "text": "Piles of \"two way\" series ? In objectivity",
+    "likes": 0,
+    "published_at": "2022-05-07T16:40:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzzntU6SQRF3sHdjpB4AaABAg.9ajOk5UN3U-9alU9EQZikn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "?",
+        "likes": 0,
+        "published_at": "2022-05-08T12:06:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyH0otGupRkTFJ3bp4AaABAg",
+    "author": "@celldanumba1",
+    "author_channel_id": "UCrAhdydXTFvs1Pb5pLFE4BA",
+    "text": "Could it be be very the  Exponentials as observed to what be current frontier  as beinh observed as \"medium\" deemed paraphysical  of  those very octaves latent even onto matter ?",
+    "likes": 0,
+    "published_at": "2022-05-07T16:36:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyH0otGupRkTFJ3bp4AaABAg.9ajOFm1fb8r9alU8SgFYFF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am most sorry mate - that doesn't mean anything to me - can you be a bit more full in your post to help me understand what you are saying? - could you do it a bit more like the video - what are you relying on what is your model and what is your objective?",
+        "likes": 0,
+        "published_at": "2022-05-08T12:06:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9LRoOMW0T15YK1O94AaABAg",
+    "author": "@celldanumba1",
+    "author_channel_id": "UCrAhdydXTFvs1Pb5pLFE4BA",
+    "text": "Basis of a mirror",
+    "likes": 0,
+    "published_at": "2022-05-07T16:33:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy9LRoOMW0T15YK1O94AaABAg.9ajNxKtyhAw9alU1Ribl5r",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "?",
+        "likes": 0,
+        "published_at": "2022-05-08T12:05:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyaOxH-bZhTRjcxGix4AaABAg",
+    "author": "@davidabineri908",
+    "author_channel_id": "UCedGC0zD51iNp9sVdruf53w",
+    "text": "Saying, for example, that capacitance goes up when permittivity goes up is NOT even an intuitive derivation. Please don't believe that there was much of any kind of derivation here.  In earlier videos, this person gets very excited about being able generate a voltage but has not shown it being used for anything. Creating an open circuit voltage is one thing, using it to drive a load (light bulb for example) is a very different proposition.  This seems all to be phony stuff, be careful what you believe.",
+    "likes": 0,
+    "published_at": "2022-05-07T16:33:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyaOxH-bZhTRjcxGix4AaABAg.9ajNsHZQixM9alUZeBh_M3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you don't have to believe it - it is something you can test for yourself - stick some different materials between two bits of kitchen foil and charge it and see how long it lights a light - I get a sense you have never even tried that - or am I wrong there?",
+        "likes": 0,
+        "published_at": "2022-05-08T12:10:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZ7vz8uvAhtw2V_X54AaABAg",
+    "author": "@kristianolsen4555",
+    "author_channel_id": "UCh_oX7gNuyVwvxH8pYJoP4w",
+    "text": "👍👍👍. But y are you not e teacher? I wish you wear my teacher when I was a kid 👍",
+    "likes": 0,
+    "published_at": "2022-05-07T16:03:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZ7vz8uvAhtw2V_X54AaABAg.9ajKT3E652-9alUkqXRHmp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2022-05-08T12:11:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyzq9DAZ7XBkuWD9TN4AaABAg",
+    "author": "@keithianlocke",
+    "author_channel_id": "UCO8PE2d_-XI7N-W934cq6GA",
+    "text": "It amazes me that a capacitor construction resembles a magnet, and its magnetic field.  A positive side, a negative side, and a plane of inertia which seperates the two. \nWe should view the world as such. The ether being the positive, below ground the negative, and the earth surface the plane of inertia.",
+    "likes": 0,
+    "published_at": "2022-05-07T15:50:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyzq9DAZ7XBkuWD9TN4AaABAg.9ajJ0ueh6sp9alUnMYyfUV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they are related for sure",
+        "likes": 0,
+        "published_at": "2022-05-08T12:12:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyAwrzzJcSSO_zrHj14AaABAg",
+    "author": "@leesorenson6119",
+    "author_channel_id": "UCovkkzSh7cVukgXCwajYCVg",
+    "text": "You have become my best opportunity to learn math. Thank you 😊 till I get there italknotgood",
+    "likes": 0,
+    "published_at": "2022-05-07T15:49:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyAwrzzJcSSO_zrHj14AaABAg.9ajItYz32sI9alUrR78Zs5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - talk not good is good - talk is always good",
+        "likes": 0,
+        "published_at": "2022-05-08T12:12:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxq9CCLqXPgU0iD97p4AaABAg",
+    "author": "@leesorenson6119",
+    "author_channel_id": "UCovkkzSh7cVukgXCwajYCVg",
+    "text": "Cheers mate 👍 👌",
+    "likes": 0,
+    "published_at": "2022-05-07T15:35:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxq9CCLqXPgU0iD97p4AaABAg.9ajHFeKt1-D9alUtpDkxOa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate",
+        "likes": 0,
+        "published_at": "2022-05-08T12:12:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxsXn4Os0cuAokk2tZ4AaABAg",
+    "author": "@blueredbrick",
+    "author_channel_id": "UCt5TFo_Sxt02rAvrq8ol1ZA",
+    "text": "Great way to educate us and reintroduce supercapacitors and maybe even graphene (?) 😁",
+    "likes": 1,
+    "published_at": "2022-05-07T15:34:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxsXn4Os0cuAokk2tZ4AaABAg.9ajHCKg5IMK9alUuc0afS5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure",
+        "likes": 0,
+        "published_at": "2022-05-08T12:13:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSLQw7Ey-S8VLqQx94AaABAg",
+    "author": "@nicnose7155",
+    "author_channel_id": "UCRHV0QBEbonz_QNsEI_w5Sw",
+    "text": "So simply put! Thank you!",
+    "likes": 0,
+    "published_at": "2022-05-07T15:06:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwSLQw7Ey-S8VLqQx94AaABAg.9ajDzhe0t9D9alUwiKUi03",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 0,
+        "published_at": "2022-05-08T12:13:22Z"
+      }
+    ]
+  }
+]

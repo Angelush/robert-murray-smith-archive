@@ -1,0 +1,66 @@
+{
+  "thing_id": 6736069,
+  "name": "Pulse Motor",
+  "description": "You can find the video here - https://youtu.be/cjnyw5GRoV4\r\n\r\nto finish this you will need a needle, 2 x skate bearings (608), a small piece of steel like a trimming knife blade and 32 x neodymium magnets 5mm by 1mm by 10mm",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "cjnyw5GRoV4",
+      "url": "https://youtu.be/cjnyw5GRoV4"
+    }
+  ],
+  "tags": [
+    "engine",
+    "flywheel",
+    "hit and miss",
+    "Pulse"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-08-19T12:17:52+00:00",
+  "modified": "2024-08-19T12:17:52+00:00",
+  "url": "https://www.thingiverse.com/thing:6736069",
+  "thumbnail": "https://cdn.thingiverse.com/assets/4a/fb/a2/f0/db/large_display_2c71a9c4-6e4d-48c7-9ed6-2b0e2f38056a.png",
+  "like_count": 255,
+  "collect_count": 106,
+  "comment_count": 3,
+  "download_count": 321,
+  "files": [
+    {
+      "name": "Base.stl",
+      "size": 1884,
+      "url": "https://www.thingiverse.com/download:14677052",
+      "download_url": "https://api.thingiverse.com/v2/files/14677052/download"
+    },
+    {
+      "name": "Axle.stl",
+      "size": 25084,
+      "url": "https://www.thingiverse.com/download:14677053",
+      "download_url": "https://api.thingiverse.com/v2/files/14677053/download"
+    },
+    {
+      "name": "Cradle.stl",
+      "size": 105784,
+      "url": "https://www.thingiverse.com/download:14677054",
+      "download_url": "https://api.thingiverse.com/v2/files/14677054/download"
+    },
+    {
+      "name": "Flywheel_Hub.stl",
+      "size": 45184,
+      "url": "https://www.thingiverse.com/download:14677055",
+      "download_url": "https://api.thingiverse.com/v2/files/14677055/download"
+    },
+    {
+      "name": "Flywheel_Magnet_Carrier.stl",
+      "size": 83384,
+      "url": "https://www.thingiverse.com/download:14677056",
+      "download_url": "https://api.thingiverse.com/v2/files/14677056/download"
+    },
+    {
+      "name": "Flywheel_Ring.stl",
+      "size": 68284,
+      "url": "https://www.thingiverse.com/download:14677057",
+      "download_url": "https://api.thingiverse.com/v2/files/14677057/download"
+    }
+  ]
+}

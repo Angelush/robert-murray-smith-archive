@@ -1,0 +1,2645 @@
+[
+  {
+    "id": "Ugz0LjenaQpLTxr1JaR4AaABAg",
+    "author": "@TAGUPNBLUE",
+    "author_channel_id": "UClokTTfcNzkPhbUrgyupgqg",
+    "text": "I did one supercap you need 96 cells series and parallel the series one is a block of four can you take those blocks of four and put them in parallel it'll equal 64 volts at 1,000 UF can they charge up half the time can you treat them like lead acid batteries for charging if the voltage is zero it's treated at almost like a dead short",
+    "likes": 0,
+    "published_at": "2026-02-14T02:29:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx_1P_UiUHWyuzbtch4AaABAg",
+    "author": "@DenBloomBattery",
+    "author_channel_id": "UCu9M-60XqQYBUNfnkdjHXQg",
+    "text": "Help required sir. Kindly let me know what is the full charge voltage of this capacitor?",
+    "likes": 0,
+    "published_at": "2025-08-28T07:53:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwXfGsXk6RcdO0KkG14AaABAg",
+    "author": "@truenorthsolarconsulting8888",
+    "author_channel_id": "UCVP2klyTsB62CPuOzmDxe-g",
+    "text": "Your individual cap voltage assertion that 2.4Vpc isn't correct assumes that the nominal rating of the battery (48VDC) is the top or \"full\" rating.   A standard LiFePO4 cell is 3.2Vpc nominal.   16X that rating yields 51.2VDC.   A full cell will measure at 3.4Vpc or 54.4VDC.   Those are still both 48VDC nominal batteries.   2.7VDC x 20 is 54VDC - a 48V battery nonetheless.",
+    "likes": 0,
+    "published_at": "2025-01-23T23:37:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJKxMwqcUOKxQMc-B4AaABAg",
+    "author": "@samuelbailey1888",
+    "author_channel_id": "UCTuCVXvj8tqYA6YDoM5Tyuw",
+    "text": "Ask the 2 Ronnies on the Racing pidgeon sketch, it's a Duck!",
+    "likes": 0,
+    "published_at": "2024-11-12T04:37:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-5bNeZcK_Bx4uP0x4AaABAg",
+    "author": "@jimmurphy5355",
+    "author_channel_id": "UCmmfyXipKaMubQ0k5Ry5zjA",
+    "text": "Did you ever do any additional testing to establish with even greater certainty that the cells in the product are LTO cells, and not supercapacitors?",
+    "likes": 0,
+    "published_at": "2024-10-26T22:27:43Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy-5bNeZcK_Bx4uP0x4AaABAg.AA4AGQxRrirAD0sUF9rSVX",
+        "author": "@johnmatthew-dx4cc",
+        "author_channel_id": "UCZrfTfq81zCeWlBgxghOVfw",
+        "text": "Yes 100 💯 percent proof that is not supercaps at all",
+        "likes": 0,
+        "published_at": "2025-01-08T05:20:02Z"
+      },
+      {
+        "id": "Ugy-5bNeZcK_Bx4uP0x4AaABAg.AA4AGQxRrirAFucIjbWi0P",
+        "author": "@BobFiske",
+        "author_channel_id": "UC1USUHnmSmqXXCu5_7zHDJA",
+        "text": "@johnmatthew-dx4cc Is that a super-ultra-pinky swear?   Writing '100%' twice isn't really getting you closer to peer review, eh?",
+        "likes": 0,
+        "published_at": "2025-03-20T23:18:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwBWWcGs0fTM09G_614AaABAg",
+    "author": "@griffingene1",
+    "author_channel_id": "UCU012ijoOMcckt24sSvyxAg",
+    "text": "Please make a follow up video to this one with your investigation into the nature of these supposed supercaps! Great video!",
+    "likes": 0,
+    "published_at": "2024-09-13T06:09:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPHqydsWoU99Hq59V4AaABAg",
+    "author": "@anthonyswart5748",
+    "author_channel_id": "UCJAs3MNwfxRQVH14B22_FbA",
+    "text": "So what's the point of this video if you can't  proove what you are saying ?",
+    "likes": 0,
+    "published_at": "2024-09-08T12:10:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-xgQ04c0Ln1Y3AT94AaABAg",
+    "author": "@akbarshoed",
+    "author_channel_id": "UCSNQymK8t0b760-2vSD7Tnw",
+    "text": "Thank you for this!  Isn't the scandal that a super capacitor is so expensive? I mean,  what's the material inside that justifies that premium?  I've got some YouTube videos to watch.",
+    "likes": 0,
+    "published_at": "2024-03-04T10:19:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwwhHi468VRc8Z04sd4AaABAg",
+    "author": "@conradroedern2514",
+    "author_channel_id": "UCBnJ5aO-sNMVQC8EwBBgkyw",
+    "text": "The absence of any bi-directional power electronics which would be required to convert a storage capacitor bank into a voltage source (like a LTO battery)  made me immediately suspicious!",
+    "likes": 1,
+    "published_at": "2024-02-06T14:06:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynrcE2TIqfyJuhZRR4AaABAg",
+    "author": "@andywichers1700",
+    "author_channel_id": "UCez7D64YArfIJNp8n1Au8Sw",
+    "text": "Hi, Did you cut open a cell to verify what it is? I am currently in a legal dispute over a number of Kilowatt lab modules. It would be a great help if misleading marketing claims were verified",
+    "likes": 2,
+    "published_at": "2024-01-11T20:47:32Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgynrcE2TIqfyJuhZRR4AaABAg.9zRq3rphs0WA1N_ljC_fCc",
+        "author": "@johnmatthew-dx4cc",
+        "author_channel_id": "UCZrfTfq81zCeWlBgxghOVfw",
+        "text": "Hi , it's purely LTO 18650, I have 💯 evidence of it",
+        "likes": 1,
+        "published_at": "2024-03-24T18:42:20Z"
+      },
+      {
+        "id": "UgynrcE2TIqfyJuhZRR4AaABAg.9zRq3rphs0WAD0eZeUXEEA",
+        "author": "@andywichers1700",
+        "author_channel_id": "UCez7D64YArfIJNp8n1Au8Sw",
+        "text": "@johnmatthew-dx4cc Hi again. What form is the proof in? It seems Kilowatt labs has morphed and infusion technologies is now manufacturing under the brand Enercap. Do you know anything about that? Cheers",
+        "likes": 1,
+        "published_at": "2025-01-08T03:18:26Z"
+      },
+      {
+        "id": "UgynrcE2TIqfyJuhZRR4AaABAg.9zRq3rphs0WAD0kUYsAnl5",
+        "author": "@johnmatthew-dx4cc",
+        "author_channel_id": "UCZrfTfq81zCeWlBgxghOVfw",
+        "text": "​@andywichers1700, yes I can surely proove 💯",
+        "likes": 0,
+        "published_at": "2025-01-08T04:10:10Z"
+      },
+      {
+        "id": "UgynrcE2TIqfyJuhZRR4AaABAg.9zRq3rphs0WAD0l3C9h2bD",
+        "author": "@johnmatthew-dx4cc",
+        "author_channel_id": "UCZrfTfq81zCeWlBgxghOVfw",
+        "text": "Yes 💯 proof",
+        "likes": 0,
+        "published_at": "2025-01-08T04:15:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwbf_9MqrLeQN9sShV4AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "false advertisement. might be a lawsuit.",
+    "likes": 0,
+    "published_at": "2023-09-15T08:42:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwpMcdb28YDIKU8QOd4AaABAg",
+    "author": "@LawrenceMarks27",
+    "author_channel_id": "UCQubIcDN1H6IT3HasL50B3g",
+    "text": "@RobertMurraySmith Apologies if you don't come back this far (then again you'll probably never see it) on older video's, but I was curious - since lithium batteries become worthless when completely discharged, could you \"fake\" the batteries available capacity so it only charges or discharges within the safe ranges of (I think) 15% to 85%?  Showing empty at 15% and stops discharging, and full at 85% to stop charging?  Is this how they keep phone batteries from becoming worthless when completely discharged?",
+    "likes": 0,
+    "published_at": "2023-09-09T18:49:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQIQWGw2ZuHesWYuZ4AaABAg",
+    "author": "@sergiosebastiani6045",
+    "author_channel_id": "UC16NZIYsTo-BLkxNpUkSMcg",
+    "text": "Data-sheet indicates one million cycles... thats probably not true",
+    "likes": 0,
+    "published_at": "2023-09-05T15:24:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwsT-66M6grgItcb8x4AaABAg",
+    "author": "@JawadAhmadsahibzada",
+    "author_channel_id": "UCY9VgZ-9t6F3IQdJR3OhZqA",
+    "text": "is there any information about the actual manufacturer of these cells ? or availability of datasheet of the cell ? i mean IR when new., per cell capacity, c ratings etc, if kilowatt labs can lie about chemistry , they can give fake specs as well.",
+    "likes": 1,
+    "published_at": "2023-08-31T10:45:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwp252AskhHGhF00sV4AaABAg",
+    "author": "@grantofat6438",
+    "author_channel_id": "UCaODonjXySjNb7iQ7xfhzfQ",
+    "text": "So a company is lying to their customers. Why am I not surprised?",
+    "likes": 0,
+    "published_at": "2023-08-01T21:06:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTjreSINChnNM8a3d4AaABAg",
+    "author": "@kidlightning2745",
+    "author_channel_id": "UCvFptJtVF2TpYdcChUBwxgg",
+    "text": "why don't you take one battery out and prove it",
+    "likes": 0,
+    "published_at": "2023-03-15T03:51:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxxJLKe4nToPtSCG294AaABAg",
+    "author": "@kennethbarli4469",
+    "author_channel_id": "UCqInjeJHMbkAeOyrCf93iiw",
+    "text": "Hope you didn't throw the battery away.\nUnlike other lithium batteries, lithium titanate batteries can be completely discharged.\nIt is not recommended, but can be done.\nThe battery can be recharged, but not with high amperage, until you reach usable volts.",
+    "likes": 1,
+    "published_at": "2023-02-24T19:19:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-GMSULu5WlHlsYPB4AaABAg",
+    "author": "@droomahbroo9291",
+    "author_channel_id": "UCD76Mvw_Cn3i92bvPkh2I-Q",
+    "text": "I'm sure KiloWatt Labs would be ecstatic to know that this is the top result when you search \"kilowatt labs supercapacitor\" 😂😂",
+    "likes": 2,
+    "published_at": "2023-02-02T11:26:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzzX_FhKRxDVRzRLbd4AaABAg",
+    "author": "@puffinjuice",
+    "author_channel_id": "UCG-frWYwdWGXMD4_XySLq5Q",
+    "text": "Dump the cells on their doorstep!",
+    "likes": 0,
+    "published_at": "2023-02-02T09:22:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyf0nOO_qDU76A0KoB4AaABAg",
+    "author": "@marcelolima-adv",
+    "author_channel_id": "UCkR-uuYUQuhA1N7Ah33qysQ",
+    "text": "What's the capacitance and voltage of each capacitor used in this module? Thank you so much.",
+    "likes": 0,
+    "published_at": "2023-01-28T11:34:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyptYntKsnr8n1i8TV4AaABAg",
+    "author": "@creightonjoebrown",
+    "author_channel_id": "UCQg5BOgxQD7-56v-Lv5w2dQ",
+    "text": "They are called Hybrid supercapacitors...they are a combination between a lithium battery and a super capacitor.  Search it on Youtube",
+    "likes": 0,
+    "published_at": "2023-01-26T20:04:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugykomnr2TQpvU46R2R4AaABAg",
+    "author": "@vforvreak8895",
+    "author_channel_id": "UC-3qPbFHQ4kaxKXWG5zlFzA",
+    "text": "Thank you for this video! I work in product development for energy storage manufactureres and we have to constantly battle these claims from too-good-to-be-true technologies",
+    "likes": 0,
+    "published_at": "2023-01-04T15:49:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugykomnr2TQpvU46R2R4AaABAg.9kTRGDtpXmz9kTVSouw94w",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it drives me mad mate - cheers",
+        "likes": 0,
+        "published_at": "2023-01-04T16:26:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwfy7ikB2o9P76DkPN4AaABAg",
+    "author": "@handyhippie6548",
+    "author_channel_id": "UCGgfOQASU_QMISrJkhNatlQ",
+    "text": "yeah, that price point for a cap unit that size is incredible. for a lithium battery pack, not so much. can't wait to see what you do with this. i'm in the design phase of building a power bank unit for a small teardrop camper and trying to decide on super caps, lithium batteries, or a hybrid of the two. i will supply power from solar panels, a small wind turbine, a water turbine similar to your screw design, the tow vehicle and the power mains, for flexibility and redundancy. any advice?",
+    "likes": 2,
+    "published_at": "2022-12-10T23:54:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwfy7ikB2o9P76DkPN4AaABAg.9jTvv5x250zAA4AlxlMHo9",
+        "author": "@jimmurphy5355",
+        "author_channel_id": "UCmmfyXipKaMubQ0k5Ry5zjA",
+        "text": "It's been a year since you asked, but just in case you are still planning and not yet building, the mainstream solution is to use lithium iron phosphate batteries. You may also see them described or labeled as LiFePO4 or simply LFP. All names for exactly the same battery type.",
+        "likes": 0,
+        "published_at": "2024-10-26T22:32:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbjajWQWQhjA0GSd54AaABAg",
+    "author": "@eeezygoing",
+    "author_channel_id": "UCQ3epvHNfOL5LwU2oft0rug",
+    "text": "Oh my ! These people operate in Australia, my own country. 😕",
+    "likes": 2,
+    "published_at": "2022-10-27T09:06:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzS8VajneypDOCCFBx4AaABAg",
+    "author": "@eeezygoing",
+    "author_channel_id": "UCQ3epvHNfOL5LwU2oft0rug",
+    "text": "Thank you Robert. If there was a way, to get the details of the customers of Sirius who have bought these from them, the people that bought them, should be gathered together to bring a class action against the company for false advertising and basically ripping them off.  Its about time such liars are not just exposed, but actually punished for their actions of  labeling  their product wrongly, fully knowing that people will be attracted to purchase the systems because capacitors are so long lived and maintenance free  !!!!",
+    "likes": 0,
+    "published_at": "2022-10-27T08:51:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw3qa4vSrTYdvHEd3R4AaABAg",
+    "author": "@colfaxschuyler3675",
+    "author_channel_id": "UCPal6ZRqnS8vN6cCEwAxltA",
+    "text": "Not so much a tear down as an Open Up.\n:-D",
+    "likes": 0,
+    "published_at": "2022-10-24T19:21:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwxsZ0rPs9frl9ia3J4AaABAg",
+    "author": "@Atimar01",
+    "author_channel_id": "UCSsyzoDsSbzmv05859V3N4w",
+    "text": "i remember a few brands of audio anplifiers stating \"mosfet power amplifier\" and yes, somewhere in there actually was a mosfet in either the pre-amp or in the current source... all the rest was normal transistors.\nbut since there was \"a\" mosfet in there, they could call it mosfet power amplifier.\nis there a supercap anywhere in that sirius thing? ;)",
+    "likes": 0,
+    "published_at": "2022-10-22T22:10:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPjc3QXWqreEbUPP14AaABAg",
+    "author": "@woodyahh2110",
+    "author_channel_id": "UCXYeKXgNrprkS3Qxno-Nb7Q",
+    "text": "Looks like someone is being naughty",
+    "likes": 0,
+    "published_at": "2022-10-12T02:13:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzTpnZz4LRxk70bMoF4AaABAg",
+    "author": "@Godofrageyt",
+    "author_channel_id": "UCyr6ntVqNr0y2DA-KfFnbpg",
+    "text": "Any update on the batteries conditions? Got any working? Whats the progress on this",
+    "likes": 0,
+    "published_at": "2022-10-08T11:11:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz8ttCnSNqE0iHYBed4AaABAg",
+    "author": "@ewenhughes-army5308",
+    "author_channel_id": "UC0XzXIEE3IHdIeKMsDuMA-A",
+    "text": "Just FYI, these modules are airfreighted all over the world and the MSDS states that they are what they say there are on the box. Surely KiloWatt Labs would not risk airfreighting these modules if they were LTO and claiming they are supercaps. I think you need to substantiate your claims further before potentially spreading any misinformation about the product.",
+    "likes": 6,
+    "published_at": "2022-10-06T23:48:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz8ttCnSNqE0iHYBed4AaABAg.9grYUL1fgvWAMQgD3p_qlg",
+        "author": "@charlheynike9619",
+        "author_channel_id": "UCtfm74TUBTuTHVgaHCwbOQg",
+        "text": "@ewenhughes-army5308 haha",
+        "likes": 0,
+        "published_at": "2025-08-29T22:35:38Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxi4xEPdE2LhxAPaZx4AaABAg",
+    "author": "@toddp7170",
+    "author_channel_id": "UC73O8zAhdCW1kIJMJlnzNGQ",
+    "text": "You need to differentiate Electric Double Layer Capacitors from hybrid supercapacitors.  Your Maxwell cap is an EDLC.  The hybrid supercaps utilize the cathode of a Lithium-Ion Battery (LIB) and the anode from an EDLC.  The result is higher energy density, elimination of thermal runaway risk while retaining much of the EDLC cycle life (approx 20k cycles in a hybrid SC).  As far as the dimensions go, 18650 is a common cell size.  Its a machine that turns out this size, but has no relationship to whether it results in a LIB or hybrid supecap.  Finally, the resulting hybrid supercap, because it is partially like a battery, does have power discharge characteristics of a LIB, particularly an LTO if that is the doping used in the cathode.  Your conjectures are just that, a guess.  Cut them open and you'll still have to have a mass spectrometer to analyze the compoents of the layers inside.  It doesn't look like you're equipped with the tools to make anything more than another guess.",
+    "likes": 6,
+    "published_at": "2022-10-06T23:46:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyMMhgqWOWpdFZXSp94AaABAg",
+    "author": "@xenoxaos1",
+    "author_channel_id": "UCf3UiFjdBIUwIlA59PE7VTA",
+    "text": "I know that this is likely a battery bank not a cap bank from watching the beginning.... But they do have hybrid battery/super cap devices.",
+    "likes": 0,
+    "published_at": "2022-10-06T23:45:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxWbT5hFuqL102a8BB4AaABAg",
+    "author": "@biffcalrisian",
+    "author_channel_id": "UCMWGSqAEDcNyj3nr6Bo5LYw",
+    "text": "i will happily take that scrap off your hands🤣",
+    "likes": 0,
+    "published_at": "2022-10-06T06:54:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugymjsdb2MNA5ISA1iB4AaABAg",
+    "author": "@curious_hiccup",
+    "author_channel_id": "UCqmeUBsUpIC5553ZBaApBUg",
+    "text": "Kilowatt energy claims as \"Lithium Hybrid Capacitor\". It will show both characteristics, almost capacity and voltage to NMC cells and faster charging but with higher self discharge like a capacitors. Please inspewct cells carefully so we can understand better. i'm about to buy some hybrid caps for out R&D.",
+    "likes": 1,
+    "published_at": "2022-10-05T16:41:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxPsHbbOhVTu6TZQCl4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "That would be great for regenerative breaking in a car but would it work as a solar power storage.",
+    "likes": 0,
+    "published_at": "2022-10-05T12:56:12Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxPsHbbOhVTu6TZQCl4AaABAg.9gno4eSk8ZW9gz6kWq_uGS",
+        "author": "@FRESNEL_COOKING_SOLAR_OVENS24",
+        "author_channel_id": "UCevg1exbYLuDFCHLuBvE09w",
+        "text": "You need lifepo4 batteries. 12v 24v or 48v configuration.\nTitanate are a lot heavier and have less capacity than lifepo4.\nTitanate is just a safe battery. 0 fire hazard risk. If you want a good energy storage, go for Lifepo4. For campervan, look for 24v battery 200Ah.\nFor house get the server racks lifepo4 48v 200Ah. 8pcs",
+        "likes": 1,
+        "published_at": "2022-10-09T22:19:44Z"
+      },
+      {
+        "id": "UgxPsHbbOhVTu6TZQCl4AaABAg.9gno4eSk8ZW9gzHxBUB5Yx",
+        "author": "@travismoore7849",
+        "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+        "text": "@FRESNEL_COOKING_SOLAR_OVENS24 Oh I thought it was a capacitor bank not a lithium titanate battery.",
+        "likes": 0,
+        "published_at": "2022-10-09T23:57:35Z"
+      },
+      {
+        "id": "UgxPsHbbOhVTu6TZQCl4AaABAg.9gno4eSk8ZW9gzrh9tzkxa",
+        "author": "@FRESNEL_COOKING_SOLAR_OVENS24",
+        "author_channel_id": "UCevg1exbYLuDFCHLuBvE09w",
+        "text": "@travismoore7849 its a lithium battery.",
+        "likes": 0,
+        "published_at": "2022-10-10T05:18:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyAecK7b9M30D9B4Bp4AaABAg",
+    "author": "@paddy2661",
+    "author_channel_id": "UCnkx4JxU2xI_YkFl9dD_57w",
+    "text": "They forgot the Y in capacity .\nThe buggers.",
+    "likes": 0,
+    "published_at": "2022-10-03T09:54:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwBGjnV11v94xi6OJR4AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "You should have a give away for your prime viewers!  Someone would love to have it.",
+    "likes": 1,
+    "published_at": "2022-10-02T14:57:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_vD_yGtRErvPyKcl4AaABAg",
+    "author": "@carlmachinist8055",
+    "author_channel_id": "UCj_cxCGky83VrdmsglV6KHQ",
+    "text": "Wishing we were neighbors.",
+    "likes": 0,
+    "published_at": "2022-10-02T06:31:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw_vD_yGtRErvPyKcl4AaABAg.9gfOi8iY6c59gfb881XN-t",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "would be awesome mate",
+        "likes": 0,
+        "published_at": "2022-10-02T08:29:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHBVO78styn09nDgh4AaABAg",
+    "author": "@justthinkalittle8913",
+    "author_channel_id": "UCm6xvsgmKJvQgQ057MB_g6w",
+    "text": "I thought Lithium Thionate was a great battery chemistry. It can charge in freezing temps and takes heat well also. I know its not as compact as lithium ion but its really tuff and long lived.  Am I wrong? it would make a neat instant water heater power bank.",
+    "likes": 0,
+    "published_at": "2022-10-01T01:31:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzlM1AHWT671YdC7K54AaABAg",
+    "author": "@christopherthumm4348",
+    "author_channel_id": "UCcqJh8m6t8zwDMkjiH6Dwgg",
+    "text": "Robert please don't tell people 18650's are useless after drained to 0 , I get about a 85% or higher chance of recharging 18650s without any issue . I am a huge fan of your page and no matter our disagreement in this topic I will always be your fan forever",
+    "likes": 0,
+    "published_at": "2022-10-01T00:27:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzDasT10wTfYPw50Dl4AaABAg",
+    "author": "@eugene-bright",
+    "author_channel_id": "UCVF7jfwL7QftxPO4EhbuT-A",
+    "text": "Please try to charge the cell with sharp short impulses using Stanley Meyer's water fuel cell driver. I can share the schematics if you interested",
+    "likes": 0,
+    "published_at": "2022-09-30T19:23:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwT7Q85CdBo5EmSJMl4AaABAg",
+    "author": "@eugene-bright",
+    "author_channel_id": "UCVF7jfwL7QftxPO4EhbuT-A",
+    "text": "You'd like to program in Python language. It uses duck typing ;)",
+    "likes": 0,
+    "published_at": "2022-09-30T19:17:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwmjwEbSFVX6Grpt-B4AaABAg",
+    "author": "@TheAzachiel",
+    "author_channel_id": "UCF4XJ8cM9APD8OuCORws0RQ",
+    "text": "They can be resurrected with high amps in slow pulses. Just watch temperature.",
+    "likes": 0,
+    "published_at": "2022-09-29T17:20:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwm3J9B61xZQdfrRzd4AaABAg",
+    "author": "@brianb-p6586",
+    "author_channel_id": "UC-Up8rcS-o9vnb_-fwhqnsA",
+    "text": "Those 18650-sized things are *cells* , not \"batteries\"; a battery is a group of cells.",
+    "likes": 0,
+    "published_at": "2022-09-28T22:41:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzAQABYYy1zhVONrT14AaABAg",
+    "author": "@brianb-p6586",
+    "author_channel_id": "UC-Up8rcS-o9vnb_-fwhqnsA",
+    "text": "All good, except the clickbait title - the module is not torn down.",
+    "likes": 0,
+    "published_at": "2022-09-28T22:31:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx76iiagTOp8cM1CZJ4AaABAg",
+    "author": "@cypressxm",
+    "author_channel_id": "UCv1UI-QSczBUmwWoDO9DrQQ",
+    "text": "Is there any possibility the cells are \"Lithium-ion capacitors\"? The Wikipedia page for those makes it seem like it's possible at least.",
+    "likes": 0,
+    "published_at": "2022-09-28T22:28:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx070g18_xbxCV0L9V4AaABAg",
+    "author": "@PașcaAlexandru",
+    "author_channel_id": "UCCUjlOJyVN7NEnOAoZp1CsQ",
+    "text": "An acquaintance of mine recently asked for and got something similar but... at the fair price. \nThe guy asked for supercaps and the chinese wrote supercaps on the lipos and delivered. :)\nI tested the pack then tore it up and we all concluded that there were pretty good, fresh from the factory's back door, unmarked lipos.\nThe only difference is that he actually paid about $120/kwh.",
+    "likes": 0,
+    "published_at": "2022-09-27T19:20:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxvH3gGLAflJWy9xAR4AaABAg",
+    "author": "@xxxblackvenomxxx",
+    "author_channel_id": "UCcVKCG2isCBOn_v9RAddngA",
+    "text": "That's some sirius voltage in these things.",
+    "likes": 0,
+    "published_at": "2022-09-27T18:34:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyp_orEM1ErkcDBrDZ4AaABAg",
+    "author": "@mfr58",
+    "author_channel_id": "UCSpqTNmBrNFGYOVVA-K2fNw",
+    "text": "Yeah, great breakdown...I came across these a while back on ebay, was interested, but then found a forum that discussed the facts as you found them....",
+    "likes": 0,
+    "published_at": "2022-09-27T13:27:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzM0vxDFE4qOynfZWR4AaABAg",
+    "author": "@rayfernandez3524",
+    "author_channel_id": "UC5YL3s7LKLEkMMo_TbfkiVA",
+    "text": "i normally don't respond to this immature type of clips, as I always say there's  two sides to a story, why not let an independent lab do the testing without being bias? There's a few test being done around the world with proof.\nMy questions I have:\n1. Why can you fly in these units, and not Lithium – MSDS (cylindrical cells) available? \n2. Why can you discharge these units to below sub-zero temperatures, without degradation?\n3. Why aren’t these units degrading like Lithium, we over 40 MWh or storage installed with little to no degradation?\n4. Why can you discharge these units to not just 0% state of charge, but 0 Volts. Leave on a concrete floor for a month and start up again. Lithium cannot do this, why not?\n5. Why aren’t these units generating heat when charging and discharging like Lithium?\n6. You can charge these units between 1C – 10C, no heat build-up, no thermal runaway, little to no degradation, why can’t you do this with Lithium",
+    "likes": 0,
+    "published_at": "2022-09-27T09:36:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzM0vxDFE4qOynfZWR4AaABAg.9gTqvCMlMJ89gTvcejdMkd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I normally don't respond to these immature type of comments - but Lithium batteries are not one thing - there are many types of lithium battery Lithium Iron phosphate, Lithium Cobalt Oxide, Lithium Manganese Oxide, etc etc... Lithium titanate - the kind used here have all the qualities you mention. I don't take exception with the battery type - i take exception they are sold as capacitors - which they are not. I have a question for you - are you being paid by Kilowatt to post this?",
+        "likes": 4,
+        "published_at": "2022-09-27T10:18:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwS-qO2LRnFat3DFT14AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "Should have seen this coming. People are always working the under knowledged. LOL",
+    "likes": 0,
+    "published_at": "2022-09-26T20:41:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwGJWMcUYxyuDm-gXF4AaABAg",
+    "author": "@kennedy67951",
+    "author_channel_id": "UCjxV3uqs53Cl6RBeb9_o1Wg",
+    "text": "Awesome find Robert. This is Robbery, no matter how you look at it, in my opinion. Something needs to be done about this, don't you think Robert? Thanks again for sharing your knowledge because now all those folks taken in be this Robbery can go after the maker and seller of this fraudulent product. Maybe getting money back and stop this Evil from happening anymore. ",
+    "likes": 0,
+    "published_at": "2022-09-26T19:05:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyLxaYqLIuVIyv3Dcp4AaABAg",
+    "author": "@JehuMcSpooran",
+    "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+    "text": "I have seen a lot of LTO batteries being referred to as super capacitors. It's usually because they have a massive discharge rate and have that great cycle capacity. You should be able to get them going. From memory that battery chemistry can be discharged down to 0V and still survive. They are also great in hi and low temps and don't explode when abused. The down side being not having as great a capacity which I think you mentioned.",
+    "likes": 0,
+    "published_at": "2022-09-26T16:37:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUcX4tHAVTlKPFq5R4AaABAg",
+    "author": "@charlesnelson5187",
+    "author_channel_id": "UCQAq782I5ScHuVXIOkWcIDg",
+    "text": "You alternative energy people are so gullible, your magical thinking with regard to generation leaves you vulnerable to scams. Kinda sad.",
+    "likes": 0,
+    "published_at": "2022-09-25T08:58:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgziqGmc1iW24yTM1qR4AaABAg",
+    "author": "@djx3280",
+    "author_channel_id": "UC65zaOoCIe8VHw3FcROKQKg",
+    "text": "Great video",
+    "likes": 0,
+    "published_at": "2022-09-25T05:53:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxfmqRTLpoK23aPa794AaABAg",
+    "author": "@ShawnGordon",
+    "author_channel_id": "UC79veBaJovG_AyBFh5l4KAA",
+    "text": "This is super upsetting, I've been talking to these guys for years about a few applications. They keep giving me numbers on weight and energy density that seemed too good to be true, and much like Robert, I wondered why these didn't have huge adoption. They picked up some funding recently, not a lot, but the way they keep putting me off, I knew something was off.",
+    "likes": 1,
+    "published_at": "2022-09-24T21:48:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyWMv5haO5B0HBr-X14AaABAg",
+    "author": "@DeeP_BosE",
+    "author_channel_id": "UCGvawLW_4hO0WYsuNfuuf0w",
+    "text": "U can try LSUC korea. Have been using them 6 in series,6*3v … 3000 Farads, as replacement to my car battery for the last 3 yrs, works like a charm everyday. In fact it can start 5 Honda civic at the same time, everyday.",
+    "likes": 0,
+    "published_at": "2022-09-24T21:13:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyx2gdJE-HCPT3B52h4AaABAg",
+    "author": "@ArtoPeltomaa",
+    "author_channel_id": "UCmyokMZ9MhEm5_Vlure1s-w",
+    "text": "jehugarcia does some stuff with 18650s",
+    "likes": 0,
+    "published_at": "2022-09-24T21:00:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwnirVvV7QQ8DdRELd4AaABAg",
+    "author": "@boepievanzyl8795",
+    "author_channel_id": "UCLowJrpm6rs64HQbpgDk7lA",
+    "text": "Robert I have been asking arowned and the explnasion I cet is, that it is hybrit caps and that the electrolite is dopesd with lithium. I don't know what that means but there it is.",
+    "likes": 0,
+    "published_at": "2022-09-24T19:30:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwnirVvV7QQ8DdRELd4AaABAg.9gNBWISiXLz9gNC6U6hst1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it means nothing mate - the electrolyte in 'normal' super capacitors is lithium hexaflourophosphate in acetonitrile - so saying it is 'doped' is a bit of a trick as all of them are 'doped' in that sense. And what does it mean it is a hybrid cap - I don't know of any commercial 'hybrids' in production - do you?",
+        "likes": 0,
+        "published_at": "2022-09-24T19:36:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzjtU3nKZydQwG6mwV4AaABAg",
+    "author": "@recumbentrocks2929",
+    "author_channel_id": "UC84MVem-z5m1tSml8JSCs5w",
+    "text": "That was very interesting and worrying too. How can these companies get away with saying it is something that it clearly is not. Hope you get the batteries charged and think how good they would be for storing your wind turbine electricity.",
+    "likes": 0,
+    "published_at": "2022-09-24T15:42:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_TLE5Nk6gxG66Qox4AaABAg",
+    "author": "@vinu6484",
+    "author_channel_id": "UCAzLS0VC4vZFNShAwtowTww",
+    "text": "Would there be anything usefull to do with them trillions of 18650 and the likes? Besides replacing all batteries for all the laptops in ur neighbourhood",
+    "likes": 0,
+    "published_at": "2022-09-24T11:48:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxoNyWx-2_Cde01rcd4AaABAg",
+    "author": "@vinu6484",
+    "author_channel_id": "UCAzLS0VC4vZFNShAwtowTww",
+    "text": "Cool insight. You just pissed on all those milions of views of yt stuff of people that make hundreds of kilos of useless battery packs",
+    "likes": 0,
+    "published_at": "2022-09-24T11:44:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy7AYsZlMbt57wUZMh4AaABAg",
+    "author": "@paulwright5440",
+    "author_channel_id": "UCPiCpItn_2zar7niBmf24LQ",
+    "text": "I'll have it if you don't want it",
+    "likes": 0,
+    "published_at": "2022-09-24T11:26:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZ3GHjlQzJTgJm8op4AaABAg",
+    "author": "@SinsBird",
+    "author_channel_id": "UCwpHDs06C14UBL477TdUHEQ",
+    "text": "Regular (NMC?) lithium ion cells sometimes come back to life if charged at a very low rate, like 50mA (I know for a fact Nokia phones used to do that, I'm sure some other brands did also even to this day) to something like 3.5V ~ 3.7V. Recovered cells usually have higher self discharge rate probably caused by a damaged separator or something. I remember when charging and discharging a 'recovered' 18650 cell, where I reset the CID with a drill bit, at constant current at some point voltage would start jumping up and down. I haven't investigated it, but I have the charging and discharging curves saved.",
+    "likes": 0,
+    "published_at": "2022-09-24T10:46:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwRCLquu1uE9EXUNW94AaABAg",
+    "author": "@jclambert9271",
+    "author_channel_id": "UCs0ESFv4I_mrswcIuMtXIrA",
+    "text": "The first gen super caps were 2.4 volt I still use a large bank of them.",
+    "likes": 0,
+    "published_at": "2022-09-24T09:09:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwRCLquu1uE9EXUNW94AaABAg.9gM4QMPipqL9gM7UD-GBQN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they are old lol",
+        "likes": 0,
+        "published_at": "2022-09-24T09:36:29Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzs_5ccPyG1QV_mXDl4AaABAg",
+    "author": "@Khwartz",
+    "author_channel_id": "UCWgSKpQqdMIIDUCDjKYzYig",
+    "text": "Thanks Mate! 🙂",
+    "likes": 0,
+    "published_at": "2022-09-24T09:00:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzs_5ccPyG1QV_mXDl4AaABAg.9gM3PosVavY9gM3tCmqtKU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You're welcome 😊",
+        "likes": 0,
+        "published_at": "2022-09-24T09:05:05Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx80JH04i1qdNnJQ7N4AaABAg",
+    "author": "@tobystewart4403",
+    "author_channel_id": "UC40OvRmYHPiZIS28tLJPz8g",
+    "text": "Oh no. The mean man is current shaming that poor lithium battery, whose pronouns are \"super\" and \"capacitor\".",
+    "likes": 0,
+    "published_at": "2022-09-24T06:18:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx80JH04i1qdNnJQ7N4AaABAg.9gLlp__jsWq9gM3sry4CHA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I am just horrible lol",
+        "likes": 0,
+        "published_at": "2022-09-24T09:05:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwdySQpr8IAkgd_RsV4AaABAg",
+    "author": "@otherunicorn",
+    "author_channel_id": "UCDaj36jSSQLtLdVwzLxd8-A",
+    "text": "Capacitors do not have a voltage of their own - just a maximum they can handle. You would NOT want to run a 2.7V cap at 2.7V. 2.4V would allow an operating margin. The voltage across the capacitors would be determined by the voltage being put onto the bus in the first place.  Of course, if the \"capacitors\" in question are really batteries, none of what I just said applies.",
+    "likes": 0,
+    "published_at": "2022-09-24T04:32:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwdySQpr8IAkgd_RsV4AaABAg.9gL_eBazvqr9gM3qfj_1Pb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sorry mate in general terms for capacitors in a circuit you are right - but super capacitors as a storage device - well - no - that's not right",
+        "likes": 0,
+        "published_at": "2022-09-24T09:04:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxxW_atgZww4J9xPKB4AaABAg",
+    "author": "@NZHippie",
+    "author_channel_id": "UC3Y1B3eE2seJWI7c81Lh81g",
+    "text": "Looks like a good case to put forward to the regulators for false advertising...",
+    "likes": 1,
+    "published_at": "2022-09-24T04:15:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxxW_atgZww4J9xPKB4AaABAg.9gLYl_AR7PG9gM3rjn14M4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes - I would think so",
+        "likes": 0,
+        "published_at": "2022-09-24T09:04:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyALBs5eDe6dMtzTh4AaABAg",
+    "author": "@mik71",
+    "author_channel_id": "UCBeGHE6XWcMqlkOnGgvsLTw",
+    "text": "Yum , what dose that red wire taste like when you are holding the black wire ?",
+    "likes": 0,
+    "published_at": "2022-09-24T02:44:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyALBs5eDe6dMtzTh4AaABAg.9gLOO4koDSi9gM3wQVzriv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed lol",
+        "likes": 0,
+        "published_at": "2022-09-24T09:05:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwedTA6bKaybJNyleB4AaABAg",
+    "author": "@C-M-E",
+    "author_channel_id": "UC-uO_c1bTtfJCBh8ltJ30qg",
+    "text": "I very much wondered with Exhibit A on the left looking like a battery pack wired in series, and Exhibit B on the right with Capacitor Module on the label. Sure glad I wasn't the only one wondering why a 3.5kwh 'capacitor pack' was freely given away like e-trash. Talk about hitting the fool's lottery!",
+    "likes": 0,
+    "published_at": "2022-09-24T02:23:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwedTA6bKaybJNyleB4AaABAg.9gLLuth8v1h9gM49LyQDh0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the guys who gave me this are genuine mate - I don't think they realised what was in there - and I don't think a lot of people realise what is in a kilowatt device - that is just a bit too mean for me - but I do generally take a positive view on motivations",
+        "likes": 0,
+        "published_at": "2022-09-24T09:07:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw4naDjdvcmQVwjl3p4AaABAg",
+    "author": "@danoseus",
+    "author_channel_id": "UCFM3UYWw8agn8R3hOFcqMoA",
+    "text": "What would be an industry use case for such a module?",
+    "likes": 0,
+    "published_at": "2022-09-24T02:00:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw4naDjdvcmQVwjl3p4AaABAg.9gLJKV1XylH9gM4BqP4uJl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's just a large battery pack - so - solar storage",
+        "likes": 0,
+        "published_at": "2022-09-24T09:07:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwnc2PI1Hcd4rbIG354AaABAg",
+    "author": "@byrdhartley9014",
+    "author_channel_id": "UC5twjwZC78zdPswwpiRWvQA",
+    "text": "how long would those batteries heat your graphite wall heater?",
+    "likes": 0,
+    "published_at": "2022-09-24T01:54:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwnc2PI1Hcd4rbIG354AaABAg.9gLIch7Laxj9gM4D5LC-f_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no idea mate - sorry",
+        "likes": 0,
+        "published_at": "2022-09-24T09:07:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6f79TxE3Ee85YWNd4AaABAg",
+    "author": "@TabooRevolution13",
+    "author_channel_id": "UCRteHnHQTbcfH72yikIex-w",
+    "text": "Don't shock yourself!",
+    "likes": 0,
+    "published_at": "2022-09-24T01:36:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy6f79TxE3Ee85YWNd4AaABAg.9gLGYNXgpGd9gM4HwjHn_Q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I have worked with this stuff for a very long time - anyway it's only 48 volts - LV Regs apply",
+        "likes": 0,
+        "published_at": "2022-09-24T09:08:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzJKJTmMkmmbHyz0oJ4AaABAg",
+    "author": "@gaiustesla9324",
+    "author_channel_id": "UCSUHcacqkcKIsGADKDlN75Q",
+    "text": "oh you can't be sirius.....",
+    "likes": 1,
+    "published_at": "2022-09-24T00:56:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzJKJTmMkmmbHyz0oJ4AaABAg.9gLC10cYzde9gM4JZxA3UQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed!",
+        "likes": 0,
+        "published_at": "2022-09-24T09:08:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxA73bFUho0RHn7pVR4AaABAg",
+    "author": "@johnbuck5181",
+    "author_channel_id": "UCxhNmlJXSOasG5rjab3QLnw",
+    "text": "I hope you help take them down!!!",
+    "likes": 0,
+    "published_at": "2022-09-24T00:36:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxA73bFUho0RHn7pVR4AaABAg.9gL9ja8EqBb9gM4Oailur9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "just making folks aware mate",
+        "likes": 1,
+        "published_at": "2022-09-24T09:09:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmdU9XZ1-ADE4ssoZ4AaABAg",
+    "author": "@UberAlphaSirus",
+    "author_channel_id": "UCpY_MMTfZd02WUzShANsQMQ",
+    "text": "Not sure what this thing does or is used for. It may just be called a capacitor module to replace a capacitor module. It may well act like one in service although less cycles.",
+    "likes": 0,
+    "published_at": "2022-09-24T00:32:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmdU9XZ1-ADE4ssoZ4AaABAg.9gL9Do87chK9gM4SemQ2c8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - yeah that could well be the dodge - nice one mate - just playing on words!",
+        "likes": 0,
+        "published_at": "2022-09-24T09:10:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzgMivQjuzRHyEWnu14AaABAg",
+    "author": "@MrTubeuser12",
+    "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+    "text": "beware the snake oil salesman lol",
+    "likes": 0,
+    "published_at": "2022-09-24T00:19:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzgMivQjuzRHyEWnu14AaABAg.9gL7hYjEwK19gM4TpRzLVE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed",
+        "likes": 0,
+        "published_at": "2022-09-24T09:10:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwP64SBlyT8gokjImh4AaABAg",
+    "author": "@toddholdaway6072",
+    "author_channel_id": "UC7BtRoy-9E1dDw8xSvnjWsQ",
+    "text": "Could the capacitor “effect” be in the electronics that were not addressed ?",
+    "likes": 0,
+    "published_at": "2022-09-24T00:14:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwP64SBlyT8gokjImh4AaABAg.9gL77TOJyWs9gM4aoz_hDW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have no idea what argument the company will have for putting that on the label - it could mean it is a battery replacement for a capacitor module - there will be all kinds of tricks that could be played I am sure",
+        "likes": 0,
+        "published_at": "2022-09-24T09:11:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz2FPojl7edAtQiUoZ4AaABAg",
+    "author": "@alpaykasal2902",
+    "author_channel_id": "UCYn71l10Y5PEp_ZhfB4q9SQ",
+    "text": "Great detective work... I could see where this was going as soon as I saw the physical proportions :) Shame on 'Kilowatt Labs'.",
+    "likes": 4,
+    "published_at": "2022-09-24T00:06:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz2FPojl7edAtQiUoZ4AaABAg.9gL6Euj6d0Y9gM4dnrWKrZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep it is a bit shabby",
+        "likes": 1,
+        "published_at": "2022-09-24T09:11:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzf-Lu1e8d-XFMCkA94AaABAg",
+    "author": "@brucedownunda7054",
+    "author_channel_id": "UCUyRmuF1NGMyrVCCh8UGAWQ",
+    "text": "The saga of the \" Snake oil salesman\" seems NEVER ending.",
+    "likes": 1,
+    "published_at": "2022-09-23T23:37:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzf-Lu1e8d-XFMCkA94AaABAg.9gL2yj9EuWZ9gM4fa5sMps",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know - it is a shame",
+        "likes": 0,
+        "published_at": "2022-09-24T09:11:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyCNqYfNL-_b4HACxR4AaABAg",
+    "author": "@YoureNowOnTV",
+    "author_channel_id": "UCHhezah3oH5DK0UJneePjiQ",
+    "text": "If you get 50% cell recovery you could use them for the Twizzy perhaps 🤔😁👍",
+    "likes": 0,
+    "published_at": "2022-09-23T23:09:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyCNqYfNL-_b4HACxR4AaABAg.9gL-iBey-xM9gM4iWjaMRu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure - cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:12:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykzwpyJIpe98XAAUJ4AaABAg",
+    "author": "@gregd8697",
+    "author_channel_id": "UC3lgpobeXt2CVliTfpUXUIQ",
+    "text": "Check out the maxwell bmod0063 series.  They have different configs for voltage but the older type is 125v and effectively between 2.5-3.0Wh per. Ultracap.  These packs have 42 of them I'm it and weight about 100lbs.  So get a used pack around $1k USD but only get 125wh out of the whole thing.  8 of them together I get 1kwh, not worth it for home storage but can drive the biggest heavy machinery...   Would be scary fun to test more scary in my opinion.",
+    "likes": 0,
+    "published_at": "2022-09-23T23:04:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykzwpyJIpe98XAAUJ4AaABAg.9gL-9YmSpBN9gM4neGSSuz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I would love to get my hands on one of those mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:13:03Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy15pQKVH3JWr7bgrt4AaABAg",
+    "author": "@richardlove4287",
+    "author_channel_id": "UC2iC7c_qSabW7vMi0uNW0YQ",
+    "text": "Wow, thanks mate. I was seriously looking at these for home solar storage. I owe you a pint.",
+    "likes": 0,
+    "published_at": "2022-09-23T22:50:37Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugy15pQKVH3JWr7bgrt4AaABAg.9gKyZj1motr9gL3VVGZBjr",
+        "author": "@punkdigerati",
+        "author_channel_id": "UCjHKONZfSBoFW2N_FlpA-rA",
+        "text": "If it's a good price point for LTO's it's still a useful device, way higher charge/discharge amps and higher charge cycles than ion or lifepo.",
+        "likes": 1,
+        "published_at": "2022-09-23T23:42:28Z"
+      },
+      {
+        "id": "Ugy15pQKVH3JWr7bgrt4AaABAg.9gKyZj1motr9gM4oaxl2CT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2022-09-24T09:13:11Z"
+      },
+      {
+        "id": "Ugy15pQKVH3JWr7bgrt4AaABAg.9gKyZj1motr9gM574DIok4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it seems a little over priced for LTO to me mate - but fair enough",
+        "likes": 1,
+        "published_at": "2022-09-24T09:15:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz97J-rSquZbHoLxph4AaABAg",
+    "author": "@daverichardson9413",
+    "author_channel_id": "UCkUTmqWOC--N_MkL9Ip-pkA",
+    "text": "Thanks bro..",
+    "likes": 0,
+    "published_at": "2022-09-23T22:47:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz97J-rSquZbHoLxph4AaABAg.9gKy9N7FxQa9gM58LyrDkM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:16:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxal6sEuRv4pWHKQMt4AaABAg",
+    "author": "@perritogomez6242",
+    "author_channel_id": "UCVf28xpUFmaaF5RYmlg1WOA",
+    "text": "Check if there is a BMS circuit ( battery managment system) all lithium battery has to have BMS or the pack would explode,  there should be a circuit that controls the maximum charge of lithium 18650, 4.2 volts. There are protection circuit for individual batterys and would be hiden in every battery, but normaly is a externall circuit that balance all the pack.",
+    "likes": 0,
+    "published_at": "2022-09-23T22:28:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxal6sEuRv4pWHKQMt4AaABAg.9gKw2QT2exi9gM5APAoPxV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it has a BMS - I showed it",
+        "likes": 0,
+        "published_at": "2022-09-24T09:16:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzHrTQdbThFTf0_PhF4AaABAg",
+    "author": "@preztcs",
+    "author_channel_id": "UCsBu2OUn3jr56RL5--yV1Og",
+    "text": "Looking forward to the stripdown and confirmation of what we all suspect already. Great video keep up the great work exposing these scammers.",
+    "likes": 1,
+    "published_at": "2022-09-23T22:20:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzHrTQdbThFTf0_PhF4AaABAg.9gKv7fn-Otn9gM5BztOX5n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2022-09-24T09:16:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzWt7t7Vt7nrqtdM-V4AaABAg",
+    "author": "@OMIF1",
+    "author_channel_id": "UCKvn7eCBj9dbp81-ZdZ4bxg",
+    "text": "Well, the math says you are correct. How much more proof is needed? Math, done correctly,  does not lie.",
+    "likes": 0,
+    "published_at": "2022-09-23T22:20:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzWt7t7Vt7nrqtdM-V4AaABAg.9gKv5koYT6W9gM5DEPhkXH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate - cheers",
+        "likes": 0,
+        "published_at": "2022-09-24T09:16:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyuzloSzdNAG3V4r6N4AaABAg",
+    "author": "@banana1618",
+    "author_channel_id": "UCKxZi5RZX5XYw3SaH2d58iQ",
+    "text": "great analysis Sherlock Murray-Smith!",
+    "likes": 0,
+    "published_at": "2022-09-23T22:05:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyuzloSzdNAG3V4r6N4AaABAg.9gKtLcIT7AY9gM5DwdGBr_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:16:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgweOeyWUoq2QJNXDhl4AaABAg",
+    "author": "@RixtronixLAB",
+    "author_channel_id": "UC89se0BZ2oGeqN5jNbDAyQQ",
+    "text": "Nice info, thanks for sharing :)",
+    "likes": 0,
+    "published_at": "2022-09-23T22:04:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgweOeyWUoq2QJNXDhl4AaABAg.9gKtKp750KE9gM5Fa0ZuDK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I hope it helps mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:17:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxqxXhq5he9-3do3J94AaABAg",
+    "author": "@DanielSMatthews",
+    "author_channel_id": "UC-of6HCmB7zmvWRWLTjEkCA",
+    "text": "What a shame, a big bank of real capacitors would pair nicely with a cheap and robust battery technology that otherwise has a slow charge and discharge rate, such as nickel iron. The combination should give you a very powerful and responsive supply that has a useful lifetime of many decades with the sort of daily cycling you'd see with input from a PV array and demands that included the peaks seen with electric motors starting up, workshop or laundry, perhaps even fast charging an electric car.",
+    "likes": 0,
+    "published_at": "2022-09-23T21:47:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxqxXhq5he9-3do3J94AaABAg.9gKrM3ZDFjS9gM5IoB347g",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah I agree - I was really quite disappointed - ah well",
+        "likes": 0,
+        "published_at": "2022-09-24T09:17:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyt0PlBYLX1700jG0h4AaABAg",
+    "author": "@charlesurrea1451",
+    "author_channel_id": "UCXVWPTyrdaWFffjsa_GM8zw",
+    "text": "Our EAU had super caps that looked like cans of potted meat. \nAside from the axial threaded lugs. \nThose were 1st gen. Then the Lithium based caps replaced them.",
+    "likes": 0,
+    "published_at": "2022-09-23T21:30:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyt0PlBYLX1700jG0h4AaABAg.9gKpOS-oZkk9gM5ZUGPbia",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lithium based based super capacitors? - as far as I was aware pretty much all current production super capacitors are carbon based - the salt in the electrolyte has changed it is common to use lithium hexafluorophosphate in acetonitrile - if that's what you mean it isn't really a lithium based supercapacitor - it's a carbon based Supercapacitor with a lithium salt electrolyte",
+        "likes": 0,
+        "published_at": "2022-09-24T09:19:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwmjWNGr_BEQ9bHMOF4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awful, thanks for pointing it out",
+    "likes": 1,
+    "published_at": "2022-09-23T20:43:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwmjWNGr_BEQ9bHMOF4AaABAg.9gKk1NtWAM49gM5cRa42wY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:20:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHtYm9Xkzs-MFujAh4AaABAg",
+    "author": "@ile84",
+    "author_channel_id": "UCUYihge_pM14WoGlPwe616Q",
+    "text": "You still can salvage the lithium from those batteries. Might take few extra steps, but I gather as a chemist you know how to do it the most efficient way. Awhile ago I saw that price of lithium skyrocketed to something like 450k/pound, but might've been a glitch or something.",
+    "likes": 0,
+    "published_at": "2022-09-23T20:38:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwHtYm9Xkzs-MFujAh4AaABAg.9gKjUoNxnx49gM5koGL7Vs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "these kind of batteries mostly contain lithium slat electrolyte and a lithium oxide based cathode - the rest is graphite, aluminium and copper",
+        "likes": 0,
+        "published_at": "2022-09-24T09:21:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwhcBsIoQ3J71gZemV4AaABAg",
+    "author": "@3D_Printing",
+    "author_channel_id": "UCn94CfWGHIwZGYiBwzPEV_A",
+    "text": "Mmmm could be balance charging cables on the left, for batteries",
+    "likes": 0,
+    "published_at": "2022-09-23T20:02:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwhcBsIoQ3J71gZemV4AaABAg.9gKfIp_eApT9gM5sMWhcOV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah the SOC is from the small black cables you see",
+        "likes": 1,
+        "published_at": "2022-09-24T09:22:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyN55_HAOR0qEyfcjt4AaABAg",
+    "author": "@3D_Printing",
+    "author_channel_id": "UCn94CfWGHIwZGYiBwzPEV_A",
+    "text": "Thick, high Amperage, cables and Connectors on the box only",
+    "likes": 0,
+    "published_at": "2022-09-23T20:01:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyN55_HAOR0qEyfcjt4AaABAg.9gKfAeWsNLx9gM5w5k6dKa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed",
+        "likes": 0,
+        "published_at": "2022-09-24T09:22:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx_gop7A77ucXQH0qF4AaABAg",
+    "author": "@ecospider5",
+    "author_channel_id": "UCOVM3cj9uUZVXEybHfRK3GQ",
+    "text": "It seemed obvious they were 18650 cells but I’m wondering where the balance leads are.",
+    "likes": 0,
+    "published_at": "2022-09-23T20:00:34Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugx_gop7A77ucXQH0qF4AaABAg.9gKf6InQYb_9gM5y__PEgJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they fell off when I took the pack out of the box - I did say",
+        "likes": 0,
+        "published_at": "2022-09-24T09:23:17Z"
+      },
+      {
+        "id": "Ugx_gop7A77ucXQH0qF4AaABAg.9gKf6InQYb_9gNOj4vtROa",
+        "author": "@ecospider5",
+        "author_channel_id": "UCOVM3cj9uUZVXEybHfRK3GQ",
+        "text": "Thanks I missed that.",
+        "likes": 0,
+        "published_at": "2022-09-24T21:26:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyHVyLRJZZUfxcdDnF4AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "What a find .... If it turns out to be useless drag it onto the parking lot on newyears eve, short it and take some distance :-).",
+    "likes": 0,
+    "published_at": "2022-09-23T19:53:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyHVyLRJZZUfxcdDnF4AaABAg.9gKeKpVg3Ga9gM62ULARuj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - well that's an idea lol",
+        "likes": 0,
+        "published_at": "2022-09-24T09:23:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyDQjyMYHJEyqyiaZJ4AaABAg",
+    "author": "@iindium49",
+    "author_channel_id": "UCslzsDlE5-mo0XczbJ5OYpQ",
+    "text": "Even if it's scrap - extracted lithium paste has uses.",
+    "likes": 0,
+    "published_at": "2022-09-23T19:49:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyDQjyMYHJEyqyiaZJ4AaABAg.9gKdqwh8Apv9gM63NTBMCn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed",
+        "likes": 0,
+        "published_at": "2022-09-24T09:24:05Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9QPj1bLS1ndZp_lN4AaABAg",
+    "author": "@Figaro-qua",
+    "author_channel_id": "UCnRqOzVhNRfFzVYCqX7Qz2w",
+    "text": "Very nice teardown. Thank you. They seem to be indeed LTO 18650 (1400-1500mah) cells, and the voltage 2.4/cell is completely fine, nominal voltage ( 1.8v - 2.80v ).\nEven if they are not Supercaps, at least you have the best lithium battery chemistry for this application. I love LTO because of their low resistance, cycle life, safety and the 10c discharge/charge. \nHave fun with them!",
+    "likes": 5,
+    "published_at": "2022-09-23T19:48:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy9QPj1bLS1ndZp_lN4AaABAg.9gKdfATSynp9gM67h43by7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah they are good in themselves - just not caps",
+        "likes": 0,
+        "published_at": "2022-09-24T09:24:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxjbZA8l6GOKSbc9pB4AaABAg",
+    "author": "@maryhinge128",
+    "author_channel_id": "UCiggIZ4i09FsbQJP9hz6fiQ",
+    "text": "China? What would you expect?",
+    "likes": 0,
+    "published_at": "2022-09-23T19:36:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxjbZA8l6GOKSbc9pB4AaABAg.9gKcLZ2wFyq9gM6CMEyjAl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "It's an American company - they bought the batteries from China but he product is American",
+        "likes": 0,
+        "published_at": "2022-09-24T09:25:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx2EMd6MfbMp8jEARJ4AaABAg",
+    "author": "@keycontroller",
+    "author_channel_id": "UCBC6crCbQuE5PsRXyODgckA",
+    "text": "Im using 18650 for every device i can get my hands on 😂the amount of cells you have there 🤩🤩",
+    "likes": 0,
+    "published_at": "2022-09-23T19:36:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx2EMd6MfbMp8jEARJ4AaABAg.9gKcK7fXwFA9gM6EDNf_4z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I Know lol",
+        "likes": 1,
+        "published_at": "2022-09-24T09:25:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwCO3zXhC625rrpvJ94AaABAg",
+    "author": "@Katz2001",
+    "author_channel_id": "UCc0ZnybcTCMZQqUY6TvIUIQ",
+    "text": "I Wonder if a good BMS can't help you out with getting the battery bank back up and working",
+    "likes": 0,
+    "published_at": "2022-09-23T19:12:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwCO3zXhC625rrpvJ94AaABAg.9gK_eazcLPf9gM6M-IUIWL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "if they aren't dead my next step is to replace the BMS",
+        "likes": 0,
+        "published_at": "2022-09-24T09:26:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyGMvM3a8y5sMMiIAp4AaABAg",
+    "author": "@cayrex",
+    "author_channel_id": "UC6aKCXyrErIPKZNFEnYq0hw",
+    "text": "It is known that kilowatt labs use LTO in the systems, but like you said the company claimed that they uses \"battery supercapacitor type\". I think it was in clean energy reviews and also many other people claimed the same about the use of LTO. LTO is good lithium type of battery because is safer that NMC or similar. I like LTO and LFP for some energy storage systems. Years back I make 6kWh LTO based storage system for some people,... and I like the fast charge of the cells.",
+    "likes": 2,
+    "published_at": "2022-09-23T19:06:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyGMvM3a8y5sMMiIAp4AaABAg.9gKZsHFNOY79gM6_EzfRbn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "as far as I am aware mate there is no battery Supercapacitor type of device on sale - that's just market hype - like Turnigey did with there 'graphene' battery",
+        "likes": 0,
+        "published_at": "2022-09-24T09:28:34Z"
+      },
+      {
+        "id": "UgyGMvM3a8y5sMMiIAp4AaABAg.9gKZsHFNOY79gMAsqhSmaN",
+        "author": "@cayrex",
+        "author_channel_id": "UC6aKCXyrErIPKZNFEnYq0hw",
+        "text": "@ThinkingandTinkering Right and I know. , But the kilowatt labs trying to convince people that they use supercapacitors or so called battery supercapacitors,.... but anyway mane people busted it already.  For now the closest to so called hybrid supercapacitor will be the lithium ion capacitor,.... but  LIC is still classified as a type of supercapacitor.",
+        "likes": 0,
+        "published_at": "2022-09-24T10:06:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwMlrzovrNjRFuZJjF4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "This makes me think of options for a decent \"Rob sort of EV\".  Surely enough of those are salvagable to make a decent go-kart or scooter or something run.  Maybe check with Luke and see if he's got a notion.  I'd go something like an electric boat, living on a lake.  That seems like a fun thing.",
+    "likes": 0,
+    "published_at": "2022-09-23T19:02:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwMlrzovrNjRFuZJjF4AaABAg.9gKZSq4mYz19gM6cLrt2Bv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is a lot of batteries and I am hoping they are alive!",
+        "likes": 0,
+        "published_at": "2022-09-24T09:28:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzNRXFWDRwlx-hxHYh4AaABAg",
+    "author": "@bernardstokes6550",
+    "author_channel_id": "UCjBfmprSrRbUN8zesWyp-tg",
+    "text": "good call Rob....I dislike scammers intensely and if in the final analysis you are correct I hope they are fully exposed and shamed accordingly.",
+    "likes": 0,
+    "published_at": "2022-09-23T18:50:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzNRXFWDRwlx-hxHYh4AaABAg.9gKY3_ZNYeo9gM6gDPyq-M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah I hate it - and I don't see the need LTO is not a bad battery for these kind of systems",
+        "likes": 0,
+        "published_at": "2022-09-24T09:29:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqBw_jueL6U44sr2l4AaABAg",
+    "author": "@TheOfficialBatteryMan",
+    "author_channel_id": "UC8z5hWYsxfuAr6o5JHZwRxA",
+    "text": "I would collect your scrap off you 😂😂 I’ve tested a few hundred lithium cells and rebuilt them into packs. You might find a label or stamping under the kilowatt label. It may be that a few or row of cells has brought down an entire pack. Look forward to the videos",
+    "likes": 1,
+    "published_at": "2022-09-23T18:49:54Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgyqBw_jueL6U44sr2l4AaABAg.9gKY0ehg-AX9gM6lfRNhZD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I already cut a label off - it's just a can - but here's hoping they live",
+        "likes": 0,
+        "published_at": "2022-09-24T09:30:16Z"
+      },
+      {
+        "id": "UgyqBw_jueL6U44sr2l4AaABAg.9gKY0ehg-AX9gMBBiuTodo",
+        "author": "@TheOfficialBatteryMan",
+        "author_channel_id": "UC8z5hWYsxfuAr6o5JHZwRxA",
+        "text": "@ThinkingandTinkering I’m also wondering if they are cells that are 3.7nominal and they are just discharged below their rated voltage. Are they all that low?",
+        "likes": 0,
+        "published_at": "2022-09-24T10:08:55Z"
+      },
+      {
+        "id": "UgyqBw_jueL6U44sr2l4AaABAg.9gKY0ehg-AX9gMCXTuaOfv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@TheOfficialBatteryMan those are the rated voltages mate from the technical specs",
+        "likes": 0,
+        "published_at": "2022-09-24T10:20:37Z"
+      },
+      {
+        "id": "UgyqBw_jueL6U44sr2l4AaABAg.9gKY0ehg-AX9gMCvmjU7VY",
+        "author": "@TheOfficialBatteryMan",
+        "author_channel_id": "UC8z5hWYsxfuAr6o5JHZwRxA",
+        "text": "@ThinkingandTinkering can’t argue with that 😂😂",
+        "likes": 0,
+        "published_at": "2022-09-24T10:24:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz7YwzORvPRnBe6kgp4AaABAg",
+    "author": "@baraBober",
+    "author_channel_id": "UCCejmKwMHba9Wz9hoY3gPFQ",
+    "text": "Didn't Tesla purchase Maxwell company which resulted in 10x price increase?",
+    "likes": 0,
+    "published_at": "2022-09-23T18:47:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz7YwzORvPRnBe6kgp4AaABAg.9gKXhzjeulm9gM6mH3MAjJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes",
+        "likes": 0,
+        "published_at": "2022-09-24T09:30:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzlInfOiGoNgYp96F14AaABAg",
+    "author": "@ETJAKEOC",
+    "author_channel_id": "UCsBwuzQygXDBmJz25iUsV2g",
+    "text": "I knew the second I saw those packs that they were lithium batteries, it's a real shame things get mislabled like this and consumers end up getting the burned end of the stick",
+    "likes": 16,
+    "published_at": "2022-09-23T18:46:56Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzlInfOiGoNgYp96F14AaABAg.9gKXfxW2Xtn9gKd7hM83jp",
+        "author": "@iindium49",
+        "author_channel_id": "UCslzsDlE5-mo0XczbJ5OYpQ",
+        "text": "As did I.  What a shame.",
+        "likes": 1,
+        "published_at": "2022-09-23T19:43:17Z"
+      },
+      {
+        "id": "UgzlInfOiGoNgYp96F14AaABAg.9gKXfxW2Xtn9gM6sZGMic7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep - that is very much my issue here - I don't mind them being LTO - I think it's a good use of that style of battery - what mind is the obvious misdirection",
+        "likes": 3,
+        "published_at": "2022-09-24T09:31:12Z"
+      },
+      {
+        "id": "UgzlInfOiGoNgYp96F14AaABAg.9gKXfxW2Xtn9gWfuMKj3IQ",
+        "author": "@psylentrage",
+        "author_channel_id": "UCCzE_zLh_s3gxUmttjuHSeQ",
+        "text": "@ThinkingandTinkering yes. 1000000 is slighly better than 7000😂",
+        "likes": 0,
+        "published_at": "2022-09-28T11:58:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx_2GbEn5g7V-JGZWR4AaABAg",
+    "author": "@azhar2626",
+    "author_channel_id": "UCibs73mQQu27UbP3DqDaajw",
+    "text": "Wonderful explanation. I have a request to you please check and test the few cells of this module for capacity charge and discharge few times.Then we can know the reality of their claims. The public will be get aware of their Frauds.May be they use hybrid systems in this module? Please test it for the confirmation. May be they are right? You already brought the whole module.Its better to verify it now and make a video on that results. I will be waiting for your reply anxiously.",
+    "likes": 0,
+    "published_at": "2022-09-23T18:42:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx_2GbEn5g7V-JGZWR4AaABAg.9gKXAel-h349gM6yTJYbJM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's not a hybrid mate - I am sure of that and I will be testing it",
+        "likes": 0,
+        "published_at": "2022-09-24T09:32:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykX7AXAwNfJ2RTKlB4AaABAg",
+    "author": "@robertpitt8418",
+    "author_channel_id": "UC7YCK70LdIjCtwO1Duf__zA",
+    "text": "Make a quick buck and destroy the future in the process . I just cant figure that out.",
+    "likes": 0,
+    "published_at": "2022-09-23T18:35:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykX7AXAwNfJ2RTKlB4AaABAg.9gKWN3P6ksu9gM7-qZMgTs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "me neither - it is so odd to my mind",
+        "likes": 1,
+        "published_at": "2022-09-24T09:32:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx1DI9QZG1pyyx-2k54AaABAg",
+    "author": "@caveweta",
+    "author_channel_id": "UC_l9gBEM3Vcss6MuYhtem6w",
+    "text": "Have a look at Jerry Rig Everything YT channel, he’s converting a Hummer to be an EV. Those batteries you have there look remarkably like his battery banks he made for the EV",
+    "likes": 0,
+    "published_at": "2022-09-23T18:29:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx1DI9QZG1pyyx-2k54AaABAg.9gKVe7i2t5T9gM70Wl96zU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:32:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzcpmpIh5wlAmmEkMp4AaABAg",
+    "author": "@stuffoflardohfortheloveof",
+    "author_channel_id": "UCShQh57ZOtVl_h5Lx5bmEuA",
+    "text": "Hi Rob, I thought (read it/watched a few vids) that you CAN revive individual 3.7v batteries by bringing them slowly up to their minimum state (something like 3.5??) and then charging as normal?……good luck with that mind you…there’s a few there 😆",
+    "likes": 0,
+    "published_at": "2022-09-23T18:22:04Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzcpmpIh5wlAmmEkMp4AaABAg.9gKUpm87jM29gKewb688aE",
+        "author": "@ecospider5",
+        "author_channel_id": "UCOVM3cj9uUZVXEybHfRK3GQ",
+        "text": "Once charged you can judge how good the cells are by tracking their discharge rate. So let them sit for a month. If they maintain a good voltage you are golden. If not then they are not very useful.",
+        "likes": 0,
+        "published_at": "2022-09-23T19:59:06Z"
+      },
+      {
+        "id": "UgzcpmpIh5wlAmmEkMp4AaABAg.9gKUpm87jM29gM73yIA_Gh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - I will be testing them",
+        "likes": 0,
+        "published_at": "2022-09-24T09:32:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwIPoBKI5_YsiTAP3h4AaABAg",
+    "author": "@RahereTheGenius",
+    "author_channel_id": "UCnlAOFj6pKC_E22cRwdnFTA",
+    "text": "Evidently the origins of the Sirius Cybernetics Corporation. Depressing, isn't it?",
+    "likes": 1,
+    "published_at": "2022-09-23T18:21:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwIPoBKI5_YsiTAP3h4AaABAg.9gKUmApqF1M9gM76RsBo0n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - yes it is and nice reference!",
+        "likes": 0,
+        "published_at": "2022-09-24T09:33:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw7CvoHRAcH2uEi_9V4AaABAg",
+    "author": "@ChaseBrown231",
+    "author_channel_id": "UCnZy4AJFpuw2LYjKiXFgOCw",
+    "text": "I saw only one other person say this, but it is very likely they could be hybrid lithium-supercap modules. They come in through hole 18650 form factor, follow the same voltage curve as LTO, cant be completely discharged much like a battery, and arent quite as light as a cap, If my calculations are correct, those nuggets you've got hold about 2.58Wh per \"cell\" which would be an awful capacity for even the lowest tier 18650's. If they arent lying about the storage capacity, im a bit inclined to think there may be some truth to their claims. \n\nHave a look around on the Ali's and you will come across a few models.",
+    "likes": 0,
+    "published_at": "2022-09-23T18:10:23Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugw7CvoHRAcH2uEi_9V4AaABAg.9gKTVFYSGob9gKV7AmXMCl",
+        "author": "@foxabilo",
+        "author_channel_id": "UCamhkqGGcoGdSRyGxdVj2Aw",
+        "text": "Then why the 1.7C discharge limit?",
+        "likes": 0,
+        "published_at": "2022-09-23T18:24:34Z"
+      },
+      {
+        "id": "Ugw7CvoHRAcH2uEi_9V4AaABAg.9gKTVFYSGob9gKYXJtyTCE",
+        "author": "@ChaseBrown231",
+        "author_channel_id": "UCnZy4AJFpuw2LYjKiXFgOCw",
+        "text": "I'd guess because 6000 watts is alot to push over those small cables and cheap hardware. After all, it was their junk management hardware that failed in the first place.",
+        "likes": 0,
+        "published_at": "2022-09-23T18:54:21Z"
+      },
+      {
+        "id": "Ugw7CvoHRAcH2uEi_9V4AaABAg.9gKTVFYSGob9gM7D82DRc4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am not aware of any commercial hybrid cell do you know one?",
+        "likes": 0,
+        "published_at": "2022-09-24T09:34:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx-PrIM8O2TdC3x3NB4AaABAg",
+    "author": "@craignehring",
+    "author_channel_id": "UC7OcjoS6BZqeP1OR9aQC5CA",
+    "text": "Go B I G no lie to small for the population to try and swallow... Thanks for the heads up on this one",
+    "likes": 0,
+    "published_at": "2022-09-23T18:06:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx-PrIM8O2TdC3x3NB4AaABAg.9gKT4rRNId39gM7FXkmxQU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:34:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzG2c7e8fs5WEj9ZDV4AaABAg",
+    "author": "@foxabilo",
+    "author_channel_id": "UCamhkqGGcoGdSRyGxdVj2Aw",
+    "text": "Kilowatt labs have been a bunch of crooks for years.",
+    "likes": 0,
+    "published_at": "2022-09-23T18:04:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzG2c7e8fs5WEj9ZDV4AaABAg.9gKSsAZtRzm9gM7Gv5A2NC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they do look less than honest lol",
+        "likes": 0,
+        "published_at": "2022-09-24T09:34:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwg3B3jjQ-sZ3709qZ4AaABAg",
+    "author": "@David_Mash",
+    "author_channel_id": "UC6wheNORAmFmkPA_fx7J6Pw",
+    "text": "Have you removed a single cell to weigh it? Could the bracketing be affecting the measurements?",
+    "likes": 0,
+    "published_at": "2022-09-23T18:03:24Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwg3B3jjQ-sZ3709qZ4AaABAg.9gKShA92NoX9gKSpgNd3kz",
+        "author": "@David_Mash",
+        "author_channel_id": "UC6wheNORAmFmkPA_fx7J6Pw",
+        "text": "Oh no, I commented too soon. I see those 18650's with my x-ray vision already",
+        "likes": 0,
+        "published_at": "2022-09-23T18:04:34Z"
+      },
+      {
+        "id": "Ugwg3B3jjQ-sZ3709qZ4AaABAg.9gKShA92NoX9gM7M7Quzia",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:35:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKuLRSywf2wrbKxit4AaABAg",
+    "author": "@floridacoder",
+    "author_channel_id": "UCGasE5bSvLBU3oZBV7WTHDQ",
+    "text": "There needs to be consumer rights laws passed that hold companies accountable for this.  There is a plethora of false advertising on electronics especially,  and batteries even more so.  Companies like Amazon do nothing to protect us from these scams.\n\nI can't believe that between the EU and USA none have cracked down on this.  Or even China, but I suspect China has more bad apples than good apples. \n\nBuyers can't make informed purchasing decisions if the specs are total fabrications.  Consumers are being ripped off for billions and it needs to stop.",
+    "likes": 0,
+    "published_at": "2022-09-23T17:59:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyKuLRSywf2wrbKxit4AaABAg.9gKSDDmF22E9gM7R_32JRD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree - it's shocking how much misinformation is out there - especially around batteries and Supercapacitors",
+        "likes": 1,
+        "published_at": "2022-09-24T09:36:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugza8XwgdmYIdV20cm54AaABAg",
+    "author": "@bitnertinkers",
+    "author_channel_id": "UC7bm55FeLVKox_3khRpXgLw",
+    "text": "Thank you for letting us know",
+    "likes": 0,
+    "published_at": "2022-09-23T17:56:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugza8XwgdmYIdV20cm54AaABAg.9gKRwdce04e9gM7UyRpNnd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-24T09:36:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9kOrP5O4bHwU3Wu14AaABAg",
+    "author": "@strawman9410",
+    "author_channel_id": "UC2k4ekeS2sdmLHsV2KKheEQ",
+    "text": "Looking forward to what you find out with this and what your going to do with it.",
+    "likes": 4,
+    "published_at": "2022-09-23T17:45:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy9kOrP5O4bHwU3Wu14AaABAg.9gKQfXLQDs59gKR3hw8UmL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "me too mate lol",
+        "likes": 1,
+        "published_at": "2022-09-23T17:49:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykNjH0ysq5SY5bwbJ4AaABAg",
+    "author": "@duncyy7471",
+    "author_channel_id": "UCsvu8O9YT_-If-eG3E_o2rg",
+    "text": "LTO cells have a higher resistance against 0v then the standard li ion 18650. Its not optimal for them, but if the temperature was stable in the 0V time they could be recovered. Just connect them to a bench power supply, limit the current and charge them for say 10min to see if they accept charge. if they do, charge them a other 10min and look if you get any heaters. If everything is ok and no hotspots, charge them fully and let them sit fully charged for some time, standard lithium is 2 weeks, after that measure again. cells that dropped to much voltage are damaged/dead. If you have heaters or voltage dropping cells, the need to be removed (or disconnected) from the pack.",
+    "likes": 0,
+    "published_at": "2022-09-23T17:45:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykNjH0ysq5SY5bwbJ4AaABAg.9gKQdjdgmJ69gKRBoHmcS5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - nice advice",
+        "likes": 1,
+        "published_at": "2022-09-23T17:50:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_dH-fLEDavlbRHQp4AaABAg",
+    "author": "@3D_Printing",
+    "author_channel_id": "UCn94CfWGHIwZGYiBwzPEV_A",
+    "text": "KILL O WHATS",
+    "likes": 0,
+    "published_at": "2022-09-23T17:44:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_dH-fLEDavlbRHQp4AaABAg.9gKQYWSLbaP9gKR95_zGd_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed",
+        "likes": 1,
+        "published_at": "2022-09-23T17:49:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykBS--Gil-iSvmaD54AaABAg",
+    "author": "@robcarl1100",
+    "author_channel_id": "UCJ6IvJsr5gGWR-WA0K1zICg",
+    "text": "Something else appears to be missing. Both a lithium battery and a super cap will need a ballasting circuit to even out the voltage in series and protect the device. Hard to see in the image but I don't see anything like that visible.",
+    "likes": 0,
+    "published_at": "2022-09-23T17:43:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykBS--Gil-iSvmaD54AaABAg.9gKQS9Gt_2R9gKR8O9V30W",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there is a basic BMS mate - it was the reason for the failure of the pack",
+        "likes": 0,
+        "published_at": "2022-09-23T17:49:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxGm-prX_hBZAURDXN4AaABAg",
+    "author": "@qkitselectronics5415",
+    "author_channel_id": "UCgclpSfLDbZlSmzI50d2UmQ",
+    "text": "2:14, you should check it with your tounge and make sure its not charged before handling,  it could give you a nasty shock. That is one big bank of caps.\n\n5:20 huh 5:50 some much information packed into that grey matter. Crafty guys, makin money for nothin, wow. Great info for people.",
+    "likes": 0,
+    "published_at": "2022-09-23T17:38:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxGm-prX_hBZAURDXN4AaABAg.9gKPrnwSwon9gKRFcTPXMR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-09-23T17:50:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHrjXukZzaVyN2w9Z4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "That reminds me of a content request . Putting out ev car fires and what methods are used . There is info on the tesla site that just says flood them with water but as some have stated , there is environmental issues of contaminated water and what to do with it etc etc etc . Its a very in-depth topic that I think need to be discuss a lot to reap the benefit of solutions from the masses minds as there isn't any as yet which is a great concern going forward .",
+    "likes": 0,
+    "published_at": "2022-09-23T17:33:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwHrjXukZzaVyN2w9Z4AaABAg.9gKPK5YB_X59gKPTQmiaXj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice idea mate - thanks for the suggestion",
+        "likes": 0,
+        "published_at": "2022-09-23T17:35:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8Tz_BhLCr19G2s7x4AaABAg",
+    "author": "@ThomasAndersonbsf",
+    "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+    "text": "if it is a lithium ion type of battery then maybe you have a ton of scrap you can parse and do videos with on reclaiming and reusing the material in them, maybe a bit of just \"for info\" on how the chemistry is done to prep and use the stuff in there to make batteries :)",
+    "likes": 1,
+    "published_at": "2022-09-23T17:21:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw8Tz_BhLCr19G2s7x4AaABAg.9gKNxIO0mJ29gKOPgELu3U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah I could do that mate - for sure",
+        "likes": 1,
+        "published_at": "2022-09-23T17:25:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSyJ7AfIanRaN1PWJ4AaABAg",
+    "author": "@offgridwanabe",
+    "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+    "text": "They can get away with this because of the high discharge rate of LTO and likely used a comparison to a smaller capacitor to equate the discharge rate too. Just my guess. I have read in a few places that LTO can be discharged to 0 and still be recharged safely. Great find good luck.",
+    "likes": 2,
+    "published_at": "2022-09-23T17:20:05Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwSyJ7AfIanRaN1PWJ4AaABAg.9gKNjq9_eME9gKOU8F0Fio",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's good news mate - gives me hope",
+        "likes": 1,
+        "published_at": "2022-09-23T17:26:32Z"
+      },
+      {
+        "id": "UgwSyJ7AfIanRaN1PWJ4AaABAg.9gKNjq9_eME9gKX_-GIaoP",
+        "author": "@offgridwanabe",
+        "author_channel_id": "UCWDNEcAR6aBY0bp6AIcJYsg",
+        "text": "@ThinkingandTinkering Ya I wouldn't be in a hurry to dismantle it until I was sure it was not usable in it's present configuration",
+        "likes": 0,
+        "published_at": "2022-09-23T18:45:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzrM8DDVOSQDz5bbzt4AaABAg",
+    "author": "@keithking1985",
+    "author_channel_id": "UCeqcadyZOmTAB0mq3YIre3g",
+    "text": "So it's a battery not capacitors. What happens when it's reaches it 800-1000 charge/recharge cycle. Ohh rip off.",
+    "likes": 1,
+    "published_at": "2022-09-23T17:14:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzrM8DDVOSQDz5bbzt4AaABAg.9gKN86n9tCJ9gKOXZlspmw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am a bit shocked to be honest mate - pun not intended lol",
+        "likes": 0,
+        "published_at": "2022-09-23T17:27:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZpUlokvYBzj0KiRx4AaABAg",
+    "author": "@samuelb6960",
+    "author_channel_id": "UCrCR5h3qu_4C_l-bXMJpbJg",
+    "text": "Their big selling point is that supercapacitors are safer. They are selling these to governments based on that claim.",
+    "likes": 0,
+    "published_at": "2022-09-23T17:10:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZpUlokvYBzj0KiRx4AaABAg.9gKMeizb8Xp9gKMzMflKWk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep",
+        "likes": 0,
+        "published_at": "2022-09-23T17:13:28Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx6wNSD0WcaxAcbLJB4AaABAg",
+    "author": "@Milkybar3320011",
+    "author_channel_id": "UCOj-8bIkbUq42YLlHevvNfA",
+    "text": "I feel your pain, I had a brand new Samsung 30q pack fail because of a cheap BMS. Had to strip the pack and test all 98 cells, salvaged 22. No surprise that the supplier stopped trading. Now build my own!",
+    "likes": 0,
+    "published_at": "2022-09-23T17:03:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx6wNSD0WcaxAcbLJB4AaABAg.9gKLnQQvygg9gKMBLvQ4-L",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's a lot of work! well done ate lol",
+        "likes": 0,
+        "published_at": "2022-09-23T17:06:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzNGWDM45Qn0hjwSx4AaABAg",
+    "author": "@overbuiltautomotive1299",
+    "author_channel_id": "UCq3DTW3znRPwfZlXaL1X7uQ",
+    "text": "what a great video Robert  and the  voltage going to low and ruining the battery is why i do not fool with battery stuff much to me its still 1990 in the market but with more power and a lot more bs useing baby sitting them junk really",
+    "likes": 0,
+    "published_at": "2022-09-23T16:59:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwzNGWDM45Qn0hjwSx4AaABAg.9gKLMSlDDRw9gKMDTPZQ04",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah really mate",
+        "likes": 0,
+        "published_at": "2022-09-23T17:06:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyCaAGOxoJIXsdtxY54AaABAg",
+    "author": "@TerryGilsenan",
+    "author_channel_id": "UCKAnFJ2DurxRddmCR_P7JMA",
+    "text": "\\me hears... Rob: Hey Luke, you did discharge this capacitor back, right?  Luke: Yeah, I think so. [[Boom, and flash!] Luke: Dad? Dad? Where'd you go?",
+    "likes": 0,
+    "published_at": "2022-09-23T16:49:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyCaAGOxoJIXsdtxY54AaABAg.9gKKDfG_Quf9gKMJ9T3GOG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lololol",
+        "likes": 0,
+        "published_at": "2022-09-23T17:07:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxs1HMw-hM2s4PnvMR4AaABAg",
+    "author": "@jw-adventure6002",
+    "author_channel_id": "UCSNTPD3Kq_g-qwzT8koiQjA",
+    "text": "It looks to be an 18650 battery bank.",
+    "likes": 0,
+    "published_at": "2022-09-23T16:32:22Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxs1HMw-hM2s4PnvMR4AaABAg.9gKIHNn4Seb9gKMLbU3BZo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah it is really",
+        "likes": 0,
+        "published_at": "2022-09-23T17:07:54Z"
+      },
+      {
+        "id": "Ugxs1HMw-hM2s4PnvMR4AaABAg.9gKIHNn4Seb9gLGBPekgoN",
+        "author": "@jw-adventure6002",
+        "author_channel_id": "UCSNTPD3Kq_g-qwzT8koiQjA",
+        "text": "@ThinkingandTinkering ha ha, yeah. I posted this early into watching the video, before you had gotten to the point of announcing it. Hopefully you get a couple good packs to play with. secondarily, you could pull the cells and make a new pack with the cells that test good.",
+        "likes": 0,
+        "published_at": "2022-09-24T01:33:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgweOn9lZc2jasnnhFJ4AaABAg",
+    "author": "@allenshepard7992",
+    "author_channel_id": "UCgqTrkYqGZqjf38P23otOKA",
+    "text": "I'm going to pass this along as a PSA or almost public service announcement. I do hope a few of the batteries turn out to be good. From flashlights the shortwave and emergency radios more and more devices are converting to the 18650 battery format",
+    "likes": 11,
+    "published_at": "2022-09-23T16:31:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgweOn9lZc2jasnnhFJ4AaABAg.9gKI9pzb9NR9gKMV4hJUvQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "go for it mate",
+        "likes": 1,
+        "published_at": "2022-09-23T17:09:11Z"
+      },
+      {
+        "id": "UgweOn9lZc2jasnnhFJ4AaABAg.9gKI9pzb9NR9gMMQTj0sk_",
+        "author": "@vinu6484",
+        "author_channel_id": "UCAzLS0VC4vZFNShAwtowTww",
+        "text": "When you make trillions of them to keep the production low u gotta brand them into something usefull to get ur fair share of the pie in money",
+        "likes": 0,
+        "published_at": "2022-09-24T11:47:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyAGyesFEo8JVMkl0x4AaABAg",
+    "author": "@williamcox1176",
+    "author_channel_id": "UCkrWS22MndbCUinwZEhKtPw",
+    "text": "Rob i always thought LT batteries where almost indestructible, they are bloody expensive, unless they are all dead i would be like a dog with two dicks with that haul.\nIs there any voltage on at all?",
+    "likes": 0,
+    "published_at": "2022-09-23T16:30:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzbBzVsQbrT5Mlajq94AaABAg",
+    "author": "@martinjandijkstra3205",
+    "author_channel_id": "UCk7p83NSuNlDbT3eArf67Yw",
+    "text": "Nice exposure. If I would make a guess, it has a poor BMS and maybe a single faulty cell makes the whole thing bad. Good luck finding it.",
+    "likes": 3,
+    "published_at": "2022-09-23T16:28:43Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzbBzVsQbrT5Mlajq94AaABAg.9gKHrg1XGbZ9gKMTFItsvo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol only 1,200 cells to look through lol",
+        "likes": 2,
+        "published_at": "2022-09-23T17:08:56Z"
+      },
+      {
+        "id": "UgzbBzVsQbrT5Mlajq94AaABAg.9gKHrg1XGbZAKXIEyRI8us",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "​@ThinkingandTinkering\nBinary chop, aka logarithmic search.\nOnly 11 tests and you've got the blighter.\n2^11 = 2048.",
+        "likes": 0,
+        "published_at": "2025-07-13T19:09:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyvnCm8ssMolseRrz94AaABAg",
+    "author": "@RedPillRachel",
+    "author_channel_id": "UCyLDbl-4PBS9lgWqQy9RpfA",
+    "text": "Please disassemble asap, as there are ways to revive lithium cells which aren't \"in the manufacturer's guidance\" but work fine anyway. Each cell cuts off *until a boost is applied* and most chargers don't do it. My chinese 18650 charger \"XTAR VC8+\" advertises that it can do it, and it works, from 0v to 3.2 in one step, and then it charges. The resulting cells have normal capacity and internal resistance, measured with more than one meter, 1 on the XTAR device and a discrete one, so somebody is lying somewhere, and it's not my 2 meters lol!",
+    "likes": 2,
+    "published_at": "2022-09-23T16:28:42Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyvnCm8ssMolseRrz94AaABAg.9gKHrUw9_un9gKM_EIuPjo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I will get on with tomorrow probably",
+        "likes": 1,
+        "published_at": "2022-09-23T17:09:54Z"
+      },
+      {
+        "id": "UgyvnCm8ssMolseRrz94AaABAg.9gKHrUw9_un9gL-d0L_nqw",
+        "author": "@RedPillRachel",
+        "author_channel_id": "UCyLDbl-4PBS9lgWqQy9RpfA",
+        "text": "@ThinkingandTinkering I eagerly await the followup, I'll be disappointed if you don't investigate dead cell revival, I'm sure its just a con to sell new batteries...",
+        "likes": 0,
+        "published_at": "2022-09-23T23:08:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_FiYEuBrIaJsLXdl4AaABAg",
+    "author": "@ancapftw9113",
+    "author_channel_id": "UC1ChjN_EcJ--pcU9m1DnMYw",
+    "text": "LTO batteries do have a few advantages over standard Li-Ions.  Better cycle life, better discharge/recharge rates, operate down to -40c without being damaged.  But they only have half the capacity of standard Li-ion batteries.\n\nCould be a good find.",
+    "likes": 3,
+    "published_at": "2022-09-23T16:26:18Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz_FiYEuBrIaJsLXdl4AaABAg.9gKH_xtjxWX9gKMajl-VON",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am hoping so mate",
+        "likes": 0,
+        "published_at": "2022-09-23T17:10:06Z"
+      },
+      {
+        "id": "Ugz_FiYEuBrIaJsLXdl4AaABAg.9gKH_xtjxWX9gKXwggZWM-",
+        "author": "@SuperKillerkarnickel",
+        "author_channel_id": "UC24Vu3KKi-wxSvfDpCpXg6w",
+        "text": "i bought some 13x35 mm something like 140mAh  LTO in cap form factor and you can easily discharge them at 10C up to 40C. but if you connect them in series you will still need a BMS and balancer.",
+        "likes": 1,
+        "published_at": "2022-09-23T18:49:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgysRWRWHQvK3qbliIV4AaABAg",
+    "author": "@dononebullen",
+    "author_channel_id": "UCyJLmvImKrmPRSDoykV7_3Q",
+    "text": "Whst was it used for power favctor correction wants stripping down for healthy cells",
+    "likes": 0,
+    "published_at": "2022-09-23T16:23:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgysRWRWHQvK3qbliIV4AaABAg.9gKHJYKHyEB9gKMc-zvFAx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "solar storage mate",
+        "likes": 0,
+        "published_at": "2022-09-23T17:10:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxrrbkuX_APCYUxrZ54AaABAg",
+    "author": "@dononebullen",
+    "author_channel_id": "UCyJLmvImKrmPRSDoykV7_3Q",
+    "text": "I could power my house with them did I hear giveaway ✨️ 😁",
+    "likes": 0,
+    "published_at": "2022-09-23T16:22:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxrrbkuX_APCYUxrZ54AaABAg.9gKHBv59r7t9gKMdZUTB8R",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah he gave it me",
+        "likes": 0,
+        "published_at": "2022-09-23T17:10:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkWOCt3e1-a5_ikr94AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "Thats a $5000 australia dollar unit . Not chump change is it !",
+    "likes": 1,
+    "published_at": "2022-09-23T16:14:25Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzkWOCt3e1-a5_ikr94AaABAg.9gKGDvWJTDW9gKMiRQHnfR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no - it isn't!",
+        "likes": 0,
+        "published_at": "2022-09-23T17:11:09Z"
+      },
+      {
+        "id": "UgzkWOCt3e1-a5_ikr94AaABAg.9gKGDvWJTDW9gKODD_UUK3",
+        "author": "@Buzzhumma",
+        "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+        "text": "Hmmm crazy world",
+        "likes": 0,
+        "published_at": "2022-09-23T17:24:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzMhPMt4kVmnSMsJl4AaABAg",
+    "author": "@Tore_Lund",
+    "author_channel_id": "UCeV6vI7N7dkqCozQzuUX6nQ",
+    "text": "So super capacitors have 1/20 the capacity of Li-ion, yet this box has an energy content comparable to a Li-ion battery module? There are a special kind of hybrid supercapacitors, that both uses electrostatic charge like a capacitor but also has som ion transfer so partially also acts as a battery. So in principle they could have avoided being scammers, if they got some of those instead just soldering 18650 cells in bulk.",
+    "likes": 0,
+    "published_at": "2022-09-23T16:13:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwzMhPMt4kVmnSMsJl4AaABAg.9gKG732QCvE9gKMoRa0jEc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know the kind you manmade but I didn't think they had the same energy density",
+        "likes": 0,
+        "published_at": "2022-09-23T17:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyrJumidNvhcx9SANl4AaABAg",
+    "author": "@dippyduty6163",
+    "author_channel_id": "UCodgysrBAzFRhFCTQmzhxAg",
+    "text": "Back in the late 90's, a company was advertising a miniature 1 Farad capacitor which was revolutionary at the time.  It turned out to be a rechargeable battery.",
+    "likes": 43,
+    "published_at": "2022-09-23T16:10:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyrJumidNvhcx9SANl4AaABAg.9gKFmBgrMwS9gKMqRAhWwx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lolol - good lord!",
+        "likes": 1,
+        "published_at": "2022-09-23T17:12:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugytg52dZBL1MT5VI2N4AaABAg",
+    "author": "@davebannister4222",
+    "author_channel_id": "UCXw51T1bAn4xTzWO7TKnyBQ",
+    "text": "they look very like  the battery pack that ocado use in there robots to me  and they used fail   for a passtime   in use    so much so they switched to a single battery pack on the latest  robots",
+    "likes": 0,
+    "published_at": "2022-09-23T16:09:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugytg52dZBL1MT5VI2N4AaABAg.9gKFgoNiB7u9gKMs6hCw8N",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "makes sense",
+        "likes": 0,
+        "published_at": "2022-09-23T17:12:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZoH09dQs2xtBm5Yd4AaABAg",
+    "author": "@corringhamdepot4434",
+    "author_channel_id": "UCKbn3Qib9xoIjal9sfa4wOg",
+    "text": "Found James Verster channel on YouTube, who did a detailed discharge test on one of theses 4 years ago. When asked if there were capacitors inside, in the comments he said \"This is definitely NOT a super capacitor battery. Efficiency is NOT what they say. Build quality is really bad. They are not telling the truth\".",
+    "likes": 1,
+    "published_at": "2022-09-23T16:07:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZoH09dQs2xtBm5Yd4AaABAg.9gKFNux3fw99gKMwnvWgEa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have heard that mate - and seen aa few bench tests on this - not good",
+        "likes": 1,
+        "published_at": "2022-09-23T17:13:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwjpjfQ00s5qwOswud4AaABAg",
+    "author": "@matthewellisor5835",
+    "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+    "text": "Very disappointing but certainly not unexpected given the general lack of understanding just in cell chemistries, much less when you add in capacitors.\nI must add that I had a bit of concern for your safety (no disrespect intended, they just compel from me a great deal of caution) at the video title; a capacitor bank that size could put out more instantaneous than thousands of homes might use. \n\nMy first guess as to the damage is a cascade failure and I hope you'll be able to salvage all but one cell in each series string.",
+    "likes": 0,
+    "published_at": "2022-09-23T16:02:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwjpjfQ00s5qwOswud4AaABAg.9gKEpHAjt3s9gKEzq4X9ly",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am pretty battery conversant mate - i wouldn't recommend anyone doing this who hasn't worked on these kinds of devices before - but ihave a long history of working on things like this",
+        "likes": 3,
+        "published_at": "2022-09-23T16:03:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwiADyAZoTK6D7rMlt4AaABAg",
+    "author": "@robgood9119",
+    "author_channel_id": "UC0JDgd9AtS588zUp9ABnCjg",
+    "text": "Thank you so much...I always knew it was a scam just didn't have one to disassemble",
+    "likes": 1,
+    "published_at": "2022-09-23T15:57:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwiADyAZoTK6D7rMlt4AaABAg.9gKEIJLodVK9gKF0RZep04",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2022-09-23T16:03:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVex2-EriQ5c31bZh4AaABAg",
+    "author": "@BigRich2580",
+    "author_channel_id": "UCevb0WsIl3HDY35KFUA7Z3w",
+    "text": "😱😱😱😱😱😱 Well that ain't as advertised is it, obviously I want you to get some use out of this in some way, but I'd really like to see you cut it open too",
+    "likes": 0,
+    "published_at": "2022-09-23T15:56:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVex2-EriQ5c31bZh4AaABAg.9gKEA2G_Qlt9gKEdBIzILu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah i am kind of keen to slice one open lol",
+        "likes": 1,
+        "published_at": "2022-09-23T16:00:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxxoM4E7Cx9qLvHxyd4AaABAg",
+    "author": "@simonsays5587",
+    "author_channel_id": "UC66Jrwya_OIg0DH18oJGUbA",
+    "text": "👍",
+    "likes": 0,
+    "published_at": "2022-09-23T15:52:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxxoM4E7Cx9qLvHxyd4AaABAg.9gKDl83N-lz9gKEeBGv5TU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2022-09-23T16:00:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxeVh1AM5Apjw9uW7F4AaABAg",
+    "author": "@roscovarna",
+    "author_channel_id": "UCcV7WZXvlM_91xelarekATw",
+    "text": "This is something  Photonicinduction would have in his living room.",
+    "likes": 0,
+    "published_at": "2022-09-23T15:50:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxeVh1AM5Apjw9uW7F4AaABAg.9gKDThSfben9gKEf3UU7Am",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool",
+        "likes": 0,
+        "published_at": "2022-09-23T16:00:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDt6nqDGp5oJJCrm14AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "WOW!!! That's a serious issue if it is verified. (And it sounds like it will be confirmed.) It could be filled with \"hybrid\" caps... which would allow them to still claim supercap.",
+    "likes": 4,
+    "published_at": "2022-09-23T15:49:10Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwDt6nqDGp5oJJCrm14AaABAg.9gKDKvu3xyu9gKEi5wTG4A",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's a bit of a shocker - in more ways than one",
+        "likes": 7,
+        "published_at": "2022-09-23T16:01:12Z"
+      },
+      {
+        "id": "UgwDt6nqDGp5oJJCrm14AaABAg.9gKDKvu3xyu9gKOHDQCN-k",
+        "author": "@ThomasAndersonbsf",
+        "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+        "text": "if not then it would be nice to have a bunch of cells to try doing to them what is shown with taking lead acid batteries and coating one set of the plates with the graphite material to turn the battery into a \"super battery\" battery/capacitor hybrid too, as well as what I already commented about using the scrap to show how chemically and energetically the materials are processed to recycle them back into batteries and such :)",
+        "likes": 0,
+        "published_at": "2022-09-23T17:24:46Z"
+      },
+      {
+        "id": "UgwDt6nqDGp5oJJCrm14AaABAg.9gKDKvu3xyu9gKRW-wujZG",
+        "author": "@marcfruchtman9473",
+        "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+        "text": "@ThomasAndersonbsf The down side to the hybrid battery+Cap design is that they lose most of the benefit of recharge cycles. Currently, I don't really see any advantage to using them for that reason.",
+        "likes": 1,
+        "published_at": "2022-09-23T17:53:00Z"
+      },
+      {
+        "id": "UgwDt6nqDGp5oJJCrm14AaABAg.9gKDKvu3xyu9gL9cZw1M_8",
+        "author": "@johnbuck5181",
+        "author_channel_id": "UCxhNmlJXSOasG5rjab3QLnw",
+        "text": "@ThinkingandTinkering …this is not the time for jokes Robert.",
+        "likes": 0,
+        "published_at": "2022-09-24T00:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzmkwstVLYMrg6OjOF4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "When capacitors ACTUALLY DO begin to be rated in KW/h, THAT will be the day that energy storage will be truly the way of the future!",
+    "likes": 4,
+    "published_at": "2022-09-23T15:48:58Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzmkwstVLYMrg6OjOF4AaABAg.9gKDJRhsrcI9gKEjrsuM9a",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate",
+        "likes": 0,
+        "published_at": "2022-09-23T16:01:26Z"
+      },
+      {
+        "id": "UgzmkwstVLYMrg6OjOF4AaABAg.9gKDJRhsrcI9gQpPBMRdSb",
+        "author": "@ma894",
+        "author_channel_id": "UCHbpl5qkXkydMGhTwr3Uj5Q",
+        "text": "@ThinkingandTinkering  how far off still are we from having that scenario?",
+        "likes": 0,
+        "published_at": "2022-09-26T05:25:58Z"
+      }
+    ]
+  }
+]

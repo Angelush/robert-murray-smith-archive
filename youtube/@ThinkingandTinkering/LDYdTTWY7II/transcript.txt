@@ -1,0 +1,150 @@
+[00:02] [Music]
+[00:14] so my friends at canterbury
+[00:16] automotive brought me this thing it is
+[00:19] in fact a fan motor
+[00:20] but it's a fan motor from a bmw now
+[00:23] mostly fan motors
+[00:24] i look like this they're 12 volt brushed
+[00:27] dc motors
+[00:28] and they're not bad at all for sticking
+[00:30] in a window generator when they brought
+[00:32] this it was immediately obvious this was
+[00:34] a brushless dc
+[00:35] motor and it's a fairly chunky thing
+[00:38] actually
+[00:38] now something like that is really
+[00:41] interesting
+[00:42] apparently the electronics are gone but
+[00:44] because we're not interested in
+[00:45] electronics we're interested in the
+[00:47] coils in the magnet arrangement
+[00:49] now to get this thing apart if you flip
+[00:51] it over it's got a
+[00:52] line of silicon dig out the silicone
+[00:54] with the knife and that bit falls off
+[00:56] you can see the bearing right there and
+[00:57] three points of wires which are likely
+[00:59] to be the
+[01:00] um coils for the melter itself
+[01:03] but we can do the same thing dig out the
+[01:06] silicon and prise this off
+[01:10] there we go and we get a whole bunch of
+[01:13] electronics because this
+[01:14] is run 12 volts there's a 12 volt wire
+[01:17] here we've got a green the black which
+[01:18] is feeding the power
+[01:20] sorry a black and red feeding the power
+[01:21] and then there's a green which is
+[01:22] obviously some kind of sense
+[01:24] we can see the electronics here these
+[01:27] electronics are shot apparently now
+[01:28] they're only held on with half a dozen
+[01:30] torx screws
+[01:31] so i've taken the torx screws out and we
+[01:33] should be able to lever that board out
+[01:35] now
+[01:36] i can see these chunky wires going to
+[01:38] the board so they're going to be the
+[01:39] power wires
+[01:41] and i'm going to prise that out and
+[01:42] disconnect those power wires
+[01:44] okay so when you price it off that's
+[01:46] what you get so the electronics used to
+[01:48] live there
+[01:49] you just price them off and you get
+[01:50] these three prongs now these are the
+[01:52] windings on the coils
+[01:54] we've got this beautiful sturdy case got
+[01:56] these three solid windings
+[01:58] we turn it over you can see how thick
+[01:59] the copper is on there
+[02:01] these are ceramic magnets it's thick
+[02:03] copper with not many turns so the output
+[02:05] on this at low speed is
+[02:07] not going to be great but it is a
+[02:10] three-phase generator
+[02:12] so if we connect that up and put that
+[02:15] through a rectifier bridge which is that
+[02:17] and they've done lots of videos on
+[02:19] rectifier bridges so you just have a
+[02:21] look on those you'll be able to find out
+[02:22] how to make that bridge
+[02:24] connect those up to the three wires
+[02:29] give that a spin and it will generate so
+[02:32] the amps are a little more depressing
+[02:34] we spin that by hand we can get a few
+[02:36] micro amps out of it we really need to
+[02:38] get some speed on that to get anything
+[02:40] at all
+[02:42] and there we can go get up to milliamps
+[02:44] even get some speed on it
+[02:57] there we go a milliamp or so so clearly
+[03:00] we need some mechanism on this
+[03:02] to get speed now the torque on this is
+[03:05] amazingly low it's really easy to spin
+[03:07] it but it was meant to spin at very high
+[03:10] speeds so as i say we need some kind of
+[03:12] mechanism
+[03:13] on this to get this up spinning fast the
+[03:16] real benefit of this of course it was
+[03:18] made for a cop so it's a real chunky
+[03:21] beast it's solid it's sturdy it's got
+[03:23] good bearings it was the electrics that
+[03:25] blew
+[03:25] nothing else so this is in really good
+[03:27] condition and can
+[03:28] take that kind of modification so all
+[03:31] i've done is
+[03:32] grabbed the bicycle turned it upside
+[03:33] down and stuck it on the bench and we're
+[03:35] going to hold this against the wheel
+[03:37] and turn the wheel because when we do
+[03:39] that what we've got is a big
+[03:41] gear because we've got a big wheel
+[03:42] running a small wheel now if we do that
+[03:45] we should get
+[03:45] a much more impressive reading and then
+[03:48] um
+[03:50] to get a bit closer for you the meter is
+[03:52] right there
+[03:53] let's line that up
+[04:08] and we get 0.6 of an amp out of it so
+[04:10] it's much much more impressive if you
+[04:12] can spin it at speed
+[04:14] let's have a look at the vaults
+[04:33] so that will give three or four bolts at
+[04:35] half an amp as
+[04:36] long as you turn it at speed so
+[04:39] obviously the next thing we need to do
+[04:40] is make a mechanism where we can
+[04:42] actually connect that to something that
+[04:44] will gear
+[04:45] in that kind of ratio because with those
+[04:47] thick wires
+[04:49] then really this thing is meant to turn
+[04:51] at speed to generate
+[04:52] so at low speeds absolutely piddling
+[04:55] very embarrassing in fact
+[04:56] but at higher speeds when we use this
+[04:58] gear ratio we get some really good
+[05:01] output from something like this so i
+[05:04] know i was lucky
+[05:05] because the guys at canterbury
+[05:06] automotive are just awesome guys
+[05:08] but that is a bmw brushless dc
+[05:11] motor from one of their fans and the
+[05:13] electrics go
+[05:14] the rest of it actually stays in really
+[05:17] good conditions if you get one of those
+[05:18] and salvage it
+[05:20] converting that into a generator is a
+[05:23] matter of doing something where you get
+[05:25] the gear ratio
+[05:26] to turn this at speed anyway i thought i
+[05:28] would share that with you because an
+[05:30] absolutely fascinating thing that they
+[05:31] gave me
+[05:32] i certainly going to do something with
+[05:34] it i hope you enjoyed the video
+[05:35] thank you very much for watching and
+[05:37] don't forget to subscribe

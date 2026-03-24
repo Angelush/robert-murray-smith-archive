@@ -1,0 +1,192 @@
+[00:00] [Music]
+[00:08] So, we've been working on this, which is
+[00:10] a variable hyper cycl. And what we want
+[00:12] to do, of course, is get something
+[00:13] useful out of it. And fair few of the
+[00:15] videos we've been doing have actually
+[00:17] been based on this. And I think I'm
+[00:19] about ready now to actually create the
+[00:22] final thing. I think we've covered all
+[00:24] the mechanisms that we need to cover
+[00:26] that we haven't covered before. Of
+[00:28] course, we're adapting something like
+[00:30] this. This is a display model so we can
+[00:32] see how it works. As a practical device,
+[00:35] it does need a little bit of changing.
+[00:37] And that's the first task to do to
+[00:39] change it into something that I want it
+[00:41] to be more like. Now, of course, I'm
+[00:44] thinking of a bicycle CVT, being able to
+[00:46] change gear ratios in a bicycle. For
+[00:49] that, this worm drive is perhaps no
+[00:51] good. What I really want is a lever. a
+[00:54] lever that works against a spring and
+[00:55] maybe as a handle that I can pull to do
+[00:57] that. So, the first thing to do is to
+[00:59] create something that is going to well
+[01:02] fit in a bicycle hub really. Now, this
+[01:05] is what I've created. It's a little
+[01:06] oversized yet because I'm still not sure
+[01:09] how this is going to actually work. I
+[01:11] want to put those mechanisms together
+[01:12] and see if the whole thing works. But,
+[01:15] it would fit inside of a wheel hub and
+[01:18] we can't make this much thicker than a
+[01:21] wheel can take. So, we have constraints
+[01:23] on the size of the thing. And that's all
+[01:25] one printed piece. And in there sits,
+[01:28] here we go,
+[01:30] the gear ring that we had on the
+[01:32] epicenter. It's this ring here that's
+[01:34] movable. So, that will sit there and
+[01:37] we'll be able to move that backwards and
+[01:39] forwards. To move that backwards and
+[01:40] forwards, if you remember, we don't need
+[01:42] to move it more than 90°. So, in the
+[01:44] side there, there's a slice cut out
+[01:47] because I've got a handle. The handle
+[01:49] goes into there. We got a notch in
+[01:52] there. Gets glued into that notch. That
+[01:55] then feeds into the slot that we've got.
+[01:58] So, we can feed it into the slot. We
+[02:00] have a retaining ring that holds the
+[02:02] retaining ring in place. Of course, the
+[02:04] drive, which is this here with the
+[02:07] bearing, goes through in the center
+[02:09] hole. And that bit goes on there like
+[02:12] that. And now, we can actually move that
+[02:15] around and change that relationship just
+[02:17] by sliding that handle. Of course, what
+[02:19] we'll actually do is put a cable on
+[02:21] there with a stop here and a spring so
+[02:23] that we can pull it up against the
+[02:25] spring to change the gear ratio. So,
+[02:27] that's much more like what I want. Now,
+[02:30] of course, in order to get this to work,
+[02:33] we need this slide arrangement on it.
+[02:35] The slide arrangement that we've got
+[02:37] here won't do. So, what I've done is
+[02:40] create this slide arrangement that has
+[02:42] notches here and here where we can put
+[02:44] the slide in and little indentations
+[02:46] because that
+[02:49] goes on like that. And it has a marker
+[02:52] called T. T goes on there and snaps into
+[02:55] place. Right. This small slide snaps
+[02:59] into this slide guide by basically
+[03:01] forcing it in there. So, force it in
+[03:03] there. There we go. Then this goes on
+[03:06] the peg here. And you'll notice on this
+[03:09] main square, there's a couple of notches
+[03:11] here and here. So, it goes that way
+[03:12] around. And again, we just force it into
+[03:15] there with that peg in place
+[03:25] like that. So, once we get it into that
+[03:28] form, what we've done is reproduce this
+[03:31] but in a more compact form that I think
+[03:33] is more usable for my use case. And of
+[03:36] course, if I turn that, that will move,
+[03:38] unless I change the position when the
+[03:40] distance that moves changes. Now, of
+[03:43] course, given that I want to use this in
+[03:44] the back of a bike, having it exposed
+[03:46] like this, which is cute when you want
+[03:48] to look at the mechanism isn't actually
+[03:50] much use. What we need to do now is
+[03:52] convert that linear motion back to
+[03:54] rotation, but in case of things, so it's
+[03:57] protected. And so, we have this plate.
+[03:59] This plate fits over there and clips
+[04:02] into place like that. What we now need
+[04:05] is the reciprocating rack that we made
+[04:07] in video 2399. And I'm using this one,
+[04:10] which is the clutch bearing version. You
+[04:12] could use the ratchet version if you
+[04:14] like, but I'm using the clutch bearing
+[04:15] because it's quieter and more accurate.
+[04:17] And all we do is take the rack, which
+[04:19] now has an indentation in the back. That
+[04:21] slots onto the peg there. Then this
+[04:24] slots into the two holes waiting for it.
+[04:28] Like that. Now I can finish this bit off
+[04:30] by adding the cover plate. And the cover
+[04:33] plate just slots into place
+[04:37] like that. Now this is nearly finished.
+[04:40] Every one turn I give of this will get
+[04:43] two turns out of that when it's at its
+[04:46] maximum. When it's at its minimum, every
+[04:49] one turn I turn of this is zero of that.
+[04:52] So we're going from zero to 2:1. Now
+[04:56] that might not seem like a lot. I mean,
+[04:58] you know, it's only a 2:1 gear ratio,
+[05:01] but we can change that by mcking around
+[05:04] with the gears in here. Or we can do
+[05:07] something like add that. That obviously
+[05:10] is a planetary gear system and it's a
+[05:12] 6:1 gear system. So, if I put that on
+[05:15] here, gears, remember, don't add, they
+[05:19] multiply. So, what I'll get is a zero to
+[05:23] 12 to one that I'm able to do by just
+[05:27] moving that handle. Okay, let's put that
+[05:29] on. And the final cover plate. So, the
+[05:32] final plate just slips onto there. There
+[05:35] we go. Line it up with the notches and
+[05:38] press it in. And then we're ready to go.
+[05:43] Right. Right. I put a couple of dots on
+[05:45] it. One right there and one right there.
+[05:48] So we can have a look at the relative
+[05:50] positions now with that lever. There we
+[05:53] go. That lever there far over here. Of
+[05:55] course it's in the zero position. So I
+[05:58] can turn that as much as I like. And of
+[06:00] course there's no output which is what
+[06:02] you want and what you'd expect. Now if I
+[06:06] move that lever, so I slide that lever
+[06:08] up, then what happens of course is we
+[06:11] get output. There we go.
+[06:14] Question is how much? So, I'll rotate
+[06:17] that dot by one and we'll see how far
+[06:20] that dot travels
+[06:28] five.
+[06:34] Okay, I lost count. I did one rotation
+[06:37] of that. I lost count of that. So, I'm
+[06:39] going to try something different. We'll
+[06:41] rotate that once and see how far that
+[06:44] has traveled. So, let's get that rotated
+[06:47] once. There we go. And the dot has
+[06:50] traveled from here to here about 16th of
+[06:54] the way. So, there we go. I think that's
+[06:57] pretty awesome actually. Now, I
+[06:58] appreciate that was a little hard to
+[07:00] see, but you know, it worked really
+[07:03] quite well. And of course, I will put
+[07:04] these on Thingiverse should anybody want
+[07:06] to test whether I'm talking absolute BS
+[07:09] or not. You just have to print one off
+[07:10] and CV yourself. But it certainly worked
+[07:13] as far as I could tell. And I hope as
+[07:15] far as I could demonstrate what we've
+[07:17] got here is a combined
+[07:20] continuously variable transmission and
+[07:23] clutch because of course with the lever
+[07:25] here we have a zero position and no
+[07:27] output and as we moved it along we got
+[07:30] variable output. So it depends on the
+[07:32] position of the lever to what the actual
+[07:34] gear ratio is and the gear ratio of this
+[07:36] one is from zero to 12 to one.
+[07:39] Obviously, we have our input cog here
+[07:41] and our output cog there, which would be
+[07:43] the wheel. Or, of course, we could try
+[07:45] and get this into the hub. Now, it's
+[07:47] still a little bit chunky, granted, but
+[07:50] then I've really just been working out
+[07:52] that these three components we put
+[07:53] together actually work together, which
+[07:56] I'm quite pleased to say they do. Now,
+[07:59] it needs a little bit of redesign to
+[08:00] make it less chunky, but not by much.
+[08:04] Anyway, I hope you enjoyed the video.
+[08:06] Thank you very much for watching. These
+[08:08] will be on Thingiverse. And please do
+[08:10] remember to like and subscribe.

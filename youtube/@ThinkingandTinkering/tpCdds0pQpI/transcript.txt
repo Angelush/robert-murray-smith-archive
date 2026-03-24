@@ -1,0 +1,303 @@
+[00:03] [Music]
+[00:10] okay so we've done quite a bit of math
+[00:12] already i mean we've looked at his
+[00:14] history we looked at its grammar we
+[00:16] haven't done anything on a useful
+[00:19] application of what we've learned so far
+[00:22] so i thought i'd do something on that
+[00:23] what i'm going to do is something on
+[00:25] capacitors because of course capacitors
+[00:28] are a great big interest of mine
+[00:29] particularly for energy storage and if
+[00:32] you're looking at designing capacitors
+[00:34] and looking at how capacitors and super
+[00:36] capacitors and batteries work then this
+[00:39] is going to be something you need to
+[00:41] know so that you can sensibly look at it
+[00:45] now these videos are made for a wide
+[00:48] audience and there's a wide range of you
+[00:49] guys out there with a huge difference in
+[00:52] the understanding and of course that's
+[00:54] quite challenging to do a video on so
+[00:57] part of this video is going to contain
+[00:59] elements that really affect different
+[01:01] kinds of people so you'll notice
+[01:04] this stuff here now we talked about the
+[01:07] greeks and the greeks who needed proof
+[01:09] well a lot of people need proof and a
+[01:11] proof is about stating clearly
+[01:14] what it is you're relying on and i'm
+[01:16] relying on these things here this is
+[01:18] basically gauss's law and this is a
+[01:20] straightforward definition of what
+[01:22] capacitance is so here we've got
+[01:25] is equal to the charge divided by the
+[01:27] voltage dawson's law is pretty easy
+[01:29] stuff we've got charge density over
+[01:31] permittivity for the energy stored
+[01:33] that's what the charge density is it's
+[01:35] the charge divided by the area and this
+[01:38] defines the voltage as the the line
+[01:41] integral of the area underneath that um
+[01:43] between those two plates so that's the
+[01:46] prepositions that i'm going to rely on
+[01:48] now you don't need to look at this
+[01:50] because what we're going to do is a
+[01:52] simpler derivation of it we're going to
+[01:54] look at it in a common sense kind of way
+[01:56] but we could equally derive it from the
+[01:59] basic prepositions i've just written
+[02:00] here on the board so if you're somebody
+[02:03] who's really into their capacitors and
+[02:05] really into their math
+[02:06] there are the prepositions that i'm
+[02:08] actually relying on to talk about how we
+[02:11] derive the formula for a capacitor
+[02:16] remember that we talked about the
+[02:18] grammar of mathematics when i said that
+[02:20] one of the key points in the grammar of
+[02:22] mathematics was the model so we're going
+[02:24] to make a model of a capacitor now a
+[02:27] capacitor in its simplest form is a
+[02:28] parallel plate capacitor and that
+[02:30] literally is two metal plates
+[02:35] there's something in between them
+[02:39] that we put a charge on
+[02:48] there we go that's my model
+[02:50] now there are certain things on here
+[02:52] obviously that matter one of them is
+[02:55] we've got these plates which have an
+[02:57] area a
+[02:59] they're also a certain distance apart
+[03:02] which we can call
+[03:06] deep
+[03:07] distance apart
+[03:09] they also have this material in there
+[03:12] which is the dielectric
+[03:16] now capacitors when you put a charge on
+[03:19] them this material turns it turns to
+[03:22] line up with the charge and that's
+[03:24] called permittivity if we didn't have
+[03:27] anything in there then we have the
+[03:29] permittivity of free space because even
+[03:31] if there's nothing in there there's
+[03:33] something in there okay the permittivity
+[03:36] is usually represented by the symbol
+[03:38] epsilon and the permittivity of free
+[03:40] space is epsilon zero
+[03:43] permittivity remember is just that
+[03:45] ability
+[03:46] to polarize it's a constant actually it
+[03:48] has an actual value
+[03:50] now polarization
+[03:52] reflects the capacitance it affects the
+[03:54] amount of energy that can actually be
+[03:56] stored between those two plates as a
+[03:59] polarizability of the dialectic between
+[04:02] these two so those are the important
+[04:06] elements of a capacitor
+[04:09] and we're going to take this as free
+[04:10] space just to make our job a little
+[04:12] easier but you need to bear in mind that
+[04:14] different materials in here will have a
+[04:16] different result and they produce
+[04:18] something called relative permittivity
+[04:20] which is the ratio of the um
+[04:22] permittivity of the material to absolute
+[04:25] and relative permittivity free space
+[04:28] we can do that in a different video
+[04:30] right now let's just take it as read
+[04:32] that this has a permittivity has a
+[04:34] distance apart and plates have an area
+[04:36] with a charge on them because that's
+[04:39] what we need from our model to come to
+[04:42] this so the capacitance
+[04:45] well what's going to affect the
+[04:46] capacitance based on our model when i
+[04:48] put the three things in there one of
+[04:50] them obviously is the ability of this
+[04:52] material to polarize that is the ability
+[04:54] of it to turn
+[04:56] in an applied electric field and store
+[04:58] that electrical energy which is exactly
+[05:00] what we want it to do so it's going to
+[05:02] have something
+[05:04] to do with the permittivity
+[05:06] and we know that the permittivity goes
+[05:09] up while the capacitance goes up
+[05:11] what else would make that increase well
+[05:14] pretty much the area so we know the area
+[05:17] is going to have a positive impact as
+[05:19] the area goes up the capacitance is
+[05:21] going to go up the distance is also
+[05:24] going to have an effect
+[05:25] as we increase the distance the
+[05:28] capacitance is going to go down
+[05:30] as we decrease the distance the
+[05:32] capacitance is going to go up now we can
+[05:34] get this just by testing capacitors we
+[05:36] can actually have a look at the effect
+[05:38] that distance has because if we use two
+[05:41] parallel plate capacitors then we can
+[05:43] just separate them or push them together
+[05:44] and see what happens to the capacitance
+[05:46] that's an inverse relationship
+[05:49] nearer they are
+[05:51] higher the capacitance the further apart
+[05:53] they are then the lower the capacitance
+[05:56] so what we do is divide it
+[05:59] if we divide by a smaller number the
+[06:02] capacitance goes up if we divide by a
+[06:04] bigger number the capacitance goes down
+[06:08] so what we've done here in terms of the
+[06:10] mathematics we've learned so far
+[06:12] we've stated our propositions
+[06:15] we've drawn a model and we've derived an
+[06:18] equation from that that describes the
+[06:21] model
+[06:22] now i've just derived that on the board
+[06:24] from common sense but i could equally
+[06:26] have derived it using the mathematics
+[06:29] but we haven't done that yet so what
+[06:31] we've done so far is exactly what i've
+[06:33] done on the board
+[06:35] stated my assumptions
+[06:37] drawn my model
+[06:39] derived my equation
+[06:42] that is most definitely a board full of
+[06:44] mathematics but
+[06:46] what is it
+[06:47] well these are sentences
+[06:49] these are sentences telling us about the
+[06:52] relationship of the size of things
+[06:56] so the size of this
+[06:58] is affected by the size of this
+[07:01] the size of this and the size of this
+[07:04] because remember mathematics is a
+[07:06] language that uses sentences to describe
+[07:10] size is what we did in the first video
+[07:12] in this series what is that relationship
+[07:15] well as this gets bigger this gets
+[07:16] smaller as this gets bigger this gets
+[07:19] bigger as this gets bigger this gets
+[07:21] bigger so all we've got here is the
+[07:24] quality of this material
+[07:26] and its ability to polarize which is
+[07:28] represented by epsilon zero the area
+[07:31] which is a and the
+[07:33] distance which is d
+[07:35] so in essence
+[07:37] based on the model it's actually
+[07:39] incredibly simple when you look at it
+[07:41] for what years being a sentence
+[07:43] describing the relationship of sizes
+[07:47] that's all that is it's the same thing
+[07:49] here all we've got here is that the
+[07:53] electric field
+[07:55] is described by the charge density
+[07:58] divided by the permittivity if you think
+[08:01] about it that makes a lot of sense
+[08:03] because charge density is just the
+[08:06] amount of charge
+[08:08] divided by the area
+[08:10] and that's all those things are telling
+[08:12] us they're telling us about the
+[08:13] relationships of things we've got from
+[08:16] our model
+[08:17] and how they relate to each other in
+[08:19] size so when you look at the equation
+[08:22] that's what you're looking at you're
+[08:23] looking at a sentence telling you those
+[08:24] things
+[08:25] it's useful because because we can use
+[08:28] it to analyze what's going to be good if
+[08:31] we actually start looking at making a
+[08:34] supercapacitor so ask yourself the
+[08:35] question
+[08:36] how would you make a good supercapacitor
+[08:39] we know what the relationship of size is
+[08:42] we want to make this big
+[08:43] we'll make this big because we want to
+[08:46] store a lot
+[08:47] if we want to make this big we have a
+[08:49] number of choices reggie and i have
+[08:50] three choices
+[08:52] we can make this really really small
+[08:54] which is exactly what they do in
+[08:55] electrolytic capacitors because the
+[08:57] distance is the distance of the oxide
+[09:00] layer we can make this really really big
+[09:03] which is exactly what they do with
+[09:05] capacitors by roughening the surface
+[09:07] area rolling up the plate so you get a
+[09:10] lot in a small size or using a carbon
+[09:13] with a high surface area that
+[09:16] is an important issue
+[09:18] this one well we can use that and this
+[09:20] is what an awful lot of research is
+[09:23] about because things like
+[09:25] barium titanates for instance have a
+[09:27] huge permittivity in the order of
+[09:29] millions
+[09:30] whereas things like aluminium oxide
+[09:32] which is what's on a electrolytic
+[09:34] capacitor and they've got the order of
+[09:36] tens to twenties something like that so
+[09:39] we can change that and you find
+[09:41] companies working on each of these
+[09:44] trying to make it as thin as possible
+[09:45] trying to make the biggest surface area
+[09:46] or trying to get the highest
+[09:48] permittivity because they want that to
+[09:50] be the highest value possible so that
+[09:53] can tell you about the things you need
+[09:56] to be looking at when you're thinking
+[09:57] about developing your own
+[09:59] supercapacitors now obviously we've done
+[10:01] lots of work on this because we use
+[10:03] carbon
+[10:04] using carbon and making carbon
+[10:06] structures with a large surface area is
+[10:09] going to have an enormous impact on the
+[10:12] capacitance so that little sentence
+[10:15] there
+[10:16] that we pulled from our basic
+[10:18] assumptions
+[10:20] to make a sentence that describes a
+[10:22] relationship of science gives us an
+[10:26] ability to analyze what it is we're
+[10:28] doing and make sensible choices about
+[10:31] how we're going to move forward and i
+[10:33] say sensible because it's not sensible
+[10:35] to make a carbon with a very bad surface
+[10:38] area because that'll be rubbish it's
+[10:41] obviously much better to make a carbon
+[10:43] with a very large surface area because
+[10:45] that will make a big improvement so it
+[10:47] guides what you can do and that's the
+[10:49] importance of mathematics mathematics
+[10:52] describes what you think a system is
+[10:55] made up of and it describes it in terms
+[10:58] of the relationship of sizes
+[11:01] you use that to analyze and to direct
+[11:05] your behavior on what it is you're going
+[11:08] to investigate now this section of it
+[11:10] here is exactly what we've done this bit
+[11:13] here i remember i talked about the need
+[11:15] for your um
+[11:16] suppositions when you're going to do a
+[11:18] proof what i normally would do now is
+[11:21] derive this from this and you would see
+[11:23] that the relationship is just like that
+[11:25] but we haven't actually got that far yet
+[11:27] so that is pulled from what we've done
+[11:31] and what we've done also gives that
+[11:33] significance anyway i thought i did
+[11:36] something useful with the mathematics i
+[11:38] hope it didn't drain you too much
+[11:40] if it has drowned you too much just
+[11:43] focus on that bit that we did here and
+[11:46] focus on what that's actually saying
+[11:49] anyway i hope you enjoyed the video
+[11:51] thank you very much for watching and
+[11:53] please do remember to like and subscribe

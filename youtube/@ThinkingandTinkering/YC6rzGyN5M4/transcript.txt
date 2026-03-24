@@ -1,0 +1,269 @@
+[00:00] [Music]
+[00:08] now this little thing is a spring now I
+[00:12] think it could be argued that Springs
+[00:15] are one of the most important inventions
+[00:17] of humankind right up there with the
+[00:20] wheel the washing machine sliced bread
+[00:23] me think of Springs mostly like this B
+[00:26] bit of metal but a spring is any elastic
+[00:30] material with rigidity that can return
+[00:32] to its shape after being compressed or
+[00:35] extended and what that means is Springs
+[00:38] can store energy the bow is an example
+[00:41] of a non-metal spring that's been around
+[00:43] with us for something like 70,000 years
+[00:46] and could be seen as fundamental to our
+[00:49] survival of a species but of course
+[00:52] there are lots of different kinds of
+[00:54] Springs and we can classify them in
+[00:56] terms of their type in which case we get
+[00:59] things like V Springs coil springs leaf
+[01:02] springs involute Springs all kinds of
+[01:05] different types another way of looking
+[01:08] at them is in terms of their physics or
+[01:11] the load applied to them and perhaps the
+[01:13] three most important ones are going to
+[01:15] be compression springs extension Springs
+[01:19] and then torsion springs now a
+[01:21] compression spring usually has an open
+[01:24] structure you squeeze it or compress it
+[01:26] and when you let go of course it goes
+[01:28] back to its original shape and extension
+[01:30] spring is usually a much closed
+[01:32] structure you put a tension on it or
+[01:34] extend it Let It Go goes back to its
+[01:37] original shape a torsion spring is where
+[01:40] you twist it round and perhaps some of
+[01:43] the most infamous uses of this were in
+[01:45] the Roman artillery and things like the
+[01:48] ballista which was used for firing
+[01:50] projectile weapons or the Ona which was
+[01:52] used for battering down defenses with
+[01:55] stone or metal balls and it was often
+[01:58] made of Timber and s or hair or rope and
+[02:02] they could store a huge amount of energy
+[02:05] because these are very destructive
+[02:07] machines so whatever the physics and
+[02:09] whatever the type of spring they have
+[02:12] the same job and that is to store energy
+[02:16] for later release so Springs don't have
+[02:18] to be metal they come in a huge variety
+[02:20] of forms and of course the filament in
+[02:23] 3D printers has all the qualities of a
+[02:26] spring that is it has elasticity and it
+[02:29] has rigidity of course this isn't
+[02:31] something that's escaped people you find
+[02:33] 3D printed Springs all over the place
+[02:36] from desktop catapults to wind up
+[02:38] Clockwork cars clocks themselves and of
+[02:41] course the famous prin in place Nerf gun
+[02:45] but the spring doesn't have to be at the
+[02:47] center of attention this ability to
+[02:49] store engine release it later can be
+[02:52] used even in the humblest of machines
+[02:54] even in something as every day as the
+[02:57] latch so the latch does a really simple
+[03:01] job all it really does is keep things
+[03:03] closed but it's such a fundamental task
+[03:06] that you find latches in millions of
+[03:09] designs and they're absolutely
+[03:10] everywhere they're a bit like hinges and
+[03:12] th pairings we don't really think about
+[03:15] them but they're essential to what we
+[03:17] want to do and of course we can upgrade
+[03:19] the simple Latch by adding a few Springs
+[03:23] and if we add a few Springs we can turn
+[03:25] it from manual to automatic so we need
+[03:29] to CR spring to make a spring start with
+[03:31] this semicylinder here and put it onto
+[03:33] the workspace now we want to rotate it
+[03:36] into an orientation that's easy for us
+[03:38] to work with and to do that we use these
+[03:40] rotation handles if you click on the
+[03:43] handle and move to the outside you'll be
+[03:44] able to move it by one or two degrees if
+[03:47] you keep it on the inside it will jump
+[03:49] by 22 degrees per jump so we'll put that
+[03:52] at 90 and then we need to bring it level
+[03:54] to the V and then I want it that
+[03:56] direction so I swivel it round by 90 as
+[03:59] well and that gives in an orientation
+[04:01] that I'm going to find easy to work with
+[04:03] now if we click on it we can see the
+[04:04] size it's 20 by 20 it's a semicylinder
+[04:07] so it's 10 let's make make that a
+[04:09] centimet high so 10 mm and a cenm deep
+[04:14] so 10 mm then it's not a semicircle so
+[04:16] let's change up to five and we get our
+[04:19] semicylinder now to make this part of a
+[04:21] spring we need to thin it out as a leaf
+[04:24] so if we just go into that copy it then
+[04:28] we can change this to eight which gives
+[04:30] us a millimeter all the way around once
+[04:32] we Center
+[04:35] it and this one to four make it a
+[04:41] hole highlight it use a center key to
+[04:44] center it to the center of the cylinder
+[04:47] and to the edge of the cylinder right
+[04:50] there now if we group those
+[04:54] together we get ourselves a little band
+[04:57] we want the actual breadth of the spring
+[04:59] as well and so we take a cube primitive
+[05:02] make it 1
+[05:03] mm by 10 because that's how tall it was
+[05:06] remember and we'll leave it at
+[05:11] 20 now we need to line it up to
+[05:14] this so we can do that just by
+[05:16] highlighting the two of them hit the
+[05:18] lineup key click on the semicylinder
+[05:20] line it to that edge now if we jump down
+[05:24] to that we can use the work plane tool
+[05:27] to create a work plane right there and
+[05:29] then we can drop that onto that work
+[05:31] plane which will line it
+[05:37] up now if we group those we have the
+[05:41] basics of our spring all we need to do
+[05:44] is repeat that so if we click on it and
+[05:48] copy it then we can mirror
+[05:51] it in that direction and remember it's
+[05:54] 10 Deep so we need to move it
+[05:59] so that it lines
+[06:02] up there we go and then we need to move
+[06:05] it to the
+[06:06] right so it's lined up
+[06:10] there now we can just repeat
+[06:15] that and it will build our
+[06:18] spring to any size we want obviously
+[06:21] group
+[06:22] it and we can print it and then of
+[06:26] course we printed it out now when we've
+[06:28] printed it out we print it that way and
+[06:30] what that means is that the print Will
+[06:32] Follow That snaking line and the grain
+[06:35] won't be somewhere like here in which
+[06:37] case it'll snap but when it follows it
+[06:39] that way around we get a pretty good
+[06:41] compression spring there is a spring
+[06:44] primitive available in tinat if you go
+[06:46] to the search bar and type in Spring
+[06:48] it'll pull one up for you but knowing
+[06:50] how to do it this way means you can make
+[06:52] this spring to any Dimensions that you
+[06:53] actually want and as you can see this
+[06:55] one's actually 40 mm x 10 mm instead of
+[06:59] the 20 mm that we did so this is a much
+[07:01] larger spring you can change other
+[07:03] dimensions on this obviously I mean if
+[07:05] you make this thicker or thinner you'll
+[07:08] change the stiffness of the spring the
+[07:10] thicker it is the stiffer the spring and
+[07:12] of course having it like this way means
+[07:14] that we can add bits onto this as part
+[07:16] of the model now in order to make this a
+[07:19] latch of course we need some other bits
+[07:22] and here's the other bits we need now
+[07:23] these are just squares and triangles put
+[07:25] together and added onto that original
+[07:27] spring that we drew and I've created two
+[07:30] of them I've also created this slide for
+[07:33] those to move in and out of because they
+[07:35] drop into
+[07:36] there then I've created this which is
+[07:39] our lock now it's a trapezoid with
+[07:42] rounded corners and what happens is if I
+[07:44] push the trapezoid in there it starts to
+[07:47] hit a little bit of resistance where
+[07:48] we're compressing the spring the Springs
+[07:50] continue to get pre compressed until
+[07:53] they snap in place and hey Presto we
+[07:56] have a latch now there's a minimum of
+[07:58] utility to that of course because to
+[08:00] release it I have to pick it up like
+[08:02] that what we really want to do is move
+[08:05] those Springs back again to release the
+[08:08] catch and delat this to do that I
+[08:13] created this push bar with the hole in
+[08:15] the center a couple of prongs on the end
+[08:17] and a little indentation either side so
+[08:20] that you can hold it the way that it
+[08:22] works is that push bar goes in the
+[08:24] center of the rod there passing through
+[08:26] the center it meets these two lock bars
+[08:29] bar s and it pushes the lock bars out of
+[08:31] the way against the springs and it'll do
+[08:33] that until it pushes the lock bars far
+[08:35] enough away that the lock itself can
+[08:38] come back out of the Locking position
+[08:41] and then we can pull it out and we can
+[08:43] unlock it now of course I'm having to do
+[08:45] a lot of manual hold this hold that but
+[08:47] that's what this one's for this extra
+[08:50] spring actually goes in the bottom there
+[08:53] so when we're putting the lock in it
+[08:56] pushes against this extra spring then
+[08:59] when we push this one it's also pushing
+[09:01] against this compression spring until
+[09:03] there and you can see it now forces it
+[09:06] past its position and we can just
+[09:08] withdraw it so these Springs make this
+[09:11] all automatic the only thing I need to
+[09:13] do now is put a few guides this is a
+[09:15] guide for locking
+[09:22] it and that fits in that way so that
+[09:25] everything pushes there you might have
+[09:27] noticed a little lips there so when I
+[09:29] push that it'll do that job we've got a
+[09:32] top we've got a couple of little guides
+[09:34] to go on here because these guides when
+[09:37] they go on are bigger than that Central
+[09:39] push bar so it's quite difficult to push
+[09:41] the push bar which it should be and I'll
+[09:43] explain that in a minute now we can glue
+[09:46] all of this
+[09:47] together so these two plates have been
+[09:50] glued onto there there's a couple of
+[09:51] marker notches for them that bar that we
+[09:53] just talked about slides in there and
+[09:55] you can see the indentations where you
+[09:57] have to go around to push it
+[10:00] this Central Lock then slides in there
+[10:03] and there's a little button at the end
+[10:05] that glues onto that end there and
+[10:07] that's that section
+[10:10] completed these sections had the Springs
+[10:12] now glued in place at the back to stop
+[10:15] them flapping around and then we can
+[10:16] glue the top
+[10:20] on now if we take hold of that and push
+[10:22] it in as we a lock then nothing happens
+[10:25] it won't lock so we push it in as a lock
+[10:27] and it stays that way open and until we
+[10:29] push that
+[10:31] button you hear that click now if we
+[10:34] pull it it's actually locked it won't
+[10:36] now come away unless we take hold of
+[10:38] those two slides in the bottom there and
+[10:41] push that till it clicks and then we can
+[10:44] actually withdraw the lock okay I think
+[10:46] that's pretty awesome actually if you
+[10:48] slide it in place then nothing at all it
+[10:51] won't lock until you press that button
+[10:54] you press that button and now the whole
+[10:56] thing will stay locked until you slide
+[10:58] that bar in there and then the whole
+[11:00] thing will come out you find latch
+[11:03] mechanisms like this in things like
+[11:05] Carbonic releases and there are latch
+[11:07] meic that hold your bumpers in place
+[11:09] you're also found in card readers I
+[11:12] personally think you would make a great
+[11:13] child lock because as you saw getting to
+[11:15] these little indentations is a little
+[11:17] bit challenging so there's a lot of uses
+[11:20] for a mechanism like that that I can see
+[11:23] I hope you enjoyed the video thank you
+[11:25] very much for watching I will of course
+[11:28] put these on to thingy verse should
+[11:30] anybody want to play around with them or
+[11:33] print them off and please do remember to
+[11:35] like And subscribe

@@ -1,0 +1,358 @@
+[
+  {
+    "id": "UgwF0cM_2S7N_paKRUF4AaABAg",
+    "author": "@lehcim777",
+    "author_channel_id": "UCuFvZeR61_dBznkpUAUxo8Q",
+    "text": "can you please give the name of the part needed or a link where you got them.",
+    "likes": 0,
+    "published_at": "2019-01-12T20:22:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgylKVNg5wXglF96sz14AaABAg",
+    "author": "@untrust2033",
+    "author_channel_id": "UCWhiF0e6Ejy45B5mKzoKPzQ",
+    "text": "*HAGH*\n\n\n\n\nalso wth is the bass on this",
+    "likes": 1,
+    "published_at": "2019-01-06T20:31:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-PBLyHFDlmnYJsip4AaABAg",
+    "author": "@pierogiengineering",
+    "author_channel_id": "UCErrP5eG2WvJPV3PqZrPgfg",
+    "text": "This video is extreme bass boosted",
+    "likes": 1,
+    "published_at": "2018-05-29T00:55:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwqOD5MUMzEuzKxbEZ4AaABAg",
+    "author": "@aaronperea4044",
+    "author_channel_id": "UCnB0yKH0ToNfo7sLngv7vxQ",
+    "text": "Thee epitamy, of a true british- \"Gentlemen.\"always a pleasure- LEARNING from Mr. R.M. Smith.... rare undeed:-)",
+    "likes": 0,
+    "published_at": "2017-08-03T07:05:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgiURH_A9ZUG-HgCoAEC",
+    "author": "@yathziriitzelortizortiz7930",
+    "author_channel_id": "UC3Jw9e5mSbZl6JVFrXUNlAw",
+    "text": "can you please tell the more about the power input to esc ... its around 9v and 5amp?",
+    "likes": 0,
+    "published_at": "2017-07-17T06:41:43Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgiURH_A9ZUG-HgCoAEC.8V6L64rymDA8V6_py5Raq-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sorry no idea - i did this a while ago and i forget",
+        "likes": 0,
+        "published_at": "2017-07-17T08:59:11Z"
+      },
+      {
+        "id": "UgiURH_A9ZUG-HgCoAEC.8V6L64rymDA8VJ-t3TAaS1",
+        "author": "@shobhanparthi",
+        "author_channel_id": "UCXoStUGHXohWqQbPL5T9GzQ",
+        "text": "Actually i use the same way as it was explained but the motor doesnt spins.... i used 2 HDD motors 1) Seagate ST340810A and 2) HP DG0300FARVV, the first one has 5400RPM 2.5Amps 7.5W 5V to 12V and the second one with 12v 0.4A to +5v 0.6A. with the first one i had a power supply of 12v 0.5Amp so i thought its the amperes where i am lagging behind and later with second one, which suppose to spin as per its data sheet doesnt worked as desired. So i am seeking help to understand why its not spinning. further i am using a ESC of 30Amp. I kindly request you to please help me out in this please !! i am new beginner so i desperately need help on it. Or if you can suggest a forum where i can get some responses over it .... Please !!!",
+        "likes": 0,
+        "published_at": "2017-07-22T04:46:26Z"
+      },
+      {
+        "id": "UgiURH_A9ZUG-HgCoAEC.8V6L64rymDA8VJO_XTw6T5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok - it's got noting to do with the amps or volts - there is a min and max in which the motors will operate but they will operate down to surprising low volts and amps. These are DC brushless motors so it has to do with how you go about shifting the phase of the input to create a rotating magnetic field within the coils. You can do this with an arduino driver but the easiest way is with a capacitor with larger motors you can use an ac supply - as you don't really understand this i suspect you need to do a bit of background reading on these motors first",
+        "likes": 0,
+        "published_at": "2017-07-22T08:22:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UggCHkXqFBCsR3gCoAEC",
+    "author": "@CoherentPhoton",
+    "author_channel_id": "UC5LsDgadLaQzOnI3tQrBz4A",
+    "text": "Nice video. I have played around with a few motors from different brands of hard drive and they are all pretty similar but also they only run really well in one direction. I think this is because the fluid dynamic bearing in them is designed that way. You can see the effect quite clearly by just spinning it with your hand.",
+    "likes": 0,
+    "published_at": "2015-06-17T09:00:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggCHkXqFBCsR3gCoAEC.80V43AgpBAK7-NhOHAhwAB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Reign Of Error oooh - interesting - i'll give that a go and see",
+        "likes": 0,
+        "published_at": "2015-06-19T23:19:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UggGfw38qvwOQHgCoAEC",
+    "author": "@suffolkcountysheriff",
+    "author_channel_id": "UCOhAeHuTBSQHde99GPmcOdA",
+    "text": "Hey man, did you send those books?  I am not trying to be a pain and please forgive me if i am but I am anxious to start printing and reading.",
+    "likes": 0,
+    "published_at": "2015-03-26T10:56:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggGfw38qvwOQHgCoAEC.7-H0Z7-I5pV7-MCmxdXaIS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "suffolkcountysheriff i haven't yet mate - it was on my list to do for this weekend - i get pretty busy during the week and do catch up stuff sat and sun - sorry will get them across later today tomorrow",
+        "likes": 0,
+        "published_at": "2015-03-28T11:19:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UggEp6U_EZXlt3gCoAEC",
+    "author": "@ThomasAndersonbsf",
+    "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+    "text": "thanks that is awesome, I was just tearing a bunch of them up *(HDDs) for the kidney magnets and saving the motors and boards and then testing each with the molex connector from an ATX power supply to see which did what I wanted of running till I unhooked it lol, found that about 1 in about every 8 I had was willing to do just that, rest would do either nothing or would run for a bit then shut down (probably some feed back it was needing from the heads and such that it was not getting lol)\n\nNow we can make mini centrifuges XD",
+    "likes": 0,
+    "published_at": "2015-03-24T08:49:06Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UggEp6U_EZXlt3gCoAEC.7-H0Z7-Tk5c7-H7-NGwHQ4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "these are really useful motors mate and driving them has been a problem - not any more lol",
+        "likes": 1,
+        "published_at": "2015-03-24T09:45:23Z"
+      },
+      {
+        "id": "UggEp6U_EZXlt3gCoAEC.7-H0Z7-Tk5c7-QPOxgyzFa",
+        "author": "@ThomasAndersonbsf",
+        "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+        "text": "indeed, again thanks for the disclosure on your solution :)",
+        "likes": 0,
+        "published_at": "2015-03-28T00:19:19Z"
+      },
+      {
+        "id": "UggEp6U_EZXlt3gCoAEC.7-H0Z7-Tk5c7-Rcru_XIKC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thomas Anderson no worries mate - happy to share when i can",
+        "likes": 0,
+        "published_at": "2015-03-28T11:44:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UghAux9S5IDwDHgCoAEC",
+    "author": "@DigGil3",
+    "author_channel_id": "UCVSTw_EfaY6Q6Pc-YKQuiBw",
+    "text": "Actually I have sort of a pet peeve with using ready-to-plug modules like that. Because, you know... you end up not actually understanding what's happening  in the \"black box\" :P.\nThe signal generator could be replaced by a any oscillator, right? One could use a 555 Timer if you are familiar with those. Or a PWM capable microcontroller if you have these. Or a quartz oscillator as in the old days. But personally I have many OpAmps lying around, so I would build it using a Schmitt Trigger Oscillator (http://sound.westhost.com/dwop-f11.gif) Where R2 and R3 could be replaced with a single potentiometer so you could adjust speed (that is, frequency).\n\nI've been considering building my own stepper motor driver for a while ever since I've learnt about quadrature oscillators (http://www.techlib.com/electronics/graphics/stepper3.gif). These are circuits which have two or three phase shifting elements (in this case, opamps as mathematical integrators) feeding back to each other such that they can't settle on a voltage. Each element will output a frequency which is out of phase to the next. This allows the motors to run (preferably through a power amplifier of sorts) without any external signal generator.",
+    "likes": 1,
+    "published_at": "2015-03-21T11:21:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghAux9S5IDwDHgCoAEC.7-H0Z7-4E7w7-HGIMD85HF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "DigGil3 Sure and that's good - but not everyone wants to understand they just want to do - there are some very good reasons for this - it takes a very very long time to understand every aspect of everything and a particular aspect may just be unimportant to your main idea - then you just want a component that does it's job so you can get one looking at whatever it is you are investigating as prime",
+        "likes": 2,
+        "published_at": "2015-03-21T13:38:55Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugj9_0BURXalX3gCoAEC",
+    "author": "@erlendse",
+    "author_channel_id": "UCqEVWC3GAZzsKSNhkBz5tdQ",
+    "text": "Yep.. the simple route.. get the ESC with a built in UBEC(voltage regulator) and you are good to go with only one power supply at for excample 24v.\n\nLooked more into the more complex routes?",
+    "likes": 0,
+    "published_at": "2015-03-20T23:15:55Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugj9_0BURXalX3gCoAEC.7-H0Z7-RpnZ7-H0sZvqxRa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "erlendse yep - but i won't go much furthur with that for a while as i am interested in just running the motor aspect right now",
+        "likes": 0,
+        "published_at": "2015-03-20T23:18:43Z"
+      },
+      {
+        "id": "Ugj9_0BURXalX3gCoAEC.7-H0Z7-RpnZ7-H20X-JweC",
+        "author": "@erlendse",
+        "author_channel_id": "UCqEVWC3GAZzsKSNhkBz5tdQ",
+        "text": "Robert Murray-Smith In that case you got a very workable setup. Scales well too.\n\nI still wonder what the big plan is, and where this fit in.\n\nAny estimate for when it will be revealed?\n\n(I would like to see you cover those motors more, but I am sure you got other stuff, and I don't know what)",
+        "likes": 0,
+        "published_at": "2015-03-20T23:28:40Z"
+      },
+      {
+        "id": "Ugj9_0BURXalX3gCoAEC.7-H0Z7-RpnZ7-H6aYbx4dC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "erlendse The final version of all of this should be together within the month - it has been fairly complex and a bit of a steep learning curve for me - but we are nearly there lol",
+        "likes": 0,
+        "published_at": "2015-03-21T00:08:41Z"
+      },
+      {
+        "id": "Ugj9_0BURXalX3gCoAEC.7-H0Z7-RpnZ7-I_KpkyVLj",
+        "author": "@erlendse",
+        "author_channel_id": "UCqEVWC3GAZzsKSNhkBz5tdQ",
+        "text": "Robert Murray-Smith Yep.. I know way to well when the learning curve looks like a wall :)",
+        "likes": 0,
+        "published_at": "2015-03-21T13:47:47Z"
+      },
+      {
+        "id": "Ugj9_0BURXalX3gCoAEC.7-H0Z7-RpnZ7-IaCk5shC1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "erlendse lol",
+        "likes": 0,
+        "published_at": "2015-03-21T13:55:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugh73LziQr4tCngCoAEC",
+    "author": "@duroncrush",
+    "author_channel_id": "UC-Yz5cXuWb-d535xE-21Y4g",
+    "text": "Good info.  \n\nHow about a video on cleaning up audio.  I have a really difficult time hearing videos you make in that lab/work shop.  \n\nI've always used my PPE and have all my bits and pieces intact, but PPE can't protect you form old ears. \n\nThanks ",
+    "likes": 0,
+    "published_at": "2015-03-20T19:09:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugh73LziQr4tCngCoAEC.7-H0Z7-EFp07-HL_aqQIGB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "tom adams lol - A friend of mine is currently running a campaign for me at http://www.gofundme.com/RobertMurray-Smith to buy the equipment to do exactly that mate",
+        "likes": 2,
+        "published_at": "2015-03-20T22:13:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UghTy5kpOEy_6ngCoAEC",
+    "author": "@David081219",
+    "author_channel_id": "UCUR81iNtGA1kpg3CmFy-uMQ",
+    "text": "This was a nice and short one, just do not cut the ground wire when you will use two powersupplys, you will need a common ground between those powersupplys, and to supply a ground to the signal too. just think of it as ion bridge for an electrolyte in a battery ;) nice work, I like the graphene videos most, but as an information addict, I like anything that brings scientific methods to non technobablic form.",
+    "likes": 1,
+    "published_at": "2015-03-20T18:10:16Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UghTy5kpOEy_6ngCoAEC.7-H0Z7-1Lbi7-HSVnSkIVQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "David Gunnarsson thanks for the advice mate - i will make sure i do that - cheers",
+        "likes": 1,
+        "published_at": "2015-03-20T22:14:29Z"
+      },
+      {
+        "id": "UghTy5kpOEy_6ngCoAEC.7-H0Z7-1Lbi8VJ0BuCBOID",
+        "author": "@shobhanparthi",
+        "author_channel_id": "UCXoStUGHXohWqQbPL5T9GzQ",
+        "text": "Hi David Can you please help me with this ??\nActually i use the same way as it was explained but the motor doesnt \nspins.... i used 2 HDD motors 1) Seagate ST340810A and 2) HP \nDG0300FARVV, the first one has 5400RPM 2.5Amps 7.5W 5V to 12V and the \nsecond one with 12v 0.4A to +5v 0.6A. with the first one i had a power \nsupply of 12v 0.5Amp so i thought its the amperes where i am lagging \nbehind and later with second one, which suppose to spin as per its data \nsheet doesnt worked as desired. So i am seeking help to understand why \nits not spinning. further i am using a ESC of 30Amp. I kindly request \nyou to please help me out in this please !! i am new beginner so i \ndesperately need help on it. Or if you can suggest a forum where i can \nget some responses over it .... Please !!!",
+        "likes": 0,
+        "published_at": "2017-07-22T04:49:08Z"
+      },
+      {
+        "id": "UghTy5kpOEy_6ngCoAEC.7-H0Z7-1Lbi8Vn9rxJ2z6Z",
+        "author": "@aaronperea4044",
+        "author_channel_id": "UCnB0yKH0ToNfo7sLngv7vxQ",
+        "text": "Maaannn... ty!!!   Its the comments that fill the gaps in my logic...   A GD COMMON= ion electtolytes/connecting my dang motor!!!   Ugh....  ok.  I might just dpin this puppy.....  ty!  (Keep the info coming world :-)",
+        "likes": 0,
+        "published_at": "2017-08-03T07:10:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Uggsvw-Dp4CSiHgCoAEC",
+    "author": "@JP-hj7fc",
+    "author_channel_id": "UC6ahk27VD-CC6NjMqniQIqg",
+    "text": "Good Video!\nHere you go, found some links to purchase\nhttp://www.ebay.com/itm/30A-Brushless-Motor-Speed-Controller-RC-BEC-ESC-T-rex-450-V2-Helicopter-Boat-SY-/321505561861?pt=LH_DefaultDomain_0&hash=item4adb398d05\n\nhttp://www.ebay.com/itm/Multi-Servo-Tester-3CH-ECS-Consistency-Master-Checker-Speed-Controler-CCPM-SS-/321463863858",
+    "likes": 2,
+    "published_at": "2015-03-20T15:51:25Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Uggsvw-Dp4CSiHgCoAEC.7-H0Z7-Rcle7-HgyUWDAfY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Jo Pero brilliant mate - thanks for the links - if you are in the US hobby king supplies a lot of this gear pretty cheaply",
+        "likes": 1,
+        "published_at": "2015-03-20T22:10:45Z"
+      },
+      {
+        "id": "Uggsvw-Dp4CSiHgCoAEC.7-H0Z7-Rcle705w3SWOdAl",
+        "author": "@charlietaylor6227",
+        "author_channel_id": "UCck2lVIDCf5uSNC8RG0_hnQ",
+        "text": "Jo Pero Thanks for this information!  I could not quite make out what Robert was referring to due to my lack of experience with RC kit!  I ordered both for $6.50 US",
+        "likes": 0,
+        "published_at": "2015-04-10T05:03:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugihv2RYFzwY33gCoAEC",
+    "author": "@rubbersideup",
+    "author_channel_id": "UCx7lioGZjK9B1w1Vb9Xai8Q",
+    "text": "thank you!!",
+    "likes": 0,
+    "published_at": "2015-03-20T15:19:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugihv2RYFzwY33gCoAEC.7-H0Z7-BGs47-HkiquD5wg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "rubbersideup cheers mate",
+        "likes": 0,
+        "published_at": "2015-03-20T22:11:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UghsxHgSjuKv83gCoAEC",
+    "author": "@kennedy67951",
+    "author_channel_id": "UCjxV3uqs53Cl6RBeb9_o1Wg",
+    "text": "Hey ROBERT check out the JOULE THIEF. I believe it will do the job. It shold allow you to run at very low voltage. Type in on youtube. Many video's on the JOULE THIEF and how to hook them up. Well just a throught. Have a great day ROBERT.",
+    "likes": 0,
+    "published_at": "2015-03-20T14:32:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghsxHgSjuKv83gCoAEC.7-H0Z7-Kx6B7-Hpy4m_vp5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "James Kennedy i did some stuff on joule thieves mate - but thanks for the suggestion",
+        "likes": 0,
+        "published_at": "2015-03-20T22:10:08Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugge8oDgloh8wHgCoAEC",
+    "author": "@shazizz",
+    "author_channel_id": "UCRTNtvsZsICQgLWv96V-ttQ",
+    "text": "Good stuff. Thanks Robert.",
+    "likes": 0,
+    "published_at": "2015-03-20T14:23:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugge8oDgloh8wHgCoAEC.7-H0Z7-HmHD7-HqjSm73Ly",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "shazizz glad you liked it mate",
+        "likes": 0,
+        "published_at": "2015-03-20T22:08:02Z"
+      }
+    ]
+  }
+]

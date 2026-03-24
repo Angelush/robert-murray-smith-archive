@@ -1,0 +1,179 @@
+[00:00] [Music]
+[00:07] hi everybody so I did promise to do
+[00:09] something on tank circuits and tank
+[00:11] circuits were really just a coil and a
+[00:14] capacitor although deceptively simple to
+[00:17] construct are actually quite complicated
+[00:19] in the way they behave and what they can
+[00:21] be used for is astonishing and they
+[00:25] consist as I say of only an inductor and
+[00:27] a capacitor so they're frequently
+[00:29] referred to as LC circuits capacitors
+[00:32] store energy in the form of an electric
+[00:35] field that electric field is stored
+[00:38] energy as a potential or a static
+[00:41] voltage inductors store energy in the
+[00:44] form of a magnetic field and that can be
+[00:47] seen as a kinetic motion of electrons or
+[00:50] a current so if you like capacitors and
+[00:53] inductors are flip sides of the same
+[00:56] reactive coin storing and releasing
+[00:59] energy in complimentary modes when these
+[01:02] two types of reactive components are
+[01:04] directly connected together their
+[01:06] complimentary Tendencies to store energy
+[01:09] will produce an unusual and interesting
+[01:12] result if either the capacitor of the
+[01:14] inductor starts out in a charge State
+[01:17] the two components will exchange energy
+[01:19] between them back and forth creating
+[01:21] their own ac voltage and current
+[01:24] Cycles if we assume that both components
+[01:27] are subject to a sudden application of
+[01:29] voltage say from connecting to a battery
+[01:32] the capacitor will very quickly charge
+[01:34] and the inductor will oppose change in
+[01:37] current leaving the capacitor in a
+[01:39] charge State and the inductor in a
+[01:41] discharge State the capacitor will begin
+[01:44] to discharge its voltage decreasing
+[01:46] meanwhile the inductor will begin to
+[01:48] build up a charge in the form of a
+[01:50] magnetic field as current increases in
+[01:53] the circuit the inductor still charging
+[01:55] will keep electrons flowing in the
+[01:57] circuit until the capacitor has
+[01:59] completely discharged leaving a zero
+[02:01] voltage across it the inductor will
+[02:03] maintain current flow even with no
+[02:05] voltage applied in fact it will generate
+[02:08] voltage bit like a battery in order to
+[02:10] keep the current in the same direction
+[02:12] the capacitor being the recipient of
+[02:14] this current will begin to accumulate a
+[02:17] charge in the opposite polarity as
+[02:19] before when the inductor is finally
+[02:20] depleted of its energy reserve and the
+[02:23] electrons come to a halt the capacity
+[02:25] will have reached full charge or voltage
+[02:28] in the opposite polarity and is when it
+[02:30] started now we're at a condition very
+[02:32] similar to where we started the
+[02:34] capacitor at full charge and zero
+[02:36] current in the circuit the capacitor as
+[02:39] before will begin to discharge through
+[02:41] the inductor causing an increase in
+[02:42] current in the opposite direction as
+[02:45] before and a decrease in voltage as it
+[02:48] depletes its own energy Reserve
+[02:50] eventually the capacitor will discharge
+[02:52] to zero volts leaving the inductor fully
+[02:54] charged with a full current through it
+[02:57] the inductor Desiring to maintain
+[02:59] current in the the same direction will
+[03:01] act like a source again generating a
+[03:03] voltage like a battery to continue the
+[03:05] flow in doing so the capacitor will
+[03:07] begin to charge up and the current will
+[03:09] decrease in magnitude eventually the
+[03:11] capacitor will become fully charged
+[03:13] again as the inductor expends all of its
+[03:15] energy reserves trying to maintain
+[03:17] current the voltage will once again be
+[03:19] at its positive Peak and the current at
+[03:21] zero and this completes one full cycle
+[03:24] of the energy exchange between the
+[03:25] capacitor and the inductor this
+[03:27] oscillation will continue with steady
+[03:29] decreas ining amplitude due to the power
+[03:31] losses from the Stray resistances in the
+[03:33] circuit until the process stops
+[03:35] altogether overall this behavior is very
+[03:38] similar to a pendulum as the pendulum
+[03:40] Mass swings backwards and forwards there
+[03:43] is a transformation of energy taking
+[03:45] place from cantic or motion to potential
+[03:48] or the hyp the mass reaches in a similar
+[03:51] fashion to the way energy is transferred
+[03:53] in the capacitor inductor circuit back
+[03:55] and forth in alternating forms of
+[03:57] current kinetic motion of elect El Rons
+[04:00] and voltage potential electric energy at
+[04:03] the peak height of each swing of a
+[04:04] pendulum the mass briefly stops and
+[04:06] switches directions it's at this point
+[04:09] that potential energy height is at a
+[04:12] maximum and kinetic energy motion is at
+[04:15] zero as the mass swings back the other
+[04:17] way it passes quickly through a point
+[04:19] where the string is pointed straight
+[04:21] down and at this point the potential
+[04:23] energy height is at zero and the kinetic
+[04:26] energy motion is at maximum like the
+[04:29] circuit a pendulum's back and forth
+[04:31] oscillation will continue with a
+[04:33] steadily dampened amplitude from the
+[04:36] result of air friction dissipating
+[04:38] energy also like the circuit the
+[04:40] pendulum's position and velocity measure
+[04:43] two sine waves 90° out of phase over
+[04:46] time in physics this kind of natural
+[04:48] swaave oscillation for a mechanical
+[04:50] system is called simple harmonic motion
+[04:53] often AB apprciated as shm the same
+[04:56] underlying principle covers both the
+[04:58] oscillation of a capacitor in inductor
+[05:00] circuit and the action of a pendulum
+[05:02] hence the similar effect it is an
+[05:04] interesting property of any pendulum
+[05:06] that its periodic time is given by the
+[05:08] length of the string holding the mass
+[05:10] and not the weight of the mass itself
+[05:12] this is why a pendulum will keep
+[05:14] swinging at the same frequency as the
+[05:16] oscillation decrease in amplitude the
+[05:18] oscillation rate is independent of the
+[05:21] amount of energy stored in it the same
+[05:23] is true for the capacitor inductor
+[05:24] circuit the rate of oscillation is
+[05:26] strictly dependent on the size of the
+[05:28] capacitor and inductor
+[05:30] not on the amount of voltage or current
+[05:32] at each respective peak in the waves the
+[05:35] ability for such a circuit to store
+[05:37] energy in the form of oscillating
+[05:38] voltage and current has earned it the
+[05:40] name tank circuit property of
+[05:42] maintaining a single natural frequency
+[05:45] regardless of how much or how little
+[05:47] energy is actually being stored in it
+[05:49] gives it special significance in
+[05:51] electric circuit design this might seem
+[05:53] a bit of a useless curiosity however
+[05:55] it's not the case that resonance is a
+[05:58] very valuable property and it's employed
+[06:00] in a variety of applications one use is
+[06:03] to establish a condition of stable
+[06:05] frequency in circuits designed to
+[06:07] produce AC signals just as a pendulum
+[06:10] can be used to stabilize the frequency
+[06:11] of your clocks mechanism a tank circuit
+[06:14] oscillations can be used to stabilize
+[06:16] the electrical frequency of an AC
+[06:18] oscillator circuit another use resonance
+[06:21] is in applications where the effects of
+[06:23] greatly increased or decreased impedance
+[06:26] at a particular frequency is desired a
+[06:28] resonance circuit can be used to block
+[06:30] or present High impedance towards a
+[06:32] frequency or a range of frequencies and
+[06:35] then it acts as a sort of filter to
+[06:37] strain certainly frequencies out of the
+[06:39] mix of others this is the basic
+[06:41] principle that a radio receiver works on
+[06:44] so to my mind a surprising circuit with
+[06:46] a huge range of applications Tesla was
+[06:49] Infamous for them of course with his bif
+[06:51] coils and his high voltage generator but
+[06:54] I hope you enjoyed the video and thank
+[06:56] you very much for watching

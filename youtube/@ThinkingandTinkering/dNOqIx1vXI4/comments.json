@@ -1,0 +1,898 @@
+[
+  {
+    "id": "UgxDi5KjkaDLAd5daFh4AaABAg",
+    "author": "@-robo-",
+    "author_channel_id": "UCin97LQmWaN-D0im3Ht4XOA",
+    "text": "What is the maximum temperature you would recommend for your setup?  I would worry about teflon off-gassing at high temperatures.",
+    "likes": 0,
+    "published_at": "2020-07-17T18:28:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxDi5KjkaDLAd5daFh4AaABAg.9BDiD0pJ1289EeZiALL0oK",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "you could of found this easily...  soft play area lol\n\"Generally speaking, Teflon is a safe and stable compound. However, at temperatures above 570°F (300°C), Teflon coatings on nonstick cookware may start to break down.\"\n\"PFOA is a chemical that was previously used to manufacture Teflon. It has been linked to health conditions such as kidney and liver disease. However, all Teflon products have been PFOA-free since 2013.\"\n\n\"polytetrafluoroethylene (PTFE), commonly known as Teflon is now a synthetic chemical made up of carbon and fluorine atoms.\" \napparently fluorine and related atoms make good graphene oxide addatives so turn a potential soft play area problem into a benefit down the garden shed option, krank it up mate :-D\n\nso hotter than your oven, good enough to hinge two trays together and do pcb reflow work, add an arduino/esp32 ramp,hold,and cooling scale data graph html page if you like... reflow some plastic into useable sheets, burn some toast crack an egg white over it and so make nitrogen doped carbon foam overnight off that pv charged battery sitting doing nothing right now...\noc if you have some cheap £2 Cooling Peltier Plate Thermoelectric Coolers handy, you could also make the *freeze dried reduced GO foam (with salt water electrolyte) version, and use the toast ( aka nitrogen doped carbon foam) as your insulation.\n\nafter robert already did this long ago ,strange\n*\"Binder-free reduced graphene oxide 3D structures based on ultra large graphene oxide sheets: High performance green micro-supercapacitor using NaCl electrolyte:\nJournal of Energy Storage,Volume 21, February 2019\n\n\"A high capacitance of 618.15 F g−1 at a current density of 3.0 A g-1 is obtained.\r\n\r•Optimum energy and power densities are 42.92 W kg−1 and 1.35 kW h kg−1, respectively.\"",
+        "likes": 0,
+        "published_at": "2020-10-11T03:38:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwx2kNCnRrgLwkyZGd4AaABAg",
+    "author": "@nookiebrowne61",
+    "author_channel_id": "UCDrwg-r3M9M5geAvEzhAiGA",
+    "text": "That was brilliant and so easy.\nCan't wait to try it.",
+    "likes": 0,
+    "published_at": "2020-05-05T18:52:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwx2kNCnRrgLwkyZGd4AaABAg.98Hmz8dYLEb98HwsCsHZ3s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - good luck with it",
+        "likes": 0,
+        "published_at": "2020-05-05T20:19:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxc9aC9xlszl3k0P4p4AaABAg",
+    "author": "@das250250",
+    "author_channel_id": "UCXpNMOetW6f2bvbM4oC6HQA",
+    "text": "Rob you have a marvelous ,engineering mind ..TY for inspiring and sharing your ideas",
+    "likes": 0,
+    "published_at": "2020-03-18T15:48:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy695LIMro5gAbPHv94AaABAg",
+    "author": "@nigeljohnson9820",
+    "author_channel_id": "UC44GZDHVmvoqiJAbeOWwNoA",
+    "text": "How many Watts are plates operated? \nWhat are you using as a power supply is it ac or dc?\nAs Ink thickness is controlling the resistance, how uniform is the thinness?\nAt what current does the ink start to fail?\nAt what temperature does the glue on the copper tape fail?\nHave you looked at the hot plates with a thermal camera?",
+    "likes": 0,
+    "published_at": "2020-03-02T18:32:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwNQGcy61OhjzpKiT14AaABAg",
+    "author": "@3dpchiron709",
+    "author_channel_id": "UCrM-3KWqRapTxNMAmrQKBbQ",
+    "text": "Have read that PTFE can emit toxins from 200C onwards - might be safer with non-teflon trays. This info from a Prusa forum post titled 'PTFE max temp on a routine basis':\n\n\"The pyrolysis of Teflon starts at 200 degrees-C and proceeds slowly up to 420 degrees-C; at 500 to 550 degrees-C, the degradational weight loss reaches 10% to 5% per hour, respectively, depending on conditions. In the temperature range 300 to 360 degrees-C, hexafluoroethane (C2F6) and octafluorocyclobutane (C4F8) were identified as decomposition products. In the range 380 to 400 degrees-C, octafluoroisobutylene (also C4F8) could be detected and, at 500 to 550 degrees-C, the chief pyrolysis products other than tetrafluoroethylene (116-14-3) (C2F4) were hexafluoropropylene (116154), (C3F6) octafluorocyclobutane, and octafluoroisobutylene plus a complex residue of perfluoroolefins. Inhalation toxicity tests indicated that the octafluoroisobutylene gas, the most potent product, was approximately ten times as toxic as phosgene (75-44-5)\n\nRef: Toxicity of Pyrolysis Products of \"Teflon\" Tetrafluoroethylene Resin by Zapp JA Jr, Limperos G, Brinker KC. Proceedings of the American Industrial Hygiene Association Annual Meeting, Cincinnati, Ohio, April 26, 1955.\"",
+    "likes": 0,
+    "published_at": "2020-02-29T20:43:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzfNE54uHUDhRzDNit4AaABAg",
+    "author": "@RWBHere",
+    "author_channel_id": "UCnwhK7Pf6xJ635mvBLTYtVA",
+    "text": "Aah, now I see why you didn't use a rotating baseplate. Thanks. Those heaters are hot!",
+    "likes": 0,
+    "published_at": "2020-02-21T09:43:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzfNE54uHUDhRzDNit4AaABAg.95IGFWBVmf195L0epTPtwz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-22T11:24:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyEf6c4CHhnip0SSOh4AaABAg",
+    "author": "@firstlastname99",
+    "author_channel_id": "UCm2jUyxUKHpJQnGWkWV1Cpw",
+    "text": "I'm starting to get sucked in by your videos.  A really great blend of mad scientist and inveterate tinkerer.  I'm sorry if the answer to this is really obvious and I just missed it, but could you paint this on the back of a glass bed to use as a heated bed for a 3d printer?",
+    "likes": 0,
+    "published_at": "2020-02-18T03:35:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyEf6c4CHhnip0SSOh4AaABAg.959skaLxj__95CmNu6cOkE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you could try it, certainly - i'm looking at ways of making heated beds at the moment",
+        "likes": 0,
+        "published_at": "2020-02-19T06:37:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyTfgAj0dZgMzhj5AZ4AaABAg",
+    "author": "@johnmcfadden9336",
+    "author_channel_id": "UCCTRzYH1JP97WozX-C2gg_w",
+    "text": "It’s amazing it sticks to Teflon  so much for non stick \nI heard years ago it gives of very poisonous fumes when heated to high  but I don’t know what temp probably above 200 \nGreat share as aways😃",
+    "likes": 0,
+    "published_at": "2020-02-15T17:28:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyTfgAj0dZgMzhj5AZ4AaABAg.953dfmNlqaV95NU1bmc3jM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "It would do mate - it's a fluorine compound - but at cooking temps it's going to be fine - I wouldn't take it about 300C though lol",
+        "likes": 0,
+        "published_at": "2020-02-23T10:19:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw5BHe3kbqFoAb8lqd4AaABAg",
+    "author": "@DeliciousDeBlair",
+    "author_channel_id": "UC6foW9jE6xKBwxz3lUvU1_Q",
+    "text": "Actually, the ink is slightly less reflective ['blacker'] than the Teflon coating and I can see the difference on the camera. ~( 'w')/",
+    "likes": 0,
+    "published_at": "2020-02-15T09:40:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1h0MoYSE9oLPgW194AaABAg",
+    "author": "@jimmylimestone",
+    "author_channel_id": "UCBHglK3t8ofACk_decODlmw",
+    "text": "I missed the \" SOFT PLAY AREA \" the first few times around. Good one I'll have to borrow that one!  Thanks for this one I need to repair, replace the heater on my stirrer. Just paint it on and go.",
+    "likes": 0,
+    "published_at": "2020-02-15T07:50:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw1h0MoYSE9oLPgW194AaABAg.952bZOs63N595Cn3f0InVQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-19T06:43:13Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwc5Sil6Qa2tFEXoKl4AaABAg",
+    "author": "@SB-li8lz",
+    "author_channel_id": "UCB5sQ0xVDSMDiJ6OptzTfWQ",
+    "text": "Very interesting. Is your ink available in the United States?",
+    "likes": 0,
+    "published_at": "2020-02-13T17:35:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwc5Sil6Qa2tFEXoKl4AaABAg.94zVvrSDqld9502kGN8Em8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "we post to the US mate",
+        "likes": 0,
+        "published_at": "2020-02-14T07:58:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzZN6eQaA3DuUknG0R4AaABAg",
+    "author": "@JulianFoley",
+    "author_channel_id": "UCBDRbFLj7g8zlAdtjWkgjFA",
+    "text": "You're right to be so pleased with yourself - that's very clever. I'll try setting a few up as a seedling propagation tray in our farm forest nursery.",
+    "likes": 0,
+    "published_at": "2020-02-12T23:47:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzZN6eQaA3DuUknG0R4AaABAg.94xaj-0KOyF94ySvnLHTfz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is cool - let me know how you get on - tbh I think it will work just fine",
+        "likes": 0,
+        "published_at": "2020-02-13T07:49:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxGZM6HtdqcgzHytNF4AaABAg",
+    "author": "@hermanrobak1285",
+    "author_channel_id": "UCSpX-g5xuSYItw9SqVY5lgQ",
+    "text": "Up to 400 degrees Celsius? On a teflon coated plate?! Won't the teflon break down and emit noxious fumes beyond 200° C?",
+    "likes": 0,
+    "published_at": "2020-02-12T16:43:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxGZM6HtdqcgzHytNF4AaABAg.94wqEegN3Os94wrqkKU1JK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "teflon is a trade name for PTFE and that melts at 327 degrees also this is cookware most domestic ovens go up to 287 degrees centigrade and domestic gas ovens can go up to 537 degrees centigrade - so to be honest - I doubt it - I was thinking of the carbon it burns off at 400",
+        "likes": 1,
+        "published_at": "2020-02-12T16:57:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNcSkgpFQxktP7aW14AaABAg",
+    "author": "@santosvella",
+    "author_channel_id": "UCRUwnNWKTnBEGS_LcqCRlmQ",
+    "text": "I'm trying your online shop but it says can't be reached.",
+    "likes": 0,
+    "published_at": "2020-02-12T13:26:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNcSkgpFQxktP7aW14AaABAg.94wUc-NfaAn94wbZzVAdAi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "just went there - it worked for me - here's the link https://secure.workingink.co.uk/working-ink-shop/",
+        "likes": 0,
+        "published_at": "2020-02-12T14:35:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx74C-YEuMivtNMY0Z4AaABAg",
+    "author": "@markwilliams5654",
+    "author_channel_id": "UCX4crjIjfgWnbGKgaQB4OPw",
+    "text": "Lower amps is better using 24v",
+    "likes": 0,
+    "published_at": "2020-02-12T10:21:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx74C-YEuMivtNMY0Z4AaABAg.94w9Rjmoqzo94wJh3aT4pb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 0,
+        "published_at": "2020-02-12T11:50:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyX_HLTTDq661-6Xwh4AaABAg",
+    "author": "@richardteychenne3950",
+    "author_channel_id": "UCchYmrOYR7xtgyIITEqZeXQ",
+    "text": "Brilliantly simple and very neat Rob, one question I am always frustrated with wasting paint (ink) cleaning brushes then waiting for them to dry etc when doing small jobs on a regular but not continuous basis. As your ink is aqueous-based can you just bag the brushes in a plastic bag for a day or two between uses?",
+    "likes": 0,
+    "published_at": "2020-02-12T10:14:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyX_HLTTDq661-6Xwh4AaABAg.94w8fzQxemn94wJjjrvSzj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's exactly what I do mate",
+        "likes": 0,
+        "published_at": "2020-02-12T11:51:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgytQzAaxJ9hhjze0Fd4AaABAg",
+    "author": "@roidroid",
+    "author_channel_id": "UClHITiT7I1lYiFn6kd_RlBA",
+    "text": "Hmm... *Teflon tube* is a pretty common material.  If the outside can be coated, it may be of use in some continuous fluid-material processes.  \n\nNow i'm wondering if it could make a rudimentary 3d printer hot-end/extruder that doesn't use any metal.  Because it's a flexible tube, a Peristaltic pump could even be incorporated onto it.  \n\nAnyway, some ideas for everyone.",
+    "likes": 0,
+    "published_at": "2020-02-12T09:20:33Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgytQzAaxJ9hhjze0Fd4AaABAg.94w2VtRD6JQ94wJqCgMW_k",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is interesting mate - cheers for that",
+        "likes": 0,
+        "published_at": "2020-02-12T11:52:00Z"
+      },
+      {
+        "id": "UgytQzAaxJ9hhjze0Fd4AaABAg.94w2VtRD6JQ94wLqAiwywb",
+        "author": "@roidroid",
+        "author_channel_id": "UClHITiT7I1lYiFn6kd_RlBA",
+        "text": "Whoops, i just remembered that 3d printer extruder temps are typically above 200C.   \nStill, it may be of use for other things.",
+        "likes": 0,
+        "published_at": "2020-02-12T12:09:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwWyPlzYxAY6OjShUZ4AaABAg",
+    "author": "@JamesWilson-pq9qp",
+    "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+    "text": "That's fantastic! Teflon electrical insulation and heat conductivity, and a paint on resistor (heater.) Very clever!  They say nothing ever sticks to Teflon, There's no reason for the paint to chip or warp from contraction and expansion, is there?  Of course you can use touch up paint to fix it, right.   Is 14.4 watts enough heat on each plate?  5 amps for all 4 at 12 volts. ...  24v is better ... 57.6 watts  but 10 amps for all 4, watch your wiring connections for hot spots. 14 gauge?",
+    "likes": 0,
+    "published_at": "2020-02-12T05:35:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwWyPlzYxAY6OjShUZ4AaABAg.94vdjmnlcor94vnY7roaOV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "It should be fine and it is in a protected - yet accessible - position - but you are quite right it spot fixes easily with another dab of paint. I am not sure of the gauge of the wire it's rated for 5amps - which is plenty in this application",
+        "likes": 0,
+        "published_at": "2020-02-12T07:01:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzmbU5d0v7bNtF8GUl4AaABAg",
+    "author": "@AaronHarper",
+    "author_channel_id": "UC4j2iyffUmgZI6a3cM3fe0g",
+    "text": "Excellent mate.  I will be trying this to work as a heated bed and enclosure on the 3D printer I use for the graphene impregnated polycarbonate material.  It needs a print temp of around 400C, bed of 130C, and around 100C in the enclosure reducing slowly once the print is done so it doesn't crack.  What I have works, but the temperature has been a bit less than uniform making for a fair bit of waste.  This should smooth things right out!",
+    "likes": 0,
+    "published_at": "2020-02-12T04:20:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzmbU5d0v7bNtF8GUl4AaABAg.94vWAlOxEjQ94vndwAW_kB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome - let me know how it goes mate",
+        "likes": 0,
+        "published_at": "2020-02-12T07:01:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxs3A9lQaARfk_mY7B4AaABAg",
+    "author": "@ronrattink9327",
+    "author_channel_id": "UC-lNZ9k5xNq5oOOBnWVG_7g",
+    "text": "I am glad you went to so  much detail to make this a manageable reality for my non-conforming 3d printer project. It really was the biggest challenge as standard heated beds for anything beside the ubiquetous chinese printers just won't do.\nWell done and many thanks for your ingenuity and sharing.\nCheers",
+    "likes": 0,
+    "published_at": "2020-02-12T03:19:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxs3A9lQaARfk_mY7B4AaABAg.94vPAdi1ri794vnpiNANrK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you know I didn't think about that until you just said it - but yes one big advantage is the heater can be painted on a non standard surface - cheers for that mate and glad I helped",
+        "likes": 0,
+        "published_at": "2020-02-12T07:03:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyMAndbmagdjLDkEB4AaABAg",
+    "author": "@nomadicgrenada",
+    "author_channel_id": "UCNBoGpNp4jDAPtqzOKgeoIA",
+    "text": "Great work Robert, very interesting concept. have you found any difference in performance, if your paint strokes went with the electrical flow or across the flow?.",
+    "likes": 0,
+    "published_at": "2020-02-12T03:07:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyMAndbmagdjLDkEB4AaABAg.94vNnsR__Bn94vnvr4Wfjb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes mate - best is 90 degrees to the tapes but for this application it really doesn't matter that much",
+        "likes": 1,
+        "published_at": "2020-02-12T07:04:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJvNUtn7vbIIftXRV4AaABAg",
+    "author": "@rickdees251",
+    "author_channel_id": "UCxPpsBtfPd_hEUcfPtYbdgQ",
+    "text": "Is that paint flexible after it dries? Or does it crack after it's dried and flexed.  That would be a very interesting property if it is flexible.  Might be an interesting ability to have in a different formulation if it isn't.   Wink wink, know what I mean?   Grins mate.",
+    "likes": 0,
+    "published_at": "2020-02-12T02:15:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyJvNUtn7vbIIftXRV4AaABAg.94vHooCt9cj94vo-YP37Mr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is a thin film mate so very flexible - on plastic you can bend it right in half",
+        "likes": 1,
+        "published_at": "2020-02-12T07:05:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwC0suFpFtnvf7OPX54AaABAg",
+    "author": "@BurnabyAlex",
+    "author_channel_id": "UCwVOd6eSh-W-OYRbRY1VhTg",
+    "text": "11:00 you will have better thermal readings if you put a thermal pad there.  Also, in hindsight, the copper tape could have been pre-tinned, so heating up a pre-tinned wire next to a pre-tinned tape would give a nicer solder joint.",
+    "likes": 0,
+    "published_at": "2020-02-12T01:57:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwC0suFpFtnvf7OPX54AaABAg.94vFq4AHX_E94vo2u27qW9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate - but we do what we do - cheers",
+        "likes": 0,
+        "published_at": "2020-02-12T07:05:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwz6b2gJ5MD1JqV_lJ4AaABAg",
+    "author": "@TheIdeanator",
+    "author_channel_id": "UC6SuTuixlsTjjEZ0qyOZFow",
+    "text": "I was just wondering how to make a big steel hotbed for a printer.",
+    "likes": 0,
+    "published_at": "2020-02-12T01:42:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwz6b2gJ5MD1JqV_lJ4AaABAg.94vE5v-2QDM94voO3GnqlQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no way - that's awesome - you doing a vid?",
+        "likes": 0,
+        "published_at": "2020-02-12T07:08:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwMlRk1ZUkefEUXxKR4AaABAg",
+    "author": "@additivealex4566",
+    "author_channel_id": "UCR0taX2g9Dm0jB3mlwvzpuw",
+    "text": "perfect coincidence I was just looking into heated beds for a HT printer.",
+    "likes": 0,
+    "published_at": "2020-02-12T00:46:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwMlRk1ZUkefEUXxKR4AaABAg.94v7gaeS4Fu94voP5XrV6i",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 0,
+        "published_at": "2020-02-12T07:08:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQq1VPxXuKfPEGVnJ4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "Really impressed with that teflon idea . Excellent",
+    "likes": 0,
+    "published_at": "2020-02-12T00:35:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwQq1VPxXuKfPEGVnJ4AaABAg.94v6SwE4GUB94voQL--F-I",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T07:08:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxTYe-2R_Vumm9YLZx4AaABAg",
+    "author": "@jamesbrown99991",
+    "author_channel_id": "UCBU-d12t2ujAyNlzPEF3nXw",
+    "text": "You mention that a rotating bed is no good with heaters, but I think someone was mentioning a rotating head. There's an image of the setup here: https://www.holmarc.com/silar_controller.php",
+    "likes": 0,
+    "published_at": "2020-02-12T00:30:29Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxTYe-2R_Vumm9YLZx4AaABAg.94v5qWOJKUY94vqWU7ZaEw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Do you know - I find it doesn't matter what you say - left or right someone somewhere will say something different - this is just my best guess mate and I am aiming at folks making this themselves with basically a few hand tools - for that I think this is a good way to go and rotating heads are best avoided - but if you think not - well no worries - cheers",
+        "likes": 0,
+        "published_at": "2020-02-12T07:27:02Z"
+      },
+      {
+        "id": "UgxTYe-2R_Vumm9YLZx4AaABAg.94v5qWOJKUY94w2-tZtswE",
+        "author": "@jamesbrown99991",
+        "author_channel_id": "UCBU-d12t2ujAyNlzPEF3nXw",
+        "text": "@ThinkingandTinkering I wasn't downplaying your approach; it looks very well made and the pressed pan heat pads look very professional. I was just pointing out that the approach you rejected is similar to one that's viable. Regards.",
+        "likes": 0,
+        "published_at": "2020-02-12T09:16:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxuhBGAxfsPKYN1UTx4AaABAg",
+    "author": "@denniskramer9788",
+    "author_channel_id": "UCF-p5hotaAamxz18w_Uhpvg",
+    "text": "Hi Rob....well done.    Remind us..is this ink waterproof.... thinking aquarium heater????",
+    "likes": 1,
+    "published_at": "2020-02-11T22:59:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxuhBGAxfsPKYN1UTx4AaABAg.94uwQgGyVD694vpczyy1d_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "not waterproof mate no but you could paint a piece of plastic and seal it shut",
+        "likes": 0,
+        "published_at": "2020-02-12T07:19:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxYRA3fhJp75EEJYw94AaABAg",
+    "author": "@themeek351",
+    "author_channel_id": "UCnQc4SoROMxAFuiHF9NZkgA",
+    "text": "This temperature range of 200-250C is perfect for 3d printer beds for some of the high temperature polymers developed by NASA!  Parts made from this material are as strong as steel and highly sought after, which makes them very expensive!",
+    "likes": 2,
+    "published_at": "2020-02-11T22:53:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxYRA3fhJp75EEJYw94AaABAg.94uvhPxlzAr94vpg7eXIx7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's awesome mate - I didn't know that - cheers",
+        "likes": 0,
+        "published_at": "2020-02-12T07:19:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyaMB6rxIt9s5uaDy94AaABAg",
+    "author": "@kennedy67951",
+    "author_channel_id": "UCjxV3uqs53Cl6RBeb9_o1Wg",
+    "text": "Very nice work Robert. Thanks for the upload.",
+    "likes": 2,
+    "published_at": "2020-02-11T22:10:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyaMB6rxIt9s5uaDy94AaABAg.94uqovXrsLG94vphbTafSS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T07:19:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz-Ma8yZ-8QfCxuYjJ4AaABAg",
+    "author": "@rickdees251",
+    "author_channel_id": "UCxPpsBtfPd_hEUcfPtYbdgQ",
+    "text": "Are you shitting us?  I almost can't believe my eyes + ears!!!  You made a electric heated surface thermostatically controlled able to go up to 200 deg C. (+,-) in this video???????   That is remarkable (if true) if it is as simple as you've demonstrated.   That is more awesome than most viewers are capable of grasping right off, imo.  Not because they are not able to grasp it but because they might not immediately grasp the uses this could prove to be applied to as products.   I'm serious,   \"Are you shitting us? \"  I suppose not but this is something I can think of using in several ways just off the top of my head.   I must take the time to get this paint and experiment.  Do/Will you accept orders with Paypal and ship to the US???   Let me know.  Cheers.",
+    "likes": 0,
+    "published_at": "2020-02-11T21:26:45Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugz-Ma8yZ-8QfCxuYjJ4AaABAg.94ulooJRFVp94vq9DA3kOd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Quite a few folks have been using the ink in heating applications already mate - I think one guy paints wall radiators with it - I understand you skepticism - but it is that easy - so by all means give it a go - we do accept PayPal and send to the US - but I have to ask you - can you do a vid or two just to let me know how you get on - cheers",
+        "likes": 0,
+        "published_at": "2020-02-12T07:23:51Z"
+      },
+      {
+        "id": "Ugz-Ma8yZ-8QfCxuYjJ4AaABAg.94ulooJRFVp94x-Hyk1DRd",
+        "author": "@rickdees251",
+        "author_channel_id": "UCxPpsBtfPd_hEUcfPtYbdgQ",
+        "text": "I'm thinking  of putting in a Tesla battery  in my 28 ft.  RV.  It's a  24v, 5.3 Kwh module, which I already bought on Ebay for $1,250 us.  It will need a simple heating system and control circuit so the module could be charged in the winter if the temp's got below about  2 c. .  You'll destroy a Li-on battery if you try to charge it below 0 deg. C.  so it needs to be insured against that.  With this ink and a bit of temperature control magic it could do the job nicely, I suppose.  I just might use the money for a heating pad and apply it to some paint and use that to make an electric heater for the battery bank .\n\n I also been \" what if'-ing\" the possibility of making a dedicated electric bread baking oven for baking bread in my RV..  Instead of using propane to heat my RV oven to bake bread. Being a nut,  I would like to try (experiment) making a highly insulated (to reduce heat loss/costs) bread baking oven.  If this ink set up right would make 180 c.  inside an enclosed, minimally ventilated, insulated enclosure that should bake bread nicely with minimal energy usage.  Of course one never knows how an idea will work  if one never tries a \"what if idea\",  Right?   Look for my order for some paint.  Best wishes.",
+        "likes": 0,
+        "published_at": "2020-02-12T18:11:40Z"
+      },
+      {
+        "id": "Ugz-Ma8yZ-8QfCxuYjJ4AaABAg.94ulooJRFVp94x0e8K041M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@rickdees251 you are spot inmate a lot of what if can only be answered by doing - you have sparked an idea though - I have an old oven and.`I could convert it with the paint - you ok if I do that as it was your idea really - cheers - Rob",
+        "likes": 0,
+        "published_at": "2020-02-12T18:23:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyGdrnrCTNHZ9iuB5B4AaABAg",
+    "author": "@sonnyhayes689",
+    "author_channel_id": "UC0L3f13xlwFZU43Sp2kw1Dw",
+    "text": "Great stuff Rob, you continue to knock then out of the park, (American slang). How does your paint perform under high UV exposure and extremes in temperatures? For example minus 30C to the heating temperature of your hot surface at 85C to 110C.",
+    "likes": 0,
+    "published_at": "2020-02-11T21:07:33Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyGdrnrCTNHZ9iuB5B4AaABAg.94ujcG9oDRE94ukTgrn2-d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sorry mate i have no ides never even thought to try it lol",
+        "likes": 1,
+        "published_at": "2020-02-11T21:14:59Z"
+      },
+      {
+        "id": "UgyGdrnrCTNHZ9iuB5B4AaABAg.94ujcG9oDRE94unSw374Ok",
+        "author": "@sonnyhayes689",
+        "author_channel_id": "UC0L3f13xlwFZU43Sp2kw1Dw",
+        "text": "@ThinkingandTinkering I didn't think you would have tried to determine those type of issues. We will work on that here on our side of the world. I will keep you posted. Cheers mate",
+        "likes": 2,
+        "published_at": "2020-02-11T21:41:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz7VhmPyjDjIYOPc6N4AaABAg",
+    "author": "@sunturtlecamper42",
+    "author_channel_id": "UCDx66uBf2vAisQOWhHrBXLQ",
+    "text": "Dear Robert Murray Smith i have a question about wast water and how to mange it im making a screen printing washout booth filter system and i was wondering if you would have an idea on how to improve and make a working device that could purify the waste water before it goes dow the drain im going to use water based ink and photo emulsion on the screens the diy systems that is out there dont look safe to me sorry but what do you think?? would it make sens to use a sand filter with activ carbon or somthing in that sens??? Sorry for being of topic but a huge admire off your work mvh Lasse Askhøj Anderen SunTurtleCamper.com",
+    "likes": 0,
+    "published_at": "2020-02-11T21:05:00Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugz7VhmPyjDjIYOPc6N4AaABAg.94ujKZQK4gy94utRb8v4yN",
+        "author": "@sunturtlecamper42",
+        "author_channel_id": "UCDx66uBf2vAisQOWhHrBXLQ",
+        "text": "sorry fogot the dimensions h 1900mm* 820mm* 440mm space under wash out area 470mm* 770mm* 420mm could modify unit if more gravity is need then it would be 2100mm* 820mm*500mm top reservoir as big as the plastic sink 90 l bucket https://www.silvan.dk/murerbalje-90-liter?id=2640-5725349  maybe make a filter on the side like this would it make sens?? sorry video little long just skip true to get idea  https://www.youtube.com/watch?v=ffZxFBLQzaY and would it be safe to send down the drain or what do you think??",
+        "likes": 0,
+        "published_at": "2020-02-11T22:33:20Z"
+      },
+      {
+        "id": "Ugz7VhmPyjDjIYOPc6N4AaABAg.94ujKZQK4gy94vqi7kiKh1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Hiya mate - I am sorry but I really don't know the answer here - water remediation is a pretty complex subject, expensive to do well and full of quirks specific to the application. Sorry about that",
+        "likes": 0,
+        "published_at": "2020-02-12T07:28:46Z"
+      },
+      {
+        "id": "Ugz7VhmPyjDjIYOPc6N4AaABAg.94ujKZQK4gy94xXNbbOQDb",
+        "author": "@sunturtlecamper42",
+        "author_channel_id": "UCDx66uBf2vAisQOWhHrBXLQ",
+        "text": "@ThinkingandTinkering i know... to make something like this small scale is a big challenge https://www.youtube.com/watch?v=tFr_70x5e-c how would one get rid of hydrogen safely living in a flat really dangerous think i will try to make a filter instead to take the different substances out of the equation this is the system that is in use today https://www.youtube.com/watch?v=S3G1wa3zEOs but thanks for the input im doing a crowdfunding campaign for a solar powered rv its open source development i would like to invite you and your team to participate  in solving some of the challenge but im just getting started and the donation button and shop is not redy jet + legal stuff and permits mvh las",
+        "likes": 0,
+        "published_at": "2020-02-12T23:09:32Z"
+      },
+      {
+        "id": "Ugz7VhmPyjDjIYOPc6N4AaABAg.94ujKZQK4gy95-Na_aUsoG",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "@sunturtlecamper42 at your own risk oc, and i assume you know to keep h2 away from oxygen/air and flames for safety... depending on how much h2 you are generating ... \nas a side note, bubbling near pure hydrogen  through few layer nano carbon powder helps make it magnetic..\n\niv not reproduced his experiments but engineering logic seems to agree that lowering the direct oxygen/air to hydrogen ratio contact while burning the gas works in a safe manner, as in his super simple \"sand heater\"  https://www.youtube.com/watch?v=Bd_yrSldFWw\nHeating with Hydrogen HHO or Hcat. This man does just that.\r\n156,065 views•Oct 14, 2016\r,delvis11\n\noc as Okki Moeljadi found out as a side effect, surrounding your small hydrogen generator on demand tank with water is very good safety practice to as it helps contain accidental explosions and again reduces getting direct oxygen/air contact while its flash burning... so perhaps add  a water heat exchanger around any  \"sand heater\" design",
+        "likes": 0,
+        "published_at": "2020-02-14T01:41:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwMrASKYJcP3r6RieB4AaABAg",
+    "author": "@3dmaker699",
+    "author_channel_id": "UCQm13e8FuvkOz5eWsGvhdAA",
+    "text": "Fantastic as always Rob.",
+    "likes": 0,
+    "published_at": "2020-02-11T20:50:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwMrASKYJcP3r6RieB4AaABAg.94uhfnQTkza94uiFPUaYUP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T20:55:33Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz8niddp4SLSdmgd914AaABAg",
+    "author": "@MegamanTheSecond",
+    "author_channel_id": "UC39ZryGKSYsBwZAcVTqBdBA",
+    "text": "are you still working on your liquid 3d printer idea? that would be cool with a controlled heating pad",
+    "likes": 1,
+    "published_at": "2020-02-11T20:22:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz8niddp4SLSdmgd914AaABAg.94ueT0YSmOX94uhaoqkr7b",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i haven't looked at that in a while mate - maybe i should revisit it",
+        "likes": 2,
+        "published_at": "2020-02-11T20:49:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyscu9TKH6tFDrYPWV4AaABAg",
+    "author": "@PureAudioTones",
+    "author_channel_id": "UC3_zpl2yCHvc0SO9yn2f_0A",
+    "text": "I love the way how you use off the shelf items, you're a genius Robert :-)",
+    "likes": 5,
+    "published_at": "2020-02-11T19:54:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyscu9TKH6tFDrYPWV4AaABAg.94ubED5GxFB94uhci-snJ6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T20:50:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTJ2yWenxf4zwRCq14AaABAg",
+    "author": "@simonchapman9201",
+    "author_channel_id": "UCQXM_h5xQAq60OzjwwWnm7Q",
+    "text": "Simple to use\nSimple to dispose\nSimple to get\nSimple to afford\nThank you",
+    "likes": 5,
+    "published_at": "2020-02-11T19:53:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTJ2yWenxf4zwRCq14AaABAg.94ub8urG9-E94uhfSd_VM-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I love stuff like that mate",
+        "likes": 0,
+        "published_at": "2020-02-11T20:50:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQQ-oGDWDkrDbW8nB4AaABAg",
+    "author": "@benthere8051",
+    "author_channel_id": "UCA3o-MOrmPBuK-vzEclDbQQ",
+    "text": "Very well done, Robert.",
+    "likes": 0,
+    "published_at": "2020-02-11T19:33:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQQ-oGDWDkrDbW8nB4AaABAg.94uZu14FRcN94uhwHNJTzc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T20:52:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy2gBytYXy2cT2WdVR4AaABAg",
+    "author": "@bjdea1",
+    "author_channel_id": "UCnf0NwKfPzY_xs72DHCPu8g",
+    "text": "I can now see the possibilities of making larger scale custom 3D printer heat beds now. Awesome !",
+    "likes": 6,
+    "published_at": "2020-02-11T19:31:37Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugy2gBytYXy2cT2WdVR4AaABAg.94uZdafWMWR94uhxx6GpV9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 1,
+        "published_at": "2020-02-11T20:53:02Z"
+      },
+      {
+        "id": "Ugy2gBytYXy2cT2WdVR4AaABAg.94uZdafWMWR94wPyI9JYxH",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "its also probably the simpest friendy way to make the so called expensive diy \"Precious Plastic\" pre/heat presses etc as i told them",
+        "likes": 3,
+        "published_at": "2020-02-12T12:45:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx6yWnKHEjc7afzEcx4AaABAg",
+    "author": "@walteraustinr102",
+    "author_channel_id": "UC6h7FfAkSOxE799PElpCklw",
+    "text": "I was very curious in how you were going to get those two copper strips to connect to a heating element with paint. Genius!",
+    "likes": 2,
+    "published_at": "2020-02-11T19:20:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx6yWnKHEjc7afzEcx4AaABAg.94uYQZSA_cJ94ui0ElfwPB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T20:53:29Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwrinq_4zW4BSGKIkd4AaABAg",
+    "author": "@MrKennethbrunstein",
+    "author_channel_id": "UCfVR_qp_rZmCO8L_0Ixc0nw",
+    "text": "Can you do low temperatures with the ink. Does it lose the heat quickly.",
+    "likes": 0,
+    "published_at": "2020-02-11T19:19:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwrinq_4zW4BSGKIkd4AaABAg.94uYCzmUjG094ui3pM81jD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that would just depend on the insulation mate",
+        "likes": 1,
+        "published_at": "2020-02-11T20:53:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyG4TyhJzMWeliGWB4AaABAg",
+    "author": "@solarhope",
+    "author_channel_id": "UCB45svVX-jnuoYVUE_aUH7A",
+    "text": "Maybe not the SILAR machine just yet, but a coffee warmer for the shop seems like a good first step :-)",
+    "likes": 0,
+    "published_at": "2020-02-11T19:18:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyG4TyhJzMWeliGWB4AaABAg.94uY9UcHGfa94ui5fqq_2n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "maybe fry an egg lol",
+        "likes": 0,
+        "published_at": "2020-02-11T20:54:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyl0_MW_5cV4NjfZeB4AaABAg",
+    "author": "@craigglewis",
+    "author_channel_id": "UCblgk4tVnSqVAjd1PvLSwtQ",
+    "text": "Great vid Robert :) So you are getting up to 200 - 250Deg C with 12-24Vdc power supply?",
+    "likes": 2,
+    "published_at": "2020-02-11T19:17:53Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugyl0_MW_5cV4NjfZeB4AaABAg.94uY41ERo6l94ui8SCkvD0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you need to insultate as well mate but yes",
+        "likes": 3,
+        "published_at": "2020-02-11T20:54:36Z"
+      },
+      {
+        "id": "Ugyl0_MW_5cV4NjfZeB4AaABAg.94uY41ERo6l94v8q9FmJcd",
+        "author": "@deepforrestalchemy9189",
+        "author_channel_id": "UC_SM7FGq54ihDaaNoMzJIow",
+        "text": "Craig G. Lewis - yes \nIt’s pure genius.\nJust think - packaging made of a super capacitor that upon opening heats the contents to a specific temperature by discharging through its own outer layer ... granted that would be a one shot process but wouldn’t have to be - pots and pans that literally only require a 12v. power Source no stove top required - with the right materials as a substrate viable 12v ovens etc.\n\nA Teflon and graphene ink thermal layer in a space suit.\nAgain you could be working the super capacitive element into that design all controlled via a micro controller interface ... or even just thermally regulated hunting jackets or underwear...\n\nViable Solar powered heating systems...\n\nThe possibilities seem endless.\n\nI’m wondering how far the graphene based solar power generation has come along...\n\nJust some ideas - but seriously it’s this type of experimental application that opens up developmental applications that are only limited by the imagination.",
+        "likes": 2,
+        "published_at": "2020-02-12T00:56:38Z"
+      },
+      {
+        "id": "Ugyl0_MW_5cV4NjfZeB4AaABAg.94uY41ERo6l94vfJzOnAiM",
+        "author": "@craigglewis",
+        "author_channel_id": "UCblgk4tVnSqVAjd1PvLSwtQ",
+        "text": "@deepforrestalchemy9189 Yes this is the future. Already have the process for mass production, Heating pads and Greenhouse films. Get some funding set up a system. @Robert, we should set up a discussion in the Members channel.",
+        "likes": 0,
+        "published_at": "2020-02-12T05:49:12Z"
+      },
+      {
+        "id": "Ugyl0_MW_5cV4NjfZeB4AaABAg.94uY41ERo6l94wP4mo8FBv",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "@ThinkingandTinkering funny enough : ) \"burned toast\" is a VERY good carbon insulator.\n\n\nblend up some moldy bread, and/or add a tiny amount of fresh live yeast and required stiff base insulater material (bread mix style)with your ink , and paint a thin/thick layer on the layered stack heater trays until they rise to your given required thickness allowing for shrinkage later, then zap to the heat to kill the yeast and continue to carbonise and insulate a given space with very little tidy up",
+        "likes": 0,
+        "published_at": "2020-02-12T12:37:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-GT61N2bO32XecJ94AaABAg",
+    "author": "@deepforrestalchemy9189",
+    "author_channel_id": "UC_SM7FGq54ihDaaNoMzJIow",
+    "text": "Love the concept and implementation though I had to laugh  at 9:27 - “Paint on heater its very cool”  well done",
+    "likes": 9,
+    "published_at": "2020-02-11T19:14:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy-GT61N2bO32XecJ94AaABAg.94uXhsTTJpo94uiA7-A2z7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 2,
+        "published_at": "2020-02-11T20:54:50Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[00:00] i can be a real pedant single-minded and
+[00:02] to be honest quite boring at times but i
+[00:04] keep banging on about the design of
+[00:07] these things because everybody keeps
+[00:08] saying yeah what's the power output and
+[00:10] in order to get that what you really
+[00:12] need to be able to do is measure the
+[00:14] torque on this shaft that's being
+[00:16] produced by the wind acting on it
+[00:18] because the air density the volume it
+[00:21] encompasses and the speed of that wind
+[00:24] is what's going to determine the force
+[00:26] that's actually trying to push that
+[00:27] blood around and that can be calculated
+[00:29] just by taking a wind speed measure and
+[00:31] working out the size of this thing
+[00:34] now when we translate that force into a
+[00:36] rotation of the blade whether it's at
+[00:38] horizontal or vertical like this one
+[00:41] then we will get some force acting on
+[00:44] this axle here the efficiency of that is
+[00:47] going to be the relationship between the
+[00:49] force acting on it and the force it is
+[00:51] produced at the axle there so what we
+[00:54] really need to do
+[00:55] is to find some way of measuring the
+[00:58] force at that point so that we can
+[01:00] compare those two and give ourselves an
+[01:03] efficiency of that it'll also help us
+[01:06] calculate the power because remember if
+[01:08] we want the power of this we multiply
+[01:11] the rotational speed by the force of the
+[01:13] axle now gives the power the thing is
+[01:15] actually putting out
+[01:16] whether that power translates into
+[01:18] electrical generation or not is an
+[01:20] entirely different question when we want
+[01:22] to assess how that's going then that's
+[01:25] what we really need to do now because
+[01:27] there are ways of measuring rotational
+[01:29] force on that and it's a dynamometer and
+[01:31] there's several kinds of dynamometer and
+[01:33] if you pay a couple of hundred quid you
+[01:35] can get some very nice ones that will
+[01:36] get you some awesome measurements but of
+[01:39] course we do quite a lot of things on a
+[01:41] shoestring so there's a particular kind
+[01:43] of dynamometer called an absorption
+[01:45] dynamometer which was invented by um
+[01:49] bloody bloody blah
+[01:50] prone i think it's a gristard
+[01:53] something like that anyways in the 1800s
+[01:56] and he invented this way of calculating
+[01:59] what that turning force was going to be
+[02:02] and it was called a prone break now in
+[02:04] its simplest form
+[02:06] this is what a prony brake looks like
+[02:08] now it's basically a couple of wooden
+[02:10] blocks you connect them to a lever
+[02:15] and add a counterweight to counteract
+[02:17] the weight of the lever
+[02:20] on the other end of the lever you add a
+[02:22] weight and we're going to vary that
+[02:24] weight
+[02:27] now there are a couple of stops normally
+[02:29] added just to stop the thing falling
+[02:31] over
+[02:34] to hold the blocks together we need a
+[02:37] nut and a spring
+[02:40] and of course we need that on both sides
+[02:43] because those are the bits we're going
+[02:44] to tighten down
+[02:54] the springs just maintain the pressure
+[02:57] on the lever now the thing that we want
+[02:59] to measure the pulley or the shaft goes
+[03:01] in between the wooden blocks as you can
+[03:03] see it here
+[03:06] now it's the turning force on that
+[03:09] pulley that we're actually wanting to
+[03:10] measure
+[03:15] now if we just turn that on say
+[03:17] animation on so you can see it rotating
+[03:23] now when the pulley rotates
+[03:26] the wooden block is pulled down as we
+[03:30] increase that weight
+[03:34] and you keep that happening until the
+[03:35] wheel has stopped turning
+[03:38] now the amount of weight that you put on
+[03:41] there
+[03:42] is actually equal to the turning force
+[03:45] or if you like the power absorbed
+[03:47] by
+[03:48] the
+[03:49] blocks
+[03:50] and you can calculate the power of the
+[03:52] wheel
+[03:53] on the information
+[03:55] that's given there
+[03:58] so this is called an absorption type
+[04:02] dynamometer or a prony break
+[04:06] now of course we don't have to build a
+[04:07] prony brick exactly like that that
+[04:09] should illustrate the principle of
+[04:11] what's happening
+[04:12] quite common is to put a rotational drum
+[04:15] onto the shaft that's turning and then
+[04:17] put a band either
+[04:19] a fat rope or string or leather around
+[04:22] that drum and if you pull two springs or
+[04:24] like two spring balancers against that
+[04:27] rope you'll get a force measurement
+[04:29] where you can actually work out see the
+[04:31] force that is required to stop that from
+[04:35] turning and that force is going to
+[04:38] give you the power because the power
+[04:40] is two pi
+[04:42] times the center line of the drum that
+[04:44] you've put on there to the point at
+[04:46] which you measure the force times the uh
+[04:49] rpm
+[04:50] uh
+[04:51] times that number in newtons that you
+[04:54] read off the two spring balances and
+[04:55] that will give you
+[04:57] what the power is on that rotor so by
+[05:00] building something as simple as a prony
+[05:02] brake or using a couple of spring
+[05:04] balancers and a strap of leather and a
+[05:06] drum you can actually construct a
+[05:08] machine that is going to give you
+[05:10] the turning force on that drum for a
+[05:12] given wind speed now we've just talked
+[05:14] about the theory of it here what we next
+[05:16] need to do obviously is build a crony
+[05:19] brake

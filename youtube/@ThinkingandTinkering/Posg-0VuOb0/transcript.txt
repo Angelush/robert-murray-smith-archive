@@ -1,0 +1,321 @@
+[00:00] [Music]
+[00:08] now at the end of the 19th century so
+[00:10] the late 1800s the car industry was
+[00:12] undergoing an explosion because of
+[00:15] course it was seen as and in fact is a
+[00:18] very important Market where fortunes
+[00:20] could be made so lots of little car
+[00:23] companies were popping up all over the
+[00:24] place to met cars and they were trying
+[00:27] to improve on what before and make their
+[00:31] cars better now a lot of the time it's
+[00:35] thought that when you're designing
+[00:37] something you should design for the best
+[00:39] and if you happen to be working in
+[00:40] research well that's very true but if
+[00:44] you're working in
+[00:45] manufacturing what you should design for
+[00:48] is cost and the reason's obvious if you
+[00:51] make something that'll do the job and
+[00:53] it's cheap the mass Market is open to
+[00:55] you if you make something that's 1% more
+[00:58] efficient but 10 times well pretty much
+[01:01] you're doomed and that was the
+[01:03] experience of lots of these little car
+[01:05] companies including a car company you've
+[01:07] probably never heard of called the
+[01:09] Lanchester car company now the
+[01:11] Lanchester car company was set up by
+[01:13] three brothers Frederick George and
+[01:15] Frank and what they aimed at was solving
+[01:18] the problems of the car and they were
+[01:20] extraordinary Innovative because Frank
+[01:23] was a um sorry Frederick actually was a
+[01:26] very well respected Automotive engineer
+[01:29] and he brought his brain to the problem
+[01:32] and they came up with some astounding
+[01:34] things I mean they were the first
+[01:35] company to create disc Rags they also
+[01:38] used epicyclic gearing in their gear
+[01:40] boxes however they went bankrupt only 5
+[01:45] years later in
+[01:46] 1904 the receivers came in reorganized
+[01:49] them they ended up being owned by Land
+[01:51] Rover which of course is now owned by
+[01:53] Tata and the big issue that they had was
+[01:57] it was just too expensive now one of the
+[02:00] issues that they looked at was the the
+[02:02] nature of the drive I mean if you think
+[02:04] of aara now it's four pistons in line
+[02:07] and course they explode and lumped
+[02:09] through the riding a car back then was
+[02:12] particularly rough and the Lanchester
+[02:14] Brothers wanted to solve that problem
+[02:17] and they created something called the
+[02:19] romic
+[02:20] drive in a romic drive a rigid piston
+[02:23] Rod is connected to one side of a rombus
+[02:26] instead of a flexible Rod connected to a
+[02:28] crankshaft and of course as the Piston
+[02:30] moves it deforms the rhombus as a
+[02:33] rhombus deforms it's attached to two
+[02:35] cranks gears flywheels that move in
+[02:39] opposite directions this distorts the
+[02:42] other side of the rhombus and so first
+[02:44] it flattens out returns to its shape and
+[02:46] then flattens on the other side of
+[02:47] bottom and top dead center now the
+[02:50] benefit of the rhombus drive is it gives
+[02:53] a very smooth movement from linear to
+[02:57] rotational the disadvantage is well it's
+[03:02] more complex there's more parts to
+[03:04] manufacture and the tolerances of having
+[03:06] a double piston system like that are
+[03:09] quite tight indeed meaning you don't see
+[03:12] it much in Motor Vehicles these days but
+[03:15] in a Sterling engine of course one of
+[03:17] the Pistons isn't actually a piston it's
+[03:20] a displacer the whole job is just to
+[03:22] take up space so that the air moves
+[03:25] between the hot and the cold side and
+[03:27] tolerance isn't so much an issue so you
+[03:29] find romic drives in Sterling engines
+[03:32] even today so what I thought I'd do is
+[03:36] create a romic
+[03:38] drive now one of the things about
+[03:40] designing stuff is that you don't have
+[03:41] to design everything from scratch all of
+[03:44] the time now here's the Tinker cat
+[03:45] drawing I did for the hyper cycloidal
+[03:48] engine and this is the flywheel now it
+[03:51] took a fair bit to do and I really quite
+[03:53] like it so we can reuse it in the new
+[03:55] model that we're going to make to do
+[03:57] that just click on it and export it as
+[04:01] an
+[04:02] STL and then we go back to the
+[04:06] dashboard open up a new
+[04:10] workspace and this time we can import
+[04:15] it and there it is now there are a few
+[04:17] changes I want to make to it because
+[04:19] there are some things I don't like about
+[04:20] it for this new design for example it's
+[04:23] 45 mm High which I think is a bit too
+[04:26] big so I want to reduce it so put on a
+[04:29] basic cylinder primitive that's a whole
+[04:32] the size of this is 150 by 150 I want it
+[04:35] 30 mm high so type in 30 to move it 30
+[04:40] off the bed and then on the size of it
+[04:43] type in a bit bigger than the size that
+[04:46] you want to cut
+[04:53] out Center them to each
+[04:57] other and then if we merge
+[05:02] those we've got the flywheel size I want
+[05:04] now I designed this with a square peg in
+[05:06] the center because I wanted to link to a
+[05:08] square peg but we need to fill that
+[05:11] because now I want a different kind of
+[05:12] axle so this time pull off a cylinder
+[05:15] primitive and it's going to be about 30
+[05:18] by 30 I think just looking at it 30 by
+[05:21] 30 and we'll do that 32 so it's all the
+[05:24] same
+[05:26] height Center them to each other
+[05:36] and if we merge that then we'll get a
+[05:40] flywheel but we want to have a center
+[05:42] hole in it and I want this Center hole
+[05:44] keyed so this time pull off yet another
+[05:47] cylinder and I want the axle to be 8 mm
+[05:52] by 8
+[05:55] mm and this is 13 remember so let's make
+[05:59] that for so it pokes out a little bit it
+[06:01] just means that we can grab it later
+[06:03] Center
+[06:07] it and I want to key it so I need a key
+[06:11] cutting in that I need a section of it
+[06:12] flattened and I want that section to be
+[06:14] 2
+[06:24] mm remember this is 40 so let's make
+[06:27] this 45 it means it we can grab it
+[06:30] really
+[06:31] easily and now we need to center it to
+[06:33] the axle so we Center it there hit the
+[06:36] centering the alignment key Center it to
+[06:39] one Edge and to the center there now we
+[06:43] can join we can turn that into a
+[06:47] hole we can join it with the 8 mm bar
+[06:50] that we just did did so we group
+[06:53] them and we're going to get a flat key
+[06:55] way if we click on that and now make
+[06:57] that a hole
+[07:00] highlight the whole lot and group them
+[07:02] then we get the flywheel with a flat
+[07:05] keyway at 8
+[07:07] mm the other thing that this will be
+[07:10] really good for are the two gear sets
+[07:12] that we need to make but 150 by 150
+[07:15] that's a bit large so we can reimport it
+[07:18] but you'll notice here we've got a scale
+[07:21] so we can make that half the size by
+[07:23] making that scale 50% and import it and
+[07:25] it will import it at half the size and
+[07:29] there it is now I want this gear to be
+[07:31] about 5 mm thick and it's 75 by 75 of
+[07:35] course because this was 50 by 50 so I
+[07:37] need to shave off a bit to make it 5
+[07:40] millim thick so if I move it 5 millimet
+[07:43] from the bed make that
+[07:46] 80 by
+[07:50] 80 align the two by highlighting them
+[07:53] hitting the Align
+[07:58] key and then group them we have a pretty
+[08:01] little shape that will look nice when it
+[08:04] comes to the gearing that we're going to
+[08:06] do again we've got this square hole
+[08:08] which won't do so if we grab a cylinder
+[08:11] primitive smooth that out that looks
+[08:14] about 14 to 14 to
+[08:21] me yep pretty cool then we can align
+[08:25] those to each other so we Center it to
+[08:27] that
+[08:29] and make this 5 mm
+[08:32] high and we can put an axle stret
+[08:35] through by pulling on a whole primitive
+[08:38] smoothing
+[08:39] it eight eight and then we can Center
+[08:44] the whole thing to
+[08:47] each group
+[08:50] them and there we go we get a nice
+[08:52] center now of course that needs to be
+[08:54] geared so we go to search type in gear
+[09:01] pull out metric gear we want that to be
+[09:03] five
+[09:04] high and you'll notice that this is 19
+[09:08] this is 75 so we need it to be bigger
+[09:12] than 75 let's change the module because
+[09:15] I think one is really not chunky enough
+[09:19] so 1.5 and so if we change that to
+[09:22] something like 50 then we get
+[09:26] 77 and that is 75 so we'll have 2 mm M
+[09:30] it's not quite enough so let's change it
+[09:32] to
+[09:32] 52 now what we want to do is place that
+[09:35] in that that's 75 so let's close this
+[09:40] grab ourself another whole primitive
+[09:43] smooth the sides make that
+[09:49] 74 by
+[09:56] 74 so it's just a little bit smaller
+[09:58] than this that means that will overlap
+[10:00] with this later on and then we align
+[10:02] those
+[10:05] two we can check out we're not cutting
+[10:08] into the teeth no we're not so let's
+[10:10] group
+[10:12] them then all we have to do is highlight
+[10:16] those two and use your alignment button
+[10:18] to align them
+[10:31] and group them and press up we have our
+[10:36] gear duplicate that and move it out of
+[10:39] the way and we have two gears and a
+[10:42] flywheel created in a few minutes
+[10:44] because we basically reused old parts
+[10:48] now of course I need to draw the other
+[10:49] parts and here they are and I don't plan
+[10:51] on going into how to draw these parts
+[10:54] because they're all basic primatives and
+[10:55] I have covered that in previous videos
+[10:58] and I will putting these parts up on the
+[11:01] thingiverse should anybody want to print
+[11:03] it off or anybody want to use those
+[11:04] parts to redesign for themselves all I
+[11:07] really wanted to point out was it's more
+[11:09] than possible to reuse your parts or
+[11:12] parts of a design to speed up your
+[11:14] drawing process okay let's get them
+[11:17] printed out and put together right to
+[11:19] put this together we have two gears
+[11:21] labeled A and B and two axles a long one
+[11:24] with a flat side and a short one into
+[11:27] gear V the short one
+[11:30] goes into the reverse side so that it's
+[11:32] flush with there and a bit of glue to
+[11:34] hold it into place then in gear a we
+[11:36] take the long axle and shove it in there
+[11:39] so the flat side is facing that way and
+[11:42] glue it into place and then we have two
+[11:45] counter weights the counter weights have
+[11:47] this large hole with a little notch in
+[11:49] it and there's a corresponding notch on
+[11:50] the gear the counter weights go onto the
+[11:53] Notch and glue into place on both of the
+[11:56] gears
+[12:01] like
+[12:01] that then we take these pegs with the
+[12:04] step in and those pegs go into the
+[12:07] counter weights right there then we have
+[12:10] the base and the back plate and the back
+[12:12] Plate's got this angled section and you
+[12:14] glue the back plate onto the base that
+[12:17] way so that the long side of the base is
+[12:20] back and the short side is the same as
+[12:22] the angled section when you've done that
+[12:25] take the Cog with the large axle and
+[12:27] feed it through the back plate
+[12:31] like that there's a washer a thin washer
+[12:33] at 1 mm that then goes on then we pop on
+[12:37] the flywheel to line it up there we go
+[12:39] and right there we pop on one of these
+[12:42] clips now we want to put on the Cog with
+[12:45] the small axle and what you do is rotate
+[12:47] that around so that it's at 90° making
+[12:50] sure that's one at 90° and then pop the
+[12:53] axle through keeping them at 90° from
+[12:56] each other which is why it mattered that
+[12:58] it was a and B and when we've got those
+[13:00] on they should be in line and when
+[13:02] they're in line flip it over and pop a
+[13:05] clip
+[13:06] on now we take our crank arms one
+[13:09] straight crank goes there one straight
+[13:11] crank goes there then we've got these
+[13:13] ones with a bend in the crank that crank
+[13:16] goes there and that crank goes there and
+[13:19] again at the top there we pop a clip on
+[13:23] then we have these connecting shoes
+[13:25] one's got a 6 mm hole in it and one's
+[13:27] got a much smaller 3mm hole the 6 mm
+[13:30] hole goes up against this here and it
+[13:33] goes up from
+[13:47] underneath then there is this arm which
+[13:50] snaps on the
+[13:57] top and when we snap it down you pop two
+[14:00] clips and repeat that with the 3 mm hole
+[14:03] on
+[14:04] those then this which is a bit of 6 mm
+[14:06] bar with the hole right the way through
+[14:08] goes through there and into that 6 mm
+[14:11] section and you glue it in place and
+[14:14] then this which is a bit of 2.8 mm bar
+[14:17] feeds all the way down into that section
+[14:20] and again glues in place in here and
+[14:24] when you've done that this is what you
+[14:25] get the romic drive now I move the
+[14:29] flywheel what you can see is that these
+[14:31] two piston rods move independently of
+[14:33] each other and 90° apart as the rombus
+[14:38] right here gets deformed of course what
+[14:40] we actually want to do is drive the
+[14:42] Piston rods which will do the same thing
+[14:45] but we can see it moving as it should
+[14:48] move now we'll put this up on thingy
+[14:51] vers of course and the link will be in
+[14:52] the description there is a variant of
+[14:55] this incidentally where these extend to
+[14:58] the cramp case and have a pivot point
+[15:00] and if you do that you can get rid of
+[15:01] one whole half but this is the original
+[15:04] full Run Drive which as I say is used in
+[15:07] Sterling engines I hope you enjoyed the
+[15:09] video I hope it was a useful to you
+[15:11] thank you very much for watching and
+[15:13] please do remember to like And subscribe

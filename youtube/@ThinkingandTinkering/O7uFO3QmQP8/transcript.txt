@@ -1,0 +1,264 @@
+[00:04] [Music]
+[00:15] hi so it is without a doubt that the
+[00:17] subject of inverters can be very
+[00:19] complicated but it doesn't have to be
+[00:21] there's actually quite a range of
+[00:23] inverters available and one that's used
+[00:25] in energy storage is a push pull
+[00:28] inverter it's actually quite popular
+[00:29] because it has a number of pros that
+[00:32] recommend it obviously like everything
+[00:35] there's a number of cons against it as
+[00:37] well and you find that with everything
+[00:39] there's always pros and there's always
+[00:41] cons but it is a used type of inverter
+[00:44] for converting your 12 volts to whatever
+[00:47] it is your ac suppliers required because
+[00:50] that's what an inverter does
+[00:52] an inverter takes a dc battery voltage
+[00:55] steps it up and converts it into
+[00:57] alternate currents so we can use it in a
+[00:59] household and
+[01:00] 120 volts in a lot of the world and 230
+[01:04] volts here in the uk so it's a combined
+[01:06] device that will convert dc
+[01:09] into ac and step it up now when we're
+[01:13] thinking about stepping something up
+[01:15] obviously we're thinking about a
+[01:16] transformer a transformer is a coil
+[01:20] a core
+[01:22] and another bigger coil
+[01:28] so this would be a step up transformer
+[01:30] we've got a low voltage in here and a
+[01:32] high voltage comes out there now it'll
+[01:35] only work if it's got an ac going in
+[01:38] there because we need the magnetic field
+[01:40] to build up and collapse and build up
+[01:42] and collapse and that's what pushes
+[01:45] the ac out of this side and here we want
+[01:48] an ac waveform
+[01:51] like that at say
+[01:54] 230 volts
+[01:57] adjust that for your own country
+[01:59] now interestingly enough if we put a
+[02:02] negative in here and a positive in there
+[02:06] then the output is reversed what we'll
+[02:08] get is a positive here and a negative
+[02:12] here at the output and that's very
+[02:13] interesting
+[02:15] because if we put two coils in there
+[02:18] and we join them all
+[02:23] and we make that always positive
+[02:25] and these will be negative swapped over
+[02:28] so if that's negative we get positive
+[02:30] negative
+[02:31] if we put a negative in there then we'll
+[02:34] reverse it we'll get a positive
+[02:39] so by flipping which one of these two
+[02:43] wires this one or this one we connect to
+[02:45] ground we can actually get a flip on
+[02:49] here now it's an approximation of ac
+[02:53] because if we have a dc here and we
+[02:55] basically switch it off and on what
+[02:57] we'll get out here
+[03:04] is a waveform like that where it's going
+[03:06] up and down relative to a zero voltage
+[03:09] swapping over the plus and the minus but
+[03:11] it looks very like this and there is
+[03:14] something we can do about it but
+[03:16] just get hold of this for a second
+[03:19] so we want this one to be always
+[03:21] positive so let's stick a battery in
+[03:22] there positive and connect it straight
+[03:25] up this one we need to connect to a
+[03:28] switch here and a switch here
+[03:34] so that when we close this switch
+[03:37] this switch is open when we close that
+[03:39] switch that switch is open and of course
+[03:41] if we do that what we'll get is the
+[03:43] right waveform now remember a
+[03:45] transformer is an inductor so it has a
+[03:47] back emf and you need to protect this
+[03:49] against the back emf and you do that
+[03:52] by adding a couple of diodes across the
+[03:54] switch to prevent that
+[03:57] going back down and basically blowing up
+[03:59] your battery
+[04:06] so a couple of diodes there will stop
+[04:08] that from hitting your battery now that
+[04:11] will create a jagged waveform because
+[04:13] it's pulsing it's switching off and on
+[04:16] then relative to zero we're going plus
+[04:19] minus plus
+[04:20] minus on this side
+[04:23] if we actually banged a great big
+[04:24] capacitor on there
+[04:27] then what we get is
+[04:29] this
+[04:31] we'll actually get a smoothed ac
+[04:34] waveform coming out of
+[04:36] here
+[04:38] now that is all there is to a push pull
+[04:43] it's a perfectly functional inverter
+[04:46] that will do the job based on two
+[04:48] switches and of course these switches
+[04:50] they use mosfets from them not actual
+[04:52] physical switches but essentially that's
+[04:54] it now you can do other things and there
+[04:56] are other requirements that can
+[04:58] generally put in so one of the things to
+[05:00] worry about for instance is saturation
+[05:03] current flow so you need to watch out
+[05:05] for that sort of stuff but
+[05:06] that is the basics of a simple push-pull
+[05:11] inverter based on a transformer
+[05:14] where you centre-tap the transformer so
+[05:16] this coil and this coil are identical
+[05:19] the center tap gets connected to the
+[05:21] positive the other two sides get
+[05:23] connected to the negative but through
+[05:26] switches diodes across the switches for
+[05:28] the back emf and then a smoothing
+[05:30] capacitor whacked on that so that we get
+[05:32] a smooth waveform that
+[05:34] is all there is to it the rest is about
+[05:37] sizing components and then purifying it
+[05:40] and taking care of it and making sure
+[05:42] that it actually doesn't exceed its
+[05:44] limitations but in essence there isn't
+[05:47] much more to it than that okay so to put
+[05:48] this into practice i've got a
+[05:50] transformer here you've got an output
+[05:51] side of its two leads and an input side
+[05:53] that's been centered tap so they're the
+[05:55] two end leads and the black ones are
+[05:57] centered tap now the two out leads just
+[06:00] connect to the meter because we're going
+[06:02] to read what it is and the meter is on
+[06:04] ac volts doesn't matter which way around
+[06:06] it goes now remember this one the center
+[06:10] one is the one that we always feed with
+[06:12] the positive and the two negatives are
+[06:14] the ones that we switch between the two
+[06:16] negatives now to flop between the two
+[06:18] negatives you'd normally use transistors
+[06:21] but we're going to use a straightforward
+[06:22] switch and the straightforward switch is
+[06:24] just to relay so it's a double pole
+[06:26] relay and it'll flip between the
+[06:28] normally off and normally closed so of
+[06:30] course that will act like a switch now
+[06:32] i'm not going to bother with the diodes
+[06:34] or with the capacitor we're just going
+[06:36] to see how this thing works so we take
+[06:39] the two
+[06:40] end pieces which are our negatives and
+[06:42] connect them to the normally closed and
+[06:44] normally open of the relay
+[07:00] now we need our relay in on the relay
+[07:03] common and that's obviously going to
+[07:04] connect to the negative of the battery
+[07:12] now we have a coil and the coil is going
+[07:14] to be the whole thing that runs it so
+[07:16] the coil has a positive and negative and
+[07:19] we're going to put that on a switch
+[07:21] because we need to turn that coil off
+[07:22] and on in a timing sequence so me
+[07:25] pressing the switch represents an
+[07:28] outside timing source use lots of things
+[07:31] as a timing source a 555 timer will do
+[07:34] it but i'm going to use me pressing the
+[07:36] switch at a red and that's going to be
+[07:38] my timing signal that will turn the
+[07:40] relay coil off and on and that will flop
+[07:43] the negative between the
+[07:46] normally closed normally open so let's
+[07:49] put that in place
+[08:02] so
+[08:23] and connect the negative of the battery
+[08:25] to the other side of the coil
+[08:37] there we go
+[08:39] now the only other thing i need to do is
+[08:40] take my center tap and connect it to my
+[08:43] positive so it runs
+[08:45] through either side remember reversing
+[08:50] there we go it's on
+[08:53] and now if i press that button and we
+[08:55] watch here
+[09:02] then we're able to transform that 12
+[09:04] volts through this into ac at around
+[09:08] about 80 volts that is impressive and
+[09:12] basically
+[09:13] all a push-pull inverter is okay these
+[09:16] push-pull inverters are found all over
+[09:18] the place you find them in the cfl tubes
+[09:20] actually of laptops and you do find them
+[09:23] as sine wave converters for 60 hertz and
+[09:25] output as an actual in your house
+[09:28] inverter
+[09:29] now you normally obviously use
+[09:31] transistors or mosfets with the switches
+[09:33] which is what we use the relay for just
+[09:35] a mechanical switch we replace those
+[09:37] with mosfets now use an actual switch as
+[09:40] the timing circuit but you can
+[09:42] externally drive a timing circuit and a
+[09:44] practical example one you could build
+[09:46] and actually use looks like this so here
+[09:49] we're using mosfets
+[09:51] and there's a good reason for that the
+[09:54] transistors themselves aren't very good
+[09:56] when it comes to
+[09:58] current fed inverters and current fed
+[10:00] inverters are what you want when you're
+[10:02] looking at a battery or solar cell
+[10:04] inverter so it's best to do them with
+[10:07] mosfets now the resistors provide to
+[10:09] turn on while the diodes d2 and d3
+[10:12] provide turn off and isolate the gauge
+[10:14] from the high voltage that you would get
+[10:16] from the spiking that we talked about
+[10:18] now an example of the parts is the
+[10:21] q1q2q3 the mosfet stp 36nf 06l would be
+[10:27] good i'll put this in the description
+[10:29] incidentally i want an r2 with 10 ohms
+[10:32] d1 would be a diode like mbr 1035 d2 and
+[10:36] 3 maybe mur 120 and you'll notice
+[10:39] there's an inductor there l and that
+[10:41] would be about 100 micro henrys with the
+[10:44] capacitor now c is 0.1 micro farads
+[10:49] now this design is especially good if
+[10:52] you're driving the switches from an
+[10:54] external circuit
+[10:56] and it gives you a fixed frequency
+[10:58] that's independent of the core because
+[11:00] very often the core can actually affect
+[11:02] the frequency of everything you get
+[11:04] frequently drift but doing something
+[11:06] like this with an external driver will
+[11:08] keep that frequency on target which is
+[11:10] exactly what you want of course
+[11:12] the inductor is important actually
+[11:16] because without it then you can get um
+[11:19] saturation of the core which can be an
+[11:22] irritating thing it can lead to blonde
+[11:24] transistors so if you stick an inductor
+[11:25] in there that helps solve that issue as
+[11:28] well
+[11:30] anyway i hope you found that helpful
+[11:32] because um they're really not that
+[11:34] difficult to
+[11:35] build one that would be
+[11:37] basically home built i mean the
+[11:39] transformers you can either wind
+[11:41] yourself or you can actually buy
+[11:43] transformers that will do that job just
+[11:45] fine the rest of the components are
+[11:47] freely available and building a one
+[11:51] yourself is not really that much out of
+[11:53] anybody's capabilities and certainly the
+[11:56] way it works is extremely simple as
+[11:59] we've seen so i hope it was of interest
+[12:01] to you
+[12:02] thank you very much for watching and
+[12:04] please do remember to like and subscribe

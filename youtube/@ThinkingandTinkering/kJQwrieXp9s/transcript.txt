@@ -1,0 +1,284 @@
+[00:04] okay we're going to talk a bit about in
+[00:05] the video on how to run these things
+[00:07] which are St hard drive disc Motors
+[00:10] however before we do that I'm just going
+[00:11] to talk a little bit about it now um
+[00:14] I've been working on a designation
+[00:16] technique using the Tesla turbine and I
+[00:18] made this simple turbine to actually
+[00:20] test that out and once I tested that out
+[00:23] I was left with a handful of these
+[00:25] things as you want to get because I had
+[00:27] to pour quite a few in the park and I
+[00:29] thought well it's kind of shame to leave
+[00:30] those lying around I wonder how you do
+[00:32] make them Drive once I found out how to
+[00:34] make them Drive what I decided to do
+[00:37] then was build a big version and here it
+[00:39] is here's my half built Tesla Drive
+[00:42] version I'm going to use this one but in
+[00:45] order to use this one what I need to do
+[00:47] is drive it now at the back there I put
+[00:49] some magnets and my intention is to
+[00:52] drive that as you would drive a step
+[00:54] motor or a half dis motor so I had some
+[00:57] pretty good reasons on why I wanted to
+[01:00] learn how to run these things because I
+[01:03] I want the information from here and
+[01:05] then use that to run the big Tesla so
+[01:08] that's the plan now let's have a look at
+[01:10] some of the theory on the board so those
+[01:13] Motors in those hard dis drives are
+[01:15] actually steeper Motors and there's a
+[01:17] number of ways that you can run a step
+[01:18] of motor you can run it with a digital
+[01:20] signal or you can run it in exactly the
+[01:22] same way that you would run a
+[01:24] three-phase motor now three-phase motor
+[01:26] essentially consists of three coils uh
+[01:29] set against magnets that are run 120°
+[01:33] apart to complete the whole circle
+[01:35] that's electrically 120° apart and so
+[01:38] they run directly at the three- Supply
+[01:39] because a three- Supply is that far
+[01:41] apart now there are couple of ways of
+[01:44] actually wiring these up one is called
+[01:47] Delta configuration because it looks
+[01:49] just like a Delta Capital Delta and what
+[01:51] you have are three points of
+[01:55] contact and in between those three
+[01:57] points of contact you have your Coes
+[02:02] and each of those gets fired going
+[02:04] around so you get a rotating magnetic
+[02:06] field now if we confile that in a
+[02:10] different way we can actually make that
+[02:12] step ofo work now there's another
+[02:14] configuration called the Y configuration
+[02:17] it looks a bit like a y but it's spelled
+[02:19] w ye and here we
+[02:22] have our coils like this
+[02:30] where we have four points of contact
+[02:32] where this one is actually common it's
+[02:34] these ones that we're interested in now
+[02:35] on a three phase motor each one's
+[02:37] powered separately if we want to run
+[02:39] this out single phase for instance then
+[02:41] we can put our single phase in at two
+[02:45] points and it will run it will run
+[02:48] dropping out one of the coils so it'll
+[02:50] run kind of lumpy and you can feel it
+[02:52] going you it want s start you need to
+[02:55] give it a bit of a spin so the momentum
+[02:57] of the wheel will overcome this dropout
+[02:59] point and continue to run in that kind
+[03:02] of lumpy way so if we put an AC signal
+[03:05] across there we can actually run a three
+[03:07] motor or in fact we those hard drive
+[03:09] Motors just by pumping in an AC same
+[03:11] thing on the Y configuration if we put
+[03:13] our ac across there we'll get exactly
+[03:16] the same result now the problem is
+[03:18] really that coil that's dropped out how
+[03:20] can you pick that coil up but using a
+[03:23] phase change so that you can overcome
+[03:26] that Thump Thump Thump Thump Thum it's
+[03:28] actually relatively easy easy all you do
+[03:30] is Bridge a capacitor across them if you
+[03:33] bridge a capacitor across them while the
+[03:36] AC is on its rise it charges the
+[03:38] capacitor while it's on its form the
+[03:39] capacitor gives out its power so you
+[03:41] effectively create a power supply that
+[03:43] is out of phase of the main power supply
+[03:46] and it charges um that induction coil so
+[03:48] it will run much smoother and much
+[03:50] better same thing with the wine PHS
+[03:52] you've got your inut here if you put a
+[03:54] capacitor across
+[03:56] this you'll do exactly the same thing
+[03:59] now now you can put the capacitor across
+[04:01] this point or you can put the capacitor
+[04:04] across this point I one doesn't really
+[04:06] matter you put it in one across one
+[04:08] point it'll run One Direction put it on
+[04:10] the other point it'll run the opposite
+[04:11] direction and the same is true here we
+[04:13] can put a capacitor over here and we get
+[04:16] to re reverse this direction of rotation
+[04:19] so if you're going to wire up these
+[04:21] motors you need to know which
+[04:22] configuration it is because this one
+[04:25] actually runs better than this one
+[04:27] unfortunately all hard drive Motors
+[04:28] Modern Motors are in fact wide
+[04:30] configuration Motors they'll still work
+[04:33] but they don't work as well as the Delta
+[04:34] configuration Motors so if you've got a
+[04:37] three-phase motor that's in one
+[04:38] configuration and you can rewire it
+[04:40] you're better off rewiring at Delta fair
+[04:42] configuration because it works out much
+[04:44] better now one of the problems with
+[04:46] these things we don't have much start
+[04:48] talk so if you've got an application
+[04:50] where you're going to have um a big
+[04:52] heavy power load to begin with and then
+[04:54] that falls off as the motor gets running
+[04:57] then this is actually quite poor but
+[04:58] what you can do is put in another
+[05:03] capacitor it's time with a switch so
+[05:05] when you turn it on you press that
+[05:07] switch down both of these capacitors
+[05:09] will dump into the coil and give it a
+[05:10] much High start torque it's far too high
+[05:13] to keep it running for a long time so
+[05:14] it'll burn out the coils so once the
+[05:16] thing's got started you release that
+[05:18] switch and you just have a run capacitor
+[05:20] in there so you have a run capacitor and
+[05:22] a start capacitor so the run capacitor
+[05:24] has a lower capacitor so doesn't look
+[05:26] the coils as high now these will run the
+[05:29] motor the won't run it as efficiently as
+[05:32] a motor properly run from a three-
+[05:34] Supply you get about a 70% U power
+[05:36] output out of it but good enough for us
+[05:39] when we're going to play around with
+[05:40] some hard drive Motors okay so here we
+[05:42] are with a couple of the motors and
+[05:44] they're both wide configurations and if
+[05:47] you look at the back of them what you'll
+[05:48] see here is three pins and those are the
+[05:51] pins that you basically sold a three
+[05:52] wires to now loads of them are like that
+[05:55] some of them are like that and you can
+[05:57] see four contacts it's still the white
+[05:59] configuration but the fourth contact is
+[06:01] the common contact that we're talking
+[06:03] about and the one that you don't want in
+[06:05] order to find that common contact all
+[06:07] you do is use an OHM meter and find the
+[06:08] one with the lowest resistance that'll
+[06:10] be your common then use the other three
+[06:13] now I've wired up three wires here and
+[06:16] um I'm going to run this motor now I've
+[06:19] got two options really on running this
+[06:20] motor I can run the motor as is where
+[06:23] it's just U plugged into the plus and
+[06:24] the minus of the sine wave and it will
+[06:26] run it'll run a little lumpy you may be
+[06:28] able to hear it you can certainly Feel
+[06:30] It In order to get that sign wave what
+[06:32] I've done is I've used this thing which
+[06:34] is a sound card oscilloscope it's
+[06:36] actually by guy called snits and it's
+[06:39] really very cool uses a sound card as a
+[06:41] osilloscope and as a signal generator
+[06:44] it'll generate somewhere between 20 and
+[06:46] 20,000 Hertz I think something like that
+[06:49] but it's certainly going to generate in
+[06:50] the region I want so it's going to
+[06:52] Output to the sound card and I fed the
+[06:54] sound card into this thing which is a
+[06:55] Pro 200 amplifier it's just going to get
+[06:57] a bit more beef out of it it's about 12
+[06:59] something like that now I've set the
+[07:01] frequency at 50 HZ which is our line
+[07:04] voltage and if I turn on that frequency
+[07:06] and then turn this on you'll see that
+[07:08] motor start to spin so let's turn the
+[07:10] power
+[07:25] down and there we go now as I say it's
+[07:28] not self-starting because of the lump
+[07:31] that it has to get through but it's
+[07:33] spinning at about 50 hertz so 50 cycles
+[07:36] per second say about 3,600 RPM something
+[07:39] like that and that's the motor spinning
+[07:42] Now using the straightforward sine wave
+[07:45] so in line with what I was chatting
+[07:46] about on the board I've left the two
+[07:48] connections to the um amplifier as was
+[07:51] but between the other two here I've put
+[07:54] a capacitor now that's a 400 nanofarad
+[07:56] capacitor and it doesn't really matter
+[07:58] which one you connect to here was
+[08:00] connected to the live and connected to
+[08:01] the free leg had connected the free leg
+[08:04] and to the neutral it would have
+[08:05] actually spun in the opposite direction
+[08:07] so this time it's going to spin in One
+[08:08] Direction if I connected it up to there
+[08:10] it would spin on the opposite direction
+[08:12] the value of that capacitor actually is
+[08:14] quite difficult to assertain because it
+[08:16] depends on um the power drawer of the
+[08:18] motor and the frequency at which the
+[08:20] motor is running a rough Ru of thumb
+[08:23] that I came across with 78 times the
+[08:25] kilowatt draw of the motor gives you an
+[08:27] idea a Target figure for that particular
+[08:30] capacitor now this wouldn't run at 50 HZ
+[08:33] I actually had to put this down at 45
+[08:35] htz because it's to say it's frequency
+[08:37] dependent um now if I start that signal
+[08:40] generator going again it's at 45 K 45
+[08:44] Hertz what you should see is the motor
+[08:45] just start running all by
+[08:49] itself and there we go it's now
+[08:52] self-starting that's kind of
+[08:55] cool so if you want to work out what
+[08:58] that capacitor is then use that rule of
+[09:00] thumb but then measure the voltage draw
+[09:02] across each of the coils and adjust the
+[09:04] capacitance until you get the voltage
+[09:05] roughly equal across the coils now I've
+[09:09] done this using this setup but obviously
+[09:11] there's no real reason you need to do uh
+[09:13] this setup I've only done this I can
+[09:15] vary the speed if what you do is use a
+[09:18] Transformer so say you plug it into the
+[09:20] mains and you transform it down from 240
+[09:22] volts or 120 volts to 312 Vols somewhere
+[09:26] around about there and then you're going
+[09:28] to be able to run this straight from the
+[09:29] mains using a Transformer and a
+[09:31] capacitor and you can work out the
+[09:33] capacitance and then test your
+[09:34] capacitance until you work the thing
+[09:36] properly and you be able to run that um
+[09:38] hard disk motor really really easily
+[09:41] from just a Transformer and a set of
+[09:43] capacitors and that will get you running
+[09:44] and going the other alternative with
+[09:47] this is to use a u digital controller
+[09:50] and they do those for RC cars you can
+[09:52] buy an RC controller I've got one on
+[09:54] order and it arrives here and I'll go
+[09:56] through that so let's just start that up
+[09:58] again and leave it running
+[10:02] it is very cool how itself starts it
+[10:04] really is cu you can get loads of these
+[10:06] things so obviously I'm going to take
+[10:08] the basic principles of what we've been
+[10:10] talking about and build a larger motor
+[10:13] to run my large Tesla drive here dis
+[10:16] drive and that's what I plan on doing
+[10:18] with it I would like to do a closeup of
+[10:20] this uh but it's not really possible
+[10:22] with the setup I've got but a friend of
+[10:24] mine called Mike gaan is actually
+[10:26] starting to run a fundraising project
+[10:28] for me to raise the money to improve the
+[10:31] quality of the video that you're getting
+[10:33] so at the moment for the last two years
+[10:35] I've been using a webcam and the C and
+[10:37] the microphone on that webcam and it's
+[10:40] cons I've thought it was reasonable
+[10:42] quality and it has been but it could be
+[10:44] improved but I'm not going to spend the
+[10:45] money on it because I don't have the
+[10:46] money to spend on it but Mike's running
+[10:48] a fundraising campaign for me and I'll
+[10:50] put the link in down there so have a
+[10:52] look at that and thank you very much for
+[10:54] watching

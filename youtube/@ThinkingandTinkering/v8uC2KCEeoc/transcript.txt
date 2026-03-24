@@ -1,0 +1,205 @@
+[00:00] [Music]
+[00:08] so we've been working with this thing
+[00:10] for a little while and a very good
+[00:11] question was asked how did I go about
+[00:15] making that bit in the center the
+[00:17] Archimedes screw bit well it's a
+[00:20] surprisingly easy thing to do in Tinker
+[00:22] cat so let me show you how I did it so
+[00:25] here we are back in Tinker Cad and to do
+[00:27] this we need to create our basic shap we
+[00:30] take a block and then we'll make that
+[00:32] something relatively random
+[00:35] 60 by
+[00:37] one by one and that's actually our basic
+[00:40] shape now in order to get this so we can
+[00:42] use it we need to export it and we
+[00:44] export it as an SVG file not an STL file
+[00:49] once you've exported that then we can go
+[00:51] to the search shapes and if we type in
+[00:57] SVG the first thing we'll have is SVG
+[01:00] revolver and we've used that before when
+[01:02] we made various eror Falls in a circular
+[01:05] shape right next to it you'll find SVG
+[01:08] Helix drag SVG Helix into the work plane
+[01:12] and you'll get all these boxes that you
+[01:15] can alter and there where we need to put
+[01:18] the file we just exported so if we find
+[01:21] that file and drag it into there
+[01:30] and it will create that Helix for us and
+[01:33] as you can see it's actually wrong in
+[01:35] that it looks like a ribbon so we need
+[01:37] to make a change to that and to do that
+[01:39] we're going to use some settings in this
+[01:42] box here let's change sketch height to
+[01:47] two number of sides maximum sketch
+[01:51] rotation which is the original sketch we
+[01:53] put let's swivel that round by 90° and
+[01:57] then the number of windings we actually
+[01:59] only want one winding but we needed to
+[02:01] go 1/8 of a bit further so it's
+[02:04] 1.125 and that will create US 1 and an e
+[02:08] winding now if we zoom out so we can see
+[02:10] the whole shape there he is there's our
+[02:12] basic heix and we can see that it's
+[02:15] about 250 by 250 what we need to do
+[02:18] then is copy it copy it and rotate it
+[02:23] around the base by 120°
+[02:37] and then repeat that now we dup merge
+[02:41] all of those just by highlighting them
+[02:43] and hitting the
+[02:47] merge and we get our basic Helix shape
+[02:51] now we want to lift that off the ground
+[02:52] a little bit so where it says zero type
+[02:55] in 10 that'll move it a centimeter up we
+[02:58] need to create
+[03:00] another shape so close
+[03:05] this take a circle make that
+[03:10] 250 by
+[03:21] 10 smooth out the sides and then we need
+[03:24] to line those two
+[03:27] up hit the Align key and line it to the
+[03:30] circle that you just made later that
+[03:32] will be very useful but right now all it
+[03:34] does is give us a reference Center for
+[03:36] later on and we'll see why I did that in
+[03:39] a few seconds what we need to do now of
+[03:41] course is make a cone in order to make a
+[03:43] cone we use the cookie cutter principle
+[03:46] so drag an actual cone and remember this
+[03:50] was 250 by 250 this is about 250 by 249
+[03:54] somewhere around about there we want
+[03:56] this one to be as big as that so so
+[04:00] let's make that say
+[04:03] 200 and that
+[04:11] 200 and what we get is that cone with
+[04:15] this angle here which is dictated by how
+[04:18] tall we make it so if we make that even
+[04:20] taller we'll obviously have a narrower
+[04:22] angle if we make it even shorter we'll
+[04:24] have a wider angle we're going to use
+[04:27] this Angle now what we want to do is
+[04:29] make that into a
+[04:30] hole now we've got our cone we want to
+[04:33] make the outside bit so take another
+[04:35] cylinder and this time just quickly
+[04:38] check here remember this is 250 and its
+[04:41] height is 298 so the first thing we need
+[04:44] to do is change some of these so we need
+[04:47] that to be bigger than this so let's
+[04:50] call that
+[04:53] 260 and we'll make that one 2 60 so it's
+[04:57] still cylindrical and then the height of
+[04:59] it we're going to make
+[05:02] 300 smooth it
+[05:05] out and then we take the cone And the
+[05:07] cylinder and align them to each
+[05:12] other merge them once they're merged
+[05:15] make it a hole and here we have our
+[05:18] basic cookie cutter what we're going to
+[05:20] do now is cut this out so we need to
+[05:23] raise this by
+[05:26] 10 so it doesn't cut out the circle
+[05:30] press the shift key click that one that
+[05:32] we merged before Center
+[05:36] them and then merge
+[05:41] them now we need an axle in the center
+[05:44] which is why we did this because if we
+[05:45] remove that Circle we'll find that this
+[05:48] is not quite spherical anymore you'll
+[05:50] see it's 180 by
+[05:52] 177 so if we tried to Center an axle to
+[05:55] this it would be off slightly we need to
+[05:58] Center an axle to the radius of that
+[06:01] Circle so it's actually in the center of
+[06:03] rotation so again take another
+[06:07] cylinder smooth out the sides and if we
+[06:10] check the height of this we can see it's
+[06:13] 177 so let's make this 18 180
+[06:19] high and we'll make it 10 by 10 and
+[06:22] these are just random choices that you
+[06:24] can play around with to get what it is
+[06:27] that you want then if we Center it by
+[06:29] holding down the shift key and clicking
+[06:31] the bottom Circle this
+[06:34] time and we can Center to that bottom
+[06:39] Circle you see it's just a bit too small
+[06:41] so let's raise it
+[06:49] up now we can get rid of our reference
+[06:52] Circle by deleting it and we can merge
+[06:54] those two
+[07:04] and if we zoom in there we go we've got
+[07:07] our perfect Helix three blade one 1/8
+[07:11] turns ready for our wind
+[07:13] turbine so that little procedure works
+[07:16] great for making Alchemy screws for
+[07:18] something like a water turbine for
+[07:20] example but you might have noticed on
+[07:22] the original drawing in the wind turbine
+[07:24] there's an angle to the bottom of the
+[07:26] turbine blade around about 15° or so so
+[07:30] but the thing about SVG Helix and SVG
+[07:33] rotate is it will do exactly the same
+[07:36] job with any sdg file that you want to
+[07:39] put in there including air foils and
+[07:44] angles here we are back of the original
+[07:47] Helix where we used that flat design to
+[07:49] get the angle in there we need to jump
+[07:55] down to our original drawing and here's
+[07:58] the one that we used to the VG and now
+[08:00] we want to rotate that by the number of
+[08:02] degrees that we want and let's say
+[08:06] 15° once we've got that to 15° we can
+[08:09] reexport it again as an sgv
+[08:15] file and now if we go back to our
+[08:19] original
+[08:21] drawing which is the SVG helx we created
+[08:25] and we find that sgv file with the angle
+[08:28] that we just did and pull that it will
+[08:33] overwrite the original one that was in
+[08:35] there with the new one with the
+[08:40] angle it's very much smaller and if we
+[08:44] have a look at that what we can see is
+[08:46] that we've got our 15° angle of course
+[08:49] there's an issue with it in that it is
+[08:51] very much smaller and you'll notice the
+[08:53] inside diameter is also a bit too big so
+[08:56] we can reduce that inside diameter to
+[08:58] one
+[09:03] and then we can export that but this
+[09:05] time we export it as an STL file you'll
+[09:10] notice it's 16 mm x 16
+[09:14] mm we can then reimport that SVG
+[09:26] file and it will ask us the scale for
+[09:29] percentage let's increase the scale
+[09:31] percentage by
+[09:32] 1,000% and import
+[09:36] it and we get something much more the
+[09:39] size that we want being 160 mm by 160 mm
+[09:43] and that now has the 15° angle on it and
+[09:47] we repeat the previous procedure and
+[09:50] we'll create a turbine with the 15°
+[09:54] angle and there it is after we've
+[09:56] followed that procedure and we get
+[09:57] exactly the same but this time
+[09:59] we have a 15° angle to it like in the
+[10:03] original and if you want to change that
+[10:04] angle to something steeper just change
+[10:07] the angle to something
+[10:08] steeper so there you go now I think that
+[10:11] was surprisingly easy courtesy of Tink
+[10:14] Academy we only use two Primitives that
+[10:16] was the cube and the SVG Helix the other
+[10:19] Technique we used was the cookie cutter
+[10:21] to get exactly the shape that we wanted
+[10:23] and of course all of those dimensions
+[10:26] are just the dimensions I used for this
+[10:28] experiment with with them if you want
+[10:30] something different based on that basic
+[10:33] design of course it would be great for
+[10:35] things like marble runs great for things
+[10:36] like Aram screw water turbines but it's
+[10:40] easy to do once you use something like
+[10:43] SVG Helix so I wanted to share that with
+[10:45] you I hope it was of interest thank you
+[10:47] very much for watching

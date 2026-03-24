@@ -1,0 +1,216 @@
+[00:00] [Music]
+[00:08] So, I'm pretty sure that lots of people
+[00:10] will remember this. It's the crosserical
+[00:13] gear by Yamagata University that's also
+[00:16] known by an acronym Aenix, which I have
+[00:19] no idea what it means. Now, if you know
+[00:22] about it, brilliant. If you don't know
+[00:24] about it, then what it can do, it's
+[00:26] truly amazing. it has a huge range of
+[00:29] motion and of course can mimic human
+[00:32] joints. So what I thought I'd do was
+[00:35] give it a go making one. Here it is.
+[00:38] This is the finished version. It's in
+[00:39] three parts. So we have a top if you
+[00:42] like a bottom if you like and a joining
+[00:45] piece. And how I created this was
+[00:48] through Tinkercad. Now, I used the
+[00:51] information on the video that Yanagartha
+[00:54] did on the basic structure of it, and
+[00:56] it's essentially a gear rotated in two
+[00:59] directions. So, for this bit, let's go
+[01:02] to Tinkercad and create that gear. Okay,
+[01:05] we're in the Tinkercad page, brand new
+[01:07] page, and I've pulled down the ruler to
+[01:09] that corner so I can see how big
+[01:11] everything is. To start this off, we
+[01:13] need a gear. So, go to search shapes and
+[01:15] type in gear. And then the metric gear,
+[01:18] which is this blue one here, will pop
+[01:19] straight up. Drag it onto the work plane
+[01:22] and we get this box with things we can
+[01:24] change. Change the module to three
+[01:26] because we like it nice and big and
+[01:27] chunky so it's easier to work with. And
+[01:30] make it 32 teeth. We'll change that
+[01:32] color to a color that's easier to see. I
+[01:34] prefer cream and so we can see what's
+[01:36] going on. Now, it's quite large. As you
+[01:38] can see, it's 20 mm high. And we're
+[01:40] going to rotate it. So, we need that
+[01:42] much smaller. So, change that to 0.5.
+[01:45] Hit enter. And there is the basic gear
+[01:47] that we're going to rotate around its
+[01:49] center. So to rotate it, highlight the
+[01:51] gear, hit copy, and we're going to
+[01:54] rotate it in this plane. So click on it
+[01:56] and change that by one degree. And that
+[01:58] will rotate it one degree around. To get
+[02:01] the whole gear, we just need to repeat
+[02:03] that by duplicate and repeat. And as we
+[02:06] duplicate and repeat it, of course, it
+[02:08] will build the gear for us. And when
+[02:11] we've done that, this is what we get.
+[02:13] Now, because the way we rotated it, half
+[02:15] is below the plane and half is above the
+[02:17] plane, and we only really need half of
+[02:19] it. Now, if you notice, the size on this
+[02:21] is
+[02:23] 101.67. And to cut that, take a
+[02:28] cube, make it bigger. So, 150
+[02:33] by 150 by
+[02:38] 75. And if we center the cube to the
+[02:41] sphere, then it will stay above the
+[02:44] plane. And when we merge it, we'll cut
+[02:47] that into half. So let's center it onto
+[02:49] the
+[02:52] sphere. And then we can merge that whole
+[02:55] thing. Once we've done that, this is
+[02:56] what we get. What we need to do is
+[02:58] duplicate it and move the duplicate out
+[03:00] of the way for a little bit. And then we
+[03:02] deal with this. Now, we're going to make
+[03:04] a cookie cutter. So make that a hole.
+[03:07] Once you've done that, grab yourself a
+[03:11] cylinder, smooth out the sides, and make
+[03:13] the cylinder a bit bigger than
+[03:16] this. So, we need to make that,
+[03:19] say, 130 by
+[03:26] 130 by 65.
+[03:34] Then we can center those to each other
+[03:36] by using the centering
+[03:43] key. Then we can merge
+[03:46] them. Then we can make that a hole. And
+[03:48] we can see we've got a cutout here. And
+[03:51] if we rotate this by
+[03:54] 90° and reenter these. So now center
+[03:59] that copy that we saved to the cutout
+[04:02] that we just made.
+[04:09] And we can merge those. And this is what
+[04:12] we get. Now we need to duplicate that,
+[04:15] create a hole through it, and create a
+[04:17] cylinder so that we get this. And when
+[04:20] we've done that, we get what looks like
+[04:22] two hedgehogs. And you can see the 20
+[04:24] mil hole going the right way through
+[04:26] there. And that's been extended there so
+[04:28] that this peg that we've got here will
+[04:30] fit through both of them to join them
+[04:33] together and make an attachment point.
+[04:35] And so we can print those out and glue
+[04:37] them together. And when we've created
+[04:39] it, of course, we can glue it together
+[04:41] to get this. And you have to make sure
+[04:42] that when you glue it together, there
+[04:44] are little two little prongs there that
+[04:46] need to line up all the way around
+[04:48] because they're significant when it
+[04:50] comes to changing the direction. because
+[04:52] by itself that's not which uses a well
+[04:55] anything apart from a Christmas bble. We
+[04:57] need some way of driving it. And what
+[05:00] Yamagata did was create what they called
+[05:02] a monopole gear. And they created it
+[05:04] this way. Now for all the best in the
+[05:07] world, I actually couldn't recreate that
+[05:10] monopole, which I thought was
+[05:11] disappointing, but still couldn't do it.
+[05:13] If anybody's got any ideas, I'd love to
+[05:16] hear it. What I did was I took a gear
+[05:19] and I rotated it slightly differently.
+[05:22] So to do that, we start with the same
+[05:24] gear. That's 32 teeth module 3. We copy
+[05:28] it, but we need to rotate it a little
+[05:30] bit in this plane by
+[05:34] 6°. What this will do is realign the
+[05:38] teeth so that it actually fits when it
+[05:41] comes time to putting them dipole
+[05:43] together with the spherical gear. delete
+[05:46] the gear that you started with. So now
+[05:48] we've got it with this gear being the
+[05:50] point, this gear tooth rather, being the
+[05:52] point about which we're going to rotate
+[05:54] it. So we duplicate what we just did on
+[05:57] the rotation, copy it, move it by one
+[06:03] degree, and then repeat all the way
+[06:06] around. And when we've done that, this
+[06:08] is what we get. And you'll notice
+[06:10] there's a little spike in the center.
+[06:12] That little spike will fit nicely into
+[06:15] the spherical gear that we just made. Of
+[06:17] course, we don't need this whole sphere.
+[06:19] So, what I did in pink that you can see
+[06:21] there is take a 20 m 20 cm mm slice out
+[06:26] of the center. And that's my dipole. Oh,
+[06:29] when it's printed out, there it is. This
+[06:31] is my dipole gear. Now, that little
+[06:33] spike there is really important because
+[06:36] that little spike fits into that block
+[06:39] of four like that. And so now we can
+[06:42] actually drive our cross spherical gear
+[06:45] in the same way that Yamagata did, which
+[06:48] I think is pretty cool. Of course, we
+[06:51] need a structure to be able to drive
+[06:54] this and to have this gear respond in
+[06:57] the same way that Yamagata did. So, back
+[07:00] to
+[07:01] Tiger. So, I don't really intend on
+[07:03] going through the design process of the
+[07:05] rest of it because the rest of it is
+[07:06] really just primitives put together. Now
+[07:09] on the dipole, you'll notice there's a
+[07:11] little indentation on both sides. And
+[07:13] that's to take a skate bearing, which is
+[07:15] 22 mil by 7 mil by 8 mil. And I've added
+[07:18] a gear onto the top here because that's
+[07:20] how we're going to drive it. So we press
+[07:22] a bearing in here and a bearing in
+[07:26] here like that. And that will fit in
+[07:30] this arm. And this arm also takes two 22
+[07:33] mil
+[07:35] bearings. So that it's like that. that
+[07:38] then sits in there and clearly has an
+[07:41] axle going through it. And the drive
+[07:43] gear is here, which sits in there with
+[07:46] its own axle going through it. And then
+[07:49] this hole here takes this, which gets
+[07:53] glued in permanently into there. And
+[07:55] then that fits into the base unit like
+[07:58] this. So that when it's in there, it's
+[08:01] angled at
+[08:02] 45°. And we need to make two of those.
+[08:05] Right. So that's it put together. We
+[08:07] turn that little handle and then that
+[08:09] gear will turn. And of course, we turn
+[08:11] that and we can change the pitch of the
+[08:13] gear. And as I said, there's two of them
+[08:15] that go side by side. What we need now
+[08:18] is this cradle. This cradle takes this.
+[08:21] It just sits in there like that. And the
+[08:23] cradle attaches to this foot. And when
+[08:26] the cradle's attached to the foot, the
+[08:28] foot goes
+[08:29] between the two dipole gears. When we've
+[08:33] attached the cradle, you arrange the
+[08:35] dipole gears so that one of these rings
+[08:37] is dead in the center of that. And the
+[08:40] same on this side. So both of the rings
+[08:41] are pointing into the center. That bit
+[08:44] is the center that matches up with
+[08:47] those. And 45° around there's another
+[08:51] one. So this drops in with those two
+[08:54] lining up like that. And then when
+[08:57] you're ready, just turn one of the
+[08:59] inputs. And as we turn those inputs, of
+[09:01] course, the thing will go wherever you
+[09:04] want it to
+[09:09] go. That's pretty cool, eh? So, if
+[09:12] anybody has an idea of how to make that
+[09:14] monopole, cuz I could only make it as a
+[09:16] dipole, then please do let me know.
+[09:18] Share it in the comments. These files
+[09:20] will be on Thingiverse should anybody
+[09:22] want to play around with them. I hope
+[09:24] you enjoyed the video. Thank you very
+[09:26] much for watching, and please do
+[09:27] remember to like and subscribe.

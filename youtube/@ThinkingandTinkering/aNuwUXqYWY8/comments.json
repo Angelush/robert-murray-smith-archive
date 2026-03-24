@@ -1,0 +1,410 @@
+[
+  {
+    "id": "UgwxVot3JZKGHs1EgY54AaABAg",
+    "author": "@perkins1439",
+    "author_channel_id": "UCLhFiW-StYkRSawUbEEMMgQ",
+    "text": "We love you Dr lector❤",
+    "likes": 2,
+    "published_at": "2025-07-19T20:04:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzL8P5j8PGUxdsJ1F14AaABAg",
+    "author": "@glencahalin4786",
+    "author_channel_id": "UCfIFc1xQ_3rGeQ83D2FyU3A",
+    "text": "I'm wondering about if having a rotation component, to the print head holder, could cause it's own problem. An example might be printing a thin cylinder, in software the most efficient pathway would be to set the radius and keep rotating. However I suspect that would lead to twists in the filament and wires going to the printhead. A software solution might be to possible to never cross ( say )  the zero degree mark but to always reverse direction at that point. Not sure if that would end up leaving a slight seem in practice.\n\nIt occurred to me then that, maybe if was the base plate that was designed as the rotational component, it would eliminate that ( possible ) problem.\n Of course it might introduce one of it's own eg if the mass and momentum of moving a bigger print and baseplate would start to make things overshoot. At the sizes being looked at probably not but if scaling up I'd expect to have to add something like an adjustable friction brake.",
+    "likes": 0,
+    "published_at": "2025-07-18T18:51:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwA0kt1TnOZoj_ERMN4AaABAg",
+    "author": "@kalvenism",
+    "author_channel_id": "UCaHzsbJNfXqz9yRqvQQ0Nmw",
+    "text": "Just out of curiosity on a slightly different subject(z-axis motor coupler), do you believe a coupler that the lead screw actually screws into (rather than being clamped in as with current coupler design) would be helpful in eliminating z-binding?",
+    "likes": 0,
+    "published_at": "2025-07-18T13:46:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9uPfObl3pb31d-bp4AaABAg",
+    "author": "@PrajnaPranab",
+    "author_channel_id": "UCuXjvvt722O9R1PIg9ILMog",
+    "text": "Fantastic redesign, Rob. I'm on tenterhooks to see the printer develop. Funny that I had been thinking about a 'radial linear' positioning system and it seems that is what you have there.",
+    "likes": 0,
+    "published_at": "2025-07-17T21:52:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgydxFgZo9bOlfRjXuR4AaABAg",
+    "author": "@TangledWebBrewing",
+    "author_channel_id": "UCuZNBQaX27XYBfjIbvXyQng",
+    "text": "Just thinking about the software/electronics to drive this and can't get my head around it fully. Will the rotation of the drive need to be variable in relation to the linear movement of the slide. I'm guessing it's just going to be some cos/sine function somewhere in the controller. Just can't work it out without some paper to hand😂",
+    "likes": 0,
+    "published_at": "2025-07-17T09:11:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyODYxBtf07NVF1Do14AaABAg",
+    "author": "@davidvwilliamson",
+    "author_channel_id": "UChZalwv3NkNtfU9paagHQ4g",
+    "text": "wish my hot water system worked",
+    "likes": 0,
+    "published_at": "2025-07-17T07:29:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyODYxBtf07NVF1Do14AaABAg.AKfLI2lJj0YAKhsrnRB68z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok",
+        "likes": 0,
+        "published_at": "2025-07-18T07:09:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzzUDcX6ElTW7UMAwd4AaABAg",
+    "author": "@oron2000",
+    "author_channel_id": "UC1AF8e8gIcaV9xIIyTAJpDg",
+    "text": "Many thanks Robert for the great channel. Really love to see your passion and joy :)\nRegarding the Mechanism, \nI wonder whether the input rotation to the output linear motion has a 1:1 ratio, and it is probably harmonic motion where x=2Rcos(θ). This should be taken into account when programming the controller. \nGood luck!",
+    "likes": 2,
+    "published_at": "2025-07-17T04:50:46Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzzUDcX6ElTW7UMAwd4AaABAg.AKf3A6ZJ2AHAKfE8v7S5sS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2025-07-17T06:26:43Z"
+      },
+      {
+        "id": "UgzzUDcX6ElTW7UMAwd4AaABAg.AKf3A6ZJ2AHAKgtUMbf5sf",
+        "author": "@PrajnaPranab",
+        "author_channel_id": "UCuXjvvt722O9R1PIg9ILMog",
+        "text": "Unlikely to be 1:1 because the print speed and direction vary in relation to each other.",
+        "likes": 0,
+        "published_at": "2025-07-17T21:55:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzxQ7nLPnc7uTf5WJB4AaABAg",
+    "author": "@velcroman11",
+    "author_channel_id": "UCy2P6zKdiLL7XSWTvJV1UHA",
+    "text": "Looking forward to seeing the entire project completed.",
+    "likes": 2,
+    "published_at": "2025-07-16T23:09:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzxQ7nLPnc7uTf5WJB4AaABAg.AKeS8tc7eoNAKfE42U51we",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-17T06:26:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzpYj-AGjVAfqu544J4AaABAg",
+    "author": "@timmyssweet",
+    "author_channel_id": "UC0IgwZXy25jC-nr5KMijyVw",
+    "text": "What about the canoe?  I still like the motivated, but the extra moving parts makes me nervous.  It’s cool, but I’m still not convinced.",
+    "likes": 2,
+    "published_at": "2025-07-16T22:53:24Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzpYj-AGjVAfqu544J4AaABAg.AKeQGgxvleYAKfE3CSsQ42",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that will take weeks to do mate",
+        "likes": 0,
+        "published_at": "2025-07-17T06:25:56Z"
+      },
+      {
+        "id": "UgzpYj-AGjVAfqu544J4AaABAg.AKeQGgxvleYAKfYzwHEUJw",
+        "author": "@gshingles",
+        "author_channel_id": "UCRb5vHUBCCHK99yx1104b4A",
+        "text": "@ThinkingandTinkering Have you seen Ivan Miranda's latest canoe video? Make sure you make the thing big enough for you to fit into :)",
+        "likes": 0,
+        "published_at": "2025-07-17T09:28:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0SbvZZYD21QhSFil4AaABAg",
+    "author": "@donniewatson9120",
+    "author_channel_id": "UCjis31zfjRO7DbN2LvWcpTg",
+    "text": "Looking Dapper!!!!!",
+    "likes": 2,
+    "published_at": "2025-07-16T22:36:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz0SbvZZYD21QhSFil4AaABAg.AKeOM-SlEZYAKfE0r3yw3k",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate lol",
+        "likes": 1,
+        "published_at": "2025-07-17T06:25:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzMjcOtLA-jadtutX54AaABAg",
+    "author": "@pablosanchez8516",
+    "author_channel_id": "UCDzZUjxFYn1OI_rX1sl7xsg",
+    "text": "Just watched silence of the lambs. You almost nailed it!. Lol",
+    "likes": 2,
+    "published_at": "2025-07-16T21:52:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzMjcOtLA-jadtutX54AaABAg.AKeJFc1uKM5AKfDzw0a7d7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2025-07-17T06:25:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwE5TzgbLP51zBCgYV4AaABAg",
+    "author": "@richardclark5112",
+    "author_channel_id": "UCcIXzo6PYrXwi0tjZH47JPQ",
+    "text": "Haha, I always knew you reminded me of somebody…",
+    "likes": 2,
+    "published_at": "2025-07-16T21:22:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwE5TzgbLP51zBCgYV4AaABAg.AKeFrt-_gkHAKfDzOIHV90",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2025-07-17T06:25:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzKxPBqQ6MLcEkpv2x4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2025-07-16T19:55:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzKxPBqQ6MLcEkpv2x4AaABAg.AKe5tc3BvdHAKfDxt7OptZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-17T06:25:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzmN5Xlg_-2SFwJ_Pl4AaABAg",
+    "author": "@wanglydiaplt",
+    "author_channel_id": "UCos3e4mKq21ondXFNS1-kUg",
+    "text": "Aha! I've turned the mechanism on its side and I'm building it into a die filer.",
+    "likes": 2,
+    "published_at": "2025-07-16T19:52:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzmN5Xlg_-2SFwJ_Pl4AaABAg.AKe5WcMkEOAAKfDww6OfW8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool",
+        "likes": 1,
+        "published_at": "2025-07-17T06:24:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_2tGByNOQV3735Ld4AaABAg",
+    "author": "@johnglsmith",
+    "author_channel_id": "UCSjZ7xqENuX-nU9WRyKX0Iw",
+    "text": "Great video looking forward to the follow up,. Cheers",
+    "likes": 2,
+    "published_at": "2025-07-16T19:34:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_2tGByNOQV3735Ld4AaABAg.AKe3YvZeRIfAKfDvyWVFxk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-17T06:24:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwM7hA4fjHRIWuXRRV4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Great design. It's nice to see things coming together from your previous builds and prototypes looking forward to see how things turn out. Great video 👍",
+    "likes": 2,
+    "published_at": "2025-07-16T18:57:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwM7hA4fjHRIWuXRRV4AaABAg.AKe-GpkTEI7AKfDutmK-do",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2025-07-17T06:24:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbALke87fiEfdnKIV4AaABAg",
+    "author": "@dav1dbone",
+    "author_channel_id": "UC5nQynPt1hiHtk9QXxKqXuQ",
+    "text": "The Beach Boys are back!!!!!",
+    "likes": 2,
+    "published_at": "2025-07-16T17:54:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzbALke87fiEfdnKIV4AaABAg.AKdt4qKj6g9AKfDsz_qPBK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2025-07-17T06:24:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy5lA6X12nnjJpR8qd4AaABAg",
+    "author": "@TheUMILLADOR",
+    "author_channel_id": "UCyLm1LmoPfJeg8dKfxG-8TQ",
+    "text": "creo que entre mas engranajes lleve , será mayor la holgura , no seria genial reemplazar por imanes ? recuerdo ver un capitulo de transmisión con imanes en tu canal.",
+    "likes": 4,
+    "published_at": "2025-07-16T15:56:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy5lA6X12nnjJpR8qd4AaABAg.AKdfbeeDL5bAKfDsQE43W5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Creo que usaré fricción, no imanes.",
+        "likes": 1,
+        "published_at": "2025-07-17T06:24:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUDQdhEN5ZwGcfWD54AaABAg",
+    "author": "@removechan10298",
+    "author_channel_id": "UCIIYng_aSJuaqhu08BH7eZQ",
+    "text": "GREAT PROJECT! thank you!",
+    "likes": 6,
+    "published_at": "2025-07-16T15:53:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUDQdhEN5ZwGcfWD54AaABAg.AKdfCPodaH5AKfDcHd2vlb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you like it!",
+        "likes": 2,
+        "published_at": "2025-07-17T06:22:08Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx1cObXfSGvTh9pMgt4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "That's so interesting! Made me want to tear down a couple of old ink printers I've got lying around to build one of those ❤🎉",
+    "likes": 8,
+    "published_at": "2025-07-16T15:42:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx1cObXfSGvTh9pMgt4AaABAg.AKde-rzjtVmAKfDbh7AZ1d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Go for it!",
+        "likes": 2,
+        "published_at": "2025-07-17T06:22:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUQ_7Bise07lWNt6J4AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "👍💪✌",
+    "likes": 4,
+    "published_at": "2025-07-16T15:20:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzUQ_7Bise07lWNt6J4AaABAg.AKdbU1RfF5vAKfDb8DKeg2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-17T06:21:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzQih1bmDBTmeWq39B4AaABAg",
+    "author": "@JonathanGarneau",
+    "author_channel_id": "UCKYnNzsOs2RJWhMiNqE9d7g",
+    "text": "X and Y axis will be in one big stable assembly sounds promising!",
+    "likes": 4,
+    "published_at": "2025-07-16T15:17:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzQih1bmDBTmeWq39B4AaABAg.AKdb5zRPHF3AKfDaE3-g1t",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-17T06:21:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwV6Pl6hT8rWaxlRXh4AaABAg",
+    "author": "@davidprocter3578",
+    "author_channel_id": "UCYHYIhU_nx832X66ZZfVmvA",
+    "text": "And there is me thinking you had just been sponsored by Brylcreem.",
+    "likes": 6,
+    "published_at": "2025-07-16T15:12:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwV6Pl6hT8rWaxlRXh4AaABAg.AKdaY4wdCztAKfDYd6OMZu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 2,
+        "published_at": "2025-07-17T06:21:30Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,472 @@
+[00:01] fine so when thinking about
+[00:03] electrochemical cells like
+[00:04] batteries or supercapacitors or fuel
+[00:07] cells
+[00:08] then you're going to be inevitably
+[00:09] involved in some of the theory behind it
+[00:12] now i normally avoid siri because i
+[00:15] think theory really is just a lack of
+[00:16] good practice
+[00:17] but um there's an awful lot of theory
+[00:20] involved in it
+[00:21] and a lot of it's quite interesting now
+[00:24] you have to realize that a lot of this
+[00:27] stuff was developed in the mid 19th to
+[00:28] late 19th century
+[00:30] when the engines that powered the
+[00:32] industrial revolution were heat engines
+[00:35] and the second or well first second
+[00:37] third law of thermodynamics were
+[00:39] all developed around this time and they
+[00:42] consider
+[00:43] really the flow of heat now heat is
+[00:46] um one of those energies that everything
+[00:49] can be converted into so
+[00:51] electrical energy you can go into heat
+[00:53] thermal and
+[00:55] chemical energy to heat heat is seen as
+[00:58] the baseline if you like and it's used
+[01:00] as a translation for all different kinds
+[01:02] of
+[01:02] energy states and they talk about heat
+[01:04] transfer
+[01:06] now when looking at heat engines heat
+[01:08] engines have a specific
+[01:11] efficiency and this is worked out by a
+[01:13] guy called cargo
+[01:14] and connor kind of pre-dates the um
+[01:17] second law of third of a thermodynamics
+[01:19] and it's sort of the grounding
+[01:21] to ideas of entropy and enthalpy and the
+[01:24] second law and all that sort of stuff
+[01:27] and the carno efficiency considers
+[01:29] something
+[01:30] like this where we have a temperature um
+[01:34] source hot and we transfer it
+[01:37] through some kind of medium to a
+[01:39] temperature sink
+[01:41] cult and that medium is a transfer fluid
+[01:44] now your transfer fluid can be anything
+[01:46] it can be a liquid or it can be a gases
+[01:49] steam is the transfer fluid of the
+[01:50] industrial revolution
+[01:51] and petrol is a transfer fluid of ours
+[01:55] but that process at that stage
+[01:58] we can take work out of it when we have
+[02:01] the energy change from the
+[02:03] energy input through the transfer fluid
+[02:07] so this qh is the amount of heat energy
+[02:11] that we're inputting into the system
+[02:13] of the transfer from the hot to the cold
+[02:16] now
+[02:16] there is an efficiency relationship for
+[02:18] this and i'm just going to write it down
+[02:19] i can go into camera circles a bit more
+[02:21] if anybody's interested
+[02:23] and i can certainly show some of the
+[02:24] derivations of this
+[02:26] again it's probably a bit much for
+[02:29] for a video here for general watching
+[02:32] but we can go into it if anybody
+[02:34] expresses an interest in that
+[02:35] but the efficiency ratio is really
+[02:37] enough a ratio
+[02:38] of and the work done to the heat supply
+[02:41] to the system
+[02:42] so the ratio is work
+[02:45] over heat supply it's as simple as that
+[02:48] now you work that one through you can
+[02:50] actually work it through to be one minus
+[02:52] um
+[02:53] the temperature of the cold divided by
+[02:55] the temperature of the hot
+[02:57] and gives us some figures that we can
+[02:59] work for and that
+[03:00] is the expression of the carbon
+[03:02] efficiency so you can actually work out
+[03:03] what the efficiency of any particular
+[03:05] engine is by measuring that
+[03:07] now it's an obvious limit if you think
+[03:09] about it
+[03:11] it goes back to the idea if you can't
+[03:12] get work out of something
+[03:15] then you actually put into something
+[03:16] because this has a huge temperature if
+[03:18] we cannot get it to a certain
+[03:19] temperature
+[03:20] if we put it into a transfer of fluid
+[03:22] we're going to get some losses there
+[03:24] the fluid is going to perform a certain
+[03:26] amount of work and that work is the work
+[03:28] that's available to us
+[03:30] and it's fixed again because of losses
+[03:32] now the overall efficiency of a heat
+[03:34] engine like this a camera engine
+[03:36] isn't very great i think off top my head
+[03:38] is about 35
+[03:39] or something like that now if you're
+[03:42] looking at
+[03:43] electrochemical cells fuel cells as
+[03:46] opposed to
+[03:47] the basic industrial revolution heat
+[03:49] transfer engine
+[03:50] then there's a different kind of
+[03:52] efficiency that we can look at and it's
+[03:54] a nonce deficiency
+[03:55] and this one is the relationship between
+[03:58] the gibbs free energy
+[04:00] and the total enthalpy of the system
+[04:03] now this efficiency can actually be
+[04:06] greater than the carnot efficiency
+[04:08] but that makes it very interesting
+[04:09] indeed obviously because it means that
+[04:10] our electrochemical cells our fuel cells
+[04:12] are batteries are
+[04:15] super capacitors have the potential for
+[04:16] a greater energy
+[04:18] efficiency than do heat exchange engines
+[04:21] that's what makes them so
+[04:22] very much interesting now we start to
+[04:25] hit some of the problem areas here
+[04:27] because what is the gibbs free energy
+[04:29] now gibbs energy um involves a concept
+[04:33] of entropy and entropy is a very poorly
+[04:35] under
+[04:36] understood concept but basically sorry
+[04:40] the gibbs free energy which is a
+[04:41] champion energy state hence the delta
+[04:43] incidence means changing so gibbs free
+[04:45] energy is equal to the
+[04:48] change in the enthalpy minus the
+[04:51] temperature times the change in
+[04:52] the entropy and that's the one that
+[04:55] causes all the problems
+[04:57] now the enthalpy is actually really easy
+[04:59] to understand and relatively easy to
+[05:01] measure as it happens
+[05:02] um and we can measure it by putting
+[05:04] whatever substance we want
+[05:05] into a bomb calorimeter exploding it
+[05:08] measuring the energy change there and
+[05:10] that becomes the enthalpy of our system
+[05:12] and so it's actually quite easy to
+[05:14] measure this one no problem at all
+[05:16] temperature another really easy one to
+[05:17] measure
+[05:19] the problem with entropy is that it's
+[05:21] mathematically derived it's derived from
+[05:24] celsius and carnot and again i can go
+[05:26] into that if you like if anybody's
+[05:28] actually interested we can actually go
+[05:29] through the derivation of
+[05:30] the mathematical derivation of entropy
+[05:33] well what it means is it has become
+[05:34] a very difficult and um
+[05:39] argumentative um notion about what
+[05:43] uh entropy actually is and there's a
+[05:45] number of ways of looking at entropy
+[05:47] and i don't think they're particularly
+[05:49] useful to be honest
+[05:51] because one way of looking at entropy is
+[05:53] this idea that is a tendency towards
+[05:56] increased disorder
+[05:57] now that idea to my mind is a bit
+[06:00] egocentric
+[06:01] because when we look at something as
+[06:02] being ordered
+[06:04] then we think about it as having an
+[06:06] order that is useful to us
+[06:08] so if we take um a pile of bricks for
+[06:10] instance we stack them up into the shape
+[06:12] of a house
+[06:13] that order has used to us if we dump
+[06:16] those pile of bricks out of the um
+[06:19] truck we call that disorder because it's
+[06:21] not useful to us
+[06:22] now i prefer to think of it as a
+[06:24] different kind of order
+[06:26] it's not an order we can make use of but
+[06:28] it's nevertheless
+[06:29] an ordered structured system now that's
+[06:32] how i like to look at it
+[06:33] and actually statistical mechanics and
+[06:35] tends towards that view as well because
+[06:37] this idea of
+[06:38] order versus disorder is um too
+[06:41] contentious for words and it leads to
+[06:43] some very strange ideas um for instance
+[06:47] if we um if all systems have a tendency
+[06:50] towards disorder
+[06:51] why is it that life arises because life
+[06:53] is a tendency towards order
+[06:55] in those terms the um
+[06:58] disordered system that generates life
+[07:01] moves towards higher and higher order
+[07:03] that really
+[07:04] realized in us and our structures and if
+[07:07] that is true
+[07:08] then um how can it be that we tend uh
+[07:12] towards disorder and if the tendency is
+[07:15] how is it that life can arise so this
+[07:17] idea of order disorder is being
+[07:19] introduced in entropy is really losing
+[07:22] favor
+[07:23] and it's one of the ideas now is that
+[07:26] entropy really is concerned with
+[07:29] changes of state that changes order
+[07:31] sorry not change of state changes of
+[07:33] order from one structured system
+[07:35] to another structured system now
+[07:38] um there are lots of different
+[07:41] understandings of entropy and
+[07:43] it's not to say that any particular
+[07:44] understanding of entropy is wrong
+[07:46] i mean um i was listening to tom bearden
+[07:49] for instance and um he
+[07:52] expressed entropy as a change in his
+[07:55] change of potential energy
+[07:57] now it tends not to be seen that way but
+[08:02] i guess if you want to see it that way
+[08:03] then
+[08:04] then why not so if we think about the
+[08:07] entropy as being the energy required to
+[08:10] keep a system with
+[08:11] whatever structure or order that
+[08:13] actually has
+[08:14] then the energy that we can get out of
+[08:18] if you like the gibbs free energy is
+[08:21] obviously going to be equal to
+[08:23] the total energy available in that
+[08:26] system the enthalpy
+[08:28] minus the um stuff that we can't get out
+[08:31] the stuff that's required
+[08:32] in the system to keep the system in
+[08:34] structure and that
+[08:36] is the entropy or at least in my
+[08:38] conception of it that's what the entropy
+[08:40] is so if we look at the entropy as um
+[08:43] that energy required to maintain an
+[08:45] order
+[08:46] then it's um it's not available to us as
+[08:49] work because um it has to sit in there
+[08:52] because
+[08:52] if we took it out this system would
+[08:54] change its order state again
+[08:56] now order um is really seen or i see it
+[09:00] more as
+[09:00] a structural arrangement rather than a
+[09:03] specific
+[09:03] order as in clean up your bedroom build
+[09:06] a house that kind of thing it's really
+[09:08] just whatever structural arrangement the
+[09:09] thing happens to have
+[09:11] requires energy to maintain that
+[09:12] structural arrangement that energy
+[09:14] required to maintain the structural
+[09:16] arrangement
+[09:16] isn't available to us if we can get an
+[09:19] energy out
+[09:20] that's required to maintain the
+[09:21] structural arrangement and then the
+[09:23] structural arrangement will break down
+[09:24] and that's not unreasonable if you think
+[09:26] about quantum theory because
+[09:28] quantum theory says that the structural
+[09:30] arrangement of um
+[09:32] elementary particles is really an
+[09:34] interaction quantum of energy so if we
+[09:36] can
+[09:36] change that quantum interaction then the
+[09:39] particle literally cease to exist and
+[09:40] because that's
+[09:41] what happens in space when you have
+[09:43] these large areas of dark matter
+[09:45] and a particle pops into existence and
+[09:46] then ceases this existence
+[09:48] what's happening is that the energy
+[09:51] required
+[09:52] to maintain its entropy that is to
+[09:54] maintain its structure
+[09:55] it's being transferred from one form to
+[09:57] another with a brief period of time in
+[09:59] which it has structural importance and
+[10:01] when that structural importance ends so
+[10:03] does the structure
+[10:04] so as long as we have a structure we're
+[10:06] going to have entropy because we need
+[10:08] energy to maintain that structure
+[10:10] now there's an obvious effect of
+[10:11] temperature on that you raise the
+[10:12] temperature chain structure and
+[10:13] structure
+[10:14] and so we can derive gibbs quite easily
+[10:17] from that idea
+[10:18] that a system has a total amount of
+[10:20] energy available into it
+[10:22] some of that energy we can get out and
+[10:24] use for work
+[10:25] some of it is needed to maintain the
+[10:29] of the arrangement that's left over if
+[10:31] you like and we can't get that out
+[10:33] and so we call that entropy now that's
+[10:35] the way i like to think about entropy
+[10:37] and that's how we get
+[10:38] towards our gibbs free energy now
+[10:41] gibbs free energy is what it always used
+[10:43] to be called it was actually called
+[10:44] gibbs available energy for a while
+[10:46] and they're going towards calling it
+[10:47] gibbs energy now and this is really
+[10:50] the idea of free nobody seems to like
+[10:53] the idea of free
+[10:54] and particularly free energy it's one of
+[10:55] those things that gets every scientist
+[10:57] up in arms
+[10:58] i always think it's because they don't
+[11:00] really look through the problem properly
+[11:02] um but that's what gibbs free energy is
+[11:04] now obviously gibbs free energy has
+[11:06] different values but essentially it can
+[11:08] be positive
+[11:08] zero or negative and those values
+[11:12] um give you an indication of what's
+[11:13] going to happen the reaction
+[11:15] now this is actually another one of my
+[11:16] big bug bears with science and
+[11:18] particularly where it's presented and
+[11:20] particularly
+[11:21] the laws of um emotion the laws of
+[11:23] dynamics the laws of whatever the
+[11:24] natural laws
+[11:25] what we're told is that the natural laws
+[11:28] holds true for all time in all
+[11:29] conditions and that's not our own
+[11:31] reasonable statement
+[11:32] and then we're told that the natural
+[11:34] laws uh dictate
+[11:36] or constrain what can have possibly
+[11:39] happened within a system
+[11:40] now that's just absolutely not true the
+[11:43] natural laws have been
+[11:45] derived from system observation
+[11:48] and there are plenty of times that i can
+[11:51] think of and i'm sure
+[11:52] you can too when the laws are supposed
+[11:54] to constrain a system
+[11:56] don't so we change the laws and
+[11:59] we forget that we have changed the laws
+[12:01] we deal with them as being laws and we
+[12:03] say that
+[12:04] the law is what was responsible for that
+[12:06] system behavior
+[12:07] and that makes it very difficult to
+[12:08] understand so we said the gibbs free
+[12:10] energy having
+[12:11] a zero value means it's an equilibrium
+[12:13] what's just nonsense
+[12:15] if a system is in equilibrium it will
+[12:17] have a gibbs free energy of zero but
+[12:19] that's the right way to look at it
+[12:20] not the other way around if you look at
+[12:22] it as being the law
+[12:24] dictating the system that will be very
+[12:26] very confusing if you look at it as the
+[12:28] system
+[12:29] is being derived into a law as a guide
+[12:31] it all of a sudden becomes very much
+[12:33] more
+[12:33] understandable because when you hit
+[12:35] something that you don't understand or
+[12:38] you hit something that the law can't
+[12:39] describe
+[12:40] it doesn't mean it's wrong it means that
+[12:42] more likely
+[12:44] the law is wrong that if you've got a
+[12:46] fair enough understanding of what it is
+[12:47] that you're about obviously i mean you
+[12:48] know
+[12:49] if you're a child of two and you're
+[12:51] you're wandering around with the fork
+[12:52] and
+[12:52] a plug socket and you think mom told me
+[12:54] not to put this in there
+[12:56] she must be wrong and you know obviously
+[12:57] there's something at fault there
+[12:59] so if you've got enough background
+[13:01] information
+[13:02] and assessment to make some kind of
+[13:04] judgment on this stuff and you hit
+[13:06] a condition where the law doesn't apply
+[13:10] it is not necessarily so that you're
+[13:12] wrong
+[13:13] it could well be one of those weird
+[13:15] instances when the law just doesn't
+[13:17] apply
+[13:18] now the second law of thermodynamics
+[13:20] obviously is one of those fundamental
+[13:22] laws that everybody froths about
+[13:24] and incidentally it's also why entropy
+[13:26] is such a such a hot issue because and
+[13:28] the second law of thermodynamics is
+[13:29] actually based entirely
+[13:31] on concepts of entropy and uh again it'd
+[13:33] be something that i could
+[13:35] do a video on if anybody's actually
+[13:36] interested in it but it's this entire
+[13:39] concept of entropy
+[13:40] so if you attack the concept of entropy
+[13:42] you're actually attacking the second law
+[13:43] of thermodynamics
+[13:44] and there are plenty of ways to attack
+[13:46] the second law of thermodynamics
+[13:48] because it is just a guesstimate about
+[13:50] what's going on and then there are
+[13:51] plenty of cases where
+[13:53] it actually is um not really applicable
+[13:57] because in one sense of course it only
+[13:59] really applies to closed systems
+[14:02] and the idea of the universe being a
+[14:04] system is just something we don't know
+[14:05] the universe may or may not be a closed
+[14:08] we've got no idea if the universe is an
+[14:10] open system then
+[14:11] it's quite possible that the second law
+[14:14] of thermodynamics can be reversed
+[14:16] if it's in a closed system then it
+[14:18] probably can't be but
+[14:19] we don't know this we just assume it to
+[14:21] be so i think these two ideas have a big
+[14:24] bang a big crunch
+[14:26] so these things aren't um cast and stone
+[14:30] forevermore true and you can actually
+[14:33] attack them
+[14:34] but if you want to actually think about
+[14:36] them then what you have to actually do
+[14:37] is ask yourself
+[14:39] what is it that they're describing
+[14:40] because they're not constraining
+[14:42] something they're describing something
+[14:45] so when you ask yourself what it is
+[14:46] they're describing it certainly becomes
+[14:48] very obvious so we look at this thing
+[14:50] and we say okay what is that it's quite
+[14:51] simple we have a total amount of energy
+[14:54] available to us the whole engine system
+[14:56] plus the bits need to keep the system
+[14:57] going
+[14:58] the bit we can get out because it gives
+[15:00] energy and that's the bit available to
+[15:01] us
+[15:02] no longer a mystery we don't really have
+[15:04] to think much about it it's a very
+[15:05] simple concept
+[15:06] just expressed mathematically so the
+[15:10] gibbs free energy is used to do the
+[15:12] nernst efficiency
+[15:13] and the nernst efficiency can actually
+[15:15] be greater than the cavanaugh efficiency
+[15:17] now i think i've been burping on long
+[15:18] enough about this so um i'll do another
+[15:20] video later on
+[15:22] other stuff on fuel cells anyway thank
+[15:24] you for watching

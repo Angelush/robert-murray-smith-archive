@@ -1,0 +1,149 @@
+[00:00] foreign
+[00:07] [Applause]
+[00:09] by 2013. these things petrol cars are
+[00:13] going to be banned and 10 years after
+[00:15] that they'll be virtually a memory now
+[00:18] if you believe that I have some shares
+[00:21] in a diamond mine in Fantasyland that
+[00:24] I'd like to talk to you about saying
+[00:27] that I'm not trying to be mean here
+[00:29] there are problems with it there are
+[00:31] problems that everybody knows about and
+[00:34] everybody's talking about but there are
+[00:37] problems that oh
+[00:39] people can do very little about mostly
+[00:42] because it's outside of their control
+[00:44] and of course that's got the government
+[00:46] already talking about delaying this
+[00:49] change over
+[00:50] take these things for example batteries
+[00:53] do you know there's a plan actually it's
+[00:55] more than plan they're implementing it
+[00:56] to ban lead acid batteries in their
+[00:59] entirety across the whole of Europe and
+[01:02] given the growth and demand for
+[01:03] batteries that electric vehicles are
+[01:06] going to bring
+[01:07] that just aren't going to be enough
+[01:10] batteries it's not that we don't make
+[01:12] enough there aren't enough resources in
+[01:15] the world and where do we get those
+[01:16] resources from huge questions that
+[01:19] there's not much being done about
+[01:22] so what's going to be done about this
+[01:24] circus well not a lot because there's
+[01:27] not a lot we can actually do about it so
+[01:29] the chances are what we're actually
+[01:31] going to do is the same thing that
+[01:33] politicians excel at
+[01:35] we're going to cheat if you've been
+[01:38] watching car advertising you'll notice
+[01:40] that there's been a growth of
+[01:42] advertising for something called the
+[01:44] self-charging hybrid
+[01:46] to my mind the self-charging hybrid is
+[01:49] something of a whitewash it still uses a
+[01:52] petrol engine it uses a petrol engine to
+[01:54] charge the battery bank and then runs
+[01:56] the car off the electric motor but you
+[01:58] need a much smaller battery bank and you
+[02:00] can call it electric
+[02:02] it would seem to me that the petrol
+[02:04] engine is anything but doomed what we're
+[02:07] going to do is throw a blanket over it
+[02:08] and call it electric why not
+[02:11] so I would think that the petrol engine
+[02:13] is likely to carry on for well centuries
+[02:16] and there have been some really
+[02:18] interesting developments in it
+[02:20] particularly one coming out of Spain
+[02:22] Granada in fact called the in engine I
+[02:25] double n
+[02:26] if we have a look at an animation of the
+[02:29] engine running we can see that it has
+[02:30] two Pistons per piston cylinder the
+[02:33] combustion forces the Pistons away from
+[02:34] each other this is nothing new this is
+[02:36] being used before but instead of being
+[02:38] attached to a crankshaft the bottom of
+[02:40] the Pistons are attached to rollers and
+[02:43] the rollers push on that strange wavy
+[02:45] plate so of course I turn to tinkercad
+[02:48] and Drew that plate up because it looks
+[02:50] like the heart of the machine and it is
+[02:53] a hyperbolic Parabola that's actually
+[02:56] really kind of cool but there is a
+[02:59] hyperbolic Parabola Cam that is the
+[03:02] heart of the in engine because if we're
+[03:04] going to model this we really need that
+[03:07] of course it's not a lot to use by
+[03:09] itself so I drew up the rest of the
+[03:12] engine actually half of it because it'd
+[03:14] get the other half you just duplicate
+[03:16] what we're doing here so what we have is
+[03:19] the actual cam itself and then we have
+[03:21] the carrier where it's going to sit and
+[03:23] in there as a Thrust bearing at 41 by 11
+[03:26] and then a rest bearing in the center
+[03:29] there which is just a scatter bearing
+[03:30] and our cam sits on there like that and
+[03:33] it's able to turn and of course with
+[03:34] being able to turn means that we can
+[03:36] drive something what we're going to
+[03:38] drive is our chain drive that we made in
+[03:41] video 2015 so we're going to connect
+[03:43] that to the cam there when the camera
+[03:46] spins it'll drive that chain and of
+[03:48] course we need little housing and
+[03:49] there's a housing in there
+[03:51] everything together a bit more
+[03:54] permanently than that
+[03:56] so the next bit you're going to need is
+[03:58] the roller holder and you'll notice
+[04:00] there's this little projection on it and
+[04:02] that projection just hangs on the
+[04:04] outside of the camera what that does is
+[04:06] it stops the roller from twisting
+[04:08] because it's going to want to twist if
+[04:09] it twists that way of course it's going
+[04:11] to stop the rotation so that overhangs
+[04:14] the cam and acts as a slide guide we
+[04:17] stick those in the top plate and put the
+[04:19] top plate on
+[04:21] actually that's kind of cool okay so the
+[04:24] way this thing works is you put that cam
+[04:26] at just past its top Center and then of
+[04:30] course we'd have some petrol engine
+[04:32] press that it rotates that's kind of
+[04:35] cool you notice these two popped up so
+[04:38] when we move that a little bit longer
+[04:40] press that it rotates so obviously there
+[04:43] you go that's very cool
+[04:46] obviously there's three things missing
+[04:48] one is uh it needs a flywheel so if you
+[04:51] put a flywheel on to continue the amount
+[04:53] of rotation pass that top dead center
+[04:56] just like in the petrol engine the other
+[04:58] thing that's missing obviously is some
+[04:59] way of forcing these down I mean my
+[05:01] input my engine is my finger what we
+[05:04] really need is some kind of driving
+[05:06] force so in the in engine of course they
+[05:09] use a combustion engine into a
+[05:11] combustion engine but you could put
+[05:12] solids on you could put Steam on I would
+[05:15] love to see if maybe it would work with
+[05:17] a sterling arrangement for anything
+[05:19] that's going to push on these piston
+[05:21] rods is going to make that cam rotate
+[05:24] and be an engine and the last thing it's
+[05:26] missing of course is timing so if we put
+[05:28] those three things on we have ourselves
+[05:30] a working engine this is the in-engine
+[05:32] mechanism now it is being sold as a
+[05:36] range extender so it's going a battery
+[05:40] red extender not a petrol engine but it
+[05:43] is a really interesting design of a
+[05:47] range extender so I hope you enjoyed the
+[05:50] video thank you very much for watching
+[05:52] please do remember to like And subscribe

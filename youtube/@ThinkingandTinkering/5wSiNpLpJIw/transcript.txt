@@ -1,0 +1,222 @@
+[00:00] [Music]
+[00:08] Hi. So, we're in my back garden because
+[00:10] of this thing. It's a variable
+[00:12] hypocyloid that we made in video 2392.
+[00:16] Now, there's a um farmer's field right
+[00:19] over there. And behind me, there's a
+[00:21] massive country park. It's it's uh one
+[00:24] street away. And somebody in the street
+[00:26] behind me keeps peacocks. So over there
+[00:29] is the bluebird of happiness singing
+[00:31] like crazy and it's a beautiful sunny
+[00:33] day and it's quite tranquil here for me
+[00:35] to be able to think about the problems I
+[00:38] want to think about and sure the birds
+[00:40] can be a bit noisy. I quite like it but
+[00:43] it does seem over the top to take a
+[00:45] shotgun to them so that I can do a
+[00:46] 5minute video. So I just let them
+[00:48] twitter away and I think it's awesome.
+[00:51] Now, this thing, of course, well, it
+[00:54] takes a a standard input rotation or
+[00:56] rather a fixed input rotation and then
+[00:59] changes it into a variable slide motion.
+[01:02] And of course, we can use that variable
+[01:03] slide motion to create a variable output
+[01:06] rotation, which is why I'm particularly
+[01:09] interested in it. Now, to do that, of
+[01:11] course, there are a ton of mechanisms we
+[01:13] could possibly choose. And it's kind of
+[01:15] a way that I like to work. If I've got a
+[01:18] problem, what I tend to do is research
+[01:20] it. I have a look at what mechanisms are
+[01:23] available. And of course, there are
+[01:25] always tons of mechanisms available. And
+[01:27] you might ask yourself why. And the
+[01:29] reason is there is no best answer. Each
+[01:32] mechanism has its own quirks, its own
+[01:34] peculiarities, its own strengths, its
+[01:37] own weaknesses. That's why there's so
+[01:39] many of them because there are so many
+[01:41] applications. The first one we had a
+[01:43] look at, said he, if I can find it. Ah,
+[01:46] sitting right there. It's this one that
+[01:48] we had a look at. What we've got here is
+[01:50] a sliding gear. The sliding gear
+[01:53] connects and disconnects an idle gear
+[01:55] that as we slide this up and down, then
+[01:58] we get only a oneway direction of
+[02:01] rotation in the output. But of course,
+[02:03] it's got a problem. It disengages the
+[02:05] gear for a period of time. And so
+[02:07] there's lost power that well, it's not
+[02:10] really acceptable to me because I want
+[02:12] to be able to make this for something
+[02:13] like a bicycle. I want a a compact
+[02:16] design that is circular so it can fit
+[02:18] into a hub about 100 150 mm deep uh
+[02:22] sorry wide. It should be made as cheaply
+[02:24] as possible. So preferably out of press
+[02:27] steel rather than engineering parts to
+[02:29] bring down the cost so it becomes really
+[02:31] quite cheap. And so I've got this whole
+[02:33] range of constraints sitting around it.
+[02:36] And I think that sliding gear although I
+[02:38] like it I don't think it's good enough.
+[02:40] And of course that means I'm back to the
+[02:42] research stage of things. So have a look
+[02:45] at what there is. When there's an awful
+[02:47] lot to look at, of course, what you do
+[02:49] is have a look and lose your way. Then
+[02:51] put everything down and just let all
+[02:53] that information stew in your head and
+[02:56] something will pop into it and you
+[02:58] think, "Where did that come from?" What
+[03:00] popped into mine was this. This slider
+[03:04] of course moves backwards and forwards.
+[03:07] If we put racks on here, then we'll be
+[03:09] able to turn a gear. We can turn the
+[03:12] gear top gear. If we put a top gear
+[03:14] here, it'll return, say, clockwise in
+[03:17] that movement. The bottom gear will turn
+[03:19] anticlockwise. But when it reverses,
+[03:21] then the bottom gear will turn in the
+[03:24] same direction as the top gear. And so
+[03:26] we've got effectively the same thing
+[03:28] that we had here, but no disengagement.
+[03:32] So the question is, how do we achieve
+[03:34] something like that? Well, as I say, my
+[03:37] first stage is to have a look at what
+[03:40] everybody else has been doing. So, I
+[03:42] turned to Google, entered the search
+[03:44] terms, clicked images, and enter. And
+[03:47] this is the first page. And you can see
+[03:50] there's a bewildering array. I mean,
+[03:52] there's just so many ways of actually
+[03:54] doing this. The only thing you can do is
+[03:56] have a look at a few and ask yourself,
+[03:58] well, will this do what I want it to do?
+[04:01] And without a doubt, there's going to be
+[04:03] lots of different ways of doing it, and
+[04:05] you're going to make a selection based
+[04:07] on what appeals to you. So, looking
+[04:11] through, I came across this one, and I
+[04:14] quite like the look of this. I don't
+[04:15] really understand it. I don't really
+[04:17] know if it's going to do what I want it
+[04:19] to do. I don't know if it's the best
+[04:21] option. I basically like it and don't
+[04:24] really understand it. Now, I'm one of
+[04:26] those people that understands things by
+[04:28] doing. If I make something, I get a very
+[04:31] good understanding of it because I can
+[04:33] get my hands on it and see how it works.
+[04:36] I mean, I can kind of get that from an
+[04:37] animation, but I get it much better if I
+[04:40] have a physical model that I can play
+[04:42] with put together with what I want to
+[04:45] see if it will actually go together in
+[04:47] that real world way. So, the first thing
+[04:49] to be after I've found something I'm
+[04:52] interested in is to draw it up as a
+[04:54] model. And here is what I drew in
+[04:56] Tinkercat. But the next thing to do, of
+[04:59] course, is to print them out. And here
+[05:01] are the parts printed out. Now we have
+[05:03] to assemble them. This is the base. And
+[05:06] these three gears go into the base like
+[05:09] that. And of course, they have axles for
+[05:11] them. That one fits into there, but
+[05:14] pokes through the back. These two fit
+[05:17] into the larger gears, but with the
+[05:19] smaller bits poking up out of the front.
+[05:22] And they fit together like that. Now,
+[05:23] they're a loose fit in the back plate,
+[05:25] but a tight fit on the axle. If it's a
+[05:28] little loose, then put a bit of super
+[05:30] glue in there. That'll hold them nice
+[05:31] and tightly. And as we turn that, we can
+[05:34] see that we're rotating them. If I just
+[05:36] put it back in place. There we go. We
+[05:38] return that. And we can see they're
+[05:39] rotating. Now, we need to take the top
+[05:41] plate, which is this bit here. And
+[05:43] there's a couple of slide guides there.
+[05:45] The slide guides go in those holes that
+[05:47] are a press feit. And this, which is the
+[05:51] actual slide, goes in the slide guides
+[05:53] with the gear facing down. These will be
+[05:56] a tight press fit as they should be.
+[05:58] Once they're pressed in, of course, the
+[06:00] slide is set to the middle. Then this
+[06:02] half gear goes straight on. So it's
+[06:04] straight on like that and interlocks
+[06:06] with the slide. This half gear goes in
+[06:10] in exactly the same direction. So that's
+[06:13] like that. And the whole lot is going to
+[06:15] press onto there. remembering that that
+[06:18] one has to poke out the outside. And
+[06:21] there it is, complete. Now, as we move
+[06:22] that slide down, what we see is it
+[06:24] engages with that side of the gear,
+[06:27] rotating it in that direction until, of
+[06:29] course, it reaches the end of its slide.
+[06:33] There we go. The end of its slide
+[06:34] movement. When it's reached the end of
+[06:36] its slide movement, of course, this gear
+[06:39] has now been brought into contact. And
+[06:41] so, when it goes back up again, it
+[06:44] continues the rotation. But because the
+[06:46] gear is on the opposite side of the rack
+[06:48] gear, they rotate in the same direction.
+[06:51] We combine them in that middle gear. So
+[06:53] the slide going up and down makes that
+[06:55] rotate continuously in only one
+[06:58] direction. So this is a cute mechanism
+[07:01] and you will find it all over the
+[07:02] internet. But you'll also find it in
+[07:04] these kind of things. This is mechanical
+[07:07] movements and devices and appliance by
+[07:09] Hitchcock uh printed in 1800s or
+[07:12] something or other like that. and it is
+[07:14] movement number 896 in that book. You'll
+[07:18] also find it in mech uh 500 mechanical
+[07:21] movements. I like these books because if
+[07:24] you're not quite sure what it is that
+[07:25] you're looking for, you can flip through
+[07:27] them and get an idea of what mechanisms
+[07:29] are out there and then use those as
+[07:31] search terms on your Google search or
+[07:34] whatever. So those are a valuable asset
+[07:37] if you're doing something. So we do have
+[07:39] a slight problem with this. This only
+[07:42] works at full stroke because it's
+[07:44] rotating the first one gear and then the
+[07:46] next. It must take its full length of
+[07:48] stroke in order to bring that gear into
+[07:50] position on the return stroke so it can
+[07:53] continue that rotation. For us, that's a
+[07:56] bit of an irritation because of course
+[07:58] what we want is it that stroke length to
+[08:00] be variable and yet still rotate. So,
+[08:03] it's back in the garden, fresh cup of
+[08:06] coffee, the cacophony of bird sand
+[08:08] around me to have a think about how I
+[08:11] might change that from needing a full
+[08:14] length of stroke to working on a
+[08:16] variable stroke. And if you think about
+[08:19] how we're approaching this, then the CVT
+[08:22] that we've been trying to develop has
+[08:23] been a relatively long-term project. The
+[08:26] first thing we did was look at the whole
+[08:28] mechanism of the CVT, then broke it down
+[08:31] into the mechanisms needed to do each
+[08:33] part of the job, then hunted out those
+[08:36] mechanisms, and then made changes to
+[08:38] those mechanisms to fit our need. And
+[08:41] it's pretty much always the same kind of
+[08:43] process. Anyway, I hope you enjoyed the
+[08:45] video. I hope you like the mechanism.
+[08:47] Thank you very much for watching. And
+[08:49] please do remember to like and
+[08:50] subscribe.

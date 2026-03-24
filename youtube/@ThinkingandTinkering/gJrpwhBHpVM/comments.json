@@ -1,0 +1,765 @@
+[
+  {
+    "id": "Ugz7ZuSLaMiCu8XekkZ4AaABAg",
+    "author": "@mohamedmonem2645",
+    "author_channel_id": "UCtYmkNmnWq-eEmeVaob_sJQ",
+    "text": "This channel is a treasure, RIP for the creator.",
+    "likes": 0,
+    "published_at": "2026-03-08T00:57:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzEEZ9J-muW6JmntUN4AaABAg",
+    "author": "@ripross2520",
+    "author_channel_id": "UCM5jTnGzd-WdWCToXX9fkVA",
+    "text": "Are you going to use it to make q turbine?",
+    "likes": 0,
+    "published_at": "2025-07-19T04:31:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwv28-NsEW1XQseVph4AaABAg",
+    "author": "@derekjeffrey5443",
+    "author_channel_id": "UChAX_VmPx2EkouzTb3_h9Lg",
+    "text": "Hi mate i like your vids : iv got a motor im strugglin too wire it up :  im wondering if you could talk me thru it : or give me some advice",
+    "likes": 0,
+    "published_at": "2025-05-08T17:06:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwPRGtS4nwZNvnNuyN4AaABAg",
+    "author": "@RandyZimmerman-pp5wj",
+    "author_channel_id": "UC_ZiIhjLvQjWCXQYqp1Cyjg",
+    "text": "I always heard that a washer motor could be a generator but nobody else has explained so common sense way thanks",
+    "likes": 0,
+    "published_at": "2025-03-19T01:38:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6oGnhEqADOzyNrg94AaABAg",
+    "author": "@Ryan-el3zc",
+    "author_channel_id": "UCrMvT44OcoibS2LLcN_HZlQ",
+    "text": "Sounds like a good application for a voltage divider. Might take a bit of work to get going but a couple resistors and a transistor is a lot less to ask than creating a program.",
+    "likes": 0,
+    "published_at": "2024-11-29T20:34:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxxQKgMtgV5YXN5DMJ4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "What about building a 120/240 AC 50/60 hz generator with one of these? Using a gas or diesel engine, or steam, with electronic governor??  Can it maintain frequency and voltage? Im guessing it will require a voltage regulator to prevent  putting full power on the field coil  and provide a Means of voltage regulation . And using the rotor as the field. Opposite as this example and possibly rewiring the commutator so it behaves like sliprings. Connecting in 2-4 groups to Make 2-4 poles. The frequency / rpm required depending on the poles  it will likely require a rewind atleast a rewire!  Putting groups of coils in parallel!  It will end up as what. 1000 watt generator at best? What is the hp rating  ,,half? Making 370watts running power  maybe a group connected to s 9/10 hp diesel engine burning used cooking oil/ bio-diesel!  Use about 6-8 motors connect to a jack shaft and wired  together in phase  , possibly use simple electronics to build a  analog regulator . With it Based on a zener diode resistors , caps, a pot.,and a MOSFET. Maybe a full bridge rectifier and voltage divider to get the required DC for the field. The voltage reference, the pot to set the precision of the output voltage.   Find the amount of dc voltage to get the required ac voltage, and how much more is required to keep the voltage under full load!  I guess i answered my own question!  So new question,  would it be worth it?  I guess you could basically fo this with any ac motor! Only require building a rotor with field coil, and a Means of completing the circuit! And it must create the required magnetic field to generate the required output!!  I have some large series wound DC motors, from a forklift. I was thinking about doing something similar in a hydroelectric project. I don't have the water!  I could use it for a ,24/29 v DC generator to charge batteries but i think the modified car alternator will work for this!  I don't exactly need a generator that large! It would require a 100 hp engine!!😮",
+    "likes": 0,
+    "published_at": "2024-01-19T21:58:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOWbuPxO2ZrQc7a3h4AaABAg",
+    "author": "@alfredojascencio5374",
+    "author_channel_id": "UCoat5EY82kwP78vtoXcDA9Q",
+    "text": "I’m working on a college project. And really want to pitch this idea this idea to my team could you get into contact with me somehow? Love the video, I think this idea really could be revolutionary.",
+    "likes": 0,
+    "published_at": "2023-11-01T19:12:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZtN1eEeH9bguE0Ed4AaABAg",
+    "author": "@charliestevenson1029",
+    "author_channel_id": "UCleSHt4aMmRusiH26idt4cg",
+    "text": "I'm confused. When I was thinking about what kind of DC motor could be used as a generator I thought washing machine motor. And I found this video, but later videos are about using magnets and coils from a microwave ... so what is the better option? I have spare DC inputs on my solar inverter and I thought it's a shame not to use them ...",
+    "likes": 0,
+    "published_at": "2023-10-16T10:20:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxZtN1eEeH9bguE0Ed4AaABAg.9vvh6zFzG48A6SgukhaQnR",
+        "author": "@madb132",
+        "author_channel_id": "UCuJQhKYVI4jI-NHC0CZcI5A",
+        "text": "If you do not have a good understanding of electrics or electronics , Please, STAY AWAY from Microwaves.👍",
+        "likes": 0,
+        "published_at": "2024-07-29T00:57:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwbhpOw_BMFJfAEFvZ4AaABAg",
+    "author": "@My-Opinion-Doesnt-Matter",
+    "author_channel_id": "UCK-mJI3f5N8YU7BOSNojZ_A",
+    "text": "Is it half as efficient as a DC motor-generator?",
+    "likes": 0,
+    "published_at": "2023-10-14T20:02:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwEEQT3Xc6h9xBAlDp4AaABAg",
+    "author": "@monsterstepdad2489",
+    "author_channel_id": "UCl8Uq9CrZereeeBP9LY9iNQ",
+    "text": "So question. Do you attach the out wires on the brushes or the fields?  Looking tomake a wind turbine but looking to add an inverter then to a battery storage system or something similar.",
+    "likes": 0,
+    "published_at": "2023-08-28T13:40:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzERjg0BChcCH0FhFd4AaABAg",
+    "author": "@markfewtrell2198",
+    "author_channel_id": "UCYGFWMYUB0mizrMJQfax4aQ",
+    "text": "Brilliant just was looking for",
+    "likes": 0,
+    "published_at": "2023-08-23T06:47:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyMCdtz8cJz-jHx44x4AaABAg",
+    "author": "@muhammadusmanafzal5244",
+    "author_channel_id": "UCYFd0hZJYz1MnslvzvKp9lg",
+    "text": "I appreciate your time and effort for this wonderful video. But I have a question when the outcoming current is very low then what is benefit of this kind of generator? Please explain.",
+    "likes": 0,
+    "published_at": "2023-03-10T20:10:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzG4J97-9xgFyP1-sd4AaABAg",
+    "author": "@muhammadusmanafzal5244",
+    "author_channel_id": "UCYFd0hZJYz1MnslvzvKp9lg",
+    "text": "I appreciate your time and effort for this wonderful video. But I have a question when the outcoming current is very low then what is benefit of this kind of generator? Please explain.",
+    "likes": 0,
+    "published_at": "2023-03-10T20:10:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyaSa74BmSGtMLG57V4AaABAg",
+    "author": "@nixonsmateruby1",
+    "author_channel_id": "UC1xeQPq3EPp_KxGn0YiCATA",
+    "text": "Any plans to self publish a book with loads of experiments and things to build?",
+    "likes": 0,
+    "published_at": "2023-03-10T19:08:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw09R7RX6E2OQlNWit4AaABAg",
+    "author": "@ryanlebeck259",
+    "author_channel_id": "UC6p_9ZsOo1BZU71I1abBTxA",
+    "text": "What would a few swag pulleys do to make that turn torque less?\n\nOnly asking because pulleys and cogs wasn't included in the mechanical alphabet 😉lol",
+    "likes": 0,
+    "published_at": "2022-11-26T05:11:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy9kYtkJs2-isRSiBh4AaABAg",
+    "author": "@markleary2805",
+    "author_channel_id": "UCtyhfRMcwJw3FPpo-Wa1UMw",
+    "text": "Have you tried a ceiling fan generator. I get 120v and light up a flood light bulb. It looks like I'm getting a lot more power than anything you have done. I love your videos\nI used neodium magnets",
+    "likes": 1,
+    "published_at": "2022-11-09T03:44:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy9kYtkJs2-isRSiBh4AaABAg.9iBwm5pBAfy9oXtsZtQoSb",
+        "author": "@coswelljones6789",
+        "author_channel_id": "UC9tzl8evvUTjm7_isqGVv7w",
+        "text": "Did you put the magnets facing opposite poles side by side around the outside of the motor?",
+        "likes": 0,
+        "published_at": "2023-04-15T19:30:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxMJETTCIJO3gb4-9h4AaABAg",
+    "author": "@Nightowl_IT",
+    "author_channel_id": "UCK9cxXJMEgB5lPSstzsc6ng",
+    "text": "You want to not ignore the extra wires >> HEAT SENSOR<< ~06:00\nAnd please make your videos louder so everybody can hear you without head phones.\nThanks\nAwesome fact by the way.",
+    "likes": 0,
+    "published_at": "2022-10-18T15:08:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxIoa3d0-MI7BwhLo14AaABAg",
+    "author": "@jrooke1990",
+    "author_channel_id": "UC-9GKHsnuysSl0zVLPlO-cg",
+    "text": "What would happen if you put a automatic voltage regulator (AVR CONTROLLER) on to the washing machine motor?????\nWould it work on it and get power off as well??",
+    "likes": 1,
+    "published_at": "2022-05-25T17:20:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgycOXcoCikuwftReQN4AaABAg",
+    "author": "@joohop",
+    "author_channel_id": "UCLFfattgPNyvFVelj259hog",
+    "text": "Did They Have Car Alternators Back In 1592 Rob ? \n\nBless Up Earthling",
+    "likes": 2,
+    "published_at": "2022-05-18T12:39:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9badKs6177uSAdiF4AaABAg",
+    "author": "@jsnelleman",
+    "author_channel_id": "UCfB9H9K6rgbu_nmrzju7a9g",
+    "text": "My question is, What is better, A stator as Magnets? Or a rotor with Magnets?",
+    "likes": 0,
+    "published_at": "2022-05-15T14:08:01Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugz9badKs6177uSAdiF4AaABAg.9b2icUqsfe-A1wO3HRh5lM",
+        "author": "@Inflec",
+        "author_channel_id": "UCdYDOgWpFAriVKRzb1DmK3Q",
+        "text": "Well, with the magnets on the rotor, that means the power producing coils are _stationary,_ which makes getting the power out of the generator a whole lot easier and way more reliable. That was the reason auto alternators we're designed that way.",
+        "likes": 0,
+        "published_at": "2024-04-07T16:23:56Z"
+      },
+      {
+        "id": "Ugz9badKs6177uSAdiF4AaABAg.9b2icUqsfe-A20Fat16jFf",
+        "author": "@jsnelleman",
+        "author_channel_id": "UCfB9H9K6rgbu_nmrzju7a9g",
+        "text": "Sorry I took so long to reply back but doesn't some alternators their routers sorry rotors have coils instead of magnets",
+        "likes": 0,
+        "published_at": "2024-04-09T13:46:14Z"
+      },
+      {
+        "id": "Ugz9badKs6177uSAdiF4AaABAg.9b2icUqsfe-A213vafR6XZ",
+        "author": "@Inflec",
+        "author_channel_id": "UCdYDOgWpFAriVKRzb1DmK3Q",
+        "text": "@jsnelleman - Of course many do. The rotor coil takes the place of magnets, producing the magnetic field that is needed to produce electricity. IOW, an electromagnet. The beauty of using an electromagnet is that it makes controlling the alternator output MUCH easier. It is difficult to reliably control output of an alternator that uses magnets.",
+        "likes": 0,
+        "published_at": "2024-04-09T21:23:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxob0TZ6bj4vfcBf4t4AaABAg",
+    "author": "@JehuMcSpooran",
+    "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+    "text": "I totally forgot about series and shunt motors/generators and how they can externally excited. A greater field strength could not only be used, as you mentioned, as a brake, but also to limit the top RPM of the motor/generator so it would not exceed the input of a charger or other circuit. Also the torque curves are a lot different for each type of motor from memory.",
+    "likes": 0,
+    "published_at": "2022-05-08T14:49:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzCdBOdE9MX5iE52vt4AaABAg",
+    "author": "@grahamleiper1538",
+    "author_channel_id": "UC4KPKBlhrdfwOZyqk2WsrvQ",
+    "text": "Surprised nobody uses EV motors for the smaller end of industrial scale wind turbines. Economy of scale means something like a Leaf motor in a 50-100kW turbine shouldn't cost much at all in comparison to an \"engineered\" solution. Even the power electronics come as part of the package.",
+    "likes": 0,
+    "published_at": "2022-05-04T23:39:21Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzCdBOdE9MX5iE52vt4AaABAg.9acQGTeDSaGA-U2cqkHEe-",
+        "author": "@Aquavidify",
+        "author_channel_id": "UCavxPypRZl2ZFxQ0ZBlxhUA",
+        "text": "I was thinking the same, I have a renault fluence motor with the power electronics and was hoping someone else had this idea, have you thought any more about it?",
+        "likes": 0,
+        "published_at": "2024-02-06T13:55:55Z"
+      },
+      {
+        "id": "UgzCdBOdE9MX5iE52vt4AaABAg.9acQGTeDSaGA-UqkLLYpLe",
+        "author": "@grahamleiper1538",
+        "author_channel_id": "UC4KPKBlhrdfwOZyqk2WsrvQ",
+        "text": "@Aquavidify I don't have the land for it. Just struck me as obvious. Makes way more sense than repurposing washing machine motors.",
+        "likes": 0,
+        "published_at": "2024-02-06T21:22:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxqnLySEfiN8D4WBpZ4AaABAg",
+    "author": "@kevinleebailey",
+    "author_channel_id": "UC0Vv1D6bTXjV4qa2MRqbUKA",
+    "text": "Brilliant ! 👍\n This is definitely the way to go if you are serious about wind turbine power. The ability to break in high winds is a must and the ability to still generate in low winds makes this a more efficient system. Thanks for this explanation and information. 👍",
+    "likes": 1,
+    "published_at": "2022-05-01T20:12:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxbx29OtJynF4_fclR4AaABAg",
+    "author": "@mikaelfransson3658",
+    "author_channel_id": "UCQo1WsG4MKxTWKpce3BvzNw",
+    "text": "Robert Murray Smith! Was the coil on the 100£ VAWT TRASH? To make the best variant on coil if a few gears is in the core of the sheape of the coil a extra Capacitator  a wireing so it give a extra boost in high wind, diod to get a flow DC a conducted plastic material how increas and drops in high or low spinn! Coil filled with Washer (coin) for give a max at minimum work fore the VAWT or HAWT! it this possibe? Variants of metals on the washer! You might se me as lazy! In this case. You is in an Workmode on this and I still hope for right resources to do my dream machine!!! Rob you still my favorit You-tuber! So hold up the god work! It is just awsome 🙂!",
+    "likes": 0,
+    "published_at": "2022-04-30T05:58:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgweEKQuAEg8MVguy1B4AaABAg",
+    "author": "@felixaudet5860",
+    "author_channel_id": "UCrEfYLzk-WZ9jby80LLAuLg",
+    "text": "Amazing that it can generate without input, due to a remanent magnetic field..  Same can be done with an alternator? How long does the remanent field last? If you stop using it for long periods, can it be started back up without a \"primer\" current, from a power supply?",
+    "likes": 1,
+    "published_at": "2022-04-29T20:22:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzudmIRRhhVxr0L_Pp4AaABAg",
+    "author": "@arthurhamlin6594",
+    "author_channel_id": "UCSh39fse0S7cKVr4QIsj4cA",
+    "text": "A number of comments are hovering around the same idea I had: If the feedback loop causes the torque to be too high, there needs to be some mechanism to reduce the power in the feedback loop. A manual one (potentiometer?) would be trivial to introduce. But a smart one that adjusted based on the generator RPM would likely be the most efficient .",
+    "likes": 0,
+    "published_at": "2022-04-29T15:55:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyEZqnppDP_sapRoZ4AaABAg",
+    "author": "@C-M-E",
+    "author_channel_id": "UC-uO_c1bTtfJCBh8ltJ30qg",
+    "text": "One of the ideas the UK got right a long time ago was the electronics and scrapping locations available to the public. Being a scrapper myself, we have to go 'curb shopping' if I'm looking for a particular project idea, and these days with fuel and living costs exploding, I'm better off just going to a thrift shop every so often while waiting for a potential high cost donor to become available.\nRepair shops being as rare as common sense these days, no one wants to part with their junk for free anymore!",
+    "likes": 0,
+    "published_at": "2022-04-29T15:08:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyE7mzgrW5Ic9o6gpB4AaABAg",
+    "author": "@Caffein780",
+    "author_channel_id": "UCQrQGS8m88CInqS2sx3ivQQ",
+    "text": "That is awesome...for sometime now I've been contemplating how to adjust for wind gusts.  I was thinking gears and centrifugal force, but never thought of going internally like that. I'm going to try, this method is awesome,  thanks!",
+    "likes": 1,
+    "published_at": "2022-04-29T13:17:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzqPtLgNl-EpxCp1Xd4AaABAg",
+    "author": "@lukehanlon9965",
+    "author_channel_id": "UChjDEhsTPwdqcRO2DO4zpFQ",
+    "text": "Thanks Rob, if I were to hook it up to a IC motor to make a 240v generator, is there a way to clean up the power/sign wave to run sensitive equipment? PS. I love your channel, Just say'n 👍",
+    "likes": 0,
+    "published_at": "2022-04-29T12:31:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxPMRcTI4d6JMwpch14AaABAg",
+    "author": "@Marian_Martin_Morgenstern",
+    "author_channel_id": "UCxEMPng09G8OMGTE9JggMHA",
+    "text": "The universal Motor is a fantastic Idea to use and to be honest I think that even if you feed it its own power back, with an variable resistor and an Arduino you still could make a controlled feedback loop. Then you only need a power bank and a small converter to reload the power bank from the generated Energies. Voilà, self-sufficient smart-controlled Power generation!",
+    "likes": 0,
+    "published_at": "2022-04-29T11:49:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzy6FtKpx1OhO6mP1h4AaABAg",
+    "author": "@cic-jakevanddalgeemyers.2739",
+    "author_channel_id": "UC83sVwQTKCEygsY3AR0n29w",
+    "text": "Okay 👌",
+    "likes": 0,
+    "published_at": "2022-04-29T11:44:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxLG7DwsMCqXujS4_J4AaABAg",
+    "author": "@kimkeam2094",
+    "author_channel_id": "UC3EZ7cEw2phri3eoGJHVrOw",
+    "text": "Thanks for bringing these motors up. As the output is controlled by the speed and magnetic field of the motor my only concern is voltage drop from the generator to the batteries and ballast. I have been experimenting with alternators and controlling the field by a basic potentiometer attached at the top of a rod with a small weight and a plate at the bottom. As the wind increases it pushes against the flat plate, changing the value of the pot. This is used through a simple circuit to increase the current to the alternator, so the magnetic field also changes. Being ac, I am not limited by distance to the controller and batteries. The current regulator is mounted on the wind generator so it follows the direction of the air flow and compacts the electrics.",
+    "likes": 3,
+    "published_at": "2022-04-29T08:41:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxLG7DwsMCqXujS4_J4AaABAg.9aOwa3rmkRK9zlVD4O-Vgn",
+        "author": "@jamest.5001",
+        "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+        "text": "What about building a 120/240v AC 50/60 Hz generator with these?",
+        "likes": 0,
+        "published_at": "2024-01-19T21:20:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5bIFH1k8Ebm_QA8B4AaABAg",
+    "author": "@Coxeysbodgering",
+    "author_channel_id": "UC8xhhVkx9av21MSQvZWizig",
+    "text": "Cheers Rob, similar to an idea I had but could get going so you've got my creative juices flowing again!\nWhat I wanted to do was replace permanent magnets for electro magnets powered by a solar charger from garden lights etc swapping the NiMH for scavenged lipo from the disposable vapour devices.\nThanks again and take care and stay safe Mike",
+    "likes": 1,
+    "published_at": "2022-04-29T05:47:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVcqqTGp3neBmNbo14AaABAg",
+    "author": "@binmanblog",
+    "author_channel_id": "UCbpPLr8ZOcwXSSXZsrVAHRw",
+    "text": "I'm guessing a double AA 1.5v battery would provide a load.",
+    "likes": 0,
+    "published_at": "2022-04-29T05:03:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxRU9irMdEFab_pkn14AaABAg",
+    "author": "@hempev",
+    "author_channel_id": "UCxcZah38HU0vtRU822f-S7A",
+    "text": "How hard is the motor to turn without the field energized? Could you use a separate anemometer to adjust its current or voltage (whichever is better to tune to windspeed)?",
+    "likes": 0,
+    "published_at": "2022-04-29T00:54:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUJxo_2QlQtYHbPWx4AaABAg",
+    "author": "@paulwright5440",
+    "author_channel_id": "UCPiCpItn_2zar7niBmf24LQ",
+    "text": "So you pop a bit of power into the stator an turn with more power coming out of the rotor",
+    "likes": 0,
+    "published_at": "2022-04-29T00:23:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyu4u0x9cVVMCvC1p14AaABAg",
+    "author": "@rhoniandjeff7453",
+    "author_channel_id": "UCy7isC-sVE9gKwxuuCXGMzw",
+    "text": "Another great video Sir Robert. I have a couple of questions; 1 are you going to do a full build with the Arduino and all, that would be so great!!!! 2 what is the best way to change the gearing so that you can overcome the high torque so you can get use of lower wind speeds to generate? Do you increase the size of the gear on the generator end or are there some other things that can be done to accomplish the same thing? I am really interest in getting use of very gentle breezes with something like this. Thank you in advance to anyone who wants to help in these questions?",
+    "likes": 1,
+    "published_at": "2022-04-29T00:20:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyu4u0x9cVVMCvC1p14AaABAg.9aO2EU2bpZo9aQKFUQmFiF",
+        "author": "@cavelvlan25",
+        "author_channel_id": "UCLoqCIaH5FbgoTuNtmUO83A",
+        "text": "Over coming the torque could be done by limiting(resisting) the current flowing into the stator or by increasing the gear ratio. Keep in mind any reduction in torque will reduce the power output whether by reduced speeds from gear ratio or less \"friction in the electromagnetics",
+        "likes": 1,
+        "published_at": "2022-04-29T21:36:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6vhbJBIBw7O37kEF4AaABAg",
+    "author": "@andyb7963",
+    "author_channel_id": "UCzi2jiin2f_OSlcknM5llQw",
+    "text": "Whenever I watch your videos it always makes me think of the Christmas lectures on the TV, thanks for sharing your knowledge",
+    "likes": 1,
+    "published_at": "2022-04-28T23:54:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx1sWnPLKg9sONNVFB4AaABAg",
+    "author": "@bohabdestructo7489",
+    "author_channel_id": "UCNIxHpDF7-eBqeCtF-kCOSw",
+    "text": "Old hard drives are the best way to get free-ish magnets.",
+    "likes": 0,
+    "published_at": "2022-04-28T23:39:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx3hae7BarhzjAD5vt4AaABAg",
+    "author": "@JimEdmiston",
+    "author_channel_id": "UCf3iJaM-WOgPONctpjccbNg",
+    "text": "Have you ever tried putting a capacitor across the field coil? Instead of feeding the generator coil into it...",
+    "likes": 1,
+    "published_at": "2022-04-28T23:25:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxwS_3MEEGQgx0bLZp4AaABAg",
+    "author": "@ernestovichez6317",
+    "author_channel_id": "UCRG8I0MA-ONbkyr19cot1TA",
+    "text": "Solo hablo español",
+    "likes": 0,
+    "published_at": "2022-04-28T22:13:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxwS_3MEEGQgx0bLZp4AaABAg.9aNofbudpRW9aO4L_BHhjR",
+        "author": "@paulwright5440",
+        "author_channel_id": "UCPiCpItn_2zar7niBmf24LQ",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2022-04-29T00:39:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzlLrPr-iVvlt1h5QF4AaABAg",
+    "author": "@robtitheridge9708",
+    "author_channel_id": "UCFBrPoOMxbO6DpXdj4Ppq6Q",
+    "text": "could you not use the taco output as part of a feed back loop to control the voltage input to the field coils.",
+    "likes": 0,
+    "published_at": "2022-04-28T21:42:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqTkbM-ABfMqIcnHt4AaABAg",
+    "author": "@nickbaylander6320",
+    "author_channel_id": "UC8p3tmEuxsJILPziE-d5jpg",
+    "text": "I have a armature just like that with large permanent magnets casing. It's a 90v dc motor. It came from a door opener from a hospital. It generates about 120ac when I turn it with a 12v dc motor. I also got the electromagnetic door lock with it. It's a 1200 pound rating at 12vdc. It's amazing",
+    "likes": 1,
+    "published_at": "2022-04-28T20:43:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzHf9UF8KAVQW3H5214AaABAg",
+    "author": "@401ksolar",
+    "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+    "text": "We stopped using Lee's AC motors with brushes in washing machines in the USA many years ago, they were a excellent ignition source with all those Sparks going on all the time, I think it's pretty much up to the people of each country to figure out the dangers in your own locale.",
+    "likes": 0,
+    "published_at": "2022-04-28T19:42:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwxvNpjPMErtjG5-Bd4AaABAg",
+    "author": "@William_Hada",
+    "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+    "text": "Very interesting! I may be way off on this but theoretically you don't need any initial electricity to energize the stator coils on a universal motor to initially get it going because we are always exposed to the Earth's magnetic field. The rotation of the rotor coils would cut across the Earth's magnetic field and would generate an electric current. As small as this initial current would be it would grow rapidly due to the feedback to the stator windings. Am I wrong on this?",
+    "likes": 1,
+    "published_at": "2022-04-28T19:36:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwxvNpjPMErtjG5-Bd4AaABAg.9aNXgU_sghm9aO3_Eudl8T",
+        "author": "@AtlasReburdened",
+        "author_channel_id": "UC6Z6frqjPPhlQyp8oludEVg",
+        "text": "You're not wrong theoretically, but in practice the residual field left in the silicon steel of the magnetic shunts/case is going to be orders of magnitude higher than Earth's field, and so this is what contributes most to self starting.",
+        "likes": 1,
+        "published_at": "2022-04-29T00:32:28Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxk0ojknxWubG9ow7l4AaABAg",
+    "author": "@In_fluss",
+    "author_channel_id": "UCoTzrGKmEaV43qge5ADvq9A",
+    "text": "Well what can I say? I think thank you will have to do because nearly everthing you put out here is bloody brilliant.",
+    "likes": 2,
+    "published_at": "2022-04-28T18:51:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyP9tuy7RUF7G_0VSt4AaABAg",
+    "author": "@aga5897",
+    "author_channel_id": "UCWieQLfF7fW2-MGHlCs8dRg",
+    "text": "Nice one ! \nWashing machine motors are #1. Thanks to Nikola Tesla for inventing the 'universal' motor.\nAt the back of all washing machine motors is a handy speed sensor, great for interfacing to an Arduino.",
+    "likes": 3,
+    "published_at": "2022-04-28T18:50:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqL2QOaVKct9FzieV4AaABAg",
+    "author": "@SimonPlatten",
+    "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+    "text": "Hi Rob, I’m in the process of creating my wind turbine so I’m super interested in what you have to say. I’m considering exporting anything and everything I generate directly to the grid, I already have solar PV and this is very successful.  If I can export enough then I don’t need to store the energy in batteries as the electricity I use from the grid will hopefully be covered by the Feed In Tariff from the generated electricity I export.  What do you think?",
+    "likes": 1,
+    "published_at": "2022-04-28T18:18:28Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxqL2QOaVKct9FzieV4AaABAg.9aNOlujN26c9aOAtkklb_k",
+        "author": "@ghz24",
+        "author_channel_id": "UCCSM1_qmAE8mXFPzcAR4EsQ",
+        "text": "I think you are killing the grid get some bateries.",
+        "likes": 1,
+        "published_at": "2022-04-29T01:36:26Z"
+      },
+      {
+        "id": "UgxqL2QOaVKct9FzieV4AaABAg.9aNOlujN26c9aOdeN8WNTy",
+        "author": "@SimonPlatten",
+        "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+        "text": "@ghz24 explain?  No different from all the many solar panels exporting to the grid.",
+        "likes": 0,
+        "published_at": "2022-04-29T05:56:29Z"
+      },
+      {
+        "id": "UgxqL2QOaVKct9FzieV4AaABAg.9aNOlujN26c9aOksKbSAPG",
+        "author": "@ghz24",
+        "author_channel_id": "UCCSM1_qmAE8mXFPzcAR4EsQ",
+        "text": "@SimonPlatten Yeah no different, they are killing it as well.\nThe grid isn't a battery, electricity must be used or it's gone, power plants aren't made to rapidly change their output.\nThey have to operate regardless of the whims of wind and sun.\nWith lots of grid tied generation stations that can't plan or time their contribution the power plants must still operate as if there is no contribution and operate at levels above demand and are forced to take power they don't need or are even able to use.\nNobody suould be surprised when they have to raise the rates on the smaller amount of power they sell when they still have the same overhead and must maintain the output levels needed to power everything if the wind dies or clouds move in.\nThat's a really short simple version of a video called \"how to kill an electric grid\" by a woman (can't remember her name) who goes into excruciating depth about how this happened in Australia and why they pat 3-4 times what less \"green\" countries do and what they payed a few short years ago.\nI litterally hate seeing those commercials here on youtube trying to convince people to let a company install solar panels on their home to get a pittance for the use of their roof while they screw everyone else on the grid. Once enough people go for this seemingly cheap route to solar the rates will increase to levels above what they were paying before and now they can't even install a solar system of their own because they leased their roof to some company that doesn't give two shits about general good.\nBatteries make it like you just use less power not unbalance the entire grid allowing for smaller powerplants to serve more area not run above capacity so they can step in immediately when the sun or wind fails to perform as expected. I know it's PC to hate on electric companies (sometimes they deserve it) but using the grid as a battery just hurts everyone.",
+        "likes": 0,
+        "published_at": "2022-04-29T06:59:33Z"
+      },
+      {
+        "id": "UgxqL2QOaVKct9FzieV4AaABAg.9aNOlujN26c9aOmYPs1acA",
+        "author": "@SimonPlatten",
+        "author_channel_id": "UCHEXcDTp341lUFfr4Utb_RA",
+        "text": "@ghz24 not really, the grid is always in use, it’s just everyone contributing to the output which as you say it’s always live and if everyone gets an EV someday demand is only going to increase, all to often are the few EV chargers around with out of order or cannot output nearly what they claim.  Just yesterday in found a 175KW charger, the best I could only get 71 KW from it yet my car is capable of taking 100 KW.",
+        "likes": 0,
+        "published_at": "2022-04-29T07:14:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwvbGL2Avfn4FukwPF4AaABAg",
+    "author": "@jeffreywolsieffer4583",
+    "author_channel_id": "UCvHGb8U8Ij1a1wB4Y6VvNuw",
+    "text": "Controlling the Voltage and its Current these days are as simple as The Italian Word \"Arduino\" and even the rPi-2040 mini-board can do it.\n. For Speed Control, a Steams Engines Centrifuge Governor/Limiter will due quite nicely. Simple Science fare stuff - really.!\n. . The Entire Point is actually doing nothing new, to our Generation, because we know about what they are and how to use them.\n. . . The Jr High students have been practicing with their Q-CAD and 3D Printers as to starting to make projects  for our Science Fare.",
+    "likes": 0,
+    "published_at": "2022-04-28T18:02:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxzx1Rtt1EeNgbIIJJ4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "Right back to 79 again for me! ;o)",
+    "likes": 0,
+    "published_at": "2022-04-28T17:50:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzSl2roISlPZUVTcVh4AaABAg",
+    "author": "@rayg436",
+    "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+    "text": "Could you not use a variable resistor to control the feed voltage",
+    "likes": 1,
+    "published_at": "2022-04-28T17:49:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzSl2roISlPZUVTcVh4AaABAg.9aNLT4TIJpT9aNqGUl6bLF",
+        "author": "@jimurrata6785",
+        "author_channel_id": "UCQ3LU4se19BlGNCK5J23mEA",
+        "text": "Doesn't the resistor turn energy into heat?\nWhile the idea of a feedback loop to make the wind turbine self exciting _and self-braking in high winds_ is interesting, how much of the output power does it consume???\nSure you can light up a few LED's but does a washing machine motor put out any real current when feeding back into itself?",
+        "likes": 0,
+        "published_at": "2022-04-28T22:27:26Z"
+      },
+      {
+        "id": "UgzSl2roISlPZUVTcVh4AaABAg.9aNLT4TIJpT9aNvCnFpAlX",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "@jimurrata6785 this is where I would put the variable resistor in the feedback loop to control the speed and power output with the wind speed",
+        "likes": 0,
+        "published_at": "2022-04-28T23:10:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwVpGH-2iMsJEh66LR4AaABAg",
+    "author": "@picobyte",
+    "author_channel_id": "UCfZLjHx9XircqwGTwMF-XBg",
+    "text": "Put the fieldcoils in parallel and in series with the rotor.\nThat way the load current excites the field.",
+    "likes": 3,
+    "published_at": "2022-04-28T17:40:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgysBgysdq6rY9055154AaABAg",
+    "author": "@jasonhaymanonthedrawingboard",
+    "author_channel_id": "UCRxpxHNnxUS9pIcFFlyj9Sg",
+    "text": "That was great, would be good to use multiple units. If your lucky enough to have them? I tried to mention this to XR because of the green agenda.  But find them just to be doing donuts in a half pipe . Yes it is great ideas and most people don’t even think about it. The spend 4K on electricity each year when you can have it for free. Then owe to nobody.  I bet you could chain link a few other together. Or have a slew gear where you can place as many as you can find on the ring gear. Bamboo turbine might be a good use for this.",
+    "likes": 0,
+    "published_at": "2022-04-28T17:33:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyNDLN7tA_oJKbW0Hd4AaABAg",
+    "author": "@thomasseigler8875",
+    "author_channel_id": "UCZmUkaAB1RqHO6VakF80CuA",
+    "text": "What advantages would planetary gears have to mitigate torque conditions and rpm speeds needed?",
+    "likes": 0,
+    "published_at": "2022-04-28T17:24:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztiSubaN4tcQDvOC14AaABAg",
+    "author": "@grahampearce2541",
+    "author_channel_id": "UCjWP0MR1zGlqtNC49DPU8zw",
+    "text": "On most wm motors the two really thin wires are a built-in tacho which is just behind the rear bearing. Great video & channel. Thanks!",
+    "likes": 0,
+    "published_at": "2022-04-28T17:15:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyK6VCGhlxIsWf_p1h4AaABAg",
+    "author": "@pulesjet",
+    "author_channel_id": "UCFvYK8dKjA17NIkhN_pkLHg",
+    "text": "Only issue is Blade size or water wheel size and cups or paddles.",
+    "likes": 0,
+    "published_at": "2022-04-28T17:06:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxySXjjKp9hflsuJE54AaABAg",
+    "author": "@crawfish2782",
+    "author_channel_id": "UCSaW5QBEaIn2xZ1-UQ3_8sg",
+    "text": "Also a tumble dryer motor??",
+    "likes": 1,
+    "published_at": "2022-04-28T17:02:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyT0twWttSrfJFLmnt4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Great info, thanks!",
+    "likes": 1,
+    "published_at": "2022-04-28T16:30:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwRNWTXuiNQgNhshqR4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍💪🙏",
+    "likes": 0,
+    "published_at": "2022-04-28T16:26:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwqnBlyFcCCPSpFIMF4AaABAg",
+    "author": "@markmetzger5430",
+    "author_channel_id": "UCOVBFz--HiK9bVn9wShiBcA",
+    "text": "Thanks Rob. The main advantage I see with the alternator (sourced from a wrecking yard) is the internal rectifying diode pack. DC out without the need for external rectification :) Cheers  mate. OOPS...should have finished watching the whole video🤣 Wonder where the universal motor can be easily found here in the states.",
+    "likes": 7,
+    "published_at": "2022-04-28T16:22:17Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwqnBlyFcCCPSpFIMF4AaABAg.9aNBU1HesDF9aT2ZBmrQq2",
+        "author": "@mike289homebuilt5",
+        "author_channel_id": "UCsbuqQU6-yADakWvxSSMgcQ",
+        "text": "I noticed my old Vacuumes,  coffee grinder,  dremmil tool all run on D.C.  to make a right North/south Field might need to change feed wires or power the poles with magnets",
+        "likes": 0,
+        "published_at": "2022-04-30T22:59:47Z"
+      },
+      {
+        "id": "UgwqnBlyFcCCPSpFIMF4AaABAg.9aNBU1HesDF9limD5DleYM",
+        "author": "@commonman1087",
+        "author_channel_id": "UCwRNgRXmB3fsm7oaySDaZDw",
+        "text": "Think the electric lawnmowers are universal motors. I have 2 in storage for the time when I can do it.",
+        "likes": 0,
+        "published_at": "2023-02-04T20:40:39Z"
+      }
+    ]
+  }
+]

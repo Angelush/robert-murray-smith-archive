@@ -1,0 +1,512 @@
+[
+  {
+    "id": "UgzJF3kE6rDj8kuWdR14AaABAg",
+    "author": "@icebluscorpion",
+    "author_channel_id": "UCqZoWquPrgkIrSAWEU7UVIg",
+    "text": "RIP man.",
+    "likes": 0,
+    "published_at": "2026-02-26T07:57:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxtpll3YSSgkh2RTwl4AaABAg",
+    "author": "@schnodderbürstchen",
+    "author_channel_id": "UCnUm5hGnVtLf76oCgHrQ6lg",
+    "text": "You can use a linear ferrite core instead of the toroid, much easier to wind and same efficiency, just noisier in the em spectrum of course. Air coils take away so much space it kind of defeats the point of the circuit imo. Or for the very lazy: use a yx1818 or similar boost converter ic. Disadvantage is it needs .8V instead of .5V to function.\nEdit: yx8018 ic",
+    "likes": 0,
+    "published_at": "2026-01-26T18:49:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyqnPxS5XOXB23GK954AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "J310 Jfet try that.",
+    "likes": 0,
+    "published_at": "2025-12-31T15:55:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKMIzI1EEVQG4kaSt4AaABAg",
+    "author": "@RichardSkokowski",
+    "author_channel_id": "UCc8R9aPCEz-iPRBk7jVA35Q",
+    "text": "A simpler way to wind a small toroid for a joule thief is to pinch the wire together, then push that pinched wire through the toroid about 10 times. You don't even have to be particularly neat about it. The pinch point is the center tap and goes to the battery positive terminal--skin the insulation off and solder to it. One of the free ends goes through a 1k or 2k resistor to the base of an NPN transistor. The other end goes to the collector of the transistor. The LED goes across the collector and emitter of the transistor--be sure to connect that before making the final battery connection! Finally, connect the transistor emitter to the battery negative.\nA joule thief is a \"blocking mode oscillator with a flyback output\". They will typically run about 30-70 kHz and throw off LOTS of low-frequency RF noise if you use an open core coil as seen in the video. They are much better when using a toroid. The LED _must_ be in place across the transistor to absorb the energy or the flyback voltage will kick up high enough to destroy the transistor.",
+    "likes": 1,
+    "published_at": "2024-04-29T00:37:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxKMIzI1EEVQG4kaSt4AaABAg.A2nLBfAvVqNAOrCyDjvamZ",
+        "author": "@billant2",
+        "author_channel_id": "UCtW4Ylo98Zk3LThjLKqiSCA",
+        "text": "Indeed the toroid filters out spurious noise, and increases efficiency.  That's why some well designed laptop power supplies have a ferrite ring around the cable.  Perhaps a ferrite rod from an AM radio would work instead of a toroid ring (thought not as efficiently)?",
+        "likes": 0,
+        "published_at": "2025-10-29T08:12:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxrjriqKS1tn1Z16qt4AaABAg",
+    "author": "@icebluscorpion",
+    "author_channel_id": "UCqZoWquPrgkIrSAWEU7UVIg",
+    "text": "Hey Rob, Why not ditching the paper too and build just two pancake coils? It would be more compact don't you think?",
+    "likes": 0,
+    "published_at": "2024-02-09T04:56:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwn7f6NFx5PH6-PBhd4AaABAg",
+    "author": "@ianmomberger7144",
+    "author_channel_id": "UCSLMKed6_F7uoQ6QAvV7lsg",
+    "text": "Is it possible to use a PNP with AM241 in it  to power  a Jewel thief using super capasters.?  Can you go over  how you open up a PNP to put in AM241? And if I put two buttons of AM41 in a PNP, will it produce more Jewels?",
+    "likes": 0,
+    "published_at": "2023-12-29T04:47:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwn7f6NFx5PH6-PBhd4AaABAg.9ytdrrvRu03AOrDmeG3gJ_",
+        "author": "@billant2",
+        "author_channel_id": "UCtW4Ylo98Zk3LThjLKqiSCA",
+        "text": "You can use a PNP transistor by flipping the the E/C, but an NPN works better.  As far as getting more Joules, no.  It cannot magically extract more power than what's left in the battery.  It just extracts it more efficiently down to a couple of hundred mill-volts.",
+        "likes": 0,
+        "published_at": "2025-10-29T08:20:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZEKu_XlbzaExyuDB4AaABAg",
+    "author": "@suncoastwoodturners5818",
+    "author_channel_id": "UCUfzaKL3dxdHwoG5Hyb3ayw",
+    "text": "In the first schematic the Base and Emitter are shorted together.",
+    "likes": 1,
+    "published_at": "2023-10-17T10:48:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgySd5nGmbXcX0vSU7J4AaABAg",
+    "author": "@uksuperrascal",
+    "author_channel_id": "UCCkhTBoEiexbQj63SZBGJ6w",
+    "text": "The Circuit drawings do not match the 1K resistor is connected in different places. In the first drawing it is between the B and 1 wire - In the second drawing the resistor is between the coils and pos, so the coils are not connected direct to each other ?",
+    "likes": 2,
+    "published_at": "2023-10-13T06:15:04Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgySd5nGmbXcX0vSU7J4AaABAg.9vnXfvD6y29A8cPHKAo7zp",
+        "author": "@warrenstephens8557",
+        "author_channel_id": "UCG6k3OYzNL2eYSS3crEhTgw",
+        "text": "@uksuperrascal I was thinking the same thing",
+        "likes": 1,
+        "published_at": "2024-09-20T21:49:32Z"
+      },
+      {
+        "id": "UgySd5nGmbXcX0vSU7J4AaABAg.9vnXfvD6y29A8dTcMoIcZi",
+        "author": "@uksuperrascal",
+        "author_channel_id": "UCCkhTBoEiexbQj63SZBGJ6w",
+        "text": "@warrenstephens8557 My comment was some time back, but your reply arrived OK",
+        "likes": 0,
+        "published_at": "2024-09-21T07:46:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxV1fpa97yAIL2A4yl4AaABAg",
+    "author": "@jsat5609",
+    "author_channel_id": "UC6KGrZC1qc_bVlkFIlmKOhQ",
+    "text": "0:58   SWG =  Standard Wire Gauge. apparently the European standard,  and AWG is the American Standard.  There is a slight difference between SWG  and AWG,   sizes.  There are online conversion charts  but 28 AWG  and 28 SWG  are not exactly the same size  though they are fairly close:  AWG = .0.3211 mm  and 28 SWG = 0.376 mm.,  according to the chart I found.   I don't know if this makes a difference or not.",
+    "likes": 0,
+    "published_at": "2023-10-10T00:58:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxB2_NGqkER7AsyUuh4AaABAg",
+    "author": "@Centar1964",
+    "author_channel_id": "UCN0y3B4QqkXpMX5mlRoDp_Q",
+    "text": "The fact that you can light up another LED via near field shows that the circuit is losing power to the either due to the high frequency that it is operating at because of the air coil. Needs a lower operating frequency to be more efficient. As a HAM radio operator the interference that this would create scares me.",
+    "likes": 2,
+    "published_at": "2023-10-08T20:00:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxB2_NGqkER7AsyUuh4AaABAg.9vc88ElQ0F7AOrDAuVsk1G",
+        "author": "@billant2",
+        "author_channel_id": "UCtW4Ylo98Zk3LThjLKqiSCA",
+        "text": "Exactly!  It's simpler to make but less efficient.  Perhaps even a ferrite rod would have less radiated power loss.",
+        "likes": 0,
+        "published_at": "2025-10-29T08:14:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyIPpt2Fzl2arfuePZ4AaABAg",
+    "author": "@decibelgeorge",
+    "author_channel_id": "UCGq8zJcrXdMJl7S_KaojURQ",
+    "text": "Nice presentation Robert with inexpensive components. \nIn order to get my Joule thieves smaller in size I stripped the wire off the core of IF coils from an AM/shortwave radio. Rewound 12-0-12 turns of 0.3mm dia magnet wire. Whole circuit fits onto an AA penlight battery.",
+    "likes": 1,
+    "published_at": "2023-10-06T16:37:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzqdx4uTp1TQ5WYJJd4AaABAg",
+    "author": "@GuardianEngraving",
+    "author_channel_id": "UCXDqVl6G81cgEzoan_SprDA",
+    "text": "U can also use old radio coils (the ones used to tune the radio to the right frequency) and just add the secondary or many already have two windings.",
+    "likes": 1,
+    "published_at": "2023-10-04T10:51:22Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugzqdx4uTp1TQ5WYJJd4AaABAg.9vRr8myInk3AOrDIG-fK6_",
+        "author": "@billant2",
+        "author_channel_id": "UCtW4Ylo98Zk3LThjLKqiSCA",
+        "text": "A bar ferrite is not as efficient as a toroid ring, but much better than an air coil. ;)",
+        "likes": 1,
+        "published_at": "2025-10-29T08:15:43Z"
+      },
+      {
+        "id": "Ugzqdx4uTp1TQ5WYJJd4AaABAg.9vRr8myInk3AOrJMfEyaF1",
+        "author": "@GuardianEngraving",
+        "author_channel_id": "UCXDqVl6G81cgEzoan_SprDA",
+        "text": "@billant2 lol no, air cores are king.",
+        "likes": 0,
+        "published_at": "2025-10-29T09:08:45Z"
+      },
+      {
+        "id": "Ugzqdx4uTp1TQ5WYJJd4AaABAg.9vRr8myInk3AP8I5au_FwS",
+        "author": "@billant2",
+        "author_channel_id": "UCtW4Ylo98Zk3LThjLKqiSCA",
+        "text": "​@GuardianEngraving - Sure, if you want to broadcast the spurious emissions all around you.   Ferrite cores are even used on some laptop power supply cables to cut down on noise.",
+        "likes": 2,
+        "published_at": "2025-11-05T08:44:01Z"
+      },
+      {
+        "id": "Ugzqdx4uTp1TQ5WYJJd4AaABAg.9vRr8myInk3AP8Nnu2bYCD",
+        "author": "@GuardianEngraving",
+        "author_channel_id": "UCXDqVl6G81cgEzoan_SprDA",
+        "text": "@billant2 yes that's exactly what you want to do, once you get to giga range, ferrite becomes an inhibitor and air cores win. Therefore air cores are king.",
+        "likes": 0,
+        "published_at": "2025-11-05T09:33:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz5ErccQluIZol5txd4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Excellent video. Do you happen to have a downloads section where members can download the circuit diagram by any chance?",
+    "likes": 0,
+    "published_at": "2023-10-04T10:28:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3U6AeuT92JL79srl4AaABAg",
+    "author": "@ThunderboltWisdom",
+    "author_channel_id": "UCrGYpMQ2d6s_oNz8jhHMtUg",
+    "text": "This was the first Joule Thief I built and it was from the exact same diagram, Patrick Kelly's Free Energy PDF. He has a YouTube channel where he reads out his text, but adds no new information. But this JT works!",
+    "likes": 1,
+    "published_at": "2023-10-04T09:03:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzgtzOQlR8s_Pr_Y_14AaABAg",
+    "author": "@kevinleebailey",
+    "author_channel_id": "UC0Vv1D6bTXjV4qa2MRqbUKA",
+    "text": "Use two RF chokes side by side with a 2N222 and a 1K ohm resistor an LED and a near dead 1.5v battery. Use a capacitor and a 1 meg ohm variable resistor and you have got a blocking oscillator circuit. Hold this next to an AM radio and you have some crazy Sci-Fi sound FX.",
+    "likes": 1,
+    "published_at": "2023-10-04T01:02:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzgtzOQlR8s_Pr_Y_14AaABAg.9vQnlS4HyGaAOrDPUfWP0x",
+        "author": "@billant2",
+        "author_channel_id": "UCtW4Ylo98Zk3LThjLKqiSCA",
+        "text": "Almost like a Theremin. ;D",
+        "likes": 0,
+        "published_at": "2025-10-29T08:16:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzZepH3dq17jY0x4SZ4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Very nice👍🏽.\nOne of the most amazing circuits of all time; the joule thief.",
+    "likes": 3,
+    "published_at": "2023-10-03T22:40:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyWhB86G1Z2AQ47tet4AaABAg",
+    "author": "@TomFarrell-p9z",
+    "author_channel_id": "UCh70kLjsBVjuocx5s3zm1CA",
+    "text": "I tried to reproduce the circuit and wasn't successful.  I wound about a meter of each pair of copper wires (not necessarily the same diameter wire as Robert used) around a 22 mm diameter plastic water pipe, so I may not have made the transformer correctly.  I don't believe I ever had the transistor oscillating (switching).\n\nThat said, one of Robert's circuit diagrams appears to be incorrect.  The one shown at around 2:05 shows the base of the transistor grounded, which won't work.  Also, this circuit is a bit dangerous if you use a variable power supply rather than a battery as there is no resistor in series with the LED.  If the inductor works as a dead short and you have too much voltage, the LED and transistors burn out.  (Ask me how I know!)  \n\nBut that isn't the circuit Robert seems to be describing, as he has us connect two wires on the transformer, which corresponds to the battery charger circuit diagram shown at around 2:22.  I tried that circuit and don't believe I ever had the transistor switching, as the voltage at the diode's cathode (I used a load resistor instead of a battery under charge) was identical to the input voltage.\n\nI don't really have more time to devote to this.  If I did, I would copy Robert's transformer more faithfully, and drag out my antique oscilloscope to see if any switching is happening.",
+    "likes": 0,
+    "published_at": "2023-10-03T21:39:55Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyWhB86G1Z2AQ47tet4AaABAg.9vQRZxtWNEr9vZvBzQhHWE",
+        "author": "@JehuMcSpooran",
+        "author_channel_id": "UC-rueAThrOjgrL4szn7PPhg",
+        "text": "A 22mm plastic water pipe is way too big. I'd try something like a pencil. That way you would get more turns per length of wire and the inductance should be higher as well.",
+        "likes": 2,
+        "published_at": "2023-10-07T14:00:41Z"
+      },
+      {
+        "id": "UgyWhB86G1Z2AQ47tet4AaABAg.9vQRZxtWNEr9vZz1Jq436t",
+        "author": "@TomFarrell-p9z",
+        "author_channel_id": "UCh70kLjsBVjuocx5s3zm1CA",
+        "text": "@JehuMcSpooran Thank you!  When I get the time, I'll try it again.",
+        "likes": 0,
+        "published_at": "2023-10-07T14:34:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxG4q0uq-7f4WiuIhN4AaABAg",
+    "author": "@MrTubeuser12",
+    "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+    "text": "\" near field transmission \"  so in other words induction ?,  so would changing the number of tuns on the second coil - more than or less than - the first coil effect how well the second LED lights ?",
+    "likes": 0,
+    "published_at": "2023-10-03T21:23:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxG4q0uq-7f4WiuIhN4AaABAg.9vQPjmrA8cO9vR9xvumsCa",
+        "author": "@Buzzhumma",
+        "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+        "text": "More turns will give higher voltage",
+        "likes": 0,
+        "published_at": "2023-10-04T04:25:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxkMcAoLWyici6x33N4AaABAg",
+    "author": "@deslomeslager",
+    "author_channel_id": "UC6F_-iIHC5zv1Y-Kat9EIjw",
+    "text": "If you happen to have a long wire (network cable or old telephone cable), you do not need to do any winding, they will work even with all the isolation on it.\nWill you do more out of PJK's book? In the past I did read every new magazine that came out, but somewhere in time I lost it (interest for those free energy projects, since my thoughts is that IF there is free energy, we will use it and heat up the earth in no time, so that may well be a good reason to suppress it).",
+    "likes": 0,
+    "published_at": "2023-10-03T20:49:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxkMcAoLWyici6x33N4AaABAg.9vQLqTT52B39vZuo3XcSHV",
+        "author": "@paddy2661",
+        "author_channel_id": "UCnkx4JxU2xI_YkFl9dD_57w",
+        "text": "From a Montauk Scientist,  haven't built myself yet but it's a free energy antenna , \nOuter frame of antenna is  + in a diamond/kyte shape standing virtually,  now the negative iron rod goes from center of diamond at the top to ground insulated where diamond bottom is braced to it.\nNow the $10billion dollar question to make it work sounds weird but I got the answers why. The iron rod at base has to have a oscillating switch built into the iron rod (parallel switch negative in negative out) example a simple 12v motor with a wheel attached with one small cam lobe on wheel so one contact every revolution with the iron rod switch. \nThen you run the motor at exactly 1800 rpm yes earth's revolution speed , it's the biorhythm/ frequency wave  , the iron core beneath our feet making a magnetic feild for free .\nThat's topsecret suppressed I thought why not tell you not many know .\nI was planning a 6ft diamond 2ft wide out of raw alloy 10mm rod and 10mm iron rod for negative. \nSo the aim is the negative pulses on/off with the wheel /switch  which captures the magnetic feild at the right wave form.\nCheers be careful I don't know how many volts it will put out..",
+        "likes": 0,
+        "published_at": "2023-10-07T13:57:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzG8ryteso4MVHUQux4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "Really all you need to do is wrap the wire around your favorite bean can. Take it off, you now have a high frequency air coil transformer. Make your connections. No coil form needed or ferrite.",
+    "likes": 0,
+    "published_at": "2023-10-03T20:39:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyw10O3GsQ4PWniED14AaABAg",
+    "author": "@AdricM",
+    "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+    "text": "may need to try this and see if adding a bolt as a core helps.",
+    "likes": 0,
+    "published_at": "2023-10-03T20:36:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxt8qNH4Jb_nHvgaLJ4AaABAg",
+    "author": "@undernetjack",
+    "author_channel_id": "UCHuwQA1EgdZA9L2kPIG2G_Q",
+    "text": "3:34 Say what now? Near field transmission , no electrical connection?",
+    "likes": 0,
+    "published_at": "2023-10-03T20:31:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxt8qNH4Jb_nHvgaLJ4AaABAg.9vQJlqI-3Fq9vQLAlcl6PT",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "It's just another transformer secondary winding. Mutual inductance.",
+        "likes": 0,
+        "published_at": "2023-10-03T20:44:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgybGVqCqynWHGqAC1J4AaABAg",
+    "author": "@trygvetveit4747",
+    "author_channel_id": "UCJ25ixHMOwWPTENuX-l4Plg",
+    "text": "So you just skipped the wole \"Roundabout\" via oscilliating Transistors DC to \"AC\" back to DC?\nOnly using \"Near Field\" Electromagnetic fields to make a transformer?\nActually i think this is more efficient than the original Scool Girl cuircit losswise as you jump possible losses in charge/discharge a ferrite magnet and the efficiency of the transistor and a resistor(electrical resistive load in principle)\nMakes me wonder ;)..\nDid you just make a Corless transfomer?",
+    "likes": 0,
+    "published_at": "2023-10-03T20:17:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwxx575Xye1PwzCbrZ4AaABAg",
+    "author": "@simonmusgrovewethey",
+    "author_channel_id": "UC4hi60r8mKTeQKJU2BSpgdA",
+    "text": "I love these videos, however I have absolutely no idea what you are talking about in this one. It would be helpful for idiots like me, to explain what a \"joule thief\" is and what it's used for. So why didn't you just connect the battery to the LEDs instead of spending all that time rolling paper and wrapping it in wire? Please explain for the uninitiated.",
+    "likes": 0,
+    "published_at": "2023-10-03T20:05:56Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwxx575Xye1PwzCbrZ4AaABAg.9vQGobDo09q9vQJvbwOOcS",
+        "author": "@DerekRoss1958",
+        "author_channel_id": "UC_v3vFTskiRHMVpUeIHE3gg",
+        "text": "A joule thief is basically a DC voltage booster. It will work with a 1.5V battery to give 5V (or whatever). It works even with very low currents. So it will drain a 1.5V cell almost completely whereas usually a 1.5V cell is considered \"dead\" even when it's not completely drained of energy: there's a bit left. Hence the name \"joule thief\". And it's a pun on \"jewel thief\" so that's good too!",
+        "likes": 1,
+        "published_at": "2023-10-03T20:33:06Z"
+      },
+      {
+        "id": "Ugwxx575Xye1PwzCbrZ4AaABAg.9vQGobDo09q9vh3C8xrET_",
+        "author": "@simonmusgrovewethey",
+        "author_channel_id": "UC4hi60r8mKTeQKJU2BSpgdA",
+        "text": "@DerekRoss1958 excellent explanation, thank you.",
+        "likes": 0,
+        "published_at": "2023-10-10T17:53:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw7Qvzo9Hhvmhob8pZ4AaABAg",
+    "author": "@TheKetsa",
+    "author_channel_id": "UCYgzg28r34M6EJl1q9VLaiA",
+    "text": "How to transform it into a blinking joule thief ?",
+    "likes": 0,
+    "published_at": "2023-10-03T19:11:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw7Qvzo9Hhvmhob8pZ4AaABAg.9vQAYR47MFi9vRqytZD-i9",
+        "author": "@Kangsteri",
+        "author_channel_id": "UC3_WprYVZXAxB0uI4duyKwg",
+        "text": "Look in to SJR Looper by Lasersaber. If you reverse the polarity of the capacitor in that, it will be blinking. It's basically the same circuit, but with 1 to 3 coil ratio. I think the size of the capacitor will determine the blinking speed.",
+        "likes": 0,
+        "published_at": "2023-10-04T10:49:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwukqk7h37gkUXEfZJ4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "Hi Robert, did you take the \"self charging car\" video down? I went to watch it again and can't find it on any of your channels?",
+    "likes": 0,
+    "published_at": "2023-10-03T19:07:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGRpYHojXVQ6Fb09t4AaABAg",
+    "author": "@simonexperiences",
+    "author_channel_id": "UCU6ga7uFadTuY4bWC7XKj6Q",
+    "text": "how to determine the output desired voltage?\nis there any limits of power (watts) input (ex: 12v 100A car battery) ?\nusable as a car starter booster?\ncan we control a bldc with a joule-thief and its frequencies?",
+    "likes": 0,
+    "published_at": "2023-10-03T18:25:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwkoNWhtENJJVH43UR4AaABAg",
+    "author": "@In.Darkness",
+    "author_channel_id": "UCHl4vbshqyIDM_bwhPCTOrw",
+    "text": "As the best jewel theif, I love when Sir Robert Murray-Smith does different kinds of joule thief videos. Brilliant!\nSo if you all see the lights go out at the royal palace, it is because I have stolen the Royal Joules !",
+    "likes": 6,
+    "published_at": "2023-10-03T17:44:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwkoNWhtENJJVH43UR4AaABAg.9vQ0_RZyfzg9vQOHFvsyq0",
+        "author": "@yasirrakhurrafat1142",
+        "author_channel_id": "UCNFChs80ceMb2L3iBoJpzvA",
+        "text": "Yoooo!",
+        "likes": 1,
+        "published_at": "2023-10-03T21:11:09Z"
+      },
+      {
+        "id": "UgwkoNWhtENJJVH43UR4AaABAg.9vQ0_RZyfzg9vRoelAAoXF",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "Lmfao",
+        "likes": 1,
+        "published_at": "2023-10-04T10:29:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzg5Rdc6T_L0f26GlN4AaABAg",
+    "author": "@sukmadink69",
+    "author_channel_id": "UCGXbl78TbF4OFMt7aIqQc0w",
+    "text": "All you need is any center tapped inductor with a saturable core. You need the saturable core for current limiting and also for RF suppression.",
+    "likes": 1,
+    "published_at": "2023-10-03T17:12:01Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzg5Rdc6T_L0f26GlN4AaABAg.9vPxuqayySW9vQBIbAJ4_M",
+        "author": "@DisorderedArray",
+        "author_channel_id": "UCnnEv-DcutOF-2Yu9FxEq-A",
+        "text": "What would happen if you used a ferrous core that allowed a higher magnetic flux?",
+        "likes": 0,
+        "published_at": "2023-10-03T19:17:44Z"
+      },
+      {
+        "id": "Ugzg5Rdc6T_L0f26GlN4AaABAg.9vPxuqayySW9vQG_6iQRhz",
+        "author": "@sukmadink69",
+        "author_channel_id": "UCGXbl78TbF4OFMt7aIqQc0w",
+        "text": "@DisorderedArray Ideally you want the LED to maintain the same brightness during the lifespan of the battery. The right core material (i.e. a nail) will give you that regulation effect.",
+        "likes": 1,
+        "published_at": "2023-10-03T20:03:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzMQ5gJ7oFhg9iTPel4AaABAg",
+    "author": "@mikebond6328",
+    "author_channel_id": "UCgjKdpfzqbGBSEHEVnDqmDg",
+    "text": "I have a drawer full of through hole colored band inductors that I use for joule thief circuits. Talk about easy.",
+    "likes": 3,
+    "published_at": "2023-10-03T17:11:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx630dXu2WvErbf52N4AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "cool",
+    "likes": 0,
+    "published_at": "2023-10-03T17:09:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwItTgqPofZnLqViAN4AaABAg",
+    "author": "@Kangsteri",
+    "author_channel_id": "UC3_WprYVZXAxB0uI4duyKwg",
+    "text": "If you are lazy, just use two SMD inductors ;D",
+    "likes": 8,
+    "published_at": "2023-10-03T17:05:05Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

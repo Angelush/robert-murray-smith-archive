@@ -1,0 +1,274 @@
+[00:00] foreign
+[00:07] generation and that's actually very true
+[00:10] because I find it a fascinating subject
+[00:12] but we don't do much but what to do with
+[00:15] it when it comes out here there's a
+[00:17] reason for that because what you do with
+[00:19] it actually is it's pretty much the same
+[00:20] thing but these things is this the
+[00:23] enormous variety of things to look at I
+[00:26] mean just in terms of the coils and the
+[00:28] magnet Arrangements also in terms of how
+[00:30] you build it how you deal with the flux
+[00:32] and when you think about it you've got
+[00:34] to get it to turn so how do you turn it
+[00:36] you can use wind and water wave pedal
+[00:40] cranks stick a sterling on it it's just
+[00:43] a ton of ways of getting that to turn
+[00:45] which are equally of great interest so
+[00:47] this bit is hugely interesting this bet
+[00:51] doesn't have that much to it and so I
+[00:54] tend not to concentrate on that because
+[00:57] I think the information is there and I
+[00:58] think it's easy to do and that's my bad
+[01:00] so I'm really sorry about that and I
+[01:02] thought I would look at what to do with
+[01:06] it when it comes out here
+[01:08] and generate the turns it is universally
+[01:11] busy when those coins are spinning in
+[01:15] those magnets they're an AC current we
+[01:17] need to do something with it to make it
+[01:20] to DC because mostly we use DC now some
+[01:24] Motors they have a commutator in there
+[01:26] and that will Rectify it for you it's
+[01:28] called mechanical rectification
+[01:30] rectification is changing that AC
+[01:33] waveform into the DC straight line
+[01:36] actually it's kind of like a ripple but
+[01:38] more or less the DC straight line that's
+[01:41] what rectification is now cognitator
+[01:44] will do that it's not actual DC it's
+[01:46] sudo DC it's quite a bit of Ripple in it
+[01:48] but it will do it for you an AC one you
+[01:52] get AC out
+[01:53] so when you get this what's coming out
+[01:56] of there is either a really poor quality
+[01:59] DC or AC now normally if you want to do
+[02:03] things like go charge a battery bank or
+[02:05] run DC piece of equipment or something
+[02:07] like that so what you do with it almost
+[02:10] straight away is you Rectify it you
+[02:13] Rectify it by sticking a diode in there
+[02:16] if it's single phase like this one then
+[02:18] you're going to use four diodes in an
+[02:20] arrangement called a rectifier and it's
+[02:23] three phases and you use six diodes in
+[02:25] an arrangement and that's called a
+[02:28] three-phase rectifier and you get a
+[02:30] single phase DC out of it once you've
+[02:33] done that rectification so the very
+[02:35] first thing you do with that is you
+[02:37] Rectify it if you get in DC out and you
+[02:40] don't care about the Ripple don't bother
+[02:41] but
+[02:42] you Rectify it so you're getting DC out
+[02:45] because mostly we want to use DC oddly
+[02:49] enough
+[02:50] even if you want to use AC the chances
+[02:53] are you're Rectify it and then invert it
+[02:56] which is the opposite of rectification
+[02:58] into AC to use it because this when it's
+[03:02] been spun by the wind the voltage here
+[03:05] is absolutely all over the place it just
+[03:07] goes all over and that's only because
+[03:09] wind obviously or whatever you're using
+[03:12] is non-regular and so this turns it into
+[03:15] regular speed and so the voltage coming
+[03:17] out is very irregular and none of the
+[03:20] equipment that we like will take
+[03:23] irregular voltages like that so what you
+[03:25] want to do then with it is regular the
+[03:28] voltage so the first thing Rectify it
+[03:31] second thing regulate the voltage I'm
+[03:34] thinking about it I thought I'd slivered
+[03:36] in there so to speak what people often
+[03:39] do is smooth because if you don't like
+[03:42] that Ripple you can smooth it out and
+[03:44] you do that by sticking a capacitor in
+[03:46] there now voltage regulator can be
+[03:49] electronic and as simple as a iode and a
+[03:51] resistor in series or it can be
+[03:53] electromechanical using a solenoid and a
+[03:56] capacitor for the output whatever it is
+[03:58] voltage regulation it does what it says
+[04:01] on the tin it keeps the voltage at a
+[04:04] fixed level using bands but it keeps it
+[04:06] at a fixed level and it can either do it
+[04:09] electronically or mechanically
+[04:11] once you stick a battery on this you've
+[04:13] got a whole new ballpark that you've
+[04:15] just entered because remember Motors and
+[04:18] generators are the same thing so if you
+[04:21] stick this up in the air with a wind
+[04:23] turbine on it and connect that straight
+[04:24] to a battery the window's blowing sure
+[04:26] enough it will start to charge the
+[04:28] battery the problem arises when the wind
+[04:31] stops blowing it'll pass the current
+[04:33] Stratton back to it and it'll suddenly
+[04:35] act like a motor so your neighbor's flag
+[04:37] will be hanging literally in your twin
+[04:40] turbine will be mysteriously going like
+[04:42] crazy in the reverse Direction so you
+[04:44] just can't connect these up straight to
+[04:47] a battery you need to put them through
+[04:49] something and of course what you put
+[04:51] them through is a charge controller
+[04:54] charge controllers can be got from
+[04:57] Amazon for something like oh no 11
+[04:59] pounds to hundreds of pounds the price
+[05:02] depends and it depends on what this is
+[05:06] going to produce if you're not producing
+[05:09] many amps that are not a very high
+[05:10] voltage in its mass production then your
+[05:13] charge controller is going to be made
+[05:15] out of cheap electronics that can handle
+[05:16] that and you're going to pay a level
+[05:17] quick for it
+[05:18] for it if you're producing
+[05:20] drum this then you need some heavy
+[05:23] heavy to cause that heavy duty
+[05:24] Electronics comes with a price tag but
+[05:28] you need a charge controller I like the
+[05:31] phrase charge controller because it
+[05:33] seems to say something it seems it must
+[05:36] be mysterious and complicated but
+[05:38] actually it isn't I mean it's really
+[05:39] quite simple stuff it does exactly what
+[05:42] we've just discussed and one extra thing
+[05:45] all it is is when your battery is full
+[05:48] turn it off when this is going too
+[05:50] quickly and there's too much coming out
+[05:52] you don't want to damage your battery as
+[05:54] well turn it off when your battery drops
+[05:56] below a certain level turn it on when
+[05:58] this is producing something turn it on
+[06:01] so a charge controller is very little
+[06:03] more than a couple of sensors and some
+[06:04] switches
+[06:05] when I say sensors what you're sensing
+[06:07] is voltage level now of course voltage
+[06:09] level can be done electronically or it
+[06:11] can be done organically if you have a
+[06:14] solenoid and the solenoid is at 12 volts
+[06:16] that's when you're putting enough power
+[06:17] to activate the magnet to pull against
+[06:19] the spring and that spring can operate a
+[06:21] switch so it really is in essence super
+[06:25] easy that's what a charge controller
+[06:27] does all it does is if this stats
+[06:30] produce something it turns on if it
+[06:32] produces too much it turns off actually
+[06:34] with wind turbans it a direction to or
+[06:37] something called The Dump load it's
+[06:38] usually a resistor like a heating
+[06:40] element or some light bulbs or something
+[06:41] like that but too much turn it off
+[06:44] sometimes they turn it into a resistor
+[06:47] so that it connects as a break when it's
+[06:50] charging the battery which is your other
+[06:52] side of it of course if your battery is
+[06:53] not charged you want it to charge so
+[06:55] turn it on if the battery is charged you
+[06:58] don't want to overcharge it so turn it
+[07:01] off that's actually all we do and of
+[07:03] course switches are what computers are
+[07:06] good at computers are brilliant at
+[07:09] switching things they're brilliant at
+[07:11] taking some sense input like a level of
+[07:14] voltage and acting on that by turning
+[07:17] off or on a switch and then do it very
+[07:19] quickly but they do it quickly and they
+[07:22] can be programmed to do it and so it can
+[07:24] get stunningly complicated and there are
+[07:28] two main methods of recognizing or other
+[07:32] acting on that turn it off turn it on
+[07:34] regime one called pwm which is pulse
+[07:38] switch modulation and the other nppt
+[07:41] which is maximum PowerPoint tracking
+[07:43] maximum PowerPoint tracking is a
+[07:46] function of your charge controller not a
+[07:49] function of your solar cell or wind
+[07:51] turbine it's really to do with how it
+[07:54] turns it off and on
+[07:56] now pwm has been with us for decades and
+[07:59] you can implement it with little more
+[08:01] than the timing circuit and a bit of
+[08:03] silicon so like an igbt or a transistor
+[08:06] rated at the power timing circuit is
+[08:09] exactly what it says it can be something
+[08:10] like a 555 maybe or a clock with a
+[08:12] button on it but that's pretty much all
+[08:14] there is to pwm and so of course it's a
+[08:16] very cheap option
+[08:18] npbt aims at following the point in the
+[08:22] graph of the battery discharge that's
+[08:24] called the maximum PowerPoint and it
+[08:26] does that by sensing voltage and current
+[08:28] of course there's an awful lot more
+[08:30] logic and design involved in that and a
+[08:33] lot more electronics and so it tends to
+[08:35] be very much more expensive now the big
+[08:38] claim is that mppt is much more
+[08:42] efficient than pwm and yeah maybe it is
+[08:45] but I always match efficiency against me
+[08:47] how much I'm paying for it it's like you
+[08:49] like efficiency per dollar because if
+[08:51] you're getting half a percent but it
+[08:53] costs you a thousand dollars well you
+[08:54] can keep it but you need to look at the
+[08:57] price of this thing and whether you're
+[08:58] getting what you're paying for as to
+[09:01] whether pwm or mppt is going to be what
+[09:05] you're looking for now you're getting an
+[09:06] awful lot of gurus who tell you mppt all
+[09:10] the way otherwise you're wasting your
+[09:11] money it depends how much you're paying
+[09:14] and what efficiency Advantage you're
+[09:16] actually getting for implementing mppt
+[09:19] as to whether it's worth it or not so
+[09:21] don't just do away with pwm
+[09:24] or get too carried away with the
+[09:26] differences between PW and FM and mppt
+[09:29] both of them do exactly the same thing
+[09:32] pwm follows the voltage of the battery
+[09:35] on the voltage curve and mppt follows
+[09:39] the PowerPoint of the battery on the
+[09:42] battery curve but they both do exactly
+[09:45] the same thing that is switching things
+[09:48] off and on it's just the logic of when
+[09:51] they switch differs
+[09:53] uh pwm is something that you can make
+[09:56] yourself actually from a few components
+[09:59] and PPT is uh well you need a bit of
+[10:01] programming there so chances are you're
+[10:03] not going to do it but a charge
+[10:06] controller can be bought as a box online
+[10:10] and if you look at the back of the box
+[10:12] there'll be a red and a black screw
+[10:14] terminal which is where they go and on
+[10:16] the front of the Box there'll be another
+[10:18] screw terminal which is where your
+[10:20] batteries go so it's a bit like plugging
+[10:22] in a kettle if you buy one the only one
+[10:25] thing you need to decide on with it
+[10:27] really is what's the power output of
+[10:29] this what's the power of your battery
+[10:31] Bank what kind of of a charge over
+[10:34] discharge lightning protection comes
+[10:36] with the little box that you think is
+[10:39] going to be of interest to you but the
+[10:42] installation of it consists of screwing
+[10:44] these wires into the back of the box and
+[10:46] your battery wires into the front of the
+[10:48] Box there'll be another set that go to
+[10:50] your inverter that's it that's all there
+[10:53] is to what to do with this you want to
+[10:55] say the electricity comes out of here
+[10:58] which is exactly why I actually don't do
+[11:01] that much on it but I thought I would
+[11:03] cover those ideas I hope it's it was of
+[11:05] interest thank you very much for
+[11:07] watching and please do remember to like
+[11:09] subscribe and click the Bell
+[11:10] notifications

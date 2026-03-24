@@ -1,0 +1,131 @@
+[00:05] hi so this is the second video and
+[00:07] looking at these things which are
+[00:08] brushless motors scavenged from hard
+[00:10] drives now the last time we looked at
+[00:12] this what we did was put in a sine wave
+[00:14] and drove it with a sine wave a
+[00:16] capacitor and the alternative there
+[00:18] would be to drive it from the inherent
+[00:20] wave on your household Supply through a
+[00:21] Transformer but this time we're going to
+[00:23] get a bit more control over it by using
+[00:25] some readily available Electronics then
+[00:29] it astonishes me truly at the price of
+[00:31] these things I bought this on the web
+[00:34] and it cost me I think £350 it's A40 o
+[00:37] Supply that's just ridiculous now it's
+[00:40] pretty self-explanatory in a piece of
+[00:42] cake to wire up these three leads which
+[00:44] are blue in this case they can be
+[00:45] different colors but it really doesn't
+[00:47] matter these three leads connect to the
+[00:49] three prongs on your motor and it
+[00:51] doesn't matter which order you put them
+[00:53] in one way will spend the motor one way
+[00:56] and once you find which way it spins you
+[00:57] take the two out of legs and swap them
+[00:59] over and reverse the rotation of speed
+[01:01] promotor so pie of EG you wire those up
+[01:04] to that now the other side what you've
+[01:06] got is a red black wire and obviously
+[01:09] one's power the red one one's neutral
+[01:11] the black one easy stick it into a power
+[01:13] supply connect it to a battery but
+[01:16] here's your problem it's only a tiny
+[01:18] problem this wire is the signal wire
+[01:21] it's what's meant to be take the signal
+[01:23] from the controller your radio
+[01:24] controller and feed it into your speed
+[01:26] controller because we don't have a radio
+[01:28] controller don't spend a couple hundred
+[01:30] quid on one so it has to be another
+[01:32] solution and thankfully there is and
+[01:34] here is another little piece this you
+[01:37] can get this as low as a pound if you
+[01:39] want to order it from China I paid £230
+[01:41] to get it quickly from the UK but it's
+[01:44] an astonishing little thing really when
+[01:46] you given how much it costs it's called
+[01:48] a ccpm Servo consistency meter it's
+[01:51] meant as a tester you're meant to test
+[01:53] your motor with it before you put it
+[01:54] into your model but what it is in fact
+[01:57] is a signal generator so it will
+[01:59] generate the signal that's required to
+[02:01] drive this motor controller and it does
+[02:05] it by taking the power from here through
+[02:08] the black and red wire and send the
+[02:10] signal back down through the white wire
+[02:11] and there three prongs here on through
+[02:13] these devices and you literally make
+[02:15] sure you get white to the top shove it
+[02:17] in one of
+[02:18] these this side is meant to go to the
+[02:21] radio controller but it's completely
+[02:23] unnecessary and if you connect it up
+[02:25] like that and then connect that to your
+[02:27] motor and that to your power supply
+[02:29] you're done and here we have one
+[02:31] connected up just as we
+[02:33] said that's the motor there's the speed
+[02:35] control and the motor controller and
+[02:37] there's the signal generator and if all
+[02:39] I do is twiddle that
+[02:40] Knob Off the motor goes turn the knob
+[02:44] higher the motor goes
+[02:50] faster that's very cool and then we turn
+[02:53] it
+[02:54] down now this little device comes with
+[02:56] three modes so if I press that button
+[02:58] there and put it a what to there they
+[03:00] call neutral mode it just spins the
+[03:02] motor at set speed forever more there's
+[03:05] another mode available um they call the
+[03:08] auto mode it's meant for testing servos
+[03:11] so it it wipes the servo backwards and
+[03:13] forwards not really appropriate for what
+[03:15] we're doing so we'll put it back to the
+[03:17] speed controller and turn the motor
+[03:22] up so there you go very
+[03:25] cool so for something that would cost
+[03:27] you probably about £4 and is really just
+[03:30] a plug andplay bit of Kit you can drive
+[03:33] those Motors really quite successfully
+[03:35] there is one thing to bear in mind I've
+[03:37] got the volage supply here set at 8 Vols
+[03:40] now this will take a hell of a lot more
+[03:42] than that I think it takes up to about
+[03:43] 24 volts I'm not sure I'd have to check
+[03:45] but it takes a lot more than 8 volts and
+[03:47] this thing however doesn't so I did
+[03:50] first off try it at 12 VT and what would
+[03:52] happen is this would get too hot and
+[03:54] stop sending the signal out so the motor
+[03:56] would stop I put it down to 6 Vols and
+[03:58] it wasn't enough to power the motor but
+[04:00] it was enough to power the this device
+[04:02] here so there's a disparity between two
+[04:05] bits of Kit now what I probably do is
+[04:08] feed a five or 6 volt in here because at
+[04:10] this side we've got a power um line and
+[04:13] neutral line so I put the power in on
+[04:14] that side to power that disconnect the
+[04:16] power from this side I just need the
+[04:18] signal wire connected so I can power
+[04:20] this to what I I want it to be this I
+[04:22] restrict the voltage at say 6 Vols and
+[04:25] then it'll send me a signal down to my
+[04:27] motor controller and I can put as much
+[04:28] power through that control controllers
+[04:30] that controller will take I said it's a
+[04:31] 4M controller so it don't take quite a
+[04:33] lot anyway I thought that was one of the
+[04:36] simplest ways of doing it if you just
+[04:38] want to wire things together or clip
+[04:39] things together for next nothing four
+[04:41] quid what's that there you go the kit is
+[04:43] actually rally available for you on eBay
+[04:47] amazing really
+[05:05] anyway there you go I hope you enjoyed
+[05:07] that and thank you very much for
+[05:09] watching

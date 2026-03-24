@@ -1,0 +1,265 @@
+[00:02] [Music]
+[00:15] hi so i've been asked a couple of times
+[00:17] actually to look at the bedini ssg the
+[00:19] simple schoolgirl
+[00:20] motor and i thought i wanted to do
+[00:22] because it's actually kind of
+[00:23] interesting
+[00:24] but immediately you look at this kind of
+[00:27] thing and it is a
+[00:28] voltage boost oscillator that's what it
+[00:30] basically is
+[00:32] and because we know another voltage
+[00:33] boost oscillator which is really really
+[00:35] famous and that's the dual thief
+[00:37] now the dual thief i think sort of
+[00:39] started its life about 1999 from
+[00:42] practical everyday electronics it was
+[00:44] some guy
+[00:45] uh zapanic i think his name was who
+[00:48] published this article
+[00:50] and it caught everybody's our
+[00:51] imagination and just a ton of videos
+[00:54] about
+[00:55] jewel thieves and how to make them and
+[00:57] loads of loads of replications
+[00:59] now i like to go back to the basics of
+[01:01] things to get the building blocks of
+[01:03] what it actually is and then
+[01:05] build something from those building
+[01:06] blocks to my mind it means you
+[01:08] understand them better
+[01:10] now the um dual thief like i say
+[01:13] came out then but it has a history like
+[01:15] all of these things have a history
+[01:17] now the first patent i could find was a
+[01:19] 1930s patent for a self-oscillating
+[01:22] voltage boost converter
+[01:24] based on vacuum tubes there's actually a
+[01:26] really interesting one and i noted it
+[01:28] down because it was so interesting
+[01:30] it's a very low voltage version of it
+[01:32] which was uh us patent number 473
+[01:35] 4658 that's supposed to go down below a
+[01:38] dual thief and it was
+[01:40] invented for um thermoelectric
+[01:42] applications probably well worth looking
+[01:43] at that i probably will
+[01:45] at some stage or other because you can
+[01:47] use that and even lower voltages then
+[01:49] you can use the dual theme
+[01:51] now the dual thief like i say is just a
+[01:53] self-oscillating voltage converter you
+[01:56] see those actually in flash cameras
+[01:58] remember the old flash camera used to
+[02:00] get the disposable ones
+[02:01] they have a voltage boost
+[02:03] self-oscillating voltage boost converter
+[02:05] right there
+[02:06] in the button where you press for the
+[02:08] flash now
+[02:09] the way they work is to use a couple of
+[02:12] coils around a core
+[02:14] use one of the coils to activate a
+[02:16] transistor and hard on hard off
+[02:18] and it collapses the secondary coil
+[02:21] creating a high voltage spike
+[02:23] now it does it at quite a high frequency
+[02:27] so because it's quite a high frequency
+[02:30] it's better to use a ferrite core
+[02:32] because ferrite cores are meant for high
+[02:34] frequency when you're building something
+[02:36] like this now traditionally what they
+[02:38] use is a toroid but
+[02:40] i don't think it really matters i think
+[02:41] you can use anything at all
+[02:43] now i've got a ferrite rod here that i
+[02:46] got from an antenna
+[02:47] a radio so that's one of the things that
+[02:50] i'm going to try
+[02:51] but equally it shouldn't really matter
+[02:54] that much
+[02:55] as long as you've got a core that's
+[02:58] going to carry that it should perform to
+[03:00] some degree
+[03:01] this will probably make it perform
+[03:03] better but i've also got some
+[03:06] steel laminations that are pulled from a
+[03:08] microwave oven transformer and i'm going
+[03:10] to use that because that should work as
+[03:11] well
+[03:12] perhaps not as efficiently as that but
+[03:14] it should work as well
+[03:16] now i've got a commercial version here
+[03:18] and i'm going to give you a close-up of
+[03:19] that commercial version
+[03:21] so here's the little thing that i
+[03:23] actually bought and you can see it's
+[03:25] lovely little board and in and
+[03:26] out there's my biphylla toroid right
+[03:30] there so that's the thing that's going
+[03:31] to create the oscillation
+[03:33] so and here we have the little hard on
+[03:35] hard off transistor
+[03:36] they tend to be things like a 2n222
+[03:40] oh not sure if that's too many or enough
+[03:42] twos but it's quite a lot
+[03:44] and a little resistor there now the
+[03:46] circuit actually looks like this
+[03:52] diode that you saw there in d1 is what
+[03:54] zapanic actually did he replaced that
+[03:56] diode with an led and suddenly
+[03:59] light now that is what we're going to
+[04:02] create because
+[04:03] functionally each of these components
+[04:05] perform a job and we should be able to
+[04:07] replace those components with
+[04:09] other components that do the same
+[04:10] functional job and that's exactly what
+[04:12] we're going to do we're going to use
+[04:14] those two
+[04:15] now we don't have to go two bananas
+[04:17] about it 20 to 100 turns is going to be
+[04:20] more than enough to be able to do this
+[04:22] you can see
+[04:23] there it's got about 20 turns on it now
+[04:26] the wire size
+[04:27] wire size is not really going to matter
+[04:29] that much to be honest to the thicker
+[04:31] the wire the lower the resistance the
+[04:33] um thicker it is the less turns you can
+[04:35] get on for a fixed volume so the
+[04:37] lower the magnetic field is he going to
+[04:39] create so some kind of balance is going
+[04:41] to be good enough between those
+[04:43] anyway let's wind these so making bifire
+[04:46] coils actually on a straight rod is an
+[04:47] absolute piece of cake i have one
+[04:49] toroids and they're a bit of a pain
+[04:51] but all i do actually is just measure
+[04:53] out roughly three meters of this stuff
+[05:04] fold it in half
+[05:21] any more than about three meters it gets
+[05:22] so tangled you can't control it
+[05:25] now i've taken the metal core of this
+[05:27] laminated metal core put a bit of
+[05:28] plastic tape around it just to protect
+[05:30] the wire from chafing
+[05:32] and then all you do is wind it until
+[05:35] you've found yourself a bifinder coil
+[05:37] then snip that end and you'll have two
+[05:39] coils so there's our little dual thief
+[05:41] wired up on this ferrite rod and if i
+[05:43] collect the negative
+[05:44] ta-da little three volt led lights up
+[05:47] off a
+[05:48] one and a half volt battery interesting
+[05:50] thing about these actually because the
+[05:51] polarity of this does matter which you
+[05:53] can get from the
+[05:54] um circuit diagram with the dots the
+[05:56] dots indicate polarity
+[05:58] but when you want a coil where you do
+[06:00] two wires like that
+[06:01] then the same ends of the coil are
+[06:03] actually the same polarity
+[06:05] so both of these would be dotted and in
+[06:07] that one you connect that one to that
+[06:09] one
+[06:10] really easy to remember as long as you
+[06:11] remember the polarity is the same
+[06:13] on a bifida wound coil at the end of the
+[06:16] coil as you want it
+[06:17] so really easy anyway there's the
+[06:19] ferrite rod one working
+[06:21] fantastic and we did a random number of
+[06:23] turns
+[06:24] and it's not on a torrid and it works as
+[06:27] you would expect it to work i mean it's
+[06:28] perhaps not the most efficient we don't
+[06:30] really know
+[06:31] but it certainly works
+[06:34] and here's exactly the same jewel thief
+[06:36] only this time i've removed the ferrite
+[06:38] core on every plastic by the laminated
+[06:40] steel
+[06:40] core which is right there and if i
+[06:42] connect the battery
+[06:44] the led lights up okay so the moral of
+[06:47] this story
+[06:48] really is that um it really doesn't
+[06:50] matter that much
+[06:51] lots of these things don't matter that
+[06:53] much i mean sure
+[06:54] that's likely unlikely to be the most
+[06:56] efficient dual thief that you could make
+[06:58] and we know that from the patents okay
+[07:01] different selections of transistors can
+[07:03] have different effects and so on and so
+[07:05] on
+[07:06] but in logical terms you should be able
+[07:09] to reproduce something
+[07:10] with hardly any constraints at all i
+[07:13] mean we use two different
+[07:14] widely different actually materials to
+[07:17] make the core
+[07:18] both worked we made no effort to select
+[07:20] the wire we made no effort particularly
+[07:23] i just put three meters on there
+[07:25] and it works as it should do these
+[07:27] things in their logic should work
+[07:30] however rough the implementation i mean
+[07:33] if you want to make an electric motor
+[07:34] it's a stunningly simple thing to do and
+[07:37] if you look at faraday's first electric
+[07:38] motor
+[07:39] it was brutal i mean it was a bit of
+[07:41] wiring some mercury that span around
+[07:44] you should be able to get the logic
+[07:45] implemented in
+[07:47] lots and lots of different ways if you
+[07:49] can't
+[07:50] to chances are it's a load of rubbish if
+[07:53] you
+[07:53] can the chances are you're onto
+[07:56] something
+[07:57] so these voltage spike oscillators
+[07:59] because that's exactly what it is
+[08:01] it self oscillates when the field
+[08:03] collapses it induces an emf which is a
+[08:05] higher voltage
+[08:06] obviously a lower current but a higher
+[08:09] voltage and that's why we're able to
+[08:11] drive this 3.2 volt led from a 1.5 volt
+[08:14] battery supply because that voltage in
+[08:16] there
+[08:17] is spiking high as the field collapses
+[08:20] because it's self oscillating of course
+[08:22] that frequency
+[08:23] is actually quite high that's why the
+[08:24] ferrite's better actually than the steel
+[08:27] but it still should work with steel and
+[08:29] of course it does work with steel
+[08:31] and we've probably put a nail in there
+[08:33] and still get it to work
+[08:34] so number of turns anywhere between 20
+[08:37] and 100
+[08:38] thickness of wire whatever you've got
+[08:40] core material
+[08:42] anything that you can use as a solenoid
+[08:44] and you should be able to get that thing
+[08:46] to work
+[08:47] the really difficult thing actually is
+[08:48] remembering the polarity but like i say
+[08:51] the polarity of a bifida coil like this
+[08:54] is the two ends are the same polarity
+[08:57] and so you wire it up according to that
+[08:58] dot convention anyway i thought i'd
+[09:00] share those thoughts with you and build
+[09:02] a couple of uh
+[09:03] quick and easy um jewel thieves and
+[09:06] hopefully you'll find dual thief
+[09:07] building to be an awful lot easier than
+[09:10] it has been
+[09:10] so i hope you enjoyed the video and
+[09:12] thank you very much for watching

@@ -1,0 +1,138 @@
+[00:00] [Music]
+[00:08] So, this is a model of the Torsson
+[00:10] differential that we made in video 2309.
+[00:14] Now, differentials are one of those
+[00:16] things you run into every day because
+[00:17] you find them in cars. And what they do
+[00:19] in vehicles is they allow the two rear
+[00:22] wheels to move at different speeds
+[00:24] relative to each other from a single
+[00:27] input shaft. That's why when you turn
+[00:28] corners, you don't get the back drifting
+[00:31] out because the wheels are able to turn
+[00:32] at different speeds. But differentials
+[00:35] don't only do that. They're actually
+[00:37] really important for either combining
+[00:40] power or splitting power. So, we have a
+[00:43] single axle coming in. It can split the
+[00:45] power, but it can also combine that
+[00:47] power to a single axle output. And so,
+[00:49] in things like dual rotor wind turbines,
+[00:52] they're becoming very popular as well.
+[00:54] So differentials have a whole host of
+[00:58] different designs. This one's considered
+[01:00] to be one of the better quality ones.
+[01:03] It's a top piece of engineering, but it
+[01:06] is somewhat complicated as you can see.
+[01:09] Now, it relies on the central portion
+[01:11] here, which is essentially a wormgeear.
+[01:14] Worm gears have a curious property. You
+[01:17] can't back drive them. That means you
+[01:19] can only drive them one way. If
+[01:21] something tries to come in the other
+[01:22] way, it just locks up. And this torsion
+[01:25] differential uses that to take advantage
+[01:28] of it to make a differential. But of
+[01:31] course, worm gears aren't the only gear
+[01:34] that will do something like that. This
+[01:37] is an Archimedian spiral. An Archimedian
+[01:40] spiral is where the ratio of the turns
+[01:41] is identical as it moves inside. We have
+[01:45] a closer look at it. We can see it's
+[01:46] just a spiral and there's a normal
+[01:48] spurgeear. The distance between this
+[01:50] spiral is the same as the size of that
+[01:52] tooth. And as that spiral moves around,
+[01:54] of course, what it does is engages with
+[01:57] the next gap there on the tooth. And
+[02:00] then we can move that around using that
+[02:03] spiral. Now, obviously, one turn of the
+[02:05] spiral means one tooth turn of this. So,
+[02:08] the gears do tend to be of high
+[02:11] reduction. Equally though, if we try to
+[02:13] turn the spur gear, we're not able to
+[02:16] turn the spiral because the tooth locks
+[02:19] against the spiral itself and so the
+[02:21] gear is unback drivable. So looking at
+[02:23] the torsson and realizing at the heart
+[02:25] of it is the non-back drivability of a
+[02:28] worm gear and having another gear
+[02:31] available that is also nonback drivable.
+[02:35] The question that springs to my mind is,
+[02:37] can we make a differential using
+[02:38] Archimedian spirals that mimics what a
+[02:42] torsen does, but with less parts and a
+[02:45] simpler construction? So, what I've done
+[02:48] is I've printed out two Archimedian
+[02:50] spears uh spheres. Spirals. There we go.
+[02:53] Two Archimedian spirals. One goes
+[02:56] clockwise, one goes anticlockwise. If we
+[02:59] put them face to face like that and have
+[03:02] a spurred gear between them, actually we
+[03:05] should pretty much get what we're
+[03:06] looking for. So, of course, I turned to
+[03:09] Tinkercad and drew up this. These files
+[03:12] will be available on Thingiverse as per
+[03:14] usual. And uh the link to them will be
+[03:17] in the description. Now, like that, I
+[03:19] think it looks relatively complex, but
+[03:22] it is a surprisingly small number of
+[03:24] parts. Okay, let's get those parts
+[03:27] printed off. First things first, let's
+[03:29] put the axles in. You can see that it's
+[03:31] short, long, short goes into the plate
+[03:35] there, reverse. So, it drives in that
+[03:37] way into the spiral plate. You've done
+[03:40] that. Then, this end piece drives on and
+[03:42] a clip goes on there. We do the same
+[03:45] with the gear one. And once we've done
+[03:46] that, they should be free to turn. Now,
+[03:49] we take these P shapes, and there should
+[03:51] be six of them. And you'll notice
+[03:52] there's six slots in there. They go into
+[03:54] the slots like that with the P facing
+[03:57] inward and we glue them in place. Once
+[04:00] we've done that, the spurgeears drop
+[04:02] into the P shape there engaging with the
+[04:04] Archimedes spiral. Drop a pin in and
+[04:08] then each pin gets a clip on the end. So
+[04:12] that it's like that. And when we turn
+[04:14] the Archimedes spiral, of course, that
+[04:16] spurgeear turns. And we repeat it with
+[04:18] those other two. When we've done that
+[04:20] and it's all working fine, this then
+[04:25] lines up and goes on there. And then
+[04:27] when you've got that together, it slides
+[04:29] in its frame like that. There are a
+[04:31] couple of caps that glue on there and
+[04:33] there, being careful to leave that to be
+[04:35] spin freely. And these are flanges where
+[04:38] wheels or other gears go on and they
+[04:41] glue onto those two axles there and
+[04:43] there. One thing I forgot to mention is
+[04:45] that these P shapes actually are
+[04:46] slightly longer at the non-geear end. So
+[04:50] the long side goes to the non-geear end
+[04:52] so you can identify them. When it's like
+[04:54] that, we take this bevel gear, drop it
+[04:56] in there, and then shove the axle
+[04:58] through and then the handle goes on. And
+[05:02] that's it, finished. Now then, of
+[05:03] course, we turn the handle and the whole
+[05:05] thing turns. But more importantly is
+[05:09] those two are able to turn in opposite
+[05:12] directions which means relative to each
+[05:14] other we've got ourselves a differential
+[05:17] and of course it's based on the
+[05:19] Archimedes spiral. And although I do
+[05:21] love the torsion differential the
+[05:23] Archimedes spiral differential
+[05:26] has the same properties of the torsion
+[05:29] but for far less parts. I've put three
+[05:32] in to help spread the torque. If you
+[05:34] don't think that's enough, well, put six
+[05:36] in. You can put as many of these in as
+[05:38] you like. Anyway, I hope you enjoyed the
+[05:40] video. Thank you very much for watching,
+[05:42] and please do remember to like and
+[05:44] subscribe.

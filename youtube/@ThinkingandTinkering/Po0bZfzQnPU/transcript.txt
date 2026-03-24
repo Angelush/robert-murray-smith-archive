@@ -1,0 +1,273 @@
+[00:00] [Music]
+[00:08] So, having a bit of a look at friction
+[00:10] drives and so far we've made this one is
+[00:12] pretty straightforward. And what I've
+[00:14] been going on a lot about is the force
+[00:16] at the normal. And the normal is
+[00:20] basically a straight line that touches
+[00:22] the wheel. Imagine it's the road and the
+[00:25] car is sitting there. that where the car
+[00:27] wheel touches the road at 90 degrees to
+[00:30] that, that's the normal. So, here's our
+[00:33] wheel. The road is right here from the
+[00:35] center straight the way down 90°. That's
+[00:38] the normal. And that's where we need to
+[00:40] apply the force in order to make a
+[00:42] friction drive work. And I've been
+[00:44] banging on about that because it's
+[00:46] important. Now, of course, we don't only
+[00:48] use wheels, which are basically
+[00:51] cylinders. We can use spheres. This is a
+[00:55] ping pong ball. And yes, it's what I'm
+[00:57] going to use. But where is the normal on
+[01:00] a pingpong ball? Now, you can imagine it
+[01:03] just like a cylinder if you think of it
+[01:04] flattened out. And if we sit on the
+[01:06] road, of course, then straight the way
+[01:08] down in that line just like a wheel is
+[01:12] the normal. Now, the line that it
+[01:15] touches, if you like, the road that the
+[01:17] wheel is sitting on is called the
+[01:19] tangent. And 90° to the tangent is the
+[01:23] normal. If we can keep those ideas in
+[01:25] our heads, it becomes much much easier
+[01:27] because let's look at the wheel on the
+[01:29] side that way where it's touching the
+[01:31] road and we have the normal force
+[01:32] applied here. Dead easy to visualize.
+[01:35] But it's the same if I do that. Now the
+[01:40] road is like it's tilted like going down
+[01:41] a hill or up a hill and it's at an
+[01:44] angle. It's still a tangent. Normal is
+[01:48] 90° to the tangent and it comes through
+[01:50] here. So if we have a sphere and the
+[01:53] sphere is rubbing where my thumb is, the
+[01:55] force has to be applied at an angle
+[01:58] where my finger is. If we can do that,
+[02:01] we can also rotate the ball in any
+[02:03] direction we want and have a friction
+[02:06] drive that can wobble about and that can
+[02:09] be extraordinarily useful. In order to
+[02:11] do that, of course, we need something
+[02:13] for the ball to run in. What it needs to
+[02:15] run in is a raceway, right? We're
+[02:18] actually in Tinkercad. Not for any
+[02:20] particular reason. I just thought it'd
+[02:22] be nice to do in Tinkercad for a change.
+[02:24] But we can do exactly the same thing in
+[02:26] Frecad because in both Tinkercad and
+[02:28] Frecad, there's a primitive available
+[02:30] called Taurus. If we pull Taurus onto
+[02:33] the workbench, we'll get some sliders
+[02:35] that we can actually adjust to create
+[02:37] the Taurus that we want. If we move the
+[02:39] side so it's maximum and the steps so
+[02:41] it's maximum, we'll get a nice smooth
+[02:43] Taurus. Now, this is the radius of the
+[02:47] Taurus cube. We want it to be 40 because
+[02:50] our ping pong ball, there you go, is 40x
+[02:53] 40x 40. So, we make the radius of the
+[02:56] tube 20. That'll make the diameter of
+[02:59] the tube 40. Now, it goes a little
+[03:02] bananas because the radius of the actual
+[03:04] Taurus is at 7.5. We want it at 40. We
+[03:09] want it at 40 because now we've got 40 +
+[03:11] 40 + 40 making 120 across and that will
+[03:16] fit our pingpong ball really rather
+[03:18] nicely. If we highlight the Taurus and
+[03:21] make it a hole, we can use that as a
+[03:23] subtraction event. Again, in Frecad
+[03:25] you'd do exactly the same thing only a
+[03:28] boolean operation would be subtract. Now
+[03:30] we get a cylinder. We want to make our
+[03:33] cylinder 120 by 120. So first of all,
+[03:36] let's smooth our cylinder out. There we
+[03:39] go. Make it 120 by 120. And it is
+[03:43] already 20 high, which is of course half
+[03:46] the height of our pingpong ball. So
+[03:48] fine. Now center them to each other.
+[03:55] And then merge them. And what we get is
+[03:58] our raceway. Of course, we've got this
+[04:01] section here, but we can use that
+[04:03] section as a top section. What we need
+[04:05] to remove at the moment is that section.
+[04:08] So we can get another cylinder. We can
+[04:10] smooth that cylinder. Let's say 80 by
+[04:14] 80. Again, center them and then merge
+[04:17] them. And there we go. We've got our
+[04:19] bottom raceway that this will sit in
+[04:21] rather nicely. Copy that. Get rid of the
+[04:24] outer ring by using merges. And you'll
+[04:26] get a sort of conic section that'll be
+[04:29] the top. Of course, we still need to
+[04:31] beef it out a little bit to size, but
+[04:33] that's only by joining cylinders. So,
+[04:35] the raceway is really easy to make. So,
+[04:39] I've beefed it up with some cylinders,
+[04:40] obviously. But there's our raceway right
+[04:43] there that our pingpong ball will fit
+[04:45] in. And that top cone that I isolated
+[04:47] goes on the top like that. So, they're
+[04:49] just pulled from the Taurus and the
+[04:51] cylinder put together with a few extra
+[04:54] cylinders to thicken everything up a
+[04:56] bit. Now, at the bottom here, you'll see
+[04:58] there's an indentation. And there's an
+[05:00] indentation because like on this, we're
+[05:03] going to put springs on it. If we put
+[05:05] springs on it and press everything down,
+[05:08] what's going to happen is it's going to
+[05:09] lock into place. So, what I've got are a
+[05:13] couple of thrust bearings. Now, these
+[05:14] are 11 mm x 47 mm 42 mm by um 25 mm.
+[05:21] They're just what I happen to have. You
+[05:23] can do anything with those. They fit
+[05:26] nicely in there. We've got a different
+[05:27] size thrust bearing. We'll change the
+[05:30] size of that hole. And that hole is just
+[05:32] a cylinder made into a hollow and then
+[05:35] merged with the conic section. I've also
+[05:38] put a hole in it to take an axle that
+[05:41] will drop into here. And then here we've
+[05:45] got another thrust bearing that sits in
+[05:48] there exactly the same size.
+[05:51] There we go. Like that to take the
+[05:53] thrust of the spring. So that thrust
+[05:56] only acts on the ball where we want it
+[05:59] to act because what we're missing at the
+[06:02] moment is a carrier. Okay, the carrier
+[06:04] itself is another one of those really
+[06:06] easy things to make. Let's get a
+[06:08] cylinder and let's make the sides nice
+[06:10] and smooth. Remember, we made this 80 by
+[06:13] 80. So to give it a little bit of
+[06:14] leeway, we'll make that 79 by 79. And
+[06:18] we're going to make it 40 high. So it'll
+[06:21] come a little bit above where that
+[06:23] pingpong ball actually is. Center it to
+[06:25] here so we can have a look at it. And
+[06:27] there you go. It's sitting quite nicely.
+[06:29] Now the first thing we need to do is
+[06:31] hollow out the inside. So let's get a
+[06:33] cylinder hollow. We actually need it
+[06:35] about 10 mm off the floor. And we're
+[06:38] going to need it something like well
+[06:40] this is basically 80 by 80. So let's
+[06:43] call this 70 by 70. And that will give
+[06:45] us a 5 mm wall all the way around. And
+[06:48] we can make it some height like 40. As
+[06:51] long as it's bigger than that cylinder,
+[06:52] it doesn't really matter. Merge them to
+[06:55] sorry, center them to each other and
+[06:57] then merge them. And what we get is a
+[06:59] hollow down carrier. Now, of course, we
+[07:01] want a space cut in it for these actual
+[07:05] balls. To do that, click on the
+[07:07] ping-pong ball. Click on the bottom bit
+[07:09] there. That ping pong ball goes right to
+[07:11] the edge here. So, it's contained within
+[07:14] the bottom of that uh cylinder there.
+[07:16] So, what we want to do is duplicate it
+[07:18] and then rotate it by 120°
+[07:22] because we want three of them.
+[07:25] Repeat that
+[07:28] and we get three in place. We've also
+[07:30] got three of these which we don't need.
+[07:32] So, let's get rid of two of them
+[07:35] leaving us with one. Now, this is 40x 40
+[07:39] and that's just a little bit um too
+[07:43] small. We need a bit of leeway. So, copy
+[07:45] one of these here.
+[07:49] Drag it to one side. Make it a hole. And
+[07:51] this time, make it 41
+[07:54] by 41
+[07:56] by 41. And we'll have half a millimeter
+[08:00] all the way around leeway once we center
+[08:02] it on that. So, duplicate it,
+[08:06] hold up the shift key, highlight that,
+[08:09] click the center button, and center it
+[08:11] to there.
+[08:13] So we centered it in three areas. Do
+[08:16] exactly the same thing. Now if we click
+[08:18] on that, we'll actually get the outside
+[08:20] one at 41. So hold down the shift key,
+[08:23] click on all three, click on the slide
+[08:26] guy, the center guide there, and then
+[08:28] merge them.
+[08:30] When we've done that, we can pull that
+[08:32] off and we have ourselves a carrier. To
+[08:35] that we can add the central cylinder
+[08:37] holes for the axle. So now we got our
+[08:40] bottom race where it's thrust bearing.
+[08:42] We've got our center guide equally has a
+[08:44] hole in it and it fits nicely in there.
+[08:46] The ping pong balls drop in. There we
+[08:48] go. And our top cone goes on there again
+[08:52] with another thrust bearing right on
+[08:55] there like that. So the whole thing
+[08:57] stacks up. And then there's this plate
+[08:58] that goes on top because that plate is
+[09:01] going to take the pressure of the
+[09:02] spring. So the spring pressure goes
+[09:04] down. The axle doesn't connect that
+[09:07] plate but does connect with the cone.
+[09:09] Oh, then we need an axle here out of the
+[09:11] planet carrier. Then we need a bit of
+[09:14] support in order to put this whole thing
+[09:16] together. The axles are right there.
+[09:19] We'll feed those in. And we have three
+[09:21] supports. And the three supports
+[09:23] basically bang into these three holes.
+[09:26] So there's our base unit with thrust
+[09:28] bearing in place. The other parts of the
+[09:29] thrust bearing just rest on top. There
+[09:32] is our carrier and it's now got its axle
+[09:35] glued in. The axle drops in there onto
+[09:38] the thrust bearing like that. So, it's
+[09:40] nice and easy to turn. Of course, our
+[09:42] ping pong balls then drop into there
+[09:44] like that. So, we've got our actual ping
+[09:46] pong balls in place. Then, this drops on
+[09:50] the top there. It has another thrust
+[09:52] bearing that goes in here like that. Our
+[09:56] pressure plate goes on top like that.
+[09:59] And then our spring goes around there
+[10:02] like that. Now, we need to compress that
+[10:04] spring. In order to compress that
+[10:06] spring, we have this plate here that
+[10:08] fits on there. And then we give a bit of
+[10:10] pressure on it to bring it down with
+[10:12] pressure on the spring. And that's it
+[10:15] all glued together. It's actually pretty
+[10:17] cool. Now, it works both ways. If I take
+[10:20] this and do this one turn, we get about
+[10:22] a quarter of a turn of the output. And
+[10:25] if I take that and make that the input,
+[10:28] then one turn of that will give us four
+[10:30] turns of that. The amount of torque it's
+[10:33] able to deliver, remember, is dependent
+[10:36] on the strength of that spring. Adding
+[10:38] more balls won't really help. And
+[10:40] changing the spring makes a difference,
+[10:43] but adding balls doesn't. So, there we
+[10:45] go. A pingpong ball frictionbased
+[10:48] planetary gear system that actually has
+[10:50] a quite reasonable instep up, step down,
+[10:54] depending which way you want to put it.
+[10:56] Now, these things are really easy to
+[10:58] build, and of course, that's one of the
+[11:00] thing about frictionbased systems.
+[11:02] They're easy and cheap to build. It's
+[11:04] clearly not very far from the CVT once
+[11:07] you get it to something like this. This
+[11:10] one, of course, I'll put onto
+[11:11] Thingiverse should anybody want these
+[11:13] files to play around with. But we've
+[11:16] gone through the sort of difficult bits
+[11:18] of how to draw this. So, I don't think
+[11:20] it would be too much of a challenge
+[11:22] should anybody feel like adapting it to
+[11:25] suit their own particular needs. Anyway,
+[11:27] I hope you enjoyed the video. Thank you
+[11:29] very much for watching and please do
+[11:31] remember to like and subscribe.

@@ -1,0 +1,458 @@
+[00:00] [Music]
+[00:08] so what we're going to do is we're going
+[00:09] to use Tinker can to make these gear
+[00:11] sets and we're only going to use three
+[00:13] Primitives that are already available in
+[00:15] Tinker can to do it we're going to make
+[00:17] a spur gear with a rack to go with it
+[00:20] then a helical gear and a helico rack
+[00:22] and then finally a hering bone Gear with
+[00:24] a herring bone rack although we will
+[00:26] cover helical bevel gears we're going to
+[00:28] use that to make this what this does it
+[00:31] takes rotary motion and changes it into
+[00:33] linear motion so the input is through
+[00:35] this cream gear here then it feeds
+[00:38] through the cream cam in the front which
+[00:40] operates that blue gear and that will
+[00:42] slide this backwards and forwards now
+[00:46] it's only really made of seven Parts the
+[00:48] first bit is the gear that wobbles
+[00:50] backwards and forwards then we have the
+[00:52] rack that does the in andout motion the
+[00:54] can that changes the rotary to the Rock
+[00:56] backwards and forwards there's a little
+[00:58] face flat there to hold the Rack in
+[01:00] place then a clip to hold the gears in
+[01:03] place and finally we have the actual
+[01:05] input gear and the base I will of course
+[01:08] make these parts available in
+[01:09] thingiverse for anybody who wants to
+[01:11] print it off you print those off put
+[01:14] them all together and this is what you
+[01:16] get now if I rotate that back gear then
+[01:19] that front gear wobbles backwards and
+[01:21] forwards pushing the rack backwards and
+[01:24] forwards so we start with the blank
+[01:26] workspace go to the here which is the
+[01:28] search shapes click that and type in
+[01:31] gear this will pull up all the gears
+[01:33] that's available to you in Tinker Cad
+[01:35] and we want this one which is so called
+[01:38] metric gear pull it onto the work plane
+[01:40] we'll make this a height of 4 mm and
+[01:42] you'll notice here we've got some things
+[01:44] we can change I absolutely hate that
+[01:46] color because you can't see it so we'll
+[01:48] change that color so that we've got a
+[01:50] nice cream color and here we can set the
+[01:52] teeth for no particular reason I'm going
+[01:54] to set that at 25 and here is the actual
+[01:57] tooth size which is default module one I
+[02:00] like module 2 because it's nice and
+[02:02] chunky and it means it's going to wear a
+[02:04] bit better once we've done that we can
+[02:05] close this and create a center hole to
+[02:08] take our axle so pull down a circular
+[02:11] hole set the S 64 so it's nice and
+[02:13] smooth and we're going to change that to
+[02:16] 6 mm so we've got a 6 mm hole to take an
+[02:19] axle highlight both of them and then use
+[02:22] the Align tool which is here to
+[02:25] highlight it to the center of the gear
+[02:27] once we've highlighted it to the center
+[02:29] of the gear we can then group them by
+[02:32] clicking the group button and we will
+[02:34] have created our spur gear let's put
+[02:36] that to one side what we need now is the
+[02:38] rack and that is actually a primitive
+[02:40] available so back to search shapes and
+[02:43] this time try Crema it's something weird
+[02:46] like Crema or something like that but
+[02:48] Crema pulls up that particular primitive
+[02:51] and we can drop that on the workspace
+[02:53] again we can rotate that
+[02:56] round and then drop it to the workspace
+[02:59] by pressing D and we have our rack
+[03:01] you'll notice here there's an awful lot
+[03:03] of things we can change in this case all
+[03:06] we really need to change is the module
+[03:08] to match the module of the gear that we
+[03:10] just made now if we realign that gear so
+[03:14] we twist it
+[03:15] round set it to D so it's on the plane
+[03:19] move it there and then we can align both
+[03:21] of those two by highlighting the two of
+[03:23] them and hitting the Align tool onto the
+[03:27] rack and we've created our spur gear
+[03:30] rack and pinion to create a helical gear
+[03:33] and a helical bevel gear let's just move
+[03:35] the spur gear out of the way for a
+[03:37] moment and go back to the search shapes
+[03:40] type in PR
+[03:43] gear and it will pull up what it calls
+[03:45] the pr gear drag and drop that onto the
+[03:48] workspace and you can see that we've got
+[03:49] an awful lot more things that we can
+[03:51] change we're only going to highlight a
+[03:53] couple of things at this time let's
+[03:55] change the teeth to 25 so that it's the
+[03:58] same that we have on the the number of
+[04:00] teeth on the spur gear and for a moment
+[04:02] I'm going to put the height to 10 so
+[04:05] that we can actually see something
+[04:06] interesting let's copy that by hitting
+[04:08] the copy key and move it out of the way
+[04:11] on this one if we go down here we'll see
+[04:15] we've got two angles bevel angle and
+[04:17] helical angle if we change bevel angle
+[04:19] to
+[04:22] 45 flip that over 180° and we can see
+[04:26] we've created ourselves a nice bevel
+[04:28] gear equal if we go down there and look
+[04:31] at helical angle and change that to
+[04:35] 30 then what we get is a helical bevel
+[04:38] gear let's just get rid of that because
+[04:40] we're looking at a helical spur gear
+[04:42] drag this back into its space there go
+[04:45] back down there and we've got helical
+[04:46] angle that will change to 30 and we'll
+[04:49] get a helical
+[04:52] gear now of course we want the rack to
+[04:55] match it so click on the rack and if you
+[04:57] have a look here then we've got an awful
+[04:59] lot of things that we can set here as
+[05:01] well
+[05:03] including what it calls inclino clearly
+[05:06] this was written by somebody in Spain
+[05:08] and if we change that to
+[05:14] 30° what we get is a matching rack that
+[05:17] will take that helical gear we then line
+[05:20] that up
+[05:35] zoom in on it we can see that we've got
+[05:37] a helical rack that matches with a
+[05:40] helical
+[05:41] gear to create a herring bone gear all
+[05:44] we really need to do is copy that and
+[05:46] mirror it so hit the copy key there and
+[05:49] then you'll see two triangles which are
+[05:51] the mirror key and it gives you the
+[05:53] direction you can mirror it we mirror it
+[05:55] in that direction if then we and grab
+[05:57] one of those and pull it out
+[06:01] then we need to place these two exactly
+[06:03] on each other to do that you take a work
+[06:06] plane and put the work plane onto the
+[06:09] face of one of the gears it'll create a
+[06:11] new work plane click on that and hit D
+[06:13] and it will drop it directly against the
+[06:16] one that we just did grab another work
+[06:19] plane and move it randomly somewhere
+[06:21] else and it will create the original
+[06:23] work plan now we just need to make sure
+[06:25] that those two are aligned to each other
+[06:27] so hit the Align key and then align them
+[06:31] and then just check the alignment now
+[06:33] all we need to do is highlight the two
+[06:35] of them and group them zoom in on it and
+[06:38] we can see we've got our Herring Bon
+[06:41] here we do exactly the same thing with
+[06:44] this one here just copy
+[06:49] it mirror
+[06:56] it move it out of the way the way
+[07:00] work
+[07:01] plane so it's on that surface there
+[07:04] click on that one hit D to drop it down
+[07:08] repeat the work plane into a random
+[07:10] space so we get that then we need to
+[07:13] align
+[07:16] it then we can highlight it and group
+[07:21] it and we have our Herring bun
+[07:25] rack okay that's it now what we're going
+[07:27] to do is create this there are clearly
+[07:30] lots of things to play around with and I
+[07:32] recommend you play around with them
+[07:34] because that's really how you learn and
+[07:36] we're just going to take this spur gear
+[07:38] rack and pinion to create this section
+[07:40] here and then the whole machine based
+[07:42] around that section there okay we're
+[07:45] basically back to the beginning with the
+[07:47] spur gear and rack that we made if we
+[07:49] click on the rack we can see number of
+[07:51] teeth is 10 that's the default setting
+[07:53] we want to change that to 14 it's also
+[07:56] 10 mm thick which again is the default
+[07:58] setting and wanted 4 mm stick so we can
+[08:02] click that and make that four now it's
+[08:04] line Point upwards which is not very
+[08:06] convenient so we swivel that round to 90
+[08:09] press D to drop it on the work plane and
+[08:11] we get our Rack in a convenient format
+[08:15] we need those two little holes at the
+[08:16] end that we're going to use to attach it
+[08:18] to other things later and for that just
+[08:21] take a circle smooth it out change that
+[08:24] to some reasonable size I'm going to
+[08:26] have a hole at 6 millim and so 12 gives
+[08:30] me plenty each side if I then click a
+[08:32] hole drag that smooth it change that to
+[08:36] six which is my B
+[08:39] size then I can align those
+[08:46] two and then by highlighting and
+[08:49] grouping them I get the whole shape that
+[08:51] I want if I copy that then I'll get two
+[08:55] of those that I can put either side of
+[08:58] my rack to create the connection points
+[09:01] that we saw if I highlight one side and
+[09:04] line that up then I can line it to the
+[09:06] center which is nicely lined there and
+[09:09] then just move it to a position I think
+[09:11] is appropriate by using the arrow key
+[09:14] notice the snap grid here is set at one
+[09:16] we can move that by any size you want
+[09:18] well these sizes actually so we can
+[09:20] change the size every time to press the
+[09:22] arrow key how much that will move it by
+[09:24] if we zoom in there then we can get a
+[09:27] good view of what it's actually doing
+[09:29] until we've moved it to some convenient
+[09:31] position if we then click back on here
+[09:33] and jump out again we can do exactly the
+[09:37] same thing to the other side now if we
+[09:39] highlight those two and group
+[09:44] them we get the little rack and pin the
+[09:47] little rack with two pins either side
+[09:49] that we can connect it to something
+[09:51] click home so we can see that and take
+[09:52] our spur gear now our spur gear needs a
+[09:55] slot cutting in it again it's
+[09:57] inconvenient like that so let's swivel
+[09:59] that round to 90 and press D to drop it
+[10:02] to the work
+[10:05] plane what we really need is a yoke and
+[10:08] the Yoke has to be a little bit bigger
+[10:09] than the pin of the cam that's going to
+[10:11] go through which will be six so if we
+[10:14] take that which is a cube and change
+[10:17] that to
+[10:18] 6.2 that gives it just a little bit of
+[10:20] leeway so that it can move in and out
+[10:23] using a pin at six we need to know how
+[10:27] long that's going to be the cam I'm
+[10:28] going to make has a circumference of 37
+[10:31] mm and I'm going to put rounded ends on
+[10:33] it and those rounded ends are going to
+[10:35] be made from this primitive here so if
+[10:38] we slide that primitive over we need to
+[10:40] reorient it so that it's standing up and
+[10:43] standing in the right direction so to
+[10:45] stand it up use this
+[10:50] one and then to reorient
+[10:53] it use this one
+[10:57] here and then we need that to be 6.2 or
+[11:02] to match 6.2 so
+[11:09] 6.2 and then the width to make it a
+[11:11] semicircle is
+[11:16] 3.1 now if we make that a hole then
+[11:19] we'll be able to create our hole now
+[11:20] this is 3.1 remember it'll have another
+[11:23] side at 3.1 we want 37 in total so this
+[11:27] needs to be 31
+[11:32] now we can zoom in on here because it's
+[11:34] all getting a bit too far away we zoom
+[11:37] in on here and we can copy
+[11:42] that mirror
+[11:45] it and then run to the right way around
+[11:48] we can drag it down to there to line
+[11:50] these two up we use the same trick that
+[11:52] we did before use the work
+[11:55] plane D key to drop that ship to that
+[11:58] workpl
+[12:03] plan again here we use a work
+[12:08] plan D key to drop that to the work
+[12:15] plan and then we can line these
+[12:22] up if we now merge
+[12:26] that we have ourselves a hollow cutout
+[12:29] we need to create an surround for this
+[12:31] hollow cutout and to do that we do
+[12:34] exactly the same thing but this time
+[12:36] with solid shapes remember it's only 4
+[12:38] mm
+[12:44] thick this we want to be 2 mm or 3 mm
+[12:49] either side so it's 6 mm we need that to
+[12:51] be 12
+[12:54] mm we then repeat this
+[13:17] when we've created these two sections we
+[13:19] can then align our cutout to
+[13:21] our
+[13:27] solid and then we're aligned we can
+[13:29] group
+[13:30] them and we get our cutout now we want
+[13:33] our cutout obviously to be in
+[13:46] here on
+[13:48] group and
+[13:53] regroup and there we go we've made a
+[13:55] little bit that's going to wobble around
+[13:57] now that bottom bit is where the bottom
+[14:00] pin of the cam will go so it can go
+[14:01] anywhere along there as long as it
+[14:02] doesn't get too close to this cuz
+[14:04] remember we're going to have an axle in
+[14:06] there so the bottom clip goes nicely in
+[14:09] there so that's two parts made let's
+[14:11] move them out of the way and to create
+[14:13] the cam it's pretty easy actually we get
+[14:16] a circle smooth it out we want it to be
+[14:18] 4 mm high and remember I said with a
+[14:21] diameter of 37 mm by 37
+[14:25] mm then we need a PIN so we grab another
+[14:28] Circle
+[14:30] smooth it out remember the pin was
+[14:36] 6x6 and with this is four high the pin's
+[14:39] got to go through that one there so the
+[14:42] pin needs to be at least eight high so
+[14:45] nine will stop its falling out really
+[14:48] line those two up by highlighting both
+[14:50] of them we want to line it to the center
+[14:52] and the edge so that we get the cam like
+[14:56] that now the cam needs just a little bit
+[14:58] of Le way so if we change that to 0.1
+[15:01] and just move it a couple of points up
+[15:03] that'll be a nice place for the cam for
+[15:05] the drive shaft of the cam we use a hex
+[15:09] change the hex size to
+[15:12] 6.8 because we're going to make the
+[15:14] driver 7even so we do this is 6.8 6.8
+[15:18] then because of tolerances we'll be able
+[15:21] to actually shove the thing through make
+[15:24] that a
+[15:25] hole and Center that to your cam and
+[15:28] this will be the cam
+[15:34] driver then group the whole
+[15:37] lot we have our camp shove that to one
+[15:40] side okay to make the drive Cog we need
+[15:43] to save ourselves some work so this one
+[15:46] copy
+[15:47] it drag it to one
+[15:50] side ungroup
+[15:53] it delete these
+[15:56] two We have basically our Drive Cog of
+[15:58] course it needs an axle so ungroup it
+[16:02] now this is six we want it a bit bigger
+[16:05] because remember we made this 6.8 so
+[16:08] we're looking at seven but if we make
+[16:09] that eight then we'll have plenty of
+[16:11] leeway so eight eight turn it to a solid
+[16:16] it needs to be four to go through here
+[16:19] four to go through the support plate and
+[16:21] a little bit of extra so let's call that
+[16:27] 8.5 and then we need to send
+[16:35] now if you remember we made that at
+[16:38] 6.8 so we need to grab a
+[16:40] hex and make the hex
+[16:54] 6.4 this remember is 8.5 up so 8.5 off
+[16:59] the base
+[17:02] plate and this has only got to go
+[17:04] through 4 mm so 4 millim for that and
+[17:08] then align all of
+[17:18] this group the whole
+[17:25] thing and that's our drive gear now
+[17:29] we've done that we need to align a few
+[17:30] things so let's take this and this sits
+[17:32] at the bottom most next we take this and
+[17:35] remember we put this to be 8.5 Above So
+[17:39] type in 8.5 so that it sits above this
+[17:43] then we can align those
+[17:50] two now it sits beautifully where it
+[17:52] needs to be we are going to put a base
+[17:54] plate in here and what we're doing is
+[17:56] creating indexing holes so if you
+[17:58] remember the size of this one was eight
+[18:01] so take a hole make it smooth and we
+[18:03] need to make that 8 by
+[18:09] 8 and then we can align it to the
+[18:19] center make that a little bit taller so
+[18:21] you can grab
+[18:24] it and then we have a place where we're
+[18:27] going to know where that axle needs to
+[18:30] be then we grab this one and this will
+[18:32] sit on topmost so this is 8.5 + 4 so
+[18:35] it's 12.5 from the top from the base
+[18:40] rather and that's where it's going to
+[18:42] sit and it needs to be aligned to the
+[18:44] center of this so press the shift key
+[18:47] hit that and it will align two objects
+[18:50] align them and we just need to align it
+[18:52] to the center there because we're going
+[18:54] to move that up to be the right position
+[18:56] you see the snap grid is set at one so I
+[18:59] highlight that then it'll move
+[19:01] relatively quickly across that pin now
+[19:03] if I zoom in on
+[19:05] there we can see it's gone too far so if
+[19:09] we click that and set the snap grid to
+[19:11] 0.1 then we can move it back a little
+[19:15] bit until we've got a bit of
+[19:19] leeway there we go it's about 2 mm
+[19:22] leeway and that's where the second one
+[19:24] axle is going to be right there so we
+[19:27] can take another axle but you remember
+[19:29] this one was 6
+[19:36] mm and we can align it to the center of
+[19:39] here it'll be a bit difficult to get it
+[19:41] in right into the center so what we do
+[19:43] is unmerge
+[19:45] that and now we can align these two
+[19:48] together make this
+[19:50] bigger so it sticks
+[19:54] out shift click that align and align to
+[19:58] the center of
+[20:01] there there we go once that's aligned we
+[20:04] can REM merge this so you click on the
+[20:06] object you want to merge hold down the
+[20:08] shift key click on the next one keeping
+[20:11] the shift key held down click on the
+[20:12] third one and then we can group
+[20:16] them and there we go now we can move
+[20:18] everything out of the way it might have
+[20:20] seemed a bit dumb to do it that way but
+[20:21] it makes sure that everything has got a
+[20:24] registration point where it can align to
+[20:27] so if we then take a bar of some
+[20:32] kind and we'll make that four
+[20:36] high I say
+[20:44] 16 by 45 and if we put those
+[20:51] there there we
+[20:56] go make sure that they're alive
+[21:00] mind we can then merge
+[21:04] that and as long as these fit in those
+[21:06] two holes your base plate can be any
+[21:09] shape you want I made a pretty base
+[21:11] plate with semicircles but I made sure
+[21:13] that those holes were in the right place
+[21:15] using that technique so of course you
+[21:18] may want to use this in something else
+[21:20] so whatever best play you want to design
+[21:22] as long as you keep those indexing holes
+[21:25] at the point of where you put the axle
+[21:27] when you slot everything together it's
+[21:29] going to work so just print it off slot
+[21:31] it together and it'll work just fine
+[21:34] what we'd use it for well every time
+[21:36] that does one full rotation of course
+[21:37] that goes in and out once so a counter
+[21:40] of RPMs would be quite cool but I have
+[21:43] done a previous video on how to make
+[21:45] Clips so I didn't cover that in this
+[21:47] video but I did want to go a bit more in
+[21:50] depth because you know there's some
+[21:52] interesting techniques and some
+[21:53] interesting bits and pieces in Tinker C
+[21:55] you may not have been aware that is
+[21:57] actually there just for you to use now I
+[21:59] will of course put these files as I said
+[22:01] on thingiverse should anybody just want
+[22:04] the model I hope you enjoyed the video
+[22:06] thank you very much for watching and
+[22:08] please do remember to like And subscribe

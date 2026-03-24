@@ -1,0 +1,316 @@
+[00:00] [Music]
+[00:07] how would you select something that will
+[00:09] be a good generator now of course we
+[00:11] could build our own could glue a load of
+[00:14] magnets around the rim that's been
+[00:15] suggested attach some coils and we will
+[00:17] have built our own generator but that's
+[00:19] a lot of magnets and that will make it
+[00:21] very expensive so I'm going to do what I
+[00:23] think a lot of people do and that is
+[00:25] cast around for a motor that is going to
+[00:28] do that job and of course that's the
+[00:30] question which motor is a good motor for
+[00:35] attaching to the big wheel to make it a
+[00:37] generator or if you're building a
+[00:39] windmill what motor do you use that you
+[00:42] can attach to your wind veins to make a
+[00:44] good generator out of your windmill as I
+[00:47] say it's an across theboard problem now
+[00:50] Motors and generators are exactly the
+[00:52] same thing if I put Power into a motor
+[00:55] it will turn if I turn a motor it will
+[00:58] produce power there is n really there
+[01:01] isn't any difference between a motor and
+[01:03] a generator only difference between them
+[01:06] is a motor gets power in and a generator
+[01:08] you turn to get power out that's it okay
+[01:11] this will probably upset a fair few
+[01:13] people but even though we have this
+[01:15] enormous selection of Motors there isn't
+[01:17] the best one actually it doesn't really
+[01:19] matter that much what matters is the
+[01:21] Turning Force you can apply there or
+[01:24] rather the Turning force it will apply
+[01:26] when you supply a certain current and
+[01:28] speed and the speed of which it turns
+[01:31] now the Turning force or torque on that
+[01:33] shaft is given by NV cos Theta okay you
+[01:36] don't need to get hold of the
+[01:37] mathematics you just need to get hold of
+[01:39] the idea that there's a fixed
+[01:41] relationship between torque magnetic
+[01:44] field and wire that's in that motor
+[01:47] stroke generator and that relationship
+[01:50] is reversible they govern the
+[01:52] performance torque of a motor as I said
+[01:55] before Motors and generators are
+[01:57] identical so if we have a turn burning
+[02:00] force a torque coming out on that shaft
+[02:03] when we Supply a current if we reverse
+[02:06] that and Supply that torque at that
+[02:09] rated speed that will be the power that
+[02:12] the generator gives out less of course a
+[02:14] few losses now I'm sure we all know how
+[02:17] a motor works you have a static magnetic
+[02:19] field you supply a current to a coil and
+[02:22] of course that creates a magnetic field
+[02:24] around that coil and we get
+[02:27] rotation in a generator of because we
+[02:30] rotate it and create a current in the
+[02:32] coil but just like if we fed the coil uh
+[02:36] with a current it creates a magnetic
+[02:37] field if we generate a current in a coil
+[02:41] it creates a magnetic field the magnetic
+[02:44] field created in a generator is counter
+[02:48] to the direction of rotation so it's
+[02:50] called the counter torque so when we
+[02:53] spin that we create a counter torque in
+[02:57] the field coils that resist us spinning
+[03:01] it so let's assume we're not going to
+[03:03] build our own generator let's assume
+[03:05] that we go out and find a motor that we
+[03:07] want to use and the information we need
+[03:09] for that is how much power we have to
+[03:12] put in what torque it will generate and
+[03:15] what speed of rotation and if you look
+[03:17] at Motors you'll find these are
+[03:18] specified on their data sheets so this
+[03:21] one for instance this is 12 volts it's
+[03:23] meant to turn 1,000 RPM and it will
+[03:26] generate a torque at the shaft of8
+[03:28] Newton m that is the specification for
+[03:31] that motor it will generate torque given
+[03:34] 12 * 1.2 which is the Watts that are
+[03:37] going in there in order to overcome the
+[03:41] counter torque I have to provide at
+[03:44] least the torque of the motor so if this
+[03:46] is8 newon m and I Supply this shaft with
+[03:49] 8 newon m at 1,000 RPM I will get less
+[03:53] losses the same amount that I actually
+[03:56] needed to put in to make it a motor so I
+[04:00] hope that's pretty clear because a motor
+[04:03] has a specification of power in to
+[04:07] generate a torque at a speed on the
+[04:11] shaft that can be used as an estimate of
+[04:14] the counter torque that we need that is
+[04:18] how fast we need to turn the shaft at
+[04:21] what force to get the same power back
+[04:24] out to be absolutely crystal clear about
+[04:27] this I do feel I'm banging on about it a
+[04:29] little bit but I do know that this is
+[04:31] something that is a favorite of people
+[04:33] to hold dear to their hearts that some
+[04:34] Motors are better than others just to be
+[04:37] clear this motor is rated at 1,000 RPM
+[04:42] 12 Vols 1.2 amps and8 Newton M on the
+[04:47] shaft we need that information because
+[04:50] we can take that information from any
+[04:52] motor and what it will tell us is that
+[04:54] if I apply 8 newon m on that at a speed
+[04:59] of 1,000 RPM I will get about 12 Watts
+[05:03] out because that's where I needed to put
+[05:05] in to get that because there'll be some
+[05:07] losses so it's a guide but counter talk
+[05:11] or rather talk is a good Guide to the
+[05:15] counter talk needed so the talk for a
+[05:18] motor is a guide for the counter talk
+[05:20] for it being a generator I hope I'm
+[05:23] clear of course some people are going to
+[05:25] argue about efficiency yeah but Modern
+[05:27] Motors are so much more efficient you
+[05:29] can look up efficiency this thing it's
+[05:32] about
+[05:33] 75% efficient or so somewhere around
+[05:36] about there it's a standard brush DC
+[05:38] mots be around of that region if you
+[05:40] look up the efficiency on this thing you
+[05:41] find it's 80% efficient there's a 5%
+[05:45] difference between these two not that
+[05:47] great if you ask me this thing is about
+[05:50] 90% efficient which I found rather
+[05:53] surprising to be honest so yes
+[05:55] efficiency will differ for sure and you
+[05:58] tend to pay more for the greater
+[06:00] efficiency but surprisingly enough these
+[06:02] are far more
+[06:04] efficient than these this is perhaps the
+[06:08] least efficient that's very true so
+[06:10] efficiency will make a difference yes
+[06:12] but not the kind of difference that you
+[06:14] think and I think quite surprising
+[06:16] because um these things are very popular
+[06:19] and yet not that great they're only
+[06:20] about 80% efficient these are far more
+[06:22] efficient they're not hardly any more
+[06:24] efficient than these but they are
+[06:26] exceedingly expensive now I got this for
+[06:29] a 10 out actually £5 got two on an old
+[06:31] hoverboard and it's second hand so not
+[06:34] that expensive really obviously but
+[06:36] that's really because they came in Vogue
+[06:39] and now going back out of Vogue and
+[06:40] you're finding these being trashed and
+[06:42] so you can pick them up for next to
+[06:43] nothing in here is a load of neodymium
+[06:46] magnets and in here is a load of ceramic
+[06:48] magnets so of course the the magnetic
+[06:51] field in there is very strong what that
+[06:53] means is the counter torque is much
+[06:55] higher so the magnetic field isn't very
+[06:58] strong here but the counter torque isn't
+[06:59] very high magnetic field is strong here
+[07:02] but the counter torque is so for
+[07:04] instance this has 8 of a Newton meter on
+[07:08] the Sha's torque this is 8 Newton M it's
+[07:12] 10 times the torque to turn this than it
+[07:15] is to turn that of course he bigger but
+[07:17] the magnetic field is stronger and so
+[07:19] the torque goes up of course there are
+[07:21] physical limitations on Motors I mean
+[07:23] this is Tiny and the amount that that
+[07:25] can generate actually is huge actually
+[07:29] but the limitation on it is to do with
+[07:30] the wire size you might generate too
+[07:32] many amps for the wire to carryer you
+[07:34] might um breach the insulation cuz the
+[07:37] voltage is too high but that type of
+[07:39] motor is actually a good motor and of
+[07:41] course they don't come only in those
+[07:43] sizes you can get really quite big ones
+[07:45] like this which is going to be rated
+[07:47] much higher than that little one so
+[07:49] there are physical limitations on the
+[07:51] motor that you use in terms of the wire
+[07:53] that's actually in there but the motor
+[07:55] type itself isn't really a limitation
+[07:59] now I've been going on about talk and
+[08:01] speed because talk and speed is a really
+[08:03] important thing you can turn a motor at
+[08:07] that speed you'll get that output but of
+[08:09] course it's about being able to turn it
+[08:11] at that speed and I physically can't do
+[08:14] that now this one this one's actually is
+[08:16] actually really nice and it's likely to
+[08:18] be the one that I use okay even though
+[08:20] it's not as efficient as it could
+[08:22] be this one is an 500 RPM with 8 Newton
+[08:27] M of torque takes 36 volts and quite a
+[08:30] few amps I can't remember the amps but
+[08:32] that's what the specification for that
+[08:34] is that we're interested in so if I can
+[08:37] turn that at 500 RPM that's what I'll
+[08:39] get out now I can't do that physically
+[08:41] obviously I can't just bolt that down
+[08:43] and try to spin that at 500 RPM I'm not
+[08:46] physically capable of it I need some
+[08:49] kind of gearing in there now gear
+[08:52] relationships are to do with
+[08:53] circumference so my wheel is um around
+[08:56] about 6.1 m in circumference 610 CM this
+[09:01] is about 50 cm in circumference so it
+[09:03] has a ratio of roughly 12 to1 I timed
+[09:08] the um RPM on the big wheel when I was
+[09:11] walking in it at a comfortable walking
+[09:13] space I can turn that around about 10
+[09:16] RPM something like that given that we've
+[09:18] got a 12:1 ratio comfortable walking
+[09:22] I'll be able to turn this only 120 RPM
+[09:25] if I set it directly one against the
+[09:27] other which is obviously not its r speed
+[09:30] so I'm not going to get the red output
+[09:32] in order to do that I need to apply 8
+[09:35] Newton M on it in order to get that to
+[09:37] turn now just like um the speed goes up
+[09:42] with the gear ratios so does the torque
+[09:45] that means I'm going to need to apply on
+[09:47] the wheel round about 80 Newton M to be
+[09:50] able to turn this if I can't Supply 80
+[09:54] Newton M I will not be able to turn that
+[09:58] so as the gear ra ratio goes up the
+[10:00] speed will go up but will so will the
+[10:03] Turning Force so I need it really to
+[10:05] turn that at 500 RPM roughly four times
+[10:08] that so 88 is uh 88 1632 so I need 320
+[10:13] Newton M on my wheel if my wheel had
+[10:16] that gear ratio and I can't Supply that
+[10:20] that wheel turns by the weight that I'm
+[10:22] putting on it and I wear about 82 kilos
+[10:25] so as I step on there I'm very roughly
+[10:27] applying that and because that will turn
+[10:30] this at that gear ratio but only at 120
+[10:34] RPM I can't get it any faster because I
+[10:37] can't apply the force now if I had a
+[10:40] couple of people and we weighed more
+[10:42] than that then we would be able to apply
+[10:44] more Force because we can apply more
+[10:46] Force we can overcome the counter torque
+[10:49] which goes up for the gear ratio by the
+[10:52] same ratio as the gear ratio I hope that
+[10:55] makes sense but those are the limiting
+[10:58] factors the limiting factors got very
+[11:00] little to do with the motor limiting
+[11:02] factors have got to do with the torque
+[11:04] requirement and the gear ratio we use
+[11:07] for that torque requirement in order to
+[11:09] get this to rotate at the speed we need
+[11:12] it to rotate at so basically it actually
+[11:15] doesn't come down to motor type at all
+[11:17] it actually comes down to the speed that
+[11:20] you can get the motor to spin at at the
+[11:22] torque that the motor shaft requires
+[11:25] those are the important things the
+[11:27] actual mechanical arrangement of the
+[11:29] motor can make it mechanically easy to
+[11:32] fit so for example all I've got to do
+[11:34] with this is Bolt it in place and rub
+[11:36] the big wheel on there and it's going to
+[11:37] turn that's really simple and don't need
+[11:40] much in the way of Gears or anything
+[11:42] that makes it very attractive because as
+[11:44] a mechanical solution it's actually a
+[11:47] very good solution it's easy to do and
+[11:49] it'll give a reasonable result but in
+[11:51] terms of efficiency then that actually
+[11:54] is far more efficient than that it's 10%
+[11:57] more efficient this is only 5% % more
+[11:59] efficient than that so it depends very
+[12:03] much on what a mechanical Arrangement
+[12:05] that you're going to have what's easy
+[12:07] for you to build what's easy for you to
+[12:09] incorporate that motor and do you have a
+[12:12] ready gear set because remember we used
+[12:14] the gear set from a shredder to turn
+[12:17] that and get about 60 wat WTS out of it
+[12:19] which is incredible if you think about
+[12:21] it but it was easy for me to do because
+[12:23] the gear set because the gearing was
+[12:25] already there for me okay the key point
+[12:28] remember a motor at a speed where the
+[12:32] power will generate a torque that means
+[12:35] that the counter torque which the
+[12:38] original torque is a measure of is what
+[12:40] you have to provide to get it to
+[12:43] generate that's more a mechanical thing
+[12:46] than it is a motor thing and then you're
+[12:48] choosing Motors by efficiency is one
+[12:50] choice you would have another choice is
+[12:52] how easy they are to incorporate
+[12:54] mechanically into what it is that you're
+[12:56] building and of course you is cost this
+[13:00] was only5 because it was junk this was a
+[13:04] bit more expensive and these of course
+[13:06] are cheap so it just depends now of
+[13:09] course you cannot run a motor for more
+[13:13] than the force you can apply on it the
+[13:15] force you apply is the mechanical
+[13:18] Arrangement you've set up be it a water
+[13:20] wheel a windmill a um big wheel a hand
+[13:24] crank none of that matters it all comes
+[13:27] down to the same problem anyway I hope
+[13:29] I've um helped in your thinking about
+[13:31] generators and motors as generators and
+[13:34] mechanical arrangements to make them
+[13:35] spin thank you very much for watching
+[13:38] the video I feel it was a bit long and
+[13:41] wordy

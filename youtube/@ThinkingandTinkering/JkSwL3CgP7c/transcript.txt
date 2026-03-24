@@ -1,0 +1,127 @@
+[00:00] [Music]
+[00:08] so these are the helical gears that I
+[00:10] just used in the torsion differential
+[00:13] and you might think they'd be quite
+[00:15] difficult and I'd have to get them from
+[00:16] somewhere else but in fact I drew those
+[00:19] in Tinker Cad and it is really quite
+[00:22] easy now it's a sad truth that in the
+[00:24] world there is no Perfection there is
+[00:27] only compromise and approximation the
+[00:30] way life is when it comes to doing
+[00:32] something on 3D printing the best
+[00:34] resolution you can get is about 0.1 but
+[00:37] normally. 2 and the reason it's 2 mm is
+[00:41] that's the size of the nozzle so we can
+[00:44] get layers at02 of a millim and when I
+[00:47] look at this it's 30 mm tall or 3 cm
+[00:50] tall in there every millimet is going to
+[00:54] be five layers a layer at 2 * 5 = 1 mm
+[01:00] this being 30 mm tall and five layers
+[01:03] each this is actually 150 layers tall
+[01:07] this one is 15 mm so of course that is
+[01:11] 75 layers tall at 75 layers tall Tinker
+[01:16] cat can cope with that so all I need to
+[01:19] do is a layer and rotate it another
+[01:22] layer and rotate it and what I'll get is
+[01:25] this approximation of a helix that I
+[01:28] wouldn't be able to print any back
+[01:29] better even if it was perfect so that
+[01:32] approximation is just fine of course the
+[01:35] question is how far do I have to turn it
+[01:38] well on this one the tall one each of
+[01:40] those spirals goes around a full
+[01:43] 180° we know that the layers are 150 we
+[01:47] want to go 180 so if the first layer
+[01:50] starts at zero the end layer St ends at
+[01:54] 180° round so each layer has to turn 1.2
+[01:59] de
+[02:00] relatively the same is true for this but
+[02:02] on this occasion all I wanted to do was
+[02:04] go 60° round so for that the bottom
+[02:09] layer is at zero the top layer is at 60
+[02:12] and the other 75 layers need to turn at8
+[02:16] of a degree each to create these helixes
+[02:19] now let me actually show you how I did
+[02:21] that in Tinker cat okay let's start with
+[02:24] a small one first of all go to the
+[02:25] search bar type in
+[02:28] gear it will pull up the gear for you
+[02:31] there's the one we want and pull it onto
+[02:33] the worktop I to hit that color because
+[02:35] you can't see what you're doing so
+[02:36] change its color you'll see if we click
+[02:39] on gear again that it's modulus one we
+[02:41] want modulus 1.5 because that's the size
+[02:44] that I want to use for my
+[02:46] gears it's got 18 teeth but in this case
+[02:49] I just want 10
+[02:51] teeth and it'll readjust that gear for
+[02:54] me now the gear height is 20 mm you see
+[02:57] it's 20 mm it says there so let's change
+[03:00] that to
+[03:02] 0.2 and we've got the gear size that we
+[03:04] actually want we zoom in on that a
+[03:06] little
+[03:10] bit and what we want to do is copy and
+[03:13] repeat that and rotate it so hit the
+[03:16] copy key here you'll see its distance
+[03:19] from
+[03:20] the base so changed that to the point
+[03:25] two and here's the angle and change that
+[03:28] to 1.2
+[03:32] and that will copy and rotate it you can
+[03:33] see the slight rotation there then we
+[03:36] just go up to the duplicate key which is
+[03:38] right here and keep on going with that
+[03:41] duplicating it and as we duplicate it
+[03:43] you can see on the screen here it's now
+[03:45] at 3.2 and we just keep going on with
+[03:48] that duplicating key until we reach
+[03:53] 30 there we go and that is our first
+[03:56] helico gear if we now highlight that
+[03:58] whole thing
+[04:01] and group it we'll get the single
+[04:08] gear and we can export that now as an
+[04:10] sdl now we want to do exactly the same
+[04:13] thing for the larger gear so pick gear
+[04:16] from the pull down list you'll notice
+[04:18] it's modulus 1.5 like the other gear but
+[04:21] this time it's larger so it's got 20
+[04:23] teeth in it but it's the same routine
+[04:24] set the height to0 2 because that's our
+[04:27] lower height when we repeat that so we
+[04:30] hit the copy then we change the distance
+[04:32] from the base by 0.2 because that's our
+[04:36] layer height so we're moving it up one
+[04:38] layer and the angle of rotation we
+[04:41] change
+[04:42] to8 actually in this case it's 0us 0.8
+[04:47] because of the direction of rotation of
+[04:49] that arrow that we've just seen when
+[04:51] we've done that it will rotate it in the
+[04:54] same direction as the previous gear had
+[04:57] we done 08 it would have rotated it
+[04:59] around anticlockwise cuz you can see the
+[05:01] arrow there we want to rotate it
+[05:03] clockwise to get a clockwise spiral and
+[05:05] again we just repeat
+[05:09] that and it rotates all the way around
+[05:12] until that reads 15 which is 15
+[05:17] mm there we go then group it export it
+[05:22] and we have our second helico gear now
+[05:25] ticker CAD does sulk if you get more
+[05:27] than 300 objects so what you need to do
+[05:29] once you grouped it is export it as an
+[05:32] STL reimport it and then delete the
+[05:36] stack of 300 or 15 and now Tinker CAD
+[05:39] will think it's only one object so
+[05:42] everything will be copiable movable and
+[05:44] very much quicker because instead of
+[05:46] being 300 objects in a stack it's a
+[05:48] single object so turns out it's
+[05:51] relatively easy to do things like helico
+[05:53] gears and stick them in something like a
+[05:56] tsome differential I hope you enjoyed
+[05:57] the video I hope it was as used to thank
+[06:00] you very much for watching

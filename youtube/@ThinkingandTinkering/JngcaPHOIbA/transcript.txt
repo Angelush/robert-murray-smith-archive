@@ -1,0 +1,194 @@
+[00:00] [Music]
+[00:08] So, continuously variable transmissions
+[00:11] or CVTs, it could be argued that I have
+[00:14] a bit of an obsession with them. And
+[00:16] that's because from my point of view, if
+[00:19] you can get a really good CVT, then you
+[00:21] can get more out of your wind turbine.
+[00:23] The thing about wind turbines is if the
+[00:25] blades spin too fast, well, they can
+[00:28] destroy your generator because they're
+[00:30] beyond the capacity of the generation.
+[00:33] And if you can slow them down when the
+[00:36] wind is too high, then you can continue
+[00:39] to generate and of course get more use
+[00:41] out of your wind turbine. And here I'm
+[00:44] thinking of something like the harmony
+[00:46] wind generator, which is furing
+[00:48] mechanism. It's really very cool. But
+[00:50] CVTs are indeed a little bit of an
+[00:53] obsession and they're basically actually
+[00:56] pretty simple. Perhaps the simplest one
+[00:58] is the disc CVT. You essentially have a
+[01:01] big disc and you put a driving wheel on
+[01:03] the edge. When you turn the driving
+[01:05] wheel, of course, it will spin that disc
+[01:07] at a certain rate. And the rate is the
+[01:10] ratio of the diameter of the uh driving
+[01:12] wheel to the diameter of where you've
+[01:14] put it. So if I drive that driving wheel
+[01:17] in, that diameter, effective diameter
+[01:19] gets smaller. And so this will spin
+[01:22] faster the nearer that driving wheel is
+[01:25] to the center and slower the further
+[01:27] away it is. And of course, this is used
+[01:31] a lot in things like lawnmowers and
+[01:34] scooters. It's a well-known CVT. It's
+[01:36] basic, it's simple, and it works with
+[01:39] only one real problem. It works on
+[01:42] friction. The driving wheel has to have
+[01:44] friction against the driven plate,
+[01:46] otherwise there's no grip. And of
+[01:48] course, friction isn't that great. It
+[01:51] loses a lot of energy through heat. And
+[01:53] the transmissions aren't actually very
+[01:55] efficient. They win out because they're
+[01:57] super cheap, super easy, super reliable,
+[02:00] but not very efficient. And so lots of
+[02:04] CVTs have been designed on that basic
+[02:06] wheel on wheel principle using various
+[02:09] mechanisms including uh belts, ratchets,
+[02:13] levers. We've done a lot on levers to
+[02:16] get that effect so that we can have it
+[02:20] run a variable transmission. And they've
+[02:24] all got their various downsides. What
+[02:27] would be really great is if it didn't
+[02:29] run on friction. It was always in
+[02:31] contact and we could vary the output
+[02:34] speed by changing that distance that we
+[02:37] talked about. Now, this is a swash
+[02:39] plate. You find them used in pumps. It's
+[02:42] basically a disc set at an angle. And as
+[02:44] you rotate the disc, of course, it acts
+[02:46] a bit like a cam. And you can use that
+[02:49] to change rotary motion into linear
+[02:51] motion. You may think it works on
+[02:53] friction, but it doesn't. Because a disc
+[02:56] is at an angle. When the disc rotates,
+[02:58] then this bit comes underneath the
+[03:01] actual pin and it's shoving the pin up.
+[03:04] The rollers at the bottom is only to
+[03:06] make it glide over. Is actually not a
+[03:08] friction drive. It is in fact an all
+[03:11] contact push if you like. Now, if we
+[03:14] could adapt that simple swash plate
+[03:16] driven design into a CVT, well, I think
+[03:20] we'd have a pretty awesome CVT because
+[03:23] it wouldn't be relying on friction. It
+[03:25] would always be in contact a little like
+[03:28] a cam, but it wouldn't require ratchets
+[03:30] like cams do, and there wouldn't be a
+[03:33] drive B, drive belt or gears involved.
+[03:36] So, it'd be extremely simple to make. it
+[03:38] would get rid of the problem with
+[03:40] friction and it would be pretty awesome.
+[03:43] If only there was something like that
+[03:45] because I like saying that because of
+[03:47] course you can do that. And here is a
+[03:51] drawing of a device that should be able
+[03:54] to do that. The actual device came from
+[03:57] this book which runs to about four
+[03:59] volumes and is available free from the
+[04:02] internet archive. So, of course, I'll
+[04:04] put a link to that in the description
+[04:06] below should anybody want to look at it.
+[04:08] The drawing itself came from Thango
+[04:11] 01046, and that's another great
+[04:13] resource, and I'll put a link to his
+[04:16] channel because so often when you're
+[04:18] asking a question about a mechanism,
+[04:20] then looking through all of that stuff
+[04:22] can answer, has this been done before?
+[04:25] And all I really need to do then, of
+[04:27] course, is draw a copy, print it, see if
+[04:30] it works, and then how we going to
+[04:32] improve it. So, our next job is to draw
+[04:34] that up in Tinkercad and to print it
+[04:36] out. And that's my Tinkercad drawing of
+[04:39] the device. Of course, I will put this
+[04:40] on Thingiverse should anybody be
+[04:42] interested in it. It's there to download
+[04:44] and use. But the two essential parts are
+[04:47] this cone-like structure here and the
+[04:49] swash blade. And what happens, of
+[04:51] course, is there's a roller on the top,
+[04:53] as you saw in the drawing. The roller
+[04:54] will press onto that swash plate. As we
+[04:57] turn the roller, the roller will make
+[04:59] this travel around like that. And of
+[05:01] course, it creates a rotation at the
+[05:03] center. To capture that rotation, we
+[05:06] have this, which is just a universal
+[05:07] joint. So, we drop the block into the
+[05:10] center of the horseshoe, feed in the
+[05:11] pin, and there's a couple of slides
+[05:13] attached to that long arm either end
+[05:15] because those slides drop in here.
+[05:27] There you go. Like that. That feeds
+[05:30] through the
+[05:31] cone like that. And as the roller
+[05:34] travels around, of course, it creates a
+[05:35] rotation in the center where the
+[05:38] rotation is changed. Now, as the roller
+[05:41] is being driven around in a circle, that
+[05:44] rotation is slower. So, it get a slower
+[05:46] rotation out of here. Just like in the
+[05:49] disc CVT, but this time instead of using
+[05:52] friction, what it's doing is pressing
+[05:54] downwards. So, it's not a friction drive
+[05:56] anymore, we can change where that goes
+[06:00] by changing the effective position of
+[06:02] the roller. And we do that by shoving
+[06:04] this up and down. As that gets shoved up
+[06:07] and down, it changes the angle of the
+[06:09] disc, which changes the amount of travel
+[06:11] and so creates a
+[06:15] CVT. So, for the roller, we've got this
+[06:17] cradle, pin, and roller. And it has a
+[06:20] clip that goes in the end. Clearly, the
+[06:22] roller goes in the cradle. We slide the
+[06:24] pin
+[06:27] through and put the clip on. The top
+[06:30] section, we use this. And there's a
+[06:31] small plug that goes in there. It glues
+[06:33] in place. It's done that way so I don't
+[06:36] get a load of support. Having been
+[06:37] printed here, this bit gets a spring on
+[06:40] it. And the spring I just got from a bag
+[06:42] of springs. And push it through. So,
+[06:44] it's got a little bit of spring to it.
+[06:46] And then there's a gear with a little
+[06:47] indentation. And that glues on the top
+[06:50] like that. And then we join that roller
+[06:52] and that rod up with this rod here. And
+[06:55] obviously put the top cage on. And then
+[06:57] when we turn the input gear, it does
+[07:00] what it's supposed to. It wobbles this
+[07:02] plate and drives that. And of course, we
+[07:04] can change that with a selector on here
+[07:06] and shove that up to change the gear
+[07:08] ratio. Now, I looked at this because a
+[07:10] chap called Marovincio asked me to. He
+[07:13] asked if this would be possible and I
+[07:15] thought it might be but when I found the
+[07:16] mechanism I thought well there you go.
+[07:18] Now I've printed this off just pretty
+[07:20] much as is actually but there are some
+[07:23] things that I would change about it
+[07:24] because the angle between the roller and
+[07:26] the plate obviously changes as you
+[07:28] change that position because the whole
+[07:29] thing moves up. This uh cone is a fixed
+[07:32] angle. So it's kind of an approximation.
+[07:34] What I'd probably do instead of having a
+[07:36] roller is well make a sphere, something
+[07:38] like that, which would make it much much
+[07:41] easier, I think, to keep that contact.
+[07:44] But there we go. A CVT, no gears, based
+[07:48] on levers with a swash plate that
+[07:51] doesn't use friction. I don't know how
+[07:53] efficient that would be, but it's pretty
+[07:55] cool. I hope you enjoyed the video.
+[07:57] Thank you very much for watching, and
+[07:59] please do remember to like and
+[08:00] subscribe.

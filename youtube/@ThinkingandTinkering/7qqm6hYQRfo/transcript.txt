@@ -1,0 +1,164 @@
+[00:04] I finally got it to work after a fashion
+[00:07] I'm using bench View and I had to um
+[00:09] trick the riols into thinking they were
+[00:11] different kinds of meters and I managed
+[00:13] to get the vaults and the Hampster were
+[00:15] recorded at the same time the motor's
+[00:17] still turning and you can see there's
+[00:19] the milliamp draw and there's the
+[00:20] voltage at at the moment there's the
+[00:22] voltage drop here and there's the amp
+[00:25] drop there what we're going to try and
+[00:28] do is export those two figures and
+[00:30] combine them that is multiply one by the
+[00:32] other to give us the amount of power we
+[00:34] should be able to draw a Power curve so
+[00:36] I'm doing the um lead carbon battery at
+[00:39] the moment because that's the one I
+[00:40] wanted to test anyway and here you can
+[00:42] see it's it's charge and it's charge
+[00:44] time and obviously it's drawing nothing
+[00:46] at that time so we'll let it die and
+[00:48] then we'll see if we can export those
+[00:49] figures and do an Excel spreadsheet if
+[00:52] that works then we'll do the hemp
+[00:54] battery but just getting this far I
+[00:57] consider a huge success this together a
+[01:00] little bit um because I'm still waiting
+[01:02] for the license to cou together the uh
+[01:05] display and the software data logging
+[01:07] software we want some kind of idea of
+[01:09] where we are now what I've done is I've
+[01:12] taken one of these um CR 2032 Panasonic
+[01:15] lithium batteries and it's between a
+[01:17] couple of bits of zinc there and I've
+[01:18] clipped it up to the whole setup that
+[01:19] we're normally using to run the motor
+[01:21] and we're going to log it basically now
+[01:23] these are are primary batteries so we
+[01:26] should expect higher energy density out
+[01:28] of them but let's run it and see what
+[01:30] what happens and um see what we get from
+[01:32] this
+[01:35] thing and there we go it can just start
+[01:37] logging that milliamp draw and the
+[01:39] voltage drop and you can see it's about
+[01:42] 126 milliamps and it's dropped quite
+[01:44] quickly actually to um 877 molts so
+[01:48] we'll just run that until it's out and
+[01:50] then we'll have a look and see what kind
+[01:51] of energy is on there okay stop stopped
+[01:54] about there so you can see it lasted
+[01:55] more or less 6 minutes we able to see
+[01:57] that better when we export the the
+[01:59] figures and you can see where the drop
+[02:01] was where I connected it and this is the
+[02:03] long slow discharge that it went through
+[02:05] so look at the voltage here here's the
+[02:07] amps so I had nothing and shut up then
+[02:09] dropped down again you can see here's we
+[02:11] disconnected it and it dropped to zero
+[02:13] so these are the two points here that
+[02:15] correlate and these two points here and
+[02:18] here that correlate to when we actually
+[02:20] connected it up so what we can do now is
+[02:22] export those figures into a spreadsheet
+[02:24] combine them we can get the power out of
+[02:26] it this are getting really quite
+[02:27] exciting but that was from um this
+[02:30] lithium ion here so if I just pull that
+[02:33] out then I drained that until it
+[02:35] wouldn't turn the motor anymore so this
+[02:37] was one single lithium primary cell is
+[02:40] what we're using as our kind of
+[02:41] benchmark test okay this is actually
+[02:44] given um some interesting and in fact
+[02:46] surprising
+[02:51] results okay so uh what we did remember
+[02:54] was charge up the lead uh battery and
+[02:57] then take the primary lithium battery
+[02:59] now sure enough the lithium battery is
+[03:01] much smaller than the lead battery there
+[03:03] you go give you an idea of actually how
+[03:05] big it is cuz this is 25 square cm and
+[03:08] this is um 2 cm round so there's quite a
+[03:12] big difference in the size there you get
+[03:14] quite a few of these on here okay but
+[03:16] it's still really interesting because
+[03:18] um here is the lithium now you can see
+[03:22] that the lithium here started AT3 now
+[03:24] remember this is actually voltage times
+[03:26] amps so what we're looking at here is
+[03:28] the Watts the watts per second actually
+[03:30] um and you can see this really sharp
+[03:32] fall off of the lithium and then it
+[03:35] begins to fade like you would expect it
+[03:36] until it's run for about 240 seconds a
+[03:39] little bit more actually but more or
+[03:41] less that um and then I disconnected it
+[03:44] now you're not seeing the rise up
+[03:45] because I just took those out in the
+[03:46] figures I basically took the volts and
+[03:48] the amp readings that we got from the
+[03:49] meters put them into Exel multiply the
+[03:51] two by each other and then Drew this
+[03:53] graph of it I also added up the watt
+[03:55] seconds to give you the number of jewels
+[03:57] it turns out this is four more or less
+[04:00] now here's the lead um that we did it
+[04:03] actually started much higher in terms of
+[04:05] power output and you can see the fall
+[04:07] off is actually much lower and it's
+[04:10] quite a lot less steep here now it could
+[04:13] be cuz it's much bigger of course uh but
+[04:16] it ran for about roughly the same same
+[04:18] time actually R about 220 but roughly
+[04:21] about the same time and that gave me
+[04:23] nine so here we've got four and here
+[04:25] we've got nine and remember these are
+[04:27] volts times amps as the meter read them
+[04:29] and gives us a kind of comparative I
+[04:31] mean you have to take a little pinch of
+[04:33] salt in that you know this one is uh 3
+[04:36] mm thick and 2 cm round so there a fair
+[04:40] bit of material it's also a primary
+[04:42] battery whereas this one is 5 cm x 5 cm
+[04:46] and 0.1 of a millim thick I think it's
+[04:49] quite telling actually that this one
+[04:52] here has twice the power of this one
+[04:55] here not sure we could fold that up into
+[04:58] this space I don't know if you could do
+[05:00] that or not but it's certainly really
+[05:02] really exciting as a result that the um
+[05:04] lead battery is performing um pretty
+[05:08] capably in terms of a primary lithium
+[05:10] iron now remember this is
+[05:12] non-rechargeable one this once this is
+[05:13] dead it's dead this can be recharged and
+[05:16] recharged and recharged now I think
+[05:18] there a telling result and obviously the
+[05:20] next thing to do is to do the um hip
+[05:23] battery which is exactly what I'm going
+[05:25] to do next unfortunately I've got to go
+[05:28] away for um 5 days so I wanted to get
+[05:30] this one done just to give you some idea
+[05:32] of comparisons and this really bad
+[05:34] battery they've been working with and
+[05:35] this really bad battery actually is
+[05:37] getting quite close to um the power of
+[05:40] lithium irons that's pretty cool but
+[05:42] it's probably going to be a bit of a
+[05:43] delay before I do the hemp because i'
+[05:45] I've got to um be away for 5 days I'm
+[05:48] try to do it now but I can't do it
+[05:50] you'll just have to wait until I get
+[05:51] back and I'm hoping the licenses will be
+[05:53] back so it's not quite so cobbled
+[05:55] together but even in the cobbled
+[05:57] together terms like I say this this one
+[06:00] is comparing quite nicely to this one
+[06:03] and I thought that was really cool so I
+[06:04] wanted to share it with you anyway I
+[06:06] hope that was of interest and there's
+[06:08] our interesting par graphs thank you
+[06:10] very much for watching

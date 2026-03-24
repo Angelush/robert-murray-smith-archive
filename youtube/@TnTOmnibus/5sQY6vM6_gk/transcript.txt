@@ -1,0 +1,1070 @@
+[00:00] [Music]
+[00:08] let's say you're working on a new win
+[00:10] turband design that you're developing
+[00:12] and the chances are because you're
+[00:13] watching this video that's exactly what
+[00:15] you're doing and of course the big
+[00:17] question is oh how good is it and if
+[00:21] your answer is well it's the number of
+[00:22] ouns outputs then you're in serious
+[00:25] danger of throwing out the baby with the
+[00:28] bath water because as winter turbine
+[00:30] remember is composed of three main parts
+[00:33] there's the wind capture device itself
+[00:36] then there's often a gearing system and
+[00:37] then there's often a generator that
+[00:39] turns that rotation into the electrical
+[00:42] energy that you're after and if you get
+[00:44] a very poor output you may well just
+[00:46] throw the whole lot away in exasperation
+[00:49] but you equally May well have discovered
+[00:52] the world's greatest wind capture device
+[00:54] and have an absolutely rubbish generator
+[00:57] and so thrown it away and made a
+[00:59] terrible terrible mistake because to
+[01:02] measure the efficiency of a generator
+[01:04] well that's not particularly difficult
+[01:06] attach a known load see what you get out
+[01:08] compared the two same with the gearbox
+[01:10] pretty much put something in that you
+[01:12] know what it is measure what's coming
+[01:14] out and you'll have your answer your on
+[01:16] efficiency but this thing how do you
+[01:19] measure that and what is it you want to
+[01:21] measure well what you want to measure of
+[01:23] course is the Turning Force how much
+[01:26] force is being created when this thing
+[01:28] turns because the whole whole job of
+[01:30] this thing is to take the wind and turn
+[01:32] it into a turning force and of course
+[01:36] that force is called torque we need to
+[01:38] measure the torque that this is actually
+[01:41] producing so how do you do that well
+[01:44] surprisingly enough it's not that
+[01:46] difficult but does need a little bit of
+[01:48] setup and here is my setup and it's
+[01:51] pretty straightforward here I've got a
+[01:54] fan that blows out a certain volume of
+[01:56] air at a certain speed here I've got a
+[01:58] credle so when I put my new wind turbine
+[02:01] design in the wind turbine will be held
+[02:04] here at this point here I've taken a
+[02:07] winds speed meter or an anemometer and
+[02:09] I've measured that wind speed at that
+[02:11] point there which is 1.8
+[02:13] m/s that's one of the figures that we're
+[02:16] going to need to know and it'll blow
+[02:19] across my
+[02:20] turbine all I've done is created this
+[02:23] arm that I'm glue onto my turbine and
+[02:26] the length of the arm from the center of
+[02:28] rotation to the end is a 150 mm and we
+[02:31] need to know that glue it onto the end
+[02:33] of your turbine it's like that and then
+[02:36] it fixes in the axle there and of course
+[02:39] we'll press on the weighing scales here
+[02:42] now the angle is another thing that we
+[02:44] need to know and in my case it's 45°
+[02:47] because of course the force is acting
+[02:50] directly along that line to the Center
+[02:52] of the Earth which is gravity here we're
+[02:55] making an angle to that and we need to
+[02:57] know that angle when the f hand turned
+[03:00] on of course the wind will blow and it
+[03:02] will try to turn that and that will
+[03:05] press on these scales and we can measure
+[03:08] the weight of what's being pressed and
+[03:11] that's another figure we need to know so
+[03:12] we need to know the angle the length and
+[03:16] the GRS that is being pressed there and
+[03:19] the wind speed that this is actually
+[03:21] creating and what we're measuring is
+[03:24] static torque it's static torque because
+[03:26] there's no actual rotation you can think
+[03:28] of it as a stalled Condition it's the
+[03:31] kind of the maximum torque that can be
+[03:34] produced but stop it rotating Dynamic
+[03:37] torque is where there is always rotation
+[03:40] and change in speed as it rotates so
+[03:43] we're measuring static not Dynamic but
+[03:47] it can be an indication for us so that's
+[03:50] it setup turn on the fan read the
+[03:53] grounds
+[04:09] a word of warning this thing will wobble
+[04:10] about a little bit so you don't just do
+[04:12] it once you do it a number of times and
+[04:15] take the average in my case I did it 10
+[04:18] times and took the average of that
+[04:20] sometimes the scale won't TI properly in
+[04:22] which case you take the initial weight
+[04:24] from the Finish weight which happened to
+[04:26] me a couple of times and so clearly I'm
+[04:28] just going to have to get a better set
+[04:29] the STS but that's what you do so we got
+[04:33] roughly 1.6 G unfortunately we need
+[04:36] Force fortunately that's actually really
+[04:39] easy you just take mass in kilogram and
+[04:42] multiply it by gravity in m/s squared
+[04:45] and you get the force in Newtons so in
+[04:47] our case we take 1.6 multiply it by 9.8
+[04:51] and divide it by a th000 because we
+[04:52] measured grams of want kilog and we get
+[04:55] roughly
+[04:57] 0.016 Newtons and that was the force of
+[04:59] applied at the end of this lever arm so
+[05:03] how do we use that to calculate torque
+[05:06] so torque is just RF sin Theta now you
+[05:09] can either plug your own figures into
+[05:11] that equation or just find yourself an
+[05:13] online calculator that will ask you for
+[05:16] the length of the arm which is R the
+[05:18] force that's been applied which we
+[05:20] worked out from gravity and the mass
+[05:22] that was being produced on the scales
+[05:25] and the angle in which case it'll work
+[05:27] out sin Theta for you s theer is7 we
+[05:31] worked out the force is
+[05:33] 1.6 and the radius which is the length
+[05:35] of the arm is 150 mm and you can plug
+[05:38] all of that in or you can calculate it
+[05:40] yourself and when you work that out in
+[05:42] our case you get
+[05:45] 0.0017 Newton M of torque which doesn't
+[05:49] sound like a lot so is it any good well
+[05:52] a way of working out if it's any good or
+[05:54] not is again to use an unnown calculator
+[05:57] but in this case some something like
+[06:00] Omni calculator which works out the
+[06:02] torque on a wind turbine blade for given
+[06:05] dimensions and this is why we took the
+[06:07] wind speed because the wind speed
+[06:09] plugged into Omni calculator will tell
+[06:12] you the torque that's been developed by
+[06:14] a wind turbine of any blade length and
+[06:17] if you do that what you'll get is an
+[06:19] answer like oh
+[06:22] 0.00003 which is obviously very much
+[06:25] smaller than what we got so either our
+[06:28] new design is incred or we made some
+[06:30] really hideous error or there's a whole
+[06:32] load of errors in the experiment itself
+[06:35] so to get some sort of comfort what you
+[06:37] can do is produce a box standard with
+[06:40] turbine blade which is what I've done
+[06:42] here and this has the same swept area as
+[06:45] our new turbine blade that we're working
+[06:47] on and so we can compare the two we can
+[06:49] put that in our rig and we can get
+[06:51] another torque measurement which will
+[06:53] cancel out a lot of the errors of the
+[06:55] experiment and give us a measure of
+[06:57] where ours is any much better than
+[07:01] this so I put it in the same setup
+[07:04] except it rotates in the opposite
+[07:06] direction so the scales on the opposite
+[07:08] side let's turn on the fan and see what
+[07:10] we
+[07:18] get so we got about 8 on that and about
+[07:21] 1.6 on that now don't go away with the
+[07:24] idea that this is definitive it isn't I
+[07:27] mean there's a lot of things wrong with
+[07:29] what we did and we really need to repeat
+[07:30] it all again much more carefully but
+[07:33] then of course these are models and so
+[07:35] any error in this will compound along
+[07:38] the line a small error might be a big
+[07:40] error when you get to the larger version
+[07:42] so you have to be kind of circumspect to
+[07:44] a little degree but it does give you an
+[07:47] idea that what you're working on is
+[07:49] probably worth pursuing and in this case
+[07:50] it looks very interesting for sure when
+[07:54] we get to a larger scale obviously we'd
+[07:56] need to measure it again and again and
+[07:58] again now this is A Lash together home
+[08:01] system for taking those essential bits
+[08:03] that we need and those essential bits
+[08:05] that we need are the length of this Rod
+[08:07] the angle it makes for the lines the
+[08:09] center of the earth and the force that
+[08:11] it applies on the scale with those we
+[08:14] can calculate torque be a bit careful
+[08:17] about the torque calculation you come
+[08:18] out with but it will give you a clear
+[08:20] idea of whether what you've got in your
+[08:23] hands is worth pursuing any good or not
+[08:27] I came across a toy recently it's called
+[08:30] The Flying gyroscope and it's incredibly
+[08:33] simple you find them all over the place
+[08:35] actually you can buy them if you want to
+[08:37] or you can me them from a soda bottle or
+[08:40] bits of folded up paper and it's called
+[08:42] The Flying gyroscope it became
+[08:44] incredibly popular more popular in the
+[08:46] Frisbee I believe for a short while what
+[08:49] you do is you throw them with a little
+[08:51] bit of a spin and they create lift and
+[08:53] so they can go an incredible distance
+[08:56] sometimes 600 ft or so the very
+[08:59] interesting things because it doesn't
+[09:01] matter if you throw it to create an airf
+[09:04] flow or it's still and you push an air
+[09:07] flow over it it's all relative it just
+[09:09] depends where you're standing it should
+[09:11] still spin so of course I'm interested
+[09:13] in the idea of whether that would make a
+[09:15] decent winter turbine or not so what I
+[09:18] want to do is investigate that to find
+[09:21] out if the flying gyroscope is any good
+[09:24] at being a wind turbine so of course the
+[09:27] first thing to do is to create a model
+[09:29] of it and I turned to Tinker Cad and the
+[09:32] first thing I came across was this an
+[09:34] NACA 2414 air4 which I want I got it
+[09:38] from thingiverse from funo
+[09:40] 28408 and downloaded that file so once
+[09:43] we've imported it into the work plan we
+[09:45] can see there's an NACA air foil with
+[09:48] the air foil running that way around now
+[09:50] we've imported it we need to reexport it
+[09:52] immediately but this time as an SVG file
+[09:57] now what we do is go to the search bar
+[09:59] and type in
+[10:04] SVG and it will pull up this particular
+[10:07] shape called SVG revolver we can drag
+[10:10] that onto the work plane and we get a
+[10:12] sort of tube but we also get this what
+[10:15] we need to do is drag a file in here and
+[10:19] it will change that shape to be SVG
+[10:23] revolver when it's done its job you can
+[10:25] see that what it's done is taken the SVG
+[10:28] file and revolved it around the number
+[10:30] of degrees that was specified in this
+[10:32] pull down menu here 300° if we zoom in
+[10:35] on that we can have a better look at it
+[10:37] and you'll see on this case the airfall
+[10:39] is actually pointing the wrong way it's
+[10:41] pointing inside the tube and I want it
+[10:44] pointing outside the tube we can resolve
+[10:46] that by copying
+[10:48] it dragging a copy over there and this
+[10:51] we've got sketch rotation change that to
+[10:54] 180
+[11:02] and you'll see that it's actually
+[11:03] changed the way the airfall is actually
+[11:06] pointing now of course it's pointing
+[11:08] downward so we need to flip that around
+[11:10] and if you like this one's pointing
+[11:13] inside which we can see there and this
+[11:15] one is pointing outside which we can see
+[11:18] there however of course there's a big
+[11:20] gap in it to resolve that Gap go to the
+[11:22] revolve angle and type in 360 which will
+[11:26] be a full circle
+[11:31] you can see it's a little Jagged and
+[11:32] here we have number of sides that we can
+[11:34] increase so let's increase the number of
+[11:36] sides and it gets much smoother we need
+[11:39] to do exactly the same thing on this
+[11:44] one now like that they're a little small
+[11:47] so what you do is export them as an STL
+[11:49] file and then reimport them with 10000%
+[11:52] scaling and you'll get something about
+[11:54] 100 mm across by reimporting it with the
+[11:57] scaling Factor you don't dis distort
+[11:59] anything then I created a hollow
+[12:01] cylinder and joined it to give me this
+[12:03] and we've got the air for profile as a
+[12:06] bump on the outside and then the
+[12:08] cylinder and a little breast that I put
+[12:09] in to hold it and that creates my
+[12:12] gyroscope my flying gyroscope now when
+[12:16] you look at the toys it's not clear
+[12:18] whether the bump is on the outside the
+[12:20] bump is on the inside or the bump is on
+[12:22] both sides so I created this one with
+[12:25] the bump on the outside and use the
+[12:26] second one to create this with the pump
+[12:29] on the inside so now we want to know
+[12:32] which one's better and to get a guide to
+[12:34] that I'm going to measure the static
+[12:36] torque so that's it set up turn on the
+[12:38] fan read the
+[12:48] GRS so with the bump on the outside the
+[12:50] measurement I got was 1.6 and with the
+[12:53] bump on the inside I got 1.2 so it seems
+[12:56] like bump on the outside is a little
+[12:58] better but it's a bit equivocal with
+[13:00] that test that I did anyway this is not
+[13:03] something that is unknown actually these
+[13:06] kind of ring shaped Wings have been used
+[13:08] in aircraft before with a few prototypes
+[13:10] being made because they do have benefits
+[13:13] one thing that they do is they reduce
+[13:16] the lift induced drag of course
+[13:18] everything is a tradeoff and there's
+[13:20] another kind of drag called parasitic
+[13:22] drag parasitic drag is where there's
+[13:25] boundary Separation on the airf flow
+[13:27] just because of the shape and material
+[13:29] that an air foil is made from and so
+[13:32] there's a crossover Point like most of
+[13:34] these things but there is a benefit in
+[13:36] reducing the lift indu drag from a shap
+[13:40] like this so quite interesting of course
+[13:43] with parasitic drag what's happening is
+[13:45] the air is flowing over here separating
+[13:47] and tumbling off the end creating an
+[13:49] awful lot of turbulence really and I was
+[13:52] pondering would there be something we
+[13:54] could do to help with that and also to
+[13:57] ensure the direction of rotation and of
+[13:59] course all we really need to do is add
+[14:01] fins which is exactly what I've done
+[14:03] here and the big question is what kind
+[14:05] of effect does having fins ad so I've
+[14:09] set up my new win turine design and
+[14:11] let's see how it
+[14:18] performs oh
+[14:27] wow okay so but a small model that was
+[14:30] actually kind of impressive it was
+[14:32] almost a fivefold increase so pretty
+[14:34] cool so adding the fins is helping with
+[14:38] that reducing turbulence and giving it a
+[14:40] definite direction to rotate I think and
+[14:42] I wanted to look at the internal bump
+[14:45] with internal fins so I put some
+[14:47] internal fins in this performed worse
+[14:51] than this this was only about four times
+[14:53] this was five times so this produced
+[14:55] worse output than this did however when
+[14:58] we we look at this and getting this into
+[15:01] a form that would be a functional wind
+[15:03] turbine there's a lot more that needs to
+[15:05] go on with this that needs to go on with
+[15:08] this because this is just a cylinder
+[15:10] what we could do is put our magnets
+[15:12] right around here surrounded by a coil
+[15:15] and we have an integral wind turbine so
+[15:18] this will be very much easier to use
+[15:20] equally of course if we want to hang
+[15:22] this so I'm thinking of the wind wall
+[15:24] where we just cut a load of holes in a
+[15:26] board and Slot that in the board then
+[15:28] that's it's going to be really easy to
+[15:30] make this into a usable wind turbine so
+[15:34] this to my mind actually has more going
+[15:38] for it than this because very often
+[15:40] maximizing output is actually not what
+[15:43] it's about what you want is output at a
+[15:47] low cost the more complicated you make
+[15:50] something the more it's going to cost so
+[15:52] little juty out parts that's going to be
+[15:54] quite hard a little juty in parts that's
+[15:57] going to be much much easier years so
+[15:59] that's the one I'm going to favor but of
+[16:01] course something as simple as a cylinder
+[16:03] with a bump on it has hundreds if not
+[16:06] thousands of things you can investigate
+[16:08] and I would encourage people to pick it
+[16:10] up and investigate their ideas and see
+[16:13] what they come up with and see for
+[16:16] themselves and hopefully share it
+[16:18] improvements that they make it's just
+[16:20] not possible for me to do everything I
+[16:23] really just make decisions sometimes
+[16:25] almost randomly and test those and see
+[16:28] what I get
+[16:29] but in part of our investigation what we
+[16:31] discovered was if you put fins on the
+[16:33] inside we got another bit of oomph from
+[16:36] this simple cylinder and of course that
+[16:39] immediately makes you think well what
+[16:40] should those fins be like what shape
+[16:43] should they be what kind of orientation
+[16:44] should they have what kind of
+[16:46] arrangement and I like the Archimedes
+[16:49] screw not for any particular reason I
+[16:51] just happen to like it so all I did was
+[16:54] take that design and stuff it in my
+[16:57] cylinder with a lip on the inside
+[17:00] expectation we'll get a bit more umph
+[17:02] out of it than we would if we just used
+[17:05] the Archimedes screws so I don't know if
+[17:07] that's true but we're going to see now
+[17:10] I've put a lot of indents around the
+[17:13] cylinder here that you can see and I'm
+[17:15] going to put some magnets in there so
+[17:17] when I put that in the framework and
+[17:19] make it spin of course what I've got is
+[17:21] a spinning magnetic field if I put a
+[17:23] call around there I have an integral
+[17:25] generator so what I did was I designed
+[17:28] this on Tinker Cad and it's surprisingly
+[17:31] only a few meor parts there only four
+[17:34] there's a cylinder of course with its
+[17:36] aramed Groove turbine in the center of
+[17:39] it then we have the bed which is this
+[17:42] huge thing here then we have a top for
+[17:44] the bed now there are a couple of things
+[17:46] to notice about this one I've put this
+[17:49] front end on this front end is in fact a
+[17:51] parabolic cone that's been chopped off
+[17:53] Square to help guide the wind in and
+[17:56] then in the center there we've got some
+[17:57] bearings and these bearings are skater
+[18:00] bearings but you could equally put
+[18:02] rollers in there they just guide the
+[18:05] cylinder as the cylinder is going around
+[18:07] keeping it in one place and of course
+[18:09] there's a top that'll take bearings that
+[18:11] go on top to hold that cylinder in one
+[18:14] place now something surprising happens I
+[18:16] suppose it's surprising when we point
+[18:18] the wind at this then we do get some
+[18:21] lift out of it which is what the rer
+[18:23] bearings are for but we also get an
+[18:25] awful lot of thrust so the back here
+[18:28] I've got this bearing and this isn't
+[18:30] actually acting as a bearing along the
+[18:32] axis it's a Thrust bearing it's so that
+[18:34] we don't push this all of the way out
+[18:37] when it's trying to turn and that thrust
+[18:39] is then turned into rotation so that's
+[18:41] the design now the first thing we need
+[18:43] to do of course is stick a load of
+[18:45] magnets in here and these magnets are 1
+[18:48] cm x 3 mm neodymium magnets and they're
+[18:51] going to be north south north south
+[18:53] north south the reason for choosing
+[18:55] those magnets I've got them half the
+[18:58] time I say I just use these things
+[19:00] randomly and when people are
+[19:02] experimenting and think they can make a
+[19:04] better design they're probably right in
+[19:06] fact they're 100% right but I would
+[19:09] encourage them to give it a go and make
+[19:11] their design and see their how their
+[19:13] design works okay let's stick some
+[19:16] magnets in here so they're just in a
+[19:18] north south north south pattern and held
+[19:20] in with Superglue which is fine for
+[19:22] something like this if you have a
+[19:24] favorite pattern like a halac for
+[19:26] instance knock yourselves out next job
+[19:28] we need to do however is to put the
+[19:31] bearings into the top and bottom cradle
+[19:33] and for that you need to have printed
+[19:35] out four of these These are 8 mm by 80
+[19:38] mm that hold the bearings in place you
+[19:42] take one of your rods and a washer this
+[19:46] is an 8 mil washer and the reason you do
+[19:49] a washer is because the bearing has a
+[19:51] little lip on it if the bearing moves
+[19:53] and presses against the side of the
+[19:55] housing it will catch with the washer
+[19:57] the washer oppressor on the housing and
+[19:59] press on the inner R of the bearing and
+[20:01] the bearing will still continue to turn
+[20:04] so you pop your axle through there pop a
+[20:07] washer
+[20:08] on pop a bearing in put another washer
+[20:12] on the other
+[20:14] side and continue through now it's a
+[20:17] little bit of a jiggle around to get
+[20:18] those washers and bearings in but they
+[20:20] go in place once you've done that for
+[20:23] the top you need to repeat it for the
+[20:25] bottom but the axles feed in only from
+[20:27] that point there and and then pop your
+[20:29] thrust bearing in there the next bit
+[20:32] you're going to need is this bit which
+[20:34] is the coil holder and it has a way up
+[20:37] one of the lugs pokes beyond the end of
+[20:39] the plate there and that will be the
+[20:41] Bottom now I've done lots of videos on
+[20:43] how to wind Serpentine coils and if
+[20:45] you're unsure about them refer to those
+[20:47] videos The Wire well it's basically as
+[20:51] um thin as it can cook with the amount
+[20:53] of amp you're going to put in there and
+[20:55] as much wire of that kind that you can
+[20:57] cram in there the better and that's
+[20:59] about all there is to it you wind one
+[21:01] big coil and then wrap them around those
+[21:04] lugs so when you've wind your cot and
+[21:07] got it on there it slots in the back
+[21:09] like
+[21:11] that and then the rotor goes in and it
+[21:13] goes in now otherwise the magnets will
+[21:15] actually stick to the bearings and you
+[21:17] won't be able to get it in so you pop
+[21:18] the rotor in and then pop the top
+[21:22] on right all we're going to do is turn
+[21:25] on the fan and see if we can light that
+[21:27] light
+[21:47] I think that's really awesome I mean it
+[21:49] may not look like much but that's a tiny
+[21:52] wind
+[21:55] turbine okay
+[22:05] I'm really quite pleased with that
+[22:07] actually now I did plug the figures into
+[22:09] a win turbine calculator and for this
+[22:11] blade length which is remember it's only
+[22:13] 100 mm across so the blade lengths 50 mm
+[22:16] and the wind speed and I measured the
+[22:17] wind speed at 4.5 m/s you'd expect
+[22:20] something like 100 Ms out of it
+[22:23] something like that I measured the
+[22:25] voltage and it was around about 4 volts
+[22:27] so 25 milliamp something like that maybe
+[22:29] 30 milliamps is what you'd expect from
+[22:32] something like this did it do more than
+[22:34] 30 milliamps well I imagine it did
+[22:37] actually I have to measure it but it
+[22:39] looked from the intensity of the light
+[22:41] in that bul lighting like it was doing a
+[22:44] bit more than that either way it did
+[22:46] really well for something I've coupled
+[22:48] together now I'm not 100% happy with the
+[22:50] design so for example the coil juts out
+[22:53] here a little bit and I'd like it to be
+[22:55] a full enclosure so all you see is the
+[22:58] white brick and the reason I want it as
+[23:00] the white brick is because there's two
+[23:02] ways to scale this up one is just to
+[23:05] physically make it bigger another one
+[23:07] would make lots of these and build a
+[23:09] wall out of it and if you built a wall
+[23:11] out of it of course you get other other
+[23:13] advantages from that one really big
+[23:16] element of Designing a turbine is what
+[23:18] wire do you use this is a question I get
+[23:21] asked loads of times what wire do you
+[23:23] use how many turns do you put into your
+[23:26] coil well to understand what wire to use
+[23:29] what you have to think about is the
+[23:31] amount of power that that thing is going
+[23:34] to generate now you can work that out
+[23:36] actually quite easily using omn
+[23:38] calculator from a wind turbine which
+[23:40] will give you an expected power output
+[23:44] now given that this thing is only about
+[23:47] 10 100 mm across which is Tiny in a wind
+[23:50] speed of about 4.5 m/ second we can
+[23:54] expect somewhere like 80 M out of it 880
+[23:58] m is absolutely peanuts so if we're
+[24:02] choosing a wire we needed to be able to
+[24:05] carry a specific amount of amps before
+[24:08] burning out now you can actually
+[24:11] calculate the voltage if you want it's
+[24:13] Faraday's law of electromagnetic
+[24:15] induction if you want to calculate the
+[24:16] volts then you usually need to
+[24:18] differentiate it for any instance of
+[24:20] time and you can get the voltage that
+[24:21] will be generated in a single turn of
+[24:24] wire of course that's that's quite
+[24:26] long-winded you could do the do exactly
+[24:29] what I did is make a coil pretty much
+[24:33] randomly this is fairly thick wire with
+[24:35] 200 turns on it the thickness of the
+[24:38] wire has no part to play in voltage
+[24:41] generated it's just the length or the
+[24:44] number of turns which will give you the
+[24:46] volts generated now we put this in a
+[24:48] wind speed of 4.5 m/s we got about 4
+[24:52] volts we have 200 turns that means it's
+[24:54] round about I think it's at 2 or 02
+[24:57] volts per turn but it's a fixed number
+[25:00] of volts per turn so we know how many
+[25:03] volts will be generated in a turn
+[25:05] because we did a quick experiment on it
+[25:07] now with all the best will in the world
+[25:10] we are never going to generate more
+[25:12] power out of a machine than is going in
+[25:14] the wind turbines are pretty much easy
+[25:17] to calculate we know that we're going to
+[25:20] get round about 80 M and we're going to
+[25:24] generate round about 4 volts because
+[25:27] we've got too 100 turn let's say I put
+[25:30] that into a generator the amount of amps
+[25:34] I'm going to carry generate sorry it's
+[25:37] going to be small it's going to be
+[25:38] around about four or five milliamps five
+[25:41] I think and that's going to mean that we
+[25:43] can pretty much use any wire we want
+[25:47] we'll increase the voltage by the number
+[25:49] of turns again the thickness of wire has
+[25:52] no impact at all the thickness of wire
+[25:55] only impacts the current carrying
+[25:57] capacity and in this case we're going to
+[25:59] be generating about 5 milliamps so we
+[26:01] want a wire that'll be able to carry 5
+[26:05] milliamps
+[26:06] so given that we want as much wire as
+[26:10] possible a very thin wire that's able to
+[26:13] carry 5 milliamps is going to be an
+[26:16] awesome wire so I chose 32 gaug s swg
+[26:21] which is rated around about 300
+[26:23] milliamps and that is hair thin being
+[26:27] hair thin means I can put a lot of turns
+[26:30] and so I made this out of 32 s swg and
+[26:35] there's a thousand turns on this wire
+[26:38] which means we're going to get something
+[26:40] round about 20 volts out of that but
+[26:43] it's still only going to generate
+[26:46] milliamps it's going to generate
+[26:47] milliamps because of the power going in
+[26:52] the what's coming out and not going to
+[26:54] increase the voltage is going to
+[26:56] increase which means that the out is
+[26:58] going to go down but we can get a very
+[27:02] high voltage by turning lots of lots of
+[27:05] turns of extraordinarily thin wire now
+[27:09] for these chunkier wires I've been using
+[27:12] almost
+[27:13] exclusively this coil winding assistant
+[27:16] right here which was designed by my
+[27:18] friend Peter you know as grle I'll put
+[27:21] the link to this in the description
+[27:23] below should anybody want to use it it
+[27:26] is awesome hey it can take thicker wire
+[27:30] but hair thin wire becomes an absolute
+[27:33] pain and what you do is breast it and
+[27:34] just wind the wire around but if you're
+[27:37] going to do a thousand turns that's
+[27:39] going to be a pen and its ability to
+[27:41] handle hair thin wires is also somewhat
+[27:44] limited because they snap it's very
+[27:46] difficult to handle those wires with
+[27:48] anything that's particularly brutal you
+[27:49] need something a bit more delicate and
+[27:52] something that we can wind around a bit
+[27:55] more quickly and a bit more accurately
+[27:58] because we got to do one or 2,000 turn
+[28:01] you really don't want to be doing that
+[28:02] one two three so what I did was came up
+[28:07] with this here it's a very basic machine
+[28:09] and you can see it's loaded with my
+[28:11] hairin
+[28:13] 32sw right there and here is the Tinker
+[28:16] cab design for it now I did a mixed job
+[28:20] on this because I have a laser cutter
+[28:22] and flat plates are really quick to cut
+[28:25] on a laser but you could 3D print it in
+[28:27] the assembly is pretty obvious this is
+[28:29] the carriage that carries the coil now
+[28:31] I've made everything to fit so you'd
+[28:33] have to make that Carriage adaptable all
+[28:36] to the coil size that you want the guide
+[28:39] itself is this section here and you can
+[28:40] see that the wire goes through these two
+[28:43] holes to the center of that spindle now
+[28:46] normally when you're doing something
+[28:48] like a coil Winder you have a sort of
+[28:50] worm screw that guides the wire up and
+[28:53] down here because we're winding a
+[28:55] serpentine coil which is basically a big
+[28:56] old Circle we we don't need that we just
+[28:59] need it to hold to the center and that's
+[29:01] exactly what that does this takes this
+[29:06] this is the coil forer that just turns
+[29:08] round and round and round the coil gets
+[29:10] LED in that step there and these gaps
+[29:12] are so we can put some tape on on this
+[29:15] top lip here we've got a little square
+[29:17] that engages there so it's engaged the
+[29:19] right way and you'll see these little
+[29:20] lips they're 5 mm this is 10 mm what
+[29:24] that does is stops the wire going down
+[29:26] here and getting caught
+[29:29] we Mount that onto the machine so those
+[29:32] two signs just clip together and the
+[29:34] whole thing goes on here which is an 8
+[29:37] mm bolt about 30 mm long and it's going
+[29:41] through a 22 mm skate bearing to give it
+[29:44] a pivot and we stick that on
+[29:47] that and then spacer and
+[29:55] nut all ready we go then we check our
+[29:57] hand thin
+[30:00] wire if I can actually take my hair thin
+[30:02] wire there it is take our hair thin wire
+[30:05] fit it through the center of those two
+[30:07] bumps to where the handle is pull it out
+[30:10] of the handle wrap it around a couple of
+[30:12] times and hold it down with a bit of
+[30:14] tape and then turn the handle you're
+[30:15] ready to go this will turn quite quickly
+[30:18] and in fact you can get an overrun so if
+[30:20] you rest your finger on there to give it
+[30:22] a little bit of resistance you'll have
+[30:23] much more control as you turn that
+[30:26] handle now this obviously is a fixed
+[30:30] size and we like to think that we'd want
+[30:32] infinite variability actually when
+[30:34] you're designing things you don't when
+[30:36] you're designing things you tend to
+[30:38] choose sizes that are fixed so this for
+[30:42] example it's a 100 mm diameter and we
+[30:45] all do that maybe 100 maybe 150 maybe
+[30:47] 200 but it's extremely rare to do
+[30:50] something like 1398 976 you just don't
+[30:54] do it that way so in fact these wheels
+[30:57] don't need need infinite variability the
+[31:00] way I make generators means I'm only
+[31:02] ever going to need maybe three or four
+[31:03] sizes of a wheel but an interesting
+[31:06] adaptation would indeed be to make this
+[31:09] so that it could slide up and down maybe
+[31:11] and you would have the same wheel that
+[31:13] you would set for the sizes that you
+[31:16] want another thing would be a counter
+[31:18] would be really good I may put a counter
+[31:20] on it actually and maybe a little
+[31:22] tensioner on there rather than
+[31:24] tensioning it with my finger but as a
+[31:27] basic machine ma that is the basis of it
+[31:30] and all we then do is turn that handle
+[31:33] when you've round it a th times what you
+[31:36] do is the gaps in there will have wire
+[31:38] and you wrap ordinary electrician tape
+[31:40] around it to hold it together take off
+[31:42] the top and peel off your coil and then
+[31:45] crelate it into these little castle
+[31:46] shapes and that is our Serpentine coil
+[31:50] that fits perfectly on our generator
+[31:53] coil holder now to work out how big this
+[31:56] coil actually had to be all I actually
+[31:58] did was take 19 mm which is the width of
+[32:02] the electrician tape plus 15 mm which is
+[32:05] Center to Center and multiply by 16
+[32:08] because that's the number of magnets
+[32:09] I've got and therefore the number of
+[32:11] lugs and the number of these arms that I
+[32:13] need and that gave me the exact size to
+[32:16] create that wheel now of course because
+[32:19] I always make generators at about 100
+[32:21] across and I usually set the magnets at
+[32:24] 22° I'm never going to have to change
+[32:26] that and I can wind these perfect
+[32:28] coils so to recap if you want to know
+[32:32] how many turns and how thick the wire
+[32:34] should be in a generator that you're
+[32:36] making the first thing you need to know
+[32:38] is the expected power output in Watts
+[32:42] then you need to know the volts per turn
+[32:45] set your voltage to what you think is
+[32:46] reasonable I did 20 volts because of
+[32:48] other stuff I'm going to do with it and
+[32:51] that will give you the number of turns
+[32:54] the power out and you can calculate the
+[32:57] amp on that to give you the thickness of
+[33:00] the wire that you actually need now
+[33:02] those are all rules with thumb remember
+[33:04] it's a wind generator so it will vary
+[33:07] and so you do need to take that variance
+[33:09] into account by making it slightly
+[33:11] thicker than you would originally think
+[33:13] so as I say I'm expecting 5 milliamps
+[33:15] but I have 300 milliamps carrying
+[33:17] capacity so plenty of variants and if
+[33:20] you want any more accurate than that
+[33:22] you're going to have to get into the
+[33:24] math of it a little bit more but as
+[33:26] rules of thought it's
+[33:28] a good way I think a guide to follow to
+[33:31] create the thickness and number of turns
+[33:34] that you're going to need in order to
+[33:36] create a generator this is what I'm
+[33:38] thinking of the final version of this
+[33:40] it's called the wind Cube because it is
+[33:42] a cube it's 150x 150x 150 and you're
+[33:47] able to stack them up to build a wind
+[33:48] wall which is pretty much what I wanted
+[33:51] it to be able to do and it's different
+[33:53] to the earlier prototyp and it now has a
+[33:55] full case but that's not the only
+[33:57] difference if we take the top off there
+[34:01] go then the tolerances between the
+[34:03] magnets which are carried on this
+[34:05] cylinder and the coil which is right
+[34:07] here is much closer because of course
+[34:09] the strength of the magnetic field is
+[34:11] proportional to the square of the
+[34:12] distance so the further away it gets the
+[34:15] more that magnetic field drops off so by
+[34:17] bringing them closer what you're able to
+[34:20] do is increase the magnetic field
+[34:22] strength really quite easily but it's a
+[34:25] question of tolerances the other big
+[34:27] difference is this coil this coil now
+[34:30] has 1,000 turns on it of s g32 and that
+[34:34] means that the voltage output of this is
+[34:36] going to be very much higher just
+[34:38] because the coil is better made and the
+[34:41] magnets are nearer those are the two key
+[34:44] things in any generator what we're going
+[34:46] to do is look at how we would make that
+[34:49] output into a usable input for something
+[34:52] else because of course all of these stal
+[34:55] generators produce an AC
+[34:58] and AC is not tremendously useful when
+[35:00] it comes to these kind of things what
+[35:02] you really want if you're going to
+[35:03] charge batteries for example is DC okay
+[35:06] so I've got it set up in the same way
+[35:08] that we did in the previous video we're
+[35:10] just going to turn the fan on and see
+[35:11] what happens the fan blows at about 4
+[35:14] m/s here because that's the average wind
+[35:16] speed in the UK but this is so sensitive
+[35:19] that if I just spin that by
+[35:22] hand see 2 and 1/2
+[35:26] volts f Vault just by hand anyway let's
+[35:29] turn the fan
+[35:54] on okay I appreciate this is open
+[35:57] circuit voltage look at that voltage
+[36:03] climb and that is just the result of
+[36:07] winding more windings on the coil and
+[36:09] making the magnets
+[36:13] closer that's
+[36:26] awesome okay
+[36:28] that's enough of that let's let's turn
+[36:30] that
+[36:32] off okay that was fun but it also had a
+[36:35] serious purpose it gives us some
+[36:37] guidelines because in order to change
+[36:40] that from AC to DC we need to put it
+[36:42] through a rectifier now you can build a
+[36:44] rectifier from Ford diod or you can buy
+[36:47] the little package like this and I
+[36:49] bought 30 of these from eBay for I think
+[36:52] it was uh £2 or something so they're
+[36:54] very cheap but we need to know what what
+[36:58] kind of current and voltage they can
+[37:01] stand and what kind of current and
+[37:04] voltage we can expect from our machine
+[37:06] in order to choose the right one now
+[37:08] this particular one is 2 oz at 1,000
+[37:11] volts and as we saw even an open circuit
+[37:13] voltage we're not going to get 1,000
+[37:15] volts so this will live up to the output
+[37:19] of the wind turbine really really easily
+[37:21] AB cope with it fine and as I said
+[37:24] before in a previous video we're not
+[37:26] going to be generating a cou couple of
+[37:27] ouns out of this so this little
+[37:29] rectifier is ideal for what we want it
+[37:31] for and if you look at the top there'll
+[37:33] be two squiggly lines and a plus and a
+[37:35] minus the output from the coil goes to
+[37:38] squiggly lines and then the plus and the
+[37:41] minus is your DC your DC is going to be
+[37:44] a bit all over the place actually and so
+[37:48] what we need to do is smooth that out
+[37:51] and to smooth it out you just use a
+[37:53] capacitor so this capacitor is an
+[37:55] electrolytic capacitor r at this is he I
+[37:59] can see where that is there we go 50
+[38:01] volts so again it's going to do the job
+[38:04] just gy dandy and we can put those onto
+[38:07] the end of the coil okay and here it is
+[38:10] wired up and laid out now the only
+[38:11] reason it's long wires incidentally is
+[38:14] cuz it's easy to show you what's going
+[38:15] on you would of course make it much
+[38:17] neater but first of all the wires come
+[38:20] from the coil to the rectifier on the
+[38:22] side of the squiggly lines and it
+[38:24] doesn't matter which wire goes to which
+[38:26] leg of the squiggly lines but once it
+[38:29] comes out it's a plus or a minus so it
+[38:32] does matter so the minus comes out of
+[38:34] here and goes into the minus of the
+[38:35] capacitor and the plus comes out of here
+[38:37] and goes into the plus of the capacitor
+[38:40] then I've got a couple of crocodile
+[38:41] clips and I've put this meter on and you
+[38:44] can see the meter is now measuring DC
+[38:46] and it already has a charge and it has a
+[38:49] charge because I've been testing this to
+[38:51] make sure it works and that capacitor
+[38:54] has been charged if I spin this
+[39:05] we see the charge go up and then it
+[39:08] drops slowly and that's what the
+[39:10] capacitor is doing the capacitor is
+[39:12] storing that charge and feeding it back
+[39:15] out slowly and so it will last a lot
+[39:17] longer and that's what evens out the
+[39:20] voltage that comes out of this thing
+[39:22] okay that was it I mean shockingly
+[39:25] simple wasn't it but that was just a bit
+[39:27] basics of what you need to do you can
+[39:29] make it more complicated if you want but
+[39:31] at the minimum that's what you need to
+[39:33] do in order to create the DC from an AC
+[39:36] that's a relatively smooth DC and of
+[39:39] course if you want the thing regulated
+[39:41] so you want to run a phone from it or
+[39:43] maybe charge 12 w batteries then you'll
+[39:45] need a regulator of some kind very
+[39:48] frequently it's a DC to DC Book boost
+[39:50] step down converter that's used but all
+[39:53] we need to do is that to get a DC out of
+[39:57] it now that capacitor was 1,000
+[40:00] microfarads or if you like 1 mif farad
+[40:03] given that the energy stored on a
+[40:04] capacitor is a half CV squared and it's
+[40:07] measured in Jewels then if you take the
+[40:10] voltage Square it and divide it by a
+[40:12] th000 what you'll get is a jewel stored
+[40:15] and of course a jewel per second is a
+[40:17] whatt and so it's giving you a very
+[40:19] clear idea of what that little thing is
+[40:22] actually generating anyway now we've got
+[40:24] it converted to DC and some indication
+[40:26] of what the wattage output's going to be
+[40:28] let's give it another run and see what
+[40:30] it
+[40:31] does so we are now measuring DC voltage
+[40:34] let's turn on our fan and see what
+[40:37] happens remember this fan simulates a 4
+[40:39] m/s 4.5 m/ second wind
+[41:53] anyway I thought was quite cool output
+[41:55] for such a little machine actually we
+[41:57] did really rather well now the only
+[41:59] reason it's like that is because I
+[42:01] happen to like the wind wall concept and
+[42:04] can see a use for it but that doesn't
+[42:06] matter the things we've looked at are
+[42:08] true of any wind turbine the same
+[42:11] principles actually apply in fact any
+[42:14] generator is covered by the same
+[42:16] principles so we've been working on this
+[42:19] thing the wind brick to make a wind wall
+[42:22] but you may think this is not a real
+[42:24] turbine because basically you can't
+[42:26] stick it on a stick and hoist it into
+[42:28] the air now I would argue that wind acts
+[42:31] differently when it hits a wall than it
+[42:33] does when it hits a turbine but that
+[42:36] aside why not make this into a circle
+[42:39] stick it on a stick so I designed this
+[42:42] and I'm calling it The Wind tube and
+[42:46] here it is in real life now it may look
+[42:48] a bit different but it's not it's
+[42:50] identical to this it's exactly the same
+[42:53] just a different cowl shape of course
+[42:56] it's got a hole in the Bott so you can
+[42:57] stick a stick on it and if you want to
+[42:59] glue a tail onto the backs side it's
+[43:02] going to find its own Direction in the
+[43:03] wind if we take the cow off then it's
+[43:07] the same inside as this one is so
+[43:10] they're pretty much identical machines
+[43:13] and this uses exactly the same
+[43:14] principles of the guiding rollers in the
+[43:16] channel That force it over this
+[43:18] Archimedes screw with a coil in the
+[43:21] bottom and some Electronics but first of
+[43:23] all let me show you how to turn this
+[43:27] into this so here is the wind tube
+[43:30] design and of course I'll put this on
+[43:32] thingy verse should want to share it and
+[43:34] now let's turn it into a cube and to do
+[43:36] that we only need two Primitives the
+[43:38] first primitive is this one here which
+[43:41] is the whole Cube and if we change that
+[43:44] so we make that
+[43:49] 120 by
+[43:52] 140 by 140
+[43:57] then we can press down the shift key
+[43:59] highlight the tube do this alignment
+[44:02] Arrow here click and align
+[44:05] it we got the first part done the next
+[44:09] part is with a normal Cub primitive this
+[44:12] time make that
+[44:14] 115 make that
+[44:17] 220 make that 220
+[44:29] again hold down the shift key highlight
+[44:32] the cube Hollow and then Center to the
+[44:34] cube
+[44:38] Hollow now we can hit the merge key and
+[44:41] it will only deal with the two that we
+[44:43] just highlighted and if we get this
+[44:45] shape and we can make that shape into a
+[44:48] hole and now we can merge those two
+[44:58] and hey Presto we get our wind
+[45:02] Cube now it's kind of like a cookie
+[45:04] cutter approach you have to make the
+[45:06] cookie cutter but you can make some
+[45:08] pretty intricate shapes and then merge
+[45:10] them with the original shape to get
+[45:12] whatever designs you want of course
+[45:14] you'd have to do the same thing with the
+[45:16] bottom that we just did with the top and
+[45:18] the bottom will leave a disc or rather a
+[45:21] flat plate and of course you just make a
+[45:23] box using that cookie cutter approach to
+[45:26] create sidewalk and that's how you do it
+[45:28] now somebody asked about the hexagonal
+[45:30] shape so you could stack them up like
+[45:33] bee Honeycombs and sure why not and this
+[45:36] is how I'd do it we're back to the
+[45:38] original tube and this time we're going
+[45:40] to use this primitive which says polygon
+[45:42] on it but it is in fact a hexagon and
+[45:45] you can see the measurements that it's
+[45:46] got it doesn't really matter that much
+[45:48] to be honest now if we take that and
+[45:51] make that 150 and we make that
+[45:55] 170 and then we inre inrease the height
+[45:58] 20 here to
+[46:00] 120 then equally like we just did we can
+[46:03] Center those
+[46:12] two make that a
+[46:15] hole we can take our large Cube that we
+[46:18] took before
+[46:34] and again Center this
+[46:43] one grouped them and this time we'll get
+[46:47] a hexagonal cookie cutter make that a
+[46:52] hole and group
+[46:55] lowers hey PR we've got a hex
+[46:59] design so there we go hexes you can
+[47:01] stack up like a honeycomb now somebody
+[47:04] mentioned what about weatherproofing
+[47:06] well there's been a slight change in the
+[47:08] design this one here when we first did
+[47:10] it I put the split here so we could lift
+[47:12] one on top of the other this one you
+[47:14] might have noticed the split is here so
+[47:17] the cowl goes on like that what that
+[47:19] does is it creates a kind of pan here so
+[47:22] once we put the coil in and the
+[47:24] electronics all you really do is fill
+[47:26] that with po compound or if you like a
+[47:28] wax like paraffin wax or something like
+[47:31] that and that of course will seal that
+[47:33] from the weather so it'll be 100%
+[47:36] waterproof which I thought was quite a
+[47:37] cool adaptation but there you go this
+[47:40] turbine is actually very adaptable to
+[47:43] what you think is a good way of doing it
+[47:46] and I would encourage folks to do it I
+[47:48] put this Bic turbine on thingy verse so
+[47:51] if somebody wants this one well go for
+[47:53] it but if you want to adapt it then
+[47:55] cookie cutting is it's a really great
+[47:57] way of adapting things to what you want
+[48:00] it to be and I would encourage you to do
+[48:03] that it's pretty simple as you see we
+[48:04] just did this with two Primitives that
+[48:06] we put together to create the cookie
+[48:09] cutter anyway I thought I'd update you
+[48:11] on that I hope you enjoyed the video I
+[48:13] really hope it was helpful and looking
+[48:15] forward to seeing what other people come
+[48:17] up with thank you very much for watching
+[48:19] and please do remember to like And
+[48:20] subscribe

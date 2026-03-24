@@ -1,0 +1,403 @@
+[00:00] [Music]
+[00:08] going to make a generator and I'm going
+[00:10] to make a generator all the way through
+[00:12] from the very basic where it starts
+[00:13] generating to how you can control it and
+[00:17] how you can use it to do something
+[00:19] useful like charge a battery bank for
+[00:22] example now generators are all the same
+[00:25] principle they have all the same bits in
+[00:28] their system so it doesn't really matter
+[00:30] if I use say a hand crank generator or a
+[00:34] wind turbine or a water wheel or even an
+[00:37] engine driven generator it really
+[00:38] doesn't matter what input I use to what
+[00:42] output I get and then what job I do with
+[00:45] it at the end so I'm going to go through
+[00:47] the whole system pointing out how these
+[00:49] bits relate to each other and how you
+[00:51] could change it for your win turbine
+[00:53] water wheel steam engine whatever it is
+[00:56] to store it in a battery bank or maybe
+[00:58] even use it directly L now to do that I
+[01:02] thought a really simple easy one to do
+[01:04] would be to take an exercise bike and
+[01:06] make that exercise bike into a generator
+[01:09] and then go through how that relates to
+[01:13] other kinds of inputs and generators
+[01:15] anyway let's get on with it first things
+[01:17] first is take this cover off because
+[01:19] underneath here is the working mechanism
+[01:21] and they're actually surprisingly simple
+[01:23] so there's a whole lot of screws and a
+[01:24] couple of pedals we'll get those off and
+[01:27] expose it I have just taken the cover
+[01:29] off that's all I've done this mechanism
+[01:32] is pretty standard for these kind of
+[01:34] machines the pedals are attracted
+[01:35] straight to this big fly big wheel here
+[01:38] it's a pulley wheel acting like a gear
+[01:40] goes down to a tiny one right there so
+[01:42] we get a gear ratio on it that's a
+[01:44] flywheel and right there is a magnetic
+[01:46] shoe now we alter the distance of the
+[01:49] shoe to the flywheel which creates a
+[01:51] resistance and then obviously you pedal
+[01:53] against that resistance that's it there
+[01:55] isn't anything else to them I'm going to
+[01:57] put magnets around the rim and use the
+[02:00] this is my rotor so I'm just going to
+[02:02] stick a whole load of magnets on there
+[02:04] got a load of magnets let's get gluing
+[02:05] so there we go with the magnets glued
+[02:07] around the fly wheel now I've got this
+[02:08] which is the fan of a microwave oven if
+[02:11] I pull that bit out I get a bit of a
+[02:13] coil with a bit of a core and all I'm
+[02:15] going to do is stick that right there
+[02:19] and then that will be my generator done
+[02:21] now there's a whole way you could do
+[02:23] this you could put loads of coals all
+[02:25] the way around it if you wanted you
+[02:27] could make a circular Co to Encompass
+[02:28] the whole thing if you wanted lots and
+[02:30] lots of stuff you could do with it I'm
+[02:32] going for the easiest simplest quickest
+[02:34] option and that is just to stick a coil
+[02:35] right so there's my coil glued in place
+[02:38] right there now it's AC so I've stuck a
+[02:40] rectifier on it right there and I've
+[02:43] attached a light to it and there's the
+[02:45] me the meter we're not this is not
+[02:47] serious at the moment okay we're just s
+[02:49] of demonstrating it
+[02:54] works so even at this gentle speed I'm
+[02:57] getting about 60 milliamps out of that
+[02:59] and about 26 volts so about a wat and a
+[03:02] half now that's easily more than enough
+[03:05] to charge your phone the average phone
+[03:07] charger takes somewhere between 2 and
+[03:10] six Watts something like that and I'm
+[03:12] just turning this by hand I'm not
+[03:14] pedling it but it works actually it's
+[03:17] quite an interesting application and why
+[03:19] don't manufacturers already do this for
+[03:21] a few pounds of extra bits and pieces
+[03:24] they'd be able to charge a premium price
+[03:26] cuz you can charge your phone on you
+[03:27] sweat a few pounds off however it is
+[03:31] also an example and contains everything
+[03:34] needed for any mechanical generator what
+[03:38] I be my mechanical is that the power
+[03:40] input is mechanical in this case right
+[03:43] here we stick our legs on there and
+[03:45] pedal that that's our input our input
+[03:48] here is our legs now doesn't matter what
+[03:51] that input is I could make that input my
+[03:54] legs a wind a windmill a water wheel a
+[03:58] petrol engine I wanted to make an
+[04:00] emergency generator it doesn't matter
+[04:02] what it is whatever mechanical input I
+[04:05] want to put into this particular machine
+[04:07] goes right there and in this case of
+[04:09] course it's my legs now I could quite
+[04:12] eily have bolted this thing on remember
+[04:14] this it's our turo turbine made from
+[04:16] spoons if I bolted that on and pointed
+[04:18] some water at it it had done exactly the
+[04:21] same job doesn't matter what I bolt on
+[04:24] here this is our mechanical input that
+[04:27] we need an appropriate thing to capture
+[04:29] the source of mechanical input whatever
+[04:31] that is doesn't matter if it's your arms
+[04:33] doesn't matter if it's your legs doesn't
+[04:34] matter if it's a windmill doesn't matter
+[04:35] if it's a turbine whatever it is it goes
+[04:38] right there after that we've got this
+[04:41] this is a big pulley wheel and belt what
+[04:43] it actually represents is a gearing
+[04:44] system is here I'm putting in mechanical
+[04:47] Power of some description in my legs
+[04:50] I've got relatively high torque but slow
+[04:52] speed and this bit which is the bit that
+[04:53] generates electricity works much better
+[04:55] at high speed so I need to turn that low
+[04:58] speed into to high speeded and for that
+[05:01] I use this it's a gear section it's
+[05:03] exactly the same with a turbine this
+[05:05] turbine will turn a stupid R of knots
+[05:08] but it's still not quite quick enough
+[05:10] remember we'll talk about this in a
+[05:12] second but remember generation is a
+[05:14] function of speed the more speed we can
+[05:15] get the better so we always have a
+[05:17] gearing system in order to do that and
+[05:20] the gearing system can be one to one
+[05:22] where you do it as a direct output or
+[05:24] you can change that gears by changing
+[05:26] the relationship of these pulley now in
+[05:28] this exercise bik it does it Auto
+[05:29] atically for us because it's already
+[05:31] there but component one mechanical input
+[05:34] component two gearing system then we
+[05:36] come to component three which is this
+[05:38] bit here this bit is the actual
+[05:41] generation bit it's the bit that
+[05:43] interacts with the coil there and
+[05:45] creates the electricity okay what I've
+[05:48] got here is a coil it's a coil from a
+[05:50] microwave oven turntable motor and I've
+[05:53] chosen this because there's lots of
+[05:54] turns of very thin wire that's important
+[05:58] in the center there is a blocker of
+[05:59] metal and I've put it onto the meter
+[06:01] with the pit reader so we can see what's
+[06:03] happening and what we can see happening
+[06:04] is nothing at
+[06:06] all I've got a magnet here if I move
+[06:09] that magnet across that coil we'll see
+[06:11] it generat and we'll see that with the
+[06:13] voltage change so watch that
+[06:24] voltage we can see the voltage going
+[06:26] from plus to minus it's creating an
+[06:29] alternate current and of course it's
+[06:31] doing that because I'm moving the magnet
+[06:33] if I put the magnet on there Watch What
+[06:40] Happens nothing nothing at all because
+[06:44] the magnetic
+[06:45] field must move if I do it only North I
+[06:50] get a tiny movement if I do it north to
+[06:53] south I get a big movement and I want a
+[06:55] big movement because big movement
+[06:57] generates more just having an field on
+[07:00] there won't do anything that field must
+[07:03] move the field moves the biggest range
+[07:05] of movement it can get is going from
+[07:07] north to south now it doesn't matter if
+[07:10] it's always North we'll still get an
+[07:12] alternate current being generated
+[07:15] because it builds the field and then
+[07:18] collapses the field and we get a back
+[07:20] reaction so it's always an alternate
+[07:22] current irrespective of which side of
+[07:25] the magnet you actually put on there now
+[07:27] there's a whole lot of reasons you can
+[07:29] go into that if you want tell yourself
+[07:31] in knots about why but the simple fact
+[07:34] is that field doesn't move it won't
+[07:36] generate why who cares it won't generate
+[07:40] if it doesn't move and the biggest range
+[07:42] of movement you can get is north to
+[07:44] south and the generation will always be
+[07:47] AC within that coil that's why these
+[07:52] magnets here are north south north south
+[07:55] because they get the biggest range of
+[07:56] movement if I put them all North I'd get
+[07:58] a small range of movement but still get
+[08:01] an AC generation they generate because
+[08:04] that field Zips past that coil and as it
+[08:07] does that there's a bit of iron in there
+[08:09] makes the field go down there intersects
+[08:12] the coil and it does that directly in
+[08:14] the relationship with the speed that
+[08:15] that north south field Zips past that
+[08:18] coil so the amount of generation we can
+[08:20] get out is related to the strength of
+[08:23] the magnetic field the speed at which
+[08:25] that magnetic field changes and the
+[08:27] number of turns or length of wire that
+[08:29] influenced by that magnetic field I put
+[08:31] a single coil here now I chose this coil
+[08:34] because there's lots of turns and it's
+[08:35] very thin wire and I know it's not going
+[08:37] to generate much in the way of amps so I
+[08:39] chose a coil has lots of turns so we get
+[08:42] get nice high voltage but that coil and
+[08:45] this coil are identical this is just a
+[08:48] lump of iron with a coil round round
+[08:50] round it so that there's a magnetic pole
+[08:51] here and here exactly the same in a
+[08:53] motor this are just about 24 coils round
+[08:56] around 24 little Poes of magnet and
+[08:59] joined up here so they come out and
+[09:01] looks like one but it's just 24 coils
+[09:04] exactly the same as this this is just a
+[09:06] neat package and this is easy for me to
+[09:08] handle and get because they're easy to
+[09:10] get but there's no difference
+[09:12] functionally between what's going on in
+[09:14] a standard stator from a generator or a
+[09:17] motor and exactly what we've got here
+[09:20] we've just arranged it so that a
+[09:22] magnetic field will zip past a coil
+[09:25] that's all that is and there is no
+[09:27] difference here than there is in a
+[09:30] standard motor or indeed a standard
+[09:32] generator this is a DC permanent magnet
+[09:36] generator which is exactly what this is
+[09:38] in here we have that rotor which is a
+[09:40] bunch of magnets and we have some coils
+[09:43] arranged just like this so this and this
+[09:47] are the same thing they're Our
+[09:48] Generation section where we're taking
+[09:50] the mechanical input we've geared it to
+[09:52] the right uh speed we've got this which
+[09:55] is turning very quickly interacting with
+[09:58] that coil and that is generating us an
+[10:01] AC output so have a look at this want to
+[10:04] guess how much it's generating well
+[10:06] generating nothing it's generating
+[10:08] nothing because I'm not turning it if I
+[10:10] turn it now it'll start to generate
+[10:12] because the power doesn't come from the
+[10:15] coil the power is actually here where
+[10:17] I'm turning it this transfers that
+[10:20] energy into electrical energy so if it's
+[10:23] easy to turn and I'm not getting much
+[10:25] electrical energy out of it well I did
+[10:27] this as an example with one coil and
+[10:28] that that's why it's got nothing to do
+[10:31] with that it's got to do with how much I
+[10:33] put here if I want more electrical
+[10:36] energy out of this we'll add more coils
+[10:38] you want more amps then connect those
+[10:40] coils up in uh parallel You Want More
+[10:42] Voltage connect them up in series and
+[10:45] you'll get more out but remember every
+[10:47] time you do that you increase the torque
+[10:50] requirement now I'm able to produce a
+[10:52] certain amount of torque with my arm if
+[10:54] I put too many callers around there I
+[10:56] just won't be able to turn it because
+[10:57] the torque will be too much from me to
+[10:59] be able to put in there with my arms on
+[11:01] my legs or equally with a windmill or a
+[11:05] Watermill because the power is not here
+[11:08] the power is here now I need to put
+[11:11] enough power in here to turn this
+[11:13] against the torque to generate having
+[11:16] one coil just demonstrates it'll do it
+[11:19] you want more put more coils on if it's
+[11:22] too easy add more coils it's too
+[11:24] difficult take some coils away now we
+[11:27] could use that AC output directly we've
+[11:29] done that quite often by lighting lights
+[11:31] with it that sort of thing but it's much
+[11:33] more common for people to want DC for
+[11:36] things like charging a battery bank for
+[11:38] example in solar and wind setups so
+[11:41] after it comes out of the coil in its AC
+[11:43] waveform we need to change it to DC for
+[11:45] those kind of applications and that's
+[11:47] exactly what that does that's a
+[11:49] rectifier and it's right there changing
+[11:52] the AC to DC so once we've done our
+[11:55] generation we very often want DC so I
+[11:57] have to change it we change it by using
+[11:59] a rectifier right there now this is all
+[12:02] over the place because of course we've
+[12:03] got a changing field that's passing this
+[12:06] at varying speed is remember strength of
+[12:10] field speed turns of wire they really
+[12:14] influence this my legs are on here it's
+[12:16] going to be changing its speed the wind
+[12:18] is on here it's going to be changing its
+[12:19] speed there's water on here it's going
+[12:21] to be changing its speed it speed will
+[12:23] change this will vary and fluctuate and
+[12:25] give you a dirty output it's all over
+[12:27] the place so one of the things we need
+[12:29] to do is make sure that that's clean now
+[12:31] we can do that by putting a capacitor
+[12:33] right on here we put a large enough
+[12:35] capacitor we can clean up that output if
+[12:37] we want a nice clean output a good
+[12:39] stable output then we need voltage
+[12:41] regulation if we use voltage regulation
+[12:44] we can change the voltage from the
+[12:45] output voltage remember the output
+[12:47] voltage will change we can regulate it
+[12:50] stabilizing it using a little circuit
+[12:53] that we just buy off the internet that
+[12:55] little circuit you can make yourself if
+[12:56] you want to or you can just b a
+[12:58] capacitor right here to do a reasonable
+[13:01] job but they are so cheap and so easy to
+[13:03] buy why not buy them and use them but
+[13:05] the function of this is voltage
+[13:08] regulation and changing the level of the
+[13:11] output voltage to the level of the
+[13:13] voltage that you want in this case it's
+[13:16] 12 volts I've got a varying voltage
+[13:18] coming in maximum at 40 volts I know
+[13:20] that cuz I tested it I want a stable 12
+[13:23] out and that's what that does that
+[13:26] regulates the voltage and steps it down
+[13:30] so it goes from an irregular DC to a
+[13:33] regular DC at the output voltage that
+[13:36] this will generate and then to the
+[13:38] voltage that I want which is the 12vt
+[13:41] voltage here I take that voltage and
+[13:44] take it to my output point which is here
+[13:46] now I wanted to charge a phone so in
+[13:49] order to charge a phone I need further
+[13:50] regularization stabilization and voltage
+[13:53] change and that's exactly what that does
+[13:55] that is the bit that changes it to what
+[13:58] I want it to be for the job that I want
+[14:00] it to do you don't necessarily need to
+[14:03] do that if you came straight from here
+[14:05] and attached it to your battery
+[14:07] controller you'd have a battery charging
+[14:09] unit so this simple setup can be seen as
+[14:13] a way of charging your phone from an
+[14:15] exercise bike you want to see it that
+[14:17] way equally it can be seen as the answer
+[14:20] to every single question I've ever been
+[14:23] asked about wind turbines water turbines
+[14:27] power generation
+[14:29] and storage it's all right here all we
+[14:32] have to do to make this store into a
+[14:34] battery is take those two wires put them
+[14:37] through our battery controller and then
+[14:38] add a battery to it that would then
+[14:41] store it to a battery here all we have
+[14:44] to do is change the mechanical input put
+[14:47] a Pelton wheel on it put a turgo turbine
+[14:49] on it get yourself a walking wheel here
+[14:52] all we've got here is a generator
+[14:54] section if you don't like
+[14:57] this that onto it it's all here this is
+[15:01] every single logical section to take a
+[15:04] mechanical input and turn it into a
+[15:06] usable output and it's in blocks
+[15:09] mechanical input gearing generation
+[15:13] output dtif output
+[15:16] control
+[15:18] application all right here nothing else
+[15:20] to it so that is another way that I
+[15:23] think is slightly more useful of seeing
+[15:25] what we actually did in that video
+[15:27] anyway I hope the explanation helps I
+[15:29] hope it does in fact form a picture in
+[15:31] your mind of what the logic is really
+[15:34] doesn't matter what the individual
+[15:37] application is as long as it contains
+[15:40] those components and is a complete a
+[15:42] side incidentally I put magnets on here
+[15:44] I could equally have put a belt onto
+[15:46] that I put a belt onto that I could have
+[15:48] driven anything at all an alternator a
+[15:51] washing machine motor this DC generator
+[15:54] anything by taking a belt from here and
+[15:57] connecting it to the pole which is what
+[15:59] luks done so it's all in here all you
+[16:02] have to do really is have a little bit
+[16:04] of think about it and then see the
+[16:06] logical blocks that have been
+[16:07] demonstrated in this particular
+[16:09] application anyway I hope that helped I
+[16:12] hope you enjoyed the video thank you
+[16:14] very much for watching please do
+[16:15] remember to like And
+[16:18] subscribe

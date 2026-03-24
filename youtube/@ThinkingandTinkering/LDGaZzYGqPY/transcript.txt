@@ -1,0 +1,303 @@
+[00:00] [Music]
+[00:07] hi everybody winter is here and it's
+[00:10] getting cold I mean if you happen to
+[00:11] live in the southern hemisphere of
+[00:12] course you're going into your summer but
+[00:14] I don't I live in England and it's
+[00:16] getting cold and it's getting cold in a
+[00:18] lot of the northern hemisphere now you
+[00:20] might remember this stuff here we bought
+[00:24] this a while ago and it's a um graphine
+[00:27] apparently it says contains graphine um
+[00:29] elro smog paint it's brilliant for
+[00:32] electr smog but even more useful for
+[00:35] making heaters you can make a whole
+[00:37] range of heaters from this kind of
+[00:39] material including pain on the wall
+[00:42] heaters and clothing heaters and pad
+[00:44] heaters and just a whole range of
+[00:47] heaters that you can make and because
+[00:49] you can do that we're going to make some
+[00:51] heaters of course the minute you start
+[00:53] playing with electricity you're going to
+[00:55] get a whole loot of people safety
+[00:57] salaries mourning at you so to protect
+[01:00] me this is for information and
+[01:02] educational purposes only and anybody
+[01:04] who follows any instructions or any
+[01:06] suggestions does so they at their own
+[01:08] risk I'm doing this for experimental
+[01:11] purposes right now we're going to do
+[01:14] something on heers and what I first
+[01:17] thought was to take apart some
+[01:19] commercial heaters reason for that it'll
+[01:23] give you an idea of what you need to do
+[01:27] when making a heater keep Bur Ling on
+[01:30] about how inside these things is super
+[01:32] simple and really I'm asking you to
+[01:34] believe me but I thought what I would do
+[01:37] is take one of these things apart so we
+[01:38] can see how super simple it is now the
+[01:41] first thing to notice is even though
+[01:42] it's a heater the entire case is made
+[01:44] out of plastic so made out of plastic
+[01:47] because it's just not going to get hot
+[01:48] enough to melt the plastic otherwise of
+[01:50] course you'd set your house on fire in
+[01:52] the UK we have these kind of plugs every
+[01:54] plug in the UK these days come sealed to
+[01:56] the wire and it has a fuse in the plug
+[01:59] so it comes already fused right there if
+[02:02] we undo the case and take the front off
+[02:05] there we go we can see what's in there
+[02:07] we look at this what we've got is a fan
+[02:11] speed control there and a temperature
+[02:13] control there and of course a little led
+[02:15] to tell it tell us it's on if we look at
+[02:18] that front again the fan control is
+[02:21] right there going directly to the motor
+[02:23] and this heat control is here which is a
+[02:26] b metallic strip thermostat really
+[02:29] simple thing and we've done stuff on
+[02:31] that basically the metal bends
+[02:33] differently depending on the heat and if
+[02:36] we turn that up we separate it out
+[02:38] further so it's got further to bend
+[02:40] that's how they work and that of course
+[02:42] goes straight to the heating element so
+[02:45] that's what's in this section here let's
+[02:47] take this section apart okay that's it
+[02:49] out of its case let's follow that
+[02:51] through that's the plug that plugged in
+[02:53] with its fuse coming down to two wires a
+[02:57] brown and a blue there's only two wires
+[03:00] because it's what's called a class two
+[03:01] piece of equipment it doesn't need an
+[03:03] earth it's an entire plastic body and
+[03:05] you can't touch it so it's only got two
+[03:07] wires coming in the brown is obviously
+[03:10] the live and the blue is the neutral now
+[03:12] neutral is really easy to follow through
+[03:14] because it gets connected to everything
+[03:16] I've cut this wire off to get the motor
+[03:19] out there's the motor there and the
+[03:20] motor is pretty independent from the
+[03:22] heater actually so the motor was
+[03:24] connected to the neutral and it's a
+[03:26] squirrel cage rotor which you see in
+[03:27] fans all the time because they're low
+[03:30] torque high speed and very simple and
+[03:32] cheap to make so the neutral gets
+[03:34] connected to the motor neutral gets
+[03:35] connected to the LED neutral gets
+[03:37] connected to the heating element right
+[03:39] there that neutral goes through this
+[03:42] this is a biometallic strip and that
+[03:45] acts as a thermal cutout switch so we've
+[03:47] got a thermal cutout a very simple one
+[03:49] right there on the neutral now when the
+[03:52] live comes in the live actually goes to
+[03:54] the thermostat and this is a b metallic
+[03:57] strip thermostat just like the ones you
+[03:59] find in in your cooker so there's a
+[04:00] little strip there that heats
+[04:02] differentially bends the metal open and
+[04:04] close the switch that bit there you
+[04:06] twiddle and that is the bit that presses
+[04:09] on that strip meaning that it's more
+[04:11] open or more closed or has further to
+[04:13] travel and if it has further to travel
+[04:15] of course it needs to be hotter to
+[04:16] travel and that controls the live the
+[04:19] live then comes into this section here
+[04:21] this is the motor switch which also acts
+[04:24] as an onoff switch for the heater
+[04:26] element the motor clearly then goes here
+[04:29] on the live where it's connected and the
+[04:31] live is bridged across to an LED which
+[04:34] is the one that we see after it comes
+[04:36] through the thermostat of course it goes
+[04:37] into the motor controller these two
+[04:39] wires are live wires going to that
+[04:42] resistive heating element because that's
+[04:43] the onoff switch bit and that's the
+[04:47] input bit that we've got there so the
+[04:50] motor is completely independent it's on
+[04:52] off and with a speed control in here the
+[04:54] heater is another separate piece it gets
+[04:57] its live feed from the onoff switch and
+[05:00] it's neutral through a direct connection
+[05:03] to the neutral through this thermal
+[05:06] cutout switch right there now
+[05:08] interestingly enough on the heater we
+[05:10] have yet another thermal cutout switch
+[05:13] right there so the neutral connects
+[05:15] these two bits here if we look there
+[05:18] there are two lives going in one to the
+[05:21] top one to the bottom because it's two
+[05:23] heating elements that's one that's two
+[05:26] and they're connected to their own live
+[05:28] that's the actual Heating element itself
+[05:30] this is a coil of nikro wire connected
+[05:33] here in the thermal
+[05:35] cutout so we removed the wiring loom now
+[05:38] and those are the components we've got a
+[05:41] thermostat we've got a motor we've got a
+[05:44] thermal cutout switch and we've got a
+[05:47] fan speed switch and then of course the
+[05:50] heating element itself which contains
+[05:52] another thermal cutout and a
+[05:55] diode so that was a 1 Kow heater these
+[05:59] oils are about 56 ohms each it's going
+[06:02] to be on a 230 Vol Supply but remember
+[06:05] we're cutting that by half because of
+[06:07] the diod and so we're going to draw
+[06:09] about a kilowatt or so there at that
+[06:12] voltage and it's really simple I mean
+[06:14] we've got a Fus in the plug certainly
+[06:17] then we've got the heating element
+[06:18] itself motor which was to drive air over
+[06:21] it and the main components are thing's
+[06:24] cff switches which are bi metallic
+[06:25] strips for thermal cff that's all there
+[06:29] is to this heater okay I've got a
+[06:32] toaster let's take that apart once we
+[06:35] get that gobbin off this is what we get
+[06:37] and these are the heating elements and
+[06:39] this wire and this wire well they're
+[06:41] identical they're both cancel wire only
+[06:43] difference here is remember this is 56
+[06:45] ohms these are 22 ohms per layer but
+[06:48] that's all the difference there is to it
+[06:50] now the other difference is there's no
+[06:52] thermal cutout and of course it has this
+[06:54] little circuit here the job of this
+[06:57] circuit is a timer circuit you pull the
+[06:59] plunge down it closes those two contacts
+[07:01] connecting live and neutral and then
+[07:04] there's a little timer that you bleed
+[07:06] off with that set resistor and it turns
+[07:08] that solenoid off there's a spring it
+[07:10] all pops up and your toaster pops up
+[07:14] that's to control the timing of the
+[07:15] toaster it's got nothing to do with the
+[07:17] heating and there are no thermal cutouts
+[07:20] here okay we connect that straight up to
+[07:22] a DC power source like my power supply
+[07:24] or an 18vt battery it draws 3/4 of an
+[07:28] amp and actually that's really quite
+[07:31] nice and toasty so we've made ourselves
+[07:33] a little hand warmer from a broken
+[07:35] toaster and actually it's a little bit
+[07:37] too warm what we'd really want probably
+[07:39] is about 12 volts maybe even
+[07:43] six okay I took those apart really to
+[07:45] show you how simple product actually was
+[07:48] I mean that TS to as a FIV so how much
+[07:51] effort material do you think they're
+[07:52] going to put in for something that
+[07:54] they're going to charge a fiber for
+[07:56] mostly manufacturing cost is about a
+[07:58] quarter of retail cost so it cost £125
+[08:02] to make that toaster the steel was like
+[08:05] tissue paper you could cut it with a
+[08:06] pair of scissors and they all use night
+[08:08] Chrome because that's the cheapest and
+[08:10] the most available it's on a sheet of
+[08:12] mic and the other heater there we go
+[08:15] it's on a little ring of mic so mic is
+[08:17] almost universally the support for these
+[08:19] things and the control Electronics is
+[08:22] invariably ridiculously simple because
+[08:25] it has to be they put in the minimum
+[08:28] requirement to make sure it's safe for
+[08:30] you it turns out with a toaster that's a
+[08:32] fuse in the plug with a fan heater
+[08:35] that's a fuse in the plug and a couple
+[08:36] of thermal cutout switches now I get a
+[08:40] lot of comments about people saying oh
+[08:42] you need this this this this this you
+[08:44] don't it's astonishing how simple you
+[08:47] can make a thing I mean okay we can go
+[08:49] to town on it I mean not just used a
+[08:51] simple bleed resistor in the toaster but
+[08:53] we could put a 555 timer circuit in
+[08:56] there or any other kind of timer circuit
+[08:58] and I have seen toaster with Optical
+[09:00] control where they measure the um the
+[09:04] darkness of the bread and pop it out
+[09:06] when it's the right shade that well
+[09:08] you're going to pay an awful lot of
+[09:09] money for until people don't buy them
+[09:11] which is why you get these simple
+[09:14] machines that work really well but
+[09:16] they're sold by the absolute bucket I
+[09:18] wanted to add if you've never done
+[09:20] anything like this
+[09:22] before without being rude be
+[09:26] extremely reticent about listening to
+[09:29] people on the internet most people on
+[09:30] the internet just are stating opinion of
+[09:33] it was fact if it were me and this is
+[09:36] what I do just have a look and see what
+[09:38] they actually do when you look at what
+[09:40] they actually do then remember that's
+[09:42] had years out there in the public with
+[09:45] people suing them right left and center
+[09:47] of the can so they've done what needs to
+[09:50] be done and if you're looking at things
+[09:51] like car seat heaters glove heaters hat
+[09:53] heaters clothes heaters bavarium heaters
+[09:56] heating mats all that sort of stuff
+[09:59] you're just not going to find anything
+[10:00] in there more than a heating element and
+[10:02] an attachment to a battery and if you
+[10:06] listen to people sometimes they they
+[10:09] really are talking more about their fear
+[10:11] and their opinion rather than what you
+[10:13] need if you want to know what you need
+[10:15] well just check out what people have
+[10:17] been doing in actual product it's going
+[10:20] to be a much better guide if you
+[10:22] designing something for yourself then
+[10:25] put in safety features and all kind of
+[10:26] features if you want to but if you just
+[10:29] want to get something to work then it is
+[10:32] really surprisingly simple now you saw
+[10:34] me touch that at 18 volts because 18
+[10:38] volts isn't going to go through you it
+[10:39] takes about 50 volts plus to get through
+[10:42] the resistance of a human being so 25
+[10:44] volts really don't worry about it it's
+[10:47] not going to get that hot either at
+[10:50] something like that so you've got very
+[10:52] little you need to do with a thing like
+[10:54] that and it is on a pretty firm surface
+[10:57] if you sitting on it you're probably
+[10:58] going to crack that mic so you might
+[11:00] want a fuse in it if you're running off
+[11:02] a battery in case you short those out in
+[11:05] which case they will get hot but a
+[11:07] simple fuse say one 2 amps is going to
+[11:10] take care of that but normally with
+[11:13] these kind of things where I've done
+[11:14] heaters where they've been encapsulated
+[11:16] like this I don't even bother with a
+[11:18] fuse because there's absolutely no point
+[11:21] in bothering with the fuse I also don't
+[11:24] bother with the temperature controller
+[11:25] because the rate at which it gives out
+[11:27] the Heat and the rate at which you can
+[11:29] heat it it's so low it's extremely
+[11:33] unlikely I mean impossible that's
+[11:34] actually going to get particularly hot
+[11:37] now I wanted to show you how simple they
+[11:38] were particularly in product how you can
+[11:40] do the beest minimum to get something to
+[11:43] work and if you really want to of course
+[11:45] you can go to town on it it's really up
+[11:46] to you anyway I hope you enjoyed the
+[11:48] video I hope it it opened an eye or two
+[11:51] about some of this stuff and thank you
+[11:53] very much for
+[11:55] watching

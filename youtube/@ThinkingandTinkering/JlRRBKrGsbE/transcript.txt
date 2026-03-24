@@ -1,0 +1,258 @@
+[00:01] okay
+[00:03] [Music]
+[00:11] okay I want to share my disappointment
+[00:14] with you because a friend of mine who I
+[00:17] won't mention it'll become obvious why
+[00:19] not said to me he had this super
+[00:21] capacitor module lying around there was
+[00:22] some fault with it he didn't know what
+[00:24] it was did I want the module and um give
+[00:27] it a go to repair it and I thought well
+[00:29] that's an awesome offer because super
+[00:31] capacitors there's very little to go
+[00:33] wrong with them they have a million
+[00:34] cycles and they really are quite
+[00:37] expensive if you get like a five
+[00:38] thousand ten thousand Harrod super
+[00:40] capacitor you're looking about 600
+[00:41] pounds these are the big Maxwell things
+[00:43] they come along like that at about like
+[00:45] that so of course I said well that's
+[00:47] really very kind yes I would love to
+[00:49] have a look at it and see what we can
+[00:50] actually do with it and he shipped it
+[00:52] down to me and here it is now what it is
+[00:54] is a couple of labs capacitor module
+[00:59] serious series the model is the 3550
+[01:03] uh 48 hyphen B 1.7 c hyphen M hyphen SD
+[01:07] hyphen a iPhone G and I'd give you the
+[01:10] model number because of course I went
+[01:12] onto the website and picked up the
+[01:14] technical data sheet the advertising
+[01:16] specification and what this thing was
+[01:18] supposed to be in all over the place it
+[01:21] says capacitor that's brilliant
+[01:24] undid the thing and this is what I found
+[01:27] inside a couple of layers of this and
+[01:30] this surprised me because obviously
+[01:33] we've got a lot of little devices here
+[01:34] that are all connected up on this
+[01:37] backboard and then of course we've got
+[01:39] our electronics and the electronics is
+[01:41] no surprise you've got a contactor we've
+[01:43] got some connection points here bus bar
+[01:46] better control electronics for the
+[01:48] display Etc sitting on the front panel
+[01:50] so that's no real surprise this however
+[01:52] didn't look right now we've got 600
+[01:55] cells per layer so we've got 1200 cells
+[01:57] each and they're connected in series and
+[02:00] parallel so there's 30 cells going that
+[02:02] way 20 cells going that way you can see
+[02:04] that they're in series so we've got 20
+[02:06] cells in series then they're connected
+[02:08] to the bus bars giving us our amps so in
+[02:11] series remember the voltage ads in
+[02:13] parallel the amp sound two layers are
+[02:16] connected here at the bus bars just to
+[02:17] slap on those amps with each other and
+[02:19] not change the voltage so each of those
+[02:22] strips is 48 volts with 20 cells what we
+[02:24] get is 2.4 volts at a cell now that's
+[02:28] not right
+[02:29] if we get a sort of bottom end range
+[02:32] without being impolite to Green Cap
+[02:34] bottom engine supercapacitor it's 2.7
+[02:37] volts and that's where super capacitors
+[02:39] begin so this row should not be 48 volts
+[02:42] it should be 54 volts now super
+[02:44] capacitors can go up there you can get
+[02:45] them up to about 3.4 3.5 volts per cell
+[02:48] but 2.7 is your bottom end there's
+[02:51] something wrong with the voltage that's
+[02:53] not right it's something else as well
+[02:56] when I weighed these usually came up to
+[02:59] about 25.8 kilos for each layer divide
+[03:02] them by the number of cells what we got
+[03:04] was about 43 grams per cell now a super
+[03:09] capacitor of the same size should weigh
+[03:10] about 30 grams per cell so they're about
+[03:12] 50 percent too heavy so they're too
+[03:15] heavy the voltage is wrong and there's
+[03:18] something else these are advertised at
+[03:19] 3.55 kilowatt hours which is great
+[03:22] if you divide that by the weight then
+[03:25] you get the wrong energy density these
+[03:29] are about 60-ish 63 Watt hours per kilo
+[03:33] that's extraordinarily High because
+[03:36] these things are about three Watt hours
+[03:39] per kilo now think people like skeleton
+[03:42] they're producing super capacitors
+[03:43] around about seven or eight watt hours a
+[03:45] kilo is their standard product and they
+[03:47] can go up to about 10 to 12 watt hours a
+[03:49] kilo that's the real top end of a super
+[03:52] capacitor what would that mean is that
+[03:54] the weight of this should only hold
+[03:57] about half a kilowatt hour and it's
+[03:59] supposed to hold 3.5 kilowatt hours so
+[04:02] it's not right that a super capacitor at
+[04:06] that way can hold that amount of energy
+[04:07] because if you've got a super capacitor
+[04:09] with energy density of 65 uh Watt hours
+[04:12] per kilo you ought to be selling these
+[04:14] things all over the world and completely
+[04:15] dominate the market because that is a
+[04:18] game changer it's out of the ballpark
+[04:20] orders of magnitude better than the top
+[04:23] end of what's going on in research at
+[04:25] the moment it's astonishing so it's just
+[04:29] not right there are lots and lots wrong
+[04:32] with this make you think Hmm
+[04:36] what's going on here so because this
+[04:39] module here that we've got here they're
+[04:41] obviously produced in massive amounts
+[04:44] because old kilowatt really have done is
+[04:45] white label it this is just that thing
+[04:47] we've put over a pretty prepared thing
+[04:48] probably comes from China
+[04:50] and it's not the right size normally a
+[04:52] larger one will come like that a smaller
+[04:54] one is sort of squatter and fatter it's
+[04:55] about 50 millimeters High actually
+[04:58] so it makes you wonder
+[04:59] is there anything around that's round
+[05:01] about that height and here I have an
+[05:04] 18650. now 18650s is a battery
+[05:07] specification for the size what it means
+[05:09] is it's 18 millimeters across and 65
+[05:11] millimeters High
+[05:13] hmm
+[05:16] so I got my calipers out to measure it
+[05:19] and guess what it's 65 millimeters
+[05:21] higher than 18 millimeters across so the
+[05:24] size of this is 18 650. if you look up
+[05:28] the weight of an average lithium battery
+[05:30] at 18650 you'll find it's 45 grams per
+[05:34] battery so the weight of it is the same
+[05:38] as a lithium battery now there is a
+[05:41] flavor of lithium battery that has save
+[05:43] voltage of 2.4 volts and that's lithium
+[05:46] titanate LTL
+[05:48] so
+[05:49] it has the same size
+[05:51] the same way the same voltage the sand
+[05:55] energy density that's a lithium 18650
+[06:00] battery that was LTR so in my mind
+[06:04] if it walks like a duck and clutch like
+[06:06] a duck well it's a duck so this is
+[06:09] extremely unlikely to be some kind of
+[06:12] magical super capacitor they're not
+[06:14] telling anybody about but it is
+[06:17] astonishingly likely to just be a bunch
+[06:19] of lithium batteries a bunch of lto
+[06:22] batteries and that's what I think of in
+[06:25] these packs there's no sipping
+[06:26] capacitors here at all this is just an
+[06:30] LTR battery that somebody's put
+[06:32] capacitor level on and
+[06:34] you've got to ask yourself why would you
+[06:36] do that oh there is another thing as
+[06:38] well of course in the technical data it
+[06:41] tells you the maximum discharge is 1.7 C
+[06:43] well that's not right for a super
+[06:44] capacity a super capacitoral discharge
+[06:46] 100 200 C without damaging it but it is
+[06:50] right for an LTR battery so why would
+[06:53] you do such a thing
+[06:55] well it's it's time to price
+[06:58] if you buy that kind of storage in those
+[07:01] you're going to be paying somewhere
+[07:02] about 60 70 000 per kilowatt hour that's
+[07:06] the price of Super capacitor storage
+[07:07] it's premium storage lasts for a million
+[07:11] Cycles it pays your money for that
+[07:14] if you want to buy lto you'll pay
+[07:16] somewhere around about 150 200 a
+[07:19] kilowatt hour something like that if you
+[07:22] buy it in serious you're paying
+[07:25] something like 800 a kilowatt hour
+[07:27] because these are about two and a half
+[07:28] thousand dollars or so to buy these
+[07:30] that's really expensive storage for what
+[07:33] is essentially your bottom end lithium
+[07:35] battery
+[07:36] so it looks like they're slapping super
+[07:39] capacitor or capacitor on it
+[07:41] putting lithium in it and charging a mid
+[07:45] price a premium price for a non-premium
+[07:48] product and of course lithium Titan is
+[07:51] not not bad in itself I mean it's got a
+[07:53] life cycle of sort of seven to ten
+[07:55] thousand Cycles if you take care of it
+[07:56] something around about there because
+[07:58] capacitors have got a million Cycles on
+[08:01] them so when I thought this was a
+[08:02] capacitor I thought yeah okay it can't
+[08:04] be anything wrong with the device will
+[08:05] be ultimate use of it now I think it's a
+[08:07] lithium titanate battery of course
+[08:09] there's an issue with lithium batteries
+[08:12] if you discharge lithium batteries below
+[08:15] a certain level they're completely
+[08:17] ruined you can't recharge them you can't
+[08:18] do anything with them and they're just
+[08:20] junk that's not true suit capacitors you
+[08:23] can completely discharge super
+[08:24] capacitors and you won't damage them in
+[08:26] the least so when I thought this was a
+[08:29] bunch of super capacitors I thought
+[08:30] doesn't matter what state they're in I'm
+[08:32] going to have myself something usable
+[08:33] now I think there are a bunch of lithium
+[08:36] Titanic batteries of course all I've got
+[08:38] is a big bunch of scrap that I've got to
+[08:39] dispose of so I'm going to have to test
+[08:42] each one of these and see if there's
+[08:44] actually any value in having this what
+[08:46] kind of charge it's got on it and can it
+[08:49] be brought back to life because just
+[08:51] right now it looks like I've just got a
+[08:54] pile of scrap now that is
+[08:57] um unfortunate and of course that's my
+[08:59] problem why I wanted to share this with
+[09:02] you is because
+[09:03] and while I'm not mentioning the people
+[09:05] who sent me this is because this company
+[09:08] is selling this as a super capacitor now
+[09:13] maybe they're making some claims that
+[09:14] they've come up with this weird and
+[09:16] wonderful special super capacitors to
+[09:18] open Battery kind of device but I must
+[09:20] admit given all the evidence I would
+[09:24] strongly suspect that that just isn't
+[09:27] the case at all no it's I do want to see
+[09:30] if I can use these so I'm going to see
+[09:32] if I can do that first if it turns out
+[09:35] that I can't use these what I'm going to
+[09:36] do is just sew One open we saw one open
+[09:39] we'll soon know exactly what's in there
+[09:41] and I have no I think it'd be no
+[09:44] surprises about what's in there now if
+[09:47] you're thinking about buying serious
+[09:50] if you're thinking about kilowatt then
+[09:52] bear in mind what I've said and I have
+[09:54] read other reports that are but let's be
+[09:57] for like less than favorable but I
+[09:59] wanted to point that out to you because
+[10:00] like I say I think it is a little bit of
+[10:03] a scam that's going on there it is
+[10:05] certainly suspicious I certainly haven't
+[10:09] actually proved it but I certainly have
+[10:11] my suspicions and I wanted to share them
+[10:13] with you I hope you enjoyed the video I
+[10:15] hope it does help somebody who's
+[10:16] thinking about these devices to think a
+[10:19] little more carefully thank you very
+[10:21] much for watching and please do remember
+[10:23] to like And subscribe

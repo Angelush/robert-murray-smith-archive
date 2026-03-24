@@ -1,0 +1,146 @@
+[
+  {
+    "id": "UgwYipJf5d9b9x7Qy_d4AaABAg",
+    "author": "@Ornetta28",
+    "author_channel_id": "UCOzXzrpg4Tq_MbHlprJTE9w",
+    "text": "What is the drawing program ? Is it an app?",
+    "likes": 0,
+    "published_at": "2024-08-05T19:02:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzt76nnjCuk8CatB3l4AaABAg",
+    "author": "@fallknight5405",
+    "author_channel_id": "UCbVWYXSwjRzbjLox818wYrw",
+    "text": "Do you have a 3d printer if so how do you draw an upload a image to 1",
+    "likes": 1,
+    "published_at": "2020-11-29T08:11:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxMTwOdW2oCFZ-3dV14AaABAg",
+    "author": "@martynjones973",
+    "author_channel_id": "UCYepQY76qzsuO7vMOAKwC6A",
+    "text": "Fantastic info 👍👍👍",
+    "likes": 1,
+    "published_at": "2020-11-28T19:54:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxMTwOdW2oCFZ-3dV14AaABAg.9Gbub5un66e9Gfi409dCue",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate! :)",
+        "likes": 0,
+        "published_at": "2020-11-30T07:22:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx0RMWmFjvbG6b2zkF4AaABAg",
+    "author": "@jonnyswalk_7",
+    "author_channel_id": "UCvRYvG-_p8EfhM6n7uuqCOQ",
+    "text": "Brilliant Luke 👍 - Well explained and your presenting skills are improving every time 👍 (not that there was anything wrong with them to start with 😊 ) Keep going Fella 👏 Warmest wishes from South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 - Jonathan 😊 👍",
+    "likes": 3,
+    "published_at": "2020-11-28T00:31:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx0RMWmFjvbG6b2zkF4AaABAg.9G_pRyG4w3B9GbFd1LKqwe",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Cheers Jonathan! :)",
+        "likes": 1,
+        "published_at": "2020-11-28T13:47:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwl0sdl9HMzpEXspSF4AaABAg",
+    "author": "@chrisk5305",
+    "author_channel_id": "UCncxt-qx8an93_QETbO-P_g",
+    "text": "Thanks, works great ;)",
+    "likes": 1,
+    "published_at": "2020-11-27T18:59:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwl0sdl9HMzpEXspSF4AaABAg.9G_EWSBhg6m9GbF_MNB41M",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Awesome! Thanks mate. :)",
+        "likes": 1,
+        "published_at": "2020-11-28T13:47:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVrhFUoHMWte-7FtN4AaABAg",
+    "author": "@pulesjet",
+    "author_channel_id": "UCFvYK8dKjA17NIkhN_pkLHg",
+    "text": "Thank you.  Going to give a go at this for circuit boards.",
+    "likes": 2,
+    "published_at": "2020-11-27T16:42:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVrhFUoHMWte-7FtN4AaABAg.9GZzpPfGkKb9GbEcoSm_M4",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Awesome, I hope it goes well! Thanks mate. :)",
+        "likes": 0,
+        "published_at": "2020-11-28T13:39:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmqPE9z3pxFx6KizZ4AaABAg",
+    "author": "@ThisRandomUsername",
+    "author_channel_id": "UCxaPwpC-_wFEWqSRlJ3Ea7Q",
+    "text": "I can't tell very well how it came out, but if you use a vector image instead of a raster (pixellated), it will likely give you a cleaner cut. Most drawing programs will have a tool that lets you convert raster images quite easily. In Inkscape, it's Path -> Trace Bitmap. You can then export as a DWG or SVG or something your laser cutter supports. Make sure it's the lines you're exporting, not the background image.\n\nAnother thing: Why do you need to make it into a png if you just export it as a jpeg again afterwards?",
+    "likes": 5,
+    "published_at": "2020-11-27T15:57:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmqPE9z3pxFx6KizZ4AaABAg.9GZuhwBH11o9GbFz5uoL86",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks for the tip! The reason why I exported it to jpeg is because of our laser cutting program. It is the only way I know how to make it work lol. Thanks mate!",
+        "likes": 1,
+        "published_at": "2020-11-28T13:50:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwEMfAPzNwqytpUzZV4AaABAg",
+    "author": "@truthseeker3907",
+    "author_channel_id": "UC2aMW78MhuDDvF4ox7feNSA",
+    "text": "Thumbs up! 👍",
+    "likes": 3,
+    "published_at": "2020-11-27T15:50:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyiXI_wly-7U6E0JyB4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Few volume issues there Luke. Cool video however",
+    "likes": 5,
+    "published_at": "2020-11-27T15:37:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyiXI_wly-7U6E0JyB4AaABAg.9GZsPf0xx1W9GbEiKoNigz",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "It's my microphone for the computer, unfortunately, but one is ordered and on the way for the future. Thanks mate.",
+        "likes": 0,
+        "published_at": "2020-11-28T13:39:55Z"
+      }
+    ]
+  }
+]

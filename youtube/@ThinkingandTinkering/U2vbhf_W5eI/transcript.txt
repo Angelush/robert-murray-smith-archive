@@ -1,0 +1,150 @@
+[00:02] [Music]
+[00:16] i've had this poppy in the garden for a
+[00:18] couple of years now
+[00:20] and whenever i've looked at it i've
+[00:21] always thought i should hook that up to
+[00:23] a motor
+[00:24] well there must be enough power there to
+[00:26] light an led at
+[00:28] least actually whenever i've looked at
+[00:31] it recently
+[00:33] i thought that's horribly faded
+[00:35] but i digress
+[00:38] i've got some bits together
+[00:40] here is a motor that i salvaged from an
+[00:42] old bubble gun that's why it's gone
+[00:45] rusty it ran on 2a batteries so it's
+[00:48] about 3 volts
+[00:50] i've got an led
+[00:52] and i've removed the poppy head
+[00:56] having watched rob and luke we all know
+[00:58] that making a wind generator is really
+[01:00] easy
+[01:01] you just slap your fan blades onto the
+[01:04] motor connect the led
+[01:08] attach them all pop it in the windstream
+[01:11] watch the led light and say awesome
+[01:15] so let's give that a go
+[01:19] here it is
+[01:20] fan on
+[01:22] motor whirring
+[01:24] and the led the led isn't lighting
+[01:29] oh that's not awesome
+[01:31] no that's that's definitely not awesome
+[01:35] oh
+[01:36] always preferred big clive
+[01:38] anyway that's coming down
+[01:45] okay so what's gone wrong
+[01:48] looking at the volt meter here
+[01:50] we can see we're only getting point two
+[01:52] of a volt out that's nowhere near enough
+[01:55] to light our led which needs about a low
+[01:59] i could try adding some gearing to turn
+[02:01] the motor faster
+[02:03] but we're not likely to get enough
+[02:05] voltage still
+[02:06] i could try and boost the voltage maybe
+[02:08] use a dc to dc converter or an ultra low
+[02:12] voltage harvester module
+[02:14] but i'd have to buy one of those and i
+[02:16] don't want to do that
+[02:18] what i think we're going to need
+[02:21] is a bigger motor
+[02:25] this is a dishwasher pump motor i
+[02:27] salvaged
+[02:28] it's a three phase brushless motor
+[02:32] to show you the power i've already
+[02:34] attached two leds across two of the
+[02:37] outputs
+[02:39] one led in each direction
+[02:47] now i can feel that the talk
+[02:49] of that turning that
+[02:52] is going to be too much for my little
+[02:53] poppy fan so if i do something like that
+[02:57] and put it in the wind
+[02:58] it's just not going to turn in the wind
+[03:02] well that's two motors now and neither
+[03:04] were suitable so what now
+[03:06] in an ideal world i'd try and find
+[03:08] another motor buy something suitable but
+[03:11] i've got this competition deadline to
+[03:12] meet and quite often you just need to
+[03:14] work with what you have
+[03:16] the next thing we can
+[03:18] look at is modifying one of the motors
+[03:21] i think modifying the little motor will
+[03:23] be too fiddly
+[03:25] so
+[03:26] whilst the dishwasher motor is far too
+[03:28] big
+[03:30] it should be easier to modify
+[03:35] the commutator
+[03:37] is really heavy
+[03:41] there are
+[03:42] loads of big magnets in there
+[03:45] but we don't need to generate masses of
+[03:47] power just enough to light our led
+[03:50] so how about
+[03:52] making a lighter and less magnetic
+[03:55] commutator
+[03:57] that would reduce the torque so the fan
+[03:58] can still turn
+[04:00] but generate enough power to light our
+[04:03] led
+[04:04] i've got some neodymium magnets i cut
+[04:06] out of an old leather samsung phone case
+[04:10] unbelievably there were nine magnets in
+[04:12] just that one case
+[04:14] i've got eight of them here and i've
+[04:16] checked them with a compass and marked
+[04:18] them red or white to indicate their
+[04:20] polarity
+[04:22] to make the magnet cylinder
+[04:26] i'm going to cut some circles out of
+[04:28] cardboard
+[04:31] stack them up like layers in a 3d
+[04:34] printer
+[04:37] and stick them together with sticky tape
+[04:40] to get the right size
+[04:42] i could have measured
+[04:44] the cylinder
+[04:46] and then taken away the thickness of the
+[04:48] magnets
+[04:50] but i just thought a tempe coin looked
+[04:52] about the right size and
+[04:54] that's what i drew around
+[04:57] okay so i've attached the eight magnets
+[04:59] oriented north south north south north
+[05:01] south north south around the edge with
+[05:04] more sticky tape
+[05:06] i put a hole in the center of the
+[05:08] cardboard and mounted it on a shaft the
+[05:12] plastic shaft
+[05:14] is just a a rod that i took out of a
+[05:17] fabric blind
+[05:18] it's too small in diameter compared to
+[05:21] the um to the actual shaft
+[05:24] but it should still work
+[05:28] the poppy's hot glued on the the end and
+[05:31] this is a
+[05:33] cover piece here
+[05:35] so we should be able to reassemble that
+[05:38] now
+[05:41] that all goes together that sits in
+[05:43] there nicely
+[05:45] and we can see
+[05:47] that the poppy
+[05:48] will turn and it spins much more freely
+[05:51] so let's get that in the wind
+[05:54] i've still got the two leds from earlier
+[05:56] connected i haven't made a bridge
+[05:57] rectifier to save on power
+[06:03] and there you have it
+[06:05] it's an led lit by poppy power cardboard
+[06:09] and sticky tape
+[06:11] that really is
+[06:13] awesome
+[06:15] hope this has been of interest
+[06:17] please remember to buy poppy this year
+[06:20] thanks for watching and remember to hit
+[06:22] that like button

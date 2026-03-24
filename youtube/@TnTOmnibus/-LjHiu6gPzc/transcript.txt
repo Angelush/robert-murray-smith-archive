@@ -1,0 +1,511 @@
+[00:00] [Music]
+[00:08] hi everybody when it comes to generation
+[00:10] There is almost invariably a universal
+[00:13] approach to it and that's pretty much
+[00:14] grab yourself a coil and pass some
+[00:16] magnets over it and that will generate a
+[00:19] current but there is an entirely
+[00:22] different way of looking at it and I
+[00:24] pointed this out before it's a hackaday
+[00:26] project created by a group of Canadians
+[00:30] essentially put a variable capacitor
+[00:33] onto some thin film and let it flap in
+[00:35] the wind using a diode rectification
+[00:38] circuit they were able to collect that
+[00:40] energy and light up a few LEDs which
+[00:43] doesn't seem great but the device they
+[00:46] used was astonishingly small now it's
+[00:49] using a property called electrostatics
+[00:52] and electrostatics are the electrical
+[00:55] equivalent of a magnet but they have the
+[00:58] benefit of not needing a magnet now all
+[01:02] electrostatic induction machines work
+[01:04] the same way because positive and
+[01:08] negative will attract and positive and
+[01:11] positive and negative and negative will
+[01:13] repel if we pass a Charged plate over
+[01:18] another plate it will
+[01:20] push the same charges away and collect
+[01:24] the opposite
+[01:28] charges
+[01:58] for
+[02:08] in something like a whims Hurst machine
+[02:10] this will build up and up and up until
+[02:12] we get a spark and that spark of course
+[02:16] represents energy the benefit of them is
+[02:19] they're ridiculously cheap and easy for
+[02:24] anybody to produce who happens to have
+[02:26] themselves a bit of tint foil some
+[02:28] scissors a pocket full of of dreams and
+[02:30] a handful of hopes so I've got some
+[02:33] sheet acrylic and I'm going to cut a
+[02:36] disc out of it using my ridiculously
+[02:38] large Hol saw so let's do
+[02:49] that okay and there it is that's going
+[02:51] to be the basis of the capacitor so
+[02:53] let's get that cleaned up and put some
+[02:54] aluminium on it so I've cut myself my
+[02:57] big disc but I've also cut these four
+[02:59] little discs discs because I try and put
+[03:01] an axle through there what it'll do is
+[03:02] just wobble what I need to do is just
+[03:04] build out a little bit with a boss so
+[03:06] I'll glue two discs there two discs here
+[03:08] the side that'll give me a little bit of
+[03:10] a boss when I drill through that with
+[03:11] the 8 mil then the thing won't wobble so
+[03:14] let's be that
+[03:16] on so that's the disc made with it
+[03:18] bosses and now to turn this into a
+[03:20] capacitor plate we need to make that
+[03:21] surface conductive and I've got a bit of
+[03:23] aluminium foil here this is the stuff
+[03:25] they use in Heating and ventilation
+[03:27] applications and it's just a bit of
+[03:29] sticky aluminium foil peel it off and
+[03:32] stick it to both sides of that disc
+[03:33] smooth it down and we're going to have
+[03:35] ourselves a capacitor
+[03:37] plat so that's the wheel finished now
+[03:40] made a couple of uprights out of acrylic
+[03:43] and just bunged a couple of ball
+[03:44] bearings in them the only interesting
+[03:46] thing to not is right here I've jammed a
+[03:48] wire between the holder and the bearing
+[03:50] because this sits in there and of course
+[03:53] everything's in contact so that actually
+[03:55] makes the conductor for that plate there
+[03:58] so these extra bits they're deadi e
+[03:59] they're just a bit of acrylic with some
+[04:01] aluminum foil stuck on them there's two
+[04:03] so here it is all together and that's
+[04:04] really simple like I say that's the disc
+[04:06] that we made that's the two acrylic
+[04:07] plates they made we put on this little
+[04:09] stand here so that we can get it to spin
+[04:12] on the back we've used exactly that
+[04:14] circuit that we looked at so there's the
+[04:16] diodes there there another one there and
+[04:18] the microwave oven diodes and I've
+[04:20] connected them up same way as that
+[04:22] circuit for the capacitor in that
+[04:24] circuit I've used a microwave oven
+[04:26] capacitor and the only thing missing on
+[04:27] here actually is the load but I've
+[04:29] committ ConEd a meter the meter is a
+[04:31] connected across the capacitor so if
+[04:33] we're able to pump some charge and raise
+[04:35] the voltage on that capacitor then we're
+[04:37] storing some energy so let's give that a
+[04:39] spin and see how it
+[04:46] does so you can see I've got that up now
+[04:48] to uh three of a volt actually just
+[04:51] spinning it by hand so we are
+[04:53] successfully charging that capacitor
+[04:56] that's pretty cool the Cap's got a
+[04:57] discharge resistor built in it so so
+[04:59] it's going to start discharging again
+[05:01] but we easily got that to point through
+[05:02] of a
+[05:28] vault
+[05:35] that's actually really quite cool hey so
+[05:39] this is a
+[05:42] um one microfarad capacitor 2 KV and we
+[05:45] got it up to half a volt so not a huge
+[05:48] amount of energy stored but you wouldn't
+[05:50] expect it I mean we're using aluminium
+[05:52] plates from a quite small variable
+[05:54] capacitor and it's probably a couple of
+[05:56] Pico farads uh well nanofarads actually
+[05:58] a nanofarad or two something like that
+[06:01] but it is definitely working we're
+[06:02] definitely able to generate some energy
+[06:05] from using just two aluminium plates I
+[06:07] mean next to no talk on that and
+[06:09] spinning it so that flag will obviously
+[06:11] work as well and I didn't like the flag
+[06:13] particularly just because it was a an
+[06:15] arrangement I thought we couldn't work
+[06:17] with where we can work with an
+[06:18] arrangement like this and start fiddling
+[06:20] on with it now I did that because I
+[06:22] don't know anything about the hacker
+[06:24] project I didn't know if it would work
+[06:25] or not and I thought it was certainly
+[06:27] interesting so worth the replication and
+[06:29] that's exactly what we did having got it
+[06:31] to work in that version what I'd like to
+[06:33] do is move it towards being principle so
+[06:35] the next step is to try some of our here
+[06:38] it is marvelous wonderful incredible
+[06:40] conductive ink and I'm going to paint a
+[06:43] disc that's the same size as the
+[06:44] aluminium disc with some of our ink then
+[06:46] I'm going to paint the two aluminium
+[06:48] plates that I made reassemble the
+[06:49] machine and we'll test it so let's get
+[06:51] to painting this disc so so we're going
+[06:54] to make a conductive ink now conductive
+[06:56] ink is actually really easy to make it's
+[06:58] a bit like cookery to be hon honest and
+[07:00] there are three main components there's
+[07:02] the active material which in our case is
+[07:03] a conductive material a binder which is
+[07:06] something to glue the whole lock
+[07:07] together and glue it on the substrate
+[07:08] you want to paint it on paper or plastic
+[07:10] and then a carrier something that keeps
+[07:12] it liquid and allows you to do all that
+[07:14] painting stuff with it we're going to
+[07:16] choose water as the carrier because of
+[07:18] course it's really safe and it's really
+[07:19] easy to get hold of uh you just turn on
+[07:21] your tap or you go dip in your well
+[07:23] whatever it is the binder that we're
+[07:25] going to use in this case is gum arabic
+[07:27] because Gum arabic is readily available
+[07:29] it's a food substance actually and it's
+[07:31] totally totally harmless so we're going
+[07:32] to use Gum arabic as the binder and
+[07:34] we're going to use water as the carrier
+[07:36] you can use other materials obviously
+[07:38] there's a whole range of them to
+[07:40] investigate using Gum arabic which is
+[07:42] what's used in watercolors incidentally
+[07:44] is going to make the thing
+[07:45] non-waterproof so it will wash off but
+[07:49] it makes a very good binder for
+[07:50] electronic circuits where you're not
+[07:52] expecting to come into into contact with
+[07:54] water if you're expecting it to come in
+[07:56] contact with water you're going to have
+[07:57] to use a waterproof binder um something
+[07:59] like polyurethane which is essentially
+[08:01] varnish but there's a whole load of
+[08:03] things to investigate we're going to use
+[08:05] Gum arabic and water and to that we're
+[08:07] going to add graphite now this is five
+[08:09] Micron graphite is a high quality flake
+[08:11] so it's really uh going to give a good
+[08:13] result in terms of conductivity and as
+[08:15] we're making a conductive ink
+[08:17] conductivity is what we want that's our
+[08:19] function so when you're making inks
+[08:21] you're looking at the function you're
+[08:22] looking at materials that you can put
+[08:24] into a binder with a carrier to make an
+[08:26] ink out of it the conductivity of this
+[08:29] ink is going to be directly related to
+[08:30] the active material the more conductive
+[08:32] your active material the more conductive
+[08:34] your resulting ink is going to be now
+[08:36] this 5 Micron graphite it's actually
+[08:38] very good quality and it's freely
+[08:39] available on eBay and they use it as a a
+[08:42] lock Lube I think you spray it as a
+[08:44] powder into locks and you can open the
+[08:45] lock so it's really quite easy to get
+[08:47] hold of now the first thing to do is to
+[08:48] measure out your water and the water we
+[08:50] need has got to be hot water because
+[08:52] we're going to dissolve the bander in
+[08:53] the hot water and we take one liter of
+[08:56] hot
+[08:58] water
+[09:02] now this is obviously just water I
+[09:03] boiled in the kettle and I'm only doing
+[09:05] like this so that you can see it stick
+[09:08] our 1 liter of hot water in some kind of
+[09:10] glass container and add 100 G of gum
+[09:16] arabic and then just leave that for an
+[09:18] hour to disperse so in 1 hour we'll come
+[09:20] back to that okay so once we've done
+[09:23] that we get this nice Amber liquid this
+[09:25] Amber liquid incidentally is a stuff you
+[09:27] would get if you bought the wisor and
+[09:28] new Gum arabic in the bottles it's
+[09:30] essentially the same stuff now to that
+[09:33] we need to add a plasticizer and because
+[09:34] it's Gum arabic we need to add a
+[09:36] preservative the plastic Sizer is 3 m
+[09:38] milliliters of this stuff glycerin so
+[09:40] you just add 3 milliliters of Glycerin
+[09:42] to
+[09:45] that there we go and our preservative is
+[09:49] going to be this stuff which is oil of
+[09:51] cloves oil of cloves is wonderful
+[09:52] because it's easy to get hold of and
+[09:54] it's a great preservative for this kind
+[09:55] of stuff and to this you add 1 ml of oil
+[09:59] of
+[10:01] cloves and that will stop it rotting in
+[10:03] the
+[10:05] jar so just to run through that again
+[10:08] it's 100 ml or one liter of hot water
+[10:12] 100 G of gum arabic 3 ml of Glycerin and
+[10:16] 1 ml of oil of cloves that is the binder
+[10:20] all ready to go so all we need to do to
+[10:22] that really is add the active material
+[10:25] now in our case we're going to add
+[10:26] graphite and we have 300 grams of
+[10:28] graphite this graphite is five Micron
+[10:31] Fleck graphite it's a high quality
+[10:32] graphite so it's going to give a
+[10:34] relatively high quality ink and that's
+[10:36] what we want so we add our 1 liter to a
+[10:38] pan because we're going to have to heat
+[10:42] this heating it ensures dispersion and
+[10:45] helps de gas it and that's why we're
+[10:48] heating it so just put it onto the Heat
+[10:50] and get it hot when it's hot obviously
+[10:52] it will begin to boil and to that you
+[10:54] add your graphite now the graphite won't
+[10:56] mix automatically it'll take a little
+[10:59] while but as it heats up it will begin
+[11:00] to mix and we stir that for 3
+[11:05] minutes so after you've stirred it for 3
+[11:07] minutes while it's been boiling that's
+[11:09] your ink actually done now you need to
+[11:11] make sure that you stir out the lumps or
+[11:12] you whip out the lumps or something like
+[11:14] that so it's not lumpy but you can use
+[11:16] it like that and it's basically done now
+[11:18] another great preservative actually is
+[11:20] this stuff which is just lising add
+[11:22] about 5 MERS of listerin and that'll
+[11:23] stop you Arabic going off now if you
+[11:27] happen to have one of these things this
+[11:28] is is really worth using this is an
+[11:30] Indian wet spice grinder it's basically
+[11:32] two Stone roll um rollers go around a
+[11:36] stone base and use it for making curries
+[11:39] that kind of thing you can buy on eBay
+[11:40] Under wet grinder and what's really
+[11:43] important with making these inks and
+[11:45] pants is actually the mixing it's to
+[11:47] ensure that everything is mixed properly
+[11:48] and that can be really difficult I I say
+[11:51] you can use this just by hand mixing it
+[11:53] and using a blender but uh sorry not a
+[11:55] blender uh using a whisk a blender is a
+[11:58] bit too harsh on a little make it froth
+[12:00] but if you've got one of these things
+[12:01] it's well worth using one of these
+[12:03] things and all you do is pour it in
+[12:04] there turn it on add another 500 mL of
+[12:07] water and give it an hour to grind
+[12:27] away
+[13:11] so there we go after an hour of that
+[13:13] what we end up with is this beautiful
+[13:16] beautiful smooth uh graphite based
+[13:19] conductive ink and we're going to pour
+[13:20] that out and give it a
+[13:27] go
+[13:42] there you go what was previously
+[13:43] aluminium is now our ink so I've pinted
+[13:46] the central disc with our ink and I've
+[13:47] pinted the two side plates with our ink
+[13:50] and now we're going to put the thing
+[13:51] back together give it a spin up and
+[13:52] we'll have a comparison with this and
+[13:54] what we did with the aluminium
+[13:56] sheets Okay so we've got this thing set
+[13:58] up exactly the same way when we had it
+[14:00] with the aluminium but now of course we
+[14:02] painted it with our conductive ink and
+[14:04] here is the meter right here let's give
+[14:06] it a spin and see what we can
+[14:27] get
+[14:32] you saw that half a vault just by
+[14:34] spinning it by hand that's awesome let's
+[14:37] stick the drill on and see what that
+[14:57] does
+[15:15] 1.49 nearly 1 and A2 volts if we spin it
+[15:18] by the drill so that's quite surprising
+[15:21] we actually got the better result with
+[15:22] the ink than we did do with the
+[15:24] aluminium which is very cool OB I'm
+[15:26] quite willing to admit I might be
+[15:28] getting carried away with this actually
+[15:29] but I'm going to tell you what I sort of
+[15:31] came across while I was working on this
+[15:33] machine and if you fancy giving it a go
+[15:35] yourself you can obviously under verify
+[15:36] or refute what I'm saying hopefully
+[15:38] you'd verify it I've set up this machine
+[15:41] is as I said it's a benett doubler and
+[15:43] it's different to the one that was on
+[15:45] the flag on the flag they've basically
+[15:47] got three layers and those layers wafted
+[15:49] in the wind and their theory is that it
+[15:51] makes a variable capacitor and that that
+[15:54] capacitor is an electron pump and it's
+[15:55] not an unreasonable Theory apart from
+[15:57] one thing hidden in the paper the guys
+[16:00] note that if they put uh insulation tape
+[16:04] across the surfaces of their conductive
+[16:06] pieces it stops working course that's
+[16:08] really interesting because it makes you
+[16:10] think okay maybe it's just not induction
+[16:13] because remember two conducting surfaces
+[16:15] that move across each other or and one
+[16:17] has a small charge will induce an
+[16:19] opposite charge in the other metal plate
+[16:21] and that's where a lot of electrostatic
+[16:23] machines actually get their um ability
+[16:25] from from the power of induction and
+[16:28] alter ly earthing it and not earthing it
+[16:31] um so if it was pure induction then
+[16:34] putting some insulation tape over the
+[16:35] top wouldn't make a blind bit of
+[16:37] difference but because they put
+[16:38] insulation tape across the top and it
+[16:40] stopped working it made me think well
+[16:42] maybe there's an element of tribal
+[16:44] electricity here now tribal electricity
+[16:47] is the thing you get when you rub a
+[16:48] balloon on your jumper and it'll stick
+[16:50] to the wall or pick up peers you can
+[16:52] Electrify something just by rubbing it
+[16:54] hard enough and that action of rubbing
+[16:56] knocks a few electrons off and it GS a
+[16:58] charge a static charge which you can do
+[17:01] various things like make your hair stand
+[17:02] on and Etc but it made me think maybe
+[17:05] there's an element of tribal electricity
+[17:07] in that now when we spun this um yeah
+[17:10] last night by hand we actually got quite
+[17:12] a reasonable result from it about I
+[17:14] don't know was it a vault and a half or
+[17:16] something it was slightly better than
+[17:18] the aluminium anyway but we got a
+[17:19] reasonable result from it now I just
+[17:22] need to put some gloves on and the
+[17:24] gloves are on because remember our metal
+[17:26] bar there goes all the way through and
+[17:28] is attached to one of the wires and is
+[17:29] in fact a conductor so I'm insulating
+[17:32] myself from the conductor so that I
+[17:34] don't affect the experiment because
+[17:36] obviously I would act as an earth if I
+[17:39] touched that metal bar so if I take my
+[17:42] bennets machine and I give that a spin
+[17:44] we've got the reading here it will
+[17:46] actually start to uh go up and go up to
+[17:49] a volto out I've got a bit of cotton
+[17:51] wool
+[17:57] here
+[17:59] we've already got it a half a volt just
+[18:00] by that let me put this
+[18:21] on it's gone up to four volts just by
+[18:24] gently holding a piece of cotton wool
+[18:26] against the surface of that so there is
+[18:28] some element clearly of tribo
+[18:30] electricity and what you can see
+[18:32] scattered about here are all the other
+[18:33] things that I tried I've got a bit of
+[18:36] wool felt there I've got some rubber
+[18:38] that'll be uh edpm I've got some PVC
+[18:42] I've got some HDPE I've got some
+[18:45] man-made fibers that I'm not sure what
+[18:47] they are I've got some cotton I've got
+[18:49] some waxed paper I tried a candle so I
+[18:52] tried all kinds of things to see what
+[18:54] effect different materials rubbing
+[18:55] against there would have in their cont
+[18:58] contribution uh of tribal electricity to
+[19:01] the way this whole thing works but
+[19:03] astounding thing was here's a bit of
+[19:05] carbon felt now it's conductive and
+[19:06] obviously I've got my other hand in a
+[19:08] glove as well so it also is uh insulated
+[19:12] now I don't press this very
+[19:27] hard
+[19:34] and we're already up to six volts I was
+[19:36] just resting that against there so it's
+[19:38] just gently rubbing it there's not a lot
+[19:40] of pressure on there and we can get that
+[19:42] up to six volts no worries at all see
+[19:44] how low it's going down the other cool
+[19:46] thing is if I keep spinning
+[19:57] that
+[20:04] then the effect lasts now this
+[20:07] construction I've got is on my dirty
+[20:08] bench there's lots of wires it's got a
+[20:10] fair amount of leakage so the electric
+[20:12] static charge I put on that plate will
+[20:14] in fact leak away uh relatively rapidly
+[20:17] we need to improve it against leakage
+[20:19] for that to retain but that slight
+[20:21] rubbing that we did with the carbon felt
+[20:23] or the cotton wool transfers enough
+[20:25] static onto the surface to make this
+[20:27] work very very much better instead of
+[20:29] being a volt or so it's now getting up
+[20:31] to 6 and 10 volts and that will actually
+[20:33] last now personally I think that's
+[20:37] astounding okay so I've got a little
+[20:39] double a 1.5 volt battery there that
+[20:42] I've put across this capacitor it's not
+[20:44] actually connected it's just resting
+[20:45] across it and I've got the other wire to
+[20:47] give it a little touch so if I give that
+[20:49] a little
+[20:51] touch then obviously what we've done is
+[20:53] dump a little bit of charge onto the
+[20:55] capacitor and now I'm going spin that up
+[21:30] there you go we can get that up to about
+[21:31] 4 volts so in order to improve the
+[21:34] output of this to me it's pretty obvious
+[21:36] we need an element of pre-charging which
+[21:39] can be resting something on there to get
+[21:41] a bit of tribal electricity going so
+[21:43] like cotton wall or maybe carbon felt or
+[21:45] maybe a bit of wall I mean for sure if I
+[21:47] could have got my cat here i' have put
+[21:49] her against it to see how she did but
+[21:52] resting against something to pre-charge
+[21:54] it with a bit of tribal electricity or
+[21:57] pre-charge it it with something like a
+[21:59] double air battery where you just give
+[22:00] that little bit of charge just to get it
+[22:03] going and once you get it going the
+[22:04] output shoots right up there and it's
+[22:07] why I think that that flag system is
+[22:09] actually working and when they insulate
+[22:11] it it doesn't because there's an element
+[22:13] of travel electricity as well as
+[22:15] induction now we made this in exactly
+[22:18] the same way as we did in video 1340 the
+[22:21] only difference being instead of using
+[22:23] the aluminium we used our conductive ink
+[22:25] and it works if anything slightly better
+[22:27] now you've got to remember this is an
+[22:29] electrostatic machine so even though the
+[22:30] voltage is quite high in these terms it
+[22:33] will be a very low ampage what we need
+[22:35] to do is have a look at that but it
+[22:37] looks to me like this idea of printing
+[22:40] an electrostatic generator has moved one
+[22:43] step closer we've taken the um flag
+[22:46] circuit attached it to a standard
+[22:50] electrostatic generator converted that
+[22:53] to a printed or painted electrostatic
+[22:56] generator the next step is just to get a
+[22:58] bit more involved with that I'd like to
+[22:59] look to see if the flag actually works
+[23:01] with um the thing with the painting I
+[23:03] think and then of course we've got to
+[23:05] have a look at the fractal capacitors to
+[23:07] see if that Network actually does it
+[23:09] because although they say these kind of
+[23:11] things of course I don't know I've not
+[23:13] tried it having tried it I can say that
+[23:16] it does seem to be working and of course
+[23:17] that's very exciting anyway that's the
+[23:20] next step in the progress to see if the
+[23:22] actual ink works so that we could have
+[23:24] the potential of printing it hope you
+[23:26] enjoyed the video thank you very much
+[23:28] for watching please like And
+[23:30] subscribe

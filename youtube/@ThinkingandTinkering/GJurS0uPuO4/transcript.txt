@@ -1,0 +1,514 @@
+[00:00] [Music]
+[00:08] Right. In our quest to learn this thing,
+[00:11] so far we've got it out the box, got a
+[00:13] brief familiarity with the machine.
+[00:15] We've started with a CAD program in
+[00:18] order to draw the model that we want to
+[00:20] actually make. And somehow we've got to
+[00:22] get that model into this machine to get
+[00:26] this tool head to work. Now, it does
+[00:29] seem like an awful lot to do. And if you
+[00:32] want to learn absolutely everything
+[00:33] about everything before you even start,
+[00:36] it is an awful lot to do. But then, of
+[00:38] course, it's like any burger, any
+[00:40] elephant burger. When something's great
+[00:42] and big and huge, the way you do it is
+[00:46] one bite at a time. You don't need to
+[00:48] learn everything before you turn the
+[00:51] machine on. You just need to learn
+[00:53] enough to actually do what you want to
+[00:55] do because learning is an experience.
+[00:57] It's a journey like this is a journey.
+[01:00] You're going to get indepth as you do as
+[01:04] you progress and find things that you
+[01:06] don't know you want to do. You'll learn
+[01:08] them at that time. All we're really
+[01:10] doing is learning how to get going. And
+[01:13] to be honest, that's not that difficult.
+[01:16] I mean, we've been at it a couple of
+[01:17] days, but then remember I have to make
+[01:19] these tutorial videos as well. So, it's
+[01:22] much longer for me than it might
+[01:24] actually seem. Actually, it's only been
+[01:27] a few hours. But even so, we've got to
+[01:30] learn how to get that model into this
+[01:34] machine. And this machine has a computer
+[01:36] in it, an industrial computer called a
+[01:38] controller. The controller understands
+[01:41] its own language. And we have to convert
+[01:44] the language of the model into the
+[01:46] language of the controller. So the
+[01:48] controller can send messages to the
+[01:51] motor. The motor needs to be told how
+[01:54] fast to spin, where to go, and what path
+[01:58] to follow. If we can tell it that, then
+[02:00] this machine will do anything we want it
+[02:03] to do. That language is G-code.
+[02:06] Actually, there's quite a few, but
+[02:07] G-code is the predominant one. It's it's
+[02:09] the winner. It's the one that everybody
+[02:11] uses. And then it stands for geometric
+[02:13] code. It is in fact just a list of
+[02:15] numbers. There's a list of numbers that
+[02:17] gets sent to the controller in the
+[02:19] machine. And the controller in the
+[02:21] machine understands that as instructions
+[02:24] of where to move that motor to, what
+[02:26] path to follow, and how fast it needs to
+[02:29] be spinning. Of course, if you're
+[02:31] familiar with this thing, which is a 3D
+[02:33] printer, these ideas won't be new to you
+[02:36] because this is a computered machine.
+[02:38] It's the CAM part of CAT CAM. And that
+[02:42] link between the drawing and the
+[02:44] machine, we're already very familiar
+[02:46] with. It's the slicer. The slicer does
+[02:48] exactly that. It takes the model, cuts
+[02:50] it into slices, turns it into that
+[02:52] numeric code, G-code, which is
+[02:55] instructions sent to the computer on
+[02:57] here on how to move that tool head and
+[02:59] how fast to extrude it, and so on and so
+[03:01] on. This is just an example of the CAM
+[03:04] part of CAD CAM that you're probably
+[03:07] very used to.
+[03:08] Indeed, the same thing could be said for
+[03:10] this thing. It's a CO2 laser cutter,
+[03:13] another computer aided machine that
+[03:16] needs that conversion between model and
+[03:19] machine. Now, it's quite common with 3D
+[03:22] printers and laser cutters for the
+[03:23] company to send you the CAM software or
+[03:26] if you like the slicer and it comes with
+[03:29] the profile settings for their
+[03:30] particular machine. With CNC, that's
+[03:34] actually more unusual. You don't usually
+[03:36] get that. And unfortunately, even though
+[03:39] there is a standard, G-code has a
+[03:41] standard defining it. There are always
+[03:43] tiny little differences between
+[03:45] controller boards and machines as the
+[03:47] manufacturer makes them. And so, they
+[03:49] release profiles and quite often you
+[03:52] need to add that profile into whatever
+[03:55] CAM software you're going to use in a
+[03:58] process called post-processing. It takes
+[04:00] the standard and makes it specific for
+[04:03] the machine, which is a bit inconvenient
+[04:05] if you think about it. But these guys,
+[04:07] Maker, have actually produced their own
+[04:10] cam software, which is pretty cool. And
+[04:13] what that means, of course, is that that
+[04:15] postprocessing won't actually be as
+[04:17] necessary because the Mecca cam software
+[04:21] contains the profiles for the Carver and
+[04:23] the Carver Air. I actually was pretty
+[04:25] impressed when I found that out. But it
+[04:28] does mean that you have a choice. You
+[04:31] can either use a cam software that is
+[04:33] from somebody else. And we're going to
+[04:35] have a look at free cam software or we
+[04:39] can use the maker cam software in the
+[04:42] same way that we use a 3D printer
+[04:44] slicer. And we're going to have a look
+[04:46] at that too. Right, we're back in
+[04:48] freead. a new free card. We've got this
+[04:51] selected, which was the gear that we
+[04:53] made in video 2390. Notice it says gear
+[04:56] and gear respon. We're in the wrong
+[04:59] workbench. So, we need to take this gear
+[05:02] to the cam workbench. When we click on
+[05:04] the cam workbench, of course, the tools
+[05:06] change. The first tool we need to apply
+[05:09] is this one here, green square little
+[05:11] sort of drill bit icon. Click on that
+[05:14] because that creates a new job and it
+[05:17] will pull up this screen. Now we don't
+[05:19] have any templates set but we can take
+[05:21] care of that later. All we really want
+[05:23] to know is that gear one which is sorry
+[05:26] gear which is the one we want is in fact
+[05:29] selected as a job. And then we click
+[05:31] okay. When we click okay we'll get some
+[05:34] tasks. And there they are. And you'll
+[05:37] notice it's drawn a little box around
+[05:40] that gear. That box is actually material
+[05:43] definition. So, it's the blank stock
+[05:46] that we're going to cut our gear from.
+[05:48] It selects it for us. Now, when we look
+[05:51] at the tasks, we can see we're in layout
+[05:53] and create box. And it's created a box
+[05:55] around the gear that's actually slightly
+[05:57] bigger than the gear, but that's going
+[06:00] to be my stock. You can change this
+[06:03] obviously. You can click on there and
+[06:05] you've got create cylinder, use existing
+[06:08] solid, extend boundary, and so on and so
+[06:10] on. So you can play around with this,
+[06:12] but I'm quite happy with it as it is.
+[06:14] Now, one of the things I need to do is
+[06:16] let it know where to start, and that is
+[06:18] to set the origin. So, if I click on
+[06:21] that corner right there
+[06:25] and click set origin,
+[06:28] then that's going to be where my tool
+[06:30] starts. So, if you think about the bed
+[06:32] that this is going to sit on, it's going
+[06:34] to be a box of stock, the size that
+[06:36] we've got, or slightly larger, doesn't
+[06:38] really matter. That will be the clamp on
+[06:40] that corner there. And there'll be
+[06:42] assisting clamps here, here, here, and
+[06:44] here. So, the tool head will go right to
+[06:46] there to understand that it's got to
+[06:49] start there. Okay. For me, there's not a
+[06:51] lot else to change there. Let's have a
+[06:53] look at output. On output, we're going
+[06:55] to use G54. And here's the bit that I
+[06:58] was talking about about the
+[06:59] post-processor. It's right there. If we
+[07:01] click on that, then we have a whole load
+[07:04] of them that we can actually choose
+[07:05] from. We're going to use generic on this
+[07:07] one actually. But here you need to check
+[07:10] your post-processor against your actual
+[07:12] machine and that's usually supplied by
+[07:14] the manufacturer and you would put that
+[07:16] in the processor section to get the
+[07:18] post-processing right. Okay, let's have
+[07:20] a look at the tools. Now we're in tools.
+[07:22] Of course, we can see there aren't any
+[07:24] tools. So, we need to add a tool and
+[07:27] that will take you to a tool library.
+[07:29] The tool library is here in Frecad. And
+[07:32] we've got these bits that already came
+[07:34] with Frecad. Now, of course, I have
+[07:36] different tools on that machine. So, I'm
+[07:38] going to have to set up an FCTB file for
+[07:41] the tools they're actually provided, but
+[07:43] at the moment here, we're just going to
+[07:45] select a 5 mm endmill and add that as a
+[07:48] tool to the tool selection. And okay, so
+[07:52] that pretty much sets up the job. We've
+[07:54] got the part, we've defined the size of
+[07:56] the stock, we've selected the tools.
+[07:58] Now, of course, what we need are some
+[08:00] operations.
+[08:02] Okay, we're back in the job screen. And
+[08:04] here we've got these tools. These define
+[08:06] operations. Now, what I want to do is
+[08:08] cut those holes out right the way
+[08:10] through. And of course, I'm not going to
+[08:11] drill them out. They're are 14 mm that
+[08:14] wouldn't fit in the machine. I'm going
+[08:15] to mill them out. In order to mill them
+[08:17] out, you use this one here called Helix.
+[08:21] We click on the helix tool and it'll
+[08:23] pull up this basic task. So, here the
+[08:26] details of the operation. We've got our
+[08:28] tool that we've chosen. We've got no
+[08:30] coolant. Remember, it's air blown. It
+[08:31] starts from the outside. The direction
+[08:33] is climb. You get a choice of climb or
+[08:35] conventional. Step over percent. The
+[08:38] step over percent is how far it moves in
+[08:41] relation to the tool bit. So it's 50%
+[08:43] which means it'll move 2.5 mm. You can
+[08:47] change all of this stuff if you want.
+[08:49] And you can click on base geometry etc
+[08:51] etc and explore it. I'm okay with what
+[08:53] it's got. So I'm just going to click
+[08:55] apply. And we get the tool path. This is
+[08:58] showing you how the tool will actually
+[09:01] move. One thing actually that's
+[09:03] interesting is heights. We've got safe
+[09:05] height. Now the height of this material
+[09:07] is 3 mm is identical to the safe height.
+[09:10] That's how far the tool head will move
+[09:12] up from its job to make sure that
+[09:14] there's clearance. If you don't like
+[09:16] that safe height, you can change it. You
+[09:18] can just type in something like 4 mm or
+[09:20] 5 mm. Then we've got clearance height.
+[09:24] The clearance height is how far it will
+[09:26] move. And you can see that in the red
+[09:27] lines with the thing moving up. And
+[09:29] again, you can change that if you like,
+[09:31] but I'm okay with the way it's set. So,
+[09:33] we can click okay. That defines the tool
+[09:37] that's going to do this operation. Now,
+[09:39] when we've got that, actually, we can
+[09:41] have a look at it. If we go to here,
+[09:43] then we've got Cam Simulator. Click on
+[09:45] Cam Simulator, and you'll get this next
+[09:48] screen. Click on the play arrow, and it
+[09:51] will simulate the tool path in the
+[09:53] material for you, showing you what it's
+[09:56] actually going to cut out and how it's
+[09:58] going to cut it out. So it cuts out that
+[10:00] baseline geometry that we set to create
+[10:02] us all of our holes in our material.
+[10:06] That's pretty cool actually. Okay. So we
+[10:09] can see that the job that we've defined
+[10:11] will actually be doing it. What it's
+[10:13] doing now is milling the edges to make
+[10:15] sure that they're nice and clean. When
+[10:18] it's done that, don't click okay. If you
+[10:20] click okay, it'll save it as a file.
+[10:22] Just click cancel and it'll go back to
+[10:25] the original drawing. And now we can do
+[10:27] another operation.
+[10:29] Now, I appreciate that was a little bit
+[10:30] whistle stop because it's all the same
+[10:33] thing. You basically make sure that
+[10:35] you've got your tools in your tool
+[10:37] library and if you don't, you'll have to
+[10:38] import them. Make sure you've got your
+[10:40] postprocessing file already and that's
+[10:43] in the correct place. Otherwise, you'll
+[10:44] have to import it and then start a job.
+[10:47] The job defines the stock size that
+[10:50] you're going to be using and the model
+[10:51] that you're going to be applying the
+[10:53] operations to. When you're happy with
+[10:55] those, then setup operations, which is
+[10:58] the actual milling component of it. Now,
+[11:01] that's the briefest introduction into
+[11:03] how Frecad handles this. But of course,
+[11:06] Mecca have supplied Mecca Cam, which
+[11:09] means a lot of those tool profiles and
+[11:11] the post-processing profile, which you
+[11:13] would otherwise have to add, are going
+[11:15] to be, well, rather they should be, I
+[11:17] haven't looked at it yet, readily
+[11:19] available and save a bit of work. And
+[11:22] I'm essentially at heart a lazy kind of
+[11:24] guy. I want things to be as easy as
+[11:26] possible. And since Maker have provided
+[11:28] Maker Cam, what we're going to do now is
+[11:30] look at Maker Cam that goes with the
+[11:33] Carver Vera and the Carver Air. So let's
+[11:36] have a look at that. So to find it, just
+[11:38] go to Maker on their main screen and
+[11:41] here it is. Maker Cam. Download it for
+[11:44] Windows or Mac. Right. When you've
+[11:46] installed it and doubleclicked it to
+[11:48] open it, this is the welcome screen that
+[11:50] you get. And you can see you can choose
+[11:52] between four axis and three axis. Three
+[11:54] axis is basically where you bolt it to
+[11:56] the plate. Four axis is where you use
+[11:58] the little sort of lathe attachment.
+[12:00] Want to click on three axis and it will
+[12:02] start as a new project. And there's the
+[12:05] project page. And when we look at this
+[12:07] because it's really trying to do one
+[12:10] job. I mean, you know, it's spread
+[12:12] because, of course, it has a laser
+[12:13] cutter and various tools, but it's a
+[12:16] much cleaner interface, and that
+[12:18] obviously is helpful. It follows the
+[12:21] same procedures. The first thing we need
+[12:23] to do is to find the stock. And here,
+[12:26] presto on the left hand here, we've got
+[12:28] stock. To edit it, you click the edit,
+[12:31] and it gives you access to these things.
+[12:33] I want to make mine in aluminum, of
+[12:35] course. And the length of my stock is
+[12:37] given here along with the height because
+[12:38] we're going to make it in that big block
+[12:40] of aluminum that I've got. And so we're
+[12:42] fine there. We can just click okay. The
+[12:45] next thing to do is to actually import
+[12:48] the model that you want. Now this won't
+[12:50] take a huge range. I mean because of the
+[12:53] laser it'll take JPEGs I believe and
+[12:55] PNG. So scalable vector graphics has a
+[12:59] trace element to it. It'll take STL
+[13:01] files. It'll take STP files. So it takes
+[13:05] a whole load again just click on it or
+[13:08] explore it but there are some really
+[13:11] good tutorials that maker have done
+[13:13] maker are giving a lot of support to
+[13:15] this and the tutorials are absolutely
+[13:18] brilliant. So I don't really intend on
+[13:21] going into a huge amount of depth. We're
+[13:23] just going to whiz around it. The
+[13:25] guidance is like all of this guidance.
+[13:27] When you're really interested in
+[13:29] something look into it. This is just to
+[13:31] give you a flavor of what it's actually
+[13:34] like. When we scroll around that, we can
+[13:36] see there's a top plate that we actually
+[13:38] made in the video when we did on Frecad.
+[13:42] And if we swing that up, we can see it's
+[13:44] the wrong way round because either I'm
+[13:46] going to have to change the origin,
+[13:48] which I can do by clicking on a point in
+[13:50] the corner to change the origin, or I
+[13:52] need to rotate that whole thing. So if
+[13:55] we click on that and we can do adjust
+[13:58] object, you can see we've got transform
+[14:00] and then we've got rotate. If we click
+[14:02] up run rotate, then we can see the
+[14:05] planes that we need to actually move it
+[14:07] in. And clearly we need to move it so
+[14:10] that we can actually get that thing to
+[14:12] be in the right orientation. We need to
+[14:15] rotate it by 180° along the XY plane, XZ
+[14:19] plane, sorry. So 90 90 and suddenly it's
+[14:23] the right way up. And now when we mill
+[14:25] it out, we'll be able to mill out this
+[14:26] pocket and this uh recess and drill out
+[14:29] these holes and cut the thing around.
+[14:33] Now we've got our stock set, we've got
+[14:35] our model in our models placed, the next
+[14:37] thing to do is exactly what we did in
+[14:39] Frecad actually, and that is to define
+[14:41] the paths that we're going to do. So the
+[14:44] 3D path, the first thing we really need
+[14:46] is a pocket. We need to get this part
+[14:49] out. Now, this is a step file that I
+[14:51] used. And step files allow you to use
+[14:54] the planes of the surface that you're
+[14:56] going to do do this on. So, we can click
+[14:58] on a plain surface so that we can
+[15:00] actually cut a pocket in the plane
+[15:03] rather than trying to cut across the
+[15:06] whole surface and generate the surface
+[15:08] as if it were an STL file. We can
+[15:10] actually click on separate elements of
+[15:13] it to select those elements. when we
+[15:16] want to do the 3D path, then we're going
+[15:18] to do 3D pocket and we're going to put
+[15:20] put the pocket onto that plane. If we
+[15:23] look on the tool lists, then we can see
+[15:25] that we've got got this set tool here.
+[15:28] As it happens, that's fine. So, I don't
+[15:30] plan on doing anything about that. There
+[15:33] are various cutting depths and clearance
+[15:35] heights and retraction heights you can
+[15:38] play with and change. You've got
+[15:40] different path strategies you can use to
+[15:41] cut that out with. uh you've got the
+[15:44] most important thing I consider which is
+[15:47] the boundary. If we cut that to the
+[15:50] outside boundary, then it's going to
+[15:52] follow the path along the outside. We
+[15:54] obviously want to cut the inside out.
+[15:55] So, click on inside boundary. Again,
+[15:59] watch the tutorials and you get a good
+[16:02] idea of this. All I'm going to do is
+[16:04] quickly do calculate and it will create
+[16:06] the path for me. That's the tool path
+[16:08] that you can see there. And we can click
+[16:11] close. So the next thing we probably
+[16:13] need to do is to cut out that center bit
+[16:15] that we were just looking at. So if I
+[16:18] just swivel that up, this bit here, we
+[16:20] need to cut that out. The way to cut
+[16:22] that out really is using the contour. So
+[16:25] if we click on 3D contour, we need to
+[16:27] generate contours. Oops. Let's select
+[16:30] the mesh first and then generate the
+[16:32] contours. And there's a contour in
+[16:35] there. We want to work on that contour
+[16:38] so that we cut all the way through. We
+[16:41] got start depth, end depth, offset.
+[16:43] Again, things to actually play around
+[16:45] with that I'm not going to bother with
+[16:47] just right now. Now, I'm just going to
+[16:49] go straight down here and again do
+[16:51] inside.
+[16:55] Calculate it and then close. And we can
+[16:58] see that it's going to cut that bit out.
+[17:00] That's the paths it takes to cut that
+[17:02] bit out. If we then swivel our way back
+[17:05] up to the top, we've got these contours
+[17:08] that we need to actually do. and then
+[17:10] the outside contour that we need to do.
+[17:13] And we follow exactly the same
+[17:14] procedure. Right, when we've done that,
+[17:17] our design is ready to go and we can now
+[17:19] export our path. So, click path, click
+[17:22] export, and we've got all of these we
+[17:25] want to actually select because we want
+[17:26] to select the whole thing. There we go.
+[17:29] Just checking my tools. And then we can
+[17:32] export it. So, I would have said as a
+[17:36] tutorial video, this one's actually a
+[17:38] bit disappointing. I wouldn't have
+[17:39] called those tutorials. They're more of
+[17:41] a a zip through to get a flavor of it
+[17:44] because tutorial videos really need to
+[17:46] be a little more indepth. But then this
+[17:48] whole series of videos isn't really
+[17:50] about that. The whole series is really
+[17:52] about getting this up and running and
+[17:55] getting a sense of what it is that you
+[17:58] need in order to get this up and
+[18:00] running. And if you're actually
+[18:01] absolutely completely new to this, then
+[18:03] yes, you have a task in front of you,
+[18:05] but none of it is particularly
+[18:08] difficult. There's just a fair bit of it
+[18:10] and it's an elephant burger. And so, one
+[18:12] bite at a time. If you're coming from
+[18:15] the world of 3D printing, to be honest,
+[18:17] I think that's a huge help because these
+[18:20] are very, very similar to 3D printers
+[18:22] and that transition from one to the
+[18:24] other should be very much easier. Now,
+[18:27] at the beginning of this, I said you're
+[18:28] going to need to get to grips with CAM,
+[18:30] and you are. And that's what we just
+[18:32] give a quick introduction to. And that
+[18:35] means to a degree using a CAD program
+[18:39] that is fully featured. Well, that's not
+[18:42] strictly true. Hey, I mean, Maker Cam, I
+[18:45] I think actually is pretty awesome. It's
+[18:48] a very clean, very simple interface in
+[18:50] which you can take a whole range of
+[18:52] files, including STL files. STL files
+[18:56] are the output of Tinkercad, but it
+[18:58] understands them as surfaces. And so
+[19:00] it's manipulating a surface rather than
+[19:02] manipulating geometric shapes. And so
+[19:05] some of the tool path commands that
+[19:07] you're going to be using are perhaps not
+[19:10] as refined as if we're using geometric
+[19:13] shapes. And so you can come straight
+[19:15] from Tinkercad into the CAM and use this
+[19:18] machine. But I personally think it's
+[19:20] better if you make that step into a
+[19:23] fullyfledged CAD program. Now when
+[19:25] looking at CAM programs and the CAD
+[19:27] programs do contend them, but maker a
+[19:30] CAM I think is specifically designed for
+[19:32] this and given its wide range of import
+[19:35] actually is pretty impressive. I kind of
+[19:38] like that a lot. So I'm going to be
+[19:39] focusing on using Mecca when it comes to
+[19:43] making this machine actually turn on and
+[19:45] do its job. It has been a bit of a
+[19:47] journey. Been quite a few videos about
+[19:49] this and we've still to turn this
+[19:51] machine on. But like I say, I want a
+[19:54] true representation of what this takes.
+[19:56] I don't really want a 10-minute video
+[19:58] where we get out of the box and go,
+[19:59] "Wasn't that easy?" I want a true
+[20:01] representation of what you need to do if
+[20:03] you're going to be using one of these
+[20:05] machines, thinking about one of the
+[20:07] these machines from ground zero. And
+[20:09] that's what we've been aiming at. So,
+[20:11] the next job, of course, we've got our
+[20:13] tool path now. Now, what we need to do
+[20:16] is get it on here and cut it out from
+[20:18] something. So, I hope you enjoyed the
+[20:20] video. I hope you're enjoying the
+[20:21] series. Thank you very much for watching
+[20:23] and please do remember to like and
+[20:25] subscribe.

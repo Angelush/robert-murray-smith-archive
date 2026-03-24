@@ -1,0 +1,265 @@
+[
+  {
+    "id": "UgyQBTmItv5RuqYT2Vt4AaABAg",
+    "author": "@edkoetsier339",
+    "author_channel_id": "UCQI07nG1W5N_65xQZhEAxIA",
+    "text": "Hmm. Those Ard relay shields are REALLY cheap and nasty. They will work for a while and then the coils in the relay's fail. Much better to use Solid State relay shields; they are as cheap but they can't cheap out on the copper because there isn't any. I have a SS relay shield on my water pumping system and my solar heliostat and they have been working for 11 years every day without dying...",
+    "likes": 0,
+    "published_at": "2021-03-08T09:25:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzazPkpM80Wn8DiJ1R4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Morning Rob, just back from gold detecting.  It was very wet.",
+    "likes": 0,
+    "published_at": "2021-03-08T02:59:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTRrUStpq2HvuTU254AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "The other advantage of an Arduino is you can set it up, debug and fine tune and then when no longer needed use it for the next project .....  or if it is needed (as I suspect this will be) make a custom logic board up with (not, and, or and nor chips with a variable oscillator (555 timer) to give control! Nothing like a well polished, well designed pcb board on show to give a bit of bling!\nOr maybe it is just me? ;0)",
+    "likes": 0,
+    "published_at": "2021-03-07T22:05:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTZ0rCTwIoQVMXPHJ4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "What voltage values can the relay handle?",
+    "likes": 1,
+    "published_at": "2021-03-07T21:34:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx1NwnJqGv0nrIrsV54AaABAg",
+    "author": "@NorthernKitty",
+    "author_channel_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+    "text": "I soooooo wish they had the Arduino and the Raspberry Pi around when I was growing up!!  For an I/O controller, I had to settle for the serial interface on a Radio Shack TRS-80, which was a little more encumbersome, a lot more limited and a heckuvalot more expensive to say the least!!   (About $1800 in today's dollars, or 200 times the cost!)  I had to save up my paper route money for over a year to buy one... kids today have it made!! 😋\n\nOK, end of the \"back in my day, I had to walk to school... through the snow... uphill... both ways\" rant!!  LOL!! 😄",
+    "likes": 1,
+    "published_at": "2021-03-07T20:16:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQzPDDQzi1uWQQFeV4AaABAg",
+    "author": "@chrisstevens2",
+    "author_channel_id": "UCecxiP-KWH_MBjmkSPUQstQ",
+    "text": "Thanks for relaying that information to us!",
+    "likes": 6,
+    "published_at": "2021-03-07T19:56:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzJ6duJI8_r2y5TWcp4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Being public domain there is also so much information available to tell you what pins are being used.\nI have so many Arduino boards but only one is a genuine version. These days all the shields (or sketch examples) let you know what pins are being used. Alternatively you can make your own shields that not only give you the relays but also a keypad and screen to alter the timing and tell you what is going on.",
+    "likes": 0,
+    "published_at": "2021-03-07T19:47:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxChGKgkYUugeRpkOt4AaABAg",
+    "author": "@AM-us7cz",
+    "author_channel_id": "UCEYv14u575N4auXnJPI0-Fg",
+    "text": "Absolutely brilliant Rob 👏 as always. I only wish I had a clue what your going on about?  My problem not yours. Love it all just the same. Thanks again mate 👍",
+    "likes": 0,
+    "published_at": "2021-03-07T17:54:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxChGKgkYUugeRpkOt4AaABAg.9KabZZv-4C79Kb9N674OQu",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "Arduinos and arduino shields is to electronic circuits as tinker toys is to gluing Popsicle sticks together.",
+        "likes": 0,
+        "published_at": "2021-03-07T22:58:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyMN_b2S78JqV_RjQh4AaABAg",
+    "author": "@TerryGilsenan",
+    "author_channel_id": "UCKAnFJ2DurxRddmCR_P7JMA",
+    "text": "I built an Arduino test bench that allows me to do all my setup and programming and then transfer the finished and tested controller into my finished project.\n\nThese videos are a great resource. Thanks Robert.",
+    "likes": 1,
+    "published_at": "2021-03-07T17:50:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxhH15JD0ZB0j2PBDh4AaABAg",
+    "author": "@masteragario3335",
+    "author_channel_id": "UCDpOJYD8DgvOcnILspw1SJA",
+    "text": "Hi. The arduino uno can be a bit bulky, the arduino Nano is about 1/10 th the size and much more powerful (£5 on fleebay) .RF Nano is a nano with a built in radio, very handy and good range. Thay all work the same as the Uno with extra features at your disposal. Loads of cheap sensors (pennies) on ebay, temp, humidity, light, noise, vibration, motion, water, smoke (the list goes on) and they are all easily used as triggers for your relays and controlled from your phone.",
+    "likes": 2,
+    "published_at": "2021-03-07T17:33:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzqbQMzc6ZYNAbovct4AaABAg",
+    "author": "@vaneay",
+    "author_channel_id": "UCyTP_Iwd0ZTkqi-Gep5oT-Q",
+    "text": "Why not using SSR ( Solid State Relays) ? they will not wear off as fast as cheap mechanical relays ?",
+    "likes": 0,
+    "published_at": "2021-03-07T16:39:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzqbQMzc6ZYNAbovct4AaABAg.9KaTxnS4Zd_9KdSGooxBww",
+        "author": "@motorcyclemadness6006",
+        "author_channel_id": "UCP51UGv4M1LqVzJD4ZSimXA",
+        "text": "Depends on what you're doing the world and his dog has been controlled by mechanical relays very reliably  for a very long time if your learning why do you need to worry about extreme reliability?",
+        "likes": 1,
+        "published_at": "2021-03-08T20:22:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTo2gw6nOsztnjyGB4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "This opens up so many builds. I can't believe I've never seen this before",
+    "likes": 2,
+    "published_at": "2021-03-07T16:17:47Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwTo2gw6nOsztnjyGB4AaABAg.9KaRUDaYYCq9KarQPaelXP",
+        "author": "@ThomasAndersonbsf",
+        "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+        "text": "you should head over to eli the computer guy's channel as he is building a web controllable RC  car that uses a raspberry pi and arduino to control everything, webcam on the pi gives you video feed of what the little RC car he made out of plywood and screws and bits and bobs cheaply is seeing XD Arduino and Pi are both changing so many things (the range the car has is anywhere it can get a wifi signal to, but you can even get a 5G or 4G cell phone module so the pi can then control that car anywhere there is a cell phone signal and send you video it has, too, all from the comfort of a chair infront of your computer and a browser to load the webpage that the controls are on XD",
+        "likes": 1,
+        "published_at": "2021-03-07T20:13:12Z"
+      },
+      {
+        "id": "UgwTo2gw6nOsztnjyGB4AaABAg.9KaRUDaYYCq9KateQ8iRnG",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "@ThomasAndersonbsf thanks I may have a look. I've heard of raspberry pi but thought it was just for android TV boxes lol.",
+        "likes": 0,
+        "published_at": "2021-03-07T20:32:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBhcCr7_IKHski7MR4AaABAg",
+    "author": "@Thrive-Off-Grid",
+    "author_channel_id": "UCIj9jrb2pG4mNb_njWMKxPg",
+    "text": "I quit using any on market relay boards. They are too weak. I use Mosfets and plug them into a ribbon cable and then wire the cable to sink the coil on automotive cube relays.",
+    "likes": 1,
+    "published_at": "2021-03-07T16:15:22Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgzBhcCr7_IKHski7MR4AaABAg.9KaRCXeCXBF9Ka_u9YohOi",
+        "author": "@BlueJDev",
+        "author_channel_id": "UCPIwvj4S8LaR_i2j-dbgGzg",
+        "text": "I was about to say this, I've read that most relays designed specifically for these boards can't handle a long time closed when using 240v appliances and fuse closed after short periods with a load. Is there an instructable / resource for your solution I could look at?",
+        "likes": 0,
+        "published_at": "2021-03-07T17:40:06Z"
+      },
+      {
+        "id": "UgzBhcCr7_IKHski7MR4AaABAg.9KaRCXeCXBF9KakQD8xct-",
+        "author": "@ffaubert1",
+        "author_channel_id": "UCLO21zdqnA9hr7FHr-nhAPQ",
+        "text": "I believe this is more about showing technology that most newbies don't know about. This is probably more of a gentle, general introduction to motor control (small robotics) than trying to drive a 4hp motor. Just my thoughts of course.",
+        "likes": 1,
+        "published_at": "2021-03-07T19:12:00Z"
+      },
+      {
+        "id": "UgzBhcCr7_IKHski7MR4AaABAg.9KaRCXeCXBF9KapFWuSjjE",
+        "author": "@NorthernKitty",
+        "author_channel_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+        "text": "Looking at the size of the relays on that board, I think those are rated for 10 amps at 30 volts DC, or 300 watts.  He's using them for two 12 volt DC motors, the bigger of which I believe is the power window motor from a car.  I think those are about 20 amp, which at 12 volts would be 240 watts.  The other motor is just a paper feed from a printer, and I doubt it would draw more than 20 watts.  I believe both motors will be within the limit of these relays.  These boards are rather convenient for small-scale projects like this - it's an \"all-in-one\", \"plug-n-play\", inexpensive solution.",
+        "likes": 0,
+        "published_at": "2021-03-07T19:54:14Z"
+      },
+      {
+        "id": "UgzBhcCr7_IKHski7MR4AaABAg.9KaRCXeCXBF9Kaze1c54Rh",
+        "author": "@nil5221",
+        "author_channel_id": "UCei0WHrIVkCIzP7ChTHZo9g",
+        "text": "I'm a bit more basic- I use the arduino relays to switch the automotive cube relays. On one occasion I then had the auto cube switching a car-starter relay so, in effect, the arduino was switching a few hundred amps. The lovely little \"click\" was replaced by a \"crash\" and I didn't really need the led to let me know if it was on :-)",
+        "likes": 1,
+        "published_at": "2021-03-07T21:25:06Z"
+      },
+      {
+        "id": "UgzBhcCr7_IKHski7MR4AaABAg.9KaRCXeCXBF9KbDx_h9ok3",
+        "author": "@Thrive-Off-Grid",
+        "author_channel_id": "UCIj9jrb2pG4mNb_njWMKxPg",
+        "text": "@nil5221 Yeah I used to do that. But now that I learned how to use mosfets for logic triggering its way easier they make for  a tiny interface :)",
+        "likes": 1,
+        "published_at": "2021-03-07T23:38:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzfdRuR-_jJHd6wuOt4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Good one.",
+    "likes": 0,
+    "published_at": "2021-03-07T16:09:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyMVEw-FiMfrsnrIHN4AaABAg",
+    "author": "@happydrones9187",
+    "author_channel_id": "UCXSwI1f7l1U_2UBBsFK1_gw",
+    "text": "The sketches you switched to are words...\nWas hoping for a schematic..\nWhat sets the timing of on/off switching?",
+    "likes": 0,
+    "published_at": "2021-03-07T16:08:57Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyMVEw-FiMfrsnrIHN4AaABAg.9KaQTS3eLuV9Ka_3UeOsOp",
+        "author": "@BlueJDev",
+        "author_channel_id": "UCPIwvj4S8LaR_i2j-dbgGzg",
+        "text": "If I understand the question, the loop function and millis() will allow for timing. If you need realtime switching you need an etc module. In this case the timing is done by delay(milliseconds) function. Loop runs every X millisecond, based on the Hz of the boards chip I believe.",
+        "likes": 1,
+        "published_at": "2021-03-07T17:32:47Z"
+      },
+      {
+        "id": "UgyMVEw-FiMfrsnrIHN4AaABAg.9KaQTS3eLuV9KbBNCAud1W",
+        "author": "@matakaw4287",
+        "author_channel_id": "UCyMRobq-9OSMmPuzAX_75zg",
+        "text": "I was wondering if they use a 555 and/or a real time clock.",
+        "likes": 1,
+        "published_at": "2021-03-07T23:16:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwG00Xm6K8VGy1cOpF4AaABAg",
+    "author": "@MaintenanceMouse",
+    "author_channel_id": "UCrbQlpW8zCnE2pFBHph3XEg",
+    "text": "Here",
+    "likes": 0,
+    "published_at": "2021-03-07T16:01:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgylfcMNI41URHhMBnh4AaABAg",
+    "author": "@MaintenanceMouse",
+    "author_channel_id": "UCrbQlpW8zCnE2pFBHph3XEg",
+    "text": "Present!",
+    "likes": 0,
+    "published_at": "2021-03-07T16:01:25Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

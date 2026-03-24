@@ -1,0 +1,680 @@
+[00:00] [Music]
+[00:07] Right. I thought we'd learn Fread
+[00:10] together. So, you might be wondering,
+[00:12] why on earth aren't we looking at a
+[00:14] computer screen or I was sitting in my
+[00:15] back garden with a cup of coffee if what
+[00:18] we're going to do is learn Frecad? Well,
+[00:20] that's because it's like a jigsaw
+[00:22] puzzle. I mean, I could just pour out
+[00:24] all the pieces on the table and point
+[00:26] the camera at them and say, "Make that
+[00:28] jigsaw." And of course you could do it,
+[00:31] but it would take you forever. And
+[00:32] initially, you'd been lost. One of the
+[00:34] easiest things to do is turn the box lid
+[00:37] over and look at the big picture. And
+[00:40] that gives you an idea of where it is
+[00:42] you're heading. And that's super
+[00:44] important whenever you're completing any
+[00:46] puzzle. And of course, learning a new
+[00:48] program is really just completing a
+[00:51] puzzle. And the first question you have
+[00:52] to ask yourself is, what is it you're
+[00:55] doing? I mean, people go, I'm learning
+[00:57] Fread. turn the computer on. But you're
+[01:00] not learning free CAD. You're learning
+[01:02] to see in a certain way. All programs uh
+[01:06] are written with an objective in mind. I
+[01:08] mean, a CAD program is written to draw
+[01:12] in three dimensions. And so, it's going
+[01:15] to have certain things in there that
+[01:17] help you do that.
+[01:19] They will mirror the real world
+[01:23] experience. They must do and they must
+[01:26] have those things in there. Otherwise,
+[01:29] they would be useless as a CAD program.
+[01:33] So, what is it in the real world
+[01:35] experience that we're doing when we're
+[01:38] designing a mechanism or a thing? Well,
+[01:41] here's a bit. This is a
+[01:46] um escapement mechanism with a spring
+[01:49] motor attached to it. And it's
+[01:51] relatively complex when you look at it
+[01:53] as a whole mechanism like that. But we
+[01:55] can break it down. What we can do is
+[01:57] remove this. And if we remove that,
+[02:00] which is one of the parts of it, then
+[02:02] clearly we have a part. So the first
+[02:05] thing that we're doing is we're taking a
+[02:08] mechanism and breaking that down into
+[02:10] parts. When we break it down into parts,
+[02:13] we can look at the part and say, "How
+[02:16] was that put together?" Of course, if
+[02:17] you look at this, all it really is is a
+[02:20] couple of uh well, circles and a couple
+[02:24] of rectangles and a couple of part
+[02:26] circles all lined up and then thickened
+[02:30] out. So, we could shrink that down to a
+[02:32] drawing, an actual drawing, and draw out
+[02:35] the circles that we need and then
+[02:37] stretch them up and we would get our
+[02:39] part. Now, here's the big
+[02:41] surprise. All CAD programs do exactly
+[02:45] that. And when you're wanting to do
+[02:47] that, of course, if the CAD program
+[02:50] didn't do that, it'd be next to useless
+[02:52] to you. So, when you look at a CAD
+[02:55] program, what you're looking for are the
+[02:58] abilities to do that. And they're
+[03:00] arranged in what are very often called
+[03:03] workbenches. And it's that scenario of
+[03:06] being in the garage and moving from
+[03:08] bench to bench. When you look at
+[03:10] something like Frecad, here's a big
+[03:13] surprise. It's arranged in
+[03:16] workbenches. To get Free CAD, just type
+[03:19] in FreeCAD. It'll pop straight up and
+[03:22] click on it and it'll take you to the
+[03:24] download page. Download now. And you'll
+[03:26] have a choice of what you can download
+[03:29] it for. It's got Windows, Macs, and
+[03:31] Linux. and just click the installer and
+[03:34] that will download it for you. Once
+[03:36] you've downloaded it, jump to the folder
+[03:39] you've saved it in and doubleclick it
+[03:41] and follow the install screen. Right,
+[03:43] when we've installed it, this is the
+[03:45] start screen that we get. And now you
+[03:47] can fiddle on with this if you like.
+[03:49] Most of it I'm okay with actually.
+[03:51] There's your language choices. You got a
+[03:53] billion of them. And we've got our unit
+[03:55] systems. I'm multilingual in in units,
+[03:58] so millimeters or inches makes no
+[03:59] difference to me. Here I'm going to
+[04:00] leave it at millimeters. This is kind of
+[04:03] interesting. I'm actually working on a
+[04:05] laptop so I've got it touchpad so I can
+[04:08] navigate it. But you can mimic other
+[04:10] programs you might be used to using on
+[04:12] how you navigate around those. We'll
+[04:14] leave it at touchpad. Incidentally, if
+[04:17] you scroll down to there and just let
+[04:19] the thing hover over, then you'll get
+[04:22] little navigation style clues that help
+[04:25] you actually remember how to navigate
+[04:28] around. If we go up to edit, then we can
+[04:32] change the preferences later if we want
+[04:34] to by clicking on preferences. I'm just
+[04:36] going to leave it like this on free
+[04:38] light. Obviously, we go to file and hey,
+[04:41] how about that? Click on new and we get
+[04:44] ourselves a new workspace. Now, I talked
+[04:47] about this idea of workbenches. The idea
+[04:50] being that when you add a workbench, all
+[04:52] the tools to do that job are presented
+[04:54] for you. And here they are, these pretty
+[04:56] pictures. If we hover over one, a pulld
+[04:59] down will come and tell you what that
+[05:00] one actually does. If we hover over this
+[05:03] pulld down menu here, we can see it says
+[05:05] switch between workbenches. Click the
+[05:07] down arrow and those are the available
+[05:09] workbenches and there's a whole range of
+[05:12] them. That's pretty impressive.
+[05:13] Assembly, well, what it says on the tin.
+[05:16] One of the ones I'm interested in is CAM
+[05:18] because I want to be able to use that
+[05:20] CNC machine. You've got FEM, which is
+[05:22] finite element modeling where you can
+[05:24] look at the stresses. For the two we
+[05:27] need to focus down on our part design
+[05:29] and Sketcher. Now these workbenches do
+[05:32] talk to each other. The whole job of
+[05:34] them really if we click on part design
+[05:36] is to present you with tools you need to
+[05:39] design the part that you're working
+[05:41] with. Right. Let's have a quick cup of
+[05:44] coffee and a review of what we've done.
+[05:46] We've learned where to get Free CAD
+[05:47] from, how to install it, how to set it
+[05:50] up, and how to open a new file ready to
+[05:53] do our drawing. Now, all of this stuff
+[05:56] can be changed. If you go to edit
+[06:00] preferences, you'll have a pulld down
+[06:01] menu box where you can change all of
+[06:04] these preferences. It's one of the
+[06:05] reasons you don't need to worry about
+[06:07] this stuff. My contention is getting
+[06:10] started with something isn't about
+[06:12] learning what everything does. It's
+[06:14] about learning what to ignore. As you
+[06:17] get better at it, of course, you're
+[06:19] going to want to make some of those
+[06:21] changes. You don't need to make those
+[06:23] changes now to get you up and running,
+[06:26] to get you up and running and learning
+[06:28] how to use something is about using
+[06:31] something and changing those later. So,
+[06:33] all of that stuff can be changed in the
+[06:35] preferences. To navigate around it, of
+[06:37] course, we've already seen that. I set
+[06:40] the touchpad. You hover over there and
+[06:41] it'll remind you how to zoom about the
+[06:44] screen, rotate, and zip everywhere. And
+[06:47] you've got the little box in the corner.
+[06:49] And it won't be very long. I don't know,
+[06:51] 10 or 15 minutes before you don't even
+[06:53] need those reminders and you're zooming
+[06:55] around the thing. The answer is to
+[06:57] explore and ignore most of it. Right,
+[07:01] we're ready to create a part. So, the
+[07:03] thing I want to make is this. It's
+[07:05] actually a high reduction gear ratio
+[07:07] gearbox. This particular one is 20 to1.
+[07:12] And like all mechanisms, we can pull
+[07:14] this apart into the parts. So, if we do
+[07:17] that, what we've got is a
+[07:20] clip, a handle, we have the top drive
+[07:24] plate. If that will come off. There we
+[07:26] go. Top drive plate. Then we have a
+[07:31] drive
+[07:34] gear and a centric to drive it. The
+[07:37] driven
+[07:39] gear axle handle. I want to make that in
+[07:43] aluminum because I thought that was
+[07:45] really cool the way it worked. It was
+[07:47] only 20 to1 and I wanted to make
+[07:49] something at 60 to1. I want to use it in
+[07:52] a clock as an example or maybe as a Nema
+[07:54] stepper motor driver, something like
+[07:56] that. But I thought I would shrink it
+[07:58] down, make it in metal and see how the
+[08:00] thing actually works. So that's what I'm
+[08:02] aiming for. We have a mechanism and
+[08:04] we've broken it down into parts. Now, of
+[08:07] course, what we need to do is reproduce
+[08:09] those parts. And what I want is
+[08:11] something about 3 or 5 mm deep. This one
+[08:15] is 120 teeth. So, I'm going for a 60 to1
+[08:18] gear ratio. That's 120. That's 122.
+[08:22] That'll give me a 60 to1 gear ratio. And
+[08:25] it's really just the same as that, but a
+[08:28] finer tooth. And of course, the metal
+[08:30] can with a finer tooth. The plastic will
+[08:33] probably wear with a finer tooth. So,
+[08:35] I've done a finer tooth, many more
+[08:36] teeth. And that is one of the parts that
+[08:39] I'm going to need. And that's how we
+[08:42] break these things down. We have a
+[08:44] machine. A machine is made of
+[08:46] mechanisms. We break the mechanism down
+[08:48] into parts. And it's the part that we're
+[08:50] looking to draw and manufacture. Now in
+[08:54] free CAD, the way you look at parts is
+[08:57] as drawings from a different direction.
+[09:00] So if I look at it that way, I have a
+[09:02] flat drawing there and I need to draw
+[09:05] that out in Frecad. Once I've drawn that
+[09:08] out, I can look at it that way. And
+[09:11] because it's nothing here, I can just
+[09:13] stretch it in that direction and
+[09:15] obviously that will give me my part. So
+[09:19] Frecad breaks it down in that step by
+[09:22] step. And you'll see that in the
+[09:24] workbenches. And if we get to the very
+[09:26] basic step, which is essentially drawing
+[09:30] sketches flat of the shape that you
+[09:33] want, extruding them, and then if you
+[09:36] want something else here, you have
+[09:38] another flat sketch in that direction
+[09:40] that you then extrude. And you build
+[09:43] that up into what they call a body. So a
+[09:47] body is just a container for the
+[09:50] elements of a part. You put the elements
+[09:53] of a part in a body and then when you
+[09:56] finished combining everything, you get
+[09:58] your part. And here we are with Frecad
+[10:02] nice and freshly opened. Let's create a
+[10:04] new file. There we go. New. And it's
+[10:07] unnamed at the moment. We could name it
+[10:09] if we want to, but nothing I'm doing
+[10:10] here is particularly complicated. It's
+[10:12] quite straightforward. But the first
+[10:15] thing you probably would do is create a
+[10:18] part. And here if I hover the icon over
+[10:20] the part, we'll see it's a part is a
+[10:22] general purpose container. It keeps all
+[10:25] the objects together and it's added it
+[10:27] to this tree. So under file, we've got
+[10:29] our first part there. And that part will
+[10:32] keep everything nicely together. If I
+[10:35] created another part, it would still be
+[10:37] in the same file, but all of the work
+[10:39] would be on a different part. And here
+[10:42] we're going to create this part and we
+[10:44] can use that to be a container for
+[10:47] everything that we want. Now the part
+[10:49] itself isn't complicated, but some parts
+[10:52] are. And here, if we're going to work on
+[10:54] a section of the part, we call create
+[10:56] what's called a body. You'll notice that
+[10:58] both the part and the body are bold.
+[11:01] When they're bold, they're highlighted
+[11:03] so that we can work on them. And what we
+[11:05] now need to do, we've got the body, is
+[11:08] we need to create the sketches. Here
+[11:10] we've got origin. There's an eye icon to
+[11:12] it. If I click on the eye icon, we can
+[11:15] see the planes spring into view. We
+[11:18] create the sketches on the planes as I
+[11:21] discussed earlier. The plane that I'm
+[11:23] going to use is this one here. That's
+[11:25] kind of like the same as on the desk,
+[11:27] the XY plane. And I don't really need to
+[11:29] see that. I need to know what that I'm
+[11:32] doing it and where it is and which plane
+[11:35] I'm working on when we're working on a
+[11:36] particular body. because we can work on
+[11:38] a body in the XY or the XZ. We can
+[11:41] combine them into that part. But we're
+[11:44] going to work on this particular body
+[11:46] here on the XY plane. And sorry, yes,
+[11:50] the XY plane and create some sketches.
+[11:54] Let me just hide that again. There we
+[11:57] go. Now, as I said, it's all on
+[12:00] sketches, but Frecad does provide you
+[12:04] with some pre-made sketches. We're in
+[12:07] the workbench part design and we also
+[12:10] have a menu here called part design.
+[12:12] Click on that and if you scroll down
+[12:15] you'll see a readymade involute gear for
+[12:19] you. So we just need to click on
+[12:20] involute gear and it will pull up a
+[12:23] gear. This is jolly handy because it
+[12:25] saves us an awful lot of trouble trying
+[12:27] to work out what those tooth profiles
+[12:30] are. We've got some parameters we can
+[12:32] set. So the first one, remember I said
+[12:33] it was 120 teeth. So I can change 120
+[12:37] teeth. Then we've got the module. Now
+[12:39] the module is the relationship of the
+[12:42] tooth number to the pitch circle.
+[12:44] Doesn't really matter. What's
+[12:45] interesting is we can set it as an
+[12:47] actual physical value. Here we've got
+[12:49] 2.5. Normally in Tinkercad I do 2 mm,
+[12:53] but we can also set it as a result of a
+[12:57] formula. So if I blank over that and I
+[13:00] want my gear to be 100 mm wide, then I
+[13:03] can specify it as 100 mm and divide it
+[13:07] by the number of teeth. What'll happen
+[13:10] there is it will work out the module for
+[13:14] me given that formula that I just put
+[13:16] in. If you remember in video 2385, that
+[13:20] pressure angle needs to be changed to 30
+[13:23] so that we can make it slack enough in
+[13:25] order to rotate around an inner ring
+[13:28] gear. Now this precision we can choose
+[13:31] true or false for it having high
+[13:34] precision and the other interesting one
+[13:36] is external gear. Here, if we choose
+[13:39] true or false, it will change it from
+[13:41] being an external gear, a normal spur
+[13:44] gear, or an internal gear where we can
+[13:47] use it to make a ring gear. Either way,
+[13:50] once we apply all of that and click
+[13:52] okay, then we have created our involute
+[13:56] gear. Now, there should be something you
+[13:58] noticed. We're on the models view here,
+[14:00] and we're having a look at the model at
+[14:02] this section here. Here we've got task
+[14:05] and we jumped to that when we were
+[14:08] setting up the sketch of the gear that
+[14:10] we wanted to produce. So if you jump
+[14:12] back to task, you can see that there are
+[14:14] no tasks left because we've done them
+[14:17] all. Now what we need to do, of course,
+[14:19] is create those rings in the center
+[14:21] because this is just going to be flat.
+[14:23] All we're going to do is extrude it. And
+[14:26] we can extrude it by being on involute
+[14:28] gear and clicking on pad. When we click
+[14:32] on
+[14:37] pad, it will jump to the task bar
+[14:40] because it's telling us that we have a
+[14:42] task to complete. And what we need to do
+[14:44] is finish the pad parameters. Here we
+[14:46] can see the pad is at thickness 10. I
+[14:49] want five or maybe three. Enter that.
+[14:52] Click okay. And it will create a solid
+[14:56] for me that is an involute gear. And
+[14:59] there we go. We've created our gear. Now
+[15:01] that gear of course needs things like
+[15:03] axle holes and it needs the drive holes
+[15:05] that we put in. In order to do that
+[15:08] remaining on body, what I actually do is
+[15:11] create a sketch. Now this is going to be
+[15:13] a handdrawn sketch. This is still a
+[15:16] sketch. It's a sketch that was provided
+[15:18] by Fread to save us trouble. We need to
+[15:22] handdraw a sketch. And so we go to the
+[15:25] create a sketch. We create a sketch and
+[15:28] it will add that to our model. And
+[15:31] you'll notice we now have a task and
+[15:33] that is to choose the plane. Remember I
+[15:35] said I want it in the XY plane. So let's
+[15:38] choose that as the XY plane and click
+[15:41] okay. And that's our task for doing this
+[15:44] complete. And it will add it to our
+[15:47] model. Of course, there's nothing in the
+[15:49] sketch. I need to add things. So the
+[15:52] task there is telling me to add things
+[15:54] to the sketch. close it. And if
+[15:59] I take pad and make it unseeable and
+[16:03] click on sketch, what I'll get is the
+[16:07] sketch profile where I can add bits and
+[16:11] pieces to it. So once I'm in the sketch
+[16:13] plane, all we got is a blank page. So
+[16:16] let's make the origin reappear by
+[16:18] clicking the I and we get the XY plane
+[16:20] and the X and Y axis. But there's
+[16:24] nothing to draw with. If we look at
+[16:26] these tools, there aren't any tools to
+[16:28] do a sketch. That's because we're on the
+[16:31] part design workbench. We need to move
+[16:34] workbench. You got to think of it like
+[16:36] you need tools. The tools are on a
+[16:37] workbench. You have to pick up the part,
+[16:39] walk to the next workbench, plunk it
+[16:41] down. The part doesn't change. The tools
+[16:44] change. So, click that down arrow and go
+[16:47] to the sketcher workbench. Double click
+[16:49] on sketch. And all of a sudden, we've
+[16:52] got an empty sketch as we know from
+[16:54] tasks, but we've got all these drawing
+[16:56] tools now that we can use to create our
+[16:58] sketch with. And what we want to do is
+[17:01] create a load of circles. So, we're
+[17:03] going to create circles by center. Click
+[17:06] on that. As you go down, it will show
+[17:08] you the sketch icon for the sketch tool
+[17:11] that you're using, which is circles. If
+[17:13] you right click on it, that will
+[17:15] disappear and it's gone. We need to
+[17:18] leftclick on it again to get that tool.
+[17:21] Once we go into the center of it, and
+[17:23] you can see the center is marked 0. We
+[17:26] can increase some circle. Now, to be
+[17:30] honest, this is probably one of the
+[17:31] things that really annoys people because
+[17:34] you can't just draw a circle. What you
+[17:36] need to do is draw the circle and add
+[17:40] constraints. Frecad needs constraints on
+[17:43] everything. and adding constraints in
+[17:45] the right way people find frustrating.
+[17:48] But as long as you're logical about it
+[17:49] and you add the constraints, you'll be
+[17:52] able to create the shape that Fread can
+[17:54] understand and then use it. Now I've
+[17:57] actually put that circle in and it has a
+[17:59] readym made constraint and that
+[18:01] constraint is diameter. I want this to
+[18:03] be 20 mm across. So just type in 20 mm
+[18:07] hit enter and we've created a circle
+[18:10] with a single constraint that is
+[18:13] diameter. We've also created it however
+[18:16] at the origin and it's placed the origin
+[18:19] locked. So if you look here on the
+[18:22] taskbar again what we've got is this
+[18:26] fully constrained. When you ever you
+[18:28] draw something it needs to say fully
+[18:31] constrained. Here we've got the
+[18:33] constraints we added. We've got the
+[18:35] locking constraint to the center which
+[18:36] it added by itself. And we've got this
+[18:38] constraint which is a diameter which is
+[18:41] what we added. Now of course what we
+[18:43] want to do is create a whole load more
+[18:45] circles that are going to engage with
+[18:48] the drive. Now you can think of
+[18:51] constraints as a description of the
+[18:53] object you've just sketched. Now, in
+[18:56] Tinkercad, you don't really need that
+[18:58] because, you know, you're basically
+[18:59] making an STL model that you're going to
+[19:01] print. But in something like Frecad and
+[19:04] other CAD design programs, you can
+[19:06] actually do an awful lot more with it. I
+[19:07] mean, one of the things you can do is
+[19:09] model with it. You can create uh
+[19:11] parameters for friction or pressure or
+[19:14] whatever it is you want to do and do an
+[19:16] analysis of things like magnetic fields
+[19:19] and temperature, that sort of thing. But
+[19:22] in order to do that complicated stuff,
+[19:25] Frecad and other CAD programs need a
+[19:28] full description of what it is that
+[19:30] you're putting in there. A full
+[19:33] description includes things like where
+[19:35] is it located, how big is it, what kind
+[19:38] of shape is it, and how does it relate
+[19:40] to the other shapes. And those are the
+[19:44] constraints. They're the things that you
+[19:45] put in to describe that shape, its
+[19:47] location and position, its size, and
+[19:51] what kind of shape it is. So that later
+[19:53] on, if you want to do those other
+[19:55] things, then they're easy to do because
+[19:58] you fully defined the shape. Now, if all
+[20:01] you're going to do is create models
+[20:02] through 3D printing, of course, it's a
+[20:05] bit superfluous. But one of the main
+[20:07] reasons we're doing this is because we
+[20:08] need to use that CNC machine, and so we
+[20:11] need a full description. That's all
+[20:14] constraints really do. If you don't
+[20:17] constrain something, that is describe
+[20:19] something fully later on it's going to
+[20:22] fail and you're going to have a problem.
+[20:24] So this forcing you into describing
+[20:27] things fully and letting you know by
+[20:29] saying fully
+[20:30] constrained actually is a help. to help
+[20:33] a lot later on down the line. But it is
+[20:37] a bit frustrating when you're first
+[20:40] picking it up trying to find out where
+[20:43] in earth you haven't put a constraint
+[20:45] and it's telling you to put a
+[20:47] constraint. So the idea would be don't
+[20:50] bung all of your drawings on at once and
+[20:53] then try to constrain them because
+[20:54] honestly you'll just get lost. and the
+[20:57] elements to your sketch as you go along
+[20:59] and make sure they're constrained as you
+[21:01] add them and then you'll find that the
+[21:04] whole sketch becomes fully constrained.
+[21:07] Now, another option here is never to
+[21:09] make a sketch too complicated. If you
+[21:12] put a billion items on a sketch trying
+[21:15] to do a whole machine out of it, you're
+[21:17] going to lose track. Remember that
+[21:19] process of breaking down a machine into
+[21:21] a mechanism into a part into three layer
+[21:24] sketches and it'll help you to keep a
+[21:28] track of what your constraints are and
+[21:31] make sure you've put the constraints in
+[21:33] later. That's going to help tremendously
+[21:35] right now. I think people find it
+[21:37] hideously frustrating. Right back to our
+[21:40] drawing. Now, obviously, we've got to
+[21:41] put eight more circles in there and
+[21:43] they're going to be the same size. Of
+[21:45] course, there's loads of ways of doing
+[21:47] this, but one way I thought was cute is
+[21:49] if we highlight the circle, so it's
+[21:51] highlighted here in the elements and
+[21:53] it's gone black here on the screen, is
+[21:56] to copy and paste it using keyboard
+[21:58] controls. So, if we had Ctrl C and
+[22:02] CtrlV, it will copy and paste that
+[22:05] circle. Now, we got two circles here as
+[22:07] we can see in the elements. And if we
+[22:09] remove circle one, our original circle,
+[22:12] just by hiding it, then what we're
+[22:14] looking at is circle two. Now, because
+[22:16] it's copied and paste, it's still fully
+[22:18] constrained. And here we have constraint
+[22:20] one and two that apply to circle one and
+[22:23] three and four that apply to circle two.
+[22:25] Four is the one that locks it to the
+[22:27] center. So let's delete that by just
+[22:29] deleting it. If we delete that, then it
+[22:32] will become under constrained by two
+[22:34] degrees of freedom. And circle two now
+[22:37] can be moved anywhere we want to. So if
+[22:40] we move it out of the way there a little
+[22:41] bit and bring back circle one. We can't
+[22:45] move circle one. It's nice and green.
+[22:47] And if we try to highlight it and move
+[22:49] it, it's going nowhere. This one,
+[22:51] however, although it's constrained on
+[22:53] its diameter, could be anywhere on the
+[22:56] XY plane. And we want to constrain it
+[22:58] into one position, and that's directly
+[23:01] above this circle here. To do that, we
+[23:04] can use the dimensioning tool. This one
+[23:06] here. If we hit the down arrow, we'll
+[23:09] get a selection of the dimensioning
+[23:11] tools. If we just hit that, then it will
+[23:14] do automatically what it wants to do.
+[23:16] Click on the center, and it'll find the
+[23:18] nearest line, which just so happens to
+[23:20] be the distance to the
+[23:22] axis. Right click on it, and then we'll
+[23:25] set that at 30 and click okay.
+[23:30] Now it's going to be constrained to be
+[23:32] 30 mm center to center above that. But
+[23:35] equally of course it's now too far out
+[23:38] and it still has one degree of freedom.
+[23:40] So we can use a dimensioning tool again.
+[23:43] If we use
+[23:44] it on this center here and we dimension
+[23:48] it to this edge here, it'll
+[23:50] automatically do it for us. If we hit
+[23:53] zero in there and okay, now it's
+[23:56] directly above there and we can see it's
+[23:59] fully constrained exactly where we want
+[24:01] it to be. If we want to repeat that,
+[24:04] then we hit the second
+[24:07] circle. So, we're going to copy that
+[24:11] one. Ctrl
+[24:14] CtrlV. It will copy it into circle
+[24:16] three. And this time of course we have a
+[24:20] different set of
+[24:22] constraints and there's a constraints
+[24:24] are here in constraint 6 7 and 8. If we
+[24:27] change that one and we can do that just
+[24:29] by doubleclicking on it and make that
+[24:31] minus
+[24:35] 30 it'll drop it directly below. Even
+[24:39] better the whole thing is fully
+[24:41] constrained. And we can do that for all
+[24:44] the other circles just by changing the
+[24:46] position in that constraint because that
+[24:49] constraint by double click on it by
+[24:51] double clicking on it can be
+[24:55] changed. And when we've done that, we
+[24:57] get our circle sketch in the center with
+[24:59] eight identical circles evenly spaced
+[25:02] around it. We got this whole bunch of
+[25:04] constraints we've basically just copied.
+[25:06] And the most important thing, it's fully
+[25:09] constrained. And now we hit
+[25:12] close. Right, we're still in SketchUp.
+[25:15] So, we need to go back to the part
+[25:17] design. And when we do that, of course,
+[25:19] it changes all of these tools. And we're
+[25:21] going to need that one, which is called
+[25:22] the pocket tool. Why they call it a
+[25:24] pocket for drilling a hole in, I don't
+[25:26] really know. But they do. If we actually
+[25:30] click on the model, we can see that
+[25:32] we've got sketch here, and we make a
+[25:34] pocket out of that. and it'll create a
+[25:37] task for us in a second where we'll get
+[25:40] some pocket parameters that we can
+[25:42] actually set. As you can see here, we've
+[25:45] got it at five millimeters, which is the
+[25:47] depth of the extrusion, the gear that I
+[25:49] did. However, the pocket goes down and
+[25:52] we've put everything on top of the XY
+[25:54] plane. So, we need to reverse it. And we
+[25:57] click okay. Now, that task is done. and
+[25:59] hair presto. It creates all the holes
+[26:02] and circles in the surface and through
+[26:04] the body of our gear that we're going to
+[26:07] use. So, make sure the pattern and body
+[26:10] are active. Click onto file and
+[26:14] export. And then we'll get a choice of
+[26:17] what we want to export it in. And
+[26:19] there's a billion of them. And you can
+[26:21] see we've got open cat step files, STL
+[26:25] files, all kinds. we're going to do as
+[26:27] an STL mesh because we're just going to
+[26:30] 3D print this at this stage. And then
+[26:32] obviously click save and it will export
+[26:35] it. And when we print it off, that's
+[26:38] what we get. Right now, I know I took
+[26:40] quite a long time to do that actually.
+[26:43] Uh, but I think that's important. I
+[26:45] mean, we're not penguins pecking at
+[26:47] buttons waiting for a sardine as a
+[26:49] reward. And I have watched people zip
+[26:52] through some of this stuff thinking criy
+[26:54] what on earth did they do there. I think
+[26:56] it's more important at the early stages
+[26:58] to understand what it is that you're
+[27:00] doing and why you're trying to do that.
+[27:02] Because if you hit something unexpected,
+[27:05] well then you can just work it out. If
+[27:08] you're following button presses and
+[27:10] something unexpected happens, to be
+[27:13] honest, you're a bit stuffed. So for me,
+[27:15] understanding what it is you're doing is
+[27:17] far more important. the operations of
+[27:20] how you do it. Well, there are tips and
+[27:22] trick videos out there. There are things
+[27:23] you'll discover yourself. It's actually
+[27:25] a matter of just getting on there and
+[27:27] doing it. The hardest thing is
+[27:30] understanding what it is you're doing.
+[27:32] So, remember, we take our machine, it's
+[27:35] assemblies of parts. We take our
+[27:37] assembly, it's a part. We take our part,
+[27:40] it breaks down to sketches. We make the
+[27:43] sketches in free CAD, making sure it's
+[27:46] constrained. The whole lot's kept
+[27:49] together because it's basically one
+[27:50] thing we're working on on different
+[27:52] workbenches. And then we'll get our
+[27:55] model. Exploring the toolbarss and what
+[27:58] kind of constraints you put in. That's
+[28:00] practice. Give it a go at doing
+[28:02] something because you now know what it
+[28:04] is that you're actually trying to do.
+[28:06] And like I say, for me, that's much more
+[28:09] important than a few tips and tricks.
+[28:11] Tips and tricks are awesome and I have
+[28:13] watched a few tips and tricks but it's
+[28:16] much more important to my mind to
+[28:18] understand. Now I hope you enjoyed the
+[28:19] video. I hope it was help because we
+[28:21] will be moving on from this and I won't
+[28:23] be going so much into depth about why it
+[28:26] is you're doing what you're doing in
+[28:27] future videos. I hope you enjoyed the
+[28:29] video. Thank you very much for watching
+[28:31] and please do remember to like and
+[28:33] subscribe.

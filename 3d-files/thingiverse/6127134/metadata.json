@@ -1,0 +1,83 @@
+{
+  "thing_id": 6127134,
+  "name": "Eccentric Cycloid Generator",
+  "description": "You can find a video on this in operation at\r\n\r\nhttps://youtu.be/eufkc6NhUxU\r\n\r\nthe bearings are 22mm by 8mm by 7mm skater bearings and al shafts are 8mm mild steel bar cut to size\r\n\r\nthe serpentine coil is made with 0.2mm enameled copper wire at 200 turns. The method of making serpentine coils can be found here\r\n\r\nhttps://youtu.be/0MLpa0KssVA",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "eufkc6NhUxU",
+      "url": "https://youtu.be/eufkc6NhUxU"
+    },
+    {
+      "video_id": "0MLpa0KssVA",
+      "url": "https://youtu.be/0MLpa0KssVA"
+    }
+  ],
+  "tags": [],
+  "categories": [],
+  "license": "Creative Commons - Attribution",
+  "added": "2023-07-17T13:55:29+00:00",
+  "modified": "2023-07-17T13:55:29+00:00",
+  "url": "https://www.thingiverse.com/thing:6127134",
+  "thumbnail": "https://cdn.thingiverse.com/assets/c8/9e/2b/da/c4/large_display_1ad44a7d-e048-45ba-9855-f3f6efc06cff.JPG",
+  "like_count": 390,
+  "collect_count": 419,
+  "comment_count": 21,
+  "download_count": 2293,
+  "files": [
+    {
+      "name": "coil_former.stl",
+      "size": 355984,
+      "url": "https://www.thingiverse.com/download:13293621",
+      "download_url": "https://api.thingiverse.com/v2/files/13293621/download"
+    },
+    {
+      "name": "coil_former_carrier.stl",
+      "size": 684,
+      "url": "https://www.thingiverse.com/download:13293622",
+      "download_url": "https://api.thingiverse.com/v2/files/13293622/download"
+    },
+    {
+      "name": "sides_x2.stl",
+      "size": 87884,
+      "url": "https://www.thingiverse.com/download:13293623",
+      "download_url": "https://api.thingiverse.com/v2/files/13293623/download"
+    },
+    {
+      "name": "small_gear.stl",
+      "size": 310284,
+      "url": "https://www.thingiverse.com/download:13293624",
+      "download_url": "https://api.thingiverse.com/v2/files/13293624/download"
+    },
+    {
+      "name": "plates_x2.stl",
+      "size": 19984,
+      "url": "https://www.thingiverse.com/download:13293625",
+      "download_url": "https://api.thingiverse.com/v2/files/13293625/download"
+    },
+    {
+      "name": "magnet_carrier.stl",
+      "size": 207584,
+      "url": "https://www.thingiverse.com/download:13293626",
+      "download_url": "https://api.thingiverse.com/v2/files/13293626/download"
+    },
+    {
+      "name": "large_gear.stl",
+      "size": 827884,
+      "url": "https://www.thingiverse.com/download:13293627",
+      "download_url": "https://api.thingiverse.com/v2/files/13293627/download"
+    },
+    {
+      "name": "handle.stl",
+      "size": 337584,
+      "url": "https://www.thingiverse.com/download:13293628",
+      "download_url": "https://api.thingiverse.com/v2/files/13293628/download"
+    },
+    {
+      "name": "handle_clip.stl",
+      "size": 23484,
+      "url": "https://www.thingiverse.com/download:13293629",
+      "download_url": "https://api.thingiverse.com/v2/files/13293629/download"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+[00:00] [Music]
+[00:08] so sometimes I think that could be
+[00:11] mistaken for a nerd or a geek because I
+[00:13] love places like this Railway stations
+[00:16] and there are some good reasons for that
+[00:19] they were designed and built with a
+[00:21] specific objective in mind they were
+[00:24] designed to last these daysad who might
+[00:26] think of it as overbuilding or over
+[00:29] engineered but they were meant to last
+[00:32] for hundreds of years and that's exactly
+[00:34] what they did now this ethos didn't just
+[00:37] include the big old chunky engines and
+[00:39] steel rails it actually ran to
+[00:42] everything including things like baggage
+[00:44] carriers and hand
+[00:46] truns of course your first reaction
+[00:49] might be oh well in them days they built
+[00:51] things to last but they built things to
+[00:53] last because they had to these days of
+[00:57] course not everything has to be built to
+[01:00] last you need to think when you're
+[01:02] designing something is it going to last
+[01:05] does it have to last what job does it
+[01:08] have to do and that's what you can see
+[01:10] in a place like a railway station now
+[01:13] there are lots of reasons you would want
+[01:15] to make something that isn't made to
+[01:17] last one of the main reasons is cost
+[01:20] it's cheaper another one would be ease
+[01:22] of manufacturer and something like this
+[01:25] is a fine example of that it's actually
+[01:27] right there it's the hinge that that
+[01:30] hinge is a flap hinge and all it is is a
+[01:33] thinning of the material allowing it to
+[01:35] bend in the same way as a piece of paper
+[01:38] it's just made thinner so it bends
+[01:39] easier something like this has to be
+[01:42] cheap because this is little more than
+[01:44] packaging and that hinge will last maybe
+[01:48] 200 openings and closings and that's all
+[01:50] it needs to do because it also needs to
+[01:53] be cheap and easy to manufacture and
+[01:56] that would be one injection mold of
+[01:59] course hinges like that are stunningly
+[02:01] easy to make in something like Tinker
+[02:04] cat okay we're back in Tinker C we're on
+[02:07] our work plan have placed our ruler we
+[02:09] can create our hinge Now to create the
+[02:11] hinge we're going to use the block
+[02:13] primitive to define the area of material
+[02:15] and let's say we're going to make that
+[02:17] 50 by 100 and we'll make that 1 mm thick
+[02:23] now this in itself will act as a hinge
+[02:26] if we glued that onto something this
+[02:28] piece of material would fall fold
+[02:30] somewhere between the Middle because we
+[02:32] really want to restrict it so that we
+[02:35] get it to fold where we want it to fold
+[02:37] so we need to thicken up some of this
+[02:39] material so to do that let's use another
+[02:41] block
+[02:42] privative and this time we need to make
+[02:45] it the same thickness obviously 50 we're
+[02:47] going to make it 3 mm high so it's
+[02:50] thicker than this material here this
+[02:52] material is 100 we want it to bend
+[02:55] somewhere in the middle so if we make
+[02:58] that round about 46
+[03:00] then we should get that to happen we can
+[03:03] place that on here using our align tool
+[03:05] so highlight them all click the one you
+[03:08] want to align to and then we'll get our
+[03:11] thicker material hinged right there so
+[03:14] it be fold there in preference to there
+[03:18] if we duplicated that and put that here
+[03:21] then we would get a functioning hinge
+[03:23] but we can knen that up a little bit if
+[03:26] we use this primitive here this
+[03:28] primitive is is a right angle triangle
+[03:32] so if I make
+[03:35] that 3 High by 3 deep then I'll maintain
+[03:40] the right
+[03:41] angle right there and of course it's 50
+[03:44] long so we put that as 50 then we've got
+[03:48] a piece that we can actually insert into
+[03:50] here by clicking
+[03:53] that get rid of that so I can see it
+[03:56] shift key click that and then again we
+[03:59] can align it to here so we can align it
+[04:03] there and there now if we have a look at
+[04:06] that we can see that that actually is
+[04:09] hidden a little bit by burying itself in
+[04:13] there there it is so we need to move
+[04:14] that up three use the arrow key making
+[04:17] sure that this setting is at one and one
+[04:19] 2 three if we hit the key a shift key
+[04:23] and click on the other one we can then
+[04:25] unite those two and we get one piece
+[04:28] that is making a 40 5° angle we need to
+[04:31] repeat that and then rotate that around
+[04:33] so home key click that copy
+[04:37] it shift key align it this time to the
+[04:42] top edge
+[04:43] here and then when we click on that we
+[04:46] can rotate that 180°
+[04:51] round and we can have a look at this
+[04:53] edge
+[04:58] here and you can see what we've got is
+[05:01] an angle here and here so now it will
+[05:04] bend preferentially at the thinner part
+[05:07] and these will stop it closing more than
+[05:10] 45° or 90° in total which will make us
+[05:13] an L-shaped hinge now if you feel that
+[05:17] that's a bit too thick at 1 mm of course
+[05:20] we can reduce the thickness of that to
+[05:22] say5 of a
+[05:27] MM what'll happen there is we'll get a
+[05:30] hinge that won't last as long but will
+[05:32] be easier to use when it's in use now if
+[05:36] we highlight those and we merge all of
+[05:38] those together there's our completed
+[05:40] hinge ready to print so let's print it
+[05:43] and when you print it off this is what
+[05:45] you'll get now if you put a bit of
+[05:47] pressure on there of course it's going
+[05:48] to bend along that hinge line that we
+[05:50] created now this is made from pla so it
+[05:53] won't take many bends until that snaps
+[05:56] it's very material dependent if you use
+[05:58] a stronger material like say TPU or
+[06:01] nylon then you'll get an awful lot of
+[06:03] bends out of it from something like pla
+[06:05] you'll only get a few bends out of it
+[06:07] before it begins to snap but it is an
+[06:10] astonishingly easy and quick way to make
+[06:13] a
+[06:14] hinge of course something like this just
+[06:17] won't last it's going to break and
+[06:19] there's this argument that can be made
+[06:21] to say that things in the past were
+[06:22] better made because they lasted well the
+[06:25] problem with that is of course the
+[06:27] things that we've got that we' made in
+[06:28] the past the things that were made to
+[06:30] last they lasted and we've got them now
+[06:33] to say hey look aren't they well made
+[06:35] but in the past they also made things
+[06:37] that weren't made to last because they
+[06:39] had the same constraints of cost and
+[06:42] manufacturer so this has a whole lot of
+[06:44] uses now it's not only restricted to a
+[06:48] flap hinge like this Brigham Young
+[06:51] University have done a lot of research
+[06:54] into this kind of work and this forms
+[06:56] the basis of that work creating things
+[06:59] that they're calling compliant
+[07:01] mechanisms and compliant mechanisms can
+[07:04] range for things like Springs toggles
+[07:07] switches and even the world's smallest
+[07:10] nerf gun that was created by brigam and
+[07:12] taken up by Mark Rober where it became
+[07:14] an extremely popular thing to have a
+[07:16] look at based on compliant mechanisms
+[07:18] and compliant mechanisms are based on
+[07:21] this idea of the flap hinge anyway I
+[07:25] thought I'd share that with you because
+[07:27] they're astonishingly easy to make and
+[07:29] as long as you bear some of the
+[07:30] restrictions in mind they can be an
+[07:32] awful lot of fun I hope you enjoyed the
+[07:34] video thank you very much for watching
+[07:36] and please do remember to like And
+[07:38] subscribe

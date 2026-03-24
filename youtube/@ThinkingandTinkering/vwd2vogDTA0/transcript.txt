@@ -1,0 +1,227 @@
+[00:00] foreign
+[00:09] complexity is a whole load of Simplicity
+[00:12] bolted together and when you're thinking
+[00:15] of machine design whatever that machine
+[00:17] is then that's actually more useful than
+[00:20] it might at first appear take a car for
+[00:22] example a car is probably the single
+[00:26] most complex machine for everyday use
+[00:28] that we produce and it's thousands of
+[00:31] moving Parts all moving at the same time
+[00:33] to perform the function of a car but
+[00:36] when you look at it of course it's not
+[00:38] just a big bag of parts put together
+[00:40] it's actually broken down into subunits
+[00:43] that are much more simple that perform a
+[00:47] function and that function is clubbed
+[00:50] together so the wheel for instance the
+[00:53] function of the wheel is to turn and
+[00:55] carry loads
+[00:56] you look at the wheel it's actually not
+[00:59] that complicated in and of itself it is
+[01:02] a system still it has an axle that has
+[01:04] bearings it has brakes it has
+[01:06] attachments and it can be turned these
+[01:09] are all important functions of the wheel
+[01:11] within the car and they're performed in
+[01:13] the subsystem of the wheel and wheel hub
+[01:16] we get four of those put them together
+[01:18] suddenly we have a car that's Stables up
+[01:20] I am over simplifying this but when you
+[01:25] look at an overall machine and the
+[01:27] function that machine must perform it
+[01:31] must be provided with certain subsystems
+[01:34] that help that performance of the
+[01:37] function I'm going to break that down a
+[01:38] little bit further to something simpler
+[01:40] I've been asked for absolutely ages to
+[01:43] design a coil Winder coil Winder isn't
+[01:46] as complex as a car but it still follows
+[01:48] the same principles if we think what a
+[01:50] coil Wonder has to do well it has to
+[01:53] wind a coil and that means turning that
+[01:56] coil feeding wire and moving backwards
+[01:59] and forwards a little bit as the wires
+[02:01] fed to keep the coil neat it must
+[02:04] perform those functions or it won't be a
+[02:06] coil Winder additionally we need to be
+[02:09] able to know how many turns we're
+[02:11] putting on that coil and so we need to
+[02:13] need to be able to count that those
+[02:15] functions must be performed by that
+[02:17] machine for it to be an adequate coil
+[02:20] Winder when we look at the functions
+[02:22] that the coil Winder must perform then
+[02:24] obviously it has to have subsystems to
+[02:27] perform that so for example there needs
+[02:29] to be some way to count the turns and of
+[02:32] course we've made a turn counter for
+[02:35] exactly that reason now we also need
+[02:38] some way of moving a wire backwards and
+[02:42] forwards so that it evenly lays the wire
+[02:46] down on the coil to do that we need a
+[02:50] subsystem that will reverse motion so
+[02:54] you can think of the machine as the
+[02:56] overall function
+[02:57] you can think of the sub parts of that
+[02:59] function necessary to make it perform
+[03:03] the task and then the supporting
+[03:06] mechanics that will perform that
+[03:08] function of course we have to put the
+[03:09] whole thing together as a working
+[03:11] machine and place those parts but
+[03:13] breaking it down into the subsystem that
+[03:16] performs the functions necessary for the
+[03:18] overall performance of the machine is
+[03:21] really how to approach machine design
+[03:24] and of course we've been doing exactly
+[03:26] that in case you haven't noticed with
+[03:28] our coil wonder and we made a start on
+[03:30] that with our counter now what we're
+[03:32] going to do is look at the reversing bit
+[03:35] of it because we do need to have that
+[03:37] wire move up and down a little bit now
+[03:40] we can do that in a whole host of ways
+[03:43] and this is true of any function that
+[03:46] you want to perform there are always a
+[03:50] million ways to skin any particular cats
+[03:54] we'll find that people have their
+[03:56] favorite that they will always recommend
+[03:58] but it's just a favorite then
+[04:00] recommending actually there are millions
+[04:02] of ways of doing any particular job and
+[04:05] half the time one is as good as another
+[04:08] unfortunately the other half the time it
+[04:11] isn't because every system that you put
+[04:13] together is going to have pros and cons
+[04:16] it's always a balance engineering is a
+[04:20] balance of things when you put this
+[04:22] thing together and it does a certain job
+[04:24] it will do parts of it extraordinarily
+[04:26] well and parts of it as a bit of a
+[04:29] clutch and it just really is up to you
+[04:31] about what you want to accept within
+[04:33] your machine as a bit of a clutch so
+[04:36] when we look at reversing for example
+[04:38] quite a lot of reversing mechanisms like
+[04:41] the Twisted screw for instance are of
+[04:44] fixed length and if we want a coil
+[04:46] Winder that's a variable of course
+[04:48] that's not much use to us so if we used
+[04:51] that we'd have to have a winding
+[04:52] mechanism where it wound a fixed bobbin
+[04:55] of a fixed length and that would be
+[04:57] great but it would only wind one type of
+[05:00] coil if we want to wind different types
+[05:02] of coil we're going to need some variety
+[05:05] in there somewhere being able to switch
+[05:07] it for different lengths of winding now
+[05:10] that's what I want and so that's the
+[05:12] choice I made it does make the machine
+[05:14] more complicated but it does mean that I
+[05:17] can actually
+[05:18] produce different coils of different
+[05:21] sizes these are all just decisions that
+[05:24] you make while you're deciding what
+[05:27] machine you need to build now because we
+[05:29] could reverse it using electronic
+[05:31] control so something like latching and a
+[05:33] hedge Bridge would be pretty easy to do
+[05:35] if we attached it to electronic motor
+[05:38] I want a machine that either has one
+[05:40] motor is hand turned so one power source
+[05:43] because of that then I'm going to limit
+[05:46] the amount of reversing mechanisms I can
+[05:50] choose but again that's just a choice
+[05:52] because I made a choice on the
+[05:54] functionality of the coil Winder before
+[05:57] I started the project so I want some
+[05:59] kind of mechanical way of doing that
+[06:01] where we're going to have an ability to
+[06:04] change the length of travel before it
+[06:07] reverses
+[06:08] again there are a million ways of doing
+[06:10] this with everybody having their
+[06:12] favorites like this one for example best
+[06:14] on sliding bevel gears but then I came
+[06:17] across this because some vote which I
+[06:20] thought was just elegant actually I
+[06:22] loved it now because I'm bolt promised
+[06:24] to put up the uh sdl files but he never
+[06:27] did I guess he got a bit too busy so I
+[06:29] had to reverse engineer this and reverse
+[06:31] engineering is the same approach as
+[06:34] Engineering in that you look at the
+[06:37] function it's performing what structures
+[06:39] are put into place to perform that
+[06:41] function and you can work out how it was
+[06:43] somebody built something so I built a
+[06:46] copy of kazumba's mechanism and did the
+[06:49] sdl files and of course they will be
+[06:51] available in tinkercad for anybody who
+[06:53] wants it and that's the completed
+[06:55] mechanism but we can break that
+[06:57] mechanism down into its component parts
+[07:00] if we pull out those two what those two
+[07:03] do are interact with each other and if I
+[07:06] can turn one one way of course it will
+[07:08] go one way if I can turn it the other
+[07:10] way middle girl the other way will
+[07:11] reverse which is exactly what I want as
+[07:14] two large gears to do that and then it's
+[07:16] got two small gears that interact with
+[07:18] this mechanism here this just flips over
+[07:21] and because it flips over and engages a
+[07:24] third gear so we've got gear one gear
+[07:26] two gear three in there then flipping
+[07:30] that will reverse it and then of course
+[07:32] what he had was a slider mechanism
+[07:34] because it flips because of the input
+[07:37] your inputting it will just turn it has
+[07:39] nothing to stop it he's got a little
+[07:42] mechanism to hold it there you move and
+[07:44] then you turn it you move the mechanism
+[07:46] out the way it flips to the other side
+[07:48] where it's held and then you turn it and
+[07:50] it reverses the rotation so that's how
+[07:53] that works and it's dead simple to put
+[07:55] together so I printed these parts and
+[07:58] put them together
+[08:00] so that's it all together when it's all
+[08:02] together the only other bit is this bit
+[08:04] this bit you'll notice is a flat bit and
+[08:06] a hook and that's because as we're
+[08:08] turning that we want to stop it going
+[08:10] that way which is what the hook does
+[08:11] when we move the hook it will go there
+[08:13] and we want to stop it going too far so
+[08:16] that's what the flat bit does so that
+[08:18] goes in there and there's a couple of
+[08:20] guides that glue on there and then we
+[08:22] get our reversing gear
+[08:25] that means is the input is actually here
+[08:27] where we can put a handle a pulley a cog
+[08:30] whatever it is you want to attach and
+[08:32] the output will for me will be a gear
+[08:34] attached to here that is then linked to
+[08:37] a threaded Rod so as that slide is in
+[08:39] One Direction it will turn that way
+[08:41] driving the threaded rod and of course
+[08:43] driving the guide when we move the slide
+[08:46] this will automatically go the other way
+[08:49] and of course that will reverse
+[08:50] Direction and bring it back all with a
+[08:54] little push rod on here and that takes
+[08:56] very little Force to do it anyway thank
+[08:59] you very much to the zomb for this
+[09:01] mechanism I put a link to his video the
+[09:03] original video in the description down
+[09:06] below and of course I've put a link to
+[09:08] the um tinkercad files on thingiverse
+[09:11] and that's also in the description down
+[09:13] below now there are a few things I might
+[09:15] improve with this but I wanted to show
+[09:18] you the whole mechanism as gazum Vault
+[09:20] did it I hope you enjoyed the video
+[09:22] thank you very much for watching and
+[09:24] please do remember to like And subscribe

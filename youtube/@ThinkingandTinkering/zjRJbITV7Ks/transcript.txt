@@ -1,0 +1,132 @@
+[00:02] [Music]
+[00:10] hello everyone luke here welcome back to
+[00:12] the channel
+[00:13] so in today's video what we're going to
+[00:14] be doing is making a battery pack for my
+[00:16] e-bike
+[00:17] using scavenge cells so let's go take a
+[00:19] look at them
+[00:20] these cells are actually scavenged from
+[00:22] an old lighting system which i think is
+[00:23] really cool
+[00:25] so these are nickel metal hydride
+[00:27] batteries which means they are
+[00:28] rechargeable which is going to be
+[00:29] perfect
+[00:30] for the application i want to use them
+[00:32] for so i separated these into two packs
+[00:36] four cells each pack and these are going
+[00:37] to be connected in
+[00:39] series which means i should get around
+[00:41] 14.4 volts
+[00:43] to 4 amp hours per pack and once we've
+[00:46] done that we're going to connect these
+[00:47] together
+[00:47] in parallel and we should get around
+[00:51] 14.4 volts to 8 amp hours which would be
+[00:54] plenty enough
+[00:55] to run my motor for the distance that i
+[00:57] want to you know
+[00:58] uh to and from work and maybe down to
+[01:00] the shop before i have to recharge it
+[01:03] right so let's go talk about that a
+[01:04] little bit so let's talk about these
+[01:07] batteries
+[01:08] so there's two basic parameters which
+[01:10] define a battery
+[01:12] which are amps and volts
+[01:15] so there's three of us sitting on a
+[01:16] piece of flat land with a rock in
+[01:18] between us
+[01:19] as a three-year-old there's me and
+[01:21] there's a bodybuilder
+[01:22] the three-year-old goes to give the rock
+[01:24] a push and it doesn't move it which
+[01:26] isn't surprising then i go to give it a
+[01:28] push with all my might and i start to
+[01:30] get it going with a lot of effort
+[01:32] then the bodybuilder comes and gives the
+[01:34] rocker push and he gets it going really
+[01:36] easily
+[01:36] but he breaks the rock and that's what i
+[01:39] mean in terms of
+[01:40] voltage is the amount of push to give
+[01:42] something and this is a great analogy to
+[01:44] use when we're talking about
+[01:46] motors and batteries so let's talk about
+[01:50] amps and that means the amount of energy
+[01:52] so how much energy is in this battery
+[01:54] well we know it's about 4 amp hours but
+[01:56] if we have a bigger battery you're going
+[01:57] to have more energy
+[01:58] and if you have a smaller battery you're
+[02:00] going to have less energy
+[02:02] so we can think about this in terms of
+[02:03] football you wake up in the morning you
+[02:05] don't have any breakfast and you go to a
+[02:07] football game
+[02:08] you're going to run out of steam in
+[02:09] about five minutes but if you wake up
+[02:11] and you have a nice big breakfast
+[02:13] you're gonna last the whole game and
+[02:15] that's what i mean when i'm talking
+[02:16] about
+[02:16] apps right so let's go build the battery
+[02:20] pack
+[02:22] so the eight batteries are connected
+[02:23] into two packs which are connected in
+[02:25] series so it goes positive negative
+[02:27] positive negative
+[02:28] and it's the same thing over here and
+[02:30] how i've connected these is i've just
+[02:32] spot welded them
+[02:33] and that should do a job really nicely
+[02:37] right so let's connect this up to a
+[02:38] multimeter and look at the voltages
+[02:40] right so i've got the battery pack set
+[02:42] up right here and all i've done is
+[02:43] connect it into parallel
+[02:45] so what we're going to do is check how
+[02:46] much voltage is actually on this
+[02:48] so let's take a look
+[02:53] wow 16.9 volts so it was in the range of
+[02:56] what we wanted it to be
+[02:57] so i thought it was going to be anywhere
+[02:59] between 12 to 16 volts
+[03:01] and we're actually nearly pushing 17
+[03:03] which is actually kind of cool
+[03:04] right so let's see if we can get the
+[03:06] motor to spin on this battery pack
+[03:08] so i've got these batteries connected up
+[03:10] to my motor driver
+[03:12] including the speed controller which is
+[03:14] my throttle so i had to take the
+[03:15] handlebars off the scooter which is okay
+[03:17] and then we've obviously got our motor
+[03:19] right here and i just want to make sure
+[03:21] to see if this battery pack will run
+[03:23] this motor so let's give it a go
+[03:29] and of course it will it works really
+[03:31] well
+[03:32] so i'm pretty sure these batteries still
+[03:34] have to be charged up um so i'm going to
+[03:36] go off and do that and then we can
+[03:38] try this out again isn't that cool
+[03:46] i've got my battery pack on charge and
+[03:47] it's charging up really nicely
+[03:49] and it performed incredibly well for the
+[03:51] application i want to use it for
+[03:53] especially running that motor
+[03:54] so you're going to see this battery pack
+[03:56] get installed onto my scooter in the
+[03:58] next episode of my diy
+[04:01] scooter from a kids bike which is going
+[04:02] to be really cool so make sure you stay
+[04:04] tuned for that
+[04:06] anyway guys this brings me to the end of
+[04:08] the video so i hope you enjoyed it and
+[04:10] if you have any questions don't hesitate
+[04:11] to put them in the comments and i'll try
+[04:12] my best to answer them all
+[04:14] anyway guys i hope you have a great day
+[04:16] and i'll see you later

@@ -1,0 +1,184 @@
+[00:00] [Music]
+[00:08] let's make a motor and to do that we're
+[00:10] going to need these bits now I'll make
+[00:12] these available in thingy verse and all
+[00:14] you have to do is download them and
+[00:16] print them off when you've printed them
+[00:18] off Take This Ring and these are 15 mm x
+[00:21] 5 mm nearium magnets there's 12 of them
+[00:24] and then pushed in there north south
+[00:26] north south all the way around and glued
+[00:28] in with a bit of super glue then we need
+[00:30] to take the stand and push a couple of
+[00:33] scater bearings which are 22 mil by 8
+[00:36] mil by 7 mil into the stand then we take
+[00:40] this bit here this bit pushes in that
+[00:43] way
+[00:47] around into the ring and glues in and
+[00:52] then this bit pushes
+[00:56] in that way around and glues in
+[01:00] we feed that through that and stuff the
+[01:03] axle in then we're going to need this
+[01:06] this is a solenoid actually it's an M10
+[01:09] bolt 70 mm long with a load of copper
+[01:11] wire W around it but that's exactly what
+[01:13] a solenoid is but then of course
+[01:16] solenoids have a very useful property if
+[01:18] I pass a DC current down this in this
+[01:21] case 6vs DC of course it becomes
+[01:24] magnetic until I turn the current off
+[01:26] and then the magnetism fails that is in
+[01:30] fact the basics of any motor that
+[01:33] doesn't mean very much of course until I
+[01:35] add this cradle and pop my solenoid in
+[01:39] the credle so if I connect my solenoid
+[01:42] to a power supply of course when I turn
+[01:44] the power supply on it'll turn this into
+[01:47] a magnet now the magnetic field depends
+[01:50] on the direction the current is Flowing
+[01:52] so it flows say from positive to
+[01:56] negative this will become a South if it
+[01:58] flows from if we swap there over that
+[02:01] will become a North if this is a South
+[02:04] and that's a South when this is turned
+[02:06] on what it'll do is push that away and
+[02:09] attract that one which is a North
+[02:11] because these are north south north
+[02:13] south so let's turn on our power
+[02:15] supply and there we go we get exactly
+[02:18] what we would expect that is it attracts
+[02:21] there now let's swap those wires
+[02:26] over and turn it on again and exactly
+[02:30] the same thing happens it rotates but
+[02:33] because we're swapping the direction of
+[02:35] the power that's being fed into this
+[02:37] then this magnetic field in the end of
+[02:39] the solenoid is being forced to change
+[02:42] that changing magnetic field is what
+[02:44] pushes away a magnet when it's the light
+[02:47] pole attracts the unlik pole we swap
+[02:50] that and this will continue to turn that
+[02:53] is the principle now normally of course
+[02:55] you don't have one coil you surround
+[02:57] this by a load of coils but one qual is
+[03:00] enough to get that to actually work of
+[03:03] course it's a little tedious swapping
+[03:05] wires over by hand and flipping switches
+[03:07] what we really need to have is an
+[03:10] automatic way of doing that and of
+[03:12] course there is a way of doing that it's
+[03:14] called The Hedge bridge now the Hedge
+[03:16] bridge is really just a couple of
+[03:18] switches that swap the positive and
+[03:20] negative wires over to create that
+[03:23] effect and we can make those switches
+[03:25] out of a whole host of things and I
+[03:27] quite like them to make them from the
+[03:29] this this is just a relay a relay is a
+[03:32] couple of switches in there controlled
+[03:34] by a coil when the coil goes on then a
+[03:37] little lever moves between two points
+[03:40] acting like a switch of course we don't
+[03:42] need to use a relay we could quite
+[03:43] equally use a transistor which is just
+[03:46] an electronic switch in this case but
+[03:49] this makes it obvious that a switch and
+[03:52] so we can make our hch bridge out of a
+[03:54] relay by wiring up this circuit so there
+[03:57] is one other problem because I'm only
+[04:00] using a single solenoid and that is
+[04:02] direction of rotation I want this to
+[04:04] rotate clockwise so we can just stick a
+[04:07] second hand on it or attach it to the
+[04:09] gears now normally what you find is
+[04:11] there's an uneven number of magnets and
+[04:14] poles or solenoids and you turn them on
+[04:16] in sequence and because they're uneven
+[04:19] it will ensure the direction of rotation
+[04:21] on this one what I'm going to do is a
+[04:23] simple mechanical solution and use a
+[04:25] ratchet and Pole to fit it it goes on
+[04:28] that side slides on there glues in place
+[04:31] but before you glue it you line up the
+[04:33] bottom of the tooth with the magnet so
+[04:36] that when it rotates it will stop
+[04:39] exactly where we want it to stop and
+[04:41] because it's a ratchet when we turn it
+[04:43] on it can't go that way it can only go
+[04:45] that way and so we ensure
+[04:47] rotation it also has a weird shaped pole
+[04:50] that goes with it that slots in there
+[04:52] the axle goes through its hole in the
+[04:54] base and there's a little notch in the
+[04:56] pole where we'll run a rubber band to
+[04:58] act like a spring so as that rotates
+[05:00] it'll be pushed out of the way and snap
+[05:02] back in place when it gets to the next
+[05:05] Notch so here it is set up with its
+[05:08] hitch Bridge relay and its little
+[05:10] ratchet mechanism to control it now the
+[05:13] ratchet's a little awkward to set up you
+[05:15] need to rrange it so the magnet is just
+[05:18] maybe 2 or 3 mm below the solenoid and
+[05:21] that takes a little bit of fiddling
+[05:22] about to do and the rubber band at the
+[05:24] back that goes between the two holes as
+[05:26] a spring is relatively Slack the pole
+[05:30] here catches it and bounces back but
+[05:33] when I turn the power on this will move
+[05:36] round in the right direction every time
+[05:38] I press this switch once this switch
+[05:41] breaks the power to the relay coil
+[05:43] there's a separate power going into the
+[05:45] actual relay switches so that coil being
+[05:48] on or off changes the position of the
+[05:51] switches and the relay works as a h
+[05:55] Bridge swapping the positive and the
+[05:57] negative around for us every time I
+[05:59] press press it switch right let's have a
+[06:01] look at it power
+[06:04] on and switch switch
+[06:14] switch put a little hand on here so you
+[06:17] can see it
+[06:20] turning that's
+[06:22] awesome so we have created our own
+[06:25] stepper motor controlled by this relay
+[06:28] as a hedge brid now it has 12 magnets
+[06:31] they're set 30° apart so when I turn it
+[06:34] on for 5 seconds and then off for 5
+[06:36] seconds it'll make two movements so time
+[06:38] period is 10 seconds and the duty cycle
+[06:41] is
+[06:42] 50% Now using a relay is just to make it
+[06:46] obvious that what's happening are
+[06:48] movement of switches we're only
+[06:50] switching that's all we're doing a relay
+[06:53] is possibly not the best choice but then
+[06:55] we could make it out of a solid stair
+[06:56] relatively easily because a transistor
+[06:59] is also
+[07:00] just a switch the timing signal we used
+[07:03] was me pressing this button here there
+[07:06] are lots of other ways of creating a
+[07:08] timing signal that will turn something
+[07:11] off and on for example you could use a
+[07:13] 555 timer in air stable mode or maybe an
+[07:17] Arduino and I'm willing to bet you could
+[07:19] use a pendulum but there are other
+[07:21] things to consider before we put the
+[07:22] timing signal in so I thought I would
+[07:24] make that the subject of another video
+[07:27] the heart of it creating a step of motor
+[07:30] controlling its movement is what we've
+[07:33] just done and whatever you want to do
+[07:35] with it whether it's clocks or robots or
+[07:37] whatever or position for something like
+[07:39] a 3D printer then that is always going
+[07:42] to be the heart of it and a 3D printer
+[07:44] motor controller uses exactly the same
+[07:49] ideas it's just that you have slightly
+[07:51] more poles anyway I hope you enjoyed the
+[07:53] video thank you very much for watching
+[07:55] and watch out for the rest in this
+[07:57] series oh please do remember to like And
+[07:59] subscribe

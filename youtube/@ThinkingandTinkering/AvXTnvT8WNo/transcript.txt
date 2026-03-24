@@ -1,0 +1,418 @@
+[00:02] [Music]
+[00:15] so in a previous video solar cells of an
+[00:18] LCD screen we took an LCD screen from an
+[00:20] old monitor absolutely two pieces right
+[00:22] to its bare-bones and this is the stuff
+[00:24] we got now there's an awful lot of stuff
+[00:27] in a monitor and there is a growing
+[00:30] industry and the reclamation of them but
+[00:32] still mostly people are just throwing
+[00:35] them away and for the want of something
+[00:37] like 10 or 15 minutes of effort you can
+[00:40] get some brilliant bits and pieces so as
+[00:42] part of the backlight you get a big lump
+[00:45] of this this is acrylic 8 millimeters
+[00:47] thick a4 sheet of this on these days
+[00:50] that's your a4 it's about 10 quid so
+[00:52] you're probably talking about 15 quids
+[00:54] worth of acrylic right there that'll do
+[00:56] some nice project boxes especially if
+[00:59] you reclaim half a dozen of things like
+[01:01] I did and I've got a massive stack of
+[01:02] this I'd took me about half a day to do
+[01:05] it I think to do all of those then you
+[01:07] have got a massive stack of it worth
+[01:08] about a hundred quid or so which I
+[01:10] thought was awesome the other thing you
+[01:13] find really of interest in it is this
+[01:14] thing no this is a kind of for now lens
+[01:17] actually call it prison for prism film
+[01:20] but it's also known as a straight line
+[01:24] for an hour and if you rub your finger
+[01:25] line you'll feel the ridges and those
+[01:28] ridges are little prisms and what this
+[01:29] does is focus the light onto the screen
+[01:32] so you get unidirectional light now
+[01:35] apparently I haven't tried it but
+[01:37] apparently if you stick this on top of
+[01:38] your solar cell what it does is it takes
+[01:41] the incident light and lights coming in
+[01:43] that way and bends it and forces it
+[01:45] through the solar cell at parallel to
+[01:47] the surface so there are reports of
+[01:49] sticking this on solar cells and getting
+[01:51] an energy efficiency improvement just by
+[01:54] putting a layer of this on well worth a
+[01:56] try I might give that a go sometime but
+[01:59] well worth a try now there are two kind
+[02:01] of Fornell lenses this linear one and
+[02:04] then there's this kind which is called a
+[02:05] spot believe you run your finger you'll
+[02:07] feel that the ridge is a circular what
+[02:10] this does is create a focal point and
+[02:11] this is the stuff that people are using
+[02:13] to burn words that kind of thing
+[02:15] this will not create a focal point
+[02:17] because they're ridges at Alinea but it
+[02:19] will bend the light so that it enters
+[02:22] your solar cell straight away even if
+[02:24] the lights coming in in that direct
+[02:26] that means it's going to or certainly
+[02:29] the research is saying but it certainly
+[02:30] should make you solar cells more
+[02:32] efficient because you have to capture
+[02:34] all that light from around that you
+[02:36] weren't capturing before so that's
+[02:38] massive sheets of that so well worth
+[02:41] getting these are the bits and pieces
+[02:42] the thing we were concentrating on were
+[02:45] these two bits this is the actual
+[02:48] backplane and this is where all the
+[02:51] electronics have been printed then this
+[02:54] darker one this is the front plane this
+[02:56] is the one that you look at when you're
+[02:58] looking at it now they are made
+[03:01] differently
+[03:02] this one the backplane is basically a
+[03:05] massive pile of MOSFETs massive pile of
+[03:08] transistors and then you suppose to be
+[03:11] able to get generation from any bit of
+[03:15] silicon if you shine a light on it if
+[03:17] you take the part a 2 n 3 or 5 5 5 shine
+[03:20] a light on it you will actually get it
+[03:22] to generate about half a volt 20 30
+[03:25] milliamp something like that if there's
+[03:27] any interest don't do a video on that
+[03:29] showing you had to chop that up and make
+[03:31] that into a generator but unfortunately
+[03:34] these are metal oxide semi conductors so
+[03:36] what may that means is that the silicon
+[03:39] N and P Junction are not in direct
+[03:40] contact with them so you can't just
+[03:42] shine a light on this and hope it's
+[03:44] gonna generate because it wants that to
+[03:47] be honest that's a bummer but it's also
+[03:49] the way it is and that the surface of
+[03:52] these actually looks like this
+[04:03] as you can see actually pretty complex
+[04:06] and it takes about seven or eight passes
+[04:08] to place that on and at the end of it
+[04:12] what they do is they put a layer of poly
+[04:13] imide on to protect everything so this
+[04:16] has got a plastic layer on it and if you
+[04:18] actually try to take the resistance of
+[04:20] that to see what kind of conductivity it
+[04:22] has been absolutely jack huh you can't
+[04:29] get that to conduct across that plane
+[04:31] that's obviously a bit of a shame but
+[04:33] that's the way it is this one what they
+[04:37] do with this one is put a black mask on
+[04:39] it and then print red blue and green
+[04:43] cells and it looks like this
+[04:54] after they've done that what they then
+[04:56] do is they print the idea on the top of
+[04:58] that so right on the top of there is a
+[05:01] layer of indium tin oxide and if we test
+[05:03] the resistivity again
+[05:05] we'll just pop that onto that surface
+[05:06] sure enough we get conductivity is about
+[05:09] 3 ohms as well something like that
+[05:10] that's because the indium tin oxide
+[05:12] which is a big layer on here is sitting
+[05:15] on the top the indium tin oxide on here
+[05:17] is sitting underneath the poly imide
+[05:20] there's much much more i teo on this one
+[05:22] then there is on this clear one so it's
+[05:27] a question of how to reclaim it
+[05:29] now there's an awful lot of work going
+[05:31] on on reclaiming this stuff because
+[05:33] indium is scarce and getting stupidly
+[05:36] expensive what they normally do is grind
+[05:39] these up they grind them up and then
+[05:42] they give them a wash and use a chemical
+[05:44] method to actually collect them and
+[05:46] we're gonna do something very similar
+[05:48] this glass incidentally that this is on
+[05:51] also is actually really expensive glass
+[05:53] it's not normal glass
+[05:54] it's an optically pure glass of the low
+[05:57] sodium content so try not to break them
+[06:01] as you separate them but if you do break
+[06:02] them don't throw them away cut them into
+[06:04] little squares with the glass cutter and
+[06:06] keep those squares because those glasses
+[06:08] that you've created actually have quite
+[06:10] a lot of value and will in themselves
+[06:12] cost you a lot we're going to obviously
+[06:14] do something and recode that glass if
+[06:17] you don't you have to buy that glass the
+[06:19] nearest thing you can come to is a
+[06:21] microscope slide and they're actually
+[06:23] quite tiny so even if you get a broken
+[06:25] bed you're still gonna getting a big
+[06:27] chunk of glass out of there and that
+[06:28] glass will actually be quite expensive
+[06:30] for you ok let's have a look at this one
+[06:33] first
+[06:34] what we're gonna do with it is remove
+[06:37] the pollak image coating the polyamide
+[06:41] is unbelievably tough it's captain
+[06:43] really fast and tape is polyamide and
+[06:45] the same thing here lasts up to about
+[06:47] 400 degrees C so you're not gonna be
+[06:49] able to burn it off because you're gonna
+[06:50] crack your glass and you're gonna ruin
+[06:52] everything else about the only way is to
+[06:54] take it off mechanically like I said
+[06:56] what they normally do is grind this up
+[06:58] incidentally if they grind both of these
+[07:00] up per kilo of ground-up material has
+[07:04] about a hundred grams of india minute
+[07:07] that's a lot of indium but we're going
+[07:09] to do a mechanical method to remove that
+[07:11] polyamide coating now it is tough and
+[07:14] the adherence is tough oh I'm gonna do
+[07:17] is take this the carpet knife blade and
+[07:21] go over the top and you go over the top
+[07:24] actually much harder than you'd think
+[07:26] it's quite hard and as you take off the
+[07:30] in mind you will be able to see through
+[07:32] the glass it'll go from a kind of
+[07:34] yellowish color to a much more
+[07:36] see-through color I'm gonna do that and
+[07:38] get back to you okay put it on a white
+[07:40] background because I'm hoping this will
+[07:42] show up for you that bit I haven't even
+[07:44] touched if I take my blade you can see
+[07:56] the poly in my coming off as those dark
+[07:58] spots and we've got a change in the
+[08:00] color there don't you get that little
+[08:02] bit off you can use a fine grade
+[08:04] sandpaper and even that out and then we
+[08:09] can check the conductivity so on the bit
+[08:14] next to it as you can see it's very
+[08:20] resistive and on that bit there it's now
+[08:24] conductive so when you've been over that
+[08:27] whole thing then he will end up with the
+[08:29] sheet of conductive glass in which case
+[08:32] you can build something like a dye
+[08:33] sensitized solar cell lots of videos on
+[08:36] how to build those dead simple 10mm
+[08:38] dioxide on your conductive glass suck in
+[08:41] blackberry or raspberry juice on your
+[08:44] other piece put a bit of carbon put a
+[08:46] bit of triad I didn't there slap them
+[08:48] together and you'll have a dye
+[08:49] sensitized solar cell so you can use
+[08:52] that piece of material to make yourself
+[08:54] a dye sensitized solar cell the bit I'm
+[08:56] actually interested in because honey
+[08:58] chemist is this bit here and this bit
+[09:02] here like I said is conductive already
+[09:04] because the idea was on the top the only
+[09:07] shame about the answer is it's so great
+[09:09] now it does have transmittance I can see
+[09:12] through it it's actually kind of cool
+[09:13] because it breaks things up into the
+[09:15] primary colors and but it's a bit too
+[09:18] dark
+[09:19] use as a solar cell just like that and
+[09:22] there's an awful lot of indium tin oxide
+[09:25] on there it is mixed up with other stuff
+[09:27] but it's on there now if we were to
+[09:31] crush this up we could process it but we
+[09:34] would lose the glass when the glass
+[09:36] itself like to say has great value but
+[09:38] this stuff comes off much much easier
+[09:41] and all we have to do is scrape this off
+[09:44] and collect it so this stuff scrapes
+[09:47] much easier you just take your knife to
+[09:49] it and all that dust there that's what
+[09:58] you want to collect so at the end of
+[10:00] that what you end up with is this
+[10:02] beautiful piece of optical glass now we
+[10:06] are going to extract the indium and
+[10:08] recursed it with indium tin oxide
+[10:10] because we don't want the color screen
+[10:13] but you don't have to do that and that
+[10:16] glass actually is a specialist material
+[10:18] and again another one of those stupidly
+[10:20] expensive things if you want to buy a
+[10:22] square to experiment with but this could
+[10:24] be used for Seiler coating with an
+[10:26] aluminium tub sink oxide and I have done
+[10:29] videos on doing that I can't remember
+[10:32] the names right now to search through
+[10:33] and you'll find the a Zed o coating
+[10:36] method along with showing you how to
+[10:38] make a cylon machine so that you don't
+[10:40] have to do the boring bits do you don't
+[10:42] have to put the indium tin oxide back on
+[10:44] now you could put a cheaper coating on
+[10:45] like aluminium dope zinc oxide and
+[10:47] that's well worth the experimentation
+[10:50] but indium tin oxide is stupidly
+[10:52] expensive you can get a good SL coating
+[10:55] you're gonna make much much cheaper
+[10:56] solar cells so we get that which is well
+[11:00] worth having and well worth
+[11:02] experimenting and we get this which is
+[11:05] about point three one grams of a mixture
+[11:07] of resins and indium tin oxide and we're
+[11:11] going to use a method to extract that
+[11:13] now the method were using actually is in
+[11:16] fact an industrial method I'm just
+[11:18] scaling it down so we can do on the
+[11:20] tabletop but it's the same method that's
+[11:22] used in industry if you want to do an
+[11:25] awful lot of this and reclaim the indium
+[11:27] obviously scraping you off a piece of
+[11:29] glass is going to be a real chore for
+[11:31] you we want the glass
+[11:33] I want the glass which is why I've tried
+[11:34] to protect and save the glass if you
+[11:37] just want the indium all you have to do
+[11:39] is break this up into small parts and go
+[11:41] through the next steps and you'll be
+[11:42] able to reclaim the nd amount of LCD
+[11:45] screens no trouble at all it's actually
+[11:47] quite easy and you'll find that in a
+[11:49] minute if you want just the glass to do
+[11:52] the different coating by all means do a
+[11:54] different coating is that Oh wonderful
+[11:57] if you want something that will do the
+[12:00] job see you can make something like that
+[12:02] dye sensitized solar cell we did that
+[12:04] earlier in the video where we just took
+[12:06] the back screen and script the plastic
+[12:09] off you can use that so it's a whole lot
+[12:11] of things you can do here depending on
+[12:13] what it is that you want to do obviously
+[12:16] I'm really interested in the entire
+[12:17] process so now we've got our optical
+[12:21] glass we can put that to one side and
+[12:23] save it along with all the other optical
+[12:25] glass and I now have about 400 pounds
+[12:27] worth of this just for the effort of
+[12:29] scraping for a couple of minutes and
+[12:31] then we can get on to extracting the
+[12:34] indium out of this now when you read
+[12:36] about how they go about reclaiming the
+[12:38] indium out of these things what they
+[12:40] tend to use is concentrated sulfuric
+[12:43] acid that's hot and let's face it nobody
+[12:46] wants to go mucking around with that
+[12:47] especially in the kitchen table top but
+[12:50] there is an alternative and the
+[12:51] alternative is this what this is is a
+[12:54] 1/2 molar solution of this stuff oxalic
+[12:57] acid Oh bar keeper's friend now oxalic
+[13:00] acid does some weird and wonderful
+[13:01] things that are just tremendously
+[13:03] helpful for Indian Hindi amande tin
+[13:06] extraction all we actually do is take
+[13:09] the stuff we scraped off the glass and
+[13:10] chuck it in there stir it and give it 45
+[13:14] minutes at 70 degrees centigrade and it
+[13:17] will recover a hundred percent of the
+[13:20] indium okay so I'm just going to add
+[13:23] that get it boiling and filter it so I
+[13:27] just filtered out with the coffee
+[13:29] filtering you can see the resin muck
+[13:30] left in the filter and here is our
+[13:32] beautiful indium solution is kind of
+[13:35] gonna color a greenish color there are
+[13:37] no organics in it its water so it's the
+[13:40] indium and tin in there
+[13:41] making this this color now what's really
+[13:44] cool about using oxalic acid is it
+[13:47] wouldn't leave this between two and five
+[13:48] days so five days to set it to one side
+[13:50] any impurities in there are going to
+[13:54] precipitate out and that's just really
+[13:56] bizarre it's not so important here
+[13:58] because obviously we just put in resin
+[14:01] and indium tin oxide so pretty much all
+[14:03] that's in there is the indium and the
+[14:05] tin but if you crush the glass you will
+[14:09] get some leaching of aluminium and some
+[14:11] silicon going in there as well um and
+[14:15] you can't stop that and if you lose that
+[14:16] leave that like a say for five days they
+[14:19] will precipitate out as a white
+[14:21] precipitate and you can just refill
+[14:22] through it again at the end of five days
+[14:24] and you'll have a pure indium tin of
+[14:26] sumit acid mix and those Y precipitates
+[14:31] are all of the other junk that just just
+[14:34] falls out of this particular solution
+[14:36] that's really really useful obviously
+[14:40] and that's one of the curious things
+[14:42] about oxalic acid the other thing of
+[14:44] course is I can get quite close to
+[14:46] without being scared because it's not
+[14:47] boiling sulfuric acid so that's really
+[14:50] awesome as well
+[14:51] now the solubility of the indium is
+[14:55] dependent on the concentration of the
+[14:57] serve the oxalic acid so once you've got
+[15:00] those precipitates out what you do then
+[15:02] is double the concentration so add
+[15:05] another half mole of oxalic acid in here
+[15:07] and then the indium will precipitate out
+[15:10] and all you have to do is filter it to
+[15:12] recover it now is about a hundred
+[15:14] percent indium recovery from this muck
+[15:16] in here will lose about one percent in
+[15:19] that participation process to get rid of
+[15:22] the impurities but we'll get a 99% yield
+[15:25] out of that once we increase the
+[15:27] concentration that's really awesome now
+[15:30] it is a lot of information to cover I
+[15:32] understand that because we have done a
+[15:34] lot in this particular video this
+[15:37] particular process what I'll do is I'll
+[15:39] put the reference to the paper in the
+[15:40] description so if you want to know more
+[15:42] about this process have a read at that
+[15:44] paper it will tell you everything you
+[15:46] need to know about it if you're thinking
+[15:48] about reclaiming indium as a possible
+[15:51] business I'll go for it I mean you know
+[15:53] it's a really sense of
+[15:55] thing there's a ton of this stuff
+[15:56] kicking around Indians a good price and
+[15:58] it's to be honest dead easy to do you
+[16:00] better get the screen crush it up wash
+[16:03] it in some oxalic acid and filter it
+[16:04] piece of cake
+[16:06] that's really good so we've covered
+[16:09] quite a few things here we've covered
+[16:11] reclaiming the back panel and turning it
+[16:13] into a conductive glass just by scraping
+[16:15] off the poly your mind so that we can
+[16:17] use that in things like die sensitive
+[16:19] solar cells we've recovered the optical
+[16:22] glass from the front panel
+[16:24] but again just scraping that stuff off
+[16:27] and then we can use that glass by
+[16:29] cutting it ourselves with the silo
+[16:31] method to make that into another
+[16:33] conductive glass that we then can use as
+[16:36] solar cells we've also recovered the
+[16:38] indium which itself could be an entire
+[16:41] business and then once we've recovered
+[16:43] that indium what we need to do is
+[16:45] obviously cut it onto some of the
+[16:47] optical glass to make yet another kind
+[16:50] of conductive glass that can be used in
+[16:52] solar cells now the process of covering
+[16:55] this in indium tin oxide is really quite
+[16:57] simple actually you get a hot plate at
+[17:00] 400 degrees centigrade pop your glass on
+[17:02] there and then uses an airbrush and
+[17:05] spread this liquid onto it and it will
+[17:07] just burn off leaving you indium tin
+[17:10] oxide anyway that's a lot I hope it was
+[17:14] of interest I hope you enjoyed the video
+[17:16] and thank you very much for watching

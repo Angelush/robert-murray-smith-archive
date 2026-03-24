@@ -1,0 +1,157 @@
+[00:00] [Music]
+[00:08] so we made this it's the uh Perpetual
+[00:11] wedge by James White and it gives an
+[00:13] impressive gear ratio this particular
+[00:15] one 100 to one but do you remember that
+[00:19] I've said before that everything is
+[00:23] about compromises and everything has
+[00:26] limitations so of course this has limit
+[00:30] TS it experiences a lot of speed on the
+[00:34] input which is right here as that turns
+[00:36] it turns quickly it experiences a lot of
+[00:39] force on the output which is this bar
+[00:41] here what James White did was wrap a
+[00:43] rope around there and use that as a
+[00:45] pulley but those two things speed and
+[00:48] force remember are power so it loses a
+[00:52] lot of power through friction and that
+[00:55] increases as the gear size increases and
+[00:59] it increases quadratically that it's by
+[01:01] the square so if it's one the loss is
+[01:05] one if it's two the loss is four if it's
+[01:08] three it's nine if it's four it's 16 and
+[01:11] so on that curve shoots up in terms of
+[01:15] losses and of course that puts a
+[01:17] practical limit on what you can actually
+[01:19] do with gears and gear Trends and
+[01:22] systems like this now that's fine if you
+[01:27] don't really mind the losses and do you
+[01:30] want something to operate at high torque
+[01:33] with low speed and it's a good backlash
+[01:36] um which means reverse turning
+[01:38] characteristics then it becomes
+[01:40] incredibly useful mean things like
+[01:42] aircraft landing gear for example
+[01:44] something like that but there are
+[01:46] situations in which this can be a bit of
+[01:49] an issue and then came along the NF
+[01:53] differential friction drive the pedant
+[01:56] came out in the 1930s and the basic idea
+[01:59] is is to use ball bearings as friction
+[02:02] rollers in a friction drive and there
+[02:04] are two really nice things about this
+[02:08] the first thing is it completely solves
+[02:11] that losses grow quadratically with gear
+[02:14] ratio's issue and that's because rolling
+[02:17] friction is very much lower than the
+[02:20] friction created by meshing gear teeth
+[02:22] so much so that you can get up to
+[02:25] ridiculously high gear ratios before it
+[02:28] becomes an issue because it's still
+[02:29] there it's just many hundred times
+[02:31] smaller with rolling friction than
+[02:34] geared teeth meshing and so you can get
+[02:36] many hundred times more gear ratio
+[02:39] increases before it becomes an issue the
+[02:43] second thing is it's incredibly cheap to
+[02:45] make accurate ball bearings are a
+[02:47] commodity in our world and making the
+[02:49] restes for them to fit in well that's a
+[02:51] pretty simple leing operation and of
+[02:54] course we can create a friction drive
+[02:57] relatively easily from something like
+[03:00] this I mean this astounds me actually
+[03:03] the accuracy that we rate things I mean
+[03:05] the rules of the sport govern the size
+[03:07] of this thing and it's a specified
+[03:10] weight with a specified diameter 40 mm
+[03:12] in this case and it's accurate all the
+[03:15] way around so this can be the basis of
+[03:18] our own friction drive and of course
+[03:20] what I immediately did was turn the
+[03:22] Tinker C and draw up a friction drive
+[03:27] and here it is and it's a surprisingly
+[03:29] few number of Parts actually the core of
+[03:31] it are only really three we've got two
+[03:34] conical dishes of which one is sha and
+[03:37] the double cone for the center of course
+[03:39] there an axle and turn handle and a
+[03:40] couple of Clips but the ball sits on the
+[03:44] cones and it's the angle of the cones
+[03:46] that give you your gear ratio now
+[03:50] friction drives unlike toothed gears
+[03:53] only work when there's traction and
+[03:56] friction will only give you traction
+[03:58] when the force applied is normal to the
+[04:00] surface of the sphere that means at 90°
+[04:03] to the tangent and the tangent is the
+[04:05] plane that just touches the sphere so if
+[04:09] you make them like that and you change
+[04:11] that angle you can get a huge range of
+[04:15] gear ratios from something like this
+[04:18] anyway let's print those PS out so while
+[04:21] we're waiting for those prints let's
+[04:22] think a bit more about that gear ratio
+[04:24] because it works in the same way that
+[04:27] constant variable Transmissions work we
+[04:30] think about our sphere then if we take a
+[04:32] point down there the diameter of that
+[04:35] circle is very small a point up here the
+[04:38] diameter is very big and if our cors are
+[04:40] touching here and here then the ratio
+[04:43] those two diameters is the gear ratio
+[04:45] and of course across the sphere we can
+[04:47] change that infinitely when you make
+[04:50] them you set that by calculating the
+[04:53] angle to give you the gear ratio that
+[04:55] you want so here's our parts there's our
+[04:58] couple of conical discs there's the
+[05:00] conical Center and the axle there's a
+[05:03] little clip on the end stick that
+[05:05] through there drop the cone on there and
+[05:08] then fix the con with a little bit of
+[05:10] super glue to make sure that everything
+[05:11] stays in place and you can turn it and
+[05:13] then all we do I just love this is drop
+[05:16] some pingpong balls in there the minimum
+[05:19] is three but basically as many as you
+[05:21] can fit dropping the pingpong balls like
+[05:24] it's going to be
+[05:27] five y kind of cool pop the top
+[05:31] on second clip and handle and that's all
+[05:34] there is to it okay that's it all
+[05:37] together and the clips on and I've put a
+[05:39] little black flag right there and a
+[05:41] black piece of tape right there so you
+[05:43] can see this on operation we hold the
+[05:46] bottom bit firm because that's the bit
+[05:48] that's fixed and this top bit is the bit
+[05:51] that's able to move that exhibits the
+[05:52] gear ratio and if I turn the handle
+[05:59] see the Black Flag turns much more
+[06:02] quickly than this black marker I put no
+[06:05] effort into calculating the gears I use
+[06:07] pingpong balls in a rough angle but
+[06:12] that is how it works pretty simple and
+[06:16] that's all there is to it however like
+[06:19] everything they do have their
+[06:21] limitations one of them is that well it
+[06:24] relies on friction all these toothless
+[06:27] friction drives are the same and they're
+[06:29] very unforgiving of tolerances so if you
+[06:32] get those angles wrong your gear ratio
+[06:34] will be wrong and of course you got to
+[06:36] compress everything so that there is a
+[06:37] force and if you put too much
+[06:39] compression you'll lock it up you'll
+[06:41] crack the balls or you'll be able to
+[06:44] move it but it'll still wear and crack
+[06:47] over time so they're good for
+[06:49] applications that don't require a lot of
+[06:52] talk of course that's why they've been
+[06:54] used for adjustment mechanisms and
+[06:56] turntables that sort of thing anyway I
+[06:59] will'll put the files on thingy verse
+[07:00] for anybody who wants to play around
+[07:02] with this I hope you enjoyed the video
+[07:04] and thank you very much for watching

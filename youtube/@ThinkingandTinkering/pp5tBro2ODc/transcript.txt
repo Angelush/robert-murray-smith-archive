@@ -1,0 +1,179 @@
+[00:06] hi okay so this video is meant for those
+[00:09] with a bit more of a technical event who
+[00:11] want a bit more description on what's
+[00:12] going on so they can um play around with
+[00:14] it a bit now one of the important
+[00:17] Concepts using this is is impedance now
+[00:20] impedance is to an AC circuit what
+[00:23] resistance is to a DC circuit but it's
+[00:26] not quite the same and it has some um
+[00:28] peculiar qualities now an AC circuit is
+[00:31] obviously a wave circuit and it sets up
+[00:32] a wave in the wire and it's able to
+[00:35] transfer from the source to the load
+[00:37] because the impedance is matched if
+[00:40] impedance is different then as the wave
+[00:42] approaches the load from The Source it's
+[00:44] a bit like a ball hitting a wall if the
+[00:46] impedances are different the ball will
+[00:48] hit the wall and bounce back same thing
+[00:50] the wave will hit the um load and a part
+[00:54] of that wave will bounce back so not all
+[00:56] the power has been transmitted into the
+[00:58] load from the source and the because a
+[01:00] lot of the power is going back to the
+[01:01] source if the impedances are wrong then
+[01:03] it can blow your Source now a lot of uh
+[01:05] modern amplifiers obviously have trip
+[01:07] out and so they don't blow they just
+[01:09] trip out they just turn off and that's
+[01:11] obviously a bit of a nuisance when
+[01:12] running speakers so what you really need
+[01:14] to do is find some way of matching the
+[01:17] impedance or using some kind of
+[01:19] impedance matching circuit there a
+[01:21] couple of circuits one's a resistive
+[01:23] network but perhaps the easiest way is
+[01:25] to use an impedance matching
+[01:27] Transformer and what that does is it
+[01:29] kind of FS the SCE and load into
+[01:31] appearing the same so there is a a um
+[01:35] formula available on the internet for
+[01:37] working out what the turns ratio of an
+[01:38] impedance Transformer would be and it's
+[01:40] related to the impedance of the load and
+[01:42] the impedance of the source now with a
+[01:45] modern um stereo power amplifier the
+[01:48] impedance of the source is about 01 ohm
+[01:51] sorry .1 ohms and your average speaker
+[01:54] is impedance of somewhere between four
+[01:56] and 8 ohms so the impedance of the
+[01:57] speaker is much higher than the
+[01:59] impedance of the source and that allows
+[02:02] it really to run a whole range of um
+[02:05] speakers without having trouble at your
+[02:08] stereo par amplifier side you get the
+[02:10] real problem when the impedance of your
+[02:12] load is lower than the impedance of your
+[02:14] Source because that's when the bounce
+[02:15] back is going to occur now I used this
+[02:19] and when I used it it worked okay
+[02:21] actually uh and that's really because
+[02:24] the impedance of that inductor coil
+[02:26] there is roughly the same as a speaker
+[02:28] it's about I think about three or four
+[02:29] ohms it's something like that so it's
+[02:31] roughly the same um you can however use
+[02:34] lots of different setups and there is
+[02:36] one really interesting setup which is
+[02:38] like this now all this is is a simple
+[02:42] pancake coil and again I've got a couple
+[02:44] of strips of rubber on there and a
+[02:45] couple of magnets now this works and
+[02:48] I'll show you it works in a minute but
+[02:50] the problem with it is because the coil
+[02:52] impedance is so low what it will do is
+[02:54] it will keep cutting out the power
+[02:56] amplifier until I put some kind of MP
+[02:58] matching Transformer in there and then
+[03:01] impedance matching Transformer as the a
+[03:03] low impedance side and high impedance
+[03:05] side this gets attached to the high
+[03:07] impedance side Source gets attached to
+[03:09] the low impedance side and it Thrills
+[03:11] the source of Lord to believing that
+[03:13] they have similar impedance and their
+[03:14] impedance matched it being a Transformer
+[03:17] of course no well there are losses of
+[03:19] power but no real power loss occurs it
+[03:21] just transforms the voltage from one
+[03:22] level to the next level and um presents
+[03:26] a level of impedance to each side of the
+[03:28] circuit so that you don't get that b
+[03:29] back effect occurring now just a quick
+[03:32] listen at this again you're probably
+[03:34] going to cut out here and
+[03:42] there very good CZ out
+[03:48] there okay so it is working we're
+[03:50] getting um this operating as an
+[03:53] amplifier but like I say we can't get
+[03:55] enough power in here to actually drive
+[03:57] this properly because of the impedance
+[03:59] effect so what I want to do really is
+[04:01] work out what that is and put a
+[04:03] transformer in there then this little um
+[04:06] Panet coil that's magnet effect will
+[04:08] dive this just fine and that is um a
+[04:12] transducer and that's what we're using
+[04:13] to do these things we've basically built
+[04:16] a a central transducer and as I say pull
+[04:19] that apart for
+[04:22] you that's all it is little pancake
+[04:25] coil rubber little
+[04:28] magnet then we get our transducer effect
+[04:31] now obviously because um this is
+[04:33] vibrating free so the magnet is actually
+[04:36] not fixed to anything it's just
+[04:37] vibrating at this um into the air at
+[04:39] this side then we get another big loss
+[04:42] of power occurring here um because this
+[04:45] vibration that's going out here it isn't
+[04:47] doing anything we're not hearing it
+[04:49] there's no power transmission into our
+[04:50] vibrating membrane which in this case is
+[04:52] the bottom of the C and so you're using
+[04:54] quite a lot of power and volume on that
+[04:55] as well a solution to that would be to
+[04:58] fix a bar across from here touching the
+[05:01] magnet and across to here and they would
+[05:02] be fixed to the outside of the can and
+[05:04] that they would hold the bar magnet
+[05:06] sorry hold the magnet rigid against a
+[05:08] flexible membrane in which case more of
+[05:10] the power be transferred into the
+[05:12] membrane and you get a better volume
+[05:13] response from it just hanging there in
+[05:15] free space really um you lose quite a
+[05:18] lot of power and and the same thing with
+[05:20] this really um when I did them on the
+[05:22] other video all I did really was stick
+[05:24] that to either a bit of metal if it
+[05:26] would stick if it wouldn't stick then I
+[05:28] just took it off and put one either side
+[05:31] and stuck it so that it held itself and
+[05:32] again it hadn't enough vibration energy
+[05:35] that you could hear something and to be
+[05:37] honest the volume wasn't um wasn't half
+[05:39] bad um but it would be greatly improved
+[05:43] if that was held rigid in relation to
+[05:46] the vibrating membrane so something like
+[05:50] this so here we've got a flat vibrating
+[05:53] membrane and here's the um induction
+[05:57] control device what you would do is
+[05:58] attach that to that upright there so
+[06:01] that that would hold that firm in
+[06:03] relation to the membrane obviously the
+[06:05] membrane is then held again in relation
+[06:07] to this crossmember here and you get a
+[06:09] lot better volume response from that uh
+[06:13] you'd need less power to get the volume
+[06:14] out of it and that would make a far
+[06:16] better
+[06:17] speaker now um something like that
+[06:21] obviously has quite a bit of depth to it
+[06:23] that if we use this flat coil again on
+[06:27] here and we fix them back call in
+[06:29] relation to the surface that we're
+[06:32] vibrating what we'll get is a flat panel
+[06:35] speaker uh and I'll probably build that
+[06:37] soon actually and you can have a listen
+[06:39] to that but um that will be one way of
+[06:42] constructing flat panel
+[06:43] speakers so if you have um any questions
+[06:47] about this including impedance matching
+[06:49] of them please feel free to drop me a
+[06:51] line uh I'm always quite happy to to
+[06:53] talk things through and hopefully um
+[06:56] you've enjoyed the video and it's been a
+[06:57] VI to you thank you very much than
+[07:06] care

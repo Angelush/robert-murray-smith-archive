@@ -1,0 +1,1337 @@
+[
+  {
+    "id": "Ugy-Iat7okjUbrQxNc94AaABAg",
+    "author": "@SGTMARSHALL1",
+    "author_channel_id": "UCEaC9lfjJl-sNQXocfzPw3A",
+    "text": "It possible took more load to start because added weight and resistance but gained efficiency because it has more kinetic force",
+    "likes": 0,
+    "published_at": "2023-12-31T14:12:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxt-GAXhoc5xIrkNCR4AaABAg",
+    "author": "@simongreen6284",
+    "author_channel_id": "UCHF1_6CzWlB92Z71Gu8trOQ",
+    "text": "Interesting idea. Whilst watching i wondered if the toroidal shape/tubercles messed with using the venturi effect to draw more air from arround the fan.",
+    "likes": 1,
+    "published_at": "2023-11-19T13:36:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTgBB_kVnoADuAZy94AaABAg",
+    "author": "@markrichards9957",
+    "author_channel_id": "UCeNGZ4gJ5BBmzv93CPSMhYQ",
+    "text": "Surely the Reynolds number is so different between water and air that the tubercules should be much smaller?",
+    "likes": 2,
+    "published_at": "2023-11-15T21:01:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxmURoULp8ma7Hc-nF4AaABAg",
+    "author": "@antoniiocaluso1071",
+    "author_channel_id": "UCp9uhwlipPMNk2BvPWY8LgA",
+    "text": "vortex generators work similarly, as '50s British military aviation experimented with. as  you likely already-know :-) May I suggest these new-fangled tubercles are too-extreme, and based on a whale's ability to grow them. Humans, however, have some advantages (+/-), so...FAIR the \"protrusions\" (aka: tuber....) into the actual wing, leaving the \"bulb\" to constrict the air-flow (aka: vortex, right?!) into producing the greater pressure-flow. Don't see the reason for the \"protrusion\", which resembles a ship's bow bulb here, in increasing that vital criteria. But vastly-more complicating the manufacturing! Keep trying, kids! :-) liked nonetheless! cheers....",
+    "likes": 0,
+    "published_at": "2023-11-14T17:26:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzKAGrBG4rq85_hsct4AaABAg",
+    "author": "@heathcwalker",
+    "author_channel_id": "UCLFJDoYp8fREeoVnKiIGyiQ",
+    "text": "This seems to combine the strength of making s-shaped levees instead of straight levees with increasing the length ratio of the leading edge VS trailing edge to increase lift. Maybe curve the valleys of the tubercles to match the peaks instead of leaving them straight across.",
+    "likes": 0,
+    "published_at": "2023-11-13T22:18:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwpkpx3qRMkB4O2IhF4AaABAg",
+    "author": "@EGDD-42",
+    "author_channel_id": "UCQSZQ2OXCbAHKaZrp4qWu6Q",
+    "text": "Are the tubicles no more than winglets / fences that you see on airliner's?\n\nIt will increase the form drag but reduce the separation drag\n\nIf you put fences on a STOL wing you reduce the stall speed of the wing, as you control the separation of the air at low speeds",
+    "likes": 0,
+    "published_at": "2023-11-13T11:03:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw9Sa-9WqMaXP9wCXh4AaABAg",
+    "author": "@bnjdc007",
+    "author_channel_id": "UC-4X3K-M5VbSFU5iyPuUahQ",
+    "text": "You seem to be using a lot of glue can you not print out the clips that would clip these pieces into place I like your channel very educational",
+    "likes": 0,
+    "published_at": "2023-11-12T14:24:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgysjuXMgakznudMhLx4AaABAg",
+    "author": "@blechnik",
+    "author_channel_id": "UCTw6s_G01jNKJhcsHvO8pzQ",
+    "text": "i dont really get why one would put the toroidal propeller inside a hosing. i thought, the point of the toroidal shape is to reduce the blade tip vortices. but in a housing or shroud, the point of the shroud is exactly that, and (with a quite tight tip clearance) does this job pretty good. so why the toroidal shape?",
+    "likes": 0,
+    "published_at": "2023-11-12T12:04:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz0QJFM5DJh_Wq4pwx4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "A whale of a tail, but very interesting non-the-less.",
+    "likes": 0,
+    "published_at": "2023-11-12T01:18:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxsuKyeQINJAMTb2L14AaABAg",
+    "author": "@vylbird8014",
+    "author_channel_id": "UCThHDEtGqJjj23YtBhmxRUQ",
+    "text": "I see a problem here: The toroidal blades have the advantage of their shape because they prevent vortex formation at the blade tip - a very undesirable thing which makes noise and drag. But you are using a ducted fan - and the duct also works by preventing vortex formation (by physically obstructing the vortex with a the duct). So you're nullifying the advantages of the toroidal blade design: You just have no need for it when you're using it in a duct.\n\nDucts have their own drawbacks - they add weight, and require precise manufacture to get the blade tips almost-touching the duct. Weight is a big factor for drones, so there's an advantage to toroidal blades instead of ducts for drone use.",
+    "likes": 0,
+    "published_at": "2023-11-11T22:13:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6Iv-gjCVviVPK8tx4AaABAg",
+    "author": "@SpaceDeviant",
+    "author_channel_id": "UC-aUfd7SHNrIqLjYVG_pbVg",
+    "text": "Hey Robert, was it solid or low infill?",
+    "likes": 0,
+    "published_at": "2023-11-11T16:57:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgywsSh2H3HdG5mnzGt4AaABAg",
+    "author": "@nathanieljames7462",
+    "author_channel_id": "UCqE9GKpd002jeJzrmzlD9Pg",
+    "text": "I love that you did the exact thing I wondered when I saw you boost the fan efficiency with tubercles and added them to an already boosted efficiency toroidal blade. Brilliant!",
+    "likes": 3,
+    "published_at": "2023-11-11T16:35:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwuKfJpp65SN5FP7rp4AaABAg",
+    "author": "@enormousdork3831",
+    "author_channel_id": "UCZzodTxHG_JjEYXdpOOq3Jg",
+    "text": "Mr.Smith, I am not certain that you will even read this, so I will be as breif as I can..\nHow would these toroidal blades opperate in a variable pitch build ?\n(Sounds crazy, but were someone to design and build a VTOL quad copter, with out electric motors, using only the variable prop pitch as the controls, would that be a viable design ?",
+    "likes": 0,
+    "published_at": "2023-11-11T14:03:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzu9_py7KXGqgHdMFh4AaABAg",
+    "author": "@ogi22",
+    "author_channel_id": "UCXk1mO8r2rCYNDhrHEXhFrw",
+    "text": "Very interesting results. That higher starting current could be due to the bigger weight of the fan blade. You have to spin a bigger mass up to it's running velocity.",
+    "likes": 0,
+    "published_at": "2023-11-11T11:44:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy7uMHeuZT4VLjEKJl4AaABAg",
+    "author": "@AnandSaprasert",
+    "author_channel_id": "UCqiEvjblUbNVwSxtAqej0Xw",
+    "text": "I thought it was a boat propeller. Can this type of propeller be used as a boat propeller?",
+    "likes": 0,
+    "published_at": "2023-11-11T09:30:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXlQy4mIsY7OgA6yx4AaABAg",
+    "author": "@eyoopmeduck",
+    "author_channel_id": "UCsNR68N_oUSXupfnP3FWZxA",
+    "text": "Did you weigh both versions of the fans? Would any difference account for the startup load difference?",
+    "likes": 0,
+    "published_at": "2023-11-11T08:36:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxG7OEcS_hzNG1woKt4AaABAg",
+    "author": "@oscarvogel2140",
+    "author_channel_id": "UCwb9aJcJ4QYebMbaE1SzOaw",
+    "text": "How did it compare noise wise? Seems like a quieter fan should be a goal. Maybe the tesla turbine used as a fan would be more quiet with the disks.",
+    "likes": 0,
+    "published_at": "2023-11-11T07:02:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgybI2K9yVtBKMUykTt4AaABAg",
+    "author": "@acevtol",
+    "author_channel_id": "UCJldlTa4K6H4Jy28KcibdYQ",
+    "text": "Best channel ever",
+    "likes": 0,
+    "published_at": "2023-11-11T05:27:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzzkv7Sjs2QsnVP8Kd4AaABAg",
+    "author": "@perpetual4958",
+    "author_channel_id": "UCoeV8-jEvkE4Vjl1f4ul5JA",
+    "text": "Quieter, yes but all the toroidal video's I have seen found that they provide less thrust, than optimised traditional propellors.",
+    "likes": 0,
+    "published_at": "2023-11-11T04:56:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwSLJx2UbdFqStUEzd4AaABAg",
+    "author": "@chrishayes5755",
+    "author_channel_id": "UCj6Pq389GLLdZ2aqPfzuREg",
+    "text": "Robert the value you've provided on your channel is second to none. Not sure if ever you sit back and have a few beers and think about all the ripple effects your videos have had on people. All the new inventions, people tinkering and trying to discover new things, all the ways you've helped people level up their skill sets so they can earn more money. For every one that thanks you there are 100 behind the scenes putting in work in silence. Just want to thank you again for all the content over the years 🍻",
+    "likes": 4,
+    "published_at": "2023-11-11T04:25:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwgSscdnJC6zDLAWmt4AaABAg",
+    "author": "@richardglickman7203",
+    "author_channel_id": "UCTO0svlq-18-ERwAYOHx9kQ",
+    "text": "When you mentioned the starting amperage was greater than the running amperage for the tubercle blade I immediately rewound the video to see the start of the standard blade.\nStandard blade starting amperage was 184/165. Tubercle blade starting amperage was 179/154.",
+    "likes": 1,
+    "published_at": "2023-11-11T03:44:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwbs9jeBnQvvVAfWkN4AaABAg",
+    "author": "@plumpdolphin",
+    "author_channel_id": "UCSUfkPKFO5wAN5xoikByYDA",
+    "text": "Assuming the results are accurate, I would love to see this sort of thing implemented on a drone! Higher inertia for the blades means that it would likely perform a little worse in applications requiring high maneuverability, but for near-constant rotor speeds like a locked off time lapse shot or sweeping camera shots, a 10% reduction in current draw is nothing to shake a stick at! And that 10% is even at a higher air velocity suggesting it might be closer to 11% - 12% when you lower the duty cycle. Very cool find!",
+    "likes": 2,
+    "published_at": "2023-11-11T03:38:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgykZoDGRHVGCVyPTjV4AaABAg",
+    "author": "@pavanbiliyar",
+    "author_channel_id": "UC4Dhhy12skq5VQN5SEl2OvQ",
+    "text": "The original Toroidal propeller has a different configuration that you have.  The way you have it, the trailing blade is effectively above the leading blade.  Flip it.\n\nToroidal propeller configuration is the rotating analogy of \"joined wing\" designs of airplanes that go back to the 80s.\n\nThe idea of the configuration is a leading swept back wing and a trailing swept forward wing are connected at the tips.  Doing this gives you the lift of both wings but the induced flow drag of one wing.\n\nThis is because the induced flow as a result of the difference in air pressure over the airfoil causes the tip swirl effect, as if the higher pressure underneath wants to equalize with the lower pressure of the top, but the wing is moving.\n\nWell, in a swept forward wing, the flow moves in the other direction. Inwards along the wing towards the body, there is no tip swirl, no losses due to induced flow affecting drag. \n\nIf we combine both wings, now you see the advantage.  \n\nBut as a propeller, if an unducted fan blade tips were connected, thats not a toroidal propeller.  The geometry of the forward swept blade has to suck in the induced flow leaving the tip of the swept back blade.\n\nThe way most people 3D print their Toroidal fans, the leading blade is under the trailing blade and their induced flow paths are not connected.  In fact, there's a tip swirl in these designs, defeating the purpose of the propeller.",
+    "likes": 1,
+    "published_at": "2023-11-11T03:22:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxFC6LmwXdccdr6KpJ4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "Check that off the list. Great video. Nature and her secrets. DVD:)",
+    "likes": 0,
+    "published_at": "2023-11-11T03:02:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwfQXudMDfd6FNZBbF4AaABAg",
+    "author": "@kadmow",
+    "author_channel_id": "UCSp_vAnG7nX9L1jqjF11mRQ",
+    "text": "- is the RPM different with and without the bumps??\n\n(?? steady state drag, vs transsient / dynamic conditions - noting that vortex generators are generally useful for conditions outside \"standard operating conditions\" for a given aerofoil.)",
+    "likes": 0,
+    "published_at": "2023-11-11T02:50:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJH1o1WkR_qYGpSHN4AaABAg",
+    "author": "@corinneyeager",
+    "author_channel_id": "UCHRWBYBjDjIjczQOnuZI0hg",
+    "text": "Or replace fan blades on lots of things....",
+    "likes": 0,
+    "published_at": "2023-11-11T02:41:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxPCcwRDQnaQr81sTd4AaABAg",
+    "author": "@corinneyeager",
+    "author_channel_id": "UCHRWBYBjDjIjczQOnuZI0hg",
+    "text": "3D a larger one to replace the blades on cieling fans?",
+    "likes": 0,
+    "published_at": "2023-11-11T02:40:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxPCcwRDQnaQr81sTd4AaABAg.9wxpDUB97q69wzvsPm0d7J",
+        "author": "@vylbird8014",
+        "author_channel_id": "UCThHDEtGqJjj23YtBhmxRUQ",
+        "text": "Actually not a terrible idea... it'd be expensive to make, but toroidal blades for ceiling fans would actually reduce the noise level, I believe. The tubercles wouldn't be of much use though, I imagine, due to the low blade speed - ceiling fans have to turn slow for safety reasons, otherwise they could cause serious injury if someone got a hand or head into the blade path.",
+        "likes": 0,
+        "published_at": "2023-11-11T22:17:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBUV9veAZ4mH1Qf0t4AaABAg",
+    "author": "@diggerdancan",
+    "author_channel_id": "UCFNuxiO8TI6e1snMDOsbaZQ",
+    "text": "Hope you consider making an entry for Major Hardware's Fan Showdown!",
+    "likes": 0,
+    "published_at": "2023-11-11T02:16:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJaY0xC6rdmCELAnZ4AaABAg",
+    "author": "@xzendon",
+    "author_channel_id": "UCUBhZFHx0Hd190VplYGsvew",
+    "text": "@MajorHardware worth testing?",
+    "likes": 0,
+    "published_at": "2023-11-11T01:58:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyDFA-fwQuEb-HkfE94AaABAg",
+    "author": "@ArjayMartin",
+    "author_channel_id": "UCYP6fsrfRqqtpm0lOh3HNjw",
+    "text": "I thought about tubercles added to wind turbine blades many years ago to make them quieter with hearing about them on Humpback Whales and there was some discussion a couple of years ago about adding them to plane wings.\n\nAlso really with regards to 'anti sound' played at airports, that I heard about maybe 20 odd years ago... (speakers playing the opposite sound as microphones picking up to make the opposite peaks and troughs to 'flatten' the audio... like how shotgun microphones work with directionality).",
+    "likes": 1,
+    "published_at": "2023-11-11T01:28:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzeV0ZNpiSEY4DKkhx4AaABAg",
+    "author": "@leostarling5746",
+    "author_channel_id": "UCTrsf6s0KsCLpNU2UIbVE1g",
+    "text": "Good stuff, Rob!",
+    "likes": 0,
+    "published_at": "2023-11-11T00:10:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwT8dTY5fvVE3-hxmh4AaABAg",
+    "author": "@R67K",
+    "author_channel_id": "UCKsf8L9GzYku5y3FJUmoAew",
+    "text": "i imagine that the the tubicles crate vortex that support the airflow but this is just my imagination. .)",
+    "likes": 0,
+    "published_at": "2023-11-11T00:00:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwUSTVtdkt_vEDWICp4AaABAg",
+    "author": "@davidgutting4317",
+    "author_channel_id": "UCX8CUN0Ki9VaEhWLxFJYp0w",
+    "text": "When you said the tubercles on the wind turbine, was that on the leading edge or the trailing edge? I ask because the air flows differently when the wind is pushing the blades vs the motor pushing the blades.",
+    "likes": 0,
+    "published_at": "2023-11-10T23:41:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxuAGfIoN4s41XWn8t4AaABAg",
+    "author": "@rupertgethin-u5p",
+    "author_channel_id": "UCHZ8a2M7HGrUK8gvhg7Cgxw",
+    "text": "This from right whales fins.",
+    "likes": 0,
+    "published_at": "2023-11-10T23:22:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxSgm4Z6uDFnLxsM3F4AaABAg",
+    "author": "@David_Walker16-3-51",
+    "author_channel_id": "UCCNzkO8iVLRSXcCaZloiPmw",
+    "text": "Oh dear, I’m going end up buying a 3D printer, where will I put it?",
+    "likes": 0,
+    "published_at": "2023-11-10T23:07:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyfbjhAP3yJWjkHhnh4AaABAg",
+    "author": "@JW-si5so",
+    "author_channel_id": "UC2zTaM8Ne7H4Mp0ZhgwcWsQ",
+    "text": "Is it possible the higher startup torque need us due to the increased mass from the tubercle’s? What’s the weight difference between both blades?",
+    "likes": 0,
+    "published_at": "2023-11-10T22:39:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQBQvxWmvghcyRGjN4AaABAg",
+    "author": "@benmauro1022",
+    "author_channel_id": "UC4ACtihZeaQSw3AdKEJmXSQ",
+    "text": "my guess is that tubercles improve the wings efficiency by \"fudging\" the numbers of the wing design. you get a variety of aero foil  profiles along a wing with tubercles that slightly reduces the maximum efficiency of a wing, but the benefit of better overall performance in less perfect conditions and angles.",
+    "likes": 2,
+    "published_at": "2023-11-10T22:33:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxk_FS5YEWkfCfADQ54AaABAg",
+    "author": "@cahito00",
+    "author_channel_id": "UC5Ga59iYJzQ0iGx8p2LJ2sQ",
+    "text": "So, if I got it right, it has better consumption, at around 6%, and a better outcome, at around 5%? That’s quite an upgrade!",
+    "likes": 0,
+    "published_at": "2023-11-10T22:16:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwrG8ppmxJbFGXMN5B4AaABAg",
+    "author": "@jeromecolas3735",
+    "author_channel_id": "UCNKm-ItZJuP4Ku5qiBh8KbA",
+    "text": "What a thumbnail ! Did you read in my mind ? 😅",
+    "likes": 0,
+    "published_at": "2023-11-10T21:59:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwj0rR5yyPBtKPDCQF4AaABAg",
+    "author": "@William_Hada",
+    "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+    "text": "The results are really surprising because intuitively the rougher a wing or fan blade is the noisier and less aerodynamic you would expect it to be. Its goes against my expectations that bumpier and less sleek looking is better. Amazing!",
+    "likes": 1,
+    "published_at": "2023-11-10T21:47:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwWx8s872L5DOM14UV4AaABAg",
+    "author": "@johnmarkgatti3324",
+    "author_channel_id": "UCrmJ9JHaRnQkUC9jM28t8iA",
+    "text": "dang ,give a man a printer !?, lots of fun being had .If I could add to the mix , the tubercules allow attached flow at higher angles of attack ,hence more bang for the whales smaller fins . so trying higher angles of attack to get the same current draw ,could show if there is advantage in air flow ? . Also can i point out the tubercules in creating more directed flow over the /wing/flipper/foil/blade, is a way to reduce tip loss ,the Sharrow type prop may be a bit overkill , especially in a duct . atuberculed blade giving more thrust in a ducted fan could be very usefull ,for drones ,aircars, even the high bypass aero engines .Robert, Rolls Royce would be quite cross at you if you opened a whole new avenue of study and development ,they have just spent billions on their latest offering ! .",
+    "likes": 0,
+    "published_at": "2023-11-10T21:45:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzO7r_ox7U1zyCfe_54AaABAg",
+    "author": "@sapiotone",
+    "author_channel_id": "UC4f4Ybz0pdkwGbGjl2URUbg",
+    "text": "Really enjoying this experimentation with tubercles. You're doing the first thing I'd do if I had a 3D printer! :) I always wondered how a tubercled squashed 'X', like the Apache helicopter's tail rotor would perform. The principle being the soundwaves not hitting your eardrums at a regular intervals like a standard 2, 3 or 4 bladed fan. Assymetrical oscillation is something I'd like to work on too. A super-quiet fan with irregular movement would really help me sleep in the summer!!!",
+    "likes": 1,
+    "published_at": "2023-11-10T21:40:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwDa09NYO7_v6d8EDF4AaABAg",
+    "author": "@selfcorrected-Bobby",
+    "author_channel_id": "UC7AY3QZQ98Pz07gnPK6id3Q",
+    "text": "could you try and make tetrateanite at home with aligned domains? You have kilns? Sorry to ask.",
+    "likes": 0,
+    "published_at": "2023-11-10T21:33:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5dvHlTjWuQtpDIIB4AaABAg",
+    "author": "@TheChzoronzon",
+    "author_channel_id": "UCFgjAF-laI9YOBi1bNqDxaA",
+    "text": "4 per blade sounds okey, very sensible...  I can only count up to potato number of tubercles",
+    "likes": 1,
+    "published_at": "2023-11-10T21:31:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwGOMvP0Jn8899bWa54AaABAg",
+    "author": "@unicornadrian1358",
+    "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+    "text": "This is really interesting Rob! Considering the apparent increase in efficiency, I wonder if adding tubercles to drone rotors would increase efficiency and therefore battery life?",
+    "likes": 0,
+    "published_at": "2023-11-10T21:31:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugywyuo-RsRaCSol0BN4AaABAg",
+    "author": "@TomFarrell-p9z",
+    "author_channel_id": "UCh70kLjsBVjuocx5s3zm1CA",
+    "text": "Around 1:43 the toroidal fan sounds suspiciously like sea birds--now that would be a neat invention!  🙂",
+    "likes": 4,
+    "published_at": "2023-11-10T20:51:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugywyuo-RsRaCSol0BN4AaABAg.9wxCDNWGFf-9wxdkWwW5wW",
+        "author": "@philip5940",
+        "author_channel_id": "UCL8TvrJmXvTvlx9nKE22a7A",
+        "text": "Whereas the prevailing sound in my neck of the woods is crows and cockatoos .",
+        "likes": 0,
+        "published_at": "2023-11-11T01:00:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzDQ5Cq3Y0UgJ0kUBx4AaABAg",
+    "author": "@rockyewelljr9781",
+    "author_channel_id": "UCz94eYPp_WCgkjEUIaYxZ1w",
+    "text": "if you havent already ...\ntubercles on an archimedes turbine maybe?",
+    "likes": 0,
+    "published_at": "2023-11-10T20:45:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLrIZXrOdUwLHhtzx4AaABAg",
+    "author": "@stephenjones3737",
+    "author_channel_id": "UCzBKl6gZrHjq9Da_slBF5qw",
+    "text": "I'm wondering if serations along the leadin edge would work better.",
+    "likes": 1,
+    "published_at": "2023-11-10T20:43:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyEHRb-PeIW6EYR_F4AaABAg",
+    "author": "@MetalAsFork",
+    "author_channel_id": "UCFYrG5PBapqS8knzLGfkj0A",
+    "text": "\"Wow Homer, you even added tubercles...\"\n\n\"Tuba-what? Oh, you mean the *speed-warts*.\"",
+    "likes": 2,
+    "published_at": "2023-11-10T20:28:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4ymZqmwd9rHzg7x54AaABAg",
+    "author": "@rubyvi5442",
+    "author_channel_id": "UCKCN10zcDWi-wsKHWCgZ0rw",
+    "text": "This is what I was waiting for 🤣",
+    "likes": 0,
+    "published_at": "2023-11-10T20:17:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxR7Mo0Y6VQWDi1Y594AaABAg",
+    "author": "@gerryjamesedwards1227",
+    "author_channel_id": "UC99clNv7E1eYvOgdKx6z28A",
+    "text": "I wonder whether the tubercles would work better or worse if they were made smaller but more numerous, or at least narrower, so that more could  fit along the wing? I'm guessing both higher starting torque and the lower draw once up to speed are due to the added mass of the tubercles. Can you print them with cavities inside? Or maybe a honeycomb filling so there is still internal support? This series has been great viewing!",
+    "likes": 16,
+    "published_at": "2023-11-10T20:01:19Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxR7Mo0Y6VQWDi1Y594AaABAg.9wx6V38UV9I9wyc7Rh7yIZ",
+        "author": "@brianstevens3858",
+        "author_channel_id": "UCaO_69w3HWAOZyWLl9sT9Mg",
+        "text": "I would say that just like micro-ribs on a sailing vessel, they probably would work even better at micro scales.",
+        "likes": 1,
+        "published_at": "2023-11-11T10:05:41Z"
+      },
+      {
+        "id": "UgxR7Mo0Y6VQWDi1Y594AaABAg.9wx6V38UV9I9wzQepFjnaZ",
+        "author": "@__WJK__",
+        "author_channel_id": "UCzC4LLliX-R_UqPwTa0DwsQ",
+        "text": "I’d actually like to see dimpling (similar to golf balls) added to all surfaces, to see if it increases efficiency, as I expect it will.",
+        "likes": 1,
+        "published_at": "2023-11-11T17:36:02Z"
+      },
+      {
+        "id": "UgxR7Mo0Y6VQWDi1Y594AaABAg.9wx6V38UV9I9x0frCDg6nL",
+        "author": "@xavierrueff6802",
+        "author_channel_id": "UC8qHh3dR0wgGXL4HKqOVrnA",
+        "text": "Dimplings or tubercle, the point is to attach the flow to the profile by adding turbulence. Micro ripples on shark's skin works like this",
+        "likes": 0,
+        "published_at": "2023-11-12T14:36:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy6xFqOk3555GtAfrt4AaABAg",
+    "author": "@TheAnimammal",
+    "author_channel_id": "UCsQD301ytEenrFg7Zk2MPOw",
+    "text": "Did the tubercles make it quieter?",
+    "likes": 0,
+    "published_at": "2023-11-10T19:53:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy6xFqOk3555GtAfrt4AaABAg.9wx5eE60NTK9wx66xQzoFp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes - but i didnt have dB meter so i kept stumm",
+        "likes": 1,
+        "published_at": "2023-11-10T19:58:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUmIX8Io31rA5qjJR4AaABAg",
+    "author": "@loganloeb8467",
+    "author_channel_id": "UCa0trXdTNk07Xyg1wyrEc3g",
+    "text": "Was the fan with tubercles heavier than the one without? If so, that might be one cause for its higher starting current/torque.",
+    "likes": 0,
+    "published_at": "2023-11-10T19:52:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzUmIX8Io31rA5qjJR4AaABAg.9wx5RxJWJe49wx5Va1jprE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "by a minuscule amount - less than a gram",
+        "likes": 2,
+        "published_at": "2023-11-10T19:52:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQBKCvBV1AsgC-jL94AaABAg",
+    "author": "@3dhavok",
+    "author_channel_id": "UCrO6jNXDz8ci8WFPTMiU6xw",
+    "text": "These tests are very intriguing. I wonder, what if you experiment with density of these added bumps on a simple blade shape to see if there’s an ideal ratio that works best. Nice work on these videos 😊",
+    "likes": 1,
+    "published_at": "2023-11-10T19:46:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQBKCvBV1AsgC-jL94AaABAg.9wx4pJPATZ89wx5Y14j4p8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there will be an ideal ratio mate",
+        "likes": 2,
+        "published_at": "2023-11-10T19:52:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-WKxRPugGB_xZtw54AaABAg",
+    "author": "@overbuiltautomotive1299",
+    "author_channel_id": "UCq3DTW3znRPwfZlXaL1X7uQ",
+    "text": "next a high speed fan powered with a 3670 brushless motor 2800kv or so  and cheap esc on 3s😉",
+    "likes": 0,
+    "published_at": "2023-11-10T19:46:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw-WKxRPugGB_xZtw54AaABAg.9wx4keTkZw69wx5ZHch3a1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice",
+        "likes": 0,
+        "published_at": "2023-11-10T19:53:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyAyxSXH3gcux_u4C94AaABAg",
+    "author": "@puffinjuice",
+    "author_channel_id": "UCG-frWYwdWGXMD4_XySLq5Q",
+    "text": "Wouldnt it be more fair to swap out the fan blade only? You had two fan enclosures and they obviously had different motors. I have a feeling that not all motors are the same.",
+    "likes": 0,
+    "published_at": "2023-11-10T19:41:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyAyxSXH3gcux_u4C94AaABAg.9wx4AJ-oT9P9wx4bZJekw4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that might be being a bit anal mate - they were the same motor - same specs, same batch - you can take it bit too far lol",
+        "likes": 2,
+        "published_at": "2023-11-10T19:44:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwakH69Mmeff7hs6bB4AaABAg",
+    "author": "@salilsahani2721",
+    "author_channel_id": "UCzdUqnsHcb7NW9uvAIvc8pg",
+    "text": ":)",
+    "likes": 0,
+    "published_at": "2023-11-10T19:34:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwakH69Mmeff7hs6bB4AaABAg.9wx3OhGcVYe9wx4fZiXhFG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2023-11-10T19:45:24Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxitp7fJ35VApDbcRZ4AaABAg",
+    "author": "@vira-linc",
+    "author_channel_id": "UC5mMjRstOY0o--8DRAXbrAw",
+    "text": "today was my first time wondering, \"is Bob pulling my leg\". if I had a 3d printer, you know what, I think I'd print some test pieces to check myself haha",
+    "likes": 0,
+    "published_at": "2023-11-10T19:21:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxitp7fJ35VApDbcRZ4AaABAg.9wx1wR5gZy19wx4ek_XZyC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you should mate",
+        "likes": 1,
+        "published_at": "2023-11-10T19:45:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUKPDpL2qfcrXPovF4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "They look good, and would make a good diy kit for summer.",
+    "likes": 0,
+    "published_at": "2023-11-10T19:18:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzUKPDpL2qfcrXPovF4AaABAg.9wx1b9RD7N-9wx5_Fci1Xm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they would indeed",
+        "likes": 1,
+        "published_at": "2023-11-10T19:53:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwtbauNRIThY4UW2kx4AaABAg",
+    "author": "@chrissscottt",
+    "author_channel_id": "UC-mZ10fcPv4sLL8zqt0Vu_g",
+    "text": "I'm a fan!",
+    "likes": 0,
+    "published_at": "2023-11-10T19:14:16Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwtbauNRIThY4UW2kx4AaABAg.9wx16StwLws9wx5aQRdKjB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome lol",
+        "likes": 0,
+        "published_at": "2023-11-10T19:53:27Z"
+      },
+      {
+        "id": "UgwtbauNRIThY4UW2kx4AaABAg.9wx16StwLws9wxIJLXKvs6",
+        "author": "@TheChzoronzon",
+        "author_channel_id": "UCFgjAF-laI9YOBi1bNqDxaA",
+        "text": "Are you making the rounds in DIY channels?",
+        "likes": 0,
+        "published_at": "2023-11-10T21:44:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxz23mz-BDm-lJPfvt4AaABAg",
+    "author": "@ewjorgy",
+    "author_channel_id": "UCRJXDPTLdxUvN-cfVTLvSlg",
+    "text": "The slower startup speed may just be a result of higher inertia of the blades with the additional mass of plastic. Those tiny motors don't have a lot of torque.  You should try printing a 3rd setup using a ~1mm high square ridge just a bit back from the leading edge of the blades that would act as a turbulator and see how that works.  When I used to hang glide we would take a line of pinstriping tape and put it across our helmets about 45 degress from vertical from ear to ear.  There was a significant reduction of drag as a result. Turbulators work very well for controlling boundary layer separation in low Renyolds number applications which is what I expect you are seeing with the tubercles...",
+    "likes": 2,
+    "published_at": "2023-11-10T19:14:02Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxz23mz-BDm-lJPfvt4AaABAg.9wx14nzjDt69wx4p-xkzlL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i doubt it mate there was a gram of extra plastic - if that - and those motors are not that weak lol",
+        "likes": 4,
+        "published_at": "2023-11-10T19:46:42Z"
+      },
+      {
+        "id": "Ugxz23mz-BDm-lJPfvt4AaABAg.9wx14nzjDt69wx_ba1L8f6",
+        "author": "@richardglickman7203",
+        "author_channel_id": "UCTO0svlq-18-ERwAYOHx9kQ",
+        "text": "When you mentioned the starting amperage I immediately rewound the video. The non tubercle blade also had a higher starting amperage.\nStandard blade = 184. Tubercle blade = 179.",
+        "likes": 2,
+        "published_at": "2023-11-11T00:24:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxXmDzGeahlcx5ldft4AaABAg",
+    "author": "@we4selradio591",
+    "author_channel_id": "UCM-XEtguq7uA1P1mbQl0K4g",
+    "text": "strong suggestion toward a sla (resin) printer for fluid-flow blades, whether air or water. the layers of fdm matter enough to matter on these small things especially",
+    "likes": 1,
+    "published_at": "2023-11-10T19:07:12Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxXmDzGeahlcx5ldft4AaABAg.9wx0IiHsHo29wx4SJYN_8R",
+        "author": "@overbuiltautomotive1299",
+        "author_channel_id": "UCq3DTW3znRPwfZlXaL1X7uQ",
+        "text": "lol smooth with acetone or other methods  its not an issue at all even with layers to fool with resin",
+        "likes": 1,
+        "published_at": "2023-11-10T19:43:28Z"
+      },
+      {
+        "id": "UgxXmDzGeahlcx5ldft4AaABAg.9wx0IiHsHo29wx5fAecjQk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they smell bad mate and i keep my printers in the house - but i have used them and they do a fine detail work",
+        "likes": 3,
+        "published_at": "2023-11-10T19:54:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwAp9396SLoDaqe6Jt4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "I realise that most of your \"stuff\" is Proof of Concept and as such does not need refinement to show its purpose.\nThis may be a tad different though. Tubercles on a blade will alter its characteristics ..... which is what you want after all ..... but you only compare one snapshot. One voltage input giving one output compared to another output. \n\nBut having a variance of voltage inputs would give different speeds and cause you to be able to calculate a power curve of input to output. This would show how to get the max out of the blade design and hence the way different alterations affect those outputs. It would allow you to find the least power to put in to get the most out. This need not be too onerous. Putting 6 or so different speeds in would give a reasonable idea of what is happening. \n\nTake the example of Drone Blades. They are designed to get the most lift and require high rates of rotation to get that. Now compare it to your desk fan. You use a lower speed and larger blades to get a similar effect if not volume of air moved! Different strokes, so to speak.\n\nAgain I realise that you are not honing ideas down too much other than expressing how different ideas can work. This may indeed be work for others to do (and that may be your expectation).\nI thank you for putting these ideas up there for others to riff of ..... or to just think about!",
+    "likes": 0,
+    "published_at": "2023-11-10T19:02:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwAp9396SLoDaqe6Jt4AaABAg.9wx-kd4VM3m9wx4wV8TFIo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i didn't show volts mate - i showed amps - we took the voltage as give as it was a fixed 3 volt supply",
+        "likes": 1,
+        "published_at": "2023-11-10T19:47:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwkSfcB6frpzSnhYIJ4AaABAg",
+    "author": "@MountainCatBob",
+    "author_channel_id": "UCmrVYwp9nXyj_8KbZyd-JWQ",
+    "text": "Wild concept! Maybe the Tubercles, being on the trailing edge, increase turbulence and thereby pressure, which could add just a little thrust that wasn't there before. A little distortion or positive feedback that might be exploited. Could Tubercles take on a fractal quality designed to create interacting vorticies to maximize pressure?  Love your channel! THX",
+    "likes": 0,
+    "published_at": "2023-11-10T18:59:42Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwkSfcB6frpzSnhYIJ4AaABAg.9wx-RoRp93H9wx5kBqJ53N",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they are on the leading edge mate - don't forget a fan is backwards to a turbine",
+        "likes": 0,
+        "published_at": "2023-11-10T19:54:47Z"
+      },
+      {
+        "id": "UgwkSfcB6frpzSnhYIJ4AaABAg.9wx-RoRp93H9wxe-7RIHcH",
+        "author": "@philip5940",
+        "author_channel_id": "UCL8TvrJmXvTvlx9nKE22a7A",
+        "text": "I took your meaning to be micro tubercles upon tubercles.",
+        "likes": 0,
+        "published_at": "2023-11-11T01:02:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZqyXsGXk_4VReooB4AaABAg",
+    "author": "@perkins1439",
+    "author_channel_id": "UCLhFiW-StYkRSawUbEEMMgQ",
+    "text": "I'm a tinkerer myself but nothing like your scale Bravo professor",
+    "likes": 1,
+    "published_at": "2023-11-10T18:53:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZqyXsGXk_4VReooB4AaABAg.9wwzkTpQ2Zb9wx5lyFJRF6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - cheers mate",
+        "likes": 0,
+        "published_at": "2023-11-10T19:55:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8Y9bfXq_x-8K_hd14AaABAg",
+    "author": "@thesustainabilitysoonerchannel",
+    "author_channel_id": "UC51AMSK9nPhaz6hqLKZVZ9w",
+    "text": "And you tried it! 😎 Should have known you'd be thinking of it, too!  LOL",
+    "likes": 0,
+    "published_at": "2023-11-10T18:53:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw8Y9bfXq_x-8K_hd14AaABAg.9wwzk9gb5zo9wx5nBnacJ5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - i am afraid so lol",
+        "likes": 0,
+        "published_at": "2023-11-10T19:55:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6EVxEc8pehOhKVOl4AaABAg",
+    "author": "@pixelrancher",
+    "author_channel_id": "UCeeOFDn41bfaZY2fauyvWtQ",
+    "text": "So now I have to wonder if there would be a benefit putting tubercles on a Vertical-axis or Helix wind turbine?",
+    "likes": 1,
+    "published_at": "2023-11-10T18:46:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6EVxEc8pehOhKVOl4AaABAg.9wwyvTVucUU9wx55qD5j8V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - up and coming mate lol",
+        "likes": 2,
+        "published_at": "2023-11-10T19:49:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzmZupfFPYr6BmzUxh4AaABAg",
+    "author": "@elvistesla3179",
+    "author_channel_id": "UCMGed0VBA6bw3ARldYnVCnQ",
+    "text": "Does the fan that moves air well also catch air well in a windmill array?  I have a one track mind.\nAlso - have you ever watched the Gerard Morin playlist?  (The final video disappeared)",
+    "likes": 0,
+    "published_at": "2023-11-10T18:44:47Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzmZupfFPYr6BmzUxh4AaABAg.9wwyjWsb3Vj9wwyzrtzj5Y",
+        "author": "@elvistesla3179",
+        "author_channel_id": "UCMGed0VBA6bw3ARldYnVCnQ",
+        "text": "I see you already answered my first question.  NO.  Not always.  I find that interesting.",
+        "likes": 0,
+        "published_at": "2023-11-10T18:47:01Z"
+      },
+      {
+        "id": "UgzmZupfFPYr6BmzUxh4AaABAg.9wwyjWsb3Vj9wx5tv47bO6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i have seen stuff on morin mate",
+        "likes": 0,
+        "published_at": "2023-11-10T19:56:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwkrPVkN1RfId7c1lN4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "Bet it really does a job on fingers. Maybe a newvtype food processor",
+    "likes": 0,
+    "published_at": "2023-11-10T18:43:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwkrPVkN1RfId7c1lN4AaABAg.9wwyYowD1JF9wx5upZaMQW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2023-11-10T19:56:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVpeiMDSo_UE7xOul4AaABAg",
+    "author": "@Struthio_Camelus",
+    "author_channel_id": "UC9--Pq-QxxcErIw7tpJIDjw",
+    "text": "Call me crazy, but I prefer a fan moving a higher volume of air; which generally means a longer blade with a greater swept path.",
+    "likes": 1,
+    "published_at": "2023-11-10T18:42:12Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzVpeiMDSo_UE7xOul4AaABAg.9wwyRboGN0q9wx59e9akYY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "then make it bigger",
+        "likes": 1,
+        "published_at": "2023-11-10T19:49:39Z"
+      },
+      {
+        "id": "UgzVpeiMDSo_UE7xOul4AaABAg.9wwyRboGN0q9wxGrqCPcAB",
+        "author": "@Struthio_Camelus",
+        "author_channel_id": "UC9--Pq-QxxcErIw7tpJIDjw",
+        "text": "@ThinkingandTinkering Right, probably with a higher-torque motor.",
+        "likes": 0,
+        "published_at": "2023-11-10T21:31:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgydNL2K9I-zY8o784R4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "Having a fan that actually makes power. Is what I'm looking for. Haha. A fan that can run 24/7, and output 20 amps and 60 volts! Would be about perfect. Especially if it's not more than twice the size of that one. Required no fuel. Just plug it in let it go, only it outputs power.. probably never going to happen, (yeah  it's going to do 1amp at best)",
+    "likes": 1,
+    "published_at": "2023-11-10T18:35:30Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgydNL2K9I-zY8o784R4AaABAg.9wwxfV9n77k9wx5wX071aa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's called a turbine mate lol",
+        "likes": 1,
+        "published_at": "2023-11-10T19:56:28Z"
+      },
+      {
+        "id": "UgydNL2K9I-zY8o784R4AaABAg.9wwxfV9n77k9wxGft-ma6B",
+        "author": "@TheChzoronzon",
+        "author_channel_id": "UCFgjAF-laI9YOBi1bNqDxaA",
+        "text": "@ThinkingandTinkering ...the fabled 1200 real average RMS output turbine... a sight of wonder! :D",
+        "likes": 0,
+        "published_at": "2023-11-10T21:30:19Z"
+      },
+      {
+        "id": "UgydNL2K9I-zY8o784R4AaABAg.9wwxfV9n77k9wzvaxzh7Qx",
+        "author": "@vylbird8014",
+        "author_channel_id": "UCThHDEtGqJjj23YtBhmxRUQ",
+        "text": "@TheChzoronzon You just place it on the roof at Westminster, so it can harness the current of hot air rising there.",
+        "likes": 0,
+        "published_at": "2023-11-11T22:15:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwJE8OX1Wb6ibfG4Zp4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Very interesting. Glad to see that the tubercles actually showed a slight improvement when running at full speed. Thanks for the video.",
+    "likes": 11,
+    "published_at": "2023-11-10T18:29:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwJE8OX1Wb6ibfG4Zp4AaABAg.9wwx-5QlBFr9wx5CGZRIcw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "No problem! - cheers mate",
+        "likes": 1,
+        "published_at": "2023-11-10T19:50:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw9zPkv8voRFokSiyh4AaABAg",
+    "author": "@nacnudjames",
+    "author_channel_id": "UCp47LuLocWB8m-444RUhUXg",
+    "text": "Great investigation Rob - any thoughts on doing tubercles all over the surface of a fan/prop blade as well as on the edge? Looking at whales, they're covered in them (not just the edge of their fins) - perhaps they could be added to any smooth shape to provide interesting improvements in aerodynamics? Anyhow - great work s usual!",
+    "likes": 4,
+    "published_at": "2023-11-10T18:29:31Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugw9zPkv8voRFokSiyh4AaABAg.9wwwzkZbQHx9wx6-_02-8x",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah - no i don't think so mate - but you could always try it out",
+        "likes": 2,
+        "published_at": "2023-11-10T19:57:01Z"
+      },
+      {
+        "id": "Ugw9zPkv8voRFokSiyh4AaABAg.9wwwzkZbQHx9wxECI3LKC3",
+        "author": "@nacnudjames",
+        "author_channel_id": "UCp47LuLocWB8m-444RUhUXg",
+        "text": "@ThinkingandTinkering cheers! I shall do just that! :-D If I find anything I'll let you know",
+        "likes": 2,
+        "published_at": "2023-11-10T21:08:39Z"
+      },
+      {
+        "id": "Ugw9zPkv8voRFokSiyh4AaABAg.9wwwzkZbQHx9wxdLfyp-jQ",
+        "author": "@philip5940",
+        "author_channel_id": "UCL8TvrJmXvTvlx9nKE22a7A",
+        "text": "Yes , whales are covered in them but we have the anomaly with yachts... barnacle encrustation on hulls of yachts is considered undesirable.  The secret weapon/advantage of British naval vessels those several centuries ago was the copper sheathing of their hulls below the surface which discouraged the growth of the performance draining  barnacles.",
+        "likes": 1,
+        "published_at": "2023-11-11T00:57:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxAO9a8rGny9xqsBuZ4AaABAg",
+    "author": "@mehmetozturk9477",
+    "author_channel_id": "UC9mWAefJbljyJE7N1hzbXAQ",
+    "text": "Hello, Mr. Smith. Can a stirling engine be made with a  Vacuum glass tubes (solar water heater )?",
+    "likes": 0,
+    "published_at": "2023-11-10T18:28:19Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxAO9a8rGny9xqsBuZ4AaABAg.9wwwqrIEafr9wx5DqhhbDI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes",
+        "likes": 0,
+        "published_at": "2023-11-10T19:50:14Z"
+      },
+      {
+        "id": "UgxAO9a8rGny9xqsBuZ4AaABAg.9wwwqrIEafr9wyEySikouf",
+        "author": "@mehmetozturk9477",
+        "author_channel_id": "UC9mWAefJbljyJE7N1hzbXAQ",
+        "text": "thank you for answer :)@ThinkingandTinkering",
+        "likes": 0,
+        "published_at": "2023-11-11T06:34:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyg4RkiZsDZSzfc0hl4AaABAg",
+    "author": "@cartmanrlsusall",
+    "author_channel_id": "UCQODWK6UFyIoVI3hsKV35cA",
+    "text": "If it moves the same amount of air using the same amount of energy as a similar size fan then it being quieter makes it a good thing",
+    "likes": 6,
+    "published_at": "2023-11-10T18:24:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyg4RkiZsDZSzfc0hl4AaABAg.9wwwPlYFmjw9wx61NxkVP6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely",
+        "likes": 3,
+        "published_at": "2023-11-10T19:57:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyhnwhEpqty6q-9rYF4AaABAg",
+    "author": "@shaunpavery-pn5jq",
+    "author_channel_id": "UC1aqaGzvJ1qEWuhWUt37DOQ",
+    "text": "Dear Robert,it could be great for ships also.🤔💛🌍👍🕊️",
+    "likes": 0,
+    "published_at": "2023-11-10T18:23:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyhnwhEpqty6q-9rYF4AaABAg.9wwwFNUB5YJ9wx62NHYgEy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i would think so mate",
+        "likes": 0,
+        "published_at": "2023-11-10T19:57:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgztVdejftI8SAZ0XWF4AaABAg",
+    "author": "@colleenforrest7936",
+    "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+    "text": "This has got to show up in the Fan Show Down soon 😅\n\nShould be good for the car air conditioner...",
+    "likes": 1,
+    "published_at": "2023-11-10T18:19:21Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgztVdejftI8SAZ0XWF4AaABAg.9wwvpIXfiqG9wwyGUqHbIw",
+        "author": "@jamest.5001",
+        "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+        "text": "Absolutely, and for electric car heat-A/C should be great. Especially after optimisation. Get it performing even better, I know most use squirrel cage fans. Maybe this can take it's place, or influence a new design!",
+        "likes": 0,
+        "published_at": "2023-11-10T18:40:41Z"
+      },
+      {
+        "id": "UgztVdejftI8SAZ0XWF4AaABAg.9wwvpIXfiqG9wx2YIbx9gK",
+        "author": "@colleenforrest7936",
+        "author_channel_id": "UCarUHvC3tTnEjmdqQ2oabcg",
+        "text": "@jamest.5001 there's a thought... A squirrel cages with tubicles",
+        "likes": 0,
+        "published_at": "2023-11-10T19:26:48Z"
+      },
+      {
+        "id": "UgztVdejftI8SAZ0XWF4AaABAg.9wwvpIXfiqG9wx63Xe7Spa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i would watch that lol",
+        "likes": 0,
+        "published_at": "2023-11-10T19:57:33Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugycs_G1E3PLAu60l9R4AaABAg",
+    "author": "@jaspurrs",
+    "author_channel_id": "UCRBTAfaRhh8EZPbW_EyWVKg",
+    "text": "love the comparison! :)",
+    "likes": 0,
+    "published_at": "2023-11-10T18:19:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugycs_G1E3PLAu60l9R4AaABAg.9wwvnbLOBt_9wx5GHc_aWg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you liked it!",
+        "likes": 0,
+        "published_at": "2023-11-10T19:50:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-PmyTbm1_gw6H-QB4AaABAg",
+    "author": "@rfiskillingussoftly6568",
+    "author_channel_id": "UC5m1A5TeqSEgfbdkQ2O4ohQ",
+    "text": "I could tell there was a positive result by the giggling!  Great video man!",
+    "likes": 1,
+    "published_at": "2023-11-10T18:18:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw-PmyTbm1_gw6H-QB4AaABAg.9wwvkzKLm3E9wx5JHRJyv0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - i am an open book mate",
+        "likes": 0,
+        "published_at": "2023-11-10T19:50:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyfsbVQaO_528-0U054AaABAg",
+    "author": "@TheBaconWizard",
+    "author_channel_id": "UCXAOdDzYrMdKAR-r5QZazvQ",
+    "text": "I can see Rob starting the worlds most disappointing onlyfans.",
+    "likes": 2,
+    "published_at": "2023-11-10T18:17:00Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyfsbVQaO_528-0U054AaABAg.9wwvZ4rTY_N9wx5KEgK1m1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2023-11-10T19:51:06Z"
+      },
+      {
+        "id": "UgyfsbVQaO_528-0U054AaABAg.9wwvZ4rTY_N9wxHDQShlSg",
+        "author": "@TheChzoronzon",
+        "author_channel_id": "UCFgjAF-laI9YOBi1bNqDxaA",
+        "text": "the moving tubercless could help in that regard...",
+        "likes": 1,
+        "published_at": "2023-11-10T21:35:02Z"
+      },
+      {
+        "id": "UgyfsbVQaO_528-0U054AaABAg.9wwvZ4rTY_N9wxHNHcLSnp",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "Lol you mean least disappointing onlyfans. I would (and do) happily pay to see this onlyfans. 😂",
+        "likes": 1,
+        "published_at": "2023-11-10T21:36:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwjR2EacJR29VZF8Pd4AaABAg",
+    "author": "@matteoricci9129",
+    "author_channel_id": "UC_37o-3L53X0Rz6T-6MgDMg",
+    "text": "You are just having lots of fan with tuberculous\nHahah the pun was a mistake",
+    "likes": 1,
+    "published_at": "2023-11-10T18:16:47Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwjR2EacJR29VZF8Pd4AaABAg.9wwvXODNHir9wx5N5d6Asp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - auto correct? lol",
+        "likes": 0,
+        "published_at": "2023-11-10T19:51:29Z"
+      },
+      {
+        "id": "UgwjR2EacJR29VZF8Pd4AaABAg.9wwvXODNHir9wxD0azBZAy",
+        "author": "@matteoricci9129",
+        "author_channel_id": "UC_37o-3L53X0Rz6T-6MgDMg",
+        "text": "@ThinkingandTinkering no bad grammar 🤣",
+        "likes": 0,
+        "published_at": "2023-11-10T20:58:19Z"
+      },
+      {
+        "id": "UgwjR2EacJR29VZF8Pd4AaABAg.9wwvXODNHir9wxIEaylOey",
+        "author": "@TheChzoronzon",
+        "author_channel_id": "UCFgjAF-laI9YOBi1bNqDxaA",
+        "text": "I myself prefer lepers to play",
+        "likes": 0,
+        "published_at": "2023-11-10T21:43:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUVJMYq9oSzaCsmOl4AaABAg",
+    "author": "@sirrodneyffing1",
+    "author_channel_id": "UCKIyke6Yw2mX7fEZzj-3brw",
+    "text": "Wonderful..put a smile on my face. Hope it works. Every little improvement in something so fundamental is an important milestone.",
+    "likes": 2,
+    "published_at": "2023-11-10T18:08:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUVJMYq9oSzaCsmOl4AaABAg.9wwu_TUwY7H9wx5RzvSr6q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2023-11-10T19:52:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzgC7B96Q2VLGofZoV4AaABAg",
+    "author": "@uscitizen5656",
+    "author_channel_id": "UCAeQfYaUeFZQIDQ2htpL1qg",
+    "text": "You fired up the Tubercle fan, it sounded faster, at least to me. May be the way the air goes across the bumps though",
+    "likes": 2,
+    "published_at": "2023-11-10T18:07:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzgC7B96Q2VLGofZoV4AaABAg.9wwuWT3L6Xo9wx5R1ynluq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it was cool",
+        "likes": 0,
+        "published_at": "2023-11-10T19:52:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugycq_GOJzqiNycnETp4AaABAg",
+    "author": "@stev838",
+    "author_channel_id": "UCe0ei870xL8aQ6w4hlTrwsA",
+    "text": "Explains the tree seed .  Thanks",
+    "likes": 0,
+    "published_at": "2023-11-10T18:07:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugycq_GOJzqiNycnETp4AaABAg.9wwuQ70mMMK9wx5PvGEI1r",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yup",
+        "likes": 0,
+        "published_at": "2023-11-10T19:51:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwj0imRjAjD8iVSYTd4AaABAg",
+    "author": "@Johnson_Rice",
+    "author_channel_id": "UCeW6LIs_uxb718YNIo7cZEg",
+    "text": "😂 the whisper whale",
+    "likes": 0,
+    "published_at": "2023-11-10T18:02:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwj0imRjAjD8iVSYTd4AaABAg.9wwtvI8d9W69wx5P8VOjHT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one!",
+        "likes": 0,
+        "published_at": "2023-11-10T19:51:46Z"
+      }
+    ]
+  }
+]

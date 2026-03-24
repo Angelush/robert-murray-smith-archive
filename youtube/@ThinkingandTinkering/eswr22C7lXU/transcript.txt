@@ -1,0 +1,264 @@
+[00:00] [Music]
+[00:08] This is a cyclloid drive. Now, it's
+[00:11] called that because the gear, which is
+[00:13] this bit here, has that shape profile to
+[00:17] it. It's called a cyclloid profile. It
+[00:19] follows the shape of a circle. Actually,
+[00:21] when it's a circle going around a
+[00:23] circle, it's a hypercyclloid. So more
+[00:26] correctly, it's a hypercyclloid drive.
+[00:29] With the hyperscyloid drive, what
+[00:31] happens is you have an eentric in the
+[00:33] center. As you turn the actual main
+[00:36] input, the eentric makes this gear
+[00:39] wobble passing through these pins. And
+[00:41] as it passes through the pins, of
+[00:42] course, it rotates, but it rotates much
+[00:45] more slowly. In fact, the gear ratio of
+[00:48] a cyclloid is determined by the number
+[00:50] of loes. These teeth here, normal gears,
+[00:54] normal are what are called involute
+[00:56] gears because their tooth profile is an
+[00:58] envelute. This is a cyclloid profile. So
+[01:01] the gear ratio can be dramatically
+[01:04] reduced to really quite interesting
+[01:06] amounts to be honest. The envelute gears
+[01:10] can't work with. So cyclloids work with
+[01:12] much higher gear ratios. As I say, this
+[01:15] particular one is 10 to1. Now, when they
+[01:17] make cyclloids like this, because it's
+[01:19] being pushed to the edge, it's off
+[01:21] center. So, the thing were turning,
+[01:23] which of course it needs to do, it would
+[01:25] wobble like crazy if it turned at any
+[01:27] speed. So, what you normally do is you
+[01:30] create two of these discs. One placed
+[01:33] over that way and the second one placed
+[01:37] over that way a little bit so that as
+[01:39] they turn they even out the wobble.
+[01:41] That's pretty sort of standard really
+[01:43] for these, although they work perfectly
+[01:45] fine at slow speeds with only one of
+[01:48] these plates. Now, the thing is these
+[01:51] plates both have 10 loes. It's it's how
+[01:53] they're designed to work. And of course,
+[01:55] you immediately or I immediately think,
+[01:57] what would happen if we used one lobe
+[02:00] less? So, say this had 10 and this had
+[02:04] nine. What would be the result? Now, to
+[02:06] me, that's an interesting question. So,
+[02:09] I turn to Frecad Frecad Workbench
+[02:12] because Frecad Workbench does these kind
+[02:15] of gears
+[02:17] super easily. Right, we're in Frecad.
+[02:20] Let's open up a new file and then go to
+[02:23] here where it says part design. Click on
+[02:25] it and there is gear. This is a
+[02:27] workbench you load yourself. So, if you
+[02:29] don't have it, then you can download it
+[02:31] from the net and just install it and it
+[02:33] will come up. and click on gear and it
+[02:35] will pull up the gears workbench. Once
+[02:38] you're on the gears workbench, you can
+[02:40] see you've got a whole lot of very
+[02:41] useful gears. And here we have a
+[02:43] hyperscyclloid gear. Click on that and
+[02:46] it will generate a hypercyloid gear for
+[02:49] you. There it is. Top plate, bottom
+[02:51] plate, and all of the pins. If we click
+[02:53] on here, then we can see the settings
+[02:55] that we've got. And you'll see that it's
+[02:57] saying show disc zero true. We only want
+[03:00] to look at one of these discs. So let's
+[03:03] set that at false. We're also seeing the
+[03:06] pins. Let's see that as false. So all we
+[03:09] see is one of the cyclloids. Then
+[03:12] there's a few more settings that we can
+[03:14] change. It's 10 mm high by default.
+[03:16] That's a bit high for me. I want that at
+[03:18] false uh sorry at 5 mm. So set that at 5
+[03:21] mm. The eentricity, that's the bit it
+[03:24] wobbles by set at 1.5. I want that a bit
+[03:27] bigger. Let's set that at two. The hole
+[03:30] radius looks fine for me. You see it's
+[03:32] gone a little weird and that's cuz the
+[03:34] pin circle's too low. Let's set that at
+[03:36] 100. And although we can't see the pins,
+[03:38] this is all dead. Call it the roller
+[03:40] diameter. The pins are set at 3 mm.
+[03:42] Let's reset that to 10. And then we've
+[03:44] got the teeth number. Let's pick
+[03:46] something random like 38. There we go.
+[03:49] We've drawn our first cyclloid. Now we
+[03:52] can export that just by hitting file and
+[03:55] export. Once we've done that, then we
+[03:58] want it one tooth bigger. This is
+[04:00] totally random. So, let's put that at
+[04:02] 39.
+[04:04] And hey, presto, we've got our 39 to
+[04:08] loed gear that we can export again and
+[04:11] print off. Now, we want to have a look
+[04:13] at the actual pins. So, if we set this
+[04:17] show pins back to true
+[04:22] and then refresh it, there we go. There
+[04:24] will be the pins at the correct pin
+[04:26] radius that we want. We only want to see
+[04:29] one of them. So, show disk one as true.
+[04:33] Let's change that to false.
+[04:37] Refresh it. And we get our pin circle.
+[04:40] Now, we want to set that height because
+[04:42] this is actually 20 mm high. There it
+[04:45] is. Pin height 20 mm. That's a bit high
+[04:48] for what I want. So, let's set that at
+[04:50] 10.
+[04:53] And there's our pins. Now, these are the
+[04:55] pins for the tooth at 39. We also did
+[04:59] one at 38 if you remember. So change
+[05:01] that back to 38.
+[05:04] And there we go. We got the second one.
+[05:05] And we can export both of those. Ready
+[05:07] to reimpport and play around with it in
+[05:09] Tinkercad.
+[05:11] And here we are in Tinkercad. All I've
+[05:12] done is import them. I've also added a
+[05:14] hole here at 80 mm. But this orange one
+[05:17] is the smaller one with 38 loes. And
+[05:20] this brown one, green one, is the larger
+[05:22] one with 39 loes. Raise the larger one
+[05:25] by 5 mm.
+[05:28] And then we're going to align it to the
+[05:30] smaller one. And we align it to the one
+[05:33] edge. And one edge. There we go. And now
+[05:36] we can group it. Right now all I've done
+[05:39] is import one of the sets of pins. And
+[05:41] if we create a disc that will go further
+[05:44] than the pin,
+[05:46] align it. And we've got a hole here that
+[05:50] is 5 mm from the bottom and small enough
+[05:53] so that intersects the pins just beyond
+[05:55] halfway down. And then we can align
+[05:57] that. So the orange is 10 mm which same
+[06:00] height as the pins. And the hole that
+[06:02] we've got which I'm selecting the orange
+[06:04] and the hole is a little bit smaller.
+[06:07] You can see where it intersects with the
+[06:09] pins. And then we uh choose the orange
+[06:12] cylinder and the hole and group them.
+[06:15] Then we'll actually get this. Now we can
+[06:18] put a hole in the center of that which
+[06:20] is 20 mm in my case. So, hit the shift
+[06:23] key, select both,
+[06:26] put it to the center of the orange by
+[06:28] centering it using the center buttons.
+[06:31] And then we can
+[06:35] group the whole lot.
+[06:38] There we go. We have our bottom case.
+[06:40] And we do exactly the same. This is the
+[06:42] one with the 39 pin lo. It ends up ends
+[06:45] up being 40 pins. Now we do the same
+[06:48] with the other lobe which is 38 lobe and
+[06:51] that'll have 39 pins. Right? Those three
+[06:54] bits are basically our gear. Of course
+[06:56] we need a driving eccentric. So we need
+[06:59] to create the eentric of the same size
+[07:01] as the small hole under there. And for
+[07:03] that it's 30 mm. Remember
+[07:06] grab a cylinder. Smooth the edges. Make
+[07:08] it 30 by 30. Make it 4.5 mm high. So
+[07:14] it's just a little lower than the
+[07:17] thickness of one of the loed rings that
+[07:19] we've just done. And then we need a
+[07:21] center in it for the driving. For the
+[07:23] driving, we're going to drive it with an
+[07:25] axle at 20, which is why we made the
+[07:27] holes here 20. So again, smooth it. And
+[07:31] then we can center it. Now that's at the
+[07:34] center. If you remember, the eccentric
+[07:36] was 2 mm. So we need to shift that over
+[07:38] by 2 mm. Making sure the snap grid is
+[07:41] set to one, that we've highlighted the
+[07:43] hole. Just use the across arrow. One,
+[07:45] two. Then we can merge it with that and
+[07:48] we have our driving eccentric. Now, of
+[07:51] course, we need an axle and some clips,
+[07:52] but that's basically it. So, when we've
+[07:54] printed it off, we get two of these.
+[07:56] One's going to be held static, and the
+[07:58] other is going to be the output disc in
+[08:00] those. Then, we put this compound disc
+[08:03] here, the compound cyclloid. Remember,
+[08:06] it is actually just two cyclloids with
+[08:08] one tooth difference that are basically
+[08:10] glued one on top of the other. And
+[08:12] that's going to be the center drive
+[08:13] disc. Of course, we need an ax on an
+[08:15] eccentric, which are right here. To get
+[08:17] that in the right place, take one of
+[08:19] these clips, and there's two of them.
+[08:21] Pop the clip on,
+[08:24] drop it through with the clip on the
+[08:25] outside, and with the eentric, just push
+[08:27] it into place, making sure it's free to
+[08:30] turn, and then put a spot of glue on
+[08:32] there. Now, you might risk gluing it to
+[08:35] the bottom plate. So, the easiest thing
+[08:37] is to take the clip back out, take the
+[08:39] eccentric out, and glue it. Once it's
+[08:42] out, we've done that. It's free to turn.
+[08:44] We take our eccentric there, pop it in.
+[08:47] Now, when we turn that one, notice how
+[08:49] quickly that's turning. This one is
+[08:51] turning at 39:1.
+[08:54] So, we have a 39:1 ratio there. Now we
+[08:57] pop this one on.
+[09:02] Get it lined up. Pop on the second clip
+[09:05] so that everything's held in place. And
+[09:08] we can glue it to this stand. It's this
+[09:10] back disc that you glue to the stand
+[09:13] because that's the one that's fixed and
+[09:16] that's the one that outputs. Now clearly
+[09:18] if you want to output from this, you
+[09:19] could just put a gear around it or put a
+[09:21] gear right here. It'll rotate at the
+[09:23] same speed as this. But we'll glue that
+[09:25] on and then we'll have a look at what
+[09:27] happens to that gear ratio. Okay. So to
+[09:30] demonstrate this, I've lined up two dots
+[09:32] right there. And I've lined up two dots
+[09:34] right there because what happens is that
+[09:38] when you put two gears like this
+[09:39] together as a cyclloid, you in fact
+[09:42] multiply each of the discs. So if you
+[09:45] remember the first disc was 38 to1 and
+[09:47] the second disc is 39 to1. The overall
+[09:50] gear ratio of this is one 1,482
+[09:54] to one or if you like nearly 1500 to
+[09:57] one. So I'm gonna have to turn the axle
+[10:00] 1500 times to get that to go around. And
+[10:03] that'll take quite a while. So I'm just
+[10:05] going to turn it quite a few times. So
+[10:07] you'll see the dot progress but
+[10:09] incredibly slowly. So here we are.
+[10:23] That's ridiculous.
+[10:25] I lost count of how many turns, but you
+[10:28] can see that the dot has in fact moved a
+[10:31] tiny part. I'm figuring 1500s of the
+[10:34] number of turns I put in there. So,
+[10:37] there we go. Using essentially only
+[10:39] three parts, we've created a
+[10:41] hyperscyclloid hyperdrive with a
+[10:43] ridiculous gear ratio of 1500 to1.
+[10:46] That's incredible really when you think
+[10:48] about it. Now, of course, I have made
+[10:50] these large so we can demonstrate, but
+[10:51] you can shrink them down if you want.
+[10:53] And I will actually post these onto
+[10:54] Thingiverse should anybody be interested
+[10:56] in playing around with such a thing
+[10:58] because of course as speed goes down,
+[11:01] torque goes up. So the torque on this
+[11:03] output ring is going to be incredible
+[11:05] actually truly. Anyway, I hope you like
+[11:07] the video. Please do remember to like
+[11:09] and subscribe. It does help the channel.
+[11:11] And thank you very much for watching.

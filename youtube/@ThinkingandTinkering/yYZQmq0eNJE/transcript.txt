@@ -1,0 +1,208 @@
+[00:03] [Music]
+[00:10] hi so perhaps one of the most exciting
+[00:11] things around in electronics at the
+[00:13] moment is solid state fans and they've
+[00:15] got a number of things to recommend them
+[00:17] they're lower power they last longer
+[00:20] they have a smaller footprint and
+[00:22] they're much much quieter and when you
+[00:24] see them
+[00:25] they're incredibly impressive actually
+[00:27] because they're solid state devices and
+[00:29] a friend of mine wrote to me saying he
+[00:30] tried to make one and he failed would i
+[00:32] mind having a look at it and i thought
+[00:34] no not at all and when you have a look
+[00:36] at it you begin to realize it's got much
+[00:38] more in common with music than it has
+[00:41] with electronics because if i get a bit
+[00:43] of material and hit it it's going to
+[00:46] ring
+[00:50] it's quite nice
+[00:51] if i put it up a bit
+[00:55] the shorter this gets the higher the
+[00:57] note the longer
+[00:59] the deeper the note and if you hit
+[01:01] anything
+[01:02] it's going to do that a lump of wood or
+[01:05] wine glass a bit of metal a string any
+[01:08] of these things will perform that action
+[01:11] they'll find bridge of what's called the
+[01:13] fundamental frequency
+[01:15] that fundamental frequency is going to
+[01:16] give you the biggest range of vibration
+[01:19] and if you think you want a fan and you
+[01:21] want to have to have big range you need
+[01:22] to hit the fundamental frequency if you
+[01:25] have a look again at that piezoelectric
+[01:27] fan you'll see that it's essentially
+[01:30] held in one spot and in musical terms
+[01:33] this is called a clamped vibration bar
+[01:37] so we've got one clamp on it now
+[01:38] obviously in a glockenspiel or a
+[01:40] xylophone it's on both sides as it is
+[01:42] with a guitar where you've got the
+[01:45] nut and the bridge
+[01:47] clamping it on two sides in a tubular
+[01:50] bell where you're hanging it it's really
+[01:52] free
+[01:53] but you can think of it also as being
+[01:55] clamped at one inch so we've got a
+[01:57] single clamp on a bar
+[02:00] then we basically
+[02:02] take the piezoelectric element and hit
+[02:04] it because the piezoelectric element is
+[02:06] what's called the actuator so i've got
+[02:08] my bar clamping it in one point here's
+[02:11] my actuator
+[02:13] and of course it rings rings are the
+[02:14] fundamental frequency there's a few
+[02:15] overtones there as well and we get the
+[02:17] biggest range of movement that we can
+[02:19] get in that so
+[02:20] when you're looking at making something
+[02:22] like a piezoelectric fan or a solid
+[02:24] state fan then you are more involved in
+[02:27] that side of music than you are on the
+[02:29] electronics so if you know the material
+[02:33] and you know the frequency and you have
+[02:35] the young's modulus which is the measure
+[02:36] of the elasticity of the material you
+[02:39] can work out
+[02:40] how long that piece of material has to
+[02:42] be in order to get it to resonate now
+[02:45] normally of course we're going to use
+[02:46] this in a piece of equipment you plug
+[02:48] into the wall socket so ideally
+[02:50] somewhere about 50 or 60 hertz is what
+[02:52] you want the resonance frequency to be
+[02:54] because at that range single clamp the
+[02:57] fundamental will give you the biggest
+[02:59] range of movement that you're gonna get
+[03:01] for inputting that frequency so you need
+[03:04] to
+[03:05] calculate it now that bit of material
+[03:07] needs to have a degree of spring but
+[03:08] again you can use just about anything
+[03:10] popular choices are aluminium phosphor
+[03:13] bronze brass or steel those materials
+[03:16] are what are used and they tend to be in
+[03:18] the region of 0.1 millimeter thick
+[03:20] because they're not very heavy they've
+[03:22] got a deal of spring to them they've got
+[03:24] a resonant frequency that's relatively
+[03:26] short so you don't need to fan this long
+[03:29] you tend to use something
+[03:31] this long
+[03:32] so we need a bit of material we clamp at
+[03:35] one end and then we need an actuator put
+[03:38] onto that material now for a
+[03:40] piezoelectric solid state fan that
+[03:42] actuator is a couple of piezo elements
+[03:51] and they come just like that
+[03:53] put the piezo elements on either side
+[03:57] clamp it
+[03:58] turn on your mains at a certain voltage
+[04:01] and that will vibrate that actually is
+[04:04] all there is to it
+[04:05] now i don't know if you remember
+[04:07] we did a count a sound
+[04:10] a device we called the sound bug it was
+[04:13] stunningly simple to make and if you
+[04:16] attached it to a window it turned your
+[04:17] window into a speaker if you put it onto
+[04:19] your desk you just became a speaker if
+[04:21] you put it onto the bottom of a tin can
+[04:24] and you know i love tin cans you could
+[04:26] have headphones and look like a cyberman
+[04:28] it's a awesome kit to knock up because
+[04:31] it's just stupidly stupidly easy all you
+[04:34] need are
+[04:36] three components
+[04:37] you need an inductor an inductor is just
+[04:40] a coil around a magnetic element this
+[04:42] case it's a ferrite so we've got a
+[04:44] caller copper around the ferrite you can
+[04:46] easily use lump of arm and then you put
+[04:48] some rubber bands on it i use normal
+[04:50] rubber bands but any rubber will do so
+[04:53] neoprene rubber works for example foam
+[04:55] works for example this latex rubber has
+[04:58] a degree of wear and the last thing that
+[05:01] you need is a magnet if we pop that
+[05:03] magnet on there
+[05:05] then we have made our sound book now we
+[05:08] pop that onto a bit of glass
+[05:10] put a music into that and the glass will
+[05:12] vibrate like a speaker and of course
+[05:14] that is an actuator that actuator is
+[05:17] doing the same thing as a piezoelectric
+[05:19] element will do piezos for me is a bit
+[05:22] tinny this has a much deeper and richer
+[05:24] sound quality to it because it's very
+[05:25] similar to a speaker
+[05:28] so we did that and i'm going to use this
+[05:30] as my actuator rather than the
+[05:32] piezoelectric elements although in
+[05:34] theory it's identical now i'm going to
+[05:37] put 50 hertz in it and give you a
+[05:39] close-up of it so there's my sound bug
+[05:42] that's the inductor with its coil
+[05:43] there's the ferrite core there's the
+[05:45] coil there's the rubber bands right
+[05:47] there and i've got a magnet sitting onto
+[05:49] it on it i've plugged it into a desktop
+[05:51] supply that runs at 50 hertz and an ac6
+[05:54] volts if i put you guessed it a tin can
+[05:57] on there
+[05:58] turn that on
+[06:06] you should just be able to hear the hum
+[06:08] of the men's so that is now resonating
+[06:11] this tin can at 50 hertz which is
+[06:13] obviously very low so it works as a
+[06:16] resonator in which case it's working as
+[06:19] that bit of copper pipe this is the
+[06:21] actuator that is hitting this and
+[06:23] causing this to vibrate all we have to
+[06:26] do to make that a fan is take our
+[06:28] workout piece of metal and stick it on
+[06:30] there and it will be a fan
+[06:36] so there's my bit of steel on there i
+[06:38] haven't worked this out but let's give
+[06:40] it a little bit of a c
+[06:56] and i've cut a bit off and you see how
+[06:58] short it actually is
+[07:08] so after a little bit of tuning which
+[07:09] meant cutting off something end of it
+[07:11] with a pair of scissors i got it about
+[07:13] three centimeters long and i got about a
+[07:15] centimeter deflection it's pretty good
+[07:17] the best they've got i believe is around
+[07:19] about two centimeters deflection and
+[07:21] that's with a strip of phosphor bronze
+[07:23] so i'm quite happy with that to be
+[07:25] honest but that's about all there is to
+[07:28] two solid-state fans you need something
+[07:32] that's going to vibrate and you need to
+[07:33] make sure that it will vibrate at the
+[07:36] frequency that you're going to input it
+[07:38] now if you're going to plug it straight
+[07:39] to the men's that's 50 60 hertz if
+[07:42] you're going to use a different
+[07:42] frequency then obviously your length
+[07:44] will change so it depends very much on
+[07:46] the material
+[07:47] very much on what frequency you're going
+[07:49] to run it and now those um those
+[07:52] frequencies you can calculate or you can
+[07:54] just look up online calculators then you
+[07:57] need some kind of actuator at the bottom
+[08:00] which is a piezo element and i used
+[08:02] induction with the sound bug
+[08:04] clamp down one end so it's a clamped bar
+[08:07] right
+[08:08] bingo you've got yourself a solid state
+[08:10] fan anyway i hope you enjoyed the video
+[08:13] i hope it was a help thank you very much
+[08:15] for watching and please do remember to
+[08:17] like and subscribe

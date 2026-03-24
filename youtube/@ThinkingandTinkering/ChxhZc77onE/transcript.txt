@@ -1,0 +1,479 @@
+[00:00] [Music]
+[00:02] so when creating a wind turbine or a
+[00:04] generator the big question is how do you
+[00:06] know which motor would make a good
+[00:08] generator how do you know what to do in
+[00:10] order to go around building your own
+[00:12] generator it's a very common question
+[00:14] unfortunately there is some things that
+[00:16] you need to understand before being able
+[00:18] to make those decisions and in this
+[00:20] video we talk about the theory then I
+[00:22] give three examples to illustrate that
+[00:24] on devices that you can make yourself so
+[00:27] it is a bit long but stick with it
+[00:29] because some of this stuff is absolutely
+[00:31] essential now right from the start
+[00:33] motors and generators are the same thing
+[00:36] so we big mystery why is it when you put
+[00:38] one motor in a wind turbine it does
+[00:41] Gretch and you put a different motor in
+[00:42] a wind turbine it does pants well there
+[00:45] a very good reason for that we make
+[00:47] Motors because we have different jobs
+[00:49] they can do and a motor is defined by
+[00:51] its active are it active length the
+[00:54] diameter of it the number of terms and
+[00:56] winding in there and the power of the
+[00:58] magnetic field is you put a current in
+[01:01] there you give it a kick against the
+[01:02] field and it's going to turn with a
+[01:04] certain amount of power usually bigger
+[01:06] the motor more turn it's got smaller
+[01:08] than motor tends to turn faster but less
+[01:12] power in the turn when I say power I
+[01:15] mean turning Force which is
+[01:17] tor so it would be handy to know some
+[01:22] stuff about Motors so you could make
+[01:24] some decision about what would work in a
+[01:27] wind generator or if you needed to make
+[01:29] changes to your generator so a different
+[01:32] motor would work you could make those
+[01:34] changes now obviously we work a lot with
+[01:37] scrap Motors and Motors we find because
+[01:39] let me say it again Motors and
+[01:40] generators are the same thing
+[01:43] particularly with DC permanent magnet
+[01:45] motors which is what I've got here it's
+[01:46] a treadmill motor
+[01:48] incidentally they're just identical now
+[01:50] the three things are Jolly handy to know
+[01:53] are the speed constant the torque
+[01:56] constant and the generator constant and
+[01:59] of course is that magical word there
+[02:01] constant which means they are constant
+[02:04] they don't change you can get the speed
+[02:06] constant really really easily for the
+[02:09] purists incidentally the SI unit for
+[02:12] speed and the one I'm just going to use
+[02:13] here are different it us as radians in
+[02:16] si and we're just use RPM but you find
+[02:19] different manufacturers using different
+[02:20] values anyway so that can be a little
+[02:22] bit confusing but when we look at a
+[02:24] multiplate it'll tell you the voltage
+[02:26] it'll tell you the maximum speed this
+[02:28] one 180 volt at 4,200 RPM so if I bang
+[02:33] in 180 volts that's going to turn at
+[02:36] 4,200 RPM to be honest more or
+[02:39] less the reason it does that is because
+[02:42] of course a motor has a back EMF faster
+[02:45] it turns the higher that EMF gets until
+[02:47] the back EMF reaches the input voltage
+[02:50] in which case adding more doesn't do
+[02:53] anything and so it has a maximum speed
+[02:56] but anyway at 180 volts this will turn
+[02:58] at 4,2 200 RPM divide one by the other
+[03:02] and you will get the speed constant so
+[03:05] we can say that more or less that one VT
+[03:08] will turn this at 10 RPM it's not right
+[03:12] it's more or less right okay so that
+[03:15] means that if I stick a volt in here
+[03:18] we'll get 10 RPM 2 volts 20 RPM 3 Vols
+[03:21] 30 RPM and so on because it's a constant
+[03:26] the generator constant is the inverse of
+[03:29] the speed constant which means if I turn
+[03:32] this at 10 RPM I'll get a fault out 20
+[03:36] RPM I'll get 2 volts out and so on so we
+[03:40] can work out the voltage that we're
+[03:41] going to get out for the RPM that we put
+[03:43] on here really really easily using the
+[03:46] speed constant now let's set that up and
+[03:49] have a look at that happen okay I've
+[03:50] connected it open circuit we've got it
+[03:52] reading vaults and let's give that a
+[03:58] spin
+[04:00] and there you go the generator constant
+[04:03] in play I can get three volts out of
+[04:06] that turning it about 30 RPM so I've got
+[04:08] it set up to read amps and this time
+[04:10] I've closed the circuit I've connected
+[04:12] the negative and the positive the motor
+[04:14] together if I give that a
+[04:18] spin we get about 160 milliamps or so
+[04:21] and it's tough to turn you can feel the
+[04:24] effort required to turn it now that
+[04:26] turning effort of course is torque and
+[04:28] that's measured in Newton MERS so the
+[04:30] torque constant is Newton m per amp that
+[04:34] means is every amount of fixed Force I
+[04:36] put on there is going to generate so
+[04:39] many amps at the speed at which I'm
+[04:41] turning it in order to turn it faster
+[04:44] I'm going to need more effort put in
+[04:46] there and you can feel it if you link
+[04:48] that up and do it now these kind of high
+[04:51] torque Motors usually have a very high
+[04:53] resistance this one's about 5 ohms or so
+[04:55] which is pretty
+[04:57] high something has a higher resistance
+[05:00] it means that it's very susceptible to
+[05:02] load so if we swap this onto the
+[05:06] voltage leaving it in closed circuit
+[05:09] remember we got about 3 or four volts at
+[05:11] that range and if I give it a turn
+[05:20] now we're hard pressed to get about 02
+[05:23] the volt so the voltage drops off
+[05:25] dramatically and that's a common thing
+[05:27] that happens with high resistance High
+[05:29] to Motors okay let's have a look at a
+[05:32] graph of that because what's life
+[05:33] without a graph let's say voltage here
+[05:36] and current here and if we take our
+[05:38] voltage that we got when it was open
+[05:40] circuit and our current got when it was
+[05:42] closed circuit it creates a line and
+[05:46] this is called the voltage current graph
+[05:48] and it looks just like a speed torque
+[05:50] graph this is for a fixed number of
+[05:53] rotations okay if we take another area
+[05:56] from here to here remembering our V
+[05:59] equals I are that there is the power
+[06:02] that the thing will generate and it's
+[06:03] normally about halfway down that line if
+[06:06] we increase the speed then this line
+[06:08] will move out in that direction and
+[06:10] we'll get another Power
+[06:12] area like that and so power is related
+[06:16] to the square of the speed now when I
+[06:18] said that this looks like the speed
+[06:19] torque obviously the voltage is taking
+[06:21] place of the um speed the torque takes
+[06:24] place of the current or vice versa and
+[06:27] the gradient of the line is the
+[06:28] resistance of the whole thing okay I
+[06:31] think that's cool to know I also think
+[06:33] it's very interesting but of course it
+[06:34] begs the question what uses it most
+[06:37] generation applications actually turn
+[06:39] relatively slowly far less than 1,000
+[06:41] RPM most Motors turn much quicker than
+[06:44] that sort of the uh 2 and a half 3,000
+[06:47] RPM range and so there's a mismatch very
+[06:50] often now you can correct that mismatch
+[06:53] by using gearing which is exactly what
+[06:55] we did and the same ideas are going to
+[06:58] apply with gear ing in terms of the um
+[07:02] ratio of the speed to the torque that
+[07:04] you're going to suffer when it comes to
+[07:05] running up a few gears but you can
+[07:08] increase the speed of that you spin a
+[07:10] motor at by using gearing so a high
+[07:12] torque low um revving application can be
+[07:16] matched to a high spinning motor by the
+[07:19] use of gear of the gear Head it's not
+[07:21] something that's very often done with
+[07:23] wind turbines for example it's pretty
+[07:25] common to bolt the blade straight onto
+[07:27] the motor and it's probably one one of
+[07:29] the worst things you can do if you're
+[07:31] using the wrong kind of motor what you
+[07:34] want is a hi torque motor of course you
+[07:36] suffer from that voltage drop that we
+[07:38] saw there are other things you can do
+[07:41] with it and we have been exploring some
+[07:43] of those other things in the video now a
+[07:45] quick word about efficiency the
+[07:48] efficiency of this thing that you make
+[07:50] from scrap Motors is extremely unlikely
+[07:54] to be affected by the motor the
+[07:56] efficiency is going to be mechanical
+[07:58] it's going to be how well you make that
+[08:00] structure that you attach to the motor
+[08:02] for it to become a generator I went down
+[08:05] and bought one of these it's a 200 wat
+[08:07] hand blender from my local Big Box store
+[08:10] and it cost me £550 so as a blender
+[08:13] don't expect miracles but when you take
+[08:15] the blender apart what you'll find
+[08:17] inside is a DC motor a rectifier bridge
+[08:21] and obviously an onoff switch I mean it
+[08:24] astonishes me actually how they can make
+[08:26] these things for those kind of prices
+[08:28] but that's the body itself and in there
+[08:31] is that DC motor now that DC motor is a
+[08:34] 240 volt DC motor meant to turn in the
+[08:37] region of 8,000 to 10,000 RPM so the RPM
+[08:43] per volt is going to be relatively high
+[08:46] but they spin really easily so it's
+[08:48] going to be millon uh meters actually so
+[08:51] the millon Met per amp it's going to be
+[08:53] really low you're going to be able to
+[08:55] feel there's a lack of talk so you can
+[08:57] expect quite high voltages but very low
+[09:00] torque anyway let's get this motor out
+[09:02] and have a look at it so four screws two
+[09:04] at the top two at the bottom took this
+[09:05] to pieces and there's the motors it'll
+[09:07] drive spindle there to connect to the
+[09:08] chopping blade here's our circuit board
+[09:11] that's a bridge rectifier and then we've
+[09:13] got our input so we get a bridge
+[09:14] rectifier a switch a whole load of cable
+[09:17] and this beautiful motor all for £550 it
+[09:20] just astonishes me anyway that motor
+[09:22] just lifts out okay I've got the motor
+[09:25] out there's the meter now given that
+[09:27] this is about 10,000 RPM at 230 volts we
+[09:29] can expect quite a voltage on that when
+[09:31] we spin it so let's have a
+[09:35] look look at
+[09:37] that spin it the wrong way for a
+[09:44] start so I'm easily getting anywhere
+[09:46] between 1 and A2 and 7 volts by spinning
+[09:49] that by hand and we expect that given
+[09:52] that the um speed constant is so high
+[09:56] however I'm spinning it by hand and I
+[09:57] can feel that the for required to turn
+[10:00] that is Tiny so we can expect the amps
+[10:03] to be pamps hey that rhymes let's set it
+[10:07] up for
+[10:09] amps and there we go about 1
+[10:13] milliamp well that's not bad anywhere
+[10:16] between 1 11 milliamps is what I can
+[10:18] actually generate from that which is
+[10:20] really poor but then as I say you can
+[10:22] feel that now in order to make that
+[10:25] useful what it means is we're going to
+[10:27] have to put a gearing system in
+[10:29] this bunch of pulley so they're really
+[10:31] easy to make they're just a couple of
+[10:33] discs of wood got a groove cut in them
+[10:35] glue one on the other drill a hole and
+[10:37] stick some bearings in you'll get some
+[10:39] pulley and then we go with our pulley
+[10:41] Arrangement big little big little big
+[10:43] little I just put it in a credle and
+[10:44] I've got a couple of um bolts on here I
+[10:46] tighten those bolts and it tensions the
+[10:48] belts I that spin up we'll be able to
+[10:50] light that light there we
+[10:54] go and we're generating about 26 volts
+[10:58] while we got it under load if we have a
+[11:00] look at the amps it's
+[11:04] generating oops let's put it on to
+[11:10] amps then we're generating about 60
+[11:12] milliamps and around about 26 volts so
+[11:15] it's roughly 1 and 1/2 2 Watts somewhere
+[11:18] around about there okay so I brought
+[11:20] this bike upside down now the ratio
+[11:22] between the Little Wheel and the big
+[11:24] wheel is about 16 to1 ratio of this Cog
+[11:27] to this Cog is about 3:1 so we're
+[11:28] getting about 4850 to1 gear ratio
+[11:32] however this is somewhat better made
+[11:35] even though we got a friction attachment
+[11:37] here and I'm able to put much more speed
+[11:39] into this now the thing about these
+[11:42] generators is the faster you can get
+[11:44] them going then the more power you get
+[11:47] out because the voltage is related to
+[11:49] the square of the speed so we need the
+[11:52] gear ratio so that we can actually get
+[11:54] it to turn quickly we need good
+[11:56] construction so we can input at fast
+[11:58] speed and it has a dramatic effect so
+[12:01] I've got the voltmeter on it's under
+[12:03] load of this LED and don't worry you'll
+[12:06] see the LED fine and if I actually spin
+[12:08] this
+[12:17] up we get a good old 30 volts out of
+[12:20] that no worries at all and we get a
+[12:22] really bright light because I can put
+[12:24] some speed in there now if we have a
+[12:27] look at the amps okay
+[12:34] five over the man
+[12:40] 6 7
+[12:44] 7
+[12:46] so that's actually a 21 wat WT generator
+[12:51] that we've created what we're going to
+[12:53] do is use this flywheel with a different
+[12:56] motor Arrangement and see what we can
+[12:59] construct as a
+[13:01] generator why not now I don't only have
+[13:03] the flywheel of course because we do an
+[13:06] awful lot of work with these kind of
+[13:07] things I have this kids bike found by
+[13:11] the roadside so it's Rusty it's steel
+[13:14] which means I can chop it up and weld it
+[13:16] to stuff which is kind of awesome and
+[13:17] that's exactly what I'm going to do
+[13:19] we're going to remove the rear wheel
+[13:21] replace it with this because I modified
+[13:23] it to fit in a bike chop this up a bit
+[13:25] weld it around and make ourselves a
+[13:27] flywheel generator so let's get this
+[13:29] chopped
+[13:33] up okay so there's the frame stripped
+[13:36] out and of course it fits rather nicely
+[13:38] on this wheel it's no surprise I did the
+[13:39] wheel modification in a different video
+[13:42] and I'm thinking about how to put that
+[13:44] that's kind of nice because it keeps
+[13:46] this section here so actually making a
+[13:48] turn handle or a pedal or something like
+[13:50] that be really easy cuz the
+[13:51] relationships are kept that means
+[13:53] chopping off here here welding it onto a
+[13:56] base and then putting a stay in there
+[13:58] which I can weld obviously so I favored
+[14:01] that but I could have gone that way I
+[14:02] guess there's always a load of ways that
+[14:04] you can do these things anyway I'm going
+[14:06] to preserve this entire back end with
+[14:08] the pedals and chop these bits off and
+[14:10] clean it
+[14:14] up okay so I've got this bit of frame
+[14:16] here from a treadmill actually now I
+[14:18] tend to do this a lot I look around for
+[14:20] bits that I've got because all I've got
+[14:21] to do is chop these tags off here and
+[14:23] I'm going to get myself a nice square
+[14:25] frame to weld everything too so it's
+[14:27] going to be a piece of cake and often I
+[14:29] try to do that I try to use bits I've
+[14:31] got lying around have a look and think
+[14:33] about how they're going to fit do the
+[14:35] slightest modification I can just to get
+[14:37] the bits that I actually need that that
+[14:39] can then weld together with my Rough and
+[14:41] Ready welding anyway let's chop off
+[14:43] these
+[14:53] tabs okay so I've chopped them out clean
+[14:55] them up a bit now I can weld that tab on
+[14:57] there then I can weld that bit of bike
+[15:00] onto here and the two tabs that I cut
+[15:02] off I can weld there and there to act as
+[15:04] like extra supports so let's weld that
+[15:13] together now we've welded our frame
+[15:16] together the flywheel just drops
+[15:17] straight in where the bike dropouts used
+[15:19] to be right there so that's where our
+[15:21] flywheel goes
+[15:24] and let's try that again there we go
+[15:27] that's where our flywheel goes right
+[15:29] there and of course we've got this which
+[15:31] is square to that so we can put a cog
+[15:33] and crank on there and it's going to
+[15:34] spin that flywheel beautifully a little
+[15:36] to this thing and there it is bolted
+[15:38] back together I chopped off the pedal on
+[15:39] one side left it here chopped the pedal
+[15:42] down to make a crank handle so I can
+[15:43] turn that it'll turn this connect the CH
+[15:45] and of course it's going to turn that
+[15:47] now the gear ratio is 2 to one so every
+[15:49] two turn every one turn of this I get
+[15:51] two turns of that as this is all about
+[15:53] speed then that's obviously not really
+[15:56] very acceptable it would be much nicer
+[15:57] if I could up that Gear in show and I do
+[15:59] have this thing which is a cassette so
+[16:02] if I unscrew
+[16:06] that I can remove that whole gear chain
+[16:09] like that and then I can replace one of
+[16:11] the large gears on one of the small
+[16:13] gears back on that cassette fit it in
+[16:16] there I can drag the small Gear with
+[16:18] this and use that large Gear with this
+[16:21] and then I'll get up a I'll get a step
+[16:23] up gear ratio and it'll be in the region
+[16:25] of 5 to1 which is not brilliant but it's
+[16:28] a lot better than than it was so that's
+[16:30] what I'm going to do so welding in a
+[16:31] couple more dropouts means I've been
+[16:33] able to put that in there now all I did
+[16:36] to swap those cogs around was unscrew it
+[16:38] and swap the cogs you using the spacers
+[16:41] bolt it back together into those
+[16:43] dropouts so when I put a chain between
+[16:44] this one and the small Cog here I'll get
+[16:47] a 2.5 to one and then from this BG big
+[16:50] Cog here to the actual Drive Cog I'll
+[16:51] get another 2: one so instead of being
+[16:53] 2: one it's now about 5 to one now it
+[16:56] could do with being better than that but
+[16:58] that's are the gears I've got so that's
+[17:00] what we're going to go with obviously if
+[17:03] you change that gear ratio you'll get a
+[17:05] faster speed out of here depending on
+[17:07] your gear ratio anyway all I've got to
+[17:09] do now is connect some chains up so I'll
+[17:11] do that okay and there it is with its
+[17:13] chains on now it cranks up really cool
+[17:16] there's a bit of a rumble because I used
+[17:17] an old free wheeel which is a shame but
+[17:19] we get that
+[17:27] going
+[17:42] run for a good few minutes but it's a
+[17:44] fly wheel generator now obviously what
+[17:46] we want to do is connect it to something
+[17:48] to see what is actually producing what
+[17:50] we're going to connect it to is the same
+[17:52] motor that we've been using the previous
+[17:54] videos so that we get some kind of yard
+[17:56] stick so here is my little food blender
+[18:00] motor that I bought for a pound and that
+[18:02] I used in previous videos let's get that
+[18:04] connected okay so I've used a drive belt
+[18:06] to connect it to the exact same motor we
+[18:08] used in 1192 because what we're
+[18:10] interested in remember is the
+[18:11] relationship between speed and voltage
+[18:14] and this is about 28 CM that's about 2
+[18:16] cm so we've got a 14:1 gear ratio with a
+[18:19] 5:1 gear ratio here givs around about 70
+[18:23] to1 in 1192 we tried uh 1: one going up
+[18:27] to about 20 to one and we saw that the
+[18:30] voltage um started off really low and
+[18:33] actually shut up so that when it
+[18:34] actually rotated quickly we're getting
+[18:36] about 20 wats out of all so now I have
+[18:39] actually changed what I've got the load
+[18:41] this load is an LED lamp that'll only
+[18:43] begin to light around about 200 220
+[18:47] volts which is crazy but let's give that
+[18:50] a go we'll spin it up and we'll see if
+[18:51] we can get that voltage out of it oh the
+[18:54] meter's right
+[18:57] there
+[19:18] we got about 250 volts out of that which
+[19:21] is madness if you think about it course
+[19:24] an LED lamp like this isn't actually a
+[19:26] purely resistive load so what I've done
+[19:29] is have stuck a soldering iron on it a
+[19:31] soldering iron is just a heat resistor
+[19:33] so let's give it a spin under a pure
+[19:35] resistive
+[19:57] load about 145 milliamps now let's try
+[20:01] the voltage on the resistive low it up
+[20:03] for volts spin it up and see what
+[20:24] happens 200 volts 150 milliamps
+[20:30] that's that's actually getting
+[20:33] warm okay I mean I'm impressed with that
+[20:36] this little motor if properly set up and
+[20:38] is a 71 ratio will give us 200 volts and
+[20:42] we're getting about 30 Watts out of it
+[20:45] if you think about it that's incredible
+[20:47] so the whole point of this video is to
+[20:50] illustrate the difference that speed
+[20:52] will make now obviously it's a bit of a
+[20:55] workout because also talk goes up but
+[20:58] after I thought I would show go through
+[20:59] that extend it a little further to see
+[21:01] what kind of voltages you can in fact
+[21:03] get from these tiny tiny Motors I hope
+[21:06] you enjoyed the videos and thank you
+[21:08] very much for watching oh please do
+[21:10] remember to
+[21:11] subscribe

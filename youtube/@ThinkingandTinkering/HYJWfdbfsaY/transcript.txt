@@ -1,0 +1,331 @@
+[00:02] [Music]
+[00:15] hi so we're gonna make yourselves hot
+[00:17] wire cutter fertile future projects and
+[00:19] the work we're gonna make you from is
+[00:21] this thing this is an old computer I had
+[00:23] and the only tests I've done is to plug
+[00:26] it in and make sure the power button
+[00:27] gets the fan spinning so it should be
+[00:29] fine
+[00:30] now in there is a power supply and
+[00:32] that's what we actually want so what
+[00:34] we're gonna do is strip it out clean it
+[00:35] up but leave the power supply in place
+[00:37] now we're using that because it is a
+[00:40] structure that's quite sturdy and it has
+[00:42] a power supply B if you don't have one
+[00:44] of these and you can just build a box
+[00:46] and get yourself a power supply you need
+[00:48] something around about 12 volts
+[00:50] something like that a power brick
+[00:51] there's got four amps on it somewhere
+[00:54] between 4 and 6 amps output is going to
+[00:55] be fine so you can just use one of those
+[00:58] and build a box it happens that we have
+[01:00] one of these and you can find these
+[01:02] things lying around everywhere actually
+[01:04] and we're going to reuse the power
+[01:05] supply and we're going to reuse the box
+[01:07] you know to make our hot wire cutter now
+[01:10] obviously if you were the little bits
+[01:11] and pieces we need but it's surprisingly
+[01:13] little that you actually need one of the
+[01:16] really useful things is one of these
+[01:17] this is a speed controller now a speed
+[01:21] controller actually and most of them run
+[01:23] on pulse width modulation just like this
+[01:25] one says and pulse width modulation can
+[01:28] be used to control current to just about
+[01:31] everything not just motors no hot wire
+[01:34] cutter is just a current two resistor
+[01:37] and if we can control that we can
+[01:39] control the temperature of that rhythm
+[01:41] of that wire and so it can control the
+[01:43] cutting temperature and that's what this
+[01:45] is for now it's given us percentage
+[01:47] which is just great rather than speed
+[01:50] because is the a percentage amount that
+[01:52] you're letting in there then you do that
+[01:54] with this little potentiometer and
+[01:56] there's a nice off on switch so we're
+[01:58] gonna use a pulse width modulator speed
+[02:00] control to control the temperature of
+[02:02] the wire and that's how we're going to
+[02:04] control it so you need to grab one of
+[02:06] them now you can make that circuit and
+[02:08] there's a load of the match they're
+[02:10] really quite easy to make from an
+[02:11] Arduino but this thing costs five pounds
+[02:14] you need to make sure it'll take the amp
+[02:16] in so we're going to put maximum six
+[02:18] amps to do it so as long as it'll take
+[02:19] six amps at 12 volts it's just gonna be
+[02:22] fine and that's exactly what that one
+[02:24] does you also need a bit of some of the
+[02:26] support the wire so that's a bit of sick
+[02:28] SMIL steel rod and we'll be bending that
+[02:31] later when we stick it in here but the
+[02:33] first thing really is to get this
+[02:35] stripped out and cleaned up and that's
+[02:38] exactly what I'm gonna do I'm just gonna
+[02:40] do all the screws and pull out all the
+[02:42] bits and pieces that I just don't need
+[02:45] and there's quite a lot of them it's
+[02:47] quite I owe it gone it's quite old so I
+[02:50] don't intend on being particularly
+[02:51] careful with it okay so stripped
+[02:53] everything out and we're ready to go
+[02:55] I've even sent me a th power supply out
+[02:57] because we want to do some modifications
+[02:59] now I've taken the top off the power
+[03:01] supply you don't need to you could just
+[03:03] do this leaving the top on and what
+[03:05] we've got is a massive bundle of wires
+[03:07] and that these things are immensely
+[03:09] useful when people do all kinds of stuff
+[03:10] with them the most popular thing is a
+[03:12] desktop bench top power supply and
+[03:15] that's because all of these wires
+[03:16] actually are color-coded not do pretty
+[03:19] much the same thing there's only so many
+[03:21] of them just to spread the load but you
+[03:23] can bring them all together for that
+[03:25] color and it will be what that color is
+[03:27] so for example all of the yellow wires
+[03:30] carry 12 volts and they all go to the
+[03:31] same point on the circuit board actually
+[03:33] if we bundled us together twist them and
+[03:36] solder them that's our toll fault out
+[03:38] and it's positive 12 volts now we're
+[03:40] going to run this hot wire cutter says
+[03:42] actually only 12 volt that we're
+[03:43] interested in all the rest we did we'd
+[03:45] have to do anything with it actually
+[03:46] just leave it alone but we want all of
+[03:49] the other wires plug them together for
+[03:51] the 12 volt so because the black wires
+[03:52] are the ground so we want all of the
+[03:54] black wires the red wires are the 5
+[03:56] volts if you're making a power supply do
+[03:59] the same thing bundle the 5 volts
+[04:00] together the says hey having a look at
+[04:04] the orange wires baby 3.3 volts
+[04:07] incidentally and that deal did all of
+[04:09] those then we got this block which was
+[04:11] the original pin connector and it's
+[04:14] pretty much the same story we've got a
+[04:15] load of orangy load of red a load of
+[04:17] black and a yellow those ones again we
+[04:20] just bundled together with these same
+[04:22] ones and that'll leave you with a few
+[04:24] weird colored ones you're gonna have
+[04:27] some blue some a green a brown maybe a
+[04:30] grey and a purple now sometimes as a
+[04:34] white wire in there but that was removed
+[04:36] later on the blue wire is the minus 12
+[04:40] volts so we're not gonna use that
+[04:42] unless you want a minus 12 volts
+[04:44] obviously the brown wire is the 3.3
+[04:47] volts sense wire you don't have to do
+[04:49] anything with that you just clip it in
+[04:51] with all of your own other orange wires
+[04:53] if you want your 3.3 volts out we don't
+[04:55] so we're just gonna ignore it the green
+[04:57] wire is the one that we really want you
+[05:00] can't ignore it
+[05:01] that's the power-on sense wire all you
+[05:03] have to do with that is connected to
+[05:05] ground so take one black wire wrong
+[05:07] green wire I just solve them together
+[05:09] and then the power supply will turn on
+[05:11] if you don't do that it won't turn on it
+[05:14] is quite handy actually because and this
+[05:16] particular power supply has no on/off
+[05:18] switch at the back and as we're going to
+[05:20] be making a hot wok or so we really
+[05:21] don't want to be reaching around hi it's
+[05:23] nerdi you don't so we can use that to
+[05:26] put a switch on the front so that we can
+[05:28] flip that switch and it will start the
+[05:30] power supply without that it one starts
+[05:33] it can be really handy to connect those
+[05:34] just to a normal single pole single
+[05:36] throw a switch and it becomes an on
+[05:38] switch where you can put it anywhere you
+[05:40] like so the front is a nice place to put
+[05:43] it if you made a contact switch chance
+[05:45] he would also operate as a safety switch
+[05:47] here we're just gonna power flip switch
+[05:48] on the front and use that as our actual
+[05:50] switch the gray and purple wire actually
+[05:53] a kind of an really interesting don't
+[05:55] need to use them the purple wire is in
+[05:58] fact the standby if you were that to an
+[06:01] LED you need you to drop down resistor
+[06:03] of some light something like 330 ohms
+[06:05] for you while that to an LED when you
+[06:07] turn on the mains power the LED light
+[06:10] will come on when you flip the wire
+[06:12] that's sent them down for the green
+[06:13] sense wire then this gray wire is the
+[06:16] power good so that won't come on so it
+[06:18] can use that as light indicators on the
+[06:20] front and to tell us that we've got a
+[06:23] natural supply to their box and that the
+[06:25] box is actually on always flip the green
+[06:27] wire switch off then that gray wire will
+[06:29] go off so that can be really useful just
+[06:31] as an indicator don't need to use them
+[06:33] but if you've gotten them why not use
+[06:35] them so we've probably wire a couple of
+[06:37] LEDs to that so that we get an
+[06:38] indication of the state of the machine
+[06:40] and that's it really there's often a
+[06:43] white wire or as I say it's missing on
+[06:45] this one so it doesn't matter all we
+[06:47] have to do is clip all of these opens
+[06:49] have cut off the ends cut out the ties
+[06:51] gather them together the ones that you
+[06:53] don't want to you can terminate and just
+[06:55] leave
+[06:55] dangling the ones that you do want then
+[06:58] we're going to put that onto a proper
+[07:00] termination so it can connect to it and
+[07:01] you can either clip those off the ones
+[07:04] that you don't want and the board or
+[07:05] just terminate them and leave them and
+[07:07] that's exactly what we're going to do so
+[07:09] there you go all back together bundled
+[07:11] up snipped off and it makes it much much
+[07:13] easier that's obviously all of your
+[07:15] neutrals a nice black wire
+[07:16] there's your 12 volt size 12 are
+[07:18] positive the yellow this one is gonna be
+[07:20] our on switch on the front and this is a
+[07:22] couple of indicator lights to tell us
+[07:24] the state of play so that's probably the
+[07:27] most difficult bit to do as you can see
+[07:29] all I've done is flip it over and put
+[07:31] this little chip it on I suppose it
+[07:34] looks like a hangman's jib it doesn't it
+[07:36] I was gonna use this stuff six mil rod
+[07:39] and bending its a share but to be honest
+[07:42] I've got quite a lot of this lying
+[07:44] around and I just like the look of it
+[07:45] because you know with the ally sort of
+[07:47] case look this seemed to fit so all I
+[07:49] did was that now I did do something else
+[07:52] because obviously what we do is we just
+[07:54] suspend the heating wire from this point
+[07:55] through a hole in here to the other
+[07:58] connection point that's all you do but I
+[08:00] want a little hook because it's all sort
+[08:03] of metal I don't think it really matters
+[08:06] but it is that I decided at one with
+[08:07] some insulation so I took a power
+[08:10] transistor now that's obviously a
+[08:11] ceramic that would count cope with the
+[08:13] heat and give insulation so I drilled
+[08:16] the hole through there
+[08:17] bent the little feet over to make a hook
+[08:18] what soldered a wire to it and that will
+[08:20] just fasten on there like that and then
+[08:22] my wire will go onto that hook and
+[08:24] straight down to a hole drill the hole
+[08:27] make your the connection wire it up and
+[08:29] we're done okay so here's the underneath
+[08:32] of it and really it is pretty simple
+[08:34] stuff there's the negative there's the
+[08:37] positive as we identify the solder to
+[08:39] wire to them same thing here that's
+[08:41] going to the control board lock with
+[08:43] that in a minute returns back from the
+[08:45] control board and there it is the live
+[08:46] wire going up the gibbet that we put on
+[08:48] and there's the neutral wire connecting
+[08:50] to this bolt this bolt is just stuck
+[08:53] through a piece of wood that's glued
+[08:55] hunts are there and there's the top end
+[08:57] of a bolt there there's a couple of
+[08:58] washers so we just wrap the wire around
+[09:00] those washers and tighten that down
+[09:02] it's better if that's a wing nut but I
+[09:04] don't have one so I'm just using a
+[09:05] normal knot and that's your connections
+[09:07] that's all there is to it so
+[09:09] once we've done that we really can have
+[09:11] a look at the face plate look I'm gonna
+[09:15] you know and put this back on which is
+[09:17] the original cover player that came with
+[09:19] this I could have bit of a li it's the
+[09:21] level fits in where the CD drives used
+[09:23] to go and I put the speed controller
+[09:25] that working uses a temperature
+[09:27] controller
+[09:27] there's the potentia stat and there's
+[09:29] the on/off switch and we're going to put
+[09:31] a couple of LEDs in there those LEDs
+[09:33] will show standby in power now remember
+[09:35] you don't need to do that maybe fold
+[09:38] that over all those connections are just
+[09:40] and that the potentiometer came
+[09:41] connected and the back of the speed
+[09:45] controller tells you power and motor so
+[09:47] the motor goes the heater in fact and
+[09:49] the power comes from the Modifieds how I
+[09:51] supplied that we've just done and here
+[09:54] are those three wires that we looked at
+[09:57] so the green and the black will go to
+[10:00] the switch because that's the one that
+[10:03] turns it on we plug it in give that
+[10:05] switch on and it's starts the ATX power
+[10:08] supply now I've also saved the purple
+[10:10] and the gray because remember there's
+[10:12] power good and standby and one gray one
+[10:16] black one purple one black so one gray
+[10:18] one black goes to one led wrong purple
+[10:21] one black goes to the other and so we
+[10:23] get there standby and a power and good
+[10:25] LED light so we just have to solder
+[10:28] those in with they're somewhere between
+[10:29] 200 and 400 ohm resistor and we're away
+[10:42] you
+[10:51] okay that's it how much do you think it
+[10:54] looked pretty nice so you can see my
+[10:56] little Arminian player2 mounted all this
+[10:58] stuff there and I've hung some cancel a
+[11:00] while now you supposed to have a spring
+[11:01] here and you have a spring because when
+[11:04] the wire gets a bit hot it stretches in
+[11:06] the spring takes up that stretch I
+[11:07] haven't got a spring on kind of spring
+[11:09] sorted out for a letter I just wanted to
+[11:11] give it a go basically and you can see
+[11:14] it's plugged in because the standby
+[11:15] light is on and if we turn that on there
+[11:18] we go the power light is now on I've got
+[11:19] this with 26% and it's busy
+[11:21] you clean that oh good a bit of
+[11:23] polystyrene foam and we can cut through
+[11:25] that foam
+[11:38] oh yeah ha ha ha it's awesome now you
+[11:46] know what kind of ham what wire to put
+[11:49] in incidentally these vehicles IR so we
+[11:52] know what the voltage is 12 volts we
+[11:54] know we need to keep it less than wrap 6
+[11:56] amps or so so we know the resistance is
+[11:59] going to be 2 ohms is gonna be the
+[12:01] maximum and that's what we have to put
+[12:03] it at it's busy burning the polystyrene
+[12:05] off we can twiddle the power up a little
+[12:08] bit on this by turning that percentage
+[12:10] when we turn the percentage it'll get
+[12:12] hotter we turn it down it gets colder
+[12:14] and we can use that extra power or lack
+[12:17] of power to increase or decrease the
+[12:20] temperature of the wire for cutting
+[12:21] other things apart from polystyrene
+[12:22] anyway that's how you turn an old
+[12:25] computer into a hot wire cutter I hope
+[12:27] you enjoyed the video and thank you very
+[12:29] much for watching

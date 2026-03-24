@@ -1,0 +1,464 @@
+[
+  {
+    "id": "UgzXGwcGPd44en8NrR54AaABAg",
+    "author": "@ashercorbett8089",
+    "author_channel_id": "UCA4uuWlAmvdXmE1-yV5JFwg",
+    "text": "Idk how you don’t have more views",
+    "likes": 0,
+    "published_at": "2025-01-06T18:19:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxwfHVVVdfOMRjo-Pl4AaABAg",
+    "author": "@Al-ix3vc",
+    "author_channel_id": "UClUX9RW_yfn945hT0DemgpQ",
+    "text": "Hi Robert , do you still have a shop and if so could you please send the link. I have tried the carbon felt heater/burner , but couldn't get it to burn with vegetable oil . I bought the felt on ebay , perhaps its not the same as what you used so Ill buy some from you and try again! Cheers",
+    "likes": 0,
+    "published_at": "2024-12-07T17:43:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxRZ4ypM-O0PIBTsWJ4AaABAg",
+    "author": "@marsrocket",
+    "author_channel_id": "UCobMP_BtB74LXChBV7KT0rA",
+    "text": "I love these videos but you really need to get yourself a lapel mic.",
+    "likes": 0,
+    "published_at": "2024-12-02T04:44:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzhUQOSRViIaCyiZS14AaABAg",
+    "author": "@christianbottger493",
+    "author_channel_id": "UC9zwIcGT6aFkpJrpdjv-sVw",
+    "text": "A link to suitable motors would have been nice... neither here nor on Thingiverse there is any hint which motors might fit...",
+    "likes": 0,
+    "published_at": "2024-11-24T15:34:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzhUQOSRViIaCyiZS14AaABAg.ABE63pa5gkmABEBiQMbCmA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's because it doesn't matter much - get one at 60rpm and change the hole size",
+        "likes": 0,
+        "published_at": "2024-11-24T16:24:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyE5L-rGTU8t7XnisN4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "I knew you were a Time Lord.",
+    "likes": 0,
+    "published_at": "2024-11-22T18:47:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyiEdo7NrD7sI8Q4V14AaABAg",
+    "author": "@Biggles732",
+    "author_channel_id": "UCnK0c9NEOrMP8OYMz6TbiAA",
+    "text": "So the mains supply is 50 hertz like Australia and the motor rpm is 60 . I know I needn't concern myself with that little detail but it's actually blowing my mind. I'll admit to having just an extra sip of cognac    ,  or was that port?",
+    "likes": 0,
+    "published_at": "2024-11-22T09:29:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyiEdo7NrD7sI8Q4V14AaABAg.AB8Ig0FOW5tAB8JXr7Zkx_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's a DC motor run from a battery - so mains doesn't really effect it",
+        "likes": 1,
+        "published_at": "2024-11-22T09:37:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzI235XbS_hkkqJZGB4AaABAg",
+    "author": "@ivolol",
+    "author_channel_id": "UColDIHZOKHVA-JN7YlrbY2A",
+    "text": "Sooo... what's the cheapest stepper motor you can buy? 🤔 and is it any better than adding a crude optical tachometer to control a dumb motor with say, a mosfet & cheapo arduino board?\n\nI get that 100% 3D printing stuff is pretty cool, but given we're already adding a bunch of electromechanical parts, I would not be in the slightest offended by adding some most-common bearings to things to get it working a bit slicker. Given otherwise it seems like it'd end up being a toy you turn on for 30 seconds to show guests that come around the house and ask what you 3D print.",
+    "likes": 0,
+    "published_at": "2024-11-22T09:23:39Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzI235XbS_hkkqJZGB4AaABAg.AB8I-ShM57AAB8JoNcVHvx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you can solve that problem in a 100 ways mate and they are much of a muchness - your idea sounds good to me - and adding bearings awesome idea - go for it - i only 3D print the whole thing because I am really just demonstrating an idea",
+        "likes": 0,
+        "published_at": "2024-11-22T09:39:29Z"
+      },
+      {
+        "id": "UgzI235XbS_hkkqJZGB4AaABAg.AB8I-ShM57AABHFVAHU-yH",
+        "author": "@ivolol",
+        "author_channel_id": "UColDIHZOKHVA-JN7YlrbY2A",
+        "text": "@ThinkingandTinkering I see you decided to sod buying anything whatsoever (well ok, some extraneous prior parts helped) and just continue with making a whole stepper yourself, well I guess I can't argue with that being entirely in the spirit of this channel 😄",
+        "likes": 0,
+        "published_at": "2024-11-25T20:54:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzwWL3RcpgarWXQOfF4AaABAg",
+    "author": "@barrybretz6073",
+    "author_channel_id": "UCFVpDq3Vd6yalEgQW7ITPCg",
+    "text": "Robert, Electrostat materials in PTFE spinning to create lift is beginning ufo technology. Check it out. Electret,this material hold a secret plasma chanel utube",
+    "likes": 0,
+    "published_at": "2024-11-21T12:10:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugziew-FrGEiYTsVsTh4AaABAg",
+    "author": "@pauldean9671",
+    "author_channel_id": "UCqCUnFZ0htfp91MOsnaUIUQ",
+    "text": "That looks like a lot of fun to make. A practical prototype and as you say, so many ways it could be improved.",
+    "likes": 1,
+    "published_at": "2024-11-21T08:43:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugziew-FrGEiYTsVsTh4AaABAg.AB5deUsTVNdAB5w9_TI0Jv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate",
+        "likes": 1,
+        "published_at": "2024-11-21T11:25:35Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw0JSNHx2xZYUyI52d4AaABAg",
+    "author": "@martinfields373",
+    "author_channel_id": "UCu6FwME05dyJgIabXZvNcbg",
+    "text": "You never disappoint. Thank you for all your inspiring work.",
+    "likes": 5,
+    "published_at": "2024-11-20T23:52:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw0JSNHx2xZYUyI52d4AaABAg.AB4gqCny4TJAB5wAjF1V1Z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thank you!",
+        "likes": 1,
+        "published_at": "2024-11-21T11:25:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwiMnejf1fYuCt17LJ4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "Great job Rob 😎👍",
+    "likes": 1,
+    "published_at": "2024-11-20T23:10:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwiMnejf1fYuCt17LJ4AaABAg.AB4c-NmfHtDAB5wCy9ri7q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-11-21T11:26:03Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0YwnFIT7e7kez-uR4AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "Thank you Robert 👍💪✌",
+    "likes": 2,
+    "published_at": "2024-11-20T22:59:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz0YwnFIT7e7kez-uR4AaABAg.AB4ao5JvZ0cAB5wDtdyQ3z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-11-21T11:26:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzhasqWENygfBNKvtV4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "I really think you should try TV, Be just like David Attenborough.",
+    "likes": 0,
+    "published_at": "2024-11-20T21:07:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzhasqWENygfBNKvtV4AaABAg.AB4P--U14-UAB5wF9b_pJU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i should look into it - cheers",
+        "likes": 0,
+        "published_at": "2024-11-21T11:26:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyTjTCTt583Or5bLyt4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "🙂",
+    "likes": 0,
+    "published_at": "2024-11-20T20:23:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyTjTCTt583Or5bLyt4AaABAg.AB4JtUkAF6pAB5wHc6wJan",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-11-21T11:26:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUAafiExMOHPOnpFt4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Great work great ideas very interesting 👍",
+    "likes": 3,
+    "published_at": "2024-11-20T19:48:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUAafiExMOHPOnpFt4AaABAg.AB4Fwsk68AKAB5wGuAITan",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 2,
+        "published_at": "2024-11-21T11:26:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywecRG6aE7E2ejJz54AaABAg",
+    "author": "@coconutterrence8549",
+    "author_channel_id": "UCuZfEAFqqCV8_DnTl_06rgg",
+    "text": "they should have had that stuff when i was at school but alass , thanks very much mate i really appreciate it . yours sincerely terry👍👍",
+    "likes": 3,
+    "published_at": "2024-11-20T19:17:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgywecRG6aE7E2ejJz54AaABAg.AB4CNzzhDtjAB5wL0xh89s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-11-21T11:27:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzOqH6fkmIdgsj1NYN4AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "you probably can control the timing better with an escapement.",
+    "likes": 2,
+    "published_at": "2024-11-20T19:06:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzOqH6fkmIdgsj1NYN4AaABAg.AB4B4uQHkqPAB5wMPlT87W",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you definately could mate",
+        "likes": 0,
+        "published_at": "2024-11-21T11:27:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9hpEWUe2M3pzaUg94AaABAg",
+    "author": "@amphibiousone7972",
+    "author_channel_id": "UCM49sFpA6h0hfoVGCDKS35w",
+    "text": "You need a regulator",
+    "likes": 2,
+    "published_at": "2024-11-20T18:45:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy9hpEWUe2M3pzaUg94AaABAg.AB48haiLqWpAB5wN_egPzt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep - of some kind",
+        "likes": 0,
+        "published_at": "2024-11-21T11:27:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzipDwACDzcIiQd7fV4AaABAg",
+    "author": "@nathanaelsmith3553",
+    "author_channel_id": "UCb4KgnArbkDwsywHDkG3xMQ",
+    "text": "My grandma had an old electric clock that used the frequency of the mains alternating current as the regulator. I think they were quite common.",
+    "likes": 1,
+    "published_at": "2024-11-20T17:57:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzipDwACDzcIiQd7fV4AaABAg.AB43D6nK1sTAB5wQe_MXma",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's interesting mate - thanks for sharing",
+        "likes": 1,
+        "published_at": "2024-11-21T11:27:55Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxy1NKsPE9izlA81Jx4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "I've always been interested in building a pantograph to scale up CNC cuts or 3D prints. Maybe one day 😅",
+    "likes": 3,
+    "published_at": "2024-11-20T17:18:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxy1NKsPE9izlA81Jx4AaABAg.AB3znp_CEGCAB5wV0-jkB3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "well it's basically a parallelogram mate",
+        "likes": 2,
+        "published_at": "2024-11-21T11:28:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxBjlAYf2xazggXAdN4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Quite a steampunk clock sound ❤",
+    "likes": 3,
+    "published_at": "2024-11-20T17:12:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxBjlAYf2xazggXAdN4AaABAg.AB3z3_2AQo9AB5wYKC2e1Q",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate but i am working on a quieter version",
+        "likes": 2,
+        "published_at": "2024-11-21T11:28:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzQSHet4s2ZdRG3HIV4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "When I grow up, I want to be just like you 🌟",
+    "likes": 5,
+    "published_at": "2024-11-20T17:10:11Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzQSHet4s2ZdRG3HIV4AaABAg.AB3ynaeYhsCAB3zst3xODQ",
+        "author": "@matthewellisor5835",
+        "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+        "text": "I don't want to grow up! \n\"Because God have us curious minds.\"",
+        "likes": 1,
+        "published_at": "2024-11-20T17:19:38Z"
+      },
+      {
+        "id": "UgzQSHet4s2ZdRG3HIV4AaABAg.AB3ynaeYhsCAB5wW_jOMDF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - awesome mate",
+        "likes": 2,
+        "published_at": "2024-11-21T11:28:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOO8fM5Q3GcKXxYWl4AaABAg",
+    "author": "@jamesross1003",
+    "author_channel_id": "UCuQv30LQ29W9_I-dcbfWVlw",
+    "text": "I very much appreciated the video Robert!  I am after all a steam punk/clock escapement mechanism nut so this is up my alley.  I think should I make something like this, I'll just leave the minute hand moving in reverse with a second smaller clock face that is in reverse, just because it would look cool and different or perhaps a clock face that moved while the minute hand stayed in place.  Thanks for the video Robert and keep them coming!",
+    "likes": 6,
+    "published_at": "2024-11-20T16:40:02Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxOO8fM5Q3GcKXxYWl4AaABAg.AB3vLuZbzAIAB3vq277rT6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i like the idea of the clock face moving mate - that's cool",
+        "likes": 5,
+        "published_at": "2024-11-20T16:44:18Z"
+      },
+      {
+        "id": "UgxOO8fM5Q3GcKXxYWl4AaABAg.AB3vLuZbzAIAB3x_uSSP_-",
+        "author": "@lawr5764",
+        "author_channel_id": "UCZCKZZ8COUPFxDuYtoI24Ww",
+        "text": "I have a WATCH like that.",
+        "likes": 2,
+        "published_at": "2024-11-20T16:59:34Z"
+      },
+      {
+        "id": "UgxOO8fM5Q3GcKXxYWl4AaABAg.AB3vLuZbzAIAB3xsoGMf3R",
+        "author": "@jamesross1003",
+        "author_channel_id": "UCuQv30LQ29W9_I-dcbfWVlw",
+        "text": "@lawr5764 Nice!",
+        "likes": 1,
+        "published_at": "2024-11-20T17:02:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwdpTsHICYfj-18F5J4AaABAg",
+    "author": "@davidvwilliamson",
+    "author_channel_id": "UChZalwv3NkNtfU9paagHQ4g",
+    "text": "paper version any decade now.............",
+    "likes": 2,
+    "published_at": "2024-11-20T16:39:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwdpTsHICYfj-18F5J4AaABAg.AB3vFoeP0klAB3vLZgbqKB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i could certainly do a cardboard version!",
+        "likes": 2,
+        "published_at": "2024-11-20T16:40:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxPVk2YNyquQxDFDVx4AaABAg",
+    "author": "@mrdewilliams",
+    "author_channel_id": "UCFY9v0kTy8vPhOkLlmj7HkA",
+    "text": "Wonderful design!  I am looking forward to seeing where you go with this series.  I'm taking notes.",
+    "likes": 5,
+    "published_at": "2024-11-20T16:38:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxPVk2YNyquQxDFDVx4AaABAg.AB3v7YQbBAOAB3vGifxEoa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i should have a video up on controlling the motor on Friday mate",
+        "likes": 5,
+        "published_at": "2024-11-20T16:39:20Z"
+      }
+    ]
+  }
+]

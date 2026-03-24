@@ -1,0 +1,193 @@
+[00:02] [Music]
+[00:17] hi so my neighbor runs a shop called
+[00:20] biotech he reclaims old computers on
+[00:23] electronics that sort of stuff but he
+[00:26] and his wife are just awesome they know
+[00:29] of my interest in stuff and every now
+[00:31] and then they'll come up with something
+[00:33] and say hey Rob do you want this as you
+[00:35] remember they were really helpful with
+[00:37] the battery cases they also gave me some
+[00:40] old USPS and power supplies and I pulled
+[00:44] out I don't know about eight current
+[00:46] sensors from those most current sensors
+[00:49] of 40 quid each they're sitting in a
+[00:51] drawer waiting for me to use them for
+[00:52] something but awesome bits of gear that
+[00:55] these guys just bring over now and they
+[00:57] brought this over today it's a plasma
+[01:00] display NEC and our plasma displays were
+[01:04] really quite popular for a while and
+[01:06] what they did was create a guest cell
+[01:08] between two layers of glass the player
+[01:11] had a voltage the excitation and they
+[01:13] would give off light and they would do
+[01:15] this in little pixels so you've got a
+[01:17] picture from it so invariably
+[01:19] they're unbelievably heavy that this way
+[01:21] is something like 75 kilos which is why
+[01:25] it's not moving you'd help me put it on
+[01:26] the bench and we're going to pull it
+[01:28] apart now I don't know really what's in
+[01:30] here but I'm expecting some great things
+[01:33] because this engine is gonna be two
+[01:34] sheets of glass and massive aluminium
+[01:36] frame a high voltage power supply some
+[01:38] control electronics that sort of thing
+[01:40] and certainly they are a couple of bar
+[01:44] speakers so I'll be pulling those apart
+[01:46] and we'll see what we've got in there
+[01:48] well we'll start with this they're
+[01:50] pulling things to pieces actually really
+[01:52] isn't that even that difficult you
+[01:54] basically undo every screw you can see
+[01:56] then you see a really helpful because
+[01:58] they al Gough try every screw st. undo
+[02:02] here they don't necessarily do here
+[02:04] there's just an arrow okay thirty really
+[02:06] really is it easy to undo this stuff
+[02:08] they just undo every screw that you see
+[02:10] you can give it a tug if it's a bit
+[02:12] stiff you've problem mister screws I
+[02:14] have a good look around until you see
+[02:15] that screw now I've obviously I've been
+[02:18] starting with this and I've taken the
+[02:20] back off actually so we just lift that
+[02:24] off
+[02:33] we got immerse the internals of it and
+[02:37] it's as I say here we've got a control
+[02:40] board with power for one half of the
+[02:42] screen there's a replication here in the
+[02:44] other half it looks like a power
+[02:46] conversion board right there's but some
+[02:48] great heat sinks on it there's some igb
+[02:51] T's there as you know we've gotten
+[02:53] several power projects to do so if they
+[02:55] are RGB T's they'll be immensely useful
+[02:57] so we'll be checking those out because
+[02:59] we made our the soldering table so we
+[03:03] can actually de-solder this stuff which
+[03:05] is kind of cool here is where they
+[03:07] control that chronics is all Yong's on
+[03:10] this one so I can show you that and
+[03:12] that's just the control takes a signal
+[03:14] and divides that thing off then we've
+[03:18] got a couple of really nice fans for
+[03:20] sure and their own little frameworks
+[03:23] there's a couple of nice fans there and
+[03:29] then they've taken these retaining
+[03:30] brackets off as well
+[03:31] they're just support brackets and
+[03:33] capacitor back to and the couple handles
+[03:35] have come with it and we're starting to
+[03:37] get to the bare bones of the actual
+[03:39] device here it's still really heavy
+[03:42] there's a big chunk of something here
+[03:44] that I'm hoping is a big sheet of
+[03:45] aluminium incidentally and then that's
+[03:47] protecting the glass we got it welded
+[03:50] onto here these have been fastened down
+[03:53] it's a big couple of big chunky bits
+[03:55] here all across here is a heat sink with
+[04:00] some electronics underneath it been
+[04:03] controlled by this so this obviously is
+[04:05] the signal board that breaks it up and
+[04:07] you can see the lines here going to your
+[04:10] XY position so what I'm going to do
+[04:12] really is just undo all of those bits
+[04:15] and like I said not plan on videoing me
+[04:17] on doing all of those bits because
+[04:18] basically I can see a screw I don't do
+[04:21] it and that's all you actually have to
+[04:23] do with this just have a look around
+[04:24] unscrew the screws give it a lift it
+[04:28] doesn't come off you've missed a screw
+[04:29] search for unscrew it well below come
+[04:31] off these here cable connectors they
+[04:34] usually just depress you give them a
+[04:36] press and then they'll come straight out
+[04:38] there
+[04:41] so they're really easy to come out so
+[04:43] I'm gonna take this to bits and then lay
+[04:46] out the bits that are of interest okay
+[04:48] as we're partway through this I thought
+[04:49] I'd just give you a better view of what
+[04:51] the actual boards look like so there's
+[04:53] the power here we've got the supply and
+[04:57] part of the control for the display as
+[05:00] the display lines there's another set of
+[05:02] the lines there and and the input signal
+[05:07] stuff their signal decoder is over there
+[05:09] I'm not really interested in that so
+[05:11] much because they tend to be specific
+[05:13] integrated circuits made for this
+[05:15] application so not a lot I can do with
+[05:17] them it's still pretty heavy so I'm not
+[05:20] going to lift it up for you to have a
+[05:21] look at but you can pretty much see what
+[05:24] there is there anyway let's carry on
+[05:25] this is a display screen it's two layers
+[05:28] of glass that have been printed with
+[05:30] lines at 90 degrees and then epoxy
+[05:33] sealed around the edges and basically
+[05:34] glued on to this backing sheet of
+[05:36] aluminium then those two layers form a
+[05:38] cell you pass a high voltage down there
+[05:40] and that and that cell will glow so
+[05:42] that's the basis of the plasma device
+[05:45] pretty cool piece of kit really suddenly
+[05:48] struck me because I was removing the
+[05:49] menu I mean there's no chance I'm gonna
+[05:51] be able to recover I'll do anything with
+[05:53] that screen and the glass is actually
+[05:55] pretty pretty brittle
+[05:58] there was another layer of glass that
+[06:00] had a protective screen on it plastic
+[06:02] laminate this one is really quite
+[06:03] brittle but when you take it off you can
+[06:05] see it's got this white coating on the
+[06:07] back of it that's obviously a reflective
+[06:09] coating and you can see the grid pattern
+[06:12] of wrist little cells but all I'm gonna
+[06:14] do is remove that glass and try to get
+[06:17] the aluminium because this same sheet
+[06:19] will I can do really useful so then it
+[06:21] just peels off apart from this section
+[06:23] here get out tap it just falls off so
+[06:27] there we go I personally found that
+[06:28] fascinating and the reclamation is
+[06:30] really awesome as well we've got this
+[06:32] really nice piece of steak aluminium
+[06:34] sheet here still had a clean a bit of
+[06:36] the rubber tape off I thought that glass
+[06:38] would be sealed across the surface turns
+[06:40] out is three bits of rubber tape
+[06:42] who didn't own anyway we've got a nice
+[06:44] piece of aluminium then there's some
+[06:45] really cool electronics here
+[06:47] particularly the
+[06:49] power transistors or igbts don't know
+[06:51] which gonna check them out remove them
+[06:53] from the board using your solder pot
+[06:55] aluminium here this one's a weird one I
+[06:58] thought it would sound a minim at first
+[06:59] but not a ring that might actually be
+[07:05] cast sync kind of interesting so we'll
+[07:07] have to see what the values I've got a
+[07:09] bunch of magnets here actually they're
+[07:11] obviously the speakers but there's a
+[07:12] whole lot of magnets in there each one
+[07:15] of these larger speakers he's got one
+[07:16] magnet these are the ones here we've got
+[07:19] two so we've got four speakers some nice
+[07:21] inductors actually that's a three ohm 10
+[07:24] milli Henry inductor so lovely actually
+[07:27] you can see it's got a laminated core so
+[07:30] kind of cool bunch of stuff that would
+[07:33] otherwise just to come to the bin then
+[07:35] obviously there's an awful lot of
+[07:36] projects it can be done with that anyway
+[07:38] I thought I'd share it with you cuz I
+[07:40] was going to do it anywhere and I
+[07:42] thought it would be of interest thank
+[07:44] you very much for watching

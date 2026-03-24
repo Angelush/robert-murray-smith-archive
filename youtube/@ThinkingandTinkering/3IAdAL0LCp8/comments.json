@@ -1,0 +1,573 @@
+[
+  {
+    "id": "Ugz3d_g_Nb-PzS5VrWt4AaABAg",
+    "author": "@thesentientneuron6550",
+    "author_channel_id": "UC2C-aPUdVhvNnB2bpopgqvQ",
+    "text": "Hey Rob! To solve the problem of the amount of normal force that can be supplied by the springs, could you try using a pair of fine thread bolts (or threaded rod) with locknuts; on each side of the axle so that you could manually tighten them down to the right torque while keeping the force on each side on center. This would make it something in-between a set-screw and a mechanical press.",
+    "likes": 0,
+    "published_at": "2025-07-29T22:09:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxce9dpa-pAuD3xFCV4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "You are a true Renaissance Man. And Jack of all trades.",
+    "likes": 0,
+    "published_at": "2025-07-23T17:02:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxeDUZASERgGESHOl54AaABAg",
+    "author": "@calchemist21",
+    "author_channel_id": "UC0FCZ5JjPrwth_bAJvfssmw",
+    "text": "Note related to this vid but your video of using. Sand battery had me thinking what if you heated the sand with a large Fresnel lense ,/ parabolic mirror to create the heat differential",
+    "likes": 0,
+    "published_at": "2025-07-23T00:25:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyNSegn3D-rqGQR-uF4AaABAg",
+    "author": "@gidi1899",
+    "author_channel_id": "UCBKkgcJYSzgoCZPcdYy9KGA",
+    "text": "Hi, I feel your process (printing machine design) has taken you close enough to start messing with Math, so will you make a machine that allows A,B,D,C,D.\n\n\nA.  Suppose you can use your machine to:\n(((1+2))). Draw (start, continue, stop) a straight line from any point to any point continuesly (within some plane of movement).\n(((3))). Draw very short lines (points/x's)\nGiven a straight line between two points, \n Draw enough straight lines all starting from the same point,\n  which is one of the given line points,\n  and all have the same length of the given line,\n  enough so notice a circle.\n\nB. Suppose you can build a machien to test over muliples uses the accuracy in producing:\n1. straightness\n2. point size\n3. point to point distance\n4. minimal consistently produced angle between lines with a shared point\n\n(assuming you use the machine to draw circles around to points of a line to get \na drawing of 4 right angles, or does this assumption say something about the machine ?!)\n\nC. Suppose the test machine reports to \"your\" satisfactory: \n(((4))). Right Angle production is accurare engouh.\n\nD. Then, What is needed from your machine such that:\n======\n[The parallel postulate]: That, \nif a straight line falling on two straight lines makes the interior angles on one of it's sides   \n    (A) less than two right angles,\nthen, the two straight lines,\n          if produced indefinitely,   (maybe add the functionality of shifting the image)\n meet on side A.\n=======\n\nButtom line = Suppose we did Math using your machine, \n      Can we say something on how machine accuricy relates to\n      Mathematical calculation accuricy, like how toruqe tollerence \n      might allow only certain calculating speeds without loosing line straightness,\n\nin other words:\n\nButtom line = The list of participanted dimentions and materials and balance enquations of the machine in REAL life, VS A List of Mathematical Abilities.",
+    "likes": 0,
+    "published_at": "2025-07-22T11:27:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzabpwwRn3khTRK7OJ4AaABAg",
+    "author": "@davidpower3102",
+    "author_channel_id": "UCNtSMPOpSIq2mTt8-UYcXNg",
+    "text": "Sitting around the kitchen table, having a chat about something really interesting. I don't understand everything but I find your explanations to be intuitive and it helps me grasp a lot more. \n\nThank you. This is great stuff.",
+    "likes": 0,
+    "published_at": "2025-07-22T10:50:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzabpwwRn3khTRK7OJ4AaABAg.AKs_KsGNtoYAKtk0H6hFhz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and thank you for taking the time to say that",
+        "likes": 1,
+        "published_at": "2025-07-22T21:43:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxj6xs-rZHCeTXMwfR4AaABAg",
+    "author": "@dekutree64",
+    "author_channel_id": "UCwNkKd1BIlZa4h7hOgfrcdQ",
+    "text": "Looking forward to seeing the repeatability! My gut feeling is that you'll need closed-loop control to make it work well. Friction drive is great for true zero backlash, but the linear distance per degree of rotation is not guaranteed. It can vary throughout the revolution if the wheel axis isn't precisely on center, and over time as the wheels wear down, and throughout a print as the machine warms up and thermal expansion changes your wheel size.",
+    "likes": 0,
+    "published_at": "2025-07-22T07:27:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxj6xs-rZHCeTXMwfR4AaABAg.AKsD6UryrtJAKtjy94fUUQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "all good points mate - do you have any proposed solutions?",
+        "likes": 0,
+        "published_at": "2025-07-22T21:42:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzedGZh_lNm6-q8_qh4AaABAg",
+    "author": "@JD2jr.",
+    "author_channel_id": "UCwP9VMVdUlPfx9t3mib3lfg",
+    "text": "A friction drive is just a near-infinitely toothed gear.",
+    "likes": 0,
+    "published_at": "2025-07-22T06:45:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzedGZh_lNm6-q8_qh4AaABAg.AKs8J81EBquAKtjtzjCdWg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice way of looking at it mate - cheers",
+        "likes": 0,
+        "published_at": "2025-07-22T21:42:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyP6hZlQhwl-cxZwJJ4AaABAg",
+    "author": "@Gomorragh",
+    "author_channel_id": "UC3UjfzIQWQW5rrYtNR5ZwYQ",
+    "text": "sat here noticing the water fountain in the background, would have thought you would have taken one of your many different wind turbines and used it to power it, and then used it as an example of many uses for generated energy (wont use the term free energy because that causes misconceptions)",
+    "likes": 0,
+    "published_at": "2025-07-22T00:37:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyP6hZlQhwl-cxZwJJ4AaABAg.AKrU7ONifhDAKtk8Ln3Ccj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good idea mate- I do tend to go for principles but you are right an example or two would be a good idea - cheers",
+        "likes": 0,
+        "published_at": "2025-07-22T21:44:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAEItmtRn6So0iCfl4AaABAg",
+    "author": "@RPRosen-ki2fk",
+    "author_channel_id": "UC4kMN1AINMTlUxBKIMaUDiQ",
+    "text": "Would v-belts be considered friction drive?",
+    "likes": 0,
+    "published_at": "2025-07-22T00:23:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAEItmtRn6So0iCfl4AaABAg.AKrSVgcuoGtAKtjsXoboLY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think they would mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:42:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzeulkd5evw3ZYXuZp4AaABAg",
+    "author": "@timmyssweet",
+    "author_channel_id": "UC0IgwZXy25jC-nr5KMijyVw",
+    "text": "Friction drives sound much better than gears.  There is less to wear out.  Nice find, but what to do with it.  I know windmills have a huge cost to build and maintain their gearboxes.",
+    "likes": 0,
+    "published_at": "2025-07-21T22:47:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzeulkd5evw3ZYXuZp4AaABAg.AKrHbu5xrOAAKtjrU9N_Pi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i am going to do a couple of variations on friction drives mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:41:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwuvBib1V3coE2kOwZ4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "🙂",
+    "likes": 0,
+    "published_at": "2025-07-21T22:21:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwuvBib1V3coE2kOwZ4AaABAg.AKrEYCAeaFXAKtjmr_hAYo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:41:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDvpWiZM_4jDwV5mB4AaABAg",
+    "author": "@Forensic1Man",
+    "author_channel_id": "UC2qlDLL4FBEnsRr5kwciD6w",
+    "text": "Robert, great video—nicely organized. Just to add to the conversation, I once came across a fascinating variable transmission concept powering a small, three-wheeled cart. It used a friction-drive mechanism involving a spinning cone connected to a motor’s driveshaft, and a movable disk that slid along the cone’s rubber-coated surface. The spinning disk’s axle connected directly to a single cart wheel, enabling focused power transfer  The position of the disk was manually controlled and it determined performance: when near the narrow end of the cone, the system favored speed; when closer to the wider end of the cone, it emphasized torque. The disk maintained constant contact through spring tension, ensuring consistent engagement as it slid up and down. This clever setup allowed the cart to accelerate smoothly from a standstill, adapting torque and speed with simple manual adjustments.   A 3D-printed cone with a rubber coating could easily bring your concepts to life—combining many of your ideas in a single, functional example.  What do you think?  Call it the Cone-Friction-Torque Drive",
+    "likes": 1,
+    "published_at": "2025-07-21T21:43:00Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwDvpWiZM_4jDwV5mB4AaABAg.AKrABW6nt9qAKtjlslgk_Z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "It's a good idea mate thanks for sharing it",
+        "likes": 0,
+        "published_at": "2025-07-22T21:41:10Z"
+      },
+      {
+        "id": "UgwDvpWiZM_4jDwV5mB4AaABAg.AKrABW6nt9qAKtwXkT3EL2",
+        "author": "@Speed001",
+        "author_channel_id": "UCazyqpZc1oRSeYY5dmFi2uw",
+        "text": "I'm assuming that works like shifting gears, a larger mechanical advantage at the large end, like a higher gear.\n\nGreat application and expansion of the video's idea.",
+        "likes": 0,
+        "published_at": "2025-07-22T23:32:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_t2_tVM4OGI6HE4l4AaABAg",
+    "author": "@Speed001",
+    "author_channel_id": "UCazyqpZc1oRSeYY5dmFi2uw",
+    "text": "I'm glad I found and subscribed to you recently.\nMechanics and life advice in one video.",
+    "likes": 0,
+    "published_at": "2025-07-21T18:20:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_t2_tVM4OGI6HE4l4AaABAg.AKqo03x0yYeAKtjf5qGbHq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:40:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyy42sS29veA23AP-N4AaABAg",
+    "author": "@chrisgill5692",
+    "author_channel_id": "UCKCBUPMjG4jbYtsysUZAWVg",
+    "text": "I stopped at 5:25.... one thing with friction is it's related to psi pressure on the contact area and the material coefficient of friction of course .  The smaller the contact area, the higher the psi, so less force required to maintain the friction drive - that reduced required force helps reduce size of supporting mechanisms.",
+    "likes": 0,
+    "published_at": "2025-07-21T18:13:49Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyy42sS29veA23AP-N4AaABAg.AKqnFPXAcKrAKtjdfCyN3x",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't know mate - but you might be missing something here - If the force is constant and you reduce the area it is applied then the pressure will increase - a bit like stiletto heels - but If you reduce the force then the pressure applied to a constant area will also reduce - or is that not true? If it is true than you have made a bit of a circular argument - or at least that's how it seems to me.",
+        "likes": 0,
+        "published_at": "2025-07-22T21:40:03Z"
+      },
+      {
+        "id": "Ugyy42sS29veA23AP-N4AaABAg.AKqnFPXAcKrAKvrlVqcHrm",
+        "author": "@chrisgill5692",
+        "author_channel_id": "UCKCBUPMjG4jbYtsysUZAWVg",
+        "text": "​@ThinkingandTinkering have a read up on \"Tribology\" and specifically the affects of small contact areas on friction imparted and drag - I think will be super relevant for the efficiency of your friction drives!!",
+        "likes": 0,
+        "published_at": "2025-07-23T17:29:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw4nCjjcqy95fwOGZp4AaABAg",
+    "author": "@TheZitherish",
+    "author_channel_id": "UC_4DJ97dzLFNCdO72Kpcd9A",
+    "text": "You are developing some sort of hyper-Lego.",
+    "likes": 0,
+    "published_at": "2025-07-21T17:59:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw4nCjjcqy95fwOGZp4AaABAg.AKqlczjusa_AKtj0VMrpMj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "in a sense i guess so lol",
+        "likes": 0,
+        "published_at": "2025-07-22T21:34:33Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugylxt1o4UfE2w20VLp4AaABAg",
+    "author": "@TRIEDZIIDONO",
+    "author_channel_id": "UCKGvsyvtJA6ueRblQ4-hV0w",
+    "text": "0:52 no Idea what you are talking about.",
+    "likes": 0,
+    "published_at": "2025-07-21T17:59:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugylxt1o4UfE2w20VLp4AaABAg.AKqlalvj3YqAKtizi5cJGD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - oh dear!",
+        "likes": 0,
+        "published_at": "2025-07-22T21:34:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLAVXNTY0l_beztPF4AaABAg",
+    "author": "@Benehrethgir",
+    "author_channel_id": "UCk3l_MAOx_d-JeDLPwNvMQA",
+    "text": "Robert \"da Vinci\" Murray-Smith",
+    "likes": 0,
+    "published_at": "2025-07-21T17:54:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzLAVXNTY0l_beztPF4AaABAg.AKql16VXTgBAKtiraphflg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol- cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:33:12Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy2KzolIt-g6eXMmjZ4AaABAg",
+    "author": "@st0rmerc00l8",
+    "author_channel_id": "UC2JjwJyyhDwlLL52eGiHgzg",
+    "text": "I've thought about friction based mechanisms before and I wonder if using centrifugal force to increase the normal force -> thus increase friction/grip available -> and thus preventing slipping would be meaningful for CVTs or something that is negligible.",
+    "likes": 0,
+    "published_at": "2025-07-21T17:46:11Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugy2KzolIt-g6eXMmjZ4AaABAg.AKqk4uYGgrpAKrD9_uFULq",
+        "author": "@ravenmad9225",
+        "author_channel_id": "UCqv19oHKPcIwqnY0agOKZqg",
+        "text": "That sounds like a centrifugal clutch.",
+        "likes": 0,
+        "published_at": "2025-07-21T22:08:58Z"
+      },
+      {
+        "id": "Ugy2KzolIt-g6eXMmjZ4AaABAg.AKqk4uYGgrpAKtFsZIfKMM",
+        "author": "@st0rmerc00l8",
+        "author_channel_id": "UC2JjwJyyhDwlLL52eGiHgzg",
+        "text": "@ravenmad9225 not exactly... while the principle is the same, this would be for the purpose of CVTs in cars, which require lots of friction to avoid slipping, and the traditional design of using a belt CVT loses grip at high rpm due to centrifugal forces pulling the belt away from the drum - this is not a problem because it is solved by tensioners, but centrifugal forces could be a benefit to a CVT's design at high RPM if it instead passively enhances grip. (and especially at high rpms when a Turbo kicks in.)\n\n(p.s I have edited my original comment to reflect that it was meant to be about CVTs :D )",
+        "likes": 0,
+        "published_at": "2025-07-22T17:11:12Z"
+      },
+      {
+        "id": "Ugy2KzolIt-g6eXMmjZ4AaABAg.AKqk4uYGgrpAKtiqFdxoQD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hmmm - that is clever thinking mate - never occurred to me - well until now lol - thanks for sharing - a really good insight i think",
+        "likes": 0,
+        "published_at": "2025-07-22T21:33:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxDzFTkOkz9Yd5So2R4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Hmm... hehe ok, you love your work, but I would say a Professional has a high knowledge base and gets \"paid\" to do what they do... For the most part, I would say you qualify as a pro. I don't know too many people that have your breadth of knowledge either. You can love the work too!",
+    "likes": 0,
+    "published_at": "2025-07-21T17:44:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxDzFTkOkz9Yd5So2R4AaABAg.AKqjuueds16AKtigELnR29",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - you are quite right mate - i do love what i do lol",
+        "likes": 0,
+        "published_at": "2025-07-22T21:31:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzTT4FOigi4e4ZbFot4AaABAg",
+    "author": "@DavidLong-i9k",
+    "author_channel_id": "UCsrtBm6tVIc8snPWJTC6m-A",
+    "text": "Dude,You're absolutely the coolest.",
+    "likes": 0,
+    "published_at": "2025-07-21T17:04:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzTT4FOigi4e4ZbFot4AaABAg.AKqfLP-EwtmAKticQztYzz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thanks!",
+        "likes": 0,
+        "published_at": "2025-07-22T21:31:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxWXFghfUc9VmgQ_t54AaABAg",
+    "author": "@3dhavok",
+    "author_channel_id": "UCrO6jNXDz8ci8WFPTMiU6xw",
+    "text": "Some of us have a larger “force component” than others on their bike seat 😂",
+    "likes": 3,
+    "published_at": "2025-07-21T17:00:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxWXFghfUc9VmgQ_t54AaABAg.AKqeu-v_JySAKtic8d6Tvz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lolol - oh very good lol",
+        "likes": 0,
+        "published_at": "2025-07-22T21:31:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyWdnXoit9LQPSTMiN4AaABAg",
+    "author": "@rksg2003",
+    "author_channel_id": "UClhuGleRUhGAOMNJ75kp1Qg",
+    "text": "I Love your channel Robert!",
+    "likes": 0,
+    "published_at": "2025-07-21T16:38:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyWdnXoit9LQPSTMiN4AaABAg.AKqcISb6mnUAKtiaz03Vy6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:30:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUdiATUfE9lpcwLAB4AaABAg",
+    "author": "@dSquared0162",
+    "author_channel_id": "UCqMYzfz_2v3MULwOHWpz7oA",
+    "text": "Very nice Sir. I do wonder about the lifespan of a friction drive using pla, as you mentioned, and again, I'm wondering if a magnet drive system would have more longevity...?  And your next point is correct, I should indeed give it a go...😅   👍👏",
+    "likes": 0,
+    "published_at": "2025-07-21T16:34:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwUdiATUfE9lpcwLAB4AaABAg.AKqbs-Ua-M2AKtia1DR3_T",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - you know me well mate - lol - that is exactly what I would say. PLA is never going to be good for longevity but it does offer a cheap, fast and simple way of getting your idea into a real world so you can preactically model what you are thinking",
+        "likes": 1,
+        "published_at": "2025-07-22T21:30:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-ribUNlDbEn0XXkJ4AaABAg",
+    "author": "@nicholasgoodyear7552",
+    "author_channel_id": "UCzKiUdz8gdPuDpzIW8bXYCQ",
+    "text": "Hi Robert. I have been following your gearbox series with great interest. i build my own telescope mounts and my latest has a 3 stage friction drive using  disks and shafts. It has a final reduction of over 4000 to 1. It is driven by a nema 14 steppers and controlled by a stm 32 board. With the software i use (PHD 2) it has a tracking accuracy down to .5 seconds of arch for hours on end. My gearbox disks have flat faces bearing on plain straight shafts after seeing this latest video i may have to try this grove idea out. thank you for all the inspiration over the last months.",
+    "likes": 1,
+    "published_at": "2025-07-21T16:12:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw-ribUNlDbEn0XXkJ4AaABAg.AKq_PBwMfLxAKtiHLVBDt5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh wow - thank you mate and impressive stuff you have done there - cheers",
+        "likes": 0,
+        "published_at": "2025-07-22T21:28:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxxdFpUioY-STPKOKZ4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "excellent work!",
+    "likes": 2,
+    "published_at": "2025-07-21T16:11:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxxdFpUioY-STPKOKZ4AaABAg.AKq_H93w7DCAKtiBiH47pF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2025-07-22T21:27:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgySE5Z8rOsvdCjzACh4AaABAg",
+    "author": "@jimmyjohnson7241",
+    "author_channel_id": "UCMk-QvcbhwpCIz1oUW2Pw4Q",
+    "text": "It is always a pleasure to see your latest mechanical designs and concepts. In acknowledgement  of your last video I will make a couple of comments primarily to  stimulate comments from the viewers , since I am certain that you already are aware of the issue:\nFriction drives can indeed eliminate backlash, one of the enemies of a precision drive.  What they have a difficulty with is creep, or cumulative error in traversing a path and returning to the original starting point given a fixed input.  With the prototype system you have as a start the  largest error source is likely to be from the inexact effective diameters of two conical surfaces rolling on each other.  Differential pressure from the drive torque  when traversing a closed path containing  two different start/stop sequences is very likely to result in a cumulative timing creep.   The issue although reduced with flat faced rolling contact surfaces remains.  When drive surface wear and temperature variations are included the problem becomes potentially  terminal.\nOne simple solution that comes readily to mind is the inclusion of a periodic corrector mechanism  to correct for the accumulated error.  Either a home position like solution, or a periodic tooth or hole line up between the friction surfaces.    \n\nThe  standard alternative, which is \"motion based upon measured position\" rather than \"drive input\"  is near ideal in its ability to remove this problem.  It is unfortunately far from simple or cheap to implement using current methods.  It is the system used in virtually all NC machining.  This solution will also correct for  gear backlash , drive train stress variation, and many other error sources.   With the very low cost of computer logic these predictor-corrector systems are currently the preferred choice.   \n\nI strongly suspect that the solution to these  high cost complex predictor-corrector systems  being implemented in a high precision mechanical system is likely in developing a simple easily implemented position determining corrector component rather than a perfect  input-output mechanical system.\n\nKeep up the excellent work!",
+    "likes": 4,
+    "published_at": "2025-07-21T16:05:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgySE5Z8rOsvdCjzACh4AaABAg.AKqZYbuDgS4AKtiAb2G4Gn",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I loved your post mate - you are quite right in what you say and it wasn't only the issue you pointed out but the possible solutions - or approaches to the issue - I have a concept myself i would like to discuss soon - but your way of introducing the idea and the approaches I thought was brilliant - thank you for taking the time - cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-22T21:27:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqpivoTssafoSlf5Z4AaABAg",
+    "author": "@paulkeenanmusic",
+    "author_channel_id": "UCXmXq6OaOU_7raaix4CDglg",
+    "text": "Thanks mate! Always remember.. theres nothing wrong with pulling into the services once in a while on the highway of life. If you catch my drift.",
+    "likes": 0,
+    "published_at": "2025-07-21T15:41:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyqpivoTssafoSlf5Z4AaABAg.AKqWloNTfpYAKtiKU65w12",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I do catch your drift mate and thank you for taking the time to say that",
+        "likes": 0,
+        "published_at": "2025-07-22T21:28:33Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy8SMUQoGO-CSBnjEZ4AaABAg",
+    "author": "@partypete2542",
+    "author_channel_id": "UCCsNzsVyBOdqFhhGlQ89jyw",
+    "text": "We had a challenge in college, it was to make a model car with some restrictions, two being: no gears or belts allowed and DC motor can't be attached directly to the wheels. I used a friction a drive with some wood and elastic bands glued around it and the judges were very not happy because I made a clear case that it was indeed not gears, nor was it a belt/chain nor did I connect the DC motor directly to the wheels. Everyone else had used magnets.",
+    "likes": 13,
+    "published_at": "2025-07-21T15:31:09Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugy8SMUQoGO-CSBnjEZ4AaABAg.AKqVd-5ohN4AKqk_OxR1fl",
+        "author": "@st0rmerc00l8",
+        "author_channel_id": "UC2JjwJyyhDwlLL52eGiHgzg",
+        "text": "Out of the box solutions like that are brilliant! It reminds me of a bridge building challenge I did at school where the teacher gave some restrictions on the materials allowed (wood sticks, pva, carboard, hot glue) and mentioned how the past winning teams used PVA glue instead of hot glue. My team used lots of hot glue, but what we did is we used cardboard triangles at the corners and unlike other teams put them on both the inside and outside to double up each joint. Our bridge survived so much weight that the teacher couldn't stack anymore on!",
+        "likes": 2,
+        "published_at": "2025-07-21T17:50:29Z"
+      },
+      {
+        "id": "Ugy8SMUQoGO-CSBnjEZ4AaABAg.AKqVd-5ohN4AKrDb5moMbr",
+        "author": "@NadavElmakias",
+        "author_channel_id": "UCLhdJG9PwDc-4VEnhJdwy5Q",
+        "text": "@partypete2542 i am wondering if a separate propeller connected to the dc motor with passive wheels would have worked",
+        "likes": 1,
+        "published_at": "2025-07-21T22:12:51Z"
+      },
+      {
+        "id": "Ugy8SMUQoGO-CSBnjEZ4AaABAg.AKqVd-5ohN4AKsPv0P0iIR",
+        "author": "@partypete2542",
+        "author_channel_id": "UCCsNzsVyBOdqFhhGlQ89jyw",
+        "text": "@NadavElmakias Only issue with that solution is that there was a H x W x L limit which was quite limiting, so I don't think a big enough diameter propeller would have been viable but I never did the math for it so it could definitely be an option. Most people just opted for a magnet gearing with high strength magnets and a thin sheet of low friction polymer in between.",
+        "likes": 0,
+        "published_at": "2025-07-22T09:19:40Z"
+      },
+      {
+        "id": "Ugy8SMUQoGO-CSBnjEZ4AaABAg.AKqVd-5ohN4AKtiNeYCZNa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "That is the kind of out of the box thinking i really admire mate - awesome solution!",
+        "likes": 2,
+        "published_at": "2025-07-22T21:28:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzFPX1VJAlDen5Qzdt4AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "Thanks Robert. As soon as you mentioned friction drives, I was questioning what you mean. But it's as clear as day now, so thanks for that.\nRegards from Switzerland, take care now 👍💪✌",
+    "likes": 1,
+    "published_at": "2025-07-21T15:23:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzFPX1VJAlDen5Qzdt4AaABAg.AKqUmlzKWcXAKtiQ_3nzQX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and I am glad you liked it",
+        "likes": 1,
+        "published_at": "2025-07-22T21:29:23Z"
+      }
+    ]
+  }
+]

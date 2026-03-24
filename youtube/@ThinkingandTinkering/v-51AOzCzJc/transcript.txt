@@ -1,0 +1,125 @@
+[00:00] [Music]
+[00:08] So, we have the Any Cubic Cobra S1,
+[00:12] which is a multiunctional machine. It's
+[00:14] pretty cool, actually, and we've been
+[00:16] through it on a previous video, but on
+[00:18] this video, what I want to do is print
+[00:21] something with it. Now, when you're
+[00:22] printing with a new one, obviously you
+[00:25] could really concentrate on things like
+[00:26] the benchie, so everybody has a
+[00:28] benchmark and can compare them. I find
+[00:30] that just so dull. So, what I'm actually
+[00:33] going to do is pick up what we were
+[00:34] doing with this thing. This thing is
+[00:37] where we used magnets to fire a
+[00:39] catapult, which is kind of cute, and it
+[00:41] does exemplify the idea that magnets can
+[00:45] be thought of as springs. But, of
+[00:47] course, we have two sides to a magnet.
+[00:49] We have the repulsive side which is what
+[00:51] this uses and we have the attractive
+[00:53] side. Now a few years ago there was a
+[00:56] very popular free energy thing which was
+[00:58] going around called the Vgate. The Vgate
+[01:01] can either use repulsion or attraction
+[01:04] to make something spin. Of course it's
+[01:06] going to spin one turn and then you kind
+[01:09] of have to reset it. So, what I thought
+[01:11] I would do with the NE cubic is print
+[01:14] out a Vgate and we'll see if we can get
+[01:18] it to spin. Then we're going to do
+[01:20] something else with it. But let's get on
+[01:22] with making that VGA wheel. And to make
+[01:25] the Vgate wheel, of course, I turned to
+[01:27] Tinkercad and drew up this. Now, all we
+[01:30] need to do is export that as an STL,
+[01:33] import it into the any cubic slicer, and
+[01:37] get ourselves a print. Okay, so I've
+[01:40] opened the Any Cubic Slicer and to
+[01:42] import the file you go to file, import,
+[01:47] find the file and open and it will load
+[01:50] it. Now we need to slice it. Set
+[01:52] whatever settings you want to set. Here
+[01:54] you can see I've got the point4 nozzle.
+[01:56] It's PLA and it's on number one because
+[01:59] here you can add the filaments one, two,
+[02:01] three, four, and change the colors.
+[02:03] We're just going to print it in white.
+[02:04] So there's one filament available. And
+[02:06] now we can slice the plate and it will
+[02:08] tell us how long it's going to take and
+[02:10] how long it's going to be printing. If
+[02:13] you want to, you can then save this
+[02:16] export this G-code file to a USB stick
+[02:18] and carry it over to your printer. Or as
+[02:21] I said in the previous video, you can
+[02:23] click workbench. If you click workbench,
+[02:27] then you'll be able to access remotely
+[02:30] your printer. The way to do it is to
+[02:32] click add printer and it will search
+[02:35] through looking for devices. Now,
+[02:37] there's something to remember. It's
+[02:38] quite important. It says only 2.4 GHz
+[02:42] Wi-Fi is supported. As it happens, I
+[02:45] have both. I have 2.4 and 5 GHz. It
+[02:48] can't recognize the 5 GHz, which is my
+[02:50] main Wi-Fi, but this is a Wi-Fi extender
+[02:54] where I can actually connect it to the
+[02:56] 2.4 4 GHz or the 5 GHz, whichever one I
+[03:00] wish. Here I've obviously connected it
+[03:02] to the 2.4 GHz. And when you do that,
+[03:08] it will appear here. Once we've got it
+[03:10] appearing here, then we'll have access
+[03:12] to the camera. And we can turn the
+[03:14] camera on and off by clicking that
+[03:16] button there so that we can have a look
+[03:19] at it. And you've got the ability to
+[03:21] change just about everything here. And
+[03:24] you can also watch it as it prints.
+[03:27] Right. The other thing you can do if you
+[03:29] want to is capture some time lapse. What
+[03:31] you need to do is stick a USB right into
+[03:34] the port on the side of it. Then when
+[03:37] you're ready to print, select your
+[03:38] model. And you'll notice right there it
+[03:42] says timelapse. You need to hit that
+[03:44] time-lapse button and then press start
+[03:46] printing. And you'll get yourself a
+[03:48] time-lapse of your print growing.
+[04:34] And there it is finished actually. It's
+[04:37] really quite beautiful.
+[04:40] So there you go. It's a nice print
+[04:43] actually. The print quality is really
+[04:45] quite good. You can feel how smooth it
+[04:46] is. There's no R. Oh well, there are,
+[04:48] but not as great as normal those ridge
+[04:51] layer lines that you get when you do FDM
+[04:53] printing. So, it's done a really good
+[04:56] job. And of course, it just came off
+[04:57] straight away. Now, this is the first
+[04:59] print that I've done with this machine.
+[05:01] So, of course, the next thing to do is
+[05:03] use it over a longer period of time to
+[05:05] get used to stretching it and see what
+[05:08] else it can do beyond a straightforward
+[05:10] print. But the straightforward print
+[05:12] worked really well and it was a pleasure
+[05:14] to use that machine. And I even did
+[05:17] something I never normally do. I did a
+[05:20] time lapse for you because, you know,
+[05:22] let's see the camera being worked and
+[05:24] getting something out of it. So, I've
+[05:26] enjoyed using the machine and it will
+[05:28] become a a regular machine that I use
+[05:30] over time and so we'll be able to say a
+[05:33] bit more of it. Now, this thing, don't
+[05:35] get it into your head that I'm
+[05:36] interested in free energy machines. I'm
+[05:38] not. I've got another idea that I
+[05:40] thought this might be useful for as a
+[05:43] structure. Got nothing to do with free
+[05:45] energy. Okay. Anyway, I hope you enjoyed
+[05:47] the video. Thank you very much for
+[05:49] watching and please do remember to like
+[05:51] and subscribe.

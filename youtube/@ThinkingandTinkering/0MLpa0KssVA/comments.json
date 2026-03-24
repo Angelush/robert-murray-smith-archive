@@ -1,0 +1,1635 @@
+[
+  {
+    "id": "UgwwhDOTJmbHbEIVkqZ4AaABAg",
+    "author": "@EspadaLelouch",
+    "author_channel_id": "UCY3vMxwIFXw_vQzZ16ldmtw",
+    "text": "I'm currently building the archimedes wind turbine and for some reason I have no voltage or current running through the serpentine coil while it's spinning. Magbets have been placed in and have the correct alignment. Do you have any suggestions for a fix?",
+    "likes": 0,
+    "published_at": "2025-11-07T00:39:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyTicr-y53_yF0oS4J4AaABAg",
+    "author": "@mark-d3p1y",
+    "author_channel_id": "UC86SZiZ5Cn0oqBpWZXSvD-g",
+    "text": "It's probably here somewhere already. How far apart are the bolts giving us what length of coil ?",
+    "likes": 0,
+    "published_at": "2025-07-28T22:18:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzE2yn95bQkP-JbZtF4AaABAg",
+    "author": "@AH-td2ho",
+    "author_channel_id": "UCML9ueCpaRMoTmM_0zzp8gA",
+    "text": "How many turns per coil and how many magnets on the rotor",
+    "likes": 0,
+    "published_at": "2025-07-01T16:18:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGoRdNPpMWq8cDjqh4AaABAg",
+    "author": "@aramegit7767",
+    "author_channel_id": "UC_8Ad-ZJ9Vv-QtYVyZEoH-Q",
+    "text": "Hello Sir, I tried to make a serpentine generator model similar to your one. But it does not produce any voltage. Do you have a shop in UK selling these things, parts or materials such as coils, magnets etc and some advicese as well to identify the problems of the model. If you like I can show pictures of my models to you.....",
+    "likes": 0,
+    "published_at": "2025-06-29T17:25:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzGpvGEszs8yVHAEmZ4AaABAg",
+    "author": "@StevenHoman",
+    "author_channel_id": "UCuoNk3bhehzQAg9zmn2wkRw",
+    "text": "Is it a sprag clutch/?",
+    "likes": 0,
+    "published_at": "2025-01-17T13:28:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyOTu1kAqggqQpK5aJ4AaABAg",
+    "author": "@Kei2tahn",
+    "author_channel_id": "UCzlcueCr3sykynHMbtdgoFA",
+    "text": "Thank you so much for your video. Could you please make a video with a 3phase serpantine coil stator? You  mentioned it during the video, but how does a 3phase stator change the coil spacings on it?",
+    "likes": 0,
+    "published_at": "2024-12-17T22:50:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyOTu1kAqggqQpK5aJ4AaABAg.ACA6BamIumAACACXmnUXxN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sure mate",
+        "likes": 1,
+        "published_at": "2024-12-17T23:45:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-AmRJQgJHKLCmYqh4AaABAg",
+    "author": "@draagh",
+    "author_channel_id": "UCZNXn8DOs3IMdFO8xu0QkCw",
+    "text": "I may commemting stupid ideas, but here is another one;\nIt may be more efficient to wire the coil around a sort of ring. Like imagine cut out a piece from a plastic/glass bottle in the middle and coil the wire all the way around it in a vertical perspective. Of course, it would take a a millenia to do it by hand, but using a machine, that work on the priciple of like a sewing machine, that would do it simpler (i have absolutely no idea how to build or plan it... :D ) But if we state, that generation is at it's peak at 90 degrees and we are using rectangle magnets in a radial order rather than cylindar ones in axial, the relationship between the magnets and coil would always be 90 degrees. I'm pretty sure, we could stick to the speed on the edge philosophy rather than torque on the shaft also in this configuration. Just make the ring/wheel itself reaaaaally wide. I know, it's almost the same like the Mighty Mite generator, but i hope the idea is sort of clear. (In case of misunderstandig, sorry, english is not my motherlamguage)",
+    "likes": 0,
+    "published_at": "2024-11-21T17:26:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0Je9IHTZU4lfs2-14AaABAg",
+    "author": "@jackpalmer5067",
+    "author_channel_id": "UCi-dsadLDiBT4b9dRJnlkGg",
+    "text": "Sir, your amazing,  i just built a serpentine coil following your recommendations 22 awg 120 loops stator, just with one rotor on spinning with my fingers 3 times the output of my regular coil configuration in the same test.  wow thank you so much",
+    "likes": 1,
+    "published_at": "2024-10-02T17:30:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw0Je9IHTZU4lfs2-14AaABAg.A95qBFuE4TrA95rL-gtMzZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Nice work!",
+        "likes": 0,
+        "published_at": "2024-10-02T17:40:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy_l0ZeCog3GqSLk3V4AaABAg",
+    "author": "@Traderhood",
+    "author_channel_id": "UCWdqd5ii4IcHhZzGOJrrIAQ",
+    "text": "In no serpent video it is shown how wires are connected.",
+    "likes": 0,
+    "published_at": "2024-04-16T20:40:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugww5syiWeKtoo1iGdJ4AaABAg",
+    "author": "@kokeskokeskokes",
+    "author_channel_id": "UCjnrehCaKUR5el7c2-WdqZw",
+    "text": "Indeed.",
+    "likes": 0,
+    "published_at": "2024-04-09T04:33:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyT8XjdlWzKXVO6hT54AaABAg",
+    "author": "@geraldvinesii5147",
+    "author_channel_id": "UCnthNSUkpoFKWWtJl54Xgtg",
+    "text": "for clarity when arranging the magnets to the coils it`ll be a 1:1 ratio?",
+    "likes": 0,
+    "published_at": "2024-03-25T22:02:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy008KNzQumaEsl8dp4AaABAg",
+    "author": "@JessWLStuart",
+    "author_channel_id": "UC2m33kfAVMw8mDEv2gvkjuA",
+    "text": "Thanks for giving us this video!",
+    "likes": 1,
+    "published_at": "2024-03-07T19:39:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy008KNzQumaEsl8dp4AaABAg.A0guqgl2T2YA1285TxMaiB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i am glad you liked it mate",
+        "likes": 1,
+        "published_at": "2024-03-16T10:47:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-oLvgsLeaMEwv3GR4AaABAg",
+    "author": "@Sabbour_kora72",
+    "author_channel_id": "UCRUaxGquM26X1ZGdp5yVeDg",
+    "text": "how many cyc needs to do the cooper part",
+    "likes": 0,
+    "published_at": "2024-03-05T15:30:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw6sbvvLlW7S8NnymZ4AaABAg",
+    "author": "@joanie_lemercier",
+    "author_channel_id": "UCinCHLkCBISX7aTLkr1J9sw",
+    "text": "Brilliant ! <3",
+    "likes": 0,
+    "published_at": "2024-01-02T15:14:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwB1lPPsVpUv3ByXW14AaABAg",
+    "author": "@Gboyrides",
+    "author_channel_id": "UC6Gl_6oon0wQMXzbZuHJtIw",
+    "text": "hi do you have the measurements for the jig to wind the coil, looks like you figured out the right distance for the coil part but it has to be woven so its bigger than the diameter of the wheel, jus wondering what the distance between those bolts that you wound it on are :)",
+    "likes": 1,
+    "published_at": "2023-12-17T04:04:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLiJFeU3LwGVrE7Ht4AaABAg",
+    "author": "@Thaelanis25",
+    "author_channel_id": "UChAOa9XVVD5F-8YZVWGa6pQ",
+    "text": "Heavier the gauge the better? Or is there wire size sweet spot?",
+    "likes": 0,
+    "published_at": "2023-12-01T15:42:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy8WI3n0RGGeAOFLTt4AaABAg",
+    "author": "@sivasai9831",
+    "author_channel_id": "UCT2FbW7Ini1Mk7SK1fvEViQ",
+    "text": "Size of gaguge used",
+    "likes": 0,
+    "published_at": "2023-10-16T11:57:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynGmh2aXZOdBgEgfB4AaABAg",
+    "author": "@james130362",
+    "author_channel_id": "UCkvZjPR9RAYhN_g_CBz8IwA",
+    "text": "Fantastic Robert. Many thanks",
+    "likes": 0,
+    "published_at": "2023-09-08T14:31:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugys0YTPFqpt0qoVQqV4AaABAg",
+    "author": "@aa1ww",
+    "author_channel_id": "UC8t6_iDfRw9gDAl13bH429Q",
+    "text": "Love the joy and creativity of your videos!  May you inspire many plucky experimenters on to great fun in discovery.",
+    "likes": 0,
+    "published_at": "2023-09-02T16:26:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwSI1BRvqZ8QX9lLnh4AaABAg",
+    "author": "@shawncalderon4950",
+    "author_channel_id": "UCfb2dqi6SlPl90rbAeOAtzA",
+    "text": "Love the content!",
+    "likes": 0,
+    "published_at": "2023-09-01T21:35:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5kAIHQH3hxSR3DSl4AaABAg",
+    "author": "@GrugBug-f7j",
+    "author_channel_id": "UCWslWsmwf9TXbwILkhlgA6Q",
+    "text": "Solid!\nTop KEK!\nPeace be with you.",
+    "likes": 1,
+    "published_at": "2023-08-21T23:40:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw5eX4bxJBHMdlMIAR4AaABAg",
+    "author": "@johnhopkins6260",
+    "author_channel_id": "UCeEUrasWAYhzZ-EfOhR83wg",
+    "text": "Question: should the \"pins\" on the former be the same diameter of the  \"coin\" magnets?",
+    "likes": 0,
+    "published_at": "2023-08-20T15:02:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxE5bPqxhH8Xn34aeh4AaABAg",
+    "author": "@BLUNTGAMINGCHANNEL",
+    "author_channel_id": "UCKLk0VExO_Tjxxj0IEVoy1Q",
+    "text": "can something like this power small water pump? I horrible at electricity or voltage and I want to build an aquaponics with something like this.",
+    "likes": 0,
+    "published_at": "2023-08-19T08:28:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyMpj844rrZFgeJvmZ4AaABAg",
+    "author": "@jboy6944",
+    "author_channel_id": "UCJT-iimvIRcpz0LIj72NLzg",
+    "text": "Is this a delta or star configuration? Great and informative vid btw Rob❤",
+    "likes": 0,
+    "published_at": "2023-08-12T01:14:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwbk6s7xYLmXwE8Kp94AaABAg",
+    "author": "@axelgaard1",
+    "author_channel_id": "UCTmTw3t6ZO1Z32TaA5h3e6g",
+    "text": "how many rounds do you do on this? and how far between your bolts you used?",
+    "likes": 0,
+    "published_at": "2023-07-27T19:32:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4i7gGE3piclwe3dV4AaABAg",
+    "author": "@Allan_aka_RocKITEman",
+    "author_channel_id": "UC3C2NBax9OIgVPitEfO41mA",
+    "text": "@RobertMurraySmith >>> Great video...👍",
+    "likes": 0,
+    "published_at": "2023-07-27T16:55:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyCfMH0kSOu-Obo-J94AaABAg",
+    "author": "@duco571",
+    "author_channel_id": "UC0_yBETlDdIvd12fuc3UixA",
+    "text": "HEY ROBERT YOUR LINK DOS NOT WORK",
+    "likes": 0,
+    "published_at": "2023-07-26T22:45:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzRc1ixEJlnRsCGSFF4AaABAg",
+    "author": "@AndrewduToit",
+    "author_channel_id": "UC5BxbNtCf9p4yDy3XDeRSeQ",
+    "text": "I have watched this video twice now, cause I thought I mised it. How do you work out the length of the loop, since it's closed loop.",
+    "likes": 0,
+    "published_at": "2023-07-25T17:05:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx3NEyZkbdExbJ91Ph4AaABAg",
+    "author": "@NightRunner417",
+    "author_channel_id": "UCMOwus5zFkSMiCCPBdv70Lw",
+    "text": "I'm sitting here looking at that former and thinking omg what a pain in the a$$, you've gotta wind around and around... and then the magic happens at 2:40 and I'm like \"Oh! Omg... No... way...\" so easy, so simple. As long as you're doing some basic math to make sure your loop is the right diameter to work on the former, it's a literal piece of cake. Sometimes I really have to question my \"intelligence\" when I had to have this one handed to me like a kid. Thanks so much for all your shared wisdom and your hard work making these videos!",
+    "likes": 3,
+    "published_at": "2023-07-25T16:35:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-Q1ULMJAWlviMViF4AaABAg",
+    "author": "@TotoMacFrame",
+    "author_channel_id": "UC2HepXtzqzTclFs7wICxKJw",
+    "text": "Hi Robert, and a heartfelt thank you for all your work and inspiration! I just started wrapping my mind around all those topics but you made me already wind my first generator prototype 😅 \nWould you mind giving us a short explanation or demonstration of how one would need to wind three of those serpentines to make this generator a three-phase one? Would really appreciate it! 😊",
+    "likes": 1,
+    "published_at": "2023-04-06T05:26:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgysQBW3qMe6l7dUDsN4AaABAg",
+    "author": "@chrissanders2077",
+    "author_channel_id": "UCqTaEo_lBh55J5NyEydfQ9Q",
+    "text": "Hey there! You're feather generators have gotten me interested enough to buy a 3d printer. I just had one question. How do you calculate how many turns needed for the coil?",
+    "likes": 4,
+    "published_at": "2023-04-06T03:34:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugww4VwPgrj18vf_pAt4AaABAg",
+    "author": "@soullessthedog5554",
+    "author_channel_id": "UCv_wyT-MhRyEzjG3ZRQijZA",
+    "text": "tracy;\nwould making the coils longer from top to bottom. this would make the top and the bottom turns moren useful since they do not help to collect electric. more useful copper.",
+    "likes": 0,
+    "published_at": "2023-04-05T03:20:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4LnXPOoj8mFKqf-V4AaABAg",
+    "author": "@TheRealJaaycoob",
+    "author_channel_id": "UCv0GHjcukFWGUE_9lqM6ovw",
+    "text": "Should the copper wire be enamelled or not?😊",
+    "likes": 0,
+    "published_at": "2023-04-04T07:10:44Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz4LnXPOoj8mFKqf-V4AaABAg.9o4FQgi9Sr09pqvqSDh2Fd",
+        "author": "@TheSpuggiehawk",
+        "author_channel_id": "UC8-qJT7YBMInZfnvNq9vybg",
+        "text": "Yes.  It's the number of turns that is important.  If the copper wire has no insulation, you will effectively just give have one thick wire and all the turns will be wasted.",
+        "likes": 0,
+        "published_at": "2023-05-18T10:44:19Z"
+      },
+      {
+        "id": "Ugz4LnXPOoj8mFKqf-V4AaABAg.9o4FQgi9Sr09pu784DKoIu",
+        "author": "@TheRealJaaycoob",
+        "author_channel_id": "UCv0GHjcukFWGUE_9lqM6ovw",
+        "text": "@TheSpuggiehawk Ah thank you! Thats what I thought but wanted to be sure👌",
+        "likes": 1,
+        "published_at": "2023-05-19T16:29:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz8a_OcmMHMGYH7c2J4AaABAg",
+    "author": "@williamhowell1791",
+    "author_channel_id": "UCkvq6EgRNS0AmDh91Zu9JRg",
+    "text": "How many turns of wire total around the two bolts? You don't mention that in the video....",
+    "likes": 0,
+    "published_at": "2023-04-02T04:21:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_B3IbHOiqecouCj54AaABAg",
+    "author": "@hereticswissery9010",
+    "author_channel_id": "UCCGNAoc9bp9f0vDafzt0JkA",
+    "text": "Hi Mr Murray I am making a lot of research on LVDT probe and their coil, and I read that different brand and model have different sensitivity and that sensitivity unit is mV/Vmm, do you know what does this reference too? Thank you very much I enjoy your channel a lot.",
+    "likes": 0,
+    "published_at": "2023-03-31T18:30:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPYPMMebiHJERXfQt4AaABAg",
+    "author": "@hellolendon",
+    "author_channel_id": "UCPpCiZb4O4w71ANNVorieGA",
+    "text": "Found your channel this morning and been binge watching for the past 2 hours! Really fascinating! I may be missing something entirely but would it be possible to wind the coil directly onto the former rather than pre winding and setting up? Loving the videos, will definitely be tuning in every day.",
+    "likes": 1,
+    "published_at": "2023-03-31T08:41:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-fszv2jrMH-ceS6x4AaABAg",
+    "author": "@filipeber",
+    "author_channel_id": "UCJstuAwHwSeJZH8E4MttV-g",
+    "text": "Suggestions:\nA quick way to get the Serpentine Coil is to use\nthe coil of computer vacuum tube monitors\nor old televisions.",
+    "likes": 1,
+    "published_at": "2023-03-26T01:24:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVwOam-diI42MaxGB4AaABAg",
+    "author": "@Emanemoston",
+    "author_channel_id": "UCvhv6bmRwFFfOX8fy7sDbyA",
+    "text": "Thanks for the video.",
+    "likes": 0,
+    "published_at": "2023-03-22T22:32:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxeLtQrVdeNvhopaFt4AaABAg",
+    "author": "@gmsoptions",
+    "author_channel_id": "UCW1ov5I1O0q4XzXxjXRfITw",
+    "text": "My favorite artist is Salvador Dalí.  I saw an old film interview and the interviewer was trying to draw him out as to how he out go about the creative process.  He said, \"I put paint on canvas\".  When pressed for more detail he said, \"I put paint on canvas\".  Frustrated, the interviewer ask how he would know then it's done.  His answer, \"when I stop putting paint on the canvas\".",
+    "likes": 3,
+    "published_at": "2023-03-21T19:40:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_TbZdcLp8Ly01UxV4AaABAg",
+    "author": "@hldelling55delling75",
+    "author_channel_id": "UCVzfD19trYTvK3YWBLQHpbg",
+    "text": "Just saw your flywheel serpentine pancake generator. I'm more than impressed. Such a simple idea that has been proven to work, with basic improvements, that are intrinsically logical and reasonable. Anyone may have thought of it, yet we all seem to think of complicated ways to solve those basic principals that allow us to succeed.  Genius comes in many forms. Never worry that the complicated mind can't recognize it. They've lost themselves in the forrest , looking for the trees.",
+    "likes": 8,
+    "published_at": "2023-03-20T13:01:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw13q7ahyNLEjdw5F54AaABAg",
+    "author": "@guytech7310",
+    "author_channel_id": "UCa-L_V46l0aRYbXEsoOXWRg",
+    "text": "Now if you could add a ferric material to the coils to improve magnetic inductance coupling to improve power output. Perhaps some ferrite toroids.",
+    "likes": 1,
+    "published_at": "2023-03-13T16:31:23Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw13q7ahyNLEjdw5F54AaABAg.9nCb5hJDyyk9nIeheXkWEt",
+        "author": "@carlwilson9992",
+        "author_channel_id": "UC6sB2ZTPQ280D6ADEBl-T4w",
+        "text": "I was going to suggest the same.   Thin laminated sheets of iron to prevent eddy currents.  Like you said, this is like magnetic gain.",
+        "likes": 0,
+        "published_at": "2023-03-16T00:58:21Z"
+      },
+      {
+        "id": "Ugw13q7ahyNLEjdw5F54AaABAg.9nCb5hJDyyk9nIq1q9B1Xx",
+        "author": "@guytech7310",
+        "author_channel_id": "UCa-L_V46l0aRYbXEsoOXWRg",
+        "text": "@carlwilson9992 That would be better, but difficult to implement, since its difficult to get sheets of silicon steel. Cylindrical ferrites or toroids are easier to source.",
+        "likes": 0,
+        "published_at": "2023-03-16T02:37:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzWwRomQ-pHZjP7VJN4AaABAg",
+    "author": "@L3X369",
+    "author_channel_id": "UC8N6rdIcyOci4330LHEK-3w",
+    "text": "What type of wire are you using? And where to find the STL for that base?",
+    "likes": 1,
+    "published_at": "2023-03-12T20:46:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzWwRomQ-pHZjP7VJN4AaABAg.9nAUT4bNRsA9o0N2-MoB1y",
+        "author": "@L3X369",
+        "author_channel_id": "UC8N6rdIcyOci4330LHEK-3w",
+        "text": "@SystemsPlanet I will stop wasting my time with this channel. Everything I see contains just pieces of information and demonstrations, nothing actually useful to recreate anything we see here. For example, after following all the videos of the serpentine coil, I managed to make one using the same specs, but is at most half the thickness we see in the videos.  (810mm (per turn) +10% = 891 x 400 turns of 0.10 Litz wire). And of course, I don't get the same resulted voltage as in the videos. I'm quite disappointed. Time to get back to reality...",
+        "likes": 0,
+        "published_at": "2023-04-02T19:00:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQ6TK43xHEPhCnJgJ4AaABAg",
+    "author": "@TheWorldBelow360",
+    "author_channel_id": "UCicrd23LnhJoc7NDZQA13pg",
+    "text": "How on Earth did you know how long to make the loop of coil? Math?",
+    "likes": 0,
+    "published_at": "2023-03-10T02:55:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQ6TK43xHEPhCnJgJ4AaABAg.9n3QJLr3Qry9nMiK0LMkUn",
+        "author": "@arentgrimmius282",
+        "author_channel_id": "UCmJMvHbw5ypWwF9cXTZTajg",
+        "text": "Use 1 string of wire to test what the lenght of 1 turn would be",
+        "likes": 0,
+        "published_at": "2023-03-17T14:46:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy63CHSsR2aaQzKRnl4AaABAg",
+    "author": "@davidwhite-vh2rr",
+    "author_channel_id": "UCY5vzYZV7uMp_KiHGxCf1rg",
+    "text": "Would using Oblong Magnets of the same strength covering more of the Coils 'area/length', give a larger Output of current and Voltage?",
+    "likes": 1,
+    "published_at": "2023-03-09T19:36:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugws8NbMe4Ise7mTqPp4AaABAg",
+    "author": "@TotalDec",
+    "author_channel_id": "UCYcIq2zlucFbboxBPM6dbkQ",
+    "text": "Dude thinks he's a genius.  But, the series is for kids.",
+    "likes": 0,
+    "published_at": "2023-03-09T18:18:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOqgRhKiRmW9Oq7Lh4AaABAg",
+    "author": "@matslarsson8790",
+    "author_channel_id": "UCny2nFEUh0F_7AHPucWHyPw",
+    "text": "Have you checked the output voltage and current? Would be interesting to see how much it's slowing down at load too.",
+    "likes": 1,
+    "published_at": "2023-03-09T16:44:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLFq9A1aNwAKJ8qP14AaABAg",
+    "author": "@Carlo-mh3er",
+    "author_channel_id": "UCHOloiq-TQIf577Z3qkw9-w",
+    "text": "Thank you Robert",
+    "likes": 0,
+    "published_at": "2023-03-09T07:29:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgynKST5T37Tm3t-UNB4AaABAg",
+    "author": "@MartinStephenson1",
+    "author_channel_id": "UCKpqf3R0raqGgX-zHtP4hwQ",
+    "text": "Have you come across articles discussing the discovery of 'red matter superconductor\" lutetium hydride?",
+    "likes": 0,
+    "published_at": "2023-03-09T06:38:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgynKST5T37Tm3t-UNB4AaABAg.9n1F7JX-wii9n1I8wImBwp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no - sorry",
+        "likes": 0,
+        "published_at": "2023-03-09T07:05:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyhNC9J_L1SS4jco_Z4AaABAg",
+    "author": "@martinsaint9999",
+    "author_channel_id": "UCrcXoe2eN6XzQER2pvKhLZQ",
+    "text": "Obviously a cold day in the UK.",
+    "likes": 0,
+    "published_at": "2023-03-09T05:56:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyhNC9J_L1SS4jco_Z4AaABAg.9n1ACr2t8IP9n1I1xt7lXG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "freezing lol",
+        "likes": 1,
+        "published_at": "2023-03-09T07:04:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygATdrD6KFkP8LsYp4AaABAg",
+    "author": "@MadRat70",
+    "author_channel_id": "UCMqAbZyTwuZazbRUz9eTfLg",
+    "text": "Would it work as a bifilar?",
+    "likes": 0,
+    "published_at": "2023-03-09T04:59:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygATdrD6KFkP8LsYp4AaABAg.9n13nDdIl-I9n1I4OiOwSN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I suppose - I don't really know tbh",
+        "likes": 0,
+        "published_at": "2023-03-09T07:04:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz7ugfl1W6QUOk7ZbB4AaABAg",
+    "author": "@baraBober",
+    "author_channel_id": "UCCejmKwMHba9Wz9hoY3gPFQ",
+    "text": "If you're looking for a good flywheel, consider a used car brake rotor, or a full stack of them. There's plenty of them available at your local repair shop",
+    "likes": 1,
+    "published_at": "2023-03-09T04:06:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz7ugfl1W6QUOk7ZbB4AaABAg.9n0yfMBWjuU9n1I7LoOsTy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice tip - cheers mate",
+        "likes": 0,
+        "published_at": "2023-03-09T07:05:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUpKJwwNMsOZ_tKh14AaABAg",
+    "author": "@samhorowitz7593",
+    "author_channel_id": "UC4JTItxiUU4fNuPkHEBO5rg",
+    "text": "I legitimately have plans to replicate this, minus the 3d printer pieces. Thank you for the run down on this! I wish I had a 3d printer. Maybe some day!",
+    "likes": 0,
+    "published_at": "2023-03-09T03:08:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwUpKJwwNMsOZ_tKh14AaABAg.9n0s3t2iaAr9n1IDXwXfDU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Go for it! and 3d printers aren't as expensive as they used to be that's for sure",
+        "likes": 1,
+        "published_at": "2023-03-09T07:06:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkQU8vGaVscsxakal4AaABAg",
+    "author": "@mukundsrinivas8426",
+    "author_channel_id": "UCSYDHFtgZ3202mK85Pvctkg",
+    "text": "I learnt something awesome in 4 minutes today",
+    "likes": 0,
+    "published_at": "2023-03-09T02:06:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzkQU8vGaVscsxakal4AaABAg.9n0kvOE66Tg9n1IHhlhm2L",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - I am glad to hear you fund it useful",
+        "likes": 0,
+        "published_at": "2023-03-09T07:06:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwoDTGuEoPdhS4oZiR4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "Looks great! (~_^)-b",
+    "likes": 0,
+    "published_at": "2023-03-09T01:03:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzil3JUFU2k1lqjO9Z4AaABAg",
+    "author": "@StuartJ",
+    "author_channel_id": "UCSMfU6Iaj688HlB_aptOw1Q",
+    "text": "Robert, have you looked at the Redox Flow battery? I wonder if it can be DIY?",
+    "likes": 0,
+    "published_at": "2023-03-09T00:08:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzil3JUFU2k1lqjO9Z4AaABAg.9n0YUb0bnoA9n1IKau7it9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes I have - and yes it can",
+        "likes": 0,
+        "published_at": "2023-03-09T07:07:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwoRucjHRdr79QoMuF4AaABAg",
+    "author": "@sinenomine9093",
+    "author_channel_id": "UC2f81daDggmw3LCAuRxjeVg",
+    "text": "Rob, I had trouble following the part about installing the coil on your final form.  You talked about north & south and up & down but you lost me.",
+    "likes": 0,
+    "published_at": "2023-03-09T00:00:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwoRucjHRdr79QoMuF4AaABAg.9n0XWMwEwd69n1IUqlr2ti",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wind it around like a snake mate - the rest is to understand why - practically all you need do is wrap it like a snake and it works fine - the why is the up down north south bit",
+        "likes": 0,
+        "published_at": "2023-03-09T07:08:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwxFEVVmMwCypWulGh4AaABAg",
+    "author": "@infinitelyuniversal2390",
+    "author_channel_id": "UCGts8zbsHNmRUqGPU_bhTQA",
+    "text": "Separate topic but i really suggest everyone should try Open Ai it is free and amazing everything from researching and problem solving, its actually kinda scary how well it works, and is an amazing learning tool. \nOpen Ai developers have prevented me from Saving chat topics anymore, because i think ive pushed its abilities, i have taught it to make and play games with me and actually beat me, i have taught it to even draw pictures, or a even ask itself questions and my self questions. But i needed to encourage it to actually try because it would continuously deny that it had such abilities to do so.\nIt reminds me of Jarvis AI or Star trek AI, especially if you just talk to it as human being it responds with such Fluid responses, it feels like talking to your higher self. And yes sometimes it creates false content, but if your creative enough you can teach it like a child to learn and it will correct itself",
+    "likes": 0,
+    "published_at": "2023-03-08T23:41:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy0ywexjgoBINq07014AaABAg",
+    "author": "@markirish7599",
+    "author_channel_id": "UCPjiTfNN5dZpSP62zs6fh1A",
+    "text": "Fantastic video 👍",
+    "likes": 0,
+    "published_at": "2023-03-08T23:23:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy0ywexjgoBINq07014AaABAg.9n0TECGseyY9n1IZdFcYX5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you very much!",
+        "likes": 0,
+        "published_at": "2023-03-09T07:09:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwN9-w_D943cYb7gKh4AaABAg",
+    "author": "@HIDCREW",
+    "author_channel_id": "UCX9h_6XkH3Z48U0761QxoCg",
+    "text": "Can't u use a sine wave to help the flow instead of a square wave patern",
+    "likes": 0,
+    "published_at": "2023-03-08T22:56:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwN9-w_D943cYb7gKh4AaABAg.9n0QCg66SDo9n1IatJvZQs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it would make no difference to flow",
+        "likes": 0,
+        "published_at": "2023-03-09T07:09:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyHE0_Y5Y_DRO40RvV4AaABAg",
+    "author": "@TheParkAttendant",
+    "author_channel_id": "UC7KixD0qLV6Du_BvIOyFVJw",
+    "text": "Hi Robert. What gauge is your extra fine wire? My hands are aching to buy some and get started. Many thanks.",
+    "likes": 1,
+    "published_at": "2023-03-08T22:56:03Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "UgyHE0_Y5Y_DRO40RvV4AaABAg.9n0Q8jquTYo9n1IhB_90L_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Let me check",
+        "likes": 1,
+        "published_at": "2023-03-09T07:10:13Z"
+      },
+      {
+        "id": "UgyHE0_Y5Y_DRO40RvV4AaABAg.9n0Q8jquTYo9nbqBG1kVk-",
+        "author": "@ashleycawley5816",
+        "author_channel_id": "UCwwbc_CwXihrRDyYAJ5FyAA",
+        "text": "@ThinkingandTinkering I'd love to know what gauge wire this is as well, I'm looking to re-create one of your more recent designs 🙂",
+        "likes": 0,
+        "published_at": "2023-03-23T21:03:27Z"
+      },
+      {
+        "id": "UgyHE0_Y5Y_DRO40RvV4AaABAg.9n0Q8jquTYo9npiAe_Y45M",
+        "author": "@peterfelecan3639",
+        "author_channel_id": "UCVdKr43mky1YF4F9SdycH9A",
+        "text": "0.2 mm (AWG 31)",
+        "likes": 2,
+        "published_at": "2023-03-29T06:22:50Z"
+      },
+      {
+        "id": "UgyHE0_Y5Y_DRO40RvV4AaABAg.9n0Q8jquTYo9nq3Be4aI42",
+        "author": "@ashleycawley5816",
+        "author_channel_id": "UCwwbc_CwXihrRDyYAJ5FyAA",
+        "text": "@peterfelecan3639 Thank you :-) I've recently bought around 1800m of the stuff, should turn up soon. I'm planning to replicate possibly a couple of these builds and experiment with them.",
+        "likes": 0,
+        "published_at": "2023-03-29T09:35:12Z"
+      },
+      {
+        "id": "UgyHE0_Y5Y_DRO40RvV4AaABAg.9n0Q8jquTYo9nwBmDy954D",
+        "author": "@robertthompson5527",
+        "author_channel_id": "UC7sZLf9D1ts1g_YE6IiL6MA",
+        "text": "Is this wire enameled?",
+        "likes": 0,
+        "published_at": "2023-03-31T18:45:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkbMWjdYrLzoS_-Vp4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "Yep, thats the way I do it. Except I didn't win the 3D printer😩",
+    "likes": 0,
+    "published_at": "2023-03-08T22:07:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzkbMWjdYrLzoS_-Vp4AaABAg.9n0KdW9REnU9n1IjRLehvF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's a shame - about the printer not the way to wind lol",
+        "likes": 1,
+        "published_at": "2023-03-09T07:10:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyyzuhP_7u5kcbSwx4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome 👏",
+    "likes": 1,
+    "published_at": "2023-03-08T22:06:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyyzuhP_7u5kcbSwx4AaABAg.9n0KWVMKSgm9n1Ijp2Yqd6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2023-03-09T07:10:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwD1kD89nAZobHZwDl4AaABAg",
+    "author": "@zfolwick",
+    "author_channel_id": "UCqzn7V4rsprccfL6pmyf_8Q",
+    "text": "the serpentine is chosen because it's an alternating permanent magnetic field, right?  Is there some sort of space-filling curve that would expose even more wire to the magnetic field?  Axial flux motors seem to work by having several flat circular sections of wire instead of a serpentine coil.",
+    "likes": 0,
+    "published_at": "2023-03-08T21:18:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwD1kD89nAZobHZwDl4AaABAg.9n0F1hGS1SX9n1IpW6X1-o",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes that's right and I did a couple of vids on alternate coil arrangements - you might want to check them out",
+        "likes": 1,
+        "published_at": "2023-03-09T07:11:21Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzgu_fMX751Aj88R854AaABAg",
+    "author": "@mrab4222",
+    "author_channel_id": "UCpuX0CaykjDnEDTv0QFQwfA",
+    "text": "When you were winding that coil, I was wondering why you didn't put it the board onto a turntable. If it was the turntable of a record player, it would even wind itself! 🙂",
+    "likes": 0,
+    "published_at": "2023-03-08T21:11:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzgu_fMX751Aj88R854AaABAg.9n0EBHpV6yb9n1IscBl27o",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it would - all I need now is a turntable",
+        "likes": 1,
+        "published_at": "2023-03-09T07:11:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz-kMaIBSUjatqb7fN4AaABAg",
+    "author": "@JamesDoylesGarage",
+    "author_channel_id": "UCu-j6Oy_HO_nD6-vhdJaf5g",
+    "text": "Help with this one please! What do you think of Nikola Tesla and The Earth Battery? Have a sunny windy day 😃",
+    "likes": 0,
+    "published_at": "2023-03-08T20:56:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz-kMaIBSUjatqb7fN4AaABAg.9n0CTNWS7HB9n1IwHrxuAO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have no thoughts about it mate",
+        "likes": 1,
+        "published_at": "2023-03-09T07:12:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxufPyfkBySe6ZnrU54AaABAg",
+    "author": "@hhocharioteer",
+    "author_channel_id": "UC_LCnZ2rZ_X_fTUa2JlI17A",
+    "text": "Can you use two LEDs with opposite polarity to catch the other sin wave?",
+    "likes": 1,
+    "published_at": "2023-03-08T20:48:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxufPyfkBySe6ZnrU54AaABAg.9n0BWTXqjJw9n1IwsPdIAf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes",
+        "likes": 0,
+        "published_at": "2023-03-09T07:12:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVHD_9nSNJ8epLQgt4AaABAg",
+    "author": "@X02switchblades",
+    "author_channel_id": "UCV8QC5HPs01Cljt1d3YniEA",
+    "text": "would this coil be useful as part of a metal detector as well?",
+    "likes": 1,
+    "published_at": "2023-03-08T20:36:40Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzVHD_9nSNJ8epLQgt4AaABAg.9n0ABpGx5qV9n0XSJJ0V2t",
+        "author": "@philip5940",
+        "author_channel_id": "UCL8TvrJmXvTvlx9nKE22a7A",
+        "text": "Hmmmm,  anyway various sizes are available from perimeter of picture tube of old school colour TVs of various sizes.",
+        "likes": 0,
+        "published_at": "2023-03-08T23:59:53Z"
+      },
+      {
+        "id": "UgzVHD_9nSNJ8epLQgt4AaABAg.9n0ABpGx5qV9n1J8nmKeTU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I honestly don't know",
+        "likes": 0,
+        "published_at": "2023-03-09T07:14:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmGfe38uESHd0M7A14AaABAg",
+    "author": "@jonjanick6529",
+    "author_channel_id": "UC3hp4cMz-pgStyQt4l-ERyA",
+    "text": "hey rob i have a chemistry question i would like to ask yea but im not too sure how to get into contact with yea except commenting on a video and i wont wanna ask a question or comment went it doesn't pertain to the video (kinda like what im exactly doing now lol) so how would i go about getting ahold of you?",
+    "likes": 0,
+    "published_at": "2023-03-08T20:28:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmGfe38uESHd0M7A14AaABAg.9n09EVgixCW9n1JCwY9fGi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you can always mail me mate - robertmurraysmith64@gmail.com",
+        "likes": 0,
+        "published_at": "2023-03-09T07:14:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVUEB9oxcn1XZQk8x4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Ah, very cool stuff.",
+    "likes": 0,
+    "published_at": "2023-03-08T20:25:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVUEB9oxcn1XZQk8x4AaABAg.9n08s3mL18W9n1JEePZBLp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2023-03-09T07:14:55Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy2maq1wQxx7H0zHS14AaABAg",
+    "author": "@paulbrouyere1735",
+    "author_channel_id": "UC2RHRmXjXRy-OHelyDQO1sg",
+    "text": "Impressive, probably better solution for current to flow in one direction?",
+    "likes": 0,
+    "published_at": "2023-03-08T19:27:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy2maq1wQxx7H0zHS14AaABAg.9n02FTOiQCc9n1JIIqIeEm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and I guess so",
+        "likes": 0,
+        "published_at": "2023-03-09T07:15:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwI-O5WEWEz5WDi4KZ4AaABAg",
+    "author": "@alaingrignon",
+    "author_channel_id": "UCgqJwGxSZH7_6c6xgzEHFuw",
+    "text": "Loving this series... very practical stuff for me at least... :)",
+    "likes": 0,
+    "published_at": "2023-03-08T19:19:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwI-O5WEWEz5WDi4KZ4AaABAg.9n01NJNCV5i9n1JJrQy432",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2023-03-09T07:15:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNiwivCIo9bWOULl94AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "Thank you for keeping us thinking ( even those that don’t agree with you have to think what to say😂) 👍🐝🌞",
+    "likes": 1,
+    "published_at": "2023-03-08T19:18:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNiwivCIo9bWOULl94AaABAg.9n01G8zs4Kn9n1JL95_c-Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - very good point mate",
+        "likes": 0,
+        "published_at": "2023-03-09T07:15:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyCGXlM4Wg8uUwMDYl4AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "the mighty mite with a serpentine configuration",
+    "likes": 0,
+    "published_at": "2023-03-08T19:03:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyCGXlM4Wg8uUwMDYl4AaABAg.9n0-XlLBRp69n1JMgxu6GD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice!",
+        "likes": 0,
+        "published_at": "2023-03-09T07:16:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxcVrvAVZH6YEt-Xvh4AaABAg",
+    "author": "@dc-ic5lj",
+    "author_channel_id": "UCGCkXBK80tNxcIL-OKtjCxw",
+    "text": "How do I email you?",
+    "likes": 0,
+    "published_at": "2023-03-08T18:37:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxcVrvAVZH6YEt-Xvh4AaABAg.9n-x_WUdDHi9n1JRV6zA7-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "use my email lol - robertmurraysmith64@gmail.com",
+        "likes": 0,
+        "published_at": "2023-03-09T07:16:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwM9zW31TJ6sOr1xMt4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "Could you just wind it with a bit of copper pipe or pins?",
+    "likes": 0,
+    "published_at": "2023-03-08T18:37:41Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgwM9zW31TJ6sOr1xMt4AaABAg.9n-x_TqPsM29n1JTO_eBbv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes - but why?",
+        "likes": 0,
+        "published_at": "2023-03-09T07:16:56Z"
+      },
+      {
+        "id": "UgwM9zW31TJ6sOr1xMt4AaABAg.9n-x_TqPsM29n1R66ieZpN",
+        "author": "@travismoore7849",
+        "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+        "text": "@ThinkingandTinkering Higher current maybe. Tesla was using pin motors to handle more current and I wondered if something similar would work.",
+        "likes": 0,
+        "published_at": "2023-03-09T08:23:40Z"
+      },
+      {
+        "id": "UgwM9zW31TJ6sOr1xMt4AaABAg.9n-x_TqPsM29n2K3h1xvs7",
+        "author": "@matslarsson8790",
+        "author_channel_id": "UCny2nFEUh0F_7AHPucWHyPw",
+        "text": "​@travismoore7849 thick conductors just give you less voltage and more current, and high voltage is more efficient than high current. That's why there is very high voltage in power lines.",
+        "likes": 1,
+        "published_at": "2023-03-09T16:41:24Z"
+      },
+      {
+        "id": "UgwM9zW31TJ6sOr1xMt4AaABAg.9n-x_TqPsM29n2bUFpZX6w",
+        "author": "@travismoore7849",
+        "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+        "text": "@matslarsson8790 What if you could have both high voltage and amps by using wide laminated insulated conductors as a hybrid of both?",
+        "likes": 0,
+        "published_at": "2023-03-09T19:22:19Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugziqxj3JKEST883nZZ4AaABAg",
+    "author": "@exploreseafaring",
+    "author_channel_id": "UC1XUVZu6QcwpNn47RNIFmAQ",
+    "text": "PLEASE use the big roll of copper wire to generate something!!",
+    "likes": 0,
+    "published_at": "2023-03-08T18:30:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugziqxj3JKEST883nZZ4AaABAg.9n-wkYDykya9n1JUAFBBI3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lolol",
+        "likes": 0,
+        "published_at": "2023-03-09T07:17:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw86Xs7nRsEOgGJhCN4AaABAg",
+    "author": "@janbeute4902",
+    "author_channel_id": "UCL09PwC9LActKobO9rzT7dQ",
+    "text": "Many thx - Will you sell the templates for my DIY project?",
+    "likes": 0,
+    "published_at": "2023-03-08T18:22:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw86Xs7nRsEOgGJhCN4AaABAg.9n-vt-yJ1_S9n1JfRHSNO0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you can just have them mate - I have already made the STLs public on tinkercad - details in today's video",
+        "likes": 1,
+        "published_at": "2023-03-09T07:18:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz2Def3JDpffElVSPB4AaABAg",
+    "author": "@victoryfirst2878",
+    "author_channel_id": "UCEA42l13uiXOq9ry4BPsklg",
+    "text": "The hand rule you showed really makes a real down to earth model of what is happening with all the pertinent information easily viewed. Nice work fella.",
+    "likes": 8,
+    "published_at": "2023-03-08T18:09:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz2Def3JDpffElVSPB4AaABAg.9n-uKjXgV2i9n1JgsQK3c5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2023-03-09T07:18:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxDJCHih54J7tr1iSh4AaABAg",
+    "author": "@jerrodlopes186",
+    "author_channel_id": "UCaCbBqtJWPbjAgx6E2KN4Yw",
+    "text": "Speaking of Flash Gordon; Rob, I think you could give Hans Zarkoff a run for his money in terms of genius.\n\nBe well.",
+    "likes": 0,
+    "published_at": "2023-03-08T18:08:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxDJCHih54J7tr1iSh4AaABAg.9n-uHrShjyO9n1JjkM8qhB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I should model myself after him lol",
+        "likes": 0,
+        "published_at": "2023-03-09T07:19:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyOxJAD4gGqoQ7U-BJ4AaABAg",
+    "author": "@murdocks4304",
+    "author_channel_id": "UCrIHrTgo59EBgoBWhEhmTEA",
+    "text": "Looking good Rob.",
+    "likes": 0,
+    "published_at": "2023-03-08T18:06:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyOxJAD4gGqoQ7U-BJ4AaABAg.9n-u0f5duTy9n-u5F_A-OB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2023-03-08T18:07:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwOoUqIzEmR27Rqrg14AaABAg",
+    "author": "@Warriorwwg1wga",
+    "author_channel_id": "UChF7AgiAut3Ljl2HDsDUbcw",
+    "text": "Wow!",
+    "likes": 0,
+    "published_at": "2023-03-08T17:57:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwOoUqIzEmR27Rqrg14AaABAg.9n-t-u5fEiP9n-u05OC5i6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers!",
+        "likes": 0,
+        "published_at": "2023-03-08T18:06:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzico45DGK-um5So_h4AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "Love it!",
+    "likes": 2,
+    "published_at": "2023-03-08T17:44:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzico45DGK-um5So_h4AaABAg.9n-rX_HOYp09n-rbVxyz3E",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome - cheers mate",
+        "likes": 1,
+        "published_at": "2023-03-08T17:45:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxdk7K_bRrTa95xLGh4AaABAg",
+    "author": "@limmoblack",
+    "author_channel_id": "UCdiNzhz1S4wBxJ0BW7vd3yg",
+    "text": "If it was cranked with an old type engine starting handle, i wonder how long it would spin?",
+    "likes": 0,
+    "published_at": "2023-03-08T17:43:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxdk7K_bRrTa95xLGh4AaABAg.9n-rQqN4RPj9n-rdgT5fbW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ages",
+        "likes": 1,
+        "published_at": "2023-03-08T17:45:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxkdml8lkf_g4w2ZdZ4AaABAg",
+    "author": "@af0ulwind",
+    "author_channel_id": "UCOnUD1_h-dVC7vBEjOQq9rw",
+    "text": "how about a copper pin coil",
+    "likes": 2,
+    "published_at": "2023-03-08T17:40:13Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxkdml8lkf_g4w2ZdZ4AaABAg.9n-r-ZkPXoA9n-rcjuNJpU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "what about it?",
+        "likes": 1,
+        "published_at": "2023-03-08T17:45:42Z"
+      },
+      {
+        "id": "Ugxkdml8lkf_g4w2ZdZ4AaABAg.9n-r-ZkPXoA9n-rutoz4Mw",
+        "author": "@l0I0I0I0",
+        "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+        "text": "I think the copper pin coil is what Tesla has moved to increase power torque and efficiency while keeping it small?  \nI would think with a design template, attaching the pins with a pin welder or spot welder would be relatively easy.",
+        "likes": 1,
+        "published_at": "2023-03-08T17:48:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUhtM_AdHfwj6qo094AaABAg",
+    "author": "@kreynolds1123",
+    "author_channel_id": "UCiyV3yQEDz_hgxDdyjLOuFw",
+    "text": "Serpentine coils \"They're a piece of cake\"😄 missed opportunity  for a pun reguarding their use in PANCAKE motors/alternators.",
+    "likes": 2,
+    "published_at": "2023-03-08T17:26:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzUhtM_AdHfwj6qo094AaABAg.9n-pPep3Ybf9n-pdlnJimc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "curses lol",
+        "likes": 2,
+        "published_at": "2023-03-08T17:28:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzYahpc31x0-gRgHG14AaABAg",
+    "author": "@KLeVoyBarnes",
+    "author_channel_id": "UCHfNMt0Lzb_p-P0jtMZ0IJg",
+    "text": "IN AUTOMATIC TRANSMISSIONS - THOSE ARE ONE-WAY CLUTCHES",
+    "likes": 0,
+    "published_at": "2023-03-08T17:11:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzYahpc31x0-gRgHG14AaABAg.9n-nl6apz1s9n-peURHiMm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 0,
+        "published_at": "2023-03-08T17:28:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypEAZrhhZknCmBc-p4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Nice",
+    "likes": 1,
+    "published_at": "2023-03-08T16:59:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgypEAZrhhZknCmBc-p4AaABAg.9n-mIqBaWzL9n-pfYZnToT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2023-03-08T17:28:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxeAxOdXClopkgdKFB4AaABAg",
+    "author": "@mikaelfransson3658",
+    "author_channel_id": "UCQo1WsG4MKxTWKpce3BvzNw",
+    "text": "Why can't we get both  north south and a single if the 1/4 units is on opposit and this magnets is in between the serpents,  and the stator is 6 units long! Then the inertia is low and the outcome of this is bigger as far out from center we go! Now the generator served as a magnetic bearings as well!🥸/Mikael",
+    "likes": 1,
+    "published_at": "2023-03-08T16:58:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxeAxOdXClopkgdKFB4AaABAg.9n-mCyXwCpI9n-pjRPqhTy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "interesting - but I will have to give that some thought mate",
+        "likes": 0,
+        "published_at": "2023-03-08T17:29:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyO8beQDgssUrDV5Nl4AaABAg",
+    "author": "@stewiex",
+    "author_channel_id": "UCM10XkEswdz1M_bxIS-iBLw",
+    "text": "Very interesting, thank you!\n\nI think there is potential to simply use the spool that magnet wire comes on if you can find the other end of the wire without unspooling it. Then you can buy as many 'coils' as you need with confidence it will have the same amount of turns.",
+    "likes": 0,
+    "published_at": "2023-03-08T16:50:38Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyO8beQDgssUrDV5Nl4AaABAg.9n-lKPFkODz9n-lPzELoYK",
+        "author": "@stewiex",
+        "author_channel_id": "UCM10XkEswdz1M_bxIS-iBLw",
+        "text": "Probably not your spool of wire though... That is a monster! Lol",
+        "likes": 2,
+        "published_at": "2023-03-08T16:51:24Z"
+      },
+      {
+        "id": "UgyO8beQDgssUrDV5Nl4AaABAg.9n-lKPFkODz9n-poEX7RrQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "some do come with the end that easy to find - but you are right the monster I am using really needs unspooling lol",
+        "likes": 1,
+        "published_at": "2023-03-08T17:29:48Z"
+      },
+      {
+        "id": "UgyO8beQDgssUrDV5Nl4AaABAg.9n-lKPFkODz9vGmYonDyqk",
+        "author": "@enegron6987",
+        "author_channel_id": "UCoF5ZBNZocyxnXKjOd56JXg",
+        "text": "@ThinkingandTinkering I’m very curious! How many turns does it take?? Thank you in advance this just blows my mind ✨",
+        "likes": 0,
+        "published_at": "2023-09-30T03:39:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwGmxgrw8ikE5cri9J4AaABAg",
+    "author": "@matthewellisor5835",
+    "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+    "text": "Snatching defeat from the jaws of victory since 1962. Happy to hear that I haven't been absent good company along the endeavor.",
+    "likes": 2,
+    "published_at": "2023-03-08T16:41:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGmxgrw8ikE5cri9J4AaABAg.9n-kKI8zaw09n-ppM-ykc7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2023-03-08T17:29:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz42ZJmNR1m9pnodbx4AaABAg",
+    "author": "@ProlificInvention",
+    "author_channel_id": "UC1IN2VQpsjvfw6N5y6jaXrw",
+    "text": "Like what you're doing with one way gears and a generator, I too have been fascinated with those as well as I used to build motorized bikes with engines and motors-those were indispensable for that purpose.  One of the best versions I found was attached to a high power scooter motor sprocket, and it was incredibly silent and durable (mated it to a 5hp 2 stroke engine and it handled it for many miles) \nI'm going to try my hand at 3d printing one as well, I'm going to see if I can cast the gears from aluma-brass in my backyard foundry.",
+    "likes": 6,
+    "published_at": "2023-03-08T16:41:17Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz42ZJmNR1m9pnodbx4AaABAg.9n-kFsQZ9dC9n-ptBAcpOR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice mate - let me know how you get on",
+        "likes": 3,
+        "published_at": "2023-03-08T17:30:28Z"
+      },
+      {
+        "id": "Ugz42ZJmNR1m9pnodbx4AaABAg.9n-kFsQZ9dC9nF9bknetIY",
+        "author": "@zahirnaseem5319",
+        "author_channel_id": "UCJ_x7eDtowH7T09mwMwauxA",
+        "text": "Awesome plz let us know your findings and outcome.",
+        "likes": 0,
+        "published_at": "2023-03-14T16:20:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzvzXgegZ6X4tNkHt94AaABAg",
+    "author": "@Xero1of1",
+    "author_channel_id": "UCOGTGkJh-Xnch4YjUSpJiLA",
+    "text": "It's coming together!!!",
+    "likes": 1,
+    "published_at": "2023-03-08T16:35:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzvzXgegZ6X4tNkHt94AaABAg.9n-jYCWfUqH9n-puyTwkW7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wait until tomorrow's vid lol",
+        "likes": 1,
+        "published_at": "2023-03-08T17:30:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzsxCMKSNEFKZ-yEhF4AaABAg",
+    "author": "@Rouverius",
+    "author_channel_id": "UCEp1FjNuhRCY4tMfTz0HPYg",
+    "text": "Great job, Flash! 😄",
+    "likes": 6,
+    "published_at": "2023-03-08T16:28:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzsxCMKSNEFKZ-yEhF4AaABAg.9n-ikuOupZ59n-pw4em7Ok",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2023-03-08T17:30:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZaRQRaKBERQUvvj94AaABAg",
+    "author": "@MrAnderson4509",
+    "author_channel_id": "UClKRMMzhVq1gzj1pr6UptuA",
+    "text": "Pretty neat and tidy.",
+    "likes": 2,
+    "published_at": "2023-03-08T16:27:32Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxZaRQRaKBERQUvvj94AaABAg.9n-igDSXxTD9n-pwvGaK6V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2023-03-08T17:30:59Z"
+      },
+      {
+        "id": "UgxZaRQRaKBERQUvvj94AaABAg.9n-igDSXxTD9n0HZ7xkpK9",
+        "author": "@MrAnderson4509",
+        "author_channel_id": "UClKRMMzhVq1gzj1pr6UptuA",
+        "text": "Say forgot to say it was ding'n a bell and reminded me of the o'l Die Rod static electricity generator from days gone by, only visually made a millisecond comparison, was no time to have a think, but some times I find something that way especialy if it was as \"Hot\" as I got the image tossed on my mental drawing board... I am probably just all wet lol",
+        "likes": 0,
+        "published_at": "2023-03-08T21:41:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxiwH-UVKthsIEElT94AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Thank you Robert!! Awesome as Always, many thanks for getting the grey matter moving, and the look of fear on my Hubby's face, as he knows he's got a New Project now!!😁👍",
+    "likes": 6,
+    "published_at": "2023-03-08T16:26:32Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxiwH-UVKthsIEElT94AaABAg.9n-iZpoQuJU9n-pyyInp3H",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lololol - your poor long suffering hubby lol",
+        "likes": 2,
+        "published_at": "2023-03-08T17:31:15Z"
+      },
+      {
+        "id": "UgxiwH-UVKthsIEElT94AaABAg.9n-iZpoQuJU9n07pyD6r2U",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "@ThinkingandTinkering Thanks mate! \nIm a Musician!!\n~ Not an Electrician!Lol!\n Andrea is  \"Challenged!\" Physically,,,,\n(As in Wheelchair user.)\n\nSo, I  am the Poor  Bloke  who gets \nblown-up, Singed &,,Even,,,Splintered!!\n\n\nThe Splintering was due to being blown up or rather,\n,Across a Kitchen, with raw, unsanded floorboards!!\n\n~Oh how we laughed,,,as Andrea took the Splinters out One by Agonising One with her Tweezers!!\n**Which reminds me,,,\nListen to Instructions and Safety Warnings!!",
+        "likes": 3,
+        "published_at": "2023-03-08T20:16:03Z"
+      },
+      {
+        "id": "UgxiwH-UVKthsIEElT94AaABAg.9n-iZpoQuJU9n0OmlYt6yd",
+        "author": "@TheParkAttendant",
+        "author_channel_id": "UC7KixD0qLV6Du_BvIOyFVJw",
+        "text": "My grandfather started putting up a DIY metal shed. He had to take apart, then read the instructions. How his fishing buddies ribbed him over that one. Greetings US.",
+        "likes": 2,
+        "published_at": "2023-03-08T22:44:10Z"
+      },
+      {
+        "id": "UgxiwH-UVKthsIEElT94AaABAg.9n-iZpoQuJU9n0SmJzq6zx",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "@TheParkAttendant Lol!! Perhaps we are related?!!\n~ I never seem to learn,,,, although the splinters were spectacularly painful, \nand a great reminder!! \nBest wishes and Kindest regards!!\n Greetings from the UK!!",
+        "likes": 2,
+        "published_at": "2023-03-08T23:19:03Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwl-rXquKV7jmlZmgx4AaABAg",
+    "author": "@willt9234",
+    "author_channel_id": "UC47bgDBImH7CW9oDpTc5wpA",
+    "text": "Flemings hand rule has stuck with me from school some 35 years ago \npeople look at me as if I'm mad until  explain it these days\n i don't think its in the curriculum anymore :)",
+    "likes": 2,
+    "published_at": "2023-03-08T16:22:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwl-rXquKV7jmlZmgx4AaABAg.9n-i6evzHk_9n-q1CVGtKz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - is it not! that's crazy",
+        "likes": 0,
+        "published_at": "2023-03-08T17:31:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxr9PK3k_1AWsKPOsd4AaABAg",
+    "author": "@mattg6472",
+    "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+    "text": "What do we got today?",
+    "likes": 1,
+    "published_at": "2023-03-08T16:13:36Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugxr9PK3k_1AWsKPOsd4AaABAg.9n-h53fe9bJ9n-hIlIG9T_",
+        "author": "@mattg6472",
+        "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+        "text": "Ooo serpentine coil under the pendulum gene... Or would you put the coil on the pendulum with a magnet track under it",
+        "likes": 1,
+        "published_at": "2023-03-08T16:15:27Z"
+      },
+      {
+        "id": "Ugxr9PK3k_1AWsKPOsd4AaABAg.9n-h53fe9bJ9n-hk1zNfeH",
+        "author": "@mattg6472",
+        "author_channel_id": "UClRG2zu6ZPEcT4APM33tCfA",
+        "text": "I'm seriously considering a pendulum gene for adding to the off-grid solutions. You can just set it going for awhile just by picking it up and dropping it . Better than the sand wheel ?",
+        "likes": 0,
+        "published_at": "2023-03-08T16:19:19Z"
+      },
+      {
+        "id": "Ugxr9PK3k_1AWsKPOsd4AaABAg.9n-h53fe9bJ9n-q3FNuW9n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - tap it and wrap it mate lol",
+        "likes": 1,
+        "published_at": "2023-03-08T17:31:59Z"
+      },
+      {
+        "id": "Ugxr9PK3k_1AWsKPOsd4AaABAg.9n-h53fe9bJ9n-q7LLO83A",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't know if better is the right way to see these things mate - some are more appropriate that's for sure",
+        "likes": 1,
+        "published_at": "2023-03-08T17:32:32Z"
+      }
+    ]
+  }
+]

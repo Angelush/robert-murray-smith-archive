@@ -1,0 +1,187 @@
+[00:00] [Music]
+[00:08] Hi everybody. Let me show you something.
+[00:11] Okay, watch this and watch it carefully.
+[00:22] There it is.
+[00:27] So, I don't know if you noticed what it
+[00:28] did. What it did was wobble. But it did
+[00:32] something more than wobble. It actually
+[00:34] wobbled and rotated at the same time.
+[00:37] When something wobbles, well, it just
+[00:39] wobbles. When something wobbles and
+[00:41] rotates, it's called mutation. And it's
+[00:44] very different from wobbling. You can
+[00:46] find motors actually that are just based
+[00:49] on wobbling. And this is an example of
+[00:52] where it just wobbles. There's no
+[00:54] rotation. And you can see that because
+[00:56] there's a great big slice through the
+[00:58] middle of the disc preventing it
+[01:00] rotating. And so all it can do is
+[01:02] wobble. And this has been used as things
+[01:04] like a pump and a motor and a meter. And
+[01:06] the animation is from Thango 10146. And
+[01:10] I'll put a link to that in the bottom of
+[01:12] this description. So that combination of
+[01:14] wobbling and rotation was probably
+[01:17] noticed by an Australian chap called
+[01:19] Peter Davidson who brought out a patent
+[01:22] in 1973.
+[01:24] And you might ask yourself, well, why
+[01:26] bother? Well, if you can combine those
+[01:29] two, you can make it more than a motor.
+[01:31] You can make it a gear train. And gear
+[01:34] trains are incredibly important,
+[01:36] particularly around that time. And
+[01:37] probably
+[01:39] because of these things. These things
+[01:41] have a a very low power motor actually,
+[01:44] but it does spin at 10,000 to 12,000
+[01:47] RPM. So, if we can get a gear train in
+[01:49] there that steps that speed right down,
+[01:51] we can step the torque right up. And of
+[01:54] course, that's exactly what they did.
+[01:55] And these really took off and became
+[01:57] super important to everybody and perhaps
+[01:59] one of the indispensable tools to have
+[02:03] cuz in here is a motor and a gearbox.
+[02:06] And that gearbox is typically a
+[02:09] planetary gear train. And of course,
+[02:11] everything can be made better if you put
+[02:13] your thought to it. And if you can make
+[02:15] that planetary gear chain
+[02:18] of less components but more efficient,
+[02:21] well, you've got a winner on your hand.
+[02:22] And that's exactly what Peter Davidson
+[02:25] did. He took that idea of mutation using
+[02:29] bevel gears, turned it into
+[02:33] a reduction gear. And here's what I drew
+[02:35] up in Tinkercad. Of course, I put these
+[02:37] files on Thingiverse should anybody be
+[02:39] interested in them. But the heart of
+[02:41] this system are four bevel gears.
+[02:44] Actually, it looks like there's three,
+[02:46] but the cream bevel gear gets printed
+[02:48] twice and they're at the ends. the core
+[02:51] of it as the blue bevel gear and the
+[02:53] green bevel gear. And they differ by one
+[02:57] tooth. If you look, there's an orange
+[02:59] axle with a barrel in the center that's
+[03:01] offset by 10° because in the mutating
+[03:05] drive, the mutating gear system, it's
+[03:08] not only the number of teeth that change
+[03:10] the ratio. In the spurgeear, of course,
+[03:12] it all depends on the number of teeth.
+[03:14] In a mutating gear, it depends on the
+[03:16] number of teeth and the angle of
+[03:19] mutation. That is how far I've offset
+[03:21] that barrel. Typically, it's between n
+[03:24] and 5°, but I've made it 10. And when we
+[03:27] printed them off, this is what we get.
+[03:29] Now, these two with the six holes in
+[03:31] them are the start and finish. And these
+[03:33] two go back together. So, take one of
+[03:35] these and the short spacer. The short
+[03:39] spacer stuffs in there so that it's
+[03:41] level with that. And then that whole
+[03:43] thing
+[03:45] gets stuffed in there. and it should be
+[03:47] fixed so that it's like that. Now, if it
+[03:51] isn't a stiff fit, and this is a stiff
+[03:54] fit, then a little bit of super glue
+[03:55] will make sure that that stays fixed.
+[03:57] For the second one, we take the longer
+[03:59] of the spacers. Again, that gets stuffed
+[04:01] in there so that it's level with that.
+[04:03] And then this whole thing should just
+[04:05] slot in there, but be free to turn.
+[04:09] So, it's like that. So, it's fixed to
+[04:11] this bit. Again, a bit of super glue,
+[04:12] but free to turn in there.
+[04:15] So, these two bevel gears that have the
+[04:17] four holes in them differ by one tooth.
+[04:20] That's got 41 in it I've written on it.
+[04:22] And that one's got 42 on it. And they go
+[04:25] back to back with these pin holes lining
+[04:27] up. And for that, there are a couple of
+[04:29] pins that slot through the holes. And
+[04:31] again, a little bit of glue to keep them
+[04:33] fixed to each other. Okay. So, when
+[04:36] you've done that, take the axle and
+[04:37] you'll actually find two of these. One
+[04:39] of them glues on here like that. I might
+[04:42] redesign this little bit. Actually, I
+[04:44] thought this would be easier this way.
+[04:46] But you then take this this with the 42
+[04:50] teeth pointing in that direction along
+[04:52] this part of the spindle, not the
+[04:53] straight one, that part. Slide it on
+[04:56] because that bit is the bit that will
+[04:59] face the fixed end. And that needs to be
+[05:01] free to rotate, which is what that does.
+[05:04] It keeps it free to rotate, but slots it
+[05:06] slightly off. And then carefully glue
+[05:09] that next one onto there to hold this in
+[05:12] place, but still leaving it free to
+[05:14] spin. We've done that, we can slide it
+[05:16] into the fixed end like that. Then the
+[05:20] handle stop goes on like that. Then on
+[05:23] with the handle.
+[05:26] And then on this one, we can put the
+[05:29] floating end into there. And again, glue
+[05:31] that in place. Okay, that's it. Now I
+[05:34] put a dot right there. there. And if I
+[05:36] give this handle one full turn, you'll
+[05:38] see how far that dot moves. And it's not
+[05:41] very far. It's about 140th. So, we've
+[05:44] got a 40 to1 gear ratio in our mutating
+[05:47] gear. Okay, let's give that a few spins.
+[05:53] [Applause]
+[06:03] So, pretty cool if you ask me. Now,
+[06:06] remember this was invented in 1973 and
+[06:08] the patent ran out a few years ago. But
+[06:10] if you take one of these apart, what
+[06:12] you'll still find are planetary gear
+[06:14] systems. This is supposed to be cheaper
+[06:17] to make. It's supposed to be more
+[06:19] compact, less parts. The forces are more
+[06:22] evenly spread, so the materials could be
+[06:24] cheaper and lighter. And you have to ask
+[06:26] yourself, why isn't it that this isn't
+[06:29] now dominating this market? Well,
+[06:31] actually, there's very good reasons for
+[06:32] that. People often think that build a
+[06:35] better mouse trap and folk will come
+[06:37] rushing. Now, very often that isn't the
+[06:41] way it is. What very often happens is
+[06:44] other things have a priority. I mean,
+[06:46] the thing about a planet and sun and
+[06:47] planet gear is it's had years of
+[06:49] history. This thing, it's a bit of an
+[06:51] unknown. So if you went for this and it
+[06:53] didn't work, it broke or wore out more
+[06:56] quickly could really be a lot of money.
+[06:59] And so staying with something that you
+[07:01] know is conservative with a small C, but
+[07:05] can be a better decision sometimes.
+[07:07] Sometimes not, sometimes yes. And then
+[07:09] of course there's all the manufacturing
+[07:11] that needs to be go into something.
+[07:13] Product lines take a lot of money to set
+[07:15] up and changing them isn't going to
+[07:16] happen overnight. So better mouse traps
+[07:19] don't always make you a fortune.
+[07:21] Sometimes they get relegated to
+[07:22] obscurity. And it's why I keep going
+[07:25] back on things because very often there
+[07:27] are things that have been relegated to
+[07:29] obscurity that are in fact solutions to
+[07:31] our problems now. It's just be forgotten
+[07:34] about them. This one, it is pretty
+[07:37] awesome. It's pretty wonderful and very
+[07:38] interesting. I don't know if it'll ever
+[07:40] appear in anything. Maybe it too will
+[07:43] just be forgotten until some future date
+[07:45] when it finds an application. Anyway,
+[07:48] hope you enjoyed the video. Thank you
+[07:50] very much for watching and please do
+[07:52] remember to like and subscribe.

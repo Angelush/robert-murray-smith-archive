@@ -1,0 +1,197 @@
+[00:02] [Music]
+[00:15] hi so this video is entitled programming
+[00:17] the arduino and if what you were
+[00:18] expecting was an in-depth exploration of
+[00:20] the ins and outs and the pins and all
+[00:22] the complications of arduino
+[00:23] then i'm sorry to disappoint you it's
+[00:26] not about that
+[00:27] it's actually about making those first
+[00:29] steps in programming the arduino and
+[00:31] using the arduino
+[00:32] that is the big block to everybody doing
+[00:35] it
+[00:35] i mean it's complicated isn't it it's a
+[00:38] computer it's got
+[00:39] bits to it it's electronics and that's
+[00:42] really frightening because when you try
+[00:44] to delve into something like that of
+[00:46] course what you get is an awful lot of
+[00:47] technical speak
+[00:49] that doesn't do much mystify even
+[00:52] more for you but actually programming
+[00:55] the arduino and using the arduino to do
+[00:58] stuff is just super easy it's almost
+[01:01] like putting a lego set together
+[01:03] it's all to do with the building blocks
+[01:05] and using those building blocks
+[01:07] now it's okay to be scared of stuff i'm
+[01:10] scared of stuff and when i'm scared of
+[01:11] stuff it takes me ages
+[01:13] to pick it up but sooner or later you
+[01:15] really ought to get out there and pick
+[01:17] it up and give it a go
+[01:18] get over that fear of it get over that
+[01:20] worry about the complication of it
+[01:23] because take my word for it it really
+[01:26] isn't complicated i mean when you grab
+[01:28] an arduino
+[01:36] that's what it looks like that's called
+[01:40] shield and you just push the two
+[01:42] together
+[01:43] to make it do something like lego
+[01:46] then equally when you want to do
+[01:48] something else you basically
+[01:50] look up what those pins do and stuff
+[01:52] bits in there
+[01:54] to make it work now these things
+[01:56] actually surprisingly cheap
+[01:57] that's what's good about them they're
+[01:59] inexpensive and if you go to the arduino
+[02:01] site
+[02:02] there's an arduino board the arduino hub
+[02:04] the create hub
+[02:05] it's got just such a ton of information
+[02:08] in there that's very usable
+[02:10] for you to be able to get going with
+[02:11] this now the
+[02:13] other thing i think is really worth
+[02:15] buying is one of these things
+[02:17] this is an elugu product and i'm not
+[02:19] being sponsored to do it incidentally i
+[02:21] bought this because i think it's a good
+[02:23] product
+[02:23] nobody gave me this telugu it's the
+[02:26] starter kit i think it was about 25
+[02:28] pounds or something
+[02:30] now you get a whole load of bits in
+[02:32] there resistors
+[02:34] jumper cables other than plug-in modules
+[02:36] that you can do
+[02:37] stuff with and it saves you hunting it
+[02:40] all out
+[02:41] later on when you're more familiar with
+[02:42] this stuff you're gonna want to hunt it
+[02:44] out
+[02:45] to start off with when you need all
+[02:46] those little bits and pieces and you're
+[02:48] not quite sure where to get them from
+[02:50] you'll find a whole load in a box like
+[02:51] that i mean sure enough there are going
+[02:53] to be things that you don't use
+[02:54] but there are things in there that you
+[02:56] can just reach in and
+[02:58] get in order to do a task that you want
+[03:00] to do with the arduino and that's
+[03:02] actually
+[03:02] super when you think about it now the
+[03:05] other
+[03:05] main resource apart from grabbing
+[03:07] yourself a board and grabbing yourself a
+[03:09] starter kit
+[03:10] is the arduino hub itself when you want
+[03:12] to do
+[03:13] something like recognize a button press
+[03:15] run a relay light an led
+[03:18] run a motor all that sort of stuff when
+[03:20] you want to actually do something with
+[03:21] the arduino
+[03:23] mostly somebody else has written the
+[03:25] sketch for you
+[03:26] when somebody around writes the sketch
+[03:28] for you though almost entirely
+[03:31] free for use they're in the gnu they're
+[03:33] just public demand
+[03:35] you can use them and you can adapt them
+[03:37] now when i'm doing this sort of stuff
+[03:39] what i do is i just grab a block of what
+[03:42] i'm interested in
+[03:43] so let's have a look at this push button
+[03:44] thing for instance on this push button
+[03:47] thing
+[03:47] on the hub there is a sketch
+[03:51] how to read a push button which is
+[03:53] awesome
+[03:54] really then there's a little circuit
+[03:56] diagram showing you exactly what to do
+[03:58] now here is the circuit diagram
+[04:04] as you can see the circuit diagram
+[04:05] consists of very little else apart from
+[04:07] sticker wiring here sticker wire in
+[04:09] there
+[04:10] and you're done so if we have a look at
+[04:12] the actual implementation
+[04:14] of that let's stick those wires in place
+[04:16] in the arduino there's my arduino board
+[04:18] and i've stuffed those wires in exactly
+[04:21] the same way
+[04:22] as they were shown in that drawing that
+[04:24] i just showed you and the hardest thing
+[04:26] about this
+[04:27] was counting the pins because those
+[04:29] numbers are quite little eh
+[04:30] so i had to count those pins stick those
+[04:33] wires in connect it like it was shown in
+[04:34] the board
+[04:36] the next thing you do is take the sketch
+[04:38] that's shown on exactly the same page it
+[04:40] does all that programming for you
+[04:42] then i press that button hey presto it
+[04:46] does what it said on the box that little
+[04:47] light lights up
+[04:50] not cool so the sketch i used was this
+[04:57] i got that straight off the arduino hub
+[04:59] all i actually did was put push button
+[05:01] arduino in the google search and it was
+[05:03] the first entry i mean talk about
+[05:05] easy so i just copied and pasted that
+[05:07] into the sketch
+[05:08] loaded the arduino and hey presto i
+[05:11] press that button and i get that led to
+[05:13] light off and on
+[05:14] now i didn't use a button obviously what
+[05:17] i used was this which is a micro switch
+[05:20] because i want to put this on my machine
+[05:22] the change i'm going to have to
+[05:24] make to that is only what it does once
+[05:26] it's pressed
+[05:27] in the code you'll see when switch
+[05:30] pressed light led
+[05:31] what i'm going to do is when press
+[05:33] switch pressed do something else
+[05:35] so the only bit of code i'm going to
+[05:36] have to change is that little bit that
+[05:38] says light led i'm going to have to
+[05:39] change that
+[05:40] to be what i want it to be that is do
+[05:42] something else
+[05:43] and that's what it's like you grab those
+[05:46] bits and pieces
+[05:47] put them together make sure you can do
+[05:49] it which is just easy because it's like
+[05:51] i say it's like putting a lego kit
+[05:53] then look at what it is that you want it
+[05:55] to do instead of what it is that
+[05:57] it's doing so making those first steps
+[06:00] with arduino
+[06:01] it's really plug and play
+[06:04] everything's out there to help you and
+[06:06] it's really very simple
+[06:08] just to get going with it sure later
+[06:11] when you want to do something else it
+[06:12] can get very very complicated
+[06:14] but if you're not making that first step
+[06:17] you'll never get to later
+[06:18] i'm making that first step is an awful
+[06:21] lot easier than perhaps you thought it
+[06:22] was
+[06:23] like i say the arduino is pretty cheap
+[06:26] that starter kit has all those little
+[06:28] bits in the only thing i added
+[06:30] was this switch because everything else
+[06:31] just came out to start the kit
+[06:33] and there's a ton of help on the arduino
+[06:36] hub
+[06:37] just to get you going anyway i hope you
+[06:39] enjoyed the video and thank you very
+[06:40] much for watching

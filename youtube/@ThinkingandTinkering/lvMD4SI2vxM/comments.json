@@ -1,0 +1,575 @@
+[
+  {
+    "id": "Ugy7zzwDV62V_OlJ66J4AaABAg",
+    "author": "@Unpopular_0pinion",
+    "author_channel_id": "UCn9CHBsoawFqIzEdNfAJndw",
+    "text": "You're the shape, color, and sound of excellence, my friend! Good stuff as always! Sorry I've been lagging behind a bit I've been dealing with some stuff but what a treat it is to have new videos to come back to 😊",
+    "likes": 0,
+    "published_at": "2023-05-15T22:40:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz59UT3qocw86_vxwV4AaABAg",
+    "author": "@ianthemonkeyhangerturner",
+    "author_channel_id": "UCpx_EtS9HbuL0EMwTJ0pp7Q",
+    "text": "thats briliant idea have you got a link for where i can get  5v regulatot like the oneyou used",
+    "likes": 0,
+    "published_at": "2023-05-15T07:56:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy_qXvBOLPUSE1uxq14AaABAg",
+    "author": "@screen-protector",
+    "author_channel_id": "UCUDSb0gHgpnhvoWPYfGLmfw",
+    "text": "For those who don't understand it too well. Everything what we produce as electricity out of a coil is AC voltage - like in your mains. This need to be rectified by diodos or a bridge rectifier.  Once done will produce a DC voltage, the one which you have in the batteries or charge your mobile devices. \n\nTo regulate it to let's say charge your mobile, you need a voltage regulator. Least efficient are L7805 or LM7805 and they will produce 5V, but heat a lot when there's a difference in your power like up and down as well. The most efficient ones are the HF regulators (high frequency), they use what's called a PWM signal to regulate (pulse width modulation). This allows to open and close electronics switch called MOSFET to your regulated needs. And, there's a potentiometer in the regulated ones as well so that you can adjust the output voltage.\n\nI've made videos about them in the past as well. But, the best solution for an avg. person is to build a battery bank out of old laptop batteries called 18650. These are hidden in many old laptops if you have one or can get one. You can buy a charging and protecting controller so you won't overcharge it ;). It's cheap and available on eBay, Amazon and Aliexpress just to name a few. Without it, you can overcharge those 18650s.\n\nNow if you charge your bank out of the wind turbine, etc. You can add USB type A female socket and use it on the output regulated by that controller of 5V, or 5.1V. You can use it to charge a phone, tablet, and all other devices which have USB connection to charge them.\n\nIn series connections adds up voltage, in parallel you'll get more amps, but voltage will stay - worth remembering as well :).",
+    "likes": 0,
+    "published_at": "2023-05-14T11:21:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzOn17g6Cm6WQerzyR4AaABAg",
+    "author": "@mancampovestiminvatam",
+    "author_channel_id": "UCbzmIWFp3ll4624wCtPmx1Q",
+    "text": "I'm a big fan of bottle dynamos as backup energy source for my bicycle lights.\nBUT, charging modern phones that need 10-15 W of power for 2-3 hours makes using these dynamos completely impractical for such scenarios.\nThe PedalCycle, which is horribly expensive, can produce around 15 W and still not too useful for most people (syncing phone charge with commuting is difficult if not impossible).\nAt present, a small solar panel is my main source of energy on the bike. It delivers same wattage with almost zero drag and works even while I'm inside a building and the bike is left outside.\nIt charges 4 NiMH batteries configured in series. Those are enough for 1-3 hours, depending on whether there is residual light in the environment or not; and on pavement color and wetness.\nBetween the panel and the batteries, there is a super capacitor bank that acts as buffer both in case of solar charging and dynamo usage.\nWith this setup, I don't need to remember to take front lights with me, nor do I need to remember charging batteries before long rides. And, in case it discharges, I still have my belowed dynamo.\nThe next generation of this system will have a 10 Ah lithium power bank (cells harvested from laptop batteries) and USB-powered lights to better accomodate source voltage with light voltage.\nCouple of years ago, I've been experimenting with a computer fan (converted to wind generator) as power source but failed miserably due to even lower current values. That was also intended for mostly passive harvesting.\nBuuuuut, maybe this video inspires somebody to build a cheap generator that will be around the house or farm, providing light for a small room or something.\nWhat needs to be clarified, though, is how much does a dynamo last.",
+    "likes": 0,
+    "published_at": "2023-05-14T09:10:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx93n5A-YVYrnJ3NJ14AaABAg",
+    "author": "@mikaelfransson3658",
+    "author_channel_id": "UCQo1WsG4MKxTWKpce3BvzNw",
+    "text": "Redox flow Battery!  the magnet gear, and several pieces of funnel-cones for the flow to the  middle! a  magnetic +-bars and coil and a cooperpipe to load the flow battery. Let it spin and a reserve battery is on load! Do it work? Absolutely no idea! But for a Battery-expert something real good to do something about! A just love Your way to get a Question in my grey cells! Thanks Rob!!!! 🥸/Mikael PS. Keywords to understand what im thinking about is centrifuge AND GRAVITY FORCE in a bucket! DS..",
+    "likes": 1,
+    "published_at": "2023-05-14T08:34:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgytG71uCRa_BvnAuCR4AaABAg",
+    "author": "@happyhermit476",
+    "author_channel_id": "UCPBDUbBPM0oobzVuj4FbejA",
+    "text": "I really love your ideas. Very creative but sometimes more complex than needed. Why not just use a fan blade from a box fan instead?",
+    "likes": 0,
+    "published_at": "2023-05-13T23:54:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw3DH9T9BpndL-dfDR4AaABAg",
+    "author": "@Nanna-hpi",
+    "author_channel_id": "UCoPDNV87eYUXr2V95P44ZJg",
+    "text": "I love your stuff but I am unable to build them. 😢",
+    "likes": 0,
+    "published_at": "2023-05-13T20:45:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwyss0C_I2g96JKOVl4AaABAg",
+    "author": "@JoJoDo",
+    "author_channel_id": "UCkOJYlAv2i3XgHpaWPqRRVQ",
+    "text": "The audio desync is pretty unwatchable, but other than that, cool!",
+    "likes": 0,
+    "published_at": "2023-05-13T20:02:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzlj4nV0FPDfQ3S9cx4AaABAg",
+    "author": "@mikedodger7898",
+    "author_channel_id": "UCcewKjUVpX7TVjg9vlYePaQ",
+    "text": "Love the timelapse music montage and doing something that is not 3D printed (for us Luddites ;). )",
+    "likes": 0,
+    "published_at": "2023-05-13T13:26:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugztz7BAusnNkrMUJNp4AaABAg",
+    "author": "@cantstoptinkering",
+    "author_channel_id": "UCxGZBWfvOutj95sxWOW4kBg",
+    "text": "How about some news on the paper battery?",
+    "likes": 0,
+    "published_at": "2023-05-13T12:39:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzXds24tWi2ADukVe54AaABAg",
+    "author": "@ssgeek4515",
+    "author_channel_id": "UCHxHteF5Ie1hdF__geqYjmg",
+    "text": "Somewhere in the 'tube' a guy  pushes his bike along with massive air using three drill motors and blades at the rear running off a car battery. Stupid current draw and 'a-finger chopping'",
+    "likes": 0,
+    "published_at": "2023-05-13T11:59:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwSAuWRRtGtms0ND-94AaABAg",
+    "author": "@Leo99929",
+    "author_channel_id": "UC0WZcksFjFirTGBihDonjSw",
+    "text": "Watch Quint BUILDs if you want to see this concept done by a competent scientist/engineer.",
+    "likes": 0,
+    "published_at": "2023-05-13T11:58:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxY0ecBefYzydw4qHp4AaABAg",
+    "author": "@Leo99929",
+    "author_channel_id": "UC0WZcksFjFirTGBihDonjSw",
+    "text": "It's that easy to make a phone charger?!... Then why didn't you charge a phone?",
+    "likes": 0,
+    "published_at": "2023-05-13T11:56:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxlR5kZyQ4X9xKipgB4AaABAg",
+    "author": "@Leo99929",
+    "author_channel_id": "UC0WZcksFjFirTGBihDonjSw",
+    "text": "I'm glad you invented that magnetic gear box, otherwise the pre-existing and ubiquitous planetary gearbox would have span it way too fast when you grabbed one from an old drill. It might have lit two LEDs which would have been way too many. (/s)",
+    "likes": 0,
+    "published_at": "2023-05-13T11:54:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxl1TGRX0GlxJStIY14AaABAg",
+    "author": "@stevebarrett8544",
+    "author_channel_id": "UCXAQJwOgv5x4NBZZ85GmYgA",
+    "text": "Just brilliant mate thank you Rob 😂🙏",
+    "likes": 0,
+    "published_at": "2023-05-13T10:40:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyUR1tWy_rXRiNQpZV4AaABAg",
+    "author": "@paulwootton5378",
+    "author_channel_id": "UCbQz1mODANk2Sd7KAH14rfQ",
+    "text": "Finally...a video with information and instructions for application...just what an idiot like me needs to see here.",
+    "likes": 0,
+    "published_at": "2023-05-13T10:30:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwEm8m66XRxB9Pq4Ah4AaABAg",
+    "author": "@steveblayer342",
+    "author_channel_id": "UCdI8XgPyrfCczt-yrRI4SfQ",
+    "text": "Great work, looking forward for the geared wind turbine results , all the best .",
+    "likes": 0,
+    "published_at": "2023-05-13T10:17:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGxUktndrOXh5XK6x4AaABAg",
+    "author": "@LLJW4",
+    "author_channel_id": "UCHPXUC_YtYMbQAz0laR2U2g",
+    "text": "Would love a tutorial on how you made those blades!",
+    "likes": 0,
+    "published_at": "2023-05-13T09:34:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwsTmn_pqj2y0YvL9h4AaABAg",
+    "author": "@arthurvandijk2316",
+    "author_channel_id": "UCGru1UTMmYZoTJMjpBK7Ipg",
+    "text": "Top",
+    "likes": 0,
+    "published_at": "2023-05-13T08:26:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx09nleAsCgAQ0ckzZ4AaABAg",
+    "author": "@paulhyland4653",
+    "author_channel_id": "UCtxhvFYOnVacfRt0hnj1i6w",
+    "text": "Good video thanks.",
+    "likes": 0,
+    "published_at": "2023-05-13T07:19:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZ34q39TX1tK9esdh4AaABAg",
+    "author": "@andrewsherriff1843",
+    "author_channel_id": "UCmrxXfB_FxCiw1u4rOdU-Ag",
+    "text": "I remember a hub dynamo on my bike offering less resistance but powering the lights just aswell",
+    "likes": 0,
+    "published_at": "2023-05-13T05:54:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyYfAFY4PHvqcHU0GV4AaABAg",
+    "author": "@martinsaint9999",
+    "author_channel_id": "UCrcXoe2eN6XzQER2pvKhLZQ",
+    "text": "So you finally invented the flying bycicle. Amazing stuff!",
+    "likes": 0,
+    "published_at": "2023-05-13T05:28:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz905BP5BV8mJA0dhB4AaABAg",
+    "author": "@icantcook9998",
+    "author_channel_id": "UCnzL1KrAWLAN6zNmaShuUmw",
+    "text": "Not happy needed more footage of you riding the bike😬",
+    "likes": 0,
+    "published_at": "2023-05-13T05:15:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzFViVQG-v2jm572EJ4AaABAg",
+    "author": "@lorenbush8876",
+    "author_channel_id": "UCRnrwUc93B63NGuZpbQcaow",
+    "text": "Nice,that's cool.  It looks like you guys need some new streets/roads, we have some that are just as bad maybe even worse.",
+    "likes": 1,
+    "published_at": "2023-05-13T04:54:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzye7_SXMBJJt8-IIV4AaABAg",
+    "author": "@threeMetreJim",
+    "author_channel_id": "UCUuaXhl9gz7_T8HmBdkISPA",
+    "text": "You forgot a bridge rectifier after the bike dynamo. Those things produce AC, as it didn't matter for filament bulbs. The voltage regulator might not like that unless it has a rectifier on the board.",
+    "likes": 1,
+    "published_at": "2023-05-13T04:23:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzafLgeQKvP4JCsYed4AaABAg",
+    "author": "@frankmosses9121",
+    "author_channel_id": "UCS9gtdM8V8WYIgHIKPo2tbA",
+    "text": "Your jolly voice is a wonderful break from the rest of the world, thank you",
+    "likes": 0,
+    "published_at": "2023-05-13T01:23:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzVfG1_5iUG-xMnVPd4AaABAg",
+    "author": "@vanderfleet-martin",
+    "author_channel_id": "UCG5QQhbL0NDTshyj5EEyY7g",
+    "text": "Rob, make sure you wear your safety tie when working with power tool!",
+    "likes": 0,
+    "published_at": "2023-05-13T00:53:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVfG1_5iUG-xMnVPd4AaABAg.9pd-CIkR1DS9pqlTfK5M7H",
+        "author": "@tryhugging212",
+        "author_channel_id": "UCnV_MEmpFu8H3LeXIbFYq0g",
+        "text": "A nod to Colin Furze",
+        "likes": 0,
+        "published_at": "2023-05-18T09:13:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugytlwr0VeEsmWcenLR4AaABAg",
+    "author": "@docink6175",
+    "author_channel_id": "UCMdNB6OxYB53mZ4zAvtjhjA",
+    "text": "I watched a video the other day by Beer Run Bus a full time van lifer built a gennie using an elec motor and propeller mounted on the front of his van, Building A Wind Turbine For My Camper Van | Full Build. I commented about your channel then and now I'll add this link to a new comment",
+    "likes": 0,
+    "published_at": "2023-05-12T23:41:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyCja8FHbv3_Dqq2vp4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "Love it. But holding that out the car window while driving to charge your phone wouldn't be considered hands free. JK.",
+    "likes": 2,
+    "published_at": "2023-05-12T23:14:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwEBWJsZMkflGITXit4AaABAg",
+    "author": "@steve_ancell",
+    "author_channel_id": "UCUgI2AsnaEbjVGE1GmGS9kQ",
+    "text": "Great video, Rob and Luke, thanks for sharing.",
+    "likes": 0,
+    "published_at": "2023-05-12T22:59:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyd2V4MomTVnLGjwWB4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "1st, Great to see a grown man,,, laughing his head off on a bike with a Prop!!\nThis has many applications for many different things!!\nThank you Robert, for making my Week!!\nNamasté 🙏💞\nAndréa and Critters.  ... XxX...",
+    "likes": 0,
+    "published_at": "2023-05-12T22:46:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxcvmzv8gVCu7Eo2Mp4AaABAg",
+    "author": "@pikotech1",
+    "author_channel_id": "UCu5_mJ2ZELA4EVtNiIbhYlQ",
+    "text": "Love a good time lapse mate. Not only is it fun to watch, but also good to see how you do things.\n\nJust realised video 2000 is coming up quick amazingly. Any plans?",
+    "likes": 4,
+    "published_at": "2023-05-12T22:23:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwX6PLWKMX5rfMwX0R4AaABAg",
+    "author": "@kevinleebailey",
+    "author_channel_id": "UC0Vv1D6bTXjV4qa2MRqbUKA",
+    "text": "Stepper motor + 2 bridge rectifiers and a cigarette lighter USB charger as a 5v regulator. Would work well with your two turbines.",
+    "likes": 1,
+    "published_at": "2023-05-12T22:15:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyXMX42ScofhBbXC1R4AaABAg",
+    "author": "@dantronics1682",
+    "author_channel_id": "UCN9KK33HEkOmvTRdeEG0Vsw",
+    "text": "I thought those bottle generator produce AC",
+    "likes": 0,
+    "published_at": "2023-05-12T22:09:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgySmMMe854MXcqkV094AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "👍👍👍🐝🌞",
+    "likes": 0,
+    "published_at": "2023-05-12T21:47:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxY8CBB9dMakeEJS054AaABAg",
+    "author": "@piotr86",
+    "author_channel_id": "UC-yvoCOgVaa977hB0jxvNDQ",
+    "text": "I was sure that these dynamos give AC output. This voltage regulator expects DC input.",
+    "likes": 4,
+    "published_at": "2023-05-12T21:47:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxY8CBB9dMakeEJS054AaABAg.9pcezysDgF89pd1z1IWBpj",
+        "author": "@franzschmidt6199",
+        "author_channel_id": "UCzyKVO09MPLbaY3T8Xnbd5w",
+        "text": "You are right. So does mine, 12VAC",
+        "likes": 0,
+        "published_at": "2023-05-13T01:17:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwkKS-1UY-5s0svUk14AaABAg",
+    "author": "@Charlie-Oooooo",
+    "author_channel_id": "UCZyNf7hKgLg6VDrFUXW8DRQ",
+    "text": "I saw the prop on the bike and my 1st thought was \"wow - they've made a flying bike!\". My 2nd thought was that maybe Luke should be driving! 🤣",
+    "likes": 1,
+    "published_at": "2023-05-12T21:42:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxnSd32toIRbF6wBNl4AaABAg",
+    "author": "@R67K",
+    "author_channel_id": "UCKsf8L9GzYku5y3FJUmoAew",
+    "text": "This man is a blessing! Give this man a big workshop and two assistants and we solve the worlds energy needs in a week.",
+    "likes": 11,
+    "published_at": "2023-05-12T21:37:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-PCiKXF4j6WzBZs54AaABAg",
+    "author": "@clint9344",
+    "author_channel_id": "UCv0SjxZfsLe3o7p29ECN11Q",
+    "text": "Robert amazing and we are on same wavelength..have you looked into using a halbach array for your inner gear magnets? also I recommend you take a gander at raymondslab channel he is doing some interesting magnetic experiments also. Oh yea what if you used the outside casing for your wind turbine and turned the inside shaft? As always keep up the great work. Be in peace God speed.",
+    "likes": 1,
+    "published_at": "2023-05-12T21:29:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwHEiDzti5Zi0hUD6F4AaABAg",
+    "author": "@konkow-kv5yu",
+    "author_channel_id": "UCqgz1uybmNURq4A_QoaG7-w",
+    "text": "Just seeing a man on a propeller bike laughing..made my day",
+    "likes": 1,
+    "published_at": "2023-05-12T21:14:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyV4B4fZ4y9LjDrPUt4AaABAg",
+    "author": "@rickmorris433",
+    "author_channel_id": "UChS8ePDUbg3FT9Vy9KChZgA",
+    "text": "You know, I’ve been thinking about that for years I thought why don’t they funnel air back underneath the car to run a generator or two. That could potentially help power electric cars, driving 60,70 miles of wind energy.",
+    "likes": 1,
+    "published_at": "2023-05-12T21:14:03Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyV4B4fZ4y9LjDrPUt4AaABAg.9pcb8ZC27HP9pcfpaEqF3T",
+        "author": "@technocracynow9339",
+        "author_channel_id": "UCZ-ZfwQZuMCylZ6iG4GhCEA",
+        "text": "Because you have to put energy in to drive forward",
+        "likes": 0,
+        "published_at": "2023-05-12T21:55:01Z"
+      },
+      {
+        "id": "UgyV4B4fZ4y9LjDrPUt4AaABAg.9pcb8ZC27HP9peL0GK_Mhy",
+        "author": "@rickmorris433",
+        "author_channel_id": "UChS8ePDUbg3FT9Vy9KChZgA",
+        "text": "Yes you are right but a Tesla has batteries and if you are driving 6070 miles an hour down the road you have when resistance against the car you can use that to recharge your batteries I don’t claim to be any scientist just makes sense to me.",
+        "likes": 0,
+        "published_at": "2023-05-13T13:22:51Z"
+      },
+      {
+        "id": "UgyV4B4fZ4y9LjDrPUt4AaABAg.9pcb8ZC27HP9pqnRfAjjVH",
+        "author": "@drillerdev4624",
+        "author_channel_id": "UCs6mAHGUI-YblvSs-Dk9g9w",
+        "text": "@rickmorris433 a wind generator attached to a vehicle adds to air resistance, effectively slowing the vehicle down, and thus needing more energy to move it. \n\nA car can't recharge itself while moving. He can, however, use things like regenerative brakes which converts kynetic energy back to electricity by effectively augmenting the car's resistance to movement.\n\nThe closest thing to your idea would probably be a rotor sail. Modern ships use it, but that wouldn't be practical for a car.",
+        "likes": 0,
+        "published_at": "2023-05-18T09:30:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVDOKyZUINQD6Rmqd4AaABAg",
+    "author": "@DavidWilliams-yh6pq",
+    "author_channel_id": "UCt36C8Wxp77j4D6oFzamtjQ",
+    "text": "How close can you get to 1million to 1 gear ratio with that magnetic gear box Before it can't be turned?",
+    "likes": 0,
+    "published_at": "2023-05-12T20:49:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4UWC23qcVYiZrlNh4AaABAg",
+    "author": "@leestevenson1236",
+    "author_channel_id": "UCpQqDBdBi8yq-PQjc3grbXA",
+    "text": "👏👏👏Great video. Insightful, funny and whacky!",
+    "likes": 0,
+    "published_at": "2023-05-12T20:47:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyy4W7CrZa1R2Iu6hF4AaABAg",
+    "author": "@TheNebulon",
+    "author_channel_id": "UCyzKtpCZMqyVaYX2di8gHrg",
+    "text": "This seems like a great setup for a downspout charger as well",
+    "likes": 3,
+    "published_at": "2023-05-12T20:39:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxQ0veiBJOLMvzt2z54AaABAg",
+    "author": "@alvinjharris5230",
+    "author_channel_id": "UCVEt_nUP-BOiQR37xYkDyZg",
+    "text": "Brilliant keep goin",
+    "likes": 0,
+    "published_at": "2023-05-12T20:27:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6mO7X0eGMEFkvJct4AaABAg",
+    "author": "@whidzee",
+    "author_channel_id": "UCC9rx2d9oYaBwzwui-YGoWA",
+    "text": "if you stuck that turbine to the front of your car it won't really negatively impact the drag of the car.",
+    "likes": 0,
+    "published_at": "2023-05-12T19:58:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxE6N0-9uXHwbC-i9R4AaABAg",
+    "author": "@billy-go9kx",
+    "author_channel_id": "UCVefJ5B-i7g3yvSVVLvzRjg",
+    "text": "Too bad they don't have crocodile clips in the USA.  We only have alligator clips.  LOL",
+    "likes": 22,
+    "published_at": "2023-05-12T19:57:22Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "UgxE6N0-9uXHwbC-i9R4AaABAg.9pcTMs7wPje9pcVmeuqvEn",
+        "author": "@antoniopacelli",
+        "author_channel_id": "UCURSg2h9I_vEEomW2m7DfWw",
+        "text": "Imagine being a Rich Cayman of the Virgin Islands not knowing There were any Differences..",
+        "likes": 3,
+        "published_at": "2023-05-12T20:18:30Z"
+      },
+      {
+        "id": "UgxE6N0-9uXHwbC-i9R4AaABAg.9pcTMs7wPje9pcl6EJGrtw",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "Lmao 😂 Great Laugh,Thank you All!!😅",
+        "likes": 2,
+        "published_at": "2023-05-12T22:41:07Z"
+      },
+      {
+        "id": "UgxE6N0-9uXHwbC-i9R4AaABAg.9pcTMs7wPje9pcn7OKbO3W",
+        "author": "@abstractcreations246",
+        "author_channel_id": "UCk-T9cDdRsqyt_huyCbi4hw",
+        "text": "Good one! 😂",
+        "likes": 1,
+        "published_at": "2023-05-12T22:58:45Z"
+      },
+      {
+        "id": "UgxE6N0-9uXHwbC-i9R4AaABAg.9pcTMs7wPje9pcxst-n48G",
+        "author": "@johnschneider931",
+        "author_channel_id": "UCVHT8K-lxys7urpRa3GRkdg",
+        "text": "How bout a Gila clamp.  Their chompers are really tenacious.😅",
+        "likes": 1,
+        "published_at": "2023-05-13T00:32:45Z"
+      },
+      {
+        "id": "UgxE6N0-9uXHwbC-i9R4AaABAg.9pcTMs7wPje9pd5M0mhdoQ",
+        "author": "@Skaadi89",
+        "author_channel_id": "UCPmw3cMvq_2TwEdZqZDUffA",
+        "text": "Where I'm at they are called roach clips 😅",
+        "likes": 3,
+        "published_at": "2023-05-13T01:46:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxVSy7QlsiAuAM2Lth4AaABAg",
+    "author": "@ibme8359",
+    "author_channel_id": "UCMgAGBE7euZ8QqxNHAjuIoA",
+    "text": "\"Dino-mite-y\"",
+    "likes": 2,
+    "published_at": "2023-05-12T19:48:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxVSy7QlsiAuAM2Lth4AaABAg.9pcSJ0udfaM9pcThYMBWjX",
+        "author": "@matthewellisor5835",
+        "author_channel_id": "UCQ959xNaDNPYhEknfPV38sA",
+        "text": "You beat me to it",
+        "likes": 0,
+        "published_at": "2023-05-12T20:00:19Z"
+      }
+    ]
+  }
+]

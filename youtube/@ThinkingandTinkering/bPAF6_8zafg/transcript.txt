@@ -1,0 +1,203 @@
+[00:02] [Music]
+[00:15] so
+[00:15] this is a light emitting diode now we
+[00:18] all know about these you put a voltage
+[00:20] in it emits some light
+[00:21] close up it looks like this
+[00:27] what it is is a tiny bit of silicon in
+[00:30] there a tiny bit of semiconductor when
+[00:31] we put a current through we
+[00:33] force the holes and the electrons to
+[00:34] recombine and that emits a photon so we
+[00:37] bang a little few volts through there
+[00:39] hey presto it lights up big whoop now
+[00:42] the interesting question of this
+[00:43] really is when you start to think about
+[00:45] motors and generators now motors and
+[00:47] generators are essentially the same
+[00:48] thing
+[00:49] you put some current in a motor it'll
+[00:51] spin you spin a motor it'll generate
+[00:54] you've got to ask yourself haven't you
+[00:55] can these operate in exactly the same
+[00:58] way we put some current in
+[01:00] and we'll get a light if we put some
+[01:02] light in will we get a current
+[01:04] so here's my led connected up to my
+[01:06] voltmeter it's reading on volts because
+[01:08] current to be honest is going to be
+[01:10] minuscule but let's see if we can drive
+[01:11] a voltage by shining a light on that
+[01:17] and hey presto it jumps up
+[01:21] to well depends how far away the light
+[01:24] is but there we go a
+[01:25] vault well i think that was cool so
+[01:28] an led will operate in reverse you put
+[01:31] some current you'll get some light you
+[01:33] put some light you'll get some current
+[01:34] true enough it's going to be micro amps
+[01:36] in a tiny thing like this
+[01:38] oh if only there were a way to get a
+[01:40] whole load of these to
+[01:41] get together in one big block
+[01:44] okay i've had a collection and i've got
+[01:46] these that's an undercover
+[01:48] lighting unit broken obviously some leds
+[01:51] in there
+[01:52] we've got this as an led torch got some
+[01:55] nice strips of leds in there
+[01:57] and we've got this which is an led
+[02:00] floodlight so let's get those apart so
+[02:03] having pulled those apart we get
+[02:04] three different combinations of those
+[02:06] leds
+[02:07] now these are surface mount leds they're
+[02:09] actually made in exactly the same way
+[02:12] but on the little uh plastic led i
+[02:14] showed you that's got a little cup as
+[02:16] you saw
+[02:17] the light coming out has been focused
+[02:19] reflected and focused
+[02:20] this one is exactly the same thing but
+[02:22] on a flat surface and what they've done
+[02:24] is bring a bit of yellow on it
+[02:26] that's actually some epoxy and it's got
+[02:28] a phosphor in there and that phosphor
+[02:30] is a terbium aluminium oxide doped with
+[02:33] cerumium
+[02:34] or it's called a yag phosphor the light
+[02:36] led emits a blue light
+[02:38] and the yellow shifts it and mixes with
+[02:40] it to create the white light that we see
+[02:42] so this is the same led
+[02:44] only in a flat panel and covered with a
+[02:46] phosphor and so we can get loads of them
+[02:49] all in a block really really easily in
+[02:51] these three types we've got one whether
+[02:53] all individual and they've been put on a
+[02:54] circuit board same thing
+[02:57] all individual and put on a circuit
+[02:58] board and here is the newest type it
+[03:00] called
+[03:01] um chip on board or a cob led and here
+[03:04] is where they put each little chip on
+[03:05] there and put a
+[03:06] the phosphor on as a big coating of the
+[03:08] whole lot
+[03:09] they're really very much cheaper these
+[03:11] are individual components
+[03:13] this one is made to charge on a battery
+[03:15] and so we've got a plus and a minus so
+[03:16] we've got this massive resistor here
+[03:18] as a current limiting resistor because
+[03:20] when we're putting power into an
+[03:22] led we don't want to put too much in and
+[03:24] we'll blow the thing up
+[03:25] when we want power out of course we
+[03:27] don't want that to happen so i've
+[03:29] snipped the resistor so i'm going to
+[03:30] take my positive here my negative here
+[03:32] these ones are meant to run on mains and
+[03:34] you see a little group of them resist a
+[03:36] little group resistor and they're tiny
+[03:38] so that kind is going to be an absolute
+[03:40] pain to work with
+[03:41] this kind you need to identify the
+[03:43] resistor snip it
+[03:45] with cobs they come with no current
+[03:47] limiting at all you're meant to put
+[03:49] current limiting on if you want to use
+[03:51] them
+[03:51] but these cobs all come just on board
+[03:54] with a black and red wire sticking off
+[03:56] so they're dirt cheap and dead easy to
+[03:58] use we're gonna do
+[04:00] this one this one next to useless to us
+[04:04] okay same thing this time here is our
+[04:06] board of 20
+[04:07] of those leds attached to our voltmeter
+[04:10] i'm going to shine a torch on them and
+[04:11] we'll see what happens
+[04:15] now if i shine the torch that far away
+[04:17] we get 1.7 volts
+[04:19] easily as i move the light closer the
+[04:21] voltage goes up of course because it's
+[04:23] intensity of light
+[04:24] so 2.1 volts out of that little panel
+[04:27] awesome so we've got a voltage out of it
+[04:29] but we can get a voltage out of
+[04:30] something by sticking two nails and a
+[04:32] lemon
+[04:32] something like that will give you a
+[04:33] voltage the real question is of course
+[04:36] is is it generating some power can we
+[04:38] charge something with it
+[04:39] well i've connected a capacitor here is
+[04:41] a thousand microfarad capacitor at 50
+[04:43] volts
+[04:43] i've connected it uh to in parallel to
+[04:46] the board
+[04:46] and we're going to shine a light on it
+[04:48] and if we put a light on that what we
+[04:50] can see
+[04:51] is that voltage going up as that voltage
+[04:55] climbs
+[04:56] up it's charging the capacitor because
+[04:58] it's actually measuring the voltage
+[04:59] across the capacitor so we're charging
+[05:01] something now so now we're getting real
+[05:03] power out of it
+[05:04] obviously it's not very much but then a
+[05:07] standard solar cell wouldn't do very
+[05:09] well in these conditions we're indoors
+[05:11] under fluorescent lights
+[05:12] and it's raining outside which is why
+[05:14] i'm not doing this in the sunshine
+[05:15] because there isn't any
+[05:17] anyway we can actually get real power
+[05:19] out of that
+[05:20] okay so i did some back of the envelope
+[05:22] calculations with this thing
+[05:24] this is a solar cell i got from radio
+[05:26] shack it cost 84 pounds and
+[05:28] sure i probably felt well over the odds
+[05:30] for it but it was interesting to be able
+[05:32] to
+[05:32] compare a bit of silicon with what's
+[05:34] going on here so why would you bother
+[05:36] because these things are
+[05:40] about three pence each so if you built
+[05:42] one that size it's gonna cost you about
+[05:44] three to four hundred pounds a hell of a
+[05:46] lot more
+[05:47] and because you wouldn't bother you
+[05:49] wouldn't bother buying them new
+[05:50] but these things actually are stupidly
+[05:53] easy to find
+[05:54] they're stupidly easily found as scrap i
+[05:56] mean i've got a whole box full of them
+[05:58] right here i've got about 30 35 of them
+[06:01] and they cost me nothing and they've
+[06:03] just been sitting there waiting for me
+[06:04] to do something with them now i've
+[06:06] thought about lighting
+[06:07] equally i could just screw them all
+[06:09] together on a panel and make my own
+[06:10] solar cell
+[06:11] and that's my thought now is let's get a
+[06:14] panel of those met together
+[06:15] make up a large size solar cell and test
+[06:18] that solar cell
+[06:20] against this solar cell because the
+[06:22] performance of these based on the
+[06:24] calculations of what it does on there
+[06:26] actually they're not that far off and i
+[06:28] was quite amazed by that
+[06:29] so putting together your own solar cell
+[06:32] using
+[06:33] particularly these cob leds if you find
+[06:37] i think would be a great way of making
+[06:39] your own solar cell
+[06:40] for next to nothing anyway i hope you
+[06:42] enjoyed the video and thank you very
+[06:44] much for watching

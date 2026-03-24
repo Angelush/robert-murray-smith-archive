@@ -1,0 +1,135 @@
+[00:03] so we were looking at this thing this
+[00:05] syringe filled with liquid pressed
+[00:06] plastic now this liquid plastic won't
+[00:09] dry because
+[00:10] um it's airtight as there's no air
+[00:12] getting to it there's no way for the
+[00:13] solvent to go so it's going to stay in
+[00:14] liquid until you actually get it out of
+[00:16] the tube and lay it down somehow
+[00:18] but if we have to think about the way
+[00:20] that this can be put into a 3d printer
+[00:22] then actually it's kind of really simple
+[00:24] um you 3d printed you mix it through the
+[00:26] printer as an xy table
+[00:28] so it moves in the xy plane and however
+[00:30] it moves up and down it's a bit
+[00:31] complicated or very often
+[00:33] you have the print head and the print
+[00:35] head
+[00:36] moves into the center it moves up and
+[00:38] down so you get the whole coverage of
+[00:40] the area
+[00:41] now in filament printers these are
+[00:43] heated and you have your
+[00:45] filament feeding into there you force it
+[00:48] through on the heat
+[00:49] and it deposits your abs on your table
+[00:51] and that's basically how they work
+[00:53] now with something like the liquid
+[00:55] printer what we do is remove the heating
+[00:56] element and
+[00:58] use cylinders now a syringe
+[01:01] can have a fine needle attached and
+[01:03] those needles can be
+[01:05] really any kind of diameter a diabetics
+[01:08] insulin needle for instance is
+[01:10] uh very small i can't remember what it
+[01:12] is actually but it's
+[01:13] less than a millimeter and that would be
+[01:15] kind of ideal here because you're
+[01:16] putting a very small trace on
+[01:18] and because um the drying of this stuff
+[01:21] is going to be related to the surface
+[01:23] area
+[01:23] then the grid to the surface area to
+[01:25] volume ratio the quicker it's going to
+[01:27] dry so very small thin line it's going
+[01:29] to have a big surface to air
+[01:31] volume ratio area and so it's going to
+[01:33] dry very quickly so we want something
+[01:34] like that
+[01:35] so we just throw it at the heat head and
+[01:37] pop our syringe in there
+[01:38] and then a motor controlled pump to
+[01:42] pump the um fluid out of there
+[01:45] as it moved and laid down the fluid bed
+[01:47] now this actual basic machine we can buy
+[01:49] from china for about 300 quid
+[01:52] it's all cast aluminium and it comes
+[01:53] with all the motors and everything and
+[01:55] from the heat head
+[01:56] it's only really lacking control
+[01:57] electronics the control electronic could
+[02:00] be just the same as your 3d
+[02:02] filament printer it's just that the
+[02:04] control in the computer would
+[02:05] be uh much would have needed some
+[02:07] modification because the
+[02:10] degree of resolution you're going to get
+[02:11] on this is just so much greater
+[02:13] than you can get on a 3d uh filament
+[02:15] printer so you're going to get a much
+[02:17] better resolution and much better
+[02:18] surface finish
+[02:19] with this kind of thing and all of the
+[02:21] parts are actually
+[02:23] pretty much readily available that is
+[02:24] you can buy this from china you can buy
+[02:26] this from the local drugstore
+[02:28] um it can be a bit funny in some
+[02:30] countries about selling your needles i
+[02:32] suppose i do know that the americans
+[02:33] will have trouble
+[02:34] buying needles but you could always
+[02:37] drill very tiny holes into a
+[02:39] plate of some kind and use a tiny hole
+[02:41] plate thing
+[02:42] i just thought that the syringe idea
+[02:44] with the needles was just something that
+[02:45] was out there that could be used
+[02:47] now um that would make it really really
+[02:50] simple obviously because all you would
+[02:51] do is
+[02:52] get your syringe full of liquid plastic
+[02:55] snap it in
+[02:56] and it would squeeze down there's going
+[02:58] to be no waste no mess no cleanup
+[03:00] because you'd just be able to pull the
+[03:01] thing out when you're done with it throw
+[03:02] it away
+[03:03] put it in a different color put a
+[03:04] different kind and you're off again no
+[03:06] need to clean your print head out
+[03:07] no need to clean out any gunk up there
+[03:09] that's actually got stuck
+[03:10] while you were printing so it's much
+[03:12] more convenient to use in those terms
+[03:15] and the resolution that you're going to
+[03:16] get is much better and the concept
+[03:18] machine is actually not that different
+[03:20] to what they're already doing with 3d
+[03:22] filament so it wouldn't need that much
+[03:24] changing so i guess my next step really
+[03:28] is to try with abs drive with pla and
+[03:30] i'm pretty confident i can do it first
+[03:32] too
+[03:32] grab that thing that was bubbling on
+[03:34] about from china build one give it a go
+[03:36] but there's the concept machine that i'm
+[03:38] thinking of anyway
+[03:40] uh if you have any feedback on that like
+[03:42] hints on what i should be looking at
+[03:44] building a machine because obviously
+[03:45] i've done nothing with 3d printings i
+[03:47] don't know that much about it
+[03:49] the inks are plastics i'm fine with the
+[03:51] actual mechanics of 3d printing
+[03:54] never done anything so it's it's like an
+[03:56] adventure for me
+[03:57] and so if anybody wants to get back and
+[03:58] give me a few hints on that that'd be
+[04:00] really cool and really well appreciated
+[04:02] anyway i hope you found this idea
+[04:04] interesting and thank you very much for
+[04:06] watching

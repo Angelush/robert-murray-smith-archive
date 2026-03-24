@@ -1,0 +1,235 @@
+[00:00] [Music]
+[00:08] You might remember a video I did on a
+[00:10] gear system called the perpetual wedge.
+[00:13] It's a two gear system where you can get
+[00:16] incredible gear reduction. If you print
+[00:19] say a gear at 101 teeth, a gear at 100
+[00:22] teeth, you'll get a gear reduction of
+[00:24] 100 to one. It was amazing actually. But
+[00:27] of course it does have its limitations
+[00:30] mostly in terms of
+[00:32] adaptability. Equally, you might
+[00:34] remember this. This is a cyclloid drive
+[00:37] where the cyclloid disc doesn't have
+[00:39] teeth. It's got these loes. And as the
+[00:42] loes are rotated on a centric, they move
+[00:45] around these pins creating a gear ratio.
+[00:48] Well, the gear ratio is equal to the
+[00:50] number of loes. Now, it too has its
+[00:53] problems. I mean, one thing is it's a
+[00:56] devil to work out all of the mathematics
+[00:58] for making those loes, making it
+[01:00] challenging to draw. So, I thought,
+[01:03] well, how about if we could combine the
+[01:05] perpetual wedge with the cyclloid drive
+[01:07] in a way that would produce a gear
+[01:10] system that was robust, easy, adaptable,
+[01:13] big, and didn't take any complicated
+[01:16] mathematics to do that. It could be
+[01:18] really easy to do. So, of course, when
+[01:20] we look at this, the first thing I
+[01:22] thought is, well, how about we just make
+[01:25] a gear and I drew this. This, of course,
+[01:29] will be on Thingiverse. And if anybody's
+[01:31] interested, they can download the files
+[01:33] and have a play with it. So, drawing
+[01:35] these two gears, I have covered before
+[01:37] in video number 2364 called Fun with
+[01:40] Gears and video number
+[01:43] 2352, making ring gears. So basically I
+[01:46] just use those online gear designers to
+[01:49] specify these piece of cake. This has 84
+[01:54] teeth and this has 80 teeth. And the
+[01:57] reason for the teeth numbers is they fit
+[01:58] inside each other really easily. But the
+[02:02] teeth numbers are important because the
+[02:04] gear ratio is this number of teeth 80
+[02:09] divided by that number of teeth 84 minus
+[02:13] 80. So four. So the gear ratio is 80
+[02:17] over 4 or it's a 20 to1 gear. Now
+[02:20] clearly we can make this any size we
+[02:22] want. And using that little formula
+[02:25] which is gear divided by ring minus gear
+[02:29] will give you the gear ratio you want.
+[02:32] And of course this rotates nicely inside
+[02:34] there with a cyclic motion. So what we
+[02:38] need is an eentric. And the question
+[02:41] about an eccentric is how far does it
+[02:43] move? Well, you can measure it. Hold it
+[02:45] at the center position and measure that
+[02:48] gap there. This one you'll find is 5 mm.
+[02:52] And what that means is I have to create
+[02:55] an eentric with a throw of 2.5 mm
+[02:58] because it'll go 2.5 one way, 2.5 the
+[03:01] other. Overall, it'll move it 5 mm. And
+[03:05] you do that by creating a circle,
+[03:08] sticking a rod through it, and moving
+[03:10] that rod off center by 2.5 mm. And
+[03:14] you'll get your eentric. It couldn't be
+[03:17] easier than that. So when we do that, we
+[03:20] get our eentric cam like that. We get
+[03:22] our drive shaft. One goes in the other.
+[03:24] And when I rotate it, of course, it will
+[03:27] move this edge 5 mm from one side to
+[03:30] another. And I put that in the center of
+[03:32] that center gear. That then goes in the
+[03:35] center through there. Line up the
+[03:37] eentric. And when we turn that, hey,
+[03:39] presto, our internal gear rotates around
+[03:43] rather nicely. Now, the size of the
+[03:45] center hole is actually just random. I
+[03:47] thought 20 would be a good size.
+[03:48] Clearly, I could have made it bigger.
+[03:50] Smaller would be a bit challenging, but
+[03:52] just some size that that will fit into.
+[03:56] Now, we've sorted our input. What we
+[03:58] need is our output. And that's the job
+[04:00] of this plate. Now on our input, we
+[04:03] stole that idea or have borrowed if you
+[04:05] like that idea of these tiny tooth
+[04:08] difference from the perpetual wedge. For
+[04:11] the output, we're going to borrow that
+[04:13] idea that comes from this drive where we
+[04:16] use a disc with pins, which is exactly
+[04:17] what that is. So that goes over the
+[04:20] central axle and those pins locate in
+[04:23] the circles there. So that when we turn
+[04:25] that, this goes around pushing those
+[04:28] pins round in the same way that it did
+[04:30] that. But instead of going around lobes
+[04:32] and these projections, it's using gear
+[04:35] teeth to do it. Now, of course, the big
+[04:38] challenge here is how do I know where to
+[04:41] put those holes? And how do I know how
+[04:44] big to make those pins? Well, stunningly
+[04:47] enough, that's also pretty
+[04:49] straightforward, right? Let's start with
+[04:51] the gear that we pulled in from our gear
+[04:53] drawing program. You'll notice that the
+[04:55] teeth there look a little bit pointy.
+[04:57] That's because I changed the pressure
+[04:58] angle to 30°. Normally, it's 2025. I
+[05:01] changed it to 30 because it makes it
+[05:03] easier to rotate that big gear around
+[05:06] the ring. And you'll notice there's a
+[05:07] central that we're going to cut out,
+[05:09] which is where the eentric goes in the
+[05:12] driver. And it's 20 by 20. That seems
+[05:14] good to me. So just copied it and moved
+[05:16] it up here to give me a hole of 20 by
+[05:20] 20. Just make sure that that's actually
+[05:22] centered to the center here. So that's
+[05:25] centered there. Is that centered there?
+[05:27] And then move it some distance away.
+[05:30] Some distance away. Whatever looks good
+[05:32] to you. 20 because it seems reasonable.
+[05:35] You don't need much more than that at
+[05:36] this stage to be honest. Then just
+[05:38] highlight the two, copy them, rotate it
+[05:42] by 60°. 60° because well I want 60 uh
+[05:47] six of these. So 60° is more or less
+[05:50] where I want it to be. Once it rotated
+[05:53] in a 60° all we have to do is repeat
+[05:56] that five more times. And that's what we
+[05:59] get. Now if we highlight that whole lot
+[06:02] and merge it by hitting the merge
+[06:04] button, what we'll get is exactly the
+[06:07] disc that we held up and that's what you
+[06:09] print off. But what of course we need to
+[06:11] do now is change this or use this as a
+[06:15] guide to draw the actual pin disc. So
+[06:17] let's shrink that down by five and
+[06:20] create another disc at 10 that will
+[06:22] overlay that so that it comes some
+[06:25] distance between the hole and the teeth.
+[06:28] 120 seems like a nice size. So created a
+[06:30] disc at 120 and now center it to the
+[06:33] gear. Copy the gear. drag it and move
+[06:36] the copy out the way and change its size
+[06:38] back to the original size, which in my
+[06:40] case is 10 or if you like a centimeter.
+[06:43] That's going to be the one that we
+[06:44] print. This one we've got here is the
+[06:46] one we're going to use as a guide. So,
+[06:48] what we do with that is ungroup it. And
+[06:52] hey, presto, we'll get all those little
+[06:54] holes back. Then we can delete the gear
+[06:57] because we're just using it as a guide
+[06:59] to place these holes. These holes of
+[07:02] course are 20 by 20 which is too big for
+[07:05] the pin. Now if you remember this will
+[07:09] move 5 mm backwards and forwards. This
+[07:12] is 20. The size of the pin is the size
+[07:15] of the hole minus the distance it moves.
+[07:18] So the pin size we want is going to be
+[07:21] 15. So we create a cylinder at 15 and
+[07:25] say 20 high. And I've made it 19 just so
+[07:28] it sits a tiny bit above below and
+[07:30] doesn't scrape. Now if we hit that
+[07:33] cylinder there, press down the shift,
+[07:35] hit that one, and then center it to the
+[07:38] hole that we were going to cut out.
+[07:42] Remove the hole by deleting
+[07:45] it. That's going to be the position of
+[07:47] the pin. And we repeat that all the way
+[07:50] around. When we've done that, we can
+[07:52] delete the center and replace it by
+[07:54] something that the axle is going to go
+[07:56] through. In this case, 10.3. And that
+[07:58] will be the main axle that goes through.
+[08:00] Highlight the whole lot. Group it. And
+[08:02] hey, Presto, we have our drive plate
+[08:04] with the pins in the right place. Now,
+[08:06] we can shove it in place. There's a clip
+[08:09] that actually fits in there. So, we pop
+[08:11] the clip in. And then there's a handle
+[08:14] that goes on the other side. And head
+[08:17] pressed off, we've created our
+[08:20] Frankenstein drive that has a one in 20.
+[08:23] Let's have a look at it. Right, I've put
+[08:25] a dot at the top there, which is a
+[08:27] direction the handle is facing. If I
+[08:29] turn that handle one full turn, then
+[08:31] you'll see that dot has moved about 12th
+[08:35] of a rotation. So that is a 20 to1
+[08:39] gearbox. So if you remember those two
+[08:42] simple rules that the gear ratio is the
+[08:44] difference in teeth number and the
+[08:47] diameter of those pins is the diameter
+[08:49] of the hole less the throw. You can make
+[08:52] this in pretty much any size you want.
+[08:55] Now this is obviously demonstration. So
+[08:57] you may think well there's a lot of
+[08:58] friction. Actually that's rolling
+[09:00] friction in there. But you could just
+[09:03] replace those with bearings if you like.
+[09:05] So if I made this hole say uh well I've
+[09:07] got skate bearings so they're 22. So, I
+[09:10] made 27. Instead of having a pin size at
+[09:12] 15, it was eight. Then I could pop
+[09:14] bearings on there, just normal skater
+[09:16] bearings, and it do the same job. So, we
+[09:18] could put bearings in here. It might be
+[09:20] fun because I use just a normal spur
+[09:22] gear to try herring bone gears with this
+[09:25] to see what would happen if you replace
+[09:27] the spurgeear with the herring bone
+[09:28] gear. That would probably be quite cool.
+[09:31] Obviously, this is the output. So, we
+[09:33] can either take an output axle up here
+[09:35] or we could put gear teeth around here
+[09:37] to make that an output gear. whatever we
+[09:39] wanted really. And that is the input. So
+[09:42] again, that's where your motor or
+[09:44] whatever it is is going to attach. So
+[09:47] very easy to draw, quite robust,
+[09:49] incredible gear ratios you could get out
+[09:52] of it. I don't know what more you would
+[09:54] want from a set of gears with a high
+[09:57] reduction ratio. For me, perhaps the
+[09:59] most perfect gear ever, even though it
+[10:01] is a bit of a Frankenstein between the
+[10:03] perpetual wedge and the cyclloid drive.
+[10:06] I hope you enjoyed the video. Thank you
+[10:07] very much for watching and please do
+[10:09] remember to like and subscribe.

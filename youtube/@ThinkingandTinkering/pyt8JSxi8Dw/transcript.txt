@@ -1,0 +1,126 @@
+[00:01] So, if you follow any of my videos,
+[00:03] you'll notice that one of the things I'm
+[00:05] interested in is actually flux sushi.
+[00:07] And while looking into this, I came
+[00:09] across a 1968 patent by a guy called
+[00:12] Subto Gar. And the patent number is
+[00:15] 3368141. I'll write that in the
+[00:17] description in case you want to look it
+[00:18] up. But what he's got in this patent,
+[00:21] and he calls it a transformer with a
+[00:23] system by permanent magnet. What he's
+[00:25] got in this is a central arm coil with
+[00:27] three coils around it. Uh the center
+[00:29] coil is a drive coil. The two outer
+[00:30] coils are the pickup coils. And then at
+[00:33] the top uh there's a U shape around the
+[00:35] center core. He's got an iron framework
+[00:37] separated by an air gap. And then the
+[00:39] framework goes off in two big guys. And
+[00:41] there's a permanent magnet between those
+[00:43] two frame uh legs. And the permanent
+[00:46] magnet is supposed to enable switching
+[00:49] through the transformer by the action of
+[00:51] the center coil. So I built a little
+[00:54] implementation of that and here it is.
+[01:00] Okay. So, instead of having a
+[01:02] straightforward um single piece of iron,
+[01:04] what I've done is down the U shape. And
+[01:06] here you can see my drive coil. And
+[01:09] there's the iron connecting it to these
+[01:11] two output coils. And then those output
+[01:15] coils are linked through into this
+[01:19] framework here. Now, Darren has a um
+[01:22] sorry about this. has a magnet between
+[01:24] these two after put two 1 cm neo magnets
+[01:29] one pointing north and one pointing
+[01:31] south essentially the same effect
+[01:33] okay one to one so you don't actually
+[01:36] get any transformation going on there so
+[01:39] one obviously have a step up
+[01:42] transformer isolation transformer so any
+[01:45] step up that occurs is occur actually
+[01:48] just because of the action of the work
+[01:52] Okay. So, what I've done in order to be
+[01:54] able to switch that is I've set up a
+[01:56] little mechanical oscillator. It's just
+[01:58] a household relay. It's meant to um
+[02:01] drive 240 volts from a 12 V relay coil
+[02:04] in there. So, I've got two six batteries
+[02:07] in series to give them a 12 volt to
+[02:09] power the relay coil. And then this
+[02:11] little D cell is what is actually going
+[02:12] to transform and power the transformer.
+[02:15] The U 1.5 volts and it's completely
+[02:18] isolated from these two. Uh essentially
+[02:21] these two are just switching the relay
+[02:23] coil and that switching allows this one
+[02:25] and a half volt battery to be switched
+[02:26] to the transformer.
+[02:29] Now it's normally closed to normally
+[02:32] closed. So normally open normally closed
+[02:36] open
+[02:37] because oscillates so rapidly the never
+[02:41] gets to the normal open position. So you
+[02:44] get nothing. So what you want is um
+[02:47] closed position to be broken and then
+[02:49] reformed. And that's what happens
+[02:50] because it's so rapidly it snaps forward
+[02:52] open and closed. What that means is that
+[02:54] when I connect the top of the positive
+[02:56] that del is going to power the
+[02:58] transformer immediately. You don't want
+[03:00] that to happen. So what I'll do is I'll
+[03:02] switch it on and then touch the
+[03:06] um line of the cable to the positive and
+[03:09] we should see something happen on the
+[03:11] voltmeter. So I'm going to do that and
+[03:13] turn this around so that you can
+[03:14] actually have a look at what happens to
+[03:15] the voltmeter reading this.
+[03:19] So, first of all, here it is uh without
+[03:22] the magnets in position. So, I've just
+[03:23] taken those two magnets off. Let's turn
+[03:25] the oscillator
+[03:26] on
+[03:28] [Applause]
+[03:32] and it goes up to about
+[03:38] 300. So, my meter turned on and if I
+[03:41] just touch that del to it, you can see
+[03:44] that we get a spike out of it.
+[03:47] There's actually a considerable
+[03:48] considerable spike. So now I turn on the
+[03:52] um
+[03:58] oscillator. Sorry, the um negative came
+[04:00] untouched. There's the oscillator
+[04:03] running to
+[04:05] it. There we
+[04:08] go. And there it is without it. And
+[04:12] there it is touching it and running.
+[04:15] Turn the oscillator off.
+[04:18] And even though I keep the power on the
+[04:20] D cell, obviously nothing's happening
+[04:21] because it has it's now a DC. So it's
+[04:23] not going to have any transformer
+[04:24] action. Snap it off. There we go. We get
+[04:28] a little bit of transformer there going
+[04:29] on. When I turn with the magnets
+[04:36] its considerable
+[04:42] amount. So there we are. very
+[04:44] interesting and probably worth a play
+[04:45] around
+[04:47] with. Okay, so we had there was the
+[04:50] thing running with and without the
+[04:51] magnets and as you saw without with the
+[04:53] magnet sorry without the magnets it ran
+[04:55] at 300 ms and with the magnets it was
+[04:59] running at 500 ms. So it's almost
+[05:01] doubling it by adding magnets. Now Gar
+[05:04] was quite uh concerned about saturation.
+[05:07] So um small voltages and small magnets
+[05:09] seem to be the key with this particular
+[05:11] thing. So not a particularly powerful um
+[05:14] circuit uh sorry piece of machinery but
+[05:17] certainly a very interesting piece of
+[05:18] machinery and probably worth playing
+[05:20] with.

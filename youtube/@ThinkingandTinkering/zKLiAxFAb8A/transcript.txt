@@ -1,0 +1,298 @@
+[00:02] [Music]
+[00:15] hi so over the last few days what we've
+[00:17] been doing is
+[00:18] looking at these things and what to do
+[00:20] with them when they
+[00:21] die and it's been a sort of two-part
+[00:24] project really
+[00:25] one is what ideas can we come up with
+[00:27] for the bits that are in there and then
+[00:29] projects that we could do with those
+[00:31] bits or useful things that we could do
+[00:33] with those bits
+[00:34] the other thing is kind of been a bit of
+[00:36] a challenge and it's to see how creative
+[00:39] you can get with the bits and pieces in
+[00:41] there so the depth at which you look at
+[00:43] something
+[00:44] and then the creativity you can bring to
+[00:46] that to see what else you could do with
+[00:48] it there's been a sort of two-part
+[00:50] challenge if you like
+[00:51] now obviously when we take this apart we
+[00:53] get lots of bits out of it and we've
+[00:55] looked at quite a few of those and
+[00:56] there's a few more videos just to look
+[00:58] at some of those bits
+[00:59] but what i wanted to look at was this
+[01:01] thing which is the power board
+[01:03] now you get a lot of this kind of
+[01:05] dispersed electronics all over the place
+[01:07] this just happens to be the power board
+[01:08] from here
+[01:09] and you can scavenge the parts and reuse
+[01:12] those parts and some of the easier parts
+[01:13] of scavenging reuse are things like the
+[01:15] capacitors the resistors the
+[01:17] transformers
+[01:18] the connectors they're really quite easy
+[01:19] to get off
+[01:21] but these bits if you can see there we
+[01:24] go
+[01:25] the semiconductors those bits are
+[01:28] actually quite
+[01:28] hard to get off because they're
+[01:30] susceptible to heat damage
+[01:32] and it is challenging to know what to do
+[01:34] with them when you get them off
+[01:36] and those are the bits that i really
+[01:37] wanted to have a think about
+[01:39] now there are two main types that you'd
+[01:41] find on a board and that's
+[01:43] mosfets and power transistors the power
+[01:46] transistors are the ones that we're
+[01:48] really interested in
+[01:49] and they fall into two camps there's the
+[01:51] pnp type
+[01:52] and the npn type now n-type silicon is
+[01:55] the kind of silicon that's lots of
+[01:57] electrons that are easy to move
+[01:59] p-type is a kind of got lots of holes
+[02:01] ready to accept them
+[02:02] and you make a stack of those n p
+[02:06] n or p n p to make the transistors
+[02:09] and they look like this this is a npn
+[02:22] notice it's n-type p-type and type
+[02:25] and the middle section on npn that p
+[02:28] section is the base
+[02:29] now on a pnp it looks like this
+[02:40] and again you'll notice although it's p
+[02:43] n p
+[02:43] the middle section is the base because
+[02:46] all these transistors
+[02:47] have three prongs to them base collector
+[02:49] and emitter
+[02:50] and if you look what what they are
+[02:52] because you look at the package and you
+[02:54] see what they are it'll tell you what
+[02:55] type it is
+[02:56] now silicon has a really curious
+[02:58] property actually silicon has
+[03:00] a whole host of curious properties this
+[03:02] is a particularly useful one to look at
+[03:04] it's a 2n3055
+[03:06] top hat and here the collector is the
+[03:09] case
+[03:10] and then if we look at it this way
+[03:11] that's the basin that's the emitter
+[03:13] so that one there that's the middle
+[03:16] section we saw
+[03:17] this outer case and this one here are
+[03:20] the two end sections the two
+[03:21] end types now the reason i've chosen to
+[03:24] look at this one is because it's
+[03:25] really easy just to saw that top off if
+[03:28] we saw that top off
+[03:30] then we can see what inside is like so
+[03:32] there it is with the top sawn off
+[03:34] and that little square there is in fact
+[03:37] the silicon it's the npn silicon bit
+[03:40] that we're actually interested in and
+[03:41] it's connected nicely for us
+[03:43] to the outer case here and then remember
+[03:46] that one's the base
+[03:47] and that one's the emitter so we're
+[03:50] really interested in the pn
+[03:51] junction so we want that one definitely
+[03:54] either of these two is good because that
+[03:55] will create a pn junction for us
+[03:57] one on one side one on the other side
+[04:00] and pn
+[04:01] junctions have some amazing properties
+[04:04] and let's have a quick look at what one
+[04:06] of those pn junction properties is
+[04:08] so here's my transistor and it's
+[04:10] connected to my multimeter and it's on
+[04:12] the
+[04:12] voltage reading and i've collected
+[04:15] connected the base to the positive
+[04:16] and in this case the emitter to the
+[04:18] negative i could equally collected
+[04:20] connected that can
+[04:22] now if you have a look at the meter
+[04:23] reading you'll see it's reading 156
+[04:26] millivolts
+[04:27] if i do that it drops to negative
+[04:31] almost instantly and there we go 164
+[04:38] down to negative 163
+[04:42] i could keep this all day let me rejig
+[04:46] this for an amp reading
+[04:53] and we can see that we're actually
+[04:54] getting 0.04
+[04:56] microamps okay that is a tiny amount of
+[04:59] power but then we're in the lab and
+[05:01] we're running this off fluorescent
+[05:02] lights but watch what happens when i put
+[05:04] my hand in front of it
+[05:07] it drops right down to zero
+[05:17] so clearly that has actually quite a
+[05:19] strong photo effect
+[05:21] so there's the possibility here of
+[05:23] making that into a solar cell
+[05:25] so brought it outside to the sunlight
+[05:27] and you can see it's sitting on the wall
+[05:28] there in the direct sun and we're
+[05:30] getting about half a volt out of it
+[05:32] now let's swap it over to the milliamp
+[05:36] reading
+[05:46] and here we're getting about 73
+[05:50] micro amps
+[05:53] okay so admittedly that was not a lot of
+[05:55] power i mean it's about 35 microwatts
+[05:57] somewhere around about there
+[05:58] but have you seen the size of that bit
+[06:00] of silicon it's about three millimeters
+[06:03] by three millimeters
+[06:04] if that it's a tiny piece which is
+[06:07] awesome really so it does entertain the
+[06:10] possibility that if you have just bits
+[06:12] of silicon like a transistor if you can
+[06:13] get them into the sunlight
+[06:15] then you could in fact make your own
+[06:17] solar cell from scrap electronics
+[06:20] and um start generating power from bits
+[06:22] that you would otherwise
+[06:24] just throw away now because one of the
+[06:26] problems with the board like this
+[06:28] is the silicon actually comes usually
+[06:30] packaged like this
+[06:32] it's quite a hard ceramic to get that
+[06:34] open is quite challenging
+[06:35] you can open it you put it in a vise and
+[06:37] whack the edge with the hammer it'll
+[06:39] split along the seam line but it usually
+[06:42] takes the
+[06:42] um connections with it so i don't know
+[06:44] if you noticed on this one
+[06:48] little wire connections they're
+[06:50] extremely delicate
+[06:51] if you whack that with the hammer you're
+[06:53] going to break those connectors so
+[06:55] you're probably not going to be able to
+[06:56] get that open to be
+[06:58] a bit of solar now these are always bce
+[07:00] so the
+[07:01] center wants the um collector so that
+[07:04] one's the base collector emitter
+[07:06] it's an npn power uh transistor this
+[07:08] particular one
+[07:10] and if we did the same thing and could
+[07:12] open that we could get it to do exactly
+[07:14] the same thing
+[07:15] but we can't however they do have
+[07:18] another
+[07:19] interesting property and i want to show
+[07:21] you that so i've taken my transistor and
+[07:22] i've connected up the base and the
+[07:24] emitter again the best of the positive
+[07:26] and if you read the voltage reading on
+[07:27] the meter you'll see it's about a
+[07:28] millivolt or so
+[07:30] but here what i've got is a cold cloth
+[07:33] i put that cloth in the fridge for a
+[07:34] little bit to get cold if i pop it on
+[07:37] there
+[07:38] you'll see that we've already got nine
+[07:40] millivolts now if i have my hand over it
+[07:42] just my finger
+[07:43] you'll see that miller voltage starting
+[07:45] to go up
+[07:46] and it's doing that because what i've
+[07:48] done is create a temperature difference
+[07:50] between the p
+[07:51] and the end junction and that is exactly
+[07:54] how a thermal
+[07:55] a peltier device works you need a
+[07:58] temperature difference across the pn
+[08:00] junction
+[08:00] and if you have that it will generate
+[08:04] okay i've got exactly the same thing but
+[08:06] this time i've set it up in the amp
+[08:07] reading now we need to be a little bit
+[08:09] more forceful with this
+[08:10] so i'm going to use a lighter
+[08:13] and there we go we are now generating
+[08:17] truly micro amps but a little bit of
+[08:20] heat
+[08:21] and that will generate micro amps there
+[08:24] we go we can take the silicon off these
+[08:25] scrap boards and we can use those
+[08:27] properties of the
+[08:28] p and n junction where they're
+[08:30] photoactive or thermally active
+[08:32] to make little generators out of these
+[08:34] things now the same would happen with
+[08:36] the diode it's just that with something
+[08:37] that large it's much easier to
+[08:38] demonstrate the effect
+[08:40] really i can hold a lighter under it and
+[08:42] you can see it because we're getting a
+[08:43] good separation because remember
+[08:45] on the thermal effect one it is a
+[08:47] temperature gradient
+[08:48] but of course we've done quite a few
+[08:50] things making solar panels where those
+[08:52] solar panels
+[08:53] will get hot and if we pop these on the
+[08:55] back of them
+[08:56] not only will it form that function of
+[09:00] removing the heat from the front surface
+[09:02] of the solar panel
+[09:03] that heat difference that's on there
+[09:05] would again be
+[09:06] usable as extra generation from the heat
+[09:09] that the
+[09:10] solar panel is getting from that fresnel
+[09:12] lens that we pointed at it
+[09:14] so it may not be something you want to
+[09:18] get deeply involved in because it is a
+[09:20] lot of
+[09:20] mucking around plucking off little parts
+[09:22] and gluing them all together
+[09:24] but it is really interesting to
+[09:26] experiment with these things and to see
+[09:28] what could be done
+[09:29] certainly if that works with this little
+[09:31] setup which has cost us absolutely
+[09:33] nothing apart from the effort of
+[09:34] collecting it
+[09:35] and we can do that experiment to show
+[09:37] that that is feasible
+[09:38] it then becomes much more of a
+[09:40] possibility of spending money on it or
+[09:42] getting somebody else to spend money on
+[09:44] it
+[09:44] when you've demonstrated that it can
+[09:46] actually work so yes we're
+[09:48] looking at small prototypes made from
+[09:50] scrap materials to demonstrate
+[09:52] concepts that really um i think
+[09:55] could be quite exciting to move forward
+[09:58] using that excess heat from a solar
+[10:00] panel and pumping that heat away from
+[10:02] the back of the solar panel
+[10:03] improves the performance efficiency of
+[10:05] the solar panel particularly if we're
+[10:07] using fresnel lenses to point heat and
+[10:09] light
+[10:09] at it and creates an extra generation
+[10:11] point all of which you can demonstrate
+[10:13] for the cost of
+[10:15] taking them off of this thing so scrap
+[10:18] silicon
+[10:19] transistors scrap electronics can be
+[10:21] used to generate electrical power
+[10:23] without a doubt using a photo and
+[10:26] thermal effect
+[10:27] anyway i hope that was of interest to
+[10:29] you and thank you very much for watching

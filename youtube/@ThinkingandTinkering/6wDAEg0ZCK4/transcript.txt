@@ -1,0 +1,133 @@
+[00:02] hi so I'm a real tinkerer uh my real
+[00:05] interest though is in free
+[00:08] energy and I was looking at um Patrick
+[00:11] Kelly's book which is available online
+[00:15] uh huge thing couple of thousand pages
+[00:18] and it's a really good review of um all
+[00:21] the sort of free energy stuff that's
+[00:23] going on around on the internet uh and I
+[00:26] came across something by a guy called
+[00:28] Art Porter he called it the gapless
+[00:30] motor and you can have a look at his
+[00:32] website which is
+[00:36] www.gap power.com where he has some
+[00:40] pretty in-depth and um detailed
+[00:43] descriptions of this motor that is made
+[00:46] um great website lots of really good
+[00:47] videos and um kind of easy to duplicate
+[00:51] what he's done so uh my idea was to
+[00:54] duplicate it now art uses these uh Neo
+[00:58] magnets and they're huge I mean they're
+[01:00] massive things they're like this and
+[01:02] about this thick and he's got like half
+[01:04] a dozen of them or so and those are
+[01:05] really expensive
+[01:07] things so my idea was to reproduce the
+[01:10] motor but on a much smaller and if you
+[01:12] like affordable scale for a bit of Home
+[01:15] experimentation so what I used was um
+[01:19] couple of little NEOS CM by5 one of
+[01:23] those and 15 1 cm by 2 cm thick discs
+[01:32] [Music]
+[01:33] so this is what I came up with here
+[01:36] you've got a 4 mm Brass Bar and there's
+[01:41] a bit of um 6 mm plastic tube there
+[01:46] inside here where you can see the
+[01:48] screwdriver pointing to that's the5 CM
+[01:53] by 1 cm NE bar magnet it's rammed into
+[01:57] the plastic tube and then the plastic
+[02:00] tube
+[02:02] is fitted onto the end of The Brass Bar
+[02:05] and that gives me a
+[02:06] slider on this side you've got the 1 cm
+[02:11] by 2 mm stack of disc NEOS and there's
+[02:15] about 15 of them running up there to
+[02:18] make arts base magnet
+[02:21] section that's the coil that he was
+[02:24] talking about and in there there's A8 mm
+[02:27] soft IR core which I'm made from uh a
+[02:31] nail of all things I so the nail down
+[02:33] and um filed it flat then I stuffed it
+[02:37] in a bit of uh plastic cut a couple of
+[02:39] discs for it and then wound some 26
+[02:44] gauge in Amal wire in this case I think
+[02:46] I don't know how many turns there is in
+[02:48] that I just kept it going until it was
+[02:50] really really thick and then wrapped it
+[02:53] with some white electricians tape in
+[02:55] order to hold the whole thing together
+[02:58] if I give that a little push you you can
+[03:00] see there you go that's what Art's
+[03:02] talking about about the repulsion of the
+[03:04] magnets so we've got south south facing
+[03:07] each other here and they'll push against
+[03:09] each other and force the thing apart now
+[03:12] art us as a mechanical and the other
+[03:14] replications I've seen use a mechanical
+[03:17] device um to time it um it seemed like a
+[03:21] lot of construction to me and seemed
+[03:23] like a bit unnecessary so what I did was
+[03:25] I got this aable 555 switch timer um
+[03:29] bought this from maplin for a Fiverr uh
+[03:32] lovely little kit goes together the 555
+[03:35] is right there runs this relay here and
+[03:40] the relay is going to obviously switch
+[03:41] this coil off and on uh and that's my
+[03:44] timing now this particular one allows
+[03:47] you to alter the period and the on time
+[03:51] with these two resistors here so
+[03:54] obviously being able to alter those
+[03:56] means I'm going to be able to alter the
+[03:58] mark space ratio so you know the amount
+[04:00] of time between the on and the off
+[04:02] position and um the amount of time
+[04:04] between each switch I think my memory
+[04:07] says that art says it should be about
+[04:09] 43% if you want to bother timing that
+[04:11] then you've got some fairly accurate
+[04:12] control available here to you to allow
+[04:15] you to time it this particular timer
+[04:18] uses a 100
+[04:20] microfarad um electrolytic capacitor as
+[04:24] part of the timing circuit and um it's a
+[04:28] bit big so it switches quite slowly uh I
+[04:31] suppose I might turn swap that out for
+[04:34] something smaller to get a a greater
+[04:35] frequency rate out of it any let's get
+[04:38] this thing going and you can see it
+[04:41] running so I've got this thing hooked up
+[04:44] to a 12vt
+[04:46] battery and here we
+[04:56] go so there you go doing what art said
+[05:00] it would do only me pretty slowly and as
+[05:03] I said before that's because of the
+[05:05] capacitor so what I'm thinking of doing
+[05:08] is swapping that capacitor out for
+[05:09] something of a much lower value that way
+[05:11] I'll get a bit of a higher frequency now
+[05:14] one of the things that AR did uh was a
+[05:17] really cool kind of Cam that he had for
+[05:20] turning this linear motion into a rotary
+[05:22] motion but um it occurred to me that
+[05:26] this bit here if all he did was stick a
+[05:28] load of magnets in North and South out
+[05:30] and put that through a coil then it
+[05:32] would function itself as a linear
+[05:34] alternator and you'd get direct output
+[05:37] without having to um convert that into
+[05:39] rotary and then the rotary to um run
+[05:44] another alternator art talks about this
+[05:46] as being a generator in itself but then
+[05:48] he's capturing the back Spike from this
+[05:51] coil so obviously improvements on this
+[05:53] would be uh somewhere capturing the
+[05:55] backs spank possibility an array of
+[05:58] magnets here with the co Rounders an
+[06:00] alternator uh increasing the frequency
+[06:03] that we can get and playing around with
+[06:05] the mark space ratio anyway had quite a
+[06:08] bit of fun building this it took about I
+[06:10] don't know it took me most of the day
+[06:11] actually um that's about it hope you
+[06:14] enjoyed the
+[06:16] replication

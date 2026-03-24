@@ -1,0 +1,198 @@
+[00:03] [Music]
+[00:10] okay whatever you think this is a pretty
+[00:11] awesome device what it is is a stove top
+[00:14] fan you stick it on top of your stove
+[00:16] and what it does is blows the
+[00:18] concentrated hot air that's around the
+[00:20] stove around the room and it makes more
+[00:23] efficient use of your stove how it does
+[00:27] that is with this thing this is a little
+[00:29] thermoelectric generator sandwich
+[00:31] between the foot plate and some
+[00:32] radiating fans and it produces
+[00:35] electricity that drives the fan the foot
+[00:38] plate surprisingly important it makes
+[00:40] sure that the generator doesn't get too
+[00:42] hot and the fins keep everything nice
+[00:44] and cool because these things it's the
+[00:47] temperature difference that matters so
+[00:49] you can have one side at 50 and over 100
+[00:51] you've got a temperature difference of
+[00:53] 50 degre and that will work of course
+[00:56] they are manufactured things so they
+[00:58] have their own limitation
+[01:01] if you put this straight on top of your
+[01:02] stove which is somewhere between 300 and
+[01:04] 400° Centigrade you'll just burn it out
+[01:07] because this particular one its maximum
+[01:09] temperature that you can cope with is
+[01:11] about 150° Centigrade between those two
+[01:15] white camic plates a whole lot of
+[01:17] semiconductors of n andp type joined up
+[01:20] in series now if we apply a current to
+[01:23] this then one side will get hot and one
+[01:26] side will get cold and that's called the
+[01:28] pelty a effect if we reverse the current
+[01:31] we'll also reverse the sides that get
+[01:33] hot and cold but what's really cool
+[01:36] about this is if you make one side hot
+[01:39] and one side cold so you have a
+[01:41] temperature difference what it will do
+[01:43] is generate and that's called the sebeck
+[01:45] effect so the pelti a effect is
+[01:48] responsible for thermoelectric Cooling
+[01:50] and the sebeck effect is responsible for
+[01:52] thermoelectric generation and they are
+[01:55] reversible so you can use a
+[01:57] thermoelectric cooler to generate or you
+[02:00] could use a thermoelectric generator to
+[02:02] cool if you so wanted but of course they
+[02:05] have their own
+[02:07] limitations depending on how they were
+[02:10] made so have a look at these can you
+[02:12] tell which is which actually it's pretty
+[02:14] tough unless it says on it or you happen
+[02:16] to look up the part number actually
+[02:18] they're all tegs except for the middle
+[02:20] one unfortunately the differences are
+[02:22] all inside and they concern lapping
+[02:24] element size the solder and how it's all
+[02:27] put together lapping is really to do
+[02:29] with thickness the problem with pelty
+[02:31] air modules is that thickness isn't
+[02:33] exact and that doesn't matter with
+[02:34] cooling applications because they
+[02:36] usually require one module on the same
+[02:39] surface but with generation what you
+[02:41] often see are lots of modules put
+[02:43] together and if not the same thickness
+[02:45] then the distribution of heat or cooling
+[02:47] on either surface isn't very exact which
+[02:50] is why when people make these things
+[02:52] with lots of pelti air modules the
+[02:54] output tends to be pretty disappointing
+[02:57] the power output will depend on the
+[02:59] weakest module in the link if you
+[03:01] connect them in series so if you connect
+[03:03] a whole bunch together expecting 27
+[03:05] volts and only getting 10 volts out
+[03:07] that's because one of them isn't
+[03:09] touching the surfaces properly now tegs
+[03:12] are always lapped whereas thermoelectric
+[03:14] coolers aren't unless you specifically
+[03:17] ask for them to be lapped the second
+[03:19] important consideration is element size
+[03:21] what I mean by element size is an
+[03:23] element is one couple and a couple is
+[03:25] one ptype and one n type joined together
+[03:29] so in a Thermal electric cooler of say
+[03:31] 40 mm by 40 mm you'll get something like
+[03:34] 170 couples in equivalent size
+[03:37] thermoelectric generator you'll get
+[03:39] about 70 couples and that's because they
+[03:42] have to handle more amps as you generate
+[03:45] more amps meaning they have to be bigger
+[03:48] number three is the solder
+[03:50] thermoelectric coolers are not expected
+[03:52] to handle great heat differences and so
+[03:55] a lower melting point solder is used to
+[03:57] join everything together in ther
+[03:59] electric generators which are more
+[04:01] efficient the greater the temperature
+[04:03] difference are expected to see a higher
+[04:06] temperature of the hot side and so the
+[04:08] solder is applied to withstand anywhere
+[04:10] between 200 and 320° centigrade and the
+[04:14] final number four is the way the modules
+[04:16] are actually constructed it's quite
+[04:18] common to find thermoelectric generators
+[04:21] made with aluminium flame sprayed
+[04:23] hotside contacts Teflon wire leads
+[04:25] floating ceramic plates and a graphite
+[04:28] sheet for thir Al spreading the sold
+[04:31] that used is likely to be a tin and
+[04:33] antimony mix and it'll be good up to
+[04:35] about 240° Centigrade when you're
+[04:38] thinking about thermoelectric coolers
+[04:40] and typically the solder used is 138°
+[04:43] Centigrade melting point and it'll fail
+[04:46] at around 100 to 110° Centigrade the
+[04:49] conductor leads are thicker because
+[04:51] you're going to put more current in them
+[04:53] and they're a lower temperature PVC
+[04:55] insulation on The Wire so a quick recap
+[04:58] Thermal electric generators used to the
+[04:59] cbec effect thermoelectric coolers use
+[05:01] the pelti effect and although they are
+[05:04] reversible the method that they're made
+[05:06] how they're constructed means that
+[05:09] though you can get a thermoelectric
+[05:11] cooler to produce power chances are it
+[05:13] won't be a lot and they will fail at
+[05:15] higher temperatures so given all I've
+[05:18] said why is it you find so many projects
+[05:20] using this which is the tec1 12706 that
+[05:24] you find in fridges or you can buy on
+[05:26] eBay for about2 each if you buy 10 of
+[05:30] them well it's simple they're cheap and
+[05:33] and if you're doing one module then
+[05:36] it'll work okay as long as you don't
+[05:37] want to do more than spin a motor or
+[05:39] light an LED but if you want to put
+[05:41] together a whole load of modules then
+[05:43] you're going to be a little disappointed
+[05:45] in this performance what you need really
+[05:48] if you that serious is a thermoelectric
+[05:51] generator like this one which is the S
+[05:54] 1848 and that will do a pretty good job
+[05:58] but of course the extra manufacturing
+[06:00] means you're going to find extra expense
+[06:04] which is why things like the tegma 100
+[06:07] wat thermoelectric generator you put on
+[06:09] your stove top is in the region of
+[06:12] $700 per unit of course now the prices
+[06:16] of TS have fallen so much that the SP
+[06:20] 1848 you'll get that for about
+[06:23] £354 if you buy three or four of them in
+[06:26] one go so the price has tumbled along
+[06:29] away and you're seeing people now using
+[06:31] these because that's an approachable
+[06:33] price that's the price of perhaps the
+[06:35] cheapest one I could find and they go up
+[06:37] from there 1020 Beyond and of course
+[06:40] that expense is something people don't
+[06:43] often want to have so if you don't want
+[06:46] to have that expense you can use the
+[06:49] thermoelectric coolers but expect a
+[06:53] lower power output you want a higher
+[06:56] power output you're going to have to pay
+[06:58] a little bit more for the thermoelectric
+[07:01] generator version of these devices and
+[07:03] use that using it's really simple
+[07:06] instead of sticking in the Tec like you
+[07:09] see in all of the projects just swap
+[07:11] that Tec out for the te unit and you'll
+[07:15] get an improvement in what it is that
+[07:18] you're doing and the more you spend on
+[07:20] your te then the more Improvement you're
+[07:23] actually going to see at the end of the
+[07:25] day anyway I thought I'd spend time
+[07:27] pointing all that out because a lot of
+[07:29] people are very interested in this oh by
+[07:31] the way those uh fans that I showed at
+[07:34] the beginning they actually use tec's
+[07:36] but then they're dirt cheap and so they
+[07:39] do tend to fail and they're a bit cronky
+[07:42] one way to repair them is to swap them
+[07:43] for a te if you're going to put thermal
+[07:46] paste on it then put thermal paste on it
+[07:49] it will help but better is a piece of
+[07:52] graphite foil if you use graphite foil
+[07:54] it's like a gasket it will crunch down
+[07:57] and make a very good thermal comp
+[07:59] anyway I thought I would share all that
+[08:01] with you I hope it was useful to people
+[08:03] and interesting and thank you very much
+[08:05] for watching and please don't forget to
+[08:07] like And
+[08:08] subscribe

@@ -1,0 +1,233 @@
+[00:00] [Music]
+[00:06] so a casual glance of the channel might
+[00:09] make you think that I'm obsessed with
+[00:10] these things but nothing could be
+[00:12] further from the truth what I am
+[00:15] interested in is understanding things so
+[00:17] I can replicate them experimenting with
+[00:20] things so I can improve them and sharing
+[00:23] with everybody so we all get a chance
+[00:25] and that means well it means doing lots
+[00:27] of different things because people have
+[00:29] access to Lots of different equipment
+[00:31] one of the things though has got to be
+[00:33] this it's a PC fan it's so easy for
+[00:36] people to get hold of these and we've
+[00:37] done stuff with this before if you
+[00:39] remember the wind wall where we
+[00:41] basically converted a 100 of these to
+[00:43] generators now converting these to
+[00:46] generators is actually a piece of cake
+[00:49] where're at the back of the fan it'll
+[00:50] have a label on it and just pick the
+[00:52] label
+[00:58] off lbel what you'll see is a white
+[01:01] piece of plastic in there what that
+[01:03] actually is is a split clip and we need
+[01:05] to remove that so press it down get a
+[01:08] couple of pins in there and get that
+[01:10] clip off there you go you can see the
+[01:12] split right
+[01:23] there there's the clip don't lose it
+[01:26] once you've done that you can just pick
+[01:29] the whole thing off
+[01:31] off put the rotor to one side and let's
+[01:33] have a look at the Stater the
+[01:36] stator has these wires here we need to
+[01:39] free those wires
+[01:50] up now take a firm hold of the ster and
+[01:56] twist and the Stater will lift out
+[02:01] if we look at the STA we can see that
+[02:03] there's a capacitor there there and some
+[02:06] kind of IC right there what we need to
+[02:09] do is remove those now you can see that
+[02:12] there's only those components looking at
+[02:14] the bottom of the board we just get some
+[02:16] Snips get in there and snip those
+[02:18] components off the
+[02:23] board now desolder the two wires
+[02:30] now mechanically PC fans are pretty
+[02:32] simple I mean there's the fan holder
+[02:34] there's the roty you can see the magnet
+[02:36] out there because there a brushless
+[02:38] motor and this with the magnet on the
+[02:40] outside makes it an OutRunner and then
+[02:42] this is the bit that we've just been
+[02:43] focusing on and it's four lumps of Steel
+[02:47] and some wire round around it there are
+[02:49] in fact two coils on here and if we look
+[02:52] at the bottom we'll see there are three
+[02:53] pins there are three pins because
+[02:55] there's a start and an end and there's a
+[02:57] tap where the two coils are joined now
+[03:00] we need to find out which one those are
+[03:03] thankfully the resistance of a wire is
+[03:05] directly related to its length so if we
+[03:09] get one coil we'll get one resistance
+[03:11] reading if we get two coils joined
+[03:14] together we'll get twice that reading
+[03:16] and so we'll know where the beginning
+[03:18] and the end is so what we need is a
+[03:21] resistance meter okay so there's my
+[03:23] three points and I'm going to measure
+[03:25] them with a meter what reading do I get
+[03:28] Luke
+[03:30] around 30 ohms awesome if I measure
+[03:34] these
+[03:35] two 30 ohms okay and then these
+[03:49] two 61 ohms awesome so remember I said
+[03:54] it just adds up the two at 30 ohms are
+[03:56] the separate coils these two wires are
+[03:59] the ends of the two coils and they're
+[04:01] joined there because that's 60 ohms so
+[04:03] what I need to do is solder a red and a
+[04:06] black wire on those two points and it
+[04:08] doesn't matter which one's
+[04:20] which once you've done that we can put
+[04:22] the whole thing back together again and
+[04:23] you just put it back in the reverse of
+[04:25] how you took it apart so press the
+[04:28] Stater into place there we go go stick
+[04:30] the rotor in there making sure that the
+[04:33] wire's actually out the way and then
+[04:35] this little white clip it goes back
+[04:38] there's a little bit of a pen to get it
+[04:40] in there but not too much e you just
+[04:42] press that white clip in there with your
+[04:45] safety pins there we go with your safety
+[04:48] pins to make sure that it's in place
+[04:50] once it's in place stick the label back
+[04:53] on once we've done that we'll have got
+[04:55] ourselves a little wind generator I'm
+[04:57] reading the unloaded voltage right
+[05:05] there so we get two or three volts out
+[05:08] of that which is pretty simple the coils
+[05:10] are basically wound like this and you'll
+[05:12] notice they go in the same direction
+[05:14] there's the V1 V2 v0 that I was on about
+[05:18] and we sold it to V1 and V2 now
+[05:21] sometimes you'll find actually I say
+[05:24] sometimes but it's pretty much all the
+[05:25] time you'll find that each manufacturer
+[05:28] has a different control board but all
+[05:30] you're really looking to do is remove
+[05:32] the components from whatever control
+[05:33] board you've got you can scrape those
+[05:35] off cut them off and you're looking for
+[05:38] those three pins that we just looked at
+[05:40] and the only's there then you're looking
+[05:43] for whichever two pins you connected to
+[05:45] gives you the highest resistance reading
+[05:47] and you'll solder to those so the
+[05:50] process it's all the same don't be
+[05:52] fooled by the different control board
+[05:55] cuz you're not going to use it just
+[05:56] scrape everything off and you're just
+[05:57] looking for those two wires the round
+[05:59] the same way so you will find them once
+[06:02] you found them sold it to them and then
+[06:04] you'll get yourself a little PC fan
+[06:07] generator what we want to do is look at
+[06:09] this as its own generator so what I'm
+[06:11] going to do is remove this section here
+[06:14] we just clip this stuff off to take that
+[06:16] Central boss out this this is the core
+[06:21] generator section it was a brushless
+[06:23] motor making that adaption we've now
+[06:25] turned it to a generator we've removed
+[06:27] the blade so we can fit whatever we like
+[06:30] on here whether it's gears or cogs or
+[06:31] alternative blades or whatever we can
+[06:34] make a little generator now out of this
+[06:36] because we've got our Generation
+[06:38] section and if we hook it up and give it
+[06:41] a spin right there then just by spinning
+[06:43] it by hand we can get about 1.3 volts or
+[06:47] so I was slower spinning it with my
+[06:49] finger than were breathing on it but
+[06:51] we're still getting about 1.3 volts from
+[06:53] my little generator that we've got so I
+[06:56] had got a couple of these done the
+[06:57] conversion on this one picked it up out
+[06:59] and now we've got two so that's
+[07:02] brilliant because we can now use them as
+[07:04] a comparison this one have left in it
+[07:07] its PC fan State it's raw State this one
+[07:11] we're going to change and we're going to
+[07:12] change it with this cuz what this is is
+[07:15] a teral propeller now we've used this in
+[07:17] our air conditioning units that we've
+[07:19] made because it is super quiet and of
+[07:22] course there's a fan buzzing in your ear
+[07:23] all day super quiet is a real important
+[07:26] issue however it's a good fan is it a
+[07:30] good generator it's one of those
+[07:31] questions that people keep asking now
+[07:34] when it comes to generation the voltage
+[07:37] is directly related to blv sin Theta
+[07:40] that is the strength of magnetic field
+[07:43] the length of the wire the angle the wi
+[07:45] mix to the magnets and the speed at
+[07:48] which it turns so we've got two
+[07:51] identical units all of those things are
+[07:53] fixed the only thing we can change is
+[07:56] the speed at which this is going to turn
+[07:58] so it's a question question will it turn
+[08:00] faster with this or will it turn faster
+[08:04] with this now this has got a bigger area
+[08:07] than this one so what we would expect to
+[08:09] having a bigger Aira with more wind and
+[08:11] the wind is effectively the push we
+[08:14] ought to be able to push it better and
+[08:17] this should spin faster so we should get
+[08:20] a higher voltage if we stick that on
+[08:22] that this one is much smaller in its
+[08:25] swept area and so there's much less push
+[08:28] on this will this give a higher voltage
+[08:32] than this or will it give a lower
+[08:34] voltage that can be seen as a direct
+[08:37] measurement at how effective this fan
+[08:40] shape is at grabbing the air and
+[08:43] converting the push of that air into
+[08:46] speed of rotation and exactly the same
+[08:48] thing here in order to give it some air
+[08:50] to push I've got an ordinary hair dry
+[08:53] and we're going to hold it roughly at
+[08:56] the same distance and we're going to
+[08:58] measure the voltage while we do do it
+[08:59] because all we're looking at is how much
+[09:02] faster are these two spinning with the
+[09:05] same air going over them and that will
+[09:07] give us a comparison of how much better
+[09:10] this is is this or this is at grabbing
+[09:14] that air to turn it into push to make it
+[09:27] spin about four r five volt somewhere
+[09:30] around about there that's quite a lot of
+[09:32] push now we'll try our teral
+[09:36] propeller about the same
+[09:53] distance oh only about 1.8 Vols now
+[09:57] there probable that I've done a lot of
+[09:59] things wrong with this but I don't
+[10:01] really mind it because the whole point
+[10:03] of the video is to go about how we might
+[10:06] test something how we might create the
+[10:08] equipment that we want to test something
+[10:10] for whatever it is is your favorite
+[10:12] design for me that doesn't look so good
+[10:15] but maybe it works better with four
+[10:17] blades maybe it works better with two
+[10:19] blades maybe it works better if I blow
+[10:20] the air from the back or the front
+[10:22] there's a whole load of questions and
+[10:24] stupid simple test like that doesn't
+[10:27] answer but it does create the
+[10:29] opportunity for people to look at other
+[10:33] Alternatives because when it comes to
+[10:34] generational remember B donad there just
+[10:38] a whole load of things you could be
+[10:39] looking at and if you've got the ability
+[10:42] to look at them give them a goal because
+[10:44] this is just really simple to do anyway
+[10:46] I hope you enjoyed the video thank you
+[10:48] very much for watching and please do
+[10:50] remember to like And subscribe

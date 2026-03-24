@@ -1,0 +1,514 @@
+[00:02] [Music]
+[00:15] hi so i wanted to go into a little bit
+[00:17] more about the design and construction
+[00:19] of this
+[00:20] based on the comments that people have
+[00:21] been making and
+[00:23] i'm going to give a bit more detail on
+[00:25] this stuff because i've kind of just
+[00:26] assumed something and of course that's
+[00:28] always a mistake
+[00:29] the first thing is the construction of
+[00:31] it now we've got it laid out here in a
+[00:34] linear fashion
+[00:35] and there's a reason for that the main
+[00:37] reason is it's clear to see the blocks
+[00:40] involved in a unit it's clear to see
+[00:42] what bits you need obviously you need
+[00:45] something to drive it
+[00:46] you need something to move the air you
+[00:48] need something to direct the air
+[00:50] and then you need something to cool the
+[00:52] air note i say something
+[00:54] because there's so many decisions you
+[00:56] can make about this that aren't suitable
+[00:58] to you
+[00:59] i've made it like this because we can
+[01:01] follow the blocks it's really easy to
+[01:03] see
+[01:03] what those blocks are but let's deal
+[01:05] with this bit
+[01:06] first this bit is a veloz it's a bellows
+[01:09] of a hundred millimeters in diameter
+[01:11] and i'll give you a close-up of it we'll
+[01:13] talk a little bit more about how it's
+[01:14] constructed
+[01:15] so here's the inside of the bellows box
+[01:17] the bellows itself remember we did do
+[01:20] making a bellows the bellows can be any
+[01:22] shape you want
+[01:23] this is just bought off the shelf this
+[01:25] stuff
+[01:27] i just put a bit of plastic in one end
+[01:29] went round it with tape to seal it
+[01:31] drilled a hole in the other end and hey
+[01:33] presto that's what we've got
+[01:36] then that's glued to this board here
+[01:38] which carries this steel rod
+[01:40] there on bearings and they're in this
+[01:43] guide so that we get a
+[01:45] nice slide motion here is a guide rod
+[01:48] that goes through a linear bearing at
+[01:49] the center
+[01:50] and then we can either use that to drive
+[01:52] it but we'll have a look at other
+[01:54] options in a minute now
+[01:55] this bellows is only this size because
+[01:58] that's what i bought
+[01:59] if i want to shift a volume of air i can
+[02:02] either have a bellows that's
+[02:03] that round and moves that long or i can
+[02:06] have it that
+[02:07] that round and moves that far it just
+[02:10] depends
+[02:11] really that will shift the same volume
+[02:13] of air
+[02:14] so if you don't want as much travel but
+[02:16] you want the same volume of air then
+[02:18] your bellows is going to have to be
+[02:20] bigger in circumference but not travel
+[02:23] as far
+[02:24] so you can change the shape of that
+[02:25] bellows depending on what you want
+[02:28] this long linear design illustrates to
+[02:31] you how to do it if you want a more
+[02:32] compact unit
+[02:33] then just make a more compact but larger
+[02:36] surface area of bellows and hey presto
+[02:39] you'll have a more compact unit
+[02:41] now the bellows gets driven and my
+[02:44] example
+[02:44] from this rod here that rod is just a
+[02:46] guide rod really
+[02:48] there is also another rod sticking out
+[02:51] right there
+[02:52] we could drive it from there as well as
+[02:54] we could drive it from
+[02:55] here it doesn't really matter both will
+[02:58] achieve the same effect so if i drive it
+[03:00] from there
+[03:01] that guide rod helps keep it true as i
+[03:04] drive it
+[03:05] or if i drive it from here then this rod
+[03:08] helps keep it true so it doesn't matter
+[03:10] where i drive that
+[03:12] from i have lots of choices it doesn't
+[03:15] matter whether it's long and
+[03:17] thin or short and fat completely up to
+[03:19] you what it is you do
+[03:21] the function of this is to shift a
+[03:23] certain volume of air efficiently that's
+[03:26] what it does
+[03:27] now you don't even need to have a
+[03:28] bellows but you do need to perform that
+[03:31] function
+[03:32] you must move that air how you move that
+[03:36] air really is up to you it's one
+[03:38] logical block of an ac unit got to move
+[03:41] the air
+[03:42] we chose to move the air using bellows
+[03:44] because actually they're very efficient
+[03:46] but you could use a fan if you wanted to
+[03:48] there's absolutely nothing stopping you
+[03:50] but you do need that logical unit of
+[03:54] moving the air and that's what this
+[03:56] bellows does
+[03:57] now the bellows will just move the air
+[03:59] in a single direction
+[04:00] out here we need to control that airflow
+[04:03] and for that airflow control we made
+[04:06] this thing
+[04:11] this is a valve chest i haven't put the
+[04:13] top on so you can see inside it
+[04:15] and there is the two valves that we made
+[04:17] in the previous video arranged in the
+[04:18] direction that
+[04:19] i want them to go it doesn't matter
+[04:22] which direction you want
+[04:23] now i made these as big circles because
+[04:26] i think they look pretty but of course
+[04:28] it gives me a box of even size
+[04:30] but it doesn't have to be i could make
+[04:32] that box half that size
+[04:34] and just put the valves on as linear
+[04:37] valves
+[04:38] i would instead of cutting a circle i'd
+[04:40] just cut a straight
+[04:42] block exactly the same way now i used
+[04:45] this rubber i use this rubber because of
+[04:46] what i've got
+[04:47] you could use a bit of leather a bit of
+[04:50] plastic anything that performs that
+[04:51] function of flapping in and out
+[04:54] so there's just so many choices the
+[04:56] geometry
+[04:57] is only chosen to illustrate the logical
+[05:00] block
+[05:00] of what's actually required the
+[05:02] requirement of this is once you're
+[05:04] moving the air
+[05:05] you need to move it in a direction and
+[05:07] if you want to move it in a direction
+[05:09] you need some kind of box that will
+[05:12] direct it
+[05:13] if you want to actually have it from
+[05:15] collecting from one side or another side
+[05:17] you're going to have to have valve
+[05:18] control
+[05:19] but you don't need to have valve control
+[05:22] you
+[05:22] can just push the air in and out of the
+[05:25] same
+[05:26] side it doesn't really matter i want to
+[05:29] be able to take the air from a cold
+[05:30] space
+[05:31] like a cellar or a crawl space or a
+[05:36] shaded area something where it's already
+[05:38] cooler
+[05:39] and draw it through here and make it
+[05:41] even colder that way i think i'm using
+[05:44] the
+[05:44] inherent capability of my environment
+[05:47] around me to create
+[05:48] cool air and therefore reducing the
+[05:51] energy
+[05:52] cost because that energy of creating
+[05:54] cool air
+[05:55] has already been done for me equally
+[05:58] with the hot air if i redirect from the
+[06:00] loft out here
+[06:01] where the loft is going to have hotter
+[06:03] air it's not going to be hot enough in
+[06:05] the deep of mid-winter
+[06:06] for sure but it is going to be hotter
+[06:08] than where you're sitting
+[06:09] so part of that energy that was used to
+[06:12] heat that air that was not would
+[06:14] normally be lost is being recaptured
+[06:16] by using a valve chest so the valve
+[06:19] chest not only
+[06:20] directs the flow of the air because you
+[06:22] can direct the flow of the air you can
+[06:24] gather it from already existing
+[06:27] resources
+[06:28] like the cellar or the loft reuse it so
+[06:31] you don't have to do
+[06:32] as much heating again and therefore
+[06:35] create a more efficient system
+[06:37] so that's the job of the valve chest
+[06:39] it's another
+[06:40] logical block it doesn't have to look
+[06:43] like this
+[06:44] it can be longer and thinner and more
+[06:47] compact
+[06:47] your valves can be rectangular as
+[06:49] opposed to circular
+[06:51] you don't have to have one big valve you
+[06:53] can have lots of little valves
+[06:55] you don't have to have one entry point
+[06:57] because we're doing
+[06:58] a single thing where we take one bellows
+[07:02] and we put it to one valve chest if we
+[07:05] want more bellows there's nothing
+[07:06] stopping us having more bellows we can
+[07:08] have more bellows run from the safe
+[07:10] drive same drive unit
+[07:12] now i've put these connections here
+[07:13] because i'm going to connect those two
+[07:15] like that
+[07:16] but you could equally put a manifold in
+[07:18] there where you have four of them either
+[07:20] straight forward in a line
+[07:22] or four stacked on top of each other or
+[07:24] two in a line
+[07:25] two by two grid doesn't matter you would
+[07:28] then create your manifold
+[07:30] to connect these to a single box which
+[07:32] would connect to your valve chest
+[07:34] so we'd put a manifold in there to
+[07:36] create more of these
+[07:37] of course you could just make bigger
+[07:39] ones of these and
+[07:40] still have one entry port to your valve
+[07:43] chest
+[07:44] it really depends on the design
+[07:45] decisions you make
+[07:47] so i'm sure as you can see just from
+[07:48] these two components there are lots of
+[07:50] decisions you have to make
+[07:52] now we know that this component here
+[07:54] will shift 1.2 liters of air every
+[07:56] revolution and there are 25 revolutions
+[07:59] so we know the volume of air that this
+[08:01] thing will actually
+[08:02] shift if you want a greater volume of
+[08:05] air
+[08:05] moved build more bellows or build your
+[08:08] bellows bigger
+[08:09] it will mean you'll have to work out
+[08:11] what volume of air you want moved per
+[08:13] hour
+[08:14] but that's not challenging just measure
+[08:16] your room and work out the volume and
+[08:18] use that so you'll have a certain volume
+[08:21] of air you want to move and
+[08:22] clearly you should match your balance to
+[08:24] your requirements and the volume that
+[08:26] you want
+[08:27] now this is a really nice little unit
+[08:29] and you could make a
+[08:30] multiple of these units but like i say
+[08:33] you could make one
+[08:34] big unit where you have a big bellows
+[08:35] but it's quite thin then your whole
+[08:37] device will be much more compact
+[08:40] again you're choosing places where to
+[08:42] drive it you can drive it from here
+[08:44] or you can drive it from here now i've
+[08:46] chosen this drive view
+[08:48] because it's something i had it's
+[08:50] extremely low power
+[08:51] so this is a 12 volt motor meaning you
+[08:54] can run this of a car battery if you
+[08:56] wanted to
+[08:56] and i like that idea ac is really power
+[09:00] hungry and it's one of those things
+[09:01] that's
+[09:02] difficult to convert when you're
+[09:04] actually doing off grid you need
+[09:06] something else normally you have an
+[09:08] inverter here we could run it directly
+[09:11] from the 12-volt supply and that's
+[09:13] important to me because if you can run
+[09:15] it without inversion then you're not
+[09:16] going to get energy losses
+[09:18] from your battery bank through your
+[09:20] inverter to your
+[09:21] ac motors so here we're using a 12 volt
+[09:24] dc
+[09:25] motor it's a window winder motor and it
+[09:28] runs at 25 rpm which
+[09:29] might be a bit slow for you but you can
+[09:31] get these quite easily up to 100 rpm in
+[09:34] which case you'll get four times the
+[09:36] volume of air shifted
+[09:37] for this size by upgrading your motor
+[09:40] of course it'll use a little bit more
+[09:42] energy but you can still
+[09:43] do that so the choices you're making are
+[09:46] going to be
+[09:47] um factored into what it is that you
+[09:49] want to achieve
+[09:51] now if you don't want to do any of this
+[09:53] buy yourself an ac unit why not
+[09:55] if you want to do some kind of saving
+[09:58] then
+[09:59] being able to run it from the 12 volt is
+[10:02] actually
+[10:02] brilliant as i say with this logical
+[10:05] block it's all about moving the air
+[10:09] anywhere you find to move the air i like
+[10:11] bellows i like bellows because they're
+[10:13] efficient and cheap to run this logical
+[10:17] block is all about
+[10:18] air direction that allows us to use
+[10:21] that is otherwise being unused and would
+[10:24] escape so those things together the
+[10:28] lack of the use of the inverter the
+[10:30] recapturing of what would be lost
+[10:32] energy they're going to increase the
+[10:34] efficiency of this overall
+[10:36] system just because of those reasons and
+[10:39] that is awesome
+[10:40] but you could incorporate those into a
+[10:43] standard
+[10:44] ac as well so a standard ac if you start
+[10:47] tapping into that energy source and
+[10:49] you're going to make a saving because
+[10:51] you're not reheating
+[10:52] something twice or recalling something
+[10:55] twice
+[10:56] room ac is actually a perhaps amongst
+[10:58] the worst for energy efficiency
+[11:01] if you think about it you've got the one
+[11:03] side
+[11:04] hot the other side cold the cold side is
+[11:07] blowing the air up to you
+[11:08] but the hot side's still in the same
+[11:09] room and it's still heating up that room
+[11:12] so you're having to cool down the air
+[11:15] twice because you're heating it up again
+[11:18] i mean what they're trying to do is put
+[11:19] one of these
+[11:20] vents out through the window and blow
+[11:22] the hot air out through the window
+[11:24] but the motor the compressor it's still
+[11:26] sitting in the room it's
+[11:28] still generating heat and it's still
+[11:29] warming your room
+[11:31] even if you have that vent dangling out
+[11:33] the window so
+[11:34] those things are re-cooling air that
+[11:37] they
+[11:37] are on themselves heating which means
+[11:40] they're just
+[11:41] terrible in their efficiency and that's
+[11:43] no real surprise
+[11:45] it's why ac units incidentally are split
+[11:47] systems
+[11:48] in a standard ac unit the compressor
+[11:51] side very often sits outside
+[11:54] that's just so you're not reheat
+[11:55] re-cooling the air that the compressor
+[11:58] unit is reheating for you
+[12:00] it makes really really more efficient
+[12:02] the split systems are
+[12:04] always more efficient than a combined
+[12:06] system sitting in one room
+[12:08] just because of the heating aspect of it
+[12:11] so this
+[12:11] logical block we're talking about we've
+[12:14] got those two blocks that we need
+[12:15] and we've got to think about them in
+[12:17] terms of the volume of air we want to
+[12:20] shift and the efficiency and the reuse
+[12:22] of energy that we've otherwise be lost
+[12:25] the next thing we do when we're moving
+[12:26] the air as efficiently as possible of
+[12:28] course is
+[12:29] blow it over something like this a
+[12:31] radiator it's just something to cool the
+[12:34] air down i mean it's quite common
+[12:36] to cool them and dehumidify them at the
+[12:37] same time that really depends on your
+[12:40] situation i mean if you're in florida
+[12:41] which is just
+[12:43] part of me for people who live in
+[12:44] florida but in summer the humidity in
+[12:47] florida
+[12:48] it's awful and i don't think anybody
+[12:50] would disagree with that
+[12:52] so you probably want to dehumidify the
+[12:54] air as
+[12:55] well as cool the air and that's just an
+[12:57] aspect of what you want to do
+[12:59] at this stage now i live in england and
+[13:02] it's not that
+[13:03] troublesome actually we don't have that
+[13:04] much ac so
+[13:06] having a bit humid air doesn't really
+[13:08] bother me i just want it cool
+[13:09] so my need is to cool the air so i put a
+[13:12] straightforward radiator in there
+[13:14] i might want to dehumidify it in which
+[13:16] case had to put something in there
+[13:18] to suck the water out calcium chloride
+[13:21] will do that just as well
+[13:22] so if this went through a tub of calcium
+[13:24] chloride
+[13:25] it would absorb the water and we'd get
+[13:27] dry air out the other side
+[13:29] but here all i'm going to do is this now
+[13:31] it's only the size and only laid out in
+[13:33] a line to
+[13:34] demonstrate what the logical blocks are
+[13:36] there's nothing to stop me using a
+[13:38] bigger radiator
+[13:39] so
+[13:44] i got this of course from my car now
+[13:47] clearly there's a mismatch this is
+[13:48] massive
+[13:49] this is tiny what do i do about that
+[13:51] well as i said before i could either
+[13:53] make one big square bellows that fits
+[13:55] this whole thing
+[13:56] and blows in and out through that whole
+[13:58] thing which would be really super cool
+[14:00] i can make lots of these little ones a
+[14:02] manifold and then put the manifold on
+[14:04] there so that we have one entry point
+[14:06] spreading out in a cone
+[14:07] there's a huge amount of things i could
+[14:09] actually do with that but the logical
+[14:12] doesn't change it's just the
+[14:14] implementation of what you want to do
+[14:27] okay this is something i've picked up
+[14:30] from the roadside
+[14:32] it's a wine cooler so if i really wanted
+[14:35] to do it that way
+[14:36] of course this contains a radiator
+[14:40] a compressor and a plug to plug it in
+[14:42] the mains i could just rip that whole
+[14:44] thing out
+[14:46] and use that whole thing from the wine
+[14:49] to make my air conditioning and it would
+[14:52] go
+[14:54] here where the cooling system is
+[15:05] okay so i wanted to show all of those
+[15:07] things before i basically seal up the
+[15:08] valve chest
+[15:10] and connect it to this and talk about
+[15:12] those design considerations
+[15:14] a lot of design considerations are going
+[15:16] to be up to you
+[15:18] but the logic of what it is that you're
+[15:19] going to do the blocks that you require
+[15:22] are always going to be the same okay so
+[15:25] to illustrate those ideas i've swapped
+[15:27] this smaller bellows out to these
+[15:29] absolutely massive bellows this one is
+[15:31] made out of this stuff
+[15:33] it's a cloth tape so you just put the
+[15:35] stiffness down and cover it with cloth
+[15:36] tape
+[15:37] and if you want to know how to make it
+[15:38] then just follow the how to make a
+[15:40] bellows video
+[15:41] but this will clear 18 liters every
+[15:44] stroke which is a
+[15:45] really a huge amount of air it does
+[15:47] obviously take a little more power to
+[15:49] move it
+[15:49] but it clears an awful lot of air then
+[15:52] it's attached to the valve chest i quite
+[15:54] like it actually because it sounds like
+[15:55] breathing but have a listen
+[16:04] that's awesome let me give you a
+[16:06] close-up of the valve actually working
+[16:08] so there's the valve there it's kind of
+[16:10] loose and if i press the bellows in
+[16:14] you see the valve pop out and all the
+[16:15] air rushes out when i pull the bellows
+[16:17] out
+[16:18] you can see the valve pulls shut and
+[16:21] it's quite
+[16:22] shut and then open again
+[16:25] closed it's giving out quite a blast of
+[16:29] air that actually
+[16:31] so like so many of the things the reason
+[16:34] this isn't just a whole load of
+[16:35] instructions cut this cut that cut this
+[16:38] is because every situation what you want
+[16:40] to do is going to change
+[16:42] and that's why i think it's important to
+[16:43] look at the different varieties
+[16:45] size of fellowes type of chest
+[16:48] organization i mean we've got
+[16:50] this this way we could put it up and
+[16:51] down if we wanted to
+[16:53] it really just depends what you want to
+[16:55] do what you have to remember
+[16:57] are the key logical components contained
+[17:00] in air conditioning
+[17:01] and replicate those in a way that you
+[17:03] like now
+[17:04] i like this design i'm a very steampunk
+[17:07] kind of guy i love steampunk in the end
+[17:09] of the day
+[17:10] this will probably end up looking
+[17:12] extremely steampunk which is why i quite
+[17:14] like this black leatherette bellow
+[17:17] but we'll continue with this and i hope
+[17:20] you're finding the video series
+[17:21] interesting
+[17:22] and thank you very much for watching

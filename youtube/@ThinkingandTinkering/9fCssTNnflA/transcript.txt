@@ -1,0 +1,130 @@
+[00:00] [Music]
+[00:08] so we built this it's a stepper motor
+[00:10] and we used an onoff switch and a hedge
+[00:12] Bridge made from a relay to make it step
+[00:15] through its motions which was fun and
+[00:18] kind of useful but if we want it for
+[00:20] something like timekeeping then we need
+[00:22] a much more controlled way of doing that
+[00:26] we looked at counters again made from
+[00:28] realiz although you're probably in brand
+[00:30] in transistors to do that job of
+[00:33] counting but what is it that we count
+[00:37] but what we count is oscillations an
+[00:40] oscillator is something that will repeat
+[00:42] an action within a fixed period of time
+[00:46] so we have something that is repeating
+[00:48] an operation every 60th of a second and
+[00:51] we count to 60 we have in effect counted
+[00:56] to 1 second we can then use our counter
+[01:00] to drive the Hedge bridge and this will
+[01:02] pulse tick once a second and clearly
+[01:06] we've got ourselves a clock mechanism so
+[01:09] the question is what do we use as an
+[01:12] oscillator now you find oscillators
+[01:14] absolutely everywhere pendulum is an
+[01:16] oscillator the little quartz chip that
+[01:18] you get on computers is an oscillator
+[01:21] the quartz chip you find in the clock is
+[01:23] the oscillator you find oscillators in
+[01:26] radios all over the place so oscillators
+[01:29] are absolutely everywhere and we can
+[01:32] make an oscillator quite easily from you
+[01:35] guessed it a relay again it's not the
+[01:37] best option but it does show very
+[01:41] clearly what's actually going on because
+[01:44] inside a relay is a coil if we connect
+[01:47] that coil to the power and one of the
+[01:50] switches it will automatically break the
+[01:53] power as the switch opens and closes and
+[01:55] that will set up a frequency of
+[01:57] oscillation you see this all over the
+[01:59] Internet with people making relays buzz
+[02:01] like crazy of course they Buzz far too
+[02:04] quickly and we want control of the time
+[02:07] of the oscillator we can do that using a
+[02:10] capacitor because inside here that coil
+[02:13] is in fact an inductor an inductor and a
+[02:16] capacitor connected together form what's
+[02:18] called a tank circuit or a ringing
+[02:20] circuit which is an oscillator because
+[02:24] the inductor is connected to a switch we
+[02:27] can automatically use that oscillator to
+[02:30] open and close the switch now of course
+[02:32] we could do exactly the same thing in
+[02:34] aund different ways it's more than one
+[02:36] way to skin a cat we could connect an
+[02:38] Arduino to a relay and use the Arduino
+[02:41] to switch the relay which would take
+[02:43] place of me clicking that off and on but
+[02:45] the Arduino is using a quartz oscillator
+[02:49] so all of these things doing exactly the
+[02:51] same thing they use an oscillator they
+[02:53] control the time of the oscillation
+[02:55] operator switch which operates the hge
+[02:58] bridge which operates the motor so we're
+[03:01] going to construct an
+[03:03] oscillator from a relay and a capacitor
+[03:06] so to get a relay to oscillate is
+[03:08] actually pretty simple you take the
+[03:10] positive into the positive side of the
+[03:11] coil the negative side of the coil goes
+[03:14] into the common of one of the relays and
+[03:16] then normally connected gets connected
+[03:18] up to your power supply or battery we
+[03:20] put the power
+[03:24] on and it oscillates like crazy and in a
+[03:28] way that's next to useless
+[03:30] but if we connect a capacitor across the
+[03:33] coil positive to negative it will slow
+[03:36] it down and this is 3,300 microfarads
+[03:39] and we put the power
+[03:44] on now the relay is ticking away in a
+[03:47] much slower and more usable for us way
+[03:50] the two ways of controlling the speed of
+[03:52] that switch are higher the capacitance
+[03:55] slower the switch or you can add
+[03:57] resistance the higher the resistance
+[04:00] the faster the switching and you can
+[04:02] dial in the time of that Click by
+[04:04] altering the capacitance and the
+[04:05] resistance and if I stick two capacitors
+[04:08] across it in parallel then it's like
+[04:10] having one very big capacitor so we've
+[04:13] got two at 3,300 and we turn the power
+[04:19] on we get a much slower
+[04:25] click
+[04:27] okay so connecting a CO or inductor to a
+[04:31] capacitor forms an LC oscillator and
+[04:33] it's arguably the most popular type with
+[04:36] lots of varities you get the Armstrong
+[04:39] oscillator the heartley oscillator the C
+[04:43] pits oscillator and 100 other flavors
+[04:46] that I'm sure I'm forgetting you can
+[04:48] also just connect a resistor and a
+[04:51] capacitor together to get an RC
+[04:53] oscillator a resistor capacitor
+[04:55] oscillator they're not nearly as popular
+[04:58] probably because they they're not really
+[04:59] really tuned in so well as an LC
+[05:02] oscillator but oscillators can be made
+[05:05] from a huge variety of things now a
+[05:08] relay is a mechanical switch so it's
+[05:11] going to break they rated somewhere
+[05:13] between 10,000 and 1 million switching
+[05:15] operations so definitely not the best
+[05:18] but it does illustrate that all we're
+[05:20] actually doing is creating an
+[05:22] oscillation that we can count and when
+[05:25] we reach a set count we can operate our
+[05:28] hit bridge to operate our steeper motor
+[05:31] and it doesn't matter how you implement
+[05:34] that that is what you're implementing
+[05:36] whether you choose to do it from relays
+[05:38] you choose to do it from discrete
+[05:40] electronic components or you choose
+[05:42] digital control through something like
+[05:44] an Arduino anyway I hope that helped I
+[05:48] hope you enjoyed the video thank you
+[05:49] very much for watching and please do
+[05:51] remember to like And subscribe

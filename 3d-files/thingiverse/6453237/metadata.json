@@ -1,0 +1,68 @@
+{
+  "thing_id": 6453237,
+  "name": "Spherical Coulisse Drive Mechanism",
+  "description": "You can find a video on this here https://youtu.be/KgTBDf025pw\r\nand it needs  10mm ball bearing",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "KgTBDf025pw",
+      "url": "https://youtu.be/KgTBDf025pw"
+    }
+  ],
+  "tags": [
+    "fwg",
+    "power",
+    "probe",
+    "robert",
+    "tnt",
+    "transmission"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-01-26T16:23:22+00:00",
+  "modified": "2024-01-26T16:23:22+00:00",
+  "url": "https://www.thingiverse.com/thing:6453237",
+  "thumbnail": "https://cdn.thingiverse.com/assets/43/95/c7/1f/0f/large_display_6ec78417-eb81-4161-9521-87e8768dacec.jpg",
+  "like_count": 120,
+  "collect_count": 68,
+  "comment_count": 1,
+  "download_count": 636,
+  "files": [
+    {
+      "name": "clip_x_2.stl",
+      "size": 29084,
+      "url": "https://www.thingiverse.com/download:14030484",
+      "download_url": "https://api.thingiverse.com/v2/files/14030484/download"
+    },
+    {
+      "name": "gear.stl",
+      "size": 42484,
+      "url": "https://www.thingiverse.com/download:14030485",
+      "download_url": "https://api.thingiverse.com/v2/files/14030485/download"
+    },
+    {
+      "name": "Input_Arm.stl",
+      "size": 185384,
+      "url": "https://www.thingiverse.com/download:14030486",
+      "download_url": "https://api.thingiverse.com/v2/files/14030486/download"
+    },
+    {
+      "name": "Output_Arm.stl",
+      "size": 451884,
+      "url": "https://www.thingiverse.com/download:14030487",
+      "download_url": "https://api.thingiverse.com/v2/files/14030487/download"
+    },
+    {
+      "name": "ball.stl",
+      "size": 162484,
+      "url": "https://www.thingiverse.com/download:14030488",
+      "download_url": "https://api.thingiverse.com/v2/files/14030488/download"
+    },
+    {
+      "name": "base.stl",
+      "size": 623084,
+      "url": "https://www.thingiverse.com/download:14030489",
+      "download_url": "https://api.thingiverse.com/v2/files/14030489/download"
+    }
+  ]
+}

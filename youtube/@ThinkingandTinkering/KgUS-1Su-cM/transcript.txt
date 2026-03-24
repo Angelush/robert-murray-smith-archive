@@ -1,0 +1,156 @@
+[00:00] foreign
+[00:10] before in vowts and you can even use
+[00:14] them in that direction if you want and
+[00:16] I'm about to test this to see how good
+[00:18] it is and of course this is a question I
+[00:20] get asked lots of times how do you test
+[00:22] these things when well basically it's a
+[00:25] spinning lump of plastic there's no way
+[00:28] of generating any volts or amps out of
+[00:30] that so we can't put a meter reading on
+[00:33] it what we need to know of course is how
+[00:35] effective it is at turning a force into
+[00:39] a rotation because when the wind blows
+[00:41] on it it is experience of force it's
+[00:44] going to push from the wind so how good
+[00:46] is it and turning that push into a spin
+[00:50] well of course what we need to do is
+[00:53] measure torque
+[00:55] the interesting thing about talk is talk
+[00:58] is not a measure of a force talk is
+[01:01] actually a measure of how effective a
+[01:04] force is they're making something spin
+[01:06] so here is my door I can do
+[01:10] that with it as much as I like I can put
+[01:13] as much force as I like there it's not
+[01:16] going to open the door I can go here and
+[01:18] I can put as much force as I like right
+[01:21] here it's not going to open the door if
+[01:24] I apply the force here
+[01:26] look at that
+[01:27] that's the door opens it opens really
+[01:30] really easily because the force which is
+[01:33] the sand has been applied at 90 degrees
+[01:36] to the door and at a distance from the
+[01:40] hinge and so there's an effective
+[01:42] application of force and that causes the
+[01:45] hinge to turn and the door to open so
+[01:48] that's what I mean about the
+[01:50] effectiveness of a force being measured
+[01:53] by torque
+[01:55] that's why talk which is the letter
+[01:58] Tower is equal to the force that is
+[02:01] applied which is the force the distance
+[02:03] it is from the pivot point which is the
+[02:05] radius and the sine of the angle at
+[02:07] which you apply the forces so Tau equals
+[02:10] RF sine Theta that's why that formula is
+[02:14] there it's just Gathering Together the
+[02:16] important things about torque that is
+[02:19] how much force where you apply it and at
+[02:21] what angle you apply it okay so now we
+[02:24] understand torque the question is how do
+[02:26] we go about measuring it well luckily
+[02:28] enough there is a mechanism that we can
+[02:31] use to do exactly that and that
+[02:33] mechanism is this it's a worm gear
+[02:36] actually a worm gear is a worm wheel and
+[02:38] a worm and they engage with each other
+[02:40] now this has been known about since
+[02:42] Ultra Archimedes it's been known about
+[02:44] for centuries and the three really cool
+[02:47] things about this are going to help us
+[02:49] to measure torque of a wind turbine the
+[02:53] first one is if I give that one full
+[02:56] rotation what it'll do is move the worm
+[02:59] wheel via one tooth that's all so the
+[03:02] ratio of this the gear ratio is going to
+[03:05] be just a number of teeth on the worm
+[03:07] wheel and there are 20 on here so I've
+[03:09] got a 20 to 1 ratio that gives me a
+[03:12] mechanical advantage of 20 to 1. for
+[03:15] every one turn 20 turns of this I get
+[03:17] one turn of that and so for every one
+[03:21] gram of force on here I'm gonna be able
+[03:23] to pick up 20 grams of force there
+[03:25] because I get that mechanical advantage
+[03:28] the other thing is it won't turn
+[03:31] backwards which is why they're used in
+[03:34] musical instruments it'll only turn from
+[03:36] the worm to turn the worm wheel if you
+[03:38] try to turn the worm wheel it will lock
+[03:41] which is just great as far as we're
+[03:43] concerned if we're trying to pick up a
+[03:46] weight now of course I've drawn this up
+[03:48] on tinkercad and the tinkercad files are
+[03:51] free for everybody who wants to play
+[03:52] with this the link is in the description
+[03:54] knock yourself out guys
+[03:56] okay I've printed it off and there it is
+[03:59] put together now have you scared of
+[04:02] bearings because they're really cheap
+[04:03] and easy to get hold of and this is
+[04:04] eight millimeter bar that we've got
+[04:06] going through the center okay a few
+[04:08] things about this that is actually just
+[04:10] a pulley a little hole in there to tie
+[04:12] some string and we can wrap the string
+[04:14] around and drop it down and we can add a
+[04:17] kilo of weight to it now the force
+[04:19] required to lift that kilogram of work
+[04:22] is by definition 9.8 Newtons and that's
+[04:24] because of gravity so if that can lift
+[04:27] it then it's able to lift at 9.8 Newtons
+[04:31] at that distance now that distance from
+[04:34] there to the edge of the pulley which is
+[04:36] the radius is a centimeter so we
+[04:38] multiply 9.8 by 0.01 meters then we will
+[04:43] get the torque that's producing because
+[04:45] it will be zero point uh nine eight
+[04:48] newton meters but it's able to produce
+[04:51] if it can lift okay so that's the talk
+[04:53] there and we have a 20 to 1 ratio
+[04:56] between this and this so we get a
+[04:59] mechanical advantage of 20 to 1 which
+[05:02] means that that will be producing 1 20th
+[05:05] of the torque applied to here but of
+[05:07] course this will be turning very much
+[05:09] faster and we always trade speed for
+[05:11] torque so the torque can be derived
+[05:14] right there by dividing it by 20. so we
+[05:17] take our rotor here it is stick it on
+[05:20] there go out into the wind and turn your
+[05:23] weight on there the wind will blow that
+[05:25] it will raise that weight and we can
+[05:28] directly measure the torque that our
+[05:30] rotor is producing and we get a really
+[05:33] good measure of how effective that rotor
+[05:37] is so it's a filthy day so I'm not going
+[05:39] out but I have got my little wind
+[05:42] turbine with its measuring device and a
+[05:44] hair dryer only to turn the hairdryer on
+[05:46] [Applause]
+[05:50] there you go you can see that the worm
+[05:53] gear has been driven it is turning that
+[05:56] pulley so we're going to be able to do
+[05:58] exactly what we said we wanted to do
+[06:04] that is awesome actually okay you've got
+[06:06] to remember that at one time of course
+[06:08] there were no electric meters or strain
+[06:11] gauges you had to come up with a way of
+[06:14] um measuring what you wanted to measure
+[06:16] so you could see how effective it would
+[06:19] be and the good thing about doing that
+[06:20] of course is it always generates other
+[06:22] ideas because I have another idea based
+[06:24] on this but we have a way of measuring
+[06:27] how effective our wind turbine is
+[06:30] turning that Force into rotation so that
+[06:34] we can do something with it volts and
+[06:37] amps well they tell you about the
+[06:38] generator but they don't tell you how
+[06:40] effective that Force being turned into
+[06:42] talk is so now we've got a way of doing
+[06:45] it I hope you enjoyed the video thank
+[06:47] you very much for watching and please do
+[06:49] remember to like And subscribe

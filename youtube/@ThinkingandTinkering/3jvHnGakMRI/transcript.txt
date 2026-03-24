@@ -1,0 +1,183 @@
+[00:00] [Music]
+[00:08] so I came across a toy recently it's
+[00:10] called The Flying gyroscope and it's
+[00:13] incredibly simple you find them all over
+[00:15] the place actually you can buy them if
+[00:17] you want to or you can make them from a
+[00:19] soda bottle or bits of folded up paper
+[00:22] and it's called The Flying gyroscope it
+[00:25] became incredibly popular more popular
+[00:27] in the Frisbee I believe for a short
+[00:29] while what you do is you throw them with
+[00:32] a little bit of a spin and they create
+[00:34] lift and so they can go an incredible
+[00:36] distance sometimes 600 ft or so the very
+[00:39] interesting things because it doesn't
+[00:42] matter if you throw it to create an air
+[00:44] flow or it's still and you push an air
+[00:47] flow over it it's all relative it just
+[00:50] depends where you're standing it should
+[00:52] still spin so of course I'm interested
+[00:54] in the idea of whether that would make a
+[00:56] decent wi turbine or not so what I want
+[00:59] to do is investigate that to find out if
+[01:02] the flying gyroscope is any good at
+[01:05] being a wind turbine so plus the first
+[01:08] thing to do is to create a model of it
+[01:10] and I turned to Tinker Cad and the first
+[01:13] thing I came across was this an NACA
+[01:16] 2414 air4 which I want I got it from
+[01:19] thingiverse from funo
+[01:21] 28408 and downloaded that file so once
+[01:24] we've imported it into the work plane we
+[01:26] can see there's our NACA airfall with
+[01:29] the airfall running that way around now
+[01:31] we've imported it we need to reexport it
+[01:33] immediately but this time as an SVG file
+[01:38] now what we do is go to the search bar
+[01:40] and type in
+[01:45] SVG and it will pull up this particular
+[01:48] shape called SVG revolver we can drag
+[01:51] that onto the work plane and we get a
+[01:53] sort of tube but we also get this what
+[01:56] we need to do is drag a file in here and
+[02:00] it will change that shape to be SVG
+[02:03] revolver when it's done its job you can
+[02:06] see that what it's done is taken the SVG
+[02:08] file and revolved it around the number
+[02:11] of degrees that was specified in this
+[02:13] pull down menu here 300° if we zoom in
+[02:16] on that we can have a better look at it
+[02:18] and you'll see on this case the airfall
+[02:20] is actually pointing the wrong way it's
+[02:22] pointing inside the tube and I want it
+[02:25] pointing outside the tube we can resolve
+[02:27] that by copying it
+[02:30] dragging a copy over there and this
+[02:32] we've got sketch rotation change that to
+[02:42] 180 and you'll see that it's actually
+[02:44] changed the way the airfall is actually
+[02:47] pointing now of course it's pointing
+[02:49] downward so we need to flip that around
+[02:51] and if you like this one's pointing
+[02:54] inside which we can see there and this
+[02:56] one is pointing outside which we can see
+[02:59] there however of course there's a big
+[03:00] gap in it to resolve that Gap go to the
+[03:03] revolve angle and type in 360 which will
+[03:07] be a full
+[03:10] circle you can see it's a little Jagged
+[03:13] and here we have number of sides that we
+[03:15] can increase so let's increase the
+[03:16] number of
+[03:17] signs and it gets much smoother we need
+[03:20] to do exactly the same thing on this
+[03:25] one now like that they're a little small
+[03:28] so what you do is export them as an STL
+[03:30] file and then repport them with 100000%
+[03:33] scaling and you'll get something about
+[03:35] 100 mm across by reimporting it with the
+[03:38] scaling Factor you don't distort
+[03:40] anything then I created a hollow
+[03:42] cylinder and joined it to give me this
+[03:44] and we've got the airfall profile as a
+[03:47] bump on the outside and then the
+[03:48] cylinder and little breast that I put in
+[03:50] to hold it and that creates my gyroscope
+[03:54] my flying gyroscope now when you look at
+[03:57] the toys it's not clear whether the bum
+[03:59] is on the outside the bump is on the
+[04:01] inside or the bump is on both sides so I
+[04:04] created this one with the bump on the
+[04:06] outside and use the second one to create
+[04:08] this with the bump on the inside so now
+[04:11] we want to know which one's better and
+[04:14] to get a guide to that I'm going to
+[04:16] measure the static torque so that's it
+[04:18] set up turn on the fan read the GRS
+[04:30] so with the bump on the outside the
+[04:31] measurement I got was 1.6 and with the
+[04:33] bump on the inside I got 1.2 so it seems
+[04:37] like bump on the outside is a little
+[04:39] better but it's a bit equivocal with
+[04:41] that test that I did anyway this is not
+[04:44] something that is unknown actually these
+[04:47] kind of ring shaped Wings have been used
+[04:49] in aircraft before with a few prototypes
+[04:51] being made because they do have benefits
+[04:54] one thing that they do is they reduce
+[04:56] the lift induced drag of course
+[04:59] everything is a tradeoff and there's
+[05:01] another kind of drag called parasitic
+[05:02] drag parasitic drag is where there's
+[05:05] boundary Separation on the airflow just
+[05:08] because of the shape and material that
+[05:10] an air foil is made from and so there's
+[05:13] a crossover Point like most of these
+[05:15] things but there is a benefit in
+[05:17] reducing the lift conduced drag from a
+[05:21] shap like this so quite interesting of
+[05:24] course with parasitic drag what's
+[05:25] happening is the Air's flowing over here
+[05:27] separating and tumbling off the end
+[05:30] creating an awful lot of turbulence
+[05:32] really and I was pondering would there
+[05:34] be something we could do to help with
+[05:36] that and also to ensure the direction of
+[05:39] rotation and of course all we really
+[05:41] need to do is add fins which is exactly
+[05:43] what I've done here and the big question
+[05:45] is what kind of effect does having fins
+[05:49] add so I've set up my new win turine
+[05:51] design and let's see how it performs
+[06:00] oh
+[06:08] wow okay so such a small model that was
+[06:11] actually kind of impressive it was
+[06:13] almost a fivefold increase so pretty
+[06:15] cool so adding the fins is helping with
+[06:19] that reducing turbulence and giving it a
+[06:21] definite direction to rotate I think and
+[06:23] I wanted to look at the internal bump
+[06:26] with internal fins so I put some
+[06:28] internal fins in this performed worse
+[06:31] than this this was only about four times
+[06:34] this was five times so this produced
+[06:36] worse output than this did however when
+[06:39] we look at this and getting this into a
+[06:42] form that would be a functional wind
+[06:44] turbine there's a lot more that needs to
+[06:46] go on with this that needs to go on with
+[06:49] this because this is just a cylinder
+[06:51] what we could do is put our magnets
+[06:53] right around here surrounded by a coil
+[06:56] and we have an integral wind turbine so
+[06:58] this will be very much easier to use
+[07:01] equally of course if we want to hang
+[07:03] this up I'm thinking of the wind wall
+[07:05] where we just cut a load of holes in a
+[07:06] board and Slot that in the board then
+[07:09] that's going to be really easy to make
+[07:11] this into a usable wind turbine so this
+[07:15] to my mind actually has more going for
+[07:19] it than this because very often
+[07:21] maximizing output is actually not what
+[07:24] it's about what you want is output at a
+[07:27] low cost the more complicated you make
+[07:31] something the more it's going to cost so
+[07:33] little juty out parts that's going to be
+[07:35] quite hard a little juty in parts that's
+[07:38] going to be much much easier so that's
+[07:40] the one I'm going to fav now I'm
+[07:42] probably going to put magnets around it
+[07:44] and a coil stick it in a board and we'll
+[07:46] see what happens see if we actually
+[07:48] generate anything because this is
+[07:49] looking quite promising as it stands now
+[07:52] as I say it's all a bit ad hoc for sure
+[07:55] so I wouldn't get too excited but it is
+[07:57] certainly interesting and quite a nice
+[08:00] investigation from a child's toy to a
+[08:02] winter turbine anyway I hope you enjoyed
+[08:05] the video thank you very much for
+[08:07] watching and please do remember to like
+[08:08] And subscribe

@@ -1,0 +1,166 @@
+[00:02] [Music]
+[00:21] oh
+[00:21] and welcome i'm ross from intelligent
+[00:23] tinkering and this is going to be my
+[00:25] entry to robert murray smith's challenge
+[00:28] or competition so i've built
+[00:31] a
+[00:32] wind generator with an old
+[00:36] fan motor i've made my own blades i've
+[00:39] made my own bridge rectifier i've then
+[00:41] took it down onto a board which i'll
+[00:43] show you in a minute and on that board i
+[00:46] will go through all the components so
+[00:48] hope you enjoy it
+[00:49] thank you very much so a little bit of a
+[00:52] close-up of this itself
+[00:54] um the power goes into the capacitors it
+[00:57] stores it it then goes into the led that
+[01:00] lights when there's power
+[01:02] then there goes into the little resistor
+[01:06] into the controller the controller then
+[01:08] charges this
+[01:09] once there's no power and the controller
+[01:11] senses that it then switches over the
+[01:13] power to this to like this led so
+[01:16] there's always an led lit in the circuit
+[01:18] i will bring over the diagram now to
+[01:20] give you a closer look
+[01:22] of how this circuit works if you're
+[01:24] interested and here's the diagram so the
+[01:26] diagram is the wind generation going
+[01:28] into the three-phase
+[01:30] bridge rectifier
+[01:32] positive
+[01:33] negative
+[01:34] into the capacitors then into the 300
+[01:37] ohm and led diode and then another
+[01:42] 300 ohm into the
+[01:44] controller
+[01:45] that then charges when there's power
+[01:47] being generated this 1.2
+[01:50] volt battery
+[01:53] and then once there's no power generated
+[01:56] the power from that battery will go to
+[01:57] this
+[01:58] led here
+[02:00] and like that so that's the diagram
+[02:03] oh so this is just to give you a
+[02:04] close-up quickly so you can see the
+[02:06] components all in one nice and easy but
+[02:09] once they're all like in their
+[02:10] individual places you're not going to be
+[02:11] able to see most of this
+[02:13] so i thought i'd just give you this is
+[02:15] how it works close up so at the minute
+[02:19] we are
+[02:20] nothing in there really and the battery
+[02:23] not even a volt in there so it's
+[02:24] completely dead okay
+[02:27] so
+[02:29] i will give it a bit of juice and you
+[02:31] can see it on here
+[02:34] there we go if you can see that we've
+[02:36] got the led that's lit down here i don't
+[02:38] know if you can see that led
+[02:41] yeah there you go
+[02:42] so there we go on a slow speed we've got
+[02:44] 24 volts
+[02:46] 20 volts 18 volts
+[02:48] and it's stabilizing
+[02:51] there we go about 18 volts so it's going
+[02:54] through the bridge rectifier into here
+[02:57] lighting up this led
+[03:01] when the power stops generating and
+[03:03] there's nothing else
+[03:06] and it completely goes dormant this then
+[03:09] will drain and when it drains
+[03:15] that led will light up
+[03:17] and there you go you can see it's lit up
+[03:19] there
+[03:20] so i'll always have an led lip
+[03:23] this is the fan
+[03:25] this is the fan um i've kept this
+[03:27] because this this actually worked really
+[03:28] well so what i've done is i've stuck it
+[03:30] to this pole i've put a uh a tapping
+[03:33] screw in there quite a big one
+[03:36] i've then put a nut that fits snugly in
+[03:38] here that's
+[03:40] solid
+[03:41] the fan is a free face fan like we said
+[03:44] and then here is the controller so i've
+[03:46] already run the wire i'm going to
+[03:48] install the bridge rectifier now and
+[03:51] i'll show you that you go so i've got
+[03:53] the
+[03:54] the waterproof box open
+[03:57] and i'm going to install
+[03:59] i've already made one of these on my
+[04:01] channel so go check it out intelligent
+[04:03] tinkering
+[04:04] and that will show you
+[04:06] how i made this bridge rectifier simple
+[04:08] very simple
+[04:10] so i'm just going to stick this in
+[04:14] and there we go it's all installed so
+[04:16] outcoming supply your incoming supply
+[04:20] into the bridge rectifier this is
+[04:21] changing the 3d
+[04:23] three-phase sorry into single phase
+[04:26] dc going down so that stays in there
+[04:28] nothing's touching like i said if you
+[04:30] want to watch that that's on my channel
+[04:33] it goes in like that
+[04:39] all right i'll stick the blade on and
+[04:41] we'll get it up this is the fan i had
+[04:44] i basically
+[04:45] chopped off here
+[04:47] and got rid of that same with this one
+[04:49] same with this one got some drain pipe
+[04:51] cut my own fan blades and stuck them in
+[04:53] so i'll take you that now and there we
+[04:56] go
+[04:57] that's my fan blade it's pretty big so
+[05:00] it doesn't really fit in here
+[05:03] so now that i'm gonna bolt on
+[05:07] and there we go spinning happily in the
+[05:08] wind free energy
+[05:14] so the volts are coming in here
+[05:16] the voltage of the battery is here
+[05:18] that's the charging voltage
+[05:20] there's the led
+[05:22] lighting up really nicely and as you can
+[05:24] see if i short it
+[05:27] the other led should take over with the
+[05:29] battery power that it's got stored and
+[05:31] if i take it away and the wind
+[05:33] generation happens again
+[05:34] that's where that child that then lights
+[05:36] back up absolutely awesome i'll always
+[05:39] have an led lit if the generation's
+[05:41] happening it charges if the generation
+[05:43] stops the battery takes over
+[05:46] awesome
+[05:47] and it's not even a windy day
+[05:55] look at that eye
+[06:00] and the battery's being charged nicely
+[06:05] hello
+[06:06] it's been an absolute pleasure i've
+[06:08] thoroughly enjoyed it it's not even been
+[06:10] a windy day today but it was enough to
+[06:12] actually charge the battery run the leds
+[06:15] and yeah i've really really enjoyed it
+[06:17] from every aspect but i hope you you
+[06:19] guys enjoyed it and big thank you to rob
+[06:22] for for doing this competition and yeah
+[06:24] thank you for letting me participate so
+[06:26] i thought i'd bring this into this last
+[06:27] video and as you can see the led is
+[06:29] shining away with the power we generated
+[06:33] that's been stored in that battery so
+[06:35] big thank you please like subscribe and
+[06:39] comment on my channel and yeah i'll see
+[06:42] you around
+[06:43] over and out from intelligent tinkering
+[06:45] thank you

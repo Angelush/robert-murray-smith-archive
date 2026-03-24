@@ -1,0 +1,242 @@
+[00:00] [Music]
+[00:08] Right. So, we've been playing around
+[00:09] with Da Vinci's catapult and we replace
+[00:11] the springs with magnets using magnets
+[00:14] as a spring. Now, the more observant of
+[00:17] you will have noticed that it's quite
+[00:19] easy to do that, but there gets to be a
+[00:21] point when it starts to get harder. As
+[00:24] you start to press it together, it gets
+[00:27] really hard until, of course, there we
+[00:29] go. We get it in position. Equally, you
+[00:33] might have noticed that when we release
+[00:35] it,
+[00:37] there's quite a lot of push at first,
+[00:39] and as we saw, that push falls off quite
+[00:43] dramatically. Now, we put these magnets
+[00:45] in opposition. So, like pole against
+[00:48] like pole, which is means they're
+[00:49] forcing each other apart. However, if I
+[00:52] do that by my hand, as I press the
+[00:54] magnets together, I can feel the rep
+[00:57] force of repulsion. And as I push it
+[01:00] more and more, then that force gets
+[01:02] greater and greater. But it doesn't go
+[01:05] up in a straight line. Actually, it goes
+[01:08] up as the square of the distance. And
+[01:11] that's not because they get weaker. A
+[01:13] magnet has lines of force coming out of
+[01:15] it. They have a density. So when you're
+[01:17] close to it, those lines, there's lots
+[01:20] of them in a particular area. As you
+[01:23] move away, the area that they cover, cuz
+[01:25] they're coming out like this in every
+[01:27] direction, the area that they cover gets
+[01:29] greater. And so the lines of force
+[01:32] cutting that area, the density goes down
+[01:35] and they go down by the square because
+[01:38] it's a square. We're talking about area.
+[01:41] And so area covered has less lines of
+[01:44] force. And so the magnetic force feels
+[01:47] weaker. It doesn't really matter so
+[01:49] much. What matters is that force is not
+[01:51] linear. And springs have the same
+[01:53] problem. They're quite strong to begin
+[01:55] with and then the force it can apply
+[01:58] drops off. Magnets are quite strong to
+[02:00] begin with and then the force that it
+[02:02] can apply drops off. Now, in something
+[02:06] something like a catapult, of course,
+[02:08] that doesn't really matter so much
+[02:10] because we need a great big bit of oomph
+[02:12] to get this thing going or once it's
+[02:14] going, it's basically going to move
+[02:16] under its own inertia. And so, we need
+[02:19] the oomph to begin with and then it
+[02:20] dropping off doesn't matter so much. But
+[02:24] if we want to use magnets as a
+[02:26] consistent force, then that is a
+[02:28] problem. And it was also a problem for
+[02:30] clock makers. Fortunately, of course,
+[02:32] clock makers came up with a solution,
+[02:35] and it's called the fusy. The fusy is,
+[02:38] in fact, just a conical gear with a
+[02:40] helix on it, a rope wound around it, and
+[02:43] you can think of it as a variable
+[02:45] transmission. It's a kind of CVT for the
+[02:48] length of the cord. Fittingly, Leonardo
+[02:52] da Vinci used fuses, and they've been
+[02:54] around for a long time. A machine
+[02:57] drawing from 1400s shows a fuzzy 1405
+[03:01] fuses was seen in uh loading crossbows.
+[03:06] They generally thought to have come
+[03:07] around in clocks around about the end of
+[03:10] the 1400s or the end of the 15th century
+[03:13] if you like. But what we're going to do
+[03:16] is create a fuzzy so we can use our
+[03:19] magnetic battery more evenly rather than
+[03:22] having it give that massive push just
+[03:25] like in a clock spring. Now to do that,
+[03:28] of course, we're going to turn to Fread.
+[03:30] We're going to turn to Frecad because
+[03:31] Tinkercad isn't very good at drawing
+[03:35] spirals, and we want a conical spiral.
+[03:38] Frecad, however, is absolutely brilliant
+[03:41] at it. So let's draw a conical spiral in
+[03:46] Frecad. Okay, it's pretty easy really.
+[03:48] Obviously we fre. Let's start a new file
+[03:51] by clicking on new file and we want to
+[03:53] sketch. So we can click here on the
+[03:56] create sketch. That will create a sketch
+[03:58] for us. Now select the XZ plane and that
+[04:02] will create the sketch on the XZ plane
+[04:04] for us. There it is. Now we can draw a
+[04:07] shape on this plane and any shape that
+[04:09] we draw on this plane will be rotated.
+[04:11] So we can do whatever shape we like. I'm
+[04:14] going to do a rectangle. You could
+[04:15] equally do a circle if you want. So
+[04:18] click on rectangle. Draw some random
+[04:21] rectangle.
+[04:23] We're going to make that 20 mm. Tab to
+[04:25] the next one by let's say 7 mm deep.
+[04:29] Okay. So it's somewhere random and we
+[04:31] actually want it placed on the line and
+[04:34] we want to put some constraints on it.
+[04:36] So the first constraint we need to put
+[04:38] is to make this point coincident with
+[04:41] this axis here. So we have a constraint
+[04:44] coincident. Click on that.
+[04:47] Click on your point. Click on your axis
+[04:50] and it will make it coincident. Now we
+[04:53] want a certain distance from that center
+[04:56] there. So go to the I click on it and
+[05:00] we've got constrain distance. So we can
+[05:02] click on the constrain distance. Click
+[05:05] on that point. Click on that line. And
+[05:07] it will ask us to put some number in.
+[05:10] Let's make that 50 mm. And now we have a
+[05:13] fully constrained sketch. So we can hit
+[05:16] close. Right. As you can see, it's on
+[05:19] that facing edge, the XZ plane that we
+[05:22] put it on, lying on the XY plane. And if
+[05:25] we look here, we've got the helix tool.
+[05:27] If we click on the helix tool, it will
+[05:30] draw the helix automatically for us and
+[05:33] bring up a selection of boxes that we
+[05:36] can play around with. Let's zoom in.
+[05:40] Here we can choose which axis it is. And
+[05:42] here we can choose the modes that we're
+[05:44] going to change. And you see we can
+[05:46] change pitch height, pitch turn, pitch
+[05:49] angles. And I'm going to do height,
+[05:51] turns, and angles because I want this to
+[05:54] be 100 mm tall.
+[06:00] I want 10 turns
+[06:05] and I want it to be conical. So I want
+[06:08] it at about 45°. You can make it
+[06:11] anything you like. Let's say 60.
+[06:16] And it will create that cone for us. Now
+[06:19] we can reverse it so it points upwards.
+[06:22] or we can create the cone with the twist
+[06:25] in the opposite direction. I'm fine with
+[06:28] that. So, let's click okay.
+[06:31] And there is our cone spiral. And that's
+[06:36] really pretty much all there is to it.
+[06:38] Now, we did it at 60°. In a minute, I'll
+[06:40] change that to 45° and show you how I
+[06:42] change the parameters really relatively
+[06:45] easily. And we could continue with this
+[06:48] in Frecad. However, I'm a huge fan of
+[06:50] Tinkercad, as you know, because quite a
+[06:52] lot of the times what I'm doing, I'm
+[06:54] doing for me, and I want to specifically
+[06:56] want it done quickly. I'm not really
+[06:58] communicating with it. If anybody wants
+[07:00] the files, I do that. But it's not
+[07:02] really to communicate. It's really for
+[07:03] me to experiment. So, I can knock things
+[07:06] up terribly quickly in Tinkercad. So,
+[07:09] let's export that now and then reimpport
+[07:12] it into Tinkercad and quickly knock it
+[07:14] into shape of a fusy.
+[07:17] First thing, let's see to change those
+[07:19] parameters. If we click on our drawing,
+[07:22] there it is. It pulls all this stuff up.
+[07:24] And you can see the mode, height, turns,
+[07:26] angles. We can change that mode if we
+[07:28] want to by clicking on the down arrow.
+[07:30] And we can go back to the previous mode.
+[07:33] We're going to leave it in height,
+[07:34] turns, and angle. And here is the angle
+[07:36] at 60 that we set it at. Let's change
+[07:38] that to 45. So, it's pretty easy to
+[07:42] change the parameters of what you did.
+[07:44] And now we've got a cone of 45° which is
+[07:47] the cone that I wanted. Let's export
+[07:49] that. So hit it file
+[07:53] export
+[07:55] STL.
+[07:57] So here we are in Tinkercad and clearly
+[07:59] all I've done is import that spiral that
+[08:01] we just created. And that is click
+[08:04] import, choose your file and import. And
+[08:07] we've imported it. Now what we want to
+[08:09] do is merge it with the cone that we've
+[08:12] got here. And the cone is 110 x 110 x 55
+[08:15] which is a 45 degree cone. So to do that
+[08:20] obviously highlight both of them center
+[08:23] them to each other make this pink thing
+[08:26] a hollow. So make it a hole. You can see
+[08:29] it's a little out. So just move it
+[08:31] across say one.
+[08:34] And then we can group them. And when we
+[08:37] group them we get the essence of our
+[08:40] fusy. We've still got the top of the
+[08:41] cone. So, let's remove that by pulling
+[08:44] down a hole.
+[08:46] Lift it off the ground. Say 37.
+[08:50] Make it stupidly big.
+[09:02] Center them to each other.
+[09:10] Group them.
+[09:12] Now we'll put an axle hole through on
+[09:14] it.
+[09:19] Make it 8 mm,
+[09:25] 50 high,
+[09:30] center them,
+[09:38] and then group it. And there we are. our
+[09:40] fusy cone. Let's get that printed.
+[09:43] >> Okay. And that's it printed off. Now,
+[09:46] this is conic in real clocks. Uh what
+[09:49] they found was a conic section isn't so
+[09:51] good. In fact, it's hyperbolic. But they
+[09:53] found that out uh by trial and error.
+[09:56] They just tried loads of different
+[09:58] designs until they came up with the
+[10:00] best. But it was based on a cone which
+[10:02] they then changed. Now, nobody's ever
+[10:05] done it with magnets before. I don't
+[10:07] think so. So, this probably isn't the
+[10:09] best shape, but then we're going to have
+[10:10] to find the best curve just by trial and
+[10:13] error. So, lots of experimentation there
+[10:16] to find out which would be the best
+[10:19] shape if you're doing this with magnets.
+[10:22] In order to use this, what you do is
+[10:23] wind it from the top to the bottom. So,
+[10:26] it' be full of a string or a chain. And
+[10:28] that would be in the wound up position.
+[10:30] When it's unwound, that chain is wound
+[10:32] onto a drum and it unwinds from this.
+[10:34] And of course that changes the torque.
+[10:37] So as we need it because the spring is
+[10:40] running out of power and we need to
+[10:42] raise the torque if you like maintain
+[10:44] the actual torque then changing the
+[10:47] diameter of this is exactly what does
+[10:49] that. Anyway I thought I would go into
+[10:52] fuses how to make them show the free CAD
+[10:54] and the Tinkercad side of things. I hope
+[10:57] you found it interesting. Thank you very
+[10:59] much for watching and please do remember
+[11:01] to like and subscribe.

@@ -1,0 +1,173 @@
+[00:00] [Music]
+[00:08] so normally you want to make a generator
+[00:11] you grab yourself a motor this is a
+[00:12] universal motor and this which is from a
+[00:15] hoverboard is a brushless DC motor which
+[00:18] is okay because that's the way the bulk
+[00:19] of generators are actually made but
+[00:21] there are conditions for example in a
+[00:24] missile or a rocket where the conditions
+[00:26] are just so harsh that that kind of
+[00:28] generator well it won't cut the mustard
+[00:31] and there are other times for instance
+[00:33] you need a very high frequency high
+[00:34] power a generator like that just
+[00:37] couldn't keep up with it but there are
+[00:39] alternatives and it might be worth
+[00:41] looking at those alternatives to see
+[00:43] what we might be able to do with this
+[00:45] kind of generator now in this one when
+[00:47] you spin it what you're doing is you're
+[00:48] spinning the magnets around some coils
+[00:52] in this one when you spin it what you do
+[00:54] is spinning some coils within a magnet
+[00:56] cuz the magnets are on the outside and
+[00:58] here the magnets are on the inside so to
+[01:01] speak but either you spin the magnets or
+[01:04] you spin the coils through the magnetic
+[01:06] field and then your motor becomes a
+[01:07] generator because of course generators
+[01:09] and motors are electrically equivalent
+[01:11] machines but you have to spin one or the
+[01:14] other I what did I show you this this is
+[01:18] a coil from a fan this is pulled from a
+[01:21] microwave as it happens and it's that
+[01:23] coil there I pulled it out stuck it
+[01:25] there and then I've put some magnets on
+[01:28] the back of that coil so now both the
+[01:31] magnets and the coil are stationary and
+[01:34] of course they're glued to this board so
+[01:35] they're not going anywhere what I've got
+[01:38] here is a bit of
+[01:40] Steel if I move that
+[01:48] steel that led look well that means
+[01:51] obviously is we're generating and we're
+[01:53] generating something without moving
+[01:56] either the coils or the
+[01:58] magnet personally I find that a little
+[02:01] bit mind-blowing because I'm used to
+[02:03] thinking of moving the magnetic field
+[02:05] and moving the magnetic field I'm used
+[02:07] to think of thinking of it as spinning
+[02:09] the coils or spinning the magnets
+[02:11] because motion is relative here we're
+[02:13] moving the magnetic field in a
+[02:15] completely different way we're actually
+[02:17] using the property of the magnet the
+[02:19] magnet wants to find the least path of
+[02:22] resistance wants to go through something
+[02:24] it can go through now it's going through
+[02:26] this steel at the center of here and
+[02:27] it's kind of spreading out in the air
+[02:29] the minute I do that all that rushes up
+[02:32] here because this is the path of least
+[02:35] reluctance it reluctance is that
+[02:38] property of magnetism where it wants to
+[02:40] follow the path of the least reluctance
+[02:43] in the same way that electricity follows
+[02:46] the path of least resistance so it'll go
+[02:48] in and out of that steel as I move the
+[02:51] steel off and on that piece of iron and
+[02:54] of course what we're doing then is we're
+[02:56] forcing the magnetic field to move
+[03:00] without moving the magnet that's very
+[03:02] cool this switched reluctance which is
+[03:05] what it is we're varying the reluctance
+[03:08] and switching it by moving it that
+[03:10] variable reluctance can be used as a
+[03:12] generator and indeed it has been used as
+[03:14] a generator the first generator designed
+[03:18] for this was in 1904 and it was called
+[03:20] the alexanderson generator it came in
+[03:23] huge kilowatt kind of like 5 kilowatt
+[03:26] 100 kilowatts massive really and um they
+[03:30] used it for generating radio frequency
+[03:33] because the frequency is dependent on
+[03:36] how quickly I do that now I've got this
+[03:38] on a rectifier right there so we're
+[03:40] getting DC out but it was used to
+[03:42] generate high power radio frequency
+[03:45] until about the 1920s or so when it was
+[03:48] overtaken I'm using a lump of Steel
+[03:50] against that IR core cuz it's really
+[03:52] easy to demonstrate but the alexanderson
+[03:55] generator had a huge rotor made out of
+[03:58] steel with slots cutting in it and those
+[04:00] slots acted the same way as this little
+[04:02] bit of Steel that I'm using and you're
+[04:05] able to switch that flux or uh find the
+[04:08] path of least reluctance and then
+[04:10] generate from it now this is not a
+[04:12] curiosity this is something we actually
+[04:14] use even now so it was used in the 10
+[04:16] 1900s as a method of generation and it's
+[04:19] used now this idea is also used in the
+[04:22] makeup of guitar pickups when the string
+[04:25] or steel string vibrates across that
+[04:27] iron core it generates and of course
+[04:30] that generation is then picked up and
+[04:32] Amplified and that's how guitar pickups
+[04:34] work now alexanderson was a Swedish
+[04:38] engineer and he's really quite famous so
+[04:40] much so that there is in fact an
+[04:42] alexanderson Day in Sweden it's on the
+[04:45] um last Sunday of June or the first
+[04:47] Sunday of July which ever is near as to
+[04:49] the second of July it's actually the
+[04:52] predominant um power supply for missiles
+[04:56] and the reason it's the predominant
+[04:57] power supply for missiles like the SP
+[04:59] arrow and that kind of thing is it's
+[05:01] incredibly robust because of course what
+[05:04] you've got is a rotor of just slotted
+[05:06] steel there nothing on it there's no
+[05:09] need for slip Rings there's no need for
+[05:11] coils you just make that rotor out of
+[05:14] slotted steel put it in some bearings
+[05:15] and spin it now obviously it produces
+[05:19] very high frequency you've spun at very
+[05:21] high speeds and that's why it was used
+[05:23] for radio when they put it into a um
+[05:28] missile then they power it one of two
+[05:31] ways either it has its own gas power
+[05:33] supply or quite often it's used for a
+[05:36] tiny bit of exhaust is jetted over a
+[05:38] turbine and then that is used to spin
+[05:41] that wheel so how is that useful to us
+[05:45] well there's a number of things I can
+[05:46] suggest one is the Simplicity of
+[05:49] construction obviously it's best used at
+[05:51] high speed because speed is a factor
+[05:54] remember so it's strength of magnetic
+[05:56] field turns of wire that's being cut by
+[05:59] by that magnetic field and then the
+[06:01] speed at which that happens so a turbine
+[06:03] is a brilliant application for this so
+[06:07] you would get an incredibly rugged
+[06:09] device driven directly by a turbine that
+[06:11] we could produce huge amounts of power
+[06:14] that you can make simply all of those
+[06:17] things just seem like massive pluses to
+[06:19] me so I wanted to introduce this idea of
+[06:22] switching the uh flux and then the the
+[06:25] thing has been used and is still used
+[06:28] and is relatively in these terms easy to
+[06:32] do and it uses something we don't often
+[06:35] consider that is changing the path of
+[06:38] the magnetic field so it cuts through
+[06:40] this coil is equivalent to rotating the
+[06:44] magnetic field what we need is a
+[06:47] changing magnetic field we can create
+[06:50] that changing magnetic field either by
+[06:52] rotating the magnets rotating the coils
+[06:54] or in this case giving the field
+[06:57] somewhere else to go we're bending that
+[06:59] magnetic field which I really like so
+[07:03] anyway I thought I would introduce this
+[07:05] idea to you of um switching the
+[07:07] reluctance or if you like switching the
+[07:10] flux and this idea of a flux switching
+[07:14] alternator that has been used over time
+[07:17] I hope you enjoyed the video I hope you
+[07:19] found it interesting and thank you very
+[07:21] much for watching

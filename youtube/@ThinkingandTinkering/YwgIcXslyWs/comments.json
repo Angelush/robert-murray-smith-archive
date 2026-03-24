@@ -1,0 +1,205 @@
+[
+  {
+    "id": "UgyyVxpyy7kfW4BdhHF4AaABAg",
+    "author": "@stevesmith-sb2df",
+    "author_channel_id": "UCNOkd4gNaF80GnjYVflQtWg",
+    "text": "I like the longer wavelengths of CO2 because it will cut clear acrylic and etch uncoated glass. I don’t like cloud based software.",
+    "likes": 0,
+    "published_at": "2022-09-25T15:26:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwYIf0uYg8AjYb4hrJ4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "I have a borosilicate tube that is 5 feet long by 2 inches [ 1500 mm x 50 mm ] that I am thinking about making a laser with.",
+    "likes": 0,
+    "published_at": "2022-09-25T08:35:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyyGeJUVM5RJDx2mF54AaABAg",
+    "author": "@TheEmbeddedHobbyist",
+    "author_channel_id": "UCFMlDseanOpkX9NBuNPJaDA",
+    "text": "The main issue in my mind is what do you want to cut?\n\n I wanted to cut Ping-Pong balls in half for a project I’m working on, but a 10W optical power blue diode laser will not mark them let alone cut them. \n\nSo now I’ve got a K40 to play with, the K40 shows that you don’t need any real engineering ability to make a CO2 laser that works. Ok you have to align the optics every time the wind changes direction. (I jest so don’t get upset) Out of the box the optics were very miss aligned but a few hours and a lot of post-it notes later they are spot on. Move the unit and the case flexes and you have to do it over again. The first time takes longer as the mirrors had to be height adjusted by making some standoffs; the laser tube was fixed too high in the case by about 3mm. \n\nWith the CO2 laser safety glasses only need to be made out of acrylic as any reflections of the laser into them will just cause the acrylic to convert the light in to heat. The same way as expensive safety glasses do for diode lasers, get a CE marked pair of safety glasses that are marked for the frequency of laser your using 400nm for a blue laser. \n\nSo its horses for courses, if the light passes through the material then it won’t cut it. The material has to resist or block the light so it can be converted to heat. \n\nLED laser, quick to fire up, turn on power and your good to go.\nCO2 laser, it's get the water flowing, the chiller running, then you good to go.",
+    "likes": 0,
+    "published_at": "2022-09-22T08:30:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwnsr2kXjvuLU4M_zh4AaABAg",
+    "author": "@peterbrown172",
+    "author_channel_id": "UCl1wXIBFJrTeeRbNrVG3XWQ",
+    "text": "Well I went to the Gweike YouTube channel you linked to see the tutorials you talked about and . . . . NOTHING! The only tutorial I found was on how to cut a pipe with one of their specialist machines. Would you be so kind as to link to the video tutorial you found there for their own free software as I’m interested to see what it promises. Thanks in advance",
+    "likes": 0,
+    "published_at": "2022-09-22T01:19:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJnRlUQxb2cU9ymX94AaABAg",
+    "author": "@newmonengineering",
+    "author_channel_id": "UCz_0pvSiiZs68SpQbDcsjxw",
+    "text": "I have a 100w co2 and I use lightburn, it's a one stop software. I know you can use some freeware but I find it convenient to not have to export and import all the time. Lightburn you can draw and cut all in thre same app which is significantly easier to work with. I think their price for such convenient software worth it. At least you get to keep the latest version forever unlike some software  as a service applications. But the 100w machine has a huge footprint in the shop, not everyone can afford such space. Plus you have to have all the auxiliary things like a water cooler and exhaust fans and ducts. I had a laser one I built myself many years ago, much smaller and easier but definitely not as capable.",
+    "likes": 0,
+    "published_at": "2022-09-21T23:23:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxYc-AIuN2WMHj68Fd4AaABAg",
+    "author": "@AdricM",
+    "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+    "text": "we  haveone of their older 80w 600x800 gwikle at our makerspace,  mus be 15 years old now,  we have only replaced 2 power supples.  wish it had a newer lightburn cpmpatible controller.   we might upgrade the controller some day..",
+    "likes": 2,
+    "published_at": "2022-09-21T22:44:43Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxYc-AIuN2WMHj68Fd4AaABAg.9gFoIn4XZuS9gGVMFx3tP7",
+        "author": "@gweikelaser_official",
+        "author_channel_id": "UClcuR8tboNcGeMfe6gd1cYw",
+        "text": "Hello, thanks for your support. May I know does your controller card is Ruida 6442 ?",
+        "likes": 0,
+        "published_at": "2022-09-22T05:09:40Z"
+      },
+      {
+        "id": "UgxYc-AIuN2WMHj68Fd4AaABAg.9gFoIn4XZuS9gG_RD67O6l",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - gweike is on it! lol - that is cool",
+        "likes": 1,
+        "published_at": "2022-09-22T05:54:02Z"
+      },
+      {
+        "id": "UgxYc-AIuN2WMHj68Fd4AaABAg.9gFoIn4XZuS9gGioNSBnlv",
+        "author": "@AdricM",
+        "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+        "text": "@gweikelaser_official i will have to check but i donnt think so.",
+        "likes": 0,
+        "published_at": "2022-09-22T07:15:59Z"
+      },
+      {
+        "id": "UgxYc-AIuN2WMHj68Fd4AaABAg.9gFoIn4XZuS9gGjmTdO5WX",
+        "author": "@AdricM",
+        "author_channel_id": "UCDVvmp5wEWfPNBlXEz-zVmA",
+        "text": "@gweikelaser_official im pretty sure no,  i know its old enough to need to run lasercut 5.3",
+        "likes": 0,
+        "published_at": "2022-09-22T07:24:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSdEvAdSMM9OtbHrx4AaABAg",
+    "author": "@Photomonon",
+    "author_channel_id": "UCtUmYc_jJRDPwpkyNvNn2fA",
+    "text": "Brilliant, just on time... What about fiber lasers?",
+    "likes": 1,
+    "published_at": "2022-09-21T21:23:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwELAb1YZJYE56B1Zl4AaABAg",
+    "author": "@simonsays5587",
+    "author_channel_id": "UC66Jrwya_OIg0DH18oJGUbA",
+    "text": "👍",
+    "likes": 0,
+    "published_at": "2022-09-21T21:07:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxkAyxbOy7lmeUDBTF4AaABAg",
+    "author": "@Milkybar3320011",
+    "author_channel_id": "UCOj-8bIkbUq42YLlHevvNfA",
+    "text": "Bet the Empire pondered this question when designing the Death Star 😂",
+    "likes": 0,
+    "published_at": "2022-09-21T20:18:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyeWDeY-2JTuRFIZW14AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome 🎉",
+    "likes": 1,
+    "published_at": "2022-09-21T19:19:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxRZC21oCy29M4N7i94AaABAg",
+    "author": "@paulmaydaynight9925",
+    "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+    "text": "\" there is No Best\" -without batteries & a power source to run it- but the diode version can operate at a lower voltage if you need/want to make your own power & storage at home -just because you can.-",
+    "likes": 0,
+    "published_at": "2022-09-21T18:46:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyKd6uf8zMCLgMAN114AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍🙏❤",
+    "likes": 0,
+    "published_at": "2022-09-21T17:49:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZmvH0N0F1RNS3z6p4AaABAg",
+    "author": "@arnokosterman231",
+    "author_channel_id": "UCX1wNYrvtMxKznj1xH3185Q",
+    "text": "The tube is interesting 😍😍😍\n\n💜👐🙌🌈🍀🌻🍀",
+    "likes": 0,
+    "published_at": "2022-09-21T17:17:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx7JGvWdemCOQIamvR4AaABAg",
+    "author": "@johnbrowning9453",
+    "author_channel_id": "UCFeN4kLqYDG0BUkkgigAc_A",
+    "text": "hey rob i had a couple questions for you if you have time ...i sent an e mail yesterday..if you are busy i understand that your time is valuable",
+    "likes": 0,
+    "published_at": "2022-09-21T15:54:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzwMXZxUWBkBmEoCPh4AaABAg",
+    "author": "@ProlificInvention",
+    "author_channel_id": "UC1IN2VQpsjvfw6N5y6jaXrw",
+    "text": "I think a system like the ArcDroid CNC robotic arm mated with a high power cutting laser would be a game changer for the home and even commercial use.  The coolest part of the ArcDroid is it's Simple Trace operating system which allows you to use the pen connected the robot arm to trace something and then you can directly cut that exact object out or you can use the included touchscreen display control unit or a computer to manipulate its dimensions first.  You can use CAD or other software but it's not required which is very useful for a tinkerer or fabricator.",
+    "likes": 0,
+    "published_at": "2022-09-21T15:49:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgweSVCP5tdYnjPCBYp4AaABAg",
+    "author": "@sebastienloyer9471",
+    "author_channel_id": "UCveMN12kq58J4GnleSrF7Vw",
+    "text": "Allô allô from Alberta Canada",
+    "likes": 0,
+    "published_at": "2022-09-21T15:48:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwGIuIr8FFijq7G9Wp4AaABAg",
+    "author": "@gunterhellrigl4293",
+    "author_channel_id": "UCB2jUtIFcGj0Q9PBBsOFUmQ",
+    "text": "Always 2nd",
+    "likes": 0,
+    "published_at": "2022-09-21T15:41:31Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

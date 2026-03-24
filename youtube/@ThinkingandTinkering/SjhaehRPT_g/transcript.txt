@@ -1,0 +1,156 @@
+[00:03] [Music]
+[00:10] so in video 1436 we made quite a
+[00:12] powerful hand generator from another
+[00:14] shredder machine i was thinking well not
+[00:16] a lot of people can get their hands on a
+[00:18] shredder and you need a certain type
+[00:20] there's um shredder machines the new
+[00:22] ones have worm gears and you can't turn
+[00:24] those in reverse it's the older ones
+[00:25] where you can go forward or reverse
+[00:27] works really well so you know often come
+[00:29] across them and loads of people make
+[00:31] great comments about how hey you
+[00:33] connected to a bicycle that sort of
+[00:34] stuff and i thought well yeah okay
+[00:36] that's a really good idea but one thing
+[00:39] i've come across all the time is
+[00:42] disposed of exercise bikes so i thought
+[00:44] what the hey let's stick it on an
+[00:46] exercise bar i came across this exercise
+[00:48] bike and when it was in one piece it
+[00:50] looked like this
+[00:52] what i did was remove all the extraneous
+[00:54] bits until we got to the mechanism
+[00:56] here's where the pedal went rotating
+[00:58] that large pulley and there's an idler
+[01:00] there a tensioner that rotates that
+[01:02] smaller pulley rotating this larger one
+[01:04] rotating the smaller one that actually
+[01:06] rotates the aluminium disc right here so
+[01:08] we've got a beautifully made pulley
+[01:10] of it obviously would come off of this
+[01:12] square shaft here and i've kept one of
+[01:15] the pedals
+[01:16] because i can take the pedal off and
+[01:17] then angle grinder to it chopped off all
+[01:19] the extraneous stuff and this is what i
+[01:22] was left with so this is the core of the
+[01:24] machine now i just think it's gorgeous
+[01:27] actually it's got a real victorian look
+[01:29] about it to me and of course that
+[01:30] immediately makes you think of something
+[01:32] steampunk we need is a lump of really
+[01:34] nice wood so i got this butcher's block
+[01:36] uh from the local store
+[01:38] chopped a couple of uprights out of uh
+[01:40] some timber i had lying around they'll
+[01:42] be the uprights for it and this thing is
+[01:44] going to basically sit on those upright
+[01:46] there it is finished to be honest i
+[01:48] think it's lovely
+[01:50] so if i turn this handle here that there
+[01:53] rotate to the red of knots i'm not sure
+[01:56] if you can see it but there you go it's
+[01:58] right there and that just goes mad hey
+[02:00] it's got a flywheel on it it's got a
+[02:02] very fast rotation and i can crank it by
+[02:04] hand and i think it looks everything
+[02:07] now the plan is that the belt will go
+[02:09] there on the flywheel it's a bit thin so
+[02:11] it's likely to slip off now what i need
+[02:14] to do is put a little ring in there so
+[02:16] that that makes a pulley and the belt
+[02:17] won't fly off and if you look the belt
+[02:20] is actually just long enough to go
+[02:21] around there and around there really
+[02:24] right rather easily so i need to take
+[02:25] these bits off which is circlips and
+[02:27] pull it off and attach a ring onto that
+[02:29] flywheel so that the belt can sit in
+[02:30] that right put it back together with one
+[02:32] small exception it now has a drive belt
+[02:35] off this main flying wheel here so when
+[02:37] i turn that handle slowly
+[02:40] that drive belt obviously turns like
+[02:43] there's my motor which is going to be my
+[02:44] generator and clearly i have to join the
+[02:46] two and to do that
+[02:48] this is a 90 degree angle attachment for
+[02:52] a drill it's just a drill chuck with 90
+[02:53] degrees and i've jammed the pulley on
+[02:55] the side of it there's a little clamp in
+[02:57] there that pulley goes onto the belt and
+[03:00] then connects to the motor so that our
+[03:02] gear set is now connected to our motor
+[03:04] i've already tried this of course and to
+[03:06] be honest it is knock your socks off
+[03:08] stuff so there's the stepper motor it's
+[03:10] just an ordinary small stepper motor
+[03:12] attached to that drill it's all set up
+[03:14] and that's got a pulley on it obviously
+[03:15] and i just spin this handle and it will
+[03:17] generate now stepper motors generate ac
+[03:20] so you have to rectify if you want dc
+[03:22] and inside there remember there are two
+[03:24] coils so what i've done is i've applied
+[03:26] those calls in series so the voltages
+[03:28] add up so we've got something through
+[03:30] now for voltage and we're adding those
+[03:32] voltages so i've got a household fitting
+[03:35] actually one of these it's a uk fitting
+[03:37] so it's meant to work on um 230 volts
+[03:40] it'll work lower but 230 volts is what
+[03:42] it's meant to work out and there it is
+[03:43] right there we're going to see if we can
+[03:46] light that household fitting by spinning
+[03:48] our electric generator and of course
+[03:50] i've got this set up for pip so let's do
+[03:53] that
+[03:55] there we go ready to rock and roll let's
+[03:57] spin it up we're measuring volts at the
+[03:59] moment
+[04:02] [Applause]
+[04:17] so
+[04:19] it's very much smaller it has less
+[04:22] torque so obviously it's not as hard to
+[04:24] spin that thing and we've got 133 volts
+[04:27] out of it now let's have a look and see
+[04:29] what amps we were getting so i've
+[04:30] connected it up for amps
+[04:47] 0.275 of an amp 275 milliamps at 130
+[04:51] volts so we basically got 30 watts out
+[04:54] of that from that tiny stepper motor and
+[04:57] an exercise bicycle that we chopped up
+[04:59] be a hand crank now obviously if we'd
+[05:02] left both sides on we could just stick
+[05:05] that on and leave the pedals on and it
+[05:07] would be a bicycle instead of a hand
+[05:10] crank and that is all you actually need
+[05:13] to produce some serious energy if you
+[05:16] get this right now it's the same format
+[05:19] that they all are we have some kind of
+[05:21] input in my case it's arm strength on
+[05:23] this crank but it could be leg strength
+[05:26] on pedals it could be a water wheel
+[05:28] whatever it is then we have a gearing
+[05:30] system and that gearing system is to our
+[05:32] generator stroke motor that output
+[05:35] remember is related to three things
+[05:38] speed of rotation number of turns of the
+[05:40] coil passing through the moving magnetic
+[05:42] field and the strength of the magnetic
+[05:44] field
+[05:45] one of the reasons these do so well is
+[05:47] they've got neodymium magnets in anyway
+[05:49] i thought i would share that with you it
+[05:51] is something that is going to be a bit
+[05:52] easier to make because you don't have to
+[05:54] look out for a shredder
+[05:55] exercise bicycles are all over the place
+[05:57] a normal bicycle would do a really good
+[05:59] job but we get some serious power and i
+[06:01] mean serious power out of the tiniest of
+[06:04] things i hope you enjoyed the video
+[06:06] thank you very much for watching and
+[06:08] please remember to like and subscribe

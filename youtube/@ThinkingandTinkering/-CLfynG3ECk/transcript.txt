@@ -1,0 +1,369 @@
+[00:02] [Music]
+[00:12] hi so we're going to go through some
+[00:13] stuff on the batteries again that's a
+[00:16] bit Tech head so if it's uh a bit boring
+[00:19] I understand that and please do feel
+[00:21] free to stop watching I'm not the least
+[00:23] bit upset now we've changed our test
+[00:26] equipment around a little bit so we have
+[00:28] the kex here with it computer to take
+[00:30] the results then we have the testing
+[00:32] station right here where we put the
+[00:34] batteries on to test and then we've
+[00:36] joined up them with our rol so that we
+[00:38] can uh cross check those results now the
+[00:41] ryol measures the voltage of the cell um
+[00:44] across the cell at the cell it measures
+[00:46] the ampage that's being delivered to the
+[00:48] motor the kex measures the voltage
+[00:51] across the load that it's calibrated
+[00:54] load that is giving it in there so
+[00:55] there's a difference between the
+[00:57] readings so the Ral if you like is
+[00:59] reading the
+[01:01] um amps power of the whole mess the kex
+[01:05] is fairly internal so there's always a
+[01:07] difference between the readings this
+[01:08] actually tends to be slightly higher
+[01:10] this tends to be slightly lower by 05
+[01:12] volt and uh I think
+[01:15] 0 yes it's 3 milliamps difference
+[01:18] between the two so it's a bit of a
+[01:19] difference because of what we're
+[01:20] measuring and where we're measuring it
+[01:22] but it does give us the ability to cross
+[01:23] check and have an idea of where things
+[01:26] going now we've gone through in a
+[01:28] previous video how we've been making
+[01:29] this these and we've been making these
+[01:31] on the sort of next scale up so that we
+[01:34] can test all of that stuff you need to
+[01:36] test when you're making a battery all of
+[01:38] the constructional stuff that often gets
+[01:40] missed and as you know they basically
+[01:43] look like this they they're a bit of
+[01:44] stemless steel and they've got a little
+[01:46] tab solded onto them and the active
+[01:49] material goes onto that and that acts as
+[01:50] a current collector then we obviously
+[01:52] have a separator and a bit of
+[01:53] electrolyte on there all of the um stuff
+[01:56] varies but these current collectors are
+[01:58] what we're using all the time so we have
+[02:01] four different types of battery and
+[02:04] people say why I have four different
+[02:05] types of battery surely you just want to
+[02:06] make one but that's CU they got in their
+[02:09] head the idea that there is the best now
+[02:12] there's no such thing as the best
+[02:14] there's only something that's
+[02:15] appropriate for the job that it does so
+[02:17] the first type that we're going to look
+[02:19] at is this one here and this is purely a
+[02:22] carbon coating there's nothing on here
+[02:23] but a structured carbon and you remember
+[02:25] we did this when we did the tire battery
+[02:28] so this is actually the tire now we make
+[02:30] up a couple of um examples like this and
+[02:34] if we test that then we find it has more
+[02:37] or less more or less the same energy
+[02:39] density as lead acid battery that's
+[02:41] super cool because it costs something
+[02:43] like $4 a kilowatt hour to make so it's
+[02:46] got good energy density not brilliant
+[02:48] good but it's very very cheap and it
+[02:51] answers a problem about what to do with
+[02:53] all these millions of or millions of car
+[02:55] tires who got kicking around so that
+[02:57] represents a good solution so it's
+[03:00] certainly not something to throw away
+[03:01] and ignore and say hey it's not
+[03:03] brilliant energy density it's no good
+[03:04] for me because it can't power my drone
+[03:06] well that's very true it can't but it is
+[03:10] very cheap has no intrinsic value
+[03:13] there's no value to this apart from what
+[03:14] the the energy stores that's significant
+[03:17] in some
+[03:18] applications sometimes you don't want to
+[03:20] leave a device like this lying around
+[03:22] that's made of a valuable metal because
+[03:24] it will disappear for the value of its
+[03:26] metal there's nothing in here but old
+[03:28] car tires it has no value it's cheap to
+[03:31] produce so there are certain places and
+[03:33] certain applications something like that
+[03:35] is brilliant it's not the most energy
+[03:37] dense battery in the world but that's
+[03:39] not important when considering when to
+[03:42] use a battery like
+[03:43] that then we have this which is our sort
+[03:46] of mid-range battery and this is
+[03:49] something like $26 a kilowatt hour it
+[03:51] performs quite well it's in the region
+[03:53] of 120 126 M millatt hours per gram
+[03:58] that's about lithium ion that kind of
+[04:00] energy density from that so that would
+[04:02] make a very good lithium iron
+[04:03] replacement and again only about $26 a
+[04:05] kilowatt
+[04:07] hour then we have this device which is
+[04:09] our sort of even like our top end device
+[04:12] this operates somewhere in the region of
+[04:13] around 300 um wat hours per gram millatt
+[04:17] hours per gram that's pretty superb
+[04:19] because that will um outshine lithium
+[04:22] ion then we have this one which is um
+[04:25] Steve's prototype device this is just
+[04:29] awesome this one the reason it's so
+[04:31] small like this
+[04:33] sorry the reason it's so small like this
+[04:35] is it's a very early prototype that
+[04:37] Steve's working on and this has in the
+[04:40] region of um 3 to
+[04:43] 400 millatt hours per gram and that's
+[04:46] just super so we could improve on this
+[04:49] one we know we can but I'm going to show
+[04:51] you the results of it anyway so you can
+[04:53] see where we're heading and that's the
+[04:55] next phase device that we're going to be
+[04:57] looking at and we think that'll get to
+[04:58] be about 6 00 or so something like that
+[05:01] but that's what we're working on at the
+[05:02] moment and that's why that's not as
+[05:03] nicely made as all the other ones we
+[05:05] haven't got that far with it we're still
+[05:07] kind of sizing up from the practice
+[05:09] scale to the larger scale but we
+[05:10] couldn't resist giving it go on kex
+[05:12] because the kex isn't supposed to be
+[05:13] able to run something like that because
+[05:16] that has um 08 of a gram of active
+[05:19] material on it so it's a phenomenally
+[05:21] low amount these ones incidentally have
+[05:23] about2 of a gram of active material same
+[05:27] with that2 this one has one of a gram of
+[05:30] active material so they're very low
+[05:32] active material weights what we do with
+[05:35] them is charge them up now we can only
+[05:38] charge them up to 1.8 volts and we can
+[05:41] only discharge them to uh4 volts that
+[05:44] limitation is specified by this machine
+[05:46] which because it's set for specific
+[05:48] battery chemistries limits the voltage
+[05:51] window in which we can charge and
+[05:52] discharge them these devices actually
+[05:54] charge up to 2.4 volts and discharge
+[05:57] down to zero the lower L end from 04 to
+[06:00] zero is not that important but the top
+[06:02] end 2.4 to 1.8 that we're missing is as
+[06:06] a real shame but what we've done when
+[06:08] we've taken these results and I've
+[06:10] quoted those figures to you is I've
+[06:12] quoted those figures to you based on the
+[06:13] kadex report and that's really important
+[06:16] it's based on what we can prove that
+[06:18] that thing has rather than what we think
+[06:21] it has because we know it's losing that
+[06:22] top end but we're making no claims to it
+[06:25] we're just claiming what the kadex can
+[06:27] show you it has rather than what we know
+[06:30] it can do we can do the 2.4 to 1.8 on
+[06:33] this thing which is what gives us a good
+[06:34] idea about it but it's not this thing
+[06:37] this thing is a kex calibrated 100%
+[06:39] super duper all singing all dancing
+[06:41] machine it isn't have a but here that if
+[06:44] you put a cup of tea under it that
+[06:45] button will put sugar in your teeth it's
+[06:47] got everything so we're going to go by
+[06:49] this everything machine and that's the
+[06:51] result we're going to take and that's
+[06:53] the result that I'm actually telling you
+[06:55] about not a a result above that I can't
+[06:59] prove to the same degree of accuracy as
+[07:01] this at the moment so I'm not making any
+[07:02] claims for it I'm just claiming what the
+[07:04] kadex can show you now if you look at
+[07:07] what the graph of the discharge of the
+[07:08] kex is it's pretty easy actually we
+[07:11] connect the device up to the kex through
+[07:12] the crocodile clipse and set the uh
+[07:14] terms of its discharge in here so this
+[07:17] is told that it's got a 150 mAh battery
+[07:20] and it's a discharge at 30 Milah
+[07:22] hours that tells you it's running at um
+[07:26] C over 5 yes that's right it should take
+[07:29] 150 M battery 5 hours to discharge at 30
+[07:33] Mah per hour so this thinks it's
+[07:35] discharging a battery at C
+[07:38] 5 now the percentage figures that you
+[07:41] can see here it says capacity in
+[07:42] percentage a red is a percentage of that
+[07:45] 150 milliamp hours so this bit here
+[07:48] before it when it reaches the one that's
+[07:50] 1% of the capacity representing 1.5
+[07:53] milliamps that it's actually discharged
+[07:56] at a rate of 30 milliamp hours and as
+[07:59] you can see from here which incidentally
+[08:01] is this one that reached uh nearly 3%
+[08:05] actually about 7 minutes and we can see
+[08:08] here is the actual load that was applied
+[08:10] which is 30 milliamp hours and we can
+[08:13] see the shape of the graph on its
+[08:14] discharge there and you can see it's
+[08:16] relatively capacitive it's got what
+[08:18] you'd expect of a capacitive discharge
+[08:20] because it is essentially old tires in a
+[08:23] symmetric capacitive uh relationship so
+[08:26] you'd expect to see that kind of thing
+[08:29] now if we close the graph down we can
+[08:31] have a look at the actual data
+[08:48] results we go down to the bottom there
+[08:52] so that ran for uh
+[08:55] 422 um seconds if I normalize that to
+[08:59] hours that is divided by
+[09:01] 3,600 that would give me a normalized
+[09:03] figure for an hour I can then multiply
+[09:05] that by 30 and that gives me the
+[09:07] milliamp hours that I actually got from
+[09:09] this piece of material here and it turns
+[09:12] out that in terms of milliamp hours it
+[09:15] was
+[09:16] um
+[09:17] 3.5 now 3.5 milliamp hour so that
+[09:20] doesn't seem like a lot but when you
+[09:22] consider what it weighs that is 0.1 of a
+[09:24] gram that means in terms of U mwatt
+[09:27] hours per gram or if you like wat hours
+[09:29] per kilo it's about 35 W hours per kilo
+[09:32] lead acid is about 33 w hours per kilo
+[09:35] again bear in mind I'm not taking the
+[09:38] top end of this now uh we've done this
+[09:41] calculation quite a lot and it turns out
+[09:43] for us in these devices despite the fact
+[09:46] that it dropped down under a volt for
+[09:47] part of the time with an above a volt
+[09:48] for a part of the time it's more or less
+[09:51] one amp uh milliamp equal 1 M for
+[09:54] devices that we're doing so we got a
+[09:56] really easy conversion to go to mwatt
+[09:57] hours so we're looking about 35 M hours
+[10:00] per kilo on the old tires and that's
+[10:03] what we saw on that graph and that was
+[10:05] obviously quite exciting for us now we
+[10:07] go to the next
+[10:28] one
+[10:34] okay so this one we're looking at this
+[10:36] device here and that's actually quite a
+[10:38] strange device and you can see this drop
+[10:40] off here then a kind of long tail off
+[10:42] and then a drop here and that's actually
+[10:44] much more battery like in its Behavior
+[10:47] and the reason it's like that is because
+[10:48] it is in fact a pseud capacitor it's a
+[10:51] air symmetric capacitor design using old
+[10:53] Towes on one end and a different
+[10:55] material on the other side so kind of
+[10:57] mimicking an asymmetric Capac
+[10:59] if we go through the math on that what
+[11:01] we get is 126 M hours per gram or 126
+[11:05] wat hours per kilo and that's what
+[11:08] that's graph's showing you what those
+[11:09] results are showing you now if we go to
+[11:11] the next
+[11:22] one we see a very interesting behavior
+[11:25] in that the battery section in inverted
+[11:27] commas is extended out here before we
+[11:30] get a kind of capacitive fall off and
+[11:32] then it Tails out again there and that's
+[11:34] this one here that we're looking at and
+[11:36] if we work the math out on that we
+[11:38] actually get around about
+[11:40] 258 um wat hours per kilo from that
+[11:44] device but as I say we're missing the
+[11:46] top we're missing the bottom but we'll
+[11:47] call it 258 uh W hours on that one now
+[11:51] if we look at Steve's protype
+[11:57] one
+[12:12] this is very interesting actually so on
+[12:15] this prototype it drops down to 6 of a
+[12:17] volt but look how flat that discharge
+[12:19] curve is until it finishes so the
+[12:21] Prototype that Steve's working on is in
+[12:23] fact much more battery like now we a bit
+[12:26] disappointed by the 6 volts but it was
+[12:28] pretty SL together and we think that
+[12:30] we've got just too high an interal
+[12:32] resistance on there because it was
+[12:33] supposed to start much higher than that
+[12:35] but this kind of indicates the internal
+[12:37] resistance is very high and we working
+[12:39] on doing something like that so we think
+[12:40] we can shift that entire thing up but if
+[12:43] we take 6 of a volt as an average and
+[12:45] that gives us um round about 300 M hours
+[12:50] per kilo on the Prototype which again we
+[12:53] think we can double at least by solving
+[12:56] this issue here to shift that whole
+[12:58] curve up that's a very nice battery
+[13:00] discharge that we've got there so the
+[13:02] kex now is reporting to us what these
+[13:05] devices are actually doing and that if
+[13:08] you like is what's taken quite a lot of
+[13:09] the time for us to get around to do we
+[13:13] these things take hours as you saw
+[13:15] they're like two and three hour long
+[13:17] each of these tests so every time we
+[13:18] make a mistake and have to do it again
+[13:20] we have uh just let ourselves in for
+[13:22] about 4 hours of work and it takes a
+[13:25] long time to get all this stuff correct
+[13:28] order to get the tabbing right these
+[13:30] edges right the laying up right all of
+[13:33] that stuff if they can test after test
+[13:35] after test on this kex machine now the
+[13:37] kex machine is important to us because
+[13:40] it is a verifiable result of what we're
+[13:42] doing it's a calibrated load from an
+[13:44] industry standard machine that we can
+[13:46] quite happily stay that between 1.8 and
+[13:49] volts this device will show 258 W hours
+[13:53] per kilo this device will show 126 W
+[13:56] hours per kilo and this device will show
+[13:59] 35 wat hours the kilo and that we can be
+[14:02] quite categoric about and what we need
+[14:04] to do now obviously is get somebody
+[14:06] who's an independent witness in into to
+[14:08] witness what we're doing and sign it off
+[14:10] and say hey that's what I saw that was
+[14:12] independent I verify the verification so
+[14:15] they will verify that all we actually
+[14:18] did was use this machine to test those
+[14:20] results and show you those results are
+[14:21] in fact real what we'd like to do
+[14:24] obviously is claim that extra bit of 2.4
+[14:27] to 1.8 that were missing because there's
+[14:29] a huge amount of energy there and sooner
+[14:31] or later I suppose we'll get round to it
+[14:33] but in order to finish this section of
+[14:35] it to show you what we're doing is
+[14:37] actually creating batteries that are
+[14:39] cheaper and more energy dense than
+[14:41] what's already out there I think we've
+[14:43] done that our old tires costing about $4
+[14:47] a Kow hour come in more energy dense
+[14:50] than a lead acid battery a super duper
+[14:54] battery um rather mid-range actually is
+[14:57] more energy dense about two to three
+[14:59] times more energy dense than lithium ion
+[15:02] our replacement of lithium ion is as
+[15:04] energy dense as lithium ion but costs
+[15:06] about one quarter of the price so we've
+[15:09] gone a long way to showing these results
+[15:13] and we know we still got a long way to
+[15:14] do but I thought I'd share that with you
+[15:17] in case you're interested I thought you
+[15:19] might be and thank you very much for
+[15:20] What's following and
+[15:23] watching

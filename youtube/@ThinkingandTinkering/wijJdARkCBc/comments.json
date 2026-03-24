@@ -1,0 +1,577 @@
+[
+  {
+    "id": "Ugzraf1lzBDarZnNu9h4AaABAg",
+    "author": "@JasonSheehan-fy3lb",
+    "author_channel_id": "UCfllgXV2rYefHYPMmNlzw5A",
+    "text": "Use polar array to create the circular pattern ..set the first circle at the distance from the centre constrain it to the vertical axis , select the circle select polar array, select circular array, enter the number of circles you need .. and your done..",
+    "likes": 0,
+    "published_at": "2025-06-19T23:41:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxR9rC7hwKizR7zBYV4AaABAg",
+    "author": "@NicBellamy",
+    "author_channel_id": "UCNG4IOelyUX5OvEr_Djsyxw",
+    "text": "Centering a square or rectangle around the origin can be done much quicker (and with far fewer fixed dimensions) in Sketcher in two ways:\n\nMethod one: click the little down arrow next to the square tool to find the \"centered rectangle\" tool, then hover over the origin until the mouse pointer has an \"X\" coincident constraint showing, click to place it, then pull away to make and dimension your square, nicely pinned around the origin.\n\nMethod two: draw your square as you did in the video, then, starting with nothing selected, hold ctrl and select two diagonally opposite corners of the square,  then select the origin point, then click the \"symmetry constraint\". With diagonal corners symmetrical around the origin, it's guaranteed to be centered. Symmetry constraints have far more uses than just squares too.\n\nFor your fillets, dimension one of them, then use the \"equals\" constraint to make the others equal to it. Quicker,  and only one place to change the radius in future.\n\nI highly recommend MangoJelly's FreeCAD videos if you haven't already found them.",
+    "likes": 0,
+    "published_at": "2025-06-12T13:22:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxR9rC7hwKizR7zBYV4AaABAg.AJGqy4JutIQAJLYP-xU2pz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - but method 1 is exactly what I did",
+        "likes": 0,
+        "published_at": "2025-06-14T09:08:14Z"
+      },
+      {
+        "id": "UgxR9rC7hwKizR7zBYV4AaABAg.AJGqy4JutIQAJLdZf88qh1",
+        "author": "@NicBellamy",
+        "author_channel_id": "UCNG4IOelyUX5OvEr_Djsyxw",
+        "text": "At 14:40 and 23:00 you made the square then pinned it to the origin with half the width and half the height dimensions - which is why I thought to point out some quicker options. All three ways are a valid path to \"done\" though, just trying to pass on some quality of life tips I've picked up 🙂",
+        "likes": 0,
+        "published_at": "2025-06-14T10:02:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz1xmqdWpwB0AGOof94AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "CNC to create metal versions of your prints? 🤯👏",
+    "likes": 1,
+    "published_at": "2025-06-10T18:39:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz1xmqdWpwB0AGOof94AaABAg.AJCGd-67JeNAJLYI5m3JuG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know! wild eh lol",
+        "likes": 1,
+        "published_at": "2025-06-14T09:07:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRjtEzB6FOCYMgxUl4AaABAg",
+    "author": "@Forensic1Man",
+    "author_channel_id": "UC2qlDLL4FBEnsRr5kwciD6w",
+    "text": "Hi Rob, I watched your video twice.  It seems to me that you did not just \"pick up FreeCAD\" and start making parts.  You must have been studying the program for at least 6 months to one year!",
+    "likes": 0,
+    "published_at": "2025-06-10T17:23:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxRjtEzB6FOCYMgxUl4AaABAg.AJC7u8iZ5dEAJLYLNFtgQR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - nope - an hour or so i think - but don't forget I already know On shape, fusion 360 and tinkercad",
+        "likes": 0,
+        "published_at": "2025-06-14T09:07:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw_75sPlbpuBgqILqd4AaABAg",
+    "author": "@danp1224",
+    "author_channel_id": "UC7cbSqLdghlc4gkRUDPlLjg",
+    "text": "nice work. maybe a polar array. not sure. I think I may go to free cad seeing it in action here",
+    "likes": 0,
+    "published_at": "2025-06-10T11:10:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw_75sPlbpuBgqILqd4AaABAg.AJBTEacqTy5AJLYb8ujkMs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think you are dead right mate - cheers",
+        "likes": 0,
+        "published_at": "2025-06-14T09:10:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygqjSwZ5fHdGI-3h54AaABAg",
+    "author": "@iExistOne",
+    "author_channel_id": "UCpndvcN1LCnqNuEQg7jdX8Q",
+    "text": "Awesome Part 2. 😉\nFor those who don't have a cnc machine, you can submit your FreeCAD design to an online service, and the part will be shipped to you.",
+    "likes": 2,
+    "published_at": "2025-06-10T09:48:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygqjSwZ5fHdGI-3h54AaABAg.AJBJpeFVa84AJBMH1XlI_H",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's good advice mate - thanks for sharing",
+        "likes": 1,
+        "published_at": "2025-06-10T10:09:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFxHtCM_93orKQT2B4AaABAg",
+    "author": "@shredder60",
+    "author_channel_id": "UCocW9ogfIzv7_SvWwxHda8A",
+    "text": "Robert we NEED your instructions on taking passive solar energy amd turning it into useful agricultural products stat. Thank you sir",
+    "likes": 0,
+    "published_at": "2025-06-10T05:26:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyFxHtCM_93orKQT2B4AaABAg.AJAqoB9c3iYAJB3566MIub",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "not sure i know how to do that mate",
+        "likes": 0,
+        "published_at": "2025-06-10T07:22:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwVC8K5hWagIs9ped94AaABAg",
+    "author": "@SteveMetcalfeUK",
+    "author_channel_id": "UC1OaqNjTxWwdkGfJ15JunkA",
+    "text": "Well that was just great! thanks!",
+    "likes": 0,
+    "published_at": "2025-06-10T04:08:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwVC8K5hWagIs9ped94AaABAg.AJAhtYxBeXbAJB2yvvglU8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you enjoyed it!",
+        "likes": 0,
+        "published_at": "2025-06-10T07:21:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxzObIAjW5b5lGJl0V4AaABAg",
+    "author": "@ikocheratcr",
+    "author_channel_id": "UCvlT8TNUnfN_xk1SF8drSHQ",
+    "text": "I do not consider myself expert in FreeCAD by any means, but watching the way you do things is interesting.  I would have used construction geometry, polar patterns, shape binder, etc.  Watching you do the design is very interesting, and in a good way, different.   Learning is always fun.",
+    "likes": 0,
+    "published_at": "2025-06-10T03:04:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxzObIAjW5b5lGJl0V4AaABAg.AJAabUjPY14AJB2y_74Aw5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-06-10T07:21:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyjUVx5AefCSile7x4AaABAg",
+    "author": "@EUPThatsMe",
+    "author_channel_id": "UCUIJcYb0Hx75LGw54PBZcHA",
+    "text": "Could draw the center circle and the one above, on the axis, then pocket that and use a polar copy in the 3D view to get 6 evenly spaced holes around the middle - Save yourself some headache and set the \"Auto Remove Redundant\" constraints check box in \"Edit|Preferences|Sketcher General\" and unset the \"Notify automatic constraint substitutions\" check boxs - Center rectangle is your friend",
+    "likes": 0,
+    "published_at": "2025-06-09T23:16:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyjUVx5AefCSile7x4AaABAg.AJABSCdTeHeAJB2wFGd8N3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-06-10T07:20:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyriyp9i1hnBJ7mYmB4AaABAg",
+    "author": "@chrisBruner",
+    "author_channel_id": "UCFAFt_n9sX1ZYiflJa7iwwA",
+    "text": "I find working with freecad a bit like painting. You get in the mindstate of relaxing artistry.",
+    "likes": 1,
+    "published_at": "2025-06-09T22:32:07Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugyriyp9i1hnBJ7mYmB4AaABAg.AJA6QRVQzRjAJA6uoKpyjJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nicely put mate - cheers",
+        "likes": 0,
+        "published_at": "2025-06-09T22:36:24Z"
+      },
+      {
+        "id": "Ugyriyp9i1hnBJ7mYmB4AaABAg.AJA6QRVQzRjAJA7ewPr5qb",
+        "author": "@chrisBruner",
+        "author_channel_id": "UCFAFt_n9sX1ZYiflJa7iwwA",
+        "text": "@ThinkingandTinkering If you get stuck feel free to reach out. The forum is very responsive as well.  You are making good progress.",
+        "likes": 0,
+        "published_at": "2025-06-09T22:42:58Z"
+      },
+      {
+        "id": "Ugyriyp9i1hnBJ7mYmB4AaABAg.AJA6QRVQzRjAJA8-ZFtRCS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@chrisBruner thank you mate - i will do - cheers",
+        "likes": 0,
+        "published_at": "2025-06-09T22:45:55Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz93SscwLKPBNUs6qB4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2025-06-09T21:25:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz93SscwLKPBNUs6qB4AaABAg.AJ9zmLcr2SrAJA1oYIbwIu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-06-09T21:51:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwYH_PzgLyU_4hGVuB4AaABAg",
+    "author": "@dennisolsson3119",
+    "author_channel_id": "UC1yxtiJqdMRvgyEq6M7B6RQ",
+    "text": "Your helper lines: you can turn them into construction geometry by clicking the icon with a red and blue line. That way they can be left in place as \"scaffolding\" and won't affect the padding etc, only the constraining",
+    "likes": 0,
+    "published_at": "2025-06-09T21:07:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwYH_PzgLyU_4hGVuB4AaABAg.AJ9xiY1ZfUFAJA0Mgsw6IA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice tip mate - cheers",
+        "likes": 0,
+        "published_at": "2025-06-09T21:39:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzgohOAVJVmjRFaO3p4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Thank you Robert!! \nPlenty of food for thought here, these things always make sense ,when you explain them!!\nAndréa and Critters.   ....XxX....",
+    "likes": 0,
+    "published_at": "2025-06-09T20:32:59Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzgohOAVJVmjRFaO3p4AaABAg.AJ9tmtGesbWAJA0PUN3rrp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Awww bless your heart Andrea x",
+        "likes": 1,
+        "published_at": "2025-06-09T21:39:33Z"
+      },
+      {
+        "id": "UgzgohOAVJVmjRFaO3p4AaABAg.AJ9tmtGesbWAJA5Y2MbeEr",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "@ThinkingandTinkering 🙂👍",
+        "likes": 0,
+        "published_at": "2025-06-09T22:24:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyE5Z4R1bsYXKFHNFN4AaABAg",
+    "author": "@brandonmack111",
+    "author_channel_id": "UCpw1OlGIJlO_K_II5ulkucw",
+    "text": "This advice seems applicable to almost anything in life.\n\nObviously some more than others - you won't learn brain surgery by just getting up and trying it out , for example, but even a neurosurgeon, at some point, must perform actually brain surgeries before they can truly become proficient at it.\n\nFor most things in life, though, the best way to learn is to do. Learn the basics, then jump right in. Art, science, even relationships, and parenthood - you can't really learn to do by reading about it, and you'll never be good at it until you actually get out there and start. You'll learn and improve along the way.",
+    "likes": 1,
+    "published_at": "2025-06-09T20:06:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyE5Z4R1bsYXKFHNFN4AaABAg.AJ9qoGQdEiIAJA1tRuIT6_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate - cheers",
+        "likes": 0,
+        "published_at": "2025-06-09T21:52:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwZ1tWUikqpMULTJTZ4AaABAg",
+    "author": "@CallistoPili",
+    "author_channel_id": "UCr7uZU3WpuDdVfqwl1fPvig",
+    "text": "fantastic video and informative. one suggestion to make faster the alignmento the pockets within the gear, you can use the hexagon in the sketcher and switch it into  construction geometry(the blue dotted lines) the use the points of the hexagon to place the six circles, it will be easy for the alignment and less clicks and measures to do. :)",
+    "likes": 1,
+    "published_at": "2025-06-09T19:53:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwZ1tWUikqpMULTJTZ4AaABAg.AJ9pKDCVNlGAJA1uUlMOJV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Great tip! cheers",
+        "likes": 0,
+        "published_at": "2025-06-09T21:52:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugye-b1OuI784gsyMqZ4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "❤",
+    "likes": 1,
+    "published_at": "2025-06-09T19:27:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugye-b1OuI784gsyMqZ4AaABAg.AJ9mFjAGbfSAJA1veMqJ2k",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-06-09T21:52:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz1R2Qa0zz3EDh1zyR4AaABAg",
+    "author": "@fivethree0",
+    "author_channel_id": "UCN_f_ErQeuOre64Qu9B_quQ",
+    "text": "Instead of copying sketch you can use subshapebinder",
+    "likes": 0,
+    "published_at": "2025-06-09T19:18:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz1R2Qa0zz3EDh1zyR4AaABAg.AJ9lGRe9EOkAJA1wWKNdbY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-06-09T21:52:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzs5vUsNUTS0HTIIUR4AaABAg",
+    "author": "@kennykd97",
+    "author_channel_id": "UC88FN4FK0Ptng3SSzYxKiwQ",
+    "text": "WHY NOT JUST POLAR PATTERN",
+    "likes": 0,
+    "published_at": "2025-06-09T18:45:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzs5vUsNUTS0HTIIUR4AaABAg.AJ9hR8xUEB8AJA28oeyTXK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you just taught people that - along with a few others - and I agree with it - but the point here is to jump in - you learn as you go and you learn from others - which is the other point I wanted to make - so you are right but there is no need to shout about it",
+        "likes": 0,
+        "published_at": "2025-06-09T21:54:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx9DVpSG-HNnrUt0FV4AaABAg",
+    "author": "@DGronki",
+    "author_channel_id": "UCO4PsH3qDox1Semine3mZMg",
+    "text": "I suggest to read about polar patterns, it could be more elegant. But most important it is working :p",
+    "likes": 0,
+    "published_at": "2025-06-09T17:49:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9DVpSG-HNnrUt0FV4AaABAg.AJ9b1zopJX8AJA29QsIJMN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Great suggestion!",
+        "likes": 0,
+        "published_at": "2025-06-09T21:54:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwLJaGWQ3rleCpYVoR4AaABAg",
+    "author": "@Wez_wolf",
+    "author_channel_id": "UCJzPXdyrUsi06W8yS77RUKQ",
+    "text": "Thank you for being willing to give it a go.\n\nI heard a saying that done is better than perfect. I often get stuck on trying to make it perfect first time instead of iterating till its perfect 😅 thanks for sharing your wisdom and enthusiasm.",
+    "likes": 1,
+    "published_at": "2025-06-09T17:10:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwLJaGWQ3rleCpYVoR4AaABAg.AJ9Xaj_Ac-HAJA2GbQjwe8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - and you can see in the comments I could have done this far more elegantly - but what is important is it was done lol",
+        "likes": 1,
+        "published_at": "2025-06-09T21:55:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDRWhjUmHhcNUqa6l4AaABAg",
+    "author": "@grendel1960a",
+    "author_channel_id": "UCugJVwvz-clavvlmL2XsCuw",
+    "text": "there are no wrong ways to do anything in CAD, there are many ways to achieve what you want, and if it works, then its a valid way, some ways may be easier of quicker. i (as a CAD user) wouldbe looking for an array tool and a circular array to do that job.",
+    "likes": 5,
+    "published_at": "2025-06-09T17:06:52Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwDRWhjUmHhcNUqa6l4AaABAg.AJ9XCK6nfeRAJ9gdeW4cY-",
+        "author": "@johang1293",
+        "author_channel_id": "UC5P-7WPUshKh-h_MReIscNQ",
+        "text": "Polar pattern in FreeCAD PartDesign workbench.",
+        "likes": 1,
+        "published_at": "2025-06-09T18:38:07Z"
+      },
+      {
+        "id": "UgwDRWhjUmHhcNUqa6l4AaABAg.AJ9XCK6nfeRAJA2KoMh_eX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are absolutely right mate - cheers",
+        "likes": 0,
+        "published_at": "2025-06-09T21:56:23Z"
+      },
+      {
+        "id": "UgwDRWhjUmHhcNUqa6l4AaABAg.AJ9XCK6nfeRAJA2UZ6kvJl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I think grendel knows that mate - I know him and he is actually a bit of a wizard on CAD - he put it that way because he is also a kind hearted guy",
+        "likes": 0,
+        "published_at": "2025-06-09T21:57:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0oP7Hec0NM1XEB094AaABAg",
+    "author": "@JSfuckgoogle",
+    "author_channel_id": "UCWVhL5DYH5jPDJ5Ugs47_Gg",
+    "text": "Thank you Robert, just what the Dr ordered! 😁😎",
+    "likes": 1,
+    "published_at": "2025-06-09T16:39:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwCn1-v8XZNbVAtviR4AaABAg",
+    "author": "@ewjorgy",
+    "author_channel_id": "UCRJXDPTLdxUvN-cfVTLvSlg",
+    "text": "Hi Robert, \n\nThere is a very useful feature in sketch that allows you to use construction lines. These are lines that are simply reference lines that won't show up in the model. That line in the first sketch that you deleted could have been left there if you changed it to a construction line. \n\nAlso, if you select a face of an object and then hit sketch it will create the sketch on that face. Super useful!\n\nAnyways, just a heads up so you know it's there. Hope it helps! \n\nTake care!",
+    "likes": 8,
+    "published_at": "2025-06-09T16:38:51Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgwCn1-v8XZNbVAtviR4AaABAg.AJ9U-4N2nbYAJ9pR10pUao",
+        "author": "@CallistoPili",
+        "author_channel_id": "UCr7uZU3WpuDdVfqwl1fPvig",
+        "text": "yes, by doing it as a hexagon you get it done in a minute :)",
+        "likes": 0,
+        "published_at": "2025-06-09T19:54:54Z"
+      },
+      {
+        "id": "UgwCn1-v8XZNbVAtviR4AaABAg.AJ9U-4N2nbYAJA1pMEoR-m",
+        "author": "@chris993361",
+        "author_channel_id": "UCLdren5OHn7boKJkT58IVuQ",
+        "text": "​@CallistoPiliGood thinking. I would have used a polar array and it would not have occurred to me to just use a hexagon. Certainly a million ways to do something",
+        "likes": 0,
+        "published_at": "2025-06-09T21:51:58Z"
+      },
+      {
+        "id": "UgwCn1-v8XZNbVAtviR4AaABAg.AJ9U-4N2nbYAJA2Xs2EzSw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate nice tips",
+        "likes": 0,
+        "published_at": "2025-06-09T21:58:11Z"
+      },
+      {
+        "id": "UgwCn1-v8XZNbVAtviR4AaABAg.AJ9U-4N2nbYAJA2oqLq7ST",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "That's not the point mate - If you are going to give folks a tip make it more useful if you can - a bit more of a pointer - this video isn't meant for wizards of CAD but for absolute beginners - the comments also help people learn but only if you help out with making your suggestion a bit more of a pointer - a few people have mentioned your suggestion but with enough detail to follow - it would have been a great comment if you had done that",
+        "likes": 0,
+        "published_at": "2025-06-09T22:00:38Z"
+      },
+      {
+        "id": "UgwCn1-v8XZNbVAtviR4AaABAg.AJ9U-4N2nbYAJA3EN45ytj",
+        "author": "@chris993361",
+        "author_channel_id": "UCLdren5OHn7boKJkT58IVuQ",
+        "text": "​@ThinkingandTinkeringI'm not sure which of the comments specifically you were referring to. If it's the construction line comment, if while you were in the sketch you select the line, there is a toggle in your toolbar that will change it to construction geometry. This will turn it into a dash line that will get ignored when you extrude the sketch. But that line can still be used as a constraint for the circle. To add another tip to that part of the video, instead of doing a zero dimension to an axis, you can click the center of the circle and click the axis and you have a coincidence or constrain on object button in your toolbar you can click that will lock the center of the circle to the axis.",
+        "likes": 1,
+        "published_at": "2025-06-09T22:04:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw0_H3840Eetr_tKZp4AaABAg",
+    "author": "@AldoInza",
+    "author_channel_id": "UCZu7HaO6cOCfySkTxHAfNww",
+    "text": "You can use symmetry on the vertices and go counter-corner on a box to center it around the origin point vertex. You can do the same for creating symmetrical holes. It becomes rotationally symmetrical when you go symmetrical to a point.\n\nAlso check out STEP files when generating something in FreeCad, because it saves it as geometry which can be easily edited, as opposed to stl which is actually a bunch of high resolution triangles. This makes a difference because you make so many round parts, which STEP preserves.",
+    "likes": 0,
+    "published_at": "2025-06-09T16:31:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw0_H3840Eetr_tKZp4AaABAg.AJ9T74ltl8YAJA2trEvGFr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-06-09T22:01:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwKx4I2cmEj5mUJ2lN4AaABAg",
+    "author": "@Androidzombie1",
+    "author_channel_id": "UCJ6uREBv4zmmc6KX9RTsCJQ",
+    "text": "great video mate! I'm happy you found FreeCAD I started using freeCAD this year and loved it. (btw you could have done a PolarPattern when sketching to duplicate the circle in a circular pattern as many times as you want. )  hope that helps ;)",
+    "likes": 1,
+    "published_at": "2025-06-09T16:25:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwKx4I2cmEj5mUJ2lN4AaABAg.AJ9STZ8qNaZAJ9St6jEpM_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thanks for the tip!",
+        "likes": 2,
+        "published_at": "2025-06-09T16:29:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwChJiaEvOKCYEB3jt4AaABAg",
+    "author": "@markcheeseman9056",
+    "author_channel_id": "UC2Epj8sTdH55GtPaAATsNjg",
+    "text": "Great video Robert. As a seasoning CAD user of over 40 years I've always said that there are many ways of achieving the same result. \nYour explanation gives an understanding of what is happening and why, practice and experience will then allow you to work out faster or more fail safe ways get you need.",
+    "likes": 3,
+    "published_at": "2025-06-08T13:24:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwChJiaEvOKCYEB3jt4AaABAg.AJ6YzMBA26vAJ7P17t08pm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and I agree with you there is always more than one way to skin a cat as they say",
+        "likes": 2,
+        "published_at": "2025-06-08T21:16:58Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+[00:00] [Music]
+[00:07] hi everybody so in video 1416 we made
+[00:10] this it's a hem thermopile made from
+[00:13] copper and if you want exact
+[00:14] construction details just jump over to
+[00:16] video 1416 and I'll put a link at the
+[00:19] end of this video but when we put a
+[00:21] flame on that it works really really
+[00:28] well hey
+[00:34] so it takes a little bit of time to get
+[00:35] going but once you get it going it
+[00:37] actually produces enough to like that
+[00:39] little
+[00:40] LED and then we followed that up by
+[00:42] making this and this is a Magneto hydro
+[00:46] dynamic generator using the flame to
+[00:49] generate and again it worked
+[00:51] surprisingly well now the build details
+[00:54] of that are in video 1421 and again I'll
+[00:57] put a link at the end of this video but
+[01:00] when we put a blur torch on that we get
+[01:02] a surprisingly good
+[01:25] result one thing about these is they
+[01:28] look strikingly similar don't I mean
+[01:30] we've got some copper wire we're
+[01:31] applying some heat and some mysterious
+[01:33] way it generates a bit of electricity
+[01:36] and you would think that there was a a
+[01:38] commonality between these two because
+[01:40] they look so similar and they operate
+[01:43] from the Bas basic same energy input but
+[01:46] actually they're extraordinarily
+[01:48] different and they're using different
+[01:49] principles to generate now we've done
+[01:52] this as part of our rocket stove for
+[01:54] third generation project that we're
+[01:56] working on when we're looking at lots of
+[01:58] different ways that we could possibly
+[02:00] generate from a rocket stove now this
+[02:02] one this one is a thermally activated
+[02:05] MIM diode and it uses a different the
+[02:08] difference in heat to move the electrons
+[02:11] past that diode so they can't come back
+[02:14] because they can't come back it means
+[02:16] they can only go one route around that
+[02:18] circuit and that's to generate
+[02:20] electricity so this is a thermal
+[02:22] generator based on a diode that's what
+[02:25] this is using heat difference and that
+[02:27] really matters and this one
+[02:30] this one has got nothing to do with that
+[02:32] actually the um heat that we apply is
+[02:36] relatively inconsequential this is
+[02:39] actually much more similar to a standard
+[02:42] motor stroke generator this uses the
+[02:46] movement of a conductive fluid through a
+[02:49] magnetic field so these are only
+[02:51] electrodes to pick up that current they
+[02:54] don't actually do anything in themselves
+[02:56] so this could be absolutely anything you
+[02:58] wanted to be anything that would conduct
+[03:00] I used copper because we have copper but
+[03:03] it's not a particularly good material to
+[03:05] use in here as the electrode pickup Tung
+[03:07] would be good nichrome would be good but
+[03:09] the metal isn't contributing anything to
+[03:13] this particular setup at all neither is
+[03:15] the heat of the flame the flame is
+[03:18] moving through a magnetic field now we
+[03:21] put some potassium ions in there to make
+[03:23] that flame a conductive flame Flames at
+[03:27] low temperatures when I say low
+[03:29] temperatures we talking about 7 8 900°
+[03:31] Centigrade they are relatively low
+[03:33] temperatures believe it or not but
+[03:35] Flames at low temperatures will conduct
+[03:38] just not very well unless we add ions
+[03:42] and that way we make that a conductive
+[03:44] flame and because it's conductive it now
+[03:46] operates in the same way that a
+[03:49] generator operates a standard wire wound
+[03:52] generator we have ourselves a magnetic
+[03:54] field we're moving a conductor through
+[03:56] that magnetic field and of course it
+[03:59] generates now there is Ion separation
+[04:01] that goes on in here because of course
+[04:03] it's going through magnetic field so the
+[04:05] ions and electrons will be diverted and
+[04:08] we'll get ion separation but these go
+[04:11] into the flame to collect the current
+[04:15] that's been
+[04:15] generated because a conductor is moving
+[04:18] through a magnetic field so despite the
+[04:20] fact that these look very similar the
+[04:22] prop principles they operate on are very
+[04:25] very different this is much more like
+[04:27] Aela using a cbec effect it isn't it's
+[04:31] actually a MIM diode as opposed to an
+[04:33] npn Junction this is much more like a
+[04:37] generator and works in the very same
+[04:38] principle I thought I'd take the time to
+[04:40] do that because there does seem a little
+[04:42] bit of confusion with people suggesting
+[04:44] putting coils in here the coils wouldn't
+[04:47] really work because we've got um
+[04:49] electrode pickup and they need to be
+[04:50] separated to get the negative and the
+[04:53] positive otherwise nothing will
+[04:58] happen
+[05:01] so understanding the difference between
+[05:03] the two should help think about how it
+[05:06] is that you're going to improve them now
+[05:08] this is mhd Generation you'll find this
+[05:11] in power stations today actually just a
+[05:13] desktop model of what you find in a
+[05:16] power station today and there are ways
+[05:18] of of improving this and several people
+[05:20] have asked about the magnets and of
+[05:22] course we've used permanent magnets
+[05:23] because it's a desktop model we could
+[05:26] put the magnets on the outside it
+[05:28] doesn't matter I put them on the inside
+[05:29] side for neatness to be honest could be
+[05:31] on the outside in which case we could
+[05:32] cool them we need to keep them below the
+[05:35] cury temperature cury temperature is the
+[05:37] point at which they'll lose their
+[05:38] magnetism now for ceramic magnets like
+[05:41] this that cury temperature is around
+[05:42] about 450° Centigrade so although the
+[05:45] flame going through here is 800°
+[05:48] Centigrade once it gets out to this far
+[05:51] there chances of reaching that cury
+[05:52] temperature are actually quite low now
+[05:55] remember we're not using the heat per se
+[05:57] I mean it's a difficult one because
+[05:59] because basically heat and movement are
+[06:01] in fact the same thing so if we're using
+[06:04] some movement we're using some heat
+[06:06] certainly but let's just say for
+[06:08] argument sake and the sake of the model
+[06:10] the heat is not what's important it's
+[06:12] the movement of the conductor through
+[06:14] the magnetic field that is responsible
+[06:16] for the generation so this section we
+[06:19] don't really need to insulate it because
+[06:20] the heat itself isn't doing anything so
+[06:23] if we don't insulate it then we're not
+[06:25] going to get beyond that cury
+[06:26] temperature samarium Cobalt magnets and
+[06:29] incidentally had a cury temperature of
+[06:31] around about 800 850° Centigrade
+[06:34] neodymium has a cury point of around
+[06:36] about 370° Centigrade now just like any
+[06:40] generator where you've got a moving
+[06:42] conductor through a magnetic field the
+[06:43] strength of the magnetic field is
+[06:45] clearly important what they do in
+[06:48] industry in fact is use a portion of the
+[06:52] um energy generated to feed it back into
+[06:55] coils are pretty much similar to how you
+[06:58] see generators when the field and the
+[07:02] STA are powered by them uh their own
+[07:05] input as it were and it's the excess
+[07:07] that you draw off for Generation it's
+[07:09] equally the same thing here because it's
+[07:11] the movement is the input of the energy
+[07:13] not the flow of the electricity so as
+[07:15] long as there's sufficient movement to
+[07:17] generate the um field magnets that you
+[07:21] need there's excess to draw off and it
+[07:23] would be the same situation here so you
+[07:25] would be able to put coils on this and
+[07:27] create a magnetic field that way and
+[07:29] draw off the excess which is what you're
+[07:32] going to be using as opposed to the
+[07:35] energy itself the electricity itself so
+[07:37] there are lots and lots of ways of
+[07:38] overcoming the magnetic limitation here
+[07:41] and a quick read Around mhd generation
+[07:43] industry will suggest far more than I've
+[07:45] just suggested this is a simple model
+[07:47] construct and will work it has its own
+[07:50] issues like everything has its own
+[07:52] issues this is a simple model to
+[07:54] construct as well and and works as well
+[07:56] just at less than this but it has less
+[07:59] issues some of the issues around about
+[08:02] this are in fact its power generation
+[08:04] now a lot of people suggesting pelti a
+[08:06] devices but remember pel devices unless
+[08:09] their high temperature held together
+[08:10] with so solda so around about 250ish
+[08:13] degre Centigrade it's going to mount and
+[08:16] of course this is highly likely to get
+[08:18] to 250 you can buy high temperature
+[08:22] pelti air devices but they're even more
+[08:24] expensive than pelier devices and less
+[08:26] efficient so there are solutions always
+[08:29] and what we're looking at when we're
+[08:30] looking at at these kind of things
+[08:32] actually are the variety of answers that
+[08:36] we can explore and the reason we're
+[08:38] looking at that variety of answers is
+[08:40] because there is no one answer if you
+[08:42] talk to a person they'll have a
+[08:44] particular favorite they love and
+[08:46] they'll promote that as the answer but
+[08:48] actually there are lots of answers and
+[08:50] exploring them is all part of it but
+[08:53] this seemed to be causing a little
+[08:54] confusion about what it was that was
+[08:56] operating as a mechanism between these
+[08:59] two devices and as I said they're very
+[09:01] different mechanisms this one's much
+[09:04] more akin to Aela this one is much more
+[09:06] akin to a general generator anyway I
+[09:09] thought I'd spend a bit of time just
+[09:10] going through that I hope it was of
+[09:12] interest thank you very much for
+[09:14] watching

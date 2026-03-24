@@ -1,0 +1,251 @@
+[00:00] [Music]
+[00:08] so while working on this thing which is
+[00:10] that new generator and the first
+[00:11] prototype I did was a prototype and what
+[00:14] I'm doing now is redesigning it to be
+[00:16] much closer to what I actually want and
+[00:19] of course one really big element of
+[00:21] Designing a turbine is what why do you
+[00:24] use now this is a question I get asked
+[00:26] loads of times what why do you use how
+[00:29] many turns do you put into your coil
+[00:31] well to understand what wire to use what
+[00:34] you have to think about is the amount of
+[00:37] power that that thing is going to
+[00:39] generate now you can work that out
+[00:41] actually quite easily using Omni
+[00:43] calculator from a wind turbine which
+[00:45] will give you an expected power output
+[00:49] now given that this thing is only about
+[00:52] 10 100 mm across which is Tiny in a wind
+[00:55] speed of about 4.5 m/s we can expect
+[01:00] somewhere like 80 M out of it 180 m is
+[01:04] absolutely peanuts so if we're choosing
+[01:07] a wire we needed to be able to carry a
+[01:11] specific amount of amps before burning
+[01:14] out now you can actually calculate the
+[01:16] voltage if you want it's Faraday's law
+[01:18] of electromagnetic induction if you want
+[01:21] to calculate the volts then you usually
+[01:22] need to differentiate it for any
+[01:24] instance of time and you can get the
+[01:26] voltage that will be generated in a
+[01:28] single turn of wire of course that's
+[01:31] that's quite long-winded you could do
+[01:33] thewi do exactly what I did it's make a
+[01:36] coil pretty much randomly this is fairly
+[01:39] thick wire with 200 turns on it the
+[01:42] thickness of the wire has no part to
+[01:45] play in voltage generated it's just the
+[01:48] length or the number of turns which will
+[01:51] give you the volts generated now we put
+[01:53] this in a wind speed of 4.5 m/s we got
+[01:56] about 4 volts we have 200 turns that
+[01:59] means it's amount I think it's at 2 or
+[02:01] 02 volts per turn but it's a fixed
+[02:05] number of volts per turn so we know how
+[02:08] many vaults will be generated in a turn
+[02:10] because we did a quick experiment on it
+[02:12] now with all the best will in the world
+[02:15] we are never going to generate more
+[02:17] power out of a machine than is going in
+[02:19] the wind turbines are pretty much easy
+[02:22] to calculate we know that we're going to
+[02:25] get round about 80 M and we're going to
+[02:29] generate round about four volts because
+[02:32] we've got 200 turn let's say I put that
+[02:36] into a generator the amount of amps I'm
+[02:39] going to carry generate sorry is going
+[02:42] to be small it's going to be around
+[02:44] about four or five milliamps five I
+[02:46] think and that's going to mean that we
+[02:48] can pretty much use any wi we want we'll
+[02:52] increase the voltage by the number of
+[02:54] turns again the thickness of wire has no
+[02:58] impact at all the thickness of wire only
+[03:01] impacts the current carrying capacity
+[03:03] and in this case we're going to be
+[03:04] generating about 5 milliamps so we want
+[03:07] a wire that'll be able to carry 5
+[03:10] milliamps
+[03:11] so given that we want as much wire as
+[03:15] possible a very thin wire that's able to
+[03:18] carry 5 milliamps is going to be an
+[03:21] awesome wire so I chose 32 gug s swg
+[03:26] which is rated around about 300
+[03:28] milliamps and that is hair thin being
+[03:32] hair thin means I can put a lot of turns
+[03:35] and so I made this out of 32 s WG and
+[03:39] there's a thousand turns on this wire
+[03:43] which means we're going to get something
+[03:45] round about 20 volts out of that but
+[03:48] it's still only going to generate
+[03:51] milliamps it's going to generate
+[03:52] milliamps because of the power going in
+[03:57] the Watts coming out are not going to
+[03:59] increase the voltage is going to
+[04:01] increase which means that the amps is
+[04:03] going to go down but we can get a very
+[04:07] high voltage by turning lots of lots of
+[04:10] turns of extraordinarily thin wire now
+[04:14] for these chunkier wires I've been using
+[04:17] almost
+[04:18] exclusively this coil winding assistant
+[04:21] right here which was designed by my
+[04:23] friend Peter you known as grle I'll put
+[04:26] the link to this in the description
+[04:28] below should anybody want to use it it
+[04:31] is awesome hey now it can take thicker
+[04:34] wire but hair thin wire becomes an
+[04:37] absolute pen and what you do is brast it
+[04:39] and just wind the wire around but if
+[04:42] you're going to do a th turns that's
+[04:44] going to be a pen and its ability to
+[04:46] handle hair thin wires is also somewhat
+[04:49] limited because they snap it's very
+[04:51] difficult to handle those wires with
+[04:53] anything that's particularly brutal you
+[04:54] need something a bit more delicate and
+[04:57] something that we can wind around round
+[05:00] a bit more quickly and a bit more
+[05:02] accurately because we got to do one or
+[05:04] 2,000 tons you really don't want to be
+[05:07] doing that one two three so what I did
+[05:11] was came up with this here it's a very
+[05:13] basic machine and you can see it's
+[05:15] loaded with my hair thin 32s swg right
+[05:20] there and here is the Tinker cab design
+[05:22] for it now I did a mixed job on this
+[05:26] because I have a laser cutter and flat
+[05:28] plates really quick to cut on a laser
+[05:31] but you could 3D print it and the
+[05:32] assembly is pretty obvious this is the
+[05:34] carriage that carries the coil now I've
+[05:36] made everything to fit so you'd have to
+[05:38] make that Carriage adaptable or to the
+[05:41] coil size that you want the guide itself
+[05:44] is this section here and you can see
+[05:45] that the wire goes through these two
+[05:48] holes to the center of that spindle now
+[05:51] normally when you're doing something
+[05:53] like a coil Winder you have a sort of
+[05:55] worm screw that guides the wire up and
+[05:58] down here because we winding a
+[06:00] serpentine coil which is basically a big
+[06:02] old Circle we don't need that we just
+[06:04] need it to hold to the center and that's
+[06:06] exactly what that does this takes this
+[06:11] this is the coil forer that just turns
+[06:13] round and round and round the coil gets
+[06:15] LED in that step there and these gaps
+[06:17] are so we can put some tape on on this
+[06:20] top lit here we've got a little square
+[06:22] that engages there so that it's engaged
+[06:24] in the right way and you'll see these
+[06:25] little lips they're 5 mm this is 10 mm
+[06:29] well that does it stops the wire going
+[06:31] down here and getting caught we Mount
+[06:34] that onto the machine so those two
+[06:37] signes just clip together and the whole
+[06:40] thing goes on here which is an 8 mm bolt
+[06:42] about 30 mm long and it's going through
+[06:46] a 22 mm skate bearing to give it a pivot
+[06:50] and we stick that on
+[06:52] that and then spacer and nut
+[07:01] all ready we go then we take our hair
+[07:03] thin
+[07:05] wire if I can actually take my hair thin
+[07:07] wire there it is take our hair thin wire
+[07:10] fit it through the center of those two
+[07:12] bumps to where the handle is pull it out
+[07:15] of the handle wrap it around a couple of
+[07:17] times and hold it down with a bit of
+[07:19] tape and then turn the handle you're
+[07:20] ready to go this will turn quite quickly
+[07:23] and in fact you can get an overrun so if
+[07:25] you rest your finger on there to give it
+[07:27] a little bit of resistance you'll have
+[07:28] much more control
+[07:30] as you turn that handle now this
+[07:33] obviously is a fixed size and we like to
+[07:36] think that we'd want infinite
+[07:38] variability actually when you're
+[07:40] designing things you don't when you're
+[07:42] designing things you tend to choose
+[07:43] sizes that are fixed so this for example
+[07:47] it's a 100 mm diameter and we all do
+[07:50] that maybe 100 maybe 150 maybe 200 but
+[07:53] it's extremely rare to do something like
+[07:56] 139.99 76 you just don't do it that way
+[08:00] so in fact these wheels don't need
+[08:03] infinite variability the way I make
+[08:05] generators means I'm only ever going to
+[08:07] need maybe three or four sizes of a
+[08:09] wheel but an interesting adaptation
+[08:11] would indeed be to make this so that it
+[08:15] could slide up and down maybe and you
+[08:17] would have the same wheel that you would
+[08:19] set for the sizes that you want another
+[08:22] thing would be a counter would be really
+[08:24] good I may put a counter on it actually
+[08:26] and maybe a little tensioner on there
+[08:28] rather than tensioning it with my finger
+[08:31] but as a basic machine that is the basis
+[08:34] of it and all we then do is turn my
+[08:37] handle when you've wound it a th times
+[08:40] what you do is the gaps in there will
+[08:42] have wire and you wrap ordinary
+[08:44] electrician tape around it to hold it
+[08:46] together take off the top and peel off
+[08:48] your coil and then crelate it into these
+[08:51] little castle sheves and that is our
+[08:53] Serpentine coil that fits perfectly on
+[08:57] our generator coil holder now to work
+[09:00] out how big this coil actually had to be
+[09:03] all I actually did was take 19 mm which
+[09:05] is the width of the electrician tape
+[09:08] plus 15 mm which is Center to Center and
+[09:11] multiply by 16 because that's the number
+[09:14] of magnets I've gotten therefore the
+[09:15] number of lugs and the number of these
+[09:17] arms that I need and that gave me the
+[09:20] exact size to create that wheel now of
+[09:24] course because I always make generators
+[09:25] at about 100 across and I usually set
+[09:28] the magnets at 22 2° I'm never going to
+[09:30] have to change that and I can wind these
+[09:32] perfect
+[09:33] coils so to recap if you want to know
+[09:37] how many turns and how thick the wire
+[09:39] should be in a generator that you're
+[09:41] making the first thing you need to know
+[09:43] is the expected power output in Watts
+[09:47] then you need to know the volts per turn
+[09:50] set your voltage to what you think is
+[09:51] reasonable I did 20 volts because of
+[09:53] other stuff I'm going to do with it and
+[09:56] that will give you the number of terms
+[09:59] that power out and you can calculate the
+[10:02] amps from that to give you the thickness
+[10:04] of the wire that you actually need now
+[10:07] those are all rules with thumb remember
+[10:09] it's a wind generator so it will vary
+[10:12] and so you do need to take that variance
+[10:14] into account by making it slightly
+[10:16] thicker than you would originally think
+[10:18] so say I'm expecting 5 milliamps but I
+[10:20] have 300 milliamps carrying capacity so
+[10:23] plenty of variants and if you want any
+[10:25] more accurate than that you're going to
+[10:28] have to get into the math of it a little
+[10:30] bit more but as rules of thought it's a
+[10:33] good way I think a guide to follow to
+[10:36] create the thickness and number of turns
+[10:39] that you're going to need in order to
+[10:41] create a generator I hope it was helpful
+[10:43] to people I hope you like the machine I
+[10:45] do hope that some of you picks it up and
+[10:46] does those adaptations that we're
+[10:48] talking about thank you very much for
+[10:51] watching and please do remember to like
+[10:53] And subscribe

@@ -1,0 +1,173 @@
+[00:00] [Music]
+[00:08] So this is the hyperscyclloid engine
+[00:10] that we made in video
+[00:13] 2327. And actually it's a special case
+[00:15] of the hyperscyclloid that uses
+[00:17] something called the two couple. As a
+[00:19] hypocyclloid when it has two circles,
+[00:22] one rolling over another circle makes
+[00:24] little loes going around that depends on
+[00:27] the diameter of the inner circle or in
+[00:30] this case the gear. The two couple is
+[00:32] when that diameter exactly half of the
+[00:35] diameter here. And when you do that
+[00:37] something really strange happens as you
+[00:39] rotate the circle around actually the
+[00:42] point on the circle draws a straight
+[00:44] line. And because of that, of course, we
+[00:47] can use that to either drive a piston or
+[00:50] be driven by a piston, which is really
+[00:52] quite exciting and really quite
+[00:53] interesting, which is why I made that
+[00:55] engine. But it was pointed out to me by
+[00:57] a friend of mine called Edward Har, and
+[00:59] he runs a YouTube channel called
+[01:01] Steamboat Ed. And what I'll do is I'll
+[01:03] put a link in the description to Ed's
+[01:05] channel if you want to jump over and
+[01:07] have a look at it. But he let me know
+[01:09] that there's a way of changing this so
+[01:12] that that stroke length will differ
+[01:15] independent of the rotation. Now, I'm
+[01:18] always interested in things like that
+[01:19] because they can always be the basis
+[01:22] hopefully of something like a CVT, so
+[01:25] they always capture my interest. Now,
+[01:27] he's done a couple and he sent me the
+[01:30] video to have a look at and said, "Did I
+[01:32] fancy having a go at it?" You can be he
+[01:34] straight. I do. I'm always really
+[01:36] interested in things like that. So, I
+[01:39] took the original hyper cyclloid engine
+[01:41] and basically repeated it. So, it's it's
+[01:44] identical. It's exactly the same. All I
+[01:46] actually did was reprint the back and
+[01:48] the front and instead of having such a
+[01:50] big base, I made the base a little
+[01:52] smaller. Of course, I reprinted the
+[01:54] flywheel and the little cap and
+[01:56] everything's the same. I reprinted the
+[01:58] center as well that fits in there. The
+[02:00] cap goes on the back of the center.
+[02:02] Oops. If I grab hold of that. There we
+[02:04] go. The cap goes on the back of the
+[02:06] center. The drive gear goes in there
+[02:10] like that. The flywheel goes on the back
+[02:13] like that. So that whole section
+[02:15] assembles in the same way that the
+[02:17] original engine assembled. And then of
+[02:21] course we have the gear. The gear has
+[02:23] changed here. This bit is identical to
+[02:27] this bit in here. So that hasn't
+[02:29] changed. But it's got an outer ring on
+[02:31] it now. So, with that outer ring and a
+[02:34] worm gear, I can put those in there and
+[02:36] change where that outer ring is. And you
+[02:39] notice on the outer ring, I've put some
+[02:40] degree marks. There's 360 of them. It
+[02:43] slots in the spares here like
+[02:46] that. There we go. And has a cap to go
+[02:51] over the top of it so that it's held in
+[02:53] place. The worm gear goes in the little
+[02:56] slot at the bottom. And it of course has
+[02:59] a driving axle on top. Let me put all
+[03:02] those bits together. So, here it is all
+[03:05] put together. Now, there's a mark here.
+[03:07] So, there's a black mark going straight
+[03:09] down to this ring. And on the ring,
+[03:11] there's a dot there, a gray dot. The
+[03:13] first thing we have to do is line up
+[03:16] that gray dot with that mark. And we can
+[03:18] do that by turning this little handle on
+[03:21] the worm gear. That moves that inner
+[03:23] ring until we get it lined up. Once it's
+[03:27] lined up and we put this gear on, the
+[03:29] drive pin also has to be in line with
+[03:32] that mark. So the dot, the mark, and the
+[03:34] drive pin are all in line. Now, when we
+[03:37] made this one, we did exactly the same
+[03:40] thing. But here, the drive pin was lined
+[03:42] up in that direction. And as the drive
+[03:45] pins lined up in that direction, when we
+[03:47] rotate this, the movement is that way to
+[03:50] its full extent. Now we've lined it up
+[03:53] in this way. When we rotate this and the
+[03:56] drive pin creates a linear movement
+[03:59] straight up and down. And that's the
+[04:01] property of the tussy couple, the
+[04:03] movement will be in line with that pin
+[04:06] going all the way across the circle. If
+[04:09] we change that effective lineup, so if
+[04:13] we twiddle our handle here and move this
+[04:16] gear, what it will do is change that
+[04:18] position. So as we move that, we can see
+[04:21] that this pin is now lined up in that
+[04:24] direction. And so it would move all the
+[04:27] way across there, right the way to 90°.
+[04:30] As we go further than 90°, we just
+[04:33] repeat that. So it's in the same
+[04:35] quadrant that this happens
+[04:38] that there we go. Put that back. This in
+[04:41] itself is not much use. But if we
+[04:45] constrain the movement, then something
+[04:47] interesting happens. And we've got some
+[04:49] parts here. These are a slides. There's
+[04:52] a square slide that fits in there. And
+[04:55] there's a hole that fits in there. That
+[04:58] square slide fits on the
+[05:01] pin. And there's a little cap to glue on
+[05:03] there to hold it in place. Then we need
+[05:06] to constrain this. Now, I do have a
+[05:08] little bit of 10 mm acrylic bar.
+[05:12] Incidentally, of course, these files I
+[05:13] will put on Thingiverse should anybody
+[05:15] be interested. And included there is a
+[05:18] rod of 10 mm to print if you want to
+[05:21] print the rod and you don't have a bit
+[05:23] of acrylic bar. It's just that the bar
+[05:25] looks really cool. So if we feed the bar
+[05:28] in here and then through that second
+[05:30] slide, now we're constraining this in
+[05:33] the
+[05:37] XY. There we go. Now if I turn the input
+[05:40] flywheel, of course, this pin is not
+[05:42] constrained. This is a slide where it's
+[05:44] free to move in a straight line up and
+[05:46] down and it will do exactly that. So
+[05:49] there's no movement of this section
+[05:52] here. However, we also know from the
+[05:54] previous one that I did that if it's
+[05:57] actually lined in here, then it's
+[05:59] constrained because there's a big block
+[06:01] and that will make the whole thing move
+[06:03] backwards and forwards. However, what's
+[06:06] interesting is what happens in between.
+[06:09] So let's move this to 30°. Right? Set at
+[06:14] 30°. Of course, it's going to be
+[06:15] partially constrained in one direction
+[06:17] and partially constrained in the other.
+[06:20] So when we move this, what we'll get is
+[06:22] the resultant of those forces. If I turn
+[06:25] that, then we get a partial movement of
+[06:28] this along with a partial movement of
+[06:30] the slide. And it changes the stroke
+[06:33] length from zero right the way up to
+[06:36] whatever we're getting there. And if I
+[06:38] change it to 90°, of course, we get the
+[06:41] full movement. And what we've got here
+[06:44] is the essence of a CVT from absolutely
+[06:48] zero, no movement at all to the movement
+[06:51] we can get at the full range. So, an
+[06:54] absolutely fascinating little mechanism
+[06:57] that I have to thank Ed for pointing me
+[06:59] to. I wanted to share the basic
+[07:01] mechanism with you because, of course, I
+[07:04] want to do something else with this. And
+[07:06] when we do something else with this, it
+[07:08] will be another video. I've put these
+[07:10] into Thingiverse should anybody actually
+[07:12] be interested. And please do jump over
+[07:14] to Ed and show him some support. Thank
+[07:16] you very much for watching, guys. And
+[07:19] please do remember to like and subscribe
+[07:20] if you haven't already.

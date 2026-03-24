@@ -1,0 +1,286 @@
+[00:02] [Music]
+[00:15] hi
+[00:15] so what i've got here actually is a
+[00:16] washing machine motor
+[00:18] turns out that washing machine motors
+[00:20] are almost universally universal motors
+[00:22] which is kind of cool
+[00:23] but what is a universal motor well a
+[00:25] universal motor is a motor that will
+[00:27] work on ac or dc it doesn't really
+[00:29] matter
+[00:30] if you try to reuse a washing machine
+[00:32] motor by plugging it into the ac
+[00:34] what will happen is it'll begin to turn
+[00:36] and then if you put don't put it under
+[00:38] load
+[00:38] it will get faster and faster and faster
+[00:40] until the bearings wear out and that
+[00:42] could be a bit of a challenge
+[00:44] the easiest thing to do when reusing
+[00:46] these is actually convert it into a
+[00:48] straightforward dc
+[00:49] motor if you convert it into a dc motor
+[00:52] you have much more control over it
+[00:54] if you leave it as an ac motor you're
+[00:56] gonna need a control circuit
+[00:57] all the things just going to run away
+[00:59] with you the problem with it of course
+[01:01] is
+[01:01] this thing it has a connector right
+[01:04] there with 10 pins on it
+[01:06] and it can be kind of hard to identify
+[01:08] which goes to which and which bits you
+[01:10] need to wire up to convert
+[01:12] this to run on dc so let's have a
+[01:14] close-up of it
+[01:16] so here it is there's our connector with
+[01:17] its 10 pins actually there's nine in
+[01:19] this and one missing
+[01:21] they vary a little bit but actually
+[01:22] they're more or less all the same
+[01:24] that one was screwed on there and if we
+[01:26] undo that screw we can actually take
+[01:28] that
+[01:28] off snip off
+[01:32] cable clips and we can separate them out
+[01:35] a little bit now
+[01:36] that bit there is actually a tachometer
+[01:39] it's a magnet attached to the shaft
+[01:40] there's a coil in there
+[01:42] two wires coming out and that's part of
+[01:44] the speed control
+[01:45] if you're running it on ac we can see
+[01:47] the brushes here
+[01:48] there and there and each of those
+[01:49] brushes has a wire coming from it
+[01:51] and then there's the field coils inside
+[01:53] there they have wires coming from them
+[01:55] and then there's probably a temperature
+[01:57] um gauge in there to tell you whether
+[01:59] things getting hot or not
+[02:01] to start identifying these things all
+[02:03] you really need to do is snip these
+[02:05] things off
+[02:06] so here where it's been held together
+[02:08] and have a look
+[02:09] at where those wires go to so to get
+[02:12] these wires out
+[02:13] this usually folds open and in there
+[02:17] is a little spring clip you can see it
+[02:19] actually just there
+[02:20] and if you press that sprint clip down
+[02:22] that wire will just slide out
+[02:24] so dig a screwdriver in there get that
+[02:27] spring clip pressed
+[02:29] and you should be able to get that out
+[02:37] there it is and just remove them all
+[02:42] okay when you get them all snipped apart
+[02:43] actually just becomes really obvious
+[02:45] because you can see them
+[02:46] we can see that that wire is going to
+[02:48] the brush the other wire here goes to
+[02:49] this other brush so there the rotor
+[02:51] here we've got the two wires going to
+[02:53] that bit there which is the tachometer
+[02:55] and then we've got these five mysterious
+[02:57] wires disappearing in the body of this
+[02:59] now they could unscrew this and unscrew
+[03:00] it but it's riveted so i
+[03:02] can't but we have five wires now we have
+[03:04] two black ones
+[03:06] brown red blue
+[03:09] what you do is grab yourself a
+[03:11] multimeter set it on the resistance and
+[03:13] just
+[03:14] measure the resistance between those
+[03:15] wires we pick one of the black ones
+[03:18] and we go through touching each of those
+[03:20] wires
+[03:21] then where we've got the temperature
+[03:23] controller we should have
+[03:24] no an infinite resistance where the
+[03:27] temperature controller is when we
+[03:28] connect them up we should get another
+[03:30] resistance reading so if i connect those
+[03:32] two black wires
+[03:33] sure enough we get a resistance reading
+[03:36] telling us that that's actually a switch
+[03:38] it's about an ohm
+[03:39] but then when i touched any of these
+[03:40] others compared to that black so i take
+[03:42] the black touch here here here
+[03:44] put that black on take this black touch
+[03:47] here here and here
+[03:48] then we get no reading whatsoever so we
+[03:51] know
+[03:52] those two black wires are connected to
+[03:54] each other and those two black wires
+[03:56] are actually the temperature controller
+[03:58] what we do with the remaining three
+[03:59] wires which is the brown red and blue
+[04:02] you just connect to one end then connect
+[04:05] to the other end and you'll get a
+[04:06] reading
+[04:07] now that reading is going to be in the
+[04:10] sort of
+[04:10] two to three ohms region something like
+[04:12] that because it's connecting the coils
+[04:14] now these coils are actually connected
+[04:16] like this these are the two field coils
+[04:19] and you'll see those as two poles
+[04:20] there's a wire going in there's a center
+[04:22] tap
+[04:23] and then there's another wire going in
+[04:24] now if we measure the resistances the
+[04:26] greatest resistance will be found
+[04:28] on those two here which will be the
+[04:31] highest resistance
+[04:32] these two here will be near enough the
+[04:35] same
+[04:36] and we can measure that to find out
+[04:37] which ones those are and we do that
+[04:39] just by touching those terminals so when
+[04:42] we've got connected up two
+[04:43] then we've got quite a high resistance
+[04:45] if i move that and connect it there that
+[04:47] resistance drops down to
+[04:49] about two ohms so it's gone from about
+[04:51] three ohms to about two ohms
+[04:53] so telling us that the red or the black
+[04:57] must be the end because they're the
+[05:00] greatest resistance and then we can
+[05:01] check that
+[05:02] just by grabbing that and putting on
+[05:03] there and we should get a very similar
+[05:06] resistance to connecting
+[05:07] the other two so we're looking for this
+[05:10] so this is about two ohms
+[05:12] then if we connect back up to there and
+[05:16] back to there we get about two ohms so
+[05:19] we know
+[05:20] the ends of the coils are the greatest
+[05:23] resistance reading which is right here
+[05:25] which is three ohms so the red
+[05:28] and the brown are the ends of my coils
+[05:32] so we've identified the coils that we're
+[05:33] interested in and there are only four
+[05:34] wires there are two wires going to the
+[05:36] brushes that we're interested in the two
+[05:38] ends of the coils which in our case are
+[05:39] the brown the red
+[05:40] now if i take one end of that and put it
+[05:43] onto the
+[05:44] negative i take the other end and
+[05:46] connect it to one of the brushes
+[05:48] and then from the other brush connect it
+[05:50] to the positive
+[05:56] and we've got a dc power supply here but
+[05:58] give it a bit of dc voltage
+[06:03] and sure enough the motor spins because
+[06:06] we've wound that in what's called a dc
+[06:08] series so the armature and the field
+[06:10] coils are in series with each other
+[06:12] and going to that single power supply
+[06:14] and it's giving us a constant rotation
+[06:17] now there are other ways we can wire
+[06:19] this and there's another way that i
+[06:20] really quite like and it's like this
+[06:23] so here what i've done is i've taken the
+[06:24] two ends of the field field coil and
+[06:26] connected them separately to a separate
+[06:28] power supply and then i've taken the two
+[06:30] ends of the brushes and connected them
+[06:32] to
+[06:32] another power supply now if i put some
+[06:35] power
+[06:36] onto the field coils i've got about two
+[06:38] volts about 0.6 of an amp going through
+[06:40] the field coils
+[06:42] what it's doing is creating a an
+[06:44] electromagnet it's actually a permanent
+[06:46] magnetic field because we're applying a
+[06:48] dc current to two field coils
+[06:50] now they vary the voltage to these rotor
+[06:53] coils
+[06:54] to the brushes
+[06:58] there we go it will spin yet again now
+[07:00] it's spinning just like a dc
+[07:02] motor but this section here is acting as
+[07:04] an electromagnet
+[07:05] but that means that can control the
+[07:07] speed and the torque
+[07:08] by increasing the fields to here i
+[07:10] increase the magnetic strength so i
+[07:12] increase the torque by increasing the
+[07:15] voltage
+[07:16] here to the brushes i can increase the
+[07:19] speed
+[07:19] and the speed is constant for a constant
+[07:21] torque if i want more torque
+[07:23] more voltage on the field coils want
+[07:25] more speed more voltage
+[07:26] to the brushes that i think is really
+[07:29] cool because it enables you to
+[07:31] create a motor from a washing machine
+[07:33] motor that's very controllable
+[07:35] okay so with washing machine motors
+[07:37] actually it's really quite easy with a
+[07:39] resistance meter to find out what those
+[07:41] pin outs are
+[07:42] most of it you can just see actually
+[07:44] it's only the little sort of hidden ones
+[07:46] that you need to do a bit of resistance
+[07:47] reading on to work them out
+[07:49] if you want to use this as an ac motor
+[07:51] then you will need the tachometer
+[07:52] because they go into a runaway condition
+[07:54] really easily when they're under no load
+[07:57] so it can be a bit challenging
+[07:59] but using them as a straightforward dc
+[08:00] motor you can either do series or you
+[08:02] can do
+[08:03] what i did where we use them separately
+[08:06] i like the separate one
+[08:07] you don't really need to set up a
+[08:09] complicated power supply for it if
+[08:11] you're going to run this on
+[08:12] batteries just you know put your
+[08:13] batteries in series and pull off
+[08:15] whatever voltage you want from that
+[08:16] series to
+[08:18] create your electromagnet or to create
+[08:20] the speed
+[08:21] that you want through the motor there if
+[08:23] we put that back into series
+[08:25] incidentally this will actually be a
+[08:27] generator so let's have a look at i've
+[08:28] reconnected it in series and remember
+[08:30] that's one end of the field coils going
+[08:32] to one of the brushes
+[08:33] one of the brushes going to the meter
+[08:34] here and then the other end of the field
+[08:36] coil
+[08:36] going to the meter here as well you can
+[08:38] see that there's the field coil wires
+[08:40] there and that's going to the brush wire
+[08:42] there's the brush wire going to the
+[08:44] meter and there's the
+[08:45] other end of the feed coil going to the
+[08:47] meter i've got it set up in
+[08:48] amps and if i give that a spin by hand
+[08:55] i think about 15 or 17 milliamps or
+[08:57] something like that so not tremendous
+[08:59] but then
+[09:00] i'm just using my hand and if we put
+[09:02] that back into volts
+[09:10] about 140 170 millivolts so
+[09:13] pretty cool really and that is how you
+[09:15] use a washing machine
+[09:16] motor both as a dc motor and as a
+[09:20] generator should you want it to be a
+[09:21] generator
+[09:22] anyway i thought i'd share that with you
+[09:23] i hope it was of interest and i hope it
+[09:25] made these things a bit clearer and
+[09:27] thank you very much for watching

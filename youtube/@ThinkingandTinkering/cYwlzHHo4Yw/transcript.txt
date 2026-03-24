@@ -1,0 +1,655 @@
+[00:03] in boost converters in flyback
+[00:05] Transformers and in Transformers and in
+[00:09] fact all switch mode power supplies the
+[00:12] inductor is a crucial
+[00:16] element all an inductor is is a coil of
+[00:19] wire when you pass a current through it
+[00:21] a magnetic field is induced the magnetic
+[00:24] field lines add up or rather they are
+[00:27] not cancelled out by opposing magnetic
+[00:29] field lines because all the domains are
+[00:32] aligned so you get a larger magnetic
+[00:34] field built up when you have a coil of
+[00:36] wire but that's all an inductor is so
+[00:39] it's worth looking at inductors from a
+[00:41] physics perspective just briefly because
+[00:45] this will give us a deeper insight into
+[00:46] what's going on I personally find it
+[00:48] quite interesting don't worry if you're
+[00:50] not interested in this math so find it
+[00:52] confusing or whatever just skip over it
+[00:54] you don't need it to build an inductor
+[00:55] and if that learning is going to if you
+[00:58] build yourself a boost conver flyback
+[01:00] Transformer that's going to Peak your
+[01:02] interest and you'll probably be more
+[01:03] interested in this stuff typically comes
+[01:06] that way around build something become
+[01:08] interested then go and look up the
+[01:09] theory and think H how can that help me
+[01:12] it's also worth noting that with any
+[01:15] kind of phys physics and physical
+[01:17] equations these are obviously created
+[01:21] after the fact the universe has been
+[01:23] around for a long time we haven't we
+[01:25] have created equations and mathematical
+[01:28] models to be more precise
+[01:30] that fit reality and over time our
+[01:33] models of fit reality more precisely so
+[01:37] our current models of quantum um
+[01:39] electrodynamics fit very precisely very
+[01:43] accurately these models are pretty
+[01:46] accurate they're very accurate for all
+[01:48] the things that we want to do as far as
+[01:50] we know in physics but it's always just
+[01:53] worth remembering that the physics do
+[01:55] not dictate reality they are just
+[01:57] mathematical models what people have
+[01:59] found are consistent with reality okay
+[02:02] with that said let us go ahead and have
+[02:06] a look at this model now I took this uh
+[02:09] outline for this explanation from an MIT
+[02:12] computer science course it was done back
+[02:14] in 2006 so they go there's your credit
+[02:17] MIT now if we imagine a loop of wire
+[02:22] with length
+[02:23] L having internal area a and we put a
+[02:27] current in I and T just means I the
+[02:31] current at time T so the instantaneous
+[02:33] current if we put in 10 amps then it t
+[02:37] is always 10 amps right but our current
+[02:40] can change so that's why we say I at
+[02:42] time
+[02:43] T if we put a current into a loop of
+[02:46] wire having an area of a we produce a
+[02:48] field B and this plus just means it's
+[02:50] going
+[02:51] into into the board so it's
+[02:53] perpendicular in this case there's
+[02:55] fields at all angles but at the moment
+[02:57] we're just interested in the one that's
+[02:59] perpendicular
+[03:02] now what we can look at is the magnetic
+[03:04] field B at time
+[03:08] T
+[03:11] is equal
+[03:14] to
+[03:16] Mo times the current at time T / l so
+[03:22] the magnetic field is proportional to
+[03:24] Moon which is called the magnetic
+[03:26] permeability of the material so this is
+[03:28] just a constant which has been
+[03:31] determined by measurement so people have
+[03:34] measured different materials and they
+[03:36] found that Mo differs so a higher move
+[03:39] will induce a has has greater
+[03:41] permeability so it induces a bigger
+[03:44] magnetic field you can just think of how
+[03:46] how permeable the material is to
+[03:49] magnetic flux lines to magnetic fields
+[03:52] whatever these things are no really
+[03:54] knows what they are we just know that
+[03:56] these things happen and this is this is
+[03:58] true
+[04:01] so if we take air that will have a
+[04:03] particular permeability if we take a
+[04:04] Ferro that'll have a different
+[04:06] permeability so the magnetic field at
+[04:08] time T is proportional to the
+[04:10] permeability of the material the current
+[04:13] at time T divided by the L so the field
+[04:17] is going to get bigger if we increase L
+[04:21] sorry the field is going to get smaller
+[04:23] if we increase cell because it's diss
+[04:25] the feels dissipated over a larger area
+[04:28] in in essence and whenever you look look
+[04:29] at equations like that it's wor just it
+[04:31] doesn't even matter whether you care
+[04:33] about the particular symbols and so on
+[04:36] if you just look at them and say okay
+[04:37] well L is on the bottom here so what can
+[04:39] that tell me about the equation it tells
+[04:42] me that when when L is bigger this is
+[04:44] going to get smaller and when L is
+[04:46] smaller this is going to get bigger so
+[04:47] you can see relationships like that by
+[04:49] looking at equations and it's quite
+[04:51] useful now the next thing we want to
+[04:53] look at in order to get towards our
+[04:55] inductance is the magnetic flux five now
+[04:59] this is defined as the area times the
+[05:01] magnetic field at time T so it's just
+[05:05] the net number of magnetic field lines
+[05:07] essentially going through your object
+[05:10] and so it's proportional to the area
+[05:11] around the moment of field we can if we
+[05:15] rewrite this and say that our magnetic
+[05:18] um flux f is equal to the area times
+[05:23] this whole thing so we've got
+[05:25] moo i t l
+[05:30] well whenever you see something like
+[05:32] this you these are all multiplying and
+[05:35] essentially they're all on top and we
+[05:38] can write this
+[05:41] as a u l * i
+[05:47] t now this term we can replace with L so
+[05:53] we're going to call this L our
+[05:55] inductance so if I rewrite that our
+[05:58] magnetic flux
+[06:00] f is equal to l * i t and that's where
+[06:06] inductance in Henry's comes from that's
+[06:08] how it's defined and how it's related to
+[06:10] the magnetic flux through a component so
+[06:13] now we have our magnetic flux in terms
+[06:17] of Henry's inductance and
+[06:21] current now I need a bit more space I'm
+[06:23] just going to rub this
+[06:25] off and I want to just go back
+[06:28] to the mag flux then where we've got to
+[06:31] is it's equal to the inductance times
+[06:34] the current the time T so what we know
+[06:38] from Max Wells equations is that the
+[06:42] rate of change of flux with respect to
+[06:45] time equals the
+[06:48] voltage so from that we can now we know
+[06:52] since we've got our flux here we know
+[06:55] that the rate of change of our
+[06:57] inductance times our current with
+[07:00] respect to time equals our
+[07:02] voltage so this is now relating the
+[07:05] changing of flux to voltage induced
+[07:08] voltage so this comes from Maxwell's
+[07:10] equations that changing magnetic field
+[07:12] induces a voltage it's like when you put
+[07:14] a magnet next to a poil wire that's a
+[07:17] changing magnetic field and and that
+[07:19] force and those field lines will affect
+[07:21] the electrons and they will induce a
+[07:23] voltage they'll move them about
+[07:25] essentially right so we're pretty close
+[07:28] now to where I want to be
+[07:30] which is the final step is to say that L
+[07:32] if we assume that L is constant so our
+[07:35] inductor our inductance is constant then
+[07:38] we can actually rewrite this and get to
+[07:41] a relationship between the voltage and
+[07:43] our inductance and that
+[07:47] is so V equals L time the rate of change
+[07:54] of current with respect to time and now
+[07:57] this is quite an important equation or
+[08:00] not equation equation is meaningless
+[08:02] this is a quite important relationship
+[08:05] because what it shows us is that the
+[08:06] voltage is proportional to the
+[08:08] inductance times the rate of change of
+[08:09] current now what we're going to do in
+[08:11] our boost converter is we're going to
+[08:13] induce a magnetic field in an inductor
+[08:15] by passing a current through it and then
+[08:17] we're going to switch the supplied
+[08:20] current off so what happens in that case
+[08:24] is that when you pass your current
+[08:25] through the inductor the magnetic field
+[08:28] builds up and and the rate of change
+[08:30] because there a changing um current this
+[08:35] means there'll be a voltage induced in
+[08:36] the inductor that voltage opposes the
+[08:40] flow of current through the inductor
+[08:42] when you turn off the supplied current
+[08:44] and supplied voltage the magnetic field
+[08:49] collapses now in essence What's
+[08:52] Happening Here is that if we look at
+[08:55] with respect to the equations the
+[08:57] current is being
+[09:00] instantaneously turned off so our rate
+[09:02] of change of current is huge which means
+[09:06] we get a massive induced voltage now the
+[09:09] phys physical constraints of reality
+[09:11] mean that this cannot change
+[09:14] instantaneously it just can't it tries
+[09:16] to but it can't so the voltage that's
+[09:19] actually induced is not Infinity because
+[09:21] if this changed in an instance then we'd
+[09:23] have essentially a term here that's
+[09:25] infinity we' have an infinite change in
+[09:27] um current with respect to time and we'd
+[09:29] have an infinite voltage generated we
+[09:32] don't but we can get very high voltages
+[09:34] by generating a large magnetic field and
+[09:37] then collapsing it so that this rate of
+[09:38] change is really high and then we
+[09:40] multiply that by inductance and get a
+[09:42] very large voltage so this is what I
+[09:45] wanted to say about inductance really
+[09:47] and how it relates to boost
+[09:49] converters I guess another thing I might
+[09:51] just say is that if you look at flyback
+[09:53] Transformers what they do is they have
+[09:55] two calls of War around one inductor
+[09:58] they they
+[09:59] induce a voltage in kind of the
+[10:03] primary and then they allow that to
+[10:05] collapse and that energy then in that
+[10:09] collapse causes an induced voltage in
+[10:11] the secondary that's much higher than
+[10:13] the than a normal Transformer ratio
+[10:16] because you've got this rate of change
+[10:17] of current that's really high all right
+[10:20] that's all I want to say about inductors
+[10:22] and physics of
+[10:24] inductors let's go on and look at what a
+[10:27] boost converter circuit looks like
+[10:33] let's draw the circuit for this
+[10:35] converter so we're going to start with
+[10:37] some kind of power supply so I'll just
+[10:39] call this V
+[10:42] in now our V in is going to go through
+[10:47] an inductor now inductors are drawn like
+[10:50] this this is a convention for drawing
+[10:53] inductors there we
+[10:55] go now what we want to do is control
+[11:00] the voltage and the current going
+[11:02] through the inductor so we put in a
+[11:05] switch
+[11:10] here and this goes back to
+[11:16] ground and what we're going to do is
+[11:18] we're going to switch this on and off so
+[11:20] we're controlling the current that flows
+[11:22] through the inductor when we switch this
+[11:24] on current flows through when we switch
+[11:25] it off current can't flow through this
+[11:28] collapses the induced voltage has to go
+[11:31] somewhere so where we're going to send
+[11:33] it is through a
+[11:37] diode the reason for the diode to become
+[11:40] clear in a sec once we've gone through
+[11:42] the
+[11:43] diode we want to have a capacitor
+[11:57] here so what will happen is when we
+[12:00] switch this on current will flow through
+[12:02] the inductor it will also flow through
+[12:04] here but don't worry about that it will
+[12:05] flow primarily through the inductor this
+[12:07] is a path of relase resistance it will
+[12:09] build up a magnetic field we then open
+[12:13] the switch again this uh magnetic field
+[12:17] collapses inducing a voltage which has
+[12:19] nowhere else to go that through the
+[12:21] diode it goes through the diode it can't
+[12:24] come back and it charges up this
+[12:26] capacitor so then we have have our
+[12:30] output
+[12:32] here which we're going to
+[12:34] call the
+[12:38] out this is our
+[12:40] output and of course we'll just imagine
+[12:42] there some imaginary load in there which
+[12:43] I'll represent like this and of course
+[12:45] we've got to join this back up to our
+[12:47] ground now this is how the Boost
+[12:49] converter works this is a boost
+[12:51] converter it's actually very simple
+[12:53] indeed when we use a boost converter we
+[12:56] switch this on and off at a very high
+[12:58] frequency so we constantly charging and
+[13:00] and collapsing this magnetic field so
+[13:03] that we keep this capacitor charged at
+[13:05] our desired V out at our Target voltage
+[13:09] but that is a boost converter that's all
+[13:11] all it contains and by choosing the
+[13:13] inductor appropriately choosing the
+[13:15] switching frequency Pro appropriately
+[13:17] the on period and the off period and so
+[13:19] on and the output capacitor you can get
+[13:23] almost any voltage you want from any
+[13:26] input and it steps up voltage in the
+[13:29] case of a boost converter there's
+[13:30] several other topologies that are very
+[13:32] similar that allow you to step voltages
+[13:34] down and and so on but anyway we're
+[13:37] interested in stepping voltages up so
+[13:39] that's why we're looking at the Boost
+[13:41] converter right well let us now build a
+[13:44] boost
+[13:57] converter so let me explain this circuit
+[14:00] that we're going to
+[14:01] build uh it's the same boost converter
+[14:04] layout before but whereas we had a
+[14:07] manual switch in the explanation we now
+[14:10] have a
+[14:11] mosfet I've used an irfp F40 because
+[14:16] that's what I had line around you can
+[14:18] use any mosfet you can use a transistor
+[14:20] as well I want to use a mosfet because
+[14:24] the resistance when it's on is very
+[14:27] low now this MO is being
+[14:30] driven by a 2N
+[14:33] 2222a resist uh
+[14:37] transistor and it's being driven in
+[14:40] inverse and what I mean by that is when
+[14:43] the transistor is off the Gate of the
+[14:46] mosha will see whatever V in is and I'm
+[14:49] going to limit my VIN to less than 20
+[14:51] volts cuz that's all that pretty much
+[14:54] every mosfet can handle between the gate
+[14:57] and the source due to construction
+[15:00] so but you need a high voltage at the
+[15:02] Gate of the mosfet in order to turn it
+[15:05] fully on so the five volts from our
+[15:07] control circuitry from our Arduino isn't
+[15:10] enough to turn it fully on so we'll get
+[15:12] heat resistance in there and we waste
+[15:15] energy dissipated up the mosphere so
+[15:18] when this transistor is off the gate
+[15:21] here will see 12 volts when the
+[15:24] transistor is
+[15:25] on the gate here this will be pulled to
+[15:28] zero
+[15:29] and the gate will see almost zero
+[15:31] there's a small voltage drop across
+[15:32] there but it's kind of negligible so
+[15:35] essentially the gate will see Zero and
+[15:37] it will be off so our logic is inverse
+[15:40] when we switch the transistor on the
+[15:43] moset will be off when we switch the
+[15:45] transistor off the moset will be on this
+[15:47] is quite important when we turn the
+[15:48] thing on because by default the moset
+[15:50] will be on and a lot of current will be
+[15:52] drawing so we need to make sure that the
+[15:53] control is running
+[15:55] first so this on the base of the
+[15:58] transistor here we just got a 1K
+[16:00] resistor and this will go to a pin of
+[16:01] our our Arduino to control the switching
+[16:04] frequency we could use a 555 time or
+[16:08] something else in our case we're using
+[16:09] an Arduino just cuz it's convenient and
+[16:11] easy now this MOS actually has a VDS of
+[16:13] 900 volts which since I'm only putting
+[16:16] 12 volts in and switching 12 volts is
+[16:18] way over kill but it has high current
+[16:20] Avalanche current ratings and I want to
+[16:22] use this in the future to reduce very
+[16:24] high
+[16:26] voltages and the inductor here we're
+[16:28] going to to choose by using a calculator
+[16:31] because otherwise it's complete Hass to
+[16:33] try work that out you can just pick any
+[16:35] inductor if you want and experiment
+[16:36] around and you'll find out some
+[16:38] interesting things actually so don't
+[16:40] worry even about calculating that just
+[16:42] find any inductor and stick it in there
+[16:44] preferably one with a relatively High
+[16:46] inductance then you'll be switching less
+[16:48] current the diode here does need to
+[16:53] be it needs to be have a reverse
+[16:56] breakdown voltage Which is higher than
+[16:58] the voltage you're trying to store here
+[17:00] otherwise you're going to have voltage
+[17:02] flowing in this direction and your Di's
+[17:04] going to get burned up so this DS4 14508
+[17:08] a is actually a 900 Vol diode so this is
+[17:11] fine for what I'm using it for I have
+[17:13] actually been using over 1,000 volts on
+[17:16] this
+[17:17] so um I'm getting leakage it's probably
+[17:20] going to fail but at the moment I don't
+[17:22] care CU I'm just messing
+[17:24] around and the capacitor we're going to
+[17:27] capacitor value we're going to choose
+[17:28] based on the inductor value based on
+[17:31] what voltage we want out cu in essence
+[17:34] our capacitor is kind of our dummy load
+[17:36] and we'll determine the the unloaded
+[17:39] case and we'll determine the voltage
+[17:40] that we get
+[17:41] there all right so that's actually the
+[17:44] complete layout let's go and build it
+[17:46] now on a
+[17:48] breadboard somebody asked on a previous
+[17:51] video whether or not I could show making
+[17:53] up the circuit board so I'm going to do
+[17:55] this just for them um if this BS you
+[17:58] just skip ahead
+[17:59] so for our boost converter I found this
+[18:02] little light this little LED and it's
+[18:05] rated between 220 and 250 Vols so I
+[18:09] thought okay well let's make a boost
+[18:11] converter that steps up 10 Vols to
+[18:15] around 240 volts and provides around 10
+[18:18] milliamps so we can light this light
+[18:20] then we'll know that it's working but
+[18:22] we'll have a multimeter as well but this
+[18:23] will give us a visual indication that
+[18:25] it's working so that's our thing we're
+[18:28] going to that's our load for the
+[18:31] inductor I found these on an old circuit
+[18:33] board these are 221 micro Henry
+[18:36] inductors I'm going to put three in
+[18:38] series to give
+[18:40] 663 micro Henry's for our mosfet I'm
+[18:44] using the IR
+[18:46] fpf
+[18:48] 40 and for the diode I'm using the DS
+[18:52] 145 08a and here's the 2N
+[18:56] 2222a you can use different components
+[18:58] and it's worth experimenting around for
+[19:01] the capacitor I'm using a
+[19:04] 275v AC capacitor that has a capacitance
+[19:08] of 0.22
+[19:10] microfarads and we've got some resistors
+[19:12] for driving the gates and so on I I've
+[19:16] chosen these values based on an addif
+[19:19] fruit calculator for Boost converters
+[19:23] and you can put in the frequency of the
+[19:25] Boost converter the input voltage and
+[19:27] the output voltage you want and the out
+[19:28] what current you want to supply the
+[19:30] maximum voltage Ripple you're willing to
+[19:32] tolerate and it will give you some
+[19:34] values so these are based roughly around
+[19:37] that calculator and so this boost
+[19:39] converter should run at around 30
+[19:41] khz all right well let's just wire this
+[19:44] thing up um what you'll notice here on
+[19:48] the breadboard is that I have joined
+[19:51] together the ground tracks and the
+[19:52] positive tracks so that I can connect to
+[19:54] either the top or
+[19:56] bottom if we start over on the far left
+[20:00] here for part of our driving circuitry
+[20:03] there is a 2 and 2222a resistor and we
+[20:08] know that we're supplying this remember
+[20:13] diagram via
+[20:16] 10K resistor from our
+[20:19] Vin and
+[20:22] also and this goes once we turn that on
+[20:25] it goes directly to ground so we need to
+[20:27] ground the output pin of it and you just
+[20:30] have these little bits of wire very
+[20:32] useful um to ground things like
+[20:36] that and on our base we said we had a
+[20:39] 10K resistor so the base is the one in
+[20:41] the middle and we're going to connect
+[20:43] this to the controller but I'll just put
+[20:46] that there for now and then we'll plug
+[20:49] our wire into
+[20:50] there
+[20:52] now the we're driving the mosfet so
+[20:54] here's the mosfet and I've sold it on
+[20:56] wies so we've got the gate the source
+[20:58] and the drain
+[20:59] our gate is going to be directly on the
+[21:02] 12 Vol actually that looks a bit messy
+[21:06] doesn't
+[21:07] it but who
+[21:10] cares so remember we've got it connected
+[21:13] to the the 12vt input or in our case
+[21:16] 10vt input and it's going to be pulled
+[21:19] down whenever that's Switched
+[21:20] Off we want our
+[21:30] power source this is on the other side
+[21:33] of our inductor if you remember and this
+[21:36] goes to ground so the moment this pin is
+[21:38] kind
+[21:41] of there we
+[21:43] go so this this the gate when the gate
+[21:47] switches it will switch between here and
+[21:51] here now we want to go through our
+[21:54] inductor so we need to put the inductor
+[21:57] somewhere this is going to be a little
+[21:58] bit back and I want to put all three of
+[21:59] these in
+[22:13] series we need some power coming into
+[22:16] [Music]
+[22:19] the inductor and so we want that to
+[22:24] come so that when we switch the thing on
+[22:27] it goes through our our chain
+[22:29] of
+[22:33] inductors so it's going to go and then
+[22:36] we want it to go through the mosfet so
+[22:39] power is going to come through here
+[22:41] through our inductor chain and then it
+[22:44] needs to go to the base of our I mean
+[22:49] drain of our
+[22:52] mosfet I'll use a black wire for that of
+[22:57] it
+[22:59] not really going for any particular
+[23:00] color coding
+[23:02] there now if you remember on the diagram
+[23:05] the output of
+[23:09] the so when we switch this off we want
+[23:12] this collapsing field to go through our
+[23:21] diode and then from the diode we want to
+[23:25] charge the capacitor
+[23:31] way then we'll have a jumper to
+[23:37] ground there we
+[23:39] go so we then want to take our output
+[23:43] essentially is going to be from here as
+[23:49] well and this is going to be our output
+[23:52] here oh yeah I want to put a 10K resist
+[23:56] on the base of the 2 n222 too as
+[24:00] well pull that off
+[24:03] completely when there's no signal
+[24:05] applied to
+[24:08] it and that's basically it so we're
+[24:11] going to put our output here I'm going
+[24:13] to I'll solder on some wires onto that
+[24:15] so we can plug it in and we're going to
+[24:17] put it
+[24:18] between here and
+[24:20] ground and I'm going to connect to the
+[24:22] multimeter next as well so that we can
+[24:24] see
+[24:26] that now what about in here is the
+[24:30] Arduino and I've connected the ground to
+[24:32] our ground plane and I'm going to
+[24:34] connect our driving pin pin three in our
+[24:38] case to the input of the 2 and 222 to a
+[24:45] transistor so that's everything set up
+[24:47] we can now actually put a program on the
+[24:50] Arduino put some power into onto these
+[24:54] rails and have a look what the output is
+[24:58] the code for this is actually very
+[25:00] simple uh we're just switching on and
+[25:03] off pin three very quickly the only
+[25:06] thing special we had to do was because
+[25:09] the digital right functions of the
+[25:10] Arduino Library are so slow because they
+[25:12] do all kinds of checking and so on it
+[25:15] wasn't fast enough to get 30 khz in
+[25:17] order to get 30 khz I had to use right
+[25:20] to the ports directly so we're using um
+[25:24] bitwise or and bitwise and operations to
+[25:26] do that don't want to go into that now
+[25:28] it's pretty straightforward you w't have
+[25:29] a problem doing it so that's
+[25:32] it the Boost converter is now running
+[25:35] plugged everything in I've put an
+[25:36] oscilloscope Probe on the Gate of the
+[25:40] mosfet so we can see the mosfet
+[25:43] switching here I've had to tweak around
+[25:45] with the parameters a bit so we've got a
+[25:49] frequency of around 31 khz now um which
+[25:52] is about what we wanted according to the
+[25:55] calculator so the calculator wanted 30
+[25:57] khz and it wanted a duty cycle of
+[26:00] 95% this isn't calculating the duty
+[26:02] cycle correctly but if I look on here
+[26:05] closely I can see that it probably is
+[26:07] around 90 probably 98% or something like
+[26:10] that and what we have here is 240 volts
+[26:13] which is within the range that we wanted
+[26:16] from the calculator so from that I can
+[26:18] say that the calculator's reasonably
+[26:20] good I'm going to now plug in
+[26:23] the uh our
+[26:25] LED and see what we get
+[26:28] okay the LED does light so that's
+[26:31] good can see that see the LED's I'll
+[26:34] give you a close-up on that but now the
+[26:36] voltage has dropped down to 97 volt but
+[26:40] what we can do if we want is actually
+[26:42] turn up turn up the supply voltage and
+[26:45] we'll increase that voltage there we can
+[26:48] reduce the frequency that will also
+[26:50] increase the voltage and this is why
+[26:52] it's worth building something like this
+[26:54] just so you can play around and see what
+[26:56] happens in real life when you change
+[26:57] things like the frequency and you play
+[27:00] around with the
+[27:01] inductors and so on just to see what how
+[27:03] it actually affects the circuit rather
+[27:06] than just what the theory says as a
+[27:09] final step I decided to measure the
+[27:11] current that the LED was drawing and
+[27:15] it's drawing a quarter of a mamp so this
+[27:19] is way off from the calculator you know
+[27:22] maximum current of 10 mamps it
+[27:25] calculator claims it could
+[27:29] Supply so why is this well this is
+[27:32] because reality in theoretical
+[27:34] calculations are usually way off we've
+[27:36] got so many losses here well also our
+[27:39] inductor is probably not the 700 that's
+[27:43] in the calculator it's they're in series
+[27:46] so they're not it's not they don't
+[27:47] precisely add up got losses in those
+[27:49] inductors those inductors might have
+[27:51] different inductance that the frequency
+[27:53] that they're operating at inductance
+[27:55] changes with frequency there's going to
+[27:58] be losses in this circuit we're done it
+[27:59] on the breadboard the connections are
+[28:01] terrible so it's going to be radiating
+[28:04] power actually at that
+[28:06] frequency uh the switching losses and
+[28:10] all other kind a few other different
+[28:12] types of losses in the circuit actually
+[28:15] with any inductor based design it's what
+[28:17] you need to test the inductor in the
+[28:19] application precisely because they
+[28:22] change with frequency and so on uh but
+[28:26] never really take a bread board build as
+[28:29] a reference for real build because
+[28:33] breadboards are notoriously terrible all
+[28:35] the connections are pretty crappy and so
+[28:37] on they're okay for testing things out
+[28:39] you need to build it on per board or
+[28:40] build a PCB to really check your
+[28:44] design right so that's all I want to say
+[28:46] in this video you should now know how to
+[28:48] create a boost converter and understand
+[28:50] that it's really easy to actually make a
+[28:51] boost converter and the operation is
+[28:53] actually very simple please watch the
+[28:56] followup video where we're going to use
+[28:57] a boost converter to charge a big
+[29:00] capacitor Bank to high value to 450
+[29:04] volts and then discharge it over various
+[29:06] things it's should be should be good fun
+[29:09] anyway I hope that was useful and thanks
+[29:10] for listening

@@ -1,0 +1,239 @@
+[00:02] [Music]
+[00:15] so what I wanted to show you was this
+[00:17] and I think it's pretty awesome we're
+[00:20] gonna pull it apart and have a look at
+[00:21] it and me show you how to make it but
+[00:23] what you do is tap and if you tap it
+[00:30] you'll hear that horrible clicking sound
+[00:32] and the reason it's a horrible clicking
+[00:35] sound is because it's going through the
+[00:37] Microsoft Wave synthesizer you can put
+[00:41] this through a sound processor like FL
+[00:44] Studio or damage band and you could link
+[00:46] this for the drum or a xylophone or
+[00:48] something like that because you're
+[00:50] hitting a transducer actually there
+[00:52] PETA's you hit the P Zoe's it takes that
+[00:55] sound through that you know it is a MIDI
+[00:57] into the computer that would then go
+[00:59] into the garage band and you could make
+[01:01] yourself a drum kit so what that is is a
+[01:04] pits of musical instrument now there's
+[01:07] lots of tutorials on how to link it with
+[01:09] Garrett battement but there aren't many
+[01:10] tutorials on how to actually make this
+[01:12] so I'm going to concentrate on this and
+[01:14] we're going to go through how was
+[01:16] actually bad let's go through it okay so
+[01:18] what I've done is obviously this is
+[01:21] going from the owner to the computer and
+[01:26] that's carrying the MIDI signal then
+[01:28] it's going through ms waves table I'm
+[01:31] bringing the output through this
+[01:32] amplifier and then into to that speaker
+[01:35] so that's what all these connections are
+[01:37] so if we take away the amplifier unplug
+[01:43] the uno incidentally the way it's
+[01:45] plugged in here is I just take a needle
+[01:47] poke the needle into the ink and then
+[01:50] stuff a jumper cable in those jumper
+[01:53] cables are just in needle holes there we
+[01:57] go now it's all on the analog so if we
+[02:01] have a look at this side here then these
+[02:04] are the analog pins and each one of
+[02:06] these goes to one analog input the other
+[02:09] two analog inputs were actually sent to
+[02:11] ground and that's just to stop spurious
+[02:13] signal generation so each one of these
+[02:16] goes into the analog pin and it doesn't
+[02:19] matter which one it is and it's bare
+[02:21] analog pins you put the ground and then
+[02:23] this other pin here is on the ground
+[02:25] connect
+[02:26] jinan that bar of the uno here now I got
+[02:29] the you know sketch from github and I'll
+[02:31] put a link in the description for that
+[02:33] and all I did was went on to the you
+[02:35] know website and the web based IDE
+[02:38] copied and pasted the sketch and then
+[02:40] uploaded the sketch to the uno by the
+[02:42] USB then closed all that down because
+[02:45] the USB is now going to be taking the
+[02:47] MIDI signal so the inputs come in and
+[02:51] the analog the you know translates them
+[02:52] into a MIDI is transmitted from here
+[02:54] into the computer then the computer has
+[02:56] to link that with an Associated sound
+[02:58] now used ms waveform because I didn't
+[03:01] want to pay for Garry tallent for
+[03:04] anything and and it's only demonstration
+[03:07] for me I don't really want to get into
+[03:09] the music of it if you really want to
+[03:10] get into it and itself a good
+[03:12] synthesizer in your away we unplug the
+[03:14] uno board there we go it's as simple as
+[03:17] that
+[03:17] that's all they do to connect the uno to
+[03:20] it and have to get the uno program
+[03:22] running and as I say that stuff is in
+[03:24] the description so for me he's the
+[03:25] really interesting bit and that is a
+[03:28] circuit made with our conductive ink so
+[03:31] we just painted that on there with our
+[03:33] ink and you'll notice there's a long bar
+[03:35] here's some short bits here and then
+[03:38] these really thin ones here these thin
+[03:40] ones are actually 1 mega ohm resistors
+[03:43] and to make those I put some tape on the
+[03:45] paper painted around it measured the
+[03:48] resistance and scraped it with the blade
+[03:49] until it was 1 mega ohm and there became
+[03:52] 1 mega ohm resistors which is awesome
+[03:55] because we're painting passive
+[03:56] components these here are piezo and
+[04:00] we're going to bag of them here they're
+[04:01] very cheap
+[04:05] and that's what they look like and they
+[04:08] are just glued on to that strip so let's
+[04:10] have a go of making one of those okay so
+[04:13] to make one of these it's really simple
+[04:14] all you actually need is some masking
+[04:16] tape but a pepper paintbrush some
+[04:18] conductive ink and anywhere between one
+[04:21] and six of these these are piezoelectric
+[04:24] transducers you buy them on the net
+[04:26] there are a couple of pence each the
+[04:28] other thing you need obviously is your
+[04:29] Arduino so to make those resistors that
+[04:32] we saw at the beginning it's really
+[04:34] simple just lay down some of your
+[04:36] masking tape and we're going to need to
+[04:38] make we're gonna make a full one so
+[04:40] we're going to need eight little lines
+[04:42] and you just put them so there's a
+[04:44] little gap between each of those because
+[04:50] that's where the transistors I saw the
+[04:51] resistor is actually gonna be made and
+[04:54] we need to make eight of those so
+[04:55] there's two of them three
+[05:04] four five six seven
+[05:20] Hey we're gonna bring those down to
+[05:23] about there so just max that off and
+[05:26] they're gonna go up to about here unmask
+[05:29] better dead simple
+[05:35] open the ink give it a stir and then
+[05:40] paint on those little thin lines
+[05:47] and now we need to do is drag them okay
+[05:50] so they're drying so just peel off the
+[05:52] masking tape
+[07:01] there you go you end up with eight flat
+[07:03] lines now what we need to join do is
+[07:06] join those up in pairs so with a thin
+[07:09] brush join them up in pairs and they
+[07:15] will become our four mega ohm resistors
+[07:18] so when they're properly dry we test the
+[07:22] resistance here and if it's too high
+[07:24] take a blade or something and scrape
+[07:27] over it and you will increase the
+[07:28] resistance and just keep scraping until
+[07:30] they're round about a mega ohm so 900k
+[07:34] 1.1 Meg's doesn't really matter
+[07:36] somewhere around about there what we now
+[07:39] need is the ground line and for the
+[07:41] ground line you just paint a huge black
+[07:44] line all the way down there
+[07:50] and that's where the ground is going to
+[07:51] attach we're going to bridge over those
+[07:54] and we're going to go into this section
+[07:56] here and this will be where the signal
+[07:58] attached is made so we compare for
+[08:00] signal attachment points there
+[08:07] and to attach the Arduino to the signal
+[08:10] we're just gonna cook a needle through
+[08:11] those four attachment points and poke
+[08:14] the wire the jumper wire into those and
+[08:17] those will be the four attachment points
+[08:18] that we use and that's the ground point
+[08:21] there that we're going to use that's the
+[08:23] ground line there the signal points
+[08:25] these are the resistors now these
+[08:28] resistors need attaching to the ground
+[08:30] line so we can just extend one side of
+[08:33] the resistors there to make the
+[08:37] attachment to the ground line and now we
+[08:40] need to drive that again once that's dry
+[08:41] we take our four piezo elements and we
+[08:44] need to glue them in line with this
+[08:45] second leg to a spot of ordinary glue on
+[08:51] there
+[08:56] and then with the silvery disc parenting
+[08:59] up put in the copper wanting downward
+[09:01] just put them on there
+[09:12] and they will become our sensor pads now
+[09:15] we need to join this up to this passing
+[09:18] through the center of this without
+[09:20] touching this and it's really easy to do
+[09:23] just pop a bit of masking tape on it so
+[09:25] we have a look at the masking tape sighs
+[09:27] wants to go from there to that and cut
+[09:30] four strips of masking tape around about
+[09:32] the same size
+[09:43] and then use that masking tape to bridge
+[09:46] between the two so going from there to
+[09:48] there over the center of the disc that
+[09:50] you just glued on like that
+[10:21] but now we can join those Oh John knows
+[10:23] just bike panting across that masking
+[10:25] tape so a thick line on the masking tape
+[10:30] to where the connection point is and
+[10:32] then join that to there
+[11:00] it's a couple more things to do we need
+[11:02] to spot a little bit of ink on that
+[11:04] silvery bit
+[11:09] just like that joined to the line we put
+[11:11] under masking tape
+[11:19] and then where the copper is that we
+[11:22] glued down a little spot of ink there
+[11:24] that is effectively a cold solder
+[11:32] and that's it so we again dry that or
+[11:36] what you end up with is that so these
+[11:40] are the signal lines those for their
+[11:43] there are four sensors we've been attack
+[11:45] and that's the ground line where
+[11:46] everything else goes so just to go
+[11:48] through that Arduino again when we look
+[11:50] at the Arduino here are the analog
+[11:52] inputs so each one of these goes to a
+[11:54] separate input line the remaining ones
+[11:57] in this case is two remaining ones go to
+[11:58] the ground and go into the analog input
+[12:00] you don't strictly need to do that but
+[12:02] it stops spurious signal noise and then
+[12:05] the final is the ground of the Arduino
+[12:07] goes to that ground there so we just
+[12:09] plug those straight back in there and
+[12:13] we're ready to go again in order to get
+[12:15] those in there all I did was stab it
+[12:18] through with the needle and it makes the
+[12:20] thing just right for the jumper cable if
+[12:23] you want a more permanent solution put
+[12:27] them on or put a spot to paint on once
+[12:30] you put the jumper leaves in there I'll
+[12:31] use a crocodile clip or something like
+[12:33] that I just like the idea of poking it
+[12:35] into the bit of cards because I think
+[12:37] it's so easy to do that anybody could do
+[12:40] it
+[12:40] anyway if you fancy having a gum at that
+[12:42] obviously I'll put a link to the ink
+[12:44] I'll put a link as well to the Arduino
+[12:47] sketch very simple just copy the sketch
+[12:49] into the IDE and upload it to your
+[12:51] Arduino and that's all there is to it
+[12:54] isn't that awesome and slightly
+[12:56] ridiculous tip the others that think
+[13:03] it's superb so there's lots of things
+[13:05] you could do with that I thought I'd
+[13:07] share it with you I hope it was of
+[13:09] interest and thank you very much for
+[13:10] watching

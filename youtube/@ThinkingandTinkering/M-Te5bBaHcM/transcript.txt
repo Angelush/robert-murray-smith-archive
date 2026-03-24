@@ -1,0 +1,154 @@
+[00:00] foreign
+[00:09] last year accounted for something like
+[00:12] five percent of world energy production
+[00:14] and of course it's growing
+[00:17] and when we look at it well we probably
+[00:19] think of it in certain terms and it's
+[00:21] usually thought of as quite
+[00:23] technological but actually when you look
+[00:25] at these smaller to mid-range solar
+[00:28] Farms they are in fact just fixed frames
+[00:31] with the solar cells bolted onto them
+[00:33] and that's really weird because without
+[00:35] solid tracking they're losing somewhere
+[00:38] between 15 and 30 percent of the energy
+[00:40] that they could produce the chances are
+[00:44] the reason solar tracking is not used in
+[00:47] these kind of farms will be well money
+[00:49] and although there are some Brilliant
+[00:52] Solutions from people like Helio drives
+[00:54] using Fez change materials and folks
+[00:57] like sun folding with their t29 balance
+[00:59] driven system and the next tracker with
+[01:02] their integrated system to optimize each
+[01:04] row using motor drives the fact remains
+[01:08] if they're not cheap enough they're
+[01:10] gonna not going to get used and they're
+[01:12] claiming between sort of six and fifteen
+[01:14] percent Improvement but if the cost is
+[01:16] more than six or fifteen percent then
+[01:19] it's much cheaper and much easier just
+[01:22] to stick in some more solar panels and
+[01:24] that's what folks are doing there are
+[01:25] some awesome demonstrations of sort of
+[01:27] model size demonstration size systems
+[01:31] like nighthawking like solar Tracker
+[01:33] Where the solar cells are used to
+[01:35] directly Drive the motors or the world's
+[01:37] simplest solar tracker where a motor is
+[01:39] wired to two solar cells in opposition
+[01:42] so it drives left and right and seeks
+[01:45] the Sun or even Clockwork designs that
+[01:47] just rely on the fact that that's the
+[01:49] time of the day every day so why not run
+[01:51] it by a clock they're all quite honestly
+[01:54] genius ideas that I am in awe of but
+[01:58] when you come to these panels well
+[02:00] they're big they're heavy they're chunky
+[02:03] and that means anything that needs to
+[02:05] move them is also going to have to be
+[02:08] big and heavy and chunky and that means
+[02:10] expensive now it could be that something
+[02:13] like this is the answer this is a
+[02:16] hypercycloid five it's ammo
+[02:19] to take weight and it's not that
+[02:22] expensive cycloid drives are a speed
+[02:25] reducer and they used a lot in robotics
+[02:27] they're Infamous because they reduce the
+[02:30] speed by ridiculous gear ratios they
+[02:32] have very low backpacks so they're
+[02:34] accurate and they're able to lift
+[02:36] extremely heavy weights in relation to
+[02:38] their size because of the high torque
+[02:41] you get out of even when 3D printed the
+[02:43] input shaft drives an eccentric bearing
+[02:45] and turned around to cycloid disk the
+[02:48] disc moves in eccentric cycloidal motion
+[02:50] and the perimeter of this disc is geared
+[02:52] to a stationary ring gear and has a
+[02:54] series of output shafts or rollers plus
+[02:56] the professor the disc the output shafts
+[02:59] directly Drive the output shaft as the
+[03:01] cycloidic disords it's very similar to
+[03:05] planetary gearing now surprisingly
+[03:07] enough the STL files for this were
+[03:09] really easy to find so I haven't given
+[03:11] it a go at designing my own I just got
+[03:13] this one from Ott vinta and it's
+[03:15] available in thingiverse and I
+[03:17] downloaded it to um tinkercad as an sdl
+[03:20] file so that I could play around with it
+[03:21] later on I guess I'll be having a look
+[03:23] and have to design them myself but right
+[03:25] now I just grabbed what was available
+[03:27] the gear ratio is the ratio of the
+[03:30] number of pins right here to the number
+[03:33] of lobes on the ring and that little
+[03:35] bump is a low so there are 12 pins 11
+[03:37] lobes and it is pins minus lobes which
+[03:40] is one divided by lobes so it's 1 over
+[03:43] 11 or if you like an 11 to 1 gear ratio
+[03:46] which is pretty impressive when you
+[03:47] think about it although I did come
+[03:49] across some crazy crazy gear ratios I
+[03:52] figured this would be good enough now to
+[03:54] put this together you've got to pop that
+[03:56] lobe in for that ring in first and the
+[03:58] shaft needs its couple of eccentrics
+[04:01] putting it 90 degrees to each other
+[04:03] shaft goes in there and then you line up
+[04:06] The Eccentric so that it will turn that
+[04:08] one now it will work with just one ring
+[04:12] in but it will wobble a little bit
+[04:13] because of the uneven distribution of
+[04:15] weight so it comes with another ring and
+[04:17] the other ring fits right on there now
+[04:20] it is a little awkward if they're not
+[04:21] lined up so if you line it up first and
+[04:24] then take this which is the output blade
+[04:26] and pop it on there it won't fit into
+[04:29] the other one beneath so what you do is
+[04:31] take this and give it a little rotation
+[04:35] there we go until it fits and try it
+[04:38] again and keep doing that until the
+[04:40] output slides right in there when you've
+[04:43] done that there's a tiny returning clip
+[04:45] that goes into the notch on the end of
+[04:47] the input shaft
+[04:49] there we go and there's a little handle
+[04:51] that we can put on for now this where
+[04:54] the handle is the input this flat plate
+[04:56] is the output and you can drive it under
+[04:57] where it'll either go that way or it'll
+[04:59] go that way but you can't drive this to
+[05:03] drive that it will it won't turn so you
+[05:05] can only drive that drive shaft and it
+[05:07] can be driven backwards or forwards
+[05:11] so I have a bunch of these lying around
+[05:13] and I've been meaning to put them up for
+[05:15] quite a while but I wanted solar
+[05:17] tracking with them now the ones that
+[05:19] we've looked at nighthawking lights and
+[05:21] the amazingly simple solar tracker I
+[05:23] thought were awesome but I thought that
+[05:25] the motor the mechanics was a bit pants
+[05:28] really uh had quite a bit of backlash
+[05:31] and you found it had hunting behavior on
+[05:33] the videos and I didn't like it I wanted
+[05:34] something stronger that I could make
+[05:37] myself which is why I came across this
+[05:39] cycloid drive and even 3D printed like
+[05:42] this this Cyclone Drive I think is going
+[05:45] to be the perfect answer it's going to
+[05:47] be able to position this because a
+[05:49] motrug on the drive shaft the hinge for
+[05:51] this thing will go here on the drive
+[05:53] plate and we can use that sensing system
+[05:56] to be able to position this so the
+[05:59] Cyclone Drive is going to be the heart
+[06:01] of the mechanism that I'm going to need
+[06:04] to do solar tracking anyway I thought
+[06:06] I'd go through the drive with you I hope
+[06:08] you enjoyed the video thank you very
+[06:10] much for watching please do remember to
+[06:12] like And subscribe

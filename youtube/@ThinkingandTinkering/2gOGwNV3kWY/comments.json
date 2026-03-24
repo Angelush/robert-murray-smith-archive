@@ -1,0 +1,529 @@
+[
+  {
+    "id": "UgzEuQ1glepzECKr20Z4AaABAg",
+    "author": "@emil.honganmaki5461",
+    "author_channel_id": "UCdU6qMX3uR-l__P3dY0My3A",
+    "text": "Nämä todella mielenkiintoisia kokeita. itse kokeillut kaiken moisia kytkentöjä aina oppii jotain yllättävää.",
+    "likes": 0,
+    "published_at": "2024-04-26T07:44:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyQ7jo2Rt5jCzULw8B4AaABAg",
+    "author": "@RODOLFO.M.S",
+    "author_channel_id": "UCpD0mZWTdWzssC7ORMIRImw",
+    "text": "Muito obrigado.\n👍🇧🇷🌱🙏🏼",
+    "likes": 0,
+    "published_at": "2023-04-02T03:08:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyRNfLpreMpQlVBBfF4AaABAg",
+    "author": "@user-rs8zg8ey2b",
+    "author_channel_id": "UCO4x8GSKKcMkuVkVusPEYjw",
+    "text": "1. Most joule thiefs are very low power to boost a dead 1.5v battery to light up a low power led that needs more than a 1.5v battery can supply (1.8 to 5v or more). \n2. The e-cig device draws 3 to 4 amps at 3.5 to 4.2v (not a light load at all), 10 to 15 watts (high current nichrome heating element,) \n3. and li-ion hardly has any energy below 3.5v (definitely not 10W+). \nSo three strikes against a joule thief for a e-cig application. I am not sure how you missed ALL these points in this application?",
+    "likes": 0,
+    "published_at": "2023-02-06T02:24:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwZxYCRBzDyKey3Lqp4AaABAg",
+    "author": "@travismoore7849",
+    "author_channel_id": "UCX6-XdOwHDxnEHgK3bWSQqw",
+    "text": "Just an odd bit on a new joule thief I built. It uses a lot of current it would seem. It lights up very brightly with a 47kohm resistor to the base. Just a 20ma 8mm white led is fairly bright.  It uses a darlington transistor of 20k hfe to 30khfe. I use a D cell battery and holder. A 3500uf cap and neon tube across the battery. I wound the coil with about 24 to 26 gage wire I think it was copper enameled. Now the bifilar coil is wound on a ferrite rod from an AM radio. I am thinking I need a current limiting diode to 2ma to the base.",
+    "likes": 0,
+    "published_at": "2021-10-22T00:54:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyH9baioCZtufT7lSN4AaABAg",
+    "author": "@planetlimbo5981",
+    "author_channel_id": "UCRmvDq7XO3hz4BlJAXS1hXg",
+    "text": "How would you integrate this for a house power saver.",
+    "likes": 0,
+    "published_at": "2019-07-16T08:40:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyH9baioCZtufT7lSN4AaABAg.8xRfD-9obh48xRfDnCDbeh",
+        "author": "@planetlimbo5981",
+        "author_channel_id": "UCRmvDq7XO3hz4BlJAXS1hXg",
+        "text": "?*",
+        "likes": 0,
+        "published_at": "2019-07-16T08:40:45Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzaL6AtpgMgSpN59Et4AaABAg",
+    "author": "@BushImports",
+    "author_channel_id": "UCcT1D-gVHYtZfl9WDlDW--w",
+    "text": "I was just thinking about asking you if you guys had tried any of your batteries or supercaps on a joule thief, I guess I got my answer without asking. I managed to finally quit smoking after many many years of being hopelessly addicted to the damned cigarettes with an e-cig and also off the e-cig as well, I wish that craze had happened 35 or more years ago. Has Steve managed to quit smoking or was he just vaping for the enjoyment of it?Thanks for sharing that.",
+    "likes": 0,
+    "published_at": "2018-10-04T06:07:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx7itPkjD2P1lvc6eJ4AaABAg",
+    "author": "@altnrgaccount5466",
+    "author_channel_id": "UCcBe80ru6TxqEC0iUN-1noA",
+    "text": "Im not sure a jewel thief is a good idea since most batteries dont like to be drained to the last drop. Any gains might be lost in battery longevity.",
+    "likes": 0,
+    "published_at": "2017-12-27T21:21:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Uggc0y2QyS6K_HgCoAEC",
+    "author": "@PeterScargill",
+    "author_channel_id": "UCOxyL6lpeYGFxz438Yh49oA",
+    "text": "I presume by Joule thief you could just rip the PCB out of any old cheap Chinese solar light?  The chips for those (which need one choke) are around 30p on Ebay...",
+    "likes": 0,
+    "published_at": "2017-07-31T14:21:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx-n544ETgN8DbG-694AaABAg",
+    "author": "@Ecoinventions2009",
+    "author_channel_id": "UCW0UZ2DqQAiQIXCHGoZrZJw",
+    "text": "You see these E-Cig batteries catching fire on the news all the time, they forget to turn off the units and stick them in their pockets and the button gets pressed too long followed by an explosion and people are hurt. I think this would be a huge market these E-cigs are everywhere.  A safe battery would take over the market fast.",
+    "likes": 0,
+    "published_at": "2017-03-25T16:55:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6IQp9KWQh2Nm57314AaABAg",
+    "author": "@Karabetter",
+    "author_channel_id": "UCrf6vih-jfnzN8Kkn-414KQ",
+    "text": "A Joule Thief is a proven circuit to squeeze every last bit of energy out of a primary battery.  But is that a good concept when mated with a rechargeable battery?  Many rechargeable battery designs have their lifespan and usable energy storage capacity greatly reduced after they are totally discharged.  However, using it with a super-capacitor might be useful. :)",
+    "likes": 4,
+    "published_at": "2017-03-24T03:44:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgjNSKpEZ3XcIngCoAEC",
+    "author": "@petersloper9674",
+    "author_channel_id": "UCJEe2D6e1F1WYdobx7B3zOg",
+    "text": "Haha - I've been wondering for the last year or so if you'd ever turn your attentions to e-cig batteries, Robert. Could be a winner!",
+    "likes": 0,
+    "published_at": "2017-03-20T22:40:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjNSKpEZ3XcIngCoAEC.8QLdFPH9zk28QLeeXzrbHP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "could well be mate - cheers",
+        "likes": 0,
+        "published_at": "2017-03-20T22:52:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugg8rWWCtrazUXgCoAEC",
+    "author": "@evmocean",
+    "author_channel_id": "UCDt0zK0SLf6EZIFPWYt0Q9A",
+    "text": "hi robert  i had a thought about the e cig , why do you need hold a charge all day when you could make a very small cap for one or two bursts then use kinetic energy  in form of vibration to recharge           so just walking  would provide you with ya puff nicotine and if you  are lazy just strap it to a pet throw a ball and let them charge it ,wind up is the other option.",
+    "likes": 0,
+    "published_at": "2017-03-19T10:49:58Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugg8rWWCtrazUXgCoAEC.8QHn7Mc6V0u8QHoDu8X1j2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice mate - i like that a lot! - do you mind if I use it?",
+        "likes": 0,
+        "published_at": "2017-03-19T10:59:36Z"
+      },
+      {
+        "id": "Ugg8rWWCtrazUXgCoAEC.8QHn7Mc6V0u8QHohF4nOPk",
+        "author": "@evmocean",
+        "author_channel_id": "UCDt0zK0SLf6EZIFPWYt0Q9A",
+        "text": "sure no problem just remember me when ya famous Mr Dyson :)",
+        "likes": 0,
+        "published_at": "2017-03-19T11:03:45Z"
+      },
+      {
+        "id": "Ugg8rWWCtrazUXgCoAEC.8QHn7Mc6V0u8QHqYdK7ddR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome and will do if ever lol",
+        "likes": 0,
+        "published_at": "2017-03-19T11:19:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgiTqg7bdZBsZXgCoAEC",
+    "author": "@CoffeeandCancerStix",
+    "author_channel_id": "UCpd1cuEJLeuaJyOcjiZs9hw",
+    "text": "So I don't understand some of the science but what I'm understanding is you want to make a faster charging battery that won't blow a hole in my leg?",
+    "likes": 1,
+    "published_at": "2017-03-18T02:33:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgiTqg7bdZBsZXgCoAEC.8QEKUGol6PM8QFTXD359GM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - yep - that's the idea lol",
+        "likes": 1,
+        "published_at": "2017-03-18T13:11:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugh_ZpnAYGF8vXgCoAEC",
+    "author": "@RWBHere",
+    "author_channel_id": "UCnwhK7Pf6xJ635mvBLTYtVA",
+    "text": "I use Joule thief circuits for single cell LED night lights and flash lamps. Every clock/torch cell here ends it's life doing that job, and each AA or larger cell runs a small white LED all night for between a few days and several months. The circuit isn't the most efficient, varying across the supply range, depending upon component choices. But who really cares if otherwise useless cells are being used? Their beauty lies in their low cost and simplicity; one transistor, one resistor, one inductor and an LED. Construction time is a few minutes, and they always seem to work. I don't even bother with a circuit board, because they can be built around the cell holder. Supposedly discharged cells (which usually still deliver around 0.9V) will provide useful power right down to around 100mV if a Germanium transistor is used, and certainly less than half a Volt with Silicon transistors. Big Clive's design (which is the one I use) can be found by searching his channel for 'Joule Thief'. For the seriously walletly-challenged, family and neighbours are often happy to give their 'flat batteries' to you so that you can 'dispose of them properly'!",
+    "likes": 0,
+    "published_at": "2017-03-18T00:02:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugi4ftNYefRxKHgCoAEC",
+    "author": "@ryefly9885",
+    "author_channel_id": "UCUGmEipC9sy7r3UHCegrQ7A",
+    "text": "totally enjoy your vids and way you explain stuff... I tinker in the bedini ssg field, would be neat to see a couple of your batterys on these machines.",
+    "likes": 0,
+    "published_at": "2017-03-17T18:27:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugi4ftNYefRxKHgCoAEC.8QDSrhky0b68QFPGIjTNvK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool mate - i'll have a think about doing it lol",
+        "likes": 0,
+        "published_at": "2017-03-18T12:34:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugjo0XjIrdOwRHgCoAEC",
+    "author": "@SNikolaM",
+    "author_channel_id": "UCWhyHjXNYvHSPEsm5Q2Wrog",
+    "text": "Joule thieves are rather useful indeed. Recently, I was asked to come up with couple of ideas for sort of unusual business card. One of them was pcb with smd joule thief circuit on it that had a tiny Al-air battery integrated on it. Current collector on air side was just a pcb copper segment I electroplated with Ni. Al side is exchangeable tab made from soda can. It works pretty nicely, you just have to refresh electrolyte from time to time. And Al tab. Of course, since we're talking about very small currents there, I used capacitor in front of typical joule thief circuit to store some charge before releasing it. Consequently, LED is not lit at all times, instead it blinks every 10-15s.",
+    "likes": 0,
+    "published_at": "2017-03-17T11:23:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugjo0XjIrdOwRHgCoAEC.8QChJdgFBZs8QCsy8_ZxZj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 0,
+        "published_at": "2017-03-17T13:04:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugh9ivYNcAcs5XgCoAEC",
+    "author": "@niji8310",
+    "author_channel_id": "UCrOy1kOHaAqAplRl_YmQ__g",
+    "text": "I like the idea of an e-cig kickstarter. Vapor products tend to be very hard on batteries. The advanced ones draw a lot of power, and the resistance of the heating coils is very low - often below 1 ohm.",
+    "likes": 1,
+    "published_at": "2017-03-17T07:24:15Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugh9ivYNcAcs5XgCoAEC.8QCGzqgv-8a8QCLd6mhovX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "so basically a short - more or less",
+        "likes": 0,
+        "published_at": "2017-03-17T08:04:50Z"
+      },
+      {
+        "id": "Ugh9ivYNcAcs5XgCoAEC.8QCGzqgv-8a8QCT7kqBkWa",
+        "author": "@niji8310",
+        "author_channel_id": "UCrOy1kOHaAqAplRl_YmQ__g",
+        "text": "Pretty much. :) High drain 18650s that can discharge at least 20 amps continuously are quite popular for powering a lot of the devices nowadays. Many vapers end up moving away from the built-in battery devices after awhile cause they get tired of the charging time. There would certainly be a market for a fast-charging e-cig if the battery can handle the power and current demands.",
+        "likes": 1,
+        "published_at": "2017-03-17T09:10:19Z"
+      },
+      {
+        "id": "Ugh9ivYNcAcs5XgCoAEC.8QCGzqgv-8a8QCZPdPZaR4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool",
+        "likes": 2,
+        "published_at": "2017-03-17T10:05:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UghdsSQYTNdl-3gCoAEC",
+    "author": "@Lastaii",
+    "author_channel_id": "UCo7AkXKF13vBOZXbr3l6HkQ",
+    "text": "Interesting idea, but I'm not sure how using a joule thief would help in a EC application. Conventional ECs require raw watts to heat the element up -the actual voltage or current doesn't matter so long as V*A is big enough to make the element hot. It seems to me that a joule thief would only introduce power losses and thus reduce the efficiency of the cell. Or am I missing something? :D",
+    "likes": 0,
+    "published_at": "2017-03-16T22:16:31Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UghdsSQYTNdl-3gCoAEC.8QBIJA15cp98QBVw_mV2ww",
+        "author": "@BajanAlan",
+        "author_channel_id": "UCSS_3jTQ7sIw8nfvBOdyp8Q",
+        "text": "JT gets more energy out of a cell.",
+        "likes": 0,
+        "published_at": "2017-03-17T00:15:38Z"
+      },
+      {
+        "id": "UghdsSQYTNdl-3gCoAEC.8QBIJA15cp98QCLhcKXlRh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think Alan is right mate - but like with so much the real answer is to try it and see - which so often is quicker than arguing the pros and cons",
+        "likes": 0,
+        "published_at": "2017-03-17T08:05:27Z"
+      },
+      {
+        "id": "UghdsSQYTNdl-3gCoAEC.8QBIJA15cp98QCLik2_Geb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "agreed mate",
+        "likes": 0,
+        "published_at": "2017-03-17T08:05:36Z"
+      },
+      {
+        "id": "UghdsSQYTNdl-3gCoAEC.8QBIJA15cp98QCMM7Y0B5U",
+        "author": "@BajanAlan",
+        "author_channel_id": "UCSS_3jTQ7sIw8nfvBOdyp8Q",
+        "text": "I been running 5 12v leds from a dead AA cell. Ran for days",
+        "likes": 0,
+        "published_at": "2017-03-17T08:11:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UghME0uWJi_3n3gCoAEC",
+    "author": "@MartinPHellwig",
+    "author_channel_id": "UCTTmgy-wFrV5NTaegX95k_w",
+    "text": "My ecig runs on two 18650 battery (http://kangeronline.com/products/kanger-kbox-mod-200w),  so yes please do a kickstarter :-)",
+    "likes": 3,
+    "published_at": "2017-03-16T21:46:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghME0uWJi_3n3gCoAEC.8QBEq84nhoy8QCLks_DnLs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok mate - cheers",
+        "likes": 0,
+        "published_at": "2017-03-17T08:05:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UggtHPF6Dcgz7HgCoAEC",
+    "author": "@PsoriasisChannel",
+    "author_channel_id": "UC_ogG_AjecVydTmz7NBLbNg",
+    "text": "Love you and your message. Keep up the hard work.",
+    "likes": 0,
+    "published_at": "2017-03-16T21:34:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggtHPF6Dcgz7HgCoAEC.8QBDSzXsZXK8QCLlnmoXdT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks mate",
+        "likes": 0,
+        "published_at": "2017-03-17T08:06:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugj3-57agz7TyXgCoAEC",
+    "author": "@gregoryalbright",
+    "author_channel_id": "UC_fTrW3yofMpXhnm_q2TpKA",
+    "text": "A lot of finger fumbling... How 'bout an electric nicotine patch?",
+    "likes": 0,
+    "published_at": "2017-03-16T19:28:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugj3-57agz7TyXgCoAEC.8QB-3U3_Sg_8QCLroz-V0e",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed lol",
+        "likes": 0,
+        "published_at": "2017-03-17T08:06:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugjzb5JX44bgB3gCoAEC",
+    "author": "@arthurschroeder3003",
+    "author_channel_id": "UCVqzaDCmQGNppF0WUrNCUCQ",
+    "text": "That what I have been using to test my type of batteries. Can run leds for days with them.",
+    "likes": 0,
+    "published_at": "2017-03-16T18:31:40Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugjzb5JX44bgB3gCoAEC.8QAt_Cvuh8e8QBf4isyV9E",
+        "author": "@arthurschroeder3003",
+        "author_channel_id": "UCVqzaDCmQGNppF0WUrNCUCQ",
+        "text": "Just for testing, seems to pull the last energy in the cells out. You know that most batteries have more than half of there energy left in them when they are spent. most people toss them and get a fresh one. The Joule thief can draw the rest out. What I been doing is pulling this energy out. The thing with the batteries I have been working on have the capability to recharge themselves after a period of disconnection.",
+        "likes": 0,
+        "published_at": "2017-03-17T01:44:16Z"
+      },
+      {
+        "id": "Ugjzb5JX44bgB3gCoAEC.8QAt_Cvuh8e8QCLv6CO40U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome",
+        "likes": 0,
+        "published_at": "2017-03-17T08:07:18Z"
+      },
+      {
+        "id": "Ugjzb5JX44bgB3gCoAEC.8QAt_Cvuh8e8QCLxPYmiiv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i don't think it matters mate",
+        "likes": 0,
+        "published_at": "2017-03-17T08:07:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UghLlBG5pAmbHngCoAEC",
+    "author": "@gerardmelvin8670",
+    "author_channel_id": "UCKB2DMFa0sqyBRyN62BeT9A",
+    "text": "Great to see the Joule Theif.Oh the adaptation is a great idea.I use a Vape and the battery charging at the moment is a pain . Also the info on the other videos was very helpful.Gez",
+    "likes": 0,
+    "published_at": "2017-03-16T18:27:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghLlBG5pAmbHngCoAEC.8QAt8I3hlON8QCLzJQQs6g",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2017-03-17T08:07:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugh8jndQAAbE4ngCoAEC",
+    "author": "@Wavefront101",
+    "author_channel_id": "UCaa1WPCA-NtUQFLbjw75BLw",
+    "text": "Flashlight or a powerbank would appeal more to the masses I would think.  Integrate a coulomb counter, meter circuit into it with oled display.  Solar would also add a selling point, never being dependent on an outlet, and with the longevity of a capacitor, the device could last a lifetime.",
+    "likes": 2,
+    "published_at": "2017-03-16T18:18:29Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugh8jndQAAbE4ngCoAEC.8QAs3g_XGxI8QCObzgN_9M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't know mate according to WHO 1 in 5 people in the world smoke and the e-cig market topped US$6 billion in 2015 and is set to rise to US$20 billion by 2020 - plus - why would i integrate all that stuff it just sounds like cost and unnecessarily complexity to me mate - is that a bit of first world thinking going on lol",
+        "likes": 2,
+        "published_at": "2017-03-17T08:30:54Z"
+      },
+      {
+        "id": "Ugh8jndQAAbE4ngCoAEC.8QAs3g_XGxI8QEFaLiNmvM",
+        "author": "@Wavefront101",
+        "author_channel_id": "UCaa1WPCA-NtUQFLbjw75BLw",
+        "text": "When I was referring to solar I meant for a powerbank or flashlight/lantern.  The higher class powerbanks already utilize coulomb counters which are not complex and have a relatively very small cost, and are just a bit more luxurious than a couple blinking leds which lower end powerbanks have, and are not based on anything but voltage which doesn't tell you anything about how much charge is left.\n\nAs for the light, I believe it could stand out as a unique design if certain parts were integrated, like the nth degree flexible leds, along with a flexible solar cell, all layered and coupled with a flexible supercapacitor.  1 in 5 for ecig, or 5 of 5 for a light, as everyone could use a unique light such as this.  The real selling point here should be the capacitor, as all these products talked about use batteries, so it doesn't really matter I guess what you produce, you have the capacitor which trumps the existing lithium cells.  If you could get this into the 18650 form factor you could really do some damage.",
+        "likes": 0,
+        "published_at": "2017-03-18T01:50:31Z"
+      },
+      {
+        "id": "Ugh8jndQAAbE4ngCoAEC.8QAs3g_XGxI8QFSdnlHJMF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think you are right there mate - it doesn't really matter what you produce - it only matters you produce something. What you decide on is personal i believe and there are always arguments either way for what is a good decision - equally when you decide something there is always someone telling you to decide something else lol - I don't mean to have a dig here mate - I am just saying having made a decision it's usually best to stick with it if you believe in it",
+        "likes": 0,
+        "published_at": "2017-03-18T13:03:49Z"
+      },
+      {
+        "id": "Ugh8jndQAAbE4ngCoAEC.8QAs3g_XGxI8QGP-ubS3ra",
+        "author": "@Wavefront101",
+        "author_channel_id": "UCaa1WPCA-NtUQFLbjw75BLw",
+        "text": "Yes agreed, didn't know you had already decided.  I hope in the future you do plan on making the cell available by itself such as in a common form factor like the 18650, as that has a sort of infrastructure already.  People are even starting to build electric cars and diy powerwalls with them.",
+        "likes": 0,
+        "published_at": "2017-03-18T21:51:16Z"
+      },
+      {
+        "id": "Ugh8jndQAAbE4ngCoAEC.8QAs3g_XGxI8QHlCa9TG-u",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "will do mate",
+        "likes": 0,
+        "published_at": "2017-03-19T10:33:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UghW8nR8LtpLkngCoAEC",
+    "author": "@localbroadcast",
+    "author_channel_id": "UCGGiLIcZAQJc6fNZZCal5_w",
+    "text": "i have an even better (in my opinion obviously) practical use device that i think would be a lot more socially acceptable than the e cig thing... if you have time please send me an email robert.",
+    "likes": 0,
+    "published_at": "2017-03-16T18:11:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghW8nR8LtpLkngCoAEC.8QArJBU54r68QCOrnEYmfW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "my email is robertmurraysmith64@gmail.com mate - but i didn't think smoking was that socially unacceptable did you know according to WHO roughly 1 in 5 people in the world smoke - i think that's more than go to church lol",
+        "likes": 1,
+        "published_at": "2017-03-17T08:33:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjUnGUckWhkhHgCoAEC",
+    "author": "@travelprint",
+    "author_channel_id": "UCHRO5VyIGI-kDLX9v-dch2w",
+    "text": "👍 Helpful directions. ☺",
+    "likes": 0,
+    "published_at": "2017-03-16T17:54:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjUnGUckWhkhHgCoAEC.8QApGtImt618QCOtVZR2so",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2017-03-17T08:33:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjTuGr47MlEWXgCoAEC",
+    "author": "@miha119",
+    "author_channel_id": "UCcymr0dTFVtjs6aMkJn2Yjw",
+    "text": "Now you are spoiling us",
+    "likes": 1,
+    "published_at": "2017-03-16T17:51:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjTuGr47MlEWXgCoAEC.8QAp-22iAIS8QCLGfFapeN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2017-03-17T08:01:38Z"
+      }
+    ]
+  }
+]

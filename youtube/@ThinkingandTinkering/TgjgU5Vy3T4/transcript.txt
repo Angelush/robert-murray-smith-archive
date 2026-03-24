@@ -1,0 +1,170 @@
+[00:00] [Music]
+[00:08] so this is what I'm thinking of the
+[00:10] final version of this it's called the
+[00:12] wind Cube because it is a cube it's 150x
+[00:15] 150 by 150 and you're able to stack them
+[00:18] up to build a wind wall which is pretty
+[00:21] much what I wanted it to be able to do
+[00:23] and it's different to the earlier
+[00:25] prototyping it now has a full case but
+[00:28] that's not the only difference if we
+[00:29] take the off there we
+[00:32] go then the tolerances between the
+[00:34] magnets which are carried on this
+[00:36] cylinder and the coil which is right
+[00:38] here is much closer because of course
+[00:40] the strength of the mag magnetic field
+[00:42] is proportional to the square of the
+[00:43] distance so the further away it gets the
+[00:46] more that magnetic field drops off so by
+[00:48] bringing them closer what you're able to
+[00:51] do is increase the magnetic field
+[00:53] strength really quite easily but it's a
+[00:56] question of tolerances the other big
+[00:58] difference is this coil this coil now
+[01:01] has 1,000 turns on it of s g32 and that
+[01:05] means that the voltage output of this is
+[01:07] going to be very much higher just
+[01:09] because the coil is better made and the
+[01:12] magnets are nearer those are the two key
+[01:15] things in any generator what we're going
+[01:17] to do is look at how we would make that
+[01:20] output into a usable input for something
+[01:23] else because of course all of these stal
+[01:26] generators produce an AC an AC C is not
+[01:30] tremendously useful when it comes to
+[01:32] these kind of things what you really
+[01:33] want if you're going to charge batteries
+[01:35] for example is DC okay so I've got it
+[01:38] set up in the same way that we did in
+[01:40] the previous video we're just going to
+[01:41] turn the fan on and see what happens the
+[01:43] fan blows at about 4 m/s here because
+[01:46] that's the average wind speed in the UK
+[01:49] but this is so sensitive that if I just
+[01:51] spin that by
+[01:53] hand see 2 and 1/2
+[01:57] volts 5 volts just by hand anyway let's
+[02:00] turn the fan
+[02:25] on okay I appreciate this is open
+[02:28] circuit voltage look at that voltage
+[02:34] climb and that is just the result of
+[02:38] winding more windings on the coil and
+[02:40] making the magnets
+[02:44] closer that's
+[02:57] awesome okay that's enough of that let's
+[03:00] let's turn that
+[03:03] off okay that was fun but it also had a
+[03:06] serious purpose it gives us some
+[03:08] guidelines because in order to change
+[03:11] that from AC to DC we need to put it
+[03:13] through a rectifier now you can build a
+[03:15] rectifier from for diode so you can buy
+[03:18] the little package like this and I
+[03:20] bought 30 of these from eBay for I think
+[03:23] it was uh £2 or something so they're
+[03:25] very cheap but we need to know what kind
+[03:29] of of current and voltage they can stand
+[03:33] and what kind of current and voltage we
+[03:35] can expect from our machine in order to
+[03:38] choose the right one now this particular
+[03:40] one is 2 oz at 1,000 volts and as we saw
+[03:43] even an open circuit voltage we're not
+[03:45] going to get 1,000 volts so this will
+[03:48] live up to the output of the wind
+[03:51] turbine really really easily I cope with
+[03:53] it fine and as I said before in a
+[03:55] previous video we're not going to be
+[03:57] generating a couple of amps out of this
+[03:59] so this little rectifier is ideal for
+[04:02] what we want it for and if you look at
+[04:03] the top there'll be two squiggly lines
+[04:05] and a plus and a minus the output from
+[04:08] the coil goes to squiggly lines and then
+[04:11] the plus and the minus is your DC your
+[04:14] DC is going to be a bit all over the
+[04:18] place actually and so what we need to do
+[04:20] is smooth that out and to smooth it out
+[04:23] you just use a capacitor so this
+[04:25] capacitor is an electrolytic capacitor
+[04:28] rated at is heat I can see where that is
+[04:31] there we go and 50 Vols so again it's
+[04:34] going to do the job just Jim Dandy and
+[04:37] we can put those on to the end of the
+[04:39] coil okay and here it is wired up and
+[04:41] laid out now the only reason it's long
+[04:43] wires incidentally is cuz it's easy to
+[04:45] show you what's going on you would of
+[04:47] course make it much neater but first of
+[04:50] all the wires come from the coil to the
+[04:52] rectifier on the side with the squiggly
+[04:54] lines and it doesn't matter which wire
+[04:56] goes to which leg of the squiggly lines
+[04:59] but once it comes out it's a plus or a
+[05:02] minus so it does matter so the minus
+[05:04] comes out of here and goes into the
+[05:05] minus of the capacitor and the plus
+[05:07] comes out of here and goes into the plus
+[05:09] of the capacitor then I've got a couple
+[05:11] of crocodile clips and I've put this
+[05:14] meter on and you can see the meter is
+[05:16] now measuring DC and it already has a
+[05:18] charge and it has a charge because I've
+[05:21] been testing this to make sure it works
+[05:23] and that capacitor has been charged if I
+[05:27] spin this
+[05:37] we see the charge go up and then it
+[05:39] drops slowly and that's what the
+[05:41] capacitor is doing the capacitor is
+[05:43] storing that charge and feeding it back
+[05:46] out slowly until so it will last a lot
+[05:48] longer and that's what evens out the
+[05:51] voltage that comes out of this thing
+[05:53] okay that was it I mean shockingly
+[05:56] simple wasn't it but that was just the
+[05:58] basics of what you need to to do you can
+[06:00] make it more complicated if you want but
+[06:02] at the minimum that's what you need to
+[06:04] do in order to create the DC from an AC
+[06:07] that's a relatively smooth DC and of
+[06:10] course if you want the thing regulated
+[06:12] so you want to run a phone from it or
+[06:14] maybe charge 12 pH batteries then you'll
+[06:16] need a regulator of some kind very
+[06:19] frequently it's a DC todc Book boost
+[06:21] step down converter that's used but all
+[06:24] we need to do is that to get a DC out of
+[06:28] it now that capacitor was 1,000
+[06:31] microfarads or if you like one mill
+[06:33] farad given that the energy stored on a
+[06:35] capacitor is a half CV squared and it's
+[06:38] measured in Jewels then if you take the
+[06:41] voltage Square it and divide it by a
+[06:43] th000 what you'll get with a jewel
+[06:46] stored and of course a jewel per second
+[06:48] is a watt and so it's giving you a very
+[06:50] clear idea of what that little thing is
+[06:53] actually generating anyway now we've got
+[06:55] it converted to DC in some indication of
+[06:58] what the wattage output's going to be
+[06:59] let's give it another run and see what
+[07:01] it
+[07:02] does so we are now measuring DC voltage
+[07:05] let's turn on our fan and see what
+[07:08] happens remember this fan simulates a 4
+[07:10] m/s 4.5 m/s
+[07:28] wind e
+[08:24] anyway I thought was quite cool output
+[08:26] for such a little machine actually
+[08:28] although did really rather well that the
+[08:30] only reason it's like that is because I
+[08:33] happen to like the wind wall concept and
+[08:35] can see a use for it but that doesn't
+[08:37] matter the things we've looked at are
+[08:39] true of any wind turbine the same
+[08:42] principles actually apply in fact any
+[08:45] generator is covered by the same
+[08:47] principles so I hope you found the
+[08:50] series useful thank you very much for
+[08:52] watching and please do remember to like
+[08:53] And subscribe

@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "Ugx4JdXim3oEOrGAKQV4AaABAg",
+    "author": "@jcc1391",
+    "author_channel_id": "UCEzjHDX2ILRGBMHHI7On0-Q",
+    "text": "Miss you my brother. You've taught me so much",
+    "likes": 0,
+    "published_at": "2026-02-06T09:14:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzsbbBPWCUKmX3ngz94AaABAg",
+    "author": "@taytaywilliams99",
+    "author_channel_id": "UCv4UFBPl0nTq9bp6L8D9bZQ",
+    "text": "I just spent 3 hrs last night on Chat GPT, learning the history of the first EV’s and how they were controlled. I argued with her for hrs about how to come up with a purely mechanical solution to the problem of bldc’s. \nThen I just happen to find this video out of nowhere. \nThe weeks I have spent haggling with a Curtis Controller and trying to “trick” it into just shutting up and spinning the motor has made me start wondering why I even bother with electricity in the first place. \nI see hope and power with this approach. \nYou are an inspiration sir!\n\nAlso, I saw a video somewhere where a spring a spring loaded stator was squeezed around the rotor, making the field more intense and increasing speed on the shaft……\nI don’t understand how that worked and what type of motor it was, but in this use case, it would make a heck of a “gas pedal”\n❤❤❤",
+    "likes": 1,
+    "published_at": "2025-03-24T01:32:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyKNAkPaCVxir8WlUt4AaABAg",
+    "author": "@Mike-nk3su",
+    "author_channel_id": "UCLWQetnrtsOYXZJVB-c1k-g",
+    "text": "so for example if I put something like this on a gokart with hoverboard motors and then have two separate batteries one just for the controller and a second battery to power the hoverboard motors and mount the mechanical motor controller where the drive axle is in the center of the mechanical controller theoretically speaking could i just have someone push the gokart to get it moving and then press the throttle pedal and take off wouldn't the controller be in time with the drive motor because the axle is in real time with the drive motor of course it would require some math to get the controller the same diameter as the hub motor which I could actually just build the controller out of a hoverboard motor so it's exactly the same size as the wheel motor is.  any suggestions?",
+    "likes": 0,
+    "published_at": "2024-12-19T20:01:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw43PvKj5VCZ-0mgdR4AaABAg",
+    "author": "@IzySly-g4h",
+    "author_channel_id": "UCuckbjD-nCmwzF_RlnpZbvA",
+    "text": "Ive got two identical brushless motors , is there a way to connect the motors to eachother so that if i turn one motor the other one will turn too?",
+    "likes": 0,
+    "published_at": "2024-11-30T00:45:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy2KaULGSZuYQPVTId4AaABAg",
+    "author": "@travistownsend6894",
+    "author_channel_id": "UC1pYQ6m-ChRX1SX33PLyLHQ",
+    "text": "I've always deeply appreciated your videos and your knowledge . I tell you what I have been here after googling the most random thing and you have a great video , practical and easy to watch and understand . and I love that you are all about repurposing stuff and do amazing things with it . thankyou for being a awesome brilliant man , the world would suck more if your videos were t their . and while I'm on this subject , great Scott and Jeremy fielding are two other good ones that are along the lines of how you are  with your videos I'm sure you already heard of them if not you should check them out too",
+    "likes": 0,
+    "published_at": "2024-11-13T05:48:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxPkhG3cmQay01O3gl4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "Is there not a chip. Or ic that can basically just connect 6 MOSFETs to with a few supporting components, caps and resistors, diodes.. maybe a voltage regulator. And a over current protection device , seems like things like this could be simple to build by now!   I guess the micro controller is that chip in a way, thing is, i can barely program a CLOCK! Much less a microcontroller!..  its wild the things a micro controller can do!  I know Bldc e bike controllers have a current shunt inside. This is one thing that get modified slightly, . When over clocking the controller,  back in the day. We changed camshafts, raised compression, ported the intake and exhaust ports in yhe cylinder head to gain performance in a bike or car! Now its more volts and trickingthe controller to sllow more current without burning down the fets,!!   Just upgrade the wiring, higher capacity capacitors, thicker traces, maybe add fets if the board has room, or upgrade fets!   For higher voltage and current , 3-4 additional volts can make a difference when you are in the 50's or 60',s of volts on s 48,volt motor,  if one cell is noticed! Imagine 4 cells, go up by 25-28% ,,(+/-) from 60v to 72v gor example. It may require additional cooling of the  motor . Heavy wire, possibly eventually limit the Duty cycle. Give it cooling time between full throttle pulls!   I am just wanting to know if converted alternators are worth the effort?? Id like to see testing, Dyno test, efficiency test. Temperature test! I know they are built differently than of than other bldc motors! And what is the voltage range, i have heard 96-144 is completely fine with the moternator, ,,  with around 9volts or so on the field coil! ,(To get that tq!)  It will run on ,,,8, 9-10v.  However the windings are setup for 100-200v the regulator rewuired  the high voltage so it can barely be yurned on yo to generate enough voltage with s low duty cycle, and still charge the battery!  I have heard nearly 1000v id possible from a full field open circuit alternator!   Take ,,30% from that just cause, then snother 30 because of the Peak open circuit!  Then 50% of that for heat/thermal Losses snd possibly running away.  This leaves  200v or less to run it as a bldc motor  so guessing 48-60v is s starting voltage  and ,96v -120v. id say is the peak, it would require testing! It should do,1500-3000 watts easily!  With a a13v battery pulling down the voltage  it still does about 1500 watts from a 100 amp alternator!   I feel reverse that , it should tak about 4x or more to get 100 amps imput!!  A 150 amp or larger should not require ad much voltage to pull the current!  Well i did it again!! brambling away, have an AWESOME DAY!!",
+    "likes": 0,
+    "published_at": "2024-01-25T02:44:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBMFTRZ5hJXYLONqJ4AaABAg",
+    "author": "@davidhilton7780",
+    "author_channel_id": "UCJck5T9HAtJakefhjA1k-rw",
+    "text": "I use a delta wire configuration, it allows for hi frequency emf generation, a strong sine wave, and im keeping brushes and rotor magnet orignal equip. I can vary speed , torque , and noise...",
+    "likes": 0,
+    "published_at": "2024-01-08T18:12:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzAh1e5NTAawkgfoH94AaABAg",
+    "author": "@TheSorters",
+    "author_channel_id": "UCE1jLXyVsJnPS_m-hphGfvQ",
+    "text": "This is a great idea. Can I attach this commutator to my BLDC shaft, drive the whole thing with a 2 stroke engine, and get power? Is the commutation sequence the same for generation  as for a motor?. Basically an externally brushed, self commutated BLDC generator ? I am trying to build an engine driven BLDC generator capable of generating 5kw. Drone use, so maybe 10 lbs for engine and generator. The VESC controllers cost about $400, but can get destroyed relatively easily. I looked into brushed DC generators, and a 5kw one weighs about 50 lb. My 5 kw BLDC weighs 4 lbs. So, maybe just replace my VESC with this mechanical device, get rid of all hall sensors, encoders, and blowing up MOSFETs, and generate 5kw?",
+    "likes": 1,
+    "published_at": "2023-08-26T12:39:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxNc98hI5-BgQInuN14AaABAg",
+    "author": "@agritech802",
+    "author_channel_id": "UCUL0azYEz78FBq-01hQYfyw",
+    "text": "Thanks for sharing these videos on motors and generators Robert, they're absolutely brilliant 👍",
+    "likes": 0,
+    "published_at": "2023-02-21T07:30:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyd5DPuAZMLngjfsrJ4AaABAg",
+    "author": "@teddycunningham7568",
+    "author_channel_id": "UCaA67tac_JWtIjsLRSEle4A",
+    "text": "This method would be a good way to control  power of an induction heat coil for metal casting.",
+    "likes": 2,
+    "published_at": "2022-12-09T09:52:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwbzdCPsOXmFawTu3B4AaABAg",
+    "author": "@jackspratt4343",
+    "author_channel_id": "UCVdDHyfUe5TtpSJGsYMsyvA",
+    "text": "Robert. Do you have plans for sale of the actual commentator that you have in your hands there. Thanks.",
+    "likes": 0,
+    "published_at": "2022-09-02T17:10:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhRN_qjG6VWDJBiZd4AaABAg",
+    "author": "@kevinbuckley7851",
+    "author_channel_id": "UCZOaUl8fo5pfnnTosLiizJg",
+    "text": "That's great Rob thanks buddy",
+    "likes": 2,
+    "published_at": "2022-05-26T20:28:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxDlktXjrCcQT4bp-54AaABAg",
+    "author": "@baconsledge",
+    "author_channel_id": "UCHY3phCUK-mjW6xHa4OD1MQ",
+    "text": "Interesting concept that makes sense.",
+    "likes": 0,
+    "published_at": "2022-04-27T02:12:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx1aElnDa4gIeZ0Dvh4AaABAg",
+    "author": "@hansjohannsen6722",
+    "author_channel_id": "UCzuneEkH-fBmTtogzJILWLQ",
+    "text": "Absolutely beautiful. Thanks for sharing. Life changing fella.",
+    "likes": 0,
+    "published_at": "2022-03-20T21:27:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwgRg64ZhCKr76-GNR4AaABAg",
+    "author": "@ezequielsanuy6311",
+    "author_channel_id": "UCWAlEW_cK6_1gk7agZsDYvg",
+    "text": "It could be attached to the motor's axle, so with a prime move it auto pulses kind a dc brush motor.",
+    "likes": 0,
+    "published_at": "2022-03-12T23:41:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw8Yt_TOZi9W8h8geF4AaABAg",
+    "author": "@haatch999",
+    "author_channel_id": "UCoYcv6zQZDP8-gkHQYuek0A",
+    "text": "I’m going to use this for a lot of things now but I suspect a lot of emf is gonna be generated      I guess that’s what’s Mosfets are there for not make a am transmitter",
+    "likes": 0,
+    "published_at": "2022-02-25T16:41:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw8Yt_TOZi9W8h8geF4AaABAg.9Ys_MRlEKIL9zJqwky86Tt",
+        "author": "@davidhilton7780",
+        "author_channel_id": "UCJck5T9HAtJakefhjA1k-rw",
+        "text": "Faraday cage...",
+        "likes": 0,
+        "published_at": "2024-01-08T18:21:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyq179mPtxVQikS6b54AaABAg",
+    "author": "@gregorybrumfield2247",
+    "author_channel_id": "UCA62WrVZqdfT84d6eqtuuvA",
+    "text": "That's what I have been contemplating building because of exactly what you're saying. Great Idea. you brushed over a little to quickly and I might be a little blind, but more detail and a closer look at the commutator would be nicer, good video though.",
+    "likes": 0,
+    "published_at": "2022-02-14T05:26:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxmW840ewI9I3cOwQx4AaABAg",
+    "author": "@tonyelawson-jack2816",
+    "author_channel_id": "UCrZvBCgl9Uju_Nqqe_Y5nVw",
+    "text": "Good job Sir.\nDoes it work for reverse?",
+    "likes": 0,
+    "published_at": "2022-02-09T18:06:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzSKvoE0xSipxg3AjR4AaABAg",
+    "author": "@aadhithvarathan5432",
+    "author_channel_id": "UCavPJ4-SSEw_xjgxPqWUsEA",
+    "text": "An electronics engineer will just say \"oh brushes are too inefficient. Sparking is hazardous\" and bla bla bla but I fee this is really the way to go.\nJust today I saw a video on how difficult silicon based ESCs are to make. The cost of ESC rises exponentially with size of motor.\n\nEspecially here in India, no one likes to pay $800 just for a motor controller when a slightly less efficient $5 mechanical controller does the same job.\n\nSince the motor that drives the controller is a very small one, they can be controlled with a potentiometer. No need Arduinos. \n\nTo make this setup more efficient, I recommend using electromagnetic relays instead of brushes to do the switching. This reduces frictional force and arcing. I also recommend using flyback diodes.",
+    "likes": 0,
+    "published_at": "2022-01-18T17:37:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxyRFXh1KB7dJWMN_t4AaABAg",
+    "author": "@roland9367",
+    "author_channel_id": "UCZBGkaZI1ekaBedcDY-ql5w",
+    "text": "So do I understand correctly that you only control speed (and direction) and do no control the torque/power?",
+    "likes": 0,
+    "published_at": "2021-12-04T17:03:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxJYO0X88Tz_js9Isd4AaABAg",
+    "author": "@highschoolengineer",
+    "author_channel_id": "UCVI24UzU-000mZHVrd_6QaQ",
+    "text": "would thus be good at driving a delta motor",
+    "likes": 1,
+    "published_at": "2021-11-15T19:56:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwUVVpnuiULZbVceJh4AaABAg",
+    "author": "@CASHSEC",
+    "author_channel_id": "UCTd2tlshrdJ9RgbmOwPIuGQ",
+    "text": "High Robert. As it's only a concept this too is only just a thought. The design of brush contact must not result in a short across two coils as mega current will result. Also for large motors there will be large inrush currents. Finally if the shaft of the commutator was connected to the shaft of the main motor it might be self sustainable and could use a starter motor but may turn into a runaway. Maybe you could also add your mechanical PWM. I do agree the depth of electronic control is too excessive. Remember the old fare ground rides and underground used contactors and power resistors to control motors. Love to see you develope this to control a large (10 KW) 3 phase motor. Also your design may be adaptable to higher poled motors. Power needs to be applied with a centrifugal device so that if the small motor stops power will need to be moved to prevent damaged. Like to see this used on pancake washing machine motor.",
+    "likes": 0,
+    "published_at": "2021-11-07T21:13:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyteDHvo-pPnLAlYSd4AaABAg",
+    "author": "@dougpine4746",
+    "author_channel_id": "UCPujtRReYdtKiczo0bdOTRA",
+    "text": "I have a genuine preference for old school builds. Simple hand made minimum of tools to do so. Thank you for making this video.",
+    "likes": 0,
+    "published_at": "2021-10-01T10:23:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwADWAuQ34t4L4SVXJ4AaABAg",
+    "author": "@kovacevicboban",
+    "author_channel_id": "UCCTMA_endVQb2IPlnOyOHtQ",
+    "text": "So you put that in axe of motor and you get brushed motor",
+    "likes": 0,
+    "published_at": "2021-09-06T14:39:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLTL3sbWaJlsm5cV94AaABAg",
+    "author": "@chadelkins5274",
+    "author_channel_id": "UCZ-BZVtiCvvz7eQiwmJAaJw",
+    "text": "Bravo dude! Impressively crafty!!",
+    "likes": 0,
+    "published_at": "2021-08-25T01:59:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygGITkiKqjJPUB-eN4AaABAg",
+    "author": "@t.hussain6278",
+    "author_channel_id": "UCcrQLrmg4Dh7azF-hse2t5A",
+    "text": "I will try to make one this.\nThanks",
+    "likes": 0,
+    "published_at": "2021-07-07T15:32:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyGkCiL3tNr0dE7XB94AaABAg",
+    "author": "@t.hussain6278",
+    "author_channel_id": "UCcrQLrmg4Dh7azF-hse2t5A",
+    "text": "Fantastic.\nGreat.\nThere will be a market for this for some application.\nGood luck",
+    "likes": 0,
+    "published_at": "2021-07-07T15:31:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9nQS4ilIW7YeU9ut4AaABAg",
+    "author": "@electronicsworkshawp",
+    "author_channel_id": "UCpNqXptZ1a4MjZdyNElK3ew",
+    "text": "'better' lmao",
+    "likes": 0,
+    "published_at": "2021-06-27T02:43:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-1v4NyVtCZl-rhlV4AaABAg",
+    "author": "@amalik291",
+    "author_channel_id": "UCoj1q--uLdgMj3sMRm5uWmg",
+    "text": "Fantastic Robert! Thank you. Been hunting for a 500v 10amp controller for drum (washing machine) BLDC motor but nothing. This gives hope!",
+    "likes": 0,
+    "published_at": "2021-06-12T23:26:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw-1v4NyVtCZl-rhlV4AaABAg.9OVygBaInbc9zJqBFY5CD6",
+        "author": "@davidhilton7780",
+        "author_channel_id": "UCJck5T9HAtJakefhjA1k-rw",
+        "text": "This is a job for relays...",
+        "likes": 0,
+        "published_at": "2024-01-08T18:14:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwwVjguDj3BSsJ3LCh4AaABAg",
+    "author": "@jj74qformerlyjailbreak3",
+    "author_channel_id": "UCnsOI_Hhrpej0NbPbROb4xQ",
+    "text": "Thank You Robert 😊 \nJust The Thing I Was Looking For. \nLove ❤️ You From Ohio.",
+    "likes": 1,
+    "published_at": "2021-04-09T22:51:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbXs5-GClD1keHw454AaABAg",
+    "author": "@robertdoell4321",
+    "author_channel_id": "UCMPRtbqkp-nXM0EYn1aEnRg",
+    "text": "Don't really need to know? That is the reason we are watching, to KNOW.",
+    "likes": 0,
+    "published_at": "2021-03-14T00:49:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyk0lJqDl73sG_Vdi54AaABAg",
+    "author": "@rickknight3823",
+    "author_channel_id": "UCiGzxBGagjmo2DhKs6fhAVg",
+    "text": "Came to you from Gerard Morin looking for a workable controller for Tesla RC driven motor. Have you investigated this before? \nPerhaps your brushless controller may work with his set up?",
+    "likes": 0,
+    "published_at": "2021-03-12T15:41:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzR5sdPNHZpsW8g14p4AaABAg",
+    "author": "@imadalhaddad404",
+    "author_channel_id": "UCmylKEgmcCGKUfB8j7juQgA",
+    "text": "i  suggest  that  you  change your  channel  name  to WIKIROB    :)",
+    "likes": 0,
+    "published_at": "2021-03-10T11:27:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxX1IgpRcSZBjZ9dDl4AaABAg",
+    "author": "@williamfraser",
+    "author_channel_id": "UC1viyCC4Nosk1ybJr5Efz3Q",
+    "text": "How does the commutation deal with change in speed on the main motor under load? On a brushed motor the commutator is in sync with the motor by default, always energising the coils at the correct position with respect to the permanent magnet arrangement. On a permanent magnet bldc the timing is kept in sync either by hall sensors or by monitoring the back emf on the idle coil.",
+    "likes": 1,
+    "published_at": "2021-03-10T09:56:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxX1IgpRcSZBjZ9dDl4AaABAg.9KhUE6HKG8t9V37E0n1uDi",
+        "author": "@Traderhood",
+        "author_channel_id": "UCWdqd5ii4IcHhZzGOJrrIAQ",
+        "text": "Well, aren’t you timing it here mechanically?",
+        "likes": 0,
+        "published_at": "2021-11-22T18:11:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzh-COEXXcfdEcXC1V4AaABAg",
+    "author": "@JesseSchoch",
+    "author_channel_id": "UCgAj6SDs7bY_tSBd79-Lj7g",
+    "text": "you should checkout simpleFOC, it is easy to use and can be used open loop or closed loop.  You can even drive a stepper with it.  finally you can use a cheapo LM298N to drive it.",
+    "likes": 0,
+    "published_at": "2021-03-08T13:33:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyHw3NJ0QLTLh3ZZJF4AaABAg",
+    "author": "@justthinkalittle8913",
+    "author_channel_id": "UCm6xvsgmKJvQgQ057MB_g6w",
+    "text": "This is really interesting. i have a bunch on DC motors with no controllers.",
+    "likes": 1,
+    "published_at": "2021-03-07T17:10:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwmeUwEPGA5YOBiezJ4AaABAg",
+    "author": "@ashantimundy7603",
+    "author_channel_id": "UCyrPwIdkxkxiglCs3ZrlVSA",
+    "text": "I love so much jus everything...",
+    "likes": 1,
+    "published_at": "2021-03-07T07:21:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgymT5yrB88o0bIuUet4AaABAg",
+    "author": "@htmagic",
+    "author_channel_id": "UCi-96s3e_9NVZFmMkAn0djg",
+    "text": "RMS, reminds me of the rotary interrupters used on early Tesla coils. They too had to handle high current and high voltage, something semiconductors would have a hard time doing.",
+    "likes": 2,
+    "published_at": "2021-03-06T15:43:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxQy_vOGV9q8g-Zdyt4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "If you are going to drive big motors this way there is a further advantage available to you ...... Rotor resistance!\nAs it stands you will be punching the full amount of energy through the rotor meaning the motor will have full torque! If you reduce the field strength you will reduce the torque..... handy for soft starting.",
+    "likes": 2,
+    "published_at": "2021-03-06T11:20:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxQy_vOGV9q8g-Zdyt4AaABAg.9KYKbXM9mom9KYUqwgvK9Z",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice tip mate - thank you",
+        "likes": 0,
+        "published_at": "2021-03-06T12:49:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzlL8m4gY3TqhRPEut4AaABAg",
+    "author": "@3d-explorer",
+    "author_channel_id": "UCM-eGWO0gqY6n0mG6NGMEPw",
+    "text": "Fun stuff!  I'm a bit curious how you sourced the three brushes for this prototype.  Are they repurposed brushes from a tool , a DIY design, or something else?  The brush housings appear to have a stylish Art Deco look to them.  Cool.",
+    "likes": 0,
+    "published_at": "2021-03-06T08:43:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzlL8m4gY3TqhRPEut4AaABAg.9KY2dTceBcB9KYCi615BD0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "they are from a washing machine motor",
+        "likes": 1,
+        "published_at": "2021-03-06T10:11:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxhvAoSeP2RSrsnq1J4AaABAg",
+    "author": "@PVflying",
+    "author_channel_id": "UCLZ3tSBkHiMhnXVY9enx-eg",
+    "text": "I’m in awe of how quickly you produce these videos. From one project to the next, getting through the initial planning, test rig, construction then filming and editing... these things would take most people months to get one project completed and another underway.  How do you do it in the space of a week or so?  Must be a very industrious place, your workshop 👍👍",
+    "likes": 5,
+    "published_at": "2021-03-06T07:11:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxhvAoSeP2RSrsnq1J4AaABAg.9KXt6zzCArF9KYCmUp1P6g",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is mate - we do work hard - but then it is fun so it doesn't seem like work",
+        "likes": 6,
+        "published_at": "2021-03-06T10:11:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyYZldBE4ke2wIpl7h4AaABAg",
+    "author": "@MrAnderson4509",
+    "author_channel_id": "UClKRMMzhVq1gzj1pr6UptuA",
+    "text": "⚡️💫❤️it👍",
+    "likes": 0,
+    "published_at": "2021-03-06T03:20:36Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyYZldBE4ke2wIpl7h4AaABAg.9KXTk3yU6Zl9KXXyvnfdRB",
+        "author": "@MrAnderson4509",
+        "author_channel_id": "UClKRMMzhVq1gzj1pr6UptuA",
+        "text": "so much more to play with here if one wants to explore, had some cross wired mechanically Joined electric motors that spun up so high after I rope started them I thought they would come apart on a runaway, never thought I'd see a 1700rpm motor turn so far above rating, a moving Frosty experience that was",
+        "likes": 0,
+        "published_at": "2021-03-06T03:57:35Z"
+      },
+      {
+        "id": "UgyYZldBE4ke2wIpl7h4AaABAg.9KXTk3yU6Zl9KYCptRZEci",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - I'll bet lol",
+        "likes": 0,
+        "published_at": "2021-03-06T10:12:05Z"
+      },
+      {
+        "id": "UgyYZldBE4ke2wIpl7h4AaABAg.9KXTk3yU6Zl9KYCqg0R_Ff",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:12:12Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxqh3ST6v9_6ilY29p4AaABAg",
+    "author": "@aaronfranklin324",
+    "author_channel_id": "UC-YZ9XTUbjVIeVaSwV_yQFQ",
+    "text": "Why not drive it with a toothed belt from the main motor. Put a tensioning roller on the outside of the belt on both sides between the pulleys both mounted on a carriage that can move so it tightens the belt on one side while loosening on the other. This will give you phase advance/ retard tuning.\nPotentially FAR more efficient than daft power transistors that always drop your voltage, and make your electricity into heat.",
+    "likes": 0,
+    "published_at": "2021-03-06T03:02:11Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxqh3ST6v9_6ilY29p4AaABAg.9KXRd5bpZ8k9KYCx503DCS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "because I didn't think about it mate - what an awesome idea - thanks for sharing - love it and it has solved such a problem for me lol - cheers mate",
+        "likes": 1,
+        "published_at": "2021-03-06T10:13:04Z"
+      },
+      {
+        "id": "Ugxqh3ST6v9_6ilY29p4AaABAg.9KXRd5bpZ8k9Kap97n7iWy",
+        "author": "@dolanbaker",
+        "author_channel_id": "UCzA90TUYVcLDLMycJ8mb6xQ",
+        "text": "I was thinking of the same idea but with it inline with the (back end of the) shaft, only issue would be that in the advance phase, an unloaded motor would simply spin up without limit, in retard mode it would act like a brake. To start the motoe rotating you would simplt advance it until the motor starts to spin then retard it until you have it close to the desired speed.",
+        "likes": 0,
+        "published_at": "2021-03-07T19:53:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzPoyotsP7u2tbzaEN4AaABAg",
+    "author": "@aaronfranklin324",
+    "author_channel_id": "UC-YZ9XTUbjVIeVaSwV_yQFQ",
+    "text": "If you want big currents, just use graphite bushings instead of ball bearings. Ever hear of slip rings on synchronous AC motors and generators?\nHeck, there's no loads on the bearings. It's not like the plain bearings in a 40L Rolls-Royce Merlin.\nThey would work fine too. The indium alloy melts and provides liquid metal lubrication between the crank and Conrod.\nGallium carbon fiber felt slip rings would be ideal. Gallium is a great conductor, melts at 28C, and would do this very quick as soon as you pumped a few hundred amps through it.\nRewire a smartdrive washing machine motor to parallel instead of 3 phases of 14 poles in series, slap some  fibreglass over the outrunner magnet drum, presto!\n10000 rpm 200kW auto motor!",
+    "likes": 0,
+    "published_at": "2021-03-06T02:50:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzPoyotsP7u2tbzaEN4AaABAg.9KXQKRziXkY9KYD3DDhZ8N",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have heard of slip rings mate  - love your suggestions - cheers",
+        "likes": 0,
+        "published_at": "2021-03-06T10:14:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwgnyAk9Nwj5FYbni94AaABAg",
+    "author": "@ssgeek4515",
+    "author_channel_id": "UCHxHteF5Ie1hdF__geqYjmg",
+    "text": "Could you not do this with say 10amp momentory switches with the cam pressing them on and off as required?",
+    "likes": 0,
+    "published_at": "2021-03-06T00:07:31Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwgnyAk9Nwj5FYbni94AaABAg.9KX7dvBDTbY9KYD4ci4msC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah for sure",
+        "likes": 0,
+        "published_at": "2021-03-06T10:14:14Z"
+      },
+      {
+        "id": "UgwgnyAk9Nwj5FYbni94AaABAg.9KX7dvBDTbY9KYcC7tIeIp",
+        "author": "@edwardcdg",
+        "author_channel_id": "UChN9W6Tw3aip4cSSPt1603A",
+        "text": "I am dubious.  Switches usually have contacts that come together and pull apart.  High currents leave pits and spikes after a while, like the points in an old auto distributor.  Rob's contacts are wiped.  The carbon and the brass will wear but the contact will be consistent a lot longer.  This is a beautiful solution.",
+        "likes": 0,
+        "published_at": "2021-03-06T14:02:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyp-v94DHWWet8D8Xx4AaABAg",
+    "author": "@lizardzman",
+    "author_channel_id": "UCrecP0KJEtW8N9vNegNHy6Q",
+    "text": "This makes me think you could use micro switches and a shaft with cam lobes in the correct places to be actuated on and off. Then your contacts would be sealed inside each switch.",
+    "likes": 2,
+    "published_at": "2021-03-05T23:47:10Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyp-v94DHWWet8D8Xx4AaABAg.9KX5JotjH1w9KYD6Shylgi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I would think so mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:14:29Z"
+      },
+      {
+        "id": "Ugyp-v94DHWWet8D8Xx4AaABAg.9KX5JotjH1w9KYb0hTSN1H",
+        "author": "@edwardcdg",
+        "author_channel_id": "UChN9W6Tw3aip4cSSPt1603A",
+        "text": "I don't think the microswitches would last very long.  Worth trying, though.",
+        "likes": 0,
+        "published_at": "2021-03-06T13:52:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxfUZPlqGaDwyyvlQd4AaABAg",
+    "author": "@Yaman-D-Chhaya",
+    "author_channel_id": "UCzu578KU4hlPXKvY3a4Cd2w",
+    "text": "Great explaination Rob Sir, I shall mail you some designs soon !! Love and Very warm regards from India !!",
+    "likes": 0,
+    "published_at": "2021-03-05T23:32:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxfUZPlqGaDwyyvlQd4AaABAg.9KX3grSAlFa9KYD7pccOkv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:14:40Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCcv4CbPanChKttWt4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "Thank you",
+    "likes": 0,
+    "published_at": "2021-03-05T21:52:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzCcv4CbPanChKttWt4AaABAg.9KWtEM2lwDD9KYD8BhPX0h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You're welcome",
+        "likes": 0,
+        "published_at": "2021-03-06T10:14:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzcuBhRLw88SdTAupV4AaABAg",
+    "author": "@dorseydecker6926",
+    "author_channel_id": "UC6wkTkRyW17FMhNS901cOBA",
+    "text": "Ver interesting.",
+    "likes": 0,
+    "published_at": "2021-03-05T20:53:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzcuBhRLw88SdTAupV4AaABAg.9KWmV98rRs39KYDG5AwH83",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:15:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxKQnD9IipafBf_4zt4AaABAg",
+    "author": "@NorthernKitty",
+    "author_channel_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+    "text": "Forgive me if this is a dumb suggestion, but might it be better to use this mechanical controller setup to turn on and off relays that provide current to the large motor in the right order?  Or do relays respond too slow at the speed it would be rotating?  If I understood this correctly, the current to the motor you're driving flows through this controller through the bearings, and I'm just wondering how well that controller will hold up to large currents and whether it might be wise to isolate them.",
+    "likes": 1,
+    "published_at": "2021-03-05T20:53:53Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxKQnD9IipafBf_4zt4AaABAg.9KWmUcMRS8_9KYDPRrPgWh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are 100% right Cat - like a lot of things I do this is just a suggestion of mine and can certainly use an upgrade or two and a rethink about some aspect - but getting folks thinking is what I am all about lol",
+        "likes": 0,
+        "published_at": "2021-03-06T10:17:05Z"
+      },
+      {
+        "id": "UgxKQnD9IipafBf_4zt4AaABAg.9KWmUcMRS8_9KZ1okya5Oa",
+        "author": "@NorthernKitty",
+        "author_channel_id": "UCR1Mxtmo-8C0SUrQnY3-7_w",
+        "text": "​@ThinkingandTinkering Your videos definitely get me thinking!!  You've revived this old dead brain single-handedly with your content, LOL!!  \nI'm very glad it turned out to be a helpful suggestion!! 😊 I hesitated a long time to suggest, as I thought perhaps there was something very obvious I was missing on why it would be bad to use relays.  (Sluggishness, back EMF, etc)  I don't feel like I have very much helpful input to offer at times on your projects - many are at the limits of my understanding.  Wasn't 100% sure I fully understood this one. 😋",
+        "likes": 0,
+        "published_at": "2021-03-06T17:55:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxO3I7Yuf9sHN2NpoN4AaABAg",
+    "author": "@Niwen2058",
+    "author_channel_id": "UC9Yptp2fZFfHLOsZ1_uFxxg",
+    "text": "Cool.. But what happen if you applay here 400V and 100A? There is a reason that comutators wore out and was replaced by expensive IGBT. At higher current mechanical switch really want to be a welder. But to be on positive side, solution still exist - ther are on the market relays for around 20€ that can handle 300A+, however at 24V. It could be neat to use them with cheap 3 phase driver or comutator like this.",
+    "likes": 2,
+    "published_at": "2021-03-05T20:41:34Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgxO3I7Yuf9sHN2NpoN4AaABAg.9KWl4UfyEOx9KX3LYE6xLr",
+        "author": "@WmLatin",
+        "author_channel_id": "UC6SCLG98LCNQjqa59sIQskg",
+        "text": "I think your idea of producing one more level of isolation via large current handling relays is a really good one.\nI'm worried too about high currents through those ball bearings, etc. but overall the idea has a lot of merit.",
+        "likes": 0,
+        "published_at": "2021-03-05T23:29:55Z"
+      },
+      {
+        "id": "UgxO3I7Yuf9sHN2NpoN4AaABAg.9KWl4UfyEOx9KYDaWaPod4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate I think driving relays would be an awesome idea",
+        "likes": 1,
+        "published_at": "2021-03-06T10:18:44Z"
+      },
+      {
+        "id": "UgxO3I7Yuf9sHN2NpoN4AaABAg.9KWl4UfyEOx9KYQfq70ixa",
+        "author": "@Niwen2058",
+        "author_channel_id": "UC9Yptp2fZFfHLOsZ1_uFxxg",
+        "text": "I’m happy that you like it. But I have to warn that most relays will die after few hours of fast switching under load, also switching speed will limit rpm to max 200-300rpm. Could be useful for testing tough. I thought about this today, there is another solution - use one expensive IGBT/fast switch to turn on/off circuit in fast manner, like >1kHz, and during off time change circuit using thyristor - this element can enable current on demand, but can’t disable it for itself, but even for large amps and voltages they’re cheap and robust. Of course I think about applications like multi kilowatts motors for a car",
+        "likes": 1,
+        "published_at": "2021-03-06T12:13:03Z"
+      },
+      {
+        "id": "UgxO3I7Yuf9sHN2NpoN4AaABAg.9KWl4UfyEOx9K_nAakUhfp",
+        "author": "@Kapalek84",
+        "author_channel_id": "UCnsryfEwImv-2LIeTnKq3BQ",
+        "text": "I might be wrong but The more amps you need the bigger contact surface you provide, I think this design can be easily and cheaply scaled up so once the arc will be spread on bigger surface then high power should also be controllable. This design is really cool. Best regards!",
+        "likes": 0,
+        "published_at": "2021-03-07T10:16:50Z"
+      },
+      {
+        "id": "UgxO3I7Yuf9sHN2NpoN4AaABAg.9KWl4UfyEOx9KaspeBB7Nj",
+        "author": "@Niwen2058",
+        "author_channel_id": "UC9Yptp2fZFfHLOsZ1_uFxxg",
+        "text": "@Kapalek84 You’re right. For my knowledge basic things that need to be managed for successful switch/commutator are enough contact area to avoid weld and spread wear, low interface resistance to lower heating, high mechanical durability and quick arc extinguishing. For same power higher amps allow for shorter arc, but boost its temperature. Higher voltage is easier on contacts and lower overall temperatures, but arc became more persistent.. Also high frequency high power arcs are excellent EM jamming device - most electronic will get high and declare independence from working :) One important thing on the other side - most BLDC are driven by power, not speed, especially in electric car’s. In case of commutator only way to control power is varying voltage - pulse width is fixed. If power to speed ratio is to high, as if commutator is driven independently from engine, rotor spin up to quickly and excess power will be used to slow it down - we can actually see it on video. Not always a bad thing, and possible to manage by few means, but worth to know",
+        "likes": 1,
+        "published_at": "2021-03-07T20:25:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwa1KYRSwOnHoyf-2J4AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "I guess when an internal commutator can work an external one can work as well. However an internal one is phase coupled by definition. yours is not ( it's on a different axis ). Thats ok as long as the big motor can keep up. Its easy to ramp rpm up for the commutator to fast and if it powers a vehicle it will not speed up from 0 to 100 mph in a second when the commutator dictates that. A flywheel on the commutator might solve that.\nAs I explained in my previous comment there are obvious limitations to what you're doing, but a series motor has the same limitations and is widely used.",
+    "likes": 4,
+    "published_at": "2021-03-05T20:14:03Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugwa1KYRSwOnHoyf-2J4AaABAg.9KWhvwAaJxL9KXIO68Ku1E",
+        "author": "@gcewing",
+        "author_channel_id": "UCOfam1glqK75M8tQKc5R2wA",
+        "text": "You could have a position sensor on the main motor providing feedback to a small electronic controller driving a small brushless motor driving the commutator.",
+        "likes": 0,
+        "published_at": "2021-03-06T01:41:21Z"
+      },
+      {
+        "id": "Ugwa1KYRSwOnHoyf-2J4AaABAg.9KWhvwAaJxL9KYDl83XyGa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you could just put a belt around the main shaft to mechanically sync them I suppose?",
+        "likes": 2,
+        "published_at": "2021-03-06T10:20:11Z"
+      },
+      {
+        "id": "Ugwa1KYRSwOnHoyf-2J4AaABAg.9KWhvwAaJxL9KZC4hZd_F7",
+        "author": "@hanslepoeter5167",
+        "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+        "text": "@ThinkingandTinkering Absolutely. What you end up with is a universal motor again. A common commutator has many more poles. I think that has to do with limitating the current when the motor is blocked.",
+        "likes": 0,
+        "published_at": "2021-03-06T19:24:45Z"
+      },
+      {
+        "id": "Ugwa1KYRSwOnHoyf-2J4AaABAg.9KWhvwAaJxL9KZXxMBS6g1",
+        "author": "@gcewing",
+        "author_channel_id": "UCOfam1glqK75M8tQKc5R2wA",
+        "text": "@ThinkingandTinkering Yes, but then you would just have an ordinary brushed DC motor. The scheme I suggested would give you electronic speed control with the benefits of a closed loop.",
+        "likes": 0,
+        "published_at": "2021-03-06T22:35:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgziTU10B5AwGjYVpWF4AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "There's an advantage to your mechanical motor controller that you may not have thought of.\n\nIf you add shielding to the motor and house the controller in a metal case for shielding; they will be protected from an Electro Magnetic Pulse  whether that pulse comes from a major solar flare or it comes from a nuclear detonation.\n\nIt is said that most of the automobiles on the road today will not operate after an EMP.\n\nI'm not sure how accurate that car killing EMP claim is as the computers in cars do have a good bit of metal surrounding them.",
+    "likes": 0,
+    "published_at": "2021-03-05T19:52:27Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgziTU10B5AwGjYVpWF4AaABAg.9KWfSdOHbgc9KYDplvlkTH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "this would certainly be proof against EMP mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:20:48Z"
+      },
+      {
+        "id": "UgziTU10B5AwGjYVpWF4AaABAg.9KWfSdOHbgc9KYu7-OCm2c",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "@ThinkingandTinkering 😎👍",
+        "likes": 0,
+        "published_at": "2021-03-06T16:39:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxFckNn9yyqnzzCG5h4AaABAg",
+    "author": "@kenrowe167",
+    "author_channel_id": "UCztmcVOR_8rKOK9kPVXc-xg",
+    "text": "Who needs electronics when Victorian-era engineering can do the job just as well. Please don't take this as a put-down, I am in awe of Victorian engineers - they were so inventive.",
+    "likes": 0,
+    "published_at": "2021-03-05T19:36:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxFckNn9yyqnzzCG5h4AaABAg.9KWdbfTc_d79KYDsyQtBYB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree mate - just because something is old doesn't mean it is useless",
+        "likes": 0,
+        "published_at": "2021-03-06T10:21:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzeqePjDlg899J3ubZ4AaABAg",
+    "author": "@MichaelCarper2",
+    "author_channel_id": "UCazMV1CNHg3wqHT5qopyB0A",
+    "text": "He figured out how to build the flux capacitor!",
+    "likes": 0,
+    "published_at": "2021-03-05T19:09:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzeqePjDlg899J3ubZ4AaABAg.9KWa_UXnR9r9KYDuJMV4wI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2021-03-06T10:21:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzG__DULlJsaVkEmh14AaABAg",
+    "author": "@morski_kapetan",
+    "author_channel_id": "UCBX0lDoWROOyLG_yD5rK7vg",
+    "text": "Use mechanical solutions (instead of electronics) where it is possible (everywhere?). Great way of thinking!",
+    "likes": 1,
+    "published_at": "2021-03-05T19:00:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzG__DULlJsaVkEmh14AaABAg.9KW_TMJLKp_9KYDwmztHkD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:21:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCYAmLQU_PPm3icgp4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "it seems like one could get around the whole brush-wear issue, with 3 magnetically controlled momentary contact switches (like they've got in those swinging desk toys) and properly spaced permanent magnets on your rotor.   might add some small expense but if someone managed it,  I think it wouldn't require much if any maintenance, be frictionless, and still have the mechanical control advantage of being pretty simple.   Just a thought, if anybody wanted to play with that notion.  not sure how Fast those switches can go, physically- that might be an issue, but a more durable brush alternative for this sort of application where it's being a switch rather than a motor seems of some use.",
+    "likes": 0,
+    "published_at": "2021-03-05T18:48:04Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzCYAmLQU_PPm3icgp4AaABAg.9KWZ57NarEa9KYE1OMNmRJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's clever mate - I like it",
+        "likes": 1,
+        "published_at": "2021-03-06T10:22:32Z"
+      },
+      {
+        "id": "UgzCYAmLQU_PPm3icgp4AaABAg.9KWZ57NarEa9KZO_Vx___p",
+        "author": "@ryanjamesloyd6733",
+        "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+        "text": "This sent me down a \"conductive ferrofluid\" rabbit hole (which I suspect your ink would excel at)-  a mix of copper and plastic tubing, and you've got a switch controlled by the motion of a permanent magnet (found a vid of kids that were working on the concept for reconfigurable circuit boards using conductive ferrofluid, that was mindblowing, but a simple switch that Can't wear out- that's relatively easy to achieve I think.)",
+        "likes": 0,
+        "published_at": "2021-03-06T21:13:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxkNEjlwsCRYngZp894AaABAg",
+    "author": "@victoryfirst2878",
+    "author_channel_id": "UCEA42l13uiXOq9ry4BPsklg",
+    "text": "When they say simplicity of engineering a DC motor controller they most certainly have you in mind. I am just amazed again with the down to earth way of making things on the cheap. Well done again Robert. Just cannot wait for more from you SIr. Thanks and peace too.",
+    "likes": 6,
+    "published_at": "2021-03-05T18:46:32Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgxkNEjlwsCRYngZp894AaABAg.9KWYutyxQTy9KYE4kLyOgA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2021-03-06T10:22:59Z"
+      },
+      {
+        "id": "UgxkNEjlwsCRYngZp894AaABAg.9KWYutyxQTy9T5DrGzLNfz",
+        "author": "@FirstLast-tx3yj",
+        "author_channel_id": "UCNeSbI6gE1wbA2maFlcHq6w",
+        "text": "@ThinkingandTinkering i had this though last week... mainly cz i am poor and trying to drive a 200kw motor in a motorcycle\n\nYou have no idea how happy i am cz you saved me all the work and RND\n\nAlso the weight savings and wasted head are much less\n\nThank you sir",
+        "likes": 0,
+        "published_at": "2021-10-04T20:45:35Z"
+      },
+      {
+        "id": "UgxkNEjlwsCRYngZp894AaABAg.9KWYutyxQTy9elwSxRfk9X",
+        "author": "@Persanity",
+        "author_channel_id": "UCcRoS9I1Y8O27bVSmu5kV5w",
+        "text": "@FirstLast-tx3yj How is your project going?",
+        "likes": 1,
+        "published_at": "2022-08-16T02:28:09Z"
+      },
+      {
+        "id": "UgxkNEjlwsCRYngZp894AaABAg.9KWYutyxQTy9em1pOFaRdZ",
+        "author": "@FirstLast-tx3yj",
+        "author_channel_id": "UCNeSbI6gE1wbA2maFlcHq6w",
+        "text": "@Persanity on the back burner\nJust replicated the model but didnt make a larger unit for big power\n\nBut hopefully i get the time to do so",
+        "likes": 1,
+        "published_at": "2022-08-16T03:23:47Z"
+      },
+      {
+        "id": "UgxkNEjlwsCRYngZp894AaABAg.9KWYutyxQTy9em4M6oPWh8",
+        "author": "@Persanity",
+        "author_channel_id": "UCcRoS9I1Y8O27bVSmu5kV5w",
+        "text": "@FirstLast-tx3yj I still need to replicate it so you are ahead of me! Hopefully we both get the time to work on it.",
+        "likes": 0,
+        "published_at": "2022-08-16T03:45:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyCyAi3EuOHArpM3V4AaABAg",
+    "author": "@kylehaley5433",
+    "author_channel_id": "UCLvxb6toQ7qbOY_VRRIgnEA",
+    "text": "Excellent. It would be cool to see how this scales up driving a ev motor . Also, I've been surprised what you can get an igbt  module for on eBay. Perhaps a future video...",
+    "likes": 0,
+    "published_at": "2021-03-05T18:43:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyCyAi3EuOHArpM3V4AaABAg.9KWY_Us0u4X9KYE7H4awo7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thanks for the idea! cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:23:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwlyBNKIugBpv4Kvn94AaABAg",
+    "author": "@dquinceyhjornevik7823",
+    "author_channel_id": "UCAVPr56IccKLchUtH0b_6kA",
+    "text": "What is different between tiny DC and big one that variable voltage doesn't work on big motors?  Is it an efficiency thing?",
+    "likes": 0,
+    "published_at": "2021-03-05T18:37:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwlyBNKIugBpv4Kvn94AaABAg.9KWXsBbCYS99KYE9q2Ekxd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's just scale mate - scale matters",
+        "likes": 0,
+        "published_at": "2021-03-06T10:23:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzQOnPlxRrHkiJdg414AaABAg",
+    "author": "@Oilburnerful",
+    "author_channel_id": "UCaBI59qWWLqUyJfTv2btQRg",
+    "text": "One application of brushless motors is in areas where there are flamable vapors. Where a brushed motor can't be used due to risk of arcing igniting the gas. This solution separates the brushes from the motor. That way we can still have the power without the cost or risk. Brilliant!",
+    "likes": 1,
+    "published_at": "2021-03-05T18:34:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzQOnPlxRrHkiJdg414AaABAg.9KWXWcr1DmN9KYEDPz3XdM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah - I never thought of that - cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:24:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzuCxEMl79NV8L_MCZ4AaABAg",
+    "author": "@arkatub",
+    "author_channel_id": "UC7PZntZ66OjeS86SDC5bZcQ",
+    "text": "hmmm, could you make a motor with commutating bearings? analog brushless motor.",
+    "likes": 0,
+    "published_at": "2021-03-05T17:56:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzuCxEMl79NV8L_MCZ4AaABAg.9KWTCfllbFE9KYEFmd_qXb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah I suose so - well I don't see why not anyway",
+        "likes": 0,
+        "published_at": "2021-03-06T10:24:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNdB5sHJFpwnX3NJp4AaABAg",
+    "author": "@gregp6123",
+    "author_channel_id": "UCwtQUXo7d1GqxM-R63mDXmg",
+    "text": "Great info!",
+    "likes": 3,
+    "published_at": "2021-03-05T17:10:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNdB5sHJFpwnX3NJp4AaABAg.9KWNw8dsFXo9KYEG9kKgPH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 1,
+        "published_at": "2021-03-06T10:24:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyeZTqBgQ_cQyptpI54AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "It's pretty much a three phase sinusoidal wave. I have the electronic knowledge but knowing the mechanical alternative can get you out of a jam when you're away from your electronic workbench.\nGreat video 👌",
+    "likes": 2,
+    "published_at": "2021-03-05T17:06:25Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyeZTqBgQ_cQyptpI54AaABAg.9KWNSdY4Md29KYES79LiDZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I also think it helps folks understand the electronics mate to be able to 'see' what is happening",
+        "likes": 1,
+        "published_at": "2021-03-06T10:26:11Z"
+      },
+      {
+        "id": "UgyeZTqBgQ_cQyptpI54AaABAg.9KWNSdY4Md29K_g-STndFw",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@ThinkingandTinkering very true, I guess it does break down the steps into layman's terms",
+        "likes": 0,
+        "published_at": "2021-03-07T09:14:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBdJUi7b3xIwpC5EB4AaABAg",
+    "author": "@danielabbey7726",
+    "author_channel_id": "UCELlqgRXHctzI5B7sCgQMSg",
+    "text": "Very simple and practical solution.  I need to power brushless motors for driving benchtop machine tools, and the IGBT 3-phase controllers are expensive!",
+    "likes": 1,
+    "published_at": "2021-03-05T16:58:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzBdJUi7b3xIwpC5EB4AaABAg.9KWMVLx7q689KYEbKkqo74",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I was thinking of doing a cheap H bridge relay based vision of this mate would that be of interest?",
+        "likes": 3,
+        "published_at": "2021-03-06T10:27:35Z"
+      },
+      {
+        "id": "UgzBdJUi7b3xIwpC5EB4AaABAg.9KWMVLx7q689KYQaOeDRNR",
+        "author": "@danielabbey7726",
+        "author_channel_id": "UCELlqgRXHctzI5B7sCgQMSg",
+        "text": "@ThinkingandTinkering Yes, it would.  As a new sub, I like the way you approach electronics in an accessible manner.  Surplus brushless motors are often cheap, but controlling them can be daunting.",
+        "likes": 0,
+        "published_at": "2021-03-06T12:12:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzjvTZAfXVcncGCHu54AaABAg",
+    "author": "@robtitheridge9708",
+    "author_channel_id": "UCFBrPoOMxbO6DpXdj4Ppq6Q",
+    "text": "about 50 years ago i used to do some work for a board mill that still had a lot of DC motors .supplied from a very large and impressive mercury arc rectifier. speed controle was from a basic reostat for small motors  .stepped resistors like used on trolly buses and great big brime filled tanks with semi circular blades that were wound in. oh almost forgot the small ones with inductive brakes (an aluminium disc with a moveable magnet) i am realy enjoying these videos keep up the good work",
+    "likes": 2,
+    "published_at": "2021-03-05T16:56:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzjvTZAfXVcncGCHu54AaABAg.9KWMHlI8X9c9KYEg8kIzTP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2021-03-06T10:28:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxNOZ-ONZTXUDjatqR4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "1 dishwasher 2nd floor on my own eek 😬,  Thanks mate you  are awesome.  Welder + motor + battery.  I'm thinking about a reverse trike \"possibly\"",
+    "likes": 0,
+    "published_at": "2021-03-05T16:55:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxNOZ-ONZTXUDjatqR4AaABAg.9KWMCbDkDB79KYEi2aw1-O",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate and cheers",
+        "likes": 0,
+        "published_at": "2021-03-06T10:28:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxBR5wf5k_nHRdO_PN4AaABAg",
+    "author": "@michaelmunroe7232",
+    "author_channel_id": "UCFXhfxhMcSledH9ZWEIrzpw",
+    "text": "Thank you so much for the details. Again, as I said in my last comment, you've solved a challenge I've been stumbling over for a while. \nAfter you showed the first video on this it seemed so simple I thought why didn't I think of that. But I was stuck on the electronic solution. I'm not good with electronics. And I'm not blessed with a large bank role.\nThank you again.",
+    "likes": 1,
+    "published_at": "2021-03-05T16:42:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxBR5wf5k_nHRdO_PN4AaABAg.9KWKlKxazPR9KYEkYFBSnu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad to help!",
+        "likes": 0,
+        "published_at": "2021-03-06T10:28:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7zIS5Kml77qt2knN4AaABAg",
+    "author": "@cptrikester2671",
+    "author_channel_id": "UCS0pn5bCKMg6IOPItcsPWgA",
+    "text": "Very nice, I like it.  Instead of driving this with a little electric motor, looks like this could be adapted to a pedal driven / geared input.",
+    "likes": 4,
+    "published_at": "2021-03-05T16:39:51Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugx7zIS5Kml77qt2knN4AaABAg.9KWKQ1vNXmW9KWVFTteMHw",
+        "author": "@naotamf1588",
+        "author_channel_id": "UCv0LZwFvyUkZoIAynQXn-4Q",
+        "text": "you are so right, that rotaiting motion should totally come from pedals, to save battery",
+        "likes": 0,
+        "published_at": "2021-03-05T18:14:31Z"
+      },
+      {
+        "id": "Ugx7zIS5Kml77qt2knN4AaABAg.9KWKQ1vNXmW9KYEng_PvSf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I like that mate - maybe a bit of clockwork too?",
+        "likes": 2,
+        "published_at": "2021-03-06T10:29:16Z"
+      },
+      {
+        "id": "Ugx7zIS5Kml77qt2knN4AaABAg.9KWKQ1vNXmW9vK0XE6eeZ3",
+        "author": "@mrbunchofcells",
+        "author_channel_id": "UCohirqzfKcKQ54N8H7IDBCA",
+        "text": "🎉",
+        "likes": 0,
+        "published_at": "2023-10-01T09:48:10Z"
+      },
+      {
+        "id": "Ugx7zIS5Kml77qt2knN4AaABAg.9KWKQ1vNXmWAG1YxF45Jff",
+        "author": "@taytaywilliams99",
+        "author_channel_id": "UCv4UFBPl0nTq9bp6L8D9bZQ",
+        "text": "Just had the same thought. This is my favorite comment section on all of YouTube.",
+        "likes": 0,
+        "published_at": "2025-03-24T01:14:03Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz4bNSyqB1NGqd9iQZ4AaABAg",
+    "author": "@dennisflemming826",
+    "author_channel_id": "UCLi4pq95Shop4B2zSngvgEw",
+    "text": "Good but the ballbearings will fry with heavy current, you need two more brushes! Cheers",
+    "likes": 6,
+    "published_at": "2021-03-05T16:26:51Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz4bNSyqB1NGqd9iQZ4AaABAg.9KWIvt-Dbly9KWJhr6NEgN",
+        "author": "@AndyFletcherX31",
+        "author_channel_id": "UCySM8-dJpGKlefNvpV7E2Qg",
+        "text": "Yeah, I was thinking about problems you get with VFD on motors without a grounding rotor bush. Same sort of issue.",
+        "likes": 1,
+        "published_at": "2021-03-05T16:33:41Z"
+      },
+      {
+        "id": "Ugz4bNSyqB1NGqd9iQZ4AaABAg.9KWIvt-Dbly9KYEy2h8JaV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Yes, you are right - and a couple of slip rings - though some folks have made some really good comments on things that could be done here too",
+        "likes": 2,
+        "published_at": "2021-03-06T10:30:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx4xkFDJgnSQhYc29Z4AaABAg",
+    "author": "@ecospider5",
+    "author_channel_id": "UCOVM3cj9uUZVXEybHfRK3GQ",
+    "text": "This is almost adding brushes to a brushless motor. Kind of brilliant.",
+    "likes": 4,
+    "published_at": "2021-03-05T16:26:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx4xkFDJgnSQhYc29Z4AaABAg.9KWIrC-HI9i9KYF-J1T4An",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - to be honest mate - that's exactly what it does",
+        "likes": 3,
+        "published_at": "2021-03-06T10:30:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCSVI9G-7pkvMEAZl4AaABAg",
+    "author": "@Terrywoodrat",
+    "author_channel_id": "UC-vzTepgq5bNRZvHiZPqOHQ",
+    "text": "Very cool I got endless brushless motors from HVAC equipment.",
+    "likes": 5,
+    "published_at": "2021-03-05T16:16:08Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzCSVI9G-7pkvMEAZl4AaABAg.9KWHhMfL5SH9KYF1Ky86O6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am jealous lol",
+        "likes": 1,
+        "published_at": "2021-03-06T10:31:16Z"
+      },
+      {
+        "id": "UgzCSVI9G-7pkvMEAZl4AaABAg.9KWHhMfL5SH9KYg3ScUmMr",
+        "author": "@Terrywoodrat",
+        "author_channel_id": "UC-vzTepgq5bNRZvHiZPqOHQ",
+        "text": "I wish I could get them to you.",
+        "likes": 0,
+        "published_at": "2021-03-06T14:36:13Z"
+      },
+      {
+        "id": "UgzCSVI9G-7pkvMEAZl4AaABAg.9KWHhMfL5SH9KZcBdLEM8-",
+        "author": "@klausnielsen1537",
+        "author_channel_id": "UCBwOGFCxu9tBXffKwKc4vaw",
+        "text": "If they are from mini split ac units those are high voltage, 340vdc, and can generate high voltage too.\nFun they are, but hard to drive.",
+        "likes": 0,
+        "published_at": "2021-03-06T23:21:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOkS7h6g_8YIBFVNJ4AaABAg",
+    "author": "@WileHeCoyote",
+    "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+    "text": "BEAUTIFUL! i could make that in a couple of days with brass i already have!!!",
+    "likes": 2,
+    "published_at": "2021-03-05T16:11:39Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgxOkS7h6g_8YIBFVNJ4AaABAg.9KWHBU4-npi9KWs4dha9K3",
+        "author": "@nickldominator",
+        "author_channel_id": "UCF0lcxQa7NJ0w3qCbqKCnpQ",
+        "text": "Can't wait to see what you come up with, please make a video where you drive a large motor this way (with a output load making it draw >=700W heck, why not even > 1kW !?). Might as-well measure the output efficiency while your at it? I'm excited to see the results! Best of luck to you.",
+        "likes": 1,
+        "published_at": "2021-03-05T21:42:45Z"
+      },
+      {
+        "id": "UgxOkS7h6g_8YIBFVNJ4AaABAg.9KWHBU4-npi9KXJAvZNUsr",
+        "author": "@WileHeCoyote",
+        "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+        "text": "@nickldominator thanks man! it means a lot to me that your so confident i can do it! :)",
+        "likes": 0,
+        "published_at": "2021-03-06T01:48:17Z"
+      },
+      {
+        "id": "UgxOkS7h6g_8YIBFVNJ4AaABAg.9KWHBU4-npi9KYF2m9cFbB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that would be beautiful mate - go for it make a vid and let me know - I would love to see it",
+        "likes": 1,
+        "published_at": "2021-03-06T10:31:27Z"
+      },
+      {
+        "id": "UgxOkS7h6g_8YIBFVNJ4AaABAg.9KWHBU4-npi9KZsXZGNlyv",
+        "author": "@nickldominator",
+        "author_channel_id": "UCF0lcxQa7NJ0w3qCbqKCnpQ",
+        "text": "@WileHeCoyote You are welcome! Here I thought you could only reply if it contained \"debra\", glad to have been proven otherwise!",
+        "likes": 1,
+        "published_at": "2021-03-07T01:44:26Z"
+      },
+      {
+        "id": "UgxOkS7h6g_8YIBFVNJ4AaABAg.9KWHBU4-npi9KZu-rXua5S",
+        "author": "@WileHeCoyote",
+        "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+        "text": "@nickldominator teehee",
+        "likes": 0,
+        "published_at": "2021-03-07T01:57:18Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[00:00] [Music]
+[00:08] so this NF friction drive that we made
+[00:11] we made it from ping pong balls and
+[00:13] there's a number of reasons that I chose
+[00:16] ping pong balls they're incredibly
+[00:18] accurate they're amazingly cheap they're
+[00:21] absolutely everywhere but there's
+[00:23] another really important reason that I
+[00:25] chose these that I haven't yet talked
+[00:27] about and that is they Hollow and that
+[00:30] makes them springy they've got a very
+[00:32] slight springiness to them and that's
+[00:35] really important because if something
+[00:37] can spring back then it's going to
+[00:40] fatigue less quickly than something
+[00:43] that's solid if we put a point pressure
+[00:46] on it then we get a slight spreading
+[00:48] over the surface and so it contact is
+[00:50] better and it's better able to transmit
+[00:53] torque because remember the limitation
+[00:55] on the NF Drive was torque transmission
+[00:58] so we can use a spring inside of a drive
+[01:01] then we could get huge benefits from it
+[01:04] now this isn't something that's escaped
+[01:06] anybody and a company called IM systems
+[01:09] have produced a a drive based on these
+[01:12] ideas that they're calling their
+[01:14] Archimedes drive now it doesn't use
+[01:16] bolts it actually uses cylinders that
+[01:20] are Hollow and can be compressed and of
+[01:22] course I turn the Tinker cat to draw up
+[01:25] a model of that and here are the
+[01:27] component parts laid out of course I
+[01:29] will put a Link in the description to
+[01:31] the STL files which will be on
+[01:33] thingiverse but the thing to pay
+[01:35] attention to is this part here this
+[01:38] takes place of the rollers and I printed
+[01:40] them out of TPU because it's squishy and
+[01:43] so they'll take place of those metal
+[01:45] rulers because we're working in plastic
+[01:47] we don't want anything quite as strong
+[01:49] as that now
+[01:50] unsurprisingly the whole thing is
+[01:52] actually like a planetary gear system
+[01:54] but without the teeth so there's the
+[01:56] carrier and the rollers just slide onto
+[01:58] those carrier pins and they're held in
+[02:01] place by these clips we put the clips on
+[02:04] the top and then we need an axle for
+[02:07] that and we've got this shorter thicker
+[02:09] axle that glues in in that Center hole
+[02:12] there to make the planet carrier in
+[02:15] inverted coms the planets drop in this
+[02:18] main body which has got the indented
+[02:21] gear and it just drops through the
+[02:22] center then the Sun for want of a better
+[02:25] word gets squished in between the
+[02:27] planets it'll be a bit stiff and then
+[02:30] the top gets dropped on over
+[02:33] that and there are some clips to hold
+[02:36] that top on now if I hold the planets
+[02:39] still and turn the Sun what you'll see
+[02:42] is this drum turning there we
+[02:46] go just like a planetary gear set so now
+[02:50] I have to put it in its frame and for
+[02:51] that we need the bottom which is this
+[02:53] one with just that one short stub and it
+[02:55] matters because those are slightly
+[02:57] larger than the top there and there are
+[03:00] six pins that will only fit that way
+[03:02] around so shove the six pins
+[03:05] in then take the smaller axle this gear
+[03:08] and then glue that gear onto the axle 20
+[03:11] cm and that drops in right there this
+[03:15] then drops in that way around making
+[03:18] sure that those are facing upwards
+[03:20] because here we've got a clearance for
+[03:23] those that little Rising step there make
+[03:26] sure that we clear those and so you drop
+[03:28] those in now it'll be a bit tight
+[03:30] unless you engage the gear first and
+[03:32] then drop them in as one
+[03:35] piece there we go like that and then we
+[03:38] put the top
+[03:46] on and when we put the top on these
+[03:49] clips these pins sorry have a little
+[03:51] indentation and six clips hold those
+[03:53] pins
+[03:54] in okay and that's it finished now we're
+[03:57] going to hold here which is effectively
+[03:59] Sun remember and turn here which is
+[04:01] effectively the planets and what we'll
+[04:03] get is a speed reduction and a torque
+[04:06] increase according to IM
+[04:09] systems and there we
+[04:15] go now the good thing about this is
+[04:18] there is no backlash what that means
+[04:20] it's reversible so of course if you got
+[04:22] something with high torque but low speed
+[04:25] like for example a wind turbine you
+[04:27] would fit the wind turbine right there
+[04:30] and you would fit your generator right
+[04:32] there and you would get that concurrent
+[04:35] increase in speed so I have to warn you
+[04:38] if you want to make this these things
+[04:41] the rollers you are the very devil to
+[04:43] make because of course infiction drives
+[04:46] tolerance is uh really important and
+[04:49] tolerance isn't one of the greatest
+[04:51] strengths of Home 3D printing you might
+[04:54] have noticed that we got a little bit of
+[04:56] slip when I was turning this so I'm
+[04:58] clearly fractur of a millimeter out on
+[05:01] that and if you print it on a different
+[05:03] printer the chances are it's not going
+[05:05] to be quite right so you're probably
+[05:06] going to have to play around with those
+[05:08] a little bit in terms of their
+[05:09] Dimensions to get it work to work
+[05:12] satisfactorily if you plan on building a
+[05:14] version of this now it's also plastic so
+[05:17] the wear is going to be pretty high and
+[05:20] I think that if you want a longl lasting
+[05:21] version then chances are you're going to
+[05:24] have to go in metal equally of course
+[05:26] new Vinci the guys who uh developed the
+[05:30] bicycle Drive using a constant variable
+[05:32] transmission based on bolts actually
+[05:35] spray a um friction assist liquid
+[05:38] they're calling it I mean I I guess
+[05:40] they're just making the surface of these
+[05:42] sticky so some kind of sticky liquid in
+[05:46] there maybe honey would improve its
+[05:49] performance but the metal version the
+[05:52] production version is s to be highly
+[05:54] efficient and there's Great Hopes for
+[05:56] this and I really wanted to explore how
+[05:59] it works works and get a sense of the
+[06:00] machine itself which I think is what
+[06:03] this model actually does anyway I hope
+[06:05] you enjoyed the video thank you very
+[06:07] much for watching and please don't
+[06:09] forget to like And subscribe

@@ -1,0 +1,49 @@
+{
+  "thing_id": 6789612,
+  "name": "A Mechanical Oscillator",
+  "description": "You will find a video on this here https://youtu.be/VNV74f3E8BQ\r\n\r\nto finish this you will need https://www.thingiverse.com/thing:6787270 which is an escapement mechanism - ignore the pendulum and use the pendulum in this thing instead. You will also need 1 x M12 nut, 2 rubber bands and additional weights I used magnets as it was easy but anything will do",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "VNV74f3E8BQ",
+      "url": "https://youtu.be/VNV74f3E8BQ"
+    }
+  ],
+  "tags": [
+    "band",
+    "escapement",
+    "motor",
+    "rubber",
+    "telescope"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-10-06T19:24:50+00:00",
+  "modified": "2024-10-06T19:24:50+00:00",
+  "url": "https://www.thingiverse.com/thing:6789612",
+  "thumbnail": "https://cdn.thingiverse.com/assets/a3/e2/f3/5f/80/large_display_Screenshot_from_2024-10-06_20-17-47.png",
+  "like_count": 94,
+  "collect_count": 32,
+  "comment_count": 0,
+  "download_count": 66,
+  "files": [
+    {
+      "name": "Base.stl",
+      "size": 52884,
+      "url": "https://www.thingiverse.com/download:14806490",
+      "download_url": "https://api.thingiverse.com/v2/files/14806490/download"
+    },
+    {
+      "name": "Pendulum.stl",
+      "size": 70084,
+      "url": "https://www.thingiverse.com/download:14806491",
+      "download_url": "https://api.thingiverse.com/v2/files/14806491/download"
+    },
+    {
+      "name": "Sled.stl",
+      "size": 103284,
+      "url": "https://www.thingiverse.com/download:14806492",
+      "download_url": "https://api.thingiverse.com/v2/files/14806492/download"
+    }
+  ]
+}

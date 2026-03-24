@@ -1,0 +1,211 @@
+[00:02] [Music]
+[00:14] so hi how you doing
+[00:16] so over the last couple of days i've
+[00:19] been building
+[00:20] this thing this is a mechanical motor
+[00:22] controller for brushless dc motors
+[00:24] and it's gonna take a little bit of
+[00:27] talking about
+[00:28] it's gonna take a little bit talking
+[00:30] about because i am committing heresy
+[00:32] i am suggesting that a mechanical
+[00:35] solution is
+[00:36] better than an electronic solution in
+[00:39] some circumstances and i know
+[00:41] a lot of people are gonna disagree with
+[00:43] that and i'm expecting an
+[00:44] awful lot of kickback from that now what
+[00:47] it is obviously is a commutator it's
+[00:49] just an external commutator
+[00:51] brushless dc motors really grew up with
+[00:53] things like
+[00:54] pc fans when they're really small and
+[00:57] they pull a very low amount of energy
+[00:59] then the commutation electronically
+[01:02] makes a lot of sense it reduces the size
+[01:04] of the motor it gives the motor a longer
+[01:06] life span there's no brush wear etc etc
+[01:09] etc
+[01:10] and you find them taking over the market
+[01:13] in that field
+[01:14] for those reasons now my contention is
+[01:17] that silicon
+[01:18] works really really well for switching
+[01:21] at low power
+[01:23] when you start to put some serious power
+[01:25] in there
+[01:26] then the silicon really can't cope that
+[01:27] well and it quickly goes up in price
+[01:30] so if i want a motor controller for a
+[01:32] brushed dc motor that's tiny
+[01:34] like a fan just like a computer fan it's
+[01:36] going to cost me sense
+[01:38] to build that motor controller out of
+[01:39] silicon and that's what happened
+[01:42] now because it was so good and because
+[01:44] it was so cheap
+[01:45] these things just got bigger and bigger
+[01:47] and you started finding them things like
+[01:48] washing machines and then of course we
+[01:50] started finding them in things like
+[01:52] electric vehicles
+[01:53] so that probably draws a hundred watts
+[01:55] or so it probably says on the back
+[01:57] actually
+[01:58] very little that'll draw a couple of
+[02:00] hundred watts
+[02:01] an electric vehicle of course draws
+[02:03] kilowatts of power
+[02:05] now at level the silicon needed to cope
+[02:08] with that kind of power is stupidly
+[02:10] expensive
+[02:11] if i want to buy an electronic speed
+[02:13] controller for that couple of cents
+[02:15] for this thing i'd probably use
+[02:16] something like that two or three pounds
+[02:19] well actually that's a fiver not that
+[02:21] much and
+[02:22] that will last forever and of course
+[02:24] that brings the price down of those
+[02:25] motors
+[02:26] but the minute i start going into real
+[02:28] power then you start paying stupid money
+[02:31] the controller for that twizzy is a
+[02:33] sevcom
+[02:34] i forget which gen but i looked at the
+[02:36] prices and they start about 400 pounds
+[02:39] or so
+[02:40] they can go up to over a thousand pounds
+[02:42] for those controllers
+[02:43] and they have to do that because the
+[02:44] amount of power that's going through
+[02:46] and my contention is silicon can't
+[02:48] really cope with that power very much
+[02:50] actually i think that's one of the
+[02:52] reasons we still have things like
+[02:54] contactors relays
+[02:55] and thyrotrons because the really high
+[02:57] power stuff
+[02:58] has to go through something mechanical
+[03:00] can't go through something silicon
+[03:02] now i'm sure people will argue with that
+[03:05] but that's just a belief that i have
+[03:06] which led to this
+[03:07] because because i want a controller for
+[03:10] the twizy and i
+[03:10] really don't want to spend four to five
+[03:12] hundred pounds on that
+[03:14] so that cost me as a prototype to make
+[03:16] somewhere around about 10 pounds or so
+[03:18] now it's mechanical so it will wear out
+[03:21] but if you think about the average
+[03:22] lifespan of a car it's 10 years
+[03:24] so if this lasted two years which is the
+[03:26] average lifespan of electric motor
+[03:28] you'd need five of them so you'll be
+[03:29] spending about 50 pounds or so
+[03:31] as opposed to spending 500 pounds
+[03:34] this could easily be made to clip in
+[03:36] modules so it could just be part of your
+[03:38] service routine
+[03:39] so my contention is silicon can't handle
+[03:42] high power very well
+[03:43] so it's expensive mechanical can be a
+[03:46] good solution
+[03:47] because it's a hell of a lot cheaper and
+[03:49] really easy to repair
+[03:51] it's another thing that i really hate
+[03:53] about
+[03:54] motor controllers that's safecom in
+[03:56] order to adapt that subcon on the twizy
+[03:58] i have to have a degree in electronics
+[04:01] and a whole lot of support gear to be
+[04:02] able to do it and i don't
+[04:04] have that so i don't like the confusion
+[04:07] and the mystery surrounding this stuff i
+[04:09] like something direct that i can see
+[04:11] and i can do myself and that's exactly
+[04:14] what that is
+[04:14] a mechanical controller is something you
+[04:16] can get into something you can change
+[04:18] yourself
+[04:20] an electronic controller isn't so
+[04:22] there's lots of reasons why i'm
+[04:23] interested in doing something like this
+[04:25] and there's lots of people who won't
+[04:27] like that but
+[04:28] i like it that this is mechanical now
+[04:31] this thing actually works so let me give
+[04:32] you a demonstration of it working
+[04:34] okay so i've got my controller hooked up
+[04:36] to a drill we'd obviously use a small
+[04:38] electric motor
+[04:39] and that's the 3d sorry that's the
+[04:41] brushless dc motor
+[04:43] right there and if i put some power on
+[04:45] that and spin this
+[05:02] you can see that that motor was turning
+[05:04] in tune with that one
+[05:06] now this is a 240 volt motor so it's
+[05:08] just jiggling backwards and forwards and
+[05:10] it's also a tiny motor
+[05:11] so you might think well hey you can do a
+[05:13] little thing but can it do a big thing
+[05:15] well i've got an
+[05:19] adapted alternator here which i've
+[05:21] adapted to be
+[05:22] a um brushless motor so let's hook that
+[05:25] up
+[05:26] okay so what you need to keep your eye
+[05:28] on is that spindle there
+[05:29] now my power supply only goes up to
+[05:32] about three amps or so so don't expect
+[05:34] anything too dramatic out of it
+[05:36] but you will see that spindle turning
+[05:48] there we go i have to take that to 30
+[05:50] volts and it's
+[05:52] cutting out because of the ampage but
+[05:54] you can see the spindle turning
+[05:56] really clearly
+[06:00] okay i know this is a rough proof of
+[06:03] concept all right that's
+[06:04] all it is but what we've got here
+[06:06] obviously is a mechanical motor
+[06:08] controller
+[06:09] that controls some beefy motors where
+[06:11] the rotation speed
+[06:12] of here will link to the rotation speed
+[06:15] of the output rotor
+[06:16] so what we control when we're
+[06:18] controlling the speed is the speed of
+[06:19] this very small motor
+[06:21] and that will control the speed of the
+[06:23] very much larger motor with the
+[06:25] limitation and amp draw
+[06:26] being these brushes here these are heavy
+[06:28] duty brushes i put in here incidentally
+[06:30] and they're meant to take uh well
+[06:33] they're for a washing machine so they're
+[06:34] meant to take quite a lot of amps at 240
+[06:36] volts
+[06:37] now when i made the commutator i've used
+[06:39] a certain resin in there which is
+[06:41] really coming off with the carbon so i
+[06:43] need to remake that with a better resin
+[06:45] but that commutator works absolutely
+[06:47] beautifully
+[06:48] and the argument remember is that this
+[06:50] mechanical commutator
+[06:52] can handle the high power at a much
+[06:54] cheaper price
+[06:55] than the silicon i'm saying that silicon
+[06:58] is great for low amp signals
+[07:02] not so good for high power which is why
+[07:04] it turns out that silicon controllers
+[07:06] for motors
+[07:07] are extraordinarily expensive where we
+[07:09] can build a mechanical controller for a
+[07:11] few dollars
+[07:12] equally we can build this controller
+[07:15] anyway i hope you enjoyed the video
+[07:17] thank you very much for watching

@@ -1,0 +1,167 @@
+[00:00] [Music]
+[00:07] hi everybody so I think it was in 2012
+[00:10] when the first 3D pen came out it was by
+[00:12] a company called oodle and essentially
+[00:15] it's a hot glue gun but instead of using
+[00:18] glue you're using plastic filament
+[00:20] because you're waving that pen around in
+[00:22] the air you can pull that plastic
+[00:24] filament out to make wireframe models
+[00:27] that's models without the info the
+[00:30] plastic sets cool in the air and you can
+[00:32] build up a 3D model from basic wire
+[00:36] structures and some of these AR really
+[00:37] quite beautiful actually now this whole
+[00:40] idea caught on and it's become very
+[00:43] popular 3D pens are used today and
+[00:45] they're really quite awesome tools
+[00:48] especially for exploring for education
+[00:51] but that idea of wireframe models really
+[00:55] caught the imagination the main reason
+[00:57] is because back then 3D printing was
+[01:00] incredibly slow and everybody wanted a
+[01:02] way of speeding it up so if you were
+[01:04] only printing the wireframe of course
+[01:07] you could be something like 20 times
+[01:09] quicker get a finished model get an idea
+[01:12] what it looks like how it's going to
+[01:13] behave in the real world and make
+[01:15] changes to it very quickly or at least
+[01:18] that was the academic sense of it but of
+[01:21] course aesthetically was pretty cool
+[01:24] anyway anyway in 2014 cor now released a
+[01:27] whole load of papers showing what they'd
+[01:29] been working on with this so-called wire
+[01:32] print and it was pretty impressive stuff
+[01:35] as well but this time instead of using a
+[01:38] 3D pen it could be done on any standard
+[01:41] 3D filament printer but of course they
+[01:45] researched it lots of papers on it but
+[01:48] no access to the software it was so cool
+[01:51] that lots of people were looking at
+[01:53] doing it and in 2014 hacker produced an
+[01:57] article about this so that people would
+[01:59] be a aware of what was going on and
+[02:02] various people gave it a go to try and
+[02:04] reproduce What Cornell did because
+[02:07] Cornell of course well they were a
+[02:08] research institute and so they wanted it
+[02:11] for their own nephus purposes and
+[02:13] although they were talking about it they
+[02:14] weren't releasing the software so lots
+[02:16] of people began to do their own versions
+[02:19] of it and were really very interested in
+[02:21] it in the same way that people are very
+[02:23] interested in veroni at the moment it
+[02:26] became so popular that Cura produced
+[02:30] version of their own within the cura
+[02:32] slicer now you might notice that I've
+[02:34] got the elu cura open and the reason I'm
+[02:37] using the eligo cura is because this is
+[02:39] in fact built on top of cura
+[02:41] 4.8 and Cura changed an awful lot of
+[02:45] this in 5.2 so the current version is
+[02:47] 5.6 and 5.6 doesn't have this in it but
+[02:51] if we have a look here and click on that
+[02:54] then we'll pull down these printer
+[02:55] settings that you can see what you can
+[02:58] see right there is a little stack if you
+[03:00] click on that little stack and click on
+[03:02] Expert what you'll get is a whole load
+[03:06] of things that you didn't see before in
+[03:08] this section called experimental which
+[03:11] is really quite exciting and it is
+[03:13] experimental it's things to play with so
+[03:16] Cura put things in and out of here all
+[03:18] of the time now when wire printing was
+[03:21] incredibly important Cura had wire
+[03:24] printing in here it kind of died to
+[03:27] death it people found it a little bit
+[03:29] difficult to use mostly because they
+[03:30] weren't using it in a way that I think
+[03:33] would be a good way of using it so Cura
+[03:35] with through in 5.2 but it's still here
+[03:38] in the eligo cura version of 4.8 if we
+[03:42] click on that which is the settings and
+[03:44] we have settings visibility and we type
+[03:46] in there
+[03:48] wire what we get is wire Printing and if
+[03:51] we click on that wire Printing and close
+[03:54] wire printing there it is Will suddenly
+[03:58] become available to us as so we can
+[04:00] click on wire printing to do the wire
+[04:03] printing that other people were giving
+[04:06] in a goal now hidden and experimental
+[04:09] are things like fuzzy skin fuzzy skin is
+[04:12] thing that gives it a nice fluffy
+[04:14] texture and also we have in here
+[04:16] spiralize so this idea where you're
+[04:18] printing one layer in a continuous loop
+[04:23] to create a thin spiral will be found in
+[04:26] special modes or experimental but we're
+[04:28] looking at wire printing at the moment
+[04:30] and if we click on wire printing then
+[04:32] the model that we put in there will be
+[04:34] done using wire printing that is only a
+[04:38] framework will be printed and we'll have
+[04:40] a look at some examples in a minute but
+[04:43] when we're doing this remember it
+[04:45] extrudes only once and so if we keep
+[04:48] this at a certain Extrusion
+[04:51] quality that is at Point 2 then it's not
+[04:55] going to do a particularly good job it's
+[04:57] kind of very delicate and what you you
+[04:59] got to remember is that this is exactly
+[05:02] like the pen so the thicker the amount
+[05:05] of material we're putting out there the
+[05:07] more sturdy and robust it's going to
+[05:08] become now the nozzle on your printer is
+[05:11] likely to be a04 nozzle so if you change
+[05:15] your nozzle to8 millim or even bigger
+[05:18] 1.2 mm and print this at a different
+[05:21] setting so it's not at fine anymore then
+[05:24] you'll get a much better quality of
+[05:28] print so every change our layer height
+[05:30] to8 for example and we use A8 nozzle in
+[05:34] there then we'll get a much more robust
+[05:37] print but that's what I wanted to point
+[05:39] out to you really was that hidden in
+[05:42] Cura are some pretty amazing things but
+[05:45] those things change as time goes on and
+[05:48] so these special modes and experimental
+[05:51] modes will change depending on the
+[05:55] version of the crew the curer that
+[05:57] you're using there spiralizing
+[05:59] accidentally and we can find fuzzy skin
+[06:02] and wire print in any version prior to
+[06:05] 5.2 so the elu comes as 4.8 it's hiding
+[06:10] in experimental of eligo so wire
+[06:13] printing had a kind of hair day and Cura
+[06:16] said they've pulled it because there was
+[06:17] just not enough interest in it and not
+[06:19] worth supporting it and so it's been
+[06:22] removed however the hair day was
+[06:25] something like 10 years ago and of
+[06:27] course printing has changed very much I
+[06:29] think wire printing was done without the
+[06:32] accessibility to the kind of nozzles and
+[06:34] materials like pla plus that we've got
+[06:37] now I think it's going to be one of
+[06:40] those things where the more is better
+[06:42] think of in terms of a 3D pen and use a
+[06:45] large nozzle with a high temperature and
+[06:48] I think you'll get a much better result
+[06:50] but the main reason was to point out
+[06:52] that hiding in curer that little sort of
+[06:55] tag where you pull down to the expert
+[06:57] level you'll suddenly find you've got an
+[06:59] awful lot more control and some really
+[07:02] quite exciting and interesting things
+[07:04] like fuzzy skin and spiral eyes and in
+[07:07] earlier than 5.2 Warfare and printing so
+[07:10] I wanted to take the time to point that
+[07:12] out to you and hope that you'll have a
+[07:14] bit of an explore with it as as as I'm
+[07:17] going to do and I hope you enjoyed the
+[07:19] video thank you very much for
+[07:23] watching

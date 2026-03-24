@@ -1,0 +1,186 @@
+[00:00] [Music]
+[00:08] now I get asked quite often how do you
+[00:11] go about making a three-phase generator
+[00:13] particularly when it comes to Serpentine
+[00:15] coils and the somewhat unsatisfying
+[00:19] answer is wind three separate coils and
+[00:22] stick them in there next to each other
+[00:25] you'll have yourself a three-phase
+[00:27] generator it truly is that's simple now
+[00:30] before people go well that's not good
+[00:32] enough or a team of electrical engineers
+[00:34] decide to Lynch me let me go into that a
+[00:37] little bit more deeply when people were
+[00:40] first playing around with generators the
+[00:42] chances are it looked exactly the same
+[00:44] as every sence stration you've ever seen
+[00:47] about how generators work it would have
+[00:49] been a single core in a fixed magnetic
+[00:51] field if you measure the voltage and
+[00:54] plot it against degrees of rotation what
+[00:57] you'll get is a sun wave incidentally
+[01:00] you'll get exactly the same thing if you
+[01:02] plot it against time because of course
+[01:05] rotation and time were related to each
+[01:07] other so you can have degrees of
+[01:08] rotation or time and you will get the
+[01:12] same sine wave now when they first did
+[01:15] this of course they looked at it and
+[01:16] thought Oh hey look at that we're
+[01:17] generating electricity but there's an
+[01:20] awful lot of space there there's only
+[01:22] one coil how about I put two coils in if
+[01:26] you're rotating something you don't want
+[01:27] it to vibrate off the axis of course
+[01:29] what you do is make it nice and even so
+[01:32] rotate a call about 180° and you'll get
+[01:36] two outputs and there will be 180° apart
+[01:41] or the same time apart because they're
+[01:43] on a rotor and they've been glued and
+[01:45] fixed and turning at the same speed and
+[01:47] turning through the same degrees of
+[01:49] rotation but of course there's still
+[01:52] lots of space and it occurred to
+[01:54] somebody to put three coils in there
+[01:57] three separate coils 120° apart and that
+[02:01] is pretty much the origin of our three
+[02:03] phase system now of course you can keep
+[02:06] on doing it you can give up five coils
+[02:08] nine coils however many coils you want
+[02:10] this is why Tes referred to it as the
+[02:13] polyphase system but of course there's a
+[02:15] tradeoff the more phases you add the
+[02:18] more complicated and expensive it
+[02:20] becomes and it turns out that three
+[02:22] phases gives you the best Advantage for
+[02:25] the least cost in terms of generation
+[02:27] and that's why we have a three-phase
+[02:30] system and to make a three-phase system
+[02:33] all you really do is wrap three Cs and
+[02:36] rotate them around 120° from each other
+[02:39] and you'll have a three- generator okay
+[02:42] that's all pretty standard and gives us
+[02:44] a nice even output where the peaks of
+[02:47] output are nicely spaced apart however
+[02:50] that's a bit of an illusion it's
+[02:52] actually only that way because we made
+[02:54] it that way we built the rotor with them
+[02:57] physically at 100° separation and
+[03:00] they're all on the same rotor so they
+[03:02] turn at the same speed and so it looks
+[03:04] like the electrical degrees that were
+[03:07] mapping is identical to the physical
+[03:10] degrees that the rotor moves through and
+[03:12] that the coins are separated from each
+[03:14] other but let's say for instance we use
+[03:16] a mechanism where we have a constant
+[03:18] input and a variable output if we were
+[03:21] to map that we would find that the
+[03:24] electrical degrees were offset from the
+[03:27] physical degrees and you might think
+[03:29] that's a obtuse but like everything this
+[03:32] was experimented with the reason we like
+[03:34] them nice and even is because when we're
+[03:36] using them we tend to use them to run
+[03:38] Motors we want those Motors to run nicer
+[03:41] and evenly but you can have situations
+[03:45] where the degree of rotation and the
+[03:47] electrical degree of separation of the
+[03:50] phes aren't the same what matters here
+[03:54] is not the amount of rotation that the
+[03:57] rotors had but the time at which the
+[04:00] coil passes the magnet when the coil
+[04:03] passes the magnet at time that's what
+[04:05] defines the electrical degree of
+[04:07] rotation of the S Wave not the rotation
+[04:10] of the actual grum the rotor itself and
+[04:14] that might seem a little difficult to
+[04:16] get a hold of but actually it's a really
+[04:18] important point we somehow have confused
+[04:20] ourselves that the amount of rotation in
+[04:23] physical terms equals the amount of
+[04:26] rotation in electrical terms but they're
+[04:28] not equal to each each other when we
+[04:31] want an output what we want is
+[04:33] electrical degrees of rotation and that
+[04:35] may not be the same as physical degrees
+[04:39] of rotation okay so what does that mean
+[04:41] for us in Practical terms well here I've
+[04:44] got three identical Serpentine coils and
+[04:47] we're going to lay them up one against
+[04:49] each other which is what will create the
+[04:52] three- phase Supply one phase from each
+[04:54] coil and you can see I've bent them over
+[04:56] at the ends a little bit getting ready
+[04:58] to do it because all we actually do is
+[05:01] put them side by side like I said so
+[05:04] that one will go there and then that one
+[05:07] will go there and then that one goes
+[05:11] there into leaving them so they're side
+[05:14] by side then we take the third coil and
+[05:16] we do exactly the same
+[05:23] thing that one goes
+[05:27] there that one goes there that goes
+[05:30] there so they're side by side and as you
+[05:33] can see it's a little bit of a fight so
+[05:35] what you need is a former so something
+[05:38] like this would be a good former where
+[05:40] each leg of the coil is stuffed into one
+[05:43] of those recesses with three ressor
+[05:46] taken up by the three separate coils and
+[05:49] you're aiming for something like this
+[05:51] where they're basically just signed by
+[05:53] side and what that means is for one time
+[05:57] period that the magnet spends Crossing
+[05:59] those three legs exactly onethird of the
+[06:02] time is spent Crossing each leg so
+[06:05] although in real terms of rotation it's
+[06:07] only a few degrees the electrical output
+[06:10] will be 120° apart so if you think about
+[06:14] it we've come right back to what I said
+[06:16] at the beginning of the video if you
+[06:18] want a three Fair Serpentine coil
+[06:20] generator one three different coils and
+[06:23] stuff them in there side by side you'll
+[06:27] have a three-phase generator now I would
+[06:31] question why you bothering because as
+[06:33] you saw with me folding it up it's
+[06:35] actually a bit of a chore to do it to be
+[06:37] honest and do you really need to do that
+[06:40] I mean when you think about what the
+[06:42] advantages of three fairs are then they
+[06:45] don't really match very well with home
+[06:48] generation three thingss is better for
+[06:50] things like distribution or if you're
+[06:53] going to run a motor where you need the
+[06:56] magnetic field to be rotating it's very
+[06:59] simple to do that with three feds but at
+[07:02] home what you're probably going to do is
+[07:04] convert it all into DC and charge a
+[07:06] battery Bank you don't get a performance
+[07:09] improvement from three phase in terms of
+[07:11] generation that's not what three FAS is
+[07:13] for you get a performance enhancement in
+[07:18] transmission and using it with motors
+[07:21] it's why in homes it's all single fairs
+[07:24] there's no benefit to having three fairs
+[07:27] in a house if the main load is resistive
+[07:30] like lights and heating there's no point
+[07:33] when industry is used because Motors are
+[07:35] used a lot and the motors are cheaper if
+[07:37] they run off three phases it's cheaper
+[07:39] to distribute three phases because you
+[07:41] use four wires instead of six to
+[07:43] transmit the same amount of power and so
+[07:45] they're more proficient and efficient
+[07:49] and energy dense for transmission but in
+[07:52] terms of generation side of it then
+[07:54] there's not a lot of point to it but if
+[07:57] you want to do it that's how you do it
+[07:59] and if you want to know a bit more about
+[08:01] why I don't think there's much point I'd
+[08:02] be happy to do a video on that but I
+[08:05] hope this one was helpful I hope you
+[08:06] enjoyed the video thank you very much
+[08:08] for watching and please do remember to
+[08:10] like And subscribe

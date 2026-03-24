@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "UgzC67l6Vl4XAOayhk94AaABAg",
+    "author": "@Guytron95",
+    "author_channel_id": "UCuhla7dszqmdOIPJQRDVCRg",
+    "text": "Hmmm... roll-to-roll SILAR process? have a ribbon passing through repeating solutions and washes like film going through the sprockets in a projector.",
+    "likes": 0,
+    "published_at": "2020-12-05T05:14:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygYIVoNhsASg0LMoh4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "Yes please put a  kit together",
+    "likes": 0,
+    "published_at": "2020-08-01T07:01:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-SUm2b2MCwurUkjN4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "Interesting, rather like making a candle",
+    "likes": 0,
+    "published_at": "2020-08-01T06:53:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyZu0fGEK2XQNWxrkp4AaABAg",
+    "author": "@-robo-",
+    "author_channel_id": "UCin97LQmWaN-D0im3Ht4XOA",
+    "text": "Awesome indeed!  How about a video making use of SILAR in the making of graphene batteries, supercapacitors, etc. (Members area only?)",
+    "likes": 0,
+    "published_at": "2020-07-17T18:24:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwhpmhx19kzvaDqQcd4AaABAg",
+    "author": "@markhodgson2348",
+    "author_channel_id": "UCfGhofeCw0od4AibZLFxfnw",
+    "text": "Yes I hope you produce a kit as this subject is  interesting to me",
+    "likes": 0,
+    "published_at": "2020-05-08T06:00:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwhpmhx19kzvaDqQcd4AaABAg.98O8-zIq32k98Pt4D2HtaT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is an intersting subject for sure",
+        "likes": 1,
+        "published_at": "2020-05-08T22:20:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugymq_vVptUYJVKWJbR4AaABAg",
+    "author": "@TheKoodus",
+    "author_channel_id": "UCyZNTlV4MiYyV4CX1gw7GHw",
+    "text": "Dear Robert, firstly thank you so  much for all the content you put out. I have no background in electronics or chemistry and I still find your content fascinating! \nWhen I saw your SILAR machine running just now I thought of a possible improvement; instead of having the head going round and dunking the piece in each jar, would this be possible? To have the head fixed in the centre with a motor to rotate it and another motor to raise and lower it. Then suspended off of the bottom two booms at 90 degrees to each other (making a cross). This way you could have work on 4 pieces at the same time instead of one. \nThe head would lower (either lowering itself, or just the boom arm) and dunk the 4 pieces simultaneously for desired time. Then it would raise up so that the pieces were clear of the jars, and turn through 90 degrees so that each piece moved on to the next jar to be repeated. \nI guess the limitation is that the pieces could only be dipped for the same amount of time. If they needed to be dipped for different amounts of time, you could have the same cross-boom idea but with independent lowering motors on the ends of the boom. \nAnyway I hope you got the picture, and that it might at least provide food for thought ;) Hope you are doing OK through the current situation and thanks again for all you do!!",
+    "likes": 0,
+    "published_at": "2020-04-10T09:59:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxXVLld00pyI1nesUB4AaABAg",
+    "author": "@RWBHere",
+    "author_channel_id": "UCnwhK7Pf6xJ635mvBLTYtVA",
+    "text": "It's an interesting approach, Robert. Thank-you.\nYou could have a much simpler system to do the same thing (and without using an Arduino, replacing it with a small timer switching a thyristor), as follows:\n# Use an up/down motor, controlled by a 555 timer (or a mechanical timer motor).\n# Have four containers on a rotating turntable, which rotates a quarter turn before stopping.\n# Drop the sample into beaker 1 as you are already doing, with stop switches at each end if the vertical travel. (Or simpler, 1 microswitch operated by 2 pins on each end of a sliding arm.)\n# Pause for 30 seconds - or whatever time you choose (a 555 timer, or mechanical equivalent timing all motions in dipper arm and turntable)\n# Raise the sample.\n# Rotate the turntable gently by 90° using a motor stopped by a sensor switch (an ordinary micro switch working a relay) being operated by 4 pins on the turntable bottom\n# Literally rinse and repeat ad infinitum.\n# (Optional) Count the total number of cycles by using a spigot to click a mechanical counter once every full rotation. If you're posh, then you could use an electronic counter driven by a Hall Effect sensor, etc! If you prefer slumming it, then you could time one full cycle, and multiply by 500, to ascertain the stop time, without physically counting the number of turntable rotations.\n\nYou will need to refresh the rinse water containers on a fairly regular basis, as you are no doubt doing with your existing machine.\n\nApart from the great simplicity of electronics and simpler construction (a maximum of 3 micro switches, one vertical motion and one rotary motion), the machine will be tolerant of power interruptions, especially if you use a mains-powered rechargeable battery operated system, which could keep running for days during a prolonged power outage.",
+    "likes": 0,
+    "published_at": "2020-02-21T03:00:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyqq5dmr7QqEJCpGeh4AaABAg",
+    "author": "@StrategyYouDidntKnow",
+    "author_channel_id": "UCgBgMdoC1BTVmqaLcIVioJg",
+    "text": "Look forward to all your updates and thank you for sharing these new ideas!. I would br interested in what improvements you will make to something like two sided tape considering all composites you are working. This is interesting to me. The bioplastics making good adhesion and maybe fire resistance, the carbon black for thermal flexibility and chemical resistance and the graphoil for robust contact!",
+    "likes": 1,
+    "published_at": "2020-02-21T01:34:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyqq5dmr7QqEJCpGeh4AaABAg.95HOJpgPb4595NTofnq4f3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - got a lot to do - obviously - but as soon as I can get back to it I will",
+        "likes": 1,
+        "published_at": "2020-02-23T10:17:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwIhz-CFk_rDb9gEAB4AaABAg",
+    "author": "@my77gmc",
+    "author_channel_id": "UCaFHM1ls1bRyhrsFzHnN3PQ",
+    "text": "Just had a moment of inspiration while watching your video and had an image flash of a further simplified design that could work with multiple substrates at one time. If the device were circular with the substrate hanging from a hoop that rotates based on similar switching and is raised and lowered at the stops. Interesting idea anyway. Thanks for sharing 🤓👍",
+    "likes": 1,
+    "published_at": "2020-02-18T17:07:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxaunU_zIqGJsy--4Z4AaABAg",
+    "author": "@JasonDrennen",
+    "author_channel_id": "UCX0ZM0QBnh8BT9o_cqv6Q9A",
+    "text": "You do realize how cheap it would have been to get a little 3D printer And program a very simple G-Code to do this. I've got 2 CNC machines and 3 3D printers. I can run a test using these to see if it would be simpler for you. You should have used steppers. They're cheap. And the Board to run them is cheap.",
+    "likes": 3,
+    "published_at": "2020-02-14T13:59:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxX-je6EdgNCDL1yoB4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍 Good job sir 🙏",
+    "likes": 1,
+    "published_at": "2020-02-14T05:33:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxX-je6EdgNCDL1yoB4AaABAg.95-n927ftvi9502rhR4sKT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-14T07:59:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypS4WJ49lYZFh3Oxt4AaABAg",
+    "author": "@jamest.5001",
+    "author_channel_id": "UCFdnVwsXSGGvNDGRsB_CwWA",
+    "text": "I had to watch just to learn what a silar was!   I'm guessing it's nothing like a sailer",
+    "likes": 0,
+    "published_at": "2020-02-13T19:12:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgypS4WJ49lYZFh3Oxt4AaABAg.94zg4JFe50x9502wX1lwB8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - no nothing like out mate - it's a great technique though - either if I think about it - sailing or SILARing lol",
+        "likes": 0,
+        "published_at": "2020-02-14T08:00:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0INrHkXfDxm82qJt4AaABAg",
+    "author": "@energycrafts8206",
+    "author_channel_id": "UCZw-AcDi6d5ScxommLiH8vw",
+    "text": "Rob.  Don't let anybody distract your design plan, including me.  Nothing wrong with \"old school\" mechanical relays and switches.  I worked at Kellogg's a 100 year old company (makes breakfast cereals and waffles).  There are tremendous ranges of tech approaches to moving waffles as example on a production line to different locations.  Even today while they do use modern  PLC controllers for motor position and rate, stop, start etc., there are still many processes that rely on simple limit switches, dpdt relays and timer modules.  Switches and relays (mechanical) are often rated in the area of a million cycles before failure. \n\n I like simple and very reliable.  No need to get too complicated.  Some history.  Back before the PLCs were common, processes requiring a complex sequence of on/offs of multiple switch contacts used a rotary switch assembly.  It was simply a small gear motor rotating a very long shaft having small weight arms that were independently adjustable per a huge number of micro limit switches (Cherry) aligned along the long shaft.  So on/off or delay of some about is easy to achieve by the logic of the micro switch positions and if desired, using that logic to turn on/off the rotary motor per switch sequence to make/break continuity.  Simple logic functions of and/or/nor etc are so easy.  No software, no computer and accurate as needed.  \n\nNobody makes them anymore that I know of, but an old CNC we had used one in sequence logic controls.  When the motorized rotary switch finally died (20 years all day operating) we bought the last spare that the manufacturer had in stock.  But I think the equivalent could be easily fashioned from a mounted row of limit switches having a long threaded rod with either nuts or tiny arms on the rod arranged to strike the limit switch arms.  A lock nut holds the position of the tiny arms/nut positions.  The motor can start/stop ect. based on the limit switch tiny arms position that you \"program\".  The motor can run as simple short pulsed motions or more continuous all according to your switch \"programming\".  I only mention the pulse meaning you can control length of time between say LS1 closed and say LS2 open, and on to the next order of sequence.  In fact, some of the early CNC's did not use PLCs, rather they used what was known as a sequencer.  It was just a hardwired \"canned\" logic of all the general functions of a CNC, like home position, move x axis ect.  Of course your design won't need this much logic, it is good to know it can if desired.  For your heater, a simple thermistor or thermocouple and a temperature controller module with a digital readout is very nice and simple.  Also the controller can be set to open/close external devices per temp ramp you setup.  Done it for a conveyor belt running through a heating oven at work.  Thought this info may help in this or other projects.",
+    "likes": 1,
+    "published_at": "2020-02-12T02:50:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz0INrHkXfDxm82qJt4AaABAg.94vLsLY58kl94vqz47r9Ni",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you mate for taking the time to say that - frankly - I find it doesn't matter what you say - left or right - someone somewhere says go a different way. No idea why but I do know that those most likely to say do it differently are those who tend not to have done it themselves lol - cheers again",
+        "likes": 1,
+        "published_at": "2020-02-12T07:31:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxJy2FS43jexfhQ8mZ4AaABAg",
+    "author": "@davo4970",
+    "author_channel_id": "UCyZaFHZo_LchssCCCL1uOIw",
+    "text": "I love it when a plan comes together....i feel as thrilled as you.....Brill.,",
+    "likes": 0,
+    "published_at": "2020-02-12T01:40:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxJy2FS43jexfhQ8mZ4AaABAg.94vDrMcH8Td94vr2MCz5B1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-12T07:31:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8fRd1vAw83BxF_QV4AaABAg",
+    "author": "@ilookatnews9745",
+    "author_channel_id": "UCx_N_AAPrxKEMDWANaIW8YA",
+    "text": "arduino will eliminate the need for the relays",
+    "likes": 0,
+    "published_at": "2020-02-11T20:59:42Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "Ugw8fRd1vAw83BxF_QV4AaABAg.94uiiiigoc194vrFA_S6XH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I believe that an Arduino can run little motors mate but in general it's not a good idea as the power requirement can be high if running motors - best to get the Arduino to run a relay and use that - with diode - of course - to run the motor - that way you don't burn out the Arduino",
+        "likes": 0,
+        "published_at": "2020-02-12T07:33:24Z"
+      },
+      {
+        "id": "Ugw8fRd1vAw83BxF_QV4AaABAg.94uiiiigoc194w-LCvqhg5",
+        "author": "@ilookatnews9745",
+        "author_channel_id": "UCx_N_AAPrxKEMDWANaIW8YA",
+        "text": "@ThinkingandTinkering you run the motors of drivers. if u are using steppers, u can use cheap drivers, drv888 will run a nema23 with no problems 4A, 12v. I love your stuff, watch it as soon as it comes out. u are brilliant mate",
+        "likes": 0,
+        "published_at": "2020-02-12T08:52:52Z"
+      },
+      {
+        "id": "Ugw8fRd1vAw83BxF_QV4AaABAg.94uiiiigoc194w0pNRycbG",
+        "author": "@ilookatnews9745",
+        "author_channel_id": "UCx_N_AAPrxKEMDWANaIW8YA",
+        "text": "@ThinkingandTinkering with a vfd u can run a 2.2kw spindle from arduino",
+        "likes": 0,
+        "published_at": "2020-02-12T09:05:52Z"
+      },
+      {
+        "id": "Ugw8fRd1vAw83BxF_QV4AaABAg.94uiiiigoc194wJSOqWlAP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@ilookatnews9745 awesome mate - thanks for that and cheers",
+        "likes": 0,
+        "published_at": "2020-02-12T11:48:37Z"
+      },
+      {
+        "id": "Ugw8fRd1vAw83BxF_QV4AaABAg.94uiiiigoc194wJVcdcZLh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@ilookatnews9745 cheers mate",
+        "likes": 1,
+        "published_at": "2020-02-12T11:49:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyraTnftcyVqJCjWCp4AaABAg",
+    "author": "@devinkrike5968",
+    "author_channel_id": "UCtM_aYIFf1WGgNivj2rM4pQ",
+    "text": "Why use window motors? why not use steppers? you could get more precise movement with them.",
+    "likes": 0,
+    "published_at": "2020-02-11T17:41:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyraTnftcyVqJCjWCp4AaABAg.94uN3JFR_7c94uRJWuJd_F",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't need precise movement and dc motors are very much cheaper",
+        "likes": 0,
+        "published_at": "2020-02-11T18:18:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy19cozET-dCtNuSAF4AaABAg",
+    "author": "@peterfitzpatrick7032",
+    "author_channel_id": "UCXNG6Hfmx0NO7VlaK9X761Q",
+    "text": "If the \"dunking time\" was similar ... I was thinking of a continuous drive cord with the sample hanging off following a kinda sine wave path & returning via a straight line .... picture if u will, the tuning scale on old radios with a cord to indicate freq. ... now make the bottom of the loop travel in a sine path... NO timing at all apart from a motor speed control...🙄\nYou'd need dishes as opposed to beakers of course...\nDoes this sound crazy ?? 🤪\nI call it the Luddite SILAR Device ... (LSD) 😏\n\n😎👍☘🍺",
+    "likes": 0,
+    "published_at": "2020-02-11T17:23:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy19cozET-dCtNuSAF4AaABAg.94uL0FxHjur94uROkYfLhU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - mate I always like ideas that get to the core of stuff - worth a try maybe?",
+        "likes": 1,
+        "published_at": "2020-02-11T18:19:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRic63lwpFZ8fNrFJ4AaABAg",
+    "author": "@peterfitzpatrick7032",
+    "author_channel_id": "UCXNG6Hfmx0NO7VlaK9X761Q",
+    "text": "Boys toys ... 🙄\nOh Rob ... 😏😬\nGET BACK TO WORK !! 🤨 😂😂\n\n😎👍☘🍺",
+    "likes": 0,
+    "published_at": "2020-02-11T17:13:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxRic63lwpFZ8fNrFJ4AaABAg.94uJnXfGn5f94uRRGvBicX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - for sure",
+        "likes": 1,
+        "published_at": "2020-02-11T18:19:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxn6JtB5YGXYOtYjiB4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "yeah definitely a circular type like a lazy susan. You could have multiple rows from the center out just like valence shell. \n1 shell 2 shell 3 shell etc nature did it and so should you ;)",
+    "likes": 0,
+    "published_at": "2020-02-11T14:19:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxn6JtB5YGXYOtYjiB4AaABAg.94u-xNYPVkg94uQOUlemdw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - maybe mate",
+        "likes": 0,
+        "published_at": "2020-02-11T18:10:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUa2ZGcKR1JdC0aN14AaABAg",
+    "author": "@teamlight8567",
+    "author_channel_id": "UC_ErMuCfAHw2iQhqlDV4IBA",
+    "text": "Robert are you aware of the work done by 'Ukraine's  Institute  For Problems of Material Siences? \n\"At the  Institute  for Problems of Materials Science  in  L’vov,  Republic  of Ukraine, Academician Trefilov, a Senior Fellow of  the Russian Academy  of Sciences and  Vice-President of  Mathematics of  the Ukrainian Academy  of Sciences, headed up a  team which has produced a  solid-state,  non-chemical,  carbon-lattice  energy storage  device  called an  ‘energy  accumulator.’ \nThe  mono-molecular  sheets deposited by  this technique are  wrapped back  and forth on top of each other, more than one  million times per millimeter, and are  separated from  each other by  a  distance  of less than one  atomic diameter. At this level of  construction, the material  becomes subject to the rules of  quantum  mechanics which are  almost entirely  probabilistic. That means a whole atom  of carbon  (or  almost anything  else except an electron or  photon)  will  not fit  in the  space  which separates the lattice  sheets.   When viewed under  an electron microscope, the sheets produce  a  pattern which looks for  all  the world like  an endless field of  four-sided pyramids, connected base  to base, on a  single plane, with the  tips of the  pyramids protruding  endlessly, uniformly  upwards. When wrapped back and  forth on  top of each other, these  sheets of pure  carbon  crystal, made  of carbon  molecules shaped like  trillions of identical tiny  pyramids, all arrayed endlessly  in identical formation, are  positioned so that the  tips of the  pyramids on the  bottom sheet are matched with the  tips of the  pyramids on the  top sheets. What remains between the pyramid  tips are  open ‘spaces’  or  energy  wells.\"  \nWonder if that could be done with your SILAR system?",
+    "likes": 0,
+    "published_at": "2020-02-11T13:51:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUa2ZGcKR1JdC0aN14AaABAg.94txjSsShW594uQe7Nl6RF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is fascinating mate - and yes as I was reading to the same thought came to my mind",
+        "likes": 1,
+        "published_at": "2020-02-11T18:13:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzjWSRQmePWiPOQQCt4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "hey Rob, do you have a youtube link of a similar machine that you envisage?",
+    "likes": 1,
+    "published_at": "2020-02-11T12:58:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzjWSRQmePWiPOQQCt4AaABAg.94traxKftTV94uQsxlwDy1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "here you go mate https://www.holmarc.com/silar_controller_with_magnetic_stirrer1.php",
+        "likes": 1,
+        "published_at": "2020-02-11T18:15:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzoQoO7kobzYJQR68R4AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "You definitely need to start selling something of good profit to fund your endeavors. Maybe this is it?In the business world it has become standard business to do kickstarters as there market research. With social media as a tool to create the marketing you can quickly derive the numbers of the expectations and not to mention the feedback and accociated community that gets built. But you must do the social media aspect right.Most probably Facebook marketing is the right platform as it goes and hunts down your target audience. ?This is vital and incredibly powerful Robert! Before you know it you will  have vertical integration and be selling the Machine that builds the Machine .",
+    "likes": 0,
+    "published_at": "2020-02-11T12:38:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzoQoO7kobzYJQR68R4AaABAg.94tpOtv-NZB94uQzzY_bNs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I am laughing at the machine that builds the machine mate - at the moment that's me lol - nice points though thanks for posting",
+        "likes": 1,
+        "published_at": "2020-02-11T18:16:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwH8OwFjnNdqhI1iCx4AaABAg",
+    "author": "@Hossein_Ash",
+    "author_channel_id": "UCEyXIdpGNGDMkHY7FKt1FoA",
+    "text": "As always interesting new developments from your channel",
+    "likes": 0,
+    "published_at": "2020-02-11T11:44:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwH8OwFjnNdqhI1iCx4AaABAg.94tjCW9g5LT94uRZa3Gd-t",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T18:21:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxbepKjA47S5JoiQlF4AaABAg",
+    "author": "@williamcox1176",
+    "author_channel_id": "UCkrWS22MndbCUinwZEhKtPw",
+    "text": "If your coating plastic, you could make it into a belt and feed it through the baths on a roller system.\nAdjust the speed for dipping time, and overall time for number of dips.\nAlways thought that was a great idea for mass producing batteries.",
+    "likes": 0,
+    "published_at": "2020-02-11T11:10:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxbepKjA47S5JoiQlF4AaABAg.94tfJr3a3lV94uR_Wh7PE6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is a good idea mate",
+        "likes": 0,
+        "published_at": "2020-02-11T18:21:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw18W3cW3xKKAEl0IV4AaABAg",
+    "author": "@johnmarkgatti3324",
+    "author_channel_id": "UCrmJ9JHaRnQkUC9jM28t8iA",
+    "text": "Robert  I hate to add to your play ..ops i mean work, load ,but have you thought much about MOF's,?,  metal organic frame works , just been reading a bit from new atlass ,and journal of scientific reports  on some water harvesting experiments ,useing a them to harvest water from the air . The research is looking for the highest surface area for weight of any material known ..pricked my attention ,a football field per gram ! ,and can they be made by SILAR methods I wonder . ?. cheers MG   ps don't forget you can get solid state relays pretty cheap now ,for reliability over millions of cycles",
+    "likes": 0,
+    "published_at": "2020-02-11T09:49:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw18W3cW3xKKAEl0IV4AaABAg.94tX-b0c8QF94uReu_tk7u",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I like MOFs mate and yes it is something I will be looking at",
+        "likes": 0,
+        "published_at": "2020-02-11T18:21:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxjYWmfutcV-y_g6EB4AaABAg",
+    "author": "@timcollins1131",
+    "author_channel_id": "UC6vMfpwN7A_wv1NJl65esVw",
+    "text": "Interested in buying the kit when it is ready - Mick and I want to experiment with solar panels. BTW I started my engineering career on Relay Logic, with Friden Flexowriters. You could do it sll with relays no need for the Arduino!",
+    "likes": 0,
+    "published_at": "2020-02-11T09:35:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxjYWmfutcV-y_g6EB4AaABAg.94tVPxnqlba94uRiLI2PI-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok - I like that and you have made me rethink - damn it - lol",
+        "likes": 0,
+        "published_at": "2020-02-11T18:22:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxVqpj-qX_XZpfodoV4AaABAg",
+    "author": "@jasondevine6014",
+    "author_channel_id": "UCJKJCB6K6YXpVaUuE5tBWHQ",
+    "text": "Wow love the back to basic approach. So easy to go full cnc these days that most of us would overlook this simple approach. This well demonstrates your different approach to things. Really appreciate it.",
+    "likes": 1,
+    "published_at": "2020-02-11T09:22:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxVqpj-qX_XZpfodoV4AaABAg.94tTw5qwIVJ94uRmdxjTfN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "mate - that is awesome that you got it - not that many do - thanks for posting",
+        "likes": 0,
+        "published_at": "2020-02-11T18:22:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwGw3V3O0WpDrrZlOZ4AaABAg",
+    "author": "@DeliciousDeBlair",
+    "author_channel_id": "UC6foW9jE6xKBwxz3lUvU1_Q",
+    "text": "Good show! (~_^)-b\n\nBut I was thinking maybe you would be spraying the chemicals and washing them off [with a catch tray or three] so you could spray onto larger surfaces and maybe even use masks... ~( 'w')/",
+    "likes": 0,
+    "published_at": "2020-02-11T08:20:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGw3V3O0WpDrrZlOZ4AaABAg.94tMqAGetYw94uRp8H29PP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you could try it for sure",
+        "likes": 1,
+        "published_at": "2020-02-11T18:23:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxcSDd9vVRiTkHjSA94AaABAg",
+    "author": "@aivkara",
+    "author_channel_id": "UC-r87icx-nBdTRbzcmYINYw",
+    "text": "Another thought about using a circular arrangement... using that, you could do multiple samples simultaneously, at least four at a time.  Given how long the whole process takes for just one sample, it would be a massive time saver, and you would also have four more-or-less identical samples at the end :)",
+    "likes": 0,
+    "published_at": "2020-02-11T08:12:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxcSDd9vVRiTkHjSA94AaABAg.94tLvvOSPnU94uRrX5xFl6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate",
+        "likes": 0,
+        "published_at": "2020-02-11T18:23:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVrXnbkX96KSo7AlB4AaABAg",
+    "author": "@paterfamiles",
+    "author_channel_id": "UCt0p9KIM3vkp-T6Iu11KxHg",
+    "text": "That is grate",
+    "likes": 0,
+    "published_at": "2020-02-11T08:06:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVrXnbkX96KSo7AlB4AaABAg.94tLCByBwPe94uR2cqhGEE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T18:16:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyc32YR45JGhHXlz2p4AaABAg",
+    "author": "@AaronHarper",
+    "author_channel_id": "UC4j2iyffUmgZI6a3cM3fe0g",
+    "text": "Nicely done mate.  Not sure if Misumi UK does it, but the US chapter will kit items including the extrusions and drop ship them to addresses you select.  https://uk.misumi-ec.com/  Cheers!",
+    "likes": 0,
+    "published_at": "2020-02-11T07:41:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyc32YR45JGhHXlz2p4AaABAg.94tIPXQHoPV94uRzHyvBaj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is an awesome suggestion mate - cheers",
+        "likes": 0,
+        "published_at": "2020-02-11T18:24:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0tOW3PrZOihJhdYR4AaABAg",
+    "author": "@bernardstokes6550",
+    "author_channel_id": "UCjBfmprSrRbUN8zesWyp-tg",
+    "text": "Fascinating, this is technology I am completely unfamiliar with , have to mug up .....It struck me it might be simpler to use a rotating platform turning through 90 degrees and a diving head at one station...or more heads for more productivity would be easier. Thanks for sharing this technology. cheers",
+    "likes": 0,
+    "published_at": "2020-02-11T06:54:42Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugz0tOW3PrZOihJhdYR4AaABAg.94tD0j3Slde94tFfRJr7_9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Awesome mate - and I am going to add a heater so rotating probably isn't going to work",
+        "likes": 0,
+        "published_at": "2020-02-11T07:17:52Z"
+      },
+      {
+        "id": "Ugz0tOW3PrZOihJhdYR4AaABAg.94tD0j3Slde94tNkL2dSYb",
+        "author": "@bernardstokes6550",
+        "author_channel_id": "UCjBfmprSrRbUN8zesWyp-tg",
+        "text": "@ThinkingandTinkering aha, I had thought of that and indeed it adds difficulties, however not insurmountable..but it make your system more versatile for localized individual conditioning, heating , cooling or ultrasonic etc.",
+        "likes": 0,
+        "published_at": "2020-02-11T08:28:26Z"
+      },
+      {
+        "id": "Ugz0tOW3PrZOihJhdYR4AaABAg.94tD0j3Slde94tWnbMUqq7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@bernardstokes6550 maybe mate - cheers",
+        "likes": 0,
+        "published_at": "2020-02-11T09:47:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyp-V_whGkwzEpc_ep4AaABAg",
+    "author": "@DanielSMatthews",
+    "author_channel_id": "UC-of6HCmB7zmvWRWLTjEkCA",
+    "text": "I gather you can have more than one stage and mix layers of two different molecules to get metamaterials, or even something as simple as the conductor:insulator layers in a sequence for a capacitor? Or is that better suited to a more typical, and more complex, CNC setup with stepper motors etc?",
+    "likes": 0,
+    "published_at": "2020-02-11T03:44:07Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyp-V_whGkwzEpc_ep4AaABAg.94ssCxTtuFn94tFp2XwtoC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "something like that mate - and no - you don't need anything more complex - it's funny - when I read the comments a lot of folks just want to add complexity - I have no idea why.",
+        "likes": 1,
+        "published_at": "2020-02-11T07:19:10Z"
+      },
+      {
+        "id": "Ugyp-V_whGkwzEpc_ep4AaABAg.94ssCxTtuFn94tHpwjIivV",
+        "author": "@DanielSMatthews",
+        "author_channel_id": "UC-of6HCmB7zmvWRWLTjEkCA",
+        "text": "@ThinkingandTinkering OK so the machine is modular and you just add more modules to have a two step/material version, it just keep moving at the end of the first stage and then returns to the start at the trip switch at the end of the second. \nA-->wash-->react1-->B--wash-->react2-->(repeat) ?",
+        "likes": 0,
+        "published_at": "2020-02-11T07:36:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyG2IK8bQr5HtK_ni14AaABAg",
+    "author": "@apollorobb",
+    "author_channel_id": "UCU0pkeohhGASzdqW6QbmBNA",
+    "text": "digitalWrite(3, HIGH);\n  digitalWrite(4, LOW);\n  }\n  delayMicroseconds(75);\n\n  {\n  digitalWrite(3, HIGH);\n  digitalWrite(4, HIGH);\n  }\n  delayMicroseconds(50);\n\n  {\n  digitalWrite(3, HIGH);\n  digitalWrite(4, LOW);\n  }\n  delayMicroseconds(150); //i love Arduinos",
+    "likes": 0,
+    "published_at": "2020-02-11T03:03:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyG2IK8bQr5HtK_ni14AaABAg.94snZR2oM6V94tFsIQotpW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - my thoughts exactly lol",
+        "likes": 1,
+        "published_at": "2020-02-11T07:19:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxnO6QVcrwtGBMBg654AaABAg",
+    "author": "@TechsScience",
+    "author_channel_id": "UCnxyFV7qZffH4GhlUbIlfdw",
+    "text": "I have to see it working",
+    "likes": 0,
+    "published_at": "2020-02-11T02:42:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxnO6QVcrwtGBMBg654AaABAg.94sl7zUgLpa94tFv_zpPfG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "me too",
+        "likes": 1,
+        "published_at": "2020-02-11T07:20:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywiSIQTiT59nrzxyh4AaABAg",
+    "author": "@as1944",
+    "author_channel_id": "UCQFNsiCuz3BsGQZryXBB80g",
+    "text": "Hi Robert\n\nI have learnt a lot from your videos. \n\nJust a thought....\n\nIf the beakers are arranged in a circle, you can replace the 2 x and y motors with one motor, thus simplifying the design. \n\nRegards \nRana",
+    "likes": 0,
+    "published_at": "2020-02-11T01:20:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgywiSIQTiT59nrzxyh4AaABAg.94sbiMLRJPX94tG1cfFN68",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure - cheers",
+        "likes": 0,
+        "published_at": "2020-02-11T07:21:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkwoVg9CK5xETin5Z4AaABAg",
+    "author": "@whisky_9o5",
+    "author_channel_id": "UCQlyD1PawUWXTjZzp26x8Kg",
+    "text": "You just build everything the old school garage door openers have, with limit switches and relays....except we used a small screw drive that would go between the switches! We would adjust the nuts on screw pending how far we wanted to travel in any direction and hit the Reed switches and reverse the travel. No Arduino, no stepper motors.\n\n When I visited my dad years ago he had a slew of them waiting for me to repair!  Usually stuck relays or bad switch. \nWe're talking 30 or so.. they were in the field like 10+ years. He had modified them to gate openers for customers!  Every time I showed up on the island he went ...I got a \"small job\" for you!  I sit there for the day and repair them all... Loved them things. Fascinating stuff!",
+    "likes": 0,
+    "published_at": "2020-02-11T01:02:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzkwoVg9CK5xETin5Z4AaABAg.94s_jyNk-S094tGCcSSERl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I agree. mate - for some weird reason folks seem to want to overcomplicate everything - keep it simple - that's what I think - cheap, robust, easy to build and last forever",
+        "likes": 1,
+        "published_at": "2020-02-11T07:22:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy4uaAg14m01LxVvLF4AaABAg",
+    "author": "@DaleOwens1",
+    "author_channel_id": "UC8y98tBCS_nTLXlVwnyQ3Og",
+    "text": "so when are you installing the clean room and in house EUV? ;p",
+    "likes": 0,
+    "published_at": "2020-02-10T23:09:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy4uaAg14m01LxVvLF4AaABAg.94sNoSDo5Lp94sVptzxfZN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2020-02-11T00:19:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHsPZVEXJr63SZOtF4AaABAg",
+    "author": "@nraynaud",
+    "author_channel_id": "UCG-yCodGbp6GV9wdurZy28w",
+    "text": "What's the nicest way to put it? Your jacket matches very well the relay logic era...",
+    "likes": 0,
+    "published_at": "2020-02-10T22:29:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxHsPZVEXJr63SZOtF4AaABAg.94sJEt-cMUb94sVz5EgzZZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "what are you saying? - both are practical, easy and cheap lol",
+        "likes": 1,
+        "published_at": "2020-02-11T00:21:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzADGLoh9rKxhtL7z54AaABAg",
+    "author": "@3dmaker699",
+    "author_channel_id": "UCQm13e8FuvkOz5eWsGvhdAA",
+    "text": "Yes Rod, I may buy a kit.",
+    "likes": 1,
+    "published_at": "2020-02-10T22:28:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzADGLoh9rKxhtL7z54AaABAg.94sJ2XdXtFm94sVsmqT0te",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate thanks for letting me know",
+        "likes": 1,
+        "published_at": "2020-02-11T00:20:15Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw5S3KmJAaba7uHpbR4AaABAg",
+    "author": "@bryanchannell7715",
+    "author_channel_id": "UCgU3xoBZabg9vJqriSNydrg",
+    "text": "What did you get those diagonal blinds",
+    "likes": 0,
+    "published_at": "2020-02-10T21:55:45Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw5S3KmJAaba7uHpbR4AaABAg.94sFLPwM3gm94sW1PWBW1N",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "huh?",
+        "likes": 0,
+        "published_at": "2020-02-11T00:21:34Z"
+      },
+      {
+        "id": "Ugw5S3KmJAaba7uHpbR4AaABAg.94sFLPwM3gm94sZ3ltsjri",
+        "author": "@bryanchannell7715",
+        "author_channel_id": "UCgU3xoBZabg9vJqriSNydrg",
+        "text": "@ThinkingandTinkering on the windows the white ones",
+        "likes": 0,
+        "published_at": "2020-02-11T00:48:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyIq4hivpjC02LnNAF4AaABAg",
+    "author": "@NeoShameMan",
+    "author_channel_id": "UC6XQN6g7KF7qXiAi5GLsFlQ",
+    "text": "You got me stump for a while on this mc escher angle illusion... look carefully  the back leg is directly in the prolongation of the moving middle vertical. Good job lol",
+    "likes": 1,
+    "published_at": "2020-02-10T21:54:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyIq4hivpjC02LnNAF4AaABAg.94sFDxKMmln94sW4RNovkf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2020-02-11T00:21:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyWemK8dqGXP8w5awV4AaABAg",
+    "author": "@dandi5998",
+    "author_channel_id": "UCIm0bb3JquuFnH9nqBz41Ww",
+    "text": "Not only are you a chemist but an electromechanical engineer./ Salute///",
+    "likes": 0,
+    "published_at": "2020-02-10T21:52:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyWemK8dqGXP8w5awV4AaABAg.94sF0x__ADD94sW5sEIzNF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-11T00:22:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyc7F3DiiBbsJxyir54AaABAg",
+    "author": "@garyhoffmann1615",
+    "author_channel_id": "UCLHywy17mOx96Xn8nBsZIpQ",
+    "text": "Very easy to write a Gcode file for a 3D printer to do the same and you have a heater already. You could also have it jiggle the end around to stir it.",
+    "likes": 0,
+    "published_at": "2020-02-10T21:44:50Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugyc7F3DiiBbsJxyir54AaABAg.94sE5TLRXuY94sWGI2gpQi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you would think wouldn't you? - but funny how no one does that - and i have to ask - what do you learn by doing that? - a bit of gcode - here you pick up some really interesting stuff on machine design - limit switches are petty universal in machine control",
+        "likes": 0,
+        "published_at": "2020-02-11T00:23:36Z"
+      },
+      {
+        "id": "Ugyc7F3DiiBbsJxyir54AaABAg.94sE5TLRXuY94sbGstYZy9",
+        "author": "@garyhoffmann1615",
+        "author_channel_id": "UCLHywy17mOx96Xn8nBsZIpQ",
+        "text": "@ThinkingandTinkering I have built a few 3D printers from scratch so I have already learnt plenty about them. My thoughts are why build a machine that can only do one thing when you may already have something that can do the job just as well with a few small modifications. Done plenty of Arduino projects also, so nothing new there for me. \n\n\nI am however curious as to why you have called the terminals L & N, these are used for AC, if DC it is positive and negative/ground.",
+        "likes": 0,
+        "published_at": "2020-02-11T01:16:06Z"
+      },
+      {
+        "id": "Ugyc7F3DiiBbsJxyir54AaABAg.94sE5TLRXuY94tDuNnWHNd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@garyhoffmann1615 well that's awesome mate - why don't you do a few videos to share that info?",
+        "likes": 0,
+        "published_at": "2020-02-11T07:02:25Z"
+      },
+      {
+        "id": "Ugyc7F3DiiBbsJxyir54AaABAg.94sE5TLRXuY94tEPyuHDwd",
+        "author": "@garyhoffmann1615",
+        "author_channel_id": "UCLHywy17mOx96Xn8nBsZIpQ",
+        "text": "@ThinkingandTinkering Last printer I built was this https://www.thingiverse.com/thing:3382718 and I will butt out now as I don't want to upset what you are doing.",
+        "likes": 0,
+        "published_at": "2020-02-11T07:06:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxP4e1dbntwtBv7yep4AaABAg",
+    "author": "@JamesWilson-pq9qp",
+    "author_channel_id": "UCEn9HXDYxn7N_qdiZN5hHCw",
+    "text": "Rob you've got your hands dirty again! It's amazing how aluminum looks so bright but always darkens your hands. Many times we build these apprentices with pneumatics, but the little pistons can be expensive. Low voltage wiring can be finicky, and higher voltage deadly, might I suggest 24v and keep yourself  and the equipment grounded. Those little motors can short unexpectedly.   It will be fun to see in operate (aka Goldburg.)",
+    "likes": 1,
+    "published_at": "2020-02-10T21:35:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxP4e1dbntwtBv7yep4AaABAg.94sD4Iz0Bhw94sWPm6oI3m",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - i know mate and thanks for the advice",
+        "likes": 0,
+        "published_at": "2020-02-11T00:24:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHg3Se6TKR2HjyAEV4AaABAg",
+    "author": "@cedricproper5256",
+    "author_channel_id": "UC8X9gW6J6EoMmSxzvkQX9Sg",
+    "text": "You Sir, are a genius and a national treasure.",
+    "likes": 2,
+    "published_at": "2020-02-10T21:32:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxHg3Se6TKR2HjyAEV4AaABAg.94sCcZLX0EK94sWRxLdrNP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 1,
+        "published_at": "2020-02-11T00:25:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwYedYV7-uNn_oHPAd4AaABAg",
+    "author": "@aga5897",
+    "author_channel_id": "UCWieQLfF7fW2-MGHlCs8dRg",
+    "text": "Cool ! Old School and recycling window winder motors ! Nicely done.\nBasically it's a Universal XYZ mechanism that could apply to many many things. I need one right now !\nLooks nice and sturdy too.\nIf you want any help with the Stepper circuit design, Programming and the PCB, i'd be happy to help out for free.\nYep. You Will end up using steppers in order to sell this thing.",
+    "likes": 0,
+    "published_at": "2020-02-10T21:19:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwYedYV7-uNn_oHPAd4AaABAg.94sBE6hGMdw94sWfYNw_Dx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate and i agree it could be a work horse for lots of things not just SILAR",
+        "likes": 0,
+        "published_at": "2020-02-11T00:27:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzsZ9YAPzsG4r7wL514AaABAg",
+    "author": "@geodeaholicm4889",
+    "author_channel_id": "UCTkvyb5A7LzSK27hve5ysXw",
+    "text": "seriously cool ! you really are handy,  be cool to see it in action.",
+    "likes": 0,
+    "published_at": "2020-02-10T21:04:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzsZ9YAPzsG4r7wL514AaABAg.94s9UPcAeaZ94sWjyqXucg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i want to add heating and write the arduino code then action it is lol",
+        "likes": 0,
+        "published_at": "2020-02-11T00:27:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwJmfRGxlTJSxCsCU94AaABAg",
+    "author": "@brothernobody1775",
+    "author_channel_id": "UCd0tX-eX4UFQMfATBCmDS3Q",
+    "text": "Google Scholar...love it. makes me feel smupid which is the best place to learn from. Thank you, I apparently live under a rock lol. What about a conductive ink printer? i know it's basic but it would cut down on waste which would reduce the CF. no?",
+    "likes": 1,
+    "published_at": "2020-02-10T20:38:28Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwJmfRGxlTJSxCsCU94AaABAg.94s6VO0gX_S94sWm_iiLkM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sounds like a plan to me mate - cheers",
+        "likes": 0,
+        "published_at": "2020-02-11T00:28:09Z"
+      },
+      {
+        "id": "UgwJmfRGxlTJSxCsCU94AaABAg.94s6VO0gX_S94uI_ZffTnA",
+        "author": "@brothernobody1775",
+        "author_channel_id": "UCd0tX-eX4UFQMfATBCmDS3Q",
+        "text": "@ThinkingandTinkeringahh see I'm only science adjacent, only an artist over here but I love the channel. came for materials ideas but stayed for the content. Besides it would totally look better on a bench in your shop than a silly studio like mine lol",
+        "likes": 0,
+        "published_at": "2020-02-11T17:02:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwu0gGRewN7YUnA89h4AaABAg",
+    "author": "@excitedbox5705",
+    "author_channel_id": "UCy_mskF9E1ZM2eGlQQ231IQ",
+    "text": "Stepper motors only cost a couple dollars each. I buy 600mm ballscrew and rail kits with motor for $26 each. A belt will be a lot cheaper but they are not as sturdy and wear out. But building a 600x600mm by 100mm setup would only cost about $70 with ballscrews and slide rails. \n\n\n\nThe absolute cheapest and easiest would be to put the containers in a line and make it 2 axis with a clothesline type setup. A looped belt with an unpowered pulley on it will let you sling a rope over the pulley for up and down by winding a piece of string on a motor and horizontal movement by jogging the belt and the dipper motor at the same time. That would cost under $10 with 2 steppers ($4), 2x string (pennies), 3 plastic pulleys (10 cents), 5x scrap wood for a frame (free). dual stepper driver ($1.80), ESP32 ($2-4) and a few nails.",
+    "likes": 0,
+    "published_at": "2020-02-10T20:10:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwu0gGRewN7YUnA89h4AaABAg.94s3KmCTBws94sXc-3tp9b",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Why haven't you done a video on it then? - there are literally loads of ways to do this - perhaps you could demonstrate?",
+        "likes": 1,
+        "published_at": "2020-02-11T00:35:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwLeWKRmzU4zFFcfit4AaABAg",
+    "author": "@TheRainHarvester",
+    "author_channel_id": "UC3Gvcmvt4mdrmp0t0DQifcQ",
+    "text": "it looks like a miniture drill press is mounted on the head.",
+    "likes": 0,
+    "published_at": "2020-02-10T19:41:17Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwLeWKRmzU4zFFcfit4AaABAg.94s-xYKKP7G94s0g3Ky_PO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i scratch built it mate",
+        "likes": 0,
+        "published_at": "2020-02-10T19:47:38Z"
+      },
+      {
+        "id": "UgwLeWKRmzU4zFFcfit4AaABAg.94s-xYKKP7G94s1hg4zjZo",
+        "author": "@TheRainHarvester",
+        "author_channel_id": "UC3Gvcmvt4mdrmp0t0DQifcQ",
+        "text": "@ThinkingandTinkering , oh I know.  Humor doesn't come across sometimes...I meant there is a real drill press in the background, but in the distance that is just above the head unit that you made.\n\nI can't wait to see what you make with this!  I built a cnc machine, but I have no experience with chemistry.",
+        "likes": 0,
+        "published_at": "2020-02-10T19:56:36Z"
+      },
+      {
+        "id": "UgwLeWKRmzU4zFFcfit4AaABAg.94s-xYKKP7G94sZDAb9s4h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@TheRainHarvester lol - you are right there mate - i didn't get that - cheers and all the best",
+        "likes": 1,
+        "published_at": "2020-02-11T00:49:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzgjt186NMI0kEO0ip4AaABAg",
+    "author": "@Barskor1",
+    "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+    "text": "Conductor dielectric conductor dialectic... maybe? anyway awesome bit o kit.",
+    "likes": 1,
+    "published_at": "2020-02-10T18:53:39Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugzgjt186NMI0kEO0ip4AaABAg.94rvVevM3QA94rwUDC08Xd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "bipolar solid state?",
+        "likes": 2,
+        "published_at": "2020-02-10T19:02:11Z"
+      },
+      {
+        "id": "Ugzgjt186NMI0kEO0ip4AaABAg.94rvVevM3QA94s19xoz750",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "@ThinkingandTinkering Yes that was the wandering thought.",
+        "likes": 1,
+        "published_at": "2020-02-10T19:51:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyeUThkn8xS8MF850h4AaABAg",
+    "author": "@RASDB7",
+    "author_channel_id": "UCtz0P26x1vxwqyDJklvI56w",
+    "text": "Thanks for the video.",
+    "likes": 0,
+    "published_at": "2020-02-10T18:44:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyeUThkn8xS8MF850h4AaABAg.94ruOwHju-r94rxUK_xAso",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-10T19:10:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwv6QBRGJ_ixtRvs114AaABAg",
+    "author": "@estephebouvet2147",
+    "author_channel_id": "UCvAQJikHrdQWOFULNx8Qwxw",
+    "text": "Wouldn't it be more cost effective to make it round, so you only have 2 motors, one for dipping and one for turning ?",
+    "likes": 3,
+    "published_at": "2020-02-10T18:35:22Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugwv6QBRGJ_ixtRvs114AaABAg.94rtPk27aOg94rwh1YyuDa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes - unless you want heating in there too",
+        "likes": 0,
+        "published_at": "2020-02-10T19:04:05Z"
+      },
+      {
+        "id": "Ugwv6QBRGJ_ixtRvs114AaABAg.94rtPk27aOg94sB_whzsXz",
+        "author": "@aga5897",
+        "author_channel_id": "UCWieQLfF7fW2-MGHlCs8dRg",
+        "text": "For this specific 4x250ml beaker application, Round would definitely be better - unless the beakers were different sizes, or the number of beakers was different, or you wanted many more wash water beakers etc.",
+        "likes": 0,
+        "published_at": "2020-02-10T21:22:55Z"
+      },
+      {
+        "id": "Ugwv6QBRGJ_ixtRvs114AaABAg.94rtPk27aOg94sE3VszGKU",
+        "author": "@aga5897",
+        "author_channel_id": "UCWieQLfF7fW2-MGHlCs8dRg",
+        "text": "3D printer heated bed is a great idea !\nStirring kinda comes down to 'agitation'.\nMagnetic stirbars move about in a magnetic field, so they don't all need to be exactly centralised on a spinning magnet. 1 Motor with magnets on 1 bar, 20 beakers with stirbars, spin the motor, they all get some agitation.",
+        "likes": 0,
+        "published_at": "2020-02-10T21:44:34Z"
+      },
+      {
+        "id": "Ugwv6QBRGJ_ixtRvs114AaABAg.94rtPk27aOg94sIAYOQIl7",
+        "author": "@aga5897",
+        "author_channel_id": "UCWieQLfF7fW2-MGHlCs8dRg",
+        "text": "Rik rik Magentic stirbars just sit in the bottom of a beaker. You only need to Move them to create agitation in the water/solvent. A Magnet passing in the wrong place will not make them spin, but it will make them Move. Basically 1 motor, a big arm with several magnets that spins under the entire plate of 9 beakers will work, ish.\nI did a video recently where the stir magnet is not correctly over the spinning magnet.\nhttps://youtu.be/9vuUnbJth58?t=58\nYou can see the stirbar still causes 'agitation' despite being off-centre from the motor/magnet.",
+        "likes": 1,
+        "published_at": "2020-02-10T22:20:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxpDGJ0ySI6EaWpLn54AaABAg",
+    "author": "@ACTSRevolution",
+    "author_channel_id": "UCCyhT-9Gvyd_5IWInGs5k4g",
+    "text": "Exciting channel - often find powerful early-stage developments here!  I gotta join soon.",
+    "likes": 5,
+    "published_at": "2020-02-10T18:33:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxpDGJ0ySI6EaWpLn54AaABAg.94rtCEJ01ur94rwkoB-yVE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - it will certainly help support what we do",
+        "likes": 1,
+        "published_at": "2020-02-10T19:04:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgycB3bHDaRnudwwpFJ4AaABAg",
+    "author": "@NickGrumpy",
+    "author_channel_id": "UCmd99BKSvaFSe2gvROBuVkQ",
+    "text": "I know after all the work it's a bit redundant but wouldn't a rotating arm or the beakers on a turntable simplify the construction?",
+    "likes": 0,
+    "published_at": "2020-02-10T18:17:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgycB3bHDaRnudwwpFJ4AaABAg.94rrQBLwznH94rwtMxT9hr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "unless you want to add heating mate and that's on the cards - the rotating arm is pretty hard to implenet as it happens - but there are a hundred ways to do this and I ain't saying i know what is for best - it's just a guess on my part",
+        "likes": 0,
+        "published_at": "2020-02-10T19:05:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRyDJtVy4r2DdAeR14AaABAg",
+    "author": "@googacct",
+    "author_channel_id": "UCH76gu1mqBOtfRuWeyPzTjA",
+    "text": "Interesting project. A few other ideas for implementation  Adapt a cheap 3d printer gantry. The advantage is it could be programmed with g-code. Another option might be to use a toy robotic arm to move the sample between the different beakers.",
+    "likes": 1,
+    "published_at": "2020-02-10T18:15:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxRyDJtVy4r2DdAeR14AaABAg.94rr5F4bQnA94rx1hA6GjZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are lots of ways of doing this mate - but interestingly enough - most ideas never become reality - things seem simple until you try to make them",
+        "likes": 2,
+        "published_at": "2020-02-10T19:07:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0_BOvZuMIBFPt_3J4AaABAg",
+    "author": "@gr1f1th",
+    "author_channel_id": "UCWDcor-sub0ImumlMf_K1xA",
+    "text": "Looking forward to the science. :)  I feel that the SILAR equipment, while simplified, has extra costs when it comes to a kit.  A stepper motor could reduce this machine to a 2 axis.  I understand your thinking though and what you made is near bulletproof.",
+    "likes": 1,
+    "published_at": "2020-02-10T17:58:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy0_BOvZuMIBFPt_3J4AaABAg.94rp8CsiMcC94rxDq5zzSj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are quite right mate and a single run line where the beakers were in line would have also reduced the construction demand - but we just try and see",
+        "likes": 1,
+        "published_at": "2020-02-10T19:08:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwrKDAHG6gA3-tCxKF4AaABAg",
+    "author": "@skydivekrazy76",
+    "author_channel_id": "UCu5Bs19ZS3mMO2kZOqBVqgQ",
+    "text": "Thank you for this.",
+    "likes": 1,
+    "published_at": "2020-02-10T17:53:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwrKDAHG6gA3-tCxKF4AaABAg.94roZPaTsOV94rxVoTQJDV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2020-02-10T19:11:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw1I-TsAOtaoGM9v8J4AaABAg",
+    "author": "@cri9197",
+    "author_channel_id": "UCdWInyDec8e8wzLqIGNYZkQ",
+    "text": "I have a 3d printer, and now I have a new use for it. Thank you, as always very very interesting!",
+    "likes": 6,
+    "published_at": "2020-02-10T17:43:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw1I-TsAOtaoGM9v8J4AaABAg.94rnWkE60Mg94rxGkqVLol",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is awesome mate and agood use for sure",
+        "likes": 2,
+        "published_at": "2020-02-10T19:09:05Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwi9dNNyj_Hrpw0tzp4AaABAg",
+    "author": "@corresandberg",
+    "author_channel_id": "UCJ4btDFx2anmW0dTxAFw-cA",
+    "text": "I'm in, I want a kit :) Making home brewed solar panels got my attention. So if the price is reasonable (how long is a rope) and coming video (holding hands) on how-to-do-solar-panel, then I find it very interesting.",
+    "likes": 1,
+    "published_at": "2020-02-10T16:59:18Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugwi9dNNyj_Hrpw0tzp4AaABAg.94riQ4xnuc394rjqRMNoI9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - i'd better get on with it then lol",
+        "likes": 2,
+        "published_at": "2020-02-10T17:11:46Z"
+      },
+      {
+        "id": "Ugwi9dNNyj_Hrpw0tzp4AaABAg.94riQ4xnuc394rrk6RUl7j",
+        "author": "@ACTSRevolution",
+        "author_channel_id": "UCCyhT-9Gvyd_5IWInGs5k4g",
+        "text": "lead perovskite?  25% efficiency in cold temps, for cheap!",
+        "likes": 1,
+        "published_at": "2020-02-10T18:20:48Z"
+      },
+      {
+        "id": "Ugwi9dNNyj_Hrpw0tzp4AaABAg.94riQ4xnuc394ruM8QT6Ej",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "@ACTSRevolution Tasty!",
+        "likes": 0,
+        "published_at": "2020-02-10T18:43:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzwrP2pTUr-b5YiQCt4AaABAg",
+    "author": "@nicgreen4234",
+    "author_channel_id": "UCk4aNQwxt0tie1Ve-4MgBXw",
+    "text": "Hi Guys, I’d be interested to know why you discarded the “rotary based” machine that probably was an earlier thought when at the back of an envelope stage? Cheers and as ever thanks for the “mind food” so generously given. BTW how can an iPad user find the members area?",
+    "likes": 0,
+    "published_at": "2020-02-10T16:57:32Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgzwrP2pTUr-b5YiQCt4AaABAg.94riDCsvXIS94rjFXG_bQb",
+        "author": "@nicodesmidt4034",
+        "author_channel_id": "UC5wkA0i-dMjsXp4dunbaXcg",
+        "text": "Yes, thought that also, just a simple turntable, 4 nods in the side, single switch, motor for dipping, moter for turning and off you go????",
+        "likes": 0,
+        "published_at": "2020-02-10T17:06:35Z"
+      },
+      {
+        "id": "UgzwrP2pTUr-b5YiQCt4AaABAg.94riDCsvXIS94rkfe76ZUE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are a ton of ways to solve this problem mate - but as i want to add heating plates a rotary base would probably be a lot of trouble to implement for that - though in itself and without heating i think it would be fine",
+        "likes": 1,
+        "published_at": "2020-02-10T17:19:02Z"
+      },
+      {
+        "id": "UgzwrP2pTUr-b5YiQCt4AaABAg.94riDCsvXIS94rkilyxfse",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate unless you wanted to add heating and stirring into the mix",
+        "likes": 0,
+        "published_at": "2020-02-10T17:19:27Z"
+      },
+      {
+        "id": "UgzwrP2pTUr-b5YiQCt4AaABAg.94riDCsvXIS94rkpXIKAmu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh and I am afraid  don't know mate - the members is still beta for youtube and it doesn't show in some platforms - no idea why and i am afraid i don't know what to do about it - sorry",
+        "likes": 0,
+        "published_at": "2020-02-10T17:20:23Z"
+      },
+      {
+        "id": "UgzwrP2pTUr-b5YiQCt4AaABAg.94riDCsvXIS94ryP9M8jwm",
+        "author": "@amp9438",
+        "author_channel_id": "UChfx_MNxtpqnD9VRL8266eQ",
+        "text": "The members area only works on certain devices at the moment. I can see it on my Windows laptop and Android phone but not on the Android tablet. Probably same for Apple.",
+        "likes": 0,
+        "published_at": "2020-02-10T19:18:58Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy_wF41uCNeonU7_Ud4AaABAg",
+    "author": "@ShilohSedlak",
+    "author_channel_id": "UC9aGjaGagH-GTHsnCnWXrug",
+    "text": "Very nice!",
+    "likes": 2,
+    "published_at": "2020-02-10T16:53:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy_wF41uCNeonU7_Ud4AaABAg.94rhjrMW5dc94rhzptpZBS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2020-02-10T16:55:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyvxZWO_dO2dZ6h4yh4AaABAg",
+    "author": "@nattsurfaren",
+    "author_channel_id": "UChJHib4NslJnxESD9KXXUoQ",
+    "text": "I'm a bit scared to know more about SILAR. It reminds me of Sylar the guy in Heroes that eat peoples brain to steal their power. Are you sure it is safe to do this?",
+    "likes": 5,
+    "published_at": "2020-02-10T16:48:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyvxZWO_dO2dZ6h4yh4AaABAg.94rh7hj_HNK94ri0SaeU-y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "never heard of it lol",
+        "likes": 0,
+        "published_at": "2020-02-10T16:55:48Z"
+      },
+      {
+        "id": "UgyvxZWO_dO2dZ6h4yh4AaABAg.94rh7hj_HNK94sEjw1tE05",
+        "author": "@cayrex",
+        "author_channel_id": "UC6aKCXyrErIPKZNFEnYq0hw",
+        "text": "Please turn off your computer, because is to much internet for you today, my friend, lol",
+        "likes": 2,
+        "published_at": "2020-02-10T21:50:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7XJPdHSxJExyzi-p4AaABAg",
+    "author": "@Margarinetaylorgrease",
+    "author_channel_id": "UCQPxEHYlJEG1-GKI66J0m6w",
+    "text": "I used to maintain a 24track tape machine that used basically the same method to move the 2 pinch rollers into and out of place.\n\nIt is important to use a diode across the relay coil when solid state control is used to remove the back EMF problems.\nBack EMF will destroy your transistor or Arduino output as the collapsing magnetic field can cause very high voltages.\n\nI found out the hard way",
+    "likes": 0,
+    "published_at": "2020-02-10T16:29:25Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugx7XJPdHSxJExyzi-p4AaABAg.94rf-J8ojSP94rfEjaY6p2",
+        "author": "@Margarinetaylorgrease",
+        "author_channel_id": "UCQPxEHYlJEG1-GKI66J0m6w",
+        "text": "Rob, I'm sure you know all this but I thought I'd better say anyway as many don't. I also had a vision of some young, past me getting very frustrated.",
+        "likes": 0,
+        "published_at": "2020-02-10T16:31:32Z"
+      },
+      {
+        "id": "Ugx7XJPdHSxJExyzi-p4AaABAg.94rf-J8ojSP94rgp9M7f-v",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I won't be driving the relays directly from the arduino mate - i plan to use a relay shield to drive the DPDT relays - the shield should have the diodes on it - but nice point cheers",
+        "likes": 1,
+        "published_at": "2020-02-10T16:45:22Z"
+      },
+      {
+        "id": "Ugx7XJPdHSxJExyzi-p4AaABAg.94rf-J8ojSP94rgscP1Gsb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - it's no worries mate - i thought it was a really good point to make and appreciated it",
+        "likes": 1,
+        "published_at": "2020-02-10T16:45:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxRuRQWJ5gD10D1Ykp4AaABAg",
+    "author": "@Killianwsh",
+    "author_channel_id": "UCviu_EAdb7cnqrFA7XyRzzw",
+    "text": "Thanks Rob, Never heard of this tech. Sounds very interesting. Very much looking fwd. to learning more about it!",
+    "likes": 1,
+    "published_at": "2020-02-10T16:11:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxRuRQWJ5gD10D1Ykp4AaABAg.94rd-SpvU5R94rgvUzyx66",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is pretty awesome mate",
+        "likes": 0,
+        "published_at": "2020-02-10T16:46:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwjXIQW5ph8YlgfAmN4AaABAg",
+    "author": "@tacrom",
+    "author_channel_id": "UCq4E3tWaORimQD2Hm05ae4w",
+    "text": "Just a thought, have the Z axis rotate on a base plate, you containers are then placed around the rotating Z, only two motors and shitloads less extrusion required and save workbench area required.\n\n\nNice job though :)",
+    "likes": 1,
+    "published_at": "2020-02-10T16:00:48Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwjXIQW5ph8YlgfAmN4AaABAg.94rbicaK5yK94rhNQUKDMC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are a ton of ways to solve this problem mate - as pr i am trying what i think is the simplest possible - having 3 stages all driven the same way seems less complex than a rotating arm where a stepper would be needed - sure you can calculate position but you would never be sure unless you tracked it or home point or start end position - all of that need some sensor in play - maybe an opto band or wheel or hall sensor - what ever it seems to add complication which i am not sure is necessary when you think all we want is four positions and that can be held as a two by teo matrix read from switch position - that way the switches do two jobs and no further construction is needed - not say what you are saying is not good mate - just going through my reasoning",
+        "likes": 2,
+        "published_at": "2020-02-10T16:50:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyldainIN16Bd57ksx4AaABAg",
+    "author": "@GmanBB",
+    "author_channel_id": "UCsFCaAV54JPWmH4MBU3kW9Q",
+    "text": "Amazing work, Rob. You can post it to https://openbuilds.com",
+    "likes": 0,
+    "published_at": "2020-02-10T15:57:13Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyldainIN16Bd57ksx4AaABAg.94rbJRINRGG94ri4QsQzHv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is awesome mate - i am probably going to do a memebers vid with the programming included",
+        "likes": 0,
+        "published_at": "2020-02-10T16:56:20Z"
+      },
+      {
+        "id": "UgyldainIN16Bd57ksx4AaABAg.94rbJRINRGG94rqFpsMzCR",
+        "author": "@GmanBB",
+        "author_channel_id": "UCsFCaAV54JPWmH4MBU3kW9Q",
+        "text": "Robert Murray-Smith Robert, sure it will help members. I do automation with ESP32 boards loaded with micropython. Much easier program relays and pauses.",
+        "likes": 0,
+        "published_at": "2020-02-10T18:07:48Z"
+      },
+      {
+        "id": "UgyldainIN16Bd57ksx4AaABAg.94rbJRINRGG94rwC3tZPAg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@GmanBB cheers mate and interesting",
+        "likes": 0,
+        "published_at": "2020-02-10T18:59:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxfPA2h-9m4t1hlZtJ4AaABAg",
+    "author": "@reverendissimo82",
+    "author_channel_id": "UCKqx9YbMcSUrBIIEJf5eC-Q",
+    "text": "why don't you use a cheap cnc controller based on an arduino? i think is going to be cheaper and more precise than the relays",
+    "likes": 0,
+    "published_at": "2020-02-10T15:53:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxfPA2h-9m4t1hlZtJ4AaABAg.94rav_ATym094rhVPKdqnP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you don't need precise mate and the motors and relays were really inexpensive - you can buy all four of them for the price of one NEMA",
+        "likes": 3,
+        "published_at": "2020-02-10T16:51:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw3voLvsfvTVWftivZ4AaABAg",
+    "author": "@JayMayKnow",
+    "author_channel_id": "UC2HJW6XclGzO1Ibb84_TsUA",
+    "text": "The double pole double throw switch is a great solution!\nEasy to fine tune, great job!",
+    "likes": 2,
+    "published_at": "2020-02-10T15:50:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw3voLvsfvTVWftivZ4AaABAg.94raa7RL2uJ94rhYlFssIm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you could use it for lots of things mate",
+        "likes": 1,
+        "published_at": "2020-02-10T16:51:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwiFuxJDdW1ClwDM4F4AaABAg",
+    "author": "@ancapftw9113",
+    "author_channel_id": "UC1ChjN_EcJ--pcU9m1DnMYw",
+    "text": "I'll have to look into this.  I was thinking of trying to build spme sort of solar power panel at home, but i've pretty much settled on solar thermal at this point, as it's much easier to make.  Maybe this could make standard solar cells possible.",
+    "likes": 1,
+    "published_at": "2020-02-10T15:41:05Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "UgwiFuxJDdW1ClwDM4F4AaABAg.94r_TH3M2On94rhbJeujWA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you could indeed make your own solar cell from this mate",
+        "likes": 2,
+        "published_at": "2020-02-10T16:52:13Z"
+      },
+      {
+        "id": "UgwiFuxJDdW1ClwDM4F4AaABAg.94r_TH3M2On94rsWjM9S4n",
+        "author": "@ACTSRevolution",
+        "author_channel_id": "UCCyhT-9Gvyd_5IWInGs5k4g",
+        "text": "i keep saying there are amazing lead perovskite how-to's on YT.  >20% electrical efficiency for pennies.",
+        "likes": 1,
+        "published_at": "2020-02-10T18:27:35Z"
+      },
+      {
+        "id": "UgwiFuxJDdW1ClwDM4F4AaABAg.94r_TH3M2On94ruRWymBBh",
+        "author": "@ancapftw9113",
+        "author_channel_id": "UC1ChjN_EcJ--pcU9m1DnMYw",
+        "text": "@ACTSRevolution I'll have to look into this.",
+        "likes": 0,
+        "published_at": "2020-02-10T18:44:21Z"
+      },
+      {
+        "id": "UgwiFuxJDdW1ClwDM4F4AaABAg.94r_TH3M2On94rusmtPIrF",
+        "author": "@Barskor1",
+        "author_channel_id": "UCjTIlxN5bp7D7rnNZRB1d7g",
+        "text": "AncapFTW your solar thermal was it to run a Stirling engine electrical generator or something like a Peltier device? Perhaps just home and water heating?",
+        "likes": 0,
+        "published_at": "2020-02-10T18:48:12Z"
+      },
+      {
+        "id": "UgwiFuxJDdW1ClwDM4F4AaABAg.94r_TH3M2On94rwKPx0dux",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@ACTSRevolution nice post mate thanks for the heads up",
+        "likes": 1,
+        "published_at": "2020-02-10T19:00:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFHPx6VHp4P_XMRkd4AaABAg",
+    "author": "@cayrex",
+    "author_channel_id": "UC6aKCXyrErIPKZNFEnYq0hw",
+    "text": "Robert,... you can start to make them and start selling SILAR Machines",
+    "likes": 9,
+    "published_at": "2020-02-10T15:34:06Z",
+    "reply_count": 12,
+    "replies": [
+      {
+        "id": "UgyFHPx6VHp4P_XMRkd4AaABAg.94rZf7qeDf694rhlcx5udh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "maybe i should - have you seen the prices of these things if you buy them lol",
+        "likes": 2,
+        "published_at": "2020-02-10T16:53:38Z"
+      },
+      {
+        "id": "UgyFHPx6VHp4P_XMRkd4AaABAg.94rZf7qeDf694rixfh96eR",
+        "author": "@cayrex",
+        "author_channel_id": "UC6aKCXyrErIPKZNFEnYq0hw",
+        "text": "@ThinkingandTinkering yes I know,... some time ago I wanted to buy one, but was tooooooo expensive!",
+        "likes": 2,
+        "published_at": "2020-02-10T17:04:01Z"
+      },
+      {
+        "id": "UgyFHPx6VHp4P_XMRkd4AaABAg.94rZf7qeDf694rjOWBNyal",
+        "author": "@cayrex",
+        "author_channel_id": "UC6aKCXyrErIPKZNFEnYq0hw",
+        "text": "@ThinkingandTinkering I think that would be good business if you can make and sell the machines or you just  make like a kit, wich can everyone make by yourself",
+        "likes": 2,
+        "published_at": "2020-02-10T17:07:49Z"
+      },
+      {
+        "id": "UgyFHPx6VHp4P_XMRkd4AaABAg.94rZf7qeDf694rltFVWlN1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@cayrex I am thinking about it seriously mate",
+        "likes": 10,
+        "published_at": "2020-02-10T17:29:37Z"
+      },
+      {
+        "id": "UgyFHPx6VHp4P_XMRkd4AaABAg.94rZf7qeDf694sBuNZKD_h",
+        "author": "@williamcox1176",
+        "author_channel_id": "UCkrWS22MndbCUinwZEhKtPw",
+        "text": "Bloody hell Rob, 3 days, why didn't you just buy a 3d printer and modify it, then a few lines of gcode, jobs done.\nOr am I missing something.",
+        "likes": 3,
+        "published_at": "2020-02-10T21:25:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy5zlt22mOClwGdNUh4AaABAg",
+    "author": "@ichbinderroboter",
+    "author_channel_id": "UCTHY-6CUWVjdrqcbm6xGA2A",
+    "text": "Second",
+    "likes": 0,
+    "published_at": "2020-02-10T15:28:02Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy5zlt22mOClwGdNUh4AaABAg.94rYyizclWV94rhmnIB-kY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cool lol",
+        "likes": 0,
+        "published_at": "2020-02-10T16:53:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwG90pAa0NFu_9gflt4AaABAg",
+    "author": "@ancapftw9113",
+    "author_channel_id": "UC1ChjN_EcJ--pcU9m1DnMYw",
+    "text": "First",
+    "likes": 0,
+    "published_at": "2020-02-10T15:27:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwG90pAa0NFu_9gflt4AaABAg.94rYwUt9DP094rhoVWZyud",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "just awesome lol",
+        "likes": 0,
+        "published_at": "2020-02-10T16:54:01Z"
+      }
+    ]
+  }
+]

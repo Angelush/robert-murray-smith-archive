@@ -1,0 +1,206 @@
+[00:06] so
+[00:06] we're thinking about the resistance of
+[00:08] something and when you think about the
+[00:09] resistance of something
+[00:10] normally you get out your own meter you
+[00:12] move the resistance and say hey
+[00:14] that's the resistance of it but what
+[00:15] you're actually talking about there are
+[00:17] two things you're talking about the
+[00:18] geometry of the thing that you're
+[00:20] measuring
+[00:20] plus the inherent property of the
+[00:22] material called resistivity
+[00:24] now resistivity doesn't change for a
+[00:26] material it's the specific resistance of
+[00:28] the material
+[00:29] it's the resistance that material puts
+[00:31] up to the flow of electrons
+[00:34] now that is a property what changes
+[00:37] its geometry so if i take a piece of
+[00:39] wire
+[00:41] x length and across certain
+[00:42] cross-sectional area and i use my own
+[00:44] meter measure the resistance i'll get a
+[00:46] figure
+[00:46] if i double that length of wire i'll get
+[00:49] a bigger figure because the geometry of
+[00:51] the wire is affecting the resistance
+[00:52] reading that we make on the
+[00:54] ohmmeter now when you think about that a
+[00:57] little bit and we have this inequality
+[00:59] we call resistivity which is denoted by
+[01:01] rho then the resistance is equal to
+[01:05] the resistivity of the material times
+[01:07] the length of material divided by the
+[01:09] cross-sectional area of the material
+[01:11] that is if we have a block of material
+[01:13] like this
+[01:17] with a length l and a cross sectional
+[01:20] area of a
+[01:21] and we measure the resistance across
+[01:24] that material like that then we'll get a
+[01:26] resistance measurement
+[01:28] for it and that resistance measurement
+[01:30] is clearly dependent on length and area
+[01:32] and there's a resistivity of whatever
+[01:33] it's made of copper graphite
+[01:35] whatever and if i change these factors
+[01:38] so i increase the surface area
+[01:40] because i'm increasing this i obviously
+[01:42] reduce the resistivity if i increase the
+[01:44] length but then
+[01:45] i increase the resistivity now i'm doing
+[01:48] a lot of work obviously
+[01:50] in conductive thinks
+[01:54] when you paint a conductive ink then
+[01:56] thoughts about the cross-sectional area
+[01:58] of the material become a bit of a
+[02:00] nonsense because notionally they have a
+[02:02] nominal thickness and that thickness
+[02:03] obviously is in micrometers to nanometer
+[02:06] thicknesses
+[02:06] so this cross-sectional area idea
+[02:09] actually doesn't become useful anymore
+[02:11] in terms of measuring it
+[02:12] so you look at it slightly differently
+[02:14] now if we think about that
+[02:18] thin film then it has some thickness
+[02:22] that we call t and then it has a width
+[02:25] and obviously a length now the
+[02:27] cross-sectional area
+[02:29] is wt
+[02:32] the width times the thickness of the
+[02:34] material and we rearrange that little
+[02:36] bit
+[02:37] to be rho over thickness
+[02:40] times length over width then we get a
+[02:44] slightly different expression of it
+[02:45] but if we let that become a new figure
+[02:48] which we call
+[02:49] rs which is the sheet resistance of the
+[02:51] material
+[02:52] then instead of measuring the resistance
+[02:54] like we did with the bulk material what
+[02:56] we do is measure the sheet resistance
+[02:58] because the sheet resistance is actually
+[03:00] dependent on the
+[03:01] length times the width and this is a
+[03:04] much more significant figure
+[03:06] for measuring um thin films and
+[03:09] conductivities of things like
+[03:12] painted surfaces conductive inks that
+[03:15] kind of thing
+[03:16] and in fact the sheet resistance is what
+[03:19] all the ink manufacturers quote
+[03:21] when they caught on the conductivity of
+[03:23] their particular ink
+[03:24] so what we're measuring is sheet
+[03:26] resistance
+[03:27] when we measure the resistance from a
+[03:30] point to point
+[03:31] on a thin film now obviously you can
+[03:34] measure point-to-point contacts
+[03:38] across a bulk material by attaching two
+[03:40] plates sticking your
+[03:42] thing on the end of it and then
+[03:43] measuring resistance or you can
+[03:44] approximate it just by having two point
+[03:46] contacts two needles that you stick in
+[03:48] your own meter either end
+[03:50] and that approximates it but with a
+[03:52] sheet resistance you can't really do
+[03:54] that to get an accurate measurement
+[03:56] if you're an accurate measurement then
+[03:57] you have to use something called the
+[03:58] four probe
+[03:59] method the four probe method actually
+[04:02] measures
+[04:02] the sheet resistance you can actually
+[04:05] measure the sheet and
+[04:06] sheet resistance accurately you have the
+[04:08] width times the length
+[04:09] you can calculate the thickness of the
+[04:10] film from that if you know the
+[04:12] resistivity of the material you're
+[04:13] pending with
+[04:15] in order to measure a four-point probe
+[04:18] what you need
+[04:19] is a specific geometric shape
+[04:22] and it's actually like that actually and
+[04:24] this is also allowable
+[04:29] where you measure at these four points
+[04:31] now there is a practical method of doing
+[04:33] it
+[04:33] and i have a little
+[04:36] resistance measuring device for
+[04:38] measuring the sheet resistance
+[04:40] so remember we're measuring sheet
+[04:42] resistance not resistance
+[04:44] so one thing i didn't make explicitly
+[04:46] clear that we're thinking about
+[04:48] resistance as being equal to the
+[04:50] resistivity times the length divided by
+[04:52] the area
+[04:53] we let area for a thin sheet equal
+[04:57] wt which is the width times the
+[05:00] thickness
+[05:01] then obviously we get this is equal to
+[05:04] rho over t times
+[05:08] l over w and this
+[05:11] we let equal sheet resistance
+[05:15] so we get sheet resistance length over
+[05:19] width now if we make this a square so we
+[05:22] make
+[05:22] length equal to width then this will
+[05:25] cancel out to become one
+[05:26] so what we end up with is resistance is
+[05:28] equal to
+[05:29] sheet resistance so it's exam
+[05:32] measuring exactly the same thing but we
+[05:36] call sheet resistance as the resistance
+[05:38] as ohms per square because it's only
+[05:40] true
+[05:41] as long as l and w are equal to each
+[05:44] other
+[05:46] so when measuring the resistance of a
+[05:48] painted film that is a thin
+[05:49] film a film of conductive ink what we
+[05:52] measure is
+[05:53] the ohms per square there's no actual um
+[05:56] centimeter meter measurement we don't
+[05:58] talk about ohms per square centimeter
+[06:00] ohms per square meter
+[06:01] it's almost per square because it
+[06:03] doesn't matter how big the square is the
+[06:05] sheet resistance will be the same
+[06:07] so if you measure across a square of one
+[06:09] millimeter or one
+[06:10] 100 meters it will actually be the same
+[06:15] now the fairly standard way of doing
+[06:17] that is to construct yourself
+[06:19] a square and that's what we've got there
+[06:21] here
+[06:22] the copper contacts are held apart by a
+[06:24] plastic block
+[06:25] the same distance as they are in length
+[06:27] so if i press that onto my
+[06:29] sheet material it will measure directly
+[06:32] the ohms per square
+[06:34] resistance sheet resistance measurement
+[06:36] of it
+[06:37] now you use the ohms per square
+[06:40] resistance measurement because it makes
+[06:42] more
+[06:42] sense in terms of sheets so if you want
+[06:45] to work out what the resistance would be
+[06:47] of a painted line
+[06:50] 10 centimeters long by one centimeter
+[06:52] thick
+[06:53] then it will be 10 times the ohms per
+[06:56] square measurement because you're making
+[06:57] up ten squares from one centimeter by
+[06:59] one centimeter
+[07:00] so the overall resistance would be 10
+[07:02] times the ohms per square
+[07:04] and that's how you work it out

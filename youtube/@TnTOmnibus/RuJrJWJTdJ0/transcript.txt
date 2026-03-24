@@ -1,0 +1,745 @@
+[00:00] [Music]
+[00:07] hi so I thought I'd talk a little bit
+[00:09] about charge controllers actually that
+[00:12] charge controllers seem to be immensely
+[00:15] complicated and I guess they are when
+[00:17] you sort of get that black box and have
+[00:19] a look at it and you start pondering
+[00:20] what you can do with it it's quite
+[00:22] complicated and it's like a computer you
+[00:24] think about a computer it's a
+[00:26] complicated piece of equipment but other
+[00:28] very basics of of course it's actually
+[00:31] really simple all a computer is doing is
+[00:33] turning a switch off and on there's just
+[00:35] a lot of them and because there's so
+[00:37] many of them it gets quite complicated
+[00:39] to look at it from the outside in now it
+[00:42] helps me when I'm trying to understand
+[00:45] something to make comparisons between
+[00:47] things to give me links between things
+[00:50] so that I can see where they came from
+[00:52] and also to have a bit of a look at the
+[00:53] history of things so I can see how it
+[00:55] developed when I look at the thing in
+[00:58] that way then it helps me understand
+[01:00] understand the mysterious black box in
+[01:02] front of me that really is a a huge book
+[01:05] to read through to even learn how to
+[01:07] turn it on so that's what I thought I'd
+[01:09] do I thought I'd have a look at some of
+[01:10] the basics of charge controllers where
+[01:13] they began and how they've developed and
+[01:15] then come up to charge controllers that
+[01:18] we're currently looking at so I've got a
+[01:20] a couple of bits of equipment here and
+[01:21] we're going to have a closeup of it so
+[01:23] what I've got here is a solenoid it's a
+[01:25] coil of wire I'm going to put a current
+[01:26] down that creates a magnetic field and
+[01:28] in the center there is a Rod that'll get
+[01:30] magnetized and it' be pulled into the
+[01:32] center of the solenoid but this one I've
+[01:34] attached to a rubber band so it is a
+[01:36] solenoid on a spring and if I put some
+[01:38] power in there it jumps forward take the
+[01:41] power off it Springs
+[01:43] back now that might not seem
+[01:46] mindboggling to you it is to me because
+[01:50] that is the basics of the very first
+[01:53] charge controllers they're
+[01:54] electromechanical charge controllers now
+[01:57] this one it just the solenoid moves
+[01:59] backwards and forwards Ward but if I put
+[02:00] a switch here and attach the power to
+[02:03] the switch when the solenoid moves
+[02:06] forward it will turn the power off as
+[02:09] the power goes off it Springs back which
+[02:11] turns the power back on so if you like
+[02:14] that's a way of sensing the power input
+[02:18] and making sure that the spring setting
+[02:21] won't go further than a previous voltage
+[02:24] now that's exactly what I've set up
+[02:28] here
+[02:33] so all we've got
+[02:35] here is a solenoid it's in a different
+[02:37] Arrangement there's a circular coil here
+[02:39] the solenoid is a straight bar there's a
+[02:41] couple of magnets so when I turn the
+[02:43] power on it will be pulled towards the
+[02:46] magnet and here I've got a couple of
+[02:48] bits of metal that intersect the power
+[02:51] so as that pulls across the power will
+[02:53] get turned off and then it'll go back it
+[02:56] will self oscillate it will self
+[02:58] oscillate at a certain right if I just
+[03:01] left it by itself then it would Arc and
+[03:03] go through a process called hunting so
+[03:06] what you do is across the coil put a
+[03:08] capacitor the capacitor gets charged it
+[03:11] feeds it when it breaks the capacitor
+[03:15] needs to discharge a little bit so it
+[03:17] can stay broken and then it will come
+[03:19] back so it prevents that hunting that we
+[03:21] saw before so let me set that up okay
+[03:24] it's connected to the power supply and
+[03:26] if I turn the power
+[03:28] up we can see it flickering backwards
+[03:31] and forwards shutting off now that's set
+[03:33] at 5 volts so it doesn't matter now what
+[03:36] voltage I put in there but 5 volts that
+[03:39] will turn off so whatever the input is
+[03:42] the output is going to always be 5 volts
+[03:46] now I can change that by changing spring
+[03:48] tension changing the position of the
+[03:49] magnets all that sort of stuff but 5
+[03:52] volts is all that the output will be
+[03:55] from that particular electromechanical
+[03:58] device
+[04:00] so I actually think that's simple but
+[04:03] really cool because that stupid little
+[04:05] electromechanical device there the coil
+[04:07] and the solenoid what it does is it
+[04:10] regulates the voltage doesn't matter
+[04:12] what voltage I put in there the only
+[04:14] voltage I can get out is set by the
+[04:16] spring tension and in this one it's 5
+[04:17] volts so that voltage will now never go
+[04:21] above 5 volts and in fact this kind of
+[04:24] voltage regulator here is what was used
+[04:28] for a long time time prior to creation
+[04:32] of solid state it was this kind of stuff
+[04:35] now these things actually still have
+[04:37] used today for very high voltages of
+[04:39] course they get more complicated and of
+[04:41] course we could use this particular
+[04:42] version actually because we have a
+[04:44] sweeping arm we could sweep a series of
+[04:47] contacts and we could get different
+[04:49] voltages out of it and that's exactly
+[04:51] what happens when you do this but have a
+[04:53] rotary arm so you can get a rotation of
+[04:55] Step voltages using something like that
+[04:58] so that not only is a voltage regulator
+[05:01] it can be a variable voltage regulator
+[05:04] just as easily now for me that's
+[05:06] actually very cool now why go about
+[05:09] voltage regulation because like I say
+[05:11] voltage regulation for me is the very
+[05:13] basics of what charge controllers are
+[05:15] all about charge controllers are all
+[05:17] about making sure that you don't put too
+[05:20] much voltage into your battery now this
+[05:22] is set up 5 volts because of the spring
+[05:24] tension let's say I wanted to charge a
+[05:26] lead acid battery on need to 14 volts
+[05:29] well change the spring tension so that
+[05:31] it had 14 volts and all of a sudden I've
+[05:34] got a battery charger with charge
+[05:36] control now not suggesting people make
+[05:38] something like this what I'm saying is
+[05:40] that this is doing a physical job in a
+[05:44] way that we can see the switch if you
+[05:47] like on the end of here is being turned
+[05:50] off this if you like is sensing the
+[05:53] voltage and making sure that the voltage
+[05:55] is held at a constant so this performs
+[05:58] those functions of of sensing and
+[06:01] turning off the voltage Supply that a
+[06:03] simple battery charger actually does
+[06:05] only that simple battery charger does it
+[06:07] with some electronics and this one is
+[06:09] just doing it mechanically but it's
+[06:11] doing exactly the same thing now of
+[06:14] course any voltage above that is
+[06:17] basically just thrown away what will
+[06:19] happen is the coil will get hot if we
+[06:22] don't want that coil to get hot we have
+[06:23] to do something else with it so I've put
+[06:26] a capacitor in series to prevent the
+[06:28] hunting if if I put a light bulb in then
+[06:31] all the extra energy would go into the
+[06:33] light bulb instead of heating this coil
+[06:36] if I put a large resistor in all of the
+[06:38] extra energy would go into heating the
+[06:40] resistor rather than Heating and
+[06:41] breaking this little mechanical device
+[06:44] and you will find charge controllers
+[06:46] that do exactly that they're called
+[06:48] dumpl loads they're a bit simpler but
+[06:51] they're exactly the same thing done
+[06:54] electronically what we actually have
+[06:56] here done mechanically what I've got
+[06:59] here is a car alternator now inside here
+[07:02] is a little bit of solid state circuitry
+[07:05] doing pretty much the same thing as that
+[07:07] because this will change the amount that
+[07:10] it can generate depending on the speed
+[07:12] of the engine faster the engine faster
+[07:15] this turns the more it generates and you
+[07:17] can get quite some voltage out of this
+[07:19] but of course the main thing you do with
+[07:20] an alternator is charge a battery and if
+[07:23] we put more than 14 volts into a lead
+[07:25] acid battery we're quite likely to blow
+[07:26] it up so what the electronics does is
+[07:29] controls the voltage in the same way
+[07:32] that this did to make sure that although
+[07:34] the voltage here being generated can be
+[07:37] quite High the voltage that the battery
+[07:39] gets is within that range set by this
+[07:43] this is set by uh actually it's a diode
+[07:47] and resistor series that set the voltage
+[07:49] here we're using spring tension we can
+[07:51] use diodes and resistors to do that but
+[07:53] that doesn't really matter it's setting
+[07:55] the voltage so that the voltage is now
+[07:57] independent of the voltage gener
+[07:59] generated so the voltage
+[08:01] generated can rise up above but the
+[08:04] voltage the battery will see is only at
+[08:07] the 14 volts so this voltage regulator
+[08:10] inside the alternator is in fact acting
+[08:13] as a charge controller this is what I
+[08:15] mean about these things being related to
+[08:17] each other now those aren't very
+[08:20] efficient obviously because what we're
+[08:22] doing with the excess voltage is
+[08:24] essentially chucking it away and of
+[08:26] course that's not great and the other
+[08:28] thing is of course it can have a very
+[08:29] low voltage and that low voltage isn't
+[08:32] being used particularly efficiently but
+[08:34] the high voltage is chucked away so the
+[08:37] efficient performance of these isn't
+[08:38] great but it doesn't really matter so
+[08:41] much in those applications because you
+[08:43] really just want to keep the battery
+[08:44] topped up while you're running around
+[08:45] and there's plenty of spare motion to do
+[08:48] that so it it's not an issue
+[08:51] particularly it becomes an issue when
+[08:53] you're using things where you need to
+[08:56] get every scrap of power out of there
+[08:58] and save it so things like phics and
+[09:02] wind turbines we don't want to be really
+[09:04] chucking that energy away I mean there
+[09:07] are occasions when you do like if you're
+[09:09] charging and you're saving it to your
+[09:10] battery bank then once your battery bank
+[09:13] is full you don't want to be charging in
+[09:15] anymore so you want to Chuck it away and
+[09:19] that's part of what the charge
+[09:21] controller will do so when we're looking
+[09:23] at voltage regulation we don't have that
+[09:26] extra little bit that's going to be
+[09:28] needed to pay attention to what happens
+[09:31] at over voltage and if you like under
+[09:34] voltage too okay that's pretty much
+[09:36] enough for one video I think because
+[09:38] it's already getting a bit long and the
+[09:40] main takeaway here is we're looking at
+[09:43] voltage regulation leading to battery
+[09:46] charging and what's happening in voltage
+[09:48] regulation is a specific set of
+[09:50] functions it's got a logic to it the
+[09:53] logic is really simple provide a voltage
+[09:55] if there's too much voltage turn it off
+[09:58] those logical things are implemented
+[10:02] with specific methods of doing it now we
+[10:05] used a mechanical method because you can
+[10:07] see it doing it this is sensing the
+[10:09] voltage once the voltage goes above it's
+[10:11] turning the voltage off it's performing
+[10:13] those logical blocks but in a mechanical
+[10:16] way of course now we do it with
+[10:18] electronics in solid state and we'll be
+[10:21] looking at that and where that's
+[10:22] developed and why that's developed in
+[10:24] the next couple of videos but all I
+[10:26] really want you to get hold of here is
+[10:28] that there is a simple function being
+[10:30] performed that function is a logic the
+[10:33] logic can be implemented in many
+[10:36] physical ways I'm going to talk a little
+[10:38] bit about Concepts here actually and
+[10:40] some of the guiding principles if you
+[10:42] like and to do that I'm going to do
+[10:44] something that seem a little silly at
+[10:46] first a little fatuous but bear with it
+[10:49] because it'll make sense at the end of
+[10:51] the day anyhow let's have having given
+[10:54] you that warning I'm now going to do
+[10:56] that stuff but like I say I'm being
+[10:59] deliberately silly okay so let's have a
+[11:01] look at this thing this thing is clearly
+[11:04] a light switch watch what happens when I
+[11:07] do that with
+[11:08] it isn't that
+[11:10] awesome it turns the lights off and
+[11:13] on the thing that I wonder is how do the
+[11:17] lights know when I press that switch how
+[11:20] do the lights know to go off what is it
+[11:22] that tells them to go off of course
+[11:25] that's a stupid question because nothing
+[11:28] tells them to go off off it's built so
+[11:31] that it will operate that way but I have
+[11:33] a choice when I look at this I have a
+[11:36] choice to either say that I break the
+[11:38] wire and the lights will turn off all
+[11:40] part of the system that the lights and
+[11:42] switch is or I have another choice to be
+[11:45] able to say that the lights sense that
+[11:49] this switch has been turned off now it
+[11:52] makes no sense to say such a thing when
+[11:54] we're talking about a single light
+[11:55] switch but actually that is exact ly
+[11:59] what we're doing when we're thinking
+[12:01] about Computing in the last video where
+[12:03] we were talking about the early days of
+[12:06] uh voltage regulation we looked at this
+[12:08] as an electromechanical voltage
+[12:10] regulator and when we applied a voltage
+[12:14] to the coil we changed the field
+[12:16] strength that was being generated and
+[12:18] that moved that switch turning it off
+[12:22] now in a a way this is a sensor it
+[12:28] sensors the change in voltage and turns
+[12:31] off the switch but of course that's only
+[12:34] one way of looking at it actually it is
+[12:36] intrinsic to the property of what we've
+[12:39] built we put More Voltage in there that
+[12:42] magnetic field is going to get stronger
+[12:45] and it is going to turn that off because
+[12:47] it just must do there is no sensing
+[12:51] going on here in the same way that there
+[12:53] is no sensing when I turn off the light
+[12:56] but actually there is also a sens
+[12:58] sensing going on here because that field
+[13:01] strength changes dependent on the
+[13:04] voltage so this is a bit of a crossover
+[13:07] point it's easy to see when we put a
+[13:09] light switch off and on that no sensing
+[13:11] is involved it gets a little bit more
+[13:13] complicated that no sensing is involved
+[13:16] but sensing is involved when you get to
+[13:18] a device like this where it's kind of a
+[13:20] bit of a crossover really but it's still
+[13:23] essentially the same thing and actually
+[13:26] we are just making a choice about how
+[13:28] how we see it we can see it as sensing
+[13:32] or we can see it as intrinsic either way
+[13:35] it's good it's a way of talking about it
+[13:40] now when we're looking at individual
+[13:41] things like a light switch or a single
+[13:44] mechanical relay it's easy to see what
+[13:47] I'm talking about because you can see
+[13:50] them because they're big enough to see
+[13:53] but when I have a million little
+[13:55] switches and each one's smaller than a
+[13:56] pin head and it's encased in a black box
+[13:59] you can't see it and when we talk about
+[14:02] it as sensing something it becomes
+[14:05] mysterious and that's where the problem
+[14:07] arises because these things operate not
+[14:10] because they're magical but because
+[14:13] they're built to operate that way this
+[14:15] thing both does and doesn't sense the
+[14:18] current because it's sorry the voltage
+[14:21] because it's built to operate that way
+[14:23] it's the same thing in a computer a
+[14:25] computer is nothing more than a million
+[14:28] or a billion switches in the position of
+[14:31] off and on depending on their position
+[14:34] they'll do something that's something is
+[14:37] intrinsic to the property of the where
+[14:39] the switches are switched that's all
+[14:40] there is now it's often viewed that the
+[14:44] um first computer was in fact something
+[14:47] called the jackard loom now a loom works
+[14:50] because you raise some strings up and
+[14:52] down you have all these strings running
+[14:54] in One Direction and they're different
+[14:55] colors and you have another string that
+[14:57] you weave in and out in that direction
+[15:00] depending on where those strings in that
+[15:02] direction are lifted the colors will
+[15:05] change if I lift if I have red green
+[15:07] blue and I lift the green I'll see the
+[15:10] green if I lift the two red the red and
+[15:13] the blue I'll see the red and the blue
+[15:16] so that pattern depends on the position
+[15:18] of the string now a weaver will use that
+[15:22] by pressing foot pedals to raise some
+[15:24] strings up then put the other string
+[15:27] through in that direction
+[15:29] and you are weaving it's a tremendously
+[15:31] tedious job it's a great skill it takes
+[15:34] a lot of time to do all of that stuff
+[15:36] then this french guy came around and
+[15:38] said okay all we're doing is Raising
+[15:40] strings let's put a bar over with some
+[15:42] holes press the whole lot with my foot
+[15:45] only where the holes are can the rods go
+[15:48] up and only where the holes are will
+[15:50] those strings be lifted then if I change
+[15:53] the bar then I will change the pattern
+[15:56] and that's exactly what he did and he
+[15:57] made these bars a card actually there
+[15:59] big card rolls they would roll over the
+[16:01] head of the Loom you just pressed your
+[16:03] foot when a new card was in and
+[16:05] automatically you got the pattern and
+[16:07] that pattern was encoded on the cards
+[16:10] now obviously there was no choice
+[16:12] involved here there was no sensing
+[16:14] involved here the thing did that because
+[16:18] it was made that way it would it could
+[16:21] only do that even though we changed the
+[16:25] card we could change the pattern so in a
+[16:27] sense that was in fact the first program
+[16:31] but equally in a sense it was responding
+[16:34] to the way it was made all these things
+[16:37] are so when we get lots of things all
+[16:40] put together and lots of switches we
+[16:42] start to talk about things like sensing
+[16:46] and knowing and that starts to introduce
+[16:49] mystery and confusion because how does
+[16:52] something sense how does something know
+[16:56] and that's the way it is with charge
+[16:57] controllers we're looking at charge
+[16:59] controller and we're talking about it
+[17:01] sensing the voltage and changing this
+[17:05] and changing that the issue isn't about
+[17:08] how it physically does it the issue is
+[17:10] about understanding how it knows but of
+[17:13] course knowing is one of those things
+[17:16] it's actually a bit of an illusion and
+[17:18] that's what I was illustrating at the
+[17:20] beginning there the light doesn't know
+[17:23] that I've turned the switch but equally
+[17:26] in another way of looking at it the
+[17:28] light does know that I've turned the
+[17:31] switch and so this idea of knowing
+[17:34] actually is intrinsic to the build that
+[17:37] we've actually made the stuff that we
+[17:39] use to do these jobs of course there are
+[17:43] many many ways of doing a particular job
+[17:46] as we know well I say that but some
+[17:49] people think there's only one way of
+[17:51] doing it it's not right there are just
+[17:52] many ways of doing it if you think
+[17:54] there's only one way of doing it the
+[17:57] perfect way I I am so sorry to tell you
+[17:59] but you're wrong and you really need to
+[18:02] rethink your position or at least that's
+[18:04] what I
+[18:05] believe now this idea of many ways of
+[18:09] doing things gets even more confusing
+[18:12] when people are trying to work out what
+[18:14] it is they need to do so you need to
+[18:17] build a charge controller fantastic and
+[18:19] then there's many ways of doing it oh KY
+[18:22] which one do you choose and of course
+[18:24] that pushes you into looking at those
+[18:26] many ways trying to build something from
+[18:29] those many ways and to me that's upside
+[18:32] down to me what you need to do is work
+[18:35] out what job it is you need to do then
+[18:39] you need to look at the ways that job
+[18:41] can be done and then choose an
+[18:44] appropriate option for you to perform
+[18:47] that job so we change now our Focus from
+[18:51] looking at the many ways which is just
+[18:54] infinite actually there's tons of them
+[18:56] to looking at the idea of the job and of
+[18:59] course that's exactly what jackard did
+[19:02] he looked at the machine and what the
+[19:05] machine could intrinsically do and then
+[19:08] he created all of these cards because
+[19:10] there were many ways to weave a carpet
+[19:14] or a piece of cloth but there aren't
+[19:16] many ways to actually put that
+[19:19] information into the loom the loom is
+[19:22] much more restrictive and of course we
+[19:25] want something that's much more
+[19:26] restrictive we want something that is a
+[19:28] charge controller that charge controller
+[19:31] is only going to do a certain number of
+[19:32] jobs the jobs we wanted to do are the
+[19:35] logic of the charge controller now we
+[19:38] began by looking at voltage control and
+[19:41] we began looking at voltage regulation
+[19:44] that's what that mechanical thing was
+[19:45] all about it was starting to look at
+[19:47] charge controllers by looking at one
+[19:49] section of what the charge controller
+[19:51] does because a charge controller
+[19:53] obviously has a number of jobs and we'll
+[19:54] cover those later but we looked at one
+[19:57] job and then the possible
+[19:59] implementations of that job now of
+[20:01] course we did a mechanical version
+[20:04] because that's what they used to do when
+[20:05] this stuff first first started to become
+[20:07] important because mechanical versions
+[20:09] help you to grasp what's going on in the
+[20:12] same way that when I turn a light switch
+[20:14] and the light goes off it's not a
+[20:15] mystery to everybody we all understand
+[20:17] what's going on if we can look at
+[20:19] something we can look at we get a good
+[20:21] understanding but the job doesn't change
+[20:24] we need to do the same job that is we
+[20:27] need to control the voltage going into a
+[20:30] battery then it's a question of how we
+[20:32] actually do that now how we actually do
+[20:35] that how we Implement that logic is
+[20:39] actually independent of the logic itself
+[20:41] just because we use a solid state or we
+[20:44] use a mechanical relay or we just use
+[20:47] our eyes and a switch it really doesn't
+[20:50] matter the job is being done by somebody
+[20:53] or something the job itself Remains the
+[20:56] Same so if I want to understand what it
+[21:00] is that I need to do in order to build a
+[21:02] charge controller probably or at least
+[21:04] in my view the worst approach is to go
+[21:06] looking at things of trying to find the
+[21:08] perfect answer to my mind the best
+[21:10] approach is to look at what jobs the
+[21:13] actual charge controller needs to do
+[21:16] once you sorted that out in your head
+[21:18] you can then look at how to implement
+[21:20] those jobs what you find people doing
+[21:22] very often is telling you about the best
+[21:25] implementation what they think is going
+[21:27] to work really really well and of course
+[21:29] that so quickly becomes confusing
+[21:30] because they lose sight of the job
+[21:32] itself and then people who are first
+[21:35] coming to something and have um a
+[21:39] mystery surrounding that something and
+[21:41] don't really understand what the logic
+[21:43] of the job is and they focus on what
+[21:45] other people are telling them of course
+[21:46] it's
+[21:47] confusing what we need to do according
+[21:49] to me and what I the way I see it is to
+[21:52] work out what jobs the charge controller
+[21:54] needs to do and then how we can actually
+[21:57] Implement those those jobs so
+[21:59] essentially as I say what we're doing is
+[22:01] we're breaking down the job into what a
+[22:04] charge controller needs to do and then
+[22:07] how do we Implement what it needs to do
+[22:10] and of course that's an innocent
+[22:12] statement but hidden in there is in fact
+[22:15] the bone of contention and that is need
+[22:18] now different people have different
+[22:21] ideas about what they need and when they
+[22:24] get an idea about what they need of
+[22:26] course they're going to argue for it
+[22:27] because for some reason we make the
+[22:29] assumption that what I need is what
+[22:31] everybody needs and CU that's just not
+[22:33] true people need different things and
+[22:36] when you break down into logical bits
+[22:40] you have the option of asking yourself
+[22:43] do I need to do that and the answer may
+[22:46] be no now M I think it's mppt is the
+[22:51] current Allstar of solar charge
+[22:54] controllers and everybody tells you you
+[22:55] need it now I'm not saying that you do
+[22:58] or don't need it I'm saying ask yourself
+[23:02] the question do you need it if the
+[23:05] answer is no because your needs aren't
+[23:08] being met by that don't use it but of
+[23:12] course some people say to themselves I
+[23:15] need it you must need it therefore do
+[23:18] this and that to me is the wrong
+[23:20] approach so this breaking it down into
+[23:22] blocks gives you lots of opportunities
+[23:24] but it will also create quite a bit of
+[23:27] argument there's not a lot you can do
+[23:29] about that have a bit more face in your
+[23:31] own needs if you understand the blocks
+[23:33] and your needs you're going to find
+[23:36] Solutions we made a generator and we
+[23:38] connect it to a voltage regulator we
+[23:40] smooth the voltage and charged a battery
+[23:43] through BMS with it and then put it on
+[23:44] some load and in order to do that we
+[23:47] used this it's a pre-o voltage
+[23:50] regulation board it's quite good it
+[23:52] could take a high voltage in and put the
+[23:54] desired voltage out and you can change
+[23:55] that by twiddling that little knob there
+[23:57] but but at the time I said well just buy
+[23:59] this because these things are amazingly
+[24:02] cheap but it is a black box and I hit
+[24:06] black boxes I always want to know how a
+[24:09] black box works so big question how does
+[24:12] a voltage regular to work and how do you
+[24:14] go about building one now voltage
+[24:17] Regulators were initially
+[24:19] electromechanical devices they were in
+[24:21] fact just
+[24:22] relays too dissimilar to this which is a
+[24:26] household relay for electrical Supply
+[24:28] now you very rarely get them in one
+[24:30] relay configuration mostly you can still
+[24:33] buy them for things like vintage cars
+[24:35] and tractors that sort of thing in a
+[24:37] two-ray relay configuration with a
+[24:40] voltage regulation relay and a cff relay
+[24:43] we also get them in a three relay
+[24:45] configuration where you have current
+[24:47] overload protection voltage protection
+[24:50] and circuit cut off now if we have a
+[24:54] look at the circuit diagram of the cff
+[24:56] relay first
+[24:58] what you can see there is an iron core
+[25:00] with a coil around it and it connects a
+[25:02] generator to the battery circuit when
+[25:05] the generator builds up to the desired
+[25:07] value it also disconnects the generator
+[25:10] when it slows down or stops that iron
+[25:13] core is magnetized to pull down on a
+[25:15] hinged Armature that you can see against
+[25:17] a spring when the amature is pulled down
+[25:20] a set of contact points closes when the
+[25:22] circuit's complete when the magnetic
+[25:24] field is broken like like when the
+[25:26] generator slows down or stops a spring
+[25:28] pulls that Armature back up breaking the
+[25:30] contact points the voltage regulator is
+[25:33] just another iron core operated set of
+[25:36] contact points but obviously this time
+[25:37] they're in the closed position and it's
+[25:39] used to regulate maximum minimum voltage
+[25:41] at all times this circuit's also got a
+[25:44] shunt circuit which redirects the
+[25:45] electrical flow going to ground through
+[25:48] a resistance place just ahead
+[25:50] electrically of the points when the
+[25:52] points are closed the field circuit
+[25:54] takes the easy route to ground when the
+[25:56] points are open the field circuit must
+[25:57] pass through the resistor to get to
+[25:59] ground the field coil on the generator
+[26:02] is connected to one of the voltage
+[26:03] regulator contact points the other point
+[26:05] leads directly to ground when the
+[26:08] generator is operating battery low or a
+[26:10] number of devices running its voltage
+[26:12] May St down below that which for which
+[26:14] the control is set since the flow of
+[26:16] current be too weak to pull the amateure
+[26:18] down the generator field will go around
+[26:21] through the points however if the system
+[26:22] is fully charged the generator voltage
+[26:25] will increase until it reaches the
+[26:27] maximum liit then current flows through
+[26:29] the shunt Co will be high enough to pull
+[26:30] the Armature down and separate the
+[26:32] contact points now they repeat this
+[26:34] cycle time and time again with the point
+[26:36] points opening and closing somewhere
+[26:38] between 50 and 200 times per second and
+[26:40] that maintains a constant voltage in the
+[26:42] system of course it's the same with the
+[26:44] cut off really as it is with the voltage
+[26:46] regulator we can adjust the tension on
+[26:48] that spring on the contact points so
+[26:50] that we can therefore adjust the voltage
+[26:53] that it will open at seeing a three coil
+[26:56] setup is this where we have a cutout
+[26:58] regulator a voltage regulator and a
+[27:00] current reg regulator CU although the
+[27:02] voltage is now being controlled it is
+[27:04] still possible to have too much current
+[27:06] flowing and in the current regulator
+[27:08] there's a few turns of thick heavy wire
+[27:10] connected in series with the Armature
+[27:13] now again when the current Rises too
+[27:15] high and that magnetic field gets too
+[27:17] strong a set of contacts is opened and
+[27:20] it disconnects a generator the
+[27:22] advantages of a mechanical setup is that
+[27:24] the mechanical system itself both
+[27:26] sensors and switches that's what a
+[27:28] soline does it sensors the voltage and
+[27:30] switches at the same time that onoff
+[27:33] switching which if you want to think of
+[27:35] it is kind of like pulsewidth modulation
+[27:37] with that onoff switching is the core of
+[27:40] current and voltage regulation now in
+[27:43] modern di Electronics where we get this
+[27:45] beautiful little board what they do is
+[27:47] they separate the sensing and the
+[27:50] switching from each other the sensing is
+[27:52] usually done through a resistive Network
+[27:54] so that we can bring down the voltage to
+[27:56] the logic voltage voltage level because
+[27:58] even though we're pumping out sort of 12
+[27:59] to 14 volts and in some generators far
+[28:02] more than that this stuff can stand
+[28:03] somewhere between 3.3 and 5 volts so
+[28:06] it's too high so we use a voltage
+[28:08] Network to bring it down to a range that
+[28:09] the electronics can sense it and then we
+[28:12] use a transist as a switch to switch
+[28:18] it so the first thing you need is a
+[28:20] simple voltage divider circuit to scale
+[28:22] the possible output voltages into
+[28:24] arranges that the AL can cope with
+[28:27] between 0 and 5 volts it's just two
+[28:30] resistors in series and in the middle
+[28:32] you take the voltage from the ardino and
+[28:34] that goes to pin a0 so that's the
+[28:36] sensing circuit and this is the control
+[28:38] circuit all it is is a switch to turn on
+[28:40] and off the field winding you just use a
+[28:43] large transistor mounted to some random
+[28:45] bar as a heat sink and you connect the
+[28:47] output to the field winding through the
+[28:49] transistor it's just a solid St
+[28:51] electronic onoff switch in the same way
+[28:54] that the solenoid worked the Andino gets
+[28:56] connected to pin P 13 and pin 13 has its
+[28:59] own LED so we can see it flickering off
+[29:01] and here's the um code to control it now
+[29:04] if the output is below the 14 volts
+[29:07] which is the threshold then the field
+[29:09] winding is turned on as the engine spins
+[29:11] up and the alternator goes up beyond the
+[29:13] threshold then you turn it off once it
+[29:15] goes past the threshold then the uino
+[29:18] will turn off and the magnetic field
+[29:21] will strink and the output will dip
+[29:24] below the threshold and then the uino
+[29:26] will turn it back on so it's basically
+[29:28] just switching on and off really fast
+[29:30] and that on andof Fast switching in link
+[29:33] with the engine speed is what the
+[29:35] voltage controller does whether it's
+[29:37] electromechanical so whatever generator
+[29:39] you're using whether it's a homemade one
+[29:41] like this one or a converted brushless
+[29:43] DC motor or a universal motor or an
+[29:46] alternator voltage regulation is
+[29:48] accomplished the same way you switch the
+[29:50] generator in an out depending on the
+[29:52] voltage a generator is producing you can
+[29:55] do that either electromechanically where
+[29:58] you combining switching and sensing or
+[30:00] you can do it electronically where you
+[30:02] separate the switching and sensing and
+[30:04] use a um transistor as you electronic
+[30:07] switch or you can buy yourself a black
+[30:10] box board and make it all very much
+[30:12] easier for you anyway I hope you enjoyed
+[30:14] the video I hope it helped thank you
+[30:16] very much for watching and please do
+[30:18] remember to like And subscribe

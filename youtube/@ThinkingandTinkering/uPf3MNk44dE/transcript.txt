@@ -1,0 +1,173 @@
+[00:02] [Music]
+[00:14] so when I met the gravity battery a lot
+[00:17] of people said to me oh that's cool but
+[00:19] can you make a gravity generator and I
+[00:21] thought well yeah okay it's Easter it'll
+[00:24] be a bit of fun so I took an old printer
+[00:26] and I made this thing and this is a
+[00:29] gravity generator so let me show you how
+[00:30] I made it
+[00:31] Oh what we've got here is a brother hair
+[00:33] gel 61 now people have these all the
+[00:36] time because these things break and
+[00:38] they're full of really useful bits
+[00:41] aren't broken
+[00:42] no there's various ways of getting into
+[00:45] them for their various kind of printing
+[00:47] you've got but it breaks down to the
+[00:50] kiss chassis gear train Oh bits and
+[00:53] pieces all you have to do really is
+[00:55] under one of the screws that you can see
+[00:57] pull all the bits off that you can pull
+[00:59] off and break it down so that you have
+[01:04] to be a little bit brutal sometimes with
+[01:06] it
+[01:06] but not too brutal just check it out to
+[01:08] see where the screws are see what it is
+[01:11] that you're trying to pull off it's very
+[01:13] difficult to give you instructions on
+[01:16] how to ticket and individual printer to
+[01:18] pieces because they will differ
+[01:23] considerably that's the actual toner
+[01:26] cartridge obviously full of really
+[01:27] useful things and we can begin to see
+[01:29] the screws so all I'm going to do is
+[01:31] break this down into it yeah chassis and
+[01:34] components and then get back to you now
+[01:36] what I've got here to help me is a
+[01:39] really cheap screwdriver piece but it
+[01:42] has lots of Torx bits and fancy bits to
+[01:44] help me undo this in case there are any
+[01:46] unusual screws brother tends not to but
+[01:49] let's take it to pieces
+[01:50] and then get back to okay so we've
+[01:52] removed okay so here is the chassis so
+[01:54] all I did was pull out the various
+[01:56] drawers there were four screws holding
+[01:57] it and I got that in between the case
+[02:00] and the plastic and just leaving it out
+[02:02] the fan dropped out but we look at this
+[02:05] you can see the various bits and it's
+[02:07] sticky the bits of interested in which
+[02:09] is this big here so that's the gear
+[02:11] train and the drive motor that's the bit
+[02:13] we're actually interested in there's the
+[02:15] control board here there's some feed
+[02:18] mechanism stuff here that we're not
+[02:20] actually gonna be that interested in so
+[02:22] when you pull that out throw it away and
+[02:25] we can see a whole lot of screws in
+[02:26] there there's a nice drum there actually
+[02:29] it's a rubber feet drum if you want to
+[02:31] save some of these bits and pieces for
+[02:33] you know the projects then it's always a
+[02:35] good thing to do
+[02:36] so basically undo every screw you can
+[02:41] see okay so all I've done is taken this
+[02:44] bunch of screws out of this plate here
+[02:47] which is the gear train plate and that's
+[02:49] sure to get the gear train to come off
+[02:52] there's obviously something in there
+[02:54] holding it and you can just feel that
+[02:56] it's not quite coming under there is
+[02:59] something in there but all you have to
+[03:01] do really is chest back to there it is
+[03:03] and give it a good tug you'll get it up
+[03:12] and there's obviously this holding it
+[03:26] and their control wires we got okay
+[04:15] that's the bit that we're after with the
+[04:19] motor so these are essentially very kind
+[04:23] of interesting that is a motor is it
+[04:31] hang on a sec nope
+[04:32] these aren't motors these are actually
+[04:34] electronic clutches so that's electronic
+[04:36] clutch that's an electronic clutch and
+[04:39] that's an electronic clutch and they
+[04:41] basically a signal to kick in and out of
+[04:44] which of this gear train is going to
+[04:45] operate the paper movement we want the
+[04:48] main drive motor which is this motor
+[04:50] here connected to its gear train and as
+[04:54] we spin that what we're going to do
+[04:56] there we go what we're going to do is
+[04:58] we're going to put a pulley under here
+[05:00] and then obviously as that wrote it's
+[05:02] quite a little bit it's gonna spin the
+[05:05] motor quite a lot so we're gonna adapt
+[05:08] the motor to be a generator put a pulley
+[05:10] on this gear train and we're pretty much
+[05:12] there
+[05:13] okay so I've removed the motor from the
+[05:15] gear drivetrain which is here here's the
+[05:18] motor and this is from a brother printer
+[05:20] and you can see that it's marked at UVW
+[05:23] know what that means is that that's a
+[05:25] three-phase motor through fares
+[05:27] brushless it also means that when we
+[05:29] spin it the other way it's trying to be
+[05:31] a three-phase generator so in order to
+[05:33] get that to DC what we need is a
+[05:36] three-phase rectifier now
+[05:38] that's not too difficult oh that it's
+[05:40] the use of three fairs an awful lot of
+[05:42] times here what I've got six one end for
+[05:47] double or seven diodes and you use these
+[05:49] to construct the rectifier and the
+[05:52] circuit diagram is here
+[06:02] so it's not that difficult all it means
+[06:04] is you get three with all the bands
+[06:06] together and we're going to join those
+[06:07] bands together and that will the
+[06:09] positive three with older bands at the
+[06:12] top and we join those together and
+[06:13] that's a negative and then each one of
+[06:15] these gets joined together and then to
+[06:17] the UVW I found the easiest way is to
+[06:20] make up the three and then join them I
+[06:31] have pretend these wires
+[07:05] so when you've done that take all the
+[07:07] ones with the silver at the top push
+[07:19] them together
+[07:28] and they will be you're positive
+[07:52] and solder them
+[08:01] so now we've met it just sold on one of
+[08:04] the read ends on to you one on to V 1 on
+[08:07] to W and there's your plus in your - DC
+[08:28] okay so I quickly tested that just to
+[08:31] make sure it was outputting and then
+[08:33] scraped off the rest of the components
+[08:35] now there are SMD components and this
+[08:38] crept off really really easily and I can
+[08:41] put it back onto its mounting bracket
+[08:52] okay so here it is setup I've just put a
+[08:54] cap on this end incidentally wand a lot
+[08:56] of string around a - what I'm going to
+[08:58] do is tie it to a steel wags and let the
+[09:01] steel weight drop down I've got it on a
+[09:03] forty seven power resistor so we'll get
+[09:08] some kind of amp reading out of it and
+[09:10] I've got me an ammeter on there and then
+[09:13] we'll have a look at the bolts so
+[09:17] hopefully this is enough weight soon
+[09:20] find out
+[09:21] and there it goes that's not a bucket oh
+[09:28] actually that's kind of cool
+[09:51] nope run oh we're getting two and a half
+[09:58] volts out of that personally thought
+[10:08] that was hilarious
+[10:09] okay so this is a ten to one ratio
+[10:11] roughly so every one turn of this we get
+[10:15] ten turns of that now clearly I just met
+[10:18] it's a 10 to 1 meters and that's what
+[10:19] was on the printer quick dia train but
+[10:22] equally you could of course make it a
+[10:24] hundred to one if you wanted to you know
+[10:26] to put more weight on because obviously
+[10:27] you sacrificing something along the
+[10:29] lines when you go along and do something
+[10:31] like that but a bit more weigh 200 to
+[10:34] one and you should get that thing
+[10:35] whizzing around anyway
+[10:37] I thought it was candy : certainly an
+[10:39] interesting concept I hope you enjoyed
+[10:41] watching and thank you very much

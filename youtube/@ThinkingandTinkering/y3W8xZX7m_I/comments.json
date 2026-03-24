@@ -1,0 +1,621 @@
+[
+  {
+    "id": "Ugz3HetdeaEbdEx71Op4AaABAg",
+    "author": "@gustavgnoettgen",
+    "author_channel_id": "UCz0p0w1Rx5NETSouuGfFKIA",
+    "text": "I suggest using load cells or similar sensors, and a Bluetooth module to send the data - that way you can measure torque at different rpm and even under load.",
+    "likes": 0,
+    "published_at": "2024-12-06T07:07:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyG1v7k5Brzw_X7-FJ4AaABAg",
+    "author": "@steveclayton5692",
+    "author_channel_id": "UCbbb7lH5IuW9ZB73q7Hh42g",
+    "text": "Great video Robert. Using ChatGPT a simpler approach may have been found: By maintaining the arm in a horizontal position with a small screw inserted at the end as a pivot point, remaining planar, the calculation of torque simplifies. This configuration ensures that the angle between the applied force and the lever arm is zero, meaning that the entire force is applied at the very tip of the arm. Consequently, the calculated torque becomes straightforward, represented by the equation:\nT=r⋅F\nwhere \n𝑟\nr is the distance from the center of the shaft to the screw’s head, and \n𝐹\nF is the force measured. This approach eliminates potential complications from varying angles or misalignments, ensuring that the force measurement is accurate and consistent. By keeping the arm horizontal and using the pivot, the torque calculation remains reliable and easier to compute, contributing to more consistent test results.",
+    "likes": 0,
+    "published_at": "2024-12-05T18:26:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyNwV5XIakyFOpMg-x4AaABAg",
+    "author": "@coconutterrence8549",
+    "author_channel_id": "UCuZfEAFqqCV8_DnTl_06rgg",
+    "text": "keep up the good work mate . terry",
+    "likes": 1,
+    "published_at": "2024-12-05T04:38:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5C5jb0DVqSRbvP2B4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome!",
+    "likes": 1,
+    "published_at": "2024-12-04T22:32:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVpoNa7tsCXbShgDZ4AaABAg",
+    "author": "@iangregory3719",
+    "author_channel_id": "UCxl20OCVPPIDwp0PU2Y6FLQ",
+    "text": "Oh wow, that took me back nearly 45 years....as a young technician I had to torque load a fastener that was below any torque wrench we had in the tool kit.....6 Lb/Inches.......I was handed a ruler and a spring balance and told... \"go on then, work it out\".....the revelation of the solution was a Eureka moment for me  because I'd learnt how to do things outside of what I'd been taught.",
+    "likes": 0,
+    "published_at": "2024-12-04T20:20:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzqZdq9mv1usDAr0tV4AaABAg",
+    "author": "@GavinImpett",
+    "author_channel_id": "UCSOJzKc6Bt3_dcWVwQffnvw",
+    "text": "Is constant airflow at a fixed speed the proper way to measure dirty, nasty, wind, though? A turbine that functions at one fixed speed might not do as well as one that is more adaptable under variable conditions, or am I off about this one. Admittedly, I'm more in Erasmus grandsons camp, so I tend to measure things in how many little watt babies can mommy volts and daddy amps make over the course of a day.",
+    "likes": 0,
+    "published_at": "2024-12-03T20:37:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzqZdq9mv1usDAr0tV4AaABAg.ABaooaw9LvgABb0t7s7O9I",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "one way to see variable wind speed is as a fixed wind speed of variable short duration - so if you vary fixed wind speed you can model variable wind speed - it's a way to get a handle on it",
+        "likes": 0,
+        "published_at": "2024-12-03T22:31:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaDHaaB20vcANnJaV4AaABAg",
+    "author": "@kukulele8182",
+    "author_channel_id": "UCC0OojFAPlqajDNfHo8_67A",
+    "text": "hi, today i made an interesting battery. Its iron-iron alkaline with sodium bicarbonate for electrolyte. Its 0.6V, for electrodes i used steel dish washing wire. i have charged it for 2 min and it had power to run small motor. now im interested in what chemistry is going on there and is it any good. The other day i was exploring batteries and dry piles, and came to idea to try to make lead-lead alkaline but made this one instead",
+    "likes": 0,
+    "published_at": "2024-12-03T06:41:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwaDHaaB20vcANnJaV4AaABAg.AB_KBA3yRZYAB_cK4-0SSk",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 1,
+        "published_at": "2024-12-03T09:28:43Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz2BRsfFjnzXsMNaTh4AaABAg",
+    "author": "@danob9869",
+    "author_channel_id": "UC0P1rVF5ydZJbp2w16ZZIlw",
+    "text": "shouldnt you make a counterweight to the arm resting on the scale? Otherwise you probably just weight the arm?",
+    "likes": 0,
+    "published_at": "2024-12-03T04:13:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz2BRsfFjnzXsMNaTh4AaABAg.AB_3DhImz9pAB_cIyZPOtw",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are weighing the arm - pressing the tare button subtracts that weight from the display. When you turn on the fan the scale weighs both the arm and the force of push but the display only shows force of push as you have already subtracted the arm weight. You can make a counter weight if you want but there is no real need to",
+        "likes": 0,
+        "published_at": "2024-12-03T09:28:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyNbgNj7tOgUPcefYl4AaABAg",
+    "author": "@anactualpilot",
+    "author_channel_id": "UCOGofJdUnzypYpT8sAKVaSA",
+    "text": "lets say you'd like some echo reduction",
+    "likes": 0,
+    "published_at": "2024-12-03T03:53:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyNbgNj7tOgUPcefYl4AaABAg.AB_0wvMtaKuAB_blHJVwX1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't mind it - the speech is clear enough and as i record in  my home I am not hanging blankets or baffles - so it is what it is",
+        "likes": 0,
+        "published_at": "2024-12-03T09:23:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyj50Zc40ys_g455tR4AaABAg",
+    "author": "@VeniceInventors",
+    "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+    "text": "I don't understand why the rod is placed at a 45 degree angle, instead of horizontally. Maybe I'm wrong but it seems to me that the angle will cause some force to pull left on the stand instead of being measured by the scale.",
+    "likes": 0,
+    "published_at": "2024-12-03T03:27:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugyj50Zc40ys_g455tR4AaABAg.ABZz0dlDmyBAB_cUPN1mmo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it doesn't really matter where you place the rod - apart from zero degrees of course - as long as you take the angle unto account - do 90 degrees by all means",
+        "likes": 1,
+        "published_at": "2024-12-03T09:30:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzJMJDJ1wSj2WpkSYp4AaABAg",
+    "author": "@marcfruchtman9473",
+    "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+    "text": "Thanks for this explanation. I do have a question regarding the torque of the pipe specifically, since it has such a large area where the wind could be pushing downward on it (or upward if the angle was different). How can you tell that this is a result of rotational torque as opposed to a slightly downward force on the pipe itself caused by the wind.  It would be interesting to see the experiment repeated such that you place the scale on the opposite side, so when the wind blows the torque applies a \"lifting force\". Assuming the position of the blower and device are the same, this would potentially rule out a downward force on the pipe.",
+    "likes": 0,
+    "published_at": "2024-12-03T02:26:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzJMJDJ1wSj2WpkSYp4AaABAg.ABZs18MN83hAB_cnUqf7sH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you can't tell - and by all means reverse it - a balance spring would work well - nice thinking mate - but then i was mulling it over - if you think about it lift is just and upward push and drag is just a downward push - so would it really matter? It is a genuine question mate as I am not sure it makes a difference to be honest.",
+        "likes": 0,
+        "published_at": "2024-12-03T09:32:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypfSbr_yY4xjFSuSB4AaABAg",
+    "author": "@canuckcorsa",
+    "author_channel_id": "UC7HSsrVWvIBQObsH1fQrBpw",
+    "text": "Wow. I distinctly remember my first year \"kinematics\" course in Engineering (Canada) as being SOOOO boring! If only you had been teaching, I might have done better!",
+    "likes": 0,
+    "published_at": "2024-12-02T22:39:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgypfSbr_yY4xjFSuSB4AaABAg.ABZSzUwhbh3ABZkY8oFvIu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2024-12-03T01:21:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6-Ouj7T1T1mWowXx4AaABAg",
+    "author": "@jenschristiansen9490",
+    "author_channel_id": "UCHCl8Ft6B-86SDJx1N2Bktw",
+    "text": "How about investing in a proper sound system now that you have passed 500000 subscribers?",
+    "likes": 0,
+    "published_at": "2024-12-02T21:27:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6-Ouj7T1T1mWowXx4AaABAg.ABZKoWDSPRqABZkflGQbBq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "You do realize no one makes you watch right? If you don't like it - don't watch",
+        "likes": 0,
+        "published_at": "2024-12-03T01:22:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgynNnj0y3lXoCT5xgl4AaABAg",
+    "author": "@ZacharyYbarra-u1g",
+    "author_channel_id": "UC76ixTXIrCVI0ETCQcy0EpQ",
+    "text": "Work the problem people!😁🤓😎",
+    "likes": 0,
+    "published_at": "2024-12-02T21:25:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgynNnj0y3lXoCT5xgl4AaABAg.ABZKamqDuveABZk5KBST_d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep absolutely",
+        "likes": 0,
+        "published_at": "2024-12-03T01:17:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFWWCHiX-HgO4jZdV4AaABAg",
+    "author": "@picobyte",
+    "author_channel_id": "UCfZLjHx9XircqwGTwMF-XBg",
+    "text": "My electric wind turbines only run in summerfor blowing my cool/warm air around here.",
+    "likes": 0,
+    "published_at": "2024-12-02T21:07:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyFWWCHiX-HgO4jZdV4AaABAg.ABZITaPzLHcABZk41SUjzL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome",
+        "likes": 1,
+        "published_at": "2024-12-03T01:17:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyHtfboaPzBPqmT2t4AaABAg",
+    "author": "@charlesjmouse",
+    "author_channel_id": "UCa03jZ3UwwCeGxJPXhRB4MA",
+    "text": "Always excellent and educational, thank you.\nAn observation, which I suspect you have already considered. As the efficiency of wind turbines tends to change with both wind and rotation speed, how much of a 'danger' do you think there is for being mislead by a static measurement at one wind speed?\neg: Would timing lifting a weight for various wind speeds be a useful addition or unnecessary overcomplication?",
+    "likes": 0,
+    "published_at": "2024-12-02T20:03:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyHtfboaPzBPqmT2t4AaABAg.ABZB8kLpGHeABZjyLk9VYK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it depends to be honest - if you are talking a few percentage points then error can easily outweigh the result - but if the difference is significant you are probably on a winner. Equally - of course other factors always come into play - for example if the turbine works well enough but is dirt cheap to build you might also be on a winner - there is just never really a clear cut answer as so much depends on individual cases",
+        "likes": 0,
+        "published_at": "2024-12-03T01:16:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz0vsMZEvlNhzBJ4854AaABAg",
+    "author": "@jimdaly5077",
+    "author_channel_id": "UCk-HHO1cIN_gHsk5X6N9sSA",
+    "text": "Thank you 👍😎🐝",
+    "likes": 0,
+    "published_at": "2024-12-02T19:32:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz0vsMZEvlNhzBJ4854AaABAg.ABZ7g1BvWIqABZk6CzMdGp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you too",
+        "likes": 1,
+        "published_at": "2024-12-03T01:17:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxW2hjASUQ8z3-FPdV4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2024-12-02T19:06:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxW2hjASUQ8z3-FPdV4AaABAg.ABZ4dLiSIBXABZk7Hupej8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-12-03T01:17:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgynS6tjDT6g84Em8lV4AaABAg",
+    "author": "@hidden6ix742",
+    "author_channel_id": "UCUWCvrPC6NnKXgGjh6mBXxA",
+    "text": "wind turbine anxiety? Pele has a pill for it.",
+    "likes": 0,
+    "published_at": "2024-12-02T18:58:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgynS6tjDT6g84Em8lV4AaABAg.ABZ3lERQq2mABZk97lMbjF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 1,
+        "published_at": "2024-12-03T01:17:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy62u3n2z-tjy6ridh4AaABAg",
+    "author": "@xmysef4920",
+    "author_channel_id": "UCyFLnYEhYtrSeflvgWAyJ_w",
+    "text": "If you align the arm perfectly on the scale, you don’t need the sine part of the equation, no?",
+    "likes": 0,
+    "published_at": "2024-12-02T18:52:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy62u3n2z-tjy6ridh4AaABAg.ABZ33Qf3auQABZkDgcrTHI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i am not sure how exactly you would do that mate",
+        "likes": 0,
+        "published_at": "2024-12-03T01:18:30Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw7R1DDzKRydyqD-yF4AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "I measure my turbine's torque by using a spool and string lifting a weight. The weight is a bucket which I add nuts and washers to. I get weight, speed and distance factors from that.",
+    "likes": 7,
+    "published_at": "2024-12-02T18:16:51Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugw7R1DDzKRydyqD-yF4AaABAg.ABYzyOKNxBWABZkGPoTbQ9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome suggestion mate - cheers",
+        "likes": 0,
+        "published_at": "2024-12-03T01:18:53Z"
+      },
+      {
+        "id": "Ugw7R1DDzKRydyqD-yF4AaABAg.ABYzyOKNxBWABZsCseEZ-j",
+        "author": "@marcfruchtman9473",
+        "author_channel_id": "UCJIOoDv0UQvXJDZTWw0JpBQ",
+        "text": "This is one of my favorite methods too.",
+        "likes": 0,
+        "published_at": "2024-12-03T02:28:18Z"
+      },
+      {
+        "id": "Ugw7R1DDzKRydyqD-yF4AaABAg.ABYzyOKNxBWABZyLrRg8-C",
+        "author": "@VeniceInventors",
+        "author_channel_id": "UC_JkoKaPmsWB94tq600xBug",
+        "text": "That's how I would go about measuring dynamic torque as the scale isn't going to work for that, but for static torque the beauty of using a scale is its flexibility as you can increase the wind speed while taking measurements, and it can be used with a vertical wind turbine too as long as it's the right type of scale.\nI guess the spool method can be used to calculate torque while changing the wind speed (without adding weights) by measuring the difference in lifting velocity.",
+        "likes": 0,
+        "published_at": "2024-12-03T03:21:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJRj1HXh4_OAuO_aJ4AaABAg",
+    "author": "@keithpegg7825",
+    "author_channel_id": "UC8enT5uLvqxuAw4BZo5TFjA",
+    "text": "would a counter weight remove the weight of the arm itself",
+    "likes": 0,
+    "published_at": "2024-12-02T18:15:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyJRj1HXh4_OAuO_aJ4AaABAg.ABYzrIx2wi6ABZkIpHvPOa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i guess so",
+        "likes": 0,
+        "published_at": "2024-12-03T01:19:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyVdKf6FpnC1ipHp3B4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Awesome Upload as Always Robert!! \nI can't wait to buy my 3D printer so I can play and also get proof of concept!!\n(*I'm just a big kid at heart!!😅)\nNamasté 🙏💞 \nAndréa and Critters.  ....XxX....",
+    "likes": 2,
+    "published_at": "2024-12-02T18:06:49Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyVdKf6FpnC1ipHp3B4AaABAg.ABYyow4qsbaABZkKzQ72gG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Never grow up Andrea lol",
+        "likes": 1,
+        "published_at": "2024-12-03T01:19:30Z"
+      },
+      {
+        "id": "UgyVdKf6FpnC1ipHp3B4AaABAg.ABYyow4qsbaABZp7JyLxwB",
+        "author": "@AndreaDingbatt",
+        "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+        "text": "@ThinkingandTinkering Okay,,,\n~As long as you dont either! !Lol!!    \":0)x",
+        "likes": 0,
+        "published_at": "2024-12-03T02:01:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypvBJGkbjdygIdDLR4AaABAg",
+    "author": "@TheWorldBelow360",
+    "author_channel_id": "UCicrd23LnhJoc7NDZQA13pg",
+    "text": "Failure is inevitable. ESP if it’s your first Time. And you know you are no genius. Unless it comes to knowing your own mind.",
+    "likes": 1,
+    "published_at": "2024-12-02T18:03:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgypvBJGkbjdygIdDLR4AaABAg.ABYyR8FoAhxABZkMblCpZN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure",
+        "likes": 0,
+        "published_at": "2024-12-03T01:19:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgypVfxIjZdHCUt6gIh4AaABAg",
+    "author": "@William_Hada",
+    "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+    "text": "I'm a bit confused because initially you showed your new turbine prototype which appeared to be a cylinder with curved fins on one end. Then when you were showing the first test, the fins were gone and you only had a finless cylinder on the test stand. So with no fins or spiral grooves evident on the test model how was there any torque being produced?",
+    "likes": 4,
+    "published_at": "2024-12-02T17:50:14Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgypVfxIjZdHCUt6gIh4AaABAg.ABYwvUt4kl8ABZjb1VcLlc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the video is only about static torque measurement mate - the turbine design isn't that important right now - I have been working on this and there will be a video on it where I will go through the design idea and process - that will help clear up confusion - I hope!",
+        "likes": 0,
+        "published_at": "2024-12-03T01:13:05Z"
+      },
+      {
+        "id": "UgypVfxIjZdHCUt6gIh4AaABAg.ABYwvUt4kl8AB_lG9IXWBm",
+        "author": "@William_Hada",
+        "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+        "text": "@ThinkingandTinkering  OK, I see now. Thanks for the explanation!",
+        "likes": 0,
+        "published_at": "2024-12-03T10:46:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyVXX6x-u6pyNSY_qZ4AaABAg",
+    "author": "@AM-us7cz",
+    "author_channel_id": "UCEYv14u575N4auXnJPI0-Fg",
+    "text": "Gday Robert \nWell that didn't help me one iota but I loved watching just the same. 👍",
+    "likes": 1,
+    "published_at": "2024-12-02T17:26:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyVXX6x-u6pyNSY_qZ4AaABAg.ABYuFhZRvd9ABZkPDOcmzs",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "well I am glad you enjoyed it mate",
+        "likes": 0,
+        "published_at": "2024-12-03T01:20:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy5N3XqzCnQHU4oYrJ4AaABAg",
+    "author": "@trevuk01",
+    "author_channel_id": "UC699El1_fx-dFuAemV6VfSA",
+    "text": "Hi Rob, thanks for the lesson. I've been building a similar hyperbolic wind capture turbine to the one at Skegness pier ( alot smaller 😁) . If I get it working, I was wondering how I might work out the torque, now I know . Thanks again.",
+    "likes": 1,
+    "published_at": "2024-12-02T17:10:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy5N3XqzCnQHU4oYrJ4AaABAg.ABYsMe0UmowABZkR3oMPqe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-12-03T01:20:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzxRL02SFkxnOb-hAJ4AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "Thanks Robert 👍💪✌",
+    "likes": 2,
+    "published_at": "2024-12-02T17:06:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzxRL02SFkxnOb-hAJ4AaABAg.ABYrxSHYeWWABZkS9BVbvr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-12-03T01:20:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqpZErALCZHZXgSbF4AaABAg",
+    "author": "@petervanhelden4662",
+    "author_channel_id": "UCchq1jObfIlFwlSE2MDPdJQ",
+    "text": "Oh yes, my little homemade windturbine is good enough for its goal. It delivers a vew watts to 3  12 volt fans without battery in between at low windspeed. No gears. If the weatherchanel forecasts stronger winds, i simply put a copper coil paralel to the fans to give it some resistance. Its just a toy ofcourse. But it gives me LOTS OF FUN 😉.  Learned a lot from your videos thank you sir. Sometimes in a real storm it brakes down so i learn about the force the wind puts on it and i learn what i have to build better. Greatings from the Netherlands.",
+    "likes": 11,
+    "published_at": "2024-12-02T16:58:23Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyqpZErALCZHZXgSbF4AaABAg.ABYqzmwnHpcABZ0KOwzHfC",
+        "author": "@j.christie2594",
+        "author_channel_id": "UC8hk-pLuGvT-QVQVYAftSpg",
+        "text": "Try a Joule ringer or Theaf inverter.\nSuper simple charger and lighting circuit, 2m2222,  2n3904, 2n1107/9, for bigger input and output 2n3055.\n Pancake coils(scrap speaker wire or plug cable works) are easy, coil for this... Makes Wireless",
+        "likes": 1,
+        "published_at": "2024-12-02T18:28:43Z"
+      },
+      {
+        "id": "UgyqpZErALCZHZXgSbF4AaABAg.ABYqzmwnHpcABZkU_7rwtM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 2,
+        "published_at": "2024-12-03T01:20:48Z"
+      },
+      {
+        "id": "UgyqpZErALCZHZXgSbF4AaABAg.ABYqzmwnHpcABa630Evpig",
+        "author": "@petervanhelden4662",
+        "author_channel_id": "UCchq1jObfIlFwlSE2MDPdJQ",
+        "text": "@j.christie2594 I have to look into this, becouse i have no idea what you are talking about but i am eager to learn😊 Thank you anyway !",
+        "likes": 0,
+        "published_at": "2024-12-03T13:57:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywzxVaxEAW5pz_h8d4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Great video very interesting, I wish my maths was much better. But with your formula and using online calculators very do able. They used to use a very similar technique to measure hp on steam engine ect. Basically a brake..👍",
+    "likes": 1,
+    "published_at": "2024-12-02T16:41:44Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgywzxVaxEAW5pz_h8d4AaABAg.ABYp4nGEWw4ABYpCQ5x30d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is a very similar idea to the prony brake mate",
+        "likes": 2,
+        "published_at": "2024-12-02T16:42:47Z"
+      },
+      {
+        "id": "UgywzxVaxEAW5pz_h8d4AaABAg.ABYp4nGEWw4ABYpb5INkD7",
+        "author": "@johnwynne-qx6br",
+        "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+        "text": "@ThinkingandTinkering  that's the name that was on the tip of my tongue cheers 👍",
+        "likes": 1,
+        "published_at": "2024-12-02T16:46:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLZFrLZkcffi6wYiB4AaABAg",
+    "author": "@Regreta7",
+    "author_channel_id": "UCM5YNb9zsL_vztR-YGP3S9A",
+    "text": "Can I email you re my wind turbine please.",
+    "likes": 2,
+    "published_at": "2024-12-02T16:03:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyLZFrLZkcffi6wYiB4AaABAg.ABYkegrOxgQABYp5nOn-4V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no",
+        "likes": 3,
+        "published_at": "2024-12-02T16:41:52Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy3-VtFZU61GxjK7vR4AaABAg",
+    "author": "@harisqureshi6358",
+    "author_channel_id": "UCWcwrmMKCNQrwJvX5pd98Vw",
+    "text": "First",
+    "likes": 3,
+    "published_at": "2024-12-02T16:01:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy3-VtFZU61GxjK7vR4AaABAg.ABYkVpOcbz0ABYp6kAmwpr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome",
+        "likes": 2,
+        "published_at": "2024-12-02T16:42:00Z"
+      }
+    ]
+  }
+]

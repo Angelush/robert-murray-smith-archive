@@ -1,0 +1,912 @@
+[
+  {
+    "id": "UgzB5XMAdbtA5YPNhH14AaABAg",
+    "author": "@deon12345",
+    "author_channel_id": "UC2NqoJLYmUMWJrza52z5V1w",
+    "text": "RIP Robert, it’s all so sad.",
+    "likes": 0,
+    "published_at": "2025-11-26T20:10:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzrOWIT6hMo4qtvvxV4AaABAg",
+    "author": "@cooperthompson4850",
+    "author_channel_id": "UCxFa1KEbQ_Rphu2TI2C7PpQ",
+    "text": "Rest in peace rob.",
+    "likes": 2,
+    "published_at": "2025-10-09T19:07:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzouxmVfMUvPrbBygx4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Cute! 🎉",
+    "likes": 1,
+    "published_at": "2025-06-13T15:39:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygfR_tVAMoQ2Bfqm54AaABAg",
+    "author": "@j.f.christ8421",
+    "author_channel_id": "UCwf4Do5WhYdIcRGO0fw-Lbw",
+    "text": "You're using the wrong bearings.  The RS version (rubber seals) has a bit of drag where-as the ZZ versions (metal shields) don't.  Yeah yeah, it's not much but it is there, and a for a clock mech obviously lower is better.",
+    "likes": 0,
+    "published_at": "2025-05-29T07:14:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygfR_tVAMoQ2Bfqm54AaABAg.AIh8cx-V2UkAIhMdshzsRi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for the pointer mate - cheers",
+        "likes": 0,
+        "published_at": "2025-05-29T09:16:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyxNfwah1k4M44LVkF4AaABAg",
+    "author": "@jamie-ox8sg",
+    "author_channel_id": "UC24GzSzkyjsH6i5-6w_7oEA",
+    "text": "Your missing an l in the title",
+    "likes": 0,
+    "published_at": "2025-05-28T09:31:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyxNfwah1k4M44LVkF4AaABAg.AIeoakrcOFRAIep-Q-Bj_I",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-28T09:35:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0AvyGSfmgDdvDTrF4AaABAg",
+    "author": "@howardsimpson489",
+    "author_channel_id": "UCK2V9EgilEaEUvxiK6dlIbA",
+    "text": "The first quartz crystal oscillators were made during WW1. By the 1920s, these were very stable and temperature insensitive. Methods of subdividing the high frequencies were developed pre WW2 so very accurate clocks were possible. It is no wonder escapement timekeeping became niche marketing like vinyl records. Atomic clock accuracy is now seconds in millions of years but they are currently too big for your pocket. Who knows, in a few years this problem may go away. Thanks for your demo unit Robert.",
+    "likes": 0,
+    "published_at": "2025-05-28T08:06:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwvMiWjdhUE0v3Pz314AaABAg",
+    "author": "@JD_Mortal",
+    "author_channel_id": "UCny3gVSySz_D9pgSBjBqNbw",
+    "text": "You can make stacked springs to get a better travel. Similar to stacking planetary gear boxes. A plate between springs, on the axle. The outside of one spring attached to the plate and the inner of the second spring attached to the plate. Combined, its like having a spring twice as large, in a smaller space. Also, you naturally get more flex, due to the split load. Just make sure the disk that joins them, has a wide spread across the axle. It will want to tilt between the two opposing forces attachments.",
+    "likes": 0,
+    "published_at": "2025-05-27T14:18:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxK94x7JmEwLWGUQ3Z4AaABAg",
+    "author": "@JD_Mortal",
+    "author_channel_id": "UCny3gVSySz_D9pgSBjBqNbw",
+    "text": "Is there any way to contact you directly? I am working on a show series, where the progression of the series is aided by the progression of a clock. First made simple, with minimal tools, but it ultimately ends up becoming a complex structure. However, I am having difficulty capturing two components of the initial \"simple\" design. The initial design uses peg-gears. The first issue is the power drive gear. I want two levers that virtually extend the gear, for a greater initial gearing ratio and precision. The extensions flip-flop, between the large gears pegs, yielding ten additional pegs at the end of each extension. One would drive power, while the other is pushed off the pegs and gravity drops the free extension. The free extension lands below the powering extension, extending the drive by another ten pegs. Repeat once the top drive extension becomes free, and it falls to extend it again. The purpose of this action is to reduce the need for a super massive power gear, which has to power a smaller gear, with a similar setup, to get the final output power.\n\nThe second issue I have, is a stepped series of 7 weights. 6 are used to actually drive the pendulum and control timing. Not the massive gear setup, mentioned above. They are going to provide ten minutes of power each, except the seventh weight. 1-6 power the pendulum, the 7th is only used to lift weight 6, after 6 falls. While weight 6 is falling, the power, from the above mentioned setup, will lift weights 1-5 and 7. When weight 6 ends, at the bottom, that triggers weight 1 to start falling, and then triggers weight 7 to release. Weight 7 raises weight 6, so it is ready to be used for power after weight 2, 3, 4 and 5 have each fallen, in series. Repeat...\n\nAny abundance of energy, from lifting the 6 weights, and the weights reaching the bottom and energy harvested from a pendulum overcharge, is captured and sent to a similar release mechanism as weight 7. That stored energy is put back into lifting the primary drive weight, when there is enough to crank it to one of the ratchet winding positions. (Not perpetual motion, the harvested energy is low and it takes many cycles to get enough energy to crank one ratchet position. The intention is to allow a better solid delivery of power, for lifting, without excessive unwinding losses.)\n\nThe power for the main drive, will be a 400 pound weight. The weight will run through a pulley block of 4x X2, for a ratio of 1:8 or 8:1, depending on perception. The result is a drive wire that can offer 50 lbs of drive at 8 meters of cable. The weight only drops 1 meter, each winding.\n\nThat's the \"simple\" first clock. 🤣 The following clocks will eventually look like normal clocks, but gain additional dials for various things. Power charging will be a combination of wind, stream flooding, and walking platform power harvesting. (So it never needs manual winding. Eventually they get real power for a real clock, but it always remains mechanical. Like a monument \"Big Ben\", but it retains alt power to reduce consumed electricity, as it gets more complex, in time.)",
+    "likes": 0,
+    "published_at": "2025-05-27T14:06:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxaLMm8jpPaxnCJ4-d4AaABAg",
+    "author": "@BillSchas",
+    "author_channel_id": "UCSpBwjTgy1rNSk7LJlmA1VQ",
+    "text": "Great stuff, Rob!  Do you lubricate the skater bearings?",
+    "likes": 0,
+    "published_at": "2025-05-27T13:54:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3O8siyoRZbX9gOG14AaABAg",
+    "author": "@TerryClarkAccordioncrazy",
+    "author_channel_id": "UCo9DY3B8FyqmLgNSOcmdBgg",
+    "text": "I seem to recall Marshall from Wristwatch Revival talking about position error and saying that it's mostly down to friction in the balance staff bearings. That's why watchmakers regulate watches by checking the accuracy in several different positions.",
+    "likes": 0,
+    "published_at": "2025-05-27T07:59:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwW2BD6xTlo_u8Uuv54AaABAg",
+    "author": "@ExpressoMechanicTV",
+    "author_channel_id": "UCTm7dsUPIsT8BFxe1lmEriw",
+    "text": "Brilliant! I have always wondered why tourbillions make certain brands of watches, so ridiculously expensive. I see now that it is the difficulty in making them work accurately, when they are so small!",
+    "likes": 0,
+    "published_at": "2025-05-27T07:23:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx79UmUZygyJDrzAnl4AaABAg",
+    "author": "@beamer.electronics",
+    "author_channel_id": "UCFfwEJnfkZgnLADU7uRwXBg",
+    "text": "Blimey, my head hurts watching this ;)",
+    "likes": 0,
+    "published_at": "2025-05-27T02:51:37Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugx79UmUZygyJDrzAnl4AaABAg.AIbWzoEzXDHAIbzcO7RHhE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2025-05-27T07:10:33Z"
+      },
+      {
+        "id": "Ugx79UmUZygyJDrzAnl4AaABAg.AIbWzoEzXDHAIcE2dGsPAM",
+        "author": "@ravenmad9225",
+        "author_channel_id": "UCqv19oHKPcIwqnY0agOKZqg",
+        "text": "Same,my simple brain is having trouble understanding this.",
+        "likes": 0,
+        "published_at": "2025-05-27T09:25:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgweBlAhabxLi_Ra-Jt4AaABAg",
+    "author": "@donlutter3390",
+    "author_channel_id": "UCgUzzPo-ISeED6MakTS_q7g",
+    "text": "It is beautiful and like the idea of the additional winder.",
+    "likes": 1,
+    "published_at": "2025-05-27T01:11:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgweBlAhabxLi_Ra-Jt4AaABAg.AIbLZUG27GdAIbzbbZgvie",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you very much!",
+        "likes": 1,
+        "published_at": "2025-05-27T07:10:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyRL2_oPHT2scXiXfZ4AaABAg",
+    "author": "@royharkins7066",
+    "author_channel_id": "UCQII4Z74ZG7Ufed2bQwanaA",
+    "text": "Fascinating,can anybody tell me what printer I’d need to produce this ?",
+    "likes": 1,
+    "published_at": "2025-05-26T23:25:30Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyRL2_oPHT2scXiXfZ4AaABAg.AIb9P8mJNmUAIbE_76yxiH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "pretty much any filament printer will do the job mate - I used an Elegoo Centauri - but it really doesn't matter that much tbh",
+        "likes": 1,
+        "published_at": "2025-05-27T00:10:41Z"
+      },
+      {
+        "id": "UgyRL2_oPHT2scXiXfZ4AaABAg.AIb9P8mJNmUAIdxH21MFXH",
+        "author": "@royharkins7066",
+        "author_channel_id": "UCQII4Z74ZG7Ufed2bQwanaA",
+        "text": "My workshop is a 9ftx6ft glass conservatory danger zone lol , I’ve no more room for any more machines, ..\nCould I pay and have a torbilion posted ? How much 😂?",
+        "likes": 0,
+        "published_at": "2025-05-28T01:28:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy3FBgqdXzyfBdP-WB4AaABAg",
+    "author": "@coachmakersarmshanley817",
+    "author_channel_id": "UC6rXyVwNMkNM2YTDCIR0Nmg",
+    "text": "Hi Robert, \nAddicted to your channel and it’s so inspiring I actually became a tinkerer after buying an Elegoo 3d printer.\nWhat would you say has been your most successful print in terms of personal usage and do you have anything you actually use daily to generate power?",
+    "likes": 0,
+    "published_at": "2025-05-26T22:40:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy3FBgqdXzyfBdP-WB4AaABAg.AIb4FVMtx6zAIbEhw2GYdL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "How cool - my fave thing is a hand cranked charger i made a couple of years ago - i use it to charge my phone - the video wasn't all that popular tbh",
+        "likes": 0,
+        "published_at": "2025-05-27T00:11:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx37GAVRPA2qrFy_cV4AaABAg",
+    "author": "@EastBayFlipper",
+    "author_channel_id": "UCQnoVp925RgwbJH-uQmLuVg",
+    "text": "Probably the most Victorian sounding name for a mechanical device I've ever heard 😂🤣😅👍🍻\nWonderful video ❤",
+    "likes": 0,
+    "published_at": "2025-05-26T22:25:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx37GAVRPA2qrFy_cV4AaABAg.AIb2UT0NqxBAIbEkOomX6V",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Isn't it thought lol",
+        "likes": 1,
+        "published_at": "2025-05-27T00:12:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzM_8lJpaXNopiAVkx4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Thank you Robert, this is keeping me ticking!!",
+    "likes": 1,
+    "published_at": "2025-05-26T21:43:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzM_8lJpaXNopiAVkx4AaABAg.AIaymgHimuQAIbEmBPxShZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers Andrea and all the best",
+        "likes": 2,
+        "published_at": "2025-05-27T00:12:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwOWGhPTyNj2upjt-h4AaABAg",
+    "author": "@Cor97",
+    "author_channel_id": "UC9DISmWSqOS1YUUtSsPSS8w",
+    "text": "Very nicely presented!  Thank you.",
+    "likes": 3,
+    "published_at": "2025-05-26T21:16:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwOWGhPTyNj2upjt-h4AaABAg.AIavg6EiK04AIbEmZ8SBYK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you enjoyed it!",
+        "likes": 1,
+        "published_at": "2025-05-27T00:12:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaiLxaDqgyU-dZ5394AaABAg",
+    "author": "@Tom-c1q2k",
+    "author_channel_id": "UCMqKku-0G5vrK8UgAHGlolg",
+    "text": "roll a mass over a bridge super heavy but OK. DROP THE MASS FROM A small HIGHT OVER THE travelled path. the bridge will fail. carryin a load. n impact of a tiny load. on same structure. aint the same. sudden impact of load aint the same as carrying the same load as a constent. electronics with lecky. use this many times as n output boost with switching n charging. same as hammer effect on hydraulic water pumps. same maths. lecky flow or water hydraulics.  the serge peak can be grabbed to boost output. but only 4 a mo. hydro ram pumps need the ram effect of water to drive the pressure boost up the pipe to pump the massive pressure heads this kit can produce. LOVE IN YA WORK.",
+    "likes": 1,
+    "published_at": "2025-05-26T20:52:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwaiLxaDqgyU-dZ5394AaABAg.AIastbnlX7fAIbEpf7LHH_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-27T00:12:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwToricWbc5CRsWmTd4AaABAg",
+    "author": "@actudoran",
+    "author_channel_id": "UCs7LQVTF2mTw2waTWx7IS_w",
+    "text": "oohh nice ! \n\ngetting crafty with a lick of paint too 😅",
+    "likes": 2,
+    "published_at": "2025-05-26T20:52:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwToricWbc5CRsWmTd4AaABAg.AIasriuJfmVAIbErdq_BE1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's the innate artist in me mate lol",
+        "likes": 2,
+        "published_at": "2025-05-27T00:13:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwGbtZYizMxezAYjC14AaABAg",
+    "author": "@lasskinn",
+    "author_channel_id": "UCRfF3yA27KYNTalh4aK3Ohg",
+    "text": "Very nice. The old flying tourbillion design on thingiverse while nice looking is fiddly to get to run without getting stuck",
+    "likes": 2,
+    "published_at": "2025-05-26T20:48:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGbtZYizMxezAYjC14AaABAg.AIasTvrw0X-AIbEzvCtWLS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and yes they can be fiddly",
+        "likes": 1,
+        "published_at": "2025-05-27T00:14:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxCIWzCrwBWruR85e14AaABAg",
+    "author": "@marjon1703",
+    "author_channel_id": "UCAjqAy35G3bLd_XP5rnaWxQ",
+    "text": "I am so exited with this new direction! Yet again you make my brain fire :)",
+    "likes": 2,
+    "published_at": "2025-05-26T20:05:55Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxCIWzCrwBWruR85e14AaABAg.AIanZPqMrPmAIbExkGJtZe",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T00:14:03Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxr-QEixxB03jNhRv14AaABAg",
+    "author": "@Woffy.",
+    "author_channel_id": "UCrVAyPqe4uDGqHFI2nJsrmg",
+    "text": "Pendulums are sometimes Ok,  My 244 year old Grandfather clock (Bill) yesterday was two seconds fast after seven days, the temperature this week as been stable at 17.5 C and the pendulum is happy. It will slow a few seconds a week as the weather improves and catch up in the winter. The mechanism is very worn and sloppy but does its job.    \nNice model Mr Smith.",
+    "likes": 4,
+    "published_at": "2025-05-26T19:34:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzPn0lQ8FLm7pgW0nZ4AaABAg",
+    "author": "@SgtBloodandGuts",
+    "author_channel_id": "UCOPvLPDn09xSyZSP6-nfScg",
+    "text": "Great video as usual, the mechanism is Tourbillon, not Tourbillion. French for whirlwind.",
+    "likes": 1,
+    "published_at": "2025-05-26T19:11:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzPn0lQ8FLm7pgW0nZ4AaABAg.AIahMTpQNvFAIbF19rxQWR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and thanks for the correction",
+        "likes": 0,
+        "published_at": "2025-05-27T00:14:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwcdh9uvp270JnLIT94AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "I like my idea of using the tourbillion as a generator. If one isn't enough, you could make a dozen of these. Add some supercapacitors, and a battery to charge.",
+    "likes": 3,
+    "published_at": "2025-05-26T18:36:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwcdh9uvp270JnLIT94AaABAg.AIadLHCvyICAIbzqyJJ1ui",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T07:12:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwpKp5kAp4fEZZzi7t4AaABAg",
+    "author": "@orpheuscreativeco9236",
+    "author_channel_id": "UCkeMoNnpg96EEgb_Igl_n6g",
+    "text": "Top notch! ✌️😀 This is _REALLY_ cool Rob!",
+    "likes": 3,
+    "published_at": "2025-05-26T18:08:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwpKp5kAp4fEZZzi7t4AaABAg.AIaa928dmSQAIbF3j7qU-1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh wow - cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T00:15:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwX5QlqO-QwwnA4ruZ4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "😎👍",
+    "likes": 1,
+    "published_at": "2025-05-26T17:59:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwX5QlqO-QwwnA4ruZ4AaABAg.AIa_4VpumLaAIbzpoeZMWp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-27T07:12:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwDOSR6fttVSDjzIeZ4AaABAg",
+    "author": "@wibblywobblyidiotvision",
+    "author_channel_id": "UCwCpl4Xra2tHBNF7ibrqXtA",
+    "text": "Nice build, that's a really nice model.  Just one thing, which really irks my bilingual side.  It's a \"tourbillon\", not a \"tourbillion\", and it's pronounced \"tor-bee-on\"",
+    "likes": 1,
+    "published_at": "2025-05-26T17:36:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwDOSR6fttVSDjzIeZ4AaABAg.AIaXUDW4gDkAIbF8VFQHdZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate and thanks for the correction - i mean it - i really didn't know how to pronounce it",
+        "likes": 0,
+        "published_at": "2025-05-27T00:15:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQbIyrvVDmbr2U1PN4AaABAg",
+    "author": "@lockdownudein",
+    "author_channel_id": "UC1yyJuBqZlrc6N1weKMi0yQ",
+    "text": "The GOAT of mechanisms!",
+    "likes": 0,
+    "published_at": "2025-05-26T17:01:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQbIyrvVDmbr2U1PN4AaABAg.AIaTSXd1FRSAIbzokvMBMJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hard to disagree with that mate",
+        "likes": 0,
+        "published_at": "2025-05-27T07:12:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzTu8khe3HRRc07Mx4AaABAg",
+    "author": "@mfree80286",
+    "author_channel_id": "UCq4kQ0I-aNK3CyJQZOziV6A",
+    "text": "I've had great luck with using larger bearings for light-force items by peeling the shields off and flushing the grease out of the cage, then giving it just a little graphite. I've got a 6203ZZ in front of me right now that's had that treatment and the outer race can be spun like a fidget spinner for a 3-4 second rundown. Will it last? No. Will it take the rated load? No. Will it let you use an easier to manage/easier to obtain bearing type in a printed application where free running is more valuable than load capacity? Absolutely.",
+    "likes": 0,
+    "published_at": "2025-05-26T16:41:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwzTu8khe3HRRc07Mx4AaABAg.AIaR8JI5d57AIbzvc5SWIY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice mate",
+        "likes": 0,
+        "published_at": "2025-05-27T07:13:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHt76S-yHFJkVhxEx4AaABAg",
+    "author": "@OZtwo",
+    "author_channel_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+    "text": "I hope you got my email from JWM.",
+    "likes": 1,
+    "published_at": "2025-05-26T16:38:15Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwHt76S-yHFJkVhxEx4AaABAg.AIaQnRC5Z7nAIbzxwBzxdo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am sorry mate - i get a lot of emails and i haven't noticed it",
+        "likes": 0,
+        "published_at": "2025-05-27T07:13:30Z"
+      },
+      {
+        "id": "UgwHt76S-yHFJkVhxEx4AaABAg.AIaQnRC5Z7nAIc-xJwvttE",
+        "author": "@OZtwo",
+        "author_channel_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+        "text": "@ThinkingandTinkering Yes, sorry, forgot my email has my rl name. :) will resend soon. Cool gearing refs.",
+        "likes": 0,
+        "published_at": "2025-05-27T07:22:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzfi4kFB3s-DnlGpd14AaABAg",
+    "author": "@Robert-y2k7s",
+    "author_channel_id": "UCOvgJpqeajtAYQQKYZ2vj4Q",
+    "text": "Your spring design is very amazing. Printing it into its required shape, genius! I have watched a dozen YouTubes about making hair spring because I have a very nice vacuum gauge which would be very nice indeed but for the broken hair spring that is supposed to balance out the jerks and bounces of the pointer on the dial. Such a perfect solution.",
+    "likes": 1,
+    "published_at": "2025-05-26T16:34:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzfi4kFB3s-DnlGpd14AaABAg.AIaQLU1e0VgAIbzyT3K5c7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thank you!",
+        "likes": 0,
+        "published_at": "2025-05-27T07:13:34Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwk7MoaCuvKghNr7694AaABAg",
+    "author": "@lawr5764",
+    "author_channel_id": "UCZCKZZ8COUPFxDuYtoI24Ww",
+    "text": "I thought it was pronounced tour-be-yon.  You never know what you don't know,  I guess.",
+    "likes": 0,
+    "published_at": "2025-05-26T15:45:00Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwk7MoaCuvKghNr7694AaABAg.AIaKhOa7ooJAIc-07ALTrj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it probably is mate - i just guessed how to pronounce it",
+        "likes": 1,
+        "published_at": "2025-05-27T07:13:56Z"
+      },
+      {
+        "id": "Ugwk7MoaCuvKghNr7694AaABAg.AIaKhOa7ooJAIcchWg9YqX",
+        "author": "@lawr5764",
+        "author_channel_id": "UCZCKZZ8COUPFxDuYtoI24Ww",
+        "text": "​@ThinkingandTinkering Haha... as a yank, I should now mention \"aluminum. \"",
+        "likes": 0,
+        "published_at": "2025-05-27T13:09:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOozrK6wiH0CXf7Nd4AaABAg",
+    "author": "@KronosGodwisen",
+    "author_channel_id": "UCWihwwWM5API2GgZxfcH2lA",
+    "text": "We're getting a bit steam punk. Or is it wind punk? Looking cool.\n\nIs it better to stick to the same plastic for that one pin that is experiencing stress or use a stronger material? Plastic might snap. Metal might damage the other parts. Compromise with wood, or is that even more brittle?\n\nIt's getting more complicated, and cooler, with the clockwork. It's sure to be a great way to get power at a steady rate.",
+    "likes": 1,
+    "published_at": "2025-05-26T15:43:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxOozrK6wiH0CXf7Nd4AaABAg.AIaKU_q9TOsAIc-7kO7Uoq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's better to mix it up with more appropriate material smate - this is just to show how it's made",
+        "likes": 0,
+        "published_at": "2025-05-27T07:14:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZmqWIE87zuE6uqP94AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Looks fantastic rob 👍",
+    "likes": 1,
+    "published_at": "2025-05-26T15:17:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZmqWIE87zuE6uqP94AaABAg.AIaHX76uzrHAIc-8i5bm5u",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T07:15:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz3JWgkY6amBtCc3cN4AaABAg",
+    "author": "@jamesross1003",
+    "author_channel_id": "UCuQv30LQ29W9_I-dcbfWVlw",
+    "text": "Thanks Rob!  Always wondered how the escapement timing on these worked.  Great job explaining it.  Colors are beautiful on it by the way!  Thanks again for the video.",
+    "likes": 2,
+    "published_at": "2025-05-26T15:15:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz3JWgkY6amBtCc3cN4AaABAg.AIaHMBX3SQfAIc-AKpZRfu",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 2,
+        "published_at": "2025-05-27T07:15:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyrhInI2ozdz7Kdkp4AaABAg",
+    "author": "@Bapate-rh9be",
+    "author_channel_id": "UCNiXoUNoru0nnTBqIHy_0MQ",
+    "text": "Agctuatallly - Technically speaking pendulums only have a period independent from the amplitude if you set sin(x) = x which is only applicable with any precision at very low deflections. So tourbillons are technically better, as they do not have this defect.",
+    "likes": 2,
+    "published_at": "2025-05-26T15:11:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyrhInI2ozdz7Kdkp4AaABAg.AIaGsehtW3CAIc-BCNJ07U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T07:15:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUS8WgX3kXf969aw94AaABAg",
+    "author": "@Killianwsh",
+    "author_channel_id": "UCviu_EAdb7cnqrFA7XyRzzw",
+    "text": "Thanks Rob! Great video!",
+    "likes": 1,
+    "published_at": "2025-05-26T14:47:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwUS8WgX3kXf969aw94AaABAg.AIaE8VjdN_7AIc-C6pXCZR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T07:15:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyAcEJK-icU-647VV4AaABAg",
+    "author": "@juliancripps1580",
+    "author_channel_id": "UCVZgM_mUeDAGU8nFK5OnHWA",
+    "text": "Great…..",
+    "likes": 1,
+    "published_at": "2025-05-26T14:40:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyAcEJK-icU-647VV4AaABAg.AIaDJR1uqHxAIc-DhUW7FR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate",
+        "likes": 0,
+        "published_at": "2025-05-27T07:15:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyiB52ts_4-hPyVn814AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "👍💪✌",
+    "likes": 3,
+    "published_at": "2025-05-26T14:17:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyiB52ts_4-hPyVn814AaABAg.AIaAjtWvPtAAIc-EmrAl3Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T07:15:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFlbBeV-E9yD2z-kV4AaABAg",
+    "author": "@AshkonHemmati",
+    "author_channel_id": "UCgLaS01BbmRT1PlIId-0VJg",
+    "text": "You are one of my heroes, sir!  You remind me of myself in the future.",
+    "likes": 4,
+    "published_at": "2025-05-26T14:17:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyFlbBeV-E9yD2z-kV4AaABAg.AIaAdF2pFt7AIbE3R6ve7d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Wow, thank you mate - that's a really kind thing to say",
+        "likes": 0,
+        "published_at": "2025-05-27T00:06:13Z"
+      },
+      {
+        "id": "UgyFlbBeV-E9yD2z-kV4AaABAg.AIaAdF2pFt7AIc7_H0NJpE",
+        "author": "@AshkonHemmati",
+        "author_channel_id": "UCgLaS01BbmRT1PlIId-0VJg",
+        "text": "@ThinkingandTinkering really, I mean it; if I could build a \"save the Earth gigantic robot\" like PowerRangers, you'd undoubtedly be a limb!  Other limbs include Chuck Swindoll Jr., Rupert Spira, and AvE.",
+        "likes": 0,
+        "published_at": "2025-05-27T08:28:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBPHc45YrIvkHQkz54AaABAg",
+    "author": "@mickeyfilmer5551",
+    "author_channel_id": "UCDHa2fcSs2-cfVcwZgAeOjA",
+    "text": "I have always said that if I did win the lottery- my one big buy would be a quality tourbillion watch- unfortunately Rolex dont make them, so I will one day treat myself to a run of the mill one off Amazon.",
+    "likes": 1,
+    "published_at": "2025-05-26T14:12:56Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzBPHc45YrIvkHQkz54AaABAg.AIaAA80hnUiAIaXPAghd44",
+        "author": "@StepDub",
+        "author_channel_id": "UCBGKfkrFPG7o7EzdjwdbcJg",
+        "text": "There are some nice looking ones coming from china. Can’t speak to their quality but some are around 1000 bucks, which seems almost unbelievable.",
+        "likes": 0,
+        "published_at": "2025-05-26T17:35:58Z"
+      },
+      {
+        "id": "UgzBPHc45YrIvkHQkz54AaABAg.AIaAA80hnUiAIbE5O-DrvD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice plan mate - go for it",
+        "likes": 0,
+        "published_at": "2025-05-27T00:06:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzoYNF2j0ZlcZrau-B4AaABAg",
+    "author": "@12thsonofisrael",
+    "author_channel_id": "UCyW9pL-ztSTgOJ_uihxq26w",
+    "text": "Thank you 🕊",
+    "likes": 3,
+    "published_at": "2025-05-26T14:12:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzoYNF2j0ZlcZrau-B4AaABAg.AIaA8UlmKB_AIbE0qKNWQW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Any time!",
+        "likes": 1,
+        "published_at": "2025-05-27T00:05:52Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSt9dKcM5oUVgtXq94AaABAg",
+    "author": "@morphles",
+    "author_channel_id": "UCVgWRrHwrVxXFG_N7kZDBGQ",
+    "text": "Cool and all, but plastic springs are super duper lame, as they loose too much energy. Got that problem with my lego clock experiments. So I strongly suggest using somewhat more real spring :)",
+    "likes": 4,
+    "published_at": "2025-05-26T14:02:08Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgwSt9dKcM5oUVgtXq94AaABAg.AIa8vz4heJcAIaB8nAwxOW",
+        "author": "@l0I0I0I0",
+        "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+        "text": "Just a prototype.",
+        "likes": 5,
+        "published_at": "2025-05-26T14:21:30Z"
+      },
+      {
+        "id": "UgwSt9dKcM5oUVgtXq94AaABAg.AIa8vz4heJcAIaDGZn5qoQ",
+        "author": "@morphles",
+        "author_channel_id": "UCVgWRrHwrVxXFG_N7kZDBGQ",
+        "text": "@l0I0I0I0 Doesn't matter, the scale of difference is just way too large. If you try to proceed you'll soon see that input is wildly different to plastic vs plastic spring. Unless you mean it's toy/proof of concept :) Seriously, the difference is very significant.",
+        "likes": 2,
+        "published_at": "2025-05-26T14:40:02Z"
+      },
+      {
+        "id": "UgwSt9dKcM5oUVgtXq94AaABAg.AIa8vz4heJcAIaHfHr90QT",
+        "author": "@l0I0I0I0",
+        "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+        "text": "​@morphles  ty for the heads up. Yes modifications are expected and the spring  will be vastly different amd diff material. But thanks for the note!",
+        "likes": 2,
+        "published_at": "2025-05-26T15:18:30Z"
+      },
+      {
+        "id": "UgwSt9dKcM5oUVgtXq94AaABAg.AIa8vz4heJcAIb-LtEb2NC",
+        "author": "@MostlyPennyCat",
+        "author_channel_id": "UC8gjgAh36-7cXcoXoKmzgfw",
+        "text": "​@l0I0I0I0\nYou can still build a prototype out of inappropriate materials and call it a prototype.",
+        "likes": 1,
+        "published_at": "2025-05-26T21:57:40Z"
+      },
+      {
+        "id": "UgwSt9dKcM5oUVgtXq94AaABAg.AIa8vz4heJcAIbDtK02ha9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "To be honest - it is always a question of what to do - i get what you are saying but you have to remember i have a different objective than just producing a model to copy. The main idea here is as a kind of teaching aid. I am more interested in folks getting hold of what it is, how it's put together and what aspects are important. That way I hope they will take those ideas and design their own mechanisms rather than copy mine. It's why I left out the regulator. The idea is folks will want to design their own regulator and hopefully improve this with better materials and more complex design as the basic idea has been explored - or at least that is my hope. So, I like your comment - you are quite right - but I also hope you can see why I did a plastic spring.",
+        "likes": 9,
+        "published_at": "2025-05-27T00:04:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykL_mkJ4HtsI3qfAJ4AaABAg",
+    "author": "@SierraNovemberKilo",
+    "author_channel_id": "UC0LDYJ56V8a37ZI7oDrA1Gw",
+    "text": "Ah....now I see. Thanks for the education!",
+    "likes": 5,
+    "published_at": "2025-05-26T14:01:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykL_mkJ4HtsI3qfAJ4AaABAg.AIa8tK8BDSEAIbDvPlWeik",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T00:04:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz_tvuHjrVOK1hGgIF4AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "I've been working on a specific design for many year now and THIS will work perfectly!  We need to get a group together to get U a metal printer!",
+    "likes": 3,
+    "published_at": "2025-05-26T13:54:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugz_tvuHjrVOK1hGgIF4AaABAg.AIa81t_gLEvAIaBNh2eZrc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I may have that sorted mate!",
+        "likes": 9,
+        "published_at": "2025-05-26T14:23:32Z"
+      },
+      {
+        "id": "Ugz_tvuHjrVOK1hGgIF4AaABAg.AIa81t_gLEvAIaHNsLXGxe",
+        "author": "@l0I0I0I0",
+        "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+        "text": "Nice!. 🎉 ​@ThinkingandTinkering",
+        "likes": 3,
+        "published_at": "2025-05-26T15:15:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8xBOL52vf_4oyjj14AaABAg",
+    "author": "@l0I0I0I0",
+    "author_channel_id": "UCQOg6ujmK1wrjqnmDsADeGQ",
+    "text": "LOVE IT!  ❤  TY!",
+    "likes": 3,
+    "published_at": "2025-05-26T13:42:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw8xBOL52vf_4oyjj14AaABAg.AIa6fwokeYyAIbDzphFwU9",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T00:05:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgytH4-NpOZBW0Lbg_F4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 3,
+    "published_at": "2025-05-26T13:37:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgytH4-NpOZBW0Lbg_F4AaABAg.AIa66ipo9l_AIbE-qTSppP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-27T00:05:44Z"
+      }
+    ]
+  }
+]

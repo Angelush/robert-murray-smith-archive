@@ -1,0 +1,593 @@
+[00:01] foreign
+[00:05] [Music]
+[00:13] control now the problem with heating
+[00:16] control is it's like shopping in your
+[00:18] Supermarket I heard on the news that
+[00:21] kids these days when they go shopping in
+[00:22] the supermarket where they think cool
+[00:25] food comes from it's the supermarket and
+[00:29] when they do something like take them to
+[00:30] visit a farm they're actually quite
+[00:32] shocked that these little animals are
+[00:34] running around end up in plastic buckets
+[00:36] and the food actually comes from farms
+[00:39] not the supermarket this is a huge
+[00:42] realization to kids and the thing about
+[00:44] wiring resistive heaters it's not that
+[00:48] different
+[00:49] when you start to look at stuff so how
+[00:52] many of you have actually taken apart a
+[00:54] toaster or a kettle or an iron or a
+[00:58] light I know lots of people will have
+[01:00] done but I know lots of people won't
+[01:02] have done if you take those things apart
+[01:05] the one thing that's gonna blow your
+[01:08] mind is how simple they are and that's
+[01:13] the thing about resistive heating it's
+[01:15] really stupidly simple
+[01:19] in its Basics and to do but understand
+[01:23] it we need to know a little bit more
+[01:25] about it a little bit more we need to
+[01:28] know about it is Ohm's Law because the
+[01:31] minute you mentioned something like that
+[01:33] which is really fancy it scares the
+[01:36] majesis out of a whole load of people
+[01:37] but Ohm's law
+[01:39] is a really very basic thing because
+[01:42] there are three factors involved in
+[01:45] resistive Heating and using electricity
+[01:47] to do it
+[01:48] the voltage the ampage and the
+[01:52] resistance you get those sort of those
+[01:55] three things you're going to understand
+[01:56] it and Ohm's Law relates those three
+[02:00] things to each other because there is a
+[02:03] relationship
+[02:05] so the traditional way of looking at
+[02:07] electricity is like water in a pipe it's
+[02:10] pretty useful to think of it that way
+[02:11] another way that I like to think about
+[02:13] it is rocks on a hill if you have a
+[02:16] bunch of rocks on a hill and you want to
+[02:19] roll them down to the bottom then it
+[02:21] will depend how steep the hill is if the
+[02:24] Hill's very steep they'll roll easily
+[02:26] it's very shallow it's very difficult to
+[02:29] get them to roll that steepness of the
+[02:32] hill is the voltage there is some level
+[02:35] at which the rock will roll all by
+[02:37] itself and that's the voltage where a
+[02:40] current will pass so the rocks are your
+[02:42] amps the hill and its steepness is your
+[02:45] voltage and of course Hills aren't
+[02:48] smooth they're lumpy the more lumpy it
+[02:51] is then the harder it is to get the
+[02:53] rocks to roll the hill needs to be
+[02:55] steeper until they'll roll because the
+[02:58] hill is Lumpy if the hill is smooth of
+[03:00] course it's going to roll down really
+[03:02] easily and you don't need a very Steep
+[03:03] Hill to make it roll down so how lumpy
+[03:06] they are is the resistance the rocks are
+[03:10] the amps and the sneakness of the hill
+[03:13] is the voltage so that's kind of a nice
+[03:16] way to think about it at this level now
+[03:18] om bless his heart did an awful lot to
+[03:20] work on this stuff and he essentially
+[03:23] measured it and he spent ages measuring
+[03:26] it and it came out with this little
+[03:27] formula to tell us how a rock will
+[03:31] behave on a hill depending on its
+[03:33] steepness and how lumpy it was so the
+[03:36] lumpiness is the resistance the
+[03:38] steepness is the voltage and the current
+[03:42] are the rocks and that's where we get V
+[03:45] equals IR from voltage equals resistance
+[03:48] times the current all it means is if we
+[03:52] have a certain voltage with a certain
+[03:54] resistance we will get that amount of
+[03:58] current it must be true because the hell
+[04:01] is so steep with so much lump and so the
+[04:05] rocks will roll down if it's not that
+[04:08] they'll just sit there and say you won't
+[04:10] get any current because there's nothing
+[04:12] that can make it go down that Hill
+[04:15] another way of looking at voltage is the
+[04:17] push that you give the rock to actually
+[04:20] make it start rolling so these are
+[04:23] essential Concepts to understand and get
+[04:25] hold of when you're thinking about
+[04:28] resistive heaters
+[04:29] so how does that help when thinking
+[04:31] about resistive heaters well amps we
+[04:34] can't control they're just what we're
+[04:36] given amps in fact are a measure of the
+[04:39] number of electrons passing a point at a
+[04:42] certain time amps are a physical thing
+[04:45] that electrons zipping past it's the
+[04:48] electrons that do the work it's the
+[04:50] electrons that carry all the energy from
+[04:52] Ponte to point B and then do something
+[04:55] and unfortunately those we can't control
+[04:59] we can control the voltage and the
+[05:02] resistance we can make the hill steeper
+[05:04] or we can make it rougher that will in
+[05:07] itself control the amps steeper it is
+[05:10] the more will flow the smoother it is
+[05:12] the more will flow the rougher it is the
+[05:15] shallower it is the less will flow so by
+[05:18] changing voltage and resistance we can
+[05:21] change how many amps but the amps itself
+[05:25] we can't control we only control voltage
+[05:29] and resistance and that will fix how
+[05:32] many amps will flow now the amps the
+[05:35] electrons they're the ones that do the
+[05:37] work when they're moving past something
+[05:40] they're rubbing and of course when
+[05:42] something rubs it gets warm just try
+[05:44] rubbing your hands together they get
+[05:46] nice and warm the more amps we have the
+[05:49] more electrons we have rubbing on
+[05:51] something then the hotter it's gonna get
+[05:55] so having enough amps to get it hot is
+[05:58] what we're aiming for having not enough
+[06:01] amps so that we melt everything into a
+[06:04] greasy spot is also what we're aiming
+[06:07] for the way we do that is by controlling
+[06:11] resistance and voltage that will change
+[06:15] how many amps flow past
+[06:18] now the reason that's important is
+[06:20] because we live in a real world and in
+[06:22] the real world our electricity Supply if
+[06:25] you look underneath these stairs and
+[06:27] have a look at the consumer unit we'll
+[06:29] have circuit breakers in it no circuit
+[06:31] breakers have fixed amps that are
+[06:33] allowed to draw on a lighting circuit
+[06:36] you'll see six amp circuit breakers
+[06:37] which means if you draw more than six
+[06:39] amps then it's going to flick off and
+[06:42] you're going to lose your lights a plug
+[06:44] circuit is 32 amps and then there are
+[06:46] special circuits that you have different
+[06:48] amp rating circuit breakers but what it
+[06:51] means is the electricity supplier
+[06:53] only wants you to have six amps through
+[06:55] your lighting circuit because that's all
+[06:57] you're going to need but it's also all
+[07:01] you really can draw so you are unlimited
+[07:03] to six amps or less now of course it's a
+[07:07] lighting circuit so you've got lights
+[07:09] everywhere so the whole thing on that
+[07:12] circuit normally there's a couple of the
+[07:14] matches the downstairs and an upstairs
+[07:15] and quite often you find another circuit
+[07:17] run to things like your shed in your
+[07:19] Conservatory but you only want six amps
+[07:23] drawn on that at any one time so you
+[07:25] have to limit the amount of amps that
+[07:28] you're going to draw because that's what
+[07:31] your circuit breaker is going to give
+[07:32] you
+[07:33] when you realize that of course you're
+[07:35] going to trip your circuit you can give
+[07:36] it more than six amps you have to do
+[07:38] something to make sure that you don't
+[07:40] allow more than six amps through there
+[07:42] and guess what you do you fiddle on with
+[07:45] the voltage and the resistance now of
+[07:48] course in the UK we get a fixed house
+[07:50] voltage at 230 volts and of course in
+[07:53] USA I think it's 110 that you get so
+[07:55] your voltage is usually fixed by your
+[07:59] supplier so you have these two things
+[08:00] that are fixed voltage and amperage
+[08:04] we've got your modern six somewhere
+[08:05] supplied 230 so the question becomes
+[08:08] what resistance do we need
+[08:11] well to get that answer we can go
+[08:13] straight to our Ohm's law and use
+[08:15] Vehicles IR so let's say we have a
+[08:19] normal light bulb at the old type the
+[08:21] filament light bulb which is an
+[08:22] incandescent lamp that actually is just
+[08:25] a resistor it gets hotter when it gets
+[08:27] hot it gives out light it also gives out
+[08:29] heat but it is just a resistor so if I
+[08:32] plug in a 60 watt light bulb into my 213
+[08:37] volt Supply then it will draw 60 watts
+[08:41] which means at 230 volts it is a quarter
+[08:45] of an amp more or less well that's
+[08:48] because the resistance on that lamp is
+[08:50] going to be in the region of 920 ohms as
+[08:54] long as I make that little wire in that
+[08:56] lamp 920 ohms and I put a 230 volt
+[09:01] Supply on there all it can do is draw a
+[09:06] quarter of an amp and that's all it will
+[09:09] do and it will only do that because of
+[09:11] that relationship between these things
+[09:13] it must do that that's why a light bulb
+[09:17] if you take it apart and look at it you
+[09:18] will see that it's effectively connected
+[09:20] to two bear wires there's nothing in
+[09:23] between the house Supply and a light
+[09:25] bulb because there doesn't have to be it
+[09:28] controls itself because we have set the
+[09:32] resistance at 920 ohms it can't do
+[09:36] anything else and so a quarter of an amp
+[09:39] it isn't going to flip your breaker
+[09:41] because it can't there is no other
+[09:43] control needed for a light bulb than
+[09:46] that and a light bulb of course is just
+[09:49] a heater and if you take apart a lamp
+[09:51] what you'll see is the wires going in to
+[09:54] the little prongs and nothing else
+[09:56] because that's all you need so same with
+[09:58] the kettle you look at a kettle the
+[10:00] kettle is rated at um three kilowatts
+[10:03] it's plugged into a men's Supply the
+[10:05] men's Supply will supply 230 volts at 32
+[10:08] amps you don't want it to go more than
+[10:12] 32 amps or you'll flip your breaker so
+[10:14] you want to restrict the amount of amps
+[10:16] going through your Kettle add a 230 volt
+[10:20] supply three kilowatt Kettle what that
+[10:22] means is
+[10:23] going to draw 13 amps and
+[10:27] it's going to have a resistance of
+[10:29] around about 17 ohms and that is all it
+[10:34] can do because we have set it by setting
+[10:39] the resistance that somebody something
+[10:41] has
+[10:42] restricts the amount of ounce it can
+[10:45] actually flow through it that's all the
+[10:47] control these circuits need
+[10:50] now the reason it's all the control they
+[10:53] need is because of the situation they're
+[10:54] in I mean a light bulb like that well
+[10:57] it's hanging in the ceiling in the fresh
+[10:59] air and the kettle is bathed in water
+[11:01] when those amps come in rubbing against
+[11:03] the resistance they create heat they
+[11:06] create the heat of the rate at which
+[11:08] they come in and how how they rub if
+[11:10] it's a light bulb hanging in the air of
+[11:12] course it gives that heat back out
+[11:14] almost immediately so the heat can't
+[11:17] build up it's given out and it's fine to
+[11:21] do that as long as it's in that
+[11:22] situation and because in a kettle it's
+[11:24] full of water it can't get hotter than
+[11:26] 100 degrees whatever you want until it
+[11:29] boils away it's why kettles should never
+[11:31] be run empty because they can get hotter
+[11:34] but once they're in water they can't
+[11:37] because all that heat goes straight into
+[11:39] the water to make the water bottle which
+[11:41] is what we want the kettle to do we want
+[11:42] to do it to do that as quickly as
+[11:45] possible without dripping the mains
+[11:46] which is why they're three kilowatts so
+[11:49] all I heat in that environment makes not
+[11:52] one bit of difference and so because
+[11:54] they're in the environment
+[11:56] that's why they don't need any more
+[11:59] control than that so again we've got a
+[12:01] fixed voltage Supply and we want to
+[12:03] restrict the amps the only thing we can
+[12:05] really do is control the resistance so
+[12:07] that we can control that whole situation
+[12:09] how do we actually do that well every
+[12:12] material has resistance actually
+[12:15] scientifically it's called resistivity
+[12:17] resistivity is a property of materials
+[12:20] just like height height is a property of
+[12:23] people but of course height different
+[12:25] differs from person to person
+[12:30] and of course it will differ from thing
+[12:32] to thing but all of them have got it
+[12:35] resistance is something slightly
+[12:38] different resistance is what's called a
+[12:40] geometric property resistivity is fixed
+[12:43] but if you change the thickness the size
+[12:48] the shape of that material you will
+[12:51] change its resistance what that means is
+[12:54] a thinner wire has more resistance than
+[12:56] a thicker wire but a material has the
+[12:59] same resistivity but it's easy enough
+[13:02] all you actually do is change the size
+[13:04] or the length of the material so it's
+[13:07] got more to pass through and that will
+[13:10] either increase or decrease the
+[13:12] resistance so a thick wire
+[13:16] with a very short distance has a very
+[13:19] short resistance and a lot of amps is
+[13:22] going to flow because the resistance is
+[13:25] low and you can see this just attach a
+[13:27] wire onto two terminals of a battery and
+[13:30] you will melt that wire
+[13:32] we have a very high resistance and so if
+[13:36] I were to grab hold of the terminals of
+[13:37] a 12 volt battery well it'll do nothing
+[13:39] at all because it can't flow because the
+[13:42] resistance is too high a short thick
+[13:45] cable zip through there and melt the
+[13:47] cable a thin long cable has a high
+[13:51] resistance remember resistance is a
+[13:54] property of geometry meaning how long
+[13:57] how sick you make it will make changes
+[14:01] to the resistance the thinner it is the
+[14:04] longer it is the more resistance the
+[14:07] thicker it is the shorter it is the
+[14:10] lower the resistance this is true for
+[14:13] every single material that there is
+[14:16] so if you know the voltage and we want
+[14:19] to make sure only a certain amount of
+[14:20] amps flow then we set the resistance by
+[14:24] changing the length or the thickness of
+[14:28] the material that we've been we are
+[14:30] going to use whether it's carbon or
+[14:32] whether it's heating wire or whatever it
+[14:34] is okay all of that's great but what's
+[14:38] it got to do with temperature how do we
+[14:40] control the temperature well heat and
+[14:44] temperature aren't the same thing
+[14:47] heat is the amount of energy you're
+[14:49] banging into something temperature is a
+[14:53] measure of the amount of energy you've
+[14:55] been able to keep in that thing when we
+[14:58] have something in the bare wind like a
+[15:00] light bulb and it's hanging there and
+[15:02] it's bone around then it can't keep its
+[15:04] heat in so it's temperature actually
+[15:06] isn't very high and that's great
+[15:10] if we surround that light bulb with a
+[15:13] load of insulation the temperature will
+[15:16] go up the temperature goes up because
+[15:19] the heat can't get anywhere it can't go
+[15:22] away it's staying in one place and
+[15:24] because you're banging more and more
+[15:26] energy you're creating more and more
+[15:28] heat and you're not letting it go
+[15:30] anywhere the temperature is going to go
+[15:33] up so temperature is actually more
+[15:37] property of what you put it in now
+[15:40] because there's a balance
+[15:42] if I were to bang a load of energy in
+[15:46] there high amps
+[15:48] that temperature is going to shoot up
+[15:50] quickly because we're generating a lot
+[15:52] of heat and we're not allowing it to go
+[15:55] anywhere quickly and so the temperature
+[15:56] will shoot up quickly
+[15:58] it will not put very much in there of
+[16:01] course the temperature is going to climb
+[16:03] slowly because we're keeping it in there
+[16:06] and putting very little in there now
+[16:09] eventually of course that heat is going
+[16:11] to leak out heat always leaks out heat
+[16:14] always wants to go from hot to cold and
+[16:17] it's gonna do it so there's a balance
+[16:19] point somewhere where the heat leakage
+[16:22] will balance with the heat input and
+[16:27] that's the temperature that you're going
+[16:29] to end up getting depending on the
+[16:32] situation it's in so if you stick a
+[16:34] thermometer in a kettle while you're
+[16:36] banging in three kilowatts of heat it'll
+[16:38] never go more than 100 degrees until the
+[16:40] water boils away because it's in that
+[16:43] environment so you need to get that
+[16:46] balance right in order to maintain that
+[16:50] temperature so in the foot warmer that
+[16:52] we made
+[16:53] when we just plug it in and turn it on
+[16:55] it's going to reach about 26 degrees in
+[16:58] that situation because there's nothing
+[17:00] else around it if I put my feet on it
+[17:02] and throw a blanket on it what I've done
+[17:04] is I've captured the area where the heat
+[17:08] can go to and prevented some of it
+[17:10] escaping because I've done that the
+[17:13] temperature will go up but the
+[17:15] temperature will go up only to the point
+[17:18] at which the heat input and the heat
+[17:20] escaping balance each other again and so
+[17:23] that temperature is going to rise to
+[17:24] about 35 degrees or so in a situation
+[17:27] like that because we're not putting much
+[17:29] power in there we're just preventing the
+[17:31] heat escaping and so the temperature
+[17:33] will go up a little bit now of course
+[17:35] that's not an ideal situation because
+[17:39] you still want a bit more control in the
+[17:42] situation like that you're not wanted to
+[17:45] climb to something you don't want you
+[17:47] don't know or because you know where is
+[17:49] it going to stop and that's going to
+[17:50] depend on how many Cuts you've got in
+[17:52] and how many sweaty feet are on that box
+[17:55] so how do you control it when you've got
+[17:58] a situation like that when it's not at
+[18:01] its natural balance point turns out
+[18:03] there's a few methods to do that and
+[18:05] that has equally simple the most basic
+[18:08] one is well turn it off the easiest way
+[18:11] to turn it off is just pull off the
+[18:13] positive wire because that's a little
+[18:14] inconvenient obviously so what you do is
+[18:17] you put a switch in that positive wire
+[18:19] so they wire goes into a switch and then
+[18:22] to your heating unit and you just have
+[18:24] hold of the switch when you press that
+[18:26] switch it breaks the positive wire and
+[18:29] then it rejoins the positive wire when
+[18:31] you press it on so you put a switch in
+[18:34] there now the basic one would be
+[18:36] switching your hand thermometer in your
+[18:38] other hand stick your thermometer up
+[18:39] your feet when it gets hot enough turn
+[18:42] it off cold enough turn it back on again
+[18:44] that is slightly inconvenient and
+[18:47] wouldn't it be great if there was
+[18:48] something that did that automatically
+[18:50] and guess what there is something that
+[18:53] does that automatically it's called a
+[18:56] thermal switch it's actually the same
+[18:59] thing you have in your iron it's the
+[19:00] same thing you have in your cooker and
+[19:02] it comes as a little package about one
+[19:03] centimeter square and in there there's a
+[19:07] little switch it's a bit of metal
+[19:08] actually when it gets hot and bends
+[19:11] that if you put it on your heating pad
+[19:13] when it gets to a temperature we'll open
+[19:16] the switch automatically at that
+[19:19] temperature and you can buy these
+[19:20] they're about a pound each and you get
+[19:22] them at a huge variety of temperatures
+[19:24] from 20 degrees 25 degrees 30 40 just as
+[19:28] enormous range and get what you want
+[19:30] actually and you put a switch like that
+[19:32] onto the heating pad connecting the
+[19:35] positive and the heating pad so it's
+[19:38] just like a switch it will do that
+[19:40] automatically because it does add the
+[19:43] temperatures on the package which in
+[19:45] themselves can be slightly inconvenient
+[19:47] sometimes you want to vary that
+[19:50] temperature because it will also do that
+[19:52] only at that temperature and sometimes
+[19:55] you want a range of temperatures for
+[19:58] example in your cooker you want
+[20:00] something that you can actually set to a
+[20:02] temperature and then you want something
+[20:04] you can change that setting to a
+[20:07] different temperature and guess what of
+[20:10] course they've got such things because
+[20:12] it's one in your cooker
+[20:15] so these kind of controllers can either
+[20:17] be mechanical in which case they're a
+[20:19] bi-metallic strip or they can be digital
+[20:21] now you find the mechanical ones you get
+[20:23] in your cooker okay digital ones are the
+[20:26] kind of thing you're going to be wanting
+[20:27] to use for your project and digital ones
+[20:30] don't use them a bimetallic strip they
+[20:33] use a thermocouple usually a care type
+[20:34] and of course when that heats up it
+[20:36] creates a slightly voltage and you have
+[20:38] a little box that interprets that
+[20:40] voltage as temperature so you have a
+[20:42] temperature sensor which is your
+[20:44] thermocouple and that goes on your pad
+[20:45] that sensor goes into the little box
+[20:48] that reads it as a temperature and it
+[20:51] has a switch inside where it can turn
+[20:54] off and on the supply now that's very
+[20:58] common for low voltage applications with
+[21:00] low amps because with high amps
+[21:02] everything's a bit more stringent and
+[21:05] what you find very often is something
+[21:06] called a PID controller and these are
+[21:09] industrial applications now and this is
+[21:11] the kind of thing you're going to find
+[21:12] in a kiln and what the PID controller
+[21:14] does is it sends a message on something
+[21:17] called a solid state to fire that's a
+[21:20] solid state switch that solid state
+[21:23] right I can handle wow hundreds of amps
+[21:26] actually some of them quite common is a
+[21:28] 40 amp version and it turns that switch
+[21:31] off so your main power supply goes into
+[21:33] the SSR your SSR control goes to your
+[21:37] pitch controller and your pig controller
+[21:39] gets its information from a k-time
+[21:42] thermocouple if you ever want to wire
+[21:44] something like that together I've done
+[21:47] these videos on how to wire together
+[21:49] Kilns but normally pit controllers come
+[21:52] with a pretty little picture on the side
+[21:54] of the controller telling you which bit
+[21:57] screws into which bit so practically all
+[22:00] you're actually doing is screwing the
+[22:01] right connections together and making
+[22:03] sure that your temperature sensor is on
+[22:04] your heating unit
+[22:07] now I often get asked does it matter if
+[22:09] it's DC or AC an under resistive loans
+[22:12] no now AC doesn't have resistance it has
+[22:16] something called impedance impedance it
+[22:19] arises because of the sinusoidal
+[22:21] waveform of AC it has an unreal
+[22:23] component and a real component but in
+[22:26] resistive loads there is no unreal
+[22:29] component so impedance equals resistance
+[22:31] what it actually means as far as what
+[22:33] I'm concerned is there's no difference
+[22:35] you don't have to do anything an AC or a
+[22:39] DC work exactly the same but the only
+[22:42] thing you really need to pay attention
+[22:43] to is if you're using an SSR then you'll
+[22:47] need to pay attention to it okay but if
+[22:51] you're just doing a straightforward
+[22:52] application it doesn't make a blind bit
+[22:55] of difference for you because impedance
+[22:56] and resistance are equal under resistive
+[22:59] loads
+[23:00] okay so I I appreciate that's a lot of
+[23:03] information to give in one video so in
+[23:05] summary to control the output of any
+[23:09] heating pad there are three options that
+[23:12] you've got one is do nothing at all
+[23:15] because you don't need to there you're
+[23:17] gonna have to be careful with the
+[23:18] temperature to a degree and that's going
+[23:20] to be an environment in which it's
+[23:21] working and you can work all of that
+[23:23] stuff out using your Ohm's law that's
+[23:25] very unsatisfactory for people so
+[23:27] there's option two which is put a
+[23:29] thermal cut-off switch at a set
+[23:31] temperature that is just a piece of cake
+[23:33] it's really easy to do you wire it in
+[23:35] just like you wire a switch and the
+[23:37] third one and this is where you're using
+[23:39] really heavy duty stuff well you want
+[23:42] real control over the power setting
+[23:44] levels that one then you're going to be
+[23:47] using an electronic controller with a
+[23:49] thermocouple so those are the ranges now
+[23:52] if you want something really really
+[23:54] basic then you can have set temperatures
+[23:58] that you can switch to and you just do
+[24:00] that by having a number of those set
+[24:02] switches so say you want a high low
+[24:04] medium you just have three of those
+[24:06] things and you wire those in so that
+[24:09] they will switch independently and cut
+[24:11] the power off depending on which setting
+[24:13] high low medium you've actually put so
+[24:17] at an absolute piece of cake once you
+[24:19] get your head around those kind of
+[24:20] things and practically to do it it's
+[24:23] follow the pictures and pay attention to
+[24:26] what's written on the little unit that
+[24:27] you've got so in practice that simple in
+[24:31] theory a little bit more complicated
+[24:33] because you have to get hold of your
+[24:34] Ohm's law but Ohm's law
+[24:36] it's really simple to understand and for
+[24:39] resistive heating it doesn't matter you
+[24:42] can still apply your Ohm's law anyway I
+[24:44] sincerely hope this helped because I
+[24:46] think that
+[24:47] um making your own heating appliances
+[24:49] particularly
+[24:51] um micro climate warmers uh heating your
+[24:54] clothes that sort of stuff it's really
+[24:56] simple really cheap really easy and
+[24:59] people worry about it because they can't
+[25:01] get their heads around that sort of
+[25:02] stuff so I hope it helped and thank you
+[25:04] very much for watching

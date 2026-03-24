@@ -1,0 +1,413 @@
+[
+  {
+    "id": "UgxHifxgkEF5F6fE7EB4AaABAg",
+    "author": "@Sourav-b9m",
+    "author_channel_id": "UCgFybj-lpUSyr0MsmxGCM5g",
+    "text": "I have a 1000kv delta configuration bldc motor. I want to run it with 5-12v 50hz transformer. Motor's phase to phase resistance is 0.24ohm. \nWhat will be the capacitor value?",
+    "likes": 1,
+    "published_at": "2025-07-23T17:12:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwpXlH5lMqPFdHCEeV4AaABAg",
+    "author": "@Matriarchy_Feminism",
+    "author_channel_id": "UCWGhbp1m4a635cwYUm0xspA",
+    "text": "Thank you so much grandpa ☺️👍👍",
+    "likes": 1,
+    "published_at": "2020-01-11T12:17:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLQapuo0IOhe9hhMN4AaABAg",
+    "author": "@user-rs8zg8ey2b",
+    "author_channel_id": "UCO4x8GSKKcMkuVkVusPEYjw",
+    "text": "Thanks for the cap info! Will play with it. I got my HDD motor to spin 25,000 rpm with a single fet and freq generator, see here: https://www.youtube.com/watch?v=SRk651ThM0k",
+    "likes": 0,
+    "published_at": "2019-06-14T16:05:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxqrDFmeKtkmdPLRPd4AaABAg",
+    "author": "@shadadalhaj7576",
+    "author_channel_id": "UC5eUW3N0Trn5rRThdGJ37bg",
+    "text": "Thank you very much. Best lesson I believe",
+    "likes": 1,
+    "published_at": "2019-02-10T17:30:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz51sQDEB_2H3Ty2DV4AaABAg",
+    "author": "@theuse0003",
+    "author_channel_id": "UC2oicpRofKKFl2QHxR7iw7A",
+    "text": "Wiring instructions please",
+    "likes": 0,
+    "published_at": "2019-02-01T12:15:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZXHUPI6ib_edgYON4AaABAg",
+    "author": "@tinkmarshino",
+    "author_channel_id": "UCILUza8HB5zmSMb3sS3rqPw",
+    "text": "with your accent and the slight echo I can hard understand what you are saying.. although I am 66 and my hearing has been very used over the years.",
+    "likes": 0,
+    "published_at": "2019-01-26T23:35:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzzsbPKg-eujDd-jTh4AaABAg",
+    "author": "@pacerodi",
+    "author_channel_id": "UCQkCEaToleI7pdAnO3eho9A",
+    "text": "Very good info, Murray, but its not up to speed. Darren Hoffer  found an excellent little PNP-NPN circuit that does it. Cheers! You are, or have, or had been doing a great work to promote the trade. Cheers again, mate!",
+    "likes": 0,
+    "published_at": "2018-09-06T21:54:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxpb-wOqZ5-ksIGZRt4AaABAg",
+    "author": "@rafaelfranciulli",
+    "author_channel_id": "UC7yzVv753U5GDrniPK5CTug",
+    "text": "Rob, you are THE Master !!! thanks a lot !",
+    "likes": 0,
+    "published_at": "2017-11-30T13:48:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgjY_vnM9OhE53gCoAEC",
+    "author": "@rambachanyadav3741",
+    "author_channel_id": "UC4HKV4t36T6JTRNJaqTnNMg",
+    "text": "Thanks for this beautiful video on hdd motor topic , I have one question Robert, can I run it with 5v DC coming out from my laptop USB ? I understand with ac it will be  easy , I just want to use it as small fan. \nthanks",
+    "likes": 1,
+    "published_at": "2016-09-03T11:55:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjY_vnM9OhE53gCoAEC.8IMe-GvmCtS8IN4HfPuZAh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you could mate but you would need a controller board - a pi or arduino would work well",
+        "likes": 1,
+        "published_at": "2016-09-03T15:53:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UggZdFOtrQh9HngCoAEC",
+    "author": "@nathanhopkins4879",
+    "author_channel_id": "UCkYfvBUVlb7aQ-RzXwqwlng",
+    "text": "what is the program that you use to turn your sound card into a freq gen / oscilloscope",
+    "likes": 0,
+    "published_at": "2016-07-18T01:18:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggZdFOtrQh9HngCoAEC.8GSUkNkHi0o8GT5tIzdjhp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "scope - it's a freeware program",
+        "likes": 1,
+        "published_at": "2016-07-18T07:00:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugi4IBYE2w42gXgCoAEC",
+    "author": "@insightfool",
+    "author_channel_id": "UC-5YqANeAd7tRnvcyzUO4Kw",
+    "text": "Super informative.  Thanks.",
+    "likes": 0,
+    "published_at": "2015-09-03T05:19:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggnNwYY1WNTQ3gCoAEC",
+    "author": "@Mbg-tech",
+    "author_channel_id": "UCasW48kEYg07epZoBvrZEgw",
+    "text": "Hi Robert, great video.Question, can I use the delta connection with capacitors on a electro motor for a lathe with 4hp,1420 rpm,50Hz,220 V ? Will the lathe run OK,even under load ? Will it not burn the electro motor ?\n\nThanks",
+    "likes": 0,
+    "published_at": "2015-05-03T04:33:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggnNwYY1WNTQ3gCoAEC.7zfigH05Six7-HiZ7cHUii",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "MBG-TECH i would certainly do it - but if you do it - it is at your own risk - this video is for information only and cannot be construed as advice in any way",
+        "likes": 0,
+        "published_at": "2015-05-03T11:06:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ughit5zV2vW3vXgCoAEC",
+    "author": "@DigGil3",
+    "author_channel_id": "UCVSTw_EfaY6Q6Pc-YKQuiBw",
+    "text": "I've suspected that this would work, but never tested it.\n\nFor those wanting to find more about how this works, here's something to start with: https://youtu.be/xyMH8wKK-Ag\nThe capacitor will change the impedance of the coil it is connected to and thus make its current intensity waveform lag behind of the other coils.",
+    "likes": 0,
+    "published_at": "2015-03-21T11:04:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ughit5zV2vW3vXgCoAEC.7-H0Z7-KMea7-HHNdGicQ4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "DigGil3 good one mate - i watched the lot lol",
+        "likes": 0,
+        "published_at": "2015-03-21T13:31:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ughl330MBB00y3gCoAEC",
+    "author": "@AshleyMillsTube",
+    "author_channel_id": "UCaBNA-lmg35Wfx2eh2oDkWg",
+    "text": "This is really cool. Serendipitous timing as this week I became really curious about stepper motors and made a dual h-bridge to control one I had lying around. I think it's great you always have some simple solution to avoid the need for unnecessary complexity.",
+    "likes": 0,
+    "published_at": "2015-03-21T09:41:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ughl330MBB00y3gCoAEC.7-H0Z7-7A-87-HJACAyxMD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Ashley Mills i have a simple mind mate lol",
+        "likes": 0,
+        "published_at": "2015-03-21T12:23:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugh0XW8hLeNRw3gCoAEC",
+    "author": "@gagemiree6455",
+    "author_channel_id": "UCt25NDlIT70p3ZYQpsrAMdA",
+    "text": "Cheers",
+    "likes": 0,
+    "published_at": "2015-03-21T02:10:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UggkRCZuAyT_9XgCoAEC",
+    "author": "@gagemiree6455",
+    "author_channel_id": "UCt25NDlIT70p3ZYQpsrAMdA",
+    "text": "This helps alot. I read an electronics college book and watched videos but your still giving me new info.\n",
+    "likes": 1,
+    "published_at": "2015-03-20T12:49:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggkRCZuAyT_9XgCoAEC.7-H0Z7-Gmqw7-HwkTN6d4s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "gage miree good to know mate - cheers",
+        "likes": 1,
+        "published_at": "2015-03-20T21:26:56Z"
+      }
+    ]
+  },
+  {
+    "id": "Uggeb_0UbH0ih3gCoAEC",
+    "author": "@Bobandus",
+    "author_channel_id": "UCv2pk6eUxQPnk4JddkAjn3Q",
+    "text": "Very useful info as per usual, on cameras I picked up a Panasonic HX-DC3 for 80 quid on ebay roughtly about a year old full HD and the sound quality is outstanding, I'm using it to record Heavy Metal gigs and it can cope with Db levels that that require earplugs, its not overly flash just in case it get smashed up at a gig but i got allot of bang for my buck when I bought it.",
+    "likes": 0,
+    "published_at": "2015-03-19T20:35:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Uggeb_0UbH0ih3gCoAEC.7-H0Z7-Ucld7-IAQ-qkUDa",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "DrQuiMobile nice one mate - I have heard the panasonic is very cool and used by reporters in the field but to be honest i am leaving this to my friend who is running the campaign for me - there is only so much time in a day and he really knows his stuff too and i don't - just know my limitations mate lol",
+        "likes": 0,
+        "published_at": "2015-03-20T07:21:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugi21q05eRo5xngCoAEC",
+    "author": "@suffolkcountysheriff",
+    "author_channel_id": "UCOhAeHuTBSQHde99GPmcOdA",
+    "text": "Just donated 100 US to the go fund me site. How can I purchase your books with US currency? Also thoughts on intercollated phosphorous for phosphorene production?",
+    "likes": 0,
+    "published_at": "2015-03-18T18:50:46Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "Ugi21q05eRo5xngCoAEC.7-H0Z7-5IR37-IMEbAeouR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "suffolkcountysheriff Hiya mate, Thanks very much. I am aware of phosphorene - i read the paper when it came out - but I haven't really looked at and to be honest it strikes me as a long way from being useful so I haven't looked any further and I am not likely to in the near future - It is interesting but so are all the 'sheet like' materials - molybdenum disulphide for example - which i think is much more useful - unfortunately it is just not possible for me to look at everything and i therefore only look at what i think is interesting - this could mean i am missing stuff - but so be it - what i do look at is interesting enough for me lol",
+        "likes": 0,
+        "published_at": "2015-03-19T07:19:27Z"
+      },
+      {
+        "id": "Ugi21q05eRo5xngCoAEC.7-H0Z7-5IR37-IoC9EAnOb",
+        "author": "@suffolkcountysheriff",
+        "author_channel_id": "UCOhAeHuTBSQHde99GPmcOdA",
+        "text": "Robert Murray-Smith I hear you, so many cool things so little time.  So two more things.  1) how do I purchase your books with US currency  (dollars).  2) I am in the process of building a lab/work shop. I was wondering if you could do a video of basic equipment to stock it with. Heated stirrers, kilns.. etc. Bottom line I would like to start doing my own experiments based on your work and make videos as well. So far I have a 12ftx12ftx12ft area, insulated, heated and cooled, 7000 watts electric service, water. I haven't finished the interior yet and before I do I want to design the layout around what equipment I will have in it. Basically I'm looking for some guidance.",
+        "likes": 0,
+        "published_at": "2015-03-19T11:32:31Z"
+      },
+      {
+        "id": "Ugi21q05eRo5xngCoAEC.7-H0Z7-5IR37-Kv8WB-4zZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "suffolkcountysheriff That is so cool mate - I will do a video walk around for you - I sell the books through smashwords which is a US company - I think they do it in dollars too. Send me an e-mail address mate and i will just send you the books - as a thank you for your donation - there is one that is very very useful but it is around 50 dollars - there is a ton of good info in it and it's a bit technical - hence the price - but dude - i really owe you one lol",
+        "likes": 0,
+        "published_at": "2015-03-20T07:11:40Z"
+      },
+      {
+        "id": "Ugi21q05eRo5xngCoAEC.7-H0Z7-5IR37-LROIbJf_E",
+        "author": "@suffolkcountysheriff",
+        "author_channel_id": "UCOhAeHuTBSQHde99GPmcOdA",
+        "text": "Robert Murray-Smith cool thank you,  I just sent your Gmail account  an email from my yahoo account.",
+        "likes": 0,
+        "published_at": "2015-03-20T12:02:11Z"
+      },
+      {
+        "id": "Ugi21q05eRo5xngCoAEC.7-H0Z7-5IR37-MRt3GNYDT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "suffolkcountysheriff really? - i haven't got one - my email is robertmurraysmith64@gmail.com",
+        "likes": 0,
+        "published_at": "2015-03-20T21:25:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UggF1syavw8l93gCoAEC",
+    "author": "@AnonCh4r1i",
+    "author_channel_id": "UCEXaL4GSqoIy-kjM0uKJpzA",
+    "text": "I'm donating, I got a 32\" monitor a while ago and your videos whilst excellent in content- are like watching through a small dirty window. ",
+    "likes": 0,
+    "published_at": "2015-03-17T21:09:06Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UggF1syavw8l93gCoAEC.7-H0Z7-69Ht7-H14zOvgTy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "FUCKGOOGLEPLUS INTHEASSWITHAHUGEDILDO lol - cheers mate - i am hoping to solve that - your comment really made me laugh by the way - nice one",
+        "likes": 0,
+        "published_at": "2015-03-17T21:13:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UghsL34-4rMoxngCoAEC",
+    "author": "@johnmcfadden9336",
+    "author_channel_id": "UCCTRzYH1JP97WozX-C2gg_w",
+    "text": "that Y configeration looks suspiciously like doc emmet browns flux capacitor  from back to the future . are you planing a time machine now",
+    "likes": 0,
+    "published_at": "2015-03-17T18:09:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UghsL34-4rMoxngCoAEC.7-H0Z7-0PtA7-H1aq0_sBV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "john mcfadden I just promised myself that if I did invent a time machine the first place I would go is five minutes from now - so, hang on ...... nope - didn't work lol",
+        "likes": 1,
+        "published_at": "2015-03-17T18:18:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgjGqHXpAF5xJHgCoAEC",
+    "author": "@deeds3611",
+    "author_channel_id": "UC3tnZV1YW72W5ZimRvVCklg",
+    "text": "Thanks Rob, you won't believe how good your timing is,  I have a a wimshurst machine that really wants to turn.  thank you so much. Awesome video. Cheers ;)",
+    "likes": 3,
+    "published_at": "2015-03-17T17:27:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgjGqHXpAF5xJHgCoAEC.7-H0Z7-7ZvX7-H4uyTH2k3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "deeds that's clever mate - i must do a copy of that - thanks for the idea - really cool one - lol - cheers mate",
+        "likes": 4,
+        "published_at": "2015-03-17T18:05:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugj0ys8HOQCnCXgCoAEC",
+    "author": "@erlendse",
+    "author_channel_id": "UCqEVWC3GAZzsKSNhkBz5tdQ",
+    "text": "Neat motors but tricky. \nTechnically they are 3 phase synchronous motor, but you are not wrong.\n\nI have found a not too tricky to connect up controller chip (tda5145) that I like to use(good for 10-15W). Bldc controllers in general is what it takes.\nThere is also the vector/field oriented control stuff, that use a mix of magic and math as far as I can tell.\n\nOtherwise there are the electronic rc speed controllers, I still think that name is wrong.",
+    "likes": 0,
+    "published_at": "2015-03-17T17:13:25Z",
+    "reply_count": 7,
+    "replies": [
+      {
+        "id": "Ugj0ys8HOQCnCXgCoAEC.7-H0Z7-BjOQ7-H6bgX6iur",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "erlendse can you do a schematic for me mate - i'd like to follow that one up",
+        "likes": 0,
+        "published_at": "2015-03-17T18:06:20Z"
+      },
+      {
+        "id": "Ugj0ys8HOQCnCXgCoAEC.7-H0Z7-BjOQ7-H8h1O-ks-",
+        "author": "@ErlendErvik",
+        "author_channel_id": "UCytiNkVPmzacQQoEqJT40AQ",
+        "text": "Sure.. but I have only used the excample in the datasheet mostly. You may have to check ebay and aliexpress etc to get the part.. rather obsolete",
+        "likes": 0,
+        "published_at": "2015-03-17T18:24:33Z"
+      },
+      {
+        "id": "Ugj0ys8HOQCnCXgCoAEC.7-H0Z7-BjOQ7-H9bdBG3ZV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Erlend Ervik don't worry about it mate - i'll just dig up the datasheet - though i was thinking of using a hall effect latch",
+        "likes": 0,
+        "published_at": "2015-03-17T18:32:33Z"
+      },
+      {
+        "id": "Ugj0ys8HOQCnCXgCoAEC.7-H0Z7-BjOQ7-HD1Tk5RAe",
+        "author": "@ErlendErvik",
+        "author_channel_id": "UCytiNkVPmzacQQoEqJT40AQ",
+        "text": "It's no problem :)\n\nI rather see HDD motors be used for stuff.\n\nThe HAL-route is technically best, but require 3 sensors (some let you get away with one).\n\nThat chip I mentioned is a block-driver, it senses one wire compared to center and drive the 2 other. Swapping the roles as the motor spin.\nIf you don't have the center-wire, a WYE resistor network may do the job.",
+        "likes": 0,
+        "published_at": "2015-03-17T19:02:25Z"
+      },
+      {
+        "id": "Ugj0ys8HOQCnCXgCoAEC.7-H0Z7-BjOQ7-HDMuCGotc",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Erlend Ervik i was aiming for super simple non frightening almost plug and play with this - technical comes later lol",
+        "likes": 0,
+        "published_at": "2015-03-17T19:05:21Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugi6mqx37sMbpHgCoAEC",
+    "author": "@victornpb",
+    "author_channel_id": "UCCMjevQGlc35yjw7DlHYvww",
+    "text": "I hope you can hit the goal.",
+    "likes": 0,
+    "published_at": "2015-03-17T16:19:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugi6mqx37sMbpHgCoAEC.7-H0Z7-LqwW7-HCo-tA5Jt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "***** cheers mate - here's hoping",
+        "likes": 0,
+        "published_at": "2015-03-17T18:06:32Z"
+      }
+    ]
+  }
+]

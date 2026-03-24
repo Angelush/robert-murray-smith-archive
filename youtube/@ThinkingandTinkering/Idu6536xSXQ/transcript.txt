@@ -1,0 +1,176 @@
+[00:00] [Music]
+[00:07] hi everybody so to my mind understanding
+[00:10] 3D printers will help you understand
+[00:13] better what they can produce and whether
+[00:15] you should buy one there are basically
+[00:17] four main types of 3D printing but I'm
+[00:19] going to focus on the most affordable
+[00:21] method it's called fused filament
+[00:23] fabrication or trip F which is also
+[00:26] known as fused deposition modeling or
+[00:29] fdm it's the process of taking a
+[00:31] thermoplastic material heating it up and
+[00:33] pushing it through a heated nozzle there
+[00:36] are literally countless Machines of
+[00:38] different designs and with more coming
+[00:41] onto the market every day there's a huge
+[00:43] range for people to choose from however
+[00:45] all filament printers have a few things
+[00:47] in common every filament printer has an
+[00:50] x a y and a z axis and this allows it to
+[00:54] find any point in space and so can work
+[00:57] in three dimensions if you compare this
+[00:59] to a home office printer the print head
+[01:01] only moves along the y- AIS while the
+[01:03] paper moves along the x-axis and the
+[01:06] combined movements allows it to print
+[01:08] all filament printers have a hot end or
+[01:11] a part whose job is to heat room
+[01:12] temperature plastic into a hot and
+[01:15] consistent temperature the hot end also
+[01:17] contains a feed mechanism which pushes
+[01:19] the heated plastic through a nozzle and
+[01:21] this turns the plastic into a thin
+[01:23] thread of filament that's chosen by the
+[01:26] nozzle size the smaller the nozzle size
+[01:29] the finer the filament the F of the
+[01:30] print another way of thinking about this
+[01:32] is if you strapped a hot glue gun to a
+[01:34] robot and there are products on the
+[01:36] market like scribe 3D 3D pen and three
+[01:40] doodler that print in midair where you
+[01:44] are the machine the principles are
+[01:46] exactly the same but you're operating
+[01:48] like the machine moving the plastic
+[01:50] through the three-dimensional space it's
+[01:51] not very accurate and so you can't do
+[01:54] engineering models but some of the
+[01:56] things that you can create this way are
+[01:58] truly astounding and and it does have
+[02:00] the advantage of being very cheap and
+[02:02] requiring no software the material
+[02:04] pushed through a 3D printer is commonly
+[02:06] referred to as filament it comes in a
+[02:09] wide variety of colors and a huge range
+[02:12] of different types these three being
+[02:15] perhaps the most popular three however
+[02:18] the most popular is without a doubt pla
+[02:21] because pla is relatively easy to print
+[02:24] with and gives good results although it
+[02:26] does have its drawbacks the filament is
+[02:29] pushed through the extruder head at a
+[02:31] continuous rate as the extruder moves
+[02:33] around the X and Y AIS this allows a 3D
+[02:36] printer to effectively Trace Your Design
+[02:39] layer by layer 3D printing is considered
+[02:41] an additive manufacturing process
+[02:44] basically you start with nothing and
+[02:46] continue to add material until you have
+[02:48] the desired bit that you want this is in
+[02:50] contrast to something like a CNC router
+[02:53] it's known as subtractive manufacturing
+[02:55] you start with a block of material and
+[02:57] take away the unwanted part so subtract
+[03:00] it so to quote J Clark Scott how do it
+[03:03] know how do 3D printers know how to
+[03:06] create your design like most computer
+[03:08] controlled machines you basically have
+[03:10] to provide it with a set of instructions
+[03:13] this really is much easier than you
+[03:15] might think there are two main ways of
+[03:17] getting something to print first you can
+[03:19] design your own 3D model from scratch
+[03:21] using 3D modeling software like Fusion
+[03:24] 360 blender onshape or Tinker can the
+[03:28] other way is to download a a readymade
+[03:30] 3D model there are a number of websites
+[03:33] sites like thans thingy verse printables
+[03:37] or Colts 3D some of them are free some
+[03:40] of them you have to pay for but there's
+[03:42] a whole range of models from practical
+[03:44] prints to prints that are just fun once
+[03:46] you've chosen or created Your Design you
+[03:49] need to open it in one of many software
+[03:51] programs that are referred to as slicers
+[03:54] the two major ones are curer and Pressa
+[03:57] most slicing softwares accept 3mf STL
+[04:01] and obj type files slicing software
+[04:04] translates your 3D model into lines of
+[04:06] code that represent very thin layers on
+[04:09] average these layers are only .1 or2 mm
+[04:12] thick it's a bit like cutting a
+[04:14] vegetable into very thin slices the
+[04:16] Simplicity actually is quite astounding
+[04:19] behind the scenes the software writes
+[04:21] lines of code called G-Code which are
+[04:23] the instructions for each layer for
+[04:25] every layer the instructions will tell
+[04:27] the extruder to move to a new location
+[04:30] on the X and Y AIS or the XY plane each
+[04:33] point is listed in the instructions in
+[04:36] an order that's usually the most
+[04:37] efficient it's just like putting icing
+[04:39] on a cake the extruder of a 3D printer
+[04:42] will continue to every sequential Point
+[04:45] as the material is pushed out of the
+[04:46] nozzle this happens until the shape of
+[04:48] the individual layer is complete and
+[04:50] then the head moves up in the Z axis and
+[04:53] continues it the shape outline is filled
+[04:55] in as it goes with additional material
+[04:58] is set in a pattern that's referred to
+[05:00] as infill the infill can be anything
+[05:02] between 5 and 100% and gives the final
+[05:05] object its necessary structure and
+[05:07] rigidity in the last decade the cost of
+[05:09] 3D printers has pleted you can buy a
+[05:12] reasonable 3D printer for £100 or less
+[05:15] and2 250 is going to buy you a pretty
+[05:19] good mid-range machine with a sort of
+[05:21] the 400 to 500 region being a very nice
+[05:26] machine indeed of course you can spend
+[05:28] anything over upwards up to £10,000 if
+[05:31] you want all filament printers include a
+[05:33] small fan at the hot end that helps cool
+[05:36] the filament after it comes out of the
+[05:38] extruder the fan helps the plastic
+[05:40] solidify into the desired shape while
+[05:42] sticking to the previous layer once the
+[05:44] layer is complete the extruder moves
+[05:46] upwards in the Z AIS and it's a very
+[05:49] subtle movement but it matches the layer
+[05:51] height that was set in the slicing
+[05:53] software for example .1 or2 mm thick
+[05:56] this process repeats again and again for
+[05:58] each layer until until you get the part
+[06:00] that you're wanting for complex Parts
+[06:02] extra material is printed called
+[06:04] supports that stop overhangs dropping or
+[06:07] protrusions not printing properly
+[06:09] another way to think of filament
+[06:10] printers is like a group of 2D prints
+[06:13] stacked on top of each other 3D prints
+[06:15] can take anywhere from 20 minutes to
+[06:17] days or weeks it all really depends on
+[06:19] the size and complexity of your design
+[06:21] and the speed of your machine although
+[06:23] modern machines are printing at
+[06:25] phenomenal speeds like 600 mm/ second
+[06:28] okay in summary start by creating your
+[06:30] own design or downloading a 3D model
+[06:33] from the internet load that into your
+[06:35] free slicing software and generate the
+[06:37] gcode that your 3D printer can read and
+[06:40] use as instructions the 3D printer can
+[06:42] then interpret those instructions layer
+[06:44] by layer as it lays down the plastic the
+[06:47] plastic will continue to push through
+[06:48] the extruder a steady r as the extruder
+[06:51] head moves from point to point and this
+[06:53] process repeats for every sequential
+[06:55] layer until your desired part is
+[06:56] complete taking anywhere from 20 minutes
+[07:18] today anyway I hope this was helpful
+[07:21] covering some of the basics of 3D
+[07:22] printers I hope you enjoyed the video
+[07:24] and thank you very much for watching

@@ -1,0 +1,102 @@
+[00:02] [Music]
+[00:16] hello everyone luke here and welcome
+[00:19] back to the channel so right now and i
+[00:21] mean literally this minute i've just
+[00:23] encountered a problem whilst trying to
+[00:25] edit and render a video and that is i
+[00:28] need to take a specific clip and speed
+[00:30] it up and i mean i really need to speed
+[00:32] it up so the video editing software that
+[00:34] i use just isn't able to cope with that
+[00:36] so i have to use a separate video
+[00:38] editing software to speed up individual
+[00:40] clips which is okay but because these
+[00:42] clips are a weird file format
+[00:44] when i try to drag and drop it into the
+[00:46] video editing soft video editing program
+[00:49] it basically says sorry mate you can't
+[00:51] do that it's unsupported and the reason
+[00:53] why it's unsupported is because it can't
+[00:55] understand the codec of that video file
+[00:58] so there's something that we can do
+[01:00] which is actually a little bit special
+[01:01] to change the codec of that video file
+[01:03] and we can use a program called vlc and
+[01:07] this program has been around for years
+[01:08] it's open source and it's free so what's
+[01:10] better than free and it is awesome and
+[01:13] basically what you can do with that is
+[01:15] convert your video into a different file
+[01:18] type therefore changing the codec of
+[01:20] that video to make it supported into
+[01:22] certain video editing programs or
+[01:24] supported into whatever type of program
+[01:26] you're trying to import it to so
+[01:29] let's head over to the computer i'll
+[01:30] show you the area that i'm getting and
+[01:32] then i'll show you how to rectify that
+[01:34] so i'll see you guys in a second
+[01:36] and welcome back to the computer so this
+[01:38] video editor is what i use only to speed
+[01:41] up the clips but let me show you what
+[01:42] will happen if i try to drag and drop an
+[01:44] mkv file type into it
+[01:47] we get this error sorry mate the
+[01:49] properties can't be read which means it
+[01:51] basically can't read the codec at all so
+[01:54] with vlc we can change this so i'm going
+[01:56] to come down here open vlc
+[01:59] and i will make sure to put a link in
+[02:01] the description for this so once you've
+[02:03] got vlc open we come over to the top
+[02:05] click media
+[02:07] convert and save and it will open this
+[02:09] new window here from here we can
+[02:11] actually add our file that we want to
+[02:13] change so we click add
+[02:15] find the file
+[02:17] and open it there we go you can see that
+[02:19] it's an mkv file and if we come down to
+[02:22] here and click convert and save it's
+[02:23] going to open up this new window right
+[02:25] here from here we can choose what type
+[02:27] of file type we want and what codec we
+[02:29] want so i want mp4 and the codec h.264
+[02:34] so now we've got all of that all of that
+[02:36] correct we click browse for our
+[02:38] destination and i want it dropped into
+[02:41] this folder right here so i'm going to
+[02:43] call this cs go
+[02:45] click save and then start
+[02:48] and what's going to happen is this bar
+[02:49] is going to slowly get all the way to
+[02:51] the end and once it hits the end it's
+[02:53] actually converted the file so i'm just
+[02:56] going to let this run
+[03:16] there we go after a few minutes that
+[03:18] file has now been converted so if we
+[03:20] come back to our video editor and find
+[03:23] our file location
+[03:26] we should be able to drag and drop this
+[03:29] into here
+[03:32] and it's just like magic
+[03:35] and now from here i can actually speed
+[03:37] this clip up and continue on with my
+[03:39] edit so let's go back to the camera
+[03:42] so that is an awesome trick that you can
+[03:44] do using vlc to convert your videos into
+[03:47] different file types with different
+[03:48] codecs but not only can you do this with
+[03:50] video files you can also do this in
+[03:52] audio files and it's definitely worth
+[03:54] taking a look at what you can actually
+[03:56] convert it into because i think it's
+[03:58] actually a pretty extensive list but
+[04:00] with that being said that does bring me
+[04:02] to the end of this video i really hope
+[04:04] you enjoyed it and if you have any
+[04:06] questions don't hesitate to leave them
+[04:07] in the comments and i'll try my best to
+[04:09] answer them all anyway guys i hope you
+[04:11] have a fantastic day and i'll see you
+[04:13] later

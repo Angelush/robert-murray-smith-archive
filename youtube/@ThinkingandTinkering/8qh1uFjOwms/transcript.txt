@@ -1,0 +1,147 @@
+[00:04] hi everybody so regular views to the
+[00:06] channel will know that I'm doing a bit
+[00:07] of a transition on some aspects to Linux
+[00:10] systems there's a good reason for that
+[00:12] Linux is a very stable system that will
+[00:15] make old Machinery do an awful lot more
+[00:19] and of course that brings down the cost
+[00:21] I'm currently involved in a 100 computer
+[00:24] doing some amazing things with it based
+[00:26] on Linux but of course that means
+[00:29] transitioning my 3D printers to a Linux
+[00:31] operating system one of the issues with
+[00:35] Linux is it can be sometimes difficult
+[00:37] to find the software that will do that
+[00:40] now I've already gone through how to
+[00:42] actually do that with the eligo printers
+[00:44] but of course I've got this which is a
+[00:46] chitty x max 3 sent to me by chitty for
+[00:49] review and it's a beast of a machine so
+[00:51] of course I want this run on a Linux
+[00:55] system as part of that transition now
+[00:58] this machine actually comes with a
+[01:00] presser slicer people have their various
+[01:03] likes and dislikes about these things as
+[01:05] always and presser is used by a lot of
+[01:08] people and it's a very good slicer but I
+[01:10] find it a little overblown for me Cura
+[01:13] is the slicer that I use because it's a
+[01:15] good basic slicer with a very low
+[01:17] learning curve and does everything I
+[01:19] want it to do so why not now I've
+[01:21] already discovered when we put the eligo
+[01:23] onto Linux that Cura comes with the
+[01:27] Linux distributions and so it's just a
+[01:30] matter of getting your package manager
+[01:32] to upload curer onto Linux and you'll
+[01:34] have a Linux based slicer because what
+[01:37] we then need to do is get the machine
+[01:39] profiles into Cura so that Cura can
+[01:42] output in a way that this machine can
+[01:44] understand now luckily enough jitty are
+[01:48] quite a good company who assist with
+[01:52] that all we actually have to do is put
+[01:55] chitty Linux in the search bar and
+[01:57] chitty Tech will come up click on the
+[01:59] software and firmware and it'll take you
+[02:02] to chitty's base what we want is other
+[02:06] slicer profiles click on that and you
+[02:09] will see that you've got Cura right
+[02:12] there so click on that and it'll take
+[02:14] you to a Google Drive where you can
+[02:17] download the cura folder from the Google
+[02:23] Drive once you've downloaded it of
+[02:26] course it'll be in your downloads folder
+[02:28] go to the downloads folder and double
+[02:30] click it and extract it and this is the
+[02:32] folder you'll get it'll contain a file
+[02:35] called quiddy and if you double click
+[02:38] that you'll get extra files we'll come
+[02:40] to that later and then there's quiddy
+[02:42] dotzip if you click on
+[02:44] that and again extract it it'll extract
+[02:48] to the folder that you mentioned and
+[02:50] you'll see you get this which is a
+[02:52] little MP4 telling you exactly what to
+[02:55] do there's also a uh PDF that you can
+[02:58] read but it's next to useless this is
+[03:00] brilliant okay so let's go back to that
+[03:02] file we hit the quiddy and there's those
+[03:05] folders I was talking about now if we
+[03:07] start Cura we can start Cura by going to
+[03:10] our Graphics ultimate
+[03:18] Cura and we're at the cura front end now
+[03:21] if we look for the printer add a
+[03:24] printer non- network
+[03:27] printer we'll see that there's no quiddy
+[03:30] option down in the
+[03:38] cues but if we go to help show
+[03:41] configuration folder it'll show us the
+[03:44] configuration folder right there what we
+[03:46] need to
+[03:48] do is go back to this folder select
+[03:52] everything and drag it across and just
+[03:54] let it drop
+[03:58] replace
+[04:02] and there we go this is also made
+[04:04] available by pra so if you go to
+[04:07] principles and to this page here it'll
+[04:10] give you a downloadable file right there
+[04:12] that is in fact exactly the same thing
+[04:15] so you use this xmx 3 definitions and do
+[04:17] exactly the same thing and if you follow
+[04:19] what they say it's exactly the same
+[04:26] process when you've done that you
+[04:28] restart
+[04:30] your
+[04:35] Cura and this time when you go to add
+[04:38] printer add network printer scroll
+[04:48] down you'll find magically a chitty file
+[04:51] has arrived so you can click on that and
+[04:55] there is my xmax 3 click on that add it
+[05:00] and it will come up with these machine
+[05:01] settings these machine settings are um I
+[05:05] think correct but we're going to try to
+[05:07] print at the moment so we're not going
+[05:08] to do anything with that and next and
+[05:11] there we go there is our xmax 3 in Cura
+[05:14] on Linux of course what we want to do
+[05:16] now is print something so let's print
+[05:22] something we're going to print
+[05:26] this this is part of a um setup that I
+[05:30] want for a um turgo turbine that I've
+[05:33] been working on so I'm going to print
+[05:36] that so of course it didn't work first
+[05:38] time but then it never does does it so I
+[05:41] had to add this to the G-Code in the
+[05:43] machine settings and I'll put that in
+[05:46] the description should any want to use
+[05:48] this but a word of warning this is all
+[05:50] settings for my machine and on my Linux
+[05:53] computers you may still have to play
+[05:55] around with it a little bit even so we
+[05:58] got it to print off now one of the good
+[05:59] things about the chitty obviously is
+[06:02] it's big and what that means is you can
+[06:04] print big stuff and I'm working at the
+[06:06] moment on this which is a water driven
+[06:09] motor it's a turgo turbine actually and
+[06:11] that's a turbine itself and then we've
+[06:13] got the housing that printed on the
+[06:15] jitty and then we've got the housing cap
+[06:18] that's just printed off that'll go on
+[06:21] there and make my motor now later I'll
+[06:23] do another video I'm putting this
+[06:25] together and I'll actually put the STL
+[06:27] files up should anybody want them but of
+[06:29] course if you haven't got a big printer
+[06:31] you're going to need to um section it
+[06:33] for printing but if you section it in
+[06:35] half or quarter you can print it on a
+[06:37] smaller machine however I've printed
+[06:39] this on the chitty here because it's a
+[06:42] nice volume when we've got it working on
+[06:44] the Linux anyway I hope you enjoyed the
+[06:47] video thank you very much for watching
+[06:49] and please do remember to like And
+[06:51] subscribe

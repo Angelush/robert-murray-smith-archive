@@ -1,0 +1,117 @@
+[00:00] foreign
+[00:07] video 1931 we made this thing which is
+[00:11] our generator section from our wind
+[00:13] turbine now I didn't release the files
+[00:14] in 1931 because the case wasn't quite
+[00:17] long enough and I'd put the exit hole
+[00:19] here which is a bit irritating so now
+[00:21] I've not designed and the tinkercad STL
+[00:24] files are available and the link is in
+[00:26] the description in the bottom
+[00:27] incidentally if you do jump onto
+[00:29] tinkercad with those files you can adapt
+[00:31] them yourself to be anything you want to
+[00:33] be now full details are in video 1931
+[00:35] but it is basically three Serpentine
+[00:38] coils arranged around a bunch of
+[00:40] neodymium magnets online that and we
+[00:43] have six exit wires so we need to
+[00:45] rectify what's coming out of there put
+[00:48] it under load and give it a test to do
+[00:51] that I've got this massive chunky Cog
+[00:53] that I'm going to put onto there so I'm
+[00:56] going to put that on there and put
+[00:57] rectifiers on there okay that's that's
+[01:00] it and you can have choices here eh One
+[01:05] Way which is what I've chosen to do is
+[01:07] take each individual coil and rectify it
+[01:09] using this rectification circuit the
+[01:13] other way is to take all of the calls
+[01:15] together and rectify as three fairs
+[01:17] using less rectification circuit now
+[01:20] I've done each call separately because
+[01:22] to be brutally honest I don't quite know
+[01:24] what I'm gonna do with this in which I
+[01:27] mean I know I'm gonna do with it I'm
+[01:29] going to stick it in a wind turbine what
+[01:30] I mean is electrically what I'm going to
+[01:33] do with it because on here I've got all
+[01:35] my positives coming out from that
+[01:36] rectification circuit I showed you and
+[01:38] on here I've got my negatives so I've
+[01:40] rectified each coil individually to give
+[01:43] me three positives and three negatives
+[01:45] you don't need to do that you can do it
+[01:48] as all three coils rectified in a
+[01:50] three-phase rectified circuit to get one
+[01:52] positive and one negative the reason
+[01:54] I've done it like this is because if I
+[01:56] join those up in parallel I'll add the
+[01:59] amps if I joined them up in series what
+[02:02] I'll do is add the volts so I could join
+[02:04] my positive to negative positive to
+[02:08] negative and take my positive and
+[02:09] negative out here and they will be in
+[02:12] series or I can take all of the
+[02:14] positives out all of the negatives out
+[02:16] and they'll be in parallel it just
+[02:18] depends what I want to actually power
+[02:20] with it now I'm going to connect this up
+[02:22] in series and we're going to give it a
+[02:23] spin with an LED this led takes about 20
+[02:27] volts or so to turn on Okay so here's my
+[02:30] positive and we can stick it on to the
+[02:32] positive like that now obviously the
+[02:35] negative comes out of the other side and
+[02:37] we can take the negative
+[02:47] to the other side positive
+[02:53] then we take that negative
+[03:02] and then we take our negative
+[03:04] ounce so what we've done is connected
+[03:07] this in series so that's now connected
+[03:09] in series from the voltage output of all
+[03:11] the calls with that together and it'll
+[03:13] be some crazy voltage so let's give it a
+[03:15] spin I've got the meter here we'll see
+[03:17] what kind of voltage we get out of it
+[03:20] what we getting Luke
+[03:22] 28
+[03:28] some super voltage out of it just by
+[03:30] spinning it now this has a turn on
+[03:33] voltage of around about 20 25 volts so
+[03:36] instead of connecting it to the meter we
+[03:38] connect it to our LED we should be able
+[03:40] to get that led to light and so we're
+[03:42] getting real power out because it's
+[03:44] doing some work
+[03:54] go imagine an LED
+[03:59] here is a big cap Precision calibrated
+[04:01] load what that does is such a load on
+[04:04] this and reads the bolts and the amps at
+[04:05] the same time so I've connected it up
+[04:07] I've given 100 ohm load because it's
+[04:09] about 80 ohms resistance coils and um
+[04:12] we're going to read the volts and the
+[04:13] amps here and see what we actually get
+[04:15] so it's going to be a bit difficult
+[04:17] because I have to spin it by hand
+[04:26] so I'm getting 22 26 volts
+[04:30] and when I get that I'm getting about
+[04:32] 100 milliamps or so so something around
+[04:34] about that I did see 150. that's what
+[04:36] we're getting from it okay so we got a
+[04:38] couple of Watts out of that spinning it
+[04:40] by hand more or less I mean it's a bit
+[04:41] equivocal but it was really really easy
+[04:44] to do that so I've made nice little cap
+[04:46] to protect all the electronics there you
+[04:48] go and what we need now is the gearing
+[04:50] system and you can bet your bottom
+[04:51] dollar what I'm going to be using is
+[04:54] this which is a planetary gear system
+[04:56] that we developed in a previous video
+[04:58] and we can stack that up to create
+[05:00] whatever gear ratio we want anyway I
+[05:03] hope you enjoyed this video thank you
+[05:05] very much for watching and please do
+[05:07] remember to like And subscribe

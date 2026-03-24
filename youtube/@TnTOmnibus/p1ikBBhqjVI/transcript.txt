@@ -1,0 +1,498 @@
+[00:00] [Music]
+[00:07] okay so reays come in all shapes and
+[00:09] sizes from tiny little ones to these
+[00:11] much larger ones now these ones are
+[00:13] really meant for par electronics and
+[00:15] 24480 volts and they're fairly chunky
+[00:18] and they're meant to go into your
+[00:19] electronic consumer unit and they have
+[00:21] this look to them these are called DIN
+[00:24] rail sockets and they fit by pulling
+[00:27] that on the back rail of your par
+[00:29] Electronics now that I like them because
+[00:30] they're screw fixed and they're easy to
+[00:32] muck around with there's a couple of
+[00:34] varieties again this is the really
+[00:35] common shoe that you find and it takes a
+[00:38] standard pin fitting that only goes in
+[00:40] one way these pins are closer these pins
+[00:43] are further and they'll only go into
+[00:44] that socket that way these ones are more
+[00:47] circular and they again
+[00:50] are fitted so they only go one way like
+[00:54] that but they are essentially all the
+[00:57] same Beast now you can get them as just
+[00:59] layers like that or you can get them as
+[01:01] timed relays where that's actually a
+[01:03] resistor capacitor bridge and it decays
+[01:06] over a time and you set the time there
+[01:08] by setting a potentiometer to get lots
+[01:10] of different flavors of these this is
+[01:12] the very basic one which is just the
+[01:14] relay this is a timed relay but they're
+[01:16] all the same anyway let's crack One open
+[01:20] so these things are dead easy to get
+[01:21] open actually you just break those tabs
+[01:23] pull them out now on this particular one
+[01:26] we've got a set of control Electronics
+[01:28] there there's the potentiometer and that
+[01:30] controls the time but that is the heart
+[01:32] of the Beast and they're always the same
+[01:35] you'll notice there's a coil here that
+[01:37] coil is wrapped around an iron core and
+[01:39] it forms an electromagnet now here we've
+[01:41] got a little Armature made of metal and
+[01:44] when that electromagnet is turned on of
+[01:46] course that piece of metal gets
+[01:47] attracted on that piece of metal we've
+[01:50] got two long strips and they're called
+[01:52] the poles now here we've got two of them
+[01:54] so it's double pole if there was only
+[01:56] one it would be single pole if we follow
+[01:59] the pole falls down what we can see
+[02:01] there are a couple of pins right here
+[02:03] the pole is automatically touching this
+[02:06] one and this pins are called the throw
+[02:09] so we have two pins it's a double throw
+[02:13] on this one in the rest position it's
+[02:15] closed so that is the normally closed
+[02:18] this one's open it's not making contact
+[02:20] so it's the normally open when we
+[02:23] energize that relay we turn that into an
+[02:25] electromagnet and it shuts this pole
+[02:29] goes to the other throw and it closes
+[02:32] the normally open and opens the normally
+[02:35] closed now because we got two throws
+[02:38] here it's a double throw now you can get
+[02:40] Triple throw but they're a bit rarer
+[02:42] it's more common to get a single throw
+[02:45] in a single throw then this pin will be
+[02:48] missing and it will either be like this
+[02:50] where it's normally closed or be like
+[02:53] this one where it's normally open so you
+[02:55] can get single throw single pole single
+[02:58] pole double throw double pole single
+[03:02] throw double pole double throw and
+[03:06] that's the n man clature for these
+[03:07] things now these pins are assigned so
+[03:11] they always fit into that shoe there and
+[03:14] then we can always wire them up the way
+[03:16] we want them
+[03:17] to if we look at the side of the case of
+[03:21] a relay it will tell you which one of
+[03:24] those pins actually connect to what and
+[03:27] each one of these pins on the shoe have
+[03:29] a number and you can just follow the
+[03:32] numbers on the side or on the shoe to
+[03:34] tell you how to connect things so
+[03:37] normally you connect power to the coil
+[03:40] so that when you operate a switch you
+[03:42] turn the coil on now the coils can be
+[03:45] operated by a variety of voltages and
+[03:47] that's specified on the relay with these
+[03:50] kind of relays you normally find them in
+[03:52] 12 volts 24 volt 120 volt and 240 volts
+[03:57] for operating the coil so when you
+[03:59] operate the coil it acts like an
+[04:01] automatic switch for the throws here now
+[04:05] when you look at that as an electronic
+[04:07] circuit diagram it looks like this so
+[04:10] here are the common circuit diagrams for
+[04:12] a lot of those relays and what's shown
+[04:14] is a single pole single throw single
+[04:15] pole single throw normally closed double
+[04:18] pole single throw single pole double
+[04:19] throw and double pole double throw and
+[04:21] you'll see that or some variant of that
+[04:24] when you're looking at circuit diagrams
+[04:26] I certainly use that last one a lot now
+[04:29] you should notice that the common are in
+[04:31] fact the poles and the normally closed
+[04:33] normally open ones are in fact the
+[04:35] throws so there you go relay is
+[04:37] basically really simple nothing more
+[04:40] than electromagnet operating switches
+[04:42] and a whole variety of formats but
+[04:44] stunningly useful previous video we made
+[04:47] this machine and now it's a hole puncher
+[04:49] because I've got a load of things to
+[04:50] hole punch but because it was hand
+[04:52] operated now because I've got so much to
+[04:54] do what I want to do is have an
+[04:55] automatic machine cuz I don't want to
+[04:57] stand there for an hour punching and I
+[04:59] just want to turn it on and come back in
+[05:01] an hour and have the whole thing punched
+[05:03] so of course I need a motor now I've got
+[05:05] this rather heavy duty motor here from a
+[05:07] scooter which is really kind of cool and
+[05:09] I've got it rigged up to a 12vt battery
+[05:11] because it's a 12volt motor and a micro
+[05:13] switch and if I turn it on it's got
+[05:16] quite some torque now I turn it off
+[05:18] there's something to
+[05:20] notice I don't know if you noticed it
+[05:22] continued to spin even though I turned
+[05:26] it off now that can be
+[05:30] okay but it can be a real problem is
+[05:33] this punch this punch operates within 2
+[05:36] cm so it's got a 2 cm run that motor is
+[05:39] still trying to drive everything even
+[05:41] though I've turned it off it's going to
+[05:43] bash that to Pieces so I want that motor
+[05:46] to stop when I want it to stop I don't
+[05:50] want it to run on I need some kind of
+[05:52] braking system for it now of course I
+[05:55] could put a Breck on the wheel and kind
+[05:58] of apply a Breck at the same time time
+[06:00] that's getting a little bit over
+[06:01] complicated Motors are U really
+[06:04] interesting things because when you put
+[06:06] Power in obviously they turn but a
+[06:10] generator is just the exact opposite
+[06:12] when you turn them they get power out so
+[06:15] Motors and generators are basically the
+[06:18] same thing a motor turns when you apply
+[06:21] power a generator gives out power when
+[06:24] you turn it and we can use that property
+[06:27] to actually break it now the internals
+[06:31] of a motor has a whole set of coils and
+[06:33] when I apply an electric current to them
+[06:35] they set up a magnetic field and that's
+[06:37] what causes them to turn when I turn off
+[06:40] that current that magnetic field
+[06:42] collapses and drives a current and you
+[06:45] get a back Spike from Motors now we can
+[06:48] harness that and feed that back into the
+[06:51] motor and then it will become its own
+[06:53] break and we can do that
+[06:56] using one of these I love these things
+[07:00] these are relays this is a double pole
+[07:03] double throw switched relay and we're
+[07:05] going to set it up so that it can do
+[07:07] that so here it is with my relay set up
+[07:10] now I've got to hold it because it's
+[07:12] quite a lot to talk okay so hold that
+[07:14] and there motor is spinning we turn off
+[07:16] that relay and the motor stops dead and
+[07:20] that's what we want it to do okay let's
+[07:22] have a look at the circuit about what's
+[07:24] actually happening there so this is how
+[07:27] it's wired notice that the motor is
+[07:30] connected to the common poles of the
+[07:32] relay and the battery are connected to
+[07:35] the normally open they're normally
+[07:38] closed are cross connected to each other
+[07:41] now when we apply power to the relay
+[07:43] coil of course those relays will switch
+[07:45] and they switch to
+[07:48] this in this one as you can see the
+[07:50] batter is now connected to the motor so
+[07:52] the motor can run now that's only going
+[07:54] to be the state of play while there's
+[07:56] power supply to the relay coil if there
+[07:59] relay coil power fails or is turned off
+[08:02] then it goes back to
+[08:04] this when it goes back to this that
+[08:07] short circuit between the motor is
+[08:10] effectively the braking system that
+[08:13] sends the back Spike down back to the
+[08:16] motor in the opposite direction and that
+[08:20] stops the
+[08:22] motor that's awesome now of course we
+[08:26] could do this with electronics maybe our
+[08:28] do weo control contr or something like
+[08:30] that but actually when you think about
+[08:32] it this is a much safer way of doing it
+[08:35] because in that no power condition with
+[08:38] the cross connection on the motor then
+[08:40] it's going to automatically break if
+[08:43] power fails now if power fails and I
+[08:45] doing no control board of course your
+[08:47] control electronics are just useless
+[08:48] they not going to do anything but with
+[08:50] something like this I think it is much
+[08:53] much safer because it's set up to dead
+[08:55] short that motor and break itself and I
+[08:58] can think of lot lots of occasions when
+[09:00] that would be really handy but even so
+[09:03] implementing a dead stop or electronic
+[09:04] breaking using a relay is a piece of
+[09:07] cake done like that and an ideal way of
+[09:09] controlling the motion on this
+[09:12] particular machine so I was asked to
+[09:14] look at a coil Winder and a coil Winder
+[09:16] has certain characteristics that just
+[09:18] caught my imagination and I thought were
+[09:20] really interesting because what you want
+[09:22] is something that will move backwards
+[09:24] and forwards to a limit while feeding
+[09:27] wire obviously and something that will
+[09:28] turn and it was that backwards and
+[09:30] forwards to a limit that really caught
+[09:32] my imagination because that kind of
+[09:34] motion obviously is used a lot in
+[09:36] robotics and a lot in machine control
+[09:38] and it was a question really of what was
+[09:40] the basics of that now it basically
+[09:43] comes down to two circuits it's a
+[09:45] latching circuit and something called a
+[09:47] hch bridge the latching circuit we've
+[09:49] actually looked at before when we looked
+[09:50] at the fish fryer but we're going to
+[09:52] look at it again here as part of this
+[09:54] motion
+[09:55] control now that motion control is
+[09:58] achieved by swapping the polarity of
+[10:01] what's driving the motor so if I take a
+[10:03] DC motor and attach the red to the
+[10:05] positive and the black to the negative
+[10:07] the motor will turn in One Direction if
+[10:09] I swap those over and attach the black
+[10:11] to the positive and the red to the
+[10:13] negative the motor will rotate in the
+[10:15] opposite direction and so we can get a
+[10:18] change in motion if we can swap the
+[10:20] polarity of those wires now that
+[10:22] polarity swapping actually is done with
+[10:24] a circuit called a hedge Bridge which is
+[10:26] basically four switches but we're going
+[10:28] to deal with each one separately now a
+[10:30] latching circuit is where we press a
+[10:32] button so that the thing comes on and
+[10:34] stays on until we press another button
+[10:37] when the thing goes off and stays off
+[10:39] now that's obviously important because
+[10:41] as something is moving if it hits the
+[10:43] limit of where we want it to go to when
+[10:45] we make that hit a switch that switch
+[10:48] will turn it off and so prevent it going
+[10:50] any further we of course want to switch
+[10:52] the other switch on so that it goes back
+[10:55] until it hits that limit and those two
+[10:57] limit switches are what the latching
+[10:59] circuit does now a latching circuit
+[11:01] using a relay looks like
+[11:07] this and this is an implementation of it
+[11:10] I'll give you a closeup in a minute when
+[11:12] we look at both of the circuits but on
+[11:14] this I have two switches if I press this
+[11:16] switch that relay operates and even
+[11:20] though I don't press a switch anymore it
+[11:23] stays on that is latched now and latched
+[11:26] in the on position and is switching this
+[11:28] relay on until I press my off switch
+[11:31] when it goes off that real a switch is
+[11:33] off and it stays off so these two
+[11:36] switches operate this in a latching mode
+[11:39] so it will latch
+[11:41] on and it will latch off so clearly if I
+[11:44] have a motor moving an arm and I make
+[11:46] that motor hit this or that arm sorry
+[11:48] hit this or this I can operate the latch
+[11:52] now the latch is important because they
+[11:54] can drive another thing and what we're
+[11:57] using that to drive is the the H bridge
+[12:00] now a h Bridge isn't much more than four
+[12:02] switches and the basic H Bridge looks
+[12:05] like
+[12:09] this now h-bridge switching circuits are
+[12:13] used a lot to change the polarity across
+[12:15] a load and you can of course use them in
+[12:18] Motors and motor control and Robotics
+[12:21] but that's not the only place they're
+[12:22] used actually they have a quite a wide
+[12:24] application you find them in audio you
+[12:26] find them in LED they're used in uh DC
+[12:29] to DC power converters if we switch
+[12:31] across a Transformer and then Rectify
+[12:34] that Transformer output so they have a
+[12:36] whole huge range of uses now to
+[12:38] translate a h Bridge into a relay it
+[12:41] looks like
+[12:46] this and what we've done here with our
+[12:48] two relays is put those two circuits
+[12:50] together now I've isolated the power so
+[12:53] that it won't apply power to the motor
+[12:56] which is right here until I press the
+[12:58] Mot motor switch so let me give you a
+[13:00] close-up view of those circuits
+[13:02] operating so this is the latching relay
+[13:05] and it is wired exactly like that wiring
+[13:08] diagram we showed you it's just wired
+[13:10] into the foot here and then you push the
+[13:11] relay in and the relays always come a
+[13:14] little diagrams showing you what the
+[13:16] relay layout is so the coil activation
+[13:19] coil is here and then the two reles are
+[13:21] here and here so it's really easy to
+[13:23] wire up all I have to do is press that
+[13:26] switch and there we go the relay comes
+[13:29] on activating that relay and then I
+[13:31] press the latch off switch and they turn
+[13:34] off now there's no power to this at the
+[13:37] moment because it's right there it's
+[13:38] just the power button but if I press the
+[13:40] power on so if latch it on and press the
+[13:44] power on the motor will move in One
+[13:46] Direction I latch it it'll move in the
+[13:49] other direction because the latching
+[13:51] switch is operating this as a h Bridge
+[13:56] so that we can reverse the action of
+[13:58] that
+[14:12] motor it's quite fascinating obviously
+[14:14] if I put these two latching
+[14:17] switches if I put those two latching
+[14:19] switches at the limit of that arm motion
+[14:21] then those switches become sensors so it
+[14:24] can sense the position of the arm and
+[14:27] operate it in reverse using the Hedge
+[14:29] Bridge so clearly two extremely useful
+[14:32] circuits now we can implement this using
+[14:35] solid state Electronics where we use
+[14:37] transistors just as switches but I think
+[14:40] that um very often using solid stair
+[14:44] kind of confuses the issue and and you
+[14:46] lose track of what it is you're actually
+[14:48] looking at because all of this is
+[14:49] implemented in nothing more than
+[14:51] switches and when we use transistors as
+[14:54] switches we can do exactly the same
+[14:56] thing but I think doing it in a mechanic
+[14:58] mechanical way like this makes it
+[15:00] obvious that all we're really doing is
+[15:02] operating switches now we're operating
+[15:05] those switches using sensors our sensors
+[15:08] are our limit switches but we could of
+[15:10] course use an Arduino and use a timing
+[15:13] signal to do exactly the same thing the
+[15:16] basics of the circuits remain the same
+[15:18] they are just switches switched on and
+[15:21] Switched Off the control of that can be
+[15:24] as simple as a couple of limit switch
+[15:26] sensors or more complicated like like an
+[15:28] ardino or we can implement it in solid
+[15:31] state but the idea I think is better
+[15:34] explained just demonstrating it as
+[15:36] switches through relays so we have done
+[15:39] parts of this on previous videos because
+[15:41] we're building motor control from our
+[15:43] automatic punch now in order to control
+[15:46] that motor what we want it to do is move
+[15:48] in One Direction until it hits a limit
+[15:50] so the punch goes down when that punch
+[15:53] goes down we want to reverse that
+[15:55] direction automatically until the punch
+[15:56] goes up and stop that cycle so it
+[15:59] doesn't carry on then we need something
+[16:01] to send a signal to repeat that cycle
+[16:03] again and we want that cycle to be
+[16:05] repeatable up and down um every time we
+[16:09] make a punch under a control now we've
+[16:12] done parts of this like I said before so
+[16:14] if you're looking at latching circuits
+[16:16] for instance where we did latching
+[16:18] circuits and H Bridges using relays that
+[16:21] was a big part of it if you had a look
+[16:23] at the brake electronic brake for the
+[16:25] motor that was another part of it but
+[16:27] here we've also in uced limit switches
+[16:29] now I've got this circuit here in front
+[16:32] of me and it is a big old jumble of
+[16:34] wires because I've laided it out to test
+[16:36] on this motor that that in fact works so
+[16:38] I've got these two switches here that
+[16:40] are going to be limit switches and I've
+[16:41] got this three-way switch here which is
+[16:44] a normally open normally closed and a
+[16:46] common which is going to be my input
+[16:48] switch now that one is the one that I
+[16:50] will run from the Arduino because we can
+[16:52] get a timing signal for that to perform
+[16:54] that cycle action these perform the
+[16:56] cycle action this one prevents The Break
+[16:59] um breaks it so it stops immediately and
+[17:01] this one's the H bridge now I will lay
+[17:03] out those circuits in a second after
+[17:05] I've shown you this working so that we
+[17:07] can make sense of what the actual
+[17:09] circuit is and then put it together so
+[17:12] if I connect this motor because there is
+[17:14] no limit switch attached at the moment
+[17:16] and I connect the moot to the battery
+[17:18] that motor will Spin and it will keep
+[17:21] spinning until it hits a limit now of
+[17:24] course when that punch is going down
+[17:26] it's going to do that and stay latched
+[17:29] as long as that is on because it's
+[17:31] partly a latching circuit so as long as
+[17:34] that is depressed that's going to stay
+[17:35] on now course we want to reverse that
+[17:37] action but we can do that by pressing
+[17:39] this timing switch we give that switcher
+[17:42] press and the action reverses even if I
+[17:45] let go of this until we hit that limit
+[17:48] switch which then stops it now we can
+[17:51] let go of that and we get a reverse
+[17:54] until again it hits that limit switch
+[17:56] and stops it and then we give it a
+[17:59] signal and stop it okay so that's how it
+[18:03] works to control that motor you see the
+[18:06] motor jumping because of the sudden
+[18:07] braking and because it's not fixed down
+[18:09] so that circuit in its totality will do
+[18:11] exactly what we want it to do now
+[18:14] because we've included it with braking
+[18:16] on the relay for safety if the power
+[18:19] dies this will stop without juddering
+[18:23] forward it will stop immediately we
+[18:25] covered that in the electronic braking
+[18:27] video that we did using relays anyway I
+[18:30] think it's best to approach this circuit
+[18:33] in parts and then put the circuit
+[18:35] together so first of all let's have a
+[18:37] look at that brake circuit so this is
+[18:40] the original um brake relay that we did
+[18:42] in the uh motor breaking video and this
+[18:46] is how you modify
+[18:47] it and here is the original H Bridge
+[18:50] relay that we did when we looked at H
+[18:52] Bridges and latching and here's the
+[18:54] modification to that so as you can see
+[18:57] it's pretty simple really now to tie
+[19:00] that all together we have
+[19:02] this which is the circuit showing all of
+[19:05] the switches going to the coils so to
+[19:08] bring that all together all you do is
+[19:09] make the two separate circuits with the
+[19:11] relays so you've got the breaking relay
+[19:13] and then you attach it to the hitch
+[19:15] Bridge relay and then use the switches
+[19:18] diagram to tie everything else together
+[19:20] now remember these two switches will be
+[19:21] limit switches on the actual machion
+[19:23] themselves and this one will be under
+[19:25] the control of the Arduino now we can
+[19:27] use another relay which is exactly what
+[19:29] we'll do we use another relay that will
+[19:32] be controlled by the re Arduino as this
+[19:35] switch and then we'll be able to time
+[19:36] everything now this is an immensely
+[19:38] useful circuit it um controls the motion
+[19:41] breaks it so it doesn't overrun which
+[19:43] motors have a habit of doing of course
+[19:45] if you just cease power to a motor it
+[19:47] will overrun this breaks it so it's
+[19:49] immensely useful for lots and lots of
+[19:51] situations I mean this punch is great
+[19:53] but it' be great in animatronics I am
+[19:55] kind of comp contemplating do a the
+[19:57] power exoskeleton which this would be
+[20:00] great for as well so there's a lot of
+[20:02] uses for a circuit like this and I
+[20:04] thought I would share it with you as a
+[20:06] separate item because it is a lot of
+[20:07] information and then we'll put that
+[20:09] circuit onto the machine later so I hope
+[20:11] you enjoyed the video and thank you very
+[20:13] much for watching

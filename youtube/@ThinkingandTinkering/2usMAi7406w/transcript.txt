@@ -1,0 +1,259 @@
+[00:00] [Music]
+[00:08] so valves they're a very ancient thing
+[00:11] and this saxophone is absolutely covered
+[00:13] in them now their job is to restrict
+[00:16] control or divert a flow of a fluid for
+[00:20] example air water or a slurry and
+[00:22] they've been in existence for thousands
+[00:24] of years and they're pretty easy to make
+[00:27] as the name suggests if you've got
+[00:28] yourself a whole and a flap of material
+[00:31] to cover that hole you've got yourself a
+[00:33] flap valve but of course like that they
+[00:36] have their limitations I mean you see
+[00:38] them you see them in things like Bellow
+[00:40] but they have limitations and of course
+[00:42] the saxophone has improved on that
+[00:44] limitations by using things like Springs
+[00:47] metal backing plates and levers and we
+[00:50] can make a pretty cool valve using an
+[00:52] O-ring and a spring and I did exactly
+[00:56] that by printing up these three
+[00:58] components the O-ring goes in the little
+[01:00] recess there the spring goes in that
+[01:03] there this is actually the valve it's a
+[01:05] bit like a puppet valve but that's the
+[01:07] actual valve plate that goes in there
+[01:10] like that and then the whole thing fits
+[01:12] together like
+[01:15] that and when you put it together the
+[01:17] whole thing works as a pretty successful
+[01:19] valve you blow down there the air is
+[01:21] free to move you blow down there the
+[01:24] plate moves against the Rubber and it
+[01:26] becomes a blockage and SE valve now I've
+[01:28] used a plate you could equally use a
+[01:30] ball some would argue a ball is better
+[01:32] but the role of the spring is to keep
+[01:35] the thing pressed against the rubber so
+[01:37] this is always closed unless we put a
+[01:39] higher pressure in here we could of
+[01:41] course reverse that so the spring always
+[01:44] kept it open in which case if we pressed
+[01:46] on the top it would act just like a
+[01:48] valve in your car engine so that really
+[01:51] works quite nicely but of course it's
+[01:53] disappointing to me on a number of
+[01:56] levels and perhaps the first level is
+[01:59] having to in include that rubber o-ring
+[02:01] because what I find is when you use
+[02:03] external Parts like Springs and O-rings
+[02:05] people always say where did you get it
+[02:07] from what's the exact specification I
+[02:09] can't find it how on Earth am I going to
+[02:12] use this and so generally sharing things
+[02:14] I think that's a disappointment and it
+[02:16] makes me think okay how can we replace
+[02:19] those two parts so the whole thing would
+[02:21] be 3D printed and you wouldn't need to
+[02:23] search Amazon or whatever it is to find
+[02:26] the bits that I've used and the first
+[02:28] thing I want to tackle is the O-ring now
+[02:31] I want to do that because I've got this
+[02:33] thing which is the a5x by flash Forge
+[02:36] and it's a multicolor printer but in my
+[02:38] case of course I'm using it as a
+[02:40] multimedia printer we've already used
+[02:42] this in video 2353 where we made some
+[02:45] Bellows we printed a sheath out of TPU
+[02:47] we over printed that with pla ribs
+[02:50] folded it up we had some awesome Bellow
+[02:52] this isn't nearly as much as a challenge
+[02:54] actually we print the B out of PLA and
+[02:57] the top nice and soft and Squishy for
+[02:59] the the valve to press against of TPU
+[03:02] now people have said that TPU and Pla
+[03:04] don't stick together that's actually not
+[03:06] true they will stick as long as the
+[03:09] surface is quite large if you make it
+[03:10] thin they'll break away but here we
+[03:13] print the pl at about 220 and we print
+[03:16] the TPU at about 270 and that means the
+[03:19] TPU melts a little bit into the pl
+[03:23] forming a mechanical Bond and so we can
+[03:25] print that easily on this now we don't
+[03:28] need to use this object viously we can
+[03:30] just to print two materials you can
+[03:32] print a base you can print a TPU can
+[03:34] glue the TPU onto the base and get the
+[03:37] same effect it's just Mighty easy if all
+[03:40] you do is set it up and wander away and
+[03:42] make a cup of coffee so how do we set
+[03:44] that up so here's our design in the Orca
+[03:47] slicer provided with the a5x and you can
+[03:51] see it's basically just a cylinder there
+[03:53] a slight Mark there let me zoom in you
+[03:56] see there's a little step right here
+[03:58] between a top cylinder and bottom
+[04:00] cylinder that's actually kind of
+[04:02] important later on the setup of it I've
+[04:05] got two filaments flash frod PLA and
+[04:07] Flash vge dpu you could of course use
+[04:10] different colors here the color for me
+[04:12] doesn't matter but I've set one as red
+[04:14] and one as yellow and you click on the
+[04:17] one or the two to set the colors and you
+[04:19] click the down to set the actual type of
+[04:21] filament that you're going to use so
+[04:23] that the slicer understands it now it
+[04:26] doesn't understand anything at the
+[04:27] moment until we apply something to it it
+[04:30] so if we click on the object you'll
+[04:32] notice this screen becomes live and here
+[04:34] we've got one called color painting if
+[04:36] we change to color painting then we'll
+[04:38] suddenly be able to paint our model with
+[04:42] whatever we want and there's a whole
+[04:43] load of tool types to be able to do that
+[04:45] the easiest one I use is fill and change
+[04:48] the filament type you want and then we
+[04:50] can just click on the area that will
+[04:52] change it to TPU and here remember I
+[04:55] talked about this little line when it
+[04:57] auto fills like that it looks for edges
+[05:00] so I made the big one 38 mm and the
+[05:05] small one
+[05:06] 37.9 millim to create me this little
+[05:09] ledge that little ledge means all I have
+[05:11] to do is click on it it'll change it to
+[05:13] TPU and the same on the inside it'll
+[05:15] change it to TPU then I can close the
+[05:19] whole thing and now it's set to TPU all
+[05:23] I have to do now is slice the plate and
+[05:26] take it across to my com um printer so
+[05:29] to actually print it of course we put it
+[05:31] onto the machine and press this button
+[05:33] here which is the print button and it
+[05:35] will pull up the models available to
+[05:36] print there's our dis that we want and
+[05:39] it's a choice of on the machine or it's
+[05:41] actually on the USB and it presents this
+[05:43] screen it's here incidentally where you
+[05:45] delete things if you want to you'll see
+[05:47] a small next button you press next and
+[05:49] here you'll see a mapping screen so
+[05:52] there are the filaments I've got loaded
+[05:54] and if you doing color filament in pla
+[05:56] you would have four of them in different
+[05:58] colors here this this one where we're
+[06:00] showing the red and the yellow circles
+[06:02] they're the ones that I defined on the
+[06:04] actual slicer itself and I need to map
+[06:06] them to the actual filaments and you do
+[06:09] that by highlighting it so you just
+[06:11] press it to highlight
+[06:13] it there we go and then you would match
+[06:16] it to whichever filament type is in 1 2
+[06:19] 3 or four you can see I've matched pla
+[06:21] to actual pla TPU to actual TPU and then
+[06:26] we just print the print button and once
+[06:28] it's printed we get our Basse and our
+[06:30] TPU squishy top and we can pick that off
+[06:34] and there we go that's part of our valve
+[06:36] done so here's our same valve bits pop
+[06:38] the spring in there pop the Poppet in
+[06:42] there and then this time this bit just
+[06:45] goes in there like that there we go and
+[06:48] we have a really good valve so the EDD
+[06:51] 5x did actually make that really easy
+[06:54] cuz all I did was print off this extra
+[06:56] bit the disappointing bit and the bit
+[06:58] that's much more difficult actually is
+[07:01] this bit here the spring and that's
+[07:04] because of the way 3D printing works so
+[07:06] if I tried to print this spring as is it
+[07:09] puts down the material in layers so
+[07:11] where it lifts up there'll be a layer
+[07:13] line that creates a weakness if I try to
+[07:16] print it that way around it'll be even
+[07:18] worse because there'll be weakness all
+[07:20] along that and the spring will snap
+[07:23] luckily there are several kind of
+[07:25] Springs that work really well as long as
+[07:27] the filament is Led down in the
+[07:30] direction of the spring so you can make
+[07:32] an extension or a compression spring
+[07:34] that we used in the latch mechanism we
+[07:36] made in video
+[07:38] 2338 which looks a bit like a snake and
+[07:41] of course there are coil springs which
+[07:42] you see all over the place where people
+[07:44] are using them for their own Clockwork
+[07:46] and then you have leaf springs that work
+[07:48] really well things like tweezers but
+[07:51] more importantly for us in this case is
+[07:54] this kind of spring it's called an alop
+[07:56] pler spring and for us it's very useful
+[08:00] so let's have a better look at
+[08:03] it okay it's printed so those little
+[08:05] bits there are the actual spring and of
+[08:08] course it's printed flat so it doesn't
+[08:09] have the weak Snappy points and if I
+[08:12] press this down what you should see is
+[08:16] it's a spring in that direction it's
+[08:19] also a spring in that direction so we
+[08:21] can twist it and it will spring or we
+[08:23] can push it up and down and it will
+[08:25] Spring without having any weak points
+[08:27] and of course that's exactly what we
+[08:29] want for our valve so I took my atho
+[08:32] planer spring and printed it in a little
+[08:35] circle like that now we can take our
+[08:37] case and we can put the aop pler spring
+[08:41] in that case like that before we do that
+[08:44] however we need to add the puppet and
+[08:46] the puppet this time has got a little
+[08:48] ledge on it so that the aop planer
+[08:50] spring is at the right height we pop
+[08:52] that spring
+[08:57] on there we go like that we can then
+[09:00] drop it into our
+[09:05] case so we get our springloaded valve
+[09:09] and then we can take our TPU pla bit and
+[09:12] stick that on there and we have our
+[09:15] totally printed valve now I called this
+[09:18] the very versatile valve because I think
+[09:20] it is I think it's versatile in the way
+[09:22] that you go around making it and also in
+[09:24] the way that you use it I mean this I
+[09:26] printed it in TPU 95 you can get that
+[09:28] down to as far as printable versions at
+[09:30] 30 if you don't like the TPU you can
+[09:33] leave it off and stick some soft rubber
+[09:35] or other material on there this bid here
+[09:38] is for straight through so it's got
+[09:40] little holes here if you don't like that
+[09:42] then you could close those off and put
+[09:44] the exit here if you're worried about
+[09:47] the this bit ceiling here then obviously
+[09:49] print a TPU section on the top of it is
+[09:52] completely encased and then you're able
+[09:54] to operate that with an actuator like a
+[09:56] cam or maybe a solenoid if you don't
+[09:59] like the fact that this is normally
+[10:00] closed which it is then if you move that
+[10:03] case down a millimeter it'll be normally
+[10:06] open so you can use it in many different
+[10:08] ways you can make it in down many
+[10:10] different ways you don't have to control
+[10:11] it because the Spring's doing that job
+[10:13] for you or you could control it with
+[10:15] cams or actuators like solides to make a
+[10:19] valve I I think that's really very
+[10:22] adaptable and very useful so I wanted to
+[10:25] share it with you now I will of course
+[10:27] put these files on thas should anybody
+[10:29] want them but I hope you enjoyed the
+[10:31] video and thank you very much for
+[10:32] watching please do remember to like And
+[10:34] subscribe

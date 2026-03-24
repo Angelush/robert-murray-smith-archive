@@ -1,0 +1,205 @@
+[00:05] hi there watching Rob's video about
+[00:07] Pythagoras got me thinking about maths
+[00:09] and got me thinking about primes which
+[00:11] is something I'm really fascinated with
+[00:13] primes are very very curious little
+[00:15] buggers because they um there an
+[00:18] infinite sequence of them but if you
+[00:20] look at the nth one nobody knows what
+[00:24] the next one's going to be so if you
+[00:26] plot them on a graph they'll produce
+[00:28] what looks like a random graph they're
+[00:30] very very weird they look unordered but
+[00:33] in fact they're the heart of many things
+[00:35] they're in fact very ordered they must
+[00:37] be ordered so this is they're very
+[00:39] curious
+[00:40] things and uh what I want toh show today
+[00:43] is that primes are actually involved in
+[00:45] all natural numbers natural numbers are
+[00:48] whole numbers so like 2 3 4 5 and so on
+[00:52] 1,768 your grandmother's birthday you
+[00:55] know I don't know whatever you like any
+[00:57] whole number primes are involved this is
+[00:59] because because any natural number
+[01:01] greater than one is either prime or it's
+[01:04] a product of prime so primes are
+[01:07] involved in every number which is
+[01:09] interesting to me I think it's I think
+[01:11] it's weird and it's interesting so just
+[01:13] to give you a quick refresher so Prime
+[01:15] is a number that has precisely two
+[01:17] factors itself from one so it's only
+[01:19] divisible by itself and divisible by one
+[01:22] anything that has more than those two
+[01:24] factors is not a prime so one is not a
+[01:27] prime because it doesn't have two
+[01:29] factors it has one it's divisible by one
+[01:32] which is itself so it doesn't have
+[01:34] exactly two factors two different
+[01:36] factors so the primes start from two in
+[01:39] the natural numbers and two is a prime
+[01:41] three is a prime five is a prime Seven's
+[01:43] a prime 11's a prime 13's a prime 17 to
+[01:46] Prime and so on
+[01:49] now what do we mean by a product of
+[01:52] primes let's just go through the numbers
+[01:54] and have a look if our claim HS you know
+[01:56] we want to I'm saying that every natural
+[01:58] number greater than one is either prime
+[02:00] or can be expressed as a product of
+[02:02] prime so let's just have a look is it
+[02:04] true so two is a prime three is a prime
+[02:07] four is not a prime but it can be
+[02:09] expressed as a product of primes 2 by
+[02:11] two five is a prime cool six is not a
+[02:14] prime but again it can be expressed as a
+[02:16] product of primes 2 by3 seven is a prime
+[02:19] cool eight is not a prime but it can be
+[02:21] expressed as a product of primes 2x 2 by
+[02:23] two so okay I've shown it's true for the
+[02:26] first one 2 3 four five six seven
+[02:29] natural numbers greater than one but I'm
+[02:31] saying it's true for all natural numbers
+[02:33] greater than one obviously I can't stand
+[02:36] here for all aternity making this video
+[02:40] and go up and go through all the numbers
+[02:42] I've never finish so we need a way to
+[02:44] say that it's true for all numbers so
+[02:47] how to do that well wouldn't it be nice
+[02:51] because we know it's true for these
+[02:52] first few numbers what about if I could
+[02:54] say oh if I know it's true for these
+[02:57] first few numbers then it's true for the
+[03:00] next number because if I could do that
+[03:02] then I could say all right I now know
+[03:04] it's true for these and make my set a
+[03:06] bit bigger and say if it's true for this
+[03:09] set of numbers then it's true for the
+[03:11] next number if I can always do that if I
+[03:14] can always make that claim if it's true
+[03:16] for this set of numbers then it's true
+[03:19] for the next number then you can see
+[03:21] that this set will just expand and fill
+[03:23] up all of the natural numbers now I
+[03:27] don't want to talk about specific
+[03:28] numbers because it's difficult to kind
+[03:30] of make that reasoning if you talk about
+[03:32] specific numbers so I want to talk about
+[03:35] indexed numbers just give them labels
+[03:37] instead because it's easier to reason
+[03:39] about so I'm going to label the the
+[03:42] natural numbers start using the number Q
+[03:45] starting with q1
+[03:48] Q2
+[03:50] Q3 all the way up to
+[03:54] qn now and now we can ask the question
+[04:00] if it's true for the first n numbers and
+[04:03] it doesn't matter what n is n could be
+[04:05] anything we're get like we can choose it
+[04:07] to be the sick the sick natural number
+[04:09] if you want but it doesn't matter what
+[04:11] we all we need to ask is if it's true
+[04:13] for the first n numbers is it then true
+[04:16] for the n + one number because if we can
+[04:19] show that we can show it's true for all
+[04:21] of them as I'll show you so all right
+[04:25] well let's have a look so let's assume
+[04:29] that the claim holds for all these
+[04:32] numbers then so it's true for all these
+[04:34] numbers so each of these numbers is
+[04:36] either a prime or can be expressed as a
+[04:38] product or prime we'll assume that's
+[04:41] true now can we show that this is either
+[04:44] prime or expressible as a product of
+[04:47] primes well if it's a prime then our
+[04:49] job's done it's a prime
+[04:53] so then if it's not a prime in order to
+[04:56] meet our claim it must be expressable as
+[04:59] a product of primes is there any
+[05:01] information in here that can let us show
+[05:04] this that this number is expressible as
+[05:06] a product of primes well it turns out
+[05:07] that there
+[05:08] is so if this is
+[05:10] true because this is not a prime it must
+[05:13] have
+[05:14] factors and if it has factors those
+[05:18] factors must be less than this number
+[05:20] because that's what what it means to
+[05:22] have factors you know the the components
+[05:25] of something are smaller than the
+[05:27] whole so
+[05:30] these numbers they must come from this
+[05:33] set so they must come from the the
+[05:35] numbers one to n because they're smaller
+[05:38] and we this encompasses all the numbers
+[05:40] all of the natural numbers from the
+[05:42] first up to the end so that means that
+[05:44] the factors of this number come from
+[05:47] this set but we assume that this set
+[05:50] that each number in this set is either a
+[05:54] primes which means that the factors of
+[05:57] this number are either Prime themselves
+[05:59] are expressible as a product of primes
+[06:02] so if we write all these out so let's
+[06:05] just assume that the factors are a
+[06:10] b a * B * C for this number then either
+[06:15] each of these either a prime or
+[06:17] expressable as a product of
+[06:19] primes now if it's a if they're
+[06:22] primes then they're okay say let's
+[06:25] assume that A and C are primes and B is
+[06:29] EXP expressible as a product of primes
+[06:31] well then that means we can write b as
+[06:33] let's say f * G and let f and g be
+[06:38] primes so that means that we can write
+[06:40] our number out as a product of primes
+[06:42] because each of the each of the numbers
+[06:45] that was itself a product of primes can
+[06:46] be expanded into a product of primes and
+[06:48] we can put them all in in a line which
+[06:50] means that q n + one can be expressed as
+[06:54] a product of primes therefore if it's
+[06:58] true the number the natural numbers
+[07:01] greater than one q1 up to qn are either
+[07:06] primes then it is true that the next
+[07:09] number qn + one is either prime or
+[07:12] expressable as a product of primes so
+[07:15] we're almost there now we only need one
+[07:18] more step to show that the the claim is
+[07:20] true for all numbers and basically that
+[07:23] all we need to show which we've already
+[07:25] done is that it's true for this set we
+[07:29] you know two is a prime three is a prime
+[07:31] four is expressible as a product of
+[07:32] primes 2+ 2 * 2 and five is a prime and
+[07:36] we just set our Q nus one to be here so
+[07:41] we know that I set
+[07:44] um we know it's true for this set we
+[07:46] prove that if it's true for this it's
+[07:48] true for qn sorry that's qn qn + one so
+[07:54] we know it's true for the next number
+[07:56] and in this case the next number is
+[07:58] six
+[08:00] then we can just Define qn to be this
+[08:02] this number and then we know it's true
+[08:04] for the next number so we've now shown
+[08:07] so what we do when we finish this we
+[08:09] type we write q e d because we've shown
+[08:12] now that every natural number greater
+[08:14] than one is either prime or expressible
+[08:16] as a product of
+[08:17] primes now I think Rob's going to do a
+[08:19] video about inductive reasoning in
+[08:21] general to kind of generalize this
+[08:22] principle but essentially what we're
+[08:24] doing here is showing that something's
+[08:27] true for a smaller set then showing that
+[08:30] if it's true for that set it's TR it's
+[08:33] true for a slightly larger set and we
+[08:35] can always keep redefining the set to be
+[08:37] the next set up I hope that makes sense
+[08:39] and I hope you found that useful and I
+[08:41] hope you learned something about primes
+[08:42] thanks for listening

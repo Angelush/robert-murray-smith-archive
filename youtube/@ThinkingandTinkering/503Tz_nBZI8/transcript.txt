@@ -1,0 +1,328 @@
+[00:00] [Music]
+[00:08] Right, we're on a journey to learn to
+[00:10] use this thing. It's the Mecca Carver
+[00:13] Air. Now, if you're already conversing
+[00:17] with CNC machines and all you really
+[00:19] want me to do is turn it on and swap a
+[00:20] few bits out, then it's not the video
+[00:23] for you. My assumption is that this is
+[00:26] something you're brand new to. It's
+[00:28] something you've been thinking about.
+[00:29] It's something you'd like to know about.
+[00:31] It's something that maybe you'll
+[00:33] actually do something with, but you have
+[00:35] next to no experience. Actually, that's
+[00:38] just like me. I've never used one of
+[00:41] these before. Sure, I've done a lot of
+[00:43] 3D printing, but I've never used a CNC
+[00:46] machine, and they're very different. On
+[00:48] the one hand, 3D printing, well, it adds
+[00:51] things on. It's additive manufacturing.
+[00:53] On the other hand, this thing knocks
+[00:55] lumps out of a block. It's subtracted
+[00:57] manufacturing. So, it's completely
+[00:58] different in how it approaches it. So,
+[01:02] if you're wanting to learn this, then we
+[01:04] have to go through a learning process.
+[01:06] It's not going to be something that
+[01:07] you're going to immediately pick up and
+[01:09] do. And showing you how to swap out the
+[01:11] head or turn it on or load up some
+[01:13] software is going to be of no help to
+[01:15] you whatsoever. It will still be a
+[01:17] mysterious black box as you tried to get
+[01:19] to grips with what it is. Because the
+[01:21] first step you need to do obviously is
+[01:24] draw something. We need to draw
+[01:26] something on the computer to be able to
+[01:28] get it into here. And the question is,
+[01:31] how do you draw something? What do you
+[01:33] use? Well, we use a CAD CAM program. But
+[01:36] the real skill isn't actually in using
+[01:39] the program, oddly enough. And I can't
+[01:41] tell you how often I tell people this
+[01:42] and how they don't think it's right and
+[01:45] then end up learning it. The real skill
+[01:48] is being able to see something in three
+[01:51] dimensions. We're used to seeing things
+[01:53] flat. We draw them on a piece of paper.
+[01:56] We write them out. We think of them as
+[01:58] two-dimensional. Then converting it so
+[02:01] you can see the whole thing in three
+[02:02] dimension is actually a bit challenging
+[02:04] for people. And to be honest, it doesn't
+[02:07] matter what you use to do that. You can
+[02:09] use Lego blocks if you want to do that.
+[02:12] It'll give you a sense of an object in
+[02:14] three dimensions and how you're going to
+[02:16] approach designing that object without
+[02:19] ever touching a CAD program. The next
+[02:22] CAD program I recommend is the computer
+[02:25] equivalent of Lego blocks and that's
+[02:28] Tinkercad. Once you get used to moving
+[02:30] things around in a work plan and adding
+[02:32] them and subtracting them in the
+[02:34] computer, you'll get a very good sense
+[02:37] of how that object looks in three
+[02:39] dimensions. How three dimensions affect
+[02:41] each other and how that
+[02:43] three-dimensional object is going to be
+[02:45] when you bring it into the real world.
+[02:48] And Tinkercad really is the Lego block
+[02:50] building program of 3D design. And for
+[02:54] me, as an introduction to all of that,
+[02:57] absolutely awesome. But at some stage or
+[03:00] other, you're going to need to swap to
+[03:03] another program. And that other program
+[03:05] then is going to be the inverted commas
+[03:09] real program. And that's what this makes
+[03:11] us actually do. Because with this thing,
+[03:14] we need to do something that is hidden.
+[03:17] What we need to do is change that
+[03:19] three-dimensional drawing into a set of
+[03:22] instructions that we can send to this
+[03:24] machine. And those instructions move the
+[03:27] tool head up and down and around exactly
+[03:31] how we wanted to. That part of it isn't
+[03:34] in Tinkercad. And we need another
+[03:36] program that contains that. Now, most of
+[03:39] them do actually most of the higher end.
+[03:41] And it really becomes a question of what
+[03:43] you're comfortable with working with.
+[03:45] It's all about your workflow and what
+[03:47] you're comfortable with. The only
+[03:48] guidance on choosing a 3D program is
+[03:51] work with a few and see which suits you.
+[03:53] Now, I'm going to use Frecad. I'm going
+[03:55] to use Frecad purely because it's free
+[03:57] and it suits me and it'll do what I want
+[04:00] to do. But it's always the same routine.
+[04:04] Now, when you open any 3D printing
+[04:07] program, the first thing you're going to
+[04:08] be confronted with is a blank screen and
+[04:11] a lot of toolboxes, and they can be
+[04:14] quite frightening. If you know where
+[04:16] you're going, that is, you've got a
+[04:18] sense of three dimensions and you know
+[04:20] what that object is going to be, then
+[04:22] getting there is very much easier than
+[04:25] if you've got no idea whatsoever and you
+[04:27] have this screen full of tools. That's
+[04:30] where learning what a three-dimensional
+[04:32] object is like and how to manipulate it
+[04:35] in a computer space is so important. You
+[04:38] learn that in something like Tinkercad,
+[04:40] you'll already have an intuitive way of
+[04:44] grasping what it is in front of you.
+[04:46] Now, this is clearly a 3D printed
+[04:49] object. And like all 3D printed objects,
+[04:52] and in fact like all objects that are
+[04:54] man-made, it's an assembly of parts.
+[04:56] It's made of separate parts. There's the
+[04:59] actual clock face. It what this is is a
+[05:01] um reciprocating clock. It counts up to
+[05:04] 12 and then flips back and swaps between
+[05:06] AM and PM instead of going all the way
+[05:08] around. But it's like everything. It's
+[05:11] made up of parts. And I can disassemble
+[05:14] this assembly into its parts. And we can
+[05:17] have a look at the parts separately.
+[05:19] Then we can design those parts and put
+[05:22] the parts together in an assembly. Now
+[05:25] 80 90% of what you want to design is
+[05:29] going to be basically the same thing.
+[05:32] It's a a collection of cylinders or
+[05:34] cubes or arcs or whatever. It's
+[05:37] basically the same bit and those bits
+[05:40] are referred to as primitives. Now
+[05:42] primitives are provided to you in
+[05:45] Tinkercad which is why it's a a Lego
+[05:48] building system. It's why it can build
+[05:50] things so quickly because you don't have
+[05:52] to make the primitives. You make the
+[05:54] parts out of primitives and then make
+[05:56] your assembly from that. Uh, and it's
+[05:59] astounding. I mean, if you think about
+[06:00] Lego and you think about what these Lego
+[06:02] engineers do, they do the most
+[06:04] astounding machines out of or
+[06:06] essentially primitives. And we are doing
+[06:09] the same thing. Tinkercad provides you
+[06:12] with the primitives. Other programs, you
+[06:15] have to create the primitives yourself.
+[06:17] And that tends to be to my mind where
+[06:19] they differ. But all of them go through
+[06:22] exactly the same processes. They build a
+[06:26] primitive. They put the primitive
+[06:27] together in parts. You create a whole
+[06:29] load of parts and put them together in
+[06:32] an assembly. When you look at a CAD
+[06:35] program, you'll see that replicated
+[06:37] because CAD programs mirror the real
+[06:40] world. They have to. If they didn't,
+[06:43] they wouldn't be CAD programs. Where
+[06:46] this helps you is when you're looking at
+[06:49] a program, you're not trying to learn
+[06:50] the whole program. That would take you
+[06:52] absolutely ages and be utterly
+[06:55] confusing. Think about when you drive.
+[06:57] When you're driving, you don't look
+[07:00] everywhere. You look where is important,
+[07:03] which is basically in front of you and
+[07:05] sometimes to the back. And if you want
+[07:06] to turn off, you'll notice the signs.
+[07:09] You focus on the important things. And
+[07:11] it's the same thing in drawing in CAD.
+[07:14] you focus on the important things. How
+[07:17] do you draw a primitive? Where is the
+[07:19] circle? Where is the rectangle? How do
+[07:22] you make it a solid? These are
+[07:24] relatively simple things that will take
+[07:26] up 80% of your time in drawing
+[07:29] something. And all CAD programs provide
+[07:32] them. It's just really a question of
+[07:36] where they are. Now when it comes to the
+[07:38] logic of a CAD program because all
+[07:40] programs are also written with the logic
+[07:42] then the designer has had a think about
+[07:45] how to make this believe it or not easy
+[07:48] for you and what they tend to do is
+[07:50] separate it into what they call
+[07:52] workbenches. Very often you'll find a
+[07:55] workbench will pull up a certain set of
+[07:57] tools that will enable you to do
+[08:00] something like draw a primitive, make
+[08:03] the primitive apart, put the parts
+[08:05] together in an assembly, and you look at
+[08:08] the screen for those important bits that
+[08:11] you actually want to focus on. The rest
+[08:13] of it, well, you'll learn that in time,
+[08:15] and sometimes you'll never use any of it
+[08:17] because it's just not for you. If you
+[08:20] don't focus down, all you'll see is a
+[08:23] massive jumble of stuff. If you remember
+[08:26] what it is you're trying to do, that is
+[08:28] reflect the real world experience. Then
+[08:31] you look for the thing that will do that
+[08:34] job. If you want a circle, well, look on
+[08:36] the toolbar, you'll find a circle. If
+[08:39] you're trying to draw a part and you're
+[08:41] in the assemblies workbench, you're
+[08:43] going to have a challenge. So, have a
+[08:45] click on the pull down and find part.
+[08:49] Click on part and you'll be able to
+[08:52] sketch. Click on sketch and you'll see a
+[08:55] circle. If you're not seeing these
+[08:57] things, you're in the wrong place. Just
+[08:58] search around until you find them. Just
+[09:00] in the same way as if you're driving.
+[09:03] Ignore most of it. Focus on what's
+[09:06] important to you and you'll suddenly
+[09:08] find it easy. If we do that, then you're
+[09:11] going to follow the logic of what the
+[09:13] designers did because the designers are
+[09:16] only trying to mirror a realworld
+[09:19] experience for you. So don't get lost in
+[09:21] the computer screen. Think what it is
+[09:24] you're actually trying to do when you're
+[09:26] creating a real thing. And that will be
+[09:28] mirrored in the program. Look at the
+[09:31] program, the little pull down screens,
+[09:33] the little pretty pictures to find the
+[09:36] bit you want and just ignore the rest.
+[09:39] Right. So, I've been talking about CAD
+[09:42] for the last 10 minutes and not turned
+[09:44] on a computer. So, I can more or less
+[09:46] guarantee there's going to be a group of
+[09:48] people who go, "Well, there's 10 minutes
+[09:49] of my life wasted. What a waste of time.
+[09:51] I'll never get that back." And sure, for
+[09:53] some people that is the case. And those
+[09:55] people, I think, will be split into two.
+[09:57] There'll be a whole group of them who
+[09:59] already know about CAD and didn't need
+[10:01] to watch the video anyway. And then
+[10:02] there'll be a whole group of people who
+[10:05] think that learning CAD is about looking
+[10:07] at programs and all they'll ever do is
+[10:11] convince themselves how difficult CAD is
+[10:13] and it'll remain a mysterious black box.
+[10:16] Because what's fundamental is
+[10:18] understanding what it is you're trying
+[10:20] to do. When you understand what it is
+[10:22] you're trying to do, then CAD programs
+[10:24] will have those tools to do them.
+[10:26] Otherwise, they wouldn't be CAD
+[10:28] programs. But you may have to clutch
+[10:31] something. So, say if you've got a
+[10:32] garage and you don't have every tool in
+[10:34] the world and your spanner doesn't quite
+[10:36] fit, well, you use an adjustable.
+[10:38] Adjustables aren't as good. Sure,
+[10:40] there's a spanner that fits because they
+[10:42] have a tendency to slip and round off
+[10:44] the nuts, but they will work. And that's
+[10:47] the way I've dealt with it. I want to do
+[10:50] a job and I look for the tool. I don't
+[10:52] let the tool dictate to me what the job
+[10:55] is. There's a whole group of people who
+[10:57] think that you have to have the perfect
+[10:59] tool for the job. And yes, that really
+[11:03] helps. That's not always the case. Now,
+[11:06] I get told that I'm a master at
+[11:08] Tinkercat, and I can assure you I'm by
+[11:10] no means a master at Tinkercad. I barely
+[11:13] know the program. I know that somewhere
+[11:17] in there is a tool to do the job that I
+[11:19] want to do. And if there isn't, I can
+[11:21] clutch it until there is. That's all I
+[11:23] actually know because I swap things
+[11:25] around from letting the tool dictate the
+[11:28] job to me using the job to dictate the
+[11:31] tool. That reverse is super important.
+[11:34] And if you can get hold of that, then to
+[11:36] be honest, all these CAD programs are
+[11:39] basically the same. They have various
+[11:42] good things about them, various bad
+[11:44] things about them. And it's going to be
+[11:46] what you like and what you dislike. And
+[11:48] the way you're going to discover that is
+[11:49] by doing it for the bulk of them. In
+[11:52] fact, all of them do exactly the same
+[11:54] thing. Otherwise, it wouldn't be a CAD
+[11:57] program. And if you work with it, you'll
+[12:00] learn to love or hate whatever it is
+[12:02] that you happen to be working with. It
+[12:06] really in essence doesn't matter that
+[12:08] much what you choose to go with. What
+[12:11] really matters is that you get hold of
+[12:12] the idea of what it is you're trying to
+[12:15] do and then looking for the tool to do
+[12:17] it. That should give you pigeon holes to
+[12:19] help you get hold of whatever program it
+[12:22] is you're looking at and line it up from
+[12:24] a confusing jumble of bits, most of
+[12:27] which you ignore anyway, to finding the
+[12:30] bits you want to do to do the job you
+[12:32] want to do. So, I would say far from
+[12:34] being a waste of time, if you can get
+[12:36] hold of that idea, you've made an
+[12:38] enormous leap into the world of CAT
+[12:41] because it isn't that complex. It isn't
+[12:44] that complex because most of what you
+[12:46] want to do isn't that difficult. It's
+[12:49] cylinders and squares you've put
+[12:51] together. Anyway, we will look at some
+[12:54] real programs. Frecad is going to be the
+[12:57] one that I'm going to use to look at how
+[12:59] to do some of this stuff. But that
+[13:01] fundamental idea doesn't get talked
+[13:03] about much or nearly enough. If you can
+[13:06] get hold of that, I think you've taken a
+[13:08] leap ahead. It's certainly what I do and
+[13:12] I'm by no means a master of any CAD
+[13:15] program. It's just how I tend to look at
+[13:18] things. I hope you enjoyed the video. I
+[13:19] hope it helped. Thank you very much for
+[13:21] watching and please do remember to like
+[13:24] and subscribe.

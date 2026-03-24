@@ -1,0 +1,213 @@
+[00:00] [Music]
+[00:08] so this is a torsson differential model
+[00:10] I came up with and of course the STL
+[00:12] files will be made available and we'll
+[00:14] have a closer look at it in a minute but
+[00:17] this is a beautifully elegant device
+[00:20] arrangement of Gears that performs a
+[00:22] differential function but the
+[00:25] differential function can be a little
+[00:26] hard to grasp now the torson itself it's
+[00:30] fundamentally a worm gear these Central
+[00:32] gears that run to the flangers here are
+[00:34] worm gears these gears here on the
+[00:37] outside are just like Spur Gears sure
+[00:39] they're hella cool but they're Spur
+[00:41] Gears now a worm gear can't be back
+[00:44] driven what that means is if I have a
+[00:46] worm on a spur gear and I turn the worm
+[00:48] gear the spur gear will turn but if I
+[00:51] turn the spur gear it won't turn the
+[00:54] worm gear and that locks everything up
+[00:57] so if these try to turn it will lock a
+[01:00] against the worm gear that's at the
+[01:01] central of here and lock it if I apply
+[01:04] power down the shaft there of course the
+[01:06] whole thing then moves it's actually
+[01:09] trying to move the carriage but the
+[01:11] carriage is locked against the worm
+[01:12] gears so it ends up moving these
+[01:14] flangers and he Presto your wheel which
+[01:17] is great I mean you know that's easy
+[01:19] apply power both Wheels turn but a
+[01:23] differential action is where one has to
+[01:25] turn a different rent to the other and
+[01:27] if they're locking then how does it
+[01:30] achieve that well it achieves that on
+[01:33] two basic principles the first one is
+[01:36] the all motion and therefore all four
+[01:38] supplied is relative I mean if you stand
+[01:42] on a train station the train will zip
+[01:44] past you if you're standing on a train
+[01:47] then the station will zip past you and
+[01:50] okay you may say yeah that's just a
+[01:51] point of view but think about the Earth
+[01:54] if you're standing on a street and a car
+[01:56] is driving towards you it apparently
+[01:58] comes towards you if you change your
+[02:01] point of observation and you're out in
+[02:03] space you have to remember that the
+[02:06] Earth is turning at something like a
+[02:07] th000 km an hour at the equator if you
+[02:10] watch that same person and that same car
+[02:13] what you'll see is both of them moving
+[02:16] away from you but because the car is
+[02:19] moving towards the person on the street
+[02:21] it will be that the car is moving away
+[02:25] from you slightly less slow than the
+[02:27] person so it all depends where you are
+[02:31] to what that movement actually is the
+[02:34] second thing that's kind of hard to
+[02:35] grasp is that we always think of
+[02:37] differentials as being in cars and
+[02:40] that's because that's singly the
+[02:41] greatest use of them a differential in a
+[02:44] car is where powerly split so the power
+[02:47] comes down one axle and it split between
+[02:50] the two axles but differentials Opera in
+[02:53] the other way they will also combine
+[02:56] power so power is put on these two
+[02:58] separate axles from two separate inputs
+[03:01] then will combine to give power on the
+[03:03] output shaft okay there's the concepts
+[03:07] now have a let's have a better look at
+[03:08] this model here's the model I came up
+[03:11] with in Tinker CAD of the torsion
+[03:14] differential if we remove the extraneous
+[03:17] gubbins that is the drive system the
+[03:19] flanges and the frame we can get a
+[03:22] better look at the heart of the
+[03:25] machine and that's really all there is
+[03:27] to it the machine itself is compon of
+[03:30] two identical halves we separate those
+[03:33] halves out turn one round then we can
+[03:36] see that there's a central Sun Gear
+[03:38] which is a helical gear surrounded by
+[03:40] three other helical gears those helical
+[03:43] gears just spread the load it would work
+[03:46] just as well if there were only one
+[03:48] there'd just be a lot of load on it okay
+[03:51] let's remove the circlips and the pins
+[03:54] the helico gears then come out and if we
+[03:57] bring that hel helico gear out here what
+[04:00] we'll notice is it's actually made of
+[04:02] two parts it's this section here and
+[04:04] then there's a spur gear attached on
+[04:06] each end the job the Spur Gears is to
+[04:09] synchronize the two halves of course we
+[04:11] then have the carriage which holds
+[04:14] everything in registration and right in
+[04:16] the center is a shaft with what I'm
+[04:18] calling the Sun Gear now that might look
+[04:20] like a helical gear but actually in
+[04:22] profile and the way operates is that
+[04:25] operates as a worm gear and these
+[04:28] operate as spur gear gears when it comes
+[04:30] to the function of the mechanism okay
+[04:33] fascinating let's print it and build it
+[04:35] okay you should have two of them two of
+[04:38] them which cing the sun gears six of
+[04:40] these six of these six of these six of
+[04:45] these little circlips and two of these
+[04:48] little spences and you start by gluing
+[04:52] that on the top in nice Center I use the
+[04:55] PIN to center it up spot of glue and
+[04:58] then that will hold itself together I
+[05:00] did try printing these in one piece but
+[05:02] it made such a mess of the actual teeth
+[05:04] I just found it easier to print two
+[05:06] pieces and glue them together when youve
+[05:08] glue them together they go in there the
+[05:11] pin goes through the clip goes on the
+[05:13] end to hold it and you repeat that three
+[05:16] times The Sun Gear gets this spacer on
+[05:19] the bottom and then feeds through the
+[05:22] center like that and you'll make two
+[05:25] sets of these and one of them glue the
+[05:28] large bevel gear
+[05:30] and when you've made two of them line
+[05:32] them up and stick them
+[05:35] together like that and then drop them in
+[05:39] the
+[05:40] frame then we take these two end flanges
+[05:43] and these two clips and one clip goes on
+[05:46] there the other one goes on the other
+[05:48] side and then the end flange gets glued
+[05:50] on like that then when we've done that
+[05:52] we can pop the drive handle on this of
+[05:54] course would be where the power comes
+[05:56] from the engine you take whoops you take
+[05:59] that bit and stick it in there with that
+[06:02] section facing upwards that then rests
+[06:04] in there this clip goes on the top
+[06:08] there glue it in place and finally the
+[06:11] handle goes on there and there it is all
+[06:15] finished now that if I rotate the handle
+[06:17] rotate that bevel gear it'll drive that
+[06:19] bevel gear which drives this cage and of
+[06:21] course that's exactly what the engine
+[06:23] does and of course when I rotate it this
+[06:26] whole unit turns as one but if I don't
+[06:29] use that handle if I use the wheels here
+[06:32] and rotate them in opposite directions
+[06:34] you'll see that it still turns but one
+[06:37] important thing to notice as I do that
+[06:40] these two turn in opposite directions
+[06:43] they're both turning that way so noticed
+[06:46] that as I do that then those gears
+[06:50] rotate in opposite directions if I were
+[06:54] to rotate them in the same direction
+[06:56] which is effectively what I do with the
+[06:57] handle the whole system locked Lo and
+[07:00] when it locks it turns this whole thing
+[07:03] okay so we're going in a straight line
+[07:05] power's coming down from the engine
+[07:07] through that axle this turns the
+[07:09] carriage locks that worm gear which is
+[07:11] what the sun gears are and the wheels
+[07:13] turn now when we turn a corner of course
+[07:16] one wheel is turning faster than the
+[07:18] other and we need to change our point of
+[07:20] view instead of standing on the axle and
+[07:22] looking everything turning we need to
+[07:24] stand on the slower wheel if we stand on
+[07:27] the slower wheel to earn the slower
+[07:30] wheel is still it's not moving at all
+[07:32] the other wheel is moving in relation to
+[07:36] the slower wheel so it's still moving
+[07:39] forward and of course it's tied together
+[07:42] because of the Spur Gears and that means
+[07:45] now the drive axle with the wheels on it
+[07:48] are actually turning and inputting into
+[07:51] the system which unlocks the system one
+[07:54] of the beauties of the spur years is it
+[07:57] averages everything out because stbg
+[08:00] years are making everything turn then
+[08:04] that extra bit that it adds averages
+[08:07] between the two axle wheels that are
+[08:10] being turned so if one is turning 20%
+[08:12] faster the other will be turning 20%
+[08:15] slower so it evens out the differential
+[08:19] now if it get stuck and one wheel isn't
+[08:22] moving at all from the point of view of
+[08:24] the axles this time again the system
+[08:27] becomes locked because the only input
+[08:29] power is from that drive axle from the
+[08:32] main engine and that transmits torque
+[08:35] into the stuck wheel instead of letting
+[08:37] the torque all go down to the wheel that
+[08:40] slips and so you don't get the same
+[08:41] slippage problem that you would with
+[08:44] other types of differential and it is
+[08:46] one of the reasons that I think this is
+[08:48] an elegant and beautiful design because
+[08:50] it takes account of all of that stuff in
+[08:52] an arrangement of basically three gears
+[08:55] a spur gear and two helical gears one
+[08:57] acting as a worm that's really quite
+[08:59] clever anyway I will put these things on
+[09:02] um thingy verse of course should
+[09:03] somebody want to have a look better look
+[09:05] at that I hope you enjoyed the video
+[09:07] thank you very much for watching and
+[09:09] please do remember to like And subscribe

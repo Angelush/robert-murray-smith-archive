@@ -1,0 +1,200 @@
+[
+  {
+    "id": "UgyxXW2zdA76xpNaHK54AaABAg",
+    "author": "@paulwillocks1032",
+    "author_channel_id": "UCIgyiMT0PZohgS-eooGotOA",
+    "text": "Thank you soooo much for this. I have been obsessing about this for a few months. I've been Thinking about running a peltier  feedback temperature, ie current generated to help maintain a temp gradient. Or is that idiotic? Newton and all?",
+    "likes": 0,
+    "published_at": "2023-10-01T16:09:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzs7F8L3d3-8UCUO-l4AaABAg",
+    "author": "@SheplerStudios",
+    "author_channel_id": "UCCZCjv06oPqo1Uf_XzA8gSg",
+    "text": "As already mentioned, the Sun Pulse 500 is one of my favorite low temperature Stirling engines - a great candidate for co-generation.",
+    "likes": 0,
+    "published_at": "2023-09-28T15:58:13Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzoZzC6-SgO1E74dSh4AaABAg",
+    "author": "@Heroesbleed",
+    "author_channel_id": "UCJNDOKuKlS0AJmGER1M-8Ow",
+    "text": "Not Scott Sterling…the man, the myth, the legend?",
+    "likes": 0,
+    "published_at": "2023-09-27T16:24:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzaDLOcyvJikIj6Zz94AaABAg",
+    "author": "@kevinbowker2385",
+    "author_channel_id": "UCnc7SqSF-L8uunWyf-JPmQQ",
+    "text": "I'm really hoping to see a fairly simplistic Sterling build soon. I've been a fan of this type of engine for quite some time.",
+    "likes": 0,
+    "published_at": "2023-09-25T02:39:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwuVM3HmZLPCX4mEvB4AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "you know- I just had a thought (before watching, you may mention this):  you know how fireplaces and gas heaters almost inevitably have exhaust through which heat is lost?  It seems like it would be relatively easy to run a stirling engine off that, to power resistance heaters as well.  more heating bang for your input buck.  (or even better, to run the compressor on a heat pump to even more efficiently capture the exhaust heat.\nThough I suppose it would work just as well to put the hot side in the chimney, or hell put it in the Fire, and the cold side in the room, and don't worry about the resistance or refrigerant, and use it to run a generator.  Heat gets in the room where you want it anyway, and you get electricity too.",
+    "likes": 0,
+    "published_at": "2023-09-24T21:38:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz-y7pTQA2syN3AVvZ4AaABAg",
+    "author": "@hunnybunnysheavymetalmusic6542",
+    "author_channel_id": "UC1wRkKYTJosVJgeg5vYDuBw",
+    "text": "Since a sealed Stirling engine can be pressurized just like a refrigerator compressor, the amount of power and the level of thermal efficiency can go up by magnitudes.\n\nSome of them were mass produced [not millions of them, but hundreds] with really good results.\n\nBut, alas, again, one of the issues was the cost of manufacture in the extant designs, and the additional weight, they were not practical for small moving applications like automobiles compared to the less expensive internal combustion engines.\n\nAlso, they are much slower to start compared to an internal combustion engine.\n\nI am aware that there are ways to make them less expensive, longer lasting, lighter, and faster to start, using more modern technologies available to us these days,  but the tooling and initial fine tuning would be a whole lot of an investment.\n\nPerhaps as I begin making custom alloy steels, I may remember to try to make an improved Stirling, going off of the most recent modern advances in the appropriate fields.\n\n\nI'll just have to try to remember it is all.",
+    "likes": 0,
+    "published_at": "2023-09-21T11:41:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwPYqSDIQEPGjfh9gx4AaABAg",
+    "author": "@MerwinARTist",
+    "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+    "text": "We \"thinkers\" generate a lot of heat .. lol  .. but really a couple of quick thoughts here.  I was thinking of the amount of heat that is created with most people's central air conditioning units .. and wonder what kind of energy could be harvested there .. and another issue is that this kind of discussion is great for us .. but what about the grandmother living next door or down the block .. very few people would understand how to set up a system for their own home .. unless it was standardized and even then not many would be able to connect the dots.",
+    "likes": 2,
+    "published_at": "2023-09-20T17:39:06Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwPYqSDIQEPGjfh9gx4AaABAg.9utXfqF9RT29v2q1lSnq7r",
+        "author": "@Zeero3846",
+        "author_channel_id": "UCcU9eF3S8eAJTzr03dy2H6w",
+        "text": "Whether it's worth harvesting that heat is what you need to ask. Whatever system you use to generate power from that waste heat, it will impede the air conditioner's ability to cool off, which reduces its efficiency. You're essentially adding more load on the AC. Will the energy you harvest be worth the losses you'll incur from increased AC operation costs? Probably not. That's usually why we just dump the heat into the outside air.",
+        "likes": 1,
+        "published_at": "2023-09-24T17:40:40Z"
+      },
+      {
+        "id": "UgwPYqSDIQEPGjfh9gx4AaABAg.9utXfqF9RT29v3uXDrlazl",
+        "author": "@MerwinARTist",
+        "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+        "text": "@Zeero3846 .. actually I wasn't thinking of impeding the heat from the air conditioner in order to use it .. I was thinking about it in the same way as you would use the heat from your attic .. use it as it exits / moves away.",
+        "likes": 0,
+        "published_at": "2023-09-25T03:39:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHzh6x1z5SsprVXaB4AaABAg",
+    "author": "@magapefarmshomestead6453",
+    "author_channel_id": "UCMJvVNmK_-fIvD0eFMcX59g",
+    "text": "Problem is that oil and energy companies do not want an independent satnd alone device out on the market if you could ever reproduce the work of nasa.",
+    "likes": 0,
+    "published_at": "2023-09-20T14:23:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzVM9t7iSj42IjAXKF4AaABAg",
+    "author": "@magapefarmshomestead6453",
+    "author_channel_id": "UCMJvVNmK_-fIvD0eFMcX59g",
+    "text": "Nasa made a very workable version for a utility truck and a boat in the 60's or 70's",
+    "likes": 0,
+    "published_at": "2023-09-20T14:15:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtDkt8MT3XRDgCZLJ4AaABAg",
+    "author": "@robhudson1501",
+    "author_channel_id": "UC0ibMtq278C5f4iqsBp3yNQ",
+    "text": "I was interested in Stirling engines several years ago but was told unequivocally that they couldn't provide enough power to drive generators. Interestingly enough though, could a Pelton device be used to drive a Stirling engine?",
+    "likes": 0,
+    "published_at": "2023-09-19T08:35:16Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "UgxtDkt8MT3XRDgCZLJ4AaABAg.9upzdiP9Rto9uvgLRdsJ14",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "A cool thing that happens if you drive a Stirling engine from an external source, is that the hot end gets hot and the other side gets very cold. This is the basis of Stirling coolers.",
+        "likes": 1,
+        "published_at": "2023-09-21T13:42:03Z"
+      },
+      {
+        "id": "UgxtDkt8MT3XRDgCZLJ4AaABAg.9upzdiP9Rto9uw7DT9W9LN",
+        "author": "@robhudson1501",
+        "author_channel_id": "UC0ibMtq278C5f4iqsBp3yNQ",
+        "text": "@unicornadrian1358 so does this mean we can get power from a Pelton by running a Stirling engine?",
+        "likes": 1,
+        "published_at": "2023-09-21T17:45:37Z"
+      },
+      {
+        "id": "UgxtDkt8MT3XRDgCZLJ4AaABAg.9upzdiP9Rto9uwUL7zQEx1",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "@robhudson1501 lol sure! The temperature differential is pretty good. \nThe pelton would be better used to drive an alternator. The more steps you add the less efficient the system is.",
+        "likes": 1,
+        "published_at": "2023-09-21T21:07:39Z"
+      },
+      {
+        "id": "UgxtDkt8MT3XRDgCZLJ4AaABAg.9upzdiP9Rto9uwjCU74UfD",
+        "author": "@robhudson1501",
+        "author_channel_id": "UC0ibMtq278C5f4iqsBp3yNQ",
+        "text": "@unicornadrian1358 yeah i get that but you gotta keep asking the questions",
+        "likes": 0,
+        "published_at": "2023-09-21T23:26:17Z"
+      },
+      {
+        "id": "UgxtDkt8MT3XRDgCZLJ4AaABAg.9upzdiP9Rto9uxBwf1gASN",
+        "author": "@unicornadrian1358",
+        "author_channel_id": "UCBYJU1OiGKTFGQO1XqfBQKw",
+        "text": "@robhudson1501 best way to find out is to make some and play with them. Who knows you might discover an overlooked feedback loop. Perhaps running a stirling the conventional way, but using the excess heat from the hot side and the deficit of heat on the cold side to power a peltier could improve overall efficiency?",
+        "likes": 1,
+        "published_at": "2023-09-22T03:46:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwAAut-tusdvkbEMyp4AaABAg",
+    "author": "@tomwilliams2753",
+    "author_channel_id": "UCOD-nWCYAzsXONx9pQ3JoWA",
+    "text": "During the \"lockdown\" I built an Alpha style using water jacketed motorcycle cylinders 80mm bores, it runs @ 240 rpm with a 50mm dia ceramic burner running on LPG. It is not optimized but over time i hope to rectify  this. I have been side tracked by 3D printing. my sterling will have a 3D printed alternator eventually.",
+    "likes": 3,
+    "published_at": "2023-09-19T07:03:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyTeHl3dH3Uqhjhf954AaABAg",
+    "author": "@Ken00001010",
+    "author_channel_id": "UCfMgm0fZw-W32AW2cq-7y5Q",
+    "text": "I have often thought that Stirling engines should be used to circulate the cooling water in nuclear power stations. No need for electricity, they run on the heat in the water they circulate. Also no need for electronic control systems; they can be built to have thermal feedback that  makes them circulate more water as that water gets hotter. They are \"lights out and walkaway safe\" and could have prevented the disasters we had at some of the power plants when the electric pumps did not work.",
+    "likes": 2,
+    "published_at": "2023-09-18T23:54:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzyWxl_dNy9-_5gLe54AaABAg",
+    "author": "@localixdots9698",
+    "author_channel_id": "UCDtHrvR2aqYLST8CM8_K-zQ",
+    "text": "Двигатели Стирлинга незаслуженно забыты. Причина их отсутствия на рынке проста - нет исследований. Никому не хочется сейчас вкладывать миллиарды чтобы получить мощность которую легко получить существующими промышленными решениями. Точнее думаю вся проблема двигателей Стирлинга в отсутствии длинных денег на исследования.",
+    "likes": 0,
+    "published_at": "2023-09-18T20:20:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBuwUqwjKci4h1wtB4AaABAg",
+    "author": "@brentverrill",
+    "author_channel_id": "UCfmVIpsBga1Hd2axYvhNBwg",
+    "text": "I wonder what you make of the work of Jürgen Kleinwächter at Tamera in Portugal. I would love to see you make a replication of the Sun Pulse 500...",
+    "likes": 6,
+    "published_at": "2023-09-18T14:45:38Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

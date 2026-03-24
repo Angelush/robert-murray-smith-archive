@@ -1,0 +1,101 @@
+{
+  "thing_id": 6762513,
+  "name": "The Crystal Generator",
+  "description": "This is a remix of https://www.thingiverse.com/thing:145186 to enable it to be cut on a laser cutter and because i found the gear teeth size too flimsy for this job so i resized them.\r\n\r\nyou will also need 50cm 8mm acrylic round bar, 8 x 608 bearings (Skate bearings) 4 x 12m by 8mm by 3mm bearings, 24 x 15mm by 5mm round neofymium magnets, some 0.1mm magnet wire\r\n\r\nIt can be 3d printed or laser cut - to 3d print down load the files and off you go to laser cut import the files into tinkercad and re-export as SVG files - the parts are colour coded - cream is 10mm, orange is 5mm and blue is 2mm thick acrylic.\r\n\r\nyou can find a video on the build here https://youtu.be/_OiqbNHWUqo",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "_OiqbNHWUqo",
+      "url": "https://youtu.be/_OiqbNHWUqo"
+    }
+  ],
+  "tags": [
+    "cut",
+    "generator",
+    "laser"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-09-11T10:03:55+00:00",
+  "modified": "2024-09-11T10:03:55+00:00",
+  "url": "https://www.thingiverse.com/thing:6762513",
+  "thumbnail": "https://cdn.thingiverse.com/assets/3e/33/3b/f6/dd/large_display_9a1db960-86dc-4111-8a3a-08185b0421fc.png",
+  "like_count": 38,
+  "collect_count": 12,
+  "comment_count": 0,
+  "download_count": 84,
+  "files": [
+    {
+      "name": "Base_Plate.stl",
+      "size": 33984,
+      "url": "https://www.thingiverse.com/download:14741161",
+      "download_url": "https://api.thingiverse.com/v2/files/14741161/download"
+    },
+    {
+      "name": "Coil_Holder.stl",
+      "size": 110484,
+      "url": "https://www.thingiverse.com/download:14741162",
+      "download_url": "https://api.thingiverse.com/v2/files/14741162/download"
+    },
+    {
+      "name": "Coil_Studs_An_Centre.stl",
+      "size": 176884,
+      "url": "https://www.thingiverse.com/download:14741163",
+      "download_url": "https://api.thingiverse.com/v2/files/14741163/download"
+    },
+    {
+      "name": "Crank.stl",
+      "size": 478384,
+      "url": "https://www.thingiverse.com/download:14741164",
+      "download_url": "https://api.thingiverse.com/v2/files/14741164/download"
+    },
+    {
+      "name": "Handle.stl",
+      "size": 48584,
+      "url": "https://www.thingiverse.com/download:14741165",
+      "download_url": "https://api.thingiverse.com/v2/files/14741165/download"
+    },
+    {
+      "name": "Large_Gear_x_2.stl",
+      "size": 1227984,
+      "url": "https://www.thingiverse.com/download:14741166",
+      "download_url": "https://api.thingiverse.com/v2/files/14741166/download"
+    },
+    {
+      "name": "Magnet_Holder_Backplate_x_2.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14741167",
+      "download_url": "https://api.thingiverse.com/v2/files/14741167/download"
+    },
+    {
+      "name": "Magnet_Holder_x_2.stl",
+      "size": 182484,
+      "url": "https://www.thingiverse.com/download:14741168",
+      "download_url": "https://api.thingiverse.com/v2/files/14741168/download"
+    },
+    {
+      "name": "Oil_Holder_Backplate_x_2.stl",
+      "size": 182284,
+      "url": "https://www.thingiverse.com/download:14741169",
+      "download_url": "https://api.thingiverse.com/v2/files/14741169/download"
+    },
+    {
+      "name": "Sides_x_2.stl",
+      "size": 118084,
+      "url": "https://www.thingiverse.com/download:14741170",
+      "download_url": "https://api.thingiverse.com/v2/files/14741170/download"
+    },
+    {
+      "name": "Small_gear_x_2.stl",
+      "size": 383884,
+      "url": "https://www.thingiverse.com/download:14741171",
+      "download_url": "https://api.thingiverse.com/v2/files/14741171/download"
+    },
+    {
+      "name": "Spacers_x_20.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14741172",
+      "download_url": "https://api.thingiverse.com/v2/files/14741172/download"
+    }
+  ]
+}

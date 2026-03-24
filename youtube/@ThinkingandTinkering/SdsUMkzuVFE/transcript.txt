@@ -1,0 +1,275 @@
+[00:00] foreign
+[00:05] 3D printers that's enough playing let's
+[00:07] get some work done we're gonna get into
+[00:10] the bit that I actually want to do with
+[00:12] 3D printers now I don't know if you
+[00:14] remember this it was the Darwin wind
+[00:17] turbine and I made that out of wood with
+[00:19] flat Vents and to be honest it rattled
+[00:21] worse than the skeleton in a hurricane
+[00:23] on the Day of the Dead you weren't going
+[00:25] to get much sleep with that thing
+[00:26] banging around on your roof friend of
+[00:29] mine Max Kennedy thought exactly the
+[00:30] same thing and he had a look at it
+[00:32] thinking Hmm can we do a flapless
+[00:35] version and he made some models in paper
+[00:37] and with those paper models it was able
+[00:41] to show that this thing actually worked
+[00:43] blowing the air up through the central
+[00:45] event and not disturbing the um
+[00:48] straight at the back with the wind flow
+[00:51] going over it that was really awesome
+[00:53] and Max were up to me I gave you this I
+[00:55] put a link to his original video
+[00:57] incidentally at the end of this video so
+[01:00] jump over give a watch give a like
+[01:02] because he's done the work not me so he
+[01:05] did this thing out of paper and he sent
+[01:06] it over saying what do you think Robert
+[01:08] I thought it was awesome
+[01:09] absolutely awesome so I thought what I
+[01:11] would do is I'd do a plastic 3D print
+[01:14] version that we could put together and
+[01:18] make a Darwin modified wind turbine that
+[01:22] was flapless and so going to be sound
+[01:25] well I've gone through tinkercad so I
+[01:28] jumped over the tinkercad and designed
+[01:30] an STL file to test the blade and this
+[01:32] is the design of the blade and now what
+[01:35] we're doing is we're printing it so I'm
+[01:37] printing out individual blades they're
+[01:39] five centimeters by two centimeters so
+[01:41] we can see the idea actually works by
+[01:43] putting it together once we do that of
+[01:45] course we can put them together in the
+[01:47] actual program to create a rack of them
+[01:49] and we can see if we've got a nice rack
+[01:52] or not but anyway let's get them printed
+[01:58] so there's my tiny tiny example printed
+[02:01] and if I put eight of them together then
+[02:03] I can check the angle of them and yep
+[02:05] they make a complete enclosure that's an
+[02:07] octagon okay so um that internal angle
+[02:10] is 135 degrees now uh Max tells me that
+[02:15] if it has battles on the outside the
+[02:17] support structure like on the outside it
+[02:18] operates better it did Buffs and if you
+[02:20] watch the video you'll see the result of
+[02:22] that so he did both and I put the
+[02:24] baffles on the outside so the wind hits
+[02:26] the battle and then it's forced up
+[02:28] obviously this is what a single ring is
+[02:30] like to make a multiple ring what I've
+[02:32] also done with these ones is to check
+[02:34] that they in fact slot on top of each
+[02:37] other because that would be annoying and
+[02:40] they do slot rather nicely on top of
+[02:42] each other to make a stack
+[02:45] so having checked that we now can have a
+[02:48] bit more confidence that we can put
+[02:50] these together in a rack and printer
+[02:52] rack amps okay to see how I made that
+[02:54] we're in tinkercad we've got the work
+[02:56] plan and I always put the ruler on
+[02:58] because we put the ruler on you can tell
+[03:00] where you are and what you're doing
+[03:02] stick it on
+[03:05] uh yeah use midpoint there we go now
+[03:08] this is a whole group of Primitives you
+[03:11] get you get other ones if you click down
+[03:13] on basic shapes but these Primitives are
+[03:15] all I actually used start with the tube
+[03:18] put the tube somewhere on there if
+[03:21] you've got Ruler all of this stuff will
+[03:23] show up which is brilliant because it
+[03:25] means that we can change sizes simply by
+[03:27] clicking on there and typing in our new
+[03:29] size
+[03:31] [Music]
+[03:39] we can move it with the arrows like that
+[03:41] or we can move it just by clicking on
+[03:43] there and typing in the position that we
+[03:46] want it to be there we go it's in the
+[03:48] center now we want this which is more or
+[03:50] less an arrays tool if we click on that
+[03:52] box and add to that box
+[03:56] and we can drag the handles to change
+[03:58] the size or we can highlight those and
+[04:01] change that and equally we can change
+[04:03] the position remember we used midpoint
+[04:06] so if we click on that midpoint it was
+[04:08] minus 105 we click on that midpoint
+[04:10] it'll be that midpoint and there which
+[04:13] is 10 from there so 105 would be 95.
+[04:23] and that puts it in the midpoint of
+[04:25] there now if we click out there
+[04:26] highlight the whole lot
+[04:30] and
+[04:32] group the shapes we get only that shape
+[04:34] left it's only 10 millimeters High which
+[04:37] is a bit short so I'm going to make it
+[04:38] 16 meters high there we go we've now got
+[04:41] it 60 millimeters High
+[04:43] now what I want to do is angle that a
+[04:46] little bit if we go to there's heat
+[04:51] there you should see that angling there
+[04:54] it is and there it is we can click and
+[04:56] hold and move down to there as you move
+[04:59] that it would be 22.5 degrees on the
+[05:01] outside one it's every one degree let's
+[05:03] put it at 45 degrees and then we've got
+[05:06] our angled piece now of course we want
+[05:09] the side bits to it and for the side
+[05:11] bits we can use this put the block on
+[05:14] there if we're wondering how big that is
+[05:17] remember all you actually have to do is
+[05:19] that and it tells you it's 49.5 high we
+[05:23] want to leave a little bit at the top so
+[05:25] let's make this 50.
+[05:28] so and it's
+[05:30] height which is that one there we'll
+[05:33] make that 50.
+[05:35] it's width we only want about three
+[05:37] millimeters
+[05:39] and its length here we want about 40.
+[05:49] and that gives us a side pen
+[05:51] if we click on that side pair now we'll
+[05:55] again get the rotate there it is and we
+[05:58] can rotate that 22 and a half degrees
+[06:00] that way
+[06:03] that will give us an octagon when it
+[06:05] comes time to do the actual octagon
+[06:13] click on top of the top view
+[06:25] that's looking pretty okay so we click
+[06:29] on that and we replicate it by clicking
+[06:32] the replicate button there Ctrl D or
+[06:35] just hit that button there it will
+[06:36] replicate it it's the live one if we go
+[06:40] here and click mirror It'll ask us which
+[06:43] way we want to mirror we want to mirror
+[06:44] it that way and we get a duplicate
+[06:46] mirrored at the other 25 d uh 22.5
+[06:50] degrees and we can just slide that along
+[06:52] until we get it into that position and
+[06:55] we're getting very close to what we
+[06:58] actually want all we need to do now is
+[07:00] get rid of some of these bits and pieces
+[07:02] and of course we get rid of things we
+[07:04] use this so we can stick a box on there
+[07:09] and again we can increase that to 40
+[07:12] which is the one that we had before 40
+[07:15] and then we can increase that to 40.
+[07:20] and if we move that down it will cut up
+[07:24] for this of course we want to angle it
+[07:26] again
+[07:34] and we want to angle it the same way
+[07:36] that we did that at 22.5 and then we can
+[07:39] move that in there
+[07:44] check it's in the right position
+[07:46] it's obviously too short so let's
+[07:48] increase that to 50.
+[07:52] there we go
+[07:55] then we can duplicate that and we can
+[07:58] mirror it and this time again we want to
+[08:01] mirror it that way and slide that one
+[08:03] over there
+[08:16] okay and now we can
+[08:22] click off the workspace
+[08:24] highlight it
+[08:26] group it
+[08:29] and it will ridders of all of that now
+[08:34] we've got these extra little bits that
+[08:35] we don't particularly want so we can get
+[08:37] another box
+[08:42] where you can make it whatever size you
+[08:43] want
+[08:46] you'll see however it is on the ground
+[08:48] floor so to speak and we want it to be
+[08:51] 50 up because we want it to be on the
+[08:54] top of here you can see it's saying
+[08:57] there it's on the ground floor right
+[08:58] there let's type 50.
+[09:00] and lo and behold it jumps up to the
+[09:03] right height that we want it at and then
+[09:06] we can drag it over there
+[09:09] angle it
+[09:18] and move it in position
+[09:27] you can also move it by pressing the
+[09:29] arrows
+[09:35] fantastic
+[09:41] and again if we duplicate that and
+[09:44] mirror it
+[09:46] and then put it over
+[10:03] and again we can go off
+[10:08] highlight
+[10:10] and group
+[10:14] we're left with these extra little wing
+[10:15] bits that we made an error with but we
+[10:17] can do exactly the same thing to remove
+[10:19] those the only other thing we really
+[10:21] need to do is to tidy up this bottom
+[10:24] section here for that again we can see
+[10:27] where it is it's at zero let's move it
+[10:30] up by 15.
+[10:33] get another one of these boxes
+[10:42] stretch it out so it covers the entire
+[10:44] bottom of it
+[10:46] and then if we look at that and click on
+[10:49] it remember it was 15 we can lower it
+[10:53] there we go now it's all cut off there
+[10:55] let's raise that up a bit
+[11:00] and again we go out and
+[11:06] group
+[11:10] flashes red for a minute
+[11:20] and we get it there how we do that we
+[11:23] can see that's at 20 so let's drop that
+[11:25] onto the bed by changing that to zero
+[11:29] and it's dropped on the bed and there we
+[11:31] go that is my basic shape more or less
+[11:33] I'll just tidy these two little wings up
+[11:36] that are left there by mistake
+[11:40] okay and that is how I made my basic
+[11:44] shape
+[11:47] from The Primitives available in
+[11:48] tinkercad then all we have to do is
+[11:51] export it when it's exported it's fixed
+[11:54] and we can re-import it and then we can
+[11:56] just duplicate duplicate duplicate
+[12:01] a single stack of three and it's
+[12:04] stacking those up in the drawing program
+[12:07] exporting it slicing it in cure and then
+[12:10] printing it and if I blow it here
+[12:16] it does indeed direct the air upwards
+[12:20] which is really cool so the next thing
+[12:22] is obvious print eight of these and
+[12:24] stick a PC motor on and test it and
+[12:26] maybe dangle some bits of red string to
+[12:28] make sure that that octagon shape also
+[12:31] works but this works to direct the air
+[12:34] coming here upwards and we've seen
+[12:37] previously that it won't come out of the
+[12:39] back so this should be a really good
+[12:41] update on the Darwin wind turbine but
+[12:43] it's also something else it shows you
+[12:45] what can be done with the simplest tools
+[12:49] I mean take a cad it's something you're
+[12:51] going to get hold of in about half an
+[12:53] hour an hour and although it is a cut
+[12:55] down and simplified version you can do
+[12:58] some great things with it and it's going
+[13:01] to get you up and printing and having
+[13:03] fun and making things which is what it's
+[13:07] all about 3D printing isn't about 3D
+[13:12] printing it's about making stuff and
+[13:16] that's why I like it because it's all
+[13:17] about making stuff anyway looks like
+[13:20] we're well on our way to updating the
+[13:22] Darwin wind turbine and we'll certainly
+[13:24] keep you in touch with that but I wanted
+[13:25] to go through that so you could see from
+[13:28] the ground up how I'd actually been
+[13:29] doing it I hope you enjoyed the video
+[13:31] thank you very much for watching and
+[13:33] please do remember to like subscribe and
+[13:35] click the Bell notifications

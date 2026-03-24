@@ -1,0 +1,21 @@
+{
+  "video_id": "MZzosuvfvE4",
+  "title": "Improved Flynn Gap motor hybrid",
+  "description": "After spending some time on Femm4.2 modelling the Flynn device and playing around with various permutations i began looking for ways that could replicate the switching effect but be easier and cheaper to build. The I came across US Patent 6229422. The result you see in the video. The little device is made from two magnets a neodymium magnet and an alnico magnet both 2cm by 0.5cm rods with similar magnetic strength. The alnico - however - has a much lower coercivity - this mean it will magnetize and demagnetize relatively easily while the N42 will not. So, subjecting the two magnets tot he same field will swap the magnetic poles of the alnico but leave the poles of the N42 unaffected. To do this is this simple set up takes a microsecond pulse at 12v - the pulse passes 10amps through the coil - this sounds like a lot but the same effect could be achieved by discharging a 20 microFarad 12v capacitor through the coil - so - really it isn't much - about 13 millijoules.",
+  "published_at": "2012-02-15T20:34:50Z",
+  "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+  "channel_title": "Robert Murray-Smith",
+  "tags": [
+    "flynn",
+    "gap",
+    "motor",
+    "overunity",
+    "magnets"
+  ],
+  "duration": "PT8M",
+  "view_count": "5624",
+  "like_count": "46",
+  "comment_count": "27",
+  "url": "https://www.youtube.com/watch?v=MZzosuvfvE4",
+  "thumbnail": "https://i.ytimg.com/vi/MZzosuvfvE4/hqdefault.jpg"
+}

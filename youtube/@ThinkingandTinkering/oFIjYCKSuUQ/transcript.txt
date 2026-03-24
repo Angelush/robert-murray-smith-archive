@@ -1,0 +1,151 @@
+[00:02] [Music]
+[00:15] hi so in video 986 we looked at the dual
+[00:17] thief
+[00:18] we looked at the dual thief because it
+[00:19] was inspired by the bedini ssg
+[00:22] it struck me that the ssg and the dual
+[00:24] thief looked remarkably like each other
+[00:27] now the dual thief is a self-oscillating
+[00:31] high voltage
+[00:32] oscillator it's a step up transformer
+[00:34] really
+[00:35] and i particularly noticed that when i
+[00:37] had to look at the two circuits side by
+[00:38] side so have a look at this
+[00:44] striking isn't it now in the um dual
+[00:48] the two coils are wired to each other
+[00:51] and in the ssg one coil is unwired from
+[00:55] the other and acts as a trigger coil
+[00:58] now the dual thief switches itself
+[01:01] the ssg is switched by an approaching
+[01:04] magnet
+[01:05] so in theory all we need to do is
+[01:07] decouple those coils at that point
+[01:10] move it to the negative approach that
+[01:13] with a magnet and it should respond in
+[01:15] the same way that is
+[01:16] light up the led so let's have a look at
+[01:18] that
+[01:19] so here's a jumble of wires that is all
+[01:21] that circuit held together with
+[01:22] crocodile clips
+[01:24] here's the led lit up there's the actual
+[01:27] coil arrangement that's the heart of the
+[01:28] dual thief so to speak
+[01:30] right there this little mess here is
+[01:32] where the top and the dual thief
+[01:34] coils are joined to each other and
+[01:35] there's the battery now
+[01:37] this wire comes from this coil here so
+[01:39] if i disconnect there that
+[01:41] lamp will go out there we go now if i
+[01:43] just put that on the negative of the
+[01:45] battery we have in fact formed the ssg
+[01:47] circuit
+[01:48] or at least that's what i'm saying now
+[01:50] in order to see if that's right or not
+[01:53] i've got a bunch of
+[01:54] magnets here and what i'm going to do is
+[01:55] going to approach this coil with a bunch
+[01:57] of magnets
+[01:58] and we should see that led flash
+[02:01] as it's triggered by the magnets
+[02:05] there you go i don't know if you saw
+[02:06] that so let's try that again
+[02:09] but i'm going to turn out the lights so
+[02:11] we see the flash better
+[02:18] there you go well that seemed to work
+[02:21] now
+[02:22] if what i'm saying is right that is it's
+[02:24] all down to
+[02:25] this thing here this bifilo
+[02:28] coil where one is being triggered by the
+[02:31] other to create a collapse
+[02:34] where the collapsing field creates a
+[02:36] high voltage spike on the other coil
+[02:38] and that high voltage transformation is
+[02:41] what's doing all that work now if that's
+[02:42] right
+[02:43] anything should be able to do that as
+[02:46] long as it can switch
+[02:47] so what i've got here is a little micro
+[02:50] switch and i've attached the micro
+[02:52] switch in line with one of the coils
+[02:54] and the other call is directly attached
+[02:56] to that led if i flick that micro switch
+[03:00] see the led lighting again i'm going to
+[03:03] turn the light out so you see that
+[03:05] better
+[03:13] so it seems to me the heart of the
+[03:15] system is here
+[03:16] it's here and a switching mechanism of
+[03:19] some description
+[03:20] so we have two coils remember bifilicoil
+[03:22] there's only about 30 winds on this
+[03:24] um we switch one coil it collapses
+[03:28] drives a high voltage spike in the other
+[03:30] coil and that's what you're harvesting
+[03:32] now any a switching arrangement it would
+[03:34] seem would work
+[03:35] bedini uses those rotating magnets we
+[03:38] did a magnet just straight against it to
+[03:40] show magnetic switching
+[03:41] we use mechanical switching we've used a
+[03:44] transistor to switch
+[03:45] but any of those switching arrangements
+[03:46] is going to work now it's a good thing
+[03:49] not a bad thing it's not a criticism
+[03:51] remember i said in the previous video
+[03:54] if you can't replicate something using
+[03:56] the logic but alternative methods
+[03:58] there's usually nothing to it if you can
+[04:01] replicate it using logic and alternative
+[04:03] methods then you're on to something
+[04:05] so i think it's a positive thing rather
+[04:06] than a negative thing okay
+[04:08] so the heart of the system is a method
+[04:10] of switching and that can be a whole
+[04:12] range of methods of switching
+[04:14] a by final one coil on some kind of
+[04:17] core and again remember we showed it
+[04:19] could be any kind of call
+[04:21] really the rest once you show that is
+[04:23] optimization
+[04:25] and okay this is not going to be the
+[04:26] best i mean we didn't get a particularly
+[04:27] bright light we're
+[04:28] switching it by hand with 30 turns you
+[04:31] recommended to do so do i think it's
+[04:33] 850 turns or something crazy the more
+[04:36] turns you put on the more you're going
+[04:37] to see that noticeable voltage spike
+[04:40] this has been used for things like
+[04:42] battery charging
+[04:44] now battery deal sulfonation by high
+[04:46] frequency high voltage pulsing
+[04:48] is actually quite a popular method for
+[04:50] reviving lead acid batteries
+[04:52] so it has applications in that now he
+[04:56] uses the power coil
+[04:57] to drive that wheel around so it's
+[04:59] actually kind of self-switching being
+[05:01] driven by the magnetic rotation
+[05:03] that motor will do some work and there
+[05:06] is an australian group
+[05:08] uh called panacea beaucoup who did
+[05:10] something called a rotoverter
+[05:12] which i quite liked because it looked at
+[05:15] motors
+[05:15] and looked at scavenging the energy from
+[05:17] them when they weren't on the load and
+[05:19] then
+[05:20] feeding the energy back in when they
+[05:21] were on the load and it looked really
+[05:23] kind of cool
+[05:25] but i was asked to look at it that's
+[05:27] pretty much as much as i'm going to do
+[05:28] on it really because i'm really only
+[05:30] interested in investigating the logic
+[05:31] and what can possibly work
+[05:33] so i hope you enjoyed the video and
+[05:34] thank you very much for watching

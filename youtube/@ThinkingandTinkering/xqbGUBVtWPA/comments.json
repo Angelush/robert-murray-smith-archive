@@ -1,0 +1,419 @@
+[
+  {
+    "id": "Ugw9lUmD7kLVxYz0iRR4AaABAg",
+    "author": "@Jannie303",
+    "author_channel_id": "UC9ax_eWm9hGpYN6Mfazi7-g",
+    "text": "Excellent idea! I'm working on a design for wireless, solar security cameras and this will come in very handy. Are you sure all the LED's have the same current though? I'm a complete amateur at circuits but I remember Kirchoffs law about current into a junction==current out. I get the current going through the first LED to be the sum of the current through all the other LED's plus the current going through the first resistor. Please let me know what you think, I'm still learning circuits so would greatly appreciate the feedback.",
+    "likes": 0,
+    "published_at": "2021-09-02T12:43:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyywCbWlLY1xW7i44t4AaABAg",
+    "author": "@flytrapjohn",
+    "author_channel_id": "UCthUI443J5OCxSr-FeWj6Eg",
+    "text": "Good stuff!",
+    "likes": 0,
+    "published_at": "2021-08-29T16:01:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwrsN8JxCDtkoYH9CB4AaABAg",
+    "author": "@ArbitraryOnslaught",
+    "author_channel_id": "UChhlgNFDTjUWTgqFiIjNo2g",
+    "text": "awesome idea. now DIY petentiometer XD",
+    "likes": 0,
+    "published_at": "2021-08-29T04:51:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxI3LAdATskjoCz8kB4AaABAg",
+    "author": "@martinwinfield2935",
+    "author_channel_id": "UCVR-sLfbO0gbj3AGjkF-pkw",
+    "text": "Thanks for that. 40 years in electronics and never had to use a pot of plumbers flux. The flux is in the multicore solder.",
+    "likes": 0,
+    "published_at": "2021-08-28T07:46:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxMdunzc9v3WlPcMPx4AaABAg",
+    "author": "@danp1224",
+    "author_channel_id": "UC7cbSqLdghlc4gkRUDPlLjg",
+    "text": "HI Luke good stuff.  You could put a press button on it so it don't drain power until you want to check the level.",
+    "likes": 0,
+    "published_at": "2021-08-28T06:33:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTz7nzCAn4Yt7unEJ4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "I am making a circuit currently that is a low voltage alert for my solar batteries so I know when to turn off my inverter that runs half the house. When the inverter is switched off I have an automatic switch that turns it over to mains. The circuit is running with an op amp running as a comparitor and a trimpot to set the desired circuit. When reached it sounds a 12v piezo buzzer and I turn off the inverter.",
+    "likes": 0,
+    "published_at": "2021-08-28T06:25:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzyJTDN0Yrv2ShmrJJ4AaABAg",
+    "author": "@gazzaka",
+    "author_channel_id": "UC68QrhX8fUe3WTUpnSrlh3w",
+    "text": "I prefer that sound to his voice ! Great job tho, when I was at college, (in the last century) lecturers said it was very difficult to make a battery tester ;-)",
+    "likes": 0,
+    "published_at": "2021-08-28T03:38:29Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgzyJTDN0Yrv2ShmrJJ4AaABAg.9R_6u7AmQ209R_QQWt6GzC",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "No it's not hard to build a battery tester circuit, the internet is full of them and off it was hard you couldn't buy one off eBay for a couple of dollars. Also what do you mean about it sounding better than his voice, that's a bit harsh and personal isn't it?",
+        "likes": 1,
+        "published_at": "2021-08-28T06:29:04Z"
+      },
+      {
+        "id": "UgzyJTDN0Yrv2ShmrJJ4AaABAg.9R_6u7AmQ209RaBOdtnHYx",
+        "author": "@gazzaka",
+        "author_channel_id": "UC68QrhX8fUe3WTUpnSrlh3w",
+        "text": "@stevetobias4890 lol was more a joke, and I was talking about in the 1970's was hard to get a decent battery tester",
+        "likes": 0,
+        "published_at": "2021-08-28T13:36:58Z"
+      },
+      {
+        "id": "UgzyJTDN0Yrv2ShmrJJ4AaABAg.9R_6u7AmQ209RaDhxZaDEy",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@gazzaka fair enough, but the voice comment was unnecessary be it a joke or not.",
+        "likes": 0,
+        "published_at": "2021-08-28T13:57:13Z"
+      },
+      {
+        "id": "UgzyJTDN0Yrv2ShmrJJ4AaABAg.9R_6u7AmQ209RaVhVsT4Sq",
+        "author": "@gazzaka",
+        "author_channel_id": "UC68QrhX8fUe3WTUpnSrlh3w",
+        "text": "@stevetobias4890 Yea my bad",
+        "likes": 0,
+        "published_at": "2021-08-28T16:34:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyhw-Zu_7bbA3HOMWl4AaABAg",
+    "author": "@docink6175",
+    "author_channel_id": "UCMdNB6OxYB53mZ4zAvtjhjA",
+    "text": "I agree that is a very nice schematic it is very well drawn and it has great contrast beyond that I have no idea what it means, add in the fact that I am color blind and I have a real problem building anything electronic. Thankfully there's a place called Amazon and I bought a bag full of small amp gauges for around $8.. great video though..",
+    "likes": 0,
+    "published_at": "2021-08-28T03:00:43Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4W6uiWnO919Rzotd4AaABAg",
+    "author": "@burtybasset4486",
+    "author_channel_id": "UCmllexw_gYBBGDoxFJAa2dA",
+    "text": "After years of shed tinkering, Robert finally completed his fountain of youth potion....",
+    "likes": 0,
+    "published_at": "2021-08-28T02:53:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy1QNrRNxXPlPorbH54AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "great voltage divider network demo!",
+    "likes": 0,
+    "published_at": "2021-08-28T00:42:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw4lSb2FV6XqQEIyIh4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Morning Luke.",
+    "likes": 0,
+    "published_at": "2021-08-27T22:19:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6ZNTsVizXlBlP-Q94AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "Nice circuit. Current for individual leds will vary with the voltage when lit. That's not a big problem as long as you keep current within led specification. Different colors have different forward voltages so led color will be a factor in voltage threshold indicated. Even for a single type of led typically there's big variation in forward voltage between production batches ( let's say one V max) so it's hard to rely on that. I guess this is a good indicator for a lead acid battery as I expect remaining life is a function of voltage. This is very different for lithium batteries. Special fuel gauge IC's are used for those. These keep statistics on battery performance and measure temperature to indicate what percentage is left. That's what's in your phone for example.",
+    "likes": 0,
+    "published_at": "2021-08-27T21:09:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwWmowZRk1i18j0qnR4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "Nice little piece of learning.  I struggle with schematics lol",
+    "likes": 0,
+    "published_at": "2021-08-27T19:57:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugydm4qAqnPEecFjbkJ4AaABAg",
+    "author": "@colouroboros9993",
+    "author_channel_id": "UCbWCKaz6lZw4binMzNhm7Aw",
+    "text": "really cool stuff!",
+    "likes": 0,
+    "published_at": "2021-08-27T19:30:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwHX2JiYYCCvn3oGl14AaABAg",
+    "author": "@kanapki4368",
+    "author_channel_id": "UCdrlnwSB6fw24Os1UNJcydQ",
+    "text": "If your car battery is at 7v it won't even make that chug chug sound you made so if 1 of the leds isn't lit does that save you having to turn the key",
+    "likes": 0,
+    "published_at": "2021-08-27T19:05:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz4cpNJ18zO7lvnAm14AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "Very cool video. Thanks Luke",
+    "likes": 0,
+    "published_at": "2021-08-27T19:02:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwcrLRieLdT0MJ9Md54AaABAg",
+    "author": "@jorgealonso2238",
+    "author_channel_id": "UCYSKnLco04hcbZ6RwIdEthQ",
+    "text": "Great little circuit. Good job soldering considering no jigs, no third helper, no part holder. Excellent skills.  What was the little piece you were resting the led while soldering. A little pebble/stone?",
+    "likes": 0,
+    "published_at": "2021-08-27T18:11:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx6Kcblf1hQh2xxj0h4AaABAg",
+    "author": "@AM-us7cz",
+    "author_channel_id": "UCEYv14u575N4auXnJPI0-Fg",
+    "text": "Brilliant stuff Luke 👏 Thanks mate 👍",
+    "likes": 0,
+    "published_at": "2021-08-27T18:10:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyE66_dClAky6caa5t4AaABAg",
+    "author": "@Earzone63",
+    "author_channel_id": "UC7O9Vz6tLLgImJVfASBa06A",
+    "text": "Wow I wouldn't in a million years think to make one of these (but now I would lol!!) -- I just wonder how much more complicated the circuitry would have to be to calibrate a chosen lower voltage as well? -- or maybe stick with the same circuit but extend it to have more LEDs / more fidelity. That would do the job i reckon :D",
+    "likes": 0,
+    "published_at": "2021-08-27T17:10:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzuiyNf1wFuMmH7Wxt4AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "glad to see some electronics  build a inverter  from a low frequency esg002 board it is easy and cheap  you can order a board already put together for 30 buck if you can find a free transformer a case and few other small components you will have a very cheap very good low frequency pure sine wave inverter  i made one 3 years ago still works great",
+    "likes": 0,
+    "published_at": "2021-08-27T16:34:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyFEEiR6b1NJo_fB8p4AaABAg",
+    "author": "@mikebond6328",
+    "author_channel_id": "UCgjKdpfzqbGBSEHEVnDqmDg",
+    "text": "With varying resistor values the circuit could be “tweaked” to indicate any range of voltages one might need.",
+    "likes": 1,
+    "published_at": "2021-08-27T16:28:17Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyekQlx3D65JLuNTXp4AaABAg",
+    "author": "@synchro-dentally1965",
+    "author_channel_id": "UCS3q737AHMbzTlvmTu_Hbrw",
+    "text": "Thanks for the video. Please note around 4:00 and 5:12 the audio is missing.",
+    "likes": 0,
+    "published_at": "2021-08-27T16:26:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxvTjjpEmEIYhRC4Ol4AaABAg",
+    "author": "@karlm5022",
+    "author_channel_id": "UCLqkKhqb3X_ZxjMpch2n54A",
+    "text": "Great job Luke 👏👏",
+    "likes": 0,
+    "published_at": "2021-08-27T16:10:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxc2k6AemHVxNieSQ54AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍👍👍🙏👍👍👍",
+    "likes": 0,
+    "published_at": "2021-08-27T15:55:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyCnQPLg3b1g-d3nQ54AaABAg",
+    "author": "@ryanjamesloyd6733",
+    "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+    "text": "Brilliant :)\nwell done.  that's an excellent thing for all those scooter builds you guys have been making as well- I'd certainly want one were I running around on an e-bike.  Cool to see how those work.",
+    "likes": 0,
+    "published_at": "2021-08-27T15:51:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwC0t1J3WrAFpqijAV4AaABAg",
+    "author": "@patscopat",
+    "author_channel_id": "UCQ9GxyGoQk8LzeYf1w3u6Aw",
+    "text": "Outstanding video and outstanding information as always, thank you, brother.",
+    "likes": 0,
+    "published_at": "2021-08-27T15:31:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0ypxODecFcfI0IAR4AaABAg",
+    "author": "@thomasmoore4576",
+    "author_channel_id": "UCgvC4RzC4YX_VN0QUDMjTrQ",
+    "text": "Is it possible to recharge a lithium iron phosphate battery if it drops below 1 volt if so how",
+    "likes": 0,
+    "published_at": "2021-08-27T15:11:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzmyUmrHHyetLw9wot4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome! Thanks 👏👏👏",
+    "likes": 0,
+    "published_at": "2021-08-27T15:06:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzvdrtoR99TZgcUT3l4AaABAg",
+    "author": "@doktorwhy7397",
+    "author_channel_id": "UCRRD8wT5EW2TqUqutVnGqFQ",
+    "text": "great work.",
+    "likes": 0,
+    "published_at": "2021-08-27T15:04:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxayENH5uPM4tsbHc14AaABAg",
+    "author": "@DiyEcoProjects",
+    "author_channel_id": "UCJhPMR6Ok9aj29oNOv1G0gA",
+    "text": "Thats fun... Hi there Luke. how would you go about setting it for a range between 11-13vols say? as we know any car battery below 11 would get knacked. If its set to 11-13 Volts, you can also use it on solar panels coming in.",
+    "likes": 1,
+    "published_at": "2021-08-27T14:51:21Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxayENH5uPM4tsbHc14AaABAg.9RYk6VY28Ub9RYlhx9zI9c",
+        "author": "@Phantom-mk4kp",
+        "author_channel_id": "UCjYQ2IdEkliOylFD7i80HGg",
+        "text": "Cant be done with this circuit, every time a LED goes out the V has dropped another 2V approx. would need a more complex circuit, a transistor amplifier at least",
+        "likes": 0,
+        "published_at": "2021-08-27T15:05:20Z"
+      },
+      {
+        "id": "UgxayENH5uPM4tsbHc14AaABAg.9RYk6VY28Ub9RZ00fNKIJO",
+        "author": "@Earzone63",
+        "author_channel_id": "UC7O9Vz6tLLgImJVfASBa06A",
+        "text": "@Phantom-mk4kp can't you just extend this same circuit i.e. currently (no pun) the voltage divide is 12/(1 to 5), with ~3.6V steps, but with a (1 to x) range you'll get smaller steps, even if the number of lit LEDs e.g. 9 out 10 doesn't correspond to 90%, but that's where colour choice can come in (because colour is also a source of information ;)",
+        "likes": 0,
+        "published_at": "2021-08-27T17:19:06Z"
+      },
+      {
+        "id": "UgxayENH5uPM4tsbHc14AaABAg.9RYk6VY28Ub9RoL-InEch-",
+        "author": "@DiyEcoProjects",
+        "author_channel_id": "UCJhPMR6Ok9aj29oNOv1G0gA",
+        "text": "oh ok, thank you both for your replies :)",
+        "likes": 0,
+        "published_at": "2021-09-03T01:30:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzN6G3jhuMFtX8fR_B4AaABAg",
+    "author": "@reaneccles754",
+    "author_channel_id": "UC17T-7TOYjOyoWUBFolhS_Q",
+    "text": "Thank you Luke, I follow you as I do Robert, you are doing fab!",
+    "likes": 0,
+    "published_at": "2021-08-27T14:49:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzNmfpovS34i4DYt8V4AaABAg",
+    "author": "@AndyFletcherX31",
+    "author_channel_id": "UCySM8-dJpGKlefNvpV7E2Qg",
+    "text": "The steps are a bit coarse for a lead acid battery as you need to go between 11.1V (1.85V/cell) to 13.8V (2.30V/cell).  A quad comparator circuit like the LM339 hanging off a  resistor string driving the LEDs is probably a better solution.",
+    "likes": 8,
+    "published_at": "2021-08-27T14:38:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzNmfpovS34i4DYt8V4AaABAg.9RYic7t4Ew79RZVTIe18tD",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "True. And 12V is pretty low on lead acid battery, would not go lower than that.",
+        "likes": 1,
+        "published_at": "2021-08-27T21:53:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy91JMiPAIdcw_Vf2V4AaABAg",
+    "author": "@WileHeCoyote",
+    "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+    "text": "SO COOL! THANKS LUKE!!",
+    "likes": 0,
+    "published_at": "2021-08-27T14:38:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyJ4aXIYxUXShuWBIV4AaABAg",
+    "author": "@paulmaydaynight9925",
+    "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+    "text": "analogue meter ^_~",
+    "likes": 0,
+    "published_at": "2021-08-27T14:33:19Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgybT5x_seR2w_jKaad4AaABAg",
+    "author": "@EarlShankle",
+    "author_channel_id": "UC48bS08__dRv0Blbkv6PGuQ",
+    "text": "First!",
+    "likes": 1,
+    "published_at": "2021-08-27T14:26:02Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

@@ -1,0 +1,200 @@
+[00:07] so
+[00:08] now we've come up with that ink and
+[00:09] we've had a chat about some of the ideas
+[00:11] uh involved in it what i thought is
+[00:13] actually physically made
+[00:14] a maker based on a 555 climber now the
+[00:17] 555 timer i'm going to use
+[00:20] is this surface mount cmos timer
+[00:23] and it's tiny i mean it's really really
+[00:26] tiny
+[00:26] so it's going to be a challenge to
+[00:28] actually fit that on but when it's on
+[00:30] you're not going to be able to see it
+[00:31] now the ink will act like a cold solder
+[00:34] and we'll make a good connection to the
+[00:36] um
+[00:37] electronic components we're going to use
+[00:39] and we're not going to use that many
+[00:40] electronic components
+[00:41] now when you're making this thing what
+[00:44] you have to do is convert the schematic
+[00:46] into an actual drawing because obviously
+[00:48] you don't want to make the lines
+[00:50] hugely long and you don't want to make
+[00:52] them cross over each other
+[00:54] so you have to have quite a careful
+[00:56] think about where everything is going
+[00:59] now i'm going to use the 555
+[01:04] and it only uses pins 6
+[01:08] 2 1 3 and eight
+[01:11] so that's all that this circuit uses one
+[01:14] obviously
+[01:15] is connected straight to the ground row
+[01:18] eight obviously is connected to my live
+[01:21] rail
+[01:22] that um five five five incidentally will
+[01:24] take anything between sort of
+[01:26] um 2 volts and 15 volts
+[01:29] for the cmos they got 5 volts 18 volts
+[01:32] for the
+[01:33] normal 555 so there's a huge range of
+[01:35] voltage and the battery i'm going to use
+[01:37] is going to be a 9 volt battery
+[01:39] so i'll use a nine volt battery on it uh
+[01:43] two and six connect to each other
+[01:46] uh three obviously is my output
+[01:50] and two and six go to my speaker
+[01:55] and then back to ground and that speaker
+[01:56] is going to be a piezo
+[01:59] speaker and this one is going to go to a
+[02:01] variable resistor that's going to change
+[02:03] the tone of the speaker
+[02:04] now that's the schematic now that
+[02:06] obviously will not do
+[02:08] so you have to plan out what you think
+[02:12] what you think the thing is going to
+[02:13] look like at the end of the day
+[02:16] what i actually came up with
+[02:19] was this we're going to have the five
+[02:23] five five timer here
+[02:25] and that's going to be pin one and then
+[02:26] we have two three
+[02:28] four five six seven
+[02:32] eight and the only ones i'm going to
+[02:34] connect are one
+[02:36] and eight going to the minus and the
+[02:39] positive of the battery
+[02:41] and then two and six are going to be
+[02:43] connected
+[02:44] to each other across the back there and
+[02:46] then
+[02:47] three is going to come out and be
+[02:49] connected to a wire
+[02:50] and the wire is what we're going to use
+[02:52] to vary the resistance
+[02:55] now 2 and 6 get connected
+[03:01] to a pendant variable resistor so the
+[03:03] white comes out of here and as we touch
+[03:05] it anywhere along that line
+[03:07] the turn is going to change so that's
+[03:09] where two and six go
+[03:10] then the piezo gets connected here and
+[03:14] here so that's where the piezo is going
+[03:16] to be
+[03:22] and there's going to be a pen or a wire
+[03:25] under there so at the end of the day
+[03:27] what i'm going to be painting
+[03:31] onto my piece of paper is something that
+[03:34] looks like this
+[03:46] there we go
+[03:57] so that's what i'm going to be painting
+[03:58] onto a bit of paper now
+[04:00] um i can't paint that fine and i don't
+[04:03] think anybody can paint that fine so
+[04:05] what i'll do is i'll put masking tape
+[04:07] over the areas
+[04:08] penta section wait for the dry peel it
+[04:10] off and re-mask to build up this area
+[04:12] because remember that
+[04:13] chip is very very small and so that's
+[04:15] what i'm going to do
+[04:16] and that's the basics of the circuit
+[04:20] so the things that we're going to need
+[04:22] in order to make this
+[04:28] is a bit of card about that big
+[04:33] so ink your
+[04:36] 555 which the thing is so small i've now
+[04:40] put it down and forgotten okay so we
+[04:41] need some
+[04:43] ink paper
+[04:47] brush
+[04:50] masking tape a 5 5
+[04:53] 5 either a c-muscle standard 555
+[04:58] a pisa
+[05:01] buzzer
+[05:04] a piece of wire
+[05:10] battery
+[05:13] now you can either connect the battery
+[05:14] using a battery connector
+[05:16] or two crocodile clips and either a
+[05:18] connector
+[05:21] or clips okay and that's what we're
+[05:24] going to need
+[05:28] okay so this is the second one and it's
+[05:30] slightly more complex than the first in
+[05:32] the first one all we really did was
+[05:34] use the ink to replace the circuit lines
+[05:37] in this one i've painted the circuit but
+[05:40] actually i've included this element here
+[05:42] which is in fact a resistor and the
+[05:43] resistance of that is about 10 kilo ohms
+[05:46] and it's a passive component so here
+[05:48] we've got the actual circuit lines here
+[05:51] and then a passive component made out of
+[05:54] the ink
+[05:55] now what happens with this is the
+[05:58] 555 goes on those lines there
+[06:02] like that the piezo
+[06:05] will attach on there and then a wire
+[06:08] attaches here
+[06:09] and we use that along there to make the
+[06:12] variable resistance and that will change
+[06:14] the tone
+[06:15] i've also included a battery clip to
+[06:17] attach the battery
+[06:18] so that's all there is to it so now what
+[06:20] i want to do is cold solder those on
+[06:22] and the way i cold solder them on is
+[06:25] literally just to blob on the ink and
+[06:26] let the ink dry
+[06:28] and that will cold solder those bits and
+[06:30] pieces to it and that's what i'm going
+[06:32] to do next
+[06:33] okay there's the finished circuit and so
+[06:35] what i've done is
+[06:36] um basically painted on and glued on the
+[06:38] ne 555
+[06:40] there on the thing that i um painted
+[06:43] first
+[06:43] and there's a little piezo buzzer there
+[06:46] so all you have to do now is connect
+[06:48] these up to a battery and i've got a
+[06:50] battery standing by
+[06:51] just there i could have put a battery um
+[06:54] clip on it if i wanted to
+[06:56] actually i'm going to do this again okay
+[06:58] there's the finished circuit so time to
+[07:00] dry it out
+[07:11] and as you can see the pitch changes
+[07:12] depending on where i am
+[07:14] along that resistor if i put it along
+[07:16] there
+[07:17] the pitch is actually too high to here
+[07:20] so it is doing something but it's too
+[07:22] high so we've got to put it somewhere in
+[07:24] our listening range
+[07:30] okay now that's obviously still a bit
+[07:32] quiet
+[07:33] so what i'd like to do with it next
+[07:35] really is attach an amplifier
+[07:36] an amplifier isn't much an lm386
+[07:40] looks a little chip like that it looks
+[07:42] like a five five five
+[07:44] so i'm going to put a um amplifier chip
+[07:47] on there
+[07:48] to get a bit more noise out of it and
+[07:50] then obviously because the
+[07:52] note changes along with the resistance
+[07:55] i can work out what the resistance is to
+[07:57] give me an actual note
+[07:58] and i can build a stylophone out of this
+[08:01] so that's what i'm thinking of doing
+[08:02] next
+[08:03] is a paper-based styrofoam but there you
+[08:05] go a paper-based
+[08:06] noisemaker using conductive ink it's
+[08:09] kind of cool actually i
+[08:11] really quite like that anyway thank you
+[08:13] for watching and i hope you enjoyed it
+[08:17] too

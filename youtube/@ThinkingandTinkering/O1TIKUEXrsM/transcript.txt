@@ -1,0 +1,329 @@
+[00:00] [Music]
+[00:08] So these things, planetary gear boxes,
+[00:10] now they're thought of as pretty
+[00:13] complicated things and in a sense they
+[00:15] are. They're pretty marvelous as it
+[00:17] happens. But to design and make them
+[00:19] using 3D printing actually is really
+[00:22] simple. You only need to remember a
+[00:26] couple of things. Let's have a look at
+[00:28] this. Instead of thinking of them as
+[00:30] gears, let's think of the planetary gear
+[00:32] system as a bunch of circles. The big
+[00:34] blue ring is clearly the ring gear. The
+[00:37] two smaller oranges are meant to be the
+[00:39] planet and the big green is meant to be
+[00:41] the sun. Now, the distance across the
+[00:44] inside of the ring is clearly one
+[00:47] planet, which is 10, plus the sun, which
+[00:50] is 40, plus another planet, which is 60.
+[00:53] So in this case to go across the inner
+[00:56] ring we need 60 or if you like 2 * the
+[01:00] planet plus the distance across the sun
+[01:02] equals the distance across the ring. So
+[01:05] that relationship of the distance across
+[01:07] the ring is equal to the distance across
+[01:09] the planet plus the distance across the
+[01:13] not only works with going across a
+[01:16] circle. It also works with the
+[01:18] circumference of the circle because all
+[01:20] the circles are worked out the same way.
+[01:23] And more importantly for us, it also
+[01:26] works with the gear teeth. So if we want
+[01:29] to know how many gear teeth this ring
+[01:31] has, we add that and that and that to
+[01:36] give us a formula where the number of
+[01:38] teeth on the ring is equal to 2 * the
+[01:41] number of teeth on the planet plus the
+[01:44] number of teeth of the sun. And that is
+[01:47] one of the essential bits of
+[01:48] information. The other one is keep the
+[01:51] modulus the same because of course the
+[01:53] gear teeth have to engage. So the
+[01:55] modulus needs to be the same. So that
+[01:59] really is all you need to know about
+[02:01] planetary gears. Of course when we're
+[02:03] coming to designing gears, what we're
+[02:05] really interested in is the gear ratio.
+[02:08] Now planetary gears work best up to
+[02:10] about a gear ratio of 8 to1. It's where
+[02:12] you can physically get the bits to fit.
+[02:14] You can squeeze in 10 to one but beyond
+[02:17] that things like the sun or the planet
+[02:19] start to get too small or too big and
+[02:22] it's difficult to do it. So 8:1 is
+[02:25] reckoned to be the best kind of gear
+[02:27] ratio. Now a gear ratio is the number of
+[02:30] teeth of the driven gear divided by the
+[02:33] number of teeth of the drive gear. So
+[02:36] here I've got a little peg on the sun.
+[02:39] If I turn that sun, that's the drive
+[02:41] gear. It turns the planets and the
+[02:44] planets of the driven gear and working
+[02:46] out the number of teeth. Well, that's
+[02:48] pretty easy. For the sun and the ring,
+[02:50] you can just count them. But for the
+[02:52] planets, in this case, we got four of
+[02:54] them. What's the number of teeth on the
+[02:56] planets? Well, the number of teeth on
+[02:58] the planets isn't actually real. It's
+[03:00] the apparent teeth. The apparent teeth
+[03:02] on the planets are the number of teeth
+[03:05] on the sun plus the number of teeth on
+[03:08] the ring. Right? we have all the
+[03:11] information we need. Now remember a gear
+[03:13] ratio is driven over drive. And let's
+[03:15] pick a gear ratio that we think is kind
+[03:17] of cool. And I want to make mine say
+[03:20] about 5:1 which means the driven needs
+[03:22] to be five and the drive needs to be
+[03:24] one. In this case I want to drive the
+[03:27] sun and I want the driven to be the
+[03:30] planets. Of course a gear of size one
+[03:33] tooth isn't going to work for anybody.
+[03:34] So the next decision is relatively
+[03:37] random. Just pick something that you
+[03:39] think is kind of funky or fits into what
+[03:41] you want to do. And I'm going to make
+[03:43] that 20, which means of course that must
+[03:46] be 100 to preserve that ratio. That
+[03:49] means my drive, which is going to be my
+[03:51] sun, has to have a tooth size of 20. And
+[03:54] so my sun will be 20. This bit, the
+[03:59] driven the planets, remember the planet
+[04:01] isn't a gear ratio. It's an apparent
+[04:03] ratio where the planet gear ratio is
+[04:06] equal to the sun plus the ring. We know
+[04:09] that we want the planets to be 100.
+[04:12] We've got 20 for the sun already. So 100
+[04:16] needs to be 20 plus whatever the ring
+[04:19] tooth is. And clearly that means that my
+[04:21] ring is going to be 80. Now the next bit
+[04:25] that we need is what size are the
+[04:28] planets? And if you remember that
+[04:29] formula I showed you earlier where the
+[04:32] ring is equal to 2 * the planet plus the
+[04:36] sun. In this case, of course, we now
+[04:38] know what our ring is. It's 80. We don't
+[04:41] know what the planets are. And we know
+[04:43] that our sun is going to be 20, which
+[04:46] means that 2 * the
+[04:48] planets is going to be equal to 60 or if
+[04:52] you like the planet is going to be 30.
+[04:55] And so we have our final piece of
+[04:57] information, which is the planet gear,
+[05:00] and that's going to be 30. So these are
+[05:02] the tooth sizes we're going to need to
+[05:05] create a planetary gear system that will
+[05:07] have a gear ratio of 5 to1. Of course,
+[05:11] what we need to do now is actually
+[05:13] create the gears. But courtesy of the
+[05:16] STL gear generator I've showed you in a
+[05:18] previous video, and armed with our tooth
+[05:21] sizes, this is a piece of cake. And here
+[05:24] it is at
+[05:26] stlgearss.com. And if we scroll down, we
+[05:28] can see the options we've got. We can
+[05:30] generate them in STL or DXF. We're going
+[05:34] to use STGL because we're going to put
+[05:35] this into Tinkercad. And we can click
+[05:38] try it out. Once you click try it out,
+[05:40] you'll see all the options that you've
+[05:41] got. You can do a double helical gear, a
+[05:43] spur gear, a helico gear. You can do
+[05:45] internal ring gears. And of course, you
+[05:48] can do bevel gears and rack gears. Now,
+[05:50] I'm going to do a double hel gear. The
+[05:52] reason I'm going to do a double helico
+[05:54] gear is because they lock into place and
+[05:57] it allows you to sort of do well a kind
+[06:00] of print in place which I think is
+[06:02] particularly cool. And of course double
+[06:03] helico gears have an awful lot of
+[06:07] advantages to them. And given that we're
+[06:10] 3D printing machining makes no
+[06:12] difference to us whatsoever. So let's
+[06:14] click on the double helical gear. Now
+[06:16] although this is titled double helical
+[06:18] it's also known as a herringbone gear.
+[06:20] There's a slight difference between
+[06:22] double helical and herring bone. Herring
+[06:24] bone is where they meet in the middle
+[06:26] and double helical is where they don't.
+[06:28] Anyway, we click on this and we've got
+[06:30] the options that we need to fill in. And
+[06:32] here we've got module. That's the
+[06:33] modulus size. And here we press two,
+[06:36] which gives us an idea of what the tooth
+[06:38] size is going to be. Our angle we're
+[06:41] going to make 45. So it locks in nicely.
+[06:44] The pressure angle somewhere between 20
+[06:46] and 25. And the gear length is how tall
+[06:48] it's going to be. And I'm going to make
+[06:50] mine 20. I'm going to make mine 20
+[06:52] because I want it nice and chunky. I
+[06:54] like nice and chunky and big because of
+[06:57] course I hold them up to the camera to
+[06:58] demonstrate. And here's the information
+[07:00] that we now use. We now found earlier
+[07:03] and it's a number of teeth. So to make
+[07:05] this press in 20 and then all we need to
+[07:09] do is click download gear. It will
+[07:13] download. We can change that now to make
+[07:16] our planet which is going to be 30. And
+[07:19] then we can download the new gear. This
+[07:21] is just ludicrously simple. Then we go
+[07:24] down to the internal double helical gear
+[07:27] ring and be creating spurgeear. Spur
+[07:30] gear. Hel gear. Hel gear ring. But we
+[07:32] want this one. Click on start design.
+[07:34] It'll pull up the screen. And remember
+[07:36] our module was two. Our angle was 45.
+[07:41] The pressure angle was 20. The gear
+[07:45] length was 20. And we want our number of
+[07:48] teeth. In this case, our number of
+[07:50] teeth, of course, is 80. And it'll give
+[07:52] us an outside diameter. And I'm going to
+[07:55] put an outside diameter of 180. If you
+[07:58] put in the wrong outside diameter, it
+[08:00] won't let you actually download the
+[08:03] gear. You have to increase the diameter
+[08:05] until the gear is valid, and then you
+[08:07] click it, and it will download that gear
+[08:09] for you. And there they are, all
+[08:11] downloaded. Now, the STL program
+[08:14] actually produces amazingly accurate
+[08:16] gears, which of course is a bit of a
+[08:18] problem for FDM. We're going to print
+[08:20] this in place. And if we don't leave
+[08:22] enough of a gap, what will happen is the
+[08:23] gears will stick. So that print gear,
+[08:26] which is the planet gear, was imported
+[08:28] at 99%, just reducing its size by 1%
+[08:32] gives us about half a millimeter out of
+[08:34] the side of free play, meaning that when
+[08:36] we printed it, it'll come straight off
+[08:38] the bed. Now, it's going to be a planet,
+[08:40] so we're going to duplicate it four
+[08:42] times. And to save ourselves a bit of
+[08:44] effort, I've pulled down a cylinder hole
+[08:47] there. And that cylinder hole is 16 by
+[08:49] 16 just because of the way I want to
+[08:51] make the planet carrier. Highlight both
+[08:54] of them and center the hole to the
+[08:56] planet. And that will save us an awful
+[08:58] lot of work later. And then we can group
+[09:00] those. Now to align those bits and
+[09:03] pieces, all we actually do is click on
+[09:06] the sun, hold down the shift key, click
+[09:09] on the ring, hit the align button, and
+[09:11] align that to the center by centering it
+[09:15] there and there. The planet doesn't get
+[09:19] aligned in the same way. Again, hold
+[09:21] down this shift key, highlight the two
+[09:24] of them, hit the align key, but only
+[09:26] align that along that axis there. Then
+[09:31] what we do is we move the planet
+[09:32] manually. This will become obvious in a
+[09:34] second. I've got this set at snap grid
+[09:37] one. And we just move the planet in
+[09:38] until it's round about right. Then zoom
+[09:42] down on it. And we can see that the
+[09:44] planet's a little bit out. There's a gap
+[09:46] there and there's a overlap there. So if
+[09:48] we hit that one more, two more, then we
+[09:51] can align them properly so that we've
+[09:53] got the right gap. Now very often these
+[09:56] teeth will be out of alignment. And
+[10:00] we're looking down from the top, so
+[10:01] it'll carry it all the way through. If
+[10:03] we click on this rotate arrow, go to the
+[10:05] outer ring, we can rotate that by a few
+[10:08] degrees just to make sure that the teeth
+[10:10] line up properly with each other. And
+[10:13] then we don't have an issue. Now, what
+[10:15] we want to do is duplicate and rotate
+[10:17] this four times. So, we zoo out a little
+[10:23] bit. Highlight the whole
+[10:30] lot. Copy it. Rotate it around
+[10:35] 90° and
+[10:36] then copy and copy again. There we go.
+[10:40] There is our planetary gear system all
+[10:44] done. Now, I don't mean to go into any
+[10:47] more of the tinkercad of this because
+[10:48] the rest of it is pretty simple. All I
+[10:50] really did was add an axle onto the sun
+[10:52] and that's just a cylinder with a square
+[10:54] peg. Printed the whole thing off and it
+[10:56] came off and worked immediately. I was
+[10:59] so pleased about that actually. It
+[11:00] really worked really well. Of course, we
+[11:02] still need a planet carrier and I
+[11:04] created a planet carrier from a
+[11:05] cylinder. Four little cylinders to act
+[11:07] as pegs and a square hole in the center.
+[11:10] And the planet carrier just slots into
+[11:12] the planets like that. And it has four
+[11:15] clips. And the clips go into
+[11:17] indentations. Oops. Indentations on the
+[11:20] top of the planet carrier. The only
+[11:22] other thing I made was this handle which
+[11:24] exactly the same square hole. And the
+[11:26] handle fits on the sun because remember
+[11:29] my sun is my input gear and that's it
+[11:32] all together. So that's the input and
+[11:34] that's the output. And it has a gear
+[11:36] ratio of 5:1.
+[11:46] Now, if we print these, take the handle
+[11:49] back off. There we go. If we print these
+[11:51] and stack them up, of course, we'll get
+[11:53] an increased gear ratio. So, two of
+[11:55] these will be 25 to1, three of them 125
+[11:58] to one, four of them would be 600 to1.
+[12:01] All you got to do is print them and that
+[12:03] slots onto that and you just stack them
+[12:05] up to make yourself more and more gear
+[12:08] ratios. So, it was astoundingly simple.
+[12:12] Because being the chevrons, this section
+[12:14] can't now drop out. It transfers talk
+[12:16] better and is much quieter, which is why
+[12:19] I wanted to develop that. But you can
+[12:21] see, I think, I hope essentially simple
+[12:25] it all was a pure little bit of math,
+[12:27] but the actual thing comes out as
+[12:30] essentially one print in place gear
+[12:33] system and one carrier system, which I
+[12:36] thought was very cool. Now, I will put
+[12:38] this on Thingiverse, but the whole idea
+[12:41] of the video is that you design your own
+[12:43] because I think they're relatively easy
+[12:45] to design. But I will put this on
+[12:46] Thingiverse should anybody want this.
+[12:48] And it is a demonstration model, which
+[12:50] is why it's so thick and chunky. You
+[12:51] want it smaller? Well, scale it smaller
+[12:54] or design a smaller one. There's one
+[12:57] other thing to talk to you about, and
+[12:58] that's the position of the planets. Now,
+[13:01] this remember has 30 teeth on it, and
+[13:03] this has 80 teeth on it. If I turn this
+[13:06] by 90°, then the tooth position will be
+[13:10] identical on the sum which has 20 teeth
+[13:13] and on the ring which has 80 teeth. And
+[13:16] you need to be able to do that. If I
+[13:17] turn this by 120°, a tooth position
+[13:20] would be out. In order to correct that,
+[13:23] I would need to make the sun divisible
+[13:25] by three and the ring divisible by
+[13:28] three. Then I could turn it 120° and
+[13:31] have three planets. If I want four
+[13:33] planets, then it has to be divisible by
+[13:37] four in whole numbers of degrees.
+[13:39] Otherwise, the tooth will skew. But it
+[13:42] doesn't really matter. If that's a bit
+[13:44] too much for you, then just make it a
+[13:46] four planet gear the way that we
+[13:47] actually showed. I hope you enjoyed the
+[13:50] video. Thank you very much for watching,
+[13:52] and please do remember to like and
+[13:54] subscribe.

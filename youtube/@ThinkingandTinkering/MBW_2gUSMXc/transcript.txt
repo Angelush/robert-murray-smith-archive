@@ -1,0 +1,156 @@
+[00:02] [Music]
+[00:15] hi so in video 1118
+[00:17] we made this concrete flywheel from some
+[00:20] cement under bicycle wheel
+[00:22] we followed that up in video 1119 and
+[00:25] one one
+[00:26] two zero by constructing this now this
+[00:29] is an experimental generator it's a
+[00:31] prototype really
+[00:33] and i want to continue experimenting
+[00:35] with it which means basically taking
+[00:37] this ring off and playing around with
+[00:38] some configurations on this generation
+[00:40] ring
+[00:41] but it did make me think that actually
+[00:43] you don't need to do something
+[00:45] experimental in
+[00:46] inverted commas with this you could just
+[00:49] link up the flywheel to a dc
+[00:52] motor and it would still work pretty
+[00:54] well actually as a generator
+[00:56] now i have two of these these are 500
+[01:00] watt dc
+[01:01] motors and i bought them on ebay because
+[01:04] they were 20 pounds each
+[01:06] i couldn't believe it 20 pounds for a
+[01:08] 500 watt dc motor
+[01:10] so i bought two luke used one in his uh
+[01:13] scooter and i've got the other one here
+[01:16] that i'm going to link up to this
+[01:17] so i'm going to remove this wheel and
+[01:19] link this up and we'll see what it does
+[01:22] as just if you like a normal flywheel
+[01:25] generator
+[01:26] anyway let's take this little bit to
+[01:28] pieces i haven't really bothered to show
+[01:29] the build process on this because it's
+[01:31] in the other videos and all i've really
+[01:33] done is put another on here which i
+[01:35] did by
+[01:36] whacking it on so there's a cog on the
+[01:38] opposite side of the wheel and it's
+[01:39] connected by a chain to the motor
+[01:42] and obviously we turn that handle and
+[01:44] that's how the whole thing
+[01:45] works so i drive this now i'm driving it
+[01:48] by hand
+[01:48] obviously there's loads of ways you
+[01:50] could drive it but if i give this a
+[01:52] drive
+[01:53] and i stop driving it then the wheel
+[01:56] continues to turn now because that
+[01:57] flywheel is continuing to turn and
+[01:59] connected to the motor via that cog
+[02:02] the motor continues to turn even though
+[02:04] there's no input
+[02:06] now we do like our names and one of
+[02:08] these ways of looking at this is a
+[02:10] flywheel
+[02:10] energy system because the flywheel keeps
+[02:13] it returning
+[02:14] another way to look at it is this is
+[02:16] exactly what our kinetic energy recovery
+[02:18] system is or occurs
+[02:20] system cycling along while you're
+[02:22] driving along and you're inputting on
+[02:24] that shaft when you
+[02:26] brake obviously the input stops but
+[02:29] because of the freewheel
+[02:30] and the momentum within the flywheel the
+[02:32] flywheel continues to turn
+[02:34] because it's recovering the kinetic
+[02:36] energy because it can continue to turn
+[02:39] it continues to drive the motor so in
+[02:41] essence
+[02:42] this is what occurs system is it's
+[02:44] what's in your regenerative braking
+[02:46] it's what all those curves bicycles are
+[02:48] about
+[02:49] it's just a flywheel linked to a chain
+[02:52] and
+[02:52] the other side of the flywheel linked to
+[02:54] some kind of output
+[02:56] we've got it on our little motors of
+[02:57] drug dynamo so that we can actually get
+[02:59] some readings out of it
+[03:01] so let's have a look at some readings on
+[03:02] this let me just ride here and it's
+[03:04] reading a dc output because remembers
+[03:06] dc motor so the commutator actually
+[03:08] rectifies the output so we don't need a
+[03:11] rectification
+[03:12] and we read straightforward dc output
+[03:14] now let's give it a spin and see what we
+[03:15] can get
+[03:30] huh
+[03:34] that's actually quite good
+[03:38] now i've got it connected up to vaults
+[03:57] okay so i've connected the motor up to
+[03:58] this super capacitor here and then i've
+[04:00] connected the super capacitor to this
+[04:02] little circuit which is dual thief
+[04:04] and then i've connected it to this
+[04:05] lighting panel here which is a
+[04:07] 25 second
+[04:12] 728 28 leds so what we're gonna do is
+[04:15] spin it up
+[04:16] put a bit of charge in the super
+[04:17] capacitor and then we'll be able to
+[04:19] light those leds
+[04:34] [Applause]
+[04:38] i can tell you those leds will stay on
+[04:41] for
+[04:42] ages from just that little bit of a spin
+[04:44] about an
+[04:45] hour or so it's crazy actually so there
+[04:48] are obvious improvements to make to this
+[04:50] this is just to demonstrate the curse
+[04:52] principle
+[04:53] and how you can actually build on
+[04:55] yourself
+[04:56] obvious improvements are going to be to
+[04:58] do with the gearing
+[04:59] so we've got this little cog here going
+[05:01] to not much smaller cog
+[05:03] made this cog bigger then we'll be able
+[05:05] to get a better speed
+[05:06] on that actual flywheel obviously we
+[05:09] made that cog smaller
+[05:10] but it's quite small as it is because
+[05:13] it's a freewheel so making this one
+[05:14] bigger to change the gear ratio
+[05:16] on the reverse side remember we had
+[05:18] another single flywheel where again we
+[05:20] could change that gear ratio
+[05:23] now the output of the motor the output
+[05:25] of the motors are generated was in fact
+[05:27] a bit disappointing in terms of
+[05:29] output because a couple of volts couple
+[05:31] of amps we've got to remember is a motor
+[05:33] so it's meant to
+[05:35] take amps because of that the wires are
+[05:37] quite thick
+[05:39] if we actually thinned those wires out
+[05:41] then we would get a much higher voltage
+[05:43] and be able to run this thing directly
+[05:45] without using the dual thief i've
+[05:47] obviously put it through a super
+[05:48] capacitor but you could put it through a
+[05:50] battery bank as
+[05:51] easily but the basic principles occurs
+[05:53] is
+[05:54] right there anyway i hope you enjoyed
+[05:56] the video
+[05:57] please do remember to subscribe and
+[05:59] thank you very much for watching

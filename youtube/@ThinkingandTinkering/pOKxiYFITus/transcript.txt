@@ -1,0 +1,233 @@
+[00:00] [Music]
+[00:08] Now, if you're a regular viewer of the
+[00:10] channel, what you might have noticed is
+[00:11] that very often the videos look like
+[00:13] they have a theme to them, a reason. You
+[00:16] know, they seem to join up and lead to
+[00:18] an end point, beginning, and a start
+[00:20] point. And of course, in a way, they
+[00:22] actually do. But in there are various
+[00:25] investigations that I tend to do while
+[00:27] I'm thinking, oh, will this do the job?
+[00:29] So some things can come up quite
+[00:32] surprisingly and are just interesting.
+[00:34] Now I think that's important and I think
+[00:36] it's important because if you're looking
+[00:38] for a solution, staring hard down a
+[00:41] straight line actually won't get you
+[00:44] there. I think that what you need to do
+[00:46] is look around you and ask yourself the
+[00:48] question, oh is that useful? Is that
+[00:51] interesting? Will that do what I want it
+[00:53] to? And it's looking around where
+[00:55] inspiration actually comes from, not
+[00:58] looking down on something hoping to get
+[01:00] there by staring at it very very hard.
+[01:03] And this particular series of videos
+[01:06] we're doing actually came up because of
+[01:08] this thing. This is the Archimedes
+[01:11] drive. It's actually a teaching model.
+[01:12] It's meant to break down so you can see
+[01:14] the principles of it and the combination
+[01:17] of gears and the wolf from drive. Now I
+[01:19] made this in video 2362.
+[01:22] So, if you want more information on
+[01:24] that, check out that video because I
+[01:26] also build on what I've said before. I
+[01:28] don't endlessly repeat stuff because the
+[01:31] videos would just be 2 hours long and an
+[01:33] hour 59 minutes would be repeating what
+[01:36] I just done. So, I don't do it. So, when
+[01:38] we talking about the wolf from drive and
+[01:40] the wolf from principle, I've already
+[01:42] gone through that in that earlier video.
+[01:44] So, I tend not to go through it again.
+[01:47] But in summary, it's the combination of
+[01:49] levers and gears. When I finished that,
+[01:52] I thought, well, that is an awesome
+[01:53] drive, but perhaps a little complicated.
+[01:56] I wonder if there's a way that we could
+[01:59] make that much simpler, relying more
+[02:01] heavily on just straightforward levers.
+[02:04] And that's where it began. And of
+[02:06] course, we began really with this thing.
+[02:08] It's the Scotch yolk. The Scotch yolk's
+[02:10] a very simple mechanism that finds a lot
+[02:12] of uses. And as you turn the input, this
+[02:15] pin moves up and down in the slot and of
+[02:17] course drives that backwards and
+[02:19] forwards. And the distance backwards and
+[02:21] forwards that moves depends on the pin
+[02:24] position on this circle. As you move it
+[02:26] in, the distance moves slower. As we
+[02:28] move it out, it moves further clearly
+[02:31] because it's just moving a further
+[02:33] distance. Now, of course, in here, it's
+[02:36] fixed. And that led us to video 2368
+[02:40] where we created a mechanism to move
+[02:43] that pin up and down. Well, we're able
+[02:45] to move that pin up and down. Of course,
+[02:47] what we got was a variable lever output.
+[02:50] That's not the only way of doing that.
+[02:52] What we've got here is an epic a
+[02:53] hyperyroid drive. The distance of this
+[02:57] circle to this circle is an exact ratio
+[03:00] of 2:1. So, the diameter, the radius,
+[03:03] the circumference, they're all related
+[03:04] to each other. So, they all have the
+[03:05] same ratio is 2:1. This is twice what
+[03:09] this is. What that means is that circle
+[03:12] describes a straight line. So as I turn
+[03:14] that input, we see the two circles going
+[03:17] around each other. And this does the
+[03:19] same thing moving backwards and
+[03:21] forwards. And it was an inspiration to
+[03:23] look at from the Scotch yolk when I was
+[03:26] thinking about that pin movement. And of
+[03:28] course, that's a bit more difficult to
+[03:29] do. The scotch yolk was very simple to
+[03:33] create a mechanism that moved that pin.
+[03:36] As you move that pin, of course, we're
+[03:38] driving that slotted lever system. And
+[03:40] when we drive that slotted lever system
+[03:42] which is right here and if you're
+[03:44] interested in this one of course it's
+[03:45] video
+[03:47] 2374 when we build this slot mechanism
+[03:50] so that we can vary the input and the
+[03:52] output by moving the pin in the same way
+[03:54] as a scotch yolk. So as we rotate the
+[03:57] input we can set the pin distance by
+[03:59] this plunger and that changes the output
+[04:02] and we get ourselves a CVT.
+[04:05] That wasn't the only thing that I
+[04:07] actually looked at because for years
+[04:09] I've been fascinated by these things
+[04:11] Geneva drives and it did make me wonder
+[04:13] that if we timed that rotation so that
+[04:17] we got this single rotation in gaps. So
+[04:20] rather than having a lever we started
+[04:23] looking at time. So obviously this will
+[04:26] do one full rotation and we'll rotate
+[04:29] this 1/5. And so we could slow down the
+[04:32] rotations by five by using a G Geneva
+[04:35] mechanism. Not really looking at
+[04:36] position of it but looking at the time
+[04:39] of the pin and the locator which is why
+[04:41] I did that how to draw a Geneva
+[04:43] mechanism with any number of slots
+[04:46] because you'd be able to change the
+[04:47] number of slots to change the time that
+[04:50] this actually rotated and so change its
+[04:53] rotation speed or at least that was the
+[04:55] thinking. Now that obviously is even
+[04:57] more complicated to achieve and so that
+[05:00] went by the wayside but the video on how
+[05:02] to draw them I thought was really
+[05:04] interesting should anybody want to draw
+[05:06] infinite CVTs or Geneva drives. Then
+[05:09] there's another one that I actually
+[05:11] investigated and this one I thought was
+[05:13] really kind of cool actually. You've
+[05:15] probably heard of the panagramraph. The
+[05:16] panagramraph is an artist's tool for
+[05:19] increasing or decreasing the trace of a
+[05:21] drawing. Now, of course, if you're
+[05:23] drawing a circle or you fix a circle at
+[05:26] one point and rotate it, if you can then
+[05:28] increase or decrease it, of course,
+[05:30] you're going to get yourself a CVT. So,
+[05:33] a artist tool was a bit of an
+[05:35] inspiration. This actually isn't a
+[05:38] panagramraph. A panagramraph is just a
+[05:40] system of levers. It's very simple. This
+[05:42] is an improvement called the idograph.
+[05:45] The idograph actually is fascinating in
+[05:48] itself. And so I'm probably going to do
+[05:50] a video on how to make an idograph just
+[05:53] because I thought it was interesting.
+[05:55] And of course, as we change this lever
+[05:57] position around the point, then we're
+[05:59] changing the position of the output. But
+[06:02] again, I thought that was something that
+[06:05] wouldn't be very adaptable adaptable to
+[06:07] what we want, but very interesting in
+[06:09] itself. So I'll probably do a video on
+[06:11] how to make anagramraph. But where we
+[06:14] are at the moment is with this idea say
+[06:17] there we go of moving levers. And what I
+[06:20] want to do is create an automatic system
+[06:24] for changing the speed of the output of
+[06:26] a wind turbine. Because if there's a
+[06:28] wind turbine, one of the big issues is
+[06:30] overrun. If the blades turn too fast for
+[06:33] the motor, what they can do is satellite
+[06:36] the generator. If you have an automatic
+[06:39] system, then you're able to reduce the
+[06:42] output in terms of the input to protect
+[06:45] your generator. Now, there are systems
+[06:47] that do that. Obviously, you can use
+[06:50] braking systems, for example, but I'm
+[06:52] just fascinated by a possible mechanical
+[06:55] system that will be able to do that
+[06:58] where we don't have to interrupt it. And
+[07:00] of course, it's led from this. And this
+[07:04] is what we're heading for. Of course,
+[07:05] that will be on Thingiverse should
+[07:07] anybody want the model. And I will do a
+[07:09] separate video on how that model is
+[07:11] actually built to automatically control
+[07:15] a wind turbine. But this video is really
+[07:17] about the process. I tend not to do that
+[07:20] much on the process itself. I'll do a
+[07:23] bit of history and then a um model
+[07:26] explanation of the model and then a
+[07:27] build. It's kind of how I work. But the
+[07:30] process is very valuable because when I
+[07:33] do that, I do the video showing the
+[07:36] control, I can guarantee there's going
+[07:38] to be lots of suggestions of other ways
+[07:40] to do it. And of course, there are lots
+[07:43] of ways to do anything. There's lots of
+[07:45] ways to skin a cat. Some are good in
+[07:48] some circumstances, some are good in
+[07:50] others. That's not the point. The point
+[07:53] is that process and learning are
+[07:57] practice. It's like anything else. The
+[07:59] more you practice, the better you get.
+[08:02] So, if you're looking at making things,
+[08:05] crossing your fingers and hoping that
+[08:07] you'll do a perfect job first time is
+[08:10] not really likely to help you very much.
+[08:13] You're going to have to go through a
+[08:15] process. And when you have a whole list
+[08:18] of mechanisms you can think about and
+[08:20] use when you're designing or making
+[08:22] something, that process becomes very
+[08:25] much easier. So it's actually really
+[08:27] good to build models of mechanisms, put
+[08:30] those mechanisms together, create new
+[08:32] machines based on that and use that as a
+[08:36] learning experience. That's actually the
+[08:38] most important thing to do because when
+[08:41] you come to your own problems, of
+[08:42] course, when you're trying to find a
+[08:44] solution, yeah, you're going to be
+[08:45] presented with lots of them and it's
+[08:47] going to be difficult to choose which
+[08:49] one and then work out how you actually
+[08:51] put it all together.
+[08:53] That is the process and that is super
+[08:57] important. What I've been busy doing is
+[08:59] creating a library of mechanical
+[09:01] movements and showing how those
+[09:02] movements can be put together to make
+[09:05] machines because that is a very good way
+[09:09] according to me to create your own
+[09:11] machines where you'll have success.
+[09:14] Anyway, I hope you enjoyed the video. I
+[09:15] hope it helped and I will of course do
+[09:18] those other couple of mechanisms later
+[09:20] on in different videos. Thank you very
+[09:22] much for watching and please do remember
+[09:24] to like and subscribe.

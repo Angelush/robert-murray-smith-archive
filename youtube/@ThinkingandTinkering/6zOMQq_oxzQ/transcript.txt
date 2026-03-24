@@ -1,0 +1,152 @@
+[00:00] [Music]
+[00:08] It can be pretty useful to be able to
+[00:10] take a motion in two directions and
+[00:12] change it so that it's a rotation in one
+[00:15] direction. For example, something like a
+[00:17] wave pal machine. The wave goes up and
+[00:20] down. And of course, we could put a boy
+[00:22] on there that would move up and down.
+[00:23] And that up and down movement, if we
+[00:26] could change it into a single direction
+[00:28] rotation, well, it' be really easy to
+[00:30] connect a generator to it. The same
+[00:32] thing would happen with trees where you
+[00:34] have a waving in the wind and if they
+[00:36] pull a string and you could change that
+[00:37] backwards and forwards to a rotation,
+[00:40] then of course it would be useful. And
+[00:42] there was a very popular mechanism for
+[00:45] doing exactly that using bevel gears and
+[00:47] ratchets. If we have a ratchet in a
+[00:50] bevel gear, of course, it will only turn
+[00:52] one way and the ratchet makes it split
+[00:54] the other and then we can force the turn
+[00:56] with one direction only. If we do the
+[00:59] opposite ratchet and connect another
+[01:01] bevel gear, it will actually output in
+[01:04] one direction with the ratchet slipping
+[01:07] in the other direction. And we made this
+[01:09] in video 1914. But instead of using
+[01:12] ratchets, what we did was we used
+[01:14] toothbrushes which acted like a ratchet,
+[01:16] which I thought was quite fun. But there
+[01:19] is another way of doing this that
+[01:21] doesn't use ratchets at all. It just
+[01:24] uses gears. And here it is. Here is a
+[01:26] completely gearbased mechanical
+[01:28] rectifier where this rack moves in and
+[01:31] out. And it doesn't matter the direction
+[01:34] that the rack moves. This will only
+[01:37] rotate in one direction, which is pretty
+[01:40] cool, I thought. So, let me show you how
+[01:43] we put that together. Here's a drawing
+[01:46] that I drew up in Tinkercad. Let's print
+[01:49] it out. And when you print it off, this
+[01:51] is what you get. Now, to put this thing
+[01:53] together, we start with the bottom
+[01:55] plate, and that's this one here. Now, we
+[01:57] can tell that because all of the holes
+[01:59] in it are the same size. They're 8 mm.
+[02:01] On the top plate, some of the holes are
+[02:04] 6 mm. And you have six of these pegs
+[02:06] here. The pegs fit in these holes very
+[02:10] tightly. So you put the in those holes
+[02:12] and press them to fit. And you don't put
+[02:15] them in that hole or that hole or that
+[02:17] hole. It's these six holes. This one,
+[02:19] this one, this one, this one, and this
+[02:21] one. And just press them in. So they're
+[02:23] like that. Then we take our gears. Now
+[02:25] on the gears, we've got one with a very
+[02:28] long spindle on it. And the other two
+[02:29] have the same size spindle. The long
+[02:31] spindle drops in there. And the ones
+[02:33] with the same size spindle, one drops in
+[02:36] there and one drops in there. Then we
+[02:38] take this central gear. And the central
+[02:40] gear fits in that slot right there like
+[02:43] that. And then we take the top plate and
+[02:46] pop the top plate on. So this slot faces
+[02:49] that slot there. And we've done that and
+[02:51] checked everything's free to spin. That
+[02:54] gear goes on there and gets glued in
+[02:56] place. And this rack slides in that
+[03:00] slot. Okay. Okay. So, I've put a dot on
+[03:02] it so you can actually see it moving.
+[03:04] And it doesn't matter which way this
+[03:05] rack moves. So, as I pull that in and
+[03:08] out, then that dot always travels in the
+[03:11] same direction. And that is a mechanical
+[03:14] rectifier using just
+[03:16] gears. So, it works really well. And
+[03:19] I've done it in this modular form.
+[03:21] Should anybody want to use this
+[03:23] particular mechanism for doing exactly
+[03:25] the same job. I mean, there are loads of
+[03:27] ways you could arrange it. And it works
+[03:30] on a very basic principle of gears. So
+[03:33] let's just remove the top again and have
+[03:35] a bit of a better look. Now what it is
+[03:38] is if I turn a gear say in a clockwise
+[03:41] direction then because it's interfacing
+[03:44] here this turns in the opposite
+[03:46] direction. Notice with two gears that's
+[03:49] the case. With three gears it swaps
+[03:52] again. With four gears it swaps again.
+[03:55] So, every time there's an even number of
+[03:58] gears, the finish gear will rotate in
+[04:01] the opposite direction. Every time
+[04:03] there's an odd number of gears, the
+[04:05] finish gear will rotate in the same
+[04:08] direction. So, the question is, how do
+[04:10] we get it to do that? And here you've
+[04:12] got a little slot. And if we put a gear
+[04:14] in that little slot, and that's the
+[04:17] input gear. As I turn the input gear,
+[04:19] that gear is forced to move in the
+[04:21] little slot and engage here. And if we
+[04:24] count those 1 2 3 they will turn in the
+[04:27] same direction. And you can see them
+[04:28] doing that. If I reverse that then that
+[04:32] intermediate gear is forced into this
+[04:34] gear. And now we have an even number 1 2
+[04:37] 3 4. And so it will reverse the change
+[04:41] meaning the output gear is always going
+[04:44] to be the same. Now I used a rack to
+[04:46] move this moving it backwards and
+[04:47] forwards. But I could equally have just
+[04:49] attached it to here where it waved
+[04:51] backwards and forwards instead of it
+[04:53] being a rack here. Of course, we had an
+[04:56] output gear that was stuck on the top.
+[04:58] The thing that happens is that shuttles
+[05:00] between the two. So there's a loss of
+[05:03] power when it enters an intermediary
+[05:05] stage where that intermediary stage is
+[05:08] equal to roughly half the tooth length.
+[05:11] And this tooth length is module two. So
+[05:14] it's quite large in inverted commas in
+[05:17] this because for the demonstration I
+[05:19] made a large modulus. The modulus gets
+[05:22] smaller the loss of power gets smaller.
+[05:24] But essentially that's how it works in a
+[05:28] practical sense. Of course you can use
+[05:29] this for all kinds of things. I mean a
+[05:31] fan for example if you're squeezing a
+[05:33] handle against a spring this would
+[05:35] rotate the fan in one direction and make
+[05:37] you a hand operated fan. And of course
+[05:39] the same with a generator. Now I have my
+[05:42] own evil purposes for this of course and
+[05:44] that will become clear later because the
+[05:48] number of rotations of this is directly
+[05:50] proportional to the distance that rack
+[05:53] moves. So it has that property which I'm
+[05:56] very interested in. But should anybody
+[05:59] else be interested in this mechanism and
+[06:00] want to play around with it, of course
+[06:02] I'll put it on Thingiverse where it be
+[06:04] there for everybody to use. I hope you
+[06:06] enjoyed the video. Thank you very much
+[06:08] for watching and please do remember to
+[06:10] like and subscribe.

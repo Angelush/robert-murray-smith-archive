@@ -1,0 +1,923 @@
+[
+  {
+    "id": "UgyOz5lptQg_UtQCJgV4AaABAg",
+    "author": "@tautalogical",
+    "author_channel_id": "UCSzc46knlHx3iJ3vqkg0H4w",
+    "text": "I'm going to have to print this to have any idea how it works.",
+    "likes": 0,
+    "published_at": "2025-09-04T18:02:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzE1LBi7pctzW040iZ4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Nice explanation, thanks 🎉",
+    "likes": 0,
+    "published_at": "2025-06-12T16:56:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-Fv4PBXvgrZE6NfN4AaABAg",
+    "author": "@BucktailResearch",
+    "author_channel_id": "UCYs8d--BQqroJ9t4YP-zk5A",
+    "text": "I don't understand why you don't just show it working?",
+    "likes": 0,
+    "published_at": "2025-06-02T16:25:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzU5vs3cdeE3Myahwl4AaABAg",
+    "author": "@derelictarchive",
+    "author_channel_id": "UCSIOYMcXQiXVDezX6N19FsQ",
+    "text": "The roller is traveling in a constrained circle. If the swash plate is a flat 0 degrees, then the roller is free to travel without the swash plate reacting and there is no output rotation. If the swash plate were somehow set to 90 degrees then it must be pushed one for one by the roller. I'll call this tidally locked. These extremes are easy to visualize. \n\nAt intermediate angles you get output rotation between 0 and 1 relative to the input, but why? Consider the swash plate at 45 degrees or so. Before rotation begins the roller is well mated to the surface. The plane of the plate is parallel to the tangent line of the roller's circle of travel. When you rotate the roller it attempts to follow its constrained circle I mentioned before, but the swash plate extends before it in a flat plane which blocks the roller's travel. The roller must either be stopped or push that plane away from it to continue its own curved path. That's also not too hard to picture, I think. But why must the swash plate rotate instead of tilt out of the way? \n\nIf you were to return the swash plate back to 0 deg, you could then tilt it again back to 45 deg in a different spot without rotating it at all. But we can't do that obviously, the tilt is constant whenever we aren't changing the 'gear' ratio. So, does this matter? After puzzling on it I think yes. If the swash plate is tilted then you cannot rotate the tilted spot under the roller without also rotating the plate itself. But the less tilt you have the less plate rotation is necessary. And so by changing the tilt you vary the output rotation as a consequence of geometry which I'm too rusty to describe mathematically. But not friction.",
+    "likes": 0,
+    "published_at": "2025-06-01T21:10:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwg-8CxPe011F_FMLN4AaABAg",
+    "author": "@veterandad7",
+    "author_channel_id": "UCkCuD0XqmI-Kd3ZbmHxb73Q",
+    "text": "As a helicopter mechanic, you had me at SWASHPLATE...hahhahaha",
+    "likes": 2,
+    "published_at": "2025-05-29T00:56:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwREvAyiPZvutYdyBF4AaABAg",
+    "author": "@gteaz",
+    "author_channel_id": "UCWvcPohCPxGTuMDe4y-MR4A",
+    "text": "Does anyone know how this works? \nI'm just looking at a perpetual motion machine and being explained that the batteries are not hidden inside.",
+    "likes": 0,
+    "published_at": "2025-05-28T17:32:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxKdeZyV32lDY3VjyV4AaABAg",
+    "author": "@tomp7141",
+    "author_channel_id": "UCPA4-QhMO9f5-EOUiZk8kAg",
+    "text": "If you start an upsidedown dinner plate \"wobbling\" on a table, the plate will nutate and rotate.  The greater the angle between the plate's axis and vertical, the fewer nutations required per each rotation.  This is because the edge of the plate has a fixed circumferance but it rolls along a circular path on the table having a smaller circumferance.  Nutation and rotation both stop when the plate goes flat.\nSo, if you could output the rotation of a nutating disk (using a universal joint) AND control the angle of nutation of that disk while making it nutate (with a roller), then your output/input ratio could be varied from zero to some positive value.\nFriction would still be required between the edge of the nutating disk and the surface it rolls on.",
+    "likes": 0,
+    "published_at": "2025-05-28T15:32:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzelVSdU8SvicQjrEh4AaABAg",
+    "author": "@aurigo_tech",
+    "author_channel_id": "UCzVzpJ96ScxLmQV7S7AomAg",
+    "text": "One should imagine a crank on a shaft at 90°, where one could apply maximum torque and the maximum size circle the crankhandle would take. Now let that crank be at an angle, lets say 45° to the shaft. Then the torque one can apply will be lower but also the circle the crankhandle will take will be smaller. I understand this as a version of this concept.",
+    "likes": 0,
+    "published_at": "2025-05-23T00:36:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgycXx-OVs7s6P2zyX94AaABAg",
+    "author": "@nyinkercom",
+    "author_channel_id": "UC9je517ldBvtaxbLZ77CbEg",
+    "text": "I truly love your videos. Have you thought about a hydrostatic transmission as a perfect CVT?",
+    "likes": 0,
+    "published_at": "2025-05-22T21:53:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzu7irZcLVBH49kQyt4AaABAg",
+    "author": "@kaneto88",
+    "author_channel_id": "UCXTQgppIy1YXlGRaEiytPHg",
+    "text": "I think I finally get it. My mistake was ignoring the load on the output. It behaves more similar to a torque convertor than a belt drive CVT- it always tries to turn the output in 1/1 ratio but when the resistance is too high it allows the disk to lag behind, until the roller gets enough leverage and downward force to accelerate the output some more.",
+    "likes": 0,
+    "published_at": "2025-05-19T14:37:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzpVK0pka8_QZtflhl4AaABAg",
+    "author": "@Mark_Bridges",
+    "author_channel_id": "UCD4ZUGGf3HiFUEmLeaPEE3A",
+    "text": "This is BS, there is no way that can work as a CVT.  Waste of time.",
+    "likes": 1,
+    "published_at": "2025-05-18T03:18:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy13s3d0Ght-hbJgYp4AaABAg",
+    "author": "@CGrenfeldt",
+    "author_channel_id": "UCo572CA1YdQxzG-vSIK72bA",
+    "text": "I see it as a Pusher, but not down (even if that ofc is true from one sliced view)\nBut from the levels point of view it's pushing the plate forward from it's point of view.\nFrom our point of view that will rotate Axel because the plate must rotate slightly when a new point of the disc is forced forward and down.",
+    "likes": 0,
+    "published_at": "2025-05-17T18:36:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwBpjLx_hTPp8L7tp14AaABAg",
+    "author": "@brentonrowland8613",
+    "author_channel_id": "UCCXtNAvELAe_FNvCv7wXDMQ",
+    "text": "Still don't see how the output rpm can be different to the input rpm...perhaps it's just me :)  Honda DN-01 used a swashplate cvt but that involved hydraulic fluid taking different time to sequentially fill a ring of pistons whose stroke varied with plate tilt angle, hence changing rpm. ...but a mechanical connection with no friction slippage?",
+    "likes": 1,
+    "published_at": "2025-05-16T23:44:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyNafLBMC73r1uKIQF4AaABAg",
+    "author": "@Thomas_Lemmey",
+    "author_channel_id": "UC5vWYvoKfy-VkisdRcyyaOw",
+    "text": "If you drive the CVT backwards and have the roller frame fixed, the only thing stopping the swashplate rotating freely is the friction to the cone backer. There is your friction. The transmission can not work if a shaft can move freely and independently.",
+    "likes": 0,
+    "published_at": "2025-05-16T08:25:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyDniVL1eJwqJnBwfp4AaABAg",
+    "author": "@fszocelotl",
+    "author_channel_id": "UC7sPFlV4bP0ceHPPllGamhg",
+    "text": "Somehow I think the lower plate could be better as an spherical dome rather than as a truncated cone... Greetings to you.",
+    "likes": 0,
+    "published_at": "2025-05-16T06:48:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzt2dBxQ2H7axC5smd4AaABAg",
+    "author": "@gshingles",
+    "author_channel_id": "UCRb5vHUBCCHK99yx1104b4A",
+    "text": "When you say it's making tiny jumps, it strikes me that it's integrating or differentiating. It can still be thought of as a smooth movement because the tiny jumps are infinitesimally small. That is, it's an analog computer.",
+    "likes": 0,
+    "published_at": "2025-05-16T04:17:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwFe65Q_UtDp1Uukzt4AaABAg",
+    "author": "@project-326",
+    "author_channel_id": "UCSTS7Jg1eavY02riCO63yPg",
+    "text": "Great video and explanation.  Your 3D printers must be pretty busy, and your filament supplier having happy times!",
+    "likes": 0,
+    "published_at": "2025-05-16T03:43:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTKaSDWiRfrNTRlbR4AaABAg",
+    "author": "@matthewconnor5483",
+    "author_channel_id": "UCmnxSxIGW0-hwM7OYjUQ2Dg",
+    "text": "Be interesting what could happen if you could put a couple of these in series since the ratio is limited by the angle.",
+    "likes": 0,
+    "published_at": "2025-05-16T02:49:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx2Ab0DrH5pYkSo8iV4AaABAg",
+    "author": "@3d_wizard",
+    "author_channel_id": "UCVF4YKPVFghm2AKSw_V-mxg",
+    "text": "I would like to talk to you about ideas for a project I have been thinking about.",
+    "likes": 0,
+    "published_at": "2025-05-15T22:06:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyiu2DBkGot9XfPeUB4AaABAg",
+    "author": "@silverpc4611",
+    "author_channel_id": "UCsTcqwULJyFV6W6ABL0zwFw",
+    "text": "In this CVT and others you get speed reduction. In a electric generator you most likely want a speed boost.",
+    "likes": 0,
+    "published_at": "2025-05-15T21:30:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw4NNFMhyCzOZtNuwl4AaABAg",
+    "author": "@ghostwheel9935",
+    "author_channel_id": "UCPBDPC62bJrRLQNaA9wf1xA",
+    "text": "Thank you for the explanation. It was absolutely necessary for me to understand the principles.",
+    "likes": 1,
+    "published_at": "2025-05-15T15:44:24Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzjQaCqx59y9R9mi-54AaABAg",
+    "author": "@kalvenism",
+    "author_channel_id": "UCaHzsbJNfXqz9yRqvQQ0Nmw",
+    "text": "A helicopter uses a swash plate.  This is not friction or the helicopter rotor would catch fire or overheat to the point it stops or falls apart, right?",
+    "likes": 0,
+    "published_at": "2025-05-15T13:44:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxdiU5Ymo1GZaFUXpJ4AaABAg",
+    "author": "@festusmaximus4111",
+    "author_channel_id": "UC_jbTaBfIVBlDP1UX1FxIRw",
+    "text": "I think it works like an Euler disk which explains the ability to produce different rotation rates between the input and output once you understand the dynamics of a rotating disk on a flat plane after it has come down from simple rotation. \nThink a coin rolling on its edge, the face of the coin may only rotate once for every two 'rotations' of the coin around its edge. The rod insertion determines angle of the 'coin' (swashplate) which determines the differential rate of rotation. \n\nAlternatively, you've completely explained why we should expect an increased tourque, so by conserving energy I demand a reduced rotation rate (or other way around)",
+    "likes": 0,
+    "published_at": "2025-05-15T12:15:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwOE5nTIY6_IMhqXkN4AaABAg",
+    "author": "@marks4058",
+    "author_channel_id": "UCQ3ETbptHfItYopQCkLX4Cg",
+    "text": "I was unable to find this mechanism in the book you referenced. I would greatly appreciate it if you could cite the volume and page number, thank you. I would also greatly enjoy seeing a functional demonstration of this transmission, even just seeing marked input and output shafts rotating at different speeds with negligible load would be fascinating!",
+    "likes": 1,
+    "published_at": "2025-05-15T11:16:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyr0L_0cYHn6nATBQd4AaABAg",
+    "author": "@ridefast0",
+    "author_channel_id": "UCksSB_onJqx99e91v4-QJAg",
+    "text": "It's just fast talking until you demonstrate a prototype acting as a useful CVT!",
+    "likes": 5,
+    "published_at": "2025-05-15T07:35:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwXgZAcabKgrpgLeNZ4AaABAg",
+    "author": "@chrisgill5692",
+    "author_channel_id": "UCKCBUPMjG4jbYtsysUZAWVg",
+    "text": "Yes, great video!  Really interesting to try think that through.  To me it's like a coin flat spinning on a desk, there is incidental friction or rolling resistance -  the lever has to be restrained by contact.  When adjusting the fulcrum, there is also a tiny amount of incidental friction radially at the point contact between the plate and restraining cone.  Now if the point contact could be eliminated via a cushion of air (ie an air bearing, although impossible due the geometry) or a raceway of ball bearings around the plate periphery, the tiny amount of incidental friction could be reduced!!!  At this point my head starts to hurt!! 😂😂",
+    "likes": 0,
+    "published_at": "2025-05-15T05:01:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw0QcS7-kDoTJb4x0R4AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "I think people would appreciate the concept better if they saw it in operation?",
+    "likes": 12,
+    "published_at": "2025-05-15T03:47:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzC_asrmPpsYwLyq7t4AaABAg",
+    "author": "@talyrath",
+    "author_channel_id": "UCktEZXUCeyc-eyoIqHFULbQ",
+    "text": "The friction is totally there, it's just not where you're pointing. \n\nThe roller causes the swash plate to *nutate* on the lower sloped disc.  Imagine spinning a coin on a table.  As it slows down, it stops spinning and starts wobbling round and round on the edge touching the table, I.e. nutating.  \n\nAs the coin loses energy, the wobble on the rim gets faster and faster until it finally clicks down flat on the table and stops. BUT, if you look at the design on the coin, the design rotates slower and slower as the wobble gets faster and faster. THAT'S the mechanism of this CVT and it's also where the friction lives. The plate exerts a tangential force on the base from nutation and friction provides the equal/opposite force that causes *rotation*. \n\nIf there isn't any friction between the swash plate and the base, the plate doesn't rotate.   To use Robert's analogy, the friction is what is keeping the lever from sliding off the fulcrum.   \n\nAnd in this case, the friction LIMITS THE TORQUE that the CVT can provide. If you exceed the static friction between the swash plate and the angled base, they'll just skid against each other like a car spinning it's wheels on ice.",
+    "likes": 8,
+    "published_at": "2025-05-15T03:40:42Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzC_asrmPpsYwLyq7t4AaABAg.AI7i3qwjjvhAI864LGjr_-",
+        "author": "@teamscarletdevil6915",
+        "author_channel_id": "UCuiXRthy4hq2Z4kaUWtXnug",
+        "text": "the swashplate is not there held by friction, its the output shaft constrainting it axially and only allowed rotational motion.",
+        "likes": 2,
+        "published_at": "2025-05-15T07:19:13Z"
+      },
+      {
+        "id": "UgzC_asrmPpsYwLyq7t4AaABAg.AI7i3qwjjvhAI8kODLmtNI",
+        "author": "@paramotorportal",
+        "author_channel_id": "UCGJBBOqWzNgXTMNHr8opFww",
+        "text": "@talyrath totally agree 👍🏼 no friction=no torque. The plate would either just spin at the same angle (if that's the power input) or nutate and not transmit any torque.",
+        "likes": 0,
+        "published_at": "2025-05-15T13:20:12Z"
+      },
+      {
+        "id": "UgzC_asrmPpsYwLyq7t4AaABAg.AI7i3qwjjvhAIBcoKD_9tL",
+        "author": "@talyrath",
+        "author_channel_id": "UCktEZXUCeyc-eyoIqHFULbQ",
+        "text": "@paramotorportalThank you, I feared my explanation was incomprehensible. 🤣\n\nI'm not positive, but I think the swash plate would have to be the output.  The 3d printed version certainly isn't back-drivable (it looks like it barely functions in its current configuration, in fact), but I think a better constructed version still wouldn't have great backwards power transmission.",
+        "likes": 0,
+        "published_at": "2025-05-16T16:11:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxXxX4ZeHqxuBpLptt4AaABAg",
+    "author": "@kadmow",
+    "author_channel_id": "UCSp_vAnG7nX9L1jqjF11mRQ",
+    "text": "?? the swashplate in this application is simply acting as a variable \"rolling cone\" - it appears...",
+    "likes": 0,
+    "published_at": "2025-05-15T03:05:23Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw7pd-OeK9Pv8tH0854AaABAg",
+    "author": "@GingerNingerGames",
+    "author_channel_id": "UC84jdpK-TZmkW3j5ULPYhVA",
+    "text": "I can see how it works as a CVT, but I can also see that it'd be able to slip.  If the force coming back down the output shaft exceeded the static friction between the angled plate and the disc it would start to spin on that axis regardless of the pushing motion that's driving it.  \n\nI think anyway. If I had a good way to build one I would just to see it working.  It's a cool concept.",
+    "likes": 1,
+    "published_at": "2025-05-15T02:53:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyO7EP5bNDTz37HzK14AaABAg",
+    "author": "@thecellburner",
+    "author_channel_id": "UCKoqpuV5ZorrG8zW1XTDjqA",
+    "text": "basically this is a variable thread screw, if it gets more inclined the thread gets corser. Finer threads improve the strength of the power transmission but are slower due to the distance traveled. i get the advantage compared to a belt cvt because it has a lot less friction but i'm not sure if the fulcrum would last long considering it takes all the load. Instead of a triangle holding the load we'd gradually have a rounder surface reducing the \" thread delta of the screw\" . i don't know if fine tuning the hardness of the materials between the plate and the fulcrum could resolve this problem. i understand why you like cvts so much, in a quest for efficiency, the transmission of power is very important. thanks to you  i just understood how the pilot of an helicopter can vary the pitch of the blades with a swash plate when i looked for it...",
+    "likes": 2,
+    "published_at": "2025-05-15T02:44:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwviM_pISLhJgmtnKZ4AaABAg",
+    "author": "@velcroman11",
+    "author_channel_id": "UCy2P6zKdiLL7XSWTvJV1UHA",
+    "text": "Whilst I am close but not yet as dumb as a post.  I understand all the words you use but I can not see how this device works.  Would you please consider demonstrating your CVT model working.",
+    "likes": 3,
+    "published_at": "2025-05-15T00:22:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwUeXfOqkMkklecJZJ4AaABAg",
+    "author": "@Alan_Hans__",
+    "author_channel_id": "UCUoGH46iNmbjonx0EvC1V9g",
+    "text": "I was 1 of the many commenters. I could/can see how it works and it works beautifully when driving from input to output. My main concern is that if you grabbed the output shaft it might be possible to drive it from the output end. What stops it is the pressure of the cam onto the inclined plate. The cam is going to be essentially frictionless so it then comes down to the friction of what is close to a point contact between the wobble plate and the inclined plate. I wish I had a 3D printer to print this up as it looks like it's as close to a frictionless CVT drive as exists. My only concerns is the lack of friction between 2 parts could cause a problem. About the simplest form of a failure mode would be if it was used with engine braking and the output is wanting to travel faster than the input. I'd truly love to be proven wrong as this would be the discovery of the unicorn of CVTs.",
+    "likes": 0,
+    "published_at": "2025-05-15T00:05:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxY-dtMtD7gVgiHq394AaABAg",
+    "author": "@rjung_ch",
+    "author_channel_id": "UCudA-wZnJhexNP0StbgwC_g",
+    "text": "Cheers Robert 👍💪✌",
+    "likes": 0,
+    "published_at": "2025-05-14T22:54:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyMa-NemWUp6AQXaPJ4AaABAg",
+    "author": "@JSfuckgoogle",
+    "author_channel_id": "UCWVhL5DYH5jPDJ5Ugs47_Gg",
+    "text": "For a minute there... I thought you was on about a swordsman's supper! 😂😂",
+    "likes": 0,
+    "published_at": "2025-05-14T22:03:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygyoJKCKnmpzRDGIt4AaABAg",
+    "author": "@mfree80286",
+    "author_channel_id": "UCq4kQ0I-aNK3CyJQZOziV6A",
+    "text": "A super-simplified model might be easier to explain, one axle with a two part disc, a regular platter and hub made of TPU as a flexure (thick enough to want to resist tilting). The other axle would just have a solid hub with a \"stylus\" rod made with a rounded end that could be greased or a ball of felt glued to the end. Mounted linearly, pushing the axles together provides both engagement and deflection for the platter, which resists due to the hub's natural springiness. \nWould it transfer much torque? No. Would it be far easier to see how the mechanism works, stripped of everything that could be serving as a red herring? Yes.",
+    "likes": 0,
+    "published_at": "2025-05-14T21:57:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzbPXbOEPr7ecpeYdN4AaABAg",
+    "author": "@zahari_s_stoyanov",
+    "author_channel_id": "UCJMooziNCpE2haKBtUrQ0Ig",
+    "text": "Think of a coin wobbling on a table - when you look at it from the top, you'll see that it gradually rotates around. The greater the angle between the coin and table, the more it rotates",
+    "likes": 6,
+    "published_at": "2025-05-14T21:40:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgySgas9PLP0Ir35qSN4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Great explanation and I am sure it will sink in eventually at school most lessons went in one ear and out the other 😅 so not your explanations fault but my ability to take on board information. Like most things you understand more about things the more you interact with them like driving a car someone explains how to do it you kinda understand it but in practice takes quite a while to fully understand it but then all of a sudden you can do it without thinking about it. Great video 👍",
+    "likes": 0,
+    "published_at": "2025-05-14T21:20:37Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgySgas9PLP0Ir35qSN4AaABAg.AI71_3z-Ws-AI86C04fZCW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-15T07:20:16Z"
+      },
+      {
+        "id": "UgySgas9PLP0Ir35qSN4AaABAg.AI71_3z-Ws-AIsR-fRiAPJ",
+        "author": "@BucktailResearch",
+        "author_channel_id": "UCYs8d--BQqroJ9t4YP-zk5A",
+        "text": "Like in school, where they demonstrate what they are talking about instead of just rambling on for an eternity about things not being demonstration in use.",
+        "likes": 0,
+        "published_at": "2025-06-02T16:26:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxXDtkZNWCirEuncGl4AaABAg",
+    "author": "@alaingrignon",
+    "author_channel_id": "UCgqJwGxSZH7_6c6xgzEHFuw",
+    "text": "@thinkingandtinkering I could watch you explain these things all day! This is the type of thing that sparks my imagination, thinking how could I make use of this, then how can I make \"better\" use of it? Keep the content coming Rob!",
+    "likes": 0,
+    "published_at": "2025-05-14T20:22:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxXDtkZNWCirEuncGl4AaABAg.AI6vxQPgBU4AI85iGHq9HB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-15T07:16:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyPmSz3sK0MvSt5qxR4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2025-05-14T19:43:05Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyM0GW5rX56EKHrc3V4AaABAg",
+    "author": "@swieberdpicasso2215",
+    "author_channel_id": "UCjqc5RA_Frr2MLzeCgfl4kA",
+    "text": "I still don't see it working! Where is your rotating output?\r\nI see rotating input and an nice wobbely disk!\r\nThe outgoing axle is standing still. I have a feeling there are a few parts missing in your design..... sorry... 🙂",
+    "likes": 2,
+    "published_at": "2025-05-14T19:15:18Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgyM0GW5rX56EKHrc3V4AaABAg.AI6oE8YFb2aAI85pxTU0F-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i don't mind - as i said many times! - it's not my design - this is a model of somebody else's design",
+        "likes": 1,
+        "published_at": "2025-05-15T07:17:07Z"
+      },
+      {
+        "id": "UgyM0GW5rX56EKHrc3V4AaABAg.AI6oE8YFb2aAI8rIkmEzZH",
+        "author": "@petertolgyesi6125",
+        "author_channel_id": "UCAG4KpQNR3yqFll4gMPVaPw",
+        "text": "​@ThinkingandTinkeringYou don't mind that there is no output or that people do not see it?",
+        "likes": 1,
+        "published_at": "2025-05-15T14:20:37Z"
+      },
+      {
+        "id": "UgyM0GW5rX56EKHrc3V4AaABAg.AI6oE8YFb2aAI9lQjDs_Li",
+        "author": "@swieberdpicasso2215",
+        "author_channel_id": "UCjqc5RA_Frr2MLzeCgfl4kA",
+        "text": "@ThinkingandTinkering but aren't you curious how the real working models work? I am! I realy like your efforts till now. And a frictionless cvt would really fit me for my windmill design that I'm working on. (excuse my bad english, I'm dutch! 🙂)",
+        "likes": 0,
+        "published_at": "2025-05-15T22:48:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyPZCunYXRzfQkw85R4AaABAg",
+    "author": "@josephschaefer9163",
+    "author_channel_id": "UCem8RIxDodN-C0_suPvNMNA",
+    "text": "Put some marks on it, take a drill and a string and demonstrate it lifting a weight. Otherwise we cant get a feel for how well it works",
+    "likes": 4,
+    "published_at": "2025-05-14T19:11:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyPZCunYXRzfQkw85R4AaABAg.AI6nor_NQCEAI7dj-eLImM",
+        "author": "@kadmow",
+        "author_channel_id": "UCSp_vAnG7nX9L1jqjF11mRQ",
+        "text": "(yes  some of the demoed devices in the series are still ?re? positive output or not...)",
+        "likes": 1,
+        "published_at": "2025-05-15T03:02:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxvQQn4kSM5x9E4bZ54AaABAg",
+    "author": "@kenrowe167",
+    "author_channel_id": "UCztmcVOR_8rKOK9kPVXc-xg",
+    "text": "So, oil the swash plate and the roller. Now the friction is practically zero. If it still functios as a cvt, you will have proved that friction is not playing any part in its operation. QED.",
+    "likes": 0,
+    "published_at": "2025-05-14T18:28:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxvQQn4kSM5x9E4bZ54AaABAg.AI6iotZp8i_AI85yL_QvDT",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i actually removed the cone altogether - it still worked",
+        "likes": 0,
+        "published_at": "2025-05-15T07:18:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz40_Rv13miY_ERvll4AaABAg",
+    "author": "@gerryplayz4532",
+    "author_channel_id": "UCDTuK65uUoyZiqqexLL-CPA",
+    "text": "Yep as in if you swapped the roller for an air line that blew the disk down it's the downward pressure as opposed to running from friction which would mean the roller itself was driven. You could put a different joint on the roller so it can tilt with the different angles, maybe just a pivot point that would do the job.",
+    "likes": 0,
+    "published_at": "2025-05-14T18:14:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzCg9-fxohQn0_YUlZ4AaABAg",
+    "author": "@corwinwhitehorn7759",
+    "author_channel_id": "UCOPgKkMoO4A7zihrdfvTrSw",
+    "text": "I personally don't really like it... Too many parts, too many points of failure. Would it be possible to use rectangular magnets and a serpentine coil to change the torque (by changing the in or out position of the magnets) ?",
+    "likes": 1,
+    "published_at": "2025-05-14T16:21:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxFo6dX_ehirycgb3N4AaABAg",
+    "author": "@kaneto88",
+    "author_channel_id": "UCXTQgppIy1YXlGRaEiytPHg",
+    "text": "I'm pretty sure I'm wrong but I don't know why. I can see and understand how the motion is transmitted, but I can't see how the transmission ratio changes (apart from  when the swashplate is horizontal, so it's 0- basically a clutch) .",
+    "likes": 1,
+    "published_at": "2025-05-14T15:56:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugyv7zNXhbpwU7Zp4aV4AaABAg",
+    "author": "@RyannMade",
+    "author_channel_id": "UCV6we0b3v85LQt0POEoSX-A",
+    "text": "If you could remove friction entirely then the roller would slide instead of roll and the plate would slide instead of roll.\n\nLike if you had a ball on a surface. Without friction the ball slides instead of rolls.\n\nYou should be able to test this by back driving or observing what happens under heavy load. Any slippage is from the coefficient of friction between the plate and the cone being overcome.",
+    "likes": 4,
+    "published_at": "2025-05-14T15:30:42Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugyv7zNXhbpwU7Zp4aV4AaABAg.AI6PX7oArtEAI6QHQHDiXA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it doesn't matter if the roller slides - it would still press down and as that is the key friction is a hassel not an add",
+        "likes": 2,
+        "published_at": "2025-05-14T15:37:17Z"
+      },
+      {
+        "id": "Ugyv7zNXhbpwU7Zp4aV4AaABAg.AI6PX7oArtEAI6Udj1xArl",
+        "author": "@RyannMade",
+        "author_channel_id": "UCV6we0b3v85LQt0POEoSX-A",
+        "text": "​@ThinkingandTinkering I think it would be easier for people to wrap their heads around this one if we could see it in action. I rewatched both videos a couple times and I'm still only 95% sure I even know where the inputs and outputs are on this thing. You might need to give this the ol' hand crank on one and end tape/flag on the other end so people can see it in action.\n\nI'm really curious how back drive or load resistance is transferred back to the input side, if at all. Sadly, I don't have any way of building one myself to satisfy my curiosity 😢",
+        "likes": 3,
+        "published_at": "2025-05-14T16:15:25Z"
+      },
+      {
+        "id": "Ugyv7zNXhbpwU7Zp4aV4AaABAg.AI6PX7oArtEAI76neyWGoc",
+        "author": "@mfree80286",
+        "author_channel_id": "UCq4kQ0I-aNK3CyJQZOziV6A",
+        "text": "@ThinkingandTinkering Friction is necessary but incidental as this needs static friction to anchor various engagement points... but doesn't rely on that friction for motion, only as the holding of an instant pivot point. Big difference between this and something like a wheel and roller.",
+        "likes": 2,
+        "published_at": "2025-05-14T22:06:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzUYeBQoexmkFVIhol4AaABAg",
+    "author": "@AKA-f7p",
+    "author_channel_id": "UCCVEpBO5i5Ha6b23pq6xKRA",
+    "text": "I am completely confused. Only if some animation!",
+    "likes": 0,
+    "published_at": "2025-05-14T15:28:24Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgzUYeBQoexmkFVIhol4AaABAg.AI6PGHamR2tAI6PKPObKYJ",
+        "author": "@AKA-f7p",
+        "author_channel_id": "UCCVEpBO5i5Ha6b23pq6xKRA",
+        "text": "And i failed to find this cvt. In that book you give. Can you tell me what page and what volume.\nBecause reading may solve my confusion.",
+        "likes": 0,
+        "published_at": "2025-05-14T15:28:57Z"
+      },
+      {
+        "id": "UgzUYeBQoexmkFVIhol4AaABAg.AI6PGHamR2tAI6PVVRfGbz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "did you check out the first video and links? - the first video is linked at the end of this one and there is an animation link in the description of the first video",
+        "likes": 0,
+        "published_at": "2025-05-14T15:30:28Z"
+      },
+      {
+        "id": "UgzUYeBQoexmkFVIhol4AaABAg.AI6PGHamR2tAI6UqbvTKN1",
+        "author": "@AKA-f7p",
+        "author_channel_id": "UCCVEpBO5i5Ha6b23pq6xKRA",
+        "text": "​@ThinkingandTinkeringyes, i tried twice. This time from oldest to newest.",
+        "likes": 0,
+        "published_at": "2025-05-14T16:17:11Z"
+      },
+      {
+        "id": "UgzUYeBQoexmkFVIhol4AaABAg.AI6PGHamR2tAI6d5HmFrMd",
+        "author": "@martin-vv9lf",
+        "author_channel_id": "UCEd3KCq8Xgmu32DUuWuSF7Q",
+        "text": "@ThinkingandTinkering I believe you are mistaken. there are links to the stl, the book and to thangs main channel of over a thousand videos, but no direct link to the animation. perhaps it got caught in a spam filter? on a different matter, you mentioned this mechanism is used in a car! you must tell us the model so we can hunt it down in operation.",
+        "likes": 0,
+        "published_at": "2025-05-14T17:37:58Z"
+      },
+      {
+        "id": "UgzUYeBQoexmkFVIhol4AaABAg.AI6PGHamR2tAI77Ja2Uy6x",
+        "author": "@martin-vv9lf",
+        "author_channel_id": "UCEd3KCq8Xgmu32DUuWuSF7Q",
+        "text": "@AKA-f7p I believe i have found the cvt in the book. the link is wrong, you need artobolevsky vol2 part 1. then under wobble plate mechanisms, it may be article 1593.",
+        "likes": 1,
+        "published_at": "2025-05-14T22:10:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAazXSaoSvibIS2qR4AaABAg",
+    "author": "@ProfBraino",
+    "author_channel_id": "UCIYHb2FOmZQPWq4bZRn6HYQ",
+    "text": "thanks for the explanation, teacher.",
+    "likes": 1,
+    "published_at": "2025-05-14T15:09:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAazXSaoSvibIS2qR4AaABAg.AI6N4jdt4HZAI6O9X5K1xz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-05-14T15:18:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxei71h2qNT6x6DKmh4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Thanks.",
+    "likes": 0,
+    "published_at": "2025-05-14T14:54:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxei71h2qNT6x6DKmh4AaABAg.AI6LPnqS6eqAI6LtxpKYNX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "No worries!",
+        "likes": 0,
+        "published_at": "2025-05-14T14:59:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzvUGVy3uqya2NctDx4AaABAg",
+    "author": "@saxsophone",
+    "author_channel_id": "UC7BkBecBXT276tN8o9KPimA",
+    "text": "Thanks nice explanation",
+    "likes": 0,
+    "published_at": "2025-05-14T14:41:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzvUGVy3uqya2NctDx4AaABAg.AI6JsaJI9JrAI6Lr9VfYA_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-14T14:58:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwM8HbANLP4T-Jv20N4AaABAg",
+    "author": "@hainskj01",
+    "author_channel_id": "UCPeo3RS5OoQVLlB7VA624xQ",
+    "text": "I truly believe this sir will deliver something that will have world wide impact. He has tons of knowldge, hes creative asf, and has a 3d printer... and also he explains everything and provides 3d files. I never seen I.A content in this channel like a design made by or with help of I.A, maybe this is the final touch this man needs to sky rocket with something really outstanding. Keept it up sir Robert 😁",
+    "likes": 0,
+    "published_at": "2025-05-14T14:40:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwM8HbANLP4T-Jv20N4AaABAg.AI6Jmn7pqB1AI6LqP30OwJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-14T14:58:31Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwdf-EKOV3ozNwoNox4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "Yes, it was of interest!\nThanks for explaining what to some is obviously not obvious. I expect that even those who already knew it benefited by the experience too!",
+    "likes": 0,
+    "published_at": "2025-05-14T14:32:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwdf-EKOV3ozNwoNox4AaABAg.AI6IoLvm3ibAI6LpZnjidd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-05-14T14:58:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRRZX2hVKiE3pTdXN4AaABAg",
+    "author": "@mikejones-vd3fg",
+    "author_channel_id": "UCWFGa3YJNdRrCgD8MOD1HTA",
+    "text": "Amazing device.   Ive been out of the loop Rob, tit deep in mosfets and electronics.  Mostly basic stuff, nothing cool or fringe like free energy or frictionless gears, i kid i dont mean to put this in the same category.  OR maybe i do, I think the free energy quacks are onto something, capturing ambient energy we dont know about or actually creating it somehow, guys like Joel Lagace who seem to have something and are willing to share and give intructions how to try yourself.  I think the mechanical equivalent of free energy is out there... and im here front row watching it unfold. Thank you for your contributions.",
+    "likes": 0,
+    "published_at": "2025-05-14T14:15:57Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwRRZX2hVKiE3pTdXN4AaABAg.AI6GygeTFZKAI6LoWgMSCo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is interesting mate - i must look into that myself - cheers",
+        "likes": 1,
+        "published_at": "2025-05-14T14:58:15Z"
+      },
+      {
+        "id": "UgwRRZX2hVKiE3pTdXN4AaABAg.AI6GygeTFZKAIBlMSdfesQ",
+        "author": "@mikejones-vd3fg",
+        "author_channel_id": "UCWFGa3YJNdRrCgD8MOD1HTA",
+        "text": "@ThinkingandTinkering Cool you should, from what i understand of it, they're creating high voltages spikes that create more energy that was put in,  Kind of reminds me of the pulse action of a pelton wheel, exploiting the pulse.  The guys who know what they're talking about wont claim its generating energy, but capturing ambient energy and adding it in, and somehow the resonance captures it when tuned.  I could be wrong thats my basic understanding of what theyre doing. Which reminds me of a device you showed off one time that could bring down kilovolts of power to a useable form. I forget what it was but remember making the joke we could finally capture energy with a kite in a storm,  maybe it could be use in conjunction with these pulse energy devices and make the energy harvested useable.  If this amount of energy proves to be a worthless amount, it could still be useful as the guys who are exploring propellant-less propulsion, basically discharging a capacitor in space, creates thrust, a self powering device like this, although small amount of energy could accelerate it to near speed of light eventually, without the need for fuel and battery.  The possibilities are endless if this turns out to be a thing.",
+        "likes": 0,
+        "published_at": "2025-05-16T17:26:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqfgjYknxJnFcnr2Z4AaABAg",
+    "author": "@donvito1973",
+    "author_channel_id": "UC_Mc2nOfBIptdTUCSyfvC-A",
+    "text": "The swash plate is free to tilt in any direction.. As the roller goes around, pressing on your lever, tilting the swash plate in each successive direction, the swash plate wouldn't rotate, it would just tilt in a different direction.. What happens in practice, is that the difference in circumference of the swash plate and the circle it inscribes on the cone, through friction, causes the swash plate to rotate like an euler disc or a spinning coin. Without friction between the swash plate and the cone, the swashplate would be back to just tilting.",
+    "likes": 8,
+    "published_at": "2025-05-14T14:15:57Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgyqfgjYknxJnFcnr2Z4AaABAg.AI6GygIQCTTAI6Lj_91JK0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i don't think that's right mate because it doesn't just tilt - it tilts in sequence which is what causes the rotation - but we could be splitting hairs",
+        "likes": 1,
+        "published_at": "2025-05-14T14:57:35Z"
+      },
+      {
+        "id": "UgyqfgjYknxJnFcnr2Z4AaABAg.AI6GygIQCTTAI6MlV1sOsE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I just removed the cone and tried it - still works fine - so, I am really sure it has nothing to do with the cone",
+        "likes": 1,
+        "published_at": "2025-05-14T15:06:35Z"
+      },
+      {
+        "id": "UgyqfgjYknxJnFcnr2Z4AaABAg.AI6GygIQCTTAI6N618tqhT",
+        "author": "@donvito1973",
+        "author_channel_id": "UC_Mc2nOfBIptdTUCSyfvC-A",
+        "text": "@ThinkingandTinkering If we go back to your thought of pressing the swash plate at 45 degree increments, ignoring the rotation of the input shaft, just think of it like a lever like you say.. between the two points, the swash plate will roll around it's circumference like an euler disc... if the friction of the roller pressing the swash plate was greater than the friction of the edge of the swash plate rolling around the cone, then the disc would just tilt to the new direction, with no rotational movement at all.. it relies on the edge friction, and the lack of friction at the roller.",
+        "likes": 1,
+        "published_at": "2025-05-14T15:09:31Z"
+      },
+      {
+        "id": "UgyqfgjYknxJnFcnr2Z4AaABAg.AI6GygIQCTTAI6NHn1GHHi",
+        "author": "@donvito1973",
+        "author_channel_id": "UC_Mc2nOfBIptdTUCSyfvC-A",
+        "text": "@ThinkingandTinkering Uuuuurgh???  Yup.. got me baffled there then.. let's see that and see if we can explain it then.",
+        "likes": 0,
+        "published_at": "2025-05-14T15:11:08Z"
+      },
+      {
+        "id": "UgyqfgjYknxJnFcnr2Z4AaABAg.AI6GygIQCTTAI6NeDXAQyv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@donvito1973 you were making a good point mate - so i thought i had better check it",
+        "likes": 2,
+        "published_at": "2025-05-14T15:14:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyYdGppoEBUbo40fjl4AaABAg",
+    "author": "@marjon1703",
+    "author_channel_id": "UCAjqAy35G3bLd_XP5rnaWxQ",
+    "text": "It's a lever, in a roundabout sort of way :)",
+    "likes": 18,
+    "published_at": "2025-05-14T14:13:29Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyYdGppoEBUbo40fjl4AaABAg.AI6GgYYugrkAI6GroBEQEV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah exactly! lol",
+        "likes": 4,
+        "published_at": "2025-05-14T14:15:01Z"
+      },
+      {
+        "id": "UgyYdGppoEBUbo40fjl4AaABAg.AI6GgYYugrkAI7qo7FKeGG",
+        "author": "@chrisgill5692",
+        "author_channel_id": "UCKCBUPMjG4jbYtsysUZAWVg",
+        "text": "The magic roundabout made perfect sense to me when I was five, but have since lost the ability to think like that.  I believe that's fundamentally what's great about this channel -  for just 5mins allows the mind to wonder and think anew!!",
+        "likes": 4,
+        "published_at": "2025-05-15T04:57:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz94hcvN_PxhmwTHn14AaABAg",
+    "author": "@justtinkering6713",
+    "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+    "text": "Thanks, You've given me some ideas.",
+    "likes": 0,
+    "published_at": "2025-05-14T14:13:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz94hcvN_PxhmwTHn14AaABAg.AI6GgSRs_BWAI6GvirZm_h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate - i am looking forward to what you come up - you are a smart guy so it's bound to be interesting tbh",
+        "likes": 0,
+        "published_at": "2025-05-14T14:15:33Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxOrZe6VvSyBnFm_yh4AaABAg",
+    "author": "@hughjardon3538",
+    "author_channel_id": "UCoo9A9cEh1Vg4Lm0IYB8_nQ",
+    "text": "Why don't you just draw some marks on it and show us it working? Does it actually work? From what you've shown, I can't even figure out where the input and output are.",
+    "likes": 5,
+    "published_at": "2025-05-14T14:10:12Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxOrZe6VvSyBnFm_yh4AaABAg.AI6GJauPBeaAI6GpNFmCuF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "really? ok",
+        "likes": 3,
+        "published_at": "2025-05-14T14:14:41Z"
+      },
+      {
+        "id": "UgxOrZe6VvSyBnFm_yh4AaABAg.AI6GJauPBeaAI6IbKIXENj",
+        "author": "@AreAitchSea",
+        "author_channel_id": "UC62SxyIU9ToEoXrPiefbfVg",
+        "text": "@ThinkingandTinkering It would help a great deal to see it working, preferably with the different parts being different colours. When everything is matte white it's very hard to make out what's going on on video. I'm sure up close in reality it's much easier to see.",
+        "likes": 0,
+        "published_at": "2025-05-14T14:30:14Z"
+      },
+      {
+        "id": "UgxOrZe6VvSyBnFm_yh4AaABAg.AI6GJauPBeaAI6MggTlH3H",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i will bear that in mind mate - thanks for suggesting it",
+        "likes": 1,
+        "published_at": "2025-05-14T15:05:56Z"
+      },
+      {
+        "id": "UgxOrZe6VvSyBnFm_yh4AaABAg.AI6GJauPBeaAInF-pp75lT",
+        "author": "@teardowndan5364",
+        "author_channel_id": "UCjqxeZ7MxzpplEnW6yqkbzg",
+        "text": "​@hughjardon3538 I saw the first video, the many comments from people not getting how this works getting directed here, then this video and can't say I am any closer to understanding how this is supposed to work. If there is any load/friction on the output, all I see is the input arm tilting the plate around the output shaft. Especially when told there is no friction involved.\n\nWith friction between the plate and cone, there is a differential speed between the two contact radius that would turn the output.",
+        "likes": 0,
+        "published_at": "2025-05-31T16:05:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyPxHyUd0oncpX7ith4AaABAg",
+    "author": "@ashiesmum",
+    "author_channel_id": "UC8Ctel2uEDo7k89mmn_J1tQ",
+    "text": "🌻 satisfyingly confused, a couple more watches and I'll get my head around it  😼🌻",
+    "likes": 0,
+    "published_at": "2025-05-14T14:09:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyPxHyUd0oncpX7ith4AaABAg.AI6GCTruz0CAI6GjxrKtTK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - i am sure it will make sense",
+        "likes": 0,
+        "published_at": "2025-05-14T14:13:56Z"
+      }
+    ]
+  }
+]

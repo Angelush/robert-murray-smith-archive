@@ -1,0 +1,201 @@
+[00:00] [Music]
+[00:07] Remember this. It's an anti-thera. An
+[00:11] antithera is really an aurory. An aurory
+[00:14] is a representation of the solar system
+[00:16] with the sun at the center. So it's
+[00:18] called heliocentric. An antithera is a
+[00:21] representation of the solar system where
+[00:24] the earth is at the center and it's
+[00:25] called terraentric. Now there are two
+[00:28] really remarkable things about this. The
+[00:30] first one is that it was um well
+[00:33] invented in 80 BC so it's thousands of
+[00:35] years old. And the second one is it
+[00:38] contains something called an epicyclic
+[00:40] gear. Now an epicyclic gear is where you
+[00:43] have one gear where the second gear
+[00:46] rotates around the one gear a bit like a
+[00:49] sun and a planet and they're often
+[00:51] called sun and planet gears although I
+[00:53] think they get their name from their
+[00:54] original use in origies and anti-karas.
+[00:58] Now we wouldn't recognize a sun and
+[01:00] planet gear as you know it today from
+[01:02] this. It wasn't really until about
+[01:05] 1588 when Agugustina Romeli came up with
+[01:08] something called the book Wheel that we
+[01:11] might begin to recognize it. And of
+[01:13] course that developed into the famous
+[01:15] James Wen Sun and Planet gear. And then
+[01:19] of course we get the thing that we know
+[01:22] which is this thing. And this is I mean
+[01:24] it's absolutely everywhere. Open up your
+[01:26] Dremel and you'll find this. We still
+[01:28] call it the sun and planet. What we call
+[01:30] the center one the sun. the ones that go
+[01:33] around the sun, the epicyclic gears we
+[01:36] call the planets and it goes together
+[01:39] where the sun goes in the center of a
+[01:41] carrier. The planets go there and if we
+[01:45] turn one the others will turn in
+[01:47] relation. So we can turn the sun or we
+[01:50] can turn the planets and we get the
+[01:51] epicyclic gear. You'll notice that the
+[01:53] center of this gear is rotating around
+[01:55] the center of that gear which is what
+[01:57] makes it epicyclic. Now the number of
+[02:00] planets spreads the forces and you see
+[02:02] any kind of planets. Normally you'll see
+[02:04] about three and then we pop those
+[02:07] together. We have ourselves a planet
+[02:09] gear set so that it's like that. Now
+[02:12] what's good about these is you can get
+[02:14] really good with gear reductions in a
+[02:16] compact space. But of course they have
+[02:18] practical limitations on the size. You
+[02:20] start making those planets too big and
+[02:22] they start bashing into each other. to
+[02:25] the maximum. So the realistic is about
+[02:28] 10:1 and 4:1 to 8:1 gear ratios are much
+[02:32] more common. Of course, what we would
+[02:35] really like is in a very small package
+[02:38] to have a very high gear reduction when
+[02:41] we're looking at driving things slowly
+[02:44] with lots of torque from a motor, for
+[02:47] example. And now there are two ways to
+[02:49] do that and it's called compounding. One
+[02:52] way is we can just stack them on top of
+[02:54] each other so that each gear reduction
+[02:57] adds on. Actually, it multiplies on to
+[02:59] get a whole stack of these where you get
+[03:01] a massive gear reduction. And you find
+[03:03] lots of people doing exactly that. For
+[03:06] example, with this great model I found
+[03:08] on Thingiverse from OT Vint doing
+[03:11] exactly that. Of course, there's another
+[03:13] way of compounding gears. There's always
+[03:16] more than one way of doing something.
+[03:18] And another way is to stack the planets
+[03:20] on top of each other where one planet is
+[03:22] smaller than the other and they're
+[03:24] rigidly fixed but on the same axle. And
+[03:27] this is generally known as the wolf gear
+[03:30] box. And it was invented by Urs Wolfrram
+[03:33] in
+[03:34] 1912. So if we're interested in the
+[03:36] ratios of these things, it's actually
+[03:38] not that difficult. If we think about
+[03:40] the planet ratio, it's actually the
+[03:42] number of teeth on the ring divided by
+[03:44] the number of teeth on the sun. But of
+[03:46] course, gear teeth are well, they're a
+[03:49] bit of an approximation really because
+[03:51] what we're really interested in is the
+[03:53] circles that move over each other. So,
+[03:55] we can talk about the diameter of the
+[03:57] ring and the diameter of the sun and
+[03:59] we'll get exactly the same answer is if
+[04:02] we divide the number of teeth on the
+[04:04] ring by the number of teeth on the sun.
+[04:06] That will give us the planet ratio. Now,
+[04:09] you might think if we stack two planet
+[04:11] gears on each other that have the same
+[04:13] effect. it would just be two of the same
+[04:14] ratio, but it isn't. Something rather
+[04:17] different happens. You'll notice we've
+[04:19] got this little step inwards because
+[04:21] that's 12 teeth and that's 13 teeth. It
+[04:24] gives us that little step and that has
+[04:27] an a surprising impact. So to get hold
+[04:30] of that impact, we have to think a
+[04:32] little bit about levers. And I mean,
+[04:33] it's no surprise, is it? Because gears
+[04:36] are really just levers that move in a
+[04:38] circle. But a lever has three main
+[04:40] components. One of which we tend to
+[04:42] forget. The two main components are the
+[04:44] fulcrum and the lever rod itself. And we
+[04:46] tend to think about how it's positioned
+[04:48] to what forces are going to be applied
+[04:50] and resultant. But of course, we are
+[04:52] standing on a lump of ground. And that
+[04:55] ground is actually really important
+[04:56] because you have to push against
+[04:58] something. So when we introduce this
+[05:00] little step like that and we hold the
+[05:04] ring and drive this bottom, that top one
+[05:07] is acting like a lever where this is
+[05:10] acting like the ground. So it's no
+[05:12] longer like stacking them up which we
+[05:14] saw before. It's very different in that
+[05:17] we've got this lever operation going on.
+[05:20] So the gear ratio of a wolf from set
+[05:24] actually is the gear ratio of the
+[05:26] initial planet set multiplied by that
+[05:29] lever effect. So to put this together,
+[05:32] there's our planet carrier and we pop
+[05:33] the planets on with the larger gears at
+[05:36] the bottom before we turn it around.
+[05:38] Then there's this gear. This is just the
+[05:40] idler sun gear. It doesn't drive
+[05:41] anything particularly. It's just there
+[05:43] to space everything out and transmit
+[05:45] some of the forces. This is the driven
+[05:47] sun and it goes in there like that. It
+[05:51] drives the small planets. The small
+[05:52] planets are attached to the larger
+[05:54] planets. The larger planets now operate
+[05:57] under a lever effect. And you can see
+[05:59] that steps tiny. So that's going to be a
+[06:02] pretty strong lever. Having a strong
+[06:04] lever there means that we get a huge
+[06:07] gear ratio from something that is very
+[06:10] compact. So the sun of the planet and
+[06:12] its carrier go into the ring just like
+[06:14] in a normal planetary gear set. Remember
+[06:17] this is going to be the ground ring so
+[06:19] to speak and that's the one we hold.
+[06:21] This is the output ring. It's the driven
+[06:23] ring and that fits on top of there on
+[06:26] that upper set of planets. Right, I've
+[06:29] put a handle on it and a bit of black
+[06:31] tape and we'll give it a turn and see
+[06:33] what
+[06:35] [Applause]
+[06:39] happens. That's
+[06:45] awesome. There you
+[06:47] go. There we are. Four from drive
+[06:50] invented in 1912. You might wonder why
+[06:53] it didn't catch on. And there are a
+[06:54] couple of good reasons for that. One of
+[06:57] the things is these gears, these planet
+[06:59] gears. Now, I must admit I did cheat a
+[07:02] little bit in that I left enough slack
+[07:03] to make sure they would work, but if you
+[07:06] want those gears meshing properly, you
+[07:09] have to index the top and the bottom.
+[07:11] You have to match them against each
+[07:12] other. Otherwise, it'll jam up and
+[07:14] snatch and doesn't work very well, and
+[07:16] that's a bit of a problem. The second
+[07:18] one is it's limited. It's limited to the
+[07:21] tooth size because remember, the tooth
+[07:22] is effectively the lever that's doing
+[07:24] the job. The smaller you can make that
+[07:27] tooth, the better you leave it, the
+[07:28] higher the gear ratio. But there's a
+[07:30] limit when you're doing something like
+[07:32] this to how can you how small you can
+[07:34] actually make it. So the wolf and drive
+[07:36] really is a little bit of an oddity and
+[07:39] a lot of people are investigating it and
+[07:42] those two challenges of indexing and
+[07:44] tooth size it can be overcome would be
+[07:47] well quite a drive indeed. Anyway, I
+[07:49] will put these on Thingiverse should
+[07:51] anybody actually want to play around
+[07:53] with it and to get better matching on
+[07:55] those top and bottom planets. I hope you
+[07:57] enjoyed the video. Thank you very much
+[07:59] for watching and please do remember to
+[08:01] like and subscribe.

@@ -1,0 +1,595 @@
+{
+  "thing_id": 6768609,
+  "name": "The Crystal Antikythera",
+  "description": "This has 96 parts and you will also need acrylic rod - 8mm by 600mm, 6mm by 300mm and 4mm by 60mm for the axles\r\n\r\nThere is a logic - part 1 is the base, Part 2 is the outer 3 planets, Part 3 is the inner 3 planets, part 4 is the case and drive is - as it says the drive mechanism.\r\n\r\nBut, in order to have a chance at putting this togeter you need to see the build video here https://youtu.be/7aHL_ME6vwc\r\n\r\nThere is another video talking about to set it up here https://youtu.be/Q-HfTxC-0Iw\r\n\r\nThis is step by step on how to construct it. These are all STL files so to laser cut open the file in something like Tinkercad and export as SVG.\r\n\r\nThe drive was adapted from an OT Vinta gear and I didn't design it from scratch, it was heavily based on this model but converted into a model that is able to be laser cut and \r\nprinted: https://grabcad.com/library/antikythera-mechanism-4\r\n\r\n",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "7aHL_ME6vwc",
+      "url": "https://youtu.be/7aHL_ME6vwc"
+    },
+    {
+      "video_id": "Q-HfTxC-0Iw",
+      "url": "https://youtu.be/Q-HfTxC-0Iw"
+    }
+  ],
+  "tags": [
+    "Antikythera"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-09-16T14:26:21+00:00",
+  "modified": "2024-09-16T14:26:21+00:00",
+  "url": "https://www.thingiverse.com/thing:6768609",
+  "thumbnail": "https://cdn.thingiverse.com/assets/92/ea/1d/a1/de/large_display_17678585-b90a-40a7-a3b8-3994554f3283.png",
+  "like_count": 20,
+  "collect_count": 8,
+  "comment_count": 2,
+  "download_count": 529,
+  "files": [
+    {
+      "name": "Part_1.stl",
+      "size": 254684,
+      "url": "https://www.thingiverse.com/download:14755659",
+      "download_url": "https://api.thingiverse.com/v2/files/14755659/download"
+    },
+    {
+      "name": "Part_11.stl",
+      "size": 114584,
+      "url": "https://www.thingiverse.com/download:14755661",
+      "download_url": "https://api.thingiverse.com/v2/files/14755661/download"
+    },
+    {
+      "name": "Part_12.stl",
+      "size": 259384,
+      "url": "https://www.thingiverse.com/download:14755663",
+      "download_url": "https://api.thingiverse.com/v2/files/14755663/download"
+    },
+    {
+      "name": "Part_13.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755665",
+      "download_url": "https://api.thingiverse.com/v2/files/14755665/download"
+    },
+    {
+      "name": "Part_14.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755667",
+      "download_url": "https://api.thingiverse.com/v2/files/14755667/download"
+    },
+    {
+      "name": "Part_15.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755668",
+      "download_url": "https://api.thingiverse.com/v2/files/14755668/download"
+    },
+    {
+      "name": "Part_16.stl",
+      "size": 12684,
+      "url": "https://www.thingiverse.com/download:14755669",
+      "download_url": "https://api.thingiverse.com/v2/files/14755669/download"
+    },
+    {
+      "name": "Part_17.stl",
+      "size": 33884,
+      "url": "https://www.thingiverse.com/download:14755670",
+      "download_url": "https://api.thingiverse.com/v2/files/14755670/download"
+    },
+    {
+      "name": "Part_18.stl",
+      "size": 184184,
+      "url": "https://www.thingiverse.com/download:14755671",
+      "download_url": "https://api.thingiverse.com/v2/files/14755671/download"
+    },
+    {
+      "name": "Part_19.stl",
+      "size": 484584,
+      "url": "https://www.thingiverse.com/download:14755672",
+      "download_url": "https://api.thingiverse.com/v2/files/14755672/download"
+    },
+    {
+      "name": "Part_110.stl",
+      "size": 195984,
+      "url": "https://www.thingiverse.com/download:14755673",
+      "download_url": "https://api.thingiverse.com/v2/files/14755673/download"
+    },
+    {
+      "name": "Part_111.stl",
+      "size": 215284,
+      "url": "https://www.thingiverse.com/download:14755674",
+      "download_url": "https://api.thingiverse.com/v2/files/14755674/download"
+    },
+    {
+      "name": "Part_112.stl",
+      "size": 25484,
+      "url": "https://www.thingiverse.com/download:14755675",
+      "download_url": "https://api.thingiverse.com/v2/files/14755675/download"
+    },
+    {
+      "name": "Part_113.stl",
+      "size": 160484,
+      "url": "https://www.thingiverse.com/download:14755676",
+      "download_url": "https://api.thingiverse.com/v2/files/14755676/download"
+    },
+    {
+      "name": "Part_114.stl",
+      "size": 127784,
+      "url": "https://www.thingiverse.com/download:14755677",
+      "download_url": "https://api.thingiverse.com/v2/files/14755677/download"
+    },
+    {
+      "name": "Part_2.stl",
+      "size": 12884,
+      "url": "https://www.thingiverse.com/download:14755678",
+      "download_url": "https://api.thingiverse.com/v2/files/14755678/download"
+    },
+    {
+      "name": "Part_21.stl",
+      "size": 28584,
+      "url": "https://www.thingiverse.com/download:14755679",
+      "download_url": "https://api.thingiverse.com/v2/files/14755679/download"
+    },
+    {
+      "name": "Part_22.stl",
+      "size": 19084,
+      "url": "https://www.thingiverse.com/download:14755680",
+      "download_url": "https://api.thingiverse.com/v2/files/14755680/download"
+    },
+    {
+      "name": "Part_23.stl",
+      "size": 37084,
+      "url": "https://www.thingiverse.com/download:14755681",
+      "download_url": "https://api.thingiverse.com/v2/files/14755681/download"
+    },
+    {
+      "name": "Part_24.stl",
+      "size": 40284,
+      "url": "https://www.thingiverse.com/download:14755682",
+      "download_url": "https://api.thingiverse.com/v2/files/14755682/download"
+    },
+    {
+      "name": "Part_25.stl",
+      "size": 69584,
+      "url": "https://www.thingiverse.com/download:14755683",
+      "download_url": "https://api.thingiverse.com/v2/files/14755683/download"
+    },
+    {
+      "name": "Part_26.stl",
+      "size": 44184,
+      "url": "https://www.thingiverse.com/download:14755684",
+      "download_url": "https://api.thingiverse.com/v2/files/14755684/download"
+    },
+    {
+      "name": "Part_27.stl",
+      "size": 49884,
+      "url": "https://www.thingiverse.com/download:14755685",
+      "download_url": "https://api.thingiverse.com/v2/files/14755685/download"
+    },
+    {
+      "name": "Part_28.stl",
+      "size": 44484,
+      "url": "https://www.thingiverse.com/download:14755686",
+      "download_url": "https://api.thingiverse.com/v2/files/14755686/download"
+    },
+    {
+      "name": "Part_29.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755687",
+      "download_url": "https://api.thingiverse.com/v2/files/14755687/download"
+    },
+    {
+      "name": "Part_210.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755688",
+      "download_url": "https://api.thingiverse.com/v2/files/14755688/download"
+    },
+    {
+      "name": "Part_211.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755689",
+      "download_url": "https://api.thingiverse.com/v2/files/14755689/download"
+    },
+    {
+      "name": "Part_212.stl",
+      "size": 140284,
+      "url": "https://www.thingiverse.com/download:14755690",
+      "download_url": "https://api.thingiverse.com/v2/files/14755690/download"
+    },
+    {
+      "name": "Part_213.stl",
+      "size": 119984,
+      "url": "https://www.thingiverse.com/download:14755691",
+      "download_url": "https://api.thingiverse.com/v2/files/14755691/download"
+    },
+    {
+      "name": "Part_214.stl",
+      "size": 106284,
+      "url": "https://www.thingiverse.com/download:14755692",
+      "download_url": "https://api.thingiverse.com/v2/files/14755692/download"
+    },
+    {
+      "name": "Part_215.stl",
+      "size": 176884,
+      "url": "https://www.thingiverse.com/download:14755693",
+      "download_url": "https://api.thingiverse.com/v2/files/14755693/download"
+    },
+    {
+      "name": "Part_216.stl",
+      "size": 92784,
+      "url": "https://www.thingiverse.com/download:14755694",
+      "download_url": "https://api.thingiverse.com/v2/files/14755694/download"
+    },
+    {
+      "name": "Part_217.stl",
+      "size": 92684,
+      "url": "https://www.thingiverse.com/download:14755695",
+      "download_url": "https://api.thingiverse.com/v2/files/14755695/download"
+    },
+    {
+      "name": "Part_218.stl",
+      "size": 230384,
+      "url": "https://www.thingiverse.com/download:14755696",
+      "download_url": "https://api.thingiverse.com/v2/files/14755696/download"
+    },
+    {
+      "name": "Part_3.stl",
+      "size": 216984,
+      "url": "https://www.thingiverse.com/download:14755697",
+      "download_url": "https://api.thingiverse.com/v2/files/14755697/download"
+    },
+    {
+      "name": "Part_31.stl",
+      "size": 364584,
+      "url": "https://www.thingiverse.com/download:14755698",
+      "download_url": "https://api.thingiverse.com/v2/files/14755698/download"
+    },
+    {
+      "name": "Part_32.stl",
+      "size": 92384,
+      "url": "https://www.thingiverse.com/download:14755699",
+      "download_url": "https://api.thingiverse.com/v2/files/14755699/download"
+    },
+    {
+      "name": "Part_33.stl",
+      "size": 43884,
+      "url": "https://www.thingiverse.com/download:14755700",
+      "download_url": "https://api.thingiverse.com/v2/files/14755700/download"
+    },
+    {
+      "name": "Part_34.stl",
+      "size": 42584,
+      "url": "https://www.thingiverse.com/download:14755701",
+      "download_url": "https://api.thingiverse.com/v2/files/14755701/download"
+    },
+    {
+      "name": "Part_35.stl",
+      "size": 46484,
+      "url": "https://www.thingiverse.com/download:14755702",
+      "download_url": "https://api.thingiverse.com/v2/files/14755702/download"
+    },
+    {
+      "name": "Part_36.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755703",
+      "download_url": "https://api.thingiverse.com/v2/files/14755703/download"
+    },
+    {
+      "name": "Part_37.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755704",
+      "download_url": "https://api.thingiverse.com/v2/files/14755704/download"
+    },
+    {
+      "name": "Part_38.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755705",
+      "download_url": "https://api.thingiverse.com/v2/files/14755705/download"
+    },
+    {
+      "name": "Part_39.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755706",
+      "download_url": "https://api.thingiverse.com/v2/files/14755706/download"
+    },
+    {
+      "name": "Part_310.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755707",
+      "download_url": "https://api.thingiverse.com/v2/files/14755707/download"
+    },
+    {
+      "name": "Part_311.stl",
+      "size": 27684,
+      "url": "https://www.thingiverse.com/download:14755708",
+      "download_url": "https://api.thingiverse.com/v2/files/14755708/download"
+    },
+    {
+      "name": "Part_312.stl",
+      "size": 31084,
+      "url": "https://www.thingiverse.com/download:14755709",
+      "download_url": "https://api.thingiverse.com/v2/files/14755709/download"
+    },
+    {
+      "name": "Part_313.stl",
+      "size": 23084,
+      "url": "https://www.thingiverse.com/download:14755710",
+      "download_url": "https://api.thingiverse.com/v2/files/14755710/download"
+    },
+    {
+      "name": "Part_314.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755711",
+      "download_url": "https://api.thingiverse.com/v2/files/14755711/download"
+    },
+    {
+      "name": "Part_315.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14755712",
+      "download_url": "https://api.thingiverse.com/v2/files/14755712/download"
+    },
+    {
+      "name": "Part_316.stl",
+      "size": 168384,
+      "url": "https://www.thingiverse.com/download:14755713",
+      "download_url": "https://api.thingiverse.com/v2/files/14755713/download"
+    },
+    {
+      "name": "Part_317.stl",
+      "size": 179184,
+      "url": "https://www.thingiverse.com/download:14755714",
+      "download_url": "https://api.thingiverse.com/v2/files/14755714/download"
+    },
+    {
+      "name": "Part_318.stl",
+      "size": 199984,
+      "url": "https://www.thingiverse.com/download:14755715",
+      "download_url": "https://api.thingiverse.com/v2/files/14755715/download"
+    },
+    {
+      "name": "Part_319.stl",
+      "size": 138284,
+      "url": "https://www.thingiverse.com/download:14755716",
+      "download_url": "https://api.thingiverse.com/v2/files/14755716/download"
+    },
+    {
+      "name": "Part_320.stl",
+      "size": 190584,
+      "url": "https://www.thingiverse.com/download:14755717",
+      "download_url": "https://api.thingiverse.com/v2/files/14755717/download"
+    },
+    {
+      "name": "Part_321.stl",
+      "size": 173784,
+      "url": "https://www.thingiverse.com/download:14755718",
+      "download_url": "https://api.thingiverse.com/v2/files/14755718/download"
+    },
+    {
+      "name": "Part_322.stl",
+      "size": 204584,
+      "url": "https://www.thingiverse.com/download:14755719",
+      "download_url": "https://api.thingiverse.com/v2/files/14755719/download"
+    },
+    {
+      "name": "Part_323.stl",
+      "size": 261684,
+      "url": "https://www.thingiverse.com/download:14755720",
+      "download_url": "https://api.thingiverse.com/v2/files/14755720/download"
+    },
+    {
+      "name": "Part_324.stl",
+      "size": 260684,
+      "url": "https://www.thingiverse.com/download:14755721",
+      "download_url": "https://api.thingiverse.com/v2/files/14755721/download"
+    },
+    {
+      "name": "Part_325.stl",
+      "size": 222384,
+      "url": "https://www.thingiverse.com/download:14755722",
+      "download_url": "https://api.thingiverse.com/v2/files/14755722/download"
+    },
+    {
+      "name": "Part_326.stl",
+      "size": 254984,
+      "url": "https://www.thingiverse.com/download:14755723",
+      "download_url": "https://api.thingiverse.com/v2/files/14755723/download"
+    },
+    {
+      "name": "Part_327.stl",
+      "size": 239784,
+      "url": "https://www.thingiverse.com/download:14755724",
+      "download_url": "https://api.thingiverse.com/v2/files/14755724/download"
+    },
+    {
+      "name": "Part_4.stl",
+      "size": 13684,
+      "url": "https://www.thingiverse.com/download:14755725",
+      "download_url": "https://api.thingiverse.com/v2/files/14755725/download"
+    },
+    {
+      "name": "Part_41.stl",
+      "size": 691784,
+      "url": "https://www.thingiverse.com/download:14755726",
+      "download_url": "https://api.thingiverse.com/v2/files/14755726/download"
+    },
+    {
+      "name": "Part_42.stl",
+      "size": 338784,
+      "url": "https://www.thingiverse.com/download:14755727",
+      "download_url": "https://api.thingiverse.com/v2/files/14755727/download"
+    },
+    {
+      "name": "Part_43.stl",
+      "size": 99084,
+      "url": "https://www.thingiverse.com/download:14755728",
+      "download_url": "https://api.thingiverse.com/v2/files/14755728/download"
+    },
+    {
+      "name": "Part_44.stl",
+      "size": 1484,
+      "url": "https://www.thingiverse.com/download:14755729",
+      "download_url": "https://api.thingiverse.com/v2/files/14755729/download"
+    },
+    {
+      "name": "Part_45.stl",
+      "size": 1484,
+      "url": "https://www.thingiverse.com/download:14755730",
+      "download_url": "https://api.thingiverse.com/v2/files/14755730/download"
+    },
+    {
+      "name": "Part_46.stl",
+      "size": 1484,
+      "url": "https://www.thingiverse.com/download:14755731",
+      "download_url": "https://api.thingiverse.com/v2/files/14755731/download"
+    },
+    {
+      "name": "Part_47.stl",
+      "size": 413084,
+      "url": "https://www.thingiverse.com/download:14755732",
+      "download_url": "https://api.thingiverse.com/v2/files/14755732/download"
+    },
+    {
+      "name": "Part_48.stl",
+      "size": 87584,
+      "url": "https://www.thingiverse.com/download:14755733",
+      "download_url": "https://api.thingiverse.com/v2/files/14755733/download"
+    },
+    {
+      "name": "Part_49.stl",
+      "size": 326584,
+      "url": "https://www.thingiverse.com/download:14755734",
+      "download_url": "https://api.thingiverse.com/v2/files/14755734/download"
+    },
+    {
+      "name": "Part_410.stl",
+      "size": 439584,
+      "url": "https://www.thingiverse.com/download:14755735",
+      "download_url": "https://api.thingiverse.com/v2/files/14755735/download"
+    },
+    {
+      "name": "Part_411.stl",
+      "size": 425884,
+      "url": "https://www.thingiverse.com/download:14755736",
+      "download_url": "https://api.thingiverse.com/v2/files/14755736/download"
+    },
+    {
+      "name": "Part_412.stl",
+      "size": 78484,
+      "url": "https://www.thingiverse.com/download:14755737",
+      "download_url": "https://api.thingiverse.com/v2/files/14755737/download"
+    },
+    {
+      "name": "Part_413.stl",
+      "size": 1084,
+      "url": "https://www.thingiverse.com/download:14755738",
+      "download_url": "https://api.thingiverse.com/v2/files/14755738/download"
+    },
+    {
+      "name": "Part_414.stl",
+      "size": 1084,
+      "url": "https://www.thingiverse.com/download:14755739",
+      "download_url": "https://api.thingiverse.com/v2/files/14755739/download"
+    },
+    {
+      "name": "Part_415.stl",
+      "size": 1084,
+      "url": "https://www.thingiverse.com/download:14755740",
+      "download_url": "https://api.thingiverse.com/v2/files/14755740/download"
+    },
+    {
+      "name": "Part_416.stl",
+      "size": 273584,
+      "url": "https://www.thingiverse.com/download:14755741",
+      "download_url": "https://api.thingiverse.com/v2/files/14755741/download"
+    },
+    {
+      "name": "Part_417.stl",
+      "size": 274084,
+      "url": "https://www.thingiverse.com/download:14755742",
+      "download_url": "https://api.thingiverse.com/v2/files/14755742/download"
+    },
+    {
+      "name": "Part_418.stl",
+      "size": 273484,
+      "url": "https://www.thingiverse.com/download:14755743",
+      "download_url": "https://api.thingiverse.com/v2/files/14755743/download"
+    },
+    {
+      "name": "Part_419.stl",
+      "size": 273884,
+      "url": "https://www.thingiverse.com/download:14755744",
+      "download_url": "https://api.thingiverse.com/v2/files/14755744/download"
+    },
+    {
+      "name": "Part_420.stl",
+      "size": 273884,
+      "url": "https://www.thingiverse.com/download:14755745",
+      "download_url": "https://api.thingiverse.com/v2/files/14755745/download"
+    },
+    {
+      "name": "Part_421.stl",
+      "size": 278684,
+      "url": "https://www.thingiverse.com/download:14755746",
+      "download_url": "https://api.thingiverse.com/v2/files/14755746/download"
+    },
+    {
+      "name": "Drive.stl",
+      "size": 709984,
+      "url": "https://www.thingiverse.com/download:14755747",
+      "download_url": "https://api.thingiverse.com/v2/files/14755747/download"
+    },
+    {
+      "name": "Drive1.stl",
+      "size": 355584,
+      "url": "https://www.thingiverse.com/download:14755748",
+      "download_url": "https://api.thingiverse.com/v2/files/14755748/download"
+    },
+    {
+      "name": "Drive2.stl",
+      "size": 65084,
+      "url": "https://www.thingiverse.com/download:14755749",
+      "download_url": "https://api.thingiverse.com/v2/files/14755749/download"
+    },
+    {
+      "name": "Drive3.stl",
+      "size": 68284,
+      "url": "https://www.thingiverse.com/download:14755750",
+      "download_url": "https://api.thingiverse.com/v2/files/14755750/download"
+    },
+    {
+      "name": "Drive4.stl",
+      "size": 76084,
+      "url": "https://www.thingiverse.com/download:14755751",
+      "download_url": "https://api.thingiverse.com/v2/files/14755751/download"
+    },
+    {
+      "name": "Drive5.stl",
+      "size": 17884,
+      "url": "https://www.thingiverse.com/download:14755752",
+      "download_url": "https://api.thingiverse.com/v2/files/14755752/download"
+    },
+    {
+      "name": "Drive6.stl",
+      "size": 18784,
+      "url": "https://www.thingiverse.com/download:14755753",
+      "download_url": "https://api.thingiverse.com/v2/files/14755753/download"
+    },
+    {
+      "name": "Drive7.stl",
+      "size": 82584,
+      "url": "https://www.thingiverse.com/download:14755754",
+      "download_url": "https://api.thingiverse.com/v2/files/14755754/download"
+    },
+    {
+      "name": "Drive8.stl",
+      "size": 407784,
+      "url": "https://www.thingiverse.com/download:14755755",
+      "download_url": "https://api.thingiverse.com/v2/files/14755755/download"
+    },
+    {
+      "name": "Drive9.stl",
+      "size": 61684,
+      "url": "https://www.thingiverse.com/download:14755756",
+      "download_url": "https://api.thingiverse.com/v2/files/14755756/download"
+    }
+  ]
+}

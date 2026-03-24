@@ -1,0 +1,137 @@
+[00:04] hi so have you look again at this
+[00:05] conductive ink here's a really neat
+[00:07] little project that we came up with and
+[00:09] we thought was quite cool so I'll just
+[00:11] show it you quickly what I've got here
+[00:13] is a lamp attached to a piece of paper
+[00:14] if I touch that paper the light comes on
+[00:17] touch it again the light goes off so
+[00:20] it's really easy to make a touch switch
+[00:22] out of this ink all you really have to
+[00:24] do is get yourself a piece of paper and
+[00:27] paint a square of Ink on it so I'm just
+[00:29] using a piece of white card to do this
+[00:31] you could equally use the wall or
+[00:32] absolutely anything at all that this
+[00:34] will paint onto so I'm just taking a
+[00:36] piece of card and painting a square of
+[00:38] the conductive ink you don't need to be
+[00:40] too careful with it there paint on a
+[00:43] blob now we're going to need to connect
+[00:45] to it so I'm going to put a line into
+[00:47] the edge so that we can make an easy
+[00:49] connection to
+[00:52] it and once you've done that just leave
+[00:54] it to dry once You' given it a chance to
+[00:56] dry all you actually do is connect up
+[00:58] the switch sensor to it flip it over and
+[01:01] then I've got this connected to a
+[01:03] light plug it in and then touch the
+[01:06] paper and the light comes on touch it
+[01:09] again it goes off so there we go a touch
+[01:12] witch made with conductive ink but it
+[01:15] actually works because of this thing
+[01:16] this is a pre-bought touch sensor uh
+[01:19] they cost about a pound on eBay and when
+[01:21] you get the touch sensor it's
+[01:22] essentially a box and out of it come for
+[01:25] a
+[01:27] wireless this one is yellow
+[01:31] and we have
+[01:35] red
+[01:37] black white the colors will change
+[01:40] depending on which one that you buy but
+[01:41] they're essentially the same thing the
+[01:43] red is obviously the live and that one
+[01:45] goes to your live
+[01:51] Supply your live Supply is the thing
+[01:53] that plugs into your wall so that goes
+[01:55] on the plug this black one is your
+[01:58] neutral
+[02:00] and you send one to the neutral Supply
+[02:03] and out of there you also Branch off so
+[02:05] that you've got one going to your actual
+[02:08] lamp so the neutral on your lamp in the
+[02:10] UK these ones are blue so basically you
+[02:12] connect the two blue ones up to the
+[02:13] black one this one is brown in the UK
+[02:16] the brown one up to the red one now this
+[02:19] one is your white one and that connects
+[02:22] to the other side of your lamp and that
+[02:24] connects to the brown one of the
+[02:28] lamp and that's how you wi it up this
+[02:31] one the yellow one is what connects to
+[02:33] the touch flag so if we connect that to
+[02:36] our painted
+[02:40] square and we touch our pented Square
+[02:43] then that lamp will light now these ones
+[02:46] are rated for certain voltages and
+[02:47] certain amperages obviously so if you're
+[02:50] using a high ampage lamp you're going to
+[02:52] need a different one one that's got a
+[02:53] bit more power to it but for your bog
+[02:55] standard bedside lamp or lamp in the
+[02:57] middle of your room this is going to
+[02:59] work really well really well and the
+[03:01] thing about this is it can be anywhere
+[03:04] it doesn't actually have to be in the
+[03:06] conventional position that light switch
+[03:08] was it can be anywhere that that paint
+[03:09] can reach when you paint this you can
+[03:12] paint it in little circles if you like
+[03:15] you paint in butterflies any shape that
+[03:17] you want now it's best off if you put a
+[03:19] protective membrane over it now there's
+[03:22] no real chance of electrocuting yourself
+[03:24] but it's a capacitive switch in fact so
+[03:26] if you put a protective membrane over it
+[03:28] it's still going to work you use sticky
+[03:30] back plastic or you can just flip the
+[03:31] piece of paper over and you touch the
+[03:33] piece of paper in which case you change
+[03:35] the capacitance and the light will come
+[03:37] on so it works as simply as that okay so
+[03:39] that's it on the board let's have a look
+[03:40] in actual practice so here is the unit
+[03:43] itself with a terminal block one side is
+[03:45] going to the actual lamp here and the
+[03:47] other side is going to the actual socket
+[03:49] here that's what plugs into your wall if
+[03:51] you look at that one that goes to your
+[03:53] wall we've got a brown wire at the top
+[03:54] there and a blue wire that brown wire is
+[03:57] connected to the red one which goes into
+[03:59] my sensor that blue wire is connected to
+[04:02] the blue wire of the lamp as you can see
+[04:04] here and it's connected to the black
+[04:06] wire of the sensor that's the neutral so
+[04:08] the brown wire the live and the blue
+[04:10] wies the neutral now the live from the
+[04:12] actual lamp if you can see it connected
+[04:14] to the white there of the sensor block
+[04:18] and that's the connections made up and
+[04:19] what it looks like in practice the only
+[04:21] thing left is this yellow wire this
+[04:23] yellow wire is connected up to our pance
+[04:25] Square which we flipped over so if I
+[04:28] plug that in and touch the piece of
+[04:30] paper it comes on touch it it goes off
+[04:35] now that's a really nice and easy
+[04:37] project that I can see having load of
+[04:39] uses uh I'm probably going to take one
+[04:41] of these home actually paint a light
+[04:42] switch remove it to paint one of these
+[04:45] on my wall and make sure that I have no
+[04:47] more light switches in my house that you
+[04:48] just go in and touch the wallpaper and
+[04:50] the light will go off and on so I'm kind
+[04:52] of going to do that and I'll do that as
+[04:53] a follow-up video but another thing
+[04:55] occurred to me is that this would
+[04:57] actually make a really good kit should
+[04:58] anybody want it so we're probably going
+[05:00] to do is put this together as a little
+[05:02] kit on the shop so you can always buy it
+[05:04] if you want anyway I thought that was
+[05:06] interesting and I hope you did too thank
+[05:08] you very much for watching

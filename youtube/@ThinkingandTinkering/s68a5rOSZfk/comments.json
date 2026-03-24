@@ -1,0 +1,867 @@
+[
+  {
+    "id": "Ugwuqlb1LgZ-CD18Out4AaABAg",
+    "author": "@ellooku",
+    "author_channel_id": "UCIVrxDBzH5JkLuF9K_b1s0Q",
+    "text": "I will like a comparison with washing machine motor. Which one gives more current and voltage. I think changing the coil winding also improves the performance.",
+    "likes": 0,
+    "published_at": "2024-02-28T15:42:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxuHmF0_3Ez5HbSa0J4AaABAg",
+    "author": "@stevenpleasant5834",
+    "author_channel_id": "UC7lJ4LpoYqzg-bWk2Qh1rWg",
+    "text": "Hello, Robert what can I do to take my hoverboard wheel to make my DC to AC and make it put out 230 volts of AC  I have my set up able to make any DC volts from 0 to 480 volts DC I want to take the DC voltage to 230 volt AC  in know that I could use a transformer but I can not find the right transformer and not costing an arm and a leg. what can I do please help thank you for all the info you put out great info.",
+    "likes": 0,
+    "published_at": "2024-02-10T05:59:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyRAFDOLbSkoFIbuMh4AaABAg",
+    "author": "@DavidPaulNewtonScott",
+    "author_channel_id": "UCYShkubzRgRwaA3uO1t-_Pw",
+    "text": "2.5 watts Oh dear.",
+    "likes": 0,
+    "published_at": "2023-09-10T12:34:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz1X3nTyQ8MTPA4LwF4AaABAg",
+    "author": "@felicelamanna3654",
+    "author_channel_id": "UCJ2O3zoZoufWbb51Aa9kLsg",
+    "text": "The maximum current would be achieved when the output is closer to shorted out. Even without increasing rotational speed, something will overheat but you will see many amps. If the device was rated at 250watts and the motors voltage is 36, it should deliver over 6 amps.",
+    "likes": 0,
+    "published_at": "2023-03-15T12:04:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGgVt5gTJjHzJdw7N4AaABAg",
+    "author": "@dvlautos",
+    "author_channel_id": "UCFN2VL5xBMzqu1qh6nN9WAg",
+    "text": "if you sat the Bick two hoverboard motors at the same time and seris them how much then",
+    "likes": 1,
+    "published_at": "2023-03-03T00:41:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxGBOpqkEIhkRiNxhV4AaABAg",
+    "author": "@andrefilipebmx",
+    "author_channel_id": "UCA_KKWHNRPj78dR27CWT4Wg",
+    "text": "Hello Robert. I've seen this video, and since I have a 350W Hoverboard, I'm thinking of this project of a bike generator but also the one for a windturbine (since I have two motors). But my main questions is: How will I store or use the energy efficiently?\r\n\r\nWhat would you advise to be the best/easiest way to store the energy and then use it in a nice and easy way? Obviously incorporating the generators directly into the electrical system of the house would be the best but has many risks and might be hard for a starter, so I was thinking like a 48V Battery with a normal outlet, that I could use to power my 3D Printer or my filament dryer for some limited time. Ideally, I'd have the battery connected to the wind turbine or bike while using it for powering the 3d printer, but I understand this might add some complexity, so I was first thinking of starting simple. Using the bike or wind generator to charge up a battery, which then I'd disconnect, bring it to the office, to power up some appliances, until it's depleted, and i'd take it to charge again. On a second stage, I'd try to make it all connected.\r\n\r\nI think you see my point. What would you advise for this? I'm curious for your input!",
+    "likes": 0,
+    "published_at": "2023-02-22T13:05:28Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxouW0eaCeuBISnSQF4AaABAg",
+    "author": "@loveyourself1759",
+    "author_channel_id": "UCi8PalLQjlixFVZ5emuSvPw",
+    "text": "I may only have a sample size of one for each, but I would like to mention it anyways:\nfrom my tests I got twice the power output with lower input from a scooter motor over a hover board motor\n\nboth motors worked perfectly fine as motors, but as a generator, the scooter clearly wins\n\ni can try doing some rewiring on the inside, there's some talk about chaning the paralell wires to serial, and then there's some stuff about delta and star configurations....\n\nBut I'm curious if it's just less efficient because it has an odd number of magnets for it's poles, I think 30 magnets, 27 poles",
+    "likes": 0,
+    "published_at": "2023-02-18T14:40:30Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx_oNzUtmxwOz9ZvjN4AaABAg",
+    "author": "@DKFX1",
+    "author_channel_id": "UCCwB-DQNZRZiSCtfU7nnQ6A",
+    "text": "You are definitely going about this the wrong way. Just seen a guy getting 25 watts slowly turning the motor with a hand crank. With a pully set up you should have no issue getting over 100 watt in moderate winds with this thing. You need to rewire a few parts inside the BLDC, slap on a bike wheel and a belt drive.",
+    "likes": 0,
+    "published_at": "2022-11-20T18:36:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz3dRC1qTMQ82X968x4AaABAg",
+    "author": "@alloffinyaify",
+    "author_channel_id": "UCpvhvdPfXknWphipWiQ_ZeQ",
+    "text": "Geared ok. What would be the best gearing pattern. I have two gear boxes but they are for slow speed down for high power.",
+    "likes": 0,
+    "published_at": "2022-04-22T08:10:58Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx9j61x5EOjQARpp8l4AaABAg",
+    "author": "@alloffinyaify",
+    "author_channel_id": "UCpvhvdPfXknWphipWiQ_ZeQ",
+    "text": "I have 8 hub motors and a 3 acre pond. I have the water flow design but I haven't been able to figure out how to use these hub motors as my generator. Any suggestions I would like to get at least 5 kw if possible. I have a 100,000 gallon drag tank so I will have plenty of water with plenty of Force. I would love to have your input. Thanks",
+    "likes": 0,
+    "published_at": "2022-04-22T07:57:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3vyBqt1CXZ4Z1gWZ4AaABAg",
+    "author": "@traianpascar2826",
+    "author_channel_id": "UCNOsU--HgQ0BMO9pPqCHOyQ",
+    "text": "C am putin...wati, fa unul AXIAL.. PA PA..!",
+    "likes": 0,
+    "published_at": "2022-03-07T17:17:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzx_jXZ3Xog9LIG-Ll4AaABAg",
+    "author": "@davescorpion",
+    "author_channel_id": "UCgneStUPm5zb7Zuhv8any6g",
+    "text": "I've found an old petrol genny in my shed, and as far as I know, the motor is goosed. But the Stator(?) seems fine, as does the little circuit board , I'm genuinely interested to know it it would  have any application for a wind turbine....it was for a 240v 1000w generator, so I assume that output would be at a certain RPM, Any advice to where I go from here? cheers.....",
+    "likes": 0,
+    "published_at": "2022-02-26T23:29:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzx_jXZ3Xog9LIG-Ll4AaABAg.9YvsrgQflRk9gJOLlIwRzQ",
+        "author": "@worlore1651",
+        "author_channel_id": "UCYx6lIJnNcwcM7ujhLfQABg",
+        "text": "The generator probably went a couple thousand rpm with good torque. If the torque isn’t too high then use gears for more speed",
+        "likes": 0,
+        "published_at": "2022-09-23T08:06:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxSpQCB41MlyIyP2814AaABAg",
+    "author": "@will_doherty",
+    "author_channel_id": "UCXT-XdPy2qFf8yTcUiC8mfg",
+    "text": "@4:19 you have an error: \"power is proportional to the voltage squared\" power is proportional to the voltage applied, not to its square. (edited: typo)",
+    "likes": 1,
+    "published_at": "2022-02-09T20:38:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy4u3F-5pTKXH3vbWt4AaABAg",
+    "author": "@neilsg2001",
+    "author_channel_id": "UCJnIXcGaKHq4YfvOUIzjMtA",
+    "text": "So if you put a heavy load across it it will slow down",
+    "likes": 0,
+    "published_at": "2021-08-20T10:52:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgztYhHbsSuVpfEIheN4AaABAg",
+    "author": "@impuls60",
+    "author_channel_id": "UCbNjR4f3HFjIGr_jz7v4MHg",
+    "text": "The motor is either shorted or the phases are wired up wrong. I got 4 of those motors on my longboard and 4x 2.5w is not enough to stop a large man going down a hill lol. In real life the boards stops like a bike with decent brakes..",
+    "likes": 0,
+    "published_at": "2021-08-19T20:53:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQ9YMVoQqXg4aQmyV4AaABAg",
+    "author": "@MAGnetICus_Attractus",
+    "author_channel_id": "UCwb1r3mE7bKTUje4db-at-w",
+    "text": "Have you ever considered weighted peddles on the stationary bike? Or longer crank arms?",
+    "likes": 0,
+    "published_at": "2021-08-19T17:44:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxZIr4LWfleq1gnXq54AaABAg",
+    "author": "@chrismalcomson2824",
+    "author_channel_id": "UCUeFRju-h0ro5eMnvtzNjcQ",
+    "text": "Following this project with great interest!\n\nIt just so happens that I have just acquired a hoverboard. I'm planning to do a wind project with the motors. I'm thinking of two savonius type, mounted on a stand together and shaped something like \"leaves\", just as a low voltage garden ornament that powers led garden lights. I also managed to salvage all 20 18650 batteries, so that's a big bonus. \n\nP.S. On the hoverboards main control board, I de-soldered the 4 biggest capacitors and put them in parallel after the bridge rectifier (cheap 3 phase one). They seem to be working well at smoothing for testing.",
+    "likes": 1,
+    "published_at": "2021-08-18T16:17:37Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxZIr4LWfleq1gnXq54AaABAg.9RBipW42Jyk9bvXI97B7Ed",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "I have something similar in mind but maybe a bit bigger setup. Two oil drum savoniuses on top of each other on 90° angle on each other. Have several hoverboard motors, maybe spun with bicycle gears and chain. I have almost everything needed gathered up, only ball bearings durable enough are on the list. Maybe from a car... Going with close to zero budget on mind so getting all needed can take time.\n\nWhat kind of setup do you have or is it still on paper?",
+        "likes": 1,
+        "published_at": "2022-06-06T06:17:43Z"
+      },
+      {
+        "id": "UgxZIr4LWfleq1gnXq54AaABAg.9RBipW42Jyk9bvf0_LjI33",
+        "author": "@chrismalcomson2824",
+        "author_channel_id": "UCUeFRju-h0ro5eMnvtzNjcQ",
+        "text": "@Teknopottu Still on paper at the moment. I may play with plastic drums and use trailer wheel bearings.",
+        "likes": 0,
+        "published_at": "2022-06-06T07:33:57Z"
+      },
+      {
+        "id": "UgxZIr4LWfleq1gnXq54AaABAg.9RBipW42Jyk9bvj926zdBZ",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "@chrismalcomson2824 Nice. Trailer wheel bearings would work in my case also. Good luck with your project!",
+        "likes": 1,
+        "published_at": "2022-06-06T08:10:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxXEn4vL0mI-zmUqTF4AaABAg",
+    "author": "@kevinleebailey",
+    "author_channel_id": "UC0Vv1D6bTXjV4qa2MRqbUKA",
+    "text": "If you make your blade's out of something that has a larger circumference it will spin a lot faster. I made some out of a cheap builders bucket and got much faster RPMS than from blade's made from gutter pipe.",
+    "likes": 0,
+    "published_at": "2021-08-18T14:31:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxXEn4vL0mI-zmUqTF4AaABAg.9RBXhUvbrVy9RCBjQC04b_",
+        "author": "@kevinleebailey",
+        "author_channel_id": "UC0Vv1D6bTXjV4qa2MRqbUKA",
+        "text": "Basically the blades cut with less friction. Yes they will need a faster wind speed to get things going. But when they do the RPM will be a lot faster.",
+        "likes": 0,
+        "published_at": "2021-08-18T20:38:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwV_SC0_WhdHc7xPd14AaABAg",
+    "author": "@danielingraham9701",
+    "author_channel_id": "UCa9yR5YWwFwCa6gZB9ePRWQ",
+    "text": "Today I am Heavy Hearted. \n\nFor Years I Enjoyed your channel and looked with anticipation for your next video. I shared your name with every one that seemed to possess some level of interest in something I learned from your channel. Your channel has been my anchor to still push foreword in my health in hopes that maybe , just maybe , I will be able to create a little mobile workshop to do the similar creations myself and to finally produce a the prototype for a whole new style Electric Motor. I done my homework including learning everything I needed to know and more to ensure it works. While trying to hold to the old saying \"KISS\" ( Keep It Simple Stupid ) which entailed many times back stepping and revising the designs and reworking the equations all in the process to keep it as simple as possible so that anyone can build. I started off with a 30 watt design and I was impressed with the results on paper,  but I knew I could do better. I Eventually settled with a 60watt design that would have more power per revolution than the 150cc gas engine puts out on it's firing revolution ( that was on my cheap Chinese scooter ( That was not worth the money , if one is looking for reliability and to save money by seeking alternative transportation ).\n\nHowever: This is not the reason for my post. To my horror this morning, I find that the only video I can access of yours , is this one. All the others even the ones I just viewed a few days back, now require me to be a paid Member. This is horrifying to me , Not because I may have to pay $5 a month. But, because, now I can no longer Tell People to check out your channel . \"To See For Themself\" some of the things your working or have worked on . I must drop you from my vocabulary when talking with others as The Location they can go to and see for themselves. This Saddens me Greatly, For you have been for so long , Someone that I used as my example for : Why I do not want to patent any Idea I have. Why I rather just put it out there for all to benefit . And Why I want to start my own Channel . But for the simple reason your channel has now put in place a Barrier (A Wall ) Blocking individuals to visit your site and see that , Greed does not have to rule one for helping others even with information . I understand that you have financial needs as I barely get by each month , but it doesn't stop me from helping others at financial cost to myself and at physical cost at times as well. It's Who I am ! Five Dollars might not sound like much , but for those who are trying to find an alternative means to get on their feet , Might as well be a trillion dollars. For those I would normally share your information with to inspire them to expand their mind and reach for that which they may at the moment see as impossible, I No Longer have  the knowledge that if I share a reference to one of your videos, that it will be accessible for them to see .\n\nIt is my fault I have not made some form of mobile workshop for myself, because I do not know how to turn my eyes away from others when they are need of physical help. I tend to put others before myself. I have had to learned to be more selective so not to throw away my life and time on those that rely on others to do what they simply choose not to , even though it is within their ability to do so. And I try to inspire a spirit when I help others , to pay it foreword. For they will cross paths with someone they too can help and should help. \n\nI will be making a choice at becoming a member, but it will be coming at a cost \n Part of that cost is the lost enjoyment that I no longer have the ability to tell others to check out your channel or check out a specific video. So do I become a member even though there is no provision of free videos that can be shared within conservation . I might as well Light a Candle , Place it under a metal bucket , and tell people, \"There is a light in this Pitch Black Room , But you must get up and stumble your way to at personal risk to yourself. But Trust me, The light is there. Much Easier Sale if their is at Least a Flicker of light to let people know it is there and that light is real. \n\nSo if I choose to become a Member , Will I enjoy that membership Like the enjoyment I used to get from your channel . Seeing how Required Membership eliminates the ability to share. Eliminates the Word Of Mouth Element from the Equation. \n\n\nThus today my heart is broken that I must decide. \n\nSo many times I wanted to reach out and share things with you that I created on paper and worked out the problems through research and learning, to ensure what I share with you would be spot on . But I let my stubbornness to be the first to physically create it , hinder me from doing so. Even though at that time, I knew you would put that information out there on your own channel and maybe even with some of your own improvements. As I know you would have enjoyed that knowledge I desired to share freely .  But Now that hope of sharing with you so that you may share with others has been replaced with \"I will share it with you once you pay me.\"\n\nWhat cost is this move going to inflict on the growth of your channels ?? Do You Know , Do you Know  how many individuals will not even check out your channel because denied the ability . I don't Know . I can't Answer that . Time Will Know. Time Will Tell. \n\nSo the freedom for individuals to stumble across or even follow up on a reference to check out your channel , Well that is gone , because your now Limited ( maybe even Eliminated ) the views you get from Strangers and in essential turned away those that would also become members for the simple fact: Like me this morning , accessing even the videos that were accessible a couple days ago without being a paying member, are now not accessible. Which was your part of the advertising for your channel, can no longer be shared with others to promote it . \n\nWith out that ability , this means of letting others see for themself that you were the model for which Teachers Should all inspire to be. You were the Model that A person does not have to limit themself by limiting their minds. You were the Model that Greed ( Even out of necessity ) Does not have to rule one's actions and one's life.\n\n This advertising , of everything you once stood for, that door has now been closed.  Might Need to revise and edit  some of your early videos , So that this expression you use to verbally reference and physically live , will no longer be found. \n\nI get it you have needs that must be tended to. And thus there is a Paid Membership for certain Videos and instructions to be found within that Paid Membership . However, If posted Videos were not required to be a member, those should remain as such. They Are Your Advertising . They Are Your Brand. And They allow those Early Videos to speak \" I have Held to Certain Values in the past and those Values Still Remain Stead Fast within the Person I Have Become Today . \n\nPeople like to know what they are going to be paying for , before they choose to pay . For that  good and healthy business practice has now been thrown out the window as what was the accessible videos you had posted for anyone to see , they cannot view again and thus they cannot share with others they meet or friends.( Essentially , if they want to encourage someone to check out your channel, You just made that task a great deal more difficult. As they will have to convince others to first pay for membership in order to just check out your channel. A Hard Sale Indeed. For some they might sell someone to do so. But Statically Unlikely to do so. ) That ability and door has now been replaced with a Wall that denies and cripples people form being New Potential Members as it blinds them from seeing and Experiencing who and what you and your channel is about. \n\n    Today I am greatly Saddened and Heart Broken to see this change take place within you. \n\n    Today I will be contemplating Do I Be Selfish and Subscribe ( Yes I would take comfort in helping you by doing so ) Or Should I risk Forgetting about your channel until I can create my own alternative transportation that would enable me to pay for subscriptions like your channel by eliminating the overhead cost of a gas vehicle.  But regardless of my choice here, I am will be greatly heavy hearted that I am now no longer able to encourage others to check out your site for inspiration and to learn the empowerment that can be found in \"Give it a Try Mentality , and if it doesn't work, discover why \"\n\nSincerely Your Unknown Fan, Follower, and Student from across the seas. For You Were the Model of what every American should be.",
+    "likes": 0,
+    "published_at": "2021-08-18T13:23:02Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwV_SC0_WhdHc7xPd14AaABAg.9RBPqpPZkN69RBRMLP4FpN",
+        "author": "@danielingraham9701",
+        "author_channel_id": "UCa9yR5YWwFwCa6gZB9ePRWQ",
+        "text": "Emphasis : I do not Mind at all becoming a paying member . For years I wanted to donate . So my above comment has nothing to do with me paying for a subscription. If one Reads the Entirety of the post . One Will know the heart of the expression of the post.  I have Been and Still to this day have the greatest respect and Admiration for Robert and what he has done and Has Been as a person .",
+        "likes": 0,
+        "published_at": "2021-08-18T13:36:13Z"
+      },
+      {
+        "id": "UgwV_SC0_WhdHc7xPd14AaABAg.9RBPqpPZkN69RBo5zAuZx6",
+        "author": "@make425",
+        "author_channel_id": "UC6QrGQFdn1XZxZaA33IuLgg",
+        "text": "He should get a free membership for writing all that. Lol.\nI'll spend my 5 on magnets. Milli amp my way there.",
+        "likes": 0,
+        "published_at": "2021-08-18T17:03:42Z"
+      },
+      {
+        "id": "UgwV_SC0_WhdHc7xPd14AaABAg.9RBPqpPZkN69RBzrm2ATBD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "so - let me get this straight and summarise what I read - for years you wanted to do something - but you never did. You just sucked at the teat until it went dry and when it went dry your response was to bitch about it - amazing - well thanks for that",
+        "likes": 0,
+        "published_at": "2021-08-18T18:46:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxkO9N1E1FTap4eo-Z4AaABAg",
+    "author": "@wizrom3046",
+    "author_channel_id": "UCTqUtzkaQe1PbD7MqhMYVgw",
+    "text": "If you make your 3 phase rectifier from 1N5819 schottky diodes it will have much lower voltage drop (ie better efficiency) than the garden variety 1N4007 type diodes.\n1N5819 should be easily available on eBay.",
+    "likes": 0,
+    "published_at": "2021-08-18T13:16:50Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxi1LeQRLFKMeHV54J4AaABAg",
+    "author": "@401ksolar",
+    "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+    "text": "Could you do a breakdown of your measurement setup? ie; when you say you are switching to amps can you do a close up of your instruments and connections? the readings in milliamps do not quite make sense to me because to read amps  the ammeter must be in series with the load. What gives?",
+    "likes": 2,
+    "published_at": "2021-08-18T04:02:08Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugxi1LeQRLFKMeHV54J4AaABAg.9RAPeaG14Hd9RAiBBPCbvo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sorry mate I do this so many times I often forget to give those details as they are in other vids but I read volts in parallel and amps in series with a resistive load - on occasion I will use an inductive load but not often and I usually say if I am doing that",
+        "likes": 0,
+        "published_at": "2021-08-18T06:52:44Z"
+      },
+      {
+        "id": "Ugxi1LeQRLFKMeHV54J4AaABAg.9RAPeaG14Hd9RBOvM6hkDS",
+        "author": "@wizrom3046",
+        "author_channel_id": "UCTqUtzkaQe1PbD7MqhMYVgw",
+        "text": "@ThinkingandTinkering if you are doing that it is critically important to state what the resistance of your resistive load is, otherwise the values are almost meaningless.\nFor instance, at those RPMs that motor into a low resistance load would easily have generated a couple of amps.",
+        "likes": 0,
+        "published_at": "2021-08-18T13:14:55Z"
+      },
+      {
+        "id": "Ugxi1LeQRLFKMeHV54J4AaABAg.9RAPeaG14Hd9RBtRtVsSlg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@wizrom3046 Mate it can only generate what I put in - at full tilt I could best generate maybe 60W from arm power alone - check out the Stanford tables on this. I would guess I was managing maybe 20 watts so at 50 volts or so  the most it could be would be milliamps - I am sorry but it just doesn't make sense to me to say a generator can generate more than is put in - it can only do less than that",
+        "likes": 0,
+        "published_at": "2021-08-18T17:50:23Z"
+      },
+      {
+        "id": "Ugxi1LeQRLFKMeHV54J4AaABAg.9RAPeaG14Hd9RDnVzlVfow",
+        "author": "@wizrom3046",
+        "author_channel_id": "UCTqUtzkaQe1PbD7MqhMYVgw",
+        "text": "Yes I know, I've been an electronics professional for almost 40 years now. 🙂\nI did say \"a low resistance load\", so if your load resistor was 2 ohms it could easily put out 2 amps into 2 ohms, or 8 watts.\nThat's why it's really important to say what resistance your load is, it makes all the other numbers make sense.\nAnyway I've really been enjoying your channel, your innovation, enthusiasm and fun factor makes your vids very watchable. 👍",
+        "likes": 2,
+        "published_at": "2021-08-19T11:36:59Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx56HcSkR8DpSWcT4R4AaABAg",
+    "author": "@johnross7166",
+    "author_channel_id": "UCSfysN1dZ_b68CMY8FArSmA",
+    "text": "Have you thought of trying it as a vertical axis turbine to compare the efficiency between the two?",
+    "likes": 0,
+    "published_at": "2021-08-18T02:35:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx56HcSkR8DpSWcT4R4AaABAg.9RAFkRuF6k49RAiMyCIPR4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there would be no real difference I would think",
+        "likes": 0,
+        "published_at": "2021-08-18T06:54:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxutXXLsgECLqhGXQ54AaABAg",
+    "author": "@Kiyarose3999",
+    "author_channel_id": "UCrMIOWv9Rt-2T3chE3GeOfw",
+    "text": "Yes the speed is key, perhaps connect it to the washing machine VAWT , using the bottom of the VAWT as a big cog, direct drive?",
+    "likes": 0,
+    "published_at": "2021-08-18T01:26:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxutXXLsgECLqhGXQ54AaABAg.9RA7p81fhOK9RAiNSsE55J",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Cool idea",
+        "likes": 0,
+        "published_at": "2021-08-18T06:54:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyrn7A0SYZRS2-peMN4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "A better bridge rectifier is needed. Too many losses with the 1N4007 diodes",
+    "likes": 0,
+    "published_at": "2021-08-18T00:36:09Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugyrn7A0SYZRS2-peMN4AaABAg.9RA24wluoP59RAiVpg3YoB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure mate - but I am sure you get the main point I am illustrating",
+        "likes": 0,
+        "published_at": "2021-08-18T06:55:33Z"
+      },
+      {
+        "id": "Ugyrn7A0SYZRS2-peMN4AaABAg.9RA24wluoP59RAjDbF8YIP",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@ThinkingandTinkering for sure, I mean if you are making a wind turbine for off grid purposes",
+        "likes": 0,
+        "published_at": "2021-08-18T07:01:48Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5wTaN0k2Yd9hRf8Z4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "I love this New~Fangled ~Audio~Power~O~Meter!!\nSo much clearer than using the old one, and Strangely Compelling!! \n🙂Andrea, Jasper\n and George the Pigeon. XxX",
+    "likes": 0,
+    "published_at": "2021-08-17T23:16:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5wTaN0k2Yd9hRf8Z4AaABAg.9R9u0riHCr19RAiXVecNAC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome lol",
+        "likes": 0,
+        "published_at": "2021-08-18T06:55:47Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy9-yQFzrkeTzOHyth4AaABAg",
+    "author": "@dexterdixon2000",
+    "author_channel_id": "UClwvecETA-1evwBzYBNAtJw",
+    "text": "It's the rate of change of flux that you're discussing. Yes you can double the rpm but you can also double the number of poles. Comparing this motor to your previous one is somewhat problematic because it's no ot just the magnetic chemistry that'll've changed - pole number, turns per phase and flux density of pole (regardless of material) are all going to be different.   It's perfectly possible to design and build an alternator for lower rpms - your project of repurposing motors it will probably be about running them close to their original design rpm (/voltage). Curious - what was the load to only see 50mA @50V? I'd have thought you could have got a good couple of hundred W with that setup. Final thought - I'd suggest getting a slick tyre bike for these (very useful) bike demos - much quieter!",
+    "likes": 0,
+    "published_at": "2021-08-17T22:59:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy9-yQFzrkeTzOHyth4AaABAg.9R9s0XLnIb19RAioHcFq3m",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "exactly mate - and we are talking frames of reference doubling the poles or doubling the speed is essentially the same thing - the pole doubling is lifted physically though and more of a limitation than speed doubling - nice suggestion on the tyre lol",
+        "likes": 0,
+        "published_at": "2021-08-18T06:58:13Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxNKQwkRJkOI8gQ9IN4AaABAg",
+    "author": "@robertpitt8418",
+    "author_channel_id": "UC7YCK70LdIjCtwO1Duf__zA",
+    "text": "A higher grade motor would need less turns to produce the same amount of power as a low grade motor",
+    "likes": 0,
+    "published_at": "2021-08-17T22:52:15Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "UgxNKQwkRJkOI8gQ9IN4AaABAg.9R9rBxhViLJ9RAisC7OuX_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes - but at what cost?",
+        "likes": 0,
+        "published_at": "2021-08-18T06:58:45Z"
+      },
+      {
+        "id": "UgxNKQwkRJkOI8gQ9IN4AaABAg.9R9rBxhViLJ9RC8UD40KzO",
+        "author": "@robertpitt8418",
+        "author_channel_id": "UC7YCK70LdIjCtwO1Duf__zA",
+        "text": "@ThinkingandTinkering the is no other costs except the cost of the motor",
+        "likes": 0,
+        "published_at": "2021-08-18T20:10:30Z"
+      },
+      {
+        "id": "UgxNKQwkRJkOI8gQ9IN4AaABAg.9R9rBxhViLJ9RC8wYvGlXi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "@robertpitt8418 yes - which can be considerable by an order of magnitude mate",
+        "likes": 0,
+        "published_at": "2021-08-18T20:14:31Z"
+      },
+      {
+        "id": "UgxNKQwkRJkOI8gQ9IN4AaABAg.9R9rBxhViLJ9RCDXZORwOz",
+        "author": "@robertpitt8418",
+        "author_channel_id": "UC7YCK70LdIjCtwO1Duf__zA",
+        "text": "@ThinkingandTinkering the rewards can be in the order of considerable magnitude",
+        "likes": 0,
+        "published_at": "2021-08-18T20:54:39Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwgNC_-kQhs8w4RHqd4AaABAg",
+    "author": "@derekcartledge3057",
+    "author_channel_id": "UCeN3l_GL30ZoM69oDRoK4qQ",
+    "text": "I don’t know why you don’t use hub dynamos they generate 6 V three Watts connect three of them together and get nine watts and you will require a lot less turning force and the speed cheers Derek",
+    "likes": 0,
+    "published_at": "2021-08-17T22:47:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwgNC_-kQhs8w4RHqd4AaABAg.9R9qfF-3Vqo9RAizlLm4Va",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "no mate - you wouldn't. force out = force in less losses",
+        "likes": 0,
+        "published_at": "2021-08-18T06:59:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZaksxPZlRgcIdLZ94AaABAg",
+    "author": "@ricodegallo3060",
+    "author_channel_id": "UCyKtAm7D2k96fKYjYPyRrZw",
+    "text": "👍",
+    "likes": 1,
+    "published_at": "2021-08-17T22:24:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxZaksxPZlRgcIdLZ94AaABAg.9R9o3u6bYcW9RAj-oPT4bo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2021-08-18T06:59:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyiP-_XBa-_afhsasB4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Wouldn't they love that on Gillian's island. Have a great day tomorrow Rob and Luke.",
+    "likes": 1,
+    "published_at": "2021-08-17T21:26:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyiP-_XBa-_afhsasB4AaABAg.9R9hMit_IH09RAj5SDG_xU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I would think they would lol - cheers mate",
+        "likes": 0,
+        "published_at": "2021-08-18T07:00:42Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxr22DJK1I1pgE3YU14AaABAg",
+    "author": "@jgfugfljouyf8374",
+    "author_channel_id": "UCOpvEGxQ9hxwxhsq_QvlITg",
+    "text": "I recently pulled two engines of of some snowblowers i found for free. They have two output shafts. so i want to use one of the engines on a high mileage vehicle I might try to belt drive one of these hoverboard motors with the second output shaft. Use it as a small alternator for some accessories.",
+    "likes": 0,
+    "published_at": "2021-08-17T21:00:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxr22DJK1I1pgE3YU14AaABAg.9R9eSbzuIg79RAj8CQFHix",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice plan mate",
+        "likes": 0,
+        "published_at": "2021-08-18T07:01:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxjdp0tSNkSrHSC8Ch4AaABAg",
+    "author": "@nicoeggers9445",
+    "author_channel_id": "UCx7h1UWkq7EZEfXwpa66fDQ",
+    "text": "I cant understand why your current flow is so low at that Motor?! I can crank my Motors by hand up to 10A - 12A.\nIn the Wind it produce, with a 1,3m diameter turbine, up to 200 Watts. Seems something is wrong with that Motor.",
+    "likes": 6,
+    "published_at": "2021-08-17T20:57:21Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugxjdp0tSNkSrHSC8Ch4AaABAg.9R9e2Qb-3dG9RAR0UEdu_A",
+        "author": "@401ksolar",
+        "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+        "text": "Exactly",
+        "likes": 1,
+        "published_at": "2021-08-18T04:14:00Z"
+      },
+      {
+        "id": "Ugxjdp0tSNkSrHSC8Ch4AaABAg.9R9e2Qb-3dG9RAjEKkxMwi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "maybe - it doesn't really matter to the point I am making though.",
+        "likes": 0,
+        "published_at": "2021-08-18T07:01:54Z"
+      },
+      {
+        "id": "Ugxjdp0tSNkSrHSC8Ch4AaABAg.9R9e2Qb-3dG9RAnvBG2XaQ",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "Or meter cables/meter. One could try to light an ordinary 12V car bulb with the motor. Any light would mean it creates more than mere milliamps. \n\nAnd Rob, this should matter if you are using faulty meters. It could give a new meaning to your earlier creations or tests that seemed to generate only that much power.",
+        "likes": 3,
+        "published_at": "2021-08-18T07:42:51Z"
+      },
+      {
+        "id": "Ugxjdp0tSNkSrHSC8Ch4AaABAg.9R9e2Qb-3dG9RAp0OIKOXJ",
+        "author": "@nicoeggers9445",
+        "author_channel_id": "UCx7h1UWkq7EZEfXwpa66fDQ",
+        "text": "@Teknopottu Exactly. This Motors can do serious Power. Several Amps - not milliamps!",
+        "likes": 4,
+        "published_at": "2021-08-18T07:52:26Z"
+      },
+      {
+        "id": "Ugxjdp0tSNkSrHSC8Ch4AaABAg.9R9e2Qb-3dG9RBJpDb63-b",
+        "author": "@make425",
+        "author_channel_id": "UC6QrGQFdn1XZxZaA33IuLgg",
+        "text": "@ThinkingandTinkering we understand your point.  But the test results seem flawed. \nThe faster it goes the more power.  \nBut less than a half amp. Something is burnt, maybe its my brain.  \nI ask a question and don't get any response.  \nDon't take this wrong, but sometimes it seems like the test results are off.\nThen some of us wonder.\nPump out the videos for the commercials or for the viewer's.",
+        "likes": 2,
+        "published_at": "2021-08-18T12:30:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxpxNDGF1baEDFLZKl4AaABAg",
+    "author": "@docink6175",
+    "author_channel_id": "UCMdNB6OxYB53mZ4zAvtjhjA",
+    "text": "lol... Im not a mind reader",
+    "likes": 0,
+    "published_at": "2021-08-17T20:51:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxpxNDGF1baEDFLZKl4AaABAg.9R9dPh4ow1N9RAjGUhIxRU",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - well why not? lol",
+        "likes": 0,
+        "published_at": "2021-08-18T07:02:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxCpXX4ecUru7IFstV4AaABAg",
+    "author": "@MarioAbbruscato",
+    "author_channel_id": "UCtZgNRoL6O7FZ_1dOIkAJ-w",
+    "text": "It would be interesting to be able to understand the efficiency of the transformation, how much work, how much electricity. The speed-to-voltage ratio seems not to be enough if i don't know how much torque is required to get to a certain speed. Always interesting, every day. Actually I also really liked the video on energy by gravity where you dropped a weight attached to a generator.",
+    "likes": 1,
+    "published_at": "2021-08-17T20:49:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxCpXX4ecUru7IFstV4AaABAg.9R9d6nDXBQC9RAjLz3r8SA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate - I am working on that one",
+        "likes": 1,
+        "published_at": "2021-08-18T07:02:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRJ-bVLXhC_GqP5ZZ4AaABAg",
+    "author": "@GoVertical17",
+    "author_channel_id": "UCE--_X1h08StIiaSSxefTCg",
+    "text": "Addressing the Back EMF?????",
+    "likes": 0,
+    "published_at": "2021-08-17T20:43:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwRJ-bVLXhC_GqP5ZZ4AaABAg.9R9cVI6fLkc9RAkhN0D5EY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "back emf really only applies to motors - It is my understanding that there is no back emf in a generator as such",
+        "likes": 0,
+        "published_at": "2021-08-18T07:14:45Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx3It90RpAzznBtnwt4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Good video.  Thanks.  Your earlier work and demos with large diameter flywheels would tie into this nicely.",
+    "likes": 1,
+    "published_at": "2021-08-17T20:39:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx3It90RpAzznBtnwt4AaABAg.9R9c09SHsWh9RAkkFE01yG",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think so too mate - cheers",
+        "likes": 0,
+        "published_at": "2021-08-18T07:15:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyHvr4bP_z4yLd8GK54AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Well...\nYou were right from your little talk about the \"speed of the changing magnetic field\". Back then building the VAWT. \nI think you're on to something fascinating. And... it all seems to point to (in my mind), finding that way to get around \"torque\". Especially if one will use gearing. Or... hurry up and have your epiphany of how to gear up without increasing torque; or something new all together, that disregards gearing, dramatically increases speed, and makes torque as trivial as all the other components, in relation to the importance of \"speed\".\n\nPersonally... it all reminds me of that VAWT design again. \n\"The outer rim, and not the shaft\".\n\nAnyway... carry on.\nGood stuff.",
+    "likes": 1,
+    "published_at": "2021-08-17T20:27:08Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyHvr4bP_z4yLd8GK54AaABAg.9R9aa7DCxXK9RAkqxqrlwf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "those are lines I am thinking on mate - I don't know but I suspect the key is in there",
+        "likes": 0,
+        "published_at": "2021-08-18T07:16:03Z"
+      },
+      {
+        "id": "UgyHvr4bP_z4yLd8GK54AaABAg.9R9aa7DCxXK9RAr2C_V-Ed",
+        "author": "@dremaboy777",
+        "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+        "text": "@ThinkingandTinkering \n\nYou're good at finding keys.\nYour good epiphanies. \nI'm confident... It will come.\n\nI'll be here.",
+        "likes": 0,
+        "published_at": "2021-08-18T08:10:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyOJTfsKon-1wftXBt4AaABAg",
+    "author": "@AKIOTV",
+    "author_channel_id": "UCjdgBls3uP-OzfzH3Yv2Eyg",
+    "text": "If you want a higher voltage from one of those hoverboard wheels you can easily reconfigure the windings. I'm using one of these for a wind turbine and tore it down to see how the windings are connected.\n\nIt turns out these motors use a Y-connection, but unlike the typical Y-connection where the poles that belong to one phase are in series, these motors have them in parallel. So effectively, inside that wheel is 3 Y-connected generators hooked up in parallel. Therefore if you take these windings and put them in series, you get triple the voltage for a given speed, but also more losses due to the increased internal resistance.\n\nI ended up putting the windings in series, but then using a delta connection instead, giving me a good compromise between output voltage and winding resistance.",
+    "likes": 9,
+    "published_at": "2021-08-17T20:23:14Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyOJTfsKon-1wftXBt4AaABAg.9R9a8WPpNKz9RAkw-bruLf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "very nice tip mate thank you",
+        "likes": 2,
+        "published_at": "2021-08-18T07:16:45Z"
+      },
+      {
+        "id": "UgyOJTfsKon-1wftXBt4AaABAg.9R9a8WPpNKz9bvXaxnVUjY",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "This is a great tip. No need to disassemble motor myself to figure out the windings. Planning to go with vanilla windings.",
+        "likes": 0,
+        "published_at": "2022-06-06T06:20:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-duXxbT8bB9z-Rvh4AaABAg",
+    "author": "@garylewsam7816",
+    "author_channel_id": "UCfPYZxOEsprOEr5n6zotehg",
+    "text": "Hi Rob\nYou should get amps from that motor when spinning not milliamperes. .",
+    "likes": 8,
+    "published_at": "2021-08-17T19:59:20Z",
+    "reply_count": 6,
+    "replies": [
+      {
+        "id": "Ugw-duXxbT8bB9z-Rvh4AaABAg.9R9YPUEXqMh9R9eLLHQ8bf",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "That's right. Mine's creating enough power to light up car bulps with sturdy hand turning. Maybe Rob got some broken one's, like the treadmill motor he had with that awfull noise and a lot of resistance. The video was 1137. My 180V dreadmill motor lighted up 60W bulb brightly just by wrapping a cord over the axel and yanking. Bad luck with with motors or what seems to be the case?",
+        "likes": 2,
+        "published_at": "2021-08-17T20:59:56Z"
+      },
+      {
+        "id": "Ugw-duXxbT8bB9z-Rvh4AaABAg.9R9YPUEXqMh9RARENTckPD",
+        "author": "@401ksolar",
+        "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+        "text": "@Teknopottu I suspect meter cabling/setup/operation ?",
+        "likes": 0,
+        "published_at": "2021-08-18T04:15:53Z"
+      },
+      {
+        "id": "Ugw-duXxbT8bB9z-Rvh4AaABAg.9R9YPUEXqMh9RAl0JIo-Ez",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it doesn't matter right now mate - that's not the point I am interested in - later I will look at that",
+        "likes": 0,
+        "published_at": "2021-08-18T07:17:28Z"
+      },
+      {
+        "id": "Ugw-duXxbT8bB9z-Rvh4AaABAg.9R9YPUEXqMh9RAniPGTogq",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "@401ksolar Could be but for the meter wires they would have to be very thin. Simple resistance reading would eliminate that possibility. Bigclivedotcom has a great video on this, \"Making my PSU cables literally 20 times better\". It's for PSU but the principal is the same. Amps cannot travel on thin path.",
+        "likes": 0,
+        "published_at": "2021-08-18T07:41:06Z"
+      },
+      {
+        "id": "Ugw-duXxbT8bB9z-Rvh4AaABAg.9R9YPUEXqMh9REmh4V9bkm",
+        "author": "@impuls60",
+        "author_channel_id": "UCbNjR4f3HFjIGr_jz7v4MHg",
+        "text": "@Teknopottu I use those motors in regen mode for braking on my skateboard. If a few watts were true my range wouldn't increase when braking down a hill (which certainly adds range in practice).  2-300w should be no problem for such a motor. Dont focus on the voltage, a simple voltage booster circuit on ebay for 10pounds transforms the voltage up to what ever needed. Google voltage step up booster.. A gearbox would only be max 6-8 percent more efficient than a good booster from ebay. Not worth the hassle of building a gearbox in my opinion.",
+        "likes": 1,
+        "published_at": "2021-08-19T20:49:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzWXPuaEQr9jWXgTFJ4AaABAg",
+    "author": "@MrAnderson4509",
+    "author_channel_id": "UClKRMMzhVq1gzj1pr6UptuA",
+    "text": "👍 I will stick with your low Rpm low material stress designs, ( It is what I like ) but this is a great investigation into modern motor/generator repurposing and application, thank you Robert for all you do and all your efforts",
+    "likes": 3,
+    "published_at": "2021-08-17T19:50:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzWXPuaEQr9jWXgTFJ4AaABAg.9R9XO6Jcni89RAl9ub3FSR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate and cheers",
+        "likes": 1,
+        "published_at": "2021-08-18T07:18:47Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxpzRv0aImeNWVfvGt4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Great explanation, it certainly is more clear with this demonstration.\n\nThat reminds me of your idea of making a transmission up the blades to a gearing system down the base in order to make it more \"efficient\" 👏",
+    "likes": 2,
+    "published_at": "2021-08-17T19:46:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxpzRv0aImeNWVfvGt4AaABAg.9R9X-0IeaPA9RAlJw-l9MX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes I like that idea too",
+        "likes": 1,
+        "published_at": "2021-08-18T07:20:09Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzkrYQv1f6vZV4yqu54AaABAg",
+    "author": "@alaingrignon",
+    "author_channel_id": "UCgqJwGxSZH7_6c6xgzEHFuw",
+    "text": "@Rob, just to be clear, in my simple mind, higher spinning requires more torque. In a Wind generator, this means the \"blades\" need higher winds to generate significant electricity. Which I interpret as, there's no free lunch!",
+    "likes": 2,
+    "published_at": "2021-08-17T19:45:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzkrYQv1f6vZV4yqu54AaABAg.9R9Wnt9IQGY9R9ZqbMaleI",
+        "author": "@ryanjamesloyd6733",
+        "author_channel_id": "UCOuf_9yjNr7hdRErATDU1uA",
+        "text": "No free lunch, but I think there's ways to hack it. Robs low torque coreless coil wind turbine design for instance-  I think you could stack 2 of those on top of each other, with the coils on top of one, and the magnets on the bottom of the other,  and each set so they counter rotated at the same speed in the same wind, and get double the relative speed between magnets and coils, and thus greater output from them. \n\nOr with a hand crank, do it like the wimhof generator wheels, and just put your magnets and coils on the inner faces between them- that would get you double the relative speed between them for roughly the same effort of cranking one. \n\nI guess you could do it with a motor too- counter rotate the stator and rotor, though in that case you Do have to worry about the torque.",
+        "likes": 1,
+        "published_at": "2021-08-17T20:11:55Z"
+      },
+      {
+        "id": "UgzkrYQv1f6vZV4yqu54AaABAg.9R9Wnt9IQGY9RAlOrbT4o6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "pretty much mate though there are things you can do beyond that I think - but somewhere a 'sacrifice' has to be made",
+        "likes": 1,
+        "published_at": "2021-08-18T07:20:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8ngcpMLZon8H_WmJ4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "With our bills going up by 20% in the next year then this could really help us out mate thanks",
+    "likes": 2,
+    "published_at": "2021-08-17T19:42:06Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugw8ngcpMLZon8H_WmJ4AaABAg.9R9WRGYjnmf9R9aF9WETvw",
+        "author": "@Earzone63",
+        "author_channel_id": "UC7O9Vz6tLLgImJVfASBa06A",
+        "text": "haha prime time to get building!",
+        "likes": 0,
+        "published_at": "2021-08-17T20:24:08Z"
+      },
+      {
+        "id": "Ugw8ngcpMLZon8H_WmJ4AaABAg.9R9WRGYjnmf9R9b0jCcMHI",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "@Earzone63 I need to find some time. I did finish one project today though. Progress is Progress",
+        "likes": 1,
+        "published_at": "2021-08-17T20:30:54Z"
+      },
+      {
+        "id": "Ugw8ngcpMLZon8H_WmJ4AaABAg.9R9WRGYjnmf9RAlR96L98d",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am glad it helps mate",
+        "likes": 0,
+        "published_at": "2021-08-18T07:21:08Z"
+      }
+    ]
+  }
+]

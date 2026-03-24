@@ -1,0 +1,23 @@
+{
+  "video_id": "qFv9UlOgP1Y",
+  "title": "Improved Flynn Device Model",
+  "description": "I spent a little time with FEMM 4.2 working up a magnetostatic model. FEMM is a GNU license piece of software from David Meeker and you can get it from http://www.femm.info/wiki/HomePage. It's pretty easy to use for basic modelling but there does seem to be quite a learning curve for anything more complex. Still, it did what i wanted. The model is 12cm by 10 cm and shows a laminated steel frame with four coils placed central to each leg of the fram and two N50 magnets either side of the top and bottom coils. To start with i pulsed 1 amp at 8 volts  through each of the top and bottom coils as per the standard flynn device, which is a power consumption of 16 watts, and the flux movement was pretty much as you would have thought. But it got interesting when i pulsed the left hand side coil only. I could get this down to a 0.5 amp pulse at 4 volts to achieve the same effect as the 16 watts version but with only 2 watts of power consumption. This seemed pretty interesting so i decided to reverse the pulse through the left hand coil with the result that you can see. The next step - build the thing! Anyway, i thought this was worth sharing so enjoy",
+  "published_at": "2012-02-07T10:05:58Z",
+  "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+  "channel_title": "Robert Murray-Smith",
+  "tags": [
+    "improved",
+    "flynn",
+    "device",
+    "free",
+    "energy",
+    "zero",
+    "point"
+  ],
+  "duration": "PT3M",
+  "view_count": "5444",
+  "like_count": "34",
+  "comment_count": "14",
+  "url": "https://www.youtube.com/watch?v=qFv9UlOgP1Y",
+  "thumbnail": "https://i.ytimg.com/vi/qFv9UlOgP1Y/hqdefault.jpg"
+}

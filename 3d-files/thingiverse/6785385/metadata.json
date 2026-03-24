@@ -1,0 +1,89 @@
+{
+  "thing_id": 6785385,
+  "name": "Rubber Band Generator",
+  "description": "This is the generator section to go with the rubber band motor which can be found here\r\n\r\nyou can find a video about this here https://youtu.be/6lrnD_-gFsY\r\n\r\nand to finish it you will need 2 x bearings 22mm by 8mm by 7mm, 36 circular neodymium  magnets 10mm by 1mm an some magnet wire in the range of 0.2mm to 0.05mm - any is good but the thin stuff is hard to handle - the thinner the wire the more turns you can get in the space so the higher the voltage - wind a serpentine coil with as much wire as will fit in the cassette\r\n\r\nyou will also need to build the rubber band motor and the files for that can be found here: https://www.thingiverse.com/thing:6784387",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "6lrnD_-gFsY",
+      "url": "https://youtu.be/6lrnD_-gFsY"
+    }
+  ],
+  "tags": [
+    "band",
+    "elastic",
+    "motor"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-10-02T16:52:01+00:00",
+  "modified": "2024-10-02T16:52:01+00:00",
+  "url": "https://www.thingiverse.com/thing:6785385",
+  "thumbnail": "https://cdn.thingiverse.com/assets/37/63/f2/99/a2/large_display_Screenshot_from_2024-10-02_17-43-01.png",
+  "like_count": 122,
+  "collect_count": 59,
+  "comment_count": 2,
+  "download_count": 226,
+  "files": [
+    {
+      "name": "Axle.stl",
+      "size": 12684,
+      "url": "https://www.thingiverse.com/download:14796506",
+      "download_url": "https://api.thingiverse.com/v2/files/14796506/download"
+    },
+    {
+      "name": "Casette_Base.stl",
+      "size": 1484,
+      "url": "https://www.thingiverse.com/download:14796507",
+      "download_url": "https://api.thingiverse.com/v2/files/14796507/download"
+    },
+    {
+      "name": "Casette_Cover.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14796508",
+      "download_url": "https://api.thingiverse.com/v2/files/14796508/download"
+    },
+    {
+      "name": "Drive_Gear.stl",
+      "size": 789584,
+      "url": "https://www.thingiverse.com/download:14796509",
+      "download_url": "https://api.thingiverse.com/v2/files/14796509/download"
+    },
+    {
+      "name": "Front_Motor_Support_Block.stl",
+      "size": 18084,
+      "url": "https://www.thingiverse.com/download:14796510",
+      "download_url": "https://api.thingiverse.com/v2/files/14796510/download"
+    },
+    {
+      "name": "Long_Spacer.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14796511",
+      "download_url": "https://api.thingiverse.com/v2/files/14796511/download"
+    },
+    {
+      "name": "Magnet_Carrier_Disc_x_2.stl",
+      "size": 269484,
+      "url": "https://www.thingiverse.com/download:14796512",
+      "download_url": "https://api.thingiverse.com/v2/files/14796512/download"
+    },
+    {
+      "name": "Main_Casette.stl",
+      "size": 151384,
+      "url": "https://www.thingiverse.com/download:14796513",
+      "download_url": "https://api.thingiverse.com/v2/files/14796513/download"
+    },
+    {
+      "name": "Rear_Motor_Support_Block.stl",
+      "size": 13684,
+      "url": "https://www.thingiverse.com/download:14796514",
+      "download_url": "https://api.thingiverse.com/v2/files/14796514/download"
+    },
+    {
+      "name": "Short_Spacer.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14796515",
+      "download_url": "https://api.thingiverse.com/v2/files/14796515/download"
+    }
+  ]
+}

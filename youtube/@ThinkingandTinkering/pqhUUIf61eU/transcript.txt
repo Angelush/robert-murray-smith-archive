@@ -1,0 +1,191 @@
+[00:00] [Music]
+[00:06] hi everybody so in video 1879 we made
+[00:09] this it's basically two calls in one in
+[00:11] a serpentine Co Arrangement and I made a
+[00:13] pretty cap for it we can put that on
+[00:16] there we go we get ourselves a nice
+[00:18] little motor stroke generator now in the
+[00:21] video two really interesting things came
+[00:23] up one was I'm not quite sure how it
+[00:25] works and the other was can we get some
+[00:27] energy out of it well yes we can get
+[00:29] energy out of and then a bit in the
+[00:30] video that's exactly what we're going to
+[00:32] do but first how exactly does it work
+[00:35] well you've got to think of a transistor
+[00:38] as a switch now this is called a
+[00:40] blocking oscillator another way of
+[00:42] thinking of it is a pulse oscillator now
+[00:45] there are lots of ways of arranging that
+[00:48] but perhaps the simplest way is like
+[00:51] this now if you have a look at that
+[00:52] diagram you'll see those two squiggly
+[00:54] lines there are two coils the first coil
+[00:57] is connected at VCC which is just the
+[01:00] positive connection then it goes through
+[01:02] the collect the emitter of the
+[01:04] transistor to ground which is a negative
+[01:06] connection now if I connect anything
+[01:09] between positive and negative like a
+[01:10] light it's going to light up unless I
+[01:12] put a switch in there and break that
+[01:14] circuit The Collector and emitter are
+[01:17] just like a switch there's no straight
+[01:18] through connection there there's only a
+[01:21] straight through connection when you
+[01:22] press the switch when we send a current
+[01:24] to the base it's as if we press the
+[01:27] switch and then there will be a straight
+[01:29] through connection and of course that
+[01:30] will energize the coil that will turn it
+[01:32] into a magnet and that will push against
+[01:34] the magnets in the rotor pushing the
+[01:36] rotor around and making it work as a
+[01:39] motor but it will only align it won't go
+[01:42] all the way it'll go one slight
+[01:44] alignment then it'll stop and what we
+[01:46] need to do is we need to turn that back
+[01:48] off again so that it can whiz past on
+[01:52] again to give it another push now we can
+[01:54] do that by touching two wires which is
+[01:56] exactly what we did in the first video
+[01:58] in this series but it's much more
+[02:01] convenient of course if we have an
+[02:02] automatic switch now if you look at that
+[02:04] diagram again and look at the second
+[02:06] coil that second coil is just like in a
+[02:09] Transformer when we put power down the
+[02:11] first coil it creates a magnetic field
+[02:13] which interferes with the second coil
+[02:15] and that field collapses so does the
+[02:17] field around the second coil and that
+[02:19] induces a small current of course
+[02:22] because that second coil is now
+[02:23] connected to the earth and the base that
+[02:26] small current can flow the tiny flow of
+[02:29] current along the base acts like a
+[02:31] switch it makes a SW the base close and
+[02:34] so we have a connection between the
+[02:36] collector and the emitter and of course
+[02:39] that turns the drive coil back on and it
+[02:41] continues to turn so that's pretty much
+[02:45] what pulse oscillators are for they
+[02:47] create a Ed circuit now that two coil
+[02:50] arrangement with the transistor is the
+[02:52] very heart of these oscillating circuits
+[02:56] it's all there is to it it's just an
+[02:58] automatic switch driven d by the second
+[03:00] coil the second coil gets driven because
+[03:02] well it's got magnets passing past it so
+[03:05] it's going to now then how do we get
+[03:08] some power out of this so I've got this
+[03:10] set up exactly like it was in the
+[03:12] diagram where we've got the big coil
+[03:14] connected to the collector at one end
+[03:16] and then straight through the the
+[03:17] positive at the other and then of course
+[03:20] the emitter goes to the negative of the
+[03:23] power supply so it would it would be
+[03:25] taking power if that switch was turned
+[03:28] on and you can see set at 5 volts and
+[03:30] it's drawing absolutely nothing because
+[03:32] this switch is off what I need to do is
+[03:34] turn that switch on and that switch is
+[03:37] that second coil the small coil if I
+[03:39] send a pulse down that small coil it
+[03:42] will switch on that transistor at the
+[03:44] base and that will allow current to flow
+[03:46] between the collector and the mitter and
+[03:48] of course it passes through the big coil
+[03:50] and so of course the big coil causes the
+[03:52] motor to turn so the minute I give that
+[03:55] a pulse it's going to work now with this
+[03:58] thing you give it a pulse by giving a
+[04:00] little spin so if we give a little
+[04:02] spin there we go it's now started to
+[04:05] draw Power I think it's about 5 volts
+[04:07] and about 20 milliamps Luke spot on
+[04:09] awesome so we've actually got this now
+[04:11] working and the good thing about these
+[04:13] transistor circuits is they're actually
+[04:15] very efficient because they in their
+[04:17] duty cycle they spend a fair amount of
+[04:19] time off and they switch at zero volts
+[04:22] of this last current wasted so they're
+[04:23] very efficient in those terms like I
+[04:26] said this is the heart of the system the
+[04:28] two CS of the transistor
+[04:30] you can do other things with it to
+[04:32] regulate it stabilize it change it from
+[04:34] monostable to aable by using other
+[04:36] components but these are the very basic
+[04:38] components now to get some energy back
+[04:42] out of this of course there are lots of
+[04:44] ways of doing it the Dual Thief famously
+[04:47] just connects an LED we could have a
+[04:49] third coil in there if we wanted we
+[04:52] could use that as a stepup coil like you
+[04:54] would with uh well a a flash charger in
+[04:57] a camera for example or the Slayer excit
+[04:59] or something like that what we're going
+[05:01] to do is use a simple mechanical
+[05:03] arrangement I quite like simple
+[05:04] mechanical Arrangements because they
+[05:06] just show you what's going on you might
+[05:08] have noticed on top of the rotor here
+[05:11] we've got some magnets hang on I'll stop
+[05:13] that and show you so there's the rotor
+[05:15] it's 36 neodymium magnets 1 cm 2 mm if
+[05:18] you want the builds then see the
+[05:20] previous video but on the top of it I've
+[05:22] put some other neodymium magnets six of
+[05:24] them in a north south north south
+[05:26] arrangement we dropped that on and start
+[05:28] it what we can do is you can collect
+[05:30] some current using this coil this is
+[05:32] just a coil from a microwave oven
+[05:34] Transformer and I've connected that up
+[05:36] here so we can see what that current
+[05:38] that voltage is actually going to be so
+[05:39] let's do that okay let's start the
+[05:45] motor 20 milliamps yep okay and here's
+[05:49] our coil and we'll hold that coil next
+[05:50] to our spinning magnets and we should
+[05:52] get a voltage reading and luk will tell
+[05:53] me what that reading is wa 11 volts 11
+[05:57] Vols 12 12 volts 13
+[06:01] [Laughter]
+[06:07] wow what we're getting out of it mate
+[06:09] about 10.7 at the moment now 13
+[06:15] awesome okay that's kind of fun but you
+[06:17] got to ask yourself all right but can it
+[06:19] do anything well I've linked up this set
+[06:22] of four lights to the coil and we're
+[06:24] going to hold the coil over the um
+[06:26] rotating magnets see if we can light
+[06:28] those lights but in order to see it a
+[06:30] little bit better we'll put the lights
+[06:32] out Luke do us a favor mate thank
+[06:49] you cheers
+[06:54] mate okay so there you go now it is a
+[06:57] bit like a mechanical Transformer okay
+[07:00] and it's able to draw the power out and
+[07:02] use the power to do something else and
+[07:04] like I said the thing about it is um the
+[07:06] switching is very efficient and remember
+[07:08] you can get it better by adding extra
+[07:10] components I'm just showing you the
+[07:13] heart of the system okay to my mind that
+[07:16] was pretty cool hey these pulse
+[07:18] oscillators or blocking oscillators are
+[07:21] used all over the place you see them in
+[07:22] switch mode power supplies of course
+[07:24] they're the bestes of the jeel thief you
+[07:26] see them in Slayer exciters anywhere
+[07:29] where you you want to time pulse to do
+[07:31] something turn something on or off
+[07:33] you'll find a readily available option
+[07:36] in these kind of oscillators anyway I
+[07:39] hope you enjoyed the video thank you
+[07:41] very much for watching and please do
+[07:43] remember to like And subscribe

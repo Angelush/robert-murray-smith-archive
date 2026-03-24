@@ -1,0 +1,278 @@
+[00:00] [Music]
+[00:07] hi everybody so on shap now we've talked
+[00:10] about the general principles we've
+[00:11] talked about how it grows out of your
+[00:13] experience with things like Lego and
+[00:15] Tinker CAD now of course what we're want
+[00:17] to do is explore that a bit more by
+[00:19] getting into the nitty-gritty of the
+[00:21] actual program itself so the first thing
+[00:25] we need to do is open ourselves an
+[00:27] account to do that type on shap in your
+[00:30] web browser jump across to it click on
+[00:33] get started and follow the onscreen
+[00:35] prompts to open yourself up an account
+[00:37] now every time you go to On's page
+[00:39] you'll see in the top right hand corner
+[00:42] open UNSC cape and you click on that
+[00:44] that'll take you to this screen and you
+[00:46] fill in your email and the password that
+[00:48] you set up and click sign in that'll
+[00:50] immediately take you to this startup
+[00:52] page which is a list of all the stuff
+[00:53] you've been working on we don't need to
+[00:55] worry about that now we just need to
+[00:57] look at the top left hand where you'll
+[01:00] see a blue create button click on that
+[01:03] and it'll pull up a drop- down menu with
+[01:05] document folder Etc in it we're going to
+[01:08] click on document because it's our very
+[01:10] first document and that will jump us to
+[01:12] this page where we can type in the title
+[01:15] of the file that we're going to create
+[01:17] and because this is a free account I
+[01:18] don't get a choice between public and
+[01:20] private it is open to the public but
+[01:23] then I'm a great fan of Open Source so I
+[01:26] don't really care if the public can see
+[01:27] my files or not in fact I'd rather the
+[01:30] could so it makes it easier for me to
+[01:31] share them anyway you click on that and
+[01:34] that jumps you immediately to this which
+[01:35] is the O onsource work space this is a
+[01:39] relatively clean interface there are
+[01:41] three planes here the top plane the
+[01:43] front plane and the right plane they're
+[01:45] all perpendicular to each other and
+[01:47] intersect at the origin which is the
+[01:48] circle with the dot in it to select
+[01:50] things you use the left Mouse button so
+[01:52] if I click on these planes I've selected
+[01:54] them and a number will appear next to my
+[01:56] cursor to show me how many items I've
+[01:58] selected
+[02:00] if you click on the same plane again
+[02:02] we'll deselect it you can also press the
+[02:05] space bar which will deselect everything
+[02:07] or click on the white space within the
+[02:08] work area and when you're navigating
+[02:10] menus in on shape if you want to stop
+[02:13] something cancel out of it just press
+[02:15] the escape
+[02:20] button you can zoom in and out using the
+[02:23] mouse scroll wheel it's also important
+[02:25] to know how to rotate your views all you
+[02:27] have to do is click and hold down the
+[02:29] mouse right button and then scroll
+[02:31] around and that will change the
+[02:33] orientation okay if you do a lot of
+[02:34] scrolling around and you want to reset
+[02:36] the view so you can find where you are
+[02:39] again click the right Mouse button in
+[02:41] the workspace and choose isometric it's
+[02:43] kind of cool to come up to this and
+[02:45] click on that corner button it makes a
+[02:47] slight adjustment to The View and it
+[02:49] gives a view which I think is more
+[02:51] natural to work with okay now we're
+[02:53] ready to get started now we're just
+[02:54] going to focus on the sketch and extrude
+[02:56] buttons so what you do is create a
+[02:58] sketch and then extrude it into a 3D
+[03:02] object so press a sketch button at the
+[03:04] top left and several things will happen
+[03:07] a sketch dialog
+[03:09] appears with the name sketch
+[03:12] one and a message at the top Center pops
+[03:15] here saying select a sketch
+[03:18] plane also notice in the sketch dialogue
+[03:22] this box is highlighted blue it's
+[03:24] telling us to select a sketch plane in
+[03:26] other words it wants a sketch plane as
+[03:28] an input and that's the sketch plane
+[03:31] that we'll draw our sketch on remember
+[03:33] to make a 2d sketch of our shape we need
+[03:35] to put it on a plane it can't be just
+[03:38] floating around in space we could select
+[03:41] any of the planes but for now let's just
+[03:43] select the top plane you move your mouse
+[03:46] over the plane that you're interested in
+[03:47] it will highlight and then you click it
+[03:49] with the left Mouse button so you can
+[03:51] see what now used to be the blue box has
+[03:53] the word top plane in it and you can
+[03:55] also see graphically that sketch one is
+[03:58] oriented to or over collapse the top
+[04:00] plane if you didn't like that selection
+[04:02] you can press the X here and make
+[04:04] another selection if we think this is a
+[04:06] bit cluttered and messy we can clean up
+[04:08] this workspace we really don't need to
+[04:10] see all these planes visually
+[04:11] intersecting each other and we can hide
+[04:13] them from view on the left sidebar here
+[04:15] under default geometry there are four
+[04:18] items this is the origin the center
+[04:20] point of the workspace and it also gets
+[04:22] highlighted when you hover your mouse
+[04:24] over it and then you can see the top
+[04:25] front and right planes when you hover
+[04:28] over them you should notice this eye
+[04:30] icon it's an open eye it indicates that
+[04:32] these items are currently visible if you
+[04:35] click on it it hides the item from View
+[04:37] and makes them invisible in the work
+[04:39] plane so let's hide the three planes and
+[04:41] leave the origin in place if you want to
+[04:43] show the planes again you can come back
+[04:44] here and just click on them to show them
+[04:47] okay let's create a shape and we're
+[04:48] going to make a rectangle and we have
+[04:50] two choices in the drop-down menu Corner
+[04:53] rectangle or a Center Point rectangle
+[04:55] we're going to use Center Point
+[04:57] rectangle what that does is center of
+[04:58] the rectangle we're going to draw around
+[05:01] the origin so we hover over the origin
+[05:03] until it indicates that you're on there
+[05:05] click once and pull out to draw your
+[05:07] rectangle and you move the mouse to size
+[05:09] it and then click again to finish it
+[05:12] alternatively I could have just held the
+[05:14] mouse button down continue to draw it
+[05:16] release it when it's what I want it to
+[05:18] be and that will draw it too so to look
+[05:20] at this flat what we need to do is make
+[05:22] it flat so click anywhere in the white
+[05:24] space and then click view normal to
+[05:27] sketch space and now we have it in the
+[05:29] way as a flat drawing and that makes it
+[05:31] easier for us to manipulate to set the
+[05:33] size of tangle we need to select the
+[05:35] dimensions button then you select a side
+[05:37] of the rectangle and click once more to
+[05:39] place the dimension it doesn't matter
+[05:41] where the dimension goes just stick it
+[05:43] somewhere that you think's good we can
+[05:45] use this to set the side of the triangle
+[05:47] if you click there it will highlight it
+[05:49] and it shows what the current dimension
+[05:50] of the side is now with on shap you can
+[05:53] choose millimeters or inches but it will
+[05:57] understand if you type in millimet it'll
+[06:00] do it in millimeters if you type in
+[06:01] inches it'll convert it to millimeters
+[06:03] if you've chosen millimeters to display
+[06:06] but it will still understand what it is
+[06:08] that you're putting in there so let's
+[06:09] type in 2 in and you can see it's
+[06:12] converted to millimet 2 in being 50.8
+[06:15] millim so we can set the length let's
+[06:17] say 3 in and dimension tool you can see
+[06:20] here is still highlighted so we don't
+[06:21] need to re highlight it so now we can
+[06:23] select the other side and if we type in
+[06:26] 3 in again because I've set it in
+[06:28] millimeters it will convert it to
+[06:30] millimet for me but it will understand 3
+[06:33] in if I type converting it to 76.2 mm
+[06:37] for me now I want this 3D box to have a
+[06:39] hole through it so let's draw a circle
+[06:41] on our shape select Center Point Circle
+[06:44] hover over the origin and draw out we
+[06:47] can give this a fixed size as well and
+[06:48] that means we need to select the
+[06:50] dimension tool again because we've just
+[06:51] selected Circle click on the circle find
+[06:54] a place for the dimension then enter a
+[06:56] value okay we're ready for step two and
+[06:58] that's to change this two 2D sketch into
+[07:00] a 3D object we can change the view back
+[07:02] to isometric so we can see what will
+[07:04] happen when we extrude our object click
+[07:07] in the Box in the top right of the
+[07:09] window and select the first option next
+[07:11] click on this green arrow to show that
+[07:13] we're done with this sketch for now then
+[07:15] click on the extrude button on the top
+[07:17] left here the extrude dialogue appears
+[07:19] and this one is called extrude one by
+[07:21] default solid is highlighted leave that
+[07:24] selected because we want to create a
+[07:26] solid object instead of just a surface
+[07:28] on the second line here new is selected
+[07:30] by default and we'll leave that selected
+[07:33] because we want to create a new solid
+[07:35] next we have the blue box indicating
+[07:36] what input it's actually looking for
+[07:38] faces and sketch regions to extrude I
+[07:42] want to extrude the rectangular shape
+[07:43] but not the circle so select the
+[07:45] rectangular region and this gives us a
+[07:47] preview of what it will look like if you
+[07:49] use the mouse wheel you can scroll in
+[07:51] and
+[07:56] out and notice the hole in the center
+[08:00] and that's because we didn't select the
+[08:01] circular region so that region won't be
+[08:04] extruded if we go back to the sketch
+[08:06] plan and click on the circle three
+[08:08] things will happen first in the blue box
+[08:10] dialogue another line will be added to
+[08:13] include the selection that we just made
+[08:15] second the preview shows a complete Mass
+[08:18] without the hole because we're extruding
+[08:20] both the circle and the box and third
+[08:23] the cursor now has a little two next to
+[08:25] it and that's to tell you that there are
+[08:28] two selections made
+[08:32] it Okay click on the circle once again
+[08:34] to deselect it because I do want to
+[08:36] extrude around the hole and not the hole
+[08:38] itself the next item on the extrude
+[08:40] dialogue is the end type by default
+[08:43] blind is selected this means the
+[08:44] Extrusion will go a specified distance
+[08:47] or if you like
+[08:50] depth and that means we can change that
+[08:53] so it goes to a specific
+[08:55] height if you click on that drop- down
+[08:57] arrow you can see the other types that
+[08:59] it has and of course you can explore
+[09:01] these when doing your drawings now if
+[09:03] you click on the button to the right
+[09:05] with the two arrows you can change the
+[09:07] dep the direction of the Extrusion now
+[09:11] it's if we select the depth and type in
+[09:14] let's do half an inch soon as we've been
+[09:16] doing this in inches you can preview the
+[09:18] result by just clicking the workspace or
+[09:21] pressing tab or pressing enter
+[09:24] once okay that's it for now we can click
+[09:27] the green arrow for accept or press
+[09:29] enter and that will exit us out of the
+[09:31] extrude
+[09:34] men and there you go our extruded solid
+[09:37] with a hole in the
+[09:39] center so it's like anything you begin a
+[09:41] journey by the first small step and it's
+[09:43] always the first small step that's the
+[09:46] hardest to take now Andre it it takes
+[09:50] one step back from Tinker CAD in Tinker
+[09:52] CAD remember you're using pre-made
+[09:55] Primitives that is ships somebody else
+[09:57] has made for you and you can to position
+[09:59] put those shapes together to create
+[10:02] larger objects with on shape and
+[10:04] actually with all of these drawing
+[10:06] programs because they pretty much all do
+[10:07] the same thing what you're doing is
+[10:10] creating The Primitives from
+[10:12] descriptions of the geometry once you
+[10:15] get a hold of that and the workspace and
+[10:17] make that first step it is very much
+[10:20] easier than a lot of people seem to
+[10:21] think it is anyway I hope you enjoyed
+[10:24] the video thank you very much for
+[10:25] watching and please do remember to like
+[10:27] And subscribe

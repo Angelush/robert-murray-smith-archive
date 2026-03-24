@@ -1,0 +1,61 @@
+{
+  "thing_id": 6156632,
+  "name": "Generator Cradle And Gear",
+  "description": "This is the support structure for converting and ordinary portable drill motor into a brushless DC generator\r\n\r\nIf you are interested in this you really need to see this video https://youtu.be/zXufw3Lhemo\r\n\r\nand this one would be a good idea too https://youtu.be/A8Lpw6AexAM\r\n",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "zXufw3Lhemo",
+      "url": "https://youtu.be/zXufw3Lhemo"
+    },
+    {
+      "video_id": "A8Lpw6AexAM",
+      "url": "https://youtu.be/A8Lpw6AexAM"
+    }
+  ],
+  "tags": [
+    "bdlc",
+    "fwg",
+    "generator",
+    "motor",
+    "robert",
+    "robertus keers",
+    "tnt"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution",
+  "added": "2023-08-05T16:41:37+00:00",
+  "modified": "2023-08-05T16:41:37+00:00",
+  "url": "https://www.thingiverse.com/thing:6156632",
+  "thumbnail": "https://cdn.thingiverse.com/assets/dc/c3/48/d5/21/large_display_e3e353e4-b4c8-4e4b-85a5-51c4ee9d85e8.jpg",
+  "like_count": 42,
+  "collect_count": 52,
+  "comment_count": 1,
+  "download_count": 455,
+  "files": [
+    {
+      "name": "connecton_Plate.stl",
+      "size": 2484,
+      "url": "https://www.thingiverse.com/download:13358331",
+      "download_url": "https://api.thingiverse.com/v2/files/13358331/download"
+    },
+    {
+      "name": "cradle.stl",
+      "size": 22684,
+      "url": "https://www.thingiverse.com/download:13358332",
+      "download_url": "https://api.thingiverse.com/v2/files/13358332/download"
+    },
+    {
+      "name": "motor_body_gear.stl",
+      "size": 769684,
+      "url": "https://www.thingiverse.com/download:13358333",
+      "download_url": "https://api.thingiverse.com/v2/files/13358333/download"
+    },
+    {
+      "name": "gear_to_motor_connection.stl",
+      "size": 877484,
+      "url": "https://www.thingiverse.com/download:13358334",
+      "download_url": "https://api.thingiverse.com/v2/files/13358334/download"
+    }
+  ]
+}

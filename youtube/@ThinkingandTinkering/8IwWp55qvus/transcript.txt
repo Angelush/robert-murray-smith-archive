@@ -1,0 +1,145 @@
+[00:00] foreign
+[00:06] with two magnets on it north and south
+[00:09] facing each other uh voltmeter and a bit
+[00:12] of wire and we're about to do something
+[00:15] that probably everybody's done in their
+[00:17] physics class let's pass a wire between
+[00:19] those two magnets
+[00:36] Okay so we've passed the wire in that
+[00:38] direction and sure enough we got a
+[00:41] voltage reading because we're inducing a
+[00:43] current and if you remember your Dynamo
+[00:45] at all it's motion Force current like
+[00:49] that and they're all at right angles to
+[00:51] each other is exactly why this works the
+[00:54] fields for the magnets is going that way
+[00:57] we're moving the wire that way and the
+[01:00] current comes out that way just like in
+[01:03] our right hand rule so question what
+[01:07] happens if we move the wire that way so
+[01:10] that the force of you like the motion
+[01:13] and the field are in the same direction
+[01:15] or rather not at 90 degrees to each
+[01:18] other well let's give that a try
+[01:28] and how about that that actually doesn't
+[01:31] generate anything okay so this is one of
+[01:34] the reasons people hate physics you're
+[01:36] waggling little bits of wire around them
+[01:38] making these huge assumptions and it all
+[01:40] seems pretty meaningless what is the
+[01:42] meaning of that well let's have a look
+[01:44] at this
+[01:45] this is the stator from an electric
+[01:48] motor and you'll notice there's a huge
+[01:52] amount of copper here and a huge amount
+[01:55] of copper here and very little here
+[01:58] about a quarter to a third of that
+[02:00] weight of Copper is actually in that bit
+[02:03] there that bit is the only bit that can
+[02:07] generate this bit which is the top of
+[02:09] the coils is like the wire going in that
+[02:11] direction even if there is a magnetic
+[02:14] field it's not going to do anything
+[02:15] because it's not in the right direction
+[02:17] so this lump of copper massive lump of
+[02:20] copper here and here does nothing but
+[02:24] add cost and weight to a motor if it's
+[02:28] sorry a generator sorry
+[02:29] it is adding weight of course what it's
+[02:32] doing is bringing down the power density
+[02:34] if it's adding cost to what it's doing
+[02:36] is bringing up the cost per kilowatt
+[02:38] hour so a huge huge question what do you
+[02:42] do about something like that because you
+[02:43] need to join those ones together
+[02:46] obviously but doing it like this is
+[02:49] tremendously wasteful surely
+[02:51] there must be a better way okay I've got
+[02:55] a bit of 16 gauge enameled wire here now
+[02:57] we all know that if I wind up a coil so
+[03:00] that we've got more wire going through
+[03:02] that magnetic field then we're going to
+[03:04] get a higher voltage it's your Lorenzo's
+[03:07] law so there's my coil nicely warmed up
+[03:09] and as I connect that up and pass it
+[03:11] through that magnetic field I'll get
+[03:14] much more generation and this is the
+[03:16] principle on which generators and motors
+[03:19] work and we can do that there we go now
+[03:22] there's no difference between me having
+[03:24] a coil warmed up like that or if I want
+[03:28] to pull that coil out
+[03:31] into a zigzag pattern like that
+[03:35] give that a Twist that way there we go
+[03:38] we get ourselves an M those and the coil
+[03:42] I originally wound are exactly the same
+[03:45] thing as far as the magnet is concerned
+[03:47] and that
+[03:48] is far more interesting than it first
+[03:51] appears and this is far more interesting
+[03:53] because this is what Serpentine coils
+[03:56] are all about
+[03:59] so the process is basically pretty
+[04:01] simple you start off with just a great
+[04:03] big coil of wire you've coiled to the
+[04:05] right length to fit in the spaces of a
+[04:08] former you obviously make those blocks
+[04:10] up the size of your magnets and then
+[04:12] take that single coil and bend it round
+[04:15] the former that you've made and it can
+[04:19] be a little tough to jam those bits of
+[04:22] copper in there you jam them in there
+[04:25] all around the format and the former is
+[04:27] just a copy of the magnets that you're
+[04:29] going to be passing it over
+[04:31] that
+[04:33] it's pretty common
+[04:34] to make three of those that would be a
+[04:37] single phase with three of them you may
+[04:39] go three phase and they're all identical
+[04:42] once you've made three of those you can
+[04:44] lay them on top of each other and when
+[04:46] you lay them on top of each other what
+[04:48] you get is either your Stitch or your
+[04:50] rotor depending whether you're going to
+[04:52] rotate the magnets or rotate the coil
+[04:55] Serpentine coils came in with the Advent
+[04:58] of axial flux generators particularly
+[05:01] call us axial flux generators and the
+[05:04] call is axial Flux Of The Forefront of
+[05:06] research for home scale micro generation
+[05:10] because they solve such a lot of other
+[05:12] issues but Serpentine really is about
+[05:16] the sweet tedium of writing individual
+[05:19] coils that are complete another pain in
+[05:21] the neck Serpentine coils certainly make
+[05:24] that aspect of the job very much easier
+[05:26] because you're just buying one big coil
+[05:28] forcing it into a former but they don't
+[05:31] do anything about one of those important
+[05:33] issues if you noticed the serpentine has
+[05:37] stretched hair and then abandoned and
+[05:39] then a stretch shape the only bit of
+[05:41] generation is in that straight shape you
+[05:43] want that straight piece to be crossing
+[05:45] the whole of your magnet any of that top
+[05:47] piece of the coil that crosses the
+[05:49] magnet just takes up magnetic flux and
+[05:52] reduces the length of wire that's
+[05:54] actually experiencing the magnetic flux
+[05:56] remember your Fleming Rule and that is a
+[06:00] waste so it doesn't do anything for the
+[06:02] lump of copper above and below it just
+[06:05] solves the issue of how to unwind a coil
+[06:07] without winding lots of individual coils
+[06:10] now there is a solution to that waste of
+[06:14] copper and we're going to cover that in
+[06:16] the next video I hope you enjoyed this I
+[06:18] hope um Serpentine coils are of interest
+[06:20] to you because they do have that place
+[06:22] and they are stunningly easy to make and
+[06:27] use in a cordless action or flux
+[06:29] generator anyway hope you enjoyed the
+[06:32] video thank you very much for watching
+[06:34] and please do remember to like And
+[06:35] subscribe

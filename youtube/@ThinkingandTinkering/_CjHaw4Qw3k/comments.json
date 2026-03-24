@@ -1,0 +1,359 @@
+[
+  {
+    "id": "UgxSv7tQtsCZsR9-SkR4AaABAg",
+    "author": "@edkoetsier339",
+    "author_channel_id": "UCQI07nG1W5N_65xQZhEAxIA",
+    "text": "You have slipped into the twilight zone. You will consume Arduino, then other microcontrollers, then Pi, then Jenson, then Ai. It is endless and endlessly fun. Input Pullup is among the first thing people learn when using the Mega328 to do anything, that and button debounce routines.",
+    "likes": 0,
+    "published_at": "2021-03-10T00:17:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxtVGJyBpZVw2h5Pad4AaABAg",
+    "author": "@happydrones9187",
+    "author_channel_id": "UCXSwI1f7l1U_2UBBsFK1_gw",
+    "text": "Better on the schematics...\nBut still..\nHere's the sketch...\nAnd i see a link..\nAm i supposed to click on it?\nIm here for basic knowledge..love the channel..\nStayin engaged best i can..\nDont slow down for me..\nHope you do stacking..",
+    "likes": 0,
+    "published_at": "2021-03-08T23:54:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzUfyW0RCn0lI83SUx4AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "it's called a weak pullup usually and can anywhere from 30 to 200k ohms. It differs a lot even between controllers of the same type ( it's on the controller  ... not so much on the board .. ). This does away with switch current and for some types of switches that is bad. for sliding switches and gold contact switches it's fine. The minimum current can usually be found in the datasheet for switches and relay contacts.",
+    "likes": 1,
+    "published_at": "2021-03-08T22:31:53Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwsxwBNiU7nFPxm8654AaABAg",
+    "author": "@davidrathbone6978",
+    "author_channel_id": "UCO71hDWZmwm_c9C5npFz90g",
+    "text": "Not sure that Arduino from Rob is the way to go for me any longer many thanks for years about chemistry bye",
+    "likes": 0,
+    "published_at": "2021-03-08T22:14:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyfqaaYvIO9RfHVUQN4AaABAg",
+    "author": "@hunter00047",
+    "author_channel_id": "UCj8U_NxpVNzN_MQ2ggMPG9w",
+    "text": "By starting on the arduino, you will have years of material. I hope no one is put off as it's well worth it.",
+    "likes": 1,
+    "published_at": "2021-03-08T22:06:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzBg4gwZna3pXxEaa54AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Just be careful, once you delve into the world of Arduino you will want to keep following the rabbit hole. They are so much fun and the world is your playground. You can do things over WiFi, Bluetooth and the list continues.",
+    "likes": 2,
+    "published_at": "2021-03-08T21:01:53Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzBg4gwZna3pXxEaa54AaABAg.9KdWmtrY99x9Kg3Cnq8Wg0",
+        "author": "@matthewspotten3533",
+        "author_channel_id": "UCHJeMtV0XGLD8fwGG-wML7Q",
+        "text": "Yep that's what happened to me.",
+        "likes": 0,
+        "published_at": "2021-03-09T20:41:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxuxYPOekxdOMaccKl4AaABAg",
+    "author": "@DanA-nl5uo",
+    "author_channel_id": "UC7yo7dG1vwe9YzK-sWMMQgg",
+    "text": "I keep waiting for you to wire this to your conductive ink buttons you where making in the past.",
+    "likes": 0,
+    "published_at": "2021-03-08T20:33:15Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxb2NsT_M_C_WCro2d4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "Nice DVD:)",
+    "likes": 0,
+    "published_at": "2021-03-08T19:10:37Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxb2NsT_M_C_WCro2d4AaABAg.9KdK2x31VXr9KdLosMQZUV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thanks!",
+        "likes": 0,
+        "published_at": "2021-03-08T19:26:02Z"
+      },
+      {
+        "id": "Ugxb2NsT_M_C_WCro2d4AaABAg.9KdK2x31VXr9KdNT-0vO1m",
+        "author": "@lightcapmath2777",
+        "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+        "text": "@ThinkingandTinkering I like seeing the diagrams. It helps me understand better. keep up the tutorials DVD:)",
+        "likes": 0,
+        "published_at": "2021-03-08T19:40:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzgfIUonrYHLnUSZfB4AaABAg",
+    "author": "@kenrowe167",
+    "author_channel_id": "UCztmcVOR_8rKOK9kPVXc-xg",
+    "text": "Actually, Rob, your external resistor was connected to Gnd - so a pull down, with the switch connected to +V - so closing the switch turns the LED on, The internal pull up is conected to +V and your switch is connected to Gnd - so closing the switch grounds the input and the LED goes off.",
+    "likes": 1,
+    "published_at": "2021-03-08T19:00:54Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgzgfIUonrYHLnUSZfB4AaABAg.9KdIwljm6-e9KdLnJfSWeE",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "did you watch all of the video mate?",
+        "likes": 0,
+        "published_at": "2021-03-08T19:25:49Z"
+      },
+      {
+        "id": "UgzgfIUonrYHLnUSZfB4AaABAg.9KdIwljm6-e9KdVYqbUg-T",
+        "author": "@kenrowe167",
+        "author_channel_id": "UCztmcVOR_8rKOK9kPVXc-xg",
+        "text": "@ThinkingandTinkering Yes. I always do.",
+        "likes": 0,
+        "published_at": "2021-03-08T20:51:06Z"
+      },
+      {
+        "id": "UgzgfIUonrYHLnUSZfB4AaABAg.9KdIwljm6-e9KdglorB5h4",
+        "author": "@1967spark",
+        "author_channel_id": "UCmTJlSt-oZf9Fw2Bxq7iFuQ",
+        "text": "A very good point Ken, I suspect that a pull down resistor was used in the first demo sketch as it is more natural for people to think of the switch closing as turning the input \"on\".",
+        "likes": 0,
+        "published_at": "2021-03-08T22:37:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJo0fFzztBz6SZKhd4AaABAg",
+    "author": "@TheEmbeddedHobbyist",
+    "author_channel_id": "UCFMlDseanOpkX9NBuNPJaDA",
+    "text": "Any input generated by a switch will need to be debounced either by software or an RC filter. If you’re just driving a relay on an output pin you may not notice the output toggling up and down until it settles in the correct state.  But if you want to turn a function on or off via the switch you may end up in random on or off states. Switch contacts can bounce quite a lot and the Arduino is fast enough to see most of them as individual switch states, so you press the button once the Arduino see 10 or more.",
+    "likes": 2,
+    "published_at": "2021-03-08T18:15:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyJo0fFzztBz6SZKhd4AaABAg.9KdDmipnfMo9KdLr03u_3n",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "next video mate - best not to do everything at once lol",
+        "likes": 0,
+        "published_at": "2021-03-08T19:26:20Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwzRiuH2REbKe5psAN4AaABAg",
+    "author": "@danielhayes4782",
+    "author_channel_id": "UCSqCqnnwVztb2MADwolkeYw",
+    "text": "I realize that this is off topic from this video, but I wasn’t exactly sure which video it may ON topic for and I wasn’t sure how to contact you through another channel. But I have a question.... in theory, would it be possible to use a controlled flyback voltage as a way to make flash graphene? If you can predict a voltage spike, couldn’t you just put graphite directly in the path of that voltage spike?",
+    "likes": 0,
+    "published_at": "2021-03-08T18:12:03Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwzRiuH2REbKe5psAN4AaABAg.9KdDLy9Fl7R9KdM-cEtnPR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it's not voltage mate - it's the amount of joules you put through it - so yes you could if your flyback can handle the amps - they tend no to be able to - but that doesn't mean they can't",
+        "likes": 0,
+        "published_at": "2021-03-08T19:27:38Z"
+      },
+      {
+        "id": "UgwzRiuH2REbKe5psAN4AaABAg.9KdDLy9Fl7R9KdOPnTWvDL",
+        "author": "@danielhayes4782",
+        "author_channel_id": "UCSqCqnnwVztb2MADwolkeYw",
+        "text": "That makes sense. Thanks for the response.",
+        "likes": 0,
+        "published_at": "2021-03-08T19:48:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzyUyxsd10PAYF_t_R4AaABAg",
+    "author": "@AM-us7cz",
+    "author_channel_id": "UCEYv14u575N4auXnJPI0-Fg",
+    "text": "Thanks Rob, Brilliant 👏. I only wish I had a clue what you are going on about, but I think I'm learning slowly. I don't always understand But always love it. Thanks",
+    "likes": 0,
+    "published_at": "2021-03-08T17:02:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzyUyxsd10PAYF_t_R4AaABAg.9Kd5OhaUrM-9KdM4LK5gPx",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "it is hard mate - but the whole point is to jump in and take small steps - that's how you get there",
+        "likes": 0,
+        "published_at": "2021-03-08T19:28:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyCQJihsz2IKwPf-op4AaABAg",
+    "author": "@CrazyT2009",
+    "author_channel_id": "UCOQ_d7iDH9noIHgEJ8rgHuw",
+    "text": "Correct me if i'm wrong, but I think the pullup-resistor is inside the microcontroller and not on the board.",
+    "likes": 0,
+    "published_at": "2021-03-08T16:38:15Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyCQJihsz2IKwPf-op4AaABAg.9Kd2byZ3mSt9KdCA_-qO3q",
+        "author": "@TheEmbeddedHobbyist",
+        "author_channel_id": "UCFMlDseanOpkX9NBuNPJaDA",
+        "text": "No need to be corrected your right",
+        "likes": 0,
+        "published_at": "2021-03-08T18:01:45Z"
+      },
+      {
+        "id": "UgyCQJihsz2IKwPf-op4AaABAg.9Kd2byZ3mSt9KdM8PG-wjK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "for sure - but it doesn't really matter when it comes to using it and we don't need to be too technical I think at this stage",
+        "likes": 0,
+        "published_at": "2021-03-08T19:28:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyDkHsEH-700GW5nUt4AaABAg",
+    "author": "@ThisRandomUsername",
+    "author_channel_id": "UCxaPwpC-_wFEWqSRlJ3Ea7Q",
+    "text": "Input pull-up is quite handy, but as you said the original external pull-up was used to make it more noise-immune. If you're having issues with noise triggering the inputs, look into software debouncing code. It works by checking the value over a few milliseconds to make sure it's still pressed or unpressed. Obviously for limit switches you want to react immediately, so don't do that, but for trigger switches you want to be sure the trigger is properly pressed before reacting.",
+    "likes": 1,
+    "published_at": "2021-03-08T16:36:22Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgyDkHsEH-700GW5nUt4AaABAg.9Kd2PCY-jXr9KdMAbtt9bF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I debounce on the next vid mate",
+        "likes": 0,
+        "published_at": "2021-03-08T19:29:08Z"
+      },
+      {
+        "id": "UgyDkHsEH-700GW5nUt4AaABAg.9Kd2PCY-jXr9KdMuQiy4SR",
+        "author": "@ThisRandomUsername",
+        "author_channel_id": "UCxaPwpC-_wFEWqSRlJ3Ea7Q",
+        "text": "@ThinkingandTinkering Oh nice. These are really simple, practical tutorials you're doing which will help people on the edge get their feet wet. Great job!",
+        "likes": 0,
+        "published_at": "2021-03-08T19:35:32Z"
+      },
+      {
+        "id": "UgyDkHsEH-700GW5nUt4AaABAg.9Kd2PCY-jXr9KdOWPCobQp",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate and to be honest - that's what I aiming for - I know I am missing a lot out - but I just want folks to get going as easy as possible",
+        "likes": 1,
+        "published_at": "2021-03-08T19:49:35Z"
+      },
+      {
+        "id": "UgyDkHsEH-700GW5nUt4AaABAg.9Kd2PCY-jXr9KdufK-1507",
+        "author": "@nil5221",
+        "author_channel_id": "UCei0WHrIVkCIzP7ChTHZo9g",
+        "text": "You may have just made a typo, but the original (with external resistor) was pull-down, not pull-up.",
+        "likes": 0,
+        "published_at": "2021-03-09T00:39:18Z"
+      },
+      {
+        "id": "UgyDkHsEH-700GW5nUt4AaABAg.9Kd2PCY-jXr9KeVcbOOGge",
+        "author": "@ThisRandomUsername",
+        "author_channel_id": "UCxaPwpC-_wFEWqSRlJ3Ea7Q",
+        "text": "@nil5221 Ah, I forgot about that, but either way as Rob said, a stronger pull-somewhere would be more noise-immune.",
+        "likes": 1,
+        "published_at": "2021-03-09T06:10:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwldrDxf7H5PlfObZZ4AaABAg",
+    "author": "@stevecummins324",
+    "author_channel_id": "UCeBuyqNkAIE8lFfxo4LrEFA",
+    "text": "The capacitive Sensing Library might be of interest.\nLibrary does most of the coding work to replaces a mechanical switch by 1 resistor, a wire and optionally a conductive pad... as well as button, can then to make scroll wheels, sliders etc. all without needing to make cut outs in a plastic enclosure. I've printed out button layouts on transparancy sheet,, including nice neat txt labels, then glued the sheet outside of enclosure... sticky foil applied behind behind the appropriate points of the button layout, work to sense finger near button. likely your conductive ink would work too.",
+    "likes": 0,
+    "published_at": "2021-03-08T16:29:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwldrDxf7H5PlfObZZ4AaABAg.9Kd1eTjZihV9KdMCpIiXb0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "love it mate and done a vid on it I think",
+        "likes": 0,
+        "published_at": "2021-03-08T19:29:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugyxji624xI4NAEXZTx4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "Hi mate another valuable video.  Two questions one that might be very silly 😜 🤪 🤣.  Could you make a brushless motor controller out of this and can these switches be programed to milliseconds.  Maybe I'll do a bit of research now 🤔",
+    "likes": 0,
+    "published_at": "2021-03-08T16:14:50Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugyxji624xI4NAEXZTx4AaABAg.9Kd-wUIsUdf9Kd0K9HNFJJ",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "OMG The absolute maximum number of interrupts per second that can be handled by the AT90USB82 is 16 million instructions per second / 14 instructions per interrupt = 1,142,857 interrupts per second",
+        "likes": 0,
+        "published_at": "2021-03-08T16:18:12Z"
+      },
+      {
+        "id": "Ugyxji624xI4NAEXZTx4AaABAg.9Kd-wUIsUdf9KdMaW3Inxy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you can generate the timing signals - no worries - but you still need an ESC as the Arduino can't handle the power  - quite a few vids on it mate",
+        "likes": 0,
+        "published_at": "2021-03-08T19:32:49Z"
+      },
+      {
+        "id": "Ugyxji624xI4NAEXZTx4AaABAg.9Kd-wUIsUdf9KdR2YlRSxC",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "@ThinkingandTinkering Just thinking out loud with no real understanding lol. I will have a look. I am in hospital Friday so let's hope it nothing serious as I still have lots of learning to do.",
+        "likes": 0,
+        "published_at": "2021-03-08T20:11:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx4itJP6ynzYUUVNb94AaABAg",
+    "author": "@stubluesjhb1",
+    "author_channel_id": "UCq1jcNGgYg-CIVQhQ7lcRbg",
+    "text": "You have rekindled my interest with this series.  I used to play with an Acorn Atom with A to D converter and relays through its 64 way port.",
+    "likes": 0,
+    "published_at": "2021-03-08T16:13:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx4itJP6ynzYUUVNb94AaABAg.9Kd-q9tABBr9KdMc3y8rtZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate",
+        "likes": 0,
+        "published_at": "2021-03-08T19:33:02Z"
+      }
+    ]
+  }
+]

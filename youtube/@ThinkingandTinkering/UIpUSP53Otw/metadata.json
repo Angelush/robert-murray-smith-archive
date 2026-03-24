@@ -1,0 +1,22 @@
+{
+  "video_id": "UIpUSP53Otw",
+  "title": "Flynn Motor Replication 4 - experimental version",
+  "description": "I built this version so that i could change the configuration of the motor relatively easily. I also had a couple of other issues with the original motors - I have used relatively small magnets in relation to the armature size for a few reasons - one of them being that i was worried that saturation had an effect to play and so i wanted some degree left in the laminations before they were fully saturated, another was a sneaking suspicion i have that magnetic field strength would have some role to play in energy consumption as it relates to the power required to switch. Both seemed reasonable to me so i reduced the magnetic strength somewhat to see what effect it has - I don't have a gauss meter - so it is a little ad hoc. The magnets arent fixed by more than their own pull so it will be an easy - well relatively easy - job to pull the magnets and replace them with ones of higher or lower gauss. Yet another variable to play with.",
+  "published_at": "2012-02-04T22:22:30Z",
+  "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+  "channel_title": "Robert Murray-Smith",
+  "tags": [
+    "flynn",
+    "motor",
+    "generator",
+    "free",
+    "energy",
+    "replication"
+  ],
+  "duration": "PT5M39S",
+  "view_count": "11125",
+  "like_count": "70",
+  "comment_count": "14",
+  "url": "https://www.youtube.com/watch?v=UIpUSP53Otw",
+  "thumbnail": "https://i.ytimg.com/vi/UIpUSP53Otw/hqdefault.jpg"
+}

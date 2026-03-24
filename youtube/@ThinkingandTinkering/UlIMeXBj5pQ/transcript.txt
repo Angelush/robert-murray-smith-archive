@@ -1,0 +1,261 @@
+[00:00] [Music]
+[00:08] one of the things I hear about 3D
+[00:10] printing quite a lot is well it's just a
+[00:13] hobby it's used to make models and toys
+[00:15] why can't we make some real machines out
+[00:18] of it now 3D printing has been used to
+[00:21] make real machines but that was playing
+[00:24] in my head for a bit when I came across
+[00:26] this mechanism drawn by than than does
+[00:30] some awesome work and anything that
+[00:32] moves is always really cool and I looked
+[00:34] at this mechanism and the first thing
+[00:37] you think about when you see something
+[00:38] like that is well that is awesome but
+[00:40] what's it used for now that is used for
+[00:44] things like pipe building machines and
+[00:46] cable wrapping machines and there was a
+[00:48] brilliant video of a chap who did a
+[00:50] build out of steel of a cable time
+[00:54] wrapping machine and it was just
+[00:56] beautiful and I thought to myself well
+[00:58] can we actually do do that in 3D
+[01:00] printing and make ourselves a useful
+[01:03] machine using 3D printing now if you
+[01:06] look at both the drawing and the
+[01:08] machiners it was made its key component
+[01:10] is a ring gear and it's an internal ring
+[01:12] gear and you can draw internal ring
+[01:15] gears with Tinker CAD but it's a bit of
+[01:17] a challenge and needs a fair amount of
+[01:19] math much easier is just to grab one of
+[01:22] the standard gears once you're in Tinker
+[01:24] CAD go up to the search which is there
+[01:26] and type in gear
+[01:30] that is what you want it's called metric
+[01:32] gear just pull one onto the workspace
+[01:34] and you'll see it's a standard size with
+[01:36] this pull down box module is the size of
+[01:39] the teeth so I like them nice and chunky
+[01:42] so if we click on there and type in two
+[01:44] it will create a much chunkier tooth and
+[01:47] it does that by increasing the size you
+[01:50] see the size there is 40 is roughly
+[01:52] twice the number of teeth if we put 60
+[01:55] teeth in there then we get 60 teeth
+[01:58] let's change the color of that so it's a
+[02:00] bit easier to
+[02:02] see we have ourselves a massive gear
+[02:06] going to change the size of that it's a
+[02:08] little Slimmer and there we go now we
+[02:10] can get rid of that take a
+[02:14] hole smooth it out this you'll note is
+[02:18] 123x 123 so let's make this
+[02:28] 110 center them to each other by hitting
+[02:31] the center click to that that that
+[02:35] centers it and now we can merge
+[02:38] those we get ourselves a ring gear but
+[02:41] with external teeth now it's not too
+[02:44] much of a problem to drive that but it's
+[02:46] really easy to make that we can stick a
+[02:48] wedge in there by pulling that primitive
+[02:51] changing it to a hole and reorienting it
+[02:53] because at the moment obviously it's in
+[02:55] the wrong position so we need to move
+[02:58] that 90°
+[03:01] de check that it's on the
+[03:08] plane then rotate that another
+[03:15] 90° and we can increase the size of that
+[03:18] by pulling that bar and we'll create
+[03:20] ourselves a wedge
+[03:31] Center it to
+[03:38] that and we can use that primitive to
+[03:41] chop a hole in the center so that we can
+[03:43] actually pass the wires
+[03:45] through if we then merge that we get our
+[03:49] external ring gear with a notch cut in
+[03:51] it okay you can export that STL file
+[03:54] import it into a slicer and take it to
+[03:56] your printer of choice and once you
+[03:58] printed it off that's what you get now
+[04:00] you'll notice there a couple of extra
+[04:02] bits added here this is going to be the
+[04:04] tape carry and all it is is the
+[04:05] semicircular primitive And the cylinder
+[04:08] primitive so I can stick my tape on the
+[04:10] top now I've chosen to make some design
+[04:13] changes here so we're doing it
+[04:14] externally driven instead of internally
+[04:16] driven because it's easier to draw that
+[04:19] drawing if you want to so some of the
+[04:21] choices I've made are just personal
+[04:23] choices for instance I'm not going to
+[04:25] use bearings now that will limit the
+[04:27] life of the machine and if you want to
+[04:29] redesign it you could redesign it for
+[04:31] steel p and bearings if you wanted to
+[04:33] I've made those choices because I think
+[04:35] I'll get enough of a life out of plastic
+[04:37] rubbing on plastic to be able to oh do a
+[04:40] few jobs I'm not going to use this
+[04:42] industrially I'm going to use it every
+[04:44] now and then so it's appropriate to me
+[04:47] if you want to make different decisions
+[04:48] then make different decisions when
+[04:50] you're designing your machine and that's
+[04:52] what I mean about working with a tool
+[04:55] working with your problems or you
+[04:57] actually want rather than putting up
+[04:58] with what other people have done that
+[05:00] you have to then put up with you can
+[05:02] make those changes yourself and I'm
+[05:04] going to make three changes the
+[05:06] externally driven ring instead of the
+[05:08] internally driven ring is a choice I've
+[05:10] made to make it easier to draw in Tinker
+[05:13] cab that's all I could have made it
+[05:15] internal but I decided an external
+[05:17] because a super easy drawing and it
+[05:19] doesn't really affect it now
+[05:20] traditionally when you look at them you
+[05:22] see them having a load of bearings on
+[05:23] the outside of the ring but here we're
+[05:26] going to drive against the inside and so
+[05:28] the B unit which is right here it's got
+[05:30] a whole load of support pegs to keep her
+[05:32] top and the bottom apart and a tiny lip
+[05:35] in there because
+[05:37] this goes in there like that and once it
+[05:40] gets driven around the lip holds it in
+[05:42] place and so it doesn't slide of course
+[05:45] I've got to drive it now you have to
+[05:46] leave this Gap so that you can get the
+[05:49] wires in there but it creates a problem
+[05:51] if you're driving by a single gear there
+[05:53] comes a point when the gear is in the
+[05:55] Gap and of course you lose your drive
+[05:57] the way to cope with that is you
+[05:59] actually have two gears one either side
+[06:02] slightly bigger than the Gap so the gear
+[06:05] is always engaged with the drive gear
+[06:07] and the ring gear and of course I
+[06:09] created two Drive gears and those two
+[06:12] Drive gears just slot in
+[06:15] there and there so that I get continuous
+[06:19] drive so there's my Bas plate with it
+[06:21] little lip there the ring gear goes on
+[06:24] like that then that gear goes in there
+[06:26] and that gear goes in there now when I
+[06:28] drive that it'll turn to that point but
+[06:31] then this one's also being driven so
+[06:33] that it never loses engagement obviously
+[06:36] need a top plate on that and the top
+[06:38] plate equally has a little lip on it and
+[06:41] it fits on like
+[06:45] that so the whole thing's held in place
+[06:48] now we need some gears on there to drive
+[06:50] it if we pop two gears on the top if we
+[06:52] drive these two gears it will drive
+[06:54] those gears Drive the ring traditionally
+[06:57] what they do is put a chain on on those
+[07:00] because you need them to drive in the
+[07:01] same direction but as it happens if you
+[07:04] have two gears engaged then this gear
+[07:08] say is turning clockwise this one will
+[07:10] turn anticlockwise so for any two gear
+[07:13] group one gear turns in the opposite
+[07:16] direction to the other gear of course
+[07:18] this is true on this side as well so if
+[07:20] I turn this clockwise this will turn
+[07:22] anticlockwise and this will turn
+[07:24] anticlockwise turning in the same
+[07:26] direction which is exactly what we want
+[07:28] so if I put a support in there which is
+[07:31] there pop that on then I can engage
+[07:33] those gears and as I turn that one then
+[07:37] this whole thing will turn just exactly
+[07:41] how I want it to so this now becomes the
+[07:43] main Drive Cog instead of having a chain
+[07:46] and that's the second change that I
+[07:48] wanted to make because here you can make
+[07:51] some decisions I want to make this hand
+[07:53] driven because that's just my bent I
+[07:56] like hand driven machines if you wanted
+[07:58] to make it motor driven that's where
+[08:00] your motor would go for me I'm going to
+[08:03] put a crank handle on it so that I'm
+[08:05] able to crank that around obviously a
+[08:07] grip handle will go on there and then we
+[08:10] need a couple of things here to stop
+[08:12] everything falling
+[08:14] off okay and there's the whole thing put
+[08:17] together now it's held together with
+[08:18] Superglue because in my experience
+[08:20] superglue is a surprisingly strong bond
+[08:23] in most cases it's stronger than the
+[08:25] plastic but if you want different
+[08:27] fastenings in there well design
+[08:29] different fashioning again it's all
+[08:30] about choices you make but if I turn
+[08:33] this handle of
+[08:36] [Applause]
+[08:40] course that turns big surprise but of
+[08:43] course it has a tape carrier there and
+[08:45] that tape turns with it as I crank that
+[08:49] handle it's
+[08:52] awesome okay there's something to notice
+[08:54] here that Peg is on the opposite side
+[08:57] when I was demonstrating the peg came up
+[08:58] this way but clearly that Peg is for the
+[09:01] tape carrier and if I left it there it
+[09:02] would bash into the gearing so we swap
+[09:04] it around and it doesn't make any
+[09:06] difference which way around it is so
+[09:07] shop it around so the peg is there and
+[09:09] the tape carrier will then extend over
+[09:12] here and as it travels up there won't
+[09:14] bash into the gears and that's the tech
+[09:16] carrier these three parts this bit goes
+[09:19] on there and it's free to swivel that's
+[09:21] just a retaining clip to stop it falling
+[09:23] off so that goes on there and then the
+[09:25] tap will go on there like that and this
+[09:28] whole arm
+[09:29] fits onto that Peg there and there you
+[09:32] go with this tap carrier now it's all
+[09:34] ready to go the only thing really to do
+[09:36] with it is give it a go and see
+[10:22] T it actually worked amazing hey like
+[10:26] anything it's a learning experience I
+[10:28] think I will put a motor on that'll make
+[10:31] it an awful lot easier to use cuz
+[10:33] cranking it was tiny bit of a pain but
+[10:36] this bit is the heart of it the bit that
+[10:37] matters and as I said I made this this
+[10:39] size because it's the very first one
+[10:41] I've made I dreamed up this idea um
+[10:43] using those two changes externally
+[10:45] driven and then instead of a chain a cog
+[10:47] there that were actually turning and I
+[10:49] used a handle for it but I think I put a
+[10:51] motor on that and of course you can make
+[10:53] this bigger if you want to I just made
+[10:55] that because it was a a random guess I
+[10:57] no idea how good how big needs to be but
+[11:00] certainly that will work to treat I'm
+[11:02] quite pleased about that now I will put
+[11:04] these on thingy verse the link will be
+[11:06] in the description for anybody who wants
+[11:08] this and feel free to adapt it however
+[11:10] you like and and we've gone through some
+[11:12] of the ways of making it so if you want
+[11:13] to make it bigger or want to make
+[11:15] changes then the mechanism I think is
+[11:17] pretty clear and what you need to do in
+[11:19] order to get that mechanism to work work
+[11:21] to treat I'm quite pleased with that so
+[11:23] a real machine made by 3D printing that
+[11:26] can do a job hope you enjoyed the video
+[11:28] thank you very very much for watching
+[11:30] and please do remember to like And
+[11:31] subscribe

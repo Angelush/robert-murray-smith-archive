@@ -1,0 +1,386 @@
+[00:02] [Music]
+[00:16] hi so i'm going to talk a little bit
+[00:17] about
+[00:18] concepts here actually and some of the
+[00:20] guiding principles if you like
+[00:22] and to do that i'm going to do some
+[00:24] things that seem a little silly at first
+[00:26] a little fatuous
+[00:27] but bear with it because it'll make
+[00:29] sense at the end of the day
+[00:31] anyhow let's have having given you that
+[00:34] warning i'm not going to do that stuff
+[00:36] but like i say i'm being deliberately
+[00:38] silly okay
+[00:40] so let's have a look at this thing this
+[00:42] thing is
+[00:43] clearly a light switch watch what
+[00:45] happens when i do that with it
+[00:48] isn't that awesome it turns the lights
+[00:51] off and on
+[00:53] the thing that i wonder is how do the
+[00:56] lights
+[00:56] know when i press that switch how do the
+[00:59] know to go off what is it that tells
+[01:02] them to go off
+[01:03] of course that's a stupid question
+[01:05] because nothing
+[01:07] tells them to go off it's built so that
+[01:10] it will
+[01:10] operate that way but i have a choice
+[01:13] when i look at this
+[01:15] i have a choice to either say that i
+[01:17] break the wire and the lights will turn
+[01:19] off all part of the system that the
+[01:21] lights and switch
+[01:22] is or i have another choice to be able
+[01:25] to say that the
+[01:26] lights sense that the switch
+[01:29] has been turned off now it makes no
+[01:31] sense to say such a thing
+[01:33] when we're talking about a single light
+[01:34] switch but actually
+[01:36] that is exactly what we're doing when
+[01:39] we're thinking about computing
+[01:41] in the last video where we're talking
+[01:43] about the early days
+[01:44] of voltage regulation we looked at this
+[01:47] as an electromechanical voltage
+[01:49] regulator
+[01:50] and when we applied a voltage to the
+[01:53] coil we
+[01:54] changed the field strength that was
+[01:56] being generated
+[01:57] and that moved that switch turning it
+[02:00] off
+[02:01] now in a way this
+[02:04] is a sensor it senses
+[02:08] the change in voltage and turns off the
+[02:11] switch
+[02:12] because that's only one way of looking
+[02:14] at it actually it is intrinsic to the
+[02:17] property
+[02:18] of what we've built we put more voltage
+[02:20] in there
+[02:21] that magnetic field is going to get
+[02:23] stronger and it is going to turn that
+[02:25] off because
+[02:26] it just must do there is no sensing
+[02:30] going on here in the same way that there
+[02:32] is no sensing
+[02:33] when i turn off the light but actually
+[02:36] there is
+[02:37] also sensing going on here because that
+[02:40] field strength
+[02:41] changes dependent on the voltage
+[02:44] so this is a bit of a crossover point
+[02:46] it's easy to see when we put a light
+[02:48] switch off and on that no sensing is
+[02:50] involved
+[02:51] it gets a little bit more complicated
+[02:52] that no sensing is involved
+[02:55] but sensing is involved when you get to
+[02:57] a device like this
+[02:58] where it's kind of a bit of a crossover
+[03:01] really but it's still essentially the
+[03:03] same thing and actually
+[03:05] we are just making a choice about how we
+[03:08] see it we can see it as sensing
+[03:11] or we can see it as intrinsic either way
+[03:14] it's good it's a way of talking about
+[03:18] it now when we're looking at individual
+[03:20] things
+[03:21] like a light switch or a single
+[03:23] mechanical relay
+[03:25] it's easy to see what i'm talking about
+[03:28] because you can see them because they're
+[03:30] big enough
+[03:31] to see but when i have a million little
+[03:34] switches and each one smaller than a
+[03:35] pinhead
+[03:36] and it's encased in a black box you
+[03:38] can't see it
+[03:40] and when we talk about it as sensing
+[03:42] something it becomes
+[03:44] mysterious and that's where the problem
+[03:46] arises
+[03:47] because these things operate not because
+[03:50] they're magical
+[03:51] but because they're built to operate
+[03:53] that way this thing
+[03:55] both does and doesn't sense the current
+[03:58] because it's
+[03:59] sorry the voltage because it's built to
+[04:01] operate that way
+[04:02] it's the same thing in a computer a
+[04:04] computer is nothing more
+[04:06] than a million or a billion switches
+[04:09] in the position of off and on depending
+[04:13] on their position they'll do something
+[04:15] that something is intrinsic to the
+[04:16] property of the way the switches are
+[04:18] switched
+[04:19] that's all there is now it's often
+[04:21] viewed
+[04:22] that the um first computer was in fact
+[04:25] something called the jacquard loom
+[04:28] now a loom works because you raise some
+[04:30] strings up and down
+[04:32] you have all these strings running in
+[04:33] one direction and they're different
+[04:34] colors
+[04:35] you have another string that you weave
+[04:36] in and out in that direction
+[04:39] depending on where those strings in that
+[04:41] direction are lifted
+[04:43] the colours will change if i lift if i
+[04:45] have red green
+[04:46] blue and i lift the green i'll see the
+[04:49] green
+[04:50] if i lift the two red the red and the
+[04:52] blue i'll see the red and the blue
+[04:54] so that pattern depends on the position
+[04:57] of the string
+[04:58] now a weaver will use that by pressing
+[05:02] foot pedals to raise some strings up
+[05:04] then put the other string through in
+[05:07] that direction
+[05:08] and you are weaving it's a tremendously
+[05:10] tedious job it's a
+[05:11] great skill it takes a lot of time to do
+[05:14] all of that stuff
+[05:15] then this french guy came around and
+[05:17] said okay all we're doing is raising
+[05:19] strings let's put
+[05:20] a bar over with some holes press the
+[05:23] whole lot with my foot
+[05:24] only where the holes are can the rods go
+[05:27] up and only where the holes are
+[05:29] will those strings be lifted then if i
+[05:32] change the bar
+[05:33] then i will change the pattern and
+[05:35] that's exactly what he did
+[05:36] and he made these bars out of card
+[05:38] actually there were big card rolls they
+[05:39] would roll over the head of the loom
+[05:41] you just pressed your foot when a new
+[05:43] card was in and automatically
+[05:45] you got the pattern and that pattern was
+[05:47] encoded on the cards
+[05:49] now obviously there was no choice
+[05:51] involved here there was no
+[05:53] sensing involved here the thing did that
+[05:56] because it was made that way it could
+[06:00] only do that even though we changed the
+[06:04] card we could change the pattern
+[06:06] so in a sense that was in fact the first
+[06:09] program
+[06:10] but equally in a sense it was responding
+[06:13] to the way it was made
+[06:15] all these things are so when we get
+[06:18] lots of things all put together and lots
+[06:20] of switches we start to talk about
+[06:23] things like
+[06:24] sensing and knowing and that starts to
+[06:28] introduce
+[06:28] mystery and confusion because how does
+[06:31] something
+[06:31] sense how does something know
+[06:35] and that's the way it is with charge
+[06:36] controllers we're looking at charge
+[06:38] controller we're talking about it
+[06:40] sensing the voltage and changing this
+[06:44] and changing that the issue isn't about
+[06:47] how it physically
+[06:48] does it the issue is about understanding
+[06:50] how it knows
+[06:52] but of course knowing is one of those
+[06:55] things is actually a bit of an illusion
+[06:57] and that's what i was illustrating at
+[06:58] the beginning there
+[07:00] the light doesn't know that i've turned
+[07:03] the switch but equally in another way of
+[07:06] looking at it
+[07:07] the light does know that i've turned the
+[07:11] and so this idea of knowing actually is
+[07:13] intrinsic
+[07:14] to the build that we've actually made
+[07:17] the stuff that we
+[07:18] use to do these jobs of course
+[07:22] there are many many ways of doing a
+[07:24] particular job as we know
+[07:26] well i say that but some people think
+[07:28] there's only one way of doing it it's
+[07:30] not right there are just
+[07:31] many ways of doing it if you think
+[07:33] there's only one way of doing it
+[07:35] the perfect way i am so sorry to tell
+[07:38] you but
+[07:39] you're wrong and you really need to
+[07:41] rethink your position
+[07:42] or at least that's what i believe
+[07:45] now this idea of many ways of doing
+[07:49] gets even more confusing when people are
+[07:51] trying to work out
+[07:53] what it is they need to do so you need
+[07:56] to build a charge controller fantastic
+[07:58] and then there's many ways of doing it
+[08:00] oh crikey which one do you choose
+[08:02] because that pushes you into looking at
+[08:05] those many
+[08:06] ways trying to build something from
+[08:08] those many ways
+[08:09] and to me that's upside down to me what
+[08:12] you need to do
+[08:14] is work out what job it is you need to
+[08:17] do
+[08:18] then you need to look at the ways that
+[08:20] job can be done
+[08:22] and then choose an appropriate option
+[08:24] for you
+[08:25] to perform that job so we change
+[08:28] now our focus from looking at the many
+[08:31] ways
+[08:32] which is just infinite actually there's
+[08:34] tons of them
+[08:35] to looking at the idea of the job
+[08:38] and of course that's exactly what
+[08:40] jacquard did he looked at the machine
+[08:43] and what the machine could intrinsically
+[08:46] and then he created all of these cards
+[08:48] because there were many ways
+[08:50] to weave a carpet or a piece of
+[08:54] cloth but there aren't many ways to
+[08:56] actually
+[08:58] put that information into the loom the
+[09:00] loom is
+[09:01] much more restrictive and of course we
+[09:04] want something that's much more
+[09:05] restrictive we want something that is a
+[09:07] charge controller
+[09:08] that charge controller is only going to
+[09:10] do a certain number of jobs
+[09:12] the jobs we wanted to do are the logic
+[09:15] of the charge controller
+[09:17] now we began by looking at voltage
+[09:19] control
+[09:20] and we began looking at voltage
+[09:21] regulation that's what that mechanical
+[09:24] thing was all about it was starting to
+[09:26] look at charge controllers by looking at
+[09:28] one
+[09:28] section of what the charge controller
+[09:30] does because the charge controller
+[09:32] obviously has a number of jobs and we'll
+[09:33] cover those later
+[09:35] but we looked at one job and then the
+[09:37] possible implementations of that job
+[09:40] now of course we did a mechanical
+[09:42] version because that's what they used to
+[09:44] do when this stuff
+[09:45] first started to become important
+[09:47] because mechanical versions help you to
+[09:49] grasp
+[09:50] what's going on in the same way that
+[09:51] when i turn the light switch
+[09:53] and the light goes off it's not a
+[09:54] mystery to everybody we all understand
+[09:56] what's going on
+[09:57] if we can look at something we can look
+[09:59] at we get a good understanding
+[10:01] but the job doesn't change we need to do
+[10:04] the same job that is we need to control
+[10:07] the voltage going into a battery
+[10:10] then it's a question of how we actually
+[10:12] do that now how we actually do that
+[10:15] how we implement that logic is actually
+[10:18] independent of the logic itself
+[10:20] just because we use a solid state or we
+[10:23] use a mechanical relay
+[10:26] or we just use our eyes and a switch it
+[10:28] really doesn't matter the job is being
+[10:30] done by somebody or something
+[10:33] the job itself remains the same so if i
+[10:37] want to understand
+[10:38] what it is that i need to do in order to
+[10:40] build a charge controller
+[10:42] probably or at least in my view the
+[10:44] worst approach is to go looking at
+[10:45] things of trying to find the perfect
+[10:47] answer
+[10:48] to my mind the best approach is to look
+[10:50] at what jobs
+[10:52] that actual charge controller needs to
+[10:54] do once you've sorted that out in your
+[10:56] head
+[10:57] you can then look at how to implement
+[10:59] those jobs
+[11:00] what you find people doing very often is
+[11:02] telling you about the best
+[11:03] implementation
+[11:05] what they think is going to work really
+[11:06] really well and of course that so
+[11:08] quickly becomes confusing because they
+[11:10] lose
+[11:10] sight of the job itself and then people
+[11:13] who are first
+[11:14] coming to something and have
+[11:17] a mystery surrounding that something and
+[11:20] don't really understand what the logic
+[11:22] of the job is and they focus on what
+[11:24] other people are telling them
+[11:25] of course it's confusing what we need to
+[11:28] do according to me and what are the way
+[11:30] i see it
+[11:30] is to work out what jobs the charge
+[11:33] controller needs to do
+[11:34] and then how we can actually implement
+[11:36] those jobs so
+[11:38] essentially as i say what we're doing is
+[11:40] we're breaking down the job
+[11:42] into what the charge controller needs to
+[11:46] and then how do we implement what it
+[11:49] needs to do and of course
+[11:50] that's an innocent statement but hidden
+[11:52] in there is
+[11:53] in fact the bone of contention and that
+[11:56] is
+[11:56] need now different people have different
+[12:00] ideas about what they need and when they
+[12:03] get an
+[12:03] idea about what they need of course
+[12:05] they're going to argue for it because
+[12:06] for some reason we make the assumption
+[12:08] that what i need is what everybody needs
+[12:11] and
+[12:11] because that's not true people need
+[12:14] different things
+[12:15] and when you break down into logical
+[12:18] bits
+[12:19] you have the option of asking yourself
+[12:22] do i need
+[12:23] to do that and the answer may be no
+[12:27] now m i think it's mppt is the current
+[12:31] all-star of solar charge controllers and
+[12:33] everybody tells you you need it
+[12:35] now i'm not saying that you do or don't
+[12:38] need it
+[12:39] i'm saying ask yourself the question
+[12:42] do you need it if the answer is no
+[12:46] because your needs aren't being met by
+[12:48] that
+[12:49] don't use it because some people
+[12:53] say to themselves i need it you must
+[12:56] therefore do this and that to me is the
+[12:59] wrong approach
+[13:00] so this breaking it down into blocks
+[13:01] gives you lots of opportunities but
+[13:04] it will also create quite a bit of
+[13:06] argument there's not a lot you can do
+[13:08] about that
+[13:09] have a bit more faith in your own needs
+[13:11] if you understand the blocks
+[13:13] and your needs you're going to find
+[13:15] solutions
+[13:16] anyway i hope the video helped and thank
+[13:18] you very much for watching

@@ -1,0 +1,224 @@
+[00:00] [Music]
+[00:09] solar panels have been with us for quite
+[00:10] a while now and in essence they're
+[00:13] pretty simple things all they are is a
+[00:15] semiconductor device that responds to
+[00:18] light essentially you stick them in the
+[00:19] Sun and they'll produce a DC voltage in
+[00:22] varying amounts depending on how much
+[00:25] sun is actually hitting them now
+[00:27] although that's really cool in reality
+[00:30] is about as much use as a chocolate
+[00:31] teapot because what we need to do is
+[00:34] turn that variable DC voltage into
+[00:36] something we can actually use and and
+[00:39] it's very basic it can be just something
+[00:40] like a voltage regulator if we're going
+[00:43] to do say run a light in the garden but
+[00:45] of course when you use it in your house
+[00:47] what you need to do is change it into an
+[00:50] ac voltage that's nice and regular and
+[00:53] matches the line voltage of whichever
+[00:55] country you're in and that is the job of
+[00:59] the inverter
+[01:00] now an inverter is actually a little
+[01:02] more than four switches arranged in
+[01:04] what's called a h Bridge because it
+[01:06] looks like a h and by turning those off
+[01:09] and on what we can do is reverse the
+[01:11] direction of the DC and that is exactly
+[01:14] what an AC is now usually course these
+[01:16] switches aren't mechanical switches
+[01:19] they're in fact electronic components
+[01:21] and we can control the speed at which we
+[01:23] turn them off and on to create the kind
+[01:25] of AC that we want whether it's 120 or
+[01:28] 240 now being electronic components
+[01:32] means that the power they can handle
+[01:34] depends on the component that it is and
+[01:37] the more power you want to be able to
+[01:38] handle the bigger and beefier those
+[01:40] components have to be and of course the
+[01:42] more expensive they are now there are
+[01:44] other things in inverter as well as's
+[01:46] inductors and capacitors to smooth
+[01:48] everything out so we get a nice smooth
+[01:51] AC wave form but that in essence is all
+[01:54] an inverter actually does now in early
+[01:57] systems solar installations weren't
+[01:59] actually very complicated they were
+[02:01] wiped together in pretty much the same
+[02:02] way as fairy lights that is in a long
+[02:05] string in series and in fact they're
+[02:07] called strings these days and the whole
+[02:09] lot was gathered together and stuck in a
+[02:11] single inverter and of course over time
+[02:14] we discovered some of the problems with
+[02:17] that it turns out that solar panels and
+[02:19] LEDs are cousins of each other if you
+[02:22] put light into a solar panel it
+[02:24] generates electricity if you put
+[02:26] electricity into a solar panel it will
+[02:28] in fact light up and it's one way that
+[02:30] manufacturers test whether the solar
+[02:32] panels are any good or not of course the
+[02:35] reverse is true of light emitting diode
+[02:37] you can turn a light emitting diode into
+[02:39] a solar panel just by shining some light
+[02:41] on it but when it's a solar panel system
+[02:44] that's obviously a big problem because
+[02:46] if you have two solar panels together
+[02:48] and one's pumping out a higher voltage
+[02:50] than the other what it will do is pump
+[02:52] some voltage into that solar panel and
+[02:55] it will light up the solar panel and of
+[02:57] course that reduces the efficiency of
+[02:59] the overalls system now the
+[03:01] manufacturers solved this little issue
+[03:04] by sticking some diodes on the back of
+[03:06] the panel diodes of course only allow
+[03:09] electricity to flow in One Direction
+[03:12] there are in fact two reasons you'd use
+[03:14] a diode in a solar cell one is as a
+[03:16] blocking diode which we've just
+[03:18] explained and the other is as what's
+[03:20] called a bypass diode so if there's a a
+[03:22] bad cell in there there's an alternative
+[03:25] path that the current can flow and so a
+[03:27] bad cell doesn't ruin the whole panel
+[03:30] and together these form a very basic
+[03:34] optimization system for a simple solar
+[03:37] installation now something else happens
+[03:39] when you start adding DC volts in series
+[03:42] and you can see this with batteries if
+[03:44] you take a 1 and 1/2 volt battery and
+[03:45] stick another one on top of it you'll
+[03:47] get 3 Vols out and the same thing
+[03:49] happens with solar panels now your
+[03:51] average solar panel is going to produce
+[03:53] something like 50 volts or so so two of
+[03:56] them together on a string is going to be
+[03:58] 100 volts and 12 of them is going to be
+[04:00] 600 volts and that's a pretty lethal
+[04:03] voltage anybody who's made their own
+[04:06] home arc welder from two car batteries
+[04:09] in a bit of Steel Rod can testify how
+[04:12] hot that Arc gets hot enough to weld
+[04:14] metal so if you've got a 600v system and
+[04:17] a bit of wire chefing well it's a very
+[04:21] serious fire hazard and of course 600
+[04:23] volts is quite a voltage so there's also
+[04:26] a danger of death and this has led to
+[04:28] legislation in loads of of countries
+[04:31] requiring safety procedure to be put in
+[04:33] there including fast
+[04:36] shutdown and I would argue That's What's
+[04:39] led to the growth of these things now
+[04:42] the function they performed is actually
+[04:44] not much different to the bass diode
+[04:46] that is they create a active pathway for
+[04:49] shining the current around the failing
+[04:51] solar panel and preventing that fairy
+[04:54] light effect that if one goes they all
+[04:56] go but a lot of the legislation quars
+[05:00] shutdown of the system at the panel
+[05:02] level not at the inverter level and they
+[05:05] also perform that function so those two
+[05:08] things I think are what led to the
+[05:11] growth of adding optimizers onto solar
+[05:15] panel systems and now we're getting the
+[05:17] panel and the electronics on the roof of
+[05:21] course at that stage of development
+[05:22] everything was still in series and so
+[05:24] it's all gathered together and taken
+[05:26] down to an inverter ground base and of
+[05:29] course those are inverters are large and
+[05:30] chunky and expensive as they have to be
+[05:33] because they're dealing with high
+[05:34] voltage and high ampage and it wasn't
+[05:36] long before some bright spark said hang
+[05:39] on a sec we have to stick Electronics up
+[05:41] there because of the legislation how
+[05:43] about we make a cheaper inverter and
+[05:45] stick it on the back and it could be
+[05:46] cheaper because a solar panel doesn't
+[05:50] produce nearly as much and so the
+[05:51] electronics don't have to be nearly as
+[05:53] beefy and so it's very much cheaper and
+[05:56] of course this is what you're finding
+[05:58] you're finding micro inverters screwed
+[06:00] onto the back of solar panels with all
+[06:02] the advantages of a distributed system
+[06:05] that is if one thing goes down the whole
+[06:07] lot doesn't go down you still get much
+[06:10] of the production if you want to extend
+[06:12] your system well it's not really a
+[06:14] problem because all these micro
+[06:16] inverters produce the same ACU voltage
+[06:19] now you can add panels to a pre-existing
+[06:22] system but you have to stay in the
+[06:24] constraints of the inverter that's in
+[06:26] charge of the overall system and of
+[06:28] course you choose an Inver
+[06:30] based on cost you size it to your system
+[06:33] if it's too big you're going to spend
+[06:34] far too much on the inverter if it's too
+[06:36] small and you add too many panels you're
+[06:37] going to blow your inverter up so your
+[06:39] inverter has to be sized to the
+[06:42] installation whereas it's something like
+[06:44] a micro inverter of course it doesn't
+[06:46] you can just keep on adding and adding
+[06:47] if you want to now of course there are
+[06:50] pros and cons to everything and you'll
+[06:52] have people arguing that a single
+[06:54] inverter is better or people arguing
+[06:56] that a micro inverter is better you're
+[06:58] bound to so I'm a fan of distributed
+[07:02] systems because I think spreading the
+[07:04] load across a system is always going to
+[07:06] be a better answer but that's just what
+[07:09] I think about these microinverter
+[07:11] systems now of course it does also carry
+[07:14] two problems with it one is you've got
+[07:16] all Electronics Up on the Roof exposed
+[07:19] to weather conditions and the other is a
+[07:22] a simple manufacturing manufacturers go
+[07:25] in and out of business they change the
+[07:27] models and compati ability as we go on
+[07:30] because a lot of these inverters have
+[07:32] 25e guarantees may not be guaranteed
+[07:35] they may not be able to talk to each
+[07:37] other in five or even 10 years time when
+[07:40] you still got a working system so that
+[07:42] could well be an issue I equally don't
+[07:46] think it's going to be very long before
+[07:47] somebody says to themselves hang on a
+[07:50] sec why don't we just take the wire from
+[07:52] the solar panel and put it into the loft
+[07:54] of the building in which case you won't
+[07:56] have a groundbased microinverter now
+[07:59] here in the UK we have tiled roofs so
+[08:02] putting a wire from the solar panel into
+[08:05] the Loft space actually isn't that
+[08:06] challenging and I'm pretty sure that if
+[08:08] that caught on there would be little
+[08:10] adapters that you could put on your roof
+[08:12] so that your micro inverter installation
+[08:14] was accessible either way whether you
+[08:17] think it's a single unit is a good idea
+[08:21] or a micro unit is a good idea certainly
+[08:25] microinverters are having a huge effect
+[08:28] and a huge impact on the solar market
+[08:31] and I think probably to the benefit of
+[08:33] it because it it changes it from
+[08:35] something where you need to calculate
+[08:37] everything to very much a plug and play
+[08:40] system because those micro inverters can
+[08:42] feed directly into your consumer unit
+[08:45] anyway I thought I would give a rundown
+[08:46] on all this and how it all works
+[08:48] together a little bit of a potted
+[08:49] history I hope you enjoyed the video
+[08:51] thank you very much for watching and
+[08:53] please do remember to like And subscribe

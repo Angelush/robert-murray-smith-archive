@@ -1,0 +1,203 @@
+[00:02] [Music]
+[00:15] hi so this video might be a little bit
+[00:17] wordy because i want to introduce to you
+[00:19] to you
+[00:19] a proof of concept and a demonstration
+[00:22] of that proof of concept
+[00:23] now if you've been watching the videos
+[00:25] you'll have seen video one or three four
+[00:27] five and six
+[00:28] and notice that i've been playing around
+[00:30] with flux switching
+[00:31] now in video 103.6 we looked at that
+[00:34] idea a bit further and came up with
+[00:35] something that looked tremendously like
+[00:37] the flynn motor
+[00:38] now i don't think that this is operating
+[00:40] in the same way as the flint motor i
+[00:42] mean
+[00:42] i think we are switching the flux but we
+[00:45] are certainly not using that parallel
+[00:47] path idea
+[00:48] now in order to make this next iteration
+[00:50] what i did was take these which is a
+[00:52] microwave oven transformer
+[00:53] chop out the central e chop off one of
+[00:55] the legs lower and then chop off one of
+[00:57] the legs and put it together
+[00:59] to make this c-shape so this is a bit of
+[01:02] c-shaped lamination
+[01:04] on this back of the sea we've got one of
+[01:06] the coils we've got a coil wound on
+[01:08] there
+[01:08] and then right next to the coil we have
+[01:10] some magnets pointing
+[01:11] north that way and south that way so
+[01:14] what happens is the field actually
+[01:16] follows the path of least reluctance
+[01:18] going around this steel here
+[01:20] now there is a little bit coming out of
+[01:21] here but not that much actually that's a
+[01:24] thin bit of steel it won't even hold it
+[01:26] there's a little bit and here there's a
+[01:28] little bit as well but it's not strong
+[01:31] if we pass a current down this coil what
+[01:33] we can do is make
+[01:34] that side north and that side south and
+[01:36] of course it's already got a north here
+[01:38] so the magnetic field has no choice but
+[01:41] to be switched along in this direction
+[01:43] concentrating here at this gap now this
+[01:46] gap represents a great deal of
+[01:48] reluctance
+[01:49] the field is concentrated there but it
+[01:52] doesn't like to be what it wants to do
+[01:54] really is go to the lowest energy state
+[01:57] possible and that would be to reduce the
+[01:59] reluctance of that gap
+[02:01] now if there happens to be a lump of
+[02:02] steel near to that gap of course what's
+[02:04] going to happen when we do that
+[02:06] is it's going to get sucked into the gap
+[02:08] and that will lower the reluctance now
+[02:10] that
+[02:11] in itself is tremendously exciting or at
+[02:13] least i think so
+[02:15] what i've got here is a star-shaped
+[02:18] rotor
+[02:18] that we made for the generator so if you
+[02:20] want to see how that's made in a bit
+[02:21] more detail on that
+[02:22] have a look at 1034 and what we're going
+[02:25] to do
+[02:26] is hold our little c shape next to it
+[02:30] and then we're going to give it a bit of
+[02:31] power so i'll give you a close-up of
+[02:32] that so you can see that happen
+[02:34] okay let's put our c in place and it
+[02:36] goes midpoint between two of the rotor
+[02:38] arms and we give it a blast of current
+[02:40] and watch that rotor
+[02:44] see that that turned okay so
+[02:48] what you saw from that side view was the
+[02:49] rotor moved from that mid position so
+[02:51] this is the rest position with no
+[02:53] current
+[02:53] when we turned the current on it moved
+[02:56] to that position
+[02:57] and we turned the current off and your
+[02:59] first reaction has got to be big woof
+[03:01] hasn't it
+[03:02] you want a tiny amount of turn for all
+[03:03] that current
+[03:05] but there is no attraction at the moment
+[03:07] everything's turned off
+[03:08] so let's say we put another c right
+[03:10] there and when we've turned
+[03:11] this one off we turn this one on now the
+[03:14] rotary is in identical position
+[03:15] so we'll now rotate to that point of
+[03:18] least reluctance
+[03:19] on the second c we turn the second c off
+[03:22] and the first c on and you'll notice the
+[03:25] arm here
+[03:26] is ready to go there turn that off this
+[03:28] one on it's ready to go there
+[03:30] so we can rotate that rotor with only
+[03:32] two coils
+[03:34] even if we put a whole bunch of cores
+[03:35] around around it to improve the torque
+[03:38] it's still only swapping between two
+[03:39] coils at any one time
+[03:41] to get that rotor to turn now that has a
+[03:44] significant impact
+[03:46] we're only having to control two coils
+[03:49] so the amount of electronics we need to
+[03:51] do that is one
+[03:52] third of what you need now this is not
+[03:55] insignificant these motor controllers
+[03:57] cost hundreds of pounds
+[03:59] if we can reduce the cost of the motor
+[04:00] controller we can make a significant
+[04:02] saving
+[04:03] there's another thing that i think as
+[04:05] well i think it's satisfying the
+[04:07] reluctance of the gap here
+[04:08] i don't think it's operating in the same
+[04:10] way that other switch reluctant motors
+[04:12] operate and certainly not the same way
+[04:13] that the flind motor operates
+[04:15] where the reluctance has to go through
+[04:17] the stair the rotor
+[04:19] here it's all maintained within the
+[04:21] stator so although we've got a metal
+[04:23] rotor here because i took it from the
+[04:24] generator
+[04:25] i don't think it all needs to be metal i
+[04:27] think it could be a big old lump of
+[04:28] plastic with some metal squares in there
+[04:31] and it would still work that obviously
+[04:34] is the next thing that i need to do is
+[04:35] to prove that it was doing that
+[04:37] by making one so i need another c to
+[04:40] operate it as we're
+[04:42] just talking about where it's midpoint
+[04:43] midpoint midpoint
+[04:45] and i need a plastic disc with some
+[04:46] lumps of metal in it to show that it is
+[04:48] in fact
+[04:49] the lowering of the reluctance in this
+[04:52] gap only that's operating the motor
+[04:54] and i think that's what makes it unique
+[04:56] at least i haven't seen anything like
+[04:59] and i think it's kind of cool myself
+[05:00] there is one other thing to notice as
+[05:02] well
+[05:03] that remember torque is force times
+[05:06] distance
+[05:07] now i've put this here because i took it
+[05:09] from the generator but there's
+[05:11] absolutely nothing to stop me
+[05:12] having a much longer arm like that so if
+[05:15] we have
+[05:16] a few more calls and a longer arm we
+[05:17] will clearly get much more torque on the
+[05:21] than if we're using a short rotor like
+[05:23] that so we could improve torque on this
+[05:25] just by increasing the distance of the
+[05:27] metal lump from the center of the axis
+[05:29] okay so yes that is a bit rough and
+[05:31] ready and we've only got one coil
+[05:33] working so i've got a tiny bit of
+[05:34] movement really out of it but i think
+[05:36] the proof of concept is there i think
+[05:39] what we need to do is make a few more of
+[05:40] these c's and like i say make that rota
+[05:42] that we're talking about
+[05:43] to show that it is not the switching the
+[05:46] flux through the rotor in the same way
+[05:47] the reluctance motor would work
+[05:49] but actually satisfying the reluctance
+[05:52] criteria this gap on the stator
+[05:54] now to my mind that's actually makes it
+[05:56] a unique motor
+[05:58] it certainly makes it really easy to
+[06:00] make i mean this is super
+[06:02] super simple to make without having a
+[06:03] machine shop now
+[06:05] from what we've looked at and more from
+[06:06] what i've read on these kinds of motors
+[06:08] or this kind of effect
+[06:10] that should have actually a reasonable
+[06:12] amount of output i'm certainly going to
+[06:14] give it a go building a bigger one
+[06:15] and i'm certainly going to try that um
+[06:17] plastic set that we were just talking
+[06:19] about but i thought i'd share
+[06:21] share with you at this stage because i
+[06:23] get a lot of input from people and i'm
+[06:24] always glad to hear that input and
+[06:26] always
+[06:27] helps improve what it is that i'm doing
+[06:29] but i hope you enjoyed the video
+[06:30] and thank you very much for watching

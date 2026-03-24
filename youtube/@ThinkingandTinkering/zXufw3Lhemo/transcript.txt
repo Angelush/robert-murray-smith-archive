@@ -1,0 +1,162 @@
+[00:00] foreign
+[00:07] video 2008 we took this thing it was a
+[00:11] broken drill actually took the water out
+[00:12] of it and we changed it so there is a
+[00:15] high voltage low RPM brushless DC motor
+[00:18] and we made it so that the body turn
+[00:20] instead of turning the axle Now by
+[00:22] itself that's not a lot of use we want
+[00:24] to actually interface it into something
+[00:26] so something like a windmill or a hand
+[00:28] crank generator or just something so
+[00:31] what I've done is I've printed off this
+[00:33] gear which is just the right size to
+[00:35] slip over the body of the motor because
+[00:37] it's the body of the motor that spins
+[00:39] and of course I've put it into this
+[00:40] cradle now if we spin that well it'll
+[00:43] generate but of course what we want to
+[00:44] do is spin it like crazy or interface it
+[00:47] to a wind turbine or something like that
+[00:49] so when I've got this gear on it we can
+[00:51] now do that now what I want to do with
+[00:53] it is I want to drive it with a gearbox
+[00:56] because I think it'll get stupid speeds
+[00:58] out of that so I want to see what's
+[01:00] going to happen and to do that I've
+[01:02] created this which is a planetary
+[01:04] gearbox now planetary gears are dead
+[01:06] simple they're basically a sun gear on a
+[01:10] plate with some planets there hole in
+[01:13] the bottom so that you can stack them up
+[01:16] and they Stack Up multiplying so this is
+[01:18] three to one multiplies nine to one and
+[01:21] then dead easy to make the planet
+[01:24] carrier a ring with three prongs on it
+[01:26] the planets go on there and then the Sun
+[01:29] Gear is integrated with the fixing plate
+[01:32] and that whole thing just glues in now
+[01:34] this is all plastic because we're
+[01:35] wanting to test it if you want to make
+[01:37] this stronger you'd replace those
+[01:39] pinions with metal and maybe put
+[01:41] bearings around the planets you'll see
+[01:43] that there's a bearing right in the
+[01:45] center of the sun there that's to help
+[01:46] it spin freely along an axle so now we
+[01:49] can get a number of these stack them up
+[01:52] and we get the same stacking gearing
+[01:54] system that had before ratio of each one
+[01:57] of these is three to one so I put that
+[01:59] on there it's three to one if I put that
+[02:01] on there it multiplies it's nine to one
+[02:03] but put another one on it's 27 to 1 and
+[02:06] we have this hole going right the way
+[02:09] through the center not so
+[02:13] we can do that with it the whole
+[02:16] stacking Planet gear system is held in
+[02:17] place by a bolt with a nut on it and the
+[02:19] bolt fits in the little hex at the
+[02:21] bottom there they all spin independently
+[02:23] and freely with each other courtesy of
+[02:25] that bearing that we just put in the
+[02:26] bearings are scatter bearing 22 mil by
+[02:29] seven mil by uh
+[02:31] eight mil Center the other thing we've
+[02:33] got is the actual ring gear itself again
+[02:35] these are available in that file now
+[02:37] I've done this for three of them the
+[02:39] notes three just slot in that
+[02:43] [Applause]
+[02:45] like that now if I turn that I'll get 27
+[02:49] times the output
+[02:52] now I've also done is created this large
+[02:54] Sun Gear and here it is on our gear
+[02:56] Trend and the bolt goes all the way
+[02:58] through so that that's one lump and
+[03:00] that's because I want both an input and
+[03:02] an output so that if I input here it
+[03:05] outputs here but equally if I input here
+[03:08] it will output here so we can have it
+[03:10] universally I've created this cap as
+[03:13] well that goes onto the main body so
+[03:16] it's like that now if you notice on this
+[03:18] main body it's made of two parts there's
+[03:20] a part here which is the long section
+[03:22] and that's about 62 yeah 62 millimeters
+[03:25] and then this short section which is 35
+[03:28] millimeters and that's so you can stack
+[03:30] them up if you have only the long
+[03:33] section then it'll take two planets add
+[03:35] the extra one and take three add another
+[03:37] one of these small sections and you can
+[03:39] keep on building it up so you can just
+[03:41] Nest this as much as you want if we then
+[03:44] put that back inside here
+[03:49] we get that and then there's another cat
+[03:51] that you print off to go on there and
+[03:53] there is our Universal Planet gear
+[03:56] system so we can turn either on if I
+[03:58] turn this one this will turn slowly with
+[04:01] lots and lots of talk if I turn this one
+[04:05] this will turn quickly but it needs a
+[04:08] lot of torque here to get it to turn and
+[04:10] of course what I've done is produced a
+[04:12] handle and the handle will fit on either
+[04:15] side so it fits on that side or it fits
+[04:18] on that side so you can do either one of
+[04:20] these jobs with this planetary gearbox
+[04:22] and of course we want to link it up to
+[04:25] something else and I don't know what
+[04:26] else we want to link it up to but it
+[04:28] could be loads of things which is why
+[04:30] I've done it in a universal way so if I
+[04:32] Crank That
+[04:34] there you go we get 27 times the output
+[04:37] there equally if I fit my handle on the
+[04:39] other side
+[04:41] there we go and I crank that then it's
+[04:44] very slow on this side but we get a lot
+[04:47] more torque on it so you use that as a
+[04:49] winch something like that so the reason
+[04:51] I'm calling this Universal is because
+[04:53] either side can be input or output you
+[04:55] can stick a handle whatever you want on
+[04:57] either side we've got it on the fast
+[04:59] speed side so I've turned that that
+[05:01] turns quickly and you can stick all
+[05:04] kinds of things on it so this is
+[05:05] obviously a very large gear now the
+[05:07] modulus of the teeth on this are two and
+[05:09] the modulus here is one and a half
+[05:10] because the modulus here is one and a
+[05:13] half so if I was to just put that
+[05:14] against there it wouldn't work so we've
+[05:16] got this adapter gear that will go on to
+[05:19] there now this is a hundred teeth that's
+[05:21] 30 teeth so we have three times we've
+[05:24] got 27 here so more or less a hundred to
+[05:27] one if we stick that on there and put it
+[05:28] against that crank it we should get some
+[05:31] pretty impressive voltages out of that
+[05:33] now I'm just going to glue these things
+[05:35] together for a prototype because I'm
+[05:38] just testing proof of concept the is
+[05:41] really about this Universal gear this
+[05:43] one was done in a separate video so
+[05:45] let's put this on here glue that
+[05:47] together crank it up and see what
+[05:49] happens
+[06:13] I do have to do a better job of
+[06:15] interfacing that with that this is a
+[06:18] hundred teeth incidentally and that's 30
+[06:20] teeth but just to show it working that
+[06:22] was awesome I mean you try to get 17
+[06:25] volts out of something like that that's
+[06:26] pretty cool so still work to do on it
+[06:29] but the proof of Concepts there you can
+[06:31] see that the mud modification worked to
+[06:34] treat the universal gearbox work to try
+[06:36] to help you enjoyed the video thank you
+[06:38] very much for watching and please do
+[06:40] remember to like And subscribe

@@ -1,0 +1,484 @@
+[00:00] [Music]
+[00:08] so this is a Yankee screwdriver actually
+[00:12] I've heard it called a couple of things
+[00:14] including spiral ratc screwdriver and
+[00:17] push screwdriver and it's called that
+[00:19] because if you hold this end and you're
+[00:20] holding the handle and you push it then
+[00:23] this has no option but to turn and it
+[00:26] turns because of these spiral groups
+[00:29] these spiral group are really a Canon a
+[00:31] follower there's a Canon here that must
+[00:33] go down the spiral Groove so pushing it
+[00:36] turns it as you push it or if we tole
+[00:41] that you can actually hear the ratchet
+[00:43] the ratchet is to change direction and
+[00:46] there's a button on the side where we
+[00:47] can lock it in place or we can change
+[00:49] direction and when we push it we can
+[00:51] unscrew something now I believe it was
+[00:54] invented by some Amish chap although I
+[00:56] might be wrong in that of course but
+[00:59] it's a particular favorite tool despite
+[01:02] this day and ede of having electric
+[01:04] screwdrivers this still is a very
+[01:07] popular and useful tool and I was asked
+[01:10] to have a look at it how we might go
+[01:12] about making this using 3D printing now
+[01:16] if we have a look at the end of it here
+[01:17] we can see those spirals coming here
+[01:20] there's two on this side and then two on
+[01:22] this side so clearly there are four
+[01:25] spirals two going in One Direction and
+[01:27] two going in the other direction to make
+[01:30] that spiral cam let's start with a
+[01:32] cylinder and the one I've chosen is 14
+[01:34] mil x 14 mil by 149 and we need to wrap
+[01:38] four spirals around there where two are
+[01:41] facing one way and two are facing the
+[01:42] other and to do that we can use our old
+[01:45] friend SVG spiral so go to the search
+[01:48] bar type in SVG SVG Helix there is
+[01:53] exactly what we need and we can pull
+[01:55] that onto the work plane and that's
+[01:57] going to be the basis of our spiral now
+[02:00] if you look at some of the information
+[02:01] on this this is the information that we
+[02:04] need to create but the first thing we
+[02:06] need to create is an SVG file that we
+[02:09] can modify the Helix with so close that
+[02:12] search
+[02:14] but pull down a block and I want this to
+[02:17] be about 4 mm deep so
+[02:24] 444 and Export that as an SVG
+[02:30] once you've exported the SVG of course
+[02:33] what we can do is use that SVG to change
+[02:38] our spiral so we click back on the
+[02:41] spiral we'll get the pull down menu
+[02:44] again there it is and we can see drag
+[02:47] file here so the file that we want is
+[02:50] that SVG file that we just created pull
+[02:53] that SVG file into where it says picture
+[02:57] and what it will do is flatten that
+[02:59] spiral out so it's now a spiral Groove
+[03:02] now if we zoom out on that we get a look
+[03:04] at the whole spiral and clearly it's too
+[03:07] big and too stretched out but if we look
+[03:09] at the properties box we can see some of
+[03:11] the things that we can actually change
+[03:13] now the sketch height was five which
+[03:15] means that box has been changed from
+[03:17] four to five I want the follower to be
+[03:20] four and we're making the cam remember
+[03:22] and this is the cam slot so we change
+[03:24] the sketch height to six that will
+[03:27] stretch the sketch out but it also means
+[03:29] that there's a 6 mm Gap in there and the
+[03:32] follower at 4 mm is going to slide nice
+[03:35] and easily through that so that we can
+[03:38] create our cam inside diameter is 10
+[03:41] which we're going to leave remember we
+[03:42] made a 14 mm cylinder and going to use
+[03:45] this like a cuty cooker to cut 2 millim
+[03:48] out the number of sides is set at 24 and
+[03:51] of course that makes it all a bit too
+[03:53] Jagged so reset that number of sides to
+[03:56] 256 which is the maximum number that you
+[03:59] can get the sketch rotation leave alone
+[04:02] because it's perfect as it is and we've
+[04:04] got two windings here now if we look at
+[04:07] the bottom or the top of this you'll
+[04:09] what you'll see is that the the sketch
+[04:12] has this block shape which will give us
+[04:14] an awkward size so we want to chop some
+[04:16] of that off and to give us the leway to
+[04:18] chop some of that off what we need to do
+[04:21] is create a few more windings so if we
+[04:23] create three windings zoom out again
+[04:26] then we get this long winding shape that
+[04:29] we don't really really want and that's
+[04:31] because the separation between the
+[04:33] windings is too much and we can see the
+[04:35] separation is there set at 500 so let's
+[04:38] reset that at 250 and that shrinks the
+[04:41] windings down to a much more acceptable
+[04:43] twist when we look at the original
+[04:45] Yankey screwdriver that we created now
+[04:48] we want to do to take care of the foot
+[04:49] is chop off a bit on the top and the
+[04:51] bottom and we use a hole primitive for
+[04:54] this which is a smooth cylinder and if
+[04:56] we look at this we'll see that it's 22
+[04:58] mil across so this cylinder is 25 mil
+[05:00] across highlight the two of them align
+[05:03] them to each other in the center of the
+[05:05] cylinder primitive we just created and
+[05:08] then group both of them and that'll chop
+[05:10] the bottom off and take care of that
+[05:11] weird foot shape that we had when we've
+[05:14] done that we can just drop it to the
+[05:16] plane by pressing D and we want it to be
+[05:19] 149 mm long because that's the length of
+[05:22] our bar so on the second hole primitive
+[05:25] we set the distance from the plane at
+[05:28] 149
+[05:32] Center the
+[05:35] two to each other and we can see we've
+[05:38] got far too much here still poking out
+[05:41] so if we zoom into our whole primitive
+[05:44] we can see that there's a square just
+[05:46] above the Primitive click on that square
+[05:48] and drag it up and it will increase the
+[05:50] size of the cylinder until we actually
+[05:54] cover the entire cylind entire spiral
+[06:00] so it's like that then again highlight
+[06:03] the two and group them and we get one of
+[06:06] the spirals that we need at the correct
+[06:09] height that we need it now we've got our
+[06:11] first spiral we can highlight it copy it
+[06:14] and rotate it 180° and that will give us
+[06:17] two twists in the same direction that
+[06:20] will be the one direction or forward
+[06:22] direction of the screwdriver when we
+[06:25] press the follower down on it if we
+[06:27] group those it will lock them together
+[06:29] now we can copy it again and this time
+[06:32] we need to reverse the direction so we
+[06:34] mirror it in that direction and then we
+[06:37] have our double spiral Helix so we can
+[06:39] change that into a
+[06:45] hole and we can take our Rod that we
+[06:48] created and Center them all to each
+[06:51] other by hitting the Align key then we
+[06:54] can group them and we have our cam
+[06:59] now we've got our cam of course we need
+[07:01] the other bits for it to turn it into a
+[07:03] screwdriver and perhaps the most
+[07:05] important one is the bit holder the bit
+[07:08] holder actually is made of very little
+[07:09] indeed is just a
+[07:13] con a hex that I turned into a hole so
+[07:18] there's the hex right there drag it make
+[07:20] it the right size for a bit and turn it
+[07:22] to a hole and then of course the outside
+[07:24] of the bit holder and if we just group
+[07:26] those three together by aligning them
+[07:30] and centering them to the cone and then
+[07:33] we can group them that makes our bit
+[07:38] holder if we twist that
+[07:42] around then we can take all of these and
+[07:45] line them up to the cam to create the
+[07:48] actual shaft of the screwdriver this is
+[07:51] just a returning bar at the back and it
+[07:53] needs to go flat against that so grab a
+[07:55] plane line it up to that highlight the
+[07:59] End Bar click D and it will drop it so
+[08:02] it's flush with
+[08:06] that replace the plane and do exactly
+[08:09] the same thing with this longer bit
+[08:11] because that longer bit is actually
+[08:13] going to be where the bit hold goes and
+[08:16] the N piece that we hold on to now the
+[08:19] bit of the N piece is going to be some
+[08:21] size not sure what so we also have these
+[08:25] cylinders which will hold the N bit in
+[08:27] place so connect those first by
+[08:30] highlighting the whole thing hitting the
+[08:32] center then group them so that they're
+[08:35] one
+[08:36] piece and then we can align all of
+[08:42] this now we can merge that whole lot or
+[08:44] group that whole
+[08:47] lot change its color and he Presto we
+[08:50] have the center of our screwdriver and
+[08:54] we could go ahead and print it and there
+[08:56] it is and the standard hex bit fits
+[08:58] nicely in the end now as we turn that
+[09:02] this bit is going to rub against your
+[09:04] fingers so it needs a bit on there that
+[09:06] will you can hold on to that that will
+[09:08] turn in as we push it up and down and
+[09:11] that bit actually is stunningly easy to
+[09:13] make to create that n piece go to the
+[09:16] search bar again type in
+[09:20] gear and you'll see this one called
+[09:23] useful gear drag that onto the plane
+[09:26] rotate it around 90° and you'll see that
+[09:29] the pict is two change that to
+[09:32] 0.5 let's give it 60
+[09:35] teeth and change the length to 30
+[09:38] because that's the Gap I
+[09:40] left and that's it all we need to do now
+[09:43] is make that a little bit prettier we do
+[09:45] that by adding a couple of cones and add
+[09:48] a centerpiece that's a hole that that
+[09:51] will fit in so I've created two cones at
+[09:54] the same diameter and half the diameter
+[09:57] to make the cone and we put those in the
+[09:59] Center and on the edge using our workpl
+[10:01] trick and the centering tool and we can
+[10:04] group them once we've grouped them what
+[10:06] we do is split that in half and we split
+[10:09] that in half by pulling down A Primitive
+[10:12] the square whole primitive making it
+[10:15] bigger than this remember this is 20.05
+[10:18] so this is 25 and then we raise it so
+[10:21] it's just a bit halfway from the bed in
+[10:25] this case it's 10.2 and if we now align
+[10:28] those two and group them then we get
+[10:32] half of our nled grip and we can print
+[10:34] two of those and when we printed them
+[10:36] off we spot a super glue on them to hold
+[10:39] them
+[10:40] together one outside that way and the
+[10:43] other one fits on the top that way now
+[10:45] if you're worried about using superglue
+[10:47] with this plastic thinking it won't hold
+[10:50] that's because you've never tried to
+[10:51] take it apart this stuff glues this
+[10:54] plastic like you wouldn't believe you'll
+[10:56] destroy the plastic before you break
+[10:58] that Bond so it's pretty useful to use
+[11:00] it and now we finished the business end
+[11:03] of the Yankee screwdriver we got a place
+[11:04] we can hold it while that turns got a
+[11:07] bit holder and we've got the cam that
+[11:09] helps with the Turning mechanism of
+[11:10] course what we need now is the follower
+[11:13] which is the bit that we push down and
+[11:15] pull up to make that actually turn but
+[11:17] the business end is finished now to
+[11:20] create the follower we have to go back
+[11:22] to the original spiral shape and there
+[11:24] it is and you'll see there's a kind of
+[11:26] grayed out section here showing the
+[11:28] lighter section and the gray section the
+[11:30] gray section is the bit that's actually
+[11:32] covered by the spiral the lighter
+[11:34] section is the inside diameter so
+[11:36] there's no spiral there now we set that
+[11:39] inside diameter at 10 mm and this was at
+[11:41] 14 mm what that means is that the depth
+[11:44] of that Groove is 2 mm it must be if we
+[11:48] want to make this the follower and it's
+[11:50] the follower because it follows the
+[11:52] groove it needs to fit neatly into that
+[11:54] Groove Without Really catching so if we
+[11:56] click on that and instead of the inside
+[11:58] downward of being 10 mm we make it 11 mm
+[12:03] then this will raise that spiral as a
+[12:05] follower half a millimet each side from
+[12:07] the groove that it needs to slide in now
+[12:09] it's a slight trapezoidal shape I don't
+[12:11] know if you noticed that so that's
+[12:13] actually all we need to do and we don't
+[12:15] need much of this we need about a
+[12:17] centimeter of it so if we cut it in the
+[12:20] same way that cut it previously using a
+[12:24] whole cylinder primitive and then we
+[12:26] take a second whole cylinder primitive
+[12:29] but move it up by 10
+[12:32] mm Center them grab that pull it all the
+[12:36] way up merge
+[12:40] them then we get a
+[12:44] section and you'll notice the
+[12:46] trapezoidal shape we get a section of
+[12:50] that curve that'll fit very very neatly
+[12:52] into the groove that we made and all we
+[12:54] need to do now with this is the same
+[12:56] thing that we did before we need to copy
+[12:58] it and swivel it around by
+[13:01] 180° but in order to do that of course
+[13:04] we need to be able to have a circle
+[13:06] guide because I just swiveled that 180°
+[13:10] well let's do it at
+[13:14] see let's copy it move it copy that and
+[13:17] then swivel at
+[13:22] 180° you can see it swivels around its
+[13:25] own Center and we get that shape
+[13:30] if we do it on both of these copy it
+[13:33] swivel it
+[13:37] 180 then it moves to the center of that
+[13:39] Circle which is now a guide drawing and
+[13:42] we can delete that and we get the
+[13:44] section that we want let's group
+[13:50] those because we need one with a left
+[13:52] hand twist and one with a right hand
+[13:54] twist copy it move it mirror it
+[14:00] and then we get the opposite way twist
+[14:02] so if we push that down the bar it'll
+[14:04] turn one way if we push that down the
+[14:07] bar it'll turn the other way of course
+[14:10] we need a holder for this to go into
+[14:12] because these are no good so we need to
+[14:13] make a holder Center those to each
+[14:21] other group
+[14:24] them copy it so we've got one each
+[14:30] Center these to each
+[14:41] other then we get our followers now
+[14:43] obviously it's just a little bit too
+[14:45] much here so we need to trim those off
+[14:48] and we trim those off by making a cuty
+[14:56] cooker where we have a cylinder that's
+[14:59] bigger than the outside of the Wings and
+[15:01] that again is 19 which is the same as
+[15:03] the outside of diameter over that
+[15:05] cylinder there merge the two of
+[15:08] them turn that into a
+[15:11] hole and then we can Center that to
+[15:18] that copy it for the same other side
+[15:30] and group
+[15:32] them and we get exactly what we want we
+[15:34] have two followers one going right hand
+[15:36] twist one going left hand twist now they
+[15:39] would work fine if we only wanted the
+[15:40] thing to go in One Direction or the
+[15:43] other direction we wanted to go in both
+[15:45] directions to screw and unscrew so like
+[15:47] that they're actually not very useful we
+[15:50] need to be able to engage one and
+[15:51] disengage the other and vice versa so to
+[15:54] do that we're going to have to chop
+[15:56] these in half now these Rings remember
+[15:58] 19 by 19 so we grab a cube hole
+[16:02] primitive and we make that half of 19
+[16:04] which is
+[16:08] 9.5 then if we were to align those so
+[16:11] that we aligned it to the center of the
+[16:13] circle and the edge it would chop it in
+[16:15] half but let's just take a second to
+[16:17] zoom down on
+[16:19] that you can see that they're not quite
+[16:22] right this is actually sticking out a
+[16:24] little bit and this is actually being
+[16:26] chopped off a little bit so highlight it
+[16:30] and then rotate it around a few
+[16:35] degrees so that all of that is in there
+[16:38] and all of that is out there so that we
+[16:41] have it right here we go highlight them
+[16:44] and merge
+[16:47] them and we get half of one and now all
+[16:50] we do is duplicate that move the
+[16:53] duplication ungroup them and then we can
+[16:57] highlight this and this but realign them
+[17:02] so that it's on this side like that then
+[17:06] we can regroup that so now we have two
+[17:09] halves that'll fit neatly together and
+[17:11] repeat it with the other follower now
+[17:14] all we need to do really is ADD slide
+[17:16] guides to the outside here and a couple
+[17:20] of pins so that it slides backwards and
+[17:22] forwards and of course we need a push
+[17:24] button and if you add those wings and
+[17:26] pins that's what you get that there two
+[17:28] follower half circles we did with a
+[17:30] couple of guide Wings on them with holes
+[17:32] in and a couple of guide pins and
+[17:34] there's the push button now I don't go
+[17:37] intend on going into how these were done
+[17:38] because the techniques used were exactly
+[17:40] the same techniques that we've already
+[17:42] gone before they're just cylinders and
+[17:45] cubes put in the right position just
+[17:47] remember to Center everything anyway we
+[17:49] can now print those off and then they
+[17:52] are printed off now we need to be able
+[17:54] to push them together and have them
+[17:56] automatically come back out so what I've
+[17:59] got are four Springs that are pulled
+[18:01] from ballpoint pens and those
+[18:04] Springs go onto those
+[18:07] pins like that and then this goes on the
+[18:12] top like that so when we push those in
+[18:15] they'll close up when we take the push
+[18:17] away of course they'll open there is
+[18:20] something to notice is it has this
+[18:22] button here with a bevel on it on this
+[18:24] one the bevel faces upward and on the
+[18:27] other hand turn turn this one the bevel
+[18:30] faces downward and that's kind of
+[18:32] important become clear later to hold
+[18:34] this in place of course we need a cage
+[18:37] and there's the cage now I don't mean to
+[18:39] go into how this was constructed because
+[18:41] there are no new techniques it's really
+[18:43] cylinders and cubes put together in the
+[18:45] right dimensions that's all there is to
+[18:47] it and then group to create that cage
+[18:49] and there's four little bubbles on there
+[18:51] which were cylinders and then to take
+[18:54] the cage top which is right there so we
+[18:56] feed these two with the buttons the
+[18:59] right orientation into the cage and put
+[19:01] the top on so that it's like that and
+[19:04] that means if we press that it will go
+[19:06] in and out and close up the center there
+[19:09] to engage with the groove on that now
+[19:12] the reason this was important is because
+[19:15] that is a little switch that fits in
+[19:17] there neatly in a kind of neutral
+[19:20] position when I move that switch up it
+[19:22] rides up the bevel and presses that
+[19:25] button so that it closes it then we have
+[19:27] a neutral and then it will ride back
+[19:29] down the bottom to press that one down
+[19:32] so we can engage and disengage the left
+[19:35] and right hand tone and of course that
+[19:37] needs a slide guide to hold it in place
+[19:39] and that's exactly what that is so we
+[19:41] glue that slide guide in place you
+[19:44] notice little holes and little buttons
+[19:45] there that means when that slides down
+[19:47] it engages and catches to release it you
+[19:50] press it down a little bit it disengages
+[19:52] and the same for the other way so we add
+[19:54] those two slide guides and buttons on
+[19:56] either side and now this which is the
+[19:59] screwdriver handle of the cam can go
+[20:01] into there and then we need something on
+[20:03] there to stop it dropping back out again
+[20:07] and that's the job of this bit this bit
+[20:09] is just made of two cylinders of
+[20:10] different lengths and diameters and a
+[20:12] whole cylinder so that it can fit onto
+[20:15] the end of the cam there and it goes on
+[20:20] like that and its job is to form this
+[20:22] Gap this Gap is so that we can push
+[20:25] those followers in and out then that
+[20:29] guides and that prevents it from
+[20:31] dropping
+[20:34] out like that now we really need is a
+[20:37] hollow handle that all of this can slide
+[20:40] into and that will be the guide in the
+[20:42] handle so I need to make a handle that
+[20:45] long in order to hold that and that's
+[20:47] the screw driver finished so this is the
+[20:50] handle Hollow up the center and the
+[20:51] handle fits over that into the socket on
+[20:54] the top of the case like
+[20:57] that and then we can you can operate
+[20:59] these push buttons here press them in
+[21:00] slide them down and the slight spring
+[21:03] pressure will hold that engaged hold our
+[21:05] grip and we
+[21:08] can and it will rotate it if we then
+[21:11] release that and push it all the way
+[21:13] back up then obviously it goes the
+[21:15] opposite direction so that's our Yankee
+[21:18] screwdriver now it's made out of plastic
+[21:20] and this is a bit thin so I can't
+[21:21] guarantee it Service as an actual
+[21:24] screwdriver but that's the mechanism or
+[21:27] at least how I would go about about
+[21:28] making that mechanism which is what I
+[21:30] was asked to do and to be honest I think
+[21:32] it was a really quite a fun thing to do
+[21:34] I enjoyed the tutorial and to make so I
+[21:36] will put these up on thingiverse should
+[21:39] anybody want to play with them and I
+[21:40] haven't included the ratchet so you can
+[21:43] think of a way to put a ratchet in this
+[21:45] as well that would be awesome there you
+[21:47] go my Yankee screwdriver I hope you
+[21:49] enjoyed the video and thank you very
+[21:51] much for watching

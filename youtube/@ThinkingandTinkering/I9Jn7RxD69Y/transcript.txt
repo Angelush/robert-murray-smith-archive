@@ -1,0 +1,545 @@
+[00:02] [Music]
+[00:15] hi so the guys next door to me are
+[00:17] actually setting up an industrial
+[00:19] kitchen
+[00:19] and they popped around yesterday to ask
+[00:22] me to look at this thing
+[00:23] this thing is a deep fat fryer it's a
+[00:26] commercial industrial unit freestanding
+[00:28] with its own little counter
+[00:30] so these things cost quite a few hundred
+[00:32] pounds and they picked it up for very
+[00:34] little indeed with only
+[00:35] one problem with it it's broken now this
+[00:38] sort of stuff
+[00:39] actually is tremendously easy to repair
+[00:43] and you can
+[00:44] pick it up for just a few quid no
+[00:46] problem at all
+[00:47] what breaks in them is
+[00:50] this in the back this in the back is a
+[00:53] bunch of
+[00:54] um quite old control electronics
+[00:57] so what i need to do really is take that
+[00:59] stuff out and have a look at it
+[01:01] so let's get it out and get it onto the
+[01:03] bench so the main components actually
+[01:05] lifted out
+[01:06] really easily and it's pretty common in
+[01:08] kitchen gear which is really
+[01:10] a heating employer appliance to have the
+[01:12] same parts in them
+[01:14] we've got a heating unit here which is
+[01:16] basically just a coil and this
+[01:18] coil actually is in a bit of pipe the
+[01:20] pipe is stuffed with an insulating
+[01:22] material the coil is inside of the pipe
+[01:24] and that's what you can see at the
+[01:25] ceramic
+[01:26] contact here actually so they're always
+[01:29] a different shape but essentially
+[01:30] exactly the same thing so you have some
+[01:32] kind of heating element
+[01:33] now obviously we want to control that
+[01:36] heating element that is we want to
+[01:37] supply it with some power
+[01:39] we want to read the temperature when the
+[01:40] temperature gets to where we want it to
+[01:42] be
+[01:43] we need to turn it off so we've got our
+[01:45] heating element
+[01:46] we need some kind of control box we need
+[01:48] some kind of off
+[01:49] on switch and some way of reading the
+[01:51] temperature
+[01:52] and that's true of every single heating
+[01:55] appliance down from a
+[01:57] kettle to a toaster to an oven they're
+[02:00] all basically the same setup with the
+[02:02] same
+[02:02] logic that you need and the same bits in
+[02:04] them and we'll deal with that in a
+[02:06] minute
+[02:07] but when we take these bits apart we can
+[02:09] see what was the core
+[02:10] electronics within the actual fryer
+[02:14] so there is the thermocouple right there
+[02:17] and it's leading to this bit
+[02:18] this bit actually has no controls on it
+[02:20] but a big red button
+[02:22] so clearly that is the emergency cut off
+[02:24] so there's the cutoff switch if you need
+[02:26] to press it
+[02:27] and this will be set to some temperature
+[02:30] where it would cut it off once that
+[02:31] excess temperature was
+[02:33] met so that's the emergency system right
+[02:35] there cut off switch
+[02:37] and a excess temperature reading then
+[02:40] this was the main bit that was connected
+[02:43] to
+[02:44] the control knob so this is obviously a
+[02:47] little thermocouple and it'll be a
+[02:48] bi-metallic strip thermocouple of some
+[02:50] description i'm guessing
+[02:52] and there is the sensor probe that went
+[02:54] into the fat
+[02:55] so that's the one that you can control
+[02:57] which is the one that you twiddle up
+[02:58] them down
+[02:59] to give you a different temperature now
+[03:01] there was a bizarre thing with this
+[03:03] which i kind of quite liked actually
+[03:05] and that was this thing this is just a
+[03:07] mechanical um
+[03:08] timer it's not connected to anything it
+[03:10] just gives you a bing
+[03:12] when things are done which that looks
+[03:13] cool so i'm going to re-put that back on
+[03:16] so that
+[03:17] glad to get their bing back so that one
+[03:19] i'll save and put back on because it's
+[03:21] not actually doing anything apart from
+[03:23] giving you an audible warning some
+[03:24] time is over the main controls are
+[03:28] these two here which is what we're going
+[03:29] to replace with new electronics and
+[03:32] we'll show that in a minute
+[03:34] now with reclaiming all of this stuff
+[03:36] what i'm smiling at is it's actually
+[03:37] disgusting
+[03:38] but it's reclaiming all of this stuff
+[03:40] and particularly kitchen gear
+[03:42] it's almost invariably stainless steel
+[03:45] when it's commercial
+[03:46] so it cleans up beautifully and it's
+[03:48] almost invariably covered in
+[03:49] old food old fat and thick layers of
+[03:51] grease which is exactly what this is
+[03:53] so removing all of that stuff was quite
+[03:56] a horrible job actually because it
+[03:58] mostly was sticking to it and then
+[03:59] sticking to me i can't tell you how many
+[04:01] screws i've had stuck to my fingers
+[04:02] but you do need to remove it because
+[04:04] because it is commercial kitchen
+[04:06] it is going back into preparing food so
+[04:09] the whole thing needs cleaning and you
+[04:10] can see it's
+[04:11] actually relatively gunky but it's
+[04:13] stainless steel so it's
+[04:14] dead easy to clean just dip it in a bowl
+[04:16] of hot water and get some uh
+[04:19] wild wool on it and it'll come up
+[04:21] beautifully and shiny like that
+[04:23] so our next job actually is to clean all
+[04:26] the fat and gunk off of this stuff
+[04:28] these things they always follow the same
+[04:29] routine really i mean you just
+[04:31] disassemble everything
+[04:32] give everything a clean we're going to
+[04:33] replace all the worn out stuff and put
+[04:35] it all back together
+[04:36] so everything's had a nice clean to it
+[04:38] so it's all nice and shiny
+[04:40] all that grease is gone it really makes
+[04:42] a difference now
+[04:43] when i took these plates off i noticed
+[04:45] there was a little bit of silver paint
+[04:46] there actually so i might repaint those
+[04:48] for them so they're nice and silvery got
+[04:50] a bit of chrome scrap
+[04:51] spray paint but the main thing obviously
+[04:54] is this control stuff
+[04:56] there we go that's what i'm looking for
+[04:58] this old mechanical stuff's had its use
+[05:00] really and it is time to replace it
+[05:01] we're going to replace it
+[05:03] with a pitch controller a nice
+[05:06] thermocouple
+[05:07] and a solid state relay now all these
+[05:10] things are matched
+[05:11] this pit controller has its range from 0
+[05:13] to 400 degrees centigrade
+[05:15] same thing with the k type and it
+[05:17] matters actually because if you get a
+[05:19] pid controller at zero to 1300 degrees
+[05:21] centigrade
+[05:22] then in its lower range in that zero to
+[05:24] 200 range it's actually reasonably
+[05:26] inaccurate
+[05:28] they're always inaccurate in the lower
+[05:30] part of the range and they get more
+[05:31] accurate the further up you go
+[05:33] so we're going to be cooking or that the
+[05:35] guys are going to be cooking in fat
+[05:37] it's not going to go more than 400 burst
+[05:40] into flames
+[05:41] so we want a degree of control at the
+[05:43] bottom end
+[05:44] and we're not going to go up too high so
+[05:46] i chose a pig controller that's not to
+[05:48] 400
+[05:49] and that means sort of their 50 degrees
+[05:51] or so it's going to be a bit inaccurate
+[05:52] but around about that sort of 100 to 250
+[05:56] degree range it's going to have nice
+[05:57] accuracy for them
+[05:59] now we have got rid of the safety
+[06:00] mechanisms so we do need to put the
+[06:02] safety mechanisms back in
+[06:04] and one of the things we're going to do
+[06:05] is put a thermal cut out switch in
+[06:08] now these thermal cut out switches
+[06:10] arrive
+[06:11] in a package either circular or a
+[06:13] lozenge shape like this one here
+[06:15] and they're rated for the temperature
+[06:18] which you want them to cut out
+[06:20] so these ones are actually for heating
+[06:21] mats so the cutout on this one is
+[06:24] 40 degrees c so once whatever this is
+[06:26] touching reaches 40 degrees c
+[06:28] this is just a little switch in here is
+[06:30] a biometallic strip it'll open
+[06:32] it's an emergency cutout and we're going
+[06:34] to put a cutout switch in here as the
+[06:36] circular ones that i actually got from a
+[06:37] microwave oven
+[06:38] and the cutout temperature on that is
+[06:40] 350 degrees centigrade
+[06:42] so if it gets above that temperature it
+[06:44] will just automatically cut out and you
+[06:46] put that
+[06:47] in the live so that's like an emergency
+[06:49] switch
+[06:50] the other thing we're going to need to
+[06:51] add obviously is this thing which is
+[06:53] what did the thermal cutout before
+[06:56] had a probe for the we're going to
+[06:58] replace with our thermal cutout switch
+[07:00] and an emergency shut off switch so
+[07:02] we're going to separate that item into
+[07:04] two items
+[07:05] a thermal cut out and a separate
+[07:08] emergency switch and that's because it's
+[07:10] going to be used in a commercial
+[07:11] environment again so we need to add
+[07:13] those features
+[07:14] so that's all we're going to do so now
+[07:16] what i'm going to do is reassemble all
+[07:18] of this
+[07:18] and get the electronics in place a
+[07:21] little bit of painting a little bit of
+[07:22] hole cutting
+[07:23] okay so there it is back together now
+[07:25] i've cleaned everything and i've tried
+[07:27] to preserve what i can so where i put
+[07:29] the pig controller actually taking this
+[07:30] control out and made it part of the
+[07:32] decoration so
+[07:33] just trying to sort of preserve it make
+[07:34] it look balanced still make it look
+[07:36] pretty
+[07:36] um they did have remember the emergency
+[07:39] switch at the back which
+[07:40] seemed really weird to me because if
+[07:42] you've got an emergency here you're
+[07:43] trying to lean at the back to try and
+[07:45] get it
+[07:45] that didn't seem to be sensible so i
+[07:47] bought an ip rated enclosure for it
+[07:49] because obviously it's a fat fryer so
+[07:51] you've got an ip rated enclosure
+[07:53] and now the on off switch and the kill
+[07:54] switch are going to be at the front just
+[07:56] down there so that's actually
+[07:58] with that and that seems much more
+[07:59] reasonable to me now the on switch was
+[08:01] this control here and we've replaced the
+[08:03] on switch with an actual on switch
+[08:05] so if that will fit in there that'll be
+[08:07] wired up and i'll do a wiring diagram
+[08:10] for it because they're really
+[08:11] incredibly simple hey i mean a solid
+[08:14] state relay is just a switch that takes
+[08:16] its control from the pit controller so
+[08:18] the pit controller sends an on off
+[08:20] control
+[08:20] into uh three or four and then that
+[08:24] actually activates one and two
+[08:26] which are the main power feeds going to
+[08:27] the heat of going to the actual heaters
+[08:29] so all you really do is follow the
+[08:31] diagram on the back of the pit
+[08:32] controller
+[08:33] wire in the solid state relay wiring
+[08:36] the thermocouple just like it says on
+[08:39] the picture and that's
+[08:40] all there is to it and we've gone
+[08:42] through that on different uh videos
+[08:44] where we've done
+[08:45] kilns so the wiring of this is no
+[08:47] different to the warring of the kiln
+[08:49] obviously it's a little different with
+[08:51] this switch but these switches actually
+[08:53] again all this stuff has pictures on the
+[08:55] back so you just wire it according to
+[08:57] the picture on the back and you're done
+[08:59] the only other thing we still need to do
+[09:00] is this thing this is a bit of a weird
+[09:02] little thing
+[09:04] this is a um thermocouple actually it's
+[09:08] a biometallic strip
+[09:09] and it's contained in this case there's
+[09:11] a little heat contact there
+[09:12] you put that against the bowl and then
+[09:15] you wire the live
+[09:16] in and out of that so if this whole
+[09:18] thing goes crazy
+[09:20] and it starts to get hot then the little
+[09:22] biometallic strip is set at a
+[09:24] that you buy these at you can buy these
+[09:27] at a whole range of temperatures
+[09:29] now i've been told by the guys you're
+[09:31] going to use this they're going to use a
+[09:33] red seed oil
+[09:34] the smoke temperature for 18 is 230
+[09:37] degrees
+[09:37] so we want this to cut off round about
+[09:40] 220 to 240 degrees centigrade something
+[09:43] around about there
+[09:44] so you buy that to cut off at that
+[09:47] fit it to the bowl you've got a couple
+[09:49] little screws here you can fit quite
+[09:50] closely
+[09:51] and if that temperature goes up then
+[09:53] this
+[09:54] will just turn it off and like i say
+[09:56] it's very mechanical because it's just a
+[09:58] bi-metallic strip so there's nothing
+[10:00] really that's going to go wrong with
+[10:01] this and that's your safety switch so
+[10:03] that safety switch gets wired in the
+[10:04] live
+[10:05] connected to the bolt we wire up the
+[10:08] switches
+[10:08] we wire up this and according to the
+[10:10] diagram and we're done
+[10:12] anyway i'm going to get that wiring done
+[10:14] and show you the wiring
+[10:16] so because we want a um stop start
+[10:18] button and we've moved that to the front
+[10:20] what we're going to use is this thing
+[10:22] now this is universally used for
+[10:23] stopping and starting machinery
+[10:25] but they're momentary switches so you
+[10:27] press them they don't latch
+[10:28] you just open them up again because you
+[10:30] can't really fry food with your thumb on
+[10:32] that button all of the time
+[10:34] hoping that it's going to work so what
+[10:36] we use is something called a relay
+[10:37] latching circuit and it looks like this
+[10:43] now you'll have noticed that one of the
+[10:45] switches is normally closed and one of
+[10:46] the switches is normally open
+[10:48] the normally closed switch is always the
+[10:50] off switch
+[10:51] in our case normally closed is this red
+[10:53] one and it says on it normally closed
+[10:55] the green one's a normally open one so
+[10:58] when we press the normally open one we
+[11:00] close a circuit
+[11:01] and that provides power to the relay
+[11:03] which then latches
+[11:05] now because one of the sets of the relay
+[11:06] is dedicated to this it stays latched
+[11:09] because the coil stays energized until
+[11:11] you press the red one which breaks that
+[11:14] and so the coil loses its power and it
+[11:16] turns off
+[11:17] now obviously what you need is a relay
+[11:19] we have one here
+[11:21] this relay is a double pole double throw
+[11:23] so there are two available poles we need
+[11:25] two available poles
+[11:27] then we use the normally open side of
+[11:30] the poles
+[11:31] and connect it to this relay so this
+[11:33] relay
+[11:34] has two available ports which we
+[11:36] obviously need and
+[11:37] a timer now i like this timer because
+[11:40] this timer only allows the thing to be
+[11:42] on for 30 minutes
+[11:43] after 30 minutes it's going to turn off
+[11:45] anyway so it's another safety feature
+[11:48] now you can get these in hours i like
+[11:50] the minutes one if the guys are
+[11:52] upset by the minutes then you just have
+[11:53] to pull it out and put a new relay in
+[11:55] because the relays
+[11:56] are universal in their junctions they
+[11:59] always wire up the same way so they can
+[12:00] always replace this
+[12:02] but i'm putting a 30 minute one in so
+[12:04] the fryer can only be on
+[12:06] for 30 minutes at any particular time as
+[12:08] they plan on frying something
+[12:10] quickly then obviously they don't need
+[12:12] more than 30 minutes if they want longer
+[12:14] they're going to have to swap the relay
+[12:15] but i'm putting a 30 minute relay in it
+[12:17] as a safety feature and i quite like
+[12:20] that actually
+[12:21] so we're going to use this relay we're
+[12:23] going to use that latching circuit that
+[12:24] i showed you before
+[12:25] and we're going to use these momentary
+[12:26] switches on the front and that's how
+[12:28] we'll perform that on our function
+[12:30] now that function is performed in that
+[12:33] way for a whole host of machinery
+[12:35] if you're looking at running motors so
+[12:37] leads drills
+[12:39] saws then you have a relay latching
+[12:41] circuit
+[12:42] if you've ever wanted to do a relay
+[12:44] latching circuit or run your own
+[12:46] saw or drill with safety then this is
+[12:48] the way to actually do it so it's a
+[12:50] tremendously useful circuit even though
+[12:52] it looks a little bit weird
+[12:53] so wiring it isn't that difficult either
+[12:56] we'll get on with wiring it and we'll
+[12:58] have a look how it's physically actually
+[13:00] wired
+[13:01] so here's what it actually looks like
+[13:03] there's a normally closed
+[13:04] red stop switch there's the normally
+[13:06] open green
+[13:08] now i've used a heat resistant um
+[13:11] wire here heat and grease and oil
+[13:13] resistant actually because it's a fish
+[13:14] fryer
+[13:15] and i'm using the three colors but i'll
+[13:17] tape those three colors up actually i
+[13:19] put heat shrink on them to make them
+[13:20] all one color at the end and according
+[13:22] to the regulations they have to be
+[13:24] tagged as one color and i'll do that
+[13:26] for at the moment i'm just using these
+[13:28] so that you can identify with them
+[13:30] number three takes the red wire and that
+[13:32] will actually come from the power
+[13:34] so that will go from the power and to
+[13:36] one side of the relay pole
+[13:38] not the relay coil itself but the um
+[13:42] relay pole that's going to be switched
+[13:44] then we've joined
+[13:45] two and four together as you can see the
+[13:48] blue wire
+[13:49] here that goes to the other side of the
+[13:53] coil sorry relay pole and then the
+[13:56] yellow and green wire
+[13:58] goes the relay coil itself
+[14:01] that is a live wire going to the coil as
+[14:03] i said i'll take it in red so that's
+[14:05] what it looks like when it's actually
+[14:06] wired up at this end
+[14:08] and that's what it looks like from this
+[14:09] side now the switch remember
+[14:11] only operates the relay there's no real
+[14:13] power being drawn because it's just the
+[14:15] relay switching off and on and
+[14:16] it's a few micro amps it's the other
+[14:19] pole of the relay
+[14:21] that operates the pid controller and
+[14:23] again it's very low
+[14:24] power the high power comes in when we
+[14:27] start to switch the
+[14:29] solid state relay the solid state relay
+[14:32] is the one that handles the high power
+[14:34] all of this stuff is very low power
+[14:38] okay so this is the controller wired up
+[14:40] and really all you do is follow the
+[14:42] pretty picture that's glued on the side
+[14:44] so this is the switch to the silic solid
+[14:47] state rectifier right there
+[14:48] that's the power supply it's a 240 volt
+[14:51] power supply
+[14:52] and there's the thermocouple and you
+[14:54] just put them in the places where it
+[14:55] tells you to put them
+[14:57] maybe a bit more confused about this we
+[14:59] did go through this in some detail on
+[15:01] building the kiln video but if you
+[15:03] follow the picture wire them in and it's
+[15:05] ready to just
+[15:06] shove back into its place and that's it
+[15:08] all wired up and ready to test
+[15:10] i i can be a little anal incidentally
+[15:12] about wiring looms
+[15:15] okay so that's now completed so we've
+[15:17] taken this which
+[15:18] the boys next door had for not very much
+[15:21] money i think was only a few pounds
+[15:23] renovated it cleaned it upgraded the
+[15:25] electronics and then
+[15:27] included some safety features so this
+[15:30] now well it's plugged in ready to turn
+[15:31] on it won't turn on until i press the
+[15:33] green button
+[15:34] and then that circuit latches and you
+[15:36] can see it's staying on the little
+[15:38] neon came on to tell you it's on then
+[15:40] that stays on
+[15:41] until i press the red button and off it
+[15:44] goes
+[15:44] so i can set this and that's kind of
+[15:46] cool so
+[15:48] remember that latching circuit includes
+[15:50] a timed relay so this is only going to
+[15:52] stay on for half an hour
+[15:53] they'll know because the red light will
+[15:55] come on now i have actually disconnected
+[15:57] the heating unit the heating element at
+[15:59] the back
+[16:00] but when it starts to heat so when this
+[16:02] is set the amber light will come on
+[16:04] telling you that it's heating and then
+[16:06] when it's not heating the amber light
+[16:07] will go off
+[16:08] but the red light will stay on to tell
+[16:10] you it's actually powered so i'm quite
+[16:12] pleased with that and don't forget it's
+[16:13] got that thermal cutoff switch
+[16:15] um sat against the bowl here as well to
+[16:18] prevent it overheating
+[16:20] so for not very much money we've
+[16:22] repaired this
+[16:23] renovated it updated it and given a bit
+[16:25] of extra safety features
+[16:27] um the wiring actually is identical to a
+[16:32] kiln wiring so if you have a look at the
+[16:34] kiln wiring it'll
+[16:35] show you how the pid and the solid state
+[16:38] relay was used
+[16:40] the only difference here is that we've
+[16:43] included that latching circuit for this
+[16:45] on
+[16:46] off switch so that's the main thing here
+[16:49] is that we've done new is that
+[16:50] then i've included the circuit diagram
+[16:52] for that now
+[16:54] all of the power is on uh very low
+[16:56] actually it's quite low amps it's all
+[16:58] 240 so you do need to be careful
+[17:00] but it is low amps apart from the solid
+[17:04] state relay side which is the bit that
+[17:06] runs these
+[17:07] and that's a high amp draw anyway i
+[17:10] found it interesting i hope you enjoyed
+[17:11] the video and thank you very much for
+[17:14] watching

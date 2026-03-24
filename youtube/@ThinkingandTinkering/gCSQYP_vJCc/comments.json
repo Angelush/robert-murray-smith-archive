@@ -1,0 +1,528 @@
+[
+  {
+    "id": "Ugw8IU_0toaz5p7ZrzZ4AaABAg",
+    "author": "@StephanLuik1",
+    "author_channel_id": "UCRaNuFc8qB5m__lvYoSLhIw",
+    "text": "I used this method once in awhile. There's a special nozzle that you can attach to the paint stripper, so you can direct the heat better. When removing integrated circuits, beware of ESD. Use a wrist strap. Also, tweezers are a bit more gentle than a screw driver. Using flux will ease the process. With power supplies, make sure the capacitors are drained before touching them.",
+    "likes": 0,
+    "published_at": "2025-05-30T08:32:03Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy-D_rL8oNJ1ZqSRvx4AaABAg",
+    "author": "@townbell2248",
+    "author_channel_id": "UCHaIcWb40vdypRhYHCC_-PA",
+    "text": "Could you make a video on repurposing components from circuit boards",
+    "likes": 0,
+    "published_at": "2021-07-05T21:51:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzLQDk2xttUOW-U1s94AaABAg",
+    "author": "@richardsandwell2285",
+    "author_channel_id": "UCvF7BNro_bViy-bhKcl89nA",
+    "text": "What a great idea using a heat gun, I have spent too long with a soldering iron and solder sucker. \nThis will save me time.",
+    "likes": 0,
+    "published_at": "2021-04-15T07:51:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxmI64I-zAWQtrjK4F4AaABAg",
+    "author": "@hanslepoeter5167",
+    "author_channel_id": "UCGzIwJOc2g2aIwgwSxC6y4g",
+    "text": "Aha .... I happen to know what it smells like if you do that. Your neighbours know too now I guess. Probably the whole neighbourhood.\nActually it's common to remove smd silicon with a small heat gun. Usually these can be reused after that. If you stick a pin under it, slightly pull and heat with hot air it will not be hotter than when it was soldered by the reflow process.\nFor through hole components it's better to take them off wire by wire if the component shape allows it. Just with a solder iron. If you have a high pin count like a DIL package you can cut from above and pull the wires out one by one. The component will be lost but usually that's not an issue. Tweezer solder irons exist and can help in many situations.  It can be difficult to remove a through hole component due to pcb design. If a wire is placed in a pad which has high thermal conductivity to a large copper plane or maybe 4, 6 or 8 internal copper planes it can be very hard to remove it. Preheaters exist for this kind of situation. When preheated you only need to add the additional heat to get to the melting point from the preheated situation. Not from room temperature.",
+    "likes": 0,
+    "published_at": "2021-04-13T21:47:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyleOiWzcbxh-G-aC14AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "When you're removing toroidals, if they are for rewinding you can just snip the base of the copper wire. Heat is only needed when they will be reused in the same form.",
+    "likes": 0,
+    "published_at": "2021-04-13T02:57:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx0vmd_kNNi-E6CI294AaABAg",
+    "author": "@garethlaw4884",
+    "author_channel_id": "UC6uRqC7xNcQne1LSqknWmlg",
+    "text": "Good work Luke 👍",
+    "likes": 0,
+    "published_at": "2021-04-11T11:14:07Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5tH1gB_L0EhMLWEl4AaABAg",
+    "author": "@anneinfurna8528",
+    "author_channel_id": "UCQpoVhB8lWeVwtYVRAl1rRg",
+    "text": "The technique that i was taught is to use a standard soldering Gun, and a tool called a \"Soldapullit\". What that does is as you isolate the component leg, you warm it up with the soldering gun, and apply the rubber tip of the SoldaPullit to the molten solder, it triggers with a \nfinger and basically 'Sucks the molten Solder off the component leg and you do the other ones there and the component drops right off with no damage. What makes it neat is you can remelt the solder and use it as it gets ejected out the front of the tip when you reset the tool.\nNeat Gizmo -- Look them up!",
+    "likes": 2,
+    "published_at": "2021-04-11T04:12:34Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx5tH1gB_L0EhMLWEl4AaABAg.9LzGJCB6XzW9M0ND3KO63R",
+        "author": "@plainedgedsaw1694",
+        "author_channel_id": "UCpV44KdH-stlB2LXN_Pp7Nw",
+        "text": "Indeed those small (literally) suckers are handy for lot of stuff but not really suitable for small pads.",
+        "likes": 1,
+        "published_at": "2021-04-11T23:51:23Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw8zDFH2IgOeUimY6d4AaABAg",
+    "author": "@victoryfirst2878",
+    "author_channel_id": "UCEA42l13uiXOq9ry4BPsklg",
+    "text": "What is your reasoning for using a heat gun ??? What about using a solder vacuum iron instead. Thansk",
+    "likes": 1,
+    "published_at": "2021-04-10T14:49:11Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy5sAH_d2WzIJOGXLp4AaABAg",
+    "author": "@brendanjohn1014",
+    "author_channel_id": "UCudy_VDiTaBm0vpyYOFXZcA",
+    "text": "Generally I use a soldering iron and a desolder pump. Liquify the solder then suck it away... tales two ticks and you do not damage the component.",
+    "likes": 4,
+    "published_at": "2021-04-10T11:18:49Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwUZ_9Dy-jlTz9OKFh4AaABAg",
+    "author": "@ryanlebeck259",
+    "author_channel_id": "UC6p_9ZsOo1BZU71I1abBTxA",
+    "text": "Remember that if you use parchment paper and a marker so that you have some heat protection for the board so you dont scorch anything that you don't want heat damaged; parchment paper can push through the pins and heat the solder without \"burning\" the board for later purposes.\n\nKeep it up mate, you're doing fine!",
+    "likes": 0,
+    "published_at": "2021-04-10T05:20:25Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyRtTy2DW2ceKTOl3l4AaABAg",
+    "author": "@richardseelye9938",
+    "author_channel_id": "UCJOVLguRU9EAIU0qPKiO5Bg",
+    "text": "Thanks , I did not think of a heat gun. I like that idea",
+    "likes": 0,
+    "published_at": "2021-04-10T04:05:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzlnmsv9SzpjnS74Sd4AaABAg",
+    "author": "@tawnihaynie1065",
+    "author_channel_id": "UCUR9y9cDIDADFcEsocXJLcA",
+    "text": "Hi Robert .  Great video.   Please stay safe and healthy and take care of yourself and your family members.  To all members also\n Talk to you later my friend.  ☺☺☺😇😇😇",
+    "likes": 0,
+    "published_at": "2021-04-10T01:40:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxfK1iOIEKYT0O3dvx4AaABAg",
+    "author": "@chuxxsss",
+    "author_channel_id": "UCESfO7nzP7fwECTWtjaTQAQ",
+    "text": "Good recycling Luke, my old boss use to do that with boards back in 2008. At least you did burn the board.",
+    "likes": 0,
+    "published_at": "2021-04-09T23:54:08Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxv_5TvTIcWTOIXRdl4AaABAg",
+    "author": "@totherarf",
+    "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+    "text": "If you only want a specific component a soldering iron and a solder sucker is the way. \n\nIf, on the other hand you are not too fussy a blow torch is quick and easy!",
+    "likes": 0,
+    "published_at": "2021-04-09T21:53:06Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy3ZOemjB9zd_A5oip4AaABAg",
+    "author": "@lightcapmath2777",
+    "author_channel_id": "UC3naUKFl0fXHPQJN7tOonCw",
+    "text": "I used a high intensity car head light to heat off the solder. THe small lamp gives off much heat and is local...give it a try. peace DVD:)",
+    "likes": 0,
+    "published_at": "2021-04-09T20:49:27Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwNh68MUvWrDhSMjLV4AaABAg",
+    "author": "@ambersmith6517",
+    "author_channel_id": "UCnYpZSMraFf0iM5YZrX6R8A",
+    "text": "solder pot my friend  all will come off easy",
+    "likes": 0,
+    "published_at": "2021-04-09T17:53:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw_Eui268gRrv3rtBF4AaABAg",
+    "author": "@rimc8783",
+    "author_channel_id": "UCFlu1KHWkgFZVtsZ2_eJFLw",
+    "text": "I use this method for crapping! The copper and Aluminum off computer boards. Its faster then breaking  the boards up.",
+    "likes": 0,
+    "published_at": "2021-04-09T17:37:39Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxMyu-1qDjtjdCSrgR4AaABAg",
+    "author": "@WileHeCoyote",
+    "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+    "text": "Great video Luke! Is there an advantage of the heat gun over a beefy soldering iron?",
+    "likes": 1,
+    "published_at": "2021-04-09T17:20:44Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxMyu-1qDjtjdCSrgR4AaABAg.9LvWvA1y-q89LvmgOrpgAN",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "My thought exactly. Been using an iron to remove stuff and rarely destroyed anything. This seems more taskfull.",
+        "likes": 1,
+        "published_at": "2021-04-09T19:47:16Z"
+      },
+      {
+        "id": "UgxMyu-1qDjtjdCSrgR4AaABAg.9LvWvA1y-q89LvncDhDxIc",
+        "author": "@WileHeCoyote",
+        "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+        "text": "@Teknopottu tho it IS nice to know that we CAN also use a heat gun if an iron is not available or appropriate yet desoldering is required",
+        "likes": 1,
+        "published_at": "2021-04-09T19:55:26Z"
+      },
+      {
+        "id": "UgxMyu-1qDjtjdCSrgR4AaABAg.9LvWvA1y-q89LwczVRMw_7",
+        "author": "@Teknopottu",
+        "author_channel_id": "UCmekZIFPirq7pmPHbut4-DA",
+        "text": "@WileHeCoyote That is true and when removing several components with multi legs, this could be easier on the long run.",
+        "likes": 0,
+        "published_at": "2021-04-10T03:41:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxM-IER6r9XqFDwEjR4AaABAg",
+    "author": "@BushImports",
+    "author_channel_id": "UCcT1D-gVHYtZfl9WDlDW--w",
+    "text": "I'll have to get a heat gun and try that, I nearly always destroy transistors with a soldering iron.  Thanks Luke.",
+    "likes": 1,
+    "published_at": "2021-04-09T17:20:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwPbJiY7LCI55odVBR4AaABAg",
+    "author": "@randomhuman1965",
+    "author_channel_id": "UCYjBiDnhuNKhDXB-BVjRLdA",
+    "text": "Nice Video!",
+    "likes": 0,
+    "published_at": "2021-04-09T16:48:37Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzWpE9OWAuGqScsiGR4AaABAg",
+    "author": "@1upPaintingAB",
+    "author_channel_id": "UCMsV9Rn2KsZLuez0YW4x6rw",
+    "text": "Heat gun + hammer = salvage whatever comes off intact",
+    "likes": 1,
+    "published_at": "2021-04-09T16:27:22Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz_TZvkVMNupXCz-rR4AaABAg",
+    "author": "@twestgard2",
+    "author_channel_id": "UC_qXrX8sZyyYyZqkoJZZA3Q",
+    "text": "I’m excited about these circuit videos. Looking forward to more. It would be cool if you do some on testing the components to verify that they work.",
+    "likes": 1,
+    "published_at": "2021-04-09T16:23:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz_TZvkVMNupXCz-rR4AaABAg.9LvQM0hw4kQ9LxPgP95Axp",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "anyone ready to 'give it a go' i find \n'Physics Videos by Eugene Khutoryansky Solving Electric Circuits' \n& related practical vids interesting as he sticks to the water analogy.\nthen you just need to apply the ink formulation's to produce the given component's properties you want per device required to make a diy thing ^_~",
+        "likes": 0,
+        "published_at": "2021-04-10T10:56:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx1G5KmzfaDuvlGoBB4AaABAg",
+    "author": "@paulmaydaynight9925",
+    "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+    "text": "tell rob about this... interesting for many of his things perhaps.\n'See the Pattern New 'Knock-On' Chemical Reaction Casts Doubt on a 90 Year Old Model of Chemical Reactions'",
+    "likes": 0,
+    "published_at": "2021-04-09T16:22:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxgTVPEmGuc5R18eLx4AaABAg",
+    "author": "@clearskies1997",
+    "author_channel_id": "UCKWEsPC2vzd6j-qVE8HqURQ",
+    "text": "Top drawer for the presentation ....bottom drawer for your technique!!\n\nWhatever happened to soldering iron and solder sucker??\n\nRAE trained and 40 years in marine radar and Comms- if anyone saw me using your method - I wouldn't have been doing it long! - not flaming you young Fella,  just pointing you to tbe proper work method....\n\nAs I've said to the Old Boy,  Great Channel.....but dont ruin it with naff work drills....",
+    "likes": 5,
+    "published_at": "2021-04-09T16:14:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxgTVPEmGuc5R18eLx4AaABAg.9LvPLpN_bxR9LvbUnSeYG6",
+        "author": "@timredd",
+        "author_channel_id": "UC9soE3FDQhjmSlmF1wjFeWw",
+        "text": "Agree, solder sucker or wicking braid. Integrated circuit components are a beast to remove without damaging.",
+        "likes": 0,
+        "published_at": "2021-04-09T18:09:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-eboJi6MKLGbPFpd4AaABAg",
+    "author": "@Alex-tj1zo",
+    "author_channel_id": "UC-VxYDJSDdlyVFiLgIJBZAg",
+    "text": "This gives me an ideea about converting a heat gun into a heat soldering/desoldering station",
+    "likes": 1,
+    "published_at": "2021-04-09T16:01:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw-eboJi6MKLGbPFpd4AaABAg.9LvNp0pDuOd9Lw-tGbD0I1",
+        "author": "@ecks8214",
+        "author_channel_id": "UCaGC7OtCuJt_wDGgiw2Ty6Q",
+        "text": "They're... One and the same",
+        "likes": 0,
+        "published_at": "2021-04-09T21:51:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykhNrJ701jg0LmLvN4AaABAg",
+    "author": "@skhumbuzocele1330",
+    "author_channel_id": "UCtgUABd-fnSvH5u6btOu4sA",
+    "text": "Why you spwak of wearing protection, while you did not wear any protection yourself?",
+    "likes": 0,
+    "published_at": "2021-04-09T15:58:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwdWwPMa0oO_jOwewZ4AaABAg",
+    "author": "@RandomSmith",
+    "author_channel_id": "UC0Xb9fdUg9jpsC9dJ6CJgSw",
+    "text": "Adding a nozzle to direct the heat to a more concentrated area may help save a bit of time, usually comes with the gun (or just make one)",
+    "likes": 0,
+    "published_at": "2021-04-09T15:56:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxzz8FETHorfpFiXtR4AaABAg",
+    "author": "@paulmaydaynight9925",
+    "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+    "text": "oh luke... 'How To Make A Desoldering Bath From An Iron Or Toaster Or Hob' ^_¬",
+    "likes": 1,
+    "published_at": "2021-04-09T15:54:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxbjDSLKvzU38HvX8Z4AaABAg",
+    "author": "@pulesjet",
+    "author_channel_id": "UCFvYK8dKjA17NIkhN_pkLHg",
+    "text": "Once a dip  chip is heated a blast of DUST OFF AIR clears the solder.  GOGGLE S  DONED.",
+    "likes": 0,
+    "published_at": "2021-04-09T15:27:32Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwSCKqnWDUYSH67QDZ4AaABAg",
+    "author": "@X02switchblades",
+    "author_channel_id": "UCV8QC5HPs01Cljt1d3YniEA",
+    "text": "why didn't you use a soldering iron?",
+    "likes": 1,
+    "published_at": "2021-04-09T15:19:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzglwbKwBi6php1ISV4AaABAg",
+    "author": "@ecospider5",
+    "author_channel_id": "UCOVM3cj9uUZVXEybHfRK3GQ",
+    "text": "This did seem to work. I find an oversized soldering iron and some solder wick works well too. I use a 100watt iron. But that is not what a hobbyist would have for a soldering iron so the heat gun is a good option.",
+    "likes": 1,
+    "published_at": "2021-04-09T15:13:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzglwbKwBi6php1ISV4AaABAg.9LvINFKjzpu9LvVAQHdJLQ",
+        "author": "@michaelsams6873",
+        "author_channel_id": "UCC2No6O6ua9TjO1RtDyUBnA",
+        "text": "Much faster...been doing the same for years.",
+        "likes": 0,
+        "published_at": "2021-04-09T17:05:29Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-nOpT899y0GRRJYl4AaABAg",
+    "author": "@mrjones2009",
+    "author_channel_id": "UCjZX-Q4Avj2OAB9URs7-d2A",
+    "text": "Yeah I would of attempted this on my ecu but it was so small my eyes are not what they used to be so next week my pals doing for say hi to sir for me hope alls well",
+    "likes": 0,
+    "published_at": "2021-04-09T15:04:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzfQQi5W-eApGVXped4AaABAg",
+    "author": "@edwardhughes352",
+    "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+    "text": "I have seen tray of sand heated on a hotplate, just lay the board on the sand and pull the components off.",
+    "likes": 9,
+    "published_at": "2021-04-09T15:03:18Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgzfQQi5W-eApGVXped4AaABAg.9LvHB_KADg19LvwDTtmZvH",
+        "author": "@mamupelu565",
+        "author_channel_id": "UCqmp3tEQuDkAa7x4qqbGrWA",
+        "text": "must be a very hot plate",
+        "likes": 1,
+        "published_at": "2021-04-09T21:10:34Z"
+      },
+      {
+        "id": "UgzfQQi5W-eApGVXped4AaABAg.9LvHB_KADg19LvxitnGGQI",
+        "author": "@edwardhughes352",
+        "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+        "text": "@mamupelu565 yes. about 230 degrees centigrade.",
+        "likes": 1,
+        "published_at": "2021-04-09T21:23:44Z"
+      },
+      {
+        "id": "UgzfQQi5W-eApGVXped4AaABAg.9LvHB_KADg19LxLQIMbMAR",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "@edwardhughes352  if only someone had tested a derivative of Luke's helpers ink ^_~ \r\n'cayrex2 High temperature Conductive ink - 1000 degg C (Update)'\r\n\r\n40vAC from a practical diy mechanical (3vdc air pumped to trompe *accumulator /tesla powered) DC TO AC GENERATOR should do it apparently.\r\n\r\n* Water Pressure Transducer,1/8NPT Thread Stainless Steel Pressure Transducer Sender Sensor 30,100, 150,200,300,500 psi for Oil, Fuel Air, Water + esp32",
+        "likes": 1,
+        "published_at": "2021-04-10T10:18:45Z"
+      },
+      {
+        "id": "UgzfQQi5W-eApGVXped4AaABAg.9LvHB_KADg19Lx_4XTAY3h",
+        "author": "@edwardhughes352",
+        "author_channel_id": "UCX0qAdowWrB0CsNK98_sPBw",
+        "text": "just a metal shallow tray on a normal hotplate, I am not sure what Paul is saying.",
+        "likes": 1,
+        "published_at": "2021-04-10T12:26:51Z"
+      },
+      {
+        "id": "UgzfQQi5W-eApGVXped4AaABAg.9LvHB_KADg19Lx_snmlIcB",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "@edwardhughes352 to make something dedicated using non usual methods .. use off grid style, even when your not off grid, not dependant on commercial vendors, open yourself to non conventional thinking practice ...  you have 'the stuff' & because you can ^_~\n\nits fun and saves...\n'Construction of spherical tanks by explosive method. Explosive Hydroforming.'",
+        "likes": 1,
+        "published_at": "2021-04-10T12:33:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwCKYtpLgd_Oja2nnR4AaABAg",
+    "author": "@robtitheridge9708",
+    "author_channel_id": "UCFBrPoOMxbO6DpXdj4Ppq6Q",
+    "text": "heres a tip luke add leaded solder to the joints they will then come out with far less heat",
+    "likes": 0,
+    "published_at": "2021-04-09T14:59:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyhlWW85RziuwMV-h94AaABAg",
+    "author": "@Buzzhumma",
+    "author_channel_id": "UCo5WwLpvFZABts4AYwPi9mg",
+    "text": "Do your self a favour Luke and start building electronics circuits to learn about all the different components and things that can be done with them . I really think you may be good at it and there is so much on youtube. A hobby or professionally occupied is irrelevant as its infinite combinations to acheive outcomes just like a language .",
+    "likes": 0,
+    "published_at": "2021-04-09T14:54:19Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyhlWW85RziuwMV-h94AaABAg.9LvG9h4mmv59LvwTz_k1Vb",
+        "author": "@mamupelu565",
+        "author_channel_id": "UCqmp3tEQuDkAa7x4qqbGrWA",
+        "text": "Yeah I have a hard time learning electronics and it'd be good if he explained it simply.",
+        "likes": 0,
+        "published_at": "2021-04-09T21:12:49Z"
+      },
+      {
+        "id": "UgyhlWW85RziuwMV-h94AaABAg.9LvG9h4mmv59M1AAy5OwwA",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Awesome suggestion mate! I think I will do this! :)",
+        "likes": 0,
+        "published_at": "2021-04-12T07:16:44Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxdpGC6c832W3nX4AV4AaABAg",
+    "author": "@The-Green-Manali-shi",
+    "author_channel_id": "UCmteoiXcJUoJCu9eBW2b7jg",
+    "text": "Your presentation skills have really come on since you first started. You are more confident and it flows well. Great work Luke.",
+    "likes": 8,
+    "published_at": "2021-04-09T14:53:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxdpGC6c832W3nX4AV4AaABAg.9LvG4lJRZpz9M1A2IDI1iQ",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thank you very much mate! :)",
+        "likes": 1,
+        "published_at": "2021-04-12T07:15:33Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw82lCnYz8txqZueSt4AaABAg",
+    "author": "@reynolds087",
+    "author_channel_id": "UCQG8kCYHIhP7YHoAJ35L2fg",
+    "text": "Was going to mention the respiratory protection, but you addressed it at the end. Good work. I also like to use a bit of solder braid and flux, or even a stripped wire to wick up some of the solder if it won't come off easily.",
+    "likes": 0,
+    "published_at": "2021-04-09T14:47:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw82lCnYz8txqZueSt4AaABAg.9LvFMOwlsfz9LvSulcz3xp",
+        "author": "@sidneytwining1958",
+        "author_channel_id": "UCTMvwpPrhaTvJ6HQaG21rPQ",
+        "text": "My preference: Solder Wick, oka, solder braid.",
+        "likes": 1,
+        "published_at": "2021-04-09T16:45:44Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy0KdkSOsp8QrnTPCx4AaABAg",
+    "author": "@herbetone",
+    "author_channel_id": "UCSKJ8wh9LcvOSOnz46Q-yhQ",
+    "text": "And mind your pinkies with that heat gun, easy done as I can testify 😥 Looking forward to seeing the next stage Luke.👍",
+    "likes": 1,
+    "published_at": "2021-04-09T14:40:19Z",
+    "reply_count": 0,
+    "replies": []
+  }
+]

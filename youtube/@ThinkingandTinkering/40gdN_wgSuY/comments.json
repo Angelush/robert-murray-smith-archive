@@ -1,0 +1,220 @@
+[
+  {
+    "id": "UgxTWdgZUSL4xwCDCxh4AaABAg",
+    "author": "@preppertechnicianee6013",
+    "author_channel_id": "UCw87FvKAsTS-qkFwTjiiXNQ",
+    "text": "When does he turn into an old man?",
+    "likes": 0,
+    "published_at": "2020-06-21T18:25:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBc1lWV_lkhWCglwp4AaABAg",
+    "author": "@jasonwitt8619",
+    "author_channel_id": "UCrcKx80m_9bt0ESOcuITC4Q",
+    "text": "I can tell he has spent a lot of time around Robert, lol - even talks in the same way sometimes. Still has a long way to go to be the master Robert is but good job nonetheless. I like that he focuses on Arduino type stuff using the very ink. Now, I need to see him build a awesome powerful speaker out of the ink. or let's do the Tesla coil capacitor spiral out of the ink. That would be cool to see.",
+    "likes": 0,
+    "published_at": "2019-12-01T18:52:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyRLcQIAwzTiKWHXE94AaABAg",
+    "author": "@rawandrealserendipity",
+    "author_channel_id": "UCzGny7CvccLbjuJuml0D0Tg",
+    "text": "Ooh I see you've set up your own channel. Well done @Luke Neame ;-)",
+    "likes": 1,
+    "published_at": "2019-11-29T09:38:44Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyfaDa7YQyO_va2D0N4AaABAg",
+    "author": "@WileHeCoyote",
+    "author_channel_id": "UCsmZChjSViuw1uVYl_N1k0w",
+    "text": "Very cool mate! Is there a practical circuit length \"maximum\" with the ink and the L.E.D.'s or can you draw what ever design you need with adequate conductivity?",
+    "likes": 1,
+    "published_at": "2019-11-27T04:17:57Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyfaDa7YQyO_va2D0N4AaABAg.91pEfDlXTbB91pb7EWvVtY",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Thanks mate! \nYou know what, i haven't tried to reach the \"maximum\" circuit length.\nBut I can tell you that i have made some pretty big/long circuits. It should defiantly keep adequate conductivity all the way through. ( I would put 2 coats of ink though, just to be sure, if you're working ink big circuits)\nHope this helps!",
+        "likes": 0,
+        "published_at": "2019-11-27T07:42:53Z"
+      },
+      {
+        "id": "UgyfaDa7YQyO_va2D0N4AaABAg.91pEfDlXTbB92LKy8scPk3",
+        "author": "@globalmedia2730",
+        "author_channel_id": "UC6iCKmz1vX_rdxrh2bNrP1g",
+        "text": "You are talking about resistance and voltage drop. To calculate the resistance of a wire, you need to know three things:\n  -  its length  \n  -  its cross-sectional area \n  - The resistivity of the material   \n       Resistance = resistivity × length / area\nThen to calculate the resistivity. You can rearrange it to get a formula as below:\n       resistivity = resistance × area / length \nThen Just calculate the voltage drop of the conductor.",
+        "likes": 0,
+        "published_at": "2019-12-10T00:47:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyPEXBzcn6dNXrzwf94AaABAg",
+    "author": "@RumoredAtmos",
+    "author_channel_id": "UCugBgUbx5qWNt1irS2emNaw",
+    "text": "Does the ink cause a insulation to compress/contract when in between two layers?",
+    "likes": 1,
+    "published_at": "2019-11-26T16:20:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgylySw3FWr6VWq8ohZ4AaABAg",
+    "author": "@doktorwhy7397",
+    "author_channel_id": "UCRRD8wT5EW2TqUqutVnGqFQ",
+    "text": "Q:can this ink be made to be used in a jet printer?",
+    "likes": 3,
+    "published_at": "2019-11-26T14:25:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgylySw3FWr6VWq8ohZ4AaABAg.91nkR4d88JK91odO2QnaeX",
+        "author": "@greenthizzle4",
+        "author_channel_id": "UCjMMklmWifZomCxO0u2jpCQ",
+        "text": "Dok Torwhy certainly, they already have printers with refillable tanks.. just put your own ink in the tanks",
+        "likes": 1,
+        "published_at": "2019-11-26T22:43:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwJM3tzQUtGetpfInx4AaABAg",
+    "author": "@troyw5832",
+    "author_channel_id": "UCJIfwJEu1BYqpN1kX4kfkLg",
+    "text": "Comic books special edition 3.7v but building the curcit engine depending if holographic or what other options may work but spawn covers with that green plasma stuff would have looked way cool!!!!! or using a two layer so the head turns or something. 😆 the comic you can read in the dark.",
+    "likes": 1,
+    "published_at": "2019-11-26T13:38:11Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwJM3tzQUtGetpfInx4AaABAg.91nezZDIlNH92BLPnJvjVq",
+        "author": "@KOTHRIVAL",
+        "author_channel_id": "UCwuwy9lqAkNZhroFK_erscQ",
+        "text": "Interesting. Comic books and media",
+        "likes": 1,
+        "published_at": "2019-12-06T03:39:24Z"
+      },
+      {
+        "id": "UgwJM3tzQUtGetpfInx4AaABAg.91nezZDIlNH92HmLdsxjH1",
+        "author": "@troyw5832",
+        "author_channel_id": "UCJIfwJEu1BYqpN1kX4kfkLg",
+        "text": "@KOTHRIVAL special edition types would look so cool like the blades on a helicopter as it turns 😆.👍just add a 555 and set sequence for it on conductive ink lined in the page or the cover made as the battery with magnet charger the micro curcit it would be a job but.",
+        "likes": 1,
+        "published_at": "2019-12-08T15:38:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwAJwRNHVXyNS0jO7F4AaABAg",
+    "author": "@anthonydonnelly4069",
+    "author_channel_id": "UCNyUDEFAQ38BT6ga0R1xLGg",
+    "text": "Dead cool man.   I've been looking for a picture frame to suite my needs\nbut not found one with the aesthetics and required depth\nbut I'm sure one will turn up.\nIt's intended to be just a picture during the day but light up at dusk \nas background hallway lighting/picture.\nI'm observing your techniques for reference.\nI'm merely a beginner amature in electronics so always watching out for inspiration to backup my\nhighly limited electronic abilities. \nThe arduino has come to light as a possible control source thanks to yours and Roberts work with these devices.\nAlways been put off because of the time element learning the Arduino electronics/programming.\nNevertheless I will persist until I get what I want.  Just doing it for fun really.",
+    "likes": 1,
+    "published_at": "2019-11-26T12:22:49Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwAJwRNHVXyNS0jO7F4AaABAg.91nXMbF4KNl91pbrrF9IwP",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Hi Anthony, Thanks mate!\nThis one is a really cool idea!\nI was only a beginner a few weeks ago (still am lol), But its all about giving it a go.\nThe arduino is an awesome piece of equipment and only cost a few quid, its kinda easy getting the hang of the basics, and there is defiantly sketches and shields out there that would make this project easier.\nGive it a go mate, because that would be very interesting!",
+        "likes": 0,
+        "published_at": "2019-11-27T07:49:23Z"
+      },
+      {
+        "id": "UgwAJwRNHVXyNS0jO7F4AaABAg.91nXMbF4KNl91q-F8Rx9Lo",
+        "author": "@anthonydonnelly4069",
+        "author_channel_id": "UCNyUDEFAQ38BT6ga0R1xLGg",
+        "text": "@MyNameIsLukey \"May the force be with you\".",
+        "likes": 0,
+        "published_at": "2019-11-27T11:22:25Z"
+      },
+      {
+        "id": "UgwAJwRNHVXyNS0jO7F4AaABAg.91nXMbF4KNl91q1DP2gGC4",
+        "author": "@anthonydonnelly4069",
+        "author_channel_id": "UCNyUDEFAQ38BT6ga0R1xLGg",
+        "text": "ER, not the police force, the other one.",
+        "likes": 0,
+        "published_at": "2019-11-27T11:39:40Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx8mdSuvo_hfKt3dMh4AaABAg",
+    "author": "@Hopgoodd",
+    "author_channel_id": "UCt3USnE2uJyeA6QVzOrwlfQ",
+    "text": "Really interesting, keep up the good work!!",
+    "likes": 1,
+    "published_at": "2019-11-26T10:21:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx8mdSuvo_hfKt3dMh4AaABAg.91nJVwEO1Pl91p_vEyWWkD",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "haha thanks mate!",
+        "likes": 0,
+        "published_at": "2019-11-27T07:32:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxA-B2g_PbmNbOVW2N4AaABAg",
+    "author": "@zanshin720",
+    "author_channel_id": "UCzxY_0RC-3ZVpNw5pYuuYPA",
+    "text": "FIRST! :-)",
+    "likes": 2,
+    "published_at": "2019-11-26T09:25:00Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "UgxA-B2g_PbmNbOVW2N4AaABAg.91nD0EZFQwB91nUODNoala",
+        "author": "@anthonydonnelly4069",
+        "author_channel_id": "UCNyUDEFAQ38BT6ga0R1xLGg",
+        "text": "Now last!",
+        "likes": 0,
+        "published_at": "2019-11-26T11:56:49Z"
+      },
+      {
+        "id": "UgxA-B2g_PbmNbOVW2N4AaABAg.91nD0EZFQwB91odRkU94S3",
+        "author": "@greenthizzle4",
+        "author_channel_id": "UCjMMklmWifZomCxO0u2jpCQ",
+        "text": "anthony donnelly I'm now last",
+        "likes": 0,
+        "published_at": "2019-11-26T22:43:55Z"
+      },
+      {
+        "id": "UgxA-B2g_PbmNbOVW2N4AaABAg.91nD0EZFQwB91odhRzWj8q",
+        "author": "@anthonydonnelly4069",
+        "author_channel_id": "UCNyUDEFAQ38BT6ga0R1xLGg",
+        "text": "@greenthizzle4 Yea, but you are first in being last.",
+        "likes": 0,
+        "published_at": "2019-11-26T22:46:12Z"
+      },
+      {
+        "id": "UgxA-B2g_PbmNbOVW2N4AaABAg.91nD0EZFQwB91of_4MDHmH",
+        "author": "@greenthizzle4",
+        "author_channel_id": "UCjMMklmWifZomCxO0u2jpCQ",
+        "text": "anthony donnelly hell yeah",
+        "likes": 0,
+        "published_at": "2019-11-26T23:02:32Z"
+      },
+      {
+        "id": "UgxA-B2g_PbmNbOVW2N4AaABAg.91nD0EZFQwB91pbBgP5l0A",
+        "author": "@greenthizzle4",
+        "author_channel_id": "UCjMMklmWifZomCxO0u2jpCQ",
+        "text": "anthony donnelly you know Ashley Donnelly?",
+        "likes": 0,
+        "published_at": "2019-11-27T07:43:30Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,281 @@
+[00:00] foreign
+[00:04] video 1800 we had a look at these things
+[00:08] and some of the problems associated with
+[00:10] them we had to look at how a wire will
+[00:12] behave when this is a magnetic field and
+[00:15] use that to work out that we could wind
+[00:17] us much more easily using Serpentine
+[00:20] coils we basically spread out the coil
+[00:23] into this curvy m shape now Serpentine
+[00:26] coils have their place like every coil
+[00:28] has its place but we still have the
+[00:31] problem here of Having excess copper
+[00:33] above and below because you wind the
+[00:35] serpentine coil with the top part
+[00:38] sticking beyond the magnet as it must do
+[00:42] if we could wind this that top part
+[00:44] didn't stick beyond the magnet we get
+[00:46] rid of this excess copper and so we'd be
+[00:49] able to increase the power density and
+[00:52] decrease the weight of the copper that's
+[00:55] really cool and Quack a few several very
+[00:58] bright people pointed out that if you've
+[01:01] got it like that there is absolutely no
+[01:03] difference
+[01:04] to having a point and wouldn't that
+[01:07] point lead you towards Stark oils that
+[01:10] kind of thing and they are 100 right and
+[01:14] in fact it was invented by a German and
+[01:17] that's the kind of coil we're going to
+[01:19] make and it's called a foul Harbor coil
+[01:23] foul Harbor coils are a zigzag
+[01:26] Arrangement along the magnets that
+[01:29] zigzag Arrangement allows you to have
+[01:32] everything in the magnetic field and so
+[01:35] we can get rid of these now foul Harbor
+[01:37] coils are used a lot actually they're
+[01:39] used in these things the Drone Motors
+[01:42] they're used in this because of course
+[01:44] they reduce the weight of the copper
+[01:46] that's needed they're coreless as well
+[01:48] so it's not having to carry a core and
+[01:51] all of the copper is being used and so
+[01:54] they're able to spin at incredible
+[01:56] speeds I mean this little motor when you
+[01:58] go up to 30 13 000 RPM or something
+[02:01] crazy like that it spins like Billy oh
+[02:03] so in Lord talk and high speed
+[02:06] applications like drone Motors they're
+[02:08] absolutely ideal now remember token
+[02:11] speed can trade off against each other
+[02:14] but don't get carried away with the
+[02:16] ideal that this kind of coil is the
+[02:19] be-all and end-all it has its uh plus
+[02:23] points and it has its negative points as
+[02:27] well when we pass a wire across a
+[02:30] magnetic field according to the Fleming
+[02:32] rule remember then the strongest effect
+[02:35] is when it's in that direction and the
+[02:37] wire is moving like that the current
+[02:39] will come out of the while
+[02:40] that's the strongest effect
+[02:42] if we put an angle line through that
+[02:45] then at that point more wire is in the
+[02:48] magnetic field and so we get a much
+[02:50] stronger effect but as the moves into
+[02:53] the field at that point much less is in
+[02:56] the field and so overall on average
+[02:59] there is less field intersecting the
+[03:04] wire then in a straightforward
+[03:06] Serpentine coils which actually a little
+[03:07] bit weaker but it has this huge
+[03:11] advantage of you not having to have the
+[03:14] copper and so the power density goes up
+[03:17] these things are always a trade-off
+[03:20] there is no perfect answer it's always
+[03:23] to do with what you wanted to do now I'm
+[03:27] obsessed with the fact that the average
+[03:28] wind speed in the UK is 7.8 knots or 3.9
+[03:32] meters per second it's really slow so
+[03:35] I'm obsessed with I'm getting rid of
+[03:37] cogging talk when it comes to making a
+[03:39] generator and that means that not having
+[03:41] this big lump of iron you don't have to
+[03:43] have this big lump of iron then you
+[03:45] won't get any cogging torque whatsoever
+[03:47] again you pay a price for that but call
+[03:51] this motor call us generators sorry uh
+[03:55] one of the Hot Topics in research were
+[03:57] exactly the same reasons that I'm
+[03:59] obsessed with them because they're able
+[04:02] to scavenge low wind consistently and
+[04:06] overall add up to more power because we
+[04:09] just don't get that much high wind but
+[04:12] we're going to make a um
+[04:16] foul Harbor coil we're going to make a
+[04:18] foul Harbor coil by putting a triangular
+[04:21] zigzag across the magnets and across
+[04:24] Fountain Harbor coils are normally made
+[04:25] in a cylinder
+[04:27] where is it there it is in a cylinder
+[04:29] shed for drone Motors we're going to
+[04:32] make it in a pancake shape and that just
+[04:34] means laying out the magnet and laying
+[04:36] out the coil flat now because that idea
+[04:39] that when the wire passes across
+[04:43] here it's at its maximum strength and
+[04:46] when it passes across here is it's a it
+[04:49] is at its maximum exposure has led to
+[04:52] other foul Harbor coil designs where
+[04:55] you're getting things like diamond
+[04:56] patterns and rhomboid patterns and
+[04:58] people playing around with those things
+[05:00] and you can do if you want we're just
+[05:02] going to do a stretch forward triangle
+[05:04] one and anybody who feels like getting
+[05:06] into
+[05:07] um foul Harbor rotors found Harbor
+[05:09] windings there's a lot of stuff going on
+[05:12] where you can explore it now in order to
+[05:15] wind the foul Harbor you need a former
+[05:18] you can't just wind it in space and hope
+[05:20] it's going to hold you need something to
+[05:23] form it on and when they form the
+[05:24] cylinder ones they use a wooden cylinder
+[05:26] with pins in the bottom and then just
+[05:27] wind it between those pins we're going
+[05:29] to use a flat disc and I've got a disc
+[05:31] of acrylic here this District acrylic is
+[05:34] three millimeters thick and it's going
+[05:35] to rotate over 12 magnets and I've drawn
+[05:38] the magnets on I've actually used a
+[05:40] wooden disc with the magnets drawn on
+[05:43] put it on there and then we've got our
+[05:45] disc with the magnets drawn on now when
+[05:48] Winder Farm Harbor coil We Go From The
+[05:51] Bottom edge of one magnet to the top
+[05:53] edge of the other magnet to the bottom
+[05:56] edge of the same magnet to make this
+[05:58] triangle and then we progress around
+[06:00] winding that coil it'll become a more
+[06:02] obvious and put a few winds on it
+[06:05] now what I've done here is cut this out
+[06:07] with two hole saws so I've got a 50 Cent
+[06:10] um yes a 15 millimeter plastic ring at
+[06:14] 12 magnets and then I put a notch at the
+[06:16] bottom of these inner magnets and then a
+[06:18] corresponding Notch there at the top of
+[06:22] the intersection so I can wind those and
+[06:24] then when I lay over the wire I'll put
+[06:25] it put against that
+[06:27] now what winding this you can use
+[06:29] anything you like I mean you can use
+[06:31] thin wire and put Lots on if you like if
+[06:33] you use thick wire and put not so many
+[06:35] on if you like but it can be a bit of a
+[06:37] pain to go around and around and round
+[06:39] all of that so one really good thing to
+[06:41] wind it with is lit sweater now there's
+[06:44] nothing particularly special about lit's
+[06:46] wire it's used predominantly in high
+[06:49] frequencies to reduce the skin effect
+[06:50] because it alternating current doesn't
+[06:53] penetrate the depth of a wire when it's
+[06:55] at high frequency it stays on the
+[06:57] outside surface
+[06:58] because it's staying on the outside
+[06:59] surface if you have a thick wire or
+[07:02] center of the thick wire isn't being
+[07:03] used so what they do is bundle a whole
+[07:06] lot of thin wires together they're
+[07:07] electrically insulated from each other
+[07:09] and that tends to be how they do high
+[07:11] frequency so things like induction coils
+[07:13] now you can make your own litz wire
+[07:15] really easily with just normal Magnet
+[07:18] Wire that you wind together yourself
+[07:20] finding your own litz Wireless is a
+[07:22] piece of cake you just take some Thin
+[07:24] wire I've got a mole grip put one under
+[07:25] the bench the other end I've got another
+[07:28] mole grip and all we do is run the wire
+[07:30] between those mold grips for as many
+[07:32] bits of wires we want so we want 10 20
+[07:35] 50 whatever it is just until you get
+[07:38] tired of doing it now it so happens that
+[07:40] my bench is five meters long so I'm
+[07:43] going to be able to make 10 meter length
+[07:45] pieces of liter by winding them around
+[07:48] snip it in half and giving it a Twist
+[07:50] that'll become clear in a little bit so
+[07:52] you just fasten the wire on
+[07:55] and then we walk up to the next small
+[07:58] grip
+[08:04] Loop the wire around and go back on
+[08:06] yourself and you keep doing that going
+[08:08] backwards and forwards until you've got
+[08:11] enough water
+[08:13] so when you've run the whole thing find
+[08:15] out where it is parting and then put
+[08:18] some zip ties along it say two or three
+[08:21] spots just to hold it in little bundles
+[08:24] it does something the other end in a
+[08:26] drill and spin the drill
+[08:29] and there is my homemade litz wire now
+[08:32] there's 20 quarters in this so it's a
+[08:34] bit like winding 20.
+[08:37] coils all at once which is really cool
+[08:39] okay so to wind this we start at the
+[08:42] first Notch go up to that second Notch
+[08:45] and then come down to that Notch there
+[08:51] and then we progress the same way up to
+[08:54] that Notch and so on winding all the way
+[08:57] around now we can wind one of these two
+[09:01] of these three of these are separate
+[09:03] coils in which case we'll have a one
+[09:05] phase two phase three phase so you can
+[09:07] wind that however we like I'm just going
+[09:09] to wind it up like this and then show
+[09:11] you the first winding when it's all land
+[09:15] so I've gone around once making that
+[09:17] star pattern now all I do is go around
+[09:20] again
+[09:22] but this time in the one next to the
+[09:25] notch
+[09:39] so the first notches help you get
+[09:41] everything lined up and then of course
+[09:42] every wire follows every other wire and
+[09:44] I've put it around a bobbin to help me
+[09:46] feed it through that Center OH as I say
+[09:48] you can make it one two three fares if
+[09:51] you want I'm just going to go around
+[09:52] until all of that inner ring is coated
+[09:55] with the copper wire and that gives you
+[09:56] my coil because the outer is going to be
+[09:59] a little sparse or more sparsely coated
+[10:02] and that's just because it the um larger
+[10:05] diameter but keep on going until you've
+[10:08] done that and you want three fairs
+[10:10] remember wind it only until it's a third
+[10:12] of the way across and then do the next
+[10:15] coil and the next coil the second and
+[10:17] third third and you'll get the three
+[10:19] phase I'm just going to do a single
+[10:21] phase so I'm just going to keep going
+[10:22] until this is coated with wire on the
+[10:26] inside
+[10:28] okay that's it wound once we've wound it
+[10:32] we can lay it down get a block of wood
+[10:33] and just back the edges to make it all a
+[10:36] little flatter and prettier and when we
+[10:39] cover that in resin that is our coil all
+[10:42] wound and ready now with this you get a
+[10:45] choice you can either keep the column
+[10:47] still and spin the magnet so keep the
+[10:49] magnets still and spin the coil each one
+[10:52] comes with its own pluses and minuses if
+[10:55] you spin the coil of course you're going
+[10:57] to need something like slip Rings If You
+[11:00] Spin the magnets then you're going to
+[11:02] need to make a much more robust build
+[11:04] because the magnets are very much
+[11:06] heavier of course whereas this is
+[11:08] incredibly light so we spin this that's
+[11:10] probably about as good as it needs to be
+[11:12] we'd have to put a central section in I
+[11:15] have in fact
+[11:17] kept the disc that I drilled out and the
+[11:20] disc would go back in there a little bit
+[11:22] of trimming we put the disc back in
+[11:24] there and we get a coiled disc that we
+[11:27] can actually Spin and of course the way
+[11:28] to finish this now is just to put some
+[11:30] plastic down get some car resin on it
+[11:32] and leave it to turn but that
+[11:35] is how you go about winding one of these
+[11:38] coils anyway I hope it was of Interest I
+[11:41] will make this into a generator a letter
+[11:43] that I wanted to show you how to run the
+[11:46] coils thank you very much for watching
+[11:47] and please do remember to like And
+[11:49] subscribe

@@ -1,0 +1,235 @@
+[00:02] [Music]
+[00:14] hello everyone luke here and welcome
+[00:16] back to the channel
+[00:16] so in today's video what we're going to
+[00:18] be doing is completing this arcade build
+[00:21] which i'm actually super excited about
+[00:23] and you might notice that
+[00:25] it's now got a coat of black paint on it
+[00:27] and i have to admit
+[00:28] it does bring the entire thing together
+[00:30] and make it look pretty nice
+[00:31] so the first thing that we're going to
+[00:32] do to get this going is to
+[00:35] install the buttons so let's get that
+[00:37] done
+[00:38] and that's what it looks like so now
+[00:40] what i've got to do is attach all the
+[00:42] wiring
+[00:43] on the back of these buttons so one
+[00:45] thing that is absolutely awesome about
+[00:47] these buttons is that they've only got
+[00:49] two pins coming out one's positive and
+[00:51] one's negative and it clearly tells you
+[00:53] which one's which
+[00:54] which is very cool
+[01:10] and there you have it that was
+[01:12] stunningly easy
+[01:15] right so now i've got the buttons
+[01:16] installed and all the wires connected to
+[01:18] them what i've done next is attach the
+[01:20] joysticks
+[01:21] and they are secured down with just a
+[01:24] couple of m4
+[01:25] bolts which is awesome so let's take a
+[01:27] look at the front
+[01:29] there we go now that i've got everything
+[01:32] installed onto the control board and
+[01:34] it's looking
+[01:34] absolutely beautiful it's time to go
+[01:37] over to the computer to install the
+[01:39] retropie firmware onto the raspberry pi
+[01:41] and this
+[01:42] is actually stunningly simple so let me
+[01:44] show you
+[01:46] and here we go we're at the computer
+[01:48] setup and the program that i'm going to
+[01:49] be using to install the retropie
+[01:51] firmware is called
+[01:52] the raz well it's raspberry pi imager so
+[01:56] i'm just going to open this up
+[02:01] hit yes and here we go
+[02:05] so this is what it looks like and all
+[02:08] i've done is i've taken the sd card out
+[02:10] of the pie
+[02:10] and plugged it into my computer
+[02:14] now the sd card for my raspberry pi is
+[02:16] in my computer what i'm going to do is
+[02:18] choose what operating system i want
+[02:20] and if you come down to emulation and
+[02:22] game
+[02:23] right here here it is retropie so i'm
+[02:25] just going to click that
+[02:26] and make sure you choose the right
+[02:28] version for the raspberry pi that you're
+[02:29] using so i'm using a raspberry pi 2
+[02:32] so i'm going to be clicking on this one
+[02:34] right here and then
+[02:36] we go over here to the storage make sure
+[02:38] it's the right sd card it will tell you
+[02:40] sd and click that and the next step is
+[02:44] just to click
+[02:45] right and you just leave that to
+[02:48] download and that should be perfectly
+[02:51] fine
+[02:52] so the retropie installation has
+[02:54] finished installing so what i'm going to
+[02:56] do is
+[02:56] plug it back into the raspberry pi
+[03:03] and then boot it up to make sure that
+[03:05] everything works properly
+[03:12] and there we go that's it boot into its
+[03:14] splash screen we just want to let this
+[03:15] run for a couple seconds longer and make
+[03:17] sure that it's booting the emulation
+[03:19] station
+[03:20] and there you have it so now the
+[03:22] firmware has been installed and it
+[03:23] booted up absolutely perfectly
+[03:25] so what we're going to do now is wire up
+[03:27] the buttons and the joysticks
+[03:28] so now it's time to wire up the
+[03:30] joysticks and the buttons which is
+[03:31] actually quite easy to do
+[03:33] so i've got my wire my layout diagram
+[03:36] right here and i'm going to be
+[03:38] connecting the buttons
+[03:39] to this line down here from k1 to k12
+[03:43] as i don't quite understand what all of
+[03:45] this stuff means up here
+[03:46] and i know that this works really nicely
+[03:49] right
+[03:50] so let's get this installed the five pin
+[03:53] goes to the five pin slot
+[03:57] and then we take our first button it
+[04:00] comes down to the first k1 spot
+[04:02] which is here
+[04:08] and we basically do the same with the
+[04:10] rest of the buttons just work your way
+[04:12] through them
+[04:17] and there we go that is pretty much it
+[04:19] and that was
+[04:21] ridiculously easy so i'm going to do the
+[04:23] same thing on the other side now
+[04:26] right so now every single button and the
+[04:27] joystick has been wired up to these usb
+[04:29] encoders
+[04:30] they're now plugged into the raspberry
+[04:31] pi so what we're going to do is boot it
+[04:33] up
+[04:34] to make sure that it detects it and that
+[04:36] we can bind the keys
+[04:39] and there we have it so the raspberry pi
+[04:41] is booted up and i've been prompted to
+[04:42] this screen right here it says welcome
+[04:44] two game pads detected so now what we're
+[04:46] going to do is go through the binds
+[04:48] of these buttons and these joysticks
+[04:50] which is really easy so we just hold a
+[04:52] button
+[04:54] and there we go right so up down
+[04:57] left right start select
+[05:01] a b x y
+[05:05] l r and now with these ones we just
+[05:08] hold them because we haven't got
+[05:10] anything for these
+[05:12] hold again and we basically do this
+[05:15] all the way down
+[05:20] to the bottom and then when we hit this
+[05:22] hotkey enable
+[05:25] we just want to bind that to the a
+[05:26] button right
+[05:28] and that's it so just to make sure that
+[05:31] my buttons and my binds are all working
+[05:33] i've got street fighter booted up
+[05:34] so let's unpause it let's move back
+[05:38] and it seems like everything is working
+[05:41] so let's
+[05:42] try one of them
+[05:45] well it seems like all the buttons are
+[05:46] working which is awesome
+[05:48] so now we've got to think about is a
+[05:49] little bit of custom graphics design
+[05:51] which i've made a nice little design
+[05:53] myself
+[05:53] so let's go take a look at that and here
+[05:55] we go here's my little custom design
+[05:57] that i made and i
+[05:58] absolutely love this and if you can't
+[06:00] see this clearly what i'm gonna do is
+[06:02] chuck an
+[06:02] image on the screen now how nice is that
+[06:06] i'm absolutely in love with it so what
+[06:08] i've done is i've set this off to a
+[06:09] company to get printed out
+[06:10] so hopefully we can get these graphics
+[06:12] on the side of the
+[06:14] arcade but in the meantime what we
+[06:16] should do is really install a nice power
+[06:18] connector on the back
+[06:20] so that's what we'll do next and there
+[06:22] you have it i've got the connectors
+[06:23] installed onto the back including the
+[06:24] rocker switch that actually works
+[06:26] so let's go take a look so right here
+[06:28] i've got a fan it's plugged into the
+[06:29] extension lead that's wired up
+[06:31] so let's flip the walker the rocker
+[06:33] switch
+[06:35] and as you can see it boots up
+[06:38] so now let's take a look at my custom
+[06:40] graphics so these are my custom graphics
+[06:42] and i have to admit now these have been
+[06:44] blown up
+[06:45] these look awesome and i absolutely
+[06:48] can't wait to get these cut out and
+[06:49] stuck on
+[06:50] stick up onto the cabinet so let's get
+[06:53] these cut out
+[06:54] and do just that so now i've just
+[06:57] finished on putting all my graphics i
+[06:58] have to admit
+[06:59] it looks absolutely beautiful so what
+[07:01] i'm gonna do is take the camera and give
+[07:03] you guys a little walk around
+[07:05] just so you can see what it looks like
+[07:06] on all sides
+[07:23] so now that we've installed the graphics
+[07:24] and we've got our power inputs in there
+[07:26] as well it's time to
+[07:28] work on the screen and i'm just using a
+[07:29] bit of acrylic and i've already marked
+[07:31] out the size so what i've got to do
+[07:33] is black the rest of this out and there
+[07:36] you have it now the acrylic screen has
+[07:38] been blacked out by some sticky back
+[07:40] plastic
+[07:40] film it does bring the whole thing
+[07:42] together and now the actual
+[07:44] build is complete so we can now flip the
+[07:46] switch on the back
+[07:49] give it a second and it all should boot
+[07:52] up lovely
+[08:01] how awesome is that so now let's try and
+[08:03] get something booted to see what it
+[08:05] really looks like when it's in play
+[08:16] how awesome is that i'm absolutely in
+[08:18] love with this machine
+[08:23] it's really good
+[09:02] and there you have it an ultimate arcade
+[09:04] machine completely built from scratches
+[09:06] and a raspberry pie
+[09:07] and i have to say one thing i am really
+[09:09] proud of this build and i'm really glad
+[09:11] that it turned out the way that it did
+[09:13] and i'm super excited to get this home
+[09:15] so i can dash some of my family members
+[09:17] as a mortal kombat street fighter
+[09:19] with that being said that does bring me
+[09:21] to the end of the video so if you have
+[09:22] any questions
+[09:23] don't hesitate to put them in the
+[09:24] comments and i'll try my best to answer
+[09:26] them all
+[09:27] anyway guys i hope you have a great day
+[09:29] and i'll see you later

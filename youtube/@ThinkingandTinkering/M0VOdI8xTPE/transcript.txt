@@ -1,0 +1,173 @@
+[00:00] foreign
+[00:08] 1959 we got this we basically tore the
+[00:13] heart out of a PC fan to get us what is
+[00:16] effectively a generator now it's a bit
+[00:18] weedy and wimpy because it's got very
+[00:19] little copper in there and a
+[00:21] particularly weak magnetic field but it
+[00:24] works and we can get a surprising
+[00:25] voltage out of it by spinning my hand
+[00:28] now there's next to no talk on this and
+[00:31] if we remember that a generator
+[00:33] generates voltage in direct relationship
+[00:36] to blv sine Theta where B is a strength
+[00:39] and magnetic field L is the length of
+[00:42] the wire sine Theta is the angle the Y
+[00:44] makes the magnetic field and V is the
+[00:48] velocity or the speed at which it turns
+[00:50] when we have a fixed generator like this
+[00:52] and it's going to be important because
+[00:54] most of the stuff that you use are going
+[00:56] to be fixed generators where you've got
+[00:58] a motor and you're repurposing a motor
+[01:00] the only thing we can vary on that is
+[01:03] the speed or the torque and of course
+[01:05] they play off against each other and
+[01:08] there's one next to no talk there was a
+[01:10] fan motor so we know that we need a lot
+[01:12] of speed and one way to get speed is to
+[01:15] add gears now there's a ton of different
+[01:18] gears you can use and they all have
+[01:20] their pros and cons so we could do
+[01:22] magnetic gearing now it does have a
+[01:24] tendency to slip but it's a nice gearing
+[01:27] system we could use straightforward
+[01:29] gears and just build up the gears but
+[01:32] they would be quite large one of my
+[01:34] favorites is this it's a planetary gear
+[01:37] system this is called the ring gear
+[01:41] then we have the Sun Gear and then we
+[01:45] have the planet gears these little one
+[01:47] and this is the planetary carrier now
+[01:49] the gear ratios of these depend on their
+[01:53] relationship to each other so if we
+[01:55] count the number of teeth in there count
+[01:57] the number of teeth in there add them
+[01:59] together we'll get the effective number
+[02:02] of teeth on the planets that always
+[02:05] means that the planet is the biggest
+[02:08] number of teeth the sun is always the
+[02:11] smallest and the planets are always the
+[02:13] greatest the gear ratio of the Sun to
+[02:16] the planets is always the biggest gear
+[02:17] ratio in this particular one then we
+[02:20] have a gear ratio of three so every time
+[02:22] I turn that one the sun will turn three
+[02:25] times now that's kind of cool because it
+[02:28] means that if I put that on there and I
+[02:30] give that one turn I'll get three
+[02:31] equivalent turns out of that and that's
+[02:33] what we're looking for in something like
+[02:35] this because the more speed the higher
+[02:38] the voltage because it's not terribly
+[02:40] useful like that so what I've done is
+[02:42] I've printed out a Sun Gear there we go
+[02:46] like that because this will fit nicely
+[02:49] into there to make us there we go
+[02:52] something we can drive easily and of
+[02:55] course to do that I turn to tinkercad
+[02:57] and I developed this whole thing in
+[02:59] tinkercad if you have a look at it you
+[03:02] can see with the three legs is The Sun
+[03:05] Gear the smaller ones are the planet
+[03:07] gears and then we have stacking ring
+[03:09] gears where we can stack these one upon
+[03:11] the other so we print all of those off
+[03:14] and connect them together like this then
+[03:16] we can put that in there and we put the
+[03:18] ring on over it like that then every
+[03:21] time if we hold the ring still every
+[03:24] time we turn that sun this will turn
+[03:27] three times because that's not very much
+[03:30] but we can stack them so we stack
+[03:32] another one on then we'll get three
+[03:34] times three nine times stack another one
+[03:36] on 27 times and we can keep on building
+[03:39] up a compound sun and Planet gear system
+[03:42] until we get that to spin until we can't
+[03:46] turn it anymore now we can have a look
+[03:48] and see what we're actually getting so
+[03:50] let's do that I've got a ring gear right
+[03:52] there and in the bottom we've got the PC
+[03:54] fan motor with its Cog on it and I've
+[03:56] connected it up to this meter and if I
+[03:58] give that a spin we'll be able to
+[04:00] generate the voltage not a great deal
+[04:02] about 0.5 of the Volt or something that
+[04:05] now that gear operates as a sun and of
+[04:08] course what it needs is some planets and
+[04:10] I've got here a Sun Gear where the
+[04:12] planet carrier is integral to The Sun
+[04:15] Gear and the planets are attached to it
+[04:17] because I can stack them up if I put
+[04:19] that on there
+[04:24] there we go we now get a sun and Planet
+[04:27] Arrangement and if I spin that
+[04:29] [Music]
+[04:30] [Applause]
+[04:33] we had a much higher voltage and I can
+[04:36] keep doing that by adding rings
+[04:41] and adding the Sun and Planet
+[04:43] arrangements to build up a compound
+[04:47] Arrangement where it adds on so what we
+[04:50] get with one of them there we get normal
+[04:52] speed put one on it's three times the
+[04:55] speed two on nine times the speed three
+[04:58] times three three on 27 times the speed
+[05:01] and so on as we add these up okay let's
+[05:06] put a few on and give it a go so I've
+[05:09] got three sections so three nine twenty
+[05:12] seven we're going to give it a spin see
+[05:14] what kind of voltage we get
+[05:26] Madness
+[05:28] okay that went well should I put another
+[05:30] layer on let's see what we get
+[05:50] volts out of this tiny little motor and
+[05:53] the point of all of this well it's
+[05:54] exactly what I was talking about when we
+[05:56] were at the Mill there's always a
+[05:58] mismatch between what you're trying to
+[06:01] input and what you're trying to Output
+[06:03] when it comes to wind turbines you've
+[06:05] got a wind turbine that's capturing the
+[06:08] wind and turning usually quite slowly
+[06:10] with quite a lot of torque you want to
+[06:13] be able to turn that into quite a lot of
+[06:16] speed because normally you're attaching
+[06:19] a pretty standard motor that you're
+[06:21] using as a generator they're often rated
+[06:24] at sort of two to three thousand RPM to
+[06:27] get what you want out of it and you need
+[06:29] to put some kind of gearing system now
+[06:32] when you put a load on them of course
+[06:34] they have a talk requirement and that
+[06:36] torque requirement will translate up
+[06:38] until your wind turbine and of course
+[06:40] your wind turbine needs to be big enough
+[06:43] to provide the torque requirement at the
+[06:46] output end of your wind turbine where
+[06:50] you've stuck your generator the long and
+[06:53] short of it is you're going to need some
+[06:55] gears between your wind turbine and your
+[06:57] generator section you've got a whole
+[06:59] host of choices but these Planet gears
+[07:02] that you can stack up in the modular
+[07:04] form to me represent a really nice way
+[07:07] of being able to translate your wind
+[07:10] turbine input to your generator output
+[07:14] now I tend to make these things
+[07:16] quite chunky for a number of reasons one
+[07:18] then great to demonstrate with because
+[07:20] you can see them two they're made out of
+[07:22] plastic and they're taking a lot of
+[07:23] force when it comes down to the bottom
+[07:25] so they need to be chunky to prevent
+[07:27] them slipping and I just like chunky
+[07:31] design anyway I thought it would go
+[07:33] through gearing how it relates to what
+[07:35] we talked about at crabble Mill how it
+[07:38] relates to wind turbines and how it is
+[07:40] that we're going to use it I hope you
+[07:42] enjoyed the video thank you very much
+[07:44] for watching and please do remember to
+[07:46] like And subscribe

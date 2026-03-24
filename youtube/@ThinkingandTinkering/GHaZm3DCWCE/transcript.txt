@@ -1,0 +1,145 @@
+[00:00] [Music]
+[00:08] Right. Backlash. What it is is when you
+[00:11] make gears, you have to leave a tiny gap
+[00:14] between the teeth because if you didn't
+[00:15] do that, then what would happen is
+[00:17] they'd just jam up and they'd seize up.
+[00:20] And this little gap leads to the problem
+[00:23] called backlash. Let me show you what I
+[00:26] mean. If I move this arm, then of course
+[00:29] I drive that gear which drives that gear
+[00:31] which tries to drive that gear. When I
+[00:34] move the arm one way, then this side of
+[00:36] the tooth is pressing on that side of
+[00:38] the tooth attempting to move it. As I
+[00:41] move it the other way, then there's a
+[00:43] small distance that this tooth must
+[00:46] move. So you'll see that that gear is
+[00:48] moving, but this gear isn't. And that
+[00:51] little wiggle is because the side of
+[00:54] this has to move to the side of this
+[00:57] before it can press against it. And that
+[00:59] little wiggle is a backlash. Now, you
+[01:02] can make that better by making more
+[01:04] precision gears for sure, but to make
+[01:07] gears work, you're always going to have
+[01:10] it. And yes, it leads to a little bit of
+[01:13] loss of power in transmission, a little
+[01:15] bit of reduction in efficiency, but for
+[01:18] years that really didn't matter that
+[01:20] much. And to be honest, most of the time
+[01:22] it doesn't really matter that much. But
+[01:25] there are occasions and they become more
+[01:27] predominant recently that it really does
+[01:30] matter that much. And those are
+[01:32] occasions when you need real precision.
+[01:34] And here we're talking about precision
+[01:36] machines. Things like CNC machines, 3D
+[01:40] printers, that sort of thing. For them,
+[01:43] backlash is a curse. But of course,
+[01:46] we're an inventive species, and we've
+[01:48] come up with quite a few ways to either
+[01:50] get rid of backlash, reduce it, or find
+[01:54] ways to cope with it. One way to deal
+[01:56] with it is like the NAI friction drive.
+[01:59] Basically, don't use gears at all. The
+[02:02] National Ignition Facility use a
+[02:04] friction drive to align mirrors in the
+[02:06] nanometer scale. And of course, with
+[02:08] friction drives, there is no backlash. I
+[02:11] mean they do have limitations in torque
+[02:14] but that is being overcome when we think
+[02:17] about things like the Archimedes drive
+[02:20] that we built a model of
+[02:22] lots of CVTs are in fact friction drives
+[02:26] so friction drives is one way of just
+[02:29] sidest stepping the issue altogether of
+[02:31] course it's not always appropriate
+[02:33] because the torque requirements can be
+[02:35] limiting like a CNC machine where you
+[02:37] need quite high torque and quite high
+[02:39] precision for Then there are other
+[02:41] things you can do. I mean minimization
+[02:44] of backlash can just be down to gear
+[02:46] design. Things like herring bone gears
+[02:48] which unfortunately quite expensive to
+[02:50] make are in fact infamous for their very
+[02:54] low backlash and so a good choice in
+[02:56] situations like that where you minimize
+[02:58] it. Now of course the backlash is a
+[03:01] known distance over a known time. So the
+[03:04] software could be written to accommodate
+[03:06] for that and basically take that out or
+[03:10] sidestep that issue. So there are lots
+[03:12] of ways that have been looked at for
+[03:14] reducing or sidest stepping or really
+[03:17] obiating backlash as a problem. There
+[03:21] are of course mechanical solutions. They
+[03:25] mostly rely on springs. You basically
+[03:28] you split the gear, apply a couple of
+[03:30] springs that pull the teeth into the gap
+[03:33] of the meshing gear. They're limited by
+[03:35] the strength of the spring and the
+[03:37] torque that's being applied, but they
+[03:40] work. And you don't only find them in
+[03:42] spur gear arrangements, you find them in
+[03:44] wormgeear arrangements, too. They're
+[03:47] absolutely fascinating things. So, I
+[03:49] thought we'd do a model of a wormgeear
+[03:52] that is set up to remove backlash. And
+[03:56] in that in mind, I opened up Tink
+[03:58] account and drew up this. So here the
+[04:01] parts printed off. Now incidentally, I
+[04:04] bought this box of springs from Amazon.
+[04:06] And whenever I do a project like this, I
+[04:08] just fish through that box because I
+[04:10] need two springs like that, which are 24
+[04:13] by8 and one spring like that, which is
+[04:16] 24x8.
+[04:18] These springs fit into here. So this
+[04:21] first section slides in like that. And
+[04:24] then the spring goes Oh, sorry, wrong
+[04:27] way around. There we go. There are two
+[04:28] indentations. It slides in like that
+[04:31] with that bit pointing towards that bit.
+[04:34] And the spring gets forced in there.
+[04:38] So that it looks like that. Then the
+[04:41] worm gear goes into there like that.
+[04:43] There's a white rod that goes into there
+[04:45] like that. This other side then fits on
+[04:48] there like that. Making sure that the
+[04:50] white rod connects. There we go. So,
+[04:52] it's like that. And that glues on there
+[04:55] like that. Oh, before gluing it on, we
+[04:58] take that bit, pop the big spring on,
+[05:00] and that goes in there like that. And
+[05:03] then we can take that bit with the other
+[05:06] side of the clutch mechanism, and that
+[05:09] goes on there like that. Then we shove
+[05:13] that in there. There we go. And that
+[05:16] goes on there and glues in position.
+[05:18] Here I fitted a little handle so we can
+[05:21] turn it. And as we turn it, we've got
+[05:24] ourselves a zero backlash worm drive.
+[05:27] Now the spring force has obviously got
+[05:29] to be higher than the radial force on
+[05:32] the worm gear. And this I called it a
+[05:33] clutch. It's not actually. It's an olden
+[05:35] coupling. The olden coupling ensures
+[05:38] that if you attach a motor to this, then
+[05:40] the wear on the gear is taken up and it
+[05:42] stays a zero backlash gear. But I'm
+[05:44] going to turn this by hand probably not
+[05:46] that often. So it's not strictly
+[05:48] necessary, but I studied it in case you
+[05:50] wanted to know what that design
+[05:51] principle was. So taking out backlash
+[05:55] has a whole range of solutions,
+[05:57] including a nice mechanical solution. It
+[06:00] doesn't really need to be a problem.
+[06:03] It's all about finding solutions once
+[06:05] you've got the general principle.
+[06:07] Anyway, I hope you enjoyed the model. I
+[06:09] hope you enjoyed the video. Thank you
+[06:11] very much for watching and please do
+[06:12] remember to like and subscribe.

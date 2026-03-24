@@ -1,0 +1,342 @@
+[00:00] [Music]
+[00:08] So, continuously variable transmissions
+[00:10] or CVTs are in fact pretty important.
+[00:13] And they're important because, well,
+[00:16] engines only really work efficiently in
+[00:19] a relatively narrow band of RPM. If that
+[00:22] changes, the efficiency drops off
+[00:24] horrendously. And of course, they're
+[00:27] going to change because if you tried to
+[00:29] directly connect an engine to a wheel on
+[00:32] your car, you'd find it would struggle
+[00:35] when going up a hill and would overdrive
+[00:37] when running down the other side. The
+[00:40] gearbox matches the load to the engine
+[00:44] trying to keep it in that ideal RPM. And
+[00:48] of course, it can't really do that. It
+[00:49] can do it in a section because gears
+[00:52] change discreetly with they have fixed
+[00:54] gear ratios as we swap between them. So
+[00:57] there's a section in a gearbox where an
+[01:00] engine will work efficiently and then
+[01:03] there's another section where it
+[01:05] doesn't. Something like a CVT doesn't
+[01:08] have a step change. It changes the gear
+[01:11] ratios continuously throughout. What it
+[01:14] does is keeps the engine working at its
+[01:17] most
+[01:18] efficient irrespective of the load that
+[01:20] you put on it. Which is why everybody's
+[01:23] really interested in CVTs. And there are
+[01:26] only really two types. There's a
+[01:29] friction type. When you're looking at
+[01:31] things like belt drives or you're
+[01:33] looking at cones or you're looking at
+[01:34] spheres or you're looking at tooids or
+[01:37] you're looking at discs with wheels on
+[01:39] them, they're all based on friction. And
+[01:41] then there's a ratcheting type where you
+[01:44] use the input to work a ratchet which
+[01:47] changes the output. Now the problem with
+[01:49] the ratcheting type is they're
+[01:51] mechanically inefficient. The problem
+[01:53] with the friction type is they're
+[01:54] physically inefficient. And the best
+[01:57] CVTs are usually made of friction drives
+[02:00] and around about 70 to 75% efficient in
+[02:03] themselves. A gearbox is somewhere
+[02:05] between 95 and 97% efficient. So, if it
+[02:10] were possible to create a CVT that was
+[02:13] all gears, well, that becomes a bit of a
+[02:16] holy grail. And an invention came out
+[02:19] that was patented in 2020 called the
+[02:22] ratio zero CVT, which is doing exactly
+[02:26] that and is somewhat impressive. It's
+[02:28] the brainchild of a chap called Edoardo
+[02:32] Pavilles, I think. I'll check that name.
+[02:35] But that is the guy who came up with
+[02:38] this. And if you look at it, you can
+[02:41] break it down into a series of steps.
+[02:44] And the first step
+[02:46] is this planetary gear system. Now, we
+[02:50] made this planetary gear system from
+[02:52] herringbone gears as a printin place
+[02:54] gear. And we can adapt this quite easily
+[02:58] to make a CVT in the ratio zero format.
+[03:03] Now, if you look at the ratio zero
+[03:05] format, it can be a little difficult to
+[03:06] actually get hold of what's happening.
+[03:09] So, here's a model that I made which
+[03:12] lays those out. And this is in our video
+[03:15] 2093. And I think it's a bit clearer
+[03:18] about what happens. So, here we have an
+[03:21] input gear. That input gear is forced to
+[03:25] turn. As it turns, we have a lever right
+[03:28] here. That lever operates this ratchet
+[03:31] and the ratchet gives us output. Now,
+[03:34] obviously the length of the lever
+[03:35] depends on how far that ratchet's going
+[03:38] to move. As that ratchet moves across
+[03:40] the wheel, if it moves a little bit,
+[03:41] then we get very little turn out. Moves
+[03:43] a lot, we get a lot of turn. So we can
+[03:46] effectively change that gear ratio
+[03:48] between the input and the output by
+[03:52] operating this lever. So this lever
+[03:55] becomes very important to how the actual
+[03:58] input and output in a CVT relate because
+[04:01] as I continue to move that lever up and
+[04:03] down, of course, I'm continuously moving
+[04:06] this and so creating a continuous gear.
+[04:10] Now the um ratio zero doesn't do it
+[04:13] quite that way. As I say, what it does
+[04:15] is takes a planetary gear and separates
+[04:18] one planetary gear with a system of
+[04:21] levers with the output pretty much in
+[04:24] the same way it does that but a much
+[04:26] more effective and compact version. So
+[04:28] in order to turn this into the ratio
+[04:31] zero, what we first need to do is put a
+[04:34] set of levers on each of the planets
+[04:36] because here the handle is attached to
+[04:39] the sun. That's the input. It turns the
+[04:41] planets. Normally in a planetary gear
+[04:44] that would be the output. What we want
+[04:46] to do is take that, add on some levers
+[04:49] and connect that to another output in
+[04:52] the same way that we did with this
+[04:53] model, but to create the output that is
+[04:57] the combination of the planetary and
+[04:59] sungeear ratio and the levers that we
+[05:02] just added in the same way that we did
+[05:04] here by adding a lever where we can move
+[05:07] the pivot point and moving the pivot
+[05:09] point changes the length that that will
+[05:12] move. We'll change the output and it's
+[05:14] the same thing. So, in order to create
+[05:16] levers on the planets, what we need to
+[05:18] do is cut some slots in it. So, I've
+[05:22] created this, which is exactly the same
+[05:24] thing, made in exactly the same way, but
+[05:27] you'll notice it has four slots in each
+[05:29] planet. So, there's a slot in each
+[05:31] planet. And in those slots, we're going
+[05:33] to put the lever. Now, in the original
+[05:36] patent, what was used as a four bar
+[05:38] linkage, and I didn't like that
+[05:40] particularly because what we need to do
+[05:42] obviously is change an up and down into
+[05:46] an in and out on each of the planets.
+[05:48] So, I took a gear and a rack. If I push
+[05:52] the rack up and down, of course, the
+[05:54] gear changes. If I take a second rack
+[05:57] and put it at 90° and as I push the
+[06:00] first rack up, that second rack is
+[06:02] pushed in and out and I can slot that
+[06:05] little arrangement into each slot of the
+[06:08] planet there. Now, what they did in the
+[06:11] original patent was, as I say, use a
+[06:13] four bar linkage with a little ball on
+[06:14] the end of the bar and that four bar
+[06:17] linkage is pushed up and down, pushing
+[06:19] the ball backwards and forwards. To my
+[06:22] mind, there's a bit of an issue because
+[06:23] the linkage makes a movement like that.
+[06:26] It's a circular movement, which is why
+[06:28] you need to be a ball. When you use
+[06:30] something like racks and pinions, then
+[06:32] you're getting a straight line movement,
+[06:34] which is really what I prefer. So, first
+[06:38] things first, let's put our little
+[06:40] system in those slots. Right. To do
+[06:43] that, I've got these bits here. That's
+[06:46] going to be the peg where the actual
+[06:48] lever pivots on and it takes a pin that
+[06:50] goes in that
+[06:52] indentation. So there's like that. Then
+[06:55] we have our gear wheel itself and it has
+[06:57] a little axle. The axle goes in the gear
+[06:59] wheel and that gear wheel is free to
+[07:02] spin. That then drops in this slot here.
+[07:05] You'll see those two indentations. It
+[07:07] drops in like that. And so the wheel is
+[07:09] free to spin but the axle is fixed. Then
+[07:12] what we do is we feed that rack into
+[07:16] this section here where you can see
+[07:18] there's a little slot for it. It feeds
+[07:20] in there like that. Then we put this
+[07:25] onto there in that position. And as we
+[07:28] feed that up and down, this back rear
+[07:32] rack up and down, it will force that top
+[07:34] rack to move backwards and forwards. Now
+[07:37] we need to do that in the actual thing
+[07:38] itself four times. Then we put a cover
+[07:41] plate to hold everything together. And
+[07:43] then when we move this backwards and
+[07:46] forwards, what happens is that pin moves
+[07:49] in and out from the center. And that's
+[07:52] the where we'll put our lever. So when
+[07:54] that's been done, we can take an axle
+[07:57] and shove it through the sun in the
+[07:59] center. And that's what we get. Now
+[08:01] there is, of course, a glaring issue.
+[08:04] And if you haven't spotted it yet, it's
+[08:06] this. This is meant to spin. And as that
+[08:09] spins, of course, these are spinning. So
+[08:12] those little things that we need to push
+[08:13] in and out are spinning around, too. And
+[08:16] the question is, how do we make it so we
+[08:19] can push those in and out while
+[08:21] everything is moving? Well, that's taken
+[08:22] care of of this. It looks a bit like
+[08:25] that piece of plastic you find in a
+[08:27] pizza that stops the cardboard touching
+[08:29] the hot cheese, but it is in fact a
+[08:31] guide that we can use to push that in
+[08:33] and out because it comes with this ring.
+[08:35] The ring fits on that guide there and is
+[08:39] loose to move up and down. And we put
+[08:42] that on the end here. And you can see
+[08:44] there are four indentations at the
+[08:46] bottom of the gear that fits in there.
+[08:48] And then that rack glues onto the bottom
+[08:53] ring with the ring being free to move.
+[08:56] Then we can put this a selector onto
+[08:59] here. And that ring feeds into the
+[09:01] center of the selector like that. And
+[09:04] then when we finished it, we can move
+[09:06] that selector, which will move all four
+[09:09] at once. Okie dokie. That's all four in
+[09:12] place. Now, you'll notice this big white
+[09:14] ring. On the end of these are these blue
+[09:17] pegs that go through the white ring, and
+[09:19] they're free to turn. All that does is
+[09:22] stabilizes this because it's quite a
+[09:24] large selection. We don't want it
+[09:25] wobbling about. So, this also turns
+[09:28] because it stabilizes this and the blue
+[09:30] turns in there. So now what we can do is
+[09:34] turn the axle and of course we drive the
+[09:37] whole thing. It's turning round and each
+[09:38] of those is spinning. Incidentally, if
+[09:40] we hold the axle, we could also drive
+[09:43] the outside ring. So we got two choices,
+[09:46] axle or ring that can operate as a
+[09:48] drive. As I turn this then because of
+[09:51] the selector, it can be moved up and
+[09:54] down. And as we move it up and down, of
+[09:57] course, those pins move in and out. And
+[10:00] it can do that while it's spinning
+[10:03] because this selector here has two discs
+[10:06] operating on these discs that don't
+[10:09] actually catch anything and allow that
+[10:11] rotation. At the end, I've added a
+[10:13] couple more discs because we can stick a
+[10:15] selector fork in there and we can
+[10:17] operate this while it's moving. As it
+[10:20] does that, of course, these pins are
+[10:22] moving in and out to form the levers.
+[10:24] So, we have the heart of the CVT. All we
+[10:28] really need to do now is add the arms
+[10:31] and the inner planet gears, the smaller
+[10:33] planet gears that will act like a
+[10:35] ratchet. So if you look back at this
+[10:38] model, all we've done is add the input,
+[10:41] the lever section all into this. So this
+[10:45] is the input. That's the lever section.
+[10:48] And that's going to be our output. And
+[10:51] our output on this, remember, is that
+[10:53] ratchet there. Changing the position of
+[10:56] the lever changes the amount it moves
+[10:59] and so changes the distance the ratchet
+[11:01] will engage and move the output wheel.
+[11:05] This exactly the same as we rotate that
+[11:10] all we're doing is moving those levers
+[11:12] changing that distance and so changing
+[11:15] the output. Our input is the planetary
+[11:17] gear. Our
+[11:19] additional leverage that we get is these
+[11:22] pins here that are attached to the
+[11:24] levers and the output is going to be
+[11:26] another planetary gear. So here are the
+[11:29] pivot arms attached. It's pretty
+[11:31] straightforward. These arms go on the
+[11:32] pegs. The cap goes on and the gear goes
+[11:35] onto the pin and the cap goes on to hold
+[11:37] it in place. And both the gear and the
+[11:39] pivot arm are free to move around. Now
+[11:43] all we have to do is put the output cap
+[11:45] on. The output is like a ring gear and
+[11:47] it just slots onto the axle and like
+[11:50] that. Then when we turn it, of course,
+[11:53] this is acting like a ratchet. And I say
+[11:55] it's like a ratchet. But it isn't a
+[11:57] ratchet. It just acts like a ratchet.
+[11:59] Because if you think about a ratchet,
+[12:01] you've got the tooth on the ratchet gear
+[12:03] and the paw engages with it. And when it
+[12:05] pulls, of course, it'll only pull one
+[12:07] tooth before the pole disengages, which
+[12:10] is the issue that you have here with
+[12:12] this magic mechanism. And so there's a
+[12:14] limit to how long how much it can
+[12:16] actually do on this one because these
+[12:18] gears are free to turn. Of course, as it
+[12:20] turns, a tooth disengages, but the next
+[12:24] tooth engages and so on until it's out
+[12:27] of its field of turn. And that really,
+[12:30] although it's one of the mechanisms on
+[12:32] this device, is pretty much a work of
+[12:34] genius, it's it's pretty interesting all
+[12:37] by itself. Now, of course, the ratio
+[12:41] changes as we move that pivot point in
+[12:43] and out from the center. And if you
+[12:46] remember the stuff that we did on the
+[12:47] wolf room drive, then the gear output is
+[12:50] the planet gear that we've got here
+[12:53] multiplied by the leverage that we're
+[12:55] getting at this pivot point here. And we
+[12:57] can get some stupid leverage out of it.
+[13:00] This is reported to run from 0 to 600.
+[13:04] Now it runs from zero because of course
+[13:05] when it's in the center there is no
+[13:07] lever anything multiplied by 0 0 and
+[13:10] that means is that this device not only
+[13:12] can act as a 0 to 600 gearbox it also
+[13:16] acts as a mechanical clutch and so it
+[13:19] would do away with the clutch
+[13:20] altogether. It's pretty impressive. So
+[13:23] let me pop that together. We can give it
+[13:25] a turn and see it work. Okay. So I've
+[13:28] put a little fluorescent dot on it right
+[13:30] there. And I've got exactly the same
+[13:32] another fluorescent dot there. So I can
+[13:35] give that one turn. And we can see how
+[13:38] much that's going to turn by from one
+[13:40] turn of
+[13:44] that. There we go. About half a turn.
+[13:47] Now if I change that by using the
+[13:50] slider, we can turn it again and see if
+[13:52] we get a
+[13:55] difference. That is one full turn. So, a
+[14:00] very different
+[14:01] result. So, that's actually a pretty
+[14:04] cool device with some interesting things
+[14:07] going on there. I'm particularly taken
+[14:09] by the levers. Now, of course, I will
+[14:11] put all these files on Thingiverse
+[14:12] should somebody want to reproduce this
+[14:14] and have a play around with it. And I
+[14:16] can already see ways that I would
+[14:18] improve the model rather than improve
+[14:21] the device. One of the things is these
+[14:24] arms here have a tendency to bend down.
+[14:26] And I might lift them up a little bit so
+[14:27] that they would stay instead of catching
+[14:29] on these gears here. But I will make the
+[14:32] files available. Anybody who wants to
+[14:34] have a go with them, please do feel
+[14:36] free. I hope you enjoyed the video.
+[14:38] Thank you very much for watching. And
+[14:40] please do remember to like and
+[14:41] subscribe.

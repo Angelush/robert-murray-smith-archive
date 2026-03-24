@@ -1,0 +1,121 @@
+[00:01] hi so i was having a look at um
+[00:04] go to looks a flynn replication and i
+[00:07] quite like the look of it
+[00:09] um what he does is he uses um
+[00:12] the internals from a simple motor there
+[00:14] are fan motors
+[00:16] from a bathroom fan or a microwave oven
+[00:20] and there's a two or three of these
+[00:21] motors in an oven and if you can get
+[00:23] hold of one scrap
+[00:24] then you're probably going to pay about
+[00:25] five quid or so and you can sort of like
+[00:27] he does
+[00:28] i didn't fancy doing that so i had a
+[00:30] look around in my bits box
+[00:32] and i came up with this it's a
+[00:35] one-to-one isolation transformer
+[00:38] i think it's from uh yeah it's probably
+[00:41] from a tv
+[00:42] although it might be from an old
+[00:44] microwave oven as well anyway it's um
+[00:46] handy little thing obviously you can see
+[00:48] it's got two identical coils
+[00:49] either side of a u-shaped piece
+[00:53] of laminate soft iron
+[00:56] so i desoldered it from the board um
+[00:58] peeled off the yellow tape that was
+[01:00] around here cleaned it up a little bit
+[01:02] and i put some super glue on the ends of
+[01:04] it just in case when i do get this thing
+[01:06] into two pieces
+[01:07] uh decides to fall bar apart the
+[01:09] superglue will do something to hold
+[01:10] those laminations together
+[01:13] now i took a fine toothed axle
+[01:16] and a brand new blade and started going
+[01:18] down this carefully i think you can see
+[01:20] there you go there's the cut
+[01:22] that i've been making there and if i
+[01:24] hold it a little bit
+[01:25] closer you can see there's been no
+[01:27] disturbance in laminations they're
+[01:28] actually staying in place
+[01:30] i'm cutting this quite carefully but um
+[01:33] i'm not cutting it
+[01:34] like that if i held it in device and cut
+[01:37] it like that on the edge of these
+[01:38] laminations is quite a lot of force and
+[01:40] it will bend the lamination out
+[01:42] what i'm doing is cutting it like that
+[01:45] sorry like that so it's going alongside
+[01:48] the lamination what that means is
+[01:50] the force of the blade as it pushes
+[01:51] through the cut is pushing the
+[01:53] lamination out that way instead of out
+[01:54] that way now if it pushed out that way
+[01:56] it'd come apart rather easily
+[01:58] it seems to be holding up quite nicely
+[02:00] doing it slowly this way
+[02:02] like i said fine tooth and brand new
+[02:04] blade and
+[02:05] take it slowly and you should be able to
+[02:07] get these laminations out
+[02:10] so uh here is one half of the
+[02:14] transformer
+[02:15] sawed in half it seems that the thing to
+[02:17] do with this is be incredibly gentle
+[02:19] now it was quite tightly bound here when
+[02:21] i sawed it through i'd managed to score
+[02:23] this
+[02:24] layer the first layer of wire so i
+[02:27] unsoldered it from its pen
+[02:29] peg took off the first layer and
+[02:31] resolded it
+[02:32] seems to be fine really and then
+[02:34] re-tipped it obviously with insulation
+[02:35] type
+[02:36] i did the same to this one even though
+[02:37] it wasn't scored to balance them up and
+[02:39] lo and behold the
+[02:41] resistance of them is about 2.4
+[02:45] ohms each and they seem to be about 1.7
+[02:48] millihenries
+[02:49] on the inductance
+[02:55] so here's the completed device so you
+[02:58] can see there's the two halves
+[03:00] of the transformer that i used it turns
+[03:03] out the cross-sectional area of these
+[03:05] pieces was one centimeter by two
+[03:07] centimeter
+[03:08] now the only magnets i've got are
+[03:14] a stack of these things which are one
+[03:17] centimeter in diameter by two millimeter
+[03:19] thick
+[03:20] so i used two of them side by side
+[03:24] with 12 of them now what happens there
+[03:26] is they
+[03:27] actually push apart and form like a bowl
+[03:29] so i've wrapped them with this red
+[03:31] tape to hold them together in a straight
+[03:33] magnet so we've got 24
+[03:35] in that side 12 and 12 and 24 on that
+[03:39] side
+[03:39] with the north face facing this way and
+[03:42] the same here the north face facing this
+[03:44] way
+[03:45] what that does is forces the magnetic
+[03:47] flux out of
+[03:49] the ends here if you put them uh north
+[03:51] south north south
+[03:53] then the flux path will run completely
+[03:55] contained in here and you'll get nothing
+[03:57] out of here so if you do the north north
+[03:59] south south then you get the path coming
+[04:01] out it's a steel rule
+[04:02] and you've got there you go the force of
+[04:05] attraction
+[04:06] happening there okay so that's
+[04:09] a completed
+[04:14] what we're going to do now is wire it up
+[04:17] and run some tests on it

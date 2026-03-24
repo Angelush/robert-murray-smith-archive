@@ -1,0 +1,290 @@
+[00:00] [Music]
+[00:08] So, we are working on this. What this is
+[00:11] is a drive mechanism for a 3D printer.
+[00:13] At least one that I think might be an
+[00:15] interesting drive mechanism for a 3D
+[00:17] printer because what it's able to do is
+[00:19] that point there. It can move that point
+[00:22] there to any point in space. And if you
+[00:25] want to see more about this, check out
+[00:26] the earlier videos. But that's what it
+[00:28] does. Now there is an issue with 3D
+[00:31] printing in terms of accuracy. We need
+[00:33] it to be absolutely accurate. So doing
+[00:36] something like this with gears because
+[00:38] gears have backlash. It can lead to
+[00:40] errors of accuracy. And I decided that
+[00:43] one way to go might be with the friction
+[00:45] drive because friction drives actually
+[00:48] they are incredibly accurate and get
+[00:50] down to a nanometer scale. But they do
+[00:52] have a problem. The problem is they have
+[00:56] a tendency to slip. So, if they slip,
+[00:58] you can never be 100% sure where that
+[01:01] point is. And of course, that will kill
+[01:03] any attempt at 3D printing. It's one of
+[01:05] the benefits of um things like gears and
+[01:07] tooth belts and stepper motors. On those
+[01:10] things, they don't slip. So, if you turn
+[01:12] a stepper motor a certain amount of
+[01:13] times, it will turn a gear or a belt a
+[01:15] certain distance and you can infer where
+[01:18] the point is. With a system like this
+[01:21] where you're using something that might
+[01:22] slip, you can't infer it. You have to
+[01:25] read it directly. And of course that
+[01:27] means having a sensor right there that
+[01:29] can read that point in space to
+[01:32] brilliant accuracy. Now for a long time
+[01:35] to be able to do that in real time was
+[01:37] actually pretty expensive and kind of
+[01:39] difficult to do until
+[01:43] these came along. This is an optical
+[01:46] mouse. When I was first started using
+[01:49] computers, mice were really just balls
+[01:51] that you measured the distance on and it
+[01:53] was translated into a change in X and a
+[01:55] change in Y and you could read that.
+[01:58] Optical mice are incredible things when
+[02:00] you think about them. Now, I paid £7 for
+[02:04] this thing and in here is a truly
+[02:08] astounding bit of electronics.
+[02:11] Now, this is obviously a PS2 style
+[02:13] optical mouse, and we can get into it
+[02:15] just by undoing this screw at the
+[02:17] bottom.
+[02:23] And there is the electronics we're
+[02:26] looking for right there. What that
+[02:28] actually is is a tiny camera. What the
+[02:31] tiny camera does is takes a picture of
+[02:33] the surface that the mouse is moving
+[02:35] across and then immediately takes
+[02:38] another picture. It compares the two
+[02:40] pictures and it can work out the
+[02:42] distance it's moved in X and Y
+[02:45] incredibly quickly. All of that
+[02:48] processing is done on this tiny board
+[02:51] down those wires. What is sent? Well, is
+[02:54] a power supply obviously, but the data
+[02:56] sent is the change in X and the change
+[02:59] in Y. And what we really need to do is
+[03:02] get this out and somehow get to that
+[03:05] change in X, change in Y, because that
+[03:08] will give us a way of creating a sensor
+[03:11] to detect the change of movement of our
+[03:14] friction drive. Now, we can disconnect
+[03:16] the wire just by pulling out the
+[03:18] connector. And here is the camera right
+[03:20] there. And it's got this little lens
+[03:22] array that slots over the camera. And
+[03:25] there's a light that shines onto it to
+[03:27] light it up. This bit is the scroll
+[03:29] wheel bit. So, we don't need that bit.
+[03:30] So, this bit backwards we don't need.
+[03:32] It's only this, this, this, and this
+[03:36] that we actually need. Now, bear in
+[03:38] mind, this whole mouse cost £7. So, the
+[03:41] price of that must be a couple of
+[03:42] pounds. I suppose the price of that
+[03:44] section there is probably a pound or so.
+[03:47] It's incredible that you can get that
+[03:50] into such a small package. That little
+[03:52] camera, it doesn't take a great picture,
+[03:54] but that little camera will take a
+[03:56] picture and the chip will resolve that
+[03:59] for you into a change in X and a change
+[04:01] in Y. It's mindblowing. But of course,
+[04:04] we need to get to it. The way we're
+[04:07] going to get to it is with this an
+[04:09] Arduino. So, we've had a look at the PS2
+[04:12] connector. You'll notice there's six
+[04:14] pins. And of course, these pins have
+[04:16] designations. And we can look up the pin
+[04:18] outs. And that will tell us that pin one
+[04:22] is the data, pin two isn't connected,
+[04:25] pin three is the ground, pin four is the
+[04:28] power supply, pin five is the clock, and
+[04:31] pin six also isn't connected. And if we
+[04:33] have a look at our mouse connector is
+[04:35] right here. We've got four wires on it.
+[04:38] So each of those four wires must go to a
+[04:41] pin at the end of the PS2. What you do
+[04:44] is you get yourself a multimeter, put it
+[04:46] on resistance, stick one in one end of
+[04:48] the wire and touch the pins and the
+[04:50] other one in order, and you'll soon find
+[04:52] out which wire goes to which pin. Now,
+[04:56] on this one, it turns out that pin one
+[04:59] is the blue wire, pin three is the gray
+[05:01] wire, pin four is the white wire, and
+[05:04] pin five is the green wire. And what
+[05:06] that means is that the blue wire is
+[05:09] data, the gray wire is ground, the white
+[05:12] wire is the power supply, and the green
+[05:14] wire is the clock. So once we know what
+[05:17] those pins are doing, we can basically
+[05:21] chop the head off the PS2
+[05:23] and solder on four wires. These four
+[05:26] wires have pin connectors that can go
+[05:28] straight into the Arduino. And I've
+[05:30] tried to copy the color, apart from the
+[05:32] gray that I had to make black because I
+[05:34] didn't have a gray. So now we know what
+[05:36] each one of those does as it connects to
+[05:40] the mouse and we have a connector we can
+[05:42] stick in the Arduino. Now you can also
+[05:44] get Arduino PS2 connectors if you don't
+[05:46] want to do that, but it is pretty easy
+[05:48] to do and sort of interesting to find
+[05:50] out. Anyway, now in terms of the
+[05:52] Arduino, the blue and the green are the
+[05:56] data and the clock. The blue is the data
+[05:59] and it goes to pin two on the Arduino.
+[06:01] The green is the clock and it goes to
+[06:03] pin three. What is now black of course
+[06:07] is the ground and it goes to ground and
+[06:09] white is the actual 5V supply that will
+[06:13] plug into the 5V supply. So there it is
+[06:16] all plugged back in. I've plugged the
+[06:18] wire straight back into the mouse where
+[06:20] it came from and the other end I've
+[06:21] plugged into the Arduino. And you can
+[06:23] see that I've got ground and 5 volts in
+[06:25] and then pins two and three on the
+[06:27] digital side to take the data and the
+[06:30] clock. I mean it is astonishingly
+[06:32] simple. This is there's nothing to do
+[06:34] particularly. It's all done by the
+[06:37] Arduino. And so of course what we need
+[06:39] now is a bit of software.
+[06:42] Now then I am 100% standing on the
+[06:45] shoulders of giants because the software
+[06:47] is available quite easily actually. The
+[06:50] first thing you need to do of course is
+[06:52] download the Arduino IDE which you can
+[06:54] get from here. Click download and
+[06:56] install it. Once you've installed it,
+[06:58] you're going to need this. Now, there
+[07:00] are quite a few mouse handlers around,
+[07:03] but get his mouse handler is
+[07:05] particularly good, and you can get it
+[07:07] from the web address up in the top
+[07:09] there. When you're at this page, hit
+[07:12] code, download the zip, and then swap to
+[07:16] the IDE. Once we're on the IDE, we have
+[07:19] a nice fresh open screen. Go to sketch,
+[07:23] include library, add a zip library,
+[07:27] and it'll take you to wherever you
+[07:29] downloaded that file to. And there it
+[07:31] is. What we want is the compressed
+[07:33] folder. Hit on that and click open, and
+[07:37] it will import that into the Arduino
+[07:40] libraries. Once you've got it imported,
+[07:42] what you can do is hit file and then hit
+[07:45] examples and look for the one that we
+[07:48] just did. If you can't find it, you can
+[07:50] just go to open
+[07:53] and then back to downloads.
+[07:56] And here we see that I actually
+[07:58] extracted that. And we've got something
+[08:00] called basic mouse. That is the example
+[08:04] script, the INO file. Click on it and
+[08:07] click open. And it'll open it in a new
+[08:10] sketch. Here you can see that we've got
+[08:12] the two pins. Get chose five and six. I
+[08:16] want two and three. So change those to
+[08:21] three and then you can compile it and
+[08:24] upload it. Now in the original getis
+[08:26] file what you need to do is check that
+[08:28] the serial is set at 9,600
+[08:32] which is the uh speed for the serial
+[08:34] port. And then it was an awful lot of
+[08:37] stuff that it was printing. All we're
+[08:39] really interested in is the X movement
+[08:42] and the Y movement. So that's all that
+[08:44] I've selected for printing. So now if I
+[08:47] plug in my Arduino into the computer,
+[08:49] upload that sketch, we can start the
+[08:52] serial monitor and it will start running
+[08:54] the program. And as you can see, if we
+[08:56] look in the serial monitor, it's doing
+[08:59] 000 because I haven't moved the mouse.
+[09:02] If I move the mouse,
+[09:04] then we start to get the amount of
+[09:07] movement there being reported to the
+[09:09] program from me moving the mouse. That's
+[09:13] absolutely brilliant. So, that was a
+[09:16] piece of cake. I mean, it was already
+[09:18] there. All I had to do was put it
+[09:20] together, and it was pretty simple to
+[09:22] do. And it turns out that we've changed
+[09:24] our optical mouse into a position
+[09:26] sensor. Now, these optical mice have a
+[09:28] resolution of a kind of a thousand dots
+[09:30] per inch. And if you work that out, it
+[09:32] works out to be about 0024 mm, which is
+[09:37] minuscule. I mean, it's an order of
+[09:39] magnitude different from the print,
+[09:40] which is 2 mm. So we've got plenty of
+[09:43] accuracy for the position of it. So this
+[09:46] remember reads change in position. So it
+[09:49] will change position and then go to zero
+[09:52] and only reads a change in position.
+[09:54] That in itself is not an issue as long
+[09:56] as we have a home position. Because if
+[09:58] we have a home position at 0 0 and when
+[10:01] we change the position for every change
+[10:03] of position we add it on then of course
+[10:06] we will get the actual position as the
+[10:08] summation of the changes whether it's
+[10:10] positive or negative. Of course it does
+[10:13] mean that we need a point which is home.
+[10:15] And of course these things come with
+[10:17] three switches. There's a a switch here
+[10:20] here and underneath here when you push
+[10:22] the scroll wheel there's a little switch
+[10:24] there. There's a resistor there, of
+[10:26] course, to take sensor information to
+[10:28] tell you what you're doing that with the
+[10:29] scroll wheel or not. But we have three
+[10:31] switches. Now, of course, we wouldn't
+[10:33] leave them in this position. You just
+[10:34] desolder them and solder a micro switch
+[10:37] somewhere where you want the home
+[10:39] position to be. So, it will zip to the
+[10:41] home position, hit the micro switch, set
+[10:43] it at zero, and then as the print head
+[10:46] moves, it will add the changes positions
+[10:48] together to create an absolute position.
+[10:51] So, we've created a position sensor that
+[10:54] we can now use on this. And that's the
+[10:57] idea because we won't use it like this.
+[10:59] There's a couple of goubbins on there I
+[11:01] want to take off because who wants a
+[11:02] scroll wheel and I want to move the
+[11:04] switch. And the overall size of it is
+[11:06] tiny. So, I want to incorporate it into
+[11:09] this. And of course, that means doing
+[11:11] the design and the 3D print for that.
+[11:13] But the sensor itself, how to work out
+[11:15] position? Well, it turns out it can be a
+[11:18] fiverr to buy the whole mouse. and I
+[11:20] could have as many as I wanted running
+[11:22] from an Arduino because we're only using
+[11:24] two data lines which is like nothing
+[11:27] really. So pretty cool I thought and
+[11:30] well worth sharing because this could be
+[11:32] used for loads of things. I mean I know
+[11:34] Luke at the moment is planning on making
+[11:36] a gaming chair where he wants position
+[11:38] sensors and steering wheel sensors and
+[11:40] this is going to perform that function.
+[11:43] Can't wait to tell him it's going to be
+[11:44] over the moon. I wanted to share it with
+[11:46] you in case you find it useful because
+[11:48] there are of course other things you can
+[11:50] do with that than just record the
+[11:52] position of a print head. It's easy to
+[11:54] do. I hope you enjoyed the video. Thank
+[11:56] you very much for watching and please do
+[11:58] remember to like and subscribe.

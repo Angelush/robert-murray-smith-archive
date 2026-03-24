@@ -1,0 +1,270 @@
+[00:00] hi everybody so we took this a sycamore
+[00:02] seed scanned it in replicated it three
+[00:04] times and printed out that now it worked
+[00:07] quite well but there are little issues
+[00:09] with it and the issue with it is if you
+[00:11] look here that blade actually has a bump
+[00:14] in it there that's out of line with
+[00:16] everything else so chances are it's
+[00:18] going to cause turbulence I would have
+[00:19] liked to have taken that out and then of
+[00:22] course we added the tubic to it by
+[00:24] putting lenes along the Leading Edge but
+[00:27] those lozenges uh well they bumpy and so
+[00:31] without a doubt the air flow over here
+[00:33] is a little rough and of course they
+[00:35] just a gap along the Leading Edge and
+[00:37] there's no effort to make a little curve
+[00:39] in there because I can't do it I don't
+[00:43] have the programming skills to be able
+[00:45] to draw that properly enough now the
+[00:48] purists Among Us will say well just
+[00:51] learn them then and that's a very valid
+[00:53] point you should just learn them but I
+[00:55] looked at blender and blender is
+[00:57] universally understood to have what's
+[00:59] called a very steep learning curve which
+[01:02] is just a kind way of saying if you want
+[01:04] to spend two years of your life learning
+[01:06] a program before you can use it choose
+[01:08] blender no I'm not going against blender
+[01:11] blender is an awesome program it's used
+[01:14] for millions of things you can use it
+[01:16] for making your own animated films you
+[01:18] can use it for um doing 2D drawing you
+[01:21] can make brilliant 3D models it's
+[01:24] awesome and it is everything to
+[01:26] everybody but it's also very complicated
+[01:29] very are and takes a long time to learn
+[01:31] how to use it and I don't want to do
+[01:34] that I'm not I'm not sure why that makes
+[01:37] me a horrible person but I don't want to
+[01:39] I want something that's much more
+[01:41] approachable because there are lots of
+[01:43] times I'm coming across these little
+[01:46] issues that I want to clean up so for
+[01:49] example this is the Ingenuity blade and
+[01:51] we scanned that and here at the trailing
+[01:54] in she gets a bit thin for the scan to
+[01:56] be able to cope with it and so it's got
+[01:58] little lumpy bits and tiny holes that
+[02:01] are basically left alone and so there
+[02:04] are faults with that that I would like
+[02:06] to rectify but don't have the
+[02:08] programming skills and the drawing
+[02:10] skills to be able to do it and don't
+[02:12] really want to spend years learning how
+[02:16] to do that I want something that's
+[02:18] intuitive to me and luckily enough of
+[02:21] course there is something that's
+[02:23] intuitive to me because there is
+[02:25] something called sculpt GL now sculpt GL
+[02:29] is probably the Tinker CAD of the
+[02:31] modeling world and it's very intuitive
+[02:34] it takes as its idea you have a bowl of
+[02:37] clay that ball of clay you're able to
+[02:40] shove around okay go to the web browser
+[02:43] and type in sculpt GL hit enter and
+[02:48] it'll take you here now sculpt GL that
+[02:51] will start it immediately you want that
+[02:53] one click on that one and it will give
+[02:55] you the sculpt page and here you can see
+[02:58] that you can actually download it
+[03:00] because this is a web browser
+[03:02] application that works online as its
+[03:04] primary source but you can download it
+[03:07] and run it locally if you want to so you
+[03:10] don't have to have the internet it will
+[03:12] still present itself in a web browser
+[03:14] now it's so intuitive to use and so easy
+[03:16] to use this will work on your phone
+[03:18] it'll work on a tablet it'll work on a
+[03:21] PC it'll work on a Mac it's absolutely
+[03:24] brilliant but if you want to use it in
+[03:26] the web then you just jump to the web
+[03:29] best one and to get there just click
+[03:32] there and that'll take you straight in
+[03:34] and there it is so we go back to our web
+[03:36] browser and here's the first page we
+[03:38] looked at and we clicked on that one
+[03:39] which took us to the homepage if you
+[03:41] click on that one it will jump you
+[03:43] straight to the program and there it is
+[03:46] they presented in the first opening with
+[03:48] this ball of clay now I don't intend on
+[03:51] this being uh a tutorial really because
+[03:54] on the homepage if you look here you
+[03:57] find a set of tutorials at this YouTube
+[03:59] Channel click there it'll jump you
+[04:02] straight there where there are some
+[04:04] awesome tutorials so I don't intend on
+[04:06] going through this we're going to use it
+[04:08] to actually modify our Samara seed blade
+[04:12] to something that we want so let's go
+[04:14] straight in there and have a look at
+[04:15] that this ball of clay we don't really
+[04:19] want so if we go to scene we can clear
+[04:21] that scene in which case it will delete
+[04:23] the ball of clay and there we go we've
+[04:25] now got a blank scene on the scene again
+[04:28] we can add a sphere which was the ball
+[04:30] we started with a cube a cylinder a
+[04:32] Taurus and then all the lumps that we
+[04:35] can actually start with in order to
+[04:37] model some awesome model but we want
+[04:39] file import so we got to file import and
+[04:43] add obj SGL PL y or STL those are the
+[04:47] files that we can add if we click on
+[04:49] that it'll take us to the one we want
+[04:52] and we want Swanky CFT 2 which is an odd
+[04:54] name for this but that's still the name
+[04:57] and there is our Samar the one that we
+[05:00] had problems with and that is the dip
+[05:03] that I've been burbling on about now if
+[05:05] we go over here then we get the
+[05:07] sculpting and painting tools and really
+[05:10] we're going to move this around like a
+[05:12] lump of clay because the first thing we
+[05:14] want to do is push that out as if we
+[05:17] were pushing it with our finger so
+[05:18] instead of brush where we're going to
+[05:20] lay things on what we want is drag so if
+[05:23] we hit drag we'll be able to push that
+[05:26] as if we were pushing it so we go over
+[05:28] it and and push it it will push it
+[05:33] out that's so cool equally if we go here
+[05:38] and push down it'll push it in now
+[05:40] you'll notice there's actually two red
+[05:42] dots appearing that's because we got
+[05:44] symmetry turned on if we turn symmetry
+[05:46] off then we'll only get one red dot
+[05:49] that's appearing and we can push with
+[05:52] that one red dot on the area that we're
+[05:55] actually interested in I've got the grid
+[05:56] showing here let's hide that grid and
+[05:59] there in scene we've got show grid let's
+[06:01] turn it off and we've got hide Grid in
+[06:03] order to move in and out of this
+[06:05] incidentally you use the scroll wheel on
+[06:06] the mouse in order to spin around it
+[06:08] then either right or left click and you
+[06:11] can spin around the model by going to
+[06:14] different places and just spinning it
+[06:16] around if we want to move the actual
+[06:18] model so that we can get closer to it
+[06:20] hold the
+[06:22] alt and then left click and drag and
+[06:25] what we're actually doing is moving
+[06:26] camera position but it looks like we're
+[06:28] moving the model so we can move the
+[06:30] model and then we can zoom in on a
+[06:32] particular portion that we're interested
+[06:34] in then without holding down the out we
+[06:36] can spin it around and we can see how
+[06:38] Jagged that actually is to remove that
+[06:42] what we want is the smooth tool and then
+[06:46] we can smooth that area just by painting
+[06:48] over it again as if we were pinching it
+[06:52] that is beautiful and then we can just
+[06:55] smooth those edges to make them nice and
+[06:58] smooth again if we got go out and we
+[07:00] spin around the model a little bit then
+[07:02] if we get a lumpy area we can choose to
+[07:07] flatten it or we can pinch it out or we
+[07:11] can smooth it or we can do something
+[07:14] called inflate flate is where there's an
+[07:17] area that maybe is a bit thin for you so
+[07:21] for example here let's inflate
+[07:28] that
+[07:31] and then if we hit the inflate on there
+[07:33] what it'll do is act as if we're blowing
+[07:35] behind the clay and we'll fill that area
+[07:45] out and we can thicken up our Leading
+[07:48] Edge by doing
+[07:55] that and if we feel that's a bit too
+[07:58] puffed out of course what we can do is
+[08:00] flam
+[08:06] it and then we keep on doing that
+[08:10] dragging pinching flattening smoothing
+[08:13] just like you would with pluster scen or
+[08:15] clay to get the shape that you want so
+[08:17] let's do that okay so this bit is
+[08:20] actually magical if we hit the smooth
+[08:22] and then we can smooth over the area you
+[08:25] can see all those nasty little lumps and
+[08:27] creases disappearing as we smooth it now
+[08:30] you can change you look at that red
+[08:32] circle that's the radius of the smooth
+[08:35] brush we're using and as we use this
+[08:36] slider bar here then we can change the
+[08:39] area of the red circle and that's where
+[08:41] the influence of smoothing will be and
+[08:43] this is true for all of the brushes so
+[08:45] we can smooth a huge area okay it's
+[08:48] quite addictive but once you've done
+[08:49] that of course what you'll get is your
+[08:51] rectified STL file and that's our 3D
+[08:55] model that we've smoothed everything out
+[08:56] we've pinched out the trailing Edge so
+[08:58] it's Sharp we've inflated the Leading
+[09:00] Edge so it's got a bit more of a cut in
+[09:03] it and then we've smoothed all the edges
+[09:05] out so it's more like a bled and less
+[09:08] like a Sycamore and it's much more even
+[09:10] so of course we can now export it we
+[09:13] export it by saving it as an
+[09:17] sdl and there it is saved now let's
+[09:20] print it and there it is printed and it
+[09:22] looks very much more beautiful indeed
+[09:24] this is nice and thick like it should be
+[09:26] this is nice and thin and as this was
+[09:28] printed I checked the wing profile and
+[09:30] it's much more like an nsca air foil
+[09:33] than it was here we've also taken this
+[09:35] drop out here a bit so that we've got a
+[09:37] nice curve on there so very much Nic job
+[09:40] of course what we want to do now is this
+[09:42] one here which is very lumpy and of
+[09:44] course I've done that and this is what
+[09:46] they look like in comparison so I want
+[09:48] to print this one out and then we'll get
+[09:50] a nice look at that because this one is
+[09:53] obviously a bit of a blade in general
+[09:55] and this one is one of the things I want
+[09:57] to test so these two blades of of course
+[09:59] I will be putting them on thingy verse
+[10:01] in case you want to have a look at them
+[10:02] in case you want to play with them but
+[10:04] the whole idea has been to use that
+[10:06] sculpt GL to take out the things that we
+[10:09] can't get when we're doing combinations
+[10:11] of scanning and modeling to make them
+[10:14] very much more organic in their approach
+[10:17] and presumably would perform much better
+[10:20] now this idea of sculpting in clay as a
+[10:23] process is in fact gaining a lot of
+[10:25] ground when it comes to 3D modeling the
+[10:29] things people are doing with it are just
+[10:31] amazingly well incredible really and it
+[10:35] is super intuitive it was I don't know
+[10:38] 10 20 minutes before I was using that
+[10:40] program it took me an hour to learn how
+[10:42] to use the cursor in
+[10:44] blender 20 minutes later I was producing
+[10:47] something in that program so it's well
+[10:49] worth giving it a go and adding it to
+[10:51] your Armory now without a doubt there's
+[10:54] always going to be people who say why
+[10:55] bother just learn one program and sure
+[10:59] but the problem with a blender program
+[11:01] or a program like blender is it's just
+[11:04] too much you're just never going to use
+[11:06] those things because all we want to do
+[11:09] is smooth out a few curves we don't want
+[11:11] to make a 2hour animated film with all
+[11:13] the characters that we've generated and
+[11:15] for that something like sculpt GL is
+[11:19] another string to your bow anyway I hope
+[11:21] you enjoyed the video thank you very
+[11:23] much for watching and please do remember
+[11:25] to like And subscribe

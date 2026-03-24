@@ -1,0 +1,214 @@
+[00:02] [Music]
+[00:15] hi so let's
+[00:16] say i have some nice facilities here and
+[00:18] the best facility that i've got
+[00:20] obviously is space i have space to do
+[00:22] this stuff
+[00:23] build it and leave it there while i play
+[00:25] around with it and that's a big
+[00:27] advantage
+[00:28] but you don't need space you can
+[00:30] replicate these things on the table top
+[00:33] if you want
+[00:34] now if you pull apart one of those
+[00:36] turntable motors you'll find two bits in
+[00:38] there
+[00:38] you find the coil and then the magnet
+[00:41] that used to be
+[00:42] in the coil and you spin the magnet and
+[00:44] it will be a generator
+[00:46] now people have done things on youtube
+[00:48] where they effectively tie a handle onto
+[00:50] one of those turntable motors and give
+[00:52] it a crank and you get some interesting
+[00:54] voltages and amperage out of it
+[00:55] but you can pull the whole thing to
+[00:57] pieces so you get those two bits
+[00:59] then all i've done with those two bits
+[01:01] is mount them on this little plastic
+[01:02] u-frame
+[01:03] by drilling through the three millimeter
+[01:05] hole and
+[01:06] popping that axle through there's a
+[01:08] couple of bearings in these uprights
+[01:10] so i can now spin that magnet and
+[01:12] generate from that coil
+[01:14] because you're not going to generate
+[01:16] huge amounts of power by spinning by
+[01:18] hand and nor should you expect to
+[01:20] but something really does interesting
+[01:22] does happen
+[01:24] and even on this small scale you can
+[01:26] investigate some of these strange
+[01:28] properties that these things have
+[01:30] now on that generator we've been using
+[01:32] this really simple but interesting
+[01:34] circuit
+[01:35] all it is is four diodes connected as a
+[01:38] full way a full bridge wave rectifier or
+[01:40] whatever it is
+[01:42] and then they've got the capacitor
+[01:44] across the
+[01:45] negative and positive output and we
+[01:47] connect to the ac
+[01:49] inputs so really simple so if i spin
+[01:52] this
+[01:53] i will charge that capacitor
+[01:54] irrespective of which way i spin it
+[01:57] take a while to charge but it will
+[01:59] actually charge that capacitor now
+[02:01] that's an electromagnetic induction
+[02:03] and it's really really interesting and
+[02:05] it's one thing you can do just to
+[02:07] investigate
+[02:08] the effect that this has on a cordless
+[02:11] coil you can do other things with it you
+[02:14] could surround it by
+[02:15] washers for example to see what effect a
+[02:18] piece of steel above and below would
+[02:20] have because that's been suggested
+[02:22] to me in this generator i may not want
+[02:25] to do that but it takes me five minutes
+[02:27] to test that with a simple
+[02:29] rig like this so small versions of these
+[02:32] things done
+[02:32] simply can introduce you to some very
+[02:35] fascinating
+[02:36] ideas that can be played with letter
+[02:39] now this little circuit actually is
+[02:42] quite fascinating
+[02:43] all by itself and this is something that
+[02:45] has stumbled across
+[02:47] what i've got here is a really simple
+[02:49] setup actually we've got a metal plate
+[02:52] the metal plate is attached to one of
+[02:54] those circuits on the ac
+[02:55] side and then the other metal plate is
+[02:57] attached to the other side
+[02:58] i've attached one side of this metal
+[03:00] plate let me just
+[03:02] unattach that so you can see there's the
+[03:04] metal plate there it's going to that
+[03:06] little
+[03:06] circuit and here it's going to this drum
+[03:09] now this drum is actually just an
+[03:10] earth it doesn't do anything at all it
+[03:14] just provides a sink of electrons
+[03:16] and it's a false earth if i hadn't
+[03:18] cleaned earth that was an easy reach of
+[03:19] a benchtop
+[03:20] putting it to earth would have been just
+[03:22] as good as the putting on a lump of
+[03:23] metal
+[03:24] if it's square or rectangular on your
+[03:27] table bench or a radiator it doesn't
+[03:30] matter it's a false earth that's all
+[03:31] it's
+[03:32] doing now i've got that one there we put
+[03:34] a plastic sheet over there and not a
+[03:36] metal plate on it there then what we've
+[03:38] actually got is a capacitor that is
+[03:40] earthed on one side
+[03:42] if i connect the other side of that
+[03:44] capacitor
+[03:46] and i connect that to the other ac side
+[03:48] of our interesting little circuit
+[03:50] then we have here a capacitor now let me
+[03:53] show you what happens when i
+[03:55] vary that capacitance and i vary the
+[03:57] capacitance really just by
+[03:59] either changing the area of the plate or
+[04:02] moving the distance between the two will
+[04:04] vary the capacitor
+[04:05] so if i take that and lift it up i have
+[04:07] in fact created a variable capacitor
+[04:09] so let me show you what happens this
+[04:11] reading when we move that variable
+[04:14] okay let's see what happens
+[04:26] i don't know if you're noticing it
+[04:27] particularly but the rate at which this
+[04:30] increases goes up the rate is actually
+[04:33] proportional
+[04:34] more or less as far as i can gauge to
+[04:36] the rate at which i'm moving that
+[04:39] and of course you could ask yourself the
+[04:41] question why
+[04:42] now when i do that with something like
+[04:44] this what i'm doing is
+[04:46] varying the capacitance this is actually
+[04:48] a variable capacitor
+[04:50] now i found that super interesting
+[04:52] actually because it's sort of
+[04:54] an electron pump
+[04:59] when i use this circuit and i'm passing
+[05:02] um
+[05:03] the electrons through it they get caught
+[05:05] if you like this is a way of looking at
+[05:07] it remember
+[05:07] they get caught in this capacitor
+[05:10] because these are diodes they can't get
+[05:12] back out so what i'm doing when i'm
+[05:14] doing that
+[05:15] is i'm pumping electrons through the
+[05:17] circuit that are getting trapped in this
+[05:20] so variable capacitor is in fact an
+[05:22] electron pump
+[05:23] this looks like an electron trap for
+[05:26] that pump
+[05:27] capturing the energy now when we're
+[05:30] scavenging energy electron pumps are
+[05:32] fascinating things and variable
+[05:34] capacitors can be made from
+[05:35] all kinds of things as long as you can
+[05:39] vary the capacitance so if you have a
+[05:41] rubber balloon and you play
+[05:43] cut one side with a conductive paint for
+[05:46] example
+[05:47] and the other side with the same
+[05:48] conductive plane and change the shape of
+[05:50] the dome just by blowing air into it
+[05:53] you will in fact have created a variable
+[05:56] and that can act as an electron pump as
+[05:58] long as it's attached to earth it's
+[06:00] pumping the electrons out
+[06:02] and it seems that this little circuit is
+[06:04] far more interesting than i thought
+[06:06] because it seems to be that this little
+[06:07] circuit is acting
+[06:09] as an electron trap now i started this
+[06:12] little circuit on here actually
+[06:14] and um it had nothing on it now we've
+[06:16] got about 0.9 of a volt
+[06:18] so there won't be that much energy on
+[06:19] here but there's a
+[06:21] some capture of energy that has
+[06:23] certainly gone on and i would think
+[06:25] a worth an investigation i mean for all
+[06:28] those who want to
+[06:29] have the same output as the hoover dam
+[06:32] from uh you know
+[06:33] something the size of a peanut then it's
+[06:35] not going to be happy you're not going
+[06:36] to be happy with it it's not going to be
+[06:37] for you
+[06:38] but for people who are interested in
+[06:40] looking at scavenging energy free energy
+[06:42] and energy capture
+[06:44] then the electron pumps and electron
+[06:46] traps are in fact hugely interesting
+[06:49] so this is much more interesting than i
+[06:51] thought
+[06:52] it's also one of those things that can
+[06:53] be done on the tabletop
+[06:55] you don't actually need a huge amount of
+[06:57] equipment to investigate something like
+[07:00] and there is a ton of investigation that
+[07:02] can go on
+[07:03] so i thought i would share that rather
+[07:05] interesting result with you
+[07:06] and really talk a bit about how easy it
+[07:09] is to do small-scale investigation and
+[07:12] later translate it into large-scale
+[07:14] investigation
+[07:15] so i hope you enjoyed the video and
+[07:17] thank you very much for watching

@@ -1,0 +1,95 @@
+[00:02] [Music]
+[00:15] a bunch of these kind of motors lying
+[00:17] around because uh
+[00:19] they're for 3d printers and they're
+[00:21] they're bipolar stepper motors but
+[00:23] they're
+[00:24] in printers you can find them all over
+[00:26] the place they've got four wires coming
+[00:28] out of them and they've got two poles or
+[00:31] two coils inside
+[00:33] and interestingly enough for these
+[00:35] motors they're built for sort of high
+[00:37] torque at low speed
+[00:39] and so what that means is when they
+[00:42] are a generator they
+[00:44] they produce high voltage at fairly low
+[00:47] speed
+[00:49] so i i measured this and i was seeing
+[00:52] kind of quite surprising
+[00:54] values when i when i would just turn it
+[00:57] with my fingers
+[00:58] and i was getting upwards of about 60
+[01:00] volts uh ac
+[01:03] two phase coming out of this motor
+[01:06] so then i i happen to have a couple of
+[01:09] four bridge rectifiers around
+[01:12] so i
+[01:15] connected them together and
+[01:17] i'm
+[01:19] basically rectifying each phase and then
+[01:22] the outputs from the full bridge
+[01:25] rectifiers are in parallel
+[01:28] so basically what comes out of this
+[01:31] two full bridge rectifier setup is
+[01:33] pulse
+[01:34] dc
+[01:36] and
+[01:37] when i measure it i'm getting almost 30
+[01:39] volts out
+[01:40] just spinning it with my fingers so this
+[01:42] is a
+[01:43] kind of an unusual
+[01:45] home build
+[01:46] generator because it's really high
+[01:49] voltage at
+[01:50] low speed
+[01:52] and i'll just give you a quick
+[01:55] shot of that
+[01:59] okay so i just connected the led
+[02:02] and just turning with my fingers i can
+[02:04] light that led pretty easily
+[02:07] and if i put a little more capacitance a
+[02:10] little bit of storage at the output
+[02:13] so this is uh
+[02:16] just the capacitor
+[02:19] i don't know if you can i don't know how
+[02:21] much of this you're going to be able to
+[02:22] see
+[02:23] but now i can
+[02:25] uh
+[02:26] charge up that capacitor and easily
+[02:29] light an led
+[02:35] for anybody who's interested in the
+[02:37] circuitry it's it's just like this the
+[02:40] you have to figure out which poles uh
+[02:42] which wires are on a on the same pole
+[02:46] and then basically those just connect to
+[02:49] a full bridge rectifier each
+[02:51] and those
+[02:52] outputs are connected in parallel and
+[02:54] your load goes across that
+[02:57] yeah i'll show you something interesting
+[03:01] okay i got one of those
+[03:03] cheapo usb
+[03:04] scopes and
+[03:06] i'm going to twist this i've got it open
+[03:09] circuit now so the led is disconnected
+[03:11] i'm just going to give it a quick twist
+[03:15] you can see that pulse that's been
+[03:18] captured and if i use the measuring tool
+[03:21] here
+[03:25] we're measuring
+[03:26] 34
+[03:28] volts
+[03:29] so
+[03:31] kind of interesting it's uh you can use
+[03:33] a bipolar stepper motor as a generator
+[03:36] if you rectify it and you get sort of
+[03:39] surprisingly
+[03:40] high voltage at low speed
+[03:42] anyway thanks a lot guys uh i got loads
+[03:45] of 3d printers so don't send me one if i
+[03:47] win
+[03:48] and thanks a lot for making the videos
+[03:50] you make

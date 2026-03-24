@@ -1,0 +1,356 @@
+[00:00] [Music]
+[00:09] I was thinking about inventing a new
+[00:12] kind of
+[00:13] generator and when I ever think about
+[00:16] something like this of course my main
+[00:18] priorities are it ought to be simple to
+[00:19] build and it ought to be cheap to build
+[00:21] and just about anybody can do it that's
+[00:23] the way I think about it but there are
+[00:25] some principles behind generators that I
+[00:28] think it's probably a good idea to know
+[00:30] because then it will help understand and
+[00:33] help show why certain things are done a
+[00:36] certain way now when you think about
+[00:39] generators you're also thinking about
+[00:41] Motors because it's not that they're two
+[00:44] different machines there are in fact
+[00:47] absolutely 100% 1 million Fillion bom
+[00:50] billion stick ailon percent the same the
+[00:55] only thing that differs is if you spin
+[00:57] one electricity comes out if you put
+[01:00] electricity in it will spin they have
+[01:04] the same principles behind them it's
+[01:08] just in Reverse if you like but they're
+[01:11] exactly the same they're an arrangement
+[01:14] of wire and magnets now everybody knows
+[01:17] if you move a wire in a magnet you'll
+[01:20] get a current if you put a current in a
+[01:22] wire while it's in a magnetic field it
+[01:25] will move and that's why they're
+[01:26] identical machines and they're governed
+[01:29] by that EX extremely simple principle
+[01:32] and of course farad is the guy that we
+[01:34] usually accredit this to now there are
+[01:37] three
+[01:37] factors that are considered important
+[01:41] when it comes to the design of any
+[01:43] generator because that voltage that you
+[01:47] push through a wire depends on three
+[01:50] things it depends on the length of the
+[01:53] wire so you have a magnetic field of a
+[01:55] certain size a small wire you put that
+[01:57] through you get small Vol voltage big
+[02:00] you put that through you get a large
+[02:02] voltage clearly it also depends on the
+[02:05] strength of the magnetic field the
+[02:07] bigger the magnetic field the higher the
+[02:09] voltage the longer the length of wire
+[02:12] the higher the voltage people often
+[02:15] think about this in terms of the number
+[02:17] of turns actually a turn of wire is a
+[02:21] bit like a single length of wire
+[02:23] connected in series that's all it is and
+[02:25] that's why the voltages add up so it's
+[02:27] the length that you're interested in the
+[02:30] number of terms are the same length
+[02:32] connected in series the last thing that
+[02:35] really matters is the speed at which you
+[02:37] do it so the length of the wire the
+[02:41] strength of the magnetic field and the
+[02:43] speed with which that wire passes
+[02:45] through the magnetic field are what
+[02:48] determine the voltage output of
+[02:50] absolutely any
+[02:52] generator why has to be moving it has to
+[02:55] be cutting the lines of magnetic field
+[02:58] if it's not um nothing happens you can
+[03:00] just hold a wire in a magnetic field if
+[03:02] you like and you'll see nothing if you
+[03:04] move it you'll see something it must be
+[03:07] cutting through magnetic field now it's
+[03:09] not common to have a straightforward
+[03:11] wire two magnets and pass the wire in
+[03:13] that direction what we do is we make
+[03:14] them rotate when they rotate at the top
+[03:19] then they're not actually cutting any
+[03:20] magnetic field the maximum number of
+[03:24] lines they will cut is when they're
+[03:25] rotating through a quarter of a turn
+[03:28] half a turn they're bottom of the field
+[03:30] and they're doing jack quart 3/4 of the
+[03:32] way around to another maximum point and
+[03:36] so something happens there as it rotates
+[03:39] and it cuts through those fields and
+[03:41] it's to do with the angle at which it
+[03:44] hits the lines of magnetic force so we
+[03:47] need one other factor and that is the
+[03:49] sign of the angle so the sign of the
+[03:53] angle times the length times the speed
+[03:56] times the magnetic field give you the
+[04:00] voltage generator will
+[04:03] generate okay so let's get the world's
+[04:06] most powerful magnets and enormous
+[04:08] amount of wire and spin it as fast as we
+[04:10] can in our magnetic field which have the
+[04:12] world's greatest generator well yes we
+[04:15] would but of course you've got to ask
+[04:18] what about the amps now amps are a funny
+[04:20] thing and it's often best to think about
+[04:22] amps in terms of
+[04:24] water if there's nothing for the water
+[04:27] to flow in it's not going to flow if
+[04:29] it's got something something to flow
+[04:30] there's a big bung in it it's not going
+[04:32] to flow and it's the same with amps amps
+[04:34] need a circuit and if that circuit has
+[04:36] two higher resistance they can't flow
+[04:39] you need to push them harder against
+[04:41] that resistance to remove that bung in
+[04:43] which case they will flow so if you like
+[04:47] voltage is set by the parameters of the
+[04:50] machine that is length of wire if you
+[04:53] like number of turns pretty much the
+[04:54] same thing strength of the magnetic
+[04:56] field the speed at which you turn it
+[04:58] they will be the parameters that govern
+[05:00] the voltage the amp so the amount of
+[05:03] push now you have to remember that a
+[05:06] generator is a machine that takes
+[05:08] mechanical energy and converts it into
+[05:10] electrical energy you want more
+[05:12] electrical energy out you have to put
+[05:14] more push in of course there are
+[05:18] mechanical limits to things if you need
+[05:20] to push too much out and your axle isn't
+[05:22] thick enough so you can't put any more
+[05:25] mechanical energy in there then you're
+[05:27] just going to break the machine and
+[05:29] those are the limits that limit amps the
+[05:32] build of the machine the amount of force
+[05:35] you can put into the machine are going
+[05:37] to limit the amps the machine design
+[05:40] itself that is the length of the wire
+[05:42] the strength of the field and the speed
+[05:44] at which it turns limit the voltage now
+[05:47] there are other things about it of
+[05:49] course like thickness of wire Etc but
+[05:53] essentially they the important
+[05:55] considerations when it comes to any
+[05:57] generator now you might have not notic
+[06:00] that there's been no mention of um
+[06:02] geometry of the engine or efficiency of
+[06:05] the engine and that's because geometry
+[06:07] is really all about trying to maximize
+[06:10] those three values for instance axial
+[06:13] flux axial flux tries to keep the wire
+[06:16] in the field lines for as long as
+[06:18] possible because it's radial Flux Of
+[06:20] course at 0 and 180 it's not cutting any
+[06:23] lines so axial flux tries to put it so
+[06:26] the wire is always cutting lines
+[06:29] efficiency is really down to the quality
+[06:32] of the engineering more than anything
+[06:34] because of course a magnetic flux drops
+[06:37] off by the square of the distance so the
+[06:39] closer you can get it the tighter the
+[06:41] tolerances the more efficient it going
+[06:43] to be so you can buy these things
+[06:45] they're superbly engineered and they
+[06:47] have incredible efficiencies and they're
+[06:49] really expensive and that's the problem
+[06:52] with engineering as the tolerance
+[06:54] improves then the price goes up by the
+[06:56] square of the tolerance is so that you
+[06:58] get ridiculous price
+[07:00] for beautifully made machines now that's
+[07:02] all well and good and fantastically
+[07:04] wonderful but I'm interested in people
+[07:06] being able to build their own machines
+[07:08] in which case like with most things you
+[07:10] have a tread off there's always a tread
+[07:13] off concerned in these things because
+[07:15] we're not talking about um Theory where
+[07:17] there are no trade-offs we're talking
+[07:19] about practical reality when there is
+[07:21] always a tradeoff the tradeoff is
+[07:24] usually between cost and performance if
+[07:28] you build something cheaply the chances
+[07:30] are the tolerances are not going to be
+[07:32] great so what you want is an acceptable
+[07:36] performance for the amount of effort and
+[07:39] money that you put in to create
+[07:40] something so it does a reasonable job
+[07:43] for the effort and money that you've put
+[07:45] in and that tends to be how I think
+[07:47] about things I'm not looking to make the
+[07:49] mo world's most beautiful machine that
+[07:52] cost me a couple of hundred million I'm
+[07:54] looking to make something from Bean cams
+[07:56] that we can all make and so that's where
+[07:59] I'm coming from I was thinking about
+[08:01] that how could we go about taking
+[08:04] something like this which is the Yoke
+[08:07] out of a standard induction
+[08:09] motor and use that to make a generator
+[08:15] that um didn't really require tremendous
+[08:18] amount of engineering to build it that
+[08:21] would have an acceptable performance and
+[08:23] instead of it being radial change it to
+[08:26] axial so that's what I'm thinking of and
+[08:29] those are why I'm thinking of it and if
+[08:30] you're thinking about building your own
+[08:32] generators then certainly those I would
+[08:35] say are the principles you need as
+[08:38] guidance to help you think about
+[08:41] it amazing geometric designs things like
+[08:44] the rod and coil for instance um to my
+[08:47] mind they're a little bit of a waste of
+[08:49] time they don't really affect anything
+[08:52] that a generator would affect whereas
+[08:55] things like the axial flux do because of
+[08:58] the principles in involved this is the
+[09:00] outer case of a radial flux motor a
+[09:02] normal motor and as you'd expect there's
+[09:05] a load of silicon steel with these
+[09:06] little fingers sticking in there stacked
+[09:08] up and this is where the coils go so I
+[09:12] peeled off a couple of those and this
+[09:14] what you get is this now two of those
+[09:17] together are about a millimet thick so I
+[09:19] peeled off four giving me a 2 mm layer
+[09:22] and what I want to do is cut every
+[09:25] second one out of those fingers when
+[09:28] I've done that what I've are these we
+[09:30] got two metal plates 12 of these little
+[09:33] prongs pointing into the center with a
+[09:35] good ring of silicon SE steel around the
+[09:38] edge now if I put two of those together
+[09:41] and rotate a magneet in there then I'm
+[09:44] going to be able to swap this and this
+[09:48] north south north south creating me a
+[09:50] field going in that way the axial
+[09:52] direction as long as I rotate some
+[09:55] magnets in there so what I need is some
+[09:58] magnets so what I've got is an acrylic
+[10:01] disc and in that acrylic disc I've
+[10:03] drilled a whole load of 6 mm holes 24 of
+[10:05] them 15° apart the reason for that is
+[10:08] there's 12 of these 30° apart so if my
+[10:11] mag if my acrylic disc is there with
+[10:14] some magnets in and that magnet has the
+[10:16] North Face pointing here then in that
+[10:18] position all of the Norths point to the
+[10:20] little fingers which means that the
+[10:22] orientation of that will be North move
+[10:24] it
+[10:25] 15° then all of those will change to
+[10:28] South the South will now be pointing at
+[10:30] that the orientation of the field will
+[10:32] be South so every 15° of rotation of the
+[10:35] plastic disc I'll be able to flip the
+[10:38] magnetic field in there from north to
+[10:41] south and north to south and of course
+[10:42] if I put another one on there this will
+[10:44] be in the opposite rotation so although
+[10:47] that's North that'll be South and so on
+[10:49] what I'm starting to get obviously is a
+[10:52] generator because what I need to do then
+[10:54] is wind a coil around here and that
+[10:57] should generate let's get a whole load
+[10:58] of 6 mil by 3 mil magnets and stick them
+[11:01] in my acrylic disc okay so I've stuck a
+[11:03] load of those 6 mm x 3 mm in my acrylic
+[11:07] ring and they're really cheap actually
+[11:08] it's about five for a million I mean not
+[11:10] I think I
+[11:11] paid about £10 120 of them or something
+[11:15] anyway that's my rer done now with this
+[11:19] bit what I've done is I've cut a bit of
+[11:20] acrylic and put a um bearing in there
+[11:24] that glues on there and then we glue a
+[11:26] plastic ring on it and we get that so
+[11:29] that's only the piece of metal plastic
+[11:31] ring which is 5 mm deep and then a bit
+[11:34] of acrylic with a bearing and of course
+[11:35] our rotor goes in there like that then
+[11:40] we take our second piece here and fix
+[11:42] that in line on top like
+[11:46] that glue that whole thing down put that
+[11:48] on and we're ready to wind our coil so
+[11:50] let's glue that down thank you
+[11:56] man and there's it put to together now
+[11:59] I've put 200 tons of wire on it not sure
+[12:02] the gauge it's about .1 mm thick and
+[12:05] we're going to give it a spin up see if
+[12:07] we can get anything out of it and for
+[12:10] that I've got this headlight
+[12:36] that
+[12:41] awesome okay so that's awesome hey this
+[12:44] takes three AAA batteries um so it's
+[12:47] putting out about 4.5 volts or something
+[12:50] it's round about 70 to 100 milliamps
+[12:54] which is pretty awesome from this okay
+[12:57] now it cost me probably a pound or less
+[13:00] to make it and if you want a similar
+[13:02] kind of output from the stepper motor
+[13:03] you're probably looking about 20 or so
+[13:06] just for that motor now I'm not claiming
+[13:09] any wonderful efficiencies remember this
+[13:11] is an idea and this is the Prototype of
+[13:13] the idea I'm pretty impressed to how it
+[13:15] works for a lush together prototype the
+[13:17] idea is that we've got an axial flux
+[13:20] generator where we're using that Crab
+[13:22] Claw alternator as um an inrunner with
+[13:26] magnets the whole thing's of course made
+[13:27] out of plastic it gets its win because
+[13:30] we only had to put one coil on it in a
+[13:32] normal motor remember you got something
+[13:34] like 24 coils that you got to make Ang
+[13:36] get in there and that makes them a bit
+[13:37] labor intensive makes them a bit
+[13:39] expensive here we're just putting one
+[13:41] coil on it and getting a similar result
+[13:43] so that's going to cut down the cost
+[13:45] tremendously the bulk of it of course is
+[13:47] made from plastic it's not made from
+[13:49] steel so there's a lot to be learned
+[13:52] from this little prototype but the
+[13:54] simple fact that it works not that it
+[13:56] does an awesome job because it does do
+[13:58] an awesome job that's surprised me how
+[14:00] good that is makes me want to build a
+[14:03] bigger version and of course there are
+[14:04] other things to bear in mind we've got
+[14:07] uh North on this side if we put another
+[14:09] magnet here and then another layer
+[14:11] another magnet another layer we don't
+[14:13] need to duplicate these layers up time
+[14:15] and time again we don't need two layers
+[14:17] we can just put one layer of Steel in
+[14:19] there so the whole thing is really quite
+[14:20] thin this is about a centimeter thick so
+[14:23] we' got a centimeter thick generator now
+[14:26] remember with generators the velocity of
+[14:29] the magnetic field changing has a big
+[14:32] impact and we've got this on a disc
+[14:34] because it's made out of plastic of
+[14:35] course we could make that disc really
+[14:36] really big in which case we'd get a high
+[14:39] velocity of the magnetic field changing
+[14:42] and we could do that really easily so
+[14:44] it's very adaptable to something like
+[14:46] that so I'm pretty pleased with actually
+[14:48] how that worked out there's the
+[14:50] Prototype if you're fancy giving it a go
+[14:52] I've given lots of details if you have
+[14:54] any other questions of course put them
+[14:55] in the comments and I'll do my best to
+[14:57] answer them but there's the prot a time
+[14:59] works brilliantly probably going to
+[15:01] build a bigger one because I think this
+[15:04] is a generator of the future anyway hope
+[15:07] you enjoyed the video thank you very
+[15:09] much for watching and please do remember
+[15:11] to like And subscribe

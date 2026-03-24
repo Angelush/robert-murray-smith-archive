@@ -1,0 +1,903 @@
+[
+  {
+    "id": "UgyAF0VTfHYYVeSTyth4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome 🎉",
+    "likes": 0,
+    "published_at": "2025-02-08T19:43:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx1rN5IOqGmz-gp26R4AaABAg",
+    "author": "@howardbealeau",
+    "author_channel_id": "UCJMgAqTFuvXwsU8aJqYcSQQ",
+    "text": "I don't know if manufacturer's of CoreXY printers are claiming better accuracy, but my experience with Creality's K1 CoreXY printer has not supported any such claims. Even high-end industrial printers worth upwards of $180,000 claim \"... an accuracy of ± .127 mm (± .005 in.) or ± .0015 mm/mm (± .0015 in/in), whichever is greater).",
+    "likes": 0,
+    "published_at": "2024-08-24T13:04:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz9Rr7v14a-k_6GoyN4AaABAg",
+    "author": "@portugal1969",
+    "author_channel_id": "UCfsshUwI7uP9eFb1tQY7d0A",
+    "text": "Is there a 3d printer exhibition, as seeing multiple machines would be good to see before buying, that's if you know or heard of one?",
+    "likes": 0,
+    "published_at": "2024-08-14T19:40:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz9Rr7v14a-k_6GoyN4AaABAg.A77u7Wxy84cA780wDGrvyy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are quite a few - the big one is in Frankfurt called formnext i believe",
+        "likes": 0,
+        "published_at": "2024-08-14T20:48:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyOrbxZu_FHNDz1dLV4AaABAg",
+    "author": "@garyblake4296",
+    "author_channel_id": "UCxjgUh2N4xQ817dkJVcvTlA",
+    "text": "I made a 600x600 core xy a few years back, it's a beast....lol",
+    "likes": 0,
+    "published_at": "2024-08-14T08:05:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyOrbxZu_FHNDz1dLV4AaABAg.A76eZ8Gl2ogA76feCecp3N",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "sounds awesome mate!",
+        "likes": 0,
+        "published_at": "2024-08-14T08:15:01Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxatgu-wYWwZ_QSl_l4AaABAg",
+    "author": "@ericwazhung",
+    "author_channel_id": "UCtE3RqZeq9S_bSCNdJLvulg",
+    "text": "When I was a kid in the 90's I got a flatbed plotter, which truly fascinated me... Its motors were stationary like this, but the pulley system is, in fact, cartesian. One motor for X and another for Y. \n\nI had always thought CoreXY was just a newfangled name for that design until I saw your model, here.\n\n It seems both motors have to move, in CoreXY, to move the head along one axis... which reminds me a bit of wall-hanging plotters. The math is somewhat complicated to convert cartesian coordinates to pythagorean(?). But, I guess, in the end, a fast computer/CPU can handle it, so it really doesn't matter.\nThough, I wonder if it makes for weird resolution-effects. Say the stepper motors are 1.8deg/step, in a cartesian system each step might amount to 0.1mm. But on a system like this, it seems like it might have higher resolution in some areas, and lower in others.\n\nInteresting, anyhow. And as always, great explanation!",
+    "likes": 1,
+    "published_at": "2024-08-14T04:27:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxatgu-wYWwZ_QSl_l4AaABAg.A76G_W-GKiEA76fbpFBTVv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "the math does get a bit more complicated - verging on calculus - but not too much to be honest",
+        "likes": 1,
+        "published_at": "2024-08-14T08:14:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz6U5JU_9tDOIMxnVZ4AaABAg",
+    "author": "@canuckcorsa",
+    "author_channel_id": "UC7HSsrVWvIBQObsH1fQrBpw",
+    "text": "Thank You!",
+    "likes": 0,
+    "published_at": "2024-08-13T23:58:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz6U5JU_9tDOIMxnVZ4AaABAg.A75mqpNwUYFA76fQyVX_Pb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "glad you liked it mate",
+        "likes": 0,
+        "published_at": "2024-08-14T08:13:04Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwBtjxpvmtcP4s8kF54AaABAg",
+    "author": "@thebroshow6688",
+    "author_channel_id": "UCb7IgtBQXFZscK7ViVcUXPw",
+    "text": "Awesome!",
+    "likes": 0,
+    "published_at": "2024-08-13T17:47:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwBtjxpvmtcP4s8kF54AaABAg.A757PO2UFcmA76fPBELHGW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 0,
+        "published_at": "2024-08-14T08:12:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyHO6TSTFmXg1NSX_x4AaABAg",
+    "author": "@grunwode",
+    "author_channel_id": "UCBSqV7b6nnIFX0e0JuuzzTA",
+    "text": "XY printers have been using drive belts for a long time, though I never would have guessed the reason.  Figures that XYZ printers would catch up.  What I want to know is when any printer manufacturers are going to start using the default drivers available in most operating systems, and when are we going to see printheads or belts that read their true position via a capacitive linear encoder.  Salutations!",
+    "likes": 0,
+    "published_at": "2024-08-13T16:20:54Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyHO6TSTFmXg1NSX_x4AaABAg.A74yT6hAjHAA76fOjvZNLB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i guess it will come mate",
+        "likes": 0,
+        "published_at": "2024-08-14T08:12:46Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwrfo4TxT2WrDmmDYl4AaABAg",
+    "author": "@MerwinARTist",
+    "author_channel_id": "UCTwHrjtJ3IiO1bgudSzgjEw",
+    "text": "Nicely explained Robert .. and I love to see the nice photo of Patti on the wall behind you .. great tribute!  ❣",
+    "likes": 2,
+    "published_at": "2024-08-13T15:32:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwrfo4TxT2WrDmmDYl4AaABAg.A74stK6EIWsA76fGI6FrLi",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you so much - she is always in my thoughts mate",
+        "likes": 1,
+        "published_at": "2024-08-14T08:11:37Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx6Ms-QRgli9rqkxVN4AaABAg",
+    "author": "@davidblyth5495",
+    "author_channel_id": "UCBwpDHuFdmPtZ06s1VinXvw",
+    "text": "Sometime in the past, somebody \"thought out of the box\" and arrived at an excellent solution for a control system",
+    "likes": 0,
+    "published_at": "2024-08-13T14:33:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx6Ms-QRgli9rqkxVN4AaABAg.A74m9NKlh1DA76fJl1dHtm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate",
+        "likes": 0,
+        "published_at": "2024-08-14T08:12:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxtcECdhmtUXXzDKwt4AaABAg",
+    "author": "@seunogunleye8660",
+    "author_channel_id": "UCQAqtXaIs7quQ1_mevB02dA",
+    "text": "Triangulation more accurate than two axis plot",
+    "likes": 0,
+    "published_at": "2024-08-13T12:54:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxtcECdhmtUXXzDKwt4AaABAg.A74arb_loPhA76fKnOcbLv",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 0,
+        "published_at": "2024-08-14T08:12:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzjR6a1pfJOZstJxEd4AaABAg",
+    "author": "@oildalestar",
+    "author_channel_id": "UCTUpo8iue-_dtdtOnZ0ue0g",
+    "text": "I used to watch all your videos but you seem to focus on 3D printing lately which I have no interest in",
+    "likes": 0,
+    "published_at": "2024-08-13T07:27:09Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzjR6a1pfJOZstJxEd4AaABAg.A740NixYmBmA745yzukHgM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "well if you think the focus is 3d printing you have missed the point mate - a 3d printer is useful tool for inventing and making - but it takes learning - still you can't please everyone",
+        "likes": 0,
+        "published_at": "2024-08-13T08:16:04Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwo0czXDSS8FjBnzq54AaABAg",
+    "author": "@kristianolsen4555",
+    "author_channel_id": "UCh_oX7gNuyVwvxH8pYJoP4w",
+    "text": "Thank you for your inspiration 😊. I think you have a bad influence on me, I'm working on hobby windmills and solar energy, and I just got a 3D printer 😂😂😂😂😂",
+    "likes": 0,
+    "published_at": "2024-08-13T07:09:10Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwo0czXDSS8FjBnzq54AaABAg.A73zK3cSxxCA7460sUQGVz",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oops my bad lol",
+        "likes": 0,
+        "published_at": "2024-08-13T08:16:27Z"
+      },
+      {
+        "id": "Ugwo0czXDSS8FjBnzq54AaABAg.A73zK3cSxxCA74EHC_NN4e",
+        "author": "@kristianolsen4555",
+        "author_channel_id": "UCh_oX7gNuyVwvxH8pYJoP4w",
+        "text": "@ThinkingandTinkering 🤣🤣🤣🤣🤣🤣",
+        "likes": 0,
+        "published_at": "2024-08-13T09:28:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxIrix12xIAePeiaN94AaABAg",
+    "author": "@Twistedmetal-qe8kx",
+    "author_channel_id": "UCkSYIDkJte109QqAXq1XuLw",
+    "text": "Great explanation, and demo. Haven't used the  corexy printers yet, this makes good sense of it.",
+    "likes": 0,
+    "published_at": "2024-08-13T05:47:15Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxIrix12xIAePeiaN94AaABAg.A73px3Fg8mOA746GpQvYo_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 0,
+        "published_at": "2024-08-13T08:18:38Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzJpGWaCfVuKFnI7Dx4AaABAg",
+    "author": "@uwuweewee",
+    "author_channel_id": "UCVgUB7SZla3o99VV5nKkVIw",
+    "text": "Honestly in 2024 nobody cares about coreXY and theoretical print speeds. My Prusa mini's with input shaper will smoke any coreXY and still have print quality. \n\nThe quality of prints is not at all limited by Cartesian printers. This was kind of an odd video from you.",
+    "likes": 0,
+    "published_at": "2024-08-13T02:35:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzJpGWaCfVuKFnI7Dx4AaABAg.A73Uy-q3qaqA746W-8W_48",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I didn't say quality was limited - it's the speed that is limited and everybody cares about faster printers",
+        "likes": 0,
+        "published_at": "2024-08-13T08:20:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwGw4XYWLF2oGwIFuZ4AaABAg",
+    "author": "@DiggerD-w6r",
+    "author_channel_id": "UCe_ChpliZH9of5X7jVNCSRA",
+    "text": "Your audio is bad.  Distant and echoey.",
+    "likes": 0,
+    "published_at": "2024-08-13T02:06:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGw4XYWLF2oGwIFuZ4AaABAg.A73RiM5XuL1A746XNJBq4K",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers",
+        "likes": 1,
+        "published_at": "2024-08-13T08:20:53Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzqqpy893qqpYqY4lR4AaABAg",
+    "author": "@KanealiiTakahashi",
+    "author_channel_id": "UCDvRojkgU3qf9QkrlkgMxnA",
+    "text": "Time well spent",
+    "likes": 0,
+    "published_at": "2024-08-13T01:37:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzqqpy893qqpYqY4lR4AaABAg.A73ON1uXQUGA746ZX3WGx8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate glad you liked it",
+        "likes": 0,
+        "published_at": "2024-08-13T08:21:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxvGYEZDIfpAIl1nCt4AaABAg",
+    "author": "@lagunafishing",
+    "author_channel_id": "UCZ8tWTJ0vfhVGdox7jauD7w",
+    "text": "CoreXY I thought was a filament brand lol\nI wonder if this could be the principle by which photons can some day be used to print in 3D space using photo-sensitive resin SLA/DLP etc.?",
+    "likes": 0,
+    "published_at": "2024-08-12T23:25:37Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxvGYEZDIfpAIl1nCt4AaABAg.A739Gw4j0erA746ec_jlqJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - it's possible with polar co-ordinates i would think",
+        "likes": 1,
+        "published_at": "2024-08-13T08:22:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwUS8H37t3qEFGHZp14AaABAg",
+    "author": "@coachmakersarmshanley817",
+    "author_channel_id": "UC6rXyVwNMkNM2YTDCIR0Nmg",
+    "text": "Back to your brilliant best with a wonderful simple explanation of a complex topic. Thank you",
+    "likes": 0,
+    "published_at": "2024-08-12T23:25:20Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwUS8H37t3qEFGHZp14AaABAg.A739Eorq-z9A746fhr5wjj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you enjoyed it!",
+        "likes": 0,
+        "published_at": "2024-08-13T08:22:10Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAD-2ya8mrhzzVKb14AaABAg",
+    "author": "@ni_tai",
+    "author_channel_id": "UCh_nv3MLs3PqNe87bmH8khw",
+    "text": "It wasn't until I watched this video that I realized that an etch a Sketch is a 2d core x y coordinate system",
+    "likes": 0,
+    "published_at": "2024-08-12T22:34:42Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzAD-2ya8mrhzzVKb14AaABAg.A733Rw8KAE8A7354AZ6jqJ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah pretty much!",
+        "likes": 1,
+        "published_at": "2024-08-12T22:48:55Z"
+      },
+      {
+        "id": "UgzAD-2ya8mrhzzVKb14AaABAg.A733Rw8KAE8A73KyOsjOIy",
+        "author": "@ni_tai",
+        "author_channel_id": "UCh_nv3MLs3PqNe87bmH8khw",
+        "text": "Love your videos Robert. Every time I watch your videos I think about Patti. I didn't know her but I know you loved her and she inspired you and for that I am thankful.",
+        "likes": 0,
+        "published_at": "2024-08-13T01:07:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzAAILBO4lxkiUoKod4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2024-08-12T20:48:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzAAILBO4lxkiUoKod4AaABAg.A72sIj0jiZnA72zDxsnq8r",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2024-08-12T21:49:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyUKHPwJmdg-YCf0ut4AaABAg",
+    "author": "@jamesross1003",
+    "author_channel_id": "UCuQv30LQ29W9_I-dcbfWVlw",
+    "text": "It's an etch a sketch for 3d printing!  Thanks Rob!",
+    "likes": 1,
+    "published_at": "2024-08-12T20:46:45Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyUKHPwJmdg-YCf0ut4AaABAg.A72s5NtMmDUA72zG562-xr",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - exactly mate! nice one",
+        "likes": 1,
+        "published_at": "2024-08-12T21:49:23Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwlV0Zst3ZIxQzhROt4AaABAg",
+    "author": "@bikerfirefarter7280",
+    "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+    "text": "XYZ and Time.?",
+    "likes": 0,
+    "published_at": "2024-08-12T19:59:01Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwlV0Zst3ZIxQzhROt4AaABAg.A72mchto7XhA72zMjtJNAm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "time isn't a variable here mate",
+        "likes": 0,
+        "published_at": "2024-08-12T21:50:18Z"
+      },
+      {
+        "id": "UgwlV0Zst3ZIxQzhROt4AaABAg.A72mchto7XhA74PI6re4rE",
+        "author": "@bikerfirefarter7280",
+        "author_channel_id": "UCednOJ3kHeXjTA0GjFjABjg",
+        "text": "@ThinkingandTinkering It was a bit of an obscure TARDIS ref.  Doc.  :-)\nSorry.",
+        "likes": 0,
+        "published_at": "2024-08-13T11:04:50Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx9BRsFWzW5JWEN7kp4AaABAg",
+    "author": "@robtitheridge9708",
+    "author_channel_id": "UCFBrPoOMxbO6DpXdj4Ppq6Q",
+    "text": "Thanks for the explanation Rob not as complex as i thought",
+    "likes": 0,
+    "published_at": "2024-08-12T19:44:52Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9BRsFWzW5JWEN7kp4AaABAg.A72l04hMlmcA72zO7YbcQD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-08-12T21:50:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNDHEFGRyPWM45f294AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Thumbs 😊👍",
+    "likes": 0,
+    "published_at": "2024-08-12T19:26:16Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNDHEFGRyPWM45f294AaABAg.A72iso1jtLYA72zOhZfzBM",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thank you! Cheers!",
+        "likes": 1,
+        "published_at": "2024-08-12T21:50:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxbIASP9duFymtcHzF4AaABAg",
+    "author": "@six1free",
+    "author_channel_id": "UCY_ZGGyH-olGXTyWb5IEifQ",
+    "text": "sorry to see of your loss, that's a beutiful pic",
+    "likes": 2,
+    "published_at": "2024-08-12T18:33:08Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxbIASP9duFymtcHzF4AaABAg.A72cnfFTRzsA72zRBb9u0W",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you mate and thank you for taking the time to say that",
+        "likes": 1,
+        "published_at": "2024-08-12T21:50:54Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw10FPcozILaVdri4N4AaABAg",
+    "author": "@AndreaDingbatt",
+    "author_channel_id": "UCn-jxISIK2DNbcANRxKTHbw",
+    "text": "Thank you very much again for clearly explaining something so that I can understand!!\nMuch Appreciated!!😎👍",
+    "likes": 1,
+    "published_at": "2024-08-12T18:29:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw10FPcozILaVdri4N4AaABAg.A72cOEj1a-DA72zTH1jPc7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "anything for you Andrea - you know that!",
+        "likes": 0,
+        "published_at": "2024-08-12T21:51:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzbVgPXoQnmTZlrlaZ4AaABAg",
+    "author": "@antoniosanford4675",
+    "author_channel_id": "UCuM4i3a0mBPPBSscC3gW4Tg",
+    "text": "I wish you had the creality 3d printmill designed by Naomi Wu.  It would be awesome for printing large items. Eventually you'll start making your own 3d printers. That'll be amazing!",
+    "likes": 1,
+    "published_at": "2024-08-12T18:10:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzbVgPXoQnmTZlrlaZ4AaABAg.A72aDhQcWtMA72zU_V_5_s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "That's a great idea!",
+        "likes": 1,
+        "published_at": "2024-08-12T21:51:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzPkpL56Lych86wdxJ4AaABAg",
+    "author": "@disklamer",
+    "author_channel_id": "UCY-81bGZUjM18o8O2myL0DA",
+    "text": "always a pleasure, thanks for the teachings.",
+    "likes": 9,
+    "published_at": "2024-08-12T17:33:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzPkpL56Lych86wdxJ4AaABAg.A72WxXMSvO8A72zWbGr2is",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-08-12T21:51:38Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx9R4wgEn7BLM6P3-N4AaABAg",
+    "author": "@TomFarrell-p9z",
+    "author_channel_id": "UCh70kLjsBVjuocx5s3zm1CA",
+    "text": "Personally, I found this one of your more interesting videos.  Love to hear about good engineering trades, and how they improve machines!",
+    "likes": 1,
+    "published_at": "2024-08-12T17:26:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9R4wgEn7BLM6P3-N4AaABAg.A72WCkeLXemA72zaBcBX53",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's a really kind thing to say mate - cheers",
+        "likes": 0,
+        "published_at": "2024-08-12T21:52:16Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx4k3ylXomvDIpyuNx4AaABAg",
+    "author": "@vulpo",
+    "author_channel_id": "UCBxHxuKAneJyIa6vHb4fjYw",
+    "text": "It's an Etch-a-Sketch.",
+    "likes": 8,
+    "published_at": "2024-08-12T17:02:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx4k3ylXomvDIpyuNx4AaABAg.A72TNnMqOW1A72zb6lYbw7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yup lol",
+        "likes": 3,
+        "published_at": "2024-08-12T21:52:24Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzO1KQJGPc2MWCiN-t4AaABAg",
+    "author": "@ecatVids",
+    "author_channel_id": "UCjTmgEgyEWVu3M_LsZHP1Xg",
+    "text": "Ah, the classic Imperium Galactica II asteroid field. I played that game to death back in the day. Available on GOG if anyone's interested.",
+    "likes": 2,
+    "published_at": "2024-08-12T16:23:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzO1KQJGPc2MWCiN-t4AaABAg.A72Oy4ED8TUA72zceFnvcZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "can't beat it mate!",
+        "likes": 0,
+        "published_at": "2024-08-12T21:52:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxn0T2AjNZOcvEAU9N4AaABAg",
+    "author": "@johnzx14rk94",
+    "author_channel_id": "UCfVc40789JBk1TE2QMYls1g",
+    "text": "Thank You Good Sir.",
+    "likes": 2,
+    "published_at": "2024-08-12T16:16:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxn0T2AjNZOcvEAU9N4AaABAg.A72O6gVrcGjA72zeAPyOq0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-08-12T21:52:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx_NNtED_nw8od-C994AaABAg",
+    "author": "@Guardian_Arias",
+    "author_channel_id": "UCFkoqHQ1y9wA9_-hBtQIKHA",
+    "text": "The Sovol SV08 which is based on the Voron 2 project actually use 4 belts and steppers to move the in the Z-Axis with just enough gear reduction to prevent gravity back driving the steppers when they are off.\n\nThe sovol requires a small amount of assembly but its easier than any flat pack furniture kit.",
+    "likes": 4,
+    "published_at": "2024-08-12T16:08:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx_NNtED_nw8od-C994AaABAg.A72NIW6pwjiA72zhHuB1Pq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "interestig mate - thanks for sharing",
+        "likes": 0,
+        "published_at": "2024-08-12T21:53:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxIet0ZVIYIIZAJyxV4AaABAg",
+    "author": "@rfiskillingussoftly6568",
+    "author_channel_id": "UC5m1A5TeqSEgfbdkQ2O4ohQ",
+    "text": "Always gtsy man!",
+    "likes": 2,
+    "published_at": "2024-08-12T16:08:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxIet0ZVIYIIZAJyxV4AaABAg.A72NGof1IVHA72ziF7Y87K",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-08-12T21:53:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwGTttOVc700J0E8BB4AaABAg",
+    "author": "@sergiogcollado",
+    "author_channel_id": "UCcU-618hARS00Da0sUOJvlA",
+    "text": "Very cool Robert!",
+    "likes": 3,
+    "published_at": "2024-08-12T15:53:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwGTttOVc700J0E8BB4AaABAg.A72LY_OLEwPA72zjIkioZb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2024-08-12T21:53:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVdRFSWfcaSJaBcy54AaABAg",
+    "author": "@CCoburn3",
+    "author_channel_id": "UC-AF2Pb8YVVRbus89NezOBQ",
+    "text": "Great video. I see that we can expect improvements in belt technology in the future. That seems to be the weak point in CoreXY printers. So we should see people trying to overcome that limitation.",
+    "likes": 2,
+    "published_at": "2024-08-12T15:45:52Z",
+    "reply_count": 9,
+    "replies": [
+      {
+        "id": "UgzVdRFSWfcaSJaBcy54AaABAg.A72KedICfxwA72zqENAVFy",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am pondering that exact thing myself",
+        "likes": 0,
+        "published_at": "2024-08-12T21:54:27Z"
+      },
+      {
+        "id": "UgzVdRFSWfcaSJaBcy54AaABAg.A72KedICfxwA74Hvl6yP5t",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "Rayon cord maybe ?",
+        "likes": 0,
+        "published_at": "2024-08-13T10:00:29Z"
+      },
+      {
+        "id": "UgzVdRFSWfcaSJaBcy54AaABAg.A72KedICfxwA74vmPu4qEi",
+        "author": "@CCoburn3",
+        "author_channel_id": "UC-AF2Pb8YVVRbus89NezOBQ",
+        "text": "@justtinkering6713 That would be thicker than a belt, so it might not be so prone to stretching. It might be worth trying.",
+        "likes": 0,
+        "published_at": "2024-08-13T15:57:28Z"
+      },
+      {
+        "id": "UgzVdRFSWfcaSJaBcy54AaABAg.A72KedICfxwA74yD5KJvzZ",
+        "author": "@justtinkering6713",
+        "author_channel_id": "UCHZM3kfK08One-LKMAVp0UQ",
+        "text": "@CCoburn3 I make sails from rayon because it doesn't stretch.",
+        "likes": 0,
+        "published_at": "2024-08-13T16:18:43Z"
+      },
+      {
+        "id": "UgzVdRFSWfcaSJaBcy54AaABAg.A72KedICfxwA7547Nyx53_",
+        "author": "@CCoburn3",
+        "author_channel_id": "UC-AF2Pb8YVVRbus89NezOBQ",
+        "text": "@justtinkering6713 Sounds good. Would it slip?",
+        "likes": 0,
+        "published_at": "2024-08-13T17:19:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwHR86lgdwvpTsPDvB4AaABAg",
+    "author": "@RTR-MATEY",
+    "author_channel_id": "UC5baSokK1_I3UfJSOH24LjQ",
+    "text": "CoreXY: Not a Bed Slinger!!! 😂",
+    "likes": 0,
+    "published_at": "2024-08-12T15:35:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwHR86lgdwvpTsPDvB4AaABAg.A72JV3UIY3VA72zsyGiLZ3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nope",
+        "likes": 1,
+        "published_at": "2024-08-12T21:54:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwaE6kMx33p1vSWbyx4AaABAg",
+    "author": "@RTR-MATEY",
+    "author_channel_id": "UC5baSokK1_I3UfJSOH24LjQ",
+    "text": "Lots of room echo...lapel microphone must not be working. 😔",
+    "likes": 0,
+    "published_at": "2024-08-12T15:33:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwaE6kMx33p1vSWbyx4AaABAg.A72JIaIdle-A72zvsIKrUR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there was a lot yes - maybe the battery has gone - i'll check it",
+        "likes": 1,
+        "published_at": "2024-08-12T21:55:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz-KqSQvKCMq6fgGlF4AaABAg",
+    "author": "@absinthe4breakfast299",
+    "author_channel_id": "UCtVGCJ7ZdkpY7LYuRiOeFJw",
+    "text": "I've got a couple of bed slingers but I'd really like to get a core  X Y at some time, I've been looking at a couple of machines from Qidi , I also like the idea of building a Voron but they tend to be a bit outside my price range.",
+    "likes": 1,
+    "published_at": "2024-08-12T15:31:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz-KqSQvKCMq6fgGlF4AaABAg.A72J3Xo8MFyA73-005Hrpo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Qidi is a good machine",
+        "likes": 0,
+        "published_at": "2024-08-12T21:55:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTYNoY2gcFG6lsOmh4AaABAg",
+    "author": "@tenij000",
+    "author_channel_id": "UCgwJKYmKdWPswBUEaui9MNg",
+    "text": "core x y like 2 L  whit 1 motor at 1 L   xy is ligher no moving motors :)",
+    "likes": 1,
+    "published_at": "2024-08-12T15:20:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTYNoY2gcFG6lsOmh4AaABAg.A72HhGRVVocA73-3CAwvL6",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "indeed",
+        "likes": 0,
+        "published_at": "2024-08-12T21:56:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywZgfosAvKPHh7q0Z4AaABAg",
+    "author": "@dSquared0162",
+    "author_channel_id": "UCqMYzfz_2v3MULwOHWpz7oA",
+    "text": "Very comprehensive explanation, even I could understand it. I guess another benefit would be it is easier to encapsulate the whole thing to provide an environment where toxic fumes can be eliminated.",
+    "likes": 2,
+    "published_at": "2024-08-12T15:17:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgywZgfosAvKPHh7q0Z4AaABAg.A72HT8Juk66A73-6YzmuYH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good point mate - i think you are spot on there",
+        "likes": 0,
+        "published_at": "2024-08-12T21:56:49Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxfk8aqcSPPG8whGRp4AaABAg",
+    "author": "@paulwright8378",
+    "author_channel_id": "UCQcUhUPhBM5YQojLuulnK_Q",
+    "text": "It sounds like corrugated plastic",
+    "likes": 1,
+    "published_at": "2024-08-12T15:07:14Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugxfk8aqcSPPG8whGRp4AaABAg.A72GEbgg55dA73-7wf5uif",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "what does?",
+        "likes": 1,
+        "published_at": "2024-08-12T21:57:01Z"
+      },
+      {
+        "id": "Ugxfk8aqcSPPG8whGRp4AaABAg.A72GEbgg55dA73GdBqlOCM",
+        "author": "@paulwright8378",
+        "author_channel_id": "UCQcUhUPhBM5YQojLuulnK_Q",
+        "text": "@ThinkingandTinkering correx",
+        "likes": 0,
+        "published_at": "2024-08-13T00:29:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyZEUYyYgctCVt1uct4AaABAg",
+    "author": "@55Ramius",
+    "author_channel_id": "UCAGlxkxgWMg6EzBHW3vPvKw",
+    "text": "Interesting. I plan on getting a 3d printer by early 2025.",
+    "likes": 1,
+    "published_at": "2024-08-12T15:06:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyZEUYyYgctCVt1uct4AaABAg.A72G8bOwrF9A73-9sInO-y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you should find lots of uses for it i think",
+        "likes": 0,
+        "published_at": "2024-08-12T21:57:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxV9pvyYSzty63d0Z14AaABAg",
+    "author": "@Struthio_Camelus",
+    "author_channel_id": "UC9--Pq-QxxcErIw7tpJIDjw",
+    "text": "Well hello there!",
+    "likes": 2,
+    "published_at": "2024-08-12T15:02:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxV9pvyYSzty63d0Z14AaABAg.A72FhBC2wlkA73-BfpaOBj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "hello to you too!",
+        "likes": 0,
+        "published_at": "2024-08-12T21:57:31Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[00:02] [Music]
+[00:16] hello everyone luke here welcome back to
+[00:17] the channel so in today's video what
+[00:19] we're going to be doing is building a
+[00:20] battery level indicator the reason why i
+[00:23] wanted to build this doesn't actually
+[00:24] relate too much to the battery indicator
+[00:26] but i could imagine some of us are all
+[00:28] been a position where you go out and you
+[00:30] try and start your vehicle whatever that
+[00:31] being a car
+[00:33] motorbike a big old hdv lorry and you're
+[00:35] going to turn the key and all you're
+[00:36] hearing is chugga chugga chugga chugga
+[00:38] and you're like oh crabbers what's
+[00:40] happened to me car so you take out the
+[00:41] battery stick at the triple charge and
+[00:43] voila it starts but sometimes that's not
+[00:46] the case and your battery's dead so for
+[00:48] me
+[00:49] this has happened to me quite a few
+[00:50] times and one of these little devices
+[00:52] set at 12 volts would do the job
+[00:54] perfectly to tell me how much charge the
+[00:56] battery has and it will indicate to me
+[00:58] if it's dead or not so that's the reason
+[01:00] why i wanted to build it
+[01:02] that is awesome and now it's actually
+[01:04] time to build it but before we do that
+[01:05] i'm going to splash the schematic on the
+[01:07] screen
+[01:08] now
+[01:09] as you can see it's quite
+[01:10] straightforward and it's going to be
+[01:12] quite easy to build this now we know
+[01:14] what we're doing let's put out the
+[01:15] soldering iron the rest of the materials
+[01:17] and then let's get this thing built
+[01:20] so now we know what the schematic looks
+[01:21] like we need five 1k ohm resistors
+[01:24] we need five leds i'm choosing to use
+[01:27] three red and two green and then we need
+[01:30] a potentiometer too and to be honest i'm
+[01:33] not sure which range of potentiometers
+[01:34] is going to be at so i've got a 10k ohm
+[01:38] potentiometer that i'm going to be using
+[01:41] so the first thing we want to do is
+[01:42] attach the first led to the
+[01:44] potentiometer so the positive side goes
+[01:47] to the middle output pin and the far
+[01:49] right output pin and they both get
+[01:51] soldered onto there so let's do that
+[02:08] so now we've got our first led attached
+[02:10] to the potentiometer what we want to do
+[02:12] is just keep connecting these leds up in
+[02:15] series so we want to go
+[02:17] positive negative positive negative
+[02:22] so let's finish doing that
+[02:47] and this is what it looks like when it's
+[02:49] put together and i know at the moment it
+[02:50] looks like a whole bunch of soldered
+[02:52] components but before we can print it up
+[02:54] we need to make sure that it actually
+[02:56] works so let's calibrate this to 12
+[02:58] volts and see how it performs
+[03:01] and there we go so i've got my battery
+[03:03] indicator connected up to the power
+[03:05] supply so what we're going to do is set
+[03:06] this to 12 volts
+[03:08] and then
+[03:10] we can calibrate this
+[03:12] to make sure that it's reading
+[03:14] the full battery bar at 12 volts so now
+[03:18] that this is calibrated at 12 volts
+[03:20] whenever it drops below that
+[03:22] these leds are going to start getting
+[03:24] less lit all the way down to the bottom
+[03:26] which i think is somewhere around 3.7
+[03:28] volts
+[03:29] so we can pretend that our power supply
+[03:31] is a battery and
+[03:33] let's say it's somewhere at around 10
+[03:35] volts we drop that down to 10 volts and
+[03:38] this end led turns off so let's drop
+[03:41] that down to
+[03:42] say 7 volts
+[03:44] there we go the three red ones are only
+[03:47] lit now which is indicated oh the
+[03:48] battery is low because it's on seven
+[03:50] volts and if we drop that down to five
+[03:53] you're going to see the last two being
+[03:54] lit up and then if we drop that down to
+[03:57] three
+[03:58] you're going to see the very very last
+[04:00] led lit up
+[04:01] now we know that works what i'm going to
+[04:03] do is pretty up by making a little case
+[04:05] for it made out of one mil thick acrylic
+[04:08] so let's do it
+[04:10] so essentially what this thing is it's
+[04:12] basically a voltage divider circuit and
+[04:15] what that is in its basic essence is
+[04:17] voltage divider circuits are used to
+[04:19] produce different voltage levels from a
+[04:21] common voltage source but its current is
+[04:24] the same for all components in a series
+[04:26] circuit and we can relate that back to
+[04:28] the demonstration that i did
+[04:30] uh towards the beginning of the video
+[04:33] when i calibrated this to 12 volts i
+[04:35] could bang 12 volts down this and voila
+[04:37] all the lights will light up showing me
+[04:39] that well 12 volts is going down it and
+[04:41] then what happened when we turned it
+[04:42] down to 7 volts well only three of the
+[04:45] lights lit up and then when we put it
+[04:46] down to three volts only two and a half
+[04:49] lights lit up and so on so
+[04:52] what that means is that even though the
+[04:53] current is the same for all components
+[04:55] in this circuit
+[04:57] there wasn't enough voltage to overcome
+[04:59] them resistors
+[05:01] so we banked 12 volts down it all of
+[05:03] it's going to light up because that
+[05:04] voltage can overcome that all of the
+[05:06] resistors and i think that's what it is
+[05:09] in its basic essence
+[05:11] that was incredibly fun to build and i
+[05:13] have to admit it made me go out and
+[05:15] touch up on a few of my skills that i
+[05:16] haven't used at all like my soldering
+[05:19] but not only that it made me go out and
+[05:21] research what voltage divider circuits
+[05:23] were because towards the end of this
+[05:24] video i knew what they were but not in
+[05:27] not enough to be able to talk about it
+[05:29] so that's really cool and now this is
+[05:31] going to get chucked in my toolbox and
+[05:33] being and it's going to be used when i
+[05:35] need to use it because i don't have any
+[05:37] fancy sort of tools at home that i can
+[05:39] use to test batteries and i feel like
+[05:41] that is going to do the job really
+[05:43] nicely just to give me some sort of
+[05:44] indication
+[05:46] and with that being said that does bring
+[05:48] me to the end of the video i really hope
+[05:50] you enjoyed it and if you have any
+[05:51] questions
+[05:52] don't hesitate to put them in the
+[05:53] comments and i'll try my best to answer
+[05:55] them all anyway guys i hope you have a
+[05:57] great day and i'll see you later

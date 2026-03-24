@@ -1,0 +1,68 @@
+[00:02] okay here's a little update for you um
+[00:04] what I've done is uh I've got two6 volt
+[00:08] batteries there in series making me 12
+[00:10] volts and that's powering this little
+[00:13] circuit
+[00:14] here okay that's a 555 best air stable
+[00:19] timer towards a 12vt circuit and it's
+[00:22] running this miniature relay on there
+[00:24] and that relay is turning off the power
+[00:27] to this double pole double throw relay
+[00:30] here this double p double throw relay is
+[00:33] wired up so that it's a flip-flop in one
+[00:36] position then the positive supplied at
+[00:38] one end and the negative at the other
+[00:40] and then when it goes to its other
+[00:41] position it swaps over the positive and
+[00:44] the negative so we're getting a DC pulse
+[00:47] here that swaps over the positive and
+[00:49] negative and it's timed by this timer
+[00:51] circuit so let's turn that on for
+[00:54] you that turns on the timer circuit and
+[00:58] you'll notice that it's ticking away
+[00:59] enough things happening because this is
+[01:01] the actual Power Cell the 1 and 1/2 volt
+[01:05] um D battery and this is the one that's
+[01:07] going to be actually running this one
+[01:09] here okay so we turn that on
+[01:13] now and there we go it's zipping
+[01:17] backwards and forwards the reason it
+[01:19] rests at the end of that stroke is to do
+[01:21] with the timer circuit here it's a kit
+[01:23] that I got the Mings and put together
+[01:25] it's a bit slow so I guess what I could
+[01:28] do with really is changing the Capac
+[01:29] capacitor so I can get a bit more speed
+[01:31] out of that um it's return travel here
+[01:34] is about as fast as it wants to go it's
+[01:36] when it sits here and when it a here and
+[01:39] dwells you want to cut that time out a
+[01:41] little bit anyway the resistance on that
+[01:43] Coral is 4.7 ohms and the um battery
+[01:46] supply is 1.5 Vols and that tells you
+[01:49] it's using about 32 amps now that uses
+[01:52] 32 amps whether it's moving or not and
+[01:55] um as I showed you before when we just
+[01:58] plug in the 32 amps um that steel bar in
+[02:02] the center it just doesn't move at all
+[02:03] there's too much weight for it so the
+[02:06] little arrangement of magnets there is
+[02:08] what's actually making it run any I
+[02:10] thought I'd show you it running
+[02:11] backwards and forwards cuz I just
+[02:13] thought it was kind of an interesting
+[02:14] little update and that's the circuit to
+[02:16] make it do that again remember it's this
+[02:18] one it's running off the 12vt circuit is
+[02:21] actually running the background circuit
+[02:22] here so I guess what I could do is um
+[02:25] make up a h bridge and uh R off of that
+[02:28] but at the moment this is what I have
+[02:29] available to me lateer on Sunday night
+[02:31] and so that's what I put together so you
+[02:34] can actually see the thing ticking away
+[02:36] and running quite
+[02:40] nicely and it's not getting hot there at
+[02:42] all okay hope you enjoyed that I'll keep
+[02:44] you up to date with this one cuz this
+[02:46] one really is quite exciting

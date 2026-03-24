@@ -1,0 +1,994 @@
+[
+  {
+    "id": "UgwkvT8m2imP3pbpM7J4AaABAg",
+    "author": "@ygt824",
+    "author_channel_id": "UCrb3zW_wy7HjizHRDAQzOhA",
+    "text": "Amazing video , thanks ",
+    "likes": 0,
+    "published_at": "2026-03-05T14:42:12Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzgiKcrUFz2-Wp3dPl4AaABAg",
+    "author": "@junethefarmer",
+    "author_channel_id": "UCPKXRrgWwA1h-6ChLn3u-gw",
+    "text": "I’m always like “I wonder what…?” And there’s always a TNT video about it.  Cheers!",
+    "likes": 0,
+    "published_at": "2025-06-24T21:56:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyIG8PGHL_knSP_1M14AaABAg",
+    "author": "@CraigLandsberg-lk1ep",
+    "author_channel_id": "UCVQWbNpS_6ymv_i1ePYpx9Q",
+    "text": "Really really loved this video 😅😅 hope i can find the next one. The Turgo is basically similar to the axial turbine on the back of a modern jet engine 😀😀 thanks Robert!",
+    "likes": 0,
+    "published_at": "2024-07-12T03:35:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugwi28_gx8OxbX9Mi5J4AaABAg",
+    "author": "@ogreunderbridge5204",
+    "author_channel_id": "UCFTW6DTUtsKGH_hX0MXUVGA",
+    "text": "Industrially recommended optimal pressure head of Peltons are 300-1600m, Francis 60-300m. Kaplan 0-60m. Do  you or someone else reading here, know the factual numbers for the Turgo ?",
+    "likes": 0,
+    "published_at": "2023-12-14T07:55:20Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugwi28_gx8OxbX9Mi5J4AaABAg.9yIMRZZT_6s9yxsRtcZhPi",
+        "author": "@energiap2p",
+        "author_channel_id": "UCRajoD0UtpW6puEcFdjNGMA",
+        "text": "These numbers are not real...\n What would you use with 30 meters and 10 liters per second?\n Obviously I would use a pelton or turgo.\n Pelton or Turgo can work very well with up to 10 meters of water column.",
+        "likes": 0,
+        "published_at": "2023-12-30T20:11:50Z"
+      },
+      {
+        "id": "Ugwi28_gx8OxbX9Mi5J4AaABAg.9yIMRZZT_6s9yysXSJ-4AW",
+        "author": "@ogreunderbridge5204",
+        "author_channel_id": "UCFTW6DTUtsKGH_hX0MXUVGA",
+        "text": "​@energiap2p My numbers are collected from big system turbine manufacturers, I see no reason to not trust their data´s for industrial sized applications.\n\n(It´s to my experience Y.T. wont let me hyperlink url´s. \nSearch \"powerspout\" in your browser and you ought to find a com adress of a small scale system company based in nz-land, they provide a site section of online calculators in selection out of their own turbine models.) ;\n\nI calculated with 110mm pipe size, 50m of pipe at your 30m head. You´re home scale model example is according to their math at fully optimized worth up to about 1580 VA with a Turgo (Thats worth the start EMF (inverter´s peak power) of a smaller range home vaccum cleaner motor worth in direct feed energy). Their standard Pelton would in your metioned terrain example be starved of sufficiant flow, but they have a calculator category they referr to as Pelton HP that checks in valid at almost 1500VA output. \n\nLow head turbines would in your example case have too much water velocity for their turbine makes. Their calculator wont let me exceed input of 5 m head or less water flow than 10l/s for their overpriced, seemingly plastic dinkies, probably because their particular models will not be able to deal with such high potential. So is not the case with professionally optimized gear.\n\nThanks for your comment, I would probably not have come over that useful site without it. It will prove handy to my private scale case. Unless I find a midscale manufacturer, I guess I´ll be cadding me some LH turbines and weld trial constructions in stainless steel/alu cast or thereabout. I have low head, big flow and wild trouts I occationally like to be able to keep on fishing :)",
+        "likes": 0,
+        "published_at": "2023-12-31T05:31:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzBX4FmwYcjOmf0MCl4AaABAg",
+    "author": "@sieurable",
+    "author_channel_id": "UCHis7vsrqYcEq7E1dMUHo6Q",
+    "text": "la turbine pelton n'a pas besoin d'une haute chute. avec une basse chute le principe est le meme et le rendement aussi. la taille des augets , le diametre de la roue et le diametre des injecteurs sont juste beaucoup plus gros pour pouvoir l'utiliser en basse chute , et elle tourne a une vitesse faible. sinon , bien dimensionnée , elle convient tres bien en basse chute .",
+    "likes": 0,
+    "published_at": "2023-11-12T15:25:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugzxo9XeJMq3KHypIoN4AaABAg",
+    "author": "@portnuefflyer",
+    "author_channel_id": "UCslGNxdz54m4QnXzy_xRpAQ",
+    "text": "I've been running a 6\" Harris Hydro Pelton wheel for the last 16 years, 147' of head  thru a 3\" line in 1/4 mile+34 amps @ 24 VDC, 833 watts backfed into the grid.  Bronze ones last about 5 years, my latest is all stainless, they are supposed to be bulletproof. Having said that, until just now I didn't realize how or what a Turgo was!  Good info.",
+    "likes": 1,
+    "published_at": "2023-09-03T01:00:01Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzxo9XeJMq3KHypIoN4AaABAg.9uAypOQSSnK9yxswC8BfS2",
+        "author": "@energiap2p",
+        "author_channel_id": "UCRajoD0UtpW6puEcFdjNGMA",
+        "text": "The bronze ones in your case don't last long because the water column is extremely high for using soft metals or plastics.  With this stainless steel one, we will definitely see it working for a few decades, if possible, record a video and show it on YouTube, there are few projects being shown, but if you don't feel comfortable sharing your system, we will understand❤",
+        "likes": 0,
+        "published_at": "2023-12-30T20:16:07Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy2UMYh2O3KHd3lShZ4AaABAg",
+    "author": "@Alex_Unlocked",
+    "author_channel_id": "UCeQ3nHBSCzt3Py28G10cVOQ",
+    "text": "Me and a mate are trying the Turgo",
+    "likes": 0,
+    "published_at": "2023-07-05T18:17:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyRaUtGu0RPE310uPd4AaABAg",
+    "author": "@chaorrottai",
+    "author_channel_id": "UCH0uF6KeCGygTvvaMRoKPeA",
+    "text": "Fair, but if you were to line the length of a river with in-stream water wheels, you would cause no environmental damage, and the roads needed to service the generator houses would create better river access for people, it wouldn't disrupt the fish, in fact it would oxygenate the water for them and it wouldn't be dangerous for people and animals to be around.\n\nThere's far more energy to be collected along the length of the river than there could ever be at a hydro-station since a hydro-station can only ever collect power from a the head pressure at the station, but if the river is lined with water wheels, then you could extract energy from the head pressure of the entire river and it would be environmental and people friendly.\n\nHydro stations could be reserved for places where waterfalls already exist.",
+    "likes": 0,
+    "published_at": "2023-04-29T13:18:41Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyVFVZh4RYfRNZnXQZ4AaABAg",
+    "author": "@joohop",
+    "author_channel_id": "UCLFfattgPNyvFVelj259hog",
+    "text": "Nice One Cyril. ,",
+    "likes": 0,
+    "published_at": "2023-04-29T05:00:09Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgysT3fbE75J1ouTmCF4AaABAg",
+    "author": "@thetriads1969",
+    "author_channel_id": "UCZ4Qlx675UjLFTdFet9Hp7w",
+    "text": "im down a turbine rabbit hole and i love it!",
+    "likes": 0,
+    "published_at": "2023-02-16T10:54:14Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzYYfjqlv691DQW8wt4AaABAg",
+    "author": "@OwnTwoHands_",
+    "author_channel_id": "UCirPEBVo-3nZW28aKh_FL6Q",
+    "text": "Great explanation, thank you!",
+    "likes": 0,
+    "published_at": "2023-02-11T11:46:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw-U2rYjmSCQQ7YnQN4AaABAg",
+    "author": "@peterjackson2625",
+    "author_channel_id": "UC0MAuA0x2zSc-T88pFLUx0A",
+    "text": "In my student days I designed a a Pelton wheel for driving a dynamo.",
+    "likes": 0,
+    "published_at": "2023-01-19T20:09:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxSkWd7Qi5gYwVf6s54AaABAg",
+    "author": "@skampp",
+    "author_channel_id": "UCv_-s83LvXaO_PNZd0R0WHQ",
+    "text": "Thanks, this was immensely helpful!  I was all set to print a Pelton but thought I should consult here first.  I'm about to rename my \"phone\" to my \"Pocket Robert\".",
+    "likes": 0,
+    "published_at": "2022-12-14T22:17:54Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxS9Kc_CoV_Lue1W-t4AaABAg",
+    "author": "@paradiseisland69",
+    "author_channel_id": "UC4pUSsE0ApWfB2jn7HrF2EQ",
+    "text": "Tesla Turbine also exists.",
+    "likes": 0,
+    "published_at": "2022-11-19T02:09:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwLad8oIr6f86qV0sB4AaABAg",
+    "author": "@davesmith314",
+    "author_channel_id": "UCIwMraqYcG7VUUj9vGnWn5g",
+    "text": "Thanks!",
+    "likes": 0,
+    "published_at": "2022-10-30T15:28:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygZy36SFJKNpW16494AaABAg",
+    "author": "@victoryfirst2878",
+    "author_channel_id": "UCEA42l13uiXOq9ry4BPsklg",
+    "text": "Thanks for the education on turbines. Would  you say Robert that low ninety percent is the limit of retrieving energy from water turbine ??? Job well done my friend from across the big pond.",
+    "likes": 1,
+    "published_at": "2022-06-15T14:45:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxn8DfKclQfKrFBI414AaABAg",
+    "author": "@justinmartin8573",
+    "author_channel_id": "UCZqgxLQ2Ocu1-V7UMtv9A2A",
+    "text": "The way you speak so simply but intelligently is so good it makes me laugh haha love your stuff",
+    "likes": 1,
+    "published_at": "2022-06-05T01:04:42Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgygnIBI2B4j95U_2Hd4AaABAg",
+    "author": "@bobprince1472",
+    "author_channel_id": "UC1ZL-RqpU47SHHcSFuOwi4A",
+    "text": "If the water exiting a Turgo turbine still has mass and velocity could you use that energy? How about having a secondary turbine turning the opposite way? That way both the coils in a generator and the magnets move in opposite directions increasing their relative velocity. Slightly more complex electrically in that one side of the generator is normally static and you would need a commutator to take off power. Am I being hopelessly naïve?",
+    "likes": 0,
+    "published_at": "2022-04-11T16:35:52Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugx5NPl7yi0lCHLqW914AaABAg",
+    "author": "@oootoob",
+    "author_channel_id": "UCcG4ilVMYqER7L_iRvpvqCw",
+    "text": "Near where I live there is an archimedes screw turbine in use on a river designed for low head and I believe has better efficiency than an overshot wheel.",
+    "likes": 3,
+    "published_at": "2022-03-26T13:15:47Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxHBbU3ou9_Y3ox3Xd4AaABAg",
+    "author": "@johnbeattie9561",
+    "author_channel_id": "UCVTt9dFQVe7rZAZogfuX21A",
+    "text": "I'm running both Turgo and Pelton, I find the Pelton to be more noisy and had less power.The Turgo boosted my power by 200w and is very quiet to run. I find I get more power from less water with the Turgo. The water box for the Turgo was harder to build but not impossible and it's fun to do.\nPelton was much cheaper over the Turgo but money well spent in my view.",
+    "likes": 0,
+    "published_at": "2022-03-16T11:44:00Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxHBbU3ou9_Y3ox3Xd4AaABAg.9ZcyS7jNJKQ9ZtqJcYnzl0",
+        "author": "@deathcogunit106",
+        "author_channel_id": "UCIfM0eEo_AdTuJCtZZUKRxw",
+        "text": "Where did you buy the turgo wheel from? I can only find pelton wheels for sale.",
+        "likes": 0,
+        "published_at": "2022-03-23T01:00:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyhUFaoK8-UwgiAe0t4AaABAg",
+    "author": "@Spinningininfinity",
+    "author_channel_id": "UCAdVqI-6ruR_as6KcwEG5QA",
+    "text": "Never come Android this type of turbine, looks brilliant for a d.i.y of gross solution, so I'm looking forward to the build and experimentation.",
+    "likes": 0,
+    "published_at": "2022-03-15T10:25:38Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyBuOXrmK_7pKGraVV4AaABAg",
+    "author": "@justthinkalittle8913",
+    "author_channel_id": "UCm6xvsgmKJvQgQ057MB_g6w",
+    "text": "wait, is turgo responsible for the name of forced induction \"turbo\"? are we saying it wrong??",
+    "likes": 0,
+    "published_at": "2022-03-15T05:13:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyBuOXrmK_7pKGraVV4AaABAg.9Z_gyImvMva9Z_udcKLBqR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Turgo is the name of the guy who came up with it mate",
+        "likes": 1,
+        "published_at": "2022-03-15T07:13:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzacqJNLQzlWfAYNod4AaABAg",
+    "author": "@hoverhead047",
+    "author_channel_id": "UCa31xlQ-jOshRtpFUdXyiOQ",
+    "text": "Hi Robert, I enjoyed your explanation of these and today a link popped up on the FB feed about Snowy Hydro 2.0 a pumped hydro scheme.  Here I learned of another type of turbine a \"Kaplan turbine\".  Can you tell us about this?",
+    "likes": 0,
+    "published_at": "2022-03-15T04:40:31Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxg1abITu2TLZpGN114AaABAg",
+    "author": "@topspeed250k5",
+    "author_channel_id": "UCcuKCsW7TpKjLsLFQQvg1hQ",
+    "text": "I love how, in natural physics, power transmission is all analogous, and we can have a big, slow mechanism or a light, fast-moving mechanism to transfer the same power:\nWater: Low pressure, high volume water flow using large pipes (or a river!) and a big, slow water wheel VS high pressure, low volume requiring small hoses and a fast-spinning, light wheel.\nElectricity: Low voltage, high current requiring large diameter, heavy conductor VS high voltage, low current requiring finer wires.\nMechanical: Low rpm, high torque though a large-diameter shaft resulting in big heavy machinery VS high rpm, low torque power transmission which has smaller diameter fast-turning shafts giving much lighter machinery. Rob has gone into this with his explanations of slow (Victorian era) VS fast-turning machines e.g.generators.\nElectro-magnetic: low -frequency, high inductance AC power transfer requiring big, heavy transformer cores VS high -frequency, low inductance which only needs much lighter transformers. Hence the massive welders of the past are replaced by little caddy-packs that you can carry on a shoulder strap.\nSmall fast-revving motors with light flywheels VS slow, heavy thumpers. They don't sound as good, though😁 \nI got off-track but I'm just drawing the analogies that are common through all modes of power transmission. You can have slow & heavy or fast & light, giving the same net result.",
+    "likes": 0,
+    "published_at": "2022-03-14T23:49:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyEu4woVeuEkkgelyt4AaABAg",
+    "author": "@WayneCarolan",
+    "author_channel_id": "UCDP5T8sdTo0MaapQHb0A7nw",
+    "text": "Robert call me bonkers but what if we were to disregard the water altogether and only use compressed air. I understand compressed air would need to be harnessed but less mess and like water abundant.",
+    "likes": 0,
+    "published_at": "2022-03-14T15:42:04Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwTFvnvlxOclqfM9gZ4AaABAg",
+    "author": "@craigglewis",
+    "author_channel_id": "UCblgk4tVnSqVAjd1PvLSwtQ",
+    "text": "We are starting up the Printers. Make a few and test the best options for the Water Turbine. \n\nNow need to find a generator that has low torque, high rpm for a low, medium head. \n\nAs for Numbers what would the flowrate/pressure need to be for High head, or medium head?",
+    "likes": 0,
+    "published_at": "2022-03-14T14:29:35Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyHHuhHrEV8bUQRY094AaABAg",
+    "author": "@niklaslang5224",
+    "author_channel_id": "UC44pbjkkQ4hHTi3U7vfUAig",
+    "text": "Of course we like and subscribe! Keep your wonderful videos coming! 👍😀",
+    "likes": 0,
+    "published_at": "2022-03-14T10:45:56Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzvPA5Qg3sa6nxKwsl4AaABAg",
+    "author": "@spikeccx",
+    "author_channel_id": "UCARpQLlD0hL-hfWR_mk-x4g",
+    "text": "Necessity is the mother of invention \nGreat video again !!",
+    "likes": 0,
+    "published_at": "2022-03-14T09:06:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyxHxwcqq5l7zLUPcx4AaABAg",
+    "author": "@Twistedmetal-qe8kx",
+    "author_channel_id": "UCkSYIDkJte109QqAXq1XuLw",
+    "text": "This is such a great discussion on turbines.",
+    "likes": 0,
+    "published_at": "2022-03-14T05:32:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyxHxwcqq5l7zLUPcx4AaABAg.9ZY9MyopaGz9ZYKypC3kJZ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am glad you liked it - cheers mate",
+        "likes": 0,
+        "published_at": "2022-03-14T07:14:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZotJQVZ7e2NVtnil4AaABAg",
+    "author": "@Patriarchtech",
+    "author_channel_id": "UCEfwQCaVY78vPV49YhiAXsg",
+    "text": "Great video Rob. The relatively high head pressure on impulse turbines is needed because you are converting pressure into flow/velocity by forcing it through a nozzle. If a given volume of liquid has to pass through a narrow gap(nozzle) at the same pace as it would without the nozzle over  \"n\" time  - the liquid would need to speed up. It would not do so though without sufficient head(or backpressure).  A Turgo or Pelton runner actually relies on velocity/flow and are classified as impulse turbines primarily because they ( the runner in them)are not flooded completely which runners in reaction turbines like Kaplan and Francis turbines are(A Francis is a reactance turbine although because of the way the runner is shaped the discharge also harnesses impulse to some degree ) A Kaplan(Basically a ducted propeller sometimes used with a volute) which is considered very good for high flow and the Francis(always uses a volute to do roughly the same as the nozzle on an impulse turbine would do. Flow through a volute works in both directions though) which is probably the most widely used large scale turbine have the huge advantage over a an Impulse turbine in that they can be run in reverse and work as pumps. A water wheel is a general term in most shapes or forms they would be classified as impulse machines technically.",
+    "likes": 5,
+    "published_at": "2022-03-14T03:38:20Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgxZotJQVZ7e2NVtnil4AaABAg.9ZXxHFpv7To9ZYL7WbKVu0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thank you for adding that mate - loved it - cheers",
+        "likes": 3,
+        "published_at": "2022-03-14T07:15:27Z"
+      },
+      {
+        "id": "UgxZotJQVZ7e2NVtnil4AaABAg.9ZXxHFpv7To9ZvnrMeTUG7",
+        "author": "@ajayvee6677",
+        "author_channel_id": "UCyNJBqa-99LPRMeu_rcmkSg",
+        "text": "@ Anders Fomsgaard. Is it technically feasible to take the redirected jet from a Turgo runner and put it through another wheel on a separate axle to extract a second burst of energy?",
+        "likes": 0,
+        "published_at": "2022-03-23T19:17:01Z"
+      },
+      {
+        "id": "UgxZotJQVZ7e2NVtnil4AaABAg.9ZXxHFpv7To9ZwjN-WLsqp",
+        "author": "@Patriarchtech",
+        "author_channel_id": "UCEfwQCaVY78vPV49YhiAXsg",
+        "text": "@ajayvee6677 It certainly won't be in current designs of  impulse turbines especially Turgos and Peltons(Can't imagine how you can achieve this with these). The reason for this is the flow/ velocity(therefore energy) of the fluid/gas is ideally consumed/transferred completely to the runner once it hits the spoons/blades and is then dissipated(if it is not dissipated properly then the fluid will disrupt the turning motion due to backwash and turbulence.) \n\nFor example a well constructed Turgo turbine can be up to 88% efficient(maybe more) so there is only 12% potential performance gain up to a 100%. These 12% are toughest part to gain increases on though, and so it is not feasible IMO.\n\n People will typically add more nozzles to a Turgo/Pelton to increase performance if they have the pressure and water to do it. But that has nothing to do with increasing efficiency.\n\nYou could in theory also add more Turgo's to the SAME shaft, but you would only do that if you have problems with the discharge or can't add any more nozzles, then again if you have that problem it is likely your nozzle/runner/discharge is not designed properly for your setup. Again this will not increase efficiency \n\nHowever if you look at steam turbines and jet engines you could argue that they do what you suggest but these machines are way more complicated to make than your Pelton/Turgo and they work more like reaction turbines. This is because you have to put the blades/runners in a tube effectively to make them work, which means they will technically be flooded.(They won't work without the tube) They are in fact advanced turbomachinery which uses multiple stages of compressors and/or expanders, which is another interesting topic. (In addition they work with at least part compressible fluids like air, steam etc. Water is not significantly compressible at all. The name of the game with water is displacement if it is a reactionary setup and as such it cannot always be used as a comparable to the afore mentioned for this reason)   \n\nThe original Tesla Turbine with circular bore is a mixed turbine  -  both impulse and reaction it uses a nozzle to make the runner spin but the fluid is also trapped in a casing as it spirals inward towards its exhaust.  Its exhaust can indeed be used to drive a second stage also on different shafts. This device is mostly meant for steam or as what you might call a rotary piston in a pulse detonation setup(Similar to  -  but less complicated than a Wankel rotary engine and it does not have friction seals like the Wankel rotary or normal piston engines nor does it need a cam shaft). It is NOT well suited for water without modification in it's original design(I have thought of a couple of ways to do this - it is not done easily with or without CFD software and significant investment in development) If the medium is water you would be better of looking at Tesla's \"Fluid Propulsion\" patent from 1909 which is exclusively a reaction setup - This one uses a volute and and different rotor. Tesla made several versions of his turbines/compressors they can generally but not exclusively be categorized as turbo machinery. They are well suited for multi staging though.",
+        "likes": 2,
+        "published_at": "2022-03-24T03:57:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzNse0Vt-XA_rKmTSF4AaABAg",
+    "author": "@ThomasAndersonbsf",
+    "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+    "text": "sounds like using a ram jet pump to pump flowing water with low pressure up high into a tower and then use the power of its pressure to generate power from? (and maybe collect some of that power from the ram jet pumping action to generate electricity too probably LOL)",
+    "likes": 0,
+    "published_at": "2022-03-14T03:13:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzNse0Vt-XA_rKmTSF4AaABAg.9ZXuOuz51es9ZYLAqcC_6X",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "now that is interesting mate - nice thinking - cheers",
+        "likes": 1,
+        "published_at": "2022-03-14T07:15:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxXsMps2kPBUv9g7UJ4AaABAg",
+    "author": "@rayg436",
+    "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+    "text": "Great job Robert \nVery informative",
+    "likes": 0,
+    "published_at": "2022-03-14T02:27:17Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxXsMps2kPBUv9g7UJ4AaABAg.9ZXp8tMl4_u9ZYLBDUUu7i",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you enjoyed it",
+        "likes": 0,
+        "published_at": "2022-03-14T07:15:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx-URLS9frRQ31A2p54AaABAg",
+    "author": "@buffplums",
+    "author_channel_id": "UCTR4z3EXSBuLmMcnR3lpWnw",
+    "text": "This is brilliant Rob. Got me thinking about one of my other beefs with the lack of progress we see in this country. \n\nLet’s look at Flooding and in particular near me is the infamous River Severn. If we also look into the opposite and that is drought … you would think that a solution for both would be the building of pipelines or more simply and cheaply Canals were the primary use is to divert excessive flows of water that would normally off run into the main rivers but if we had a handful of primary canals or effectively artificial rivers built with tunnels at critical parts such as through high ground. The idea being is that there is a controllable flow of water that in times of risk of flooding could be used to route the flow via these water ways to the reservoirs that are drying out in the summer.\nTurbines could be installed to generate electricity too and if the mapping of the routes of the channels was down correctly so that the source will always be higher than the run off to the sea then even some of the reservoirs could be used as a battery (dependant upon their height above MSL) … there are so many lost opportunities to actuall create employment, energy and avoid flooding and drought…. The trouble is the nay sayers and lack of investors … why don’t people like Elon Musk invest in so,e thing like this…",
+    "likes": 2,
+    "published_at": "2022-03-14T02:01:22Z",
+    "reply_count": 4,
+    "replies": [
+      {
+        "id": "Ugx-URLS9frRQ31A2p54AaABAg.9ZXmB1sQ0-99ZXv3z25oIe",
+        "author": "@takyrdai2432",
+        "author_channel_id": "UCX0_tNfeH8Go_2WW45zoyxw",
+        "text": "The idea of money is the problem... If i can make more money by building new houses or constructing roads or cheap land grabs etc after the flood and i can sell you water and food shipped half way round the earth during drought, why would i want to fix that?",
+        "likes": 1,
+        "published_at": "2022-03-14T03:19:02Z"
+      },
+      {
+        "id": "Ugx-URLS9frRQ31A2p54AaABAg.9ZXmB1sQ0-99ZYLIMep32k",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I know - the solutions really are in front of us - we just seem to lack the will",
+        "likes": 3,
+        "published_at": "2022-03-14T07:16:56Z"
+      },
+      {
+        "id": "Ugx-URLS9frRQ31A2p54AaABAg.9ZXmB1sQ0-99ZYQNDBWo2f",
+        "author": "@buffplums",
+        "author_channel_id": "UCTR4z3EXSBuLmMcnR3lpWnw",
+        "text": "@ThinkingandTinkering yeah exactly guys… until that is of course and they run out of solutions and then the idea becomes profitable. Look at wind farms … at first the hay sayers said it was unfeasible and wouldn’t even generate a fraction of what was required but now it is a good partial solution, however we can do better and in time wind turbines won’t  primary source of renewable energy. \n\nIn desert areas … they can use giant reflectors to superheat steam to drive turbines… that could provide power for desalination to irrigate the desert regions and help to rejuvenate huge areas for food and re-forrestation capturing all the excess CO2 … so many ideas that no one wants to do but simply cost us the earth for simple individual greed. \n\nThis begs the question and comes back to what you are doing  Rob is, how can we as individuals play our part, those of us with curiosity and imagination and the desire to do good things with our brains? \n\nExcellent source for inspiration Rob, keep doing what you do Sir, it’s refreshing to know that there are intelligent humans still amongst us",
+        "likes": 1,
+        "published_at": "2022-03-14T08:01:17Z"
+      },
+      {
+        "id": "Ugx-URLS9frRQ31A2p54AaABAg.9ZXmB1sQ0-99ZvnBGgMnpT",
+        "author": "@ajayvee6677",
+        "author_channel_id": "UCyNJBqa-99LPRMeu_rcmkSg",
+        "text": "Quite agree, Chris. Here in Australia there was a brilliant engineer in the 1930s named Bradfield who was in charge of building the Sydney Harbour Bridge. He proposed a mega irrigation scheme to divert waters from some of the coastal rivers of eastern Australia (in which we often see serious flooding). The water would be diverted through the Great Dividing Range to the drought- prone inland areas in the huge catchment of the Murray River, vital to agriculture and inland towns like Mildura. The Bradfield Scheme has been ignored for decades by successive Australian Governments , (admittedly it would be costly and require cooperation between State governments) but the benefits in terms of flood mitigation, drought protection and water security for agriculture would be enormous. More recently, one of the minor political parties- the Citizens Party - is trying to revive Bradfield’s ideas.",
+        "likes": 0,
+        "published_at": "2022-03-23T19:11:08Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwfhA6ww48tFYbk6154AaABAg",
+    "author": "@mikaelfransson3658",
+    "author_channel_id": "UCQo1WsG4MKxTWKpce3BvzNw",
+    "text": "A spoon away from greatness? Can we make a \"Rob-ton\" water- fly- wheel? Cheap, easy to build and with high efficiency! That will be just Awesome!",
+    "likes": 3,
+    "published_at": "2022-03-14T01:48:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwfhA6ww48tFYbk6154AaABAg.9ZXkkAVQYW39ZYLM9mDhMd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - indeed mate",
+        "likes": 1,
+        "published_at": "2022-03-14T07:17:27Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzgZ5kWdFGgVoSWDqR4AaABAg",
+    "author": "@Charlie-Oooooo",
+    "author_channel_id": "UCZyNf7hKgLg6VDrFUXW8DRQ",
+    "text": "Robert, great high level discussion on types of turbines. I really like the way you break things down when explaining things. You're definitely the right person for teaching tech to people, and the Internet is a better place to learn because of folks like you! Cheers!",
+    "likes": 16,
+    "published_at": "2022-03-14T01:07:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzgZ5kWdFGgVoSWDqR4AaABAg.9ZXg23gR6KP9ZYLPdG-zg4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "wow - such appreciated mate thank you for taking the time to say that",
+        "likes": 3,
+        "published_at": "2022-03-14T07:17:55Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwg8BMEEY5I1vlhxg14AaABAg",
+    "author": "@dexterconnolly3696",
+    "author_channel_id": "UChxXZ62R5xdIrEkHSCNzi5w",
+    "text": "Hey rob hey luke...I've missed a few videos lately Damm you've been busy 1500 videos now congrats. Guess what I started on your graphene batterys about a year ago. I just built my 3rd tesla coil last night. Thanks rob I havnt stopped learning since I got on your awesome science buzz",
+    "likes": 0,
+    "published_at": "2022-03-14T00:13:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwg8BMEEY5I1vlhxg14AaABAg.9ZX_rnFoxmM9ZYLSCfA2s8",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that is just plain awesome to hear - thanks for taking the time to say that mate",
+        "likes": 0,
+        "published_at": "2022-03-14T07:18:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxV8u7dI7T_-CgP1Bp4AaABAg",
+    "author": "@MrTubeuser12",
+    "author_channel_id": "UCtwLM8VtMVhw_lkIJ-SEhLg",
+    "text": "so basically the Turgo is half way between the Pelton and a propeller.",
+    "likes": 0,
+    "published_at": "2022-03-14T00:04:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxV8u7dI7T_-CgP1Bp4AaABAg.9ZXZlJpngnZ9ZYLTKp5Fxl",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah basically",
+        "likes": 0,
+        "published_at": "2022-03-14T07:18:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgydpuzCpMw39obw2O14AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "Does the Turgo react the same with air pressure as opposed to water pressure?",
+    "likes": 0,
+    "published_at": "2022-03-13T23:37:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgydpuzCpMw39obw2O14AaABAg.9ZXWiQlaBRJ9ZYLX2sZHNt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "well air is a compressible fluid but apart from that and basically - yes",
+        "likes": 0,
+        "published_at": "2022-03-14T07:18:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwygCT5nGcegzzDFBh4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Very interesting, I can see how having the water exit out the back will be so much better",
+    "likes": 0,
+    "published_at": "2022-03-13T23:33:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwygCT5nGcegzzDFBh4AaABAg.9ZXWDxGUTpA9ZYLYJBNLZC",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I certainly got less wet lol",
+        "likes": 0,
+        "published_at": "2022-03-14T07:19:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxHXETwRnj-RagKkuF4AaABAg",
+    "author": "@MrBrelindm",
+    "author_channel_id": "UCLLBB4I9HsSl-I233XVqsXg",
+    "text": "It would be interesting to see what if any difference in torque output delivered from either Pelton or Turgo too!",
+    "likes": 0,
+    "published_at": "2022-03-13T23:17:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxHXETwRnj-RagKkuF4AaABAg.9ZXUPpdZZA-9ZYL_ZPMQu1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are quite a few studies on that mate - have a search on google scholar",
+        "likes": 0,
+        "published_at": "2022-03-14T07:19:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgykiiK0IRuZGh3S2BB4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Awesome! 👏",
+    "likes": 1,
+    "published_at": "2022-03-13T23:02:11Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgykiiK0IRuZGh3S2BB4AaABAg.9ZXSfkYBpDk9ZYLaU9DrN3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Thanks! 😄",
+        "likes": 0,
+        "published_at": "2022-03-14T07:19:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwpVrVGRKMcpdQnjrB4AaABAg",
+    "author": "@karlmyers6518",
+    "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+    "text": "I love this and feel I have a masterpiece in my head but not sure I have the time to build it. Unless I try I will not succeed.",
+    "likes": 0,
+    "published_at": "2022-03-13T22:49:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwpVrVGRKMcpdQnjrB4AaABAg.9ZXRESbm1S49ZYLbYJIkmA",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "spot on mate",
+        "likes": 0,
+        "published_at": "2022-03-14T07:19:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwbd7B93nNGHs56eit4AaABAg",
+    "author": "@markmetzger5430",
+    "author_channel_id": "UCOVBFz--HiK9bVn9wShiBcA",
+    "text": "Very interesting Rob, great stuff. Aside from the difficulty for DIY, my first thought is what the relative efficiency of the Tesla turbine is and what are its best requirements as far as head and volume 🤔 Cheers Mate",
+    "likes": 2,
+    "published_at": "2022-03-13T21:55:24Z",
+    "reply_count": 8,
+    "replies": [
+      {
+        "id": "Ugwbd7B93nNGHs56eit4AaABAg.9ZXL1YiNk1g9ZXTs9xGbV8",
+        "author": "@craigslitzer4857",
+        "author_channel_id": "UCGUZgGDICPnomou0DrTwy9A",
+        "text": "I don't know the maths involved, but a Tesla turbine operating at peak is more or less a High pressure high speed turbine. It's akin to the first stage of modern multi-stage multi-pressure turbine systems. I'm being rather vague here as it's been many years since I studied this topic.",
+        "likes": 1,
+        "published_at": "2022-03-13T23:12:37Z"
+      },
+      {
+        "id": "Ugwbd7B93nNGHs56eit4AaABAg.9ZXL1YiNk1g9ZYM0AsOf57",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have heard anything from 20% to 95% mate with around 60% for gas turbines as the most often quoted - there seems to be a lot of misinformation around Tesla turbines that's the problem - which makes it hard to tell",
+        "likes": 1,
+        "published_at": "2022-03-14T07:23:11Z"
+      },
+      {
+        "id": "Ugwbd7B93nNGHs56eit4AaABAg.9ZXL1YiNk1g9ZZVqoEBN4s",
+        "author": "@markmetzger5430",
+        "author_channel_id": "UCOVBFz--HiK9bVn9wShiBcA",
+        "text": "@craigslitzer4857 Thanks craig, it all seems a bit un-doable for the average bodger :)",
+        "likes": 1,
+        "published_at": "2022-03-14T18:08:24Z"
+      },
+      {
+        "id": "Ugwbd7B93nNGHs56eit4AaABAg.9ZXL1YiNk1g9ZZW9ul1EmP",
+        "author": "@markmetzger5430",
+        "author_channel_id": "UCOVBFz--HiK9bVn9wShiBcA",
+        "text": "@ThinkingandTinkering Being as how the Turgo can be up to 93 % efficient and the average Muggle in his shed can bodge one of these together with spoons, the Tesla turbine seems out of reach. Thanks Rob!",
+        "likes": 0,
+        "published_at": "2022-03-14T18:11:08Z"
+      },
+      {
+        "id": "Ugwbd7B93nNGHs56eit4AaABAg.9ZXL1YiNk1g9ZZXwEDS0oO",
+        "author": "@craigslitzer4857",
+        "author_channel_id": "UCGUZgGDICPnomou0DrTwy9A",
+        "text": "@markmetzger5430 most of the functional models I've seen on the internet use shop air (50 - 100 psi) and are constructed from old music CD's and an acrylic case. Off the top of my head the fanciest working prototype I've seen was from a YouTube channel called Mr. Teslonian, if you wanted to have a closer look.",
+        "likes": 1,
+        "published_at": "2022-03-14T18:26:37Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwG4yzTktRrix0_nCt4AaABAg",
+    "author": "@oknemohcrapalain8035",
+    "author_channel_id": "UCSN7X7yU8Qw5bAn5yC2r-9Q",
+    "text": "Very well explained.\nThank you.",
+    "likes": 5,
+    "published_at": "2022-03-13T21:33:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwG4yzTktRrix0_nCt4AaABAg.9ZXI_gn5EZT9ZYM13XMsr-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad it was helpful!",
+        "likes": 0,
+        "published_at": "2022-03-14T07:23:18Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwH_thlTyixtpajF9F4AaABAg",
+    "author": "@skreenname229",
+    "author_channel_id": "UCZA5CMuKCtE7KrqeB_RwLtA",
+    "text": "Reminds me of Viktor Grebennikov's work with beetles...",
+    "likes": 1,
+    "published_at": "2022-03-13T21:27:05Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwH_thlTyixtpajF9F4AaABAg.9ZXHnCSV9Wl9ZYM2BsX6b_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "ok",
+        "likes": 1,
+        "published_at": "2022-03-14T07:23:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzCVGSiYbwIx0f6Dj14AaABAg",
+    "author": "@jonkinzel6241",
+    "author_channel_id": "UCwTuKACDLY6Kvyv6j4Sf27Q",
+    "text": "Thanks for being a constant inspiration and A Wealth of tremendous knowledge 👏keep on keeping on  mate",
+    "likes": 1,
+    "published_at": "2022-03-13T21:14:19Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgzCVGSiYbwIx0f6Dj14AaABAg.9ZXGKgf6Yhi9ZYM4Sng-sR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I am glad you enjoyed it mate and I hope it was helpful",
+        "likes": 0,
+        "published_at": "2022-03-14T07:23:46Z"
+      },
+      {
+        "id": "UgzCVGSiYbwIx0f6Dj14AaABAg.9ZXGKgf6Yhi9ZYVO5b0zSs",
+        "author": "@jonkinzel6241",
+        "author_channel_id": "UCwTuKACDLY6Kvyv6j4Sf27Q",
+        "text": "@ThinkingandTinkering I was wondering if you could help me with something I got solid blocks of graphite I would like to use them As electrodes for hydrogen production what would be the best Way to do this ?should I slice them into plates or is there someway I can impregnate some clay or something  with the powder to increase the surface area ?",
+        "likes": 0,
+        "published_at": "2022-03-14T08:45:06Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx7ZEd0nTMcfcJGHu54AaABAg",
+    "author": "@allenshepard7992",
+    "author_channel_id": "UCgqTrkYqGZqjf38P23otOKA",
+    "text": "Hi. Since the water on a Turgo turbine is at an angle, will that give a twisting motion to the wheel and shaft. An unbalanced torque to the wheel ?  \nThat Turgo should be fed or sprayed from two sides to balance the force on it ? \nthanks, Please keep making these videos. I'm glad you have not run out of things to experiment with.",
+    "likes": 4,
+    "published_at": "2022-03-13T21:09:16Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugx7ZEd0nTMcfcJGHu54AaABAg.9ZXFkeZXkS59ZXpWeLRcP9",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "You can use 2 jets at 180 degrees to balance the pressure on the bearing",
+        "likes": 3,
+        "published_at": "2022-03-14T02:30:31Z"
+      },
+      {
+        "id": "Ugx7ZEd0nTMcfcJGHu54AaABAg.9ZXFkeZXkS59ZYM9HaPM5Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are spot on mate - you often see them with two to four jets for just that reason",
+        "likes": 1,
+        "published_at": "2022-03-14T07:24:26Z"
+      },
+      {
+        "id": "Ugx7ZEd0nTMcfcJGHu54AaABAg.9ZXFkeZXkS59ZZqNd-R8vr",
+        "author": "@allenshepard7992",
+        "author_channel_id": "UCgqTrkYqGZqjf38P23otOKA",
+        "text": "@ThinkingandTinkering Thank you. Good to know I'm starting to see issues *before* building somethings.",
+        "likes": 0,
+        "published_at": "2022-03-14T21:16:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzWlnscA5AIfJ0UKT14AaABAg",
+    "author": "@denisstump5874",
+    "author_channel_id": "UCl0f5BhjtFTjw9Wa-ydKfZw",
+    "text": "That was a helping full as far as the spoons were concerned LOL thanks",
+    "likes": 1,
+    "published_at": "2022-03-13T21:07:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzWlnscA5AIfJ0UKT14AaABAg.9ZXFaM7CxRc9ZYMB6KIJnV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cool - cheers mate",
+        "likes": 0,
+        "published_at": "2022-03-14T07:24:41Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwO4v6V2iw8ikmPlVJ4AaABAg",
+    "author": "@Route72Trucks",
+    "author_channel_id": "UCHpUqMp3N1AxZYDbw2pmkRg",
+    "text": "Awesome as always!  Hooked on TNT",
+    "likes": 1,
+    "published_at": "2022-03-13T21:03:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwO4v6V2iw8ikmPlVJ4AaABAg.9ZXF2JR56Qe9ZYMCPIB759",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome mate lol",
+        "likes": 0,
+        "published_at": "2022-03-14T07:24:51Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwymxNyRe8RoIZ9JWh4AaABAg",
+    "author": "@bohabdestructo7489",
+    "author_channel_id": "UCNIxHpDF7-eBqeCtF-kCOSw",
+    "text": "There's a different way to turn a generator with fluid.  Wobble plate. It is a flat disk that is mounted on an angle inside of a short cylinder.  There is two openings, one pressurized the other open exost. The edge of the wobble plate opens and closes the ports as it wobbles one side then the other. Each side of the plate would be considered as a power adder. Think of it as a two stroke two cylinder engine that runs on outside pressure.",
+    "likes": 2,
+    "published_at": "2022-03-13T20:59:39Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwymxNyRe8RoIZ9JWh4AaABAg.9ZXEeIoFqfa9ZXF6tNqb-2",
+        "author": "@bohabdestructo7489",
+        "author_channel_id": "UCNIxHpDF7-eBqeCtF-kCOSw",
+        "text": "It is used in water meters because it also works as a measuring device.  The displacement per revolution is almost always linear, cavitation is the only reason why it could be off as a measuring device.",
+        "likes": 0,
+        "published_at": "2022-03-13T21:03:42Z"
+      },
+      {
+        "id": "UgwymxNyRe8RoIZ9JWh4AaABAg.9ZXEeIoFqfa9ZYMIWZmy5o",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you often see wobble. plates in pumps - most pressure washers have them",
+        "likes": 0,
+        "published_at": "2022-03-14T07:25:41Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx8zHQXf34N1JIVC5R4AaABAg",
+    "author": "@Nuts-Bolts",
+    "author_channel_id": "UCAceNs7SDg2wtp2K1LT1QDg",
+    "text": "A truly Alter Turgine Spoonerizm if ever I’ve saw one.",
+    "likes": 2,
+    "published_at": "2022-03-13T20:47:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx8zHQXf34N1JIVC5R4AaABAg.9ZXDIsr3KCF9ZYMJzTqQ_h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2022-03-14T07:25:53Z"
+      }
+    ]
+  },
+  {
+    "id": "UgycSSQCXyh3k43ZOIV4AaABAg",
+    "author": "@NickSklias",
+    "author_channel_id": "UCnhGePXZVRwIpQg3WZLPjTQ",
+    "text": "Great video! Turbines are so interesting",
+    "likes": 1,
+    "published_at": "2022-03-13T20:42:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgycSSQCXyh3k43ZOIV4AaABAg.9ZXCiDtZ7249ZYMKbbFqwS",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "agreed",
+        "likes": 0,
+        "published_at": "2022-03-14T07:25:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwSATNHu43WrKS85rh4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "👍🙏👍",
+    "likes": 1,
+    "published_at": "2022-03-13T20:41:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwSATNHu43WrKS85rh4AaABAg.9ZXCbJi31i69ZYMM9ZbMNV",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-03-14T07:26:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwqaL0wHmf7bE9tYN54AaABAg",
+    "author": "@jaredmcneill2217",
+    "author_channel_id": "UC7U3AzDkbVHBXraDmHYilVA",
+    "text": "Hey brother. Just found your channel and find it incredibly interesting. Unfortunately, i dont understand a lot of the fundamental terms and ideas behind energy generation. Any books/resources you might reccomend for a historical/fundamental understanding of energy creation?",
+    "likes": 4,
+    "published_at": "2022-03-13T20:40:27Z",
+    "reply_count": 10,
+    "replies": [
+      {
+        "id": "UgwqaL0wHmf7bE9tYN54AaABAg.9ZXCSe2u0wV9ZXFXmBcCVY",
+        "author": "@OwnGrid",
+        "author_channel_id": "UCArPy8_TRIzdnAAJ1vQAsmg",
+        "text": "Yes the book called energy cannot be created the first law of energy",
+        "likes": 0,
+        "published_at": "2022-03-13T21:07:22Z"
+      },
+      {
+        "id": "UgwqaL0wHmf7bE9tYN54AaABAg.9ZXCSe2u0wV9ZXJuAtmepH",
+        "author": "@David_Mash",
+        "author_channel_id": "UC6wheNORAmFmkPA_fx7J6Pw",
+        "text": "Just watch earlier videos of his, been watching for a year. Great content!",
+        "likes": 0,
+        "published_at": "2022-03-13T21:45:31Z"
+      },
+      {
+        "id": "UgwqaL0wHmf7bE9tYN54AaABAg.9ZXCSe2u0wV9ZXPRBS30Ob",
+        "author": "@jaredmcneill2217",
+        "author_channel_id": "UC7U3AzDkbVHBXraDmHYilVA",
+        "text": "@David_Mash Yeah, im enjoying watching them. I just don't know where to start. There are so many videos and i dont believe they are categorized in a way optimized for a complete ignorant fool such as myself.",
+        "likes": 0,
+        "published_at": "2022-03-13T22:33:51Z"
+      },
+      {
+        "id": "UgwqaL0wHmf7bE9tYN54AaABAg.9ZXCSe2u0wV9ZXQAPedMeg",
+        "author": "@karlmyers6518",
+        "author_channel_id": "UCL3X90nvRxrkIs1ICnJsqRQ",
+        "text": "Welcome to the club.",
+        "likes": 1,
+        "published_at": "2022-03-13T22:40:18Z"
+      },
+      {
+        "id": "UgwqaL0wHmf7bE9tYN54AaABAg.9ZXCSe2u0wV9ZXVhzaGwK3",
+        "author": "@stl7694",
+        "author_channel_id": "UC9ylXA-56d334disXKHs9sQ",
+        "text": "@jaredmcneill2217 They aren't exactly optimized for anyone.  Robert is a bit of a mad scientist and his interests kind of ebb and flow across various ideas.  I suggest just watching whatever seems interesting and if you like an idea put in some research time.  I tend to use RMS as brain food.",
+        "likes": 0,
+        "published_at": "2022-03-13T23:28:42Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyUup_4S-FvWGd637B4AaABAg",
+    "author": "@dremaboy777",
+    "author_channel_id": "UC2VxoGSkI6GxXruAygeM2Wg",
+    "text": "Good",
+    "likes": 2,
+    "published_at": "2022-03-13T20:39:07Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyUup_4S-FvWGd637B4AaABAg.9ZXCIo1VBcN9ZYOu-G1ty0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-03-14T07:48:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz9vEDlOQVsGQTJ7wd4AaABAg",
+    "author": "@rawandrealserendipity",
+    "author_channel_id": "UCzGny7CvccLbjuJuml0D0Tg",
+    "text": "Don’t you ever sleep Rob? 😲",
+    "likes": 2,
+    "published_at": "2022-03-13T20:25:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz9vEDlOQVsGQTJ7wd4AaABAg.9ZXAjOxSDC39ZXBRlLLzn5",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "once a month if i need to or not lol",
+        "likes": 2,
+        "published_at": "2022-03-13T20:31:35Z"
+      }
+    ]
+  }
+]

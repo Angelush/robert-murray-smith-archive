@@ -1,0 +1,191 @@
+[00:00] [Music]
+[00:08] so spirals are absolutely fascinating
+[00:11] things and you find them all over the
+[00:13] place I mean a Tesla's coil is a spiral
+[00:16] of course a snail shell is a spiral
+[00:18] they're different forms of spiral but
+[00:20] their spirals nonetheless they have of
+[00:23] course been turned into gears and you
+[00:25] find Spiral gears in things like car
+[00:27] jacks table lifts that sort of thing so
+[00:31] they are interesting to look at they are
+[00:33] interesting as a gear application and
+[00:35] the issue with them is drawing them I
+[00:39] could of course just get a drawing
+[00:40] package that has that ability to draw a
+[00:42] spiral but to my mind that's cheating a
+[00:45] little bit I often think that you should
+[00:47] try to use a tool to its fullest extent
+[00:50] and so what we're going to do is draw a
+[00:52] spiral gear in Tinker cab now trying to
+[00:57] do something like that means you have to
+[00:58] think a little bit more more deeply
+[01:00] about it so Tiner cat for instance deals
+[01:03] with things as a cartisian coordinate
+[01:06] that is a distance x a distance y a
+[01:08] distance Zed and if I want to get to a
+[01:10] point I take so many steps in the X so
+[01:13] many in the Y so many in The Zed and I'm
+[01:15] at a point in space and that's the
+[01:18] basics of the system of Tinker C but
+[01:21] there is another one there's one called
+[01:22] polar coordinates polar coordinates are
+[01:25] a distance along an axis and then an
+[01:27] angle that you turn through
+[01:30] something like an Archimedes spiral is
+[01:33] defined by the distance of the arms of
+[01:36] rotation in the spiral are all the same
+[01:39] so it would be much easier if we could
+[01:42] do this in polar coordinates rather than
+[01:44] cartisian coordinates and we can trick a
+[01:47] simple program like tinkercad into
+[01:49] working in polar coordinates because in
+[01:52] cartisian coordinates if you wanted
+[01:54] design the parametric spiral well the
+[01:57] equation's actually pretty tough in
+[02:00] polar coordinates it's really
+[02:02] straightforward R is the radius of
+[02:05] rotation B is some constant value which
+[02:07] is the distance between the arms and
+[02:09] feet is the angle of rotation it's
+[02:11] really a straightforward thing to look
+[02:14] at so that we could implement it now if
+[02:17] you want something continuous you can't
+[02:20] use a computer to do it because a
+[02:22] computer uses Little Steps it takes a
+[02:25] little step in the X a little step in
+[02:27] the Y anything that looks like a Circle
+[02:30] in a computer is just an approximation
+[02:32] to a circle if you increase the number
+[02:34] of sides it looks more like a circle now
+[02:37] when it comes to printing something out
+[02:38] or using something that approximation
+[02:40] can be very very good particularly if
+[02:42] you make thousands of steps in fact
+[02:45] that's the idea behind differentiation
+[02:48] differentiation is all about taking
+[02:51] little District steps and that's what a
+[02:53] computer is about so we need to make
+[02:56] steps that are tiny enough so that when
+[02:58] we print them we don't notice them and
+[03:01] we need to trick Tinker CAD into
+[03:04] thinking it's using polar coordinates
+[03:06] when it is in fact using cartisian
+[03:08] coordinates and this is how we do it we
+[03:11] are of course in code blocks if you've
+[03:14] not looked at code blocks before you
+[03:15] should have a look at it because it's a
+[03:17] really great way of extending what you
+[03:19] can do with Tinker CAD in a relatively
+[03:21] easy way and the first thing we need to
+[03:24] do is create a new object and I've
+[03:26] called this object tooth now anything I
+[03:28] put under that create new object is
+[03:31] going to be able to be repeatable by
+[03:33] calling on tooth and it just saves you
+[03:35] an awful lot of time of rewriting and
+[03:37] rewriting code so in our new object what
+[03:40] we want is a tooth now there is a
+[03:42] limitation in Tinker cat in that you can
+[03:45] only pull down the shapes that are
+[03:47] available on the left hand side you
+[03:49] can't use a defer shape like a shape of
+[03:51] a tooth I've heard that's coming when it
+[03:54] does it's going to be really useful but
+[03:56] what we're going to do is create a box
+[03:59] and in the Box we've made it a tiny
+[04:01] tooth shape and we've changed Edge to
+[04:03] one so that we can get a rounded Edge on
+[04:06] it and as an approximation that's going
+[04:08] to be fine for what we want to do now we
+[04:11] want to create the main object which is
+[04:13] going to be the thing that actually
+[04:14] draws the spiral and in that spiral we
+[04:18] want to repeat a whole load of times now
+[04:20] I'm repeating it 180 times because
+[04:23] Tinker c will only allow you to do 300
+[04:25] objects and 180 Little Steps at the size
+[04:28] what you're going to do is is going to
+[04:30] approximate a smooth curve good enough
+[04:32] for printing in there what I want to do
+[04:36] is set where I'm going to rotate around
+[04:40] now I'm going to rotate it around the Z
+[04:42] AIS so it'll move on the plane of X and
+[04:44] Y the angle is the angle of rotation
+[04:48] because remember we're trying to fool
+[04:50] this into thinking that it's actually
+[04:52] using polar coordinates and it's going
+[04:54] to take the origin 0 0 0 as the point at
+[04:58] which it rotates so anything that I put
+[05:00] there if it's away from the origin is
+[05:03] going to rotate around the origin which
+[05:06] is exactly what we
+[05:09] want now whenever I Ted it around the
+[05:12] origin what I want to do obviously is
+[05:14] move it and I want to move it by a
+[05:16] radius that changes so that when I copy
+[05:19] this and move it it will move the little
+[05:23] block that I've done the
+[05:25] tooth a certain number of steps and a
+[05:27] certain number of degrees putting in the
+[05:30] position I want to put it
+[05:31] in angle obviously I want to change now
+[05:35] I want this to go a full circle so I'm
+[05:38] going to change angle by 2° every time
+[05:41] it goes through this Loop so it's going
+[05:43] to eventually go 360° all the way around
+[05:47] equally I want to change the radius
+[05:49] because I want it to step out from there
+[05:53] and I wanted to step out by 04 because
+[05:56] remember that little value that we
+[05:58] called B if I I do 04 180 times it's
+[06:02] about 7 mm so it'll step out 7 mm as it
+[06:07] draws that spiral for me now what I want
+[06:11] to do is call on tooth that object tooth
+[06:15] will be placed on there
+[06:17] moved by the angle and the radius to be
+[06:22] the position that I wanted to be in when
+[06:25] I've done that I want to add a little
+[06:27] circle at the bottom because the spiral
+[06:30] that I draw will not be circular and I
+[06:33] want to find the center in order to use
+[06:35] it as a
+[06:37] gear
+[06:39] finally Tinker Cat puts everything
+[06:42] midpoint between the plane and I want
+[06:44] that Circle to be the bottom of the
+[06:46] Spiral so I need to move it once I've
+[06:49] done all of that we're actually ready to
+[06:51] go we can run the step and watch see how
+[06:54] this draws that spiral for us
+[07:04] now it's done that we can export it as
+[07:06] an STL and then we can repport it into
+[07:09] the normal Tinker CAD space as an
+[07:11] archimedian spiral so there's my
+[07:13] reimported spiral and I've quickly drawn
+[07:16] a frame and a spur gear now let's print
+[07:18] those out and see what happens now the
+[07:21] assembly is pretty straightforward glue
+[07:23] the upright into the notch slide on the
+[07:26] spiral gear and then slide on the spur
+[07:28] gear if I try to turn that spur gear
+[07:31] it's locked it won't move if I turn the
+[07:34] spiral gear of course it moves the spur
+[07:36] gear and it moves it really quite slowly
+[07:40] this is in effect one tooth in a spiral
+[07:44] this has got 18 teeth so it's an 18:1
+[07:47] ratio which means you get a huge
+[07:48] decrease in speed but equally you get a
+[07:51] huge increase in torque and it's
+[07:55] self-locking because that won't move
+[07:57] once that's in position which is why
+[07:59] it's used for things like car jacks and
+[08:01] table
+[08:02] lifts so there we go how to do a spiral
+[08:05] gear and Tinker CAD with code blocks now
+[08:08] I think the gear is pretty fascinating
+[08:10] and I'm going to have to have a think
+[08:11] about what else we can do with it but I
+[08:14] hope the video was helpful I hope you
+[08:16] enjoyed it and thank you very much for
+[08:18] watching

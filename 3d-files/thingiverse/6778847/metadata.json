@@ -1,0 +1,77 @@
+{
+  "thing_id": 6778847,
+  "name": "Cycloid Gear Laser Cut",
+  "description": "This can be 3d printed but it is meant for laser cutting from 5mm acrylic. Export the files as SVG for laseror PNG for wood cutting templates.\r\nYou can find a video about this here: https://youtu.be/3nMA7zRw65E",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "3nMA7zRw65E",
+      "url": "https://youtu.be/3nMA7zRw65E"
+    }
+  ],
+  "tags": [
+    "laser",
+    "lasercut",
+    "laser cutter"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-09-26T12:01:52+00:00",
+  "modified": "2024-09-26T12:01:52+00:00",
+  "url": "https://www.thingiverse.com/thing:6778847",
+  "thumbnail": "https://cdn.thingiverse.com/assets/2b/a9/d9/4f/70/large_display_Screenshot_from_2024-09-26_12-47-49.png",
+  "like_count": 9,
+  "collect_count": 3,
+  "comment_count": 2,
+  "download_count": 74,
+  "files": [
+    {
+      "name": "Eccentric_Cam.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14779695",
+      "download_url": "https://api.thingiverse.com/v2/files/14779695/download"
+    },
+    {
+      "name": "Input_Gearr.stl",
+      "size": 476384,
+      "url": "https://www.thingiverse.com/download:14779696",
+      "download_url": "https://api.thingiverse.com/v2/files/14779696/download"
+    },
+    {
+      "name": "main_disk.stl",
+      "size": 134684,
+      "url": "https://www.thingiverse.com/download:14779697",
+      "download_url": "https://api.thingiverse.com/v2/files/14779697/download"
+    },
+    {
+      "name": "Output_Disk.stl",
+      "size": 776684,
+      "url": "https://www.thingiverse.com/download:14779698",
+      "download_url": "https://api.thingiverse.com/v2/files/14779698/download"
+    },
+    {
+      "name": "Output_Peg_x_6.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14779699",
+      "download_url": "https://api.thingiverse.com/v2/files/14779699/download"
+    },
+    {
+      "name": "Peg_x_12.stl",
+      "size": 12684,
+      "url": "https://www.thingiverse.com/download:14779700",
+      "download_url": "https://api.thingiverse.com/v2/files/14779700/download"
+    },
+    {
+      "name": "Sapcer_x_2.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14779701",
+      "download_url": "https://api.thingiverse.com/v2/files/14779701/download"
+    },
+    {
+      "name": "Wobble_Disk.stl",
+      "size": 180484,
+      "url": "https://www.thingiverse.com/download:14779702",
+      "download_url": "https://api.thingiverse.com/v2/files/14779702/download"
+    }
+  ]
+}

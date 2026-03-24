@@ -1,0 +1,328 @@
+[00:02] [Music]
+[00:16] hi
+[00:16] so i thought i'd talk a little bit about
+[00:18] charge controllers actually
+[00:20] now charge controllers seem to be
+[00:23] immensely complicated and i guess
+[00:25] they are when you sort of get that black
+[00:27] box and have a look at it and you start
+[00:29] pondering what you can do with it
+[00:31] it's quite complicated and it's like a
+[00:32] computer you think about a computer
+[00:35] it's a complicated piece of equipment
+[00:37] but at the very basics of it of course
+[00:39] it's actually really simple
+[00:41] all a computer is doing is turning a
+[00:43] switch off and on
+[00:44] it's just a lot of them and because
+[00:46] there's so many of them it gets quite
+[00:47] complicated
+[00:48] to look at it from the outside in now it
+[00:51] helps me
+[00:52] when i'm trying to understand something
+[00:54] to make comparisons between things to
+[00:57] give me links between things so that i
+[00:59] can see where they came from
+[01:01] and also to have a bit of a look at the
+[01:02] history of things so i can see how it
+[01:04] developed
+[01:05] when i look at their thing in that way
+[01:07] then it helps me understand the
+[01:09] mysterious black box in front of me that
+[01:12] really is a a huge book to read through
+[01:15] to even learn
+[01:16] how to turn it on so that's what i
+[01:18] thought i'd do i thought to have a look
+[01:19] at some of the
+[01:20] basics of charge controllers where they
+[01:22] began and how they've developed and then
+[01:24] come up to charge controllers that we're
+[01:27] currently looking at
+[01:28] so i've got a couple of bits of
+[01:29] equipment here and we're going to have a
+[01:31] close-up of it
+[01:32] so what i've got here is a solenoid it's
+[01:34] a coil of wire i'm going to put a
+[01:35] current down that creates a magnetic
+[01:37] field and in the center there is a steel
+[01:39] rod that'll get magnetized
+[01:40] and it'll be pulled into the center of
+[01:42] the solenoid but this one i've attached
+[01:43] to a rubber band so
+[01:45] it is a solenoid on a spring and if i
+[01:47] put some power in there
+[01:49] it jumps forward take the power off it
+[01:51] springs back
+[01:53] now that might not seem mind-boggling to
+[01:56] you
+[01:57] it is to me because that is the basics
+[02:01] of the very first
+[02:02] charge controllers they're
+[02:03] electromechanical charge controllers
+[02:05] now this one in just the solenoid moves
+[02:08] backwards and forwards
+[02:09] but if i put a switch here and attach
+[02:11] the power
+[02:12] to the switch when the solenoid moves
+[02:15] forward
+[02:16] it will turn the power off as the power
+[02:18] goes off it springs back
+[02:20] which turns the power back on so if you
+[02:22] like
+[02:23] that's a way of sensing the power input
+[02:26] and making sure that the spring setting
+[02:30] won't go further than a previous voltage
+[02:33] now that's exactly what i've set up here
+[02:42] so all we've got here is a solenoid
+[02:46] it's in a different arrangement there's
+[02:47] a circular coil here the solenoid is a
+[02:49] straight bar
+[02:50] there's a couple of magnets so when i
+[02:52] turn the power on
+[02:53] it will be pulled towards the magnet and
+[02:56] here i've got a couple of bits of metal
+[02:58] that intersect
+[02:59] the power so as that pulls across the
+[03:02] power will get turned off
+[03:03] and then it'll go back it will
+[03:05] self-oscillate
+[03:06] it will self-oscillate at a certain rate
+[03:09] if i just left it by itself then it
+[03:11] would arc
+[03:12] and go through a process called hunting
+[03:14] so what you do is across the coil
+[03:16] put a capacitor the capacitor gets
+[03:19] charged
+[03:20] it feeds it when it breaks the capacitor
+[03:23] needs to discharge a little bit
+[03:25] so it can stay broken and then it will
+[03:28] come back so it prevents that hunting
+[03:30] that we saw before so let me set that up
+[03:33] okay it's connected to the power supply
+[03:34] and if i turn the power up
+[03:38] we can see it flickering backwards and
+[03:40] forwards shutting off
+[03:41] now that's set at five volts so it
+[03:44] doesn't matter now
+[03:45] what voltage i put in there at 5 volts
+[03:48] that will turn off so whatever the input
+[03:50] is
+[03:51] the output is going to always be 5 volts
+[03:55] now i can change that by changing spring
+[03:57] tension changing the position of the
+[03:58] magnets all that sort of stuff
+[04:00] but five volts is all that the output
+[04:03] will be from that particular
+[04:05] electromechanical device
+[04:09] so i actually think that's simple but
+[04:12] really cool
+[04:12] because that stupid little
+[04:14] electro-mechanical device there the coil
+[04:16] and the solenoid
+[04:17] what it does is it regulates the voltage
+[04:20] doesn't matter what voltage i put in
+[04:22] there
+[04:22] the only voltage i can get out is set by
+[04:24] the spring tension and in this one it's
+[04:26] 5 volts
+[04:27] so that voltage will now never go above
+[04:31] and in fact this kind of voltage
+[04:33] regulator here
+[04:35] is what was used for a long time
+[04:39] prior to creation of solid state
+[04:42] it was this kind of stuff now these
+[04:44] things actually still have used today
+[04:46] for very high voltages
+[04:48] of course they get more complicated and
+[04:49] of course we could use this particular
+[04:51] version actually
+[04:53] because we have a sweeping arm we could
+[04:55] sweep a series of contacts
+[04:57] and we could get different voltages out
+[04:58] of it and that's exactly what happens
+[05:00] when you do this
+[05:01] but have a rotary arm so you can get a
+[05:03] rotation of step voltages
+[05:06] using something like that so that not
+[05:08] only is a voltage regulator
+[05:10] it can be a variable voltage regulator
+[05:13] just as easily
+[05:14] now for me that's actually very cool now
+[05:17] why go about voltage regulation
+[05:19] because like i say voltage regulation
+[05:21] for me is the very basics of what charge
+[05:23] controllers are all about
+[05:25] charge controllers are all about making
+[05:27] sure that you don't put too much voltage
+[05:30] into your battery
+[05:31] now this is set at five volts because of
+[05:33] the spring tension let's say i wanted to
+[05:35] charge a lead acid battery i'm going to
+[05:36] do 14 volts
+[05:38] well i could change the spring tension
+[05:39] so that it had 14 volts
+[05:41] and all of a sudden i've got a battery
+[05:44] charger with
+[05:44] charge control now i'm not suggesting
+[05:46] people make something like this what i'm
+[05:48] saying is that
+[05:49] this is doing a physical job in a way
+[05:53] that we can see
+[05:55] the switch if you like on the end of
+[05:57] here is
+[05:58] being turned off this if you like is
+[06:01] sensing the voltage and making sure that
+[06:04] the voltage is held at a constant
+[06:06] so this performs those functions of
+[06:08] sensing
+[06:09] and turning off the voltage supply that
+[06:12] a simple battery charger actually does
+[06:14] only that simple battery charger does it
+[06:16] with some electronics
+[06:17] and this one is just doing it
+[06:19] mechanically but it's doing
+[06:21] exactly the same thing now because any
+[06:23] voltage above that
+[06:25] is basically just thrown away what will
+[06:28] happen is the coil will get hot
+[06:30] if we don't want that coil to get hot we
+[06:32] have to do something else with it
+[06:34] so i put a capacitor in series to
+[06:36] prevent the hunting
+[06:38] if i put a light bulb in then all the
+[06:40] extra energy
+[06:41] would go into the light bulb instead of
+[06:43] heating this coil
+[06:44] if i put a large resistor in all of that
+[06:47] extra energy would go into heating the
+[06:48] resistor
+[06:49] rather than heating and breaking this
+[06:51] little mechanical device
+[06:52] and you will find charge controllers
+[06:55] that do exactly that they're called dump
+[06:57] loads
+[06:58] they're a bit simpler but they're
+[07:01] exactly the same thing done
+[07:02] electronically
+[07:03] what we actually have here done
+[07:06] mechanically what i've got here
+[07:08] is a car alternator now inside here is a
+[07:12] little bit of solid state circuitry
+[07:14] doing pretty much the same thing as that
+[07:16] because this
+[07:17] will change the amount that it can
+[07:20] generate depending on the speed of the
+[07:21] engine
+[07:22] faster the engine the faster this turns
+[07:24] the more it generates and you can get
+[07:26] quite some voltage out of this
+[07:28] but of course the main thing you do with
+[07:29] an alternator is charge a battery
+[07:32] and if we put more than 14 volts into a
+[07:34] lead acid battery we're quite likely to
+[07:35] blow it up
+[07:36] so what the electronics does is controls
+[07:39] the voltage
+[07:40] in the same way that this did to make
+[07:42] sure that
+[07:43] although the voltage here being
+[07:44] generated can be quite high
+[07:47] the voltage that the battery gets is
+[07:49] within that range
+[07:50] set by this this is said by
+[07:54] uh actually it's a diode and resistor
+[07:56] series that set the voltage
+[07:58] here we're using spring tension we can
+[08:00] use diodes and resistors to do that but
+[08:02] that doesn't really matter
+[08:03] it's setting the voltage so the voltage
+[08:05] is now independent of the voltage
+[08:08] generated so the voltage generated
+[08:11] it can rise up above but the voltage the
+[08:14] battery will see
+[08:15] is only at the 14 volts so this voltage
+[08:18] regulator inside the alternator is in
+[08:20] fact acting
+[08:21] as a charge controller this is what i
+[08:23] mean about these things being
+[08:25] related to each other now those aren't
+[08:28] very efficient
+[08:29] obviously because what we're doing with
+[08:31] the excess voltage is essentially
+[08:33] chucking it away
+[08:34] and of course that's not great and the
+[08:36] other thing is of course it can have a
+[08:38] very low voltage and that low voltage
+[08:41] isn't being used particularly
+[08:42] efficiently
+[08:43] but the high voltage is chucked away so
+[08:45] the efficient performance of these isn't
+[08:47] great
+[08:48] but it doesn't really matter so much in
+[08:50] those applications because you really
+[08:52] just want to keep the battery topped up
+[08:54] while you're running around and there's
+[08:55] plenty of spare motion to do that so
+[08:58] it's not an issue particularly
+[09:01] it becomes an issue when you're using
+[09:03] things where
+[09:05] you need to get every scrap of power out
+[09:07] of there and save it
+[09:08] so things like photovoltaics and wind
+[09:11] turbines we don't want to be
+[09:13] really chucking that energy away i mean
+[09:16] there are occasions when you do
+[09:17] like if you're charging you're saving it
+[09:19] to your battery bank then
+[09:21] once your battery bank is full you don't
+[09:23] want to be charging in any more
+[09:25] so you want to chuck it away
+[09:28] and that's part of what the charge
+[09:30] controller will do
+[09:31] so when we're looking at voltage
+[09:33] regulation we don't have that
+[09:35] extra little bit that's going to be
+[09:37] needed to pay attention to
+[09:39] what happens at over voltage and if you
+[09:42] under voltage too okay that's pretty
+[09:45] much enough for one video i think
+[09:47] because it's already getting a bit
+[09:48] long and the main takeaway here is we're
+[09:51] looking at voltage regulation
+[09:53] leading to battery charging and what's
+[09:56] happening in voltage regulation is a
+[09:58] specific set of functions it's got a
+[10:00] logic to it
+[10:01] the logic's really simple provide a
+[10:03] voltage if there's too much voltage
+[10:06] turn it off those logical things
+[10:09] are implemented with specific methods of
+[10:13] doing it
+[10:14] now we used a mechanical method because
+[10:16] you can see it doing it this is sensing
+[10:17] the voltage once the voltage goes above
+[10:20] it's turning the voltage off it's
+[10:21] performing
+[10:22] those logical blocks but in a mechanical
+[10:25] way
+[10:26] because now we do it with electronics in
+[10:28] solid state
+[10:29] and we'll be looking at that and where
+[10:31] that's developed and why that's
+[10:32] developed in the next couple of videos
+[10:34] but all i really want you to get hold of
+[10:36] here is that there is a simple function
+[10:38] being performed
+[10:40] that function is a logic the logic
+[10:43] can be implemented in many physical ways
+[10:46] as long as you get that in your head
+[10:47] what those functions are then
+[10:49] it should demystify the whole thing a
+[10:51] little bit and of course we're going to
+[10:52] be looking at those kind of block
+[10:54] diagrams and
+[10:55] how it's implemented in solid state
+[10:57] later anyway i hope you enjoyed the
+[10:59] video i hope it begins to make a little
+[11:00] bit of sense
+[11:01] and thank you very much for watching

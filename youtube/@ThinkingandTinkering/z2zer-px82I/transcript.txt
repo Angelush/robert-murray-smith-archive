@@ -1,0 +1,238 @@
+[00:00] [Music]
+[00:08] So gears, they're pretty awesome things.
+[00:11] I mean, they make things move. And of
+[00:13] course, when things move, they come
+[00:15] alive. And watching whole sets of gears
+[00:18] spinning is pretty cool. But it's not
+[00:20] only that. I mean, their job is to move
+[00:23] power from point A to point B and even
+[00:26] bend it round corners. But beyond that,
+[00:28] of course, people are captured by gears.
+[00:32] So much so, you find people making table
+[00:34] lamps of old gear boxes, and they look
+[00:37] pretty cool in a kind of steampunk sort
+[00:39] of way. And of course, steampunk has a
+[00:42] ton of gears in it, but it wouldn't be
+[00:44] steampunk. Now there are a whole range
+[00:47] of gears but I want to focus on what I
+[00:49] think are the the three basic gears and
+[00:53] this would be the spurgeear which is a
+[00:55] straight up and down gear, the helicole
+[00:57] gear and something called a double
+[00:59] helico gear. Now to make these gears
+[01:02] actually the spurgeear is pretty easy.
+[01:04] Most 3D programs have a spurgeear
+[01:08] generator and in Tinkercad you just go
+[01:10] to shapes metric gear and pull yourself
+[01:13] a spurgeear onto your work plane. Hel
+[01:16] gears can be a little bit more
+[01:18] complicated but again they can be
+[01:20] produced in any 3D program and I've done
+[01:22] a video on how to make helical gears in
+[01:25] Tinkercad. a double helical gear. Well,
+[01:28] that's just a single helical gear
+[01:30] chopped in half, flipped around, and
+[01:32] joined up so it makes a chevron. Now,
+[01:35] although you can make these, they can be
+[01:38] a little bit tedious. And the other
+[01:40] option, of course, is to use something
+[01:42] like a gear generator, of which there's
+[01:44] quite a few. But the best one I would
+[01:46] say, or at least the one I find really
+[01:48] usable, is this one. It's really simple.
+[01:51] It's free to use and when you download
+[01:54] it, you can get it in SDL or DXF and all
+[01:58] you actually do is enter the parameters
+[02:00] of the gear in terms of its modulus and
+[02:02] number of teeth. That'll get you a gear
+[02:05] really, really easily. So, like
+[02:08] everything, there are pros and cons.
+[02:10] Spurge are efficient, reliable, compact,
+[02:14] and they're cheap to make, meaning you
+[02:17] find them absolutely everywhere. But
+[02:19] they are noisy, and they're not as
+[02:22] strong as other kinds of gears, and
+[02:24] they're limited in their distance from
+[02:26] the center to the edge. So, they have
+[02:29] severe
+[02:30] limitations. Hel gears, on the other
+[02:33] hand, are much smoother and quieter, and
+[02:35] they can handle higher tors. They have a
+[02:38] curious property that if you set the
+[02:40] angle of the tooth at 45°, then you can
+[02:43] use them in pretty much the same way as
+[02:45] bevel gears. Of course, bevel gears have
+[02:47] other advantages, but we won't go into
+[02:50] that now. The on the cons list, they
+[02:53] require pretty precise alignment and
+[02:55] they are very expensive to make and they
+[02:58] can be prone to wear if not aligned
+[03:00] properly. bone or double helix gears
+[03:04] cancel out one of the major things about
+[03:06] helical gears because helical gears are
+[03:08] an angle and so they thrust and they're
+[03:10] mostly used with thrust bearings along
+[03:12] the axle. Herring bone gears balance out
+[03:15] this thrust. They're also smooth and
+[03:17] quiet in operation and the big issue
+[03:19] with them is they're devilishly complex
+[03:22] to make and so stupidly expensive.
+[03:24] Although they are good for compact gear
+[03:26] boxes, you actually don't find them that
+[03:28] very much because we're about to 3D
+[03:31] print. And in 3D printing, that really
+[03:33] isn't an issue. It costs the same to
+[03:35] print a spur gear as it does to print a
+[03:38] double helic gear. The other thing
+[03:40] that's kind of cool is you can combine
+[03:42] the gears because these gears, remember,
+[03:44] come in the external normal arrangement
+[03:47] and an internal arrangement where we're
+[03:49] used to seeing them in things like
+[03:51] planetary gear boxes. Now, of course,
+[03:53] there are a ton of other gears, as I'm
+[03:56] sure folks are going to point out.
+[03:58] You've got wrap and pinion, you've got
+[04:00] bevel gears, you've got cyclloidal
+[04:04] gears, all kinds of gears. We're just
+[04:06] kind of focusing on those three. But
+[04:08] what I want to do is use those three in
+[04:12] an interesting way. So, I came across
+[04:15] this on Thingiverse, which I thought was
+[04:17] pretty cool, but it didn't do what I
+[04:19] wanted it to do. So, I redo the whole
+[04:21] thing because there's quite a few
+[04:22] changes I want to make to it. The first
+[04:24] thing, of course, is the stand, which is
+[04:26] made out of these three components. This
+[04:28] arm, this arm, and a base. This arm goes
+[04:32] into the
+[04:34] base that way and gets glued in there.
+[04:37] And this arm goes into that hole in the
+[04:39] base like that and gets shoved down and
+[04:42] glued in. The next thing that I wanted
+[04:45] to do was that outer ring because
+[04:48] remember I want to show all those three
+[04:50] gears and I created this. This is kind
+[04:53] of like a planetary gear arrangement.
+[04:55] But of course it looks much more like a
+[04:57] bearing and that's kind of cool. Now
+[04:59] it's print in place because the chevrons
+[05:00] are set at 30° and they hold everything
+[05:03] in place. But if I spin
+[05:07] it, it actually makes a pretty good
+[05:10] bearing. So this one I'm going to put up
+[05:12] as a separate file that is a print in
+[05:15] place planetary bearing using herring
+[05:18] bone or double helix gears if anybody
+[05:21] wants to play with that as a bearing
+[05:23] because I thought it was really cool and
+[05:25] it uses our herring bone gears and shows
+[05:28] what herring bone gears can do. is lock
+[05:30] them in place and so we can make fairly
+[05:33] tight tolerances because on these
+[05:34] printin place bearings what you often
+[05:37] find is that the rollers they put in
+[05:38] there and twist and they twist and make
+[05:41] it difficult to use. This one of course
+[05:44] because it's a herring bone it can't
+[05:46] twist and it won't drop out. So I
+[05:48] thought that was really cool. The other
+[05:49] thing I want to do with this is put a
+[05:51] helical gear around the outside. So I'll
+[05:54] put a helical gear around the outside
+[05:56] and that Oops. that will slot onto the
+[06:00] framework like that. I also printed
+[06:05] this. This is a combination gear. It's a
+[06:07] spurgeear on the outside but a herring
+[06:10] bone ring gear on the inside. And
+[06:13] that'll be the central ring. Now in the
+[06:15] file, this is one whole ring. I didn't
+[06:17] split it in the file. What I did was
+[06:19] split it in the slicer cuz I'm using an
+[06:21] Orca slicer variant. And you can just
+[06:24] split it and add little pegs to it to
+[06:26] join it back together because that does
+[06:28] need to be able to be split. So the
+[06:32] reason this is split is because it has
+[06:33] to fit through this. This is the same as
+[06:37] this, but I put a herring bone gear
+[06:39] around the outside. And this has to go
+[06:42] on like that. Sorry. There we go. Go on
+[06:47] like that and be glued together. So when
+[06:50] you've done that, put it to the side for
+[06:51] a second. Now, on the frame, we've got
+[06:54] this, which is a normal spur gear. And
+[06:56] you'll notice it's got a little
+[06:57] indentation there and a square end that
+[07:00] goes in there like that. And then
+[07:02] there's a clip that fits on the end to
+[07:04] hold it in that indentation to hold it
+[07:07] to the frame. The clip just goes in.
+[07:09] There's a handle with a square lug. And
+[07:11] the handle goes on because that's the
+[07:14] bit that we're going to turn. Now, when
+[07:16] we've done that, we've got again in
+[07:18] black. This is our helical gear. And the
+[07:21] helical gear goes on that peg there. And
+[07:24] again, there's a black clip that clips
+[07:26] on the button to hold it in
+[07:31] place. There we
+[07:33] go. Now, what we got to do is feed this
+[07:36] on. The spur gear obviously engages with
+[07:38] the spurgeear, and the helical side
+[07:41] engages with the helical side. And that
+[07:43] needs to be held out of the way while
+[07:45] you twiddle it around to get it to fit.
+[07:49] And when you've done that, you twist
+[07:51] that up around there. It engages with
+[07:53] this helico gear. A spot of glue on
+[07:56] there and you're ready to give it a go
+[07:58] once that's dried. So there it is all
+[08:01] put together. Now remember I mentioned
+[08:02] the helical gears exhibit thrust in that
+[08:05] direction. Well, I forgot about that. So
+[08:08] it actually thrusts the ring out. It
+[08:09] needs a a guide on here to stop that
+[08:12] ring being thrust out. And maybe the
+[08:13] same here. And maybe bring this round a
+[08:15] bit more.
+[08:17] Let's give it a
+[08:23] go. There we go. So, the spur gear
+[08:26] drives that in the same plane. This
+[08:28] helical gear is driven by that. It
+[08:30] drives that helical gear again in the
+[08:32] same plane. Because it's 45°, we can
+[08:35] twist it through as we would do with a
+[08:38] bevel gear. And then we drive these
+[08:42] double helix or herring bone gears as a
+[08:45] bearing through this outer helico gear
+[08:47] that's on the outside of the ring. So
+[08:51] I'll probably add those bits to it to
+[08:53] stabilize it. But I'll put this up on
+[08:55] Thingiverse as is should somebody want
+[08:57] to play around with this. And of course
+[08:59] the whole idea is just to be have fun
+[09:02] with gears because we are 3D printing.
+[09:05] When it comes to 3D printing, we don't
+[09:07] have the same uh kind of constraints on
+[09:09] us that manufacture has. In particular,
+[09:12] the herring bone or um double helix
+[09:15] gears. They've been really badly
+[09:17] explored because they're so expensive to
+[09:20] make and they're actually pretty
+[09:21] awesome. Citrum installed one of these
+[09:24] as a bevel gear in
+[09:26] 1927 in a water turbine and generator
+[09:30] and it continued as decommissioned in
+[09:32] 2011 and it was flawless in its
+[09:35] operation. So using herring bone gears
+[09:37] as bevel gears is something that is well
+[09:40] worth exploring plus a whole host of
+[09:42] other things. Anyway, this is a little
+[09:45] model that shows some of the aspects of
+[09:47] those three basic gears in some of the
+[09:49] orientations we can use it in. I hope
+[09:51] you enjoyed the video. Thank you very
+[09:53] much for watching and please do remember
+[09:55] to like and subscribe.

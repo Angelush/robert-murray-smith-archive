@@ -1,0 +1,173 @@
+[00:00] foreign
+[00:11] part of this video is just going to be
+[00:14] an example of that because a lot of this
+[00:16] work has been done by Trey Rousey who's
+[00:19] done some modeling in free floor so that
+[00:22] you can replicate it if you want see if
+[00:24] it makes sense to you it certainly makes
+[00:26] sense to me because free flow is open
+[00:28] source
+[00:29] anyway we're working on wind turbines
+[00:31] now wind turbines break down into four
+[00:34] essential components there's the bit
+[00:37] that catches the wind and turns it into
+[00:39] mechanical energy and for us that's this
+[00:41] squirrel cage the wind comes along it
+[00:43] gets caught it turns the cage and that's
+[00:46] the first section of any wind turbine
+[00:48] that mechanical rotation is then
+[00:51] converted into electrical energy by the
+[00:53] generator section and that's this bit
+[00:55] here where we've got our wire and our
+[00:57] coils after that generation we need to
+[01:01] turn it into a form we can use it which
+[01:03] is a conversion section and then more
+[01:05] often than not you store it which is the
+[01:07] storage section and then you use it
+[01:09] after that so these four essential
+[01:11] components to any wind turbine can be
+[01:14] separated out and we can look at them
+[01:16] separately
+[01:17] because what we've been focusing on is
+[01:20] the wind capturing section and the
+[01:22] Generation section now the wind
+[01:25] capturing section is really governed by
+[01:27] its geometries basically how big it is
+[01:30] and how good it is at capturing wind
+[01:32] because the more wind you can capture
+[01:34] the more energy you will get in every
+[01:36] given any given wind and of course the
+[01:38] easiest way to do that is make it bigger
+[01:41] however we introduced this idea here of
+[01:45] the Darwin wind turbine which is a
+[01:47] passive capture device so because it's
+[01:50] just a big sock in the air the wind
+[01:53] comes in here and more wind gets
+[01:56] captured so that we can force that extra
+[01:58] wind down onto our conversion section
+[02:01] where we turn the wind and the
+[02:03] mechanical energy we'll get more
+[02:04] mechanical energy out of it because
+[02:06] we're capturing more wind and of course
+[02:08] that's the basic idea now there's a
+[02:12] whole range of questions about something
+[02:13] like that of course and the first one is
+[02:16] doesn't it work
+[02:18] well Dre did some modeling as I say he
+[02:21] had a look at this I don't even remember
+[02:23] when we first did this we had no baffle
+[02:25] plating without baffle plates this is
+[02:28] the kind of thing that happens the wind
+[02:29] does get forced down to a degree but
+[02:32] quite a lot of it actually gets sent out
+[02:35] of the other side of the device and you
+[02:38] can see that on that diagram now the red
+[02:41] is fast the blue is slow and you can see
+[02:44] that a fair bit is just sipping straight
+[02:46] through the turbine coming out the back
+[02:48] side so to speak and I know a lot of
+[02:52] wind coming out of his backside so
+[02:54] because we put the baffles in and the
+[02:57] minute you put those baffles in this is
+[02:59] what happens
+[03:00] the wind can no longer zip across and
+[03:02] actually gets diverted down to where we
+[03:05] want it to
+[03:06] now of course that's no real surprise is
+[03:09] it and it's something that envelopes are
+[03:11] working on if you remember the envelopes
+[03:12] when captured device has a um
+[03:15] a hyperbolic cone at the top so what
+[03:19] Trey did was he modeled that hyperbolic
+[03:21] cone to see what would happen with that
+[03:24] and as you can see the hyperbolic cone
+[03:26] has a very definite impact in directing
+[03:30] the wind and the wind speed where we
+[03:32] want it to go because we wanted to go
+[03:34] down and we wanted to go through the
+[03:36] squirrel cage
+[03:37] now we looked at that squirrel cage as
+[03:40] being just this and we compared it to
+[03:42] the water's turbine remember the water's
+[03:44] turbine
+[03:45] the idea is that the air coming straight
+[03:47] in gets diverted to the veins where it
+[03:50] needs to go because there is again a
+[03:52] hyperbolic code splitting that so train
+[03:55] modeled that and this is the model he
+[03:57] came up with for the hyperbolic cone on
+[04:00] the base of the turbine and the baffle
+[04:03] plates in place and it's pretty obvious
+[04:06] really that the kind of things we're
+[04:08] thinking about that is baffle plates in
+[04:10] here hyperbolic cone will do the job
+[04:13] that we want it to from the modeling
+[04:16] that Trey has done that's right
+[04:18] is um is that about this guy actually
+[04:21] and he's saying you know this is all
+[04:24] very Rough and Ready Rob and I'm sure it
+[04:25] is Rough and Ready but it certainly
+[04:27] gives us an idea that we're on the right
+[04:30] tracks now geometry is going to have a
+[04:33] huge impact on these things and the
+[04:35] model that we've made actually of the
+[04:37] model I've drawn and uses a nsca uh 8410
+[04:42] blade profile 75 degrees angle attack
+[04:45] with the gurney flap set at 45 degrees
+[04:48] to the main flap of the wing that is
+[04:51] going to give us a considerable win uh
+[04:52] lift force and of course we don't really
+[04:54] know what the height of these has got to
+[04:56] be this is certainly far too high but
+[04:58] we've got some way to work on a high how
+[05:01] many that needs to be in order to get an
+[05:03] efficient free flow through the actual
+[05:06] squirrel cage rather than just a
+[05:08] squirrel cage from a fan we've done a
+[05:10] little bit more design on that using an
+[05:12] Sea Wing profiles
+[05:14] there's quite a lot of geometry to be
+[05:16] looking at but we certainly look like
+[05:18] we're heading in the right direction
+[05:20] with the ideas that we've got that is
+[05:22] Battle plate squirrel cage and direction
+[05:24] of the airflow to give us the kind of
+[05:27] results that we're looking for I mean if
+[05:29] you really did some in-depth analysis
+[05:31] and I'm quite sure we could come up with
+[05:33] some more ideas but we certainly know I
+[05:35] would say from transwork that we're
+[05:37] heading in the right direction now it's
+[05:40] obviously going to take me a little bit
+[05:41] of time to do things because things like
+[05:44] the waters turbine with the nsca 8410
+[05:47] Wing profiles that I'm printing they're
+[05:50] going to take about I think it's two
+[05:52] days and 18 hours to print that turbine
+[05:54] somebody said to me how long and I
+[05:57] thought well you don't set it going and
+[05:59] stand there you know and you said it
+[06:01] going and leave it alone you can go to
+[06:03] the park with the kiddies you you can
+[06:05] eat it you can walk the dog you can
+[06:07] watch television you do not have to
+[06:08] stand glue to your printer it takes a
+[06:11] little time to print for sure but your
+[06:13] contact time is quite low and so when
+[06:15] these things are printed and put
+[06:16] together then I'll be doing videos on
+[06:18] them obviously but there will be delays
+[06:19] between those things and of course I'd
+[06:21] get on with other things but I wanted to
+[06:23] share you I'll share with you
+[06:25] trays work because I thought it was
+[06:27] awesome of him to do it it's an example
+[06:30] of what I mean about Community
+[06:31] supporting each other and it gives us an
+[06:34] indication that we're heading in the
+[06:35] right direction with this Darwin and
+[06:37] squirrel cage combination that we're
+[06:39] looking at anyway I hope you enjoyed the
+[06:41] video thank you very much for watching
+[06:43] and please do remember to like And
+[06:45] subscribe

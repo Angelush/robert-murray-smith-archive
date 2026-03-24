@@ -1,0 +1,1141 @@
+[00:00] foreign
+[00:06] hi everybody so I have to admit I'm
+[00:09] actually a pretty boring kind of guy
+[00:10] because instead of thinking about things
+[00:12] that I should think about you know cars
+[00:14] football and girls I tend to spend a lot
+[00:16] of time thinking about systems
+[00:19] particularly systems of generating
+[00:21] electrical power now I have a view of
+[00:24] things where I'm looking for stuff that
+[00:27] is in common so I can build a structure
+[00:29] of framework to hang that understanding
+[00:32] of systems on and the systems of the
+[00:35] generating of electrical power are
+[00:37] surprisingly simple that's the only
+[00:39] three components one component is the
+[00:41] input then there's the output which in
+[00:44] our case is electrical energy and then
+[00:46] there's some way of matching one to the
+[00:49] other now it all seems a bit woolly so
+[00:51] I'm going to give some practical
+[00:52] examples but the same applies across the
+[00:56] board so for example with input with
+[00:59] input we can only really input
+[01:01] mechanical energy of certain types you
+[01:03] might do it with your arm for instance
+[01:04] you might do it the wind you might do it
+[01:06] with the wall water however you do it
+[01:08] each has its own peculiarities for
+[01:12] example I can only turn something at
+[01:13] about 60 RPM because that's how fast I
+[01:16] can move my arm irrespective of the
+[01:18] strength of it wind tends to be light
+[01:20] and fast water tends to be slow and
+[01:24] heavy is all got its own peculiarities
+[01:27] and those peculiarities of input are
+[01:30] what the input device is designed to
+[01:33] capture now the output device
+[01:35] universally is a generator of which
+[01:38] there aren't that many kinds because the
+[01:40] only real way of generating electricity
+[01:43] in our world is to weather wire across a
+[01:46] magnet and it's pretty much how you go
+[01:48] about doing that now if we want to match
+[01:51] our input say a water wheel or a wind
+[01:54] turbine to our electrical generator we
+[01:57] need something like gears for example in
+[02:00] between so those three components that I
+[02:02] talked about can be represented pretty
+[02:04] easily by a wind turbine gearbox and a
+[02:08] generator they're the three sections of
+[02:11] a system for converting one form of
+[02:14] energy into another form of energy in
+[02:17] our case electrical energy
+[02:18] now it's all a bit esoteric so my plan
+[02:21] is to look at a specific example
+[02:23] actually a folding wind turbine follow
+[02:26] that through showing how we might
+[02:28] develop each of those elements so let's
+[02:31] make a start on this with the generator
+[02:33] section so what I've got here is a DC
+[02:36] electrical motor because electrically
+[02:38] Motors and generators are identical in
+[02:41] emoji you put Power in it turns in a
+[02:43] generator you turn it in power comes out
+[02:45] they're identical in their makeup and
+[02:48] all they are is a magnetic field and a
+[02:51] wire that can move through that magnetic
+[02:53] field now you can do it like this where
+[02:55] you rotate it or you can literally
+[02:57] waggle it down like a linear generator
+[02:59] you can create that magnetic field using
+[03:02] permanent magnets like this one or you
+[03:04] can use electromagnets it doesn't matter
+[03:06] as long as the magnetic field is there
+[03:09] there must be movement between the two
+[03:11] so sometimes you rotate the magnetic
+[03:14] field and sometimes you rotate the wire
+[03:16] but relatively speaking you are waggling
+[03:19] a wire in a magnetic field there's only
+[03:22] two components to it the wire and the
+[03:25] magnetic field and of course that leads
+[03:27] to great debate because to cram as much
+[03:30] wire as you can in there you've got to
+[03:32] fold it up and people argue about how
+[03:34] you fold it there's also a magnetic
+[03:36] field and people argue about what's the
+[03:38] best way to make that magnetic field and
+[03:40] there are various merits of each system
+[03:42] that they come up with but the essence
+[03:44] is you must move a wire through a
+[03:47] magnetic field if you want to generate
+[03:49] and there's just lots of ways of doing
+[03:51] that that people get quite passionate
+[03:53] about
+[03:57] me and Luke are going to show you
+[03:58] something have a look at this oh
+[04:05] okay so that was a physics experiment to
+[04:08] show what happens in a generator and of
+[04:12] course physics deals with fundamental
+[04:14] forces it's actually a really very basic
+[04:16] very simple and a bit dull until you
+[04:21] come to apply it but when you get a hold
+[04:23] of those ideas and apply those ideas
+[04:26] the whole world makes sense but like I
+[04:28] say the problem is it's pretty dull to
+[04:31] watch because it's so basic and so
+[04:34] straightforward in fact it's so boring
+[04:37] and dull that when you're explaining
+[04:39] physics Concepts people like Brian Cox
+[04:42] have to resort to images of spinning
+[04:43] galaxies just to make it interesting
+[04:46] what you saw were vectors in operation
+[04:49] because in physics there are two kinds
+[04:51] of quantities there are scalar
+[04:53] quantities and there are vector
+[04:55] quantities and vectors always have
+[04:58] movement or Direction and very very
+[05:00] often both what me and Luke did was
+[05:03] apply two forces on some bits of string
+[05:05] and they had Direction which means there
+[05:08] were vectors and by applying those
+[05:10] vectors to that weight the way it moved
+[05:12] the way it moved in a completely
+[05:15] different direction at an angle to the
+[05:18] two vectors that Luke and I were
+[05:20] applying exactly the same thing happens
+[05:23] with a wire and a magnetic field and a
+[05:25] magnetic field is a vector with a
+[05:28] direction when we move it it's a vector
+[05:31] with the direction and it gives rise to
+[05:33] a current which is a vector with a
+[05:37] Direction so I don't mean it's similar I
+[05:40] mean it's exactly the same as pulling
+[05:42] the weight on the floor you apply two
+[05:45] forces at 90 degrees you will get a
+[05:48] resultant Vector at an angle to the two
+[05:52] forces that have been applied
+[05:55] this is exactly where Fleming's right
+[05:57] hand rule comes from it's a description
+[06:00] of what would happen with those vectors
+[06:02] if you set them at 90 degrees to each
+[06:05] other we've got a magnetic field going
+[06:07] that way we move the wire that way well
+[06:09] the current's going to go that way and
+[06:11] that's all it does it's describing how
+[06:14] those vectors would interact at 90
+[06:16] degrees to each other those of you who
+[06:18] are thinking about this might be asking
+[06:20] the smart question because in the
+[06:22] experiment that Luke and I did it was
+[06:24] pretty simple but the questions you
+[06:26] should be asking are things like well
+[06:28] what about if you change the amount of
+[06:30] force you applied what about if you
+[06:31] change the angle at which you applied
+[06:33] that force and guess what it would
+[06:36] change the outcome of course and the
+[06:40] same is true of generators but
+[06:42] generators are a much simpler system
+[06:44] than the one Luke and I used because we
+[06:47] had friction we also had gravity then we
+[06:49] had the two forces that were applying in
+[06:51] a generator you've only really got
+[06:54] motion
+[06:56] failed and current because a current can
+[06:59] only flow in and out of the wire it's
+[07:01] going nowhere else so there's only two
+[07:03] things you can really change and that is
+[07:04] the angle that you attack this at the
+[07:08] speed that you actually move it at and
+[07:11] the strength of the magnetic field that
+[07:13] you apply so it's a much simpler system
+[07:15] but different things happen when you
+[07:19] change some of those factors because
+[07:22] what we're really interested in when it
+[07:23] comes to generators is how much can we
+[07:26] get out of it we want to get as much as
+[07:28] possible by playing with those factors
+[07:30] now changing the speed is pretty obvious
+[07:32] and we do that quite a lot changing the
+[07:34] amount of wire that goes in there is
+[07:36] pretty obvious as well and you want to
+[07:38] cram in as much as you can changing the
+[07:41] strength of magnetic field will use
+[07:42] strong magnets problem with that is they
+[07:45] tend to be a bit more expensive one of
+[07:47] the things that people get a little
+[07:49] confused about and doesn't get that much
+[07:51] attention is that idea of the angle that
+[07:55] you actually do this things out because
+[07:57] imagine that's our magnet imagine that's
+[07:59] our wire
+[08:00] if then phagnetic field is coming out
+[08:03] towards you and I move that magnet that
+[08:06] way according to our Flemings rule the
+[08:08] column will come out that way
+[08:10] if I move it like that then nothing will
+[08:14] happen the reason nothing happens is
+[08:17] just like the weight on the floor that
+[08:19] way it was free to move if we stopped it
+[08:22] being able to move towards me it doesn't
+[08:24] matter how hard I pull it's going to
+[08:26] move towards Luke because he's got a
+[08:28] constraint on it and the same is with
+[08:30] the wire so if I'm doing that with it
+[08:33] nothing's going to come out because it
+[08:35] can't if I do that with it then
+[08:38] something's going to come out so the
+[08:40] angle of the wire makes to the magnetic
+[08:44] field as it flows will affect the amount
+[08:47] of current that comes out of that wire
+[08:49] so that's going to be the best that's
+[08:52] going to be the worst and that's going
+[08:55] to give you less than that but more than
+[08:57] that so the angle really really matters
+[09:01] so here's a simple to make this Coral
+[09:04] I've got this massive coil of hair thin
+[09:07] wire a bit of a wooden board and two
+[09:09] bolts with some rubber over them what we
+[09:12] do is put the bolts in the board and
+[09:14] just wind the coil round and round and
+[09:16] then tape it all together the more sense
+[09:18] when you see it so let's get on with
+[09:20] that
+[09:20] [Music]
+[09:22] [Applause]
+[09:31] thank you
+[09:58] and there's our coil wound now all we've
+[10:01] got to do is jam it on this format
+[10:03] instantly if you want three fairs make
+[10:06] three of these and then we just wind
+[10:08] that onto the former in a serpentine
+[10:11] oh when you've done that that is what
+[10:13] you get now on a practical point you
+[10:15] might notice on the coil I put these
+[10:18] little Tech bits here to hold the coil
+[10:20] together and then that position because
+[10:21] it makes it a piece of cake to then put
+[10:23] the coil on to the actual format let's
+[10:25] analyze it in terms of those angles
+[10:27] we've just been talking about and how
+[10:29] it's going to affect generation now
+[10:31] because it's a circle of course it's a
+[10:33] narrower here than it is here
+[10:35] because it's a circle this section here
+[10:39] is going at the wrong angle it's at 90
+[10:42] degrees the field so that section is
+[10:44] going to generate nothing as is that
+[10:47] section now because you've rounded this
+[10:49] way we've had to put this at an angle in
+[10:52] order to get from one point to the other
+[10:54] point and of course that being angled
+[10:56] means it's going to generate less than
+[10:58] if it was straight so if we want to
+[11:01] improve this then we need to make this
+[11:04] as short as possible and we need to put
+[11:06] this as straight as possible and we'll
+[11:09] get the most out of this kind of
+[11:13] serpentine coil so well what do we do
+[11:15] well we can twist the serpent around and
+[11:19] if we do that we get this I designed
+[11:24] this in think again and as you can see
+[11:25] all I've done is turned that serpent
+[11:27] around 90 degrees so instead of running
+[11:30] like that it runs up and down now the
+[11:33] tinkercad files are available I'll put
+[11:36] them up there and you're quite welcome
+[11:37] to download them but you can see if I'd
+[11:39] wind a serpentine coil then because it's
+[11:41] no longer going in a circle that way
+[11:44] then there's less wire at 90 degrees and
+[11:47] we need the wire 90 degrees because we
+[11:49] have to join them up but there's far
+[11:51] less there and because they're now going
+[11:54] equally they're going to go much
+[11:55] straighter so this is going to be a huge
+[11:58] Improvement on this
+[12:00] so to put this together I used this it's
+[12:03] a Thrust bearing the upside damage is 35
+[12:05] millimeters the inside damage is 22
+[12:07] millimeters and it's 10 millimeters
+[12:09] thick and I just bought it from Amazon
+[12:11] then I printed two parts the housing and
+[12:15] the rotor in the housing
+[12:18] there's a Thrust bearing there in the
+[12:20] printed recess and then we have the rest
+[12:23] there and I've got an eight millimeter
+[12:25] bar going out to the height of this that
+[12:28] completes that bit apart from the coil
+[12:30] the rotor which is the second bit that
+[12:33] you're going to print again got the
+[12:34] other side of the thrust bearing in The
+[12:36] Recess 22 mil bearing 22 mil bearing so
+[12:39] that it can sit on that bit of bar and
+[12:42] then around the edge in the north south
+[12:44] north house I've got these which are N35
+[12:47] neodymium magnets 10 millimeters by two
+[12:50] millimeters they go in there and that
+[12:52] finishes the rotors the rotor sits
+[12:54] nicely in there like that the only thing
+[12:56] we've got to do then is put our Twisted
+[12:59] serpent around there to make that here
+[13:01] we go it's just one big coil and I've
+[13:04] done a number of videos on how I made
+[13:05] these I've just won the coil and then
+[13:07] there's bits of tape holding the coil
+[13:09] together and those bits of tape match up
+[13:12] with those sections there so I got to
+[13:15] bend this into shape and to bend it to
+[13:17] shape it's a piece of cake you just do
+[13:19] that with it matching the two bits of
+[13:22] tech with each other you do that all the
+[13:24] way around and then we can bang that
+[13:26] onto our stator okay quick and dirty
+[13:29] test LED now an interesting point is
+[13:32] this is not only easier to do than a
+[13:35] standard core but you've got so many
+[13:36] standard calls to make there's 36 of
+[13:38] them but because it's a serpent then the
+[13:41] bit that would be in a standard core
+[13:42] going across the top well it isn't there
+[13:45] and because it isn't there it isn't
+[13:46] Western wire that makes it more power
+[13:49] dense than if you bothered to wind
+[13:52] separate coils so these serpent coils
+[13:54] have a lot going for them anyways give
+[13:56] it a spin
+[13:57] laughs
+[13:59] [Laughter]
+[14:03] that's pretty cool because you've got to
+[14:05] get a voltage out of this okay we did
+[14:07] that by hand got a few volts out of it
+[14:09] I've wrapped a pull cord around it and
+[14:11] we'll see what we get
+[14:15] 45 volts
+[14:19] yeah look at the balance on
+[14:26] well that's a bit awesome
+[14:30] this could spin for edges yeah wow
+[14:35] that's just on that bearing
+[14:40] now
+[14:43] why are you thinking about coils you're
+[14:45] really thinking about Fleming's right
+[14:47] hand generator rule where the movement
+[14:51] current and field of magnets are set at
+[14:54] 390 degrees from each other so when you
+[14:57] have movement in One Direction and you
+[14:59] have a Field Crossing other the
+[15:01] direction of the current is always going
+[15:04] to be given for you and fixed because in
+[15:08] a generator the movement's the same way
+[15:10] but the field is going north south north
+[15:12] south so the field is exchanging so what
+[15:15] we effectively want to do is have the
+[15:17] current move one way and then the other
+[15:20] way we want to join that up somehow so
+[15:22] that the net effect is the current moves
+[15:25] only one way now we can do that really
+[15:27] simply actually we just do that like
+[15:30] this you'll notice that the wire goes at
+[15:32] one side and down the other side and so
+[15:34] the current moves in the right direction
+[15:36] and a serpentine coil represents that if
+[15:41] we can keep these wires in this
+[15:42] direction then we've made it more
+[15:45] efficient because the wires are at their
+[15:47] most efficient orientation and that's
+[15:49] what matters about this Serpentine coil
+[15:52] now in order to get that to do that of
+[15:54] course we want the greatest amount of
+[15:57] wire in a straight line going through
+[15:59] our magnetic field so the longer the
+[16:01] magnetic field the more of this wire
+[16:03] will be straight and the more efficient
+[16:06] it's going to be because we can do that
+[16:08] really easily by using bigger magnets so
+[16:12] what I've got here are a bunch of 65
+[16:14] millimeter by one centimeter by three
+[16:16] millimeter N35 magnets and I've drawn
+[16:20] this up on tinkercad what this is is
+[16:24] three bits and that's all we actually
+[16:27] need we need a rotor we need a stator
+[16:30] and we need a bit of act as a cover that
+[16:33] can join it up to the rest of our wind
+[16:36] turbine which is exactly what we've got
+[16:38] here we've got a stator where I put some
+[16:41] wire on already from video 1929 that's
+[16:43] our rotor which is where our magnets are
+[16:45] going to go and that's our cover and all
+[16:48] three just slot together
+[16:51] like that to make our generator so our
+[16:54] generator is actually pretty simple to
+[16:56] make the magnets go in a north-south
+[16:59] north-south orientation and here they
+[17:01] are here's our m35s so we do them
+[17:05] north south north south north south we
+[17:09] put our Serpentine coils onto our stator
+[17:12] and one's already been put on courtesy
+[17:14] of video 1929 there are 200 turns on
+[17:17] here and I've got two more to add now I
+[17:20] could make this three phase by putting
+[17:22] the coils at 100 degrees separation but
+[17:24] I'm actually just going to line them up
+[17:26] with the slots that I've got ready for
+[17:28] them so let's put those on
+[17:31] there is my rotor now these magnets are
+[17:34] north south north south and there's 12
+[17:35] of them and both of that's important
+[17:37] because there are 12 of these wires here
+[17:41] we've got six on the crown and six on
+[17:43] the bottom where it makes the turn and
+[17:45] that matters because as that goes past
+[17:48] to there it'll generate going past the
+[17:50] North and that will force the
+[17:51] electricity go in that direction
+[17:53] now if it was not then this one was
+[17:56] passing a North as well then it would
+[17:58] both go in the same way and we get
+[17:59] nothing out because we're making this
+[18:01] one pass South as this one passes North
+[18:03] then that goes that way and then that
+[18:05] way and we can get what we want out of
+[18:08] it so we have the same number of
+[18:10] straight bits of wires we have of
+[18:12] magnets the magnets are in north south
+[18:14] and then these crowns and dips it
+[18:16] doesn't really matter as long as you've
+[18:18] got six grand since dips to make that
+[18:20] cram and those are the keys to a
+[18:22] serpentine coil now the coil itself if
+[18:25] you haven't watched 1929 is super super
+[18:28] easy to make and that's one of the other
+[18:30] joys of it is how easy that to make
+[18:32] because the wind 12 coils as individual
+[18:36] coils and then lose half of that copper
+[18:38] there's a little bit depressing it takes
+[18:39] forever to run one Serpentine call takes
+[18:42] no time at all and you don't need half
+[18:44] of the copper so we've put it on to
+[18:47] there and we've got our rotor and
+[18:49] obviously our rotor goes in there with a
+[18:52] spacer of an 8mm millimeter washer to
+[18:55] make sure that it spins freely now all
+[18:57] we have to do is pop our cover on give
+[19:00] it a spin and it'll generate and we have
+[19:02] six exit wires so we need to rectify
+[19:05] what's coming out of there put it under
+[19:07] load and give it a test to do that I've
+[19:10] got this massive chunky Cog that I'm
+[19:12] going to put onto there so I'm going to
+[19:15] put that on there and put rectifiers on
+[19:17] there okay that's that's it and you can
+[19:21] have choices here eh One Way which is
+[19:24] the way I've chosen to do is take each
+[19:26] individual coil and rectify it using
+[19:28] this rectification circuit
+[19:30] the other way is to take all of the
+[19:33] calls together and rectify as three
+[19:35] fares using less rectification circuit
+[19:39] now I've done each coil separately
+[19:41] because to be brutally honest I don't
+[19:43] quite know what I'm gonna do with this
+[19:45] in which I mean I know what I'm going to
+[19:47] do with it I'm going to stick it in a
+[19:48] wind turbine what I mean is electrically
+[19:51] what I'm gonna do with it because on
+[19:53] here I've got all my positives coming
+[19:54] out from that rectification circuit I
+[19:56] showed you and on here I've got my
+[19:58] negatives so I've rectified each coil
+[20:01] individually to give me three positives
+[20:03] and three negatives you don't need to do
+[20:05] that you can do it as all three coils
+[20:08] rectified in a three-phase rectified
+[20:10] circuit to get one positive and one
+[20:12] negative the reason I've done it like
+[20:14] this is because if I join those up in
+[20:16] parallel I'll add the amps if I join
+[20:19] them up in series what I'll do is add
+[20:22] the volts so I could join my positive to
+[20:24] negative positive to negative and take
+[20:27] my positive and negative out here and
+[20:30] they will be in series or I can take all
+[20:32] of the positives out all of the
+[20:34] negatives out and they'll be in parallel
+[20:36] it just depends what I want to actually
+[20:38] power with it now I'm going to connect
+[20:40] this up in series and we're going to
+[20:41] give it a spin with an LED this led
+[20:44] takes about 20 volts or so to turn on
+[20:47] Okay so here's my positive and we can
+[20:50] stick it on to the positive like that
+[20:52] now obviously the negative comes out of
+[20:55] the other side and we can take the
+[20:57] negative
+[21:06] to the other side positive
+[21:12] then we take that negative
+[21:21] and then we take our negative
+[21:23] ounce so what we've done is connected
+[21:25] this in series so that's now connected
+[21:27] in series from the voltage output of all
+[21:30] the calls with that together and it'll
+[21:32] be some crazy voltage so let's give it a
+[21:34] spin I've got the meter here we'll see
+[21:35] what kind of voltage we get out of it
+[21:39] what we getting Luke
+[21:41] 28
+[21:47] some super voltage out of it just by
+[21:49] spinning it now this has a turn on
+[21:52] voltage of around about 20 25 volts so
+[21:54] instead of connecting it to the meter we
+[21:57] connect it to our LED we should be able
+[21:59] to get that led to light and so we're
+[22:01] getting real power out because it's
+[22:02] doing some work
+[22:12] go imagine an LED
+[22:16] so that deals with the first part of the
+[22:19] system that is a generator and remember
+[22:20] a generator doesn't actually generate a
+[22:22] generator converts mechanical energy
+[22:25] into electrical energy it has its own
+[22:29] specifications the one we've built needs
+[22:32] to spin quickly so we need it with a
+[22:34] high RPM of course to do that we're
+[22:37] going to take an input and in our case
+[22:38] where our input is going to be from the
+[22:40] wind that wind needs to be converted
+[22:43] into high RPM now because we haven't put
+[22:47] any metal in this it's got a very low
+[22:49] torque so we need high RPM and low
+[22:51] torque that means gears and your own
+[22:56] flower well I have I've done it on the
+[22:58] cornerstone a coin Stones just a flat
+[23:00] piece of stone with another Stone you
+[23:02] put the Grain on you rub it backwards
+[23:04] and forwards and it is back breaking of
+[23:07] course the next development was to make
+[23:09] it turn in a circle but it was still
+[23:12] hard work and it's where the phrase the
+[23:15] daily grind comes from you were grinding
+[23:17] your own flower so when you're looking
+[23:20] at a way of escaping that drudgery what
+[23:23] you want
+[23:24] there's power
+[23:26] you imagine how back-breaking using that
+[23:29] clone would be but here at crabblecorn
+[23:31] Mill they've got 10 stones in five pairs
+[23:34] each weighing a ton so there's ten tons
+[23:35] of stone right here and they could
+[23:38] process 40 tons per annum of grain and
+[23:41] it's no surprise here in the hopper
+[23:43] they've got 60 kilos of grain this is
+[23:45] the horse that holds everything to
+[23:47] damsel and a shoe feeding it into those
+[23:49] stones those stones are turned by the
+[23:52] river producing the flower good things
+[23:55] about water there's a lot of it and it's
+[23:58] heavy so there's a lot of force
+[24:01] but it's slow so if we want to use that
+[24:04] power to do something like ground flour
+[24:07] then we need some way of capturing it
+[24:09] some way of moving it some way of
+[24:12] changing its direction some way of
+[24:14] applying it and some way of changing the
+[24:17] speed and talk so we need to do
+[24:18] basically five things the way we do
+[24:22] those things is through gears nobody
+[24:26] really knows who invented gears or how
+[24:29] old gears are there are records to the
+[24:31] 4th Century BC in China and of course
+[24:34] the anti-kythera was discovered in the
+[24:36] Mediterranean and that dates back to 100
+[24:38] 150 BC with a history too through to
+[24:42] Alexandria and you're talking about
+[24:44] third Century BC better place to show
+[24:47] that is somewhere like this this is
+[24:49] crabble corn Mill in Dover it was first
+[24:52] built in 1812. it's a fantastic
+[24:54] demonstration of mechanisms and gears
+[24:59] this
+[25:01] is the man wheel
+[25:02] two people died in here the water wheel
+[25:05] captures the power the stones apply the
+[25:07] power the rest of it is the mechanism of
+[25:10] the gears and they're the same yesterday
+[25:12] as they are today as they will be
+[25:14] tomorrow and it's arguable that the
+[25:16] windmill Water Mill and clocks
+[25:18] represented the height of medieval
+[25:20] technology when it comes to gearing and
+[25:22] in a watermelon you can see those three
+[25:24] functions clearly and those three
+[25:26] functions are transmission force and
+[25:29] rotation direction what we mean by
+[25:31] transmission is speed different size
+[25:33] gears can be used to efficiently change
+[25:35] the speed of the system large gears with
+[25:38] lots of teeth when they interlock with
+[25:39] small gears with few teeth have to spin
+[25:42] fewer times to keep up with the total
+[25:44] motion of the machine the smaller gears
+[25:46] have to spin faster and this gives you a
+[25:49] way to increase rotational speed
+[25:51] forces in a similar setup you can use
+[25:53] gears to increase the force of a system
+[25:55] that extras Force doesn't appear out of
+[25:59] nowhere turning the small gear fast will
+[26:01] make the large gear turn slower but with
+[26:04] much more Force this is what we mean
+[26:07] when we say that torque is treaded off
+[26:09] against speed in gearing systems the
+[26:12] final one is rotational Direction gears
+[26:15] are very useful changing the direction
+[26:16] of the rotational motion Spur Gears for
+[26:19] instance can reverse a direction worm
+[26:21] gears change for rotation by 90 degrees
+[26:23] and bevel gears can transmit motion
+[26:26] around corners Milling flowers perhaps
+[26:30] the most well-known application of a
+[26:32] water mill but there were no means
+[26:34] restricted to just that they were used
+[26:36] for trip hammers for things like forges
+[26:38] and paper making they were used for
+[26:41] Bellows again for forging and forcing
+[26:44] air in the ReUse for sawing in Lumber
+[26:46] they had the same principle you had a
+[26:49] power source the water you had an
+[26:52] application Bellows trip Hammer saw
+[26:55] grinding and you had some method of
+[26:59] communicating the two inappropriate way
+[27:01] which was the gearing system this is the
+[27:04] same problem we have today for power
+[27:07] generation and the same principles apply
+[27:09] we have some kind of primary input power
+[27:12] water wave wind arm strength cycle power
+[27:17] whatever it is
+[27:18] there's some kind of input then we use
+[27:21] some kind of gear mechanism to change it
+[27:24] to what's appropriate to the output now
+[27:27] when you're generating power what's
+[27:29] appropriate the output is being able to
+[27:31] spin a generator at the rated speed and
+[27:34] rated talk that's what you're looking
+[27:37] for when it comes to putting gears
+[27:40] between those two elements but in
+[27:43] essence you're doing exactly the same
+[27:45] thing that the forefathers did when they
+[27:47] were sawing logs
+[27:50] hammering Steel
+[27:52] grinding grain we got this we basically
+[27:55] tore the heart out of a PC fan to get us
+[27:59] what is effectively a generator now it's
+[28:01] a bit weedy and wimpy because it's got
+[28:03] very little copper in there and a
+[28:04] particularly weak magnetic field but it
+[28:07] works and we can get a surprising
+[28:09] voltage out of it by spinning my hand
+[28:11] now there's next to no talk on this and
+[28:14] if we remember that a generator
+[28:17] generates voltage in direct relationship
+[28:19] to blv sine Theta where B is a strength
+[28:23] of magnetic field L is the length of the
+[28:26] wire sine Theta is the angle the Y makes
+[28:28] the magnetic field and V is the velocity
+[28:32] or the speed at which it turns when we
+[28:34] have a fixed generator like this and the
+[28:36] only thing we can vary on that is the
+[28:39] speed or the torque and of course they
+[28:42] play off against each other and there's
+[28:44] one next to no talk it was a fan motor
+[28:46] so we know that we need a lot of speed
+[28:49] and one way to get speed is to add gear
+[28:52] now there's a ton of different gears you
+[28:55] can use and they all have their pros and
+[28:57] cons so we can do magnetic gearing now
+[29:00] it does have a tendency to slip but it's
+[29:02] a nice gearing system we could use
+[29:04] straightforward gears and just build up
+[29:07] the gears but they would be quite large
+[29:09] one of my favorites is this it's a
+[29:12] planetary gear system this is called the
+[29:15] ring gear
+[29:18] gear and then we have the planet gears
+[29:22] these little one and this is the
+[29:23] planetary carrier now the gear ratios of
+[29:26] these depend on their relationship to
+[29:29] each other so if we count the number of
+[29:32] teeth in there count the number of teeth
+[29:34] in there add them together we'll get the
+[29:37] effective number of teeth on the planets
+[29:40] that's always means that the planet is
+[29:43] the biggest number of teeth the sun is
+[29:46] always the smallest and the planets are
+[29:48] always the greatest the gear ratio of
+[29:51] the Sun to the planets is always the
+[29:53] biggest gear ratio in this particular
+[29:55] one then we have a gear ratio of three
+[29:57] so every time I turn that one the sun
+[30:00] will turn three times now that's kind of
+[30:03] cool because it means
+[30:05] it means when I give that one turn I'll
+[30:07] get three equivalent turns out of that
+[30:08] and that's what we're looking for in
+[30:10] something like this because the more
+[30:12] speed the higher the voltage because
+[30:14] it's not terribly useful like that so
+[30:17] what I've done is I've printed out a Sun
+[30:21] Gear there we go like that because this
+[30:24] will fit nicely into there to make us
+[30:27] there we go something we can drive
+[30:30] easily and of course to do that I turn
+[30:33] to tinkercad and I developed this whole
+[30:35] thing in tinkercad if you have a look at
+[30:37] it you can see with the three legs is
+[30:40] the Sun Gear the smaller ones are the
+[30:42] planet gears and then we have stacking
+[30:45] ring gears where we can stack these one
+[30:47] upon the other so we print all of those
+[30:49] off and connect them together like this
+[30:51] then we can put that in there and we put
+[30:54] the ring on over it like that then every
+[30:57] time if we hold the ring still every
+[30:59] time we turn that sun this will turn
+[31:03] three times because that's not very much
+[31:06] but we can stack them so we stack
+[31:08] another one on then we'll get three
+[31:10] times three nine times stack another one
+[31:12] on 27 times and we can keep on building
+[31:15] up a compound sun and Planet gear system
+[31:18] until we get that to spin until we can't
+[31:22] turn it anymore now we can have a look
+[31:24] and see what we're actually getting so
+[31:26] let's do that I've got a ring right
+[31:28] there and in the bottom we've got the PC
+[31:30] fan motor with its Cog on it and I've
+[31:32] connected it up to this meter and if I
+[31:34] give that a spin we'll be able to
+[31:36] generate the voltage not a great deal
+[31:38] about 0.5 of a volt or something like
+[31:40] that now that gear operates as a sun and
+[31:44] of course what it needs is some planets
+[31:46] and I've got here a Sun Gear where the
+[31:48] planet carrier is integral to The Sun
+[31:51] Gear and the planets are attached to it
+[31:53] because I can stack them up if I put
+[31:55] that on there
+[32:00] there we go we now get a sun and Planet
+[32:02] Arrangement and if I spin that
+[32:09] we had a much higher voltage and I can
+[32:12] keep doing that by adding rings
+[32:16] and adding the Sun and Planet
+[32:19] arrangements to build up a compound
+[32:22] Arrangement where it adds on so what we
+[32:26] get with one of them there we get normal
+[32:28] speed put one on it's three times the
+[32:31] speed two on nine times the speed three
+[32:34] times three three on 27 times the speed
+[32:37] and so on as we add these up okay let's
+[32:42] put a few on and give it a go
+[32:44] so I've got three sections so three nine
+[32:47] twenty seven we're going to give it a
+[32:49] spin see what kind of voltage we get
+[32:58] Madness
+[33:04] okay that went well so I put another
+[33:05] layer on let's see what we get
+[33:23] and we did pretty well getting 17 volts
+[33:27] out of this tiny little motor and the
+[33:28] point of all of this well it's exactly
+[33:31] what I was talking about when we were at
+[33:32] the Mill there's always a mismatch
+[33:34] between what you're trying to input and
+[33:37] what you're trying to Output when it
+[33:39] comes to wind turbans you've got a wind
+[33:42] turbine that's capturing the wind and
+[33:44] turning usually quite slowly with quite
+[33:47] a lot of torque you want to be able to
+[33:49] turn that into quite a lot of speed talk
+[33:52] requirement on this is so low what we
+[33:55] need to do now is get rich off this is
+[33:57] the connection ring it fits on the
+[33:59] generator and then our gears can fit on
+[34:02] that now originally when we looked at
+[34:04] this this is what we came up with we
+[34:06] integrated the planets with the Sun Gear
+[34:09] so that we could make it stackable drive
+[34:11] them and add that multiplicative factor
+[34:15] for these um planetary gear systems but
+[34:18] I thought that was a bit clumsy it was
+[34:20] just me looking at it to begin with
+[34:22] redesigned it into this this is what
+[34:26] you're going to see in those tinkercad
+[34:27] files what it is is the planet carrier
+[34:30] is now a ring with three prongs on it
+[34:32] the planets go on there and then the Sun
+[34:35] Gear is integrated with the fixing plate
+[34:37] and that whole thing just glues in now
+[34:39] this is all plastic because we're
+[34:41] wanting to test it if you want to make
+[34:43] this stronger you'd replace those
+[34:45] pinions with metal and maybe put
+[34:47] bearings around the planets you'll see
+[34:49] that there's a bearing right in the
+[34:50] center of the sun there that's to help
+[34:52] it spin freely along an axle so now we
+[34:55] can get a number of these stack them up
+[34:58] and we get the same stacking gearing
+[35:00] system that it had before the ratio of
+[35:02] each one of these is three to one so I
+[35:04] put that on there it's three to one if I
+[35:06] put that on there it multiplies it's
+[35:08] nine to one but put another one on it's
+[35:11] 27 to 1 and we have this hole going
+[35:14] right the way through the center not so
+[35:19] we can do that with it the whole
+[35:21] stacking Planet gear system is held in
+[35:23] place by a bolt with a nut on it and the
+[35:25] bolt fits in the little hex at the
+[35:27] bottom there they all spin independently
+[35:29] and freely with each other courtesy of
+[35:31] that bearing that we just put in the
+[35:32] bearings are scatter bearing 22 mil by
+[35:34] seven mil by uh
+[35:37] eight mil Center the other thing we've
+[35:39] got is the actual ring gear itself again
+[35:41] these are available in that file now
+[35:43] I've done this for three of them and
+[35:45] those three just slot in that
+[35:51] like that now if I turn that I'll get 27
+[35:55] times the output
+[35:58] and that
+[35:59] goes on there like that
+[36:02] there we go that's our gears that's it
+[36:05] now I put a stand on it and I put a
+[36:07] handle on it the handle just detaches
+[36:09] actually so that we can hand crank it
+[36:11] but of course what we're aiming for if
+[36:13] you remember this a folding wind turbine
+[36:16] so the folding wind turbine will
+[36:18] actually go on there like that what I
+[36:21] need to do is make an adapter between
+[36:22] this and the wind turbine blades and
+[36:24] then we're ready to rock and roll so
+[36:25] we're nearly there but I've put this
+[36:28] gearbox on and it is a 27-1 planetary
+[36:31] gearbox stacked as we saw what we're
+[36:34] going to do is read the voltage out of
+[36:36] it by me hand cranking it and we'll see
+[36:38] what we get out of it now I have
+[36:39] connected it up in series at the back
+[36:41] here and you can see the series
+[36:43] connection again it's like this because
+[36:45] I'm still haven't decided how I'm going
+[36:47] to connect this but if we crank this
+[36:49] handle we should definitely get some
+[36:51] kind of voltage reading out of this
+[36:53] let's have a go and see
+[37:10] I'm a bit scared about taking any higher
+[37:13] because you know I'm a bit scared I'm
+[37:14] gonna burn the wires out but there you
+[37:16] go 104 volts are cranking it by a hand
+[37:20] so maybe maybe I could put another stage
+[37:23] on there but I'm not sure if I'm gonna
+[37:25] do that or not because that's actually
+[37:26] pretty so in this system we've now got
+[37:29] to the bit that perhaps has most focus
+[37:31] and I'm guessing that's because it's the
+[37:33] bit you can see and that's the bit where
+[37:35] we input the energy the bit where we
+[37:37] capture the wind and turn it into
+[37:39] rotation and like lots of things if
+[37:42] there's two opinions you'll find two
+[37:44] camps arguing viciously against each
+[37:46] other about which is best but it's not
+[37:48] really relevant here because we're here
+[37:50] we're looking at a system and the thing
+[37:52] that we choose is the input is only
+[37:54] really an example of that now I was
+[37:56] looking at foldable portable winter
+[37:59] turbines and I was astonished by two
+[38:02] things one how expensive they were and
+[38:05] two how pants their output was he was
+[38:08] like very low for a huge overpriced
+[38:11] piece of kit that I thought over this
+[38:14] whole video project it ended up making a
+[38:16] portable wind turbine that'd be really
+[38:18] cool to do so I've chosen that only for
+[38:21] those reasons but the wind turbine bit
+[38:24] itself just represents the input of the
+[38:27] system that we're talking about because
+[38:28] talking about the input the output and
+[38:32] the link between the two the input it
+[38:35] really doesn't matter it could be your
+[38:36] arm it could be a water wheel it could
+[38:38] be a folding turbine it could be a vwt
+[38:40] could be h a w t whatever you think is
+[38:43] the best this is the same way that you
+[38:46] construct absolutely everything within
+[38:49] this field that we're talking about so
+[38:51] I've chosen a folding wind turbine
+[38:54] design for that reason the way they make
+[38:57] them portable is essentially to fold up
+[38:59] the blades if you can fold up the blades
+[39:01] you can have yourself portable wind
+[39:02] turbine I made the blades there we go
+[39:05] out of pipe this is just ordinary soil
+[39:09] pipe I did this before and here is how I
+[39:12] made them in order to make little blades
+[39:14] all we're going to use is a bit of this
+[39:16] this is a hundred mil diameter or four
+[39:19] inch uh this particular one is drainage
+[39:21] pipe you can tell by the color if you
+[39:23] get the black one that soil pipe it's a
+[39:25] bit difficult to see your markings on
+[39:26] the black which is why we're using this
+[39:28] one but either will do it's about five
+[39:30] millimeters thick it's good stiff
+[39:32] plastic and we can make this into
+[39:35] um four blades now the blade length is
+[39:37] going to be 50 centimeters long so we
+[39:39] need to do is cut off a 60 centimeter
+[39:41] section and then divide that into four
+[39:44] by marking it in quadrants and sewing
+[39:46] those quadrants up so that's what we're
+[39:47] going to do
+[40:13] all right
+[41:29] turbine blades really easy to make I
+[41:32] think pretty cool these are 53
+[41:33] centimeters long so we're going to have
+[41:35] a wind turbine with a swept area of one
+[41:37] meter then we've got this which is this
+[41:40] three part and three of these that slot
+[41:43] in there because they'll close up that
+[41:45] way open up that way and that makes it
+[41:47] foldable so in order to make this you
+[41:49] need to oops print off three of those
+[41:52] one of those and we've got a bit of
+[41:55] Steel a steel bar there which is 100
+[41:57] millimeters long then some 35 millimeter
+[41:59] long steel bars three of them what we do
+[42:02] is we take these sections and put them
+[42:04] in there and put our steel pins through
+[42:07] that section there so that they can
+[42:10] swivel
+[42:13] then we glue our blades onto there so
+[42:18] that they're oriented like that with the
+[42:21] Long Blade side going up the highest
+[42:24] we'll put those on so when you've glued
+[42:27] those on and you put the pins in that's
+[42:29] what you get it is a folding turbine
+[42:32] blade it's a meter across and it weighs
+[42:35] a few hundred grams so it's pretty
+[42:37] compact when we fold it back up but it
+[42:40] would also noticed that we had this
+[42:42] and this and this and this in that file
+[42:48] this is to make a magnetic gearbox that
+[42:51] we made in video 1922 but essentially in
+[42:54] there is enough space to stuff some M8
+[42:57] nuts and that's what's in there eight of
+[42:59] them we've stuffed eight M8 nuts in
+[43:00] there that's a bit of eight mil bar
+[43:03] that's shoved in so that it's the same
+[43:04] level as that then we've got this
+[43:07] section here where I've put two scatter
+[43:09] bearings one here and one here and
+[43:11] they're just standard skater bearings
+[43:13] now that one you put a washer on it like
+[43:18] it goes through the scatter bearings
+[43:20] like that we put another washer on there
+[43:22] and then we stuff that into there like
+[43:28] when we've done that's what we get now
+[43:30] obviously these blades are going to keep
+[43:32] folding shut so this bit is a nose cone
+[43:36] and it goes on the projecting bit of
+[43:37] Steel right there
+[43:39] there we go and that stops the blades
+[43:43] folding back shutting themselves when
+[43:45] you want to close it you take that off
+[43:46] and those blades can fold up we have a
+[43:49] folding wind turbine and this is the
+[43:51] gearbox remember it's video 1922 because
+[43:54] it's a magnetic gearbox we've got our
+[43:56] eight nuts in there around the outside
+[43:58] here we've got 12 spaces to take
+[44:00] neodymium magnets and stronger the
+[44:03] magnet the better but we can use 1035s
+[44:05] up to n52s and they are 15 millimeter
+[44:07] diameter circular magnets four
+[44:09] millimeters thick and they go in there
+[44:11] north south north south north south
+[44:13] on this section to the final drive
+[44:16] section it's got a bearing on it it goes
+[44:18] on the other side of the steel like that
+[44:20] there we go that's three to spin when we
+[44:22] put the magnets in there and there's
+[44:24] four of them at 15 millimeters diameter
+[44:26] circular magnets 10 35 to 52 four
+[44:28] millimeters thick they're going north
+[44:30] south north south and that creates our
+[44:32] magnetic gearbox now when we open that
+[44:34] up that incident needs to stick on a
+[44:36] broom handle put on our nose cone we
+[44:40] have a collapsible wind turbine now this
+[44:44] section here I've done it so it takes a
+[44:47] back Dynamo so the bike Dynamo goes in
+[44:49] there like that
+[44:50] and if I hold that up I'm going to get
+[44:52] somewhere between three and five Watts
+[44:54] out of that but let's put those magnets
+[44:58] in and then take it out and open it up
+[45:00] see what it does in the wind together
+[45:03] we're outside we're gonna try in a bit
+[45:05] of wind and guess what I've run into a
+[45:08] couple of minutes of line of Ginger Jack
+[45:10] hello and I'm Jacob okay so Ginger Jack
+[45:14] and Jacob are just going to give us a
+[45:16] hand to test this and see if it works
+[45:18] it's on a broom handle we're gonna stick
+[45:20] it in the air and see if we can get it
+[45:22] to spin
+[45:24] that is Brit look at that good that's
+[45:28] proper that wow that's amazing look at
+[45:32] that girl
+[45:34] that's awesome actually
+[45:37] yeah I have made a modification to this
+[45:40] head here and what I've done is on the
+[45:43] reverse side I've mirrored the gears so
+[45:45] this Sun Gear now fits in there and of
+[45:48] course that becomes the drive we can't
+[45:50] put a stretch in there because we need
+[45:51] to put it onto here and if we just put
+[45:53] it straight on there the whole thing
+[45:55] would come out so there's a cap that
+[45:56] goes on there to hold everything in and
+[45:58] of course that cap needs to be UPS on
+[46:02] first so that cap goes there that goes
+[46:04] in there and that's how we connect all
+[46:06] of this stuff and then we stack up our
+[46:08] three gear system so that we can then
+[46:10] slide it into the gearbox housing I have
+[46:13] of course prepared these in tinkercad so
+[46:17] if anybody wants those STL files the
+[46:19] link is in the description they're
+[46:21] freely available to anybody and any
+[46:23] improvements or changes you want to make
+[46:25] to it please feel free now all we're
+[46:28] really going to do is connect all these
+[46:31] together in that stack of three that we
+[46:34] did before so it makes a stack of three
+[46:36] like that
+[46:37] that section goes on here the whole
+[46:39] thing slides in there and that cap will
+[46:41] be in between to spit onto there so
+[46:43] we're going to put that together okay
+[46:49] let's go and again it's in the tinkercad
+[46:51] files and that just press fits onto
+[46:53] there
+[46:56] okay and then they're free to Flap up
+[46:59] and down and now we can slot the entire
+[47:02] gearbox back into the wind generator
+[47:04] section
+[47:07] now when we've done that there you go
+[47:09] one folding winter behind that pretty
+[47:12] wicked actually so it Foams up really
+[47:14] nicely that's about the parts of it it's
+[47:16] a bit heavier than the other one that
+[47:18] we're looking for we'll go about two
+[47:20] kilos here now but I've left a foot on
+[47:23] it right there that foot plate obviously
+[47:26] is going to take a pole or whatever you
+[47:28] want to fix it you have to make a fix
+[47:29] into the foot plate and fit to whatever
+[47:31] it is you want to fix it to and then of
+[47:34] course this back piece for a folding for
+[47:35] a natural wind turbine we need to put a
+[47:37] pole coming out of the back here with
+[47:40] the fin on it so that it's wind
+[47:41] direction but that is the wind turbine
+[47:44] the folding wind turbine pretty much
+[47:46] finished now there is one other issue
+[47:48] with this that I want to discuss with
+[47:49] you and that is the blades the blades
+[47:51] obviously fold out they're going to
+[47:53] collapse back in unless we do something
+[47:56] right here and that I have been
+[47:59] pondering longer and hard and the
+[48:01] solution I've come up with is Clips
+[48:03] you've got a couple of Clips on that
+[48:04] they snap into place and they hold it
+[48:08] out so they hold the wind turbine blade
+[48:11] out I think a better solution is
+[48:13] required something like maybe a
+[48:15] retaining pin or some other way but I'm
+[48:17] going to use these clips to hold it out
+[48:19] because it's expedient and quick and
+[48:22] that's what I want to do because I want
+[48:23] to get this thing tested
+[48:44] marriages have to go around building any
+[48:47] generation system doesn't matter I only
+[48:50] chose the folding wind turbine as an
+[48:52] example because
+[48:54] all the way along the way you're going
+[48:57] to be making choices if you understand
+[48:59] that the system is made of three basic
+[49:01] components input output and Link you're
+[49:03] going to be able to go a lot further
+[49:04] because a lot of those choices aren't
+[49:06] the question of what's best they're
+[49:08] actually a question of what's
+[49:09] appropriate I mean if you live in a
+[49:11] built-up urban area you are not going to
+[49:13] be building a five meter Wind Tower
+[49:15] equally if you're going backpacking
+[49:16] you're not going to be logging a two
+[49:19] meter via WT with you it very much
+[49:22] depends what you want to what's going to
+[49:25] be appropriate rather than what is best
+[49:29] best must include your situation your
+[49:32] skills your money you've got available
+[49:34] what objectives you have for it and
+[49:36] having choices for that is really
+[49:39] important but being able to put those
+[49:42] together in a logic so that you can
+[49:44] actually build something within a
+[49:46] framework I think is equally important
+[49:48] now like everybody I have my favorites I
+[49:51] mean I'm a particular fan of the
+[49:53] serpentine coil for the general red
+[49:55] which is why we went into it I'm quite a
+[49:57] fan of compound gears and magnetic gears
+[50:00] although we ended up with planetary
+[50:01] gears and I'm a huge fan of vawts
+[50:04] although he did a foldable hedge awt so
+[50:07] it's not really a question of best best
+[50:10] is just such a broad concept which is
+[50:13] why there are so many different types
+[50:15] that can become confusing but the whole
+[50:17] system itself
+[50:19] it's always the same three things anyway
+[50:21] I hope you enjoyed the video thank you
+[50:23] very much for watching and please do
+[50:25] remember to like And subscribe

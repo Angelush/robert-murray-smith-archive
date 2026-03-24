@@ -1,0 +1,255 @@
+[00:00] [Music]
+[00:07] hi everybody so in video 2113 we talked
+[00:10] about the heirloom wind turbine and what
+[00:12] it was in general what I want to do now
+[00:14] is look at a bit deeper in it into it
+[00:17] and have a look at how it actually
+[00:18] generates the power now I'm going to
+[00:21] draw some parallels and I'm going to
+[00:22] draw the parallels because I think
+[00:24] they're an AED to understanding I don't
+[00:26] want to rubbish what arloom are doing I
+[00:28] don't want to suggest that they're just
+[00:30] rehashing old ideas I think that what
+[00:32] they're doing is actually pretty cool
+[00:35] but it is based on what went before and
+[00:38] what went before will certainly help us
+[00:40] understand very clearly what heirloom
+[00:42] are up to now I don't know if you
+[00:44] remember this this is in fact a squirrel
+[00:46] cage rotor and we've got some airf
+[00:48] shaped blades in there held apart by two
+[00:51] rigid Rings one that and one there if we
+[00:54] were to replace those with flexible
+[00:57] Cable in the center we will in fact have
+[00:59] generated ourself an heirloom generator
+[01:02] we do it this way because what we wanted
+[01:04] to do at the time was transfer this
+[01:06] rotation to a central axle to drive a
+[01:09] single generator now heirloom said that
+[01:11] their blads are free to rotate and so
+[01:14] they can be trimmed and of course we did
+[01:16] create this where the wings are free to
+[01:19] rotate but again we have a rigid ring at
+[01:22] the bottom and a rigid ring at the top
+[01:24] and the energy is transferred through
+[01:26] the bottom ring to one single generator
+[01:29] and this is one of the things I actually
+[01:31] I find quite
+[01:32] gratifying because for ages I've been
+[01:35] talking about generation at The Rim as
+[01:38] opposed to generation at the center the
+[01:41] idea with the standard
+[01:43] hawt is the wind interplays with these
+[01:46] the torque is transferred to a central
+[01:48] generator and that's the standard way of
+[01:50] generating generating from this Center
+[01:53] requiring a great deal of Talk and of
+[01:55] course I was saying that all of the
+[01:57] energy really is on the tip of the blood
+[01:58] and very little is is actually here and
+[02:00] this is pretty much wasted space if you
+[02:03] were able to use this section and
+[02:05] generate at The Rim then you're going to
+[02:09] get better generation it's something
+[02:11] I've been saying for years now it seems
+[02:14] that heirloom have taken that on board
+[02:17] now what I mean by generation of the rim
+[02:19] is that the coil is actually on the rim
+[02:21] of the device and then we have a disc
+[02:23] with a load of magnets on it and as it
+[02:25] rotates of course the generation takes
+[02:28] place here rather than having a central
+[02:30] generator on the shaft the generation
+[02:33] actually is right at the edge of the
+[02:35] machine now all the machines I've showed
+[02:37] you so far have had rigid structures
+[02:39] that's if they've been ring designs and
+[02:41] they've been fairly rigid but
+[02:43] conceptually in fact practically there's
+[02:46] no real difference between having a
+[02:48] rigid ring and having a flexible cable
+[02:51] or a chain taking the place of the rigid
+[02:54] ring you still have identically the same
+[02:58] structure with the same philosophy of
+[03:01] generation at The Rim now aom are being
+[03:04] sorry AOL Loom are being a bit um Coy
+[03:07] about that and on their um imagery what
+[03:09] they just point out is an arrow saying
+[03:11] power takeoff so you have to wonder how
+[03:15] exactly that power is being drawn off
+[03:17] they talk about a linear generator so
+[03:20] I'm thinking that what's on that cable
+[03:22] is a linear magnet passing a linear coil
+[03:26] at The Rim here of course we've got a
+[03:28] serpentine coil but again conceptually
+[03:31] there's no difference in fact
+[03:33] practically there's no difference
+[03:36] between what we've done here and what
+[03:38] they're doing on the aerom mine um yeah
+[03:42] heirloom there we go I keep getting
+[03:43] aerom mine and heirloom mixed up but no
+[03:46] difference between what they're doing on
+[03:48] the heirloom generator and what we've
+[03:50] been doing over a whole range of videos
+[03:53] it's identical in its concept is what I
+[03:56] want to get there because you'll get a
+[03:57] hold of what it is that they're do doing
+[04:00] much more easily I think we did exactly
+[04:03] the same thing with our airball
+[04:05] generator the magnets are on the rim
+[04:08] we're generating at The Rim now saying
+[04:11] something and doing something are two
+[04:13] different things although we can talk
+[04:15] about the principles and how we've been
+[04:16] using those principles already that's
+[04:18] not the same thing as creating a model
+[04:21] based on what heirloom have actually
+[04:23] done so I thought that's what I would do
+[04:25] create a model I didn't like the idea of
+[04:28] the cable I thought that was going to be
+[04:30] uh a little difficult to handle at a
+[04:32] model size so I'm going to do a chain
+[04:35] driven version because we've already got
+[04:36] these chains we've designed them we've
+[04:38] printed them we've used them I quite
+[04:40] like them so we're going to do a chen
+[04:42] model in this early prototype
+[04:44] development that I'm looking at I've
+[04:46] created an NACA air foil with a couple
+[04:49] of the links attached to there in a 30°
+[04:52] angle to the angle of the chain so I can
+[04:54] put these together as a chain of these
+[04:57] and there we go we have a chain of them
+[05:00] and then we can chain those together and
+[05:02] there are five links between each one so
+[05:04] 67 links will be here and 67 links will
+[05:07] be here making us a total double chain
+[05:11] loop of 11 of these and so we're going
+[05:14] to put that together to see what kind of
+[05:18] structure we're actually going to get
+[05:20] and how well it's going to work and
+[05:21] whether it's going to work in accordance
+[05:23] with some of the things I'm thinking of
+[05:25] course we need a structure therefore for
+[05:28] the structure all have actually done is
+[05:29] printed a square and at the corners of
+[05:31] the squares I put little recesses to
+[05:34] take some skater bearings because I love
+[05:36] skater bearings one goes in each corner
+[05:38] and then we can put these on which are
+[05:41] Drive cogs which just go into this be
+[05:43] bearing like that there's a little clip
+[05:45] at the back that will glue onto the back
+[05:47] and we put those on all four corners on
+[05:50] both of these
+[05:51] structures so that's what they look like
+[05:53] when they're done and they got these
+[05:54] little Clips just glued on the back
+[05:56] there so that they're free to spin and
+[05:57] there's one from the top and one for the
+[05:59] bottom because now we put all the links
+[06:01] together there it is with our flaps
+[06:03] between of course we've got a top and
+[06:04] bottom chain all these links are five
+[06:07] apart from this one which is six and
+[06:09] that's because of the unevenness of that
+[06:11] it needs an extra link just to make sure
+[06:13] that it fits now we've got it there we
+[06:15] can put it on there and connect those
+[06:18] up okay that's it put together I do like
+[06:21] working with models when I get something
+[06:23] in my hands I can start to think about
+[06:25] it rather than it being a little bit
+[06:27] esoteric I've put U three of these
+[06:29] incidentally these are 131 mm long by 8
+[06:32] mm rods that are printed and they're in
+[06:34] the files uh and they're in the center
+[06:36] there they go those three holes to give
+[06:38] it a bit of U rigidity in that direction
+[06:41] having made this of course what we can
+[06:42] see is that it is going that way around
+[06:44] but equally of course that way around
+[06:46] will be just as good and I imagine it
+[06:48] would work really well in water I
+[06:50] haven't added tubic yet because I'm
+[06:52] still sort of working out ideas and
+[06:54] obviously when I look at this I can see
+[06:56] some things that I would change about it
+[06:58] immediately I mean I mean we've put two
+[07:00] chains on it and they had one Central
+[07:02] cable I do like the chains I'll keep
+[07:04] those but these flaps are a little
+[07:05] nearer and when I made the chains I made
+[07:07] them rigid cuz I figured that they would
+[07:09] flap around on the Chain a little bit I
+[07:12] don't actually think that's enough so I
+[07:13] think what I need to do is um decrease
+[07:16] this I got a bit more clearance and have
+[07:17] a way that this is a bit more free to
+[07:19] Flap like we did in the earlier version
+[07:22] but that's it put together as a model of
+[07:24] course I have made these files available
+[07:26] on thingiverse should anybody want them
+[07:28] and the link is down in the
+[07:31] description but is pretty cool it
+[07:33] reminds me a bit actually of a tank
+[07:34] track of course as this turns these
+[07:38] gears also turn so it's another takeoff
+[07:41] possibility here is that if we put a um
+[07:44] Central generator on these poles then of
+[07:47] course we could take off the energy
+[07:48] there rather than having this um
+[07:50] generation at The Rim that I like we
+[07:52] could actually put it on there and be a
+[07:54] bit more traditional about it okay so
+[07:57] even though I think there's a lot wrong
+[07:58] with this we've got to see if it works
+[08:00] haven't we there's not much wind so what
+[08:02] I've got is a fan here a blower fan and
+[08:05] we're going to turn that blower fan on
+[08:07] it and of course I'm pointing it at the
+[08:09] bled so giving it its best chance to
+[08:11] work but let's turn it on and see if we
+[08:14] can actually get that to
+[08:27] rotate actually
+[08:29] works that's that is awesome
+[08:43] huh okay that was awesome and without
+[08:46] wanting to sound too arrogant I actually
+[08:48] really expected that to work there no
+[08:50] real surprise cuz it's all the same
+[08:53] stuff the only reason it's a circle is
+[08:55] because we want to have it on a central
+[08:57] generator mostly by habit and if we
+[09:00] don't want that anymore then a circle
+[09:03] doesn't matter if it's a circle or a
+[09:05] square or a triangle or whatever it is
+[09:07] and of course all motion is relative so
+[09:09] it equally doesn't matter if it's that
+[09:11] way up it doesn't matter if the circle
+[09:13] follows that path or we follow a zigzag
+[09:15] path none of this stuff actually is any
+[09:18] different it's all conceptually the same
+[09:20] of course in terms of engineering it's
+[09:22] different and so you have to build it
+[09:24] and see because you think one thing and
+[09:27] then the actual build will show you
+[09:29] other things that you didn't think about
+[09:31] for all the best will in the world and
+[09:34] sometimes you think about things that
+[09:36] well that's the was of time doing them
+[09:38] but doing a build teaches you so much
+[09:41] about what you really need to be
+[09:42] thinking about so of course I have met
+[09:45] this available I'd love it if people
+[09:46] took it up and and changed it made their
+[09:48] own device looked at what they thought
+[09:51] was important and built something and
+[09:53] shared that with everybody I'll be
+[09:54] having a better look at this because I
+[09:56] did enjoy that actually and see what
+[09:58] else we can do with it and whether we
+[10:00] can improve it I hope you enjoyed the
+[10:02] video thank you very much for watching
+[10:04] please do remember to like And
+[10:06] subscribe

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "UgwxZCG1fEXSerr_BB54AaABAg",
+    "author": "@phonzy",
+    "author_channel_id": "UCrWWeh-SDFoOQ4hVsd0evqA",
+    "text": "Lol breath Luke, you got this",
+    "likes": 0,
+    "published_at": "2019-11-28T06:28:26Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyuV3wPWMC8byUhkX54AaABAg",
+    "author": "@401ksolar",
+    "author_channel_id": "UCv3q-yunl8EUJmDJyFXQqJA",
+    "text": "Luke, a simplified project to the same result...you could use a 555 timer IC driving a power mosfet thus eliminating the droid box, I get excited about people learning new things and you seem interested in electronics engineering and that is great, ARRL  has free educational resources that you can refer to, swig of coffee to ya...(same as cheers mate)",
+    "likes": 0,
+    "published_at": "2019-11-21T19:53:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzcZIPyp3waVXFUIvN4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "Instant Like 👍",
+    "likes": 1,
+    "published_at": "2019-11-21T18:29:29Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwhFz1gIOO_VreXTHp4AaABAg",
+    "author": "@anthonydonnelly4069",
+    "author_channel_id": "UCNyUDEFAQ38BT6ga0R1xLGg",
+    "text": "Yea! Same effect as our AC power supply at home.\nExcept square wave and not sinusoidal but the same as far as our eyes are concerned.",
+    "likes": 1,
+    "published_at": "2019-11-21T14:52:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxo-BZRIJYU284OkBB4AaABAg",
+    "author": "@brothernobody1775",
+    "author_channel_id": "UCd0tX-eX4UFQMfATBCmDS3Q",
+    "text": "Check out the \"Feynman method\" for figuring how to help remember and convey technical info easier. also helps in learning a subject in depth as you are analyzing info through the language centers of the brain (Talk it out to work it out) , good job on the video all in all. \nu know u gotta make a flipbook now right? Lol...",
+    "likes": 0,
+    "published_at": "2019-11-21T14:03:00Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxqj17yauqEEUUKhQF4AaABAg",
+    "author": "@dgpreston5593",
+    "author_channel_id": "UC-s9pUem13JJhKcDbpTaOyg",
+    "text": "Well done, Luke. I enjoy using PWM with arduino projects. And you may also enjoy an h-bridge hat with your arduino. With it, you can show motor speed control in both forward and backward directions, still using PWM.  But be careful driving an LED \"in reverse\"! They don't fair nearly as well.  Keep the videos coming, great fun.",
+    "likes": 1,
+    "published_at": "2019-11-21T13:27:01Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugxy6pa_XRLcyjpTYiB4AaABAg",
+    "author": "@Wilksey37",
+    "author_channel_id": "UCcMMA5093_vbZ2MFzAenzPg",
+    "text": "PWM essentially works by turning on and off many times (creates a square wave), the frequency is fixed to around 490Hz on the Uno at 16MHz, the time on to time off is called the duty cycle, so 50% duty would be off for half the time and on for half the time, the way our eyes perceive light at such a fast rate (which is how some LED matrix displays work) is called persistence of vision so turning a output in on and off fast the LED reacts to this by appearing \"dim\" but in reality the voltage is being given and taken away so quickly that it hasn't time to turn fully off, and we can't see these transitions we just see a \"dim\" LED.",
+    "likes": 2,
+    "published_at": "2019-11-21T13:14:40Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz5beSsppJOVwKiOgl4AaABAg",
+    "author": "@mamodmahmod708",
+    "author_channel_id": "UCtZ0Dngrbm2Q0Z-MXxQTKwg",
+    "text": "I ask you to help me ... as I make battery of aluminum foil ... and please which liquid should be ... ???",
+    "likes": 0,
+    "published_at": "2019-11-21T12:39:44Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugz5beSsppJOVwKiOgl4AaABAg.91agK9a72HP91b9GiFKJmH",
+        "author": "@wanderingzanzey2126",
+        "author_channel_id": "UCxWrRoiLVmv2iRdgxOOK9Xw",
+        "text": "Aluminium chloride hexahydrate with urea and choline chloride in a glycerol matrix. Then Al as the negative, a porous and dielectric separator material, and carbon or Ni foam as the positive electrode. Is rechargable, average voltage of 1.8 - 2.5V per cell and over 600mA/g",
+        "likes": 1,
+        "published_at": "2019-11-21T17:01:24Z"
+      },
+      {
+        "id": "Ugz5beSsppJOVwKiOgl4AaABAg.91agK9a72HP92dgY3izqOP",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "best not posting this kind of question to Luke mate - he doesn't know the answer -  Zacariah gave a good answer",
+        "likes": 2,
+        "published_at": "2019-12-17T13:10:45Z"
+      },
+      {
+        "id": "Ugz5beSsppJOVwKiOgl4AaABAg.91agK9a72HP92diY1asyHu",
+        "author": "@mamodmahmod708",
+        "author_channel_id": "UCtZ0Dngrbm2Q0Z-MXxQTKwg",
+        "text": "Thank You mann",
+        "likes": 0,
+        "published_at": "2019-12-17T13:28:13Z"
+      },
+      {
+        "id": "Ugz5beSsppJOVwKiOgl4AaABAg.91agK9a72HP92eTDVY8Hyw",
+        "author": "@wanderingzanzey2126",
+        "author_channel_id": "UCxWrRoiLVmv2iRdgxOOK9Xw",
+        "text": "I actually made a mistake here, i am going to mention it just for other people readign the comments - Glycerol is incorrect. I meant to say Ethylene Glycol. Not Glycerol. The electrolyte is a Deep Eutectic Solvent with AlCl as the active ion.",
+        "likes": 0,
+        "published_at": "2019-12-17T20:24:51Z"
+      },
+      {
+        "id": "Ugz5beSsppJOVwKiOgl4AaABAg.91agK9a72HP92eU9nWHpJl",
+        "author": "@mamodmahmod708",
+        "author_channel_id": "UCtZ0Dngrbm2Q0Z-MXxQTKwg",
+        "text": "@wanderingzanzey2126 trank You \n\n\nDanke schön",
+        "likes": 0,
+        "published_at": "2019-12-17T20:33:05Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyJlbrNtAcPzYKadOJ4AaABAg",
+    "author": "@waynetynan8615",
+    "author_channel_id": "UCQszn81sH_mgqWvBJeJdjuA",
+    "text": "Obviously haha",
+    "likes": 1,
+    "published_at": "2019-11-21T11:40:21Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwVlqTWUMr3B0U4Y8R4AaABAg",
+    "author": "@MarineBoar",
+    "author_channel_id": "UCj6E3T178r7_fHpEa5iXs0A",
+    "text": "Dear young man,  Get a haircut and clothes that fit properly and learn to talk about a subject without giggling like you don't know what you're reading....    SMH...",
+    "likes": 2,
+    "published_at": "2019-11-21T10:52:02Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwVlqTWUMr3B0U4Y8R4AaABAg.91aV-LbP2Uc91ajK_PRJ56",
+        "author": "@Wilksey37",
+        "author_channel_id": "UCcMMA5093_vbZ2MFzAenzPg",
+        "text": "Bit harsh mate, at least he's having a go!",
+        "likes": 2,
+        "published_at": "2019-11-21T13:06:00Z"
+      },
+      {
+        "id": "UgwVlqTWUMr3B0U4Y8R4AaABAg.91aV-LbP2Uc91ap3NKzRAS",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "I call it personality.  Tbh it doesn't really really matter how i look, as long as someone enjoys the video, that's all that matters.\nLike I said in this video is a learning experience for everyone.",
+        "likes": 2,
+        "published_at": "2019-11-21T13:56:05Z"
+      },
+      {
+        "id": "UgwVlqTWUMr3B0U4Y8R4AaABAg.91aV-LbP2Uc91bMpiHynLx",
+        "author": "@buckhinschwey",
+        "author_channel_id": "UCX_w0dhszmOWy9p2FKsPmEQ",
+        "text": "@marineboar you spelt bore wrong",
+        "likes": 1,
+        "published_at": "2019-11-21T18:59:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyyQnLXYw8_FMGOH114AaABAg",
+    "author": "@sidneytwining1958",
+    "author_channel_id": "UCTMvwpPrhaTvJ6HQaG21rPQ",
+    "text": "May this arrangement handle large currents/power?  What would be different?",
+    "likes": 1,
+    "published_at": "2019-11-21T10:47:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyyQnLXYw8_FMGOH114AaABAg.91aUXVjsxa491ajB8Stb_N",
+        "author": "@Wilksey37",
+        "author_channel_id": "UCcMMA5093_vbZ2MFzAenzPg",
+        "text": "No, the Arduino can only handle 20-30mA of current (check spec) you would need a FET or something to drive large currents.",
+        "likes": 1,
+        "published_at": "2019-11-21T13:04:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwTgST23A-LQeZMWnl4AaABAg",
+    "author": "@stevenlewis9234",
+    "author_channel_id": "UCKGWNOPQ31bpXS2UePm0oVA",
+    "text": "First view.",
+    "likes": 1,
+    "published_at": "2019-11-21T10:16:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwTgST23A-LQeZMWnl4AaABAg.91aQxxPhh0l91apFkMRocu",
+        "author": "@MyNameIsLukey",
+        "author_channel_id": "UC7R08Y1PfEuBm63Sx_m-rZg",
+        "text": "Winner Winner, Chicken dinner!",
+        "likes": 0,
+        "published_at": "2019-11-21T13:57:47Z"
+      }
+    ]
+  }
+]

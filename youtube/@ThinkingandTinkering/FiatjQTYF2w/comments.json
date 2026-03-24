@@ -1,0 +1,676 @@
+[
+  {
+    "id": "Ugw6YsZ-Mofp7qPYcCd4AaABAg",
+    "author": "@russellrawlings6627",
+    "author_channel_id": "UC0OkmnAbBg65Yfj40ZRYmlg",
+    "text": "Hi Robert have you got any updates on this subject?",
+    "likes": 0,
+    "published_at": "2024-11-20T08:57:36Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy666dxTOm7BTvhD3t4AaABAg",
+    "author": "@neffk",
+    "author_channel_id": "UCbAlH3wy5P_7RxFQ-qqOw8w",
+    "text": "3.5 min of intro on a 5.5 minute video",
+    "likes": 0,
+    "published_at": "2024-04-18T15:40:46Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzdqiQUppFSjAsUbLl4AaABAg",
+    "author": "@TheErikM",
+    "author_channel_id": "UC7gc7eUj3UAO1PP43zSXhgA",
+    "text": "Do you put anything in a crisp packet and smell it all day long?",
+    "likes": 0,
+    "published_at": "2024-02-05T19:28:10Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugy0y7KI5kLionXzIl54AaABAg",
+    "author": "@ollyk22",
+    "author_channel_id": "UCboH9G7vlKLfcJzi_VJxOMQ",
+    "text": "Hi Robert, thanks for your videos. It would be cool to know the optical clarity of the lens you printed, as I am seriously considering one of these printers for producing lightpipes and other optical parts.!",
+    "likes": 1,
+    "published_at": "2022-08-23T10:21:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy0y7KI5kLionXzIl54AaABAg.9f3oCaV7XcQ9ieiUL6t4kW",
+        "author": "@thewatersavior",
+        "author_channel_id": "UC6zn6KUPGsK8hD8v_56LVkQ",
+        "text": "Same idea here.. considering trying to use some cheap fiber optic thread as \"filament\" to see what happens.. PMMA melts at 160C",
+        "likes": 0,
+        "published_at": "2022-11-20T17:16:54Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwAdt4QTcVeV5MitZZ4AaABAg",
+    "author": "@kokorosenshi",
+    "author_channel_id": "UCy0ybuM6OdZFholgiOfaHPg",
+    "text": "if you need parts of a print to be conductive, you might benefit from a dual extrusion fdm 3d printer. You'll be able to use two different types of spools. One, ABS or PLA for the main body of the print and the second spool that is either conductive or graphene infused. You can take a normal 3d printer and convert it to a dual extrusion 3d printer but it will reduce the printing space.",
+    "likes": 0,
+    "published_at": "2022-01-31T07:35:02Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwAOTMamqLszOo2Fel4AaABAg",
+    "author": "@htmagic",
+    "author_channel_id": "UCi-96s3e_9NVZFmMkAn0djg",
+    "text": "RMS, try silver nanoparticles instead of graphite for conductive resin. The silver nanoparticles may let more UV light into the part to cure it.",
+    "likes": 2,
+    "published_at": "2022-01-19T20:26:45Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzykBKNxGGHtsT7L3F4AaABAg",
+    "author": "@svenp6504",
+    "author_channel_id": "UCZgVbgNrkucGmY9wcHMmkyg",
+    "text": "Re: conductivity, tin oxide and indium-tin oxide are conductive (often used for making plastics and glass conductive) and optically transparent, though I'm not sure if they would be in the UV range.  If they are transparent in the UV range then you wouldn't run into the issue of the resin not setting.",
+    "likes": 6,
+    "published_at": "2022-01-19T16:22:59Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxVsmSoCkRFkg_9xv94AaABAg",
+    "author": "@TeslaFactory",
+    "author_channel_id": "UCnjvovGFzOzv6mBa7d-p0bQ",
+    "text": "What about metal nanoparticles? Could decrease the amount of graphene needed",
+    "likes": 1,
+    "published_at": "2022-01-19T07:28:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyrBnjZirhOv0r6i494AaABAg",
+    "author": "@-robo-",
+    "author_channel_id": "UCin97LQmWaN-D0im3Ht4XOA",
+    "text": "Conductive: what if you added to your design \"channels\" where the graphene could be painted once the print is done. Just deep enough so the working ink won't rub off.  Perhaps the channels could be in between connecting parts so it is is protected (embedded) once the final model is assembled. If the model doesn't  have multiple parts, design in small tunnels were working ink could be pushed through via air pressure. The net effect would be \"paint in\" wiring. (You can say it. It's OK. I believe the word is brilliant.)\n\nFumes:  build a fume hood you goof lol! You certainly have the skill and I would hazard a guess you have the parts. I  have my resin printer in a DIY enclosure that vents directly outside. I took a $10 plastic shelf kit and covered it with winterizing window plastic (shrinks with heat, crystal clear). The only tricky bit was the door, and I just 3D printed a frame and hinges and used more of window wrap. I use regular dryer hose and a PC fan to move the air. I cut a panel just wider than the vent to fit my window. When I need to use the resin printer, I simply close the window against the board and I am ready to go. Things I plan to upgrade: 1. weather stripping around the board for a better seal. 2. a stronger fan so the enclosure can be used as a fume hood when the door is open. 3. idk yet, but there is always room for improvement.",
+    "likes": 1,
+    "published_at": "2022-01-18T20:10:23Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyrBnjZirhOv0r6i494AaABAg.9XM656kebmc9XO0Ev-EUwl",
+        "author": "@j.f.christ8421",
+        "author_channel_id": "UCwf4Do5WhYdIcRGO0fw-Lbw",
+        "text": "Those channels sound like awfully convenient places to run copper wire.",
+        "likes": 2,
+        "published_at": "2022-01-19T13:57:46Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyqwAdBm4TK1HWUWrp4AaABAg",
+    "author": "@das250250",
+    "author_channel_id": "UCXpNMOetW6f2bvbM4oC6HQA",
+    "text": "Does a substance that has less smell have less harm ? It is a rhetorical question however some people may walk away with that's what it means. That appears to be the bench mark presented . Just making a note to you. Thanks as always for your work .",
+    "likes": 1,
+    "published_at": "2022-01-18T14:48:55Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyKBMP_gEBwEE45HVh4AaABAg",
+    "author": "@TamasEduard",
+    "author_channel_id": "UCwaZXXT96_uK5jWiVz7WzlQ",
+    "text": "🙏👍🙏",
+    "likes": 0,
+    "published_at": "2022-01-18T14:21:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyPBWPWG22BFMlrccd4AaABAg",
+    "author": "@TheOnlyUnleadedOnly",
+    "author_channel_id": "UCGz9uk6xEr2g5Vi6Z8In2JA",
+    "text": "Perhaps look into Transparent conductive oxides.  I know little about them, but I have heard of them used in smart phone glass.  Keep inspiring.",
+    "likes": 3,
+    "published_at": "2022-01-18T14:04:20Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgwL6qQX6DrOVaR6bht4AaABAg",
+    "author": "@paulmaydaynight9925",
+    "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+    "text": "try flashing it with high intensity 'lime light' ? until you find the active light frequency that penetrates the cure",
+    "likes": 1,
+    "published_at": "2022-01-18T12:23:48Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzbPAsIfU3dUnLVcjp4AaABAg",
+    "author": "@nigelwilliams7920",
+    "author_channel_id": "UCpde1v_3PwNKdyQTzAhZKtg",
+    "text": "Could you print a honeycomb pattern (at appropriate scale) of your conductive ink onto the part at mid-stage then overlay with more resin so you have a conductive matrix within the piece.  Do blobs where you intend to connect.  Like an internal printed circuit.",
+    "likes": 1,
+    "published_at": "2022-01-18T06:22:21Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzbPAsIfU3dUnLVcjp4AaABAg.9XKcKTppxF39XKgRZsRViq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's clever thinking mate - cheers",
+        "likes": 0,
+        "published_at": "2022-01-18T06:58:16Z"
+      }
+    ]
+  },
+  {
+    "id": "UgywhrpusRgzxq8FF_14AaABAg",
+    "author": "@sum_rye",
+    "author_channel_id": "UCKj09EYI8fZ-TZRcM1Xw5Pw",
+    "text": "check out the channel Integza he 3d prints with some ceramic impregnated resin for heat resistant parts. And some metal impregnated plastic filament, not useful for the resin printer but it could offer some valuable insight into using or making impregnated plastics. Also his stuff is pretty cool!  And I'm also going to recommend again, that you check out \"The Fan Showdown\" series by the youtuber Major Hardware, it would be very cool to see you and Luke do something similar but with designs for the pc fan generator.",
+    "likes": 1,
+    "published_at": "2022-01-18T05:48:51Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgxTgKbbG7EsjooNS_t4AaABAg",
+    "author": "@brandenkembel4579",
+    "author_channel_id": "UCBHXTjhEgF3zlmx4z_lYVbg",
+    "text": "I saw a article in make magazine that you can make conductive clay using among other things salt and cream of tartar I wonder since both are lite in color if they would help the conductivity of resin but can't test myself because don't have a resin printer",
+    "likes": 0,
+    "published_at": "2022-01-18T03:09:15Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxTgKbbG7EsjooNS_t4AaABAg.9XKHECH993n9XKg_R2SH6s",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "strictly speaking mate that's ionic conductivity - like in electrolysis - basically it will work but won't last that long - nice idea though cheers",
+        "likes": 0,
+        "published_at": "2022-01-18T06:59:29Z"
+      },
+      {
+        "id": "UgxTgKbbG7EsjooNS_t4AaABAg.9XKHECH993n9XLXY9h_XGA",
+        "author": "@brandenkembel4579",
+        "author_channel_id": "UCBHXTjhEgF3zlmx4z_lYVbg",
+        "text": "@ThinkingandTinkering well was just a thought but thanks for the reply in any case love watching your channel",
+        "likes": 0,
+        "published_at": "2022-01-18T14:51:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw-teuTO83n10QLMBh4AaABAg",
+    "author": "@WTF_BBQ",
+    "author_channel_id": "UCYxMfWQCTP9B2yCuO4WvkMg",
+    "text": "Instead of using graphene to make it conductive,    can you use copper nano particles ??",
+    "likes": 1,
+    "published_at": "2022-01-18T02:35:08Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "Ugw-teuTO83n10QLMBh4AaABAg.9XKDKGNmlXP9XKgcYV0Q1M",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "will you stop stealing my ideas lol - I am kidding mate - nice one - cheers",
+        "likes": 2,
+        "published_at": "2022-01-18T06:59:54Z"
+      },
+      {
+        "id": "Ugw-teuTO83n10QLMBh4AaABAg.9XKDKGNmlXP9XKim1B9xC4",
+        "author": "@WTF_BBQ",
+        "author_channel_id": "UCYxMfWQCTP9B2yCuO4WvkMg",
+        "text": "@ThinkingandTinkering \nHaha,  it really was your idea to begin with.",
+        "likes": 2,
+        "published_at": "2022-01-18T07:18:41Z"
+      },
+      {
+        "id": "Ugw-teuTO83n10QLMBh4AaABAg.9XKDKGNmlXP9XM07op3mt5",
+        "author": "@mamupelu565",
+        "author_channel_id": "UCqmp3tEQuDkAa7x4qqbGrWA",
+        "text": "@ThinkingandTinkering \nthose copper nano particles are amazing and I saw it first here on your channel!",
+        "likes": 2,
+        "published_at": "2022-01-18T19:18:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwRR-255K8AQihqyfJ4AaABAg",
+    "author": "@rickolson9011",
+    "author_channel_id": "UCyWALdvkw5obgSQYr_qnbew",
+    "text": "YET ——- IS THE WORD!",
+    "likes": 0,
+    "published_at": "2022-01-18T01:11:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwRR-255K8AQihqyfJ4AaABAg.9XK3iZi_LrP9XKgdRaV9YI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - yep",
+        "likes": 0,
+        "published_at": "2022-01-18T07:00:02Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxxh9Bp6oHKM6TA1BZ4AaABAg",
+    "author": "@dexterdequoitdikkentheworl87",
+    "author_channel_id": "UCNwajQUKEIPWJwmbQTQaExQ",
+    "text": "Hahaha,in nz,i.p.a stands for india pale ale,...wash them in beer bro...lol...xc",
+    "likes": 0,
+    "published_at": "2022-01-18T00:58:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxxh9Bp6oHKM6TA1BZ4AaABAg.9XK2IS-9mtX9XKgfeRlvk0",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2022-01-18T07:00:20Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz9sS5I8pcRrAri6KZ4AaABAg",
+    "author": "@zylascope",
+    "author_channel_id": "UCphMk5-_5d-DivOnXDBgbhw",
+    "text": "I wonder can it print a convex lens?",
+    "likes": 1,
+    "published_at": "2022-01-18T00:43:28Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz9sS5I8pcRrAri6KZ4AaABAg.9XK0YNBx3TO9XKgjyzYUva",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I would think so mate if it can print a working fresnel I would be pretty sure it can do a convex lens",
+        "likes": 1,
+        "published_at": "2022-01-18T07:00:55Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxyUwSjWj_MYb-cKdB4AaABAg",
+    "author": "@rayg436",
+    "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+    "text": "Stubborn SOB lol  \nCan be said about most males",
+    "likes": 0,
+    "published_at": "2022-01-17T23:16:27Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxyUwSjWj_MYb-cKdB4AaABAg.9XJra3lf-Fj9XJrxPLG-Uo",
+        "author": "@rayg436",
+        "author_channel_id": "UC30SFVEUZoyvV_N2FH7sSNQ",
+        "text": "You might want to try unbending a thin line of graphin on one edge of your filament",
+        "likes": 0,
+        "published_at": "2022-01-17T23:19:38Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx8LDMSidsY1v9NzMF4AaABAg",
+    "author": "@randomhuman1965",
+    "author_channel_id": "UCYjBiDnhuNKhDXB-BVjRLdA",
+    "text": "Could you coat it with ITO or sputter them after",
+    "likes": 1,
+    "published_at": "2022-01-17T21:47:14Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx8LDMSidsY1v9NzMF4AaABAg.9XJhNdCHzDa9XKhK8g-6xY",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "there are lots of ways to apply a conductive coating mate - to be honest the making it conductive part isn't really the issue - really what is sought is conductivity in a one step process that is cheap - or relatively inexpensive.",
+        "likes": 1,
+        "published_at": "2022-01-18T07:06:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw2GHCvTfR-_z7UaSF4AaABAg",
+    "author": "@stewartpalmer2456",
+    "author_channel_id": "UCI--sjCJJxCQZ4crGZuz4Fg",
+    "text": "You are the chemist, have you thought about adding transparent conductive oxides to you mix? This was the old tech behind LCD panels.",
+    "likes": 1,
+    "published_at": "2022-01-17T21:29:26Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugw2GHCvTfR-_z7UaSF4AaABAg.9XJfLI4qKYZ9XK0koP9RzS",
+        "author": "@zylascope",
+        "author_channel_id": "UCphMk5-_5d-DivOnXDBgbhw",
+        "text": "I once read that Graphene is transparent. I wonder if single layers of graphene could be used.",
+        "likes": 1,
+        "published_at": "2022-01-18T00:45:18Z"
+      },
+      {
+        "id": "Ugw2GHCvTfR-_z7UaSF4AaABAg.9XJfLI4qKYZ9XKhUtWWKZt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think it still is the tech behind LCD panels isn't it? Anyway, nice idea - cheers mate",
+        "likes": 1,
+        "published_at": "2022-01-18T07:07:28Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxTtudjNrZooPNhy3h4AaABAg",
+    "author": "@AlmostHfy",
+    "author_channel_id": "UC7n3vO9O8sQ_jlNE9vc6m4w",
+    "text": "Hey, keep the good work up! Have you seen any stl for large freznel ? Rectangular is preferred/marten",
+    "likes": 4,
+    "published_at": "2022-01-17T21:22:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxTtudjNrZooPNhy3h4AaABAg.9XJeWGQSLwS9XKh_ssKB4_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I haven't mate but like Kent if I do find one I will share for sure",
+        "likes": 2,
+        "published_at": "2022-01-18T07:08:17Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwktkenpGG-DSh6ODF4AaABAg",
+    "author": "@sonnyhayes689",
+    "author_channel_id": "UC0L3f13xlwFZU43Sp2kw1Dw",
+    "text": "Hi Rob... I have the same exact 3D printer and am also trying to make the material conductive for commercial product. I am using some ultra-milled carbon fiber (same type mill you use for graphite) and have some success with conductivity while resin is liquid. My percentages are too high allowing the 1.83 specific gravity CF to settle out quickly. Experimenting with various percentage of CF mixes, then curing on an open flat surface and using a set of 385nm LED lights which only cures a very thin layer, approximately 0.05mm in depth after about 2 minutes. Have not yet tried to print using my Elegoo Mar 2 Pro, that sould happen soon. In the menatime continuing to test on flat surfaces. \nWould be happy to send you some CF sample material to test at your side. Warm regards, Leo",
+    "likes": 1,
+    "published_at": "2022-01-17T20:48:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwktkenpGG-DSh6ODF4AaABAg.9XJafvOjlGA9XKhtlcBHP2",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's really kind of you mate but I have MCF, tried it and got the same results as you - there are some interesting suggestions in the comments though to look at this problem again",
+        "likes": 1,
+        "published_at": "2022-01-18T07:11:00Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxf2VD1GcS4jGhoHUN4AaABAg",
+    "author": "@stevetobias4890",
+    "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+    "text": "Love that you're still trying to get it conductive. I would love to see coated copper wires through the project so you can clean up the ends to have a printed circuit as a end result.",
+    "likes": 1,
+    "published_at": "2022-01-17T20:45:21Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "Ugxf2VD1GcS4jGhoHUN4AaABAg.9XJaIMtnqd-9XJr3vBznyq",
+        "author": "@totherarf",
+        "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+        "text": "A 3D psb?",
+        "likes": 0,
+        "published_at": "2022-01-17T23:11:55Z"
+      },
+      {
+        "id": "Ugxf2VD1GcS4jGhoHUN4AaABAg.9XJaIMtnqd-9XK1rUqOsKv",
+        "author": "@stevetobias4890",
+        "author_channel_id": "UCzWD61dUXYxkfwwB5GAuatw",
+        "text": "@totherarf why not, it is just like plugging boards into boards like they do in many cases",
+        "likes": 1,
+        "published_at": "2022-01-18T00:54:57Z"
+      },
+      {
+        "id": "Ugxf2VD1GcS4jGhoHUN4AaABAg.9XJaIMtnqd-9XK2HlwaERg",
+        "author": "@totherarf",
+        "author_channel_id": "UCDkNp3Sw0V7nlMcCV68pWsQ",
+        "text": "@stevetobias4890 or a multi layer board ..... on steroids! ;o)",
+        "likes": 0,
+        "published_at": "2022-01-18T00:58:40Z"
+      },
+      {
+        "id": "Ugxf2VD1GcS4jGhoHUN4AaABAg.9XJaIMtnqd-9XKi1e400kd",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "nice one mate and cheers",
+        "likes": 0,
+        "published_at": "2022-01-18T07:12:12Z"
+      },
+      {
+        "id": "Ugxf2VD1GcS4jGhoHUN4AaABAg.9XJaIMtnqd-9XLL55-_Jcy",
+        "author": "@paulmaydaynight9925",
+        "author_channel_id": "UClLa8CrxqKTYdXEB4aweRFg",
+        "text": "ottomh, resin prints in micron layers ? so.... resin print a 3? layer pcb track mask, mix ink & super fine copper oxide in to a paste & flux paste style fill the tracks, flash the paste solid, electro brush it to add a pure copper layer infill, dry & add a protective insulating resin top coat ,flash",
+        "likes": 0,
+        "published_at": "2022-01-18T13:02:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxEfOQNR6XOH9HI-Ah4AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "Even if you can't make the resin conductive, you can use it to print out circuits and then coat the printed circuit with conductive ink.\n\nGetting the conductive resin to work, perhaps you need to look at the see through solar cell technology and see how they managed to create those.",
+    "likes": 2,
+    "published_at": "2022-01-17T20:38:29Z",
+    "reply_count": 5,
+    "replies": [
+      {
+        "id": "UgxEfOQNR6XOH9HI-Ah4AaABAg.9XJ_W7nWipg9XKi9y_IL1v",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "perhaps using AZO dispersed in the water washable polymer?",
+        "likes": 2,
+        "published_at": "2022-01-18T07:13:21Z"
+      },
+      {
+        "id": "UgxEfOQNR6XOH9HI-Ah4AaABAg.9XJ_W7nWipg9XLaGdLWwkz",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "@ThomasAndersonbsf \n\n\"I was thinking he just needs to do thinner layers\"\n\nThere are limits to how thin a 3D printer can print.\nEverything has it's limits.",
+        "likes": 1,
+        "published_at": "2022-01-18T15:23:35Z"
+      },
+      {
+        "id": "UgxEfOQNR6XOH9HI-Ah4AaABAg.9XJ_W7nWipg9XLbXQZ13-o",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "@ThinkingandTinkering \n\"perhaps using AZO dispersed in the water washable polymer?\"\n\nPossibly.\nBut you may find that the only way to succeed in a conductive 3D print is with the filament type of printer.\n\nWith that method, you would need to make a filament that contains your conductive ink. There are videos on  YouTube that show how to build a filament extruder. \n\nIf you decide to try that route keep in mind that those printer systems don't work so well when the environment is dusty, so if your shop has a tendency to build up dust, make sure you build a cabinet for the printer or purchase a printer that comes with one.",
+        "likes": 1,
+        "published_at": "2022-01-18T15:34:37Z"
+      },
+      {
+        "id": "UgxEfOQNR6XOH9HI-Ah4AaABAg.9XJ_W7nWipg9XP_JHttL4c",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "@ThomasAndersonbsf \n\n\n\"atoms are your limit, when it comes to layer thickness,\"\n\nYou're joking right?\nThe machine that Robert has is not capable of doing atomic layering. In fact, there's not a 3D printer on the market that can do a layer that thin.\n\nThe only Atomic moving that gets done is in a lab that has a scanning tunneling microscope (STM) which has an ultrasharp tip. \n\nYou can get a single and trilayer Graphene, but that tech is still in it's infancy and is not available in a 3D printer as it took 1,510°C and 1,300°C degree temperatures to achieve.\n\nThe thickness of a layer may not have anything to do with the motors, but certainly, a stepper that has more than 280 steps per rotation would aid in achieving thinner layers.\n\nYou also have an issue with the slicing software. The better the slicer, the better the layers will come out, but it takes developing a machine and the software together, in order to achieve the finner layers. You can't always just change the controller and the slicer.",
+        "likes": 0,
+        "published_at": "2022-01-20T04:32:11Z"
+      },
+      {
+        "id": "UgxEfOQNR6XOH9HI-Ah4AaABAg.9XJ_W7nWipg9XQvGFh2ji1",
+        "author": "@scotttovey",
+        "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+        "text": "@ThomasAndersonbsf \n\"why are you insisting on telling people what they can't do?\"\n\nWhy are you insisting on misconstruing what people say and living in a delusion?\n\nI said the technology is not at the stage of being able to do it. I didn't say it could not be done. There is a big difference between the two.\n\nIf you think it can be done with current affordable technology, then purchase the tech, do it and then show the world that you have done it.\n\nRegardless of whether you do it or not; stop whining about people stating the reality of the limitations of technology. \n\nThis is not a Harry Potter hocus pocus fantasy film. This is reality. The only way to get past the limitations of technology is to develop and engineer new technology that surpasses the limitations of current technology.",
+        "likes": 0,
+        "published_at": "2022-01-20T17:03:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx5A88CYOqrpFaiPJV4AaABAg",
+    "author": "@jasonhaymanonthedrawingboard",
+    "author_channel_id": "UCRxpxHNnxUS9pIcFFlyj9Sg",
+    "text": "Could you add a salt to the resin to get it to set? So it also will be conductive? Perhaps a combo of silver nitrate and tungsten carbide polymer? The uv causing a chain reaction to make conductive nanotubes? I don’t know but it thought. Much like nano capacitors on microchips? They use a lazer deposition method. I’m just wondering?  if your small yet mighty 3D printer. will be available to achieve something similar?",
+    "likes": 0,
+    "published_at": "2022-01-17T19:56:41Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "Ugx5A88CYOqrpFaiPJV4AaABAg.9XJVivxV6ti9XKiC7UmLLb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I was thinking AZO",
+        "likes": 0,
+        "published_at": "2022-01-18T07:13:38Z"
+      },
+      {
+        "id": "Ugx5A88CYOqrpFaiPJV4AaABAg.9XJVivxV6ti9XKw3yEu311",
+        "author": "@jasonhaymanonthedrawingboard",
+        "author_channel_id": "UCRxpxHNnxUS9pIcFFlyj9Sg",
+        "text": "@ThinkingandTinkering yeah that would do it! It also would make it very compact.Alumina zinc oxide. Would work very well as there not much resistance.  Slicer also making it very easy to make 3D wires. Embedded into the resin.",
+        "likes": 0,
+        "published_at": "2022-01-18T09:14:51Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugy-rVFIr8xVRBhtGoJ4AaABAg",
+    "author": "@logik100.0",
+    "author_channel_id": "UCA_pcCPK8mnxWi_RxbPpE6w",
+    "text": "I have had no success with clear resin on that 3d Printer. Always seem to delaminate. I gave up and went back to my FDM.",
+    "likes": 1,
+    "published_at": "2022-01-17T19:21:40Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugy-rVFIr8xVRBhtGoJ4AaABAg.9XJRiXCQfES9XKiPpRoIpR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't want to brag but I have never had a print delaminate so far - I used the PTFE trick and always 'butter' the surface of the foot before starting a print - I did a video on how I go about printing",
+        "likes": 0,
+        "published_at": "2022-01-18T07:15:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyKlK-wqkkexykEH8F4AaABAg",
+    "author": "@VictorBreazzeal",
+    "author_channel_id": "UCosPmBET32286BfywKB3eBA",
+    "text": "Metal particles work pretty good with SLA PRINTERS .... just discussing but try small silver particles with graphite my intuition said it should be around 20% metal powder and up to 3 % graphite",
+    "likes": 2,
+    "published_at": "2022-01-17T19:16:11Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyKlK-wqkkexykEH8F4AaABAg.9XJR5KA3TEc9XKiVy7pmuB",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "20% metal seems high to me mate - wouldn't it just settle in the resin bath?",
+        "likes": 2,
+        "published_at": "2022-01-18T07:16:21Z"
+      },
+      {
+        "id": "UgyKlK-wqkkexykEH8F4AaABAg.9XJR5KA3TEc9XOCKwKeNWZ",
+        "author": "@VictorBreazzeal",
+        "author_channel_id": "UCosPmBET32286BfywKB3eBA",
+        "text": "@ThinkingandTinkering you need to have it well agitated but it should be fine with a thick viscosity ... But I am not sure I have not played with these printers enough .. the bottom layer is always being mixed because of the motion required for printing it prints from the bottom",
+        "likes": 0,
+        "published_at": "2022-01-19T15:43:27Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugxb5cEDA8441bIGKRx4AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Sounds great! Thanks for sharing 👏",
+    "likes": 1,
+    "published_at": "2022-01-17T18:59:19Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugxb5cEDA8441bIGKRx4AaABAg.9XJP9psPafs9XKiX1qJ--U",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2022-01-18T07:16:30Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQmiAXEz195OhAQtZ4AaABAg",
+    "author": "@saiello2061",
+    "author_channel_id": "UCsQiuEDozzUfA8eH6-CPzDQ",
+    "text": "As I'm sure you're aware, conductive graphene infused PLA filament already exists. Unfortunately it can be horrendously expensive at over £1000 per Kg for the \"good\" stuff or cheap and not so good at conducting a current. If you can come up with a good and cheap way to produce it then that'd be amazing! 👍 On the other hand, if you wanted a guarenteed way to make a printed part as conductive as metal you could always plate it 😁.",
+    "likes": 1,
+    "published_at": "2022-01-17T18:33:26Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgwQmiAXEz195OhAQtZ4AaABAg.9XJMCALKn5_9XJNQiIpst-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are quite right mate I do know that - but I see the comments as being for everyone and there will be some folks who didn't know, I am sure, so it is great you posted a heads up on this - thanks for doing it - cheers",
+        "likes": 1,
+        "published_at": "2022-01-17T18:44:09Z"
+      },
+      {
+        "id": "UgwQmiAXEz195OhAQtZ4AaABAg.9XJMCALKn5_9XJe8uJeVPN",
+        "author": "@saiello2061",
+        "author_channel_id": "UCsQiuEDozzUfA8eH6-CPzDQ",
+        "text": "@ThinkingandTinkering No worries, I always write my comments as if for a general audience, I would never assume you didn't know more than most about everything graphene... 😁 Look forward to your investigative inroads... 👍",
+        "likes": 0,
+        "published_at": "2022-01-17T21:19:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwW-HWMEezpaDB0u054AaABAg",
+    "author": "@ToninFightsEntropy",
+    "author_channel_id": "UC9MaHZ-CYK9g0aSvXekiQAA",
+    "text": "(Wrote this at 1:30 in) I wonder if there's something you can add that would refract the UV through the gaps more to get around the graphene.. or even something that causes UV fluorescence in the resin from hitting it with radiation at the highest wavelength which you can still penetrate the graphene through? But I don't know if what that would be.. maybe something that fluoresces UV from microwaves would be more feasible considering the current technological accessabilities.",
+    "likes": 2,
+    "published_at": "2022-01-17T18:26:05Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwW-HWMEezpaDB0u054AaABAg.9XJLMQu3yGC9XJmgUy47HY",
+        "author": "@vitordelima",
+        "author_channel_id": "UC3-nuW_1QteVV2C2JuMPYtg",
+        "text": "Some resins use metal powders instead of graphene.",
+        "likes": 0,
+        "published_at": "2022-01-17T22:33:38Z"
+      },
+      {
+        "id": "UgwW-HWMEezpaDB0u054AaABAg.9XJLMQu3yGC9XKibQ9pQW_",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "thanks for the ideas mate I will give it a go",
+        "likes": 0,
+        "published_at": "2022-01-18T07:17:14Z"
+      },
+      {
+        "id": "UgwW-HWMEezpaDB0u054AaABAg.9XJLMQu3yGC9XPzhjNcI9v",
+        "author": "@ThomasAndersonbsf",
+        "author_channel_id": "UCwew5DWjkbdp6dwPwlk_POA",
+        "text": "@ThinkingandTinkering Like svent mentioned above, tin oxide and indium tin oxide are transparent and conductive, to visible light, and the indium is used to make it tougher, so as a solid printed layer I would imagine just the stannous oxide would work quite well though not sure how dense the material has to be in solution to be conductive when finalized, :)",
+        "likes": 0,
+        "published_at": "2022-01-20T08:22:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwxwZnSRZRlOOSPHGl4AaABAg",
+    "author": "@kevinpersinger7957",
+    "author_channel_id": "UCXYGY7Z7J9-sNt8J8dIXQvA",
+    "text": "I have a challenge... Can anyone build a battery out of a large plastic drum?",
+    "likes": 1,
+    "published_at": "2022-01-17T18:02:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwxwZnSRZRlOOSPHGl4AaABAg.9XJIfmtIKOM9XJNYxnnfD7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yeah that's easy we have done a few vids that could easily be scaled up to plastic drum size - but I get an impression you are not asking all you mean",
+        "likes": 1,
+        "published_at": "2022-01-17T18:45:17Z"
+      }
+    ]
+  }
+]

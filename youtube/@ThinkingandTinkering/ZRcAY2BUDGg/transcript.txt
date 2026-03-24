@@ -1,0 +1,255 @@
+[00:00] [Music]
+[00:08] now you've probably seen this it's
+[00:10] called the expanding ball or the hman
+[00:12] sphere and it became popular as a f Toyo
+[00:15] a few years ago but was actually
+[00:17] developed in 1990 by a chat called Chu
+[00:20] hubman and it's based on something
+[00:23] called the hman
+[00:25] mechanism humble guy eh naming
+[00:28] everything after himself but why not you
+[00:30] know now the hman mechanism itself is
+[00:34] extraordinarily simple so this is a fine
+[00:36] example how lots of Simplicity put
+[00:39] together creates complexity and
+[00:41] surprising Behavior because the hman
+[00:44] mechanism is a parus I mean it it does
+[00:48] amaz me how you can get a patent on
+[00:50] these things but that's exactly what it
+[00:52] is it's a couple of bent rods with a
+[00:54] pivot in the center that do that and if
+[00:58] you join them up then you get the hobman
+[01:01] sphere okay so to make this linkage grab
+[01:04] the cube primitive and we're going to
+[01:06] make it 5 mm long wide by 3.5 mm
+[01:12] High by 50 mm
+[01:17] long and that is going to be the basis
+[01:19] of our linkage but of course it's a
+[01:21] square bar so let's neaten up those
+[01:23] edges by making them semicircular to do
+[01:26] that grab the
+[01:28] semicylinder rotate it so it's sitting
+[01:30] on the plane nicely and remember press D
+[01:33] so it's actually on the plane and this
+[01:35] time we need to change that to five to
+[01:39] make it semicircular that needs to be
+[01:43] 2.5 and then remember it was 3.5
+[01:48] high that is going to be one end if we
+[01:51] zoom in on
+[01:55] that we can copy that with the copy key
+[01:58] and then we can use the mirror key up
+[02:00] there to change its orientation which
+[02:03] mirrors it around there and then drag it
+[02:05] off
+[02:06] somewhere now we have two pretty
+[02:09] ends to get those absolutely in line
+[02:13] with this bar we can use the work blend
+[02:15] trick so go and grab a work plane and
+[02:18] hold down the the key on your mouse
+[02:20] while you move it and you'll see it's
+[02:22] oriented itself to wherever we have the
+[02:25] mouse so we we put it right there now
+[02:27] that bar is sitting on one side of the
+[02:28] work plane and the semicylinder is
+[02:31] hovering Above So press D and that will
+[02:33] bring those two objects into the same
+[02:35] plane now we can do exactly the same
+[02:38] with the other side grab a work plane
+[02:41] hold down the mouse key move it until
+[02:43] it's in the right
+[02:44] orientation hit the bit that you want
+[02:47] press D and it will be on the work plane
+[02:49] and then we can restore the original
+[02:51] work plane by just dragging the work
+[02:52] plane tool into some random space if we
+[02:56] want to align those highlight them all
+[02:59] press the alignment key going to align
+[03:01] them there and suddenly they're all in
+[03:05] line and all sitting on the same plane
+[03:08] now we can highlight
+[03:13] them and group
+[03:15] them going to make that blue cuz I
+[03:17] prefer blue and if we look at that there
+[03:20] is the basics of our bar linkage now
+[03:23] before we continue we need a reference
+[03:25] point because we're going to put pivot
+[03:27] Points in this and the Pivot Point needs
+[03:30] we need to know where it is so grab a
+[03:32] hole smooth it out we'll make the Pivot
+[03:35] Point 3
+[03:37] by3 and we only need to put the Pivot
+[03:39] Point on one end so highlight the two of
+[03:42] them align
+[03:44] it and align it to the Bottom now if we
+[03:50] that remember this was five across this
+[03:54] is three across so we need to move it so
+[03:57] that it's all the same the snap grid is
+[03:59] set at 1 mm press that once and we've
+[04:02] got that exactly where we want it to be
+[04:06] now if we Zoom back out to the homepage
+[04:09] there we go if we highlight that that
+[04:13] will now form a reference point then
+[04:16] what we want to do is create two of
+[04:17] these and bend them at an angle but when
+[04:20] we do that we don't want this end to
+[04:22] move so we can use an assistance and the
+[04:25] assistance we're going to use is the
+[04:27] circle that they would draw if we we
+[04:29] were just spinning them round now
+[04:31] remember this is 50 but because we put
+[04:34] the ends on it ends up being 55 and so
+[04:37] we need to make this
+[04:39] 105 now it's not
+[04:41] 110 because these will overlap with each
+[04:48] other and two high so we can see
+[04:52] it now we can align those two with each
+[04:58] other align to the center and the bottom
+[05:02] and we get this nicely
+[05:05] placed and now if we copy that bar that
+[05:08] we've just
+[05:10] drawn hold down the shift key and click
+[05:12] the circle align it but this time align
+[05:16] it to the top there then we get two bars
+[05:20] that we're going to need to twist here
+[05:22] the hole is here here the hole is here
+[05:24] so with that one we need to swivel that
+[05:27] round 180°
+[05:32] there we go we get our two reference
+[05:34] holes now if we just highlight the
+[05:36] circle and the top bar then we can move
+[05:42] that whatever number of degrees we want
+[05:45] so we move it 22 by two then we get a
+[05:48] kink in the rod and we now have a nice
+[05:51] angular Bend which is bent around that
+[05:54] and you'll notice that's a nice Circle
+[05:56] and that's the actual pivot point of
+[05:58] course we need another reference for
+[06:00] that pivot point so if we pull out a
+[06:03] hole make it
+[06:05] three by
+[06:10] 3 and then Center it to the large
+[06:13] drawing circle that we
+[06:20] did and we can remove the assistant
+[06:26] drawing and then merge that whole thing
+[06:33] and there is our angular bent rod with
+[06:36] the pivot Points in the right place so
+[06:39] having done that of course we need two
+[06:41] of them and we need to be able to join
+[06:43] them in a way that they'll swivel to
+[06:45] make our scissors so we need something
+[06:47] in there now there's loads of things
+[06:49] that we could put in there but of course
+[06:51] Tinky had has a snap fitting as a basic
+[06:54] primitive so that's what we're going to
+[06:55] use and we're going to put the slap
+[06:57] fitting in the center because we're
+[06:58] going to join all of these up then I'm
+[07:00] going to put snap fittings at the ends
+[07:02] as well so for the snap fitting click
+[07:05] the find button type in
+[07:10] snap and it'll pull up a whole load of
+[07:12] snap fittings we want that one which is
+[07:14] snap and socket that one's flexible snap
+[07:17] but this is the one we want so click on
+[07:19] it and drag it onto the work plane and
+[07:22] we need to make it the sizes that we
+[07:24] want so make that as small as possible
+[07:26] and remember this is going to sit done
+[07:29] here so it needs to be quite small so
+[07:32] let's make that three we'll make that
+[07:34] three and we'll make the height of that
+[07:37] three if we zoom in on that we'll be
+[07:39] able to see it more clearly there it is
+[07:41] just a straightforward snap fitting we
+[07:43] need four of those so copy
+[07:53] it and we have
+[07:55] four three of them are going to sit on
+[07:58] here and remember this was 3.5 high we
+[08:01] can raise those up by 3.5 in one go so
+[08:05] they just raise them up by 3.5 and drag
+[08:08] them off somewhere randomly now our
+[08:10] pivot Points come into play if we
+[08:12] highlight that and ungroup
+[08:16] it ungroup again and ungroup
+[08:20] again these will form a reference point
+[08:23] that these can actually sit in so if we
+[08:26] click on one of those hold down the
+[08:27] shift key click there
+[08:30] align click on the pivot point that
+[08:33] reference and align the snap fitting to
+[08:36] the Pivot
+[08:38] Point delete it and the pivot point will
+[08:41] now be in exactly the place where we
+[08:43] want it to be which is where that
+[08:46] actually was so our snap fitting is now
+[08:48] exactly where we want it to be we need
+[08:50] to repeat that with the other two when
+[08:53] we've done the other two merged them and
+[08:55] printed them that's what we get an
+[08:56] angled rod with three tiny snap
+[08:58] connectors on on it now of course we
+[09:00] need the bit that goes on top to do that
+[09:04] just take the rod that we've just made
+[09:06] highlight it and duplicate
+[09:12] it grab it and move it out the
+[09:16] way now we can unmerge it and it will
+[09:19] just leave us with our pivot Points our
+[09:21] snap fittings there remember this snap
+[09:23] fitting we left that to one side here
+[09:27] instead of it saying snap click on it
+[09:29] and do snap hole free spinning and it
+[09:32] will turn that into a hole if you click
+[09:35] on the hole if we zoom in and have a
+[09:37] better look at that you can see that
+[09:39] it's a hole that will exactly fit that
+[09:42] snap fitting but we on that hole
+[09:45] underneath so that this sits on top of
+[09:47] there and that snaps into the hole to do
+[09:50] that duplicate this twice more so
+[09:57] duplicate and dupc
+[10:03] then we can click on this snap fitting
+[10:05] because we unmerged it and that snap
+[10:07] fitting is all by itself so click on the
+[10:09] snap fitting click on the hole keep the
+[10:11] hole on the plane align it but this time
+[10:14] align it to the snap
+[10:19] fitting and then delete the
+[10:22] snap that will leave the hole underneath
+[10:25] and we repeat that with the other two so
+[10:29] we've done done that and printed it then
+[10:30] we get exactly the same thing but
+[10:32] underneath it are the holes for the snap
+[10:35] fitting to connect it just cross it over
+[10:38] and press it in place we got our
+[10:41] scissors and they work because we want
+[10:43] to make a circle so let's print a whole
+[10:46] load more and to connect them that's our
+[10:49] hole fits onto the
+[10:51] snap and that's our snap fits onto the
+[10:54] hole as you're snapping them together
+[10:56] what you should notice is all the ones
+[10:58] that have the socket are dog legging
+[11:00] that way and all the ones that have the
+[11:03] Snaps are dog legging the opposite way
+[11:05] you snap them together and they begin to
+[11:07] form a little flower shape I printed off
+[11:11] 30 of them and of course when I move
+[11:13] them they expand out like they
+[11:20] should so you take six of these arrange
+[11:23] them around in a sphere and you've got
+[11:25] yourself a hman sphere now I personally
+[11:27] don't think there's anything extra about
+[11:30] the H mechanism in itself I mean it's
+[11:32] just a pair of scissors where the true
+[11:35] genius to my mind comes in is having
+[11:38] that leap of thought seeing that if you
+[11:41] put Simplicity together you get
+[11:44] complexity and all of a sudden you get a
+[11:47] whole new use case for something that
+[11:49] you really wouldn't have thought of
+[11:51] before so to me genius is the elegant
+[11:55] use of Simplicity and that's what Hopman
+[11:58] did anyway I hope you enjoyed the video
+[12:01] I hope it was useful thank you very much
+[12:03] for watching and please do remember to
+[12:04] like And subscribe

@@ -1,0 +1,269 @@
+[00:00] [Music]
+[00:08] hi everybody so the job of a torque
+[00:11] converter or a constant variable
+[00:13] transmission actually they're
+[00:14] astoundingly similar to each other is to
+[00:17] maintain an engine at a constant
+[00:20] rotation under a constant torque with a
+[00:23] constant speed against variable
+[00:27] resistances now that might not seem like
+[00:30] a very important thing but actually it's
+[00:32] hugely important when you think about
+[00:34] how many engines we use and how we use
+[00:37] them now there are a number of solutions
+[00:40] to doing this but none of them are
+[00:41] terribly satisfactory you got things
+[00:44] like the current fluid based torque
+[00:46] converters and they get really hot and
+[00:48] need to be kept cool and aren't very
+[00:50] efficient then of course we get
+[00:52] automatic transmissions which again are
+[00:54] not terribly efficient or we get manual
+[00:57] gears where we step through the gears we
+[01:00] get things like friction torque and
+[01:02] friction plates and Cones none of them
+[01:04] work particularly well but they all work
+[01:08] better than having nothing which is why
+[01:11] we use them what's the point of them
+[01:14] well if we can get a good torque
+[01:17] converter it means that the engine can
+[01:19] be much much smaller and amazingly
+[01:22] smaller we oversize engines at the
+[01:24] moment to cope with the inefficiencies
+[01:27] of the torque conversion and other power
+[01:30] transmission now there is one kind of
+[01:33] torque converter which hasn't received a
+[01:35] lot of attention for oh I suppose the
+[01:37] past 100 years or something and it is
+[01:40] the talk converter invented by George
+[01:44] constantinesco I hope I got that
+[01:46] pronunciation right what we're going to
+[01:48] do is going to look at George's machine
+[01:51] and build a working model so we can get
+[01:53] an idea of how his talk converter worked
+[01:56] because it is terribly efficient okay
+[02:00] let's have a look at building the model
+[02:02] and in order to build the model my first
+[02:04] step was to draw this up in Tinker
+[02:07] CAD first thing make the frame and to
+[02:10] make the frame you need these two bits
+[02:12] that's the bottom that's the top and
+[02:13] then the two sides and then we need
+[02:15] these four bracing bits here as well
+[02:18] these bits you'll notice there's a
+[02:19] slightly thicker bit there and a thinner
+[02:21] bit there the thinner bit goes to the
+[02:23] bottom and the bottom is without the
+[02:25] projection that just Clips in there and
+[02:27] secure it with a little bit of super
+[02:29] glue same with the other
+[02:31] side then we can glue the top on and
+[02:34] when we've glued the top in place at 100
+[02:37] mm glue in those side struts there to
+[02:40] hold it together and there it is
+[02:42] together now to make the plum Mob We
+[02:44] need to use these two bits and there are
+[02:47] 12 here and 12 here so you need 24 one
+[02:51] uh 10 mm ball bearings now I'm just
+[02:54] using 10 mm ball bearings because
+[02:56] they're what I've got and so I've done
+[02:58] this so that they'll fit but you you can
+[02:59] use anything you just need to wait you
+[03:01] rest the ball bearing in the little
+[03:02] recess there and give it a
+[03:06] tap with hmer to knock it in then when
+[03:09] you've done that you take your pendulum
+[03:11] arm and the bul goes on the bottom one
+[03:13] there because the pendulum's going to
+[03:14] hang that way and that's where the Bob
+[03:16] goes that just presses through
+[03:19] there and then that one goes on
+[03:22] top and we put a bit of glue on there to
+[03:24] hold it so when we've done the pendulum
+[03:27] we need to put the arms on for the arms
+[03:29] you I find there are two of these with
+[03:31] the thinner section and then one of
+[03:33] these with the longer section and we've
+[03:35] got three
+[03:36] pins one long pin and two short
+[03:40] pins and then three pin caps so this one
+[03:45] goes on there like that and we put the
+[03:47] pin in
+[03:50] there and then the pin cap
+[03:54] on on the
+[03:57] top bit of glue to keep keep it in place
+[04:01] the thinner section goes on first the
+[04:03] thicker section goes on second pointing
+[04:05] out in that direction the long pin goes
+[04:08] through
+[04:14] it and then on with the pin
+[04:18] cap so one arm points out that way the
+[04:21] other arm points out that way and the
+[04:23] whole lock goes in the center there with
+[04:25] the final pin to hold that in place
+[04:28] there
+[04:32] and everything should be free to move so
+[04:33] we get that kind of movement and that
+[04:36] kind of
+[04:41] movement so this upper arm is the actual
+[04:43] input now we' connect that to a motor
+[04:46] through a crank and you put the crank on
+[04:48] there and you detach an engine maybe or
+[04:50] a remotor now CU we're going to use this
+[04:52] for demonstration we're going to put a
+[04:53] hand crank on there so the crank goes on
+[04:56] that section there and as that turns and
+[04:58] it's obviously pushing that Inward and
+[05:00] outward that's going to be the output
+[05:03] section to attach the crank we've got a
+[05:06] gear Cog and this straddle piece the Cog
+[05:08] goes through there that goes onto there
+[05:11] that then attaches to
+[05:16] there there we go like that and there's
+[05:18] a small cap that goes on to stop it all
+[05:22] slipping off and then we glue all that
+[05:24] on now when you glue it on you want to
+[05:26] make sure that that arm is straight when
+[05:29] the crank as it is at the nearest to
+[05:32] that arm okay when we've done that we
+[05:35] take these parts and put them together
+[05:37] as a module it's a pretty
+[05:39] straightforward thing there's the brast
+[05:41] bar apart there's a support bar gear in
+[05:43] between the two and then a wheel and a
+[05:45] handle so we can turn it but remember
+[05:47] you could just replace this with a motor
+[05:50] I quite like hand turn stuff so I've
+[05:52] done a hand Turner and that takes place
+[05:55] of my power input at constant rate which
+[05:58] is exactly what goes in here whether
+[06:00] it's a hand turn wheel or a motor of
+[06:03] course to join these two what we need is
+[06:04] a chain and you print off 33 lengths of
+[06:07] the chain and they snap together then we
+[06:10] feed the chain in
+[06:13] here and in here and glue that on there
+[06:17] with a little bit of positioning to make
+[06:19] sure that the chain is tight when we've
+[06:21] done that we can actually see the effect
+[06:23] that it has you can see that this arm
+[06:25] here that I'm holding is the output
+[06:28] point if I turn that with no resistance
+[06:31] to the output then you'll see the output
+[06:33] Point moving as the pendulum actually
+[06:36] swings around this Pivot Point here now
+[06:39] if I add ultimate resistance that is I
+[06:42] hold that still then what we'll see is
+[06:44] that the pendulum pivots around this
+[06:47] point here now and the engine still
+[06:50] keeps its speed even though the
+[06:52] resistance is stopping the engine moving
+[06:55] the output point and again if I take the
+[06:58] output point pressure off
+[06:59] then the engine transmits its power to
+[07:02] the output point because there's no
+[07:03] resistance and of course between those
+[07:05] two points no resistance and full
+[07:08] resistance this pendulum Pivot Point
+[07:11] changing will act as a constant variable
+[07:14] transmission now there's something else
+[07:16] to notice here and it's where I think
+[07:18] the genius of this idea is when this is
+[07:21] stalled and we're inputting power of
+[07:24] course what we're doing is making that
+[07:26] pendulum move but that pendulum
+[07:28] represents a store of energy so as it
+[07:31] moves up more and more energy is stored
+[07:34] and it's added to by the engine so the
+[07:37] engine is storing extra energy in here
+[07:39] until there's enough for it to overcome
+[07:42] the resistance on the output and it
+[07:44] swings back down so it inputs energy
+[07:47] from the engine if there's too much
+[07:49] resistance to the engine it stores the
+[07:51] extra energy in the pendulum until the
+[07:53] engine and the Pendulum energy added
+[07:56] together are enough to overcome the
+[07:58] resistance
+[08:00] that truly to my mind genius thinking of
+[08:03] course it slows it down because we have
+[08:06] the time taken to store the energy in
+[08:08] the pendulum but that's always the way
+[08:10] it is with gearing you trade speed for
+[08:13] torque so we get more talk but at a less
+[08:17] speed but it is of course doing it in a
+[08:20] a push pull motion and we want it to
+[08:23] rotate so if you like you can see this a
+[08:26] bit like an electrical Transformer
+[08:29] it's storing that energy and turning it
+[08:32] into Push Pull just like a Transformer
+[08:34] does and we need to rectify it and we
+[08:37] need to rectify it mechanically turn
+[08:39] that push pull back into rotation and of
+[08:42] course there are loads of ways of doing
+[08:44] that and we done about three different
+[08:46] versions we've used ratchets we've used
+[08:49] bevel gears and more infamously we've
+[08:52] used this thing which is our magic SEO
+[08:55] mechanism because what that does is it
+[08:57] turns pushpull back into rotation so
+[09:01] what we have to do now if you like is
+[09:03] attach that to that and that to that and
+[09:07] we will have our completed
+[09:10] machine so I have made a couple of
+[09:12] adaptions to this one thing is I've put
+[09:14] large plates on so that when the teeth
+[09:16] engag they stay engaged the other thing
+[09:19] is that's going to be the bit that pulls
+[09:21] it backwards and forwards and that's the
+[09:22] bit that it's slides on so I've made a
+[09:24] longer slide bit and that bit is there
+[09:26] so that it engages well with the arm
+[09:30] here the base plate has been changed a
+[09:33] little bit because we need to be able to
+[09:35] have that slide to Extended that and
+[09:38] then we've got some little clips that go
+[09:39] on the top there to hold everything in
+[09:41] place that whole
+[09:45] thing fits on there like that this arm
+[09:48] goes on that Peg there's a clip to do
+[09:50] that and then there's a little bracket
+[09:51] there that glues onto the men cage to
+[09:55] help keep everything stable that is the
+[09:57] machine together so if we turn this this
+[10:04] handle then of course this goes round
+[10:06] now this is a bit of a heath Robinson
+[10:09] Rube Goldberg I guess but I've done it
+[10:11] this way so that we can see the magic
+[10:13] components involved in the torque
+[10:15] converter we've got our power input
+[10:17] which is right here in my case is a hand
+[10:19] it could be a motor then we've got the
+[10:21] pendulum with these points of swing and
+[10:24] that pendulum is connected to this
+[10:26] ratchet that converts it back into
+[10:28] rotary motion
+[10:29] the pendulum itself acts as an store of
+[10:33] energy and changes the timing of the
+[10:36] input to the output slowing it down but
+[10:38] giving it more torque now of course this
+[10:41] isn't the uh Arrangement You' actually
+[10:43] use it in this is one where you can see
+[10:46] what's happening so all the components
+[10:47] are spread out but the actual um device
+[10:50] that was used and it was used in a car
+[10:53] is a much more compact version of this
+[10:56] where everything's laying on top of each
+[10:58] other and I think makes it a bit more
+[11:00] difficult to see now I have put all of
+[11:02] these files in thingiverse of course and
+[11:04] the uh link is in the description if you
+[11:06] want to give it a go but I think
+[11:07] personally it's a thing of beauty in
+[11:09] itself um and it certainly to my mind
+[11:13] explains how the torque converter
+[11:15] actually works anyway I hope you enjoyed
+[11:18] the video thank you very much for
+[11:19] watching and please do remember to like
+[11:21] And
+[11:24] subscribe

@@ -1,0 +1,182 @@
+[00:00] [Music]
+[00:06] I realiz a stunningly easy things to
+[00:09] build actually they're bu more than a
+[00:11] contact switch and a solenoid and a
+[00:13] solenoid is a coil of wire around an
+[00:15] iron core and they work great so we're
+[00:17] going to build a relay but we're not
+[00:19] going to build a relay like that we're
+[00:20] going to build a more sensitive relay so
+[00:22] I want to go through how to build a
+[00:24] super sensitive relay now first thing we
+[00:26] need to do is make a coil of wire and to
+[00:28] do that we need a bobbin
+[00:30] I'm going to use a sheet of this it's
+[00:31] high impact poyene it's strong enough we
+[00:34] can cut the shape out that we want and
+[00:36] we can make that bobbing up so let's get
+[00:38] on with that so we've used the hips to
+[00:41] create these two windows so we got a
+[00:42] couple of Windows like that and the
+[00:44] centers of those actually I'm going to
+[00:45] glue upright in there and there and then
+[00:48] that window goes on top like that and we
+[00:50] have a couple of little pieces to go in
+[00:52] there which we put in there like that so
+[00:55] all we do is super glue those in
+[00:57] place and when you've done that that's
+[00:59] what you end up with now obviously it
+[01:01] can be any shape you want we want this
+[01:03] letter box shape for specific reasons
+[01:05] but it could be round as well as square
+[01:07] like this and to finish this off what we
+[01:09] need to do is wind some wire around now
+[01:12] you don't need to go two bananas about
+[01:14] the wire but there is a little bit of um
+[01:16] guidance if you like the thicker the
+[01:18] wire the lower the resistance so more
+[01:20] current will pass however we've got to
+[01:23] stick it in a no volume and as a
+[01:25] magnetic field is related to the number
+[01:27] of turns of wire as well then we need to
+[01:30] get as many turns as we can on there to
+[01:32] get a nice strong field um it's you know
+[01:35] pros and cons about one and the other
+[01:37] really just go with what's sensible I
+[01:38] mean don't try to stick some 16 M
+[01:41] cross-section across there equally don't
+[01:44] try to put something that's so Hast in
+[01:45] you can't work with it I'm going to use
+[01:47] this gauge actually which I think is a
+[01:49] 20 gauge I'm not sure something like
+[01:52] that but it's reasonably thick so I can
+[01:54] handle it but reasonably thin so that I
+[01:57] can actually get enough turns around
+[01:59] there now all I'm going to do is wind a
+[02:01] bunch off this onto this by hand so
+[02:06] there this coil finished and glued onto
+[02:07] a bit of blue baseboard it's just a bit
+[02:09] of acrylic I've put them on a couple of
+[02:11] brass pins so that we can connect to it
+[02:13] now what we need is a haxor blade and
+[02:16] you need to cut off a section of the
+[02:18] haxor blade some section that's going to
+[02:20] go through there cut it off take off the
+[02:23] teeth and put this to it so that we can
+[02:26] put it in a block now handily enough
+[02:28] it's got a 4 mm hole there so we can put
+[02:30] a couple of cap nutes on a bit of 4 mm
+[02:35] bar like
+[02:37] that and then on the other end we crimp
+[02:40] on a connector so that connector will
+[02:42] fit in there and crimp on and we've done
+[02:45] that cut out a block and obviously it's
+[02:47] the thickness of a hexor blade cut a
+[02:49] slot in it so that we can actually glue
+[02:50] that haxor blade in position and the
+[02:52] hexor blade glues in like that when
+[02:55] we've done that what we need to do is
+[02:57] add a big old lump of metal now this
+[02:59] this stuff actually is from um a
+[03:03] Transformer a microwave oven Transformer
+[03:05] so that gets fixed in place like that
+[03:07] and that lump of metal gets fixed in
+[03:10] place there so it's all down the center
+[03:13] line okay so that's it finished now what
+[03:15] you're looking at here obviously is a
+[03:17] relay there's the common pole going
+[03:19] through the haxa blade and here I've put
+[03:21] two bolts with Dome nuts on them that
+[03:23] are touching the D nuts on the haxor
+[03:25] blade these ones are touching now so
+[03:27] that's the normally closed Pole and
+[03:29] these ones are open so that's the
+[03:31] normally open and that would act like a
+[03:33] real light actually it won't be very
+[03:35] good like this and here's the trick and
+[03:37] it's the one that I really like actually
+[03:39] we've got a couple of Neo magnets here
+[03:41] facing north south north south and what
+[03:43] we do is put those on that metal bar and
+[03:46] these are quite strong so it's going to
+[03:48] be a little bit of trouble for me to get
+[03:50] there we go so we put them in the same
+[03:53] orientation north south north south and
+[03:55] shove them
+[03:57] closer and now this is sitting in a
+[04:01] permanent magnetic field and you can see
+[04:02] it's pulled it towards that there and
+[04:05] it's a very definite click as it pulls
+[04:08] it towards it okay so I've set it up
+[04:10] just as a normal relay and you can see
+[04:12] that the light is on because I've got it
+[04:14] on the normally closed now if I apply a
+[04:16] voltage to the
+[04:21] coil there we go it turns itself off
+[04:23] because it's moved away now it's moved
+[04:26] away but not sufficiently to touch this
+[04:28] other one what I have to do is increase
+[04:30] the voltage some more and that will pull
+[04:33] it all the way across but it works just
+[04:37] fine as a normal relay so why not just
+[04:41] get a normal relay why bother to make
+[04:42] this balanced magnetic field that you're
+[04:44] disturbing well I think there's actually
+[04:46] more advantages to this now it's not
+[04:49] immediately apparent but the voltage
+[04:51] applied needs to overcome the magnetic
+[04:53] attraction here now voltage in magnetic
+[04:57] attraction for a given coil a fixed
+[04:59] relation ships that is I create a fixed
+[05:01] magnetic field for applying a certain
+[05:03] voltage if I apply that same voltage
+[05:05] I'll have the same strength of magnetic
+[05:07] field what that means is the distance of
+[05:10] that magnet from here is going to fix
+[05:12] the voltage at which that turns off
+[05:15] that's really cool actually because
+[05:17] normally obviously with a uh relay you
+[05:20] have voltage that the coil will do here
+[05:21] you could actually set the voltage the
+[05:23] turnoff voltage now the turnoff voltage
+[05:26] and the turn on voltage aren't
+[05:28] necessarily the same you can set them
+[05:30] the same just by setting the distance
+[05:32] here a little closer and then the
+[05:34] turnoff and turn on voltage would be
+[05:36] identical but this thing sweeps through
+[05:38] an arc depending on the voltage applied
+[05:41] but every time I apply a fixed voltage
+[05:44] it will go to the same point what that
+[05:47] means is that for different voltages we
+[05:49] could have a multi switch here we don't
+[05:51] have to have either a normally open
+[05:54] normally closed we can have a lots of
+[05:56] normally closed that would close on
+[05:59] certain certain voltages and those
+[06:00] voltages would always be the same so we
+[06:03] can have a multifunctional relay here
+[06:05] where we have different things happening
+[06:07] for different applied voltages I also
+[06:10] think that's kind of cool so with
+[06:12] something like this it's not just a
+[06:13] straightforward relay where you apply a
+[06:16] voltage it's either on and off here we
+[06:18] can apply a set voltage that we said
+[06:21] down from a a vol or to actually up to
+[06:24] about 30 or 40 volts so we can set the
+[06:26] turnoff voltage we can have it turn off
+[06:29] turn on immediately by just setting
+[06:31] these two distances and we can set if we
+[06:34] want to a whole load of contact points
+[06:36] so we get different actions for
+[06:39] different voltages applied to that coil
+[06:41] I think that's kind of cool actually
+[06:43] anyway I thought I would share it with
+[06:44] you it demonstrates a basic uh relay for
+[06:47] sure but it also could be expanded
+[06:50] really easily to have a multi-functional
+[06:52] relay doing lots and lots of different
+[06:53] jobs but I thought I would share it with
+[06:55] you I hope you enjoyed the video and
+[06:57] thank you very much for watching

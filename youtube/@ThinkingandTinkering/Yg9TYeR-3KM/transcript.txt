@@ -1,0 +1,169 @@
+[00:00] [Music]
+[00:07] hi everybody if you're making your wi
+[00:08] turine and you've made this bit the next
+[00:11] bit you're going to want to be doing is
+[00:13] getting some power out of it and of
+[00:15] course to get power out of it what you
+[00:16] really need is a generator a generator
+[00:19] is essentially a motor in reverse and
+[00:21] what we've got here is a standard DC
+[00:24] motor and for a very long time what you
+[00:27] really did was bought your blades onto
+[00:29] there cross your fing hope it spin and
+[00:30] it give some output this kind of motor
+[00:34] is called a radial flux motor and it's
+[00:36] called a radial flux because the
+[00:37] magnetic fux follows the radius but of
+[00:40] course there is another way of looking
+[00:42] at these and that is following the axle
+[00:45] and of course there is another T of
+[00:47] generator called the axal flux because
+[00:50] it follows the axle and it is
+[00:52] essentially two discs now I've drawn
+[00:55] this up in Tinker CAD but of course you
+[00:57] could just cut these discs out of a lump
+[00:59] of plastic with a whole s and drill some
+[01:01] holes in it but I've done this in Tinker
+[01:03] can and I've put the files on thingy
+[01:06] verse so anybody wants them and you'll
+[01:08] notice there's a big Cog in the center
+[01:09] and we'll come to that in a minute the
+[01:11] basic though is the disc and on this one
+[01:14] there are 18 magnet set so there's 18 of
+[01:17] these little holes and they're going
+[01:18] north south north south north south in
+[01:21] there is 15 cm by 1 cm and 32 near
+[01:25] demium magnets and there's a partner to
+[01:27] it which is identical and if I put those
+[01:31] two like that then the magnetic flux
+[01:34] follows the axle and we get an axial
+[01:37] flux so we get straightforward magnetic
+[01:39] flux lines going between the two if we
+[01:43] were to put a copper coil in between
+[01:46] those and spin them then of course it's
+[01:48] going to generate now I have a thing
+[01:50] about Serpentine coils so I've made a
+[01:52] serpentine coil and if you want to know
+[01:54] how to make a serpentine coil I've also
+[01:56] done a video on how to make Serpentine
+[01:58] coils so this time coil would go between
+[02:01] these two discs when we spin them it's
+[02:04] going to generate and that is the basics
+[02:07] of an axial flux generator the first
+[02:09] axial flux generator was a faraday disc
+[02:12] which just used the disc of copper in an
+[02:14] axial flux arrangement of magnets now
+[02:17] axial flux generators use less Parts
+[02:20] there's only actually three there'll be
+[02:21] four because there's a plate to go on it
+[02:23] but it uses less Parts it's much lighter
+[02:26] it's much easier to make a much more
+[02:29] tolerant of error so the tolerances
+[02:32] aren't nearly as tight of course the
+[02:33] closer you get them the better but
+[02:35] they're nowhere near as tight they have
+[02:37] their disadvantages in Motors in that
+[02:39] they are heat dissipation can be an
+[02:41] issue but these have become extremely
+[02:44] popular with the growth of electric
+[02:45] vehicles because they're much higher
+[02:48] torque dense they're much lighter so
+[02:50] they're much more power dense than a
+[02:52] traditional motor but they make great
+[02:54] generators and we're going to make an
+[02:56] axial flux generator what we're going to
+[02:58] do with this is just put the cap on
+[03:01] there and then put one of these discs on
+[03:03] here the other disc on the other side
+[03:06] that's our generator
+[03:08] made and there it is put together now
+[03:10] the only thing I've done is stuff an M8
+[03:12] bolt down the center there is an M M8
+[03:15] washer between the magnet disc and the
+[03:16] coil disc to stop the plastic bits
+[03:18] rubbing and then the other side is
+[03:20] connected there with a nut to hold the
+[03:22] whole thing together so that's all there
+[03:23] is to it I've stuck a handle on it here
+[03:26] which is just a a broom handle adapter
+[03:28] again that's in the files just so I can
+[03:30] hold on to it but that's finished if I
+[03:32] give that a spin by hand I've got a
+[03:34] meter here we'll get some kind of
+[03:35] reading out of
+[03:38] it there we go so it's really that
+[03:42] simple to make something like this now I
+[03:44] mentioned these cogs these cogs are
+[03:46] because I like to make things in a
+[03:47] modular kind of way so that we can do
+[03:49] different things with them and obviously
+[03:51] that Cog fits this which is the earlier
+[03:54] win turbine version that we made and
+[03:56] then we just slot that on we have
+[03:58] ourselves a winter Vine clearly I'm
+[04:00] going to put both of them on and we'll
+[04:02] get some readings out of it but remember
+[04:05] this it's our PL for gear system if we
+[04:08] put the plet gear system on there then
+[04:11] we get ourselves a hand crank generator
+[04:13] so to give this a go what I've done is
+[04:15] I've made this connector now that's
+[04:17] available in the STL files as well and
+[04:19] it just goes onto one of the cogs now
+[04:22] I've tried to make this as adaptable as
+[04:24] possible so these actually aren't linked
+[04:27] they're held by the magnetic lock
+[04:29] between between the two series of
+[04:30] magnets but they will be able to slip it
+[04:33] also allows you to Contra rotate it so
+[04:35] you could drive one one way and the
+[04:37] other the other way if you wanted to if
+[04:39] you don't want that to happen then what
+[04:40] you'd have to do is H create a plug
+[04:43] where the bearings go so that the axle
+[04:46] went right the way through and that
+[04:47] would lock the two discs but you'd have
+[04:49] to put the bearings in the center part
+[04:51] there where the coil is but you can do
+[04:53] that as out on if you like the other
+[04:55] thing is I've just chosen north south
+[04:57] north south north south could make a
+[04:58] hellack array one wanted to the other
+[05:00] thing is you could put a steel disc on
+[05:03] there as well to direct the flux path of
+[05:05] that now that's conventional wisdom I'm
+[05:07] not sure if I'm convinced about that but
+[05:10] it is a fairly adaptable thing now of
+[05:12] course we're going to put it onto this
+[05:14] which is our planetry gear set there we
+[05:17] go and we'll give it a spin and see what
+[05:20] we get and I've got it hooked up to this
+[05:22] meter here so let's spin that up and see
+[05:24] what we get out of it
+[05:41] [Laughter]
+[05:46] so there you go 60 volts without even
+[05:48] breaking into a sweat now although we
+[05:51] did this version in the hand crank
+[05:52] generator it should be pretty obvious
+[05:54] you could attach this to a bike if you
+[05:55] wanted you attach it to the gearing
+[05:57] systems if you wanted you could attach
+[05:59] it to a water wheel if you wanted
+[06:00] there's a whole range of things you
+[06:02] could attach this generator to making it
+[06:05] very adaptable of course we want it
+[06:07] because we're working on this dual
+[06:08] Arrangement one will go that side one
+[06:11] will go that side equally you could do
+[06:13] Contra rotation equally these principles
+[06:16] are all the same so if we sat it that
+[06:19] way and put a a saus on top we'd have a
+[06:21] vertical wind turbine so it's a very
+[06:24] adaptable easyto build generator that's
+[06:26] relatively cheap and performs quite well
+[06:29] when you consider now um this wire is 2
+[06:33] mm diameter enamel copper wire and there
+[06:35] are 500 turns on the serpentine coil I
+[06:38] hope you enjoyed the video thank you
+[06:40] very much for watching and please do
+[06:42] remember to like And subscribe

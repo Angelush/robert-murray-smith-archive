@@ -1,0 +1,234 @@
+[00:04] hi so what we're going to do next is
+[00:06] actually kind of interesting or at least
+[00:08] I think so what I've got here is some go
+[00:10] powder that I made so there's a quite a
+[00:14] lot of go powder I've got something like
+[00:16] 20 gr of it kicking around I think and I
+[00:19] made that as a result of lot of the tour
+[00:21] methods that I've been showing you and
+[00:24] I've also got some um copper oxide ink
+[00:28] now one of the interesting things about
+[00:29] both of these two is apparently it's
+[00:31] possible to photo reduce them that is if
+[00:34] you flash them with a Zenon light the
+[00:36] graphine oxide will be reduced back to
+[00:38] graphine and that's kind of really
+[00:40] important for me because I want to do
+[00:41] some insitu reduction of graphine oxide
+[00:44] and apparently the copper oxide gets
+[00:47] reduced back to Copper which is
+[00:49] extraordinarily interesting if you think
+[00:50] about it because we can pent with the
+[00:52] copper oxide ink flash it and we're
+[00:54] going to get copper lines so at least
+[00:56] that's the theory and that's what we're
+[00:58] heading towards now obviously in order
+[01:00] to do that what I need is a high power
+[01:02] flash lamp and a high power flash lamp
+[01:05] is surprisingly not that easy to come
+[01:08] across but the bits to make it are quite
+[01:12] easy to come across what you need is one
+[01:15] of these this is a high power xanon
+[01:18] flash lamp bulb 750 W and if we can
+[01:23] drive that and make that flash across
+[01:25] our graphine oxide across our copper
+[01:27] copper oxide we're an absolute winner
+[01:30] now I got that from eBay actually it
+[01:32] came from Israel and I think it cost me
+[01:35] £25 in order to get that to work what I
+[01:38] clearly need to do is build a driver
+[01:39] circuit now you can build a driver
+[01:42] circuit if you want and you can get all
+[01:44] the components together and sold them
+[01:46] all together and do the job very nicely
+[01:49] however the same people who sell that
+[01:52] quite thankfully sell this and this is
+[01:55] the driver board for it it's all put
+[01:57] together it cost me25
+[02:00] and it's ready to run that lamp so for
+[02:03] £50 I got the complete setup in order to
+[02:06] make a flash unit now clearly the only
+[02:09] thing that I really need to do then is
+[02:11] put it into some kind of enclosure sold
+[02:13] those bits together and solder on some
+[02:16] um wire to plug it into the main and
+[02:18] that's what I'm going to do so I bought
+[02:22] this which is an instrument case now the
+[02:25] unit will fit quite nicely here and the
+[02:27] lamp will fit quite nicely there so I
+[02:28] could make it as one whole unit by
+[02:31] cutting a slot in the bottom putting an
+[02:33] aluminum reflector on and then soldering
+[02:34] the whole thing together or I could make
+[02:37] it as two separate units because this
+[02:38] lamp when it flashes actually gets
+[02:40] really quite hot uh so if you flash it a
+[02:43] lot and often then it's going to get hot
+[02:45] in there so we need to provide some kind
+[02:47] of cooling and some kind of venting or
+[02:49] separate the two systems so that we've
+[02:51] got the electronics in one case the lamp
+[02:54] in another and we can move the lamp over
+[02:56] the area that we're going to um try
+[02:59] Expos
+[03:00] so those are the ideas that we're
+[03:02] working with and that's what I'm going
+[03:03] to be doing now okay so this is it put
+[03:06] together and you can see it's pretty
+[03:08] simple all I've done really is screw
+[03:09] that board to the bplate of the box that
+[03:11] I bought using some standoffs drilled a
+[03:14] few holes in the front cover to put the
+[03:16] potentiometers through and these
+[03:18] potentiometers govern the rate at which
+[03:20] it flashes and the intensity which it
+[03:22] flashes I've written on what they are
+[03:24] because you can guarantee when you close
+[03:26] the Box you're not going to be able to
+[03:28] remember it now this particular board
+[03:30] will also take an external signal so you
+[03:32] can actually flash it to um an output
+[03:35] from something else and you can also
+[03:37] chain lots of these units together to
+[03:39] create multiple units so I've labeled
+[03:42] this one up at sync chain because if I
+[03:44] can put an input in here or here if I
+[03:45] doesn't matter because they're wide and
+[03:47] parallel but I put an input in here then
+[03:49] it'll take that input and Flash in
+[03:51] accordance to the rate of that input
+[03:52] apparently if I have another box that I
+[03:54] want to use the same input on I take
+[03:56] from here into the other box and so on
+[03:59] now what you can see I've done inside is
+[04:01] pretty simple I've wired it up according
+[04:03] to the circuit diagram going to the mens
+[04:06] and then to Banana plugs and this is the
+[04:08] high voltage going here and I've
+[04:10] actually nicked a bit of high voltage
+[04:11] wire from an old television circuit I
+[04:14] had kicking around so we've got a nice
+[04:15] isolation got a good distance and a bit
+[04:17] of isolation insulation over there up
+[04:19] high voltage and then out the back of it
+[04:22] I'm going to lead that to the lamp and
+[04:24] that to the high voltage trigger of the
+[04:26] lamp and clearly um I'm going to build
+[04:28] the lamp as a set separate unit so we s
+[04:30] two more things to do to build the lamp
+[04:32] and to make the cables do the connection
+[04:35] uh this thing I bought um just from
+[04:37] maplin or Radio Shack actually it's
+[04:39] obviously a man's plug but it's fused so
+[04:41] there's a fuse in there I can flip out
+[04:43] and I can flip that off and on and put
+[04:44] my Kettle lead in there so that's
+[04:46] actually the whole unit finished now
+[04:49] then all I have to do is put on the lid
+[04:51] screw it together once I've done that I
+[04:53] need to make a housing unit for the lamp
+[04:55] so here's the lamp unit made now before
+[04:57] I show you how I made it what I used to
+[04:59] make it was this stuff now I've gone on
+[05:01] about this before this is called
+[05:03] Builder's board it's a PVC clad
+[05:05] polyurethane foam and you buy in a whole
+[05:07] range of widths and lengths and usually
+[05:09] about 25 lb for um a 5 m length but you
+[05:13] can make loads of things out of it and
+[05:15] the good thing about it is you can saw
+[05:17] it really easily it cuts with a carpet
+[05:19] knife really easily Sands beautifully so
+[05:22] it's really excellent stuff to work with
+[05:25] and you glue it with this stuff with is
+[05:27] cyan acrylic glue and it glues so
+[05:30] strongly that the glue bond is actually
+[05:32] stronger than the material and if you
+[05:33] tried to separate it you in fact snap
+[05:35] the material as opposed to snapping the
+[05:37] glue Bond so it glues really easily as
+[05:39] well so all I did was cut out a couple
+[05:42] of strips of the right width there to
+[05:44] make the S and a top piece that I cut
+[05:46] out there then I drilled those two sides
+[05:49] out to slop the lamp in the lamp's quite
+[05:52] a tight fit but you just have to pull
+[05:54] those apart a little bit and then the
+[05:55] lamp slots in now this is a reflector I
+[05:58] had a bit of aluminium and I cut some
+[05:59] aluminium to the right size cut a couple
+[06:01] of holes in the top of it for the wires
+[06:03] and bent it over and put it in as a
+[06:05] reflector then all I did was take the
+[06:07] wires from the lamp and lead them to
+[06:08] these two banana plugs so there's my
+[06:10] whole voltage which I've done with a
+[06:12] nice red banana plug to tell me and
+[06:14] there's my two lamps now two lamps are
+[06:16] both black because it doesn't actually
+[06:17] matter which way around the lamps attach
+[06:20] so I've got my um lamp power and my high
+[06:22] voltage trigger then what I did was cut
+[06:25] a base plate for it a back plate for it
+[06:28] and then all I have to do is screw that
+[06:34] on and there we go that's my lamp unit
+[06:37] finished now you notice there's a tiny
+[06:39] Gap under there and I've left that Gap
+[06:42] so that when I get a piece of
+[06:45] paper the paper will slide under the
+[06:47] unit so I can Flash it and Slide the
+[06:49] thing up and down so all we need now are
+[06:52] some cables to connect these things so
+[06:54] that's the flash unit put together we've
+[06:56] got our high voltage cable and I bought
+[06:58] this high voltage cable from eBay
+[06:59] incidentally it's proper high voltage
+[07:01] cable and put it into a red banana plug
+[07:03] and obviously I've got a red banana plug
+[07:04] at the other end to plug into here now
+[07:07] because these are banana plugs they um
+[07:09] stick out a little bit so when it's
+[07:11] actually turned on you need to just be a
+[07:12] little bit careful not to get anything
+[07:14] too close to there cuz there's obviously
+[07:15] High Voltage in there you need to um
+[07:18] deal with that when it's turned off or
+[07:20] you'll only make that mistake once I can
+[07:22] assure you if it was a the sort of
+[07:24] proper high voltage thing that'd be sunk
+[07:26] in a bit but because I've made it with
+[07:27] bits and pieces available to me then it
+[07:29] sticks out a little bit and hey I'll
+[07:31] remember that and if I don't I'll be
+[07:32] sorry I didn't but I won't forget
+[07:34] afterwards and I put two black um banana
+[07:37] plugs here to tell me about the lamp and
+[07:40] um it doesn't matter which way around
+[07:41] they go for the lamp so they're both
+[07:43] black just to differentiate them from
+[07:44] the high voltage and then I got a bit of
+[07:46] this which is some um stranded uh 1.5 mm
+[07:50] wire put into the black banana plugs and
+[07:52] then feeding into my lamp connections
+[07:55] here and the lead I actually just
+[07:58] scavenged so this is just a scavenged
+[08:00] lead that I got from an old computer and
+[08:03] it's turned off at the moment now when I
+[08:05] turn it on it'll begin to flash it
+[08:07] flashes quicker than you'll see it
+[08:08] flashing because the camera has a little
+[08:10] bit TR a little bit of trouble picking
+[08:12] it
+[08:15] up there you
+[08:19] go so you can see the flashing on me
+[08:21] reflected on me and then every now and
+[08:23] then you'll see the light at the bottom
+[08:25] there as it flashes up um as I say
+[08:28] that's only because the camera has a
+[08:29] little bit of difficulty picking that up
+[08:32] but there is a Zen on flash unit all
+[08:34] ready to go of cering some um nanopar
+[08:37] links or reducing some graphine oxide
+[08:39] back to graphine anyway I hope that was
+[08:42] of interest to you and thank you very
+[08:43] much for watching

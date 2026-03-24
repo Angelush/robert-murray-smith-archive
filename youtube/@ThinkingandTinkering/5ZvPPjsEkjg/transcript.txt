@@ -1,0 +1,261 @@
+[00:00] [Music]
+[00:07] hi so I'm sure you've seen this but it
+[00:08] is kind of cute and very relevant to
+[00:10] generators so I'm going to show it again
+[00:12] if I take some magnets and drop them
+[00:14] they fall into my hand with quite a
+[00:16] speed if I take a copper pipe and put
+[00:19] those same magnets in there and drop
+[00:22] them they're very much slower this slows
+[00:25] it down because there's two things that
+[00:27] happen here one is as We Know now you
+[00:30] pass a cobra conductor across a moving
+[00:33] magnetic field which is what the
+[00:35] dropping magnets are oh you create a
+[00:37] current we've turned into a generator
+[00:39] but we know from Motors if you put a
+[00:42] current into a CO conductor you create a
+[00:45] magnetic field so we're both creating a
+[00:48] current in this by changing magnetic
+[00:50] field and creating a magnetic field in
+[00:53] this by creating a current those two
+[00:57] oppose each other now I hate the idea a
+[01:00] that laws govern something I think laws
+[01:03] describe something so that situation is
+[01:06] described by lenses law when you drop a
+[01:09] magnet through a copper pipe on the one
+[01:12] hand you create generation creates the
+[01:14] flow of a current round this circuit
+[01:16] which is the copper pipe that flow of
+[01:18] current creates a magnetic field in the
+[01:20] direction that opposes change and so the
+[01:24] magnets drop very much more slowly so
+[01:27] it's not that generators and motors are
+[01:29] essentially the same thing they're
+[01:30] exactly the same thing so I've taken
+[01:33] apart this 12vt DC motor and down there
+[01:35] we've got a couple of permanent magnets
+[01:36] facing north and south and then we've
+[01:38] got a rotor and that rotor is a whole
+[01:40] bunch of coils where it's connected to
+[01:43] opposite sides of the commutator so when
+[01:45] we use this as a generator we put a
+[01:48] turning force on here handle turn it by
+[01:51] hand wind turbine whatever and we turn a
+[01:54] conductor through a magnetic field and
+[01:56] of course what that does it sets up an
+[01:58] EMF and we get a voltage out of it but
+[02:01] it also does the same thing that
+[02:04] happened here because it creates a
+[02:06] magnetic field within that coil and that
+[02:09] magnetic field within that coil does the
+[02:11] same thing as dropping the magnets
+[02:12] through the pipe it creates what's
+[02:14] called a back EMF an EMF in the opposite
+[02:17] direction and of of course that creates
+[02:19] a counter torque as we try to turn it we
+[02:23] feel a force trying to turn it the other
+[02:25] way and of course in order to turn it we
+[02:28] have to overcome that counter torque
+[02:31] that's a result of the magnetic field
+[02:34] that's been set up in the wire that we
+[02:37] have just created by turning it okay
+[02:40] we're going to leave that for a second
+[02:42] and have a look at this what I've got
+[02:44] it's really simple ehy it's a light bulb
+[02:47] connected to a power supply because it
+[02:49] follows Ohm's law V equals IR as so many
+[02:51] of these things do that is a filament
+[02:54] lamp so it's nothing more than a
+[02:55] resistor when a resistor gets hot in a
+[02:57] lamp of course it glows which exactly
+[02:59] how it works so it's just a resistor
+[03:02] with a power supply now if I put on half
+[03:04] an amp onto sorry half a volt onto
+[03:08] that there we go absolutely Jack the
+[03:13] reason for that is the resistance of
+[03:15] this is too high we need to overcome the
+[03:19] resistance so that we can get some amps
+[03:22] to flow so if that resistance is too
+[03:27] high and the vaults are too low
+[03:30] no current's going to flow we need to
+[03:32] bang that up to its rated voltage
+[03:34] happens to be about 6 volts so we turn
+[03:36] that up to 6
+[03:37] volts a presto we get a brightly glowing
+[03:40] lamp which is no real surprise because
+[03:44] now we've got enough volts there to push
+[03:47] against that resistance and so the
+[03:50] current will flow now how much current
+[03:52] is Flowing is just V equals I so volts
+[03:57] divided by resistance is going to give
+[03:58] us our Cur current flow and it's the
+[04:01] fixed by that particular circuit that
+[04:04] circuit draws the amps depending on the
+[04:07] vaults and depending on the resistance
+[04:10] and that may seem a little obtuse but
+[04:12] that actually is key to understanding
+[04:15] such a lot of things so what's the
+[04:17] takeaway from that for our generators
+[04:20] well there's obviously a minimum voltage
+[04:23] that a circuit is going to need in order
+[04:25] to run below that voltage it can't
+[04:27] overcome the resistance and it can't run
+[04:29] so it must reach a minimum and one of
+[04:31] the reasons quite a few things like
+[04:33] starter motors for instance are such
+[04:35] appalling generators it's just not that
+[04:38] much length of wire because remember the
+[04:39] voltage is directly related to the field
+[04:42] strength the speed at which it turns and
+[04:44] the thickness of the wire and you just
+[04:46] can't turn a starter motor that fast
+[04:49] where you can overcome that lack of
+[04:51] length of wire so there isn't that much
+[04:53] length in there the voltage tends to be
+[04:55] extremely low and so you don't reach the
+[04:58] minimum required so there could be a
+[05:01] minimum required to actually do
+[05:03] something and if what you've chosen
+[05:06] doesn't meet that minimum voltage output
+[05:08] it's not going to do anything that's one
+[05:11] of the reasons why it's kind of cool to
+[05:12] rewind a generator with more length of
+[05:15] wire which is going to be thinner wire
+[05:16] just to get it in the same physical
+[05:18] space okay but more length of wire is
+[05:21] going to up that voltage until you reach
+[05:23] the minimum voltage now the question
+[05:25] very often asked is well what amps is
+[05:28] Flowing to be honest if you know the
+[05:30] voltage and you know the resistance then
+[05:32] unless you haven't studied your own's
+[05:34] law and you're putting through a
+[05:35] resistive load you know what the amps is
+[05:38] going to be just calculate it pretty
+[05:40] simple stuff really but those are the
+[05:43] requirements now voltage will sorry amps
+[05:46] will continue to flow through that
+[05:47] circuit as the voltage goes up more amps
+[05:51] will flow and we know that a generator
+[05:54] is related to the speed so if we turn it
+[05:56] faster we get a high voltage and
+[05:58] therefore more amps now remember the
+[06:02] higher the amp flow the greater the back
+[06:04] EMF and so we get a greater counter
+[06:07] torque and so we have to put more effort
+[06:09] in to actually turn it faster which is
+[06:12] why they have limitations on them it's
+[06:14] also like I say why when you choose a
+[06:17] motor with thick wires and not very many
+[06:19] of them and you turn it at a slow speed
+[06:20] you don't get a great result now got a
+[06:23] couple of examples of Motors that are
+[06:25] going to do this job here so this is a
+[06:28] pump motor from a washing machine and
+[06:30] actually it looked like that to begin
+[06:32] with and I chopped it out to the bare
+[06:33] coils and the magnet all that's in there
+[06:36] is a magnet that's magnetized North That
+[06:38] Way South that way pop it in there we'
+[06:41] got a couple of Steel blocks and then
+[06:43] we've got a couple of coils of wire with
+[06:45] massive amount of wire very very thin
+[06:49] loads of it this is actually very
+[06:50] reminiscent of a generator called a
+[06:52] Manchester
+[06:53] Dynamo what we've got here is this is a
+[06:56] a pump from a washing machine and it's
+[06:58] effectively a brushless DC motor again
+[07:00] we've got a magnet in there magnetized
+[07:02] North and South that way and that way
+[07:04] and then we've got a whole bunch of very
+[07:05] finely wound coils they're not as fine
+[07:08] as this one but they're still finely
+[07:10] wound so if I connect up my little
+[07:12] washing pump motor and stick the magnet
+[07:14] back in there I mean this magnet's
+[07:16] really weak okay we give that a spin and
+[07:18] it's turning around about 3 400
+[07:21] RPM there we
+[07:25] go we can get that lamp to actually
+[07:28] light
+[07:33] now it's not lighting particularly well
+[07:36] but that's actually because I'm not
+[07:37] turning it particularly quickly that
+[07:39] magnet is particularly weak but we have
+[07:41] a massive number of turns here so that's
+[07:44] giving us the voltage we require in
+[07:46] order to push enough amps through this
+[07:49] to get that to light a little bit so
+[07:51] this represents a fixed power that I'm
+[07:53] putting into turning this now as I turn
+[07:57] this then remember it pushes back does
+[08:00] work on that load this has to overcome
+[08:03] that it doesn't spin at a constant speed
+[08:06] actually gets slower even though the
+[08:08] power here is the same if I want to make
+[08:12] that generate more I have to put more
+[08:14] power into turning this in order to
+[08:16] overcome that counter talk that we're
+[08:18] talking about that would make it spin
+[08:20] faster that would put the voltage up and
+[08:23] that would make more amps flow equally
+[08:26] that will put up the counter torque and
+[08:28] we'd need to put more power in to get
+[08:30] this thing to spin even faster of course
+[08:32] you have a limitation this wire is
+[08:35] really thin if we Tred to put too many
+[08:36] amps down that wire of course it's just
+[08:38] going to get hot and burn out and that
+[08:40] represents a limit now the reason I
+[08:43] focus so much on these uh multi- turn
+[08:45] calls of thin wire is because it tends
+[08:47] to be what we're doing is using low
+[08:51] power sources there aren't there isn't
+[08:53] much power in some of the sources that
+[08:55] we've been using and we want a usable
+[08:57] voltage out of it so SP binning that
+[08:59] with lots and lots of turns of wi will
+[09:01] get us a usable voltage that usable
+[09:04] voltage can then be translated into
+[09:06] current flow but remember when that
+[09:08] current begins to flow it will set up a
+[09:11] counter torque and so it will slow this
+[09:14] down because it's pushing back on it and
+[09:17] our push on that needs to be greater
+[09:19] than the counter talk in order to be
+[09:21] able to turn it only really talked about
+[09:25] really really talked about real power as
+[09:27] opposed to other things that are coming
+[09:29] n generators like apparent power
+[09:30] reactive power but we're only using uh
+[09:33] resistive loads and it certainly should
+[09:34] help get a hold of the fundamental
+[09:36] concepts of what a generator is how it
+[09:40] works and what considerations are
+[09:41] important when thinking about designing
+[09:44] or modifying a motor to become a
+[09:46] generator because you can modify Motors
+[09:49] if they're giving a poor performance for
+[09:52] you either by making the magnet stronger
+[09:56] by putting more turns more length of
+[09:58] wire on on there or by spinning them
+[10:01] faster if you do any of those three
+[10:02] things you're going to improve the
+[10:04] output of them but don't forget it's all
+[10:07] about the power you put on here because
+[10:09] this thing will push back which is what
+[10:11] that power what that feels when it's
+[10:14] trying to turn it's all about what you
+[10:16] put on there this is all about fiddling
+[10:20] around with those three things anyway I
+[10:23] hope it was of interest it's the uh
+[10:24] final one I'm going to actually do on
+[10:25] generators for a while I think I hope it
+[10:28] helped
+[10:29] uh to really get to grips with what a
+[10:31] generator is and how it actually works
+[10:33] thank you very much for watching and
+[10:35] please remember to like And
+[10:37] subscribe

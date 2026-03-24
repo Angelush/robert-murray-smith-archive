@@ -1,0 +1,121 @@
+[00:02] [Music]
+[00:16] hi so in video 104.2 we made
+[00:19] this thing which i called a magnetically
+[00:21] assisted solenoid i'm sure there are
+[00:22] better terms for it
+[00:24] but we made that because it was super
+[00:25] super simple to make and i went through
+[00:27] the details of it and how it works in
+[00:28] that video so of course the next thing i
+[00:30] promptly did
+[00:32] let's make six of them so i've made six
+[00:35] of those and put them on this board in
+[00:36] this circular arrangement
+[00:38] what it is actually is kind of two y's
+[00:40] of three so there's three here that are
+[00:42] joined up in like a y shape
+[00:44] and then the corresponding three here
+[00:46] joined up in a y shape
+[00:47] and i've wired them together now i've
+[00:50] wired them together we're all lived in
+[00:51] neutrals which are the black ones i put
+[00:53] a black tab
+[00:54] on here and a red tab on there all of
+[00:56] the blacks are wired in
+[00:57] one piece altogether and then two of
+[01:00] them
+[01:00] opposing here and here the red ones are
+[01:03] wired to take me to a phase
+[01:05] the next two are posing here and here
+[01:07] the next phase the next two opposing
+[01:09] the next phase to effectively wired this
+[01:12] up in a y configuration three-phase
+[01:14] motor so that's what i've done
+[01:16] now i tagged these black and red because
+[01:18] when i put a current down these
+[01:20] at black and red a dc current then the
+[01:23] polarity
+[01:24] is in one direction we actually get the
+[01:26] thing on in that direction
+[01:28] when there's no power we get a very weak
+[01:30] effect and when the power is reversed in
+[01:32] the other direction
+[01:33] the magnetism is completely off so i've
+[01:36] wired those up so that three phases will
+[01:38] do
+[01:39] that so if we go here that will mean
+[01:42] that
+[01:42] that one and that one if they receive a
+[01:44] signal
+[01:45] will be on these ones will be slightly
+[01:48] on
+[01:49] and these ones will be off so we're able
+[01:52] to
+[01:52] rotate that field by turning these off
+[01:55] and
+[01:55] on by phasers and of course that's
+[01:57] exactly what we want
+[01:59] now we've got a effectively a six-pole
+[02:01] stator
+[02:02] for a magnetic motor here what we need
+[02:05] in this because it's a motor
+[02:06] is a 4-pole rotor now we're working on
+[02:09] axial flux motors remember so that
+[02:11] 4-pole rotor
+[02:12] will effectively be a cross of steel
+[02:16] nothing else so we need to make the
+[02:17] cross of steel the rotor
+[02:19] slide it in there and get some signals
+[02:21] down those lines to make this motor work
+[02:24] so that's the rotor it's just a lump of
+[02:26] plastic with four arms at 90 degrees and
+[02:28] of course it's made out of builders
+[02:29] board or sintra board
+[02:30] i just love that stuff obviously it goes
+[02:33] right in there
+[02:35] and then we have a support arm to
+[02:36] support the other side of the axle
+[02:38] and that is the motor more or less
+[02:40] finish now it is a reluctance motor so
+[02:42] it has nothing else on that rotor apart
+[02:44] from lumps of steel
+[02:45] so i've got some stock steel it's one
+[02:47] inch bar or 25 mil bar i've cut off two
+[02:49] inches
+[02:50] 50 mil and then glue on right there with
+[02:52] nothing else so we turn the magnets on
+[02:54] the steel gets attracted to the magnets
+[02:56] now there's loads of ways to make these
+[02:58] things one of the reasons i've made it
+[03:00] this way is because it's really simple
+[03:02] i didn't use a layers in this i used
+[03:04] nothing more complicated than the drill
+[03:06] press and a hacksaw
+[03:07] and were able to make a motor so all i
+[03:10] have to do is glue those bits on there
+[03:12] and then we'll see if we can get it to
+[03:13] spin okay so there it is all put
+[03:15] together now the geometry of these
+[03:16] little metal pieces
+[03:18] actually really matters but if it made
+[03:20] like this because you'll notice there's
+[03:21] about a five millimeter gap there
+[03:23] the actual engineering isn't that
+[03:25] critical to get it running
+[03:26] i mean the closer the gap the better it
+[03:28] engineered the better it's gonna run
+[03:31] but we have a running motor here now i
+[03:34] need
+[03:34] a motor controller which i don't have
+[03:37] for this motor so what i'm going to do
+[03:39] is just connect up a wire and flip a
+[03:41] switch and we'll see if we can get that
+[03:43] to rotate or not
+[03:51] that's actually very cool
+[04:04] so there we go a working motor this is a
+[04:07] proof of concept really we built this
+[04:09] out of these
+[04:10] uh magnetically assisted solenoids being
+[04:12] the whole point of it
+[04:14] anyway i hope you enjoyed the video and
+[04:16] thank you very much for watching

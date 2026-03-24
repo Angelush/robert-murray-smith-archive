@@ -1,0 +1,270 @@
+[00:00] [Music]
+[00:08] so Motors and generators hey they are
+[00:11] surprisingly simple things all they are
+[00:13] is a coil of wire and a bunch of magnets
+[00:17] move the magnets across the wire you'll
+[00:18] generator current put a current in the
+[00:21] wire the magnets will move and you'll
+[00:23] get a motor and that's it so
+[00:25] electrically speaking as machines
+[00:27] they're identical now they're only
+[00:30] really depend on a few things that is
+[00:33] the length of the W the strength of the
+[00:34] magnetic field the angle the magnetic
+[00:36] field cuts the wi and the speed at which
+[00:39] it does it that's it the principles are
+[00:42] equally very simple now they've been
+[00:45] with us for a couple of hundred years
+[00:47] and despite at their core being
+[00:50] essentially simple machines and that the
+[00:52] principles govern them aren't that
+[00:55] complicated they've plagued us and
+[00:57] they've plagued us because although
+[00:59] that's the case because you have to
+[01:01] build something that is in fact useful
+[01:04] and those techniques of building have
+[01:07] improved our understanding of materials
+[01:09] has improved and our motors have
+[01:11] improved now in the early days of motors
+[01:14] and generators of course it weren't
+[01:16] little more than a bunch of wires
+[01:18] wrapped around a heavy core of Steel
+[01:20] with a bar magnet somebody had made by
+[01:22] beating it with a hammer that early days
+[01:26] has stayed with us we've created a whole
+[01:28] series of Motors know known as radial
+[01:30] flux Motors in a radial flux motor a
+[01:33] radial flux generator the magnetic field
+[01:37] comes out parallel to the radius hence
+[01:40] the name and then some bright Sparks
+[01:43] said to themselves h on a sec how about
+[01:45] we make it parallel to the axle and
+[01:48] that's where we get axial flux from
+[01:50] because the magnetic field is basically
+[01:52] two dis of magnets creating magnetic
+[01:55] field that is parallel to the axle
+[01:58] because that magnetic field is going
+[02:00] absolutely everywhere and what we like
+[02:01] to do is BU on lumps of chunky steel to
+[02:05] direct the flux so we get the best use
+[02:08] out of the magnetic flux and that
+[02:10] creates Motors that are relatively heavy
+[02:13] now there is a third kind of motor and
+[02:17] this is called the circumoral flux motor
+[02:20] where instead of following the Axis or
+[02:22] following the radius it follows the
+[02:24] circumference and we know these because
+[02:27] that's exactly what a solenoid is and in
+[02:29] fact linear generators and linear Motors
+[02:32] are very little more than solenoids so
+[02:35] solenoid incidentally is any coil where
+[02:39] the length is greater than the diameter
+[02:41] that's a solonoid we often lump put
+[02:43] lumps of Steel in it or other lumps of
+[02:45] magnets in it and think of that as a
+[02:47] solenoid but it isn't the solenoid is
+[02:49] the coil shape we take that coil shape
+[02:52] and bung a magnet in it up and down of
+[02:54] course we get a linear generator and if
+[02:57] we put a current through it of course we
+[02:58] get a linear
+[03:00] motor then somebody said to themselves
+[03:03] well instead of making it go up and down
+[03:06] like a bog standard solenoid how about
+[03:09] we make it spin round and round and that
+[03:12] will create a circumferent flux motorol
+[03:15] generator and this was the brainchild of
+[03:19] motion robotics of course comfor flux
+[03:23] motors have been around a bit longer
+[03:25] than motion robotics if you check out
+[03:27] the literature but what motion robotics
+[03:29] said they've done is built the first
+[03:32] real working version that's kind of
+[03:35] interesting because of course it does
+[03:37] come with its own advantages you get the
+[03:40] full use of the magnetic field for the
+[03:42] magnets got available without having to
+[03:45] faf on with things like HB back or r or
+[03:48] chucking in lumpy bits of silicon steel
+[03:51] and that makes it very much lighter and
+[03:54] so the power to wet ratio shoots right
+[03:57] up there I turn to Tinker C and Drew
+[04:00] this because I thought it would give it
+[04:02] a go making a version of the
+[04:05] circumferential flux generator not so
+[04:08] much a motor because Motors aren't so
+[04:10] much my thing I'm really fascinated by
+[04:12] generators and remember a generator and
+[04:15] motor are identical things anyway I
+[04:18] won't make this a tinker cab tutorial
+[04:21] because a lot of the techniques that I
+[04:22] use to draw this I've already shown in
+[04:25] previous videos which are tutorial
+[04:27] videos so if you want to have a go of
+[04:29] Designing your own version of this
+[04:31] review the tutorials that I've already
+[04:33] done and it should be pretty obvious how
+[04:34] that was drawn but it is a surprisingly
+[04:38] small number of Parts there are in fact
+[04:40] only five parts when you print them and
+[04:42] there are only five four parts in the
+[04:44] drawing now this makes the B unit it's
+[04:47] got a foot that fits in there and that's
+[04:50] the B unit because it's going to sit
+[04:51] there and rotate in that direction then
+[04:54] we've got two coil holders that are
+[04:56] going to go either side of this this
+[04:59] which is the magnet rotor the coil
+[05:02] holders will form part of the frame and
+[05:04] there's some bearings in there and there
+[05:06] scat bearings which are 22x 8X 7 and
+[05:10] once we oops easy once we put those
+[05:13] together and fix them to the frame we
+[05:15] should be able to rotate the magnets and
+[05:17] the whole idea being that we're going to
+[05:18] be using both sides of the magnetic
+[05:21] field without having to do anything else
+[05:23] with it making a very light motor the
+[05:26] sorry generator that can be 3D printed
+[05:29] and sh should be in theory at least
+[05:31] pretty good now these holes that you can
+[05:34] see here are to take these magnets and
+[05:36] these magnets are neodymium magnets and
+[05:39] we're going to put them in north south
+[05:40] north south north south and these are 5
+[05:42] mm by 15 mm for everybody who likes all
+[05:46] those checky details anyway we're going
+[05:49] to wind the coil as Serpentine coils
+[05:53] we're going to wind them as Serpentine
+[05:54] coils using the serpentine coil Winder
+[05:57] that I've also done a video on on right
+[06:01] once you've got your coil what you need
+[06:02] to do is bend it into a kind of a star
+[06:04] shape so this black plastic tape is the
+[06:07] main leg the bend goes there and you
+[06:09] bend it up so it makes a star shape now
+[06:12] if you're not sure how to get to the
+[06:14] coil then do check out the videos that I
+[06:17] do on making Serpentine coils and
+[06:19] equally the video I did on making the
+[06:22] coil wind up to make your life very much
+[06:25] easier we keep on bending it until we've
+[06:27] bent that all
+[06:34] into the star like that right here's the
+[06:37] coil holder and I've stuffed the
+[06:38] bearings in and the star goes on like
+[06:41] that and you should notice that there's
+[06:42] a little Peg and a little Mark the
+[06:45] bottom of the coil goes around the
+[06:47] little Peg and this points at the little
+[06:49] Mark and all you do is glue that in
+[06:52] place and what you should end up with
+[06:54] these two coils and coil holders exactly
+[06:56] like that so on the frame the foot gets
+[07:00] glued into the bottom like that and
+[07:02] you'll see on the mid foot there's a
+[07:05] little raised portion on there you glue
+[07:08] a piece of metal doesn't matter what it
+[07:09] is trimming knife blade bit of uh large
+[07:13] washer whatever it is just glue a bit of
+[07:15] metal on there and then take one of your
+[07:17] star coils and that glues onto the
+[07:20] little indentation the lower one you can
+[07:22] see here so it glues on like that so
+[07:25] that it's like
+[07:27] that now this is the m axle it's just a
+[07:30] printed Rod but in there you'll see a
+[07:32] needle it's a Downing needle and I'm
+[07:34] going to use this as the main bearing
+[07:36] it'll go on that piece of metal that we
+[07:38] glued in the bottom of course you could
+[07:40] change that bearing I mean you might
+[07:41] want to look at magnetic bearings or
+[07:43] maybe an ordinary thrust bearing or
+[07:44] something like that but that will shove
+[07:48] through the magnet disc and between the
+[07:51] magnet disc and that coil we just put
+[07:54] we'll have a single washer so with it in
+[07:57] there as a test what you'll find is it
+[07:59] spins really easily and for a long time
+[08:02] so if I set that spinning I've got a
+[08:04] voltmeter here reading 11 volts on it
+[08:06] and that will sprin nice and happily
+[08:08] what we've got to do now of course is
+[08:11] fit this one and to do that we take the
+[08:13] axle back out slide this in and Slide
+[08:16] the axle back
+[08:18] in So if you think about it with an
+[08:21] axial flux generator what you're trying
+[08:24] to do is surround the coil by an total
+[08:27] magnetic field with a circumferential
+[08:30] design what you're trying to do is
+[08:32] surround the magnetic field with a coil
+[08:35] so it's kind of 180° apart if you like
+[08:38] of course there is an issue in order to
+[08:39] get something to spin we have to put in
+[08:41] an axle and that means those coils can't
+[08:43] go all the way around there's a slash
+[08:45] through on the motor and they say they
+[08:47] arrange it as a special uh trapezoidal
+[08:50] coil Arrangement yeah fair enough okay
+[08:53] the reason I've done it this way is
+[08:56] because these Serpentine calls are easy
+[08:58] to make and okay we do miss this SL
+[09:00] section here but we still surround most
+[09:03] of the magnetic field with coil and I
+[09:06] think it's enough surrounded that the
+[09:08] ease of construction of this way is
+[09:10] actually worth the little bit that we
+[09:12] are in fact losing so it's not quite
+[09:14] circumferential which is not all the way
+[09:16] around in the where solenoid is but then
+[09:19] neither is this circumferential motor
+[09:21] that they have designed and we've given
+[09:24] up a little bit of surrounding it in
+[09:27] order to make it much e easier to
+[09:30] construct now with these coils of course
+[09:33] this one and this one the peak of them
+[09:34] are in the same direction as the north
+[09:37] passes this leg because it's a north
+[09:39] south magnet the M the South passes this
+[09:42] leg so if you join these two up together
+[09:45] what you would do is cancel them out so
+[09:47] you can't do that what you have to do is
+[09:50] Rectify them first by putting a
+[09:52] rectifier Bridge Rectify on the legs of
+[09:54] the cor as they come out and then you
+[09:56] can connect the two in series or
+[09:58] parallel depending on what you want now
+[10:01] now the benefits of something like this
+[10:03] is there's no Steel in it so it's
+[10:05] incredibly light and of course that's
+[10:07] going to increase the power density all
+[10:08] by itself there's no need to muck around
+[10:11] with hbac arrays the whole thing can be
+[10:13] 3D printed and there's probably no
+[10:15] difference between 3D printing or
+[10:17] manufacturing it now if we did want to
+[10:19] make it more circumferential I guess we
+[10:21] could put another coil up and down here
+[10:23] to capture these Edge bits if we wanted
+[10:25] to but I don't plan on doing any more
+[10:28] testing with the this at this stage I'm
+[10:30] just going to take motion robotics word
+[10:32] for it I quite like this design I do
+[10:35] plan on doing something else with it I'm
+[10:37] thinking maybe putting a wind turbine
+[10:39] rotor on here and seeing what it does we
+[10:41] already know it does about 11 volts with
+[10:43] open circuit voltage so the two calls
+[10:46] are going to be about 22 volts
+[10:48] um I'll publish it down is a work in
+[10:51] progress I think on thingy verse and I'm
+[10:54] going to take this and make it into a
+[10:56] wind turbine and we'll see what the wind
+[10:58] turbine does anyway that's about circum
+[11:00] fenal Motors and how to go around
+[11:02] building a version should you want to I
+[11:04] hope you enjoyed the video thank you
+[11:06] very much for watching and please do
+[11:08] remember to like And subscribe

@@ -1,0 +1,239 @@
+[00:02] [Music]
+[00:15] hi so we're back with this thing
+[00:17] now if you didn't check out the previous
+[00:19] video converting your exercise back to a
+[00:21] generator
+[00:22] please do so because i'm going to refer
+[00:24] to that in this now when we took this
+[00:26] apart what we had was a shoe like that
+[00:28] and it
+[00:29] i thought it was a friction shoe because
+[00:31] quite often the cheap ones that's
+[00:32] exactly what they are
+[00:33] but this remember was a reebok reebok
+[00:35] machine now when i took it off i
+[00:37] actually found that
+[00:38] it was in fact a whole bunch of magnets
+[00:41] and the motor moved the magnets nearer
+[00:42] creating a resistance and i thought
+[00:44] well that's very cool but it also gave
+[00:46] me a whole bunch of magnets
+[00:48] now there's 10 of them here so it's not
+[00:50] enough to go all the way around the
+[00:52] flywheel because what we're basically
+[00:53] going to do is stick these on the
+[00:55] flywheel
+[00:56] and then pass that past a coil so we've
+[00:58] got an axial generator
+[01:00] but it's not enough to go all the way
+[01:01] around now i've got a couple of options
+[01:03] obviously i could go and buy a load of
+[01:04] magnets enough to go all the way around
+[01:06] now i'm not going to buy stuff because i
+[01:08] like to do things with stuff i've
+[01:10] found there's good reason for that one
+[01:13] is i don't have a lot of money
+[01:14] two is neither do most of the people i
+[01:16] know so
+[01:17] if we can do stuff with things we find
+[01:21] we have a possibility of doing stuff
+[01:23] never have to rush out and spend
+[01:24] hundreds of dollars on the stuff
+[01:26] then half of it's not going to get done
+[01:28] because i do so much
+[01:29] so i always work with things i can find
+[01:31] and i found these magnets now i thought
+[01:33] that was super cool
+[01:34] i quite liked the motor on the back i
+[01:36] thought that was awesome
+[01:38] but i really like the idea of the axial
+[01:40] flux i just thought i would have to
+[01:41] leave it to prove a concept because i
+[01:42] didn't have them
+[01:43] but now i've got 10 of the chunky
+[01:45] magnets i'm going to fix those magnets
+[01:47] to the outside of this wheel
+[01:48] now obviously the wheel is spinning the
+[01:50] magnets will grip a little bit because
+[01:52] it's a big lump of steel
+[01:54] and what i'm going to do is put a spot
+[01:55] super glue on and if you wanted you
+[01:57] could put a band around that to stop
+[01:59] them throwing the magnets off i'm
+[02:00] probably not going to
+[02:01] and i want to equally space around this
+[02:04] again
+[02:04] options one option is to take the wheel
+[02:06] off mark out the angles and
+[02:08] put it back on and put the magnets on
+[02:11] the other is to get yourself a bit of
+[02:12] something inflexible like this bit of
+[02:14] wire
+[02:14] wrap it around measure the distance 10
+[02:17] magnets divide by 10
+[02:18] put the wire back on and transfer those
+[02:21] marks
+[02:22] i'll have a roughly equal position if
+[02:24] the flywheel's still a bit off obviously
+[02:26] i can glue on some
+[02:28] washers to drill some holes in it to get
+[02:30] it back to being
+[02:32] a nice even flywheel to be honest i'm
+[02:34] just going to live with it
+[02:35] so my step mark this out glue these
+[02:38] magnets on
+[02:41] okay so that little measuring it up and
+[02:43] stick the magnets on seems to work
+[02:45] really well actually if i give it a spin
+[02:47] then we can see that the flywheel is
+[02:49] continuing to rotate it's not
+[02:50] particularly unbalanced that's really
+[02:52] awesome
+[02:53] now magnets are only held on with super
+[02:54] glue and their grip on the steel so if
+[02:56] we get some real speed
+[02:58] there's a chance that those magnets will
+[02:59] fly off i don't think it's a
+[03:01] particularly high chance that's exactly
+[03:02] what i'm going to do i'm just going to
+[03:03] leave it as it is
+[03:05] if some do fly off well we'll soon
+[03:06] notice they're flying off
+[03:08] and obviously we need to put a band
+[03:09] around it to hold them
+[03:11] down against that and you'd want a
+[03:13] non-metallic band somehow bit of nylon
+[03:15] or something you know
+[03:16] nylon strapping now obviously i really
+[03:18] wish i had 30 of these magnets because
+[03:20] you can see i need about another two to
+[03:21] fit in there to create a complete wheel
+[03:23] but i don't have 30 of these magnets if
+[03:26] you happen to have another 20 of them
+[03:27] kicking around
+[03:28] feel free to send them to me and i'll
+[03:30] put them on and we'll see what happens
+[03:32] obviously the next thing we need to do
+[03:33] is color and connect up some
+[03:35] coils so these magnets can go past the
+[03:37] coils
+[03:38] now i do have these this is a call from
+[03:41] a synchronous motor and you remember
+[03:43] we've been pulling apart
+[03:44] lots of microwaves and i've got three of
+[03:46] these kicking around they're still left
+[03:48] and i'm going to use
+[03:49] one on this to demonstrate that the
+[03:51] principle actually works
+[03:53] equally if you've got another 27 of them
+[03:55] send them to me and we'll build a full
+[03:57] version
+[03:58] so obviously what i need to do is put
+[03:59] the coil somewhere near to the magnets
+[04:01] and we're going to get a pulsed output
+[04:03] again not really a problem stick a diode
+[04:05] between
+[04:06] this and your battery and you're going
+[04:08] to be fine actually full wave
+[04:10] rectification will be awesome because
+[04:11] obviously these are north south north
+[04:13] south so we're going to get ac
+[04:15] and uh it also builds and falls so we're
+[04:17] going to get ac
+[04:18] um the only thing we really need to do
+[04:21] now before testing it is
+[04:22] stick that coil on there and that's
+[04:24] exactly what we're going to do
+[04:26] okay so same set up i've got the meter
+[04:28] facing you not sure if you can read it
+[04:30] so
+[04:30] luke is going to yell out the voltage
+[04:32] readings bless his heart
+[04:33] i'm obviously going to pedal it we've
+[04:35] got it lashed up with only one ring for
+[04:37] the reasons that i said but i'm sure
+[04:40] given your imagination you can imagine
+[04:42] what it would look like with a whole
+[04:43] host of these around them
+[04:45] and you'd fit them on the pretty much
+[04:46] the same way so let's clamber on
+[04:49] give it a go see what we get
+[04:53] 10 volts no way 14 volts
+[04:57] 17 20 21 22 volts
+[05:01] look at the flywheel hey the flywheel
+[05:03] obviously is still spinning because
+[05:05] it's a flywheel so there you go you want
+[05:08] more volts
+[05:09] that's a way to get more bolts
+[05:12] so here's a quick close-up of the
+[05:13] arrangement as you can see all i've done
+[05:15] really is glue that coil there and the
+[05:17] magnets zip past it
+[05:20] that flywheel hey the way it keeps
+[05:22] running
+[05:24] okay guys you might have noticed we've
+[05:25] swapped over that flywheel obviously is
+[05:27] still
+[05:28] going so there's quite a lot of energy
+[05:30] we've got there we're still reading a
+[05:31] couple of vaults and luke is going to
+[05:33] um get on there and pedal like crazy so
+[05:36] i can have a look
+[05:37] go for it man just tell me when when
+[05:40] you want to put your feet in the toe
+[05:41] caps of the bash oh yeah
+[05:43] yeah jesus core inexperienced
+[05:47] yeah go for it matt
+[05:50] that's 26 volts man no worries at all
+[05:54] and it's lasting hey because of the
+[05:56] flywheel it's lasting real
+[05:58] you notice the magnets aren't flying off
+[06:01] either despite the speed of that
+[06:03] so it looks like a spot the super glue
+[06:05] is pretty much all you need
+[06:06] yeah look at that okay so that voltage
+[06:09] was awesome we've swapped it over now so
+[06:11] we're getting a milliamp reading
+[06:13] and we're going to see what kind of
+[06:14] watts we can get out of this now the max
+[06:16] we got was about 26
+[06:18] volts remember would you mind matt of
+[06:20] course yeah
+[06:21] awesome thank you yep
+[06:26] whoa 97 milliamps holding a true about
+[06:31] above 80 at the moment
+[06:32] 84 bits dropping obviously as it spins
+[06:35] so let's
+[06:36] see well let's take 80 why not so that
+[06:39] was 80 milliamps at 26
+[06:41] volts gives us about 2 watts okay
+[06:45] that's 2 watts for that one coil
+[06:49] imagine we put 30 coils around there i
+[06:51] mean that that's got to be done actually
+[06:52] because
+[06:53] 30 coils times two obviously
+[06:56] that's that's 62 watts out of that
+[07:00] that that will be awesome
+[07:03] so there you go the difference between
+[07:04] putting a motor on and doing on the
+[07:06] outside rim of the flywheel i mean
+[07:08] there's lots of things to notice about
+[07:09] this that make it particularly awesome
+[07:11] actually the way the flying wheel
+[07:12] continued running even if you weren't
+[07:14] pedaling
+[07:15] um i do wish that i had all the bits to
+[07:17] be able to put it together fully that's
+[07:18] that is perfectly for sure
+[07:20] and if you do have some spare bits and
+[07:22] feel like sending them then i will build
+[07:24] a full version of that
+[07:26] but that is made from just stuff i found
+[07:29] and i thought it was particularly
+[07:30] awesome we get a couple of watts out of
+[07:32] it
+[07:33] put a ring around there we could get 50
+[07:34] 60 watts out of that no or is it all
+[07:36] anyway i hope you enjoyed the update and
+[07:38] the upgrade and thank you very much for
+[07:41] watching

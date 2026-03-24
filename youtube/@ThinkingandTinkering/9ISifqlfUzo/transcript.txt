@@ -1,0 +1,405 @@
+[00:04] so this one was suggested to me because
+[00:06] a friend of mine is Sam wanting to make
+[00:08] small heaters herself and I conducted a
+[00:11] and when I say small into something
+[00:13] small needs as tiny things and she's
+[00:15] having a bit of a problem so I thought
+[00:17] I'd go through some of the bits and
+[00:18] pieces you need to think about when
+[00:20] making a heater and make a heater
+[00:23] obviously so I'm going to make quite a
+[00:24] large heat so actually the one that I'm
+[00:26] making is this one here this hopper
+[00:28] heater so it's quite large but the same
+[00:30] ideas hold true for however big or small
+[00:34] you want to make the heater and whatever
+[00:36] substrate you want to put the heater on
+[00:38] you have to remember cuz you're eating
+[00:40] something so you have to control the
+[00:43] heat is if you put it on to a bit of
+[00:45] cloth and heated above the flame point
+[00:48] of the clock the flash point to the
+[00:49] cloth you're obviously gonna create a
+[00:52] danger and the same thing with pepper
+[00:54] now you you can leach anything to
+[00:56] whatever degree you want really you just
+[00:58] have to do in a controlled way so you
+[01:01] know don't try to heat a piece of
+[01:03] plastics up to a thousand degrees so
+[01:05] you'll be sorry what you want to do is
+[01:07] is have reasonable control no heating or
+[01:12] the majority of heating is actually done
+[01:15] by something called Joule heating Joule
+[01:18] heating is also known as resistive
+[01:19] heating or ohmic heating but your
+[01:22] heating is is really what it is and you
+[01:24] see Joule heating all over the place
+[01:26] it's in the kettle it's in your arm and
+[01:28] it's in a toaster so what is in a
+[01:30] toaster maybe hit them
+[01:33] it's actually an astonishingly simple
+[01:34] machine all you actually have is you
+[01:37] need here a little bit of electronic
+[01:39] control currents here and this thing
+[01:42] here and this thing is a big old wire
+[01:45] rack of nichrome wire nichrome wire is
+[01:48] good because nichrome wire actually has
+[01:51] a high resistance and this is one of the
+[01:53] reason it's called resistive heating is
+[01:55] because the resistance of the material
+[01:56] actually affects how well it's going to
+[02:01] heat and the only other things we got in
+[02:03] here is a little beaver that operates a
+[02:05] tiny switch here to get the current
+[02:08] through to the wire and the tiny bit of
+[02:10] control electronics it always does is
+[02:12] turn it off and on there's a little push
+[02:14] button there to make the thing pop up
+[02:17] that's a little electromagnet that
+[02:19] actually goes there to drop down a lot
+[02:21] then to hold it down and when he turns
+[02:23] off that's how it pops up against the
+[02:25] spring and this electromagnet there's a
+[02:27] tiny little heating sensor in here ended
+[02:29] the Obama comic-strip sensor so when it
+[02:31] gets too hot that strip will open up
+[02:34] it'll close off the current to the
+[02:36] electromagnet has turned off of the
+[02:38] whole thing haha it's a simple control
+[02:40] it's only just air as a heating element
+[02:42] an electromagnet with the power of head
+[02:44] straight into a resistance wire okay so
+[02:47] now let's talk a little bit about the
+[02:48] theory
+[02:52] okay so our Joule heating is actually a
+[02:55] heating when the particles jiggle across
+[02:59] each other it's like rubbing of the
+[03:00] particles if you like and it's usually
+[03:02] electrons but not always and that and
+[03:04] rubbing is what creates Joule heating
+[03:05] and the fundamental expression of Joule
+[03:07] heating is this B equals IV and YP is
+[03:15] actually a measurement of power now
+[03:18] power in this case is measurement over
+[03:20] time and it's a measured in joules hence
+[03:22] Joule heating
+[03:23] but what incidentally is one Joule per
+[03:25] second and we all have a familiarity
+[03:28] with watts you could think of a 700 watt
+[03:30] heater but the standard SI unit is
+[03:33] joules so the power of joules is equal
+[03:36] to the currently unit through time the
+[03:39] voltage drop across the resistive
+[03:46] element that you using as a heater
+[03:47] now we don't often measure voltage drop
+[03:51] you can do you can measure the voltage
+[03:53] in measured voltage and we can calculate
+[03:55] that you can work out voltage drop but
+[03:57] we don't often do that what we wanted in
+[03:59] is some kind of expression of resistance
+[04:04] something that we can easily measure
+[04:05] using our own meter and this is where
+[04:07] loans law comes in and hence why it's
+[04:09] also called ohmic heating now when I was
+[04:12] at school I learnt um so like this V we
+[04:18] go to the triangle when you read it as
+[04:20] volts equals current times resistance or
+[04:23] current equals false divided by
+[04:25] resistance or resistance equals false
+[04:28] over current see just what you have
+[04:30] under trial in the form of these various
+[04:32] expressions now obviously we could take
+[04:34] these expressions and drop them straight
+[04:36] into this here so we take that one and
+[04:39] drop again won't we get is our power as
+[04:42] being equal to R squared R so we can
+[04:46] find it now in terms of air resistance
+[04:47] figure which is kind of really helpful
+[04:50] all we can take our current model and we
+[04:54] can drop it straight
+[04:55] in there and we get it is equal to V
+[04:58] squared ah
+[04:59] so we can get it as the square of the
+[05:01] voltage times resistance as well that is
+[05:03] the voltage that we're applying on there
+[05:05] if I got the right way around so V
+[05:08] squared divided by r and so given
+[05:14] figures of actually hammer if we can
+[05:16] actually work out what kind of power
+[05:19] relationship and kind of heating we're
+[05:21] gonna have for any particular resistor
+[05:23] that we happen to be using so let's have
+[05:25] a look at the elements of our toaster
+[05:27] what we have with our toaster we had our
+[05:29] Harry and it came to its little circuit
+[05:31] board Rho is really just distributed via
+[05:33] a switch and this which was the lever
+[05:35] operated two little copper strips that
+[05:38] switch then went directly to the
+[05:44] nichrome coil in the night Ron call
+[05:46] Roomba had the push button down where it
+[05:49] was held on by an electromagnet so we
+[05:52] have our electromagnet and that
+[05:54] electromagnet was controlled by a
+[05:57] bimetallic strip feeding straight into
+[06:02] the power obviously the bimetallic strip
+[06:05] so when it got hot enough the strip
+[06:07] would open the letter at my finger turn
+[06:09] off this would pop back out and then
+[06:11] popping out would pan turn off this
+[06:14] switch here and the whole thing would go
+[06:17] off so all was to the toaster nothing
+[06:21] else that's your control circuit that's
+[06:22] your on/off switch is operated by a
+[06:25] mechanical lever that either open or
+[06:27] close touch switch nothing else to it so
+[06:29] let's measure the resistance here if we
+[06:32] make sure that resistance across there
+[06:33] and we have something like I don't know
+[06:38] 200 ohms we make that resistance of $200
+[06:43] now we know where our voltage is our
+[06:45] voltage is 230 volts because we're
+[06:49] operating in the UK if you're operating
+[06:51] in the u.s. it's 110 volts I think most
+[06:54] of Asia works on
+[06:55] defaults but that's how you operate it
+[06:58] on that now we can take these two
+[07:00] figures so we can calculate our power
+[07:02] consumption now power consumption given
+[07:05] they've got these two figures would be V
+[07:06] squared over R so we squared the voltage
+[07:10] and we'll get about what would that be
+[07:15] 52,000 about 52,000 53,000 somewhere on
+[07:19] about that and then we divide it by our
+[07:22] resistance by two and we get about 250
+[07:27] 250 watts about a quarter of what
+[07:30] something like that okay so we can
+[07:32] calculate the pound that this thing will
+[07:34] eventually okay so now there's another
+[07:37] element of it that you need to consider
+[07:39] and that is that we're gonna put this
+[07:42] thing into a fixit's power supplies it's
+[07:44] a wall unit or a battery unit or
+[07:46] something like that and we need to
+[07:47] consider our Ohm's law again or are on
+[07:49] the floor another it's V equals IR now
+[07:52] if we have a voltage of 230 Falls and we
+[07:56] put that rate across a resistance of 200
+[07:59] ohms we divide one by the other we get
+[08:02] the comment that we're actually going to
+[08:03] draw so we get 1/2 so that's gonna draw
+[08:11] one point one five hours and of course
+[08:13] that's no problem there that's fine but
+[08:15] let's say we reduce our resistance down
+[08:17] to Tokyo arms well that's going to be in
+[08:19] less than a half hours it's quite a lot
+[08:21] maybe we do snap down to 2 ohms we're
+[08:25] going to get 150 amps through that
+[08:27] resistor that's a hell of a lot of power
+[08:30] to be working through a resistor and
+[08:32] obviously as we keep going down by
+[08:34] factors of 10 and it's not too difficult
+[08:35] to go down by factors of 10 incidentally
+[08:37] I mean a length of copper wire about
+[08:39] that long is going to happen in
+[08:40] significant resistance and that of
+[08:43] course exactly how fuses work you put in
+[08:46] a short wire that has a really low
+[08:48] resistance so that given a fixed voltage
+[08:51] and given a fixed resistance it will
+[08:54] draw a certain am puja cross that wire
+[08:56] and if that one pitch is high enough and
+[08:58] why I was kind of melt and that's how a
+[09:00] fuse worked it allows too hard
+[09:03] our current to go through melts the
+[09:05] water breaks a circuit and it's done so
+[09:07] as your resistance goes down your
+[09:10] comment is coming to go up now if you
+[09:14] increase that current too much then it's
+[09:17] going to exceed the ability of the
+[09:20] material to handle that current draw and
+[09:22] you need to pay attention to that
+[09:24] particularly that when you're designing
+[09:26] these things so you need to think about
+[09:28] what kind of power is it going to draw
+[09:32] what kind of current is it then gonna
+[09:35] draw
+[09:38] okay so this is demonstration heating
+[09:40] model and what it is is a bit of stone
+[09:43] and such a stone table a granite tile
+[09:45] and what I've done here I put two strips
+[09:48] of this stuff it's copper copper tag and
+[09:50] I just glued the copper tape down on
+[09:52] either side like that and then I painted
+[09:55] over the top of it
+[09:56] with some of my magic ink somewhat
+[09:58] conductive ink now you have to play
+[10:01] around with the resistance figures of
+[10:03] this this conductive ink is actually
+[10:05] pretty conductive so if you slap it on
+[10:08] there and it's thick on Clark you're not
+[10:10] looking at much resistance what you need
+[10:12] to do is play with it and you reduce the
+[10:14] resistance just by adding water thin it
+[10:16] out the thinner it gets the less actual
+[10:19] conductive particles are there and so
+[10:20] for higher the resistance so this has
+[10:23] been watered down 25% of ink to 75% of
+[10:26] water ended on there left to dry and it
+[10:29] forms a very thin film and the thin film
+[10:31] is not particularly conductive so
+[10:33] because it's a point-to-point conduction
+[10:35] its own actually pretty much a square
+[10:36] then if you just painted this ink on
+[10:39] you're going to get the same kind of
+[10:41] Andrus square resistance that we've got
+[10:43] in the sheet resistance testing of this
+[10:45] stuff that we did in an earlier video
+[10:47] that is it's gonna be about 30 hours so
+[10:49] we need to look around at that now I
+[10:51] thought about 30 yards okay I'm only
+[10:53] about 120 ohms that's putting 75% water
+[10:57] than 25% pink should get bound about
+[11:00] right and as it happens we do so if I
+[11:02] measure the persistence of that then the
+[11:06] resistance across those two is a nice
+[11:09] bow hundred twenty yards so I've got a
+[11:11] hundred and twenty ohms resistance on
+[11:13] that as demonstration my promise to put
+[11:16] in 12 volts so I'm going to put in a 12
+[11:18] volt power supply now at 120 arms in 12
+[11:22] forts the kind of current was going to
+[11:24] go across there using yours law is going
+[11:27] to be about point one ounce is a tiny
+[11:29] amount and if we use our Joule heating
+[11:31] formula we can work out that it's
+[11:33] actually going to be about 1.2 watts so
+[11:35] we've got a really low power eater here
+[11:38] it's not very much current it's not
+[11:40] going to get
+[11:40] it'll be hot but after your kitchen
+[11:43] worktop I doesn't want it to heat to a
+[11:45] thousand degrees in two seconds flat
+[11:47] I'll be in trouble so you might connect
+[11:50] that up the current flow and resistance
+[11:56] of that is going to cause this area to
+[11:59] heat up and of course that's what we
+[12:01] want to do making the heating element so
+[12:07] if I measure the temperature of the
+[12:09] surface of that okay so my current
+[12:13] temperature meter reading is 21 degrees
+[12:16] so the temperature of that is currently
+[12:18] 21 degrees and just leave that to warm
+[12:22] up now because the draw is so low then
+[12:26] the heating is going to be actually
+[12:28] quite quite slow no she's not doing too
+[12:33] bad as a 21.7 in the moment
+[12:40] twenty-one point eight so it is
+[12:41] beginning to heat up but by a small
+[12:44] amount obviously you won't actually use
+[12:46] something like this in this way it has
+[12:48] to test and you can see my hand hovering
+[12:51] over it I don't really want to touch it
+[12:52] because that's life if I stick my hand
+[12:55] on there it's gonna be just like putting
+[12:57] a fork in my toaster no not to put our
+[12:59] focus in our dusters it's live huh and
+[13:02] so you need some kind of protection on
+[13:04] that no for this kind of thing what
+[13:06] would be good protection will be Kapton
+[13:08] tape Kapton tape as a heat resistance to
+[13:10] about 400 degrees and a resistance to
+[13:14] electrical current in the region of I
+[13:16] think it's about five kilowatts per
+[13:18] point zero zero six mil thickness so
+[13:23] tell Olivia the resistance to passive
+[13:25] current in a really good heat resistance
+[13:27] so you'd use a bit of Kapton tape on it
+[13:28] or something like that that's see that's
+[13:32] what the captain looks like and you get
+[13:34] it in all kinds of sizes this is 20
+[13:37] centimeters see what it's like it's
+[13:39] sticky-backed and that's the
+[13:40] I'm just there so you play a bit of
+[13:42] Kapton the tape across there and that
+[13:44] will give you an idea of how you would
+[13:47] actually go about protecting yourself
+[13:48] from both electric shock and heat but
+[13:50] there's an awful lot of things you could
+[13:51] put on man you put a bit of mica oh you
+[13:53] could put a bit of ceramic anything
+[13:55] really you put a stone on there then
+[13:57] both of these stones would heat up HAP's
+[14:00] you have to be really good work making
+[14:01] regulator and it would also protect you
+[14:03] that's heavy
+[14:05] that's actually got two 22 now twenty
+[14:08] two point one in fact at twenty two
+[14:10] point two so heating up nicely nice and
+[14:13] slow
+[14:14] it'll continue to heat until these
+[14:15] batteries drain incidentally it'll it'll
+[14:17] get up there if we put insulation on
+[14:19] there it will get even hotter and given
+[14:22] power drivers got and the facts in the
+[14:24] ambient temperature that's actually
+[14:26] gonna get two or thirty forty degrees
+[14:29] and it's gonna take a couple of hours to
+[14:30] do that and it hit home cats but Italy
+[14:33] obviously because it's twelve box you
+[14:34] can in fact just touch it because it's
+[14:37] such a love like to just go through
+[14:38] there now there's another example of a
+[14:40] heating sheet that I've made this one's
+[14:41] flexible because it happens there's the
+[14:43] same process it sounds to copper
+[14:45] stripped and kept on kept chilly and
+[14:47] then a layer of this stuff and you just
+[14:49] live flex it around now ideally of
+[14:52] course what he'd want to do is plug this
+[14:53] into the man's and you're gonna plug it
+[14:55] into the mains you can't plug it in just
+[14:58] like this this is just a really simple
+[15:00] setup you want some safety devices in
+[15:02] there but you can get them easily enough
+[15:04] now this is actually a temperature
+[15:07] controller then it comes with a
+[15:08] thermocouple and you pop the
+[15:10] thermocouple in the middle attach it
+[15:12] keep your a temperature controller and
+[15:14] you can set your temperature controller
+[15:16] I mean temperature control that leads to
+[15:18] something like this and this is a
+[15:19] certain controlled switch
+[15:24] basically so you put your higher voltage
+[15:27] in you wall voltage in here you put your
+[15:30] temperature controller in here and the
+[15:32] temperature controller in the same way
+[15:33] that the touch to have the mechanical
+[15:35] switch this is an electric switch the
+[15:36] temperature controller will turn this
+[15:38] switch off and on which will alter the
+[15:40] supplies with the thermostat it's too
+[15:43] hot the temperature
+[15:45] we'll turn this off the mule stops a lot
+[15:47] then it'll begin to cool down and so on
+[15:50] it'll heat and cool using a little bit
+[15:51] of control circuitry so if you put this
+[15:53] thing into the mains obviously just do
+[15:56] it
+[15:56] you're probably blow the man's now
+[15:58] particularly if you don't thin it down
+[16:00] if you've got something like 20 on sheet
+[16:02] resistance on that and you bang it
+[16:03] straight the main Ben's you guaranteed
+[16:05] to flip your house switches and to plant
+[16:08] some control circuit trick pay attention
+[16:10] to the resistance that you have across
+[16:12] the two electrodes that you using and
+[16:14] that is how you go about making a
+[16:17] heating unit out of this stuff anyway I
+[16:20] hope that helped particularly my friend
+[16:22] and if you enjoyed watching it then
+[16:24] please feel free to come to my IndieGoGo
+[16:26] campaign which is down in the
+[16:29] description bar so thank you very much

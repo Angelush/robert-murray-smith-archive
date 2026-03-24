@@ -1,0 +1,65 @@
+{
+  "thing_id": 6779023,
+  "name": "Eccentric Cycloid Drive For Laser Cutting",
+  "description": "This is meant to be cut out of 5mm acrylic but you can use wood just as well. Export the files as SVG for laser, PNG for wood or STL for 3d printing.\r\n\r\nIn addition you will need 120mm of 8mm rod\r\n\r\nyou can find a video on this here: https://youtu.be/ewZpGX5zO3g",
+  "instructions": "",
+  "related_videos": [
+    {
+      "video_id": "ewZpGX5zO3g",
+      "url": "https://youtu.be/ewZpGX5zO3g"
+    }
+  ],
+  "tags": [
+    "laser",
+    "lasercut",
+    "laser cutter"
+  ],
+  "categories": [],
+  "license": "Creative Commons - Attribution - Share Alike",
+  "added": "2024-09-26T15:14:33+00:00",
+  "modified": "2024-09-26T15:14:33+00:00",
+  "url": "https://www.thingiverse.com/thing:6779023",
+  "thumbnail": "https://cdn.thingiverse.com/assets/a4/ab/9e/f6/33/large_display_Screenshot_from_2024-09-26_15-58-14.png",
+  "like_count": 11,
+  "collect_count": 5,
+  "comment_count": 2,
+  "download_count": 64,
+  "files": [
+    {
+      "name": "Base.stl",
+      "size": 88684,
+      "url": "https://www.thingiverse.com/download:14780190",
+      "download_url": "https://api.thingiverse.com/v2/files/14780190/download"
+    },
+    {
+      "name": "Cycloid_x_2.stl",
+      "size": 109984,
+      "url": "https://www.thingiverse.com/download:14780191",
+      "download_url": "https://api.thingiverse.com/v2/files/14780191/download"
+    },
+    {
+      "name": "Eccentric_x_2.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14780192",
+      "download_url": "https://api.thingiverse.com/v2/files/14780192/download"
+    },
+    {
+      "name": "Frame_x_2.stl",
+      "size": 34484,
+      "url": "https://www.thingiverse.com/download:14780193",
+      "download_url": "https://api.thingiverse.com/v2/files/14780193/download"
+    },
+    {
+      "name": "Handle.stl",
+      "size": 91084,
+      "url": "https://www.thingiverse.com/download:14780194",
+      "download_url": "https://api.thingiverse.com/v2/files/14780194/download"
+    },
+    {
+      "name": "Spacer_x_8.stl",
+      "size": 25684,
+      "url": "https://www.thingiverse.com/download:14780195",
+      "download_url": "https://api.thingiverse.com/v2/files/14780195/download"
+    }
+  ]
+}

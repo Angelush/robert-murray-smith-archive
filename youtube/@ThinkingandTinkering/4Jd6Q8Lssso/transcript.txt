@@ -1,0 +1,129 @@
+[00:05] okay so having done that experiment
+[00:07] earlier in the how to make a super
+[00:08] capacitor maybe think about where we
+[00:10] actually were with those things and what
+[00:13] I tend to do is compare it to current
+[00:14] commercial capacitors and I've done this
+[00:16] a number of times where pull one the
+[00:18] pieces so you can have a look inside and
+[00:19] see what there is in there now the
+[00:21] current commercial capacitor I tend to
+[00:23] use is 2.7 volts at half a farad and
+[00:25] that's the one you can buy on eBay for a
+[00:27] few Pence now at 2.7 vol half a farad
+[00:30] what that means is you get 1.32 kums now
+[00:34] ours was four farads at 1 volt so that's
+[00:36] four KS so we're storing that much more
+[00:38] energy of course um Power delivered on
+[00:41] super capacitor is half CV squared so
+[00:43] the jewels on super capacitor is
+[00:45] different so on the current commercial
+[00:48] super capacitor given that voltage and
+[00:50] that capacitance you get 1.82 uh yeah
+[00:53] 1.82 3 Jews is what you're actually
+[00:55] storing on there and that's the energy
+[00:57] that's the power on hours at 1 VT four
+[01:00] farads we get two Jewels stored on there
+[01:02] so even though our is only one layer
+[01:04] instead of 12 layers we're still storing
+[01:06] more power on there than they are on the
+[01:08] current commercial super capacitors
+[01:10] despite the fact that it's been run at 1
+[01:11] Vol instead of being run at 2.7 volts of
+[01:14] course we can play with the electrolyte
+[01:15] to get that voltage up if we want but
+[01:18] we're really quite happy with it at the
+[01:20] moment and here it is that I've pulled
+[01:22] it to pieces and we can see the active
+[01:25] material on the current collector and
+[01:27] the big question really is how much
+[01:29] active material is they're on there now
+[01:31] there are lots of ways of measuring the
+[01:33] um amount of energy power storage on a
+[01:37] uh ESD one way is to measure the whole
+[01:39] unit and to work it out in comparison to
+[01:42] the whole unit that is the case the
+[01:44] sport Electronics the electrolyte the
+[01:46] active materials and so on and so on and
+[01:47] so on and that all obviously brings it
+[01:50] right down and another way is just to
+[01:52] wear the active materials now my
+[01:53] assumption is that these graph oil leads
+[01:55] here are making no contribution and I
+[01:58] think that's a fair enough assumption
+[01:59] when a wife these off you'll see that
+[02:00] nothing's happened to them and I've been
+[02:02] running these for um thousands of Cycles
+[02:05] remember I build lots of these things so
+[02:08] I can make it look very very easy
+[02:10] because I I don't know how many
+[02:12] thousands of these things I've built the
+[02:14] whole point of this is for you to
+[02:16] experiment don't expect the same results
+[02:18] immediately you're going to have to do a
+[02:20] fair bit of work before you get those
+[02:21] results but you will get some result as
+[02:24] I say I've been making lots of these so
+[02:26] let's have a look we've got our two
+[02:28] devices here and let's pop them on the
+[02:29] micros scale and see what they actually
+[02:32] weigh and they
+[02:34] weigh 42 G actually 422 G now if I wipe
+[02:40] that material off we can get the weight
+[02:43] of the um current collectors and take
+[02:45] one from the other that'll give us the
+[02:47] weight of the active
+[02:53] material incidentally if you have a look
+[02:55] you can see how shiny they
+[02:58] are
+[03:03] 0.415 414 let's say it's 414 so take one
+[03:07] from the other and we
+[03:09] get
+[03:11] 0.8 G so 8,000 of a gram is what the
+[03:16] active material actually
+[03:19] was okay so I just done a quick
+[03:21] calculation of what that actually means
+[03:22] and it means that the active material is
+[03:24] at 500 fads per G now um I did that
+[03:29] together with you in a quick
+[03:30] demonstration where I just slapped it
+[03:32] together but I can tell you that I
+[03:33] compressed that in a different version
+[03:36] and I'm getting actually nine farads per
+[03:38] gram now if I get 9 farads per gram then
+[03:41] uh we're just hitting this thing at the
+[03:43] ballpark but let's take our four farads
+[03:45] per gam because you've seen that on the
+[03:46] video what that actually means is that
+[03:48] if I make a super capacitor which I can
+[03:50] do quite easily and the reason I can do
+[03:52] it quite easily is this liquid method
+[03:54] because we're aiming at printing it
+[03:56] remember using that dip coat and making
+[03:58] it into a printable ink a tiny step it's
+[04:00] just a matter of drying it a little bit
+[04:02] so we get a thicker material that we can
+[04:04] print but if I do that and I make a um
+[04:07] super capacitor that size this is room
+[04:09] with paper 500 sheets and you can see
+[04:11] how big it is that will be a
+[04:15] 2,000 amp power battery that's what that
+[04:18] would look like now you think about lead
+[04:21] acid if you want 2,000 amp hours how of
+[04:24] it you basically have to fill the room
+[04:26] then you got only Associated problems
+[04:28] now I've been running this thing for
+[04:30] months now I've done thousands of Cycles
+[04:33] with it after about 10,000 Cycles it
+[04:36] does lose power a little bit it retains
+[04:39] 97.4% of its original Power after 10,000
+[04:43] Cycles 10,000 Cycles is a long time and
+[04:47] I don't know how long it will actually
+[04:49] last I can only tell you that I've run
+[04:51] it to 10,000 Cycles so that's what a
+[04:53] 2,000 amp hour battery will look like
+[04:56] and that's how long it will last anyway
+[04:58] I thought that little bit a followup
+[05:00] would be interesting for you and thank
+[05:01] you for
+[05:03] watching

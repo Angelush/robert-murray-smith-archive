@@ -1,0 +1,30 @@
+{
+  "video_id": "uIrGNpclpEs",
+  "title": "Pulse Width Modulation with an Arduino",
+  "description": "Luke explains the theory behind creating dimmable LEDs. \nint ledPin = 6;\nint potPin = 0;\n\nvoid setup() {\n\n  pinMode(ledPin, OUTPUT);\n  pinMode(potPin, INPUT);\n\n}\n\nvoid loop() {\n\n  int potValue = analogRead(potPin);\n  analogWrite(ledPin, potValue/4);\n  Serial.println(potValue/4);",
+  "published_at": "2019-11-21T10:14:45Z",
+  "channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+  "channel_title": "Robert Murray-Smith",
+  "tags": [
+    "FWG",
+    "luke",
+    "neame",
+    "science",
+    "electronics",
+    "physics",
+    "arduino",
+    "computers",
+    "design",
+    "technology",
+    "dt",
+    "project",
+    "lights",
+    "LED"
+  ],
+  "duration": "PT8M13S",
+  "view_count": "1375",
+  "like_count": "69",
+  "comment_count": "22",
+  "url": "https://www.youtube.com/watch?v=uIrGNpclpEs",
+  "thumbnail": "https://i.ytimg.com/vi/uIrGNpclpEs/hqdefault.jpg"
+}

@@ -1,0 +1,197 @@
+[00:00] foreign
+[00:08] so I'm very interested in energy storage
+[00:11] now energy storage is one of those
+[00:14] things that raises fine examples of
+[00:16] Thinking Inside the Box every time you
+[00:19] mention it what people really do is they
+[00:21] go straight to batteries electrochemical
+[00:23] batteries in particularly lithium and
+[00:26] there's Reams and reams of arguments and
+[00:28] tons of video on which is better lithium
+[00:32] or lead which flavor of lithium that's
+[00:34] popular at the moment is better than
+[00:36] another flavor of lithium there are
+[00:39] electrochemical batteries well they have
+[00:41] their advantages that's for sure the
+[00:43] main one being they're energy dense that
+[00:46] is they'll store a lot of energy per
+[00:48] kilogram of weight and that's a huge
+[00:50] Advantage for lots of applications but
+[00:52] they bring with them a huge number of
+[00:55] disadvantages that people basically
+[00:57] ignore for one thing they're expensive
+[00:59] they're poisonous outside of lead
+[01:03] they're not recycled they're just dumped
+[01:05] and some of them have a very nasty habit
+[01:08] of burning everything to the ground to a
+[01:09] greasy spot so there's an awful lot of
+[01:12] disadvantages that go alongside chemical
+[01:15] batteries now I'm a huge fan of gravity
+[01:19] batteries
+[01:20] gravity batteries are basically you you
+[01:24] pull a rock up and let it go and it
+[01:25] stores the energy now they have
+[01:27] disadvantages as well I mean they're
+[01:29] nowhere near as energy dense as an
+[01:31] electrochemical battery that is true but
+[01:34] they have an enormous amount of
+[01:37] advantages that go along with them I
+[01:40] mean the first thing is
+[01:41] it's a rock so it's not poisonous you
+[01:46] don't have to dispose of it it's a rock
+[01:50] all you've got to do is dragging it up
+[01:53] and of course that makes it very cheap
+[01:54] it also means that they don't lose their
+[01:57] energy they store the energy forever
+[02:00] they don't wear lantern that act of
+[02:03] resin and dropping it they're a hundred
+[02:05] percent efficient they've got this huge
+[02:08] amount of advantages to them that
+[02:12] outweigh electrochemical batteries like
+[02:14] you wouldn't believe luckily of course
+[02:16] the people who develop energy storage
+[02:18] systems are well aware of this
+[02:20] and given the advantages of something
+[02:23] like a weight it turns out that it costs
+[02:27] per kilowatt hour stored gravity
+[02:30] batteries are better than an
+[02:32] electrochemical batteries because the
+[02:34] replacement cost maintenance cost
+[02:37] Purchase cost of electrochemical
+[02:39] batteries makes a whole battery storage
+[02:42] system for energy as a system
+[02:44] pretty expensive
+[02:46] whereas if you're just taking rocks and
+[02:48] dropping them down a hill turns out it's
+[02:51] pretty cheap and so although you can't
+[02:54] store as much for each kilogram of Rock
+[02:57] overall for the whole system it's
+[03:00] cheaper of course I'm being a bit glib
+[03:02] to make a point these systems are more
+[03:05] complicated because one of the issues
+[03:07] when you drop away is well it falls and
+[03:10] it falls without control without control
+[03:13] Zoom gone all you need is some kind of
+[03:16] control in there now A friend of mine
+[03:19] he's a high school student from the
+[03:20] Philippines he's working with a group of
+[03:22] his friends so that's dealing his
+[03:24] friends and they're working on a gravity
+[03:26] battery system and then looking at the
+[03:28] control he wrote to me and suggested in
+[03:30] a statement and I thought what a
+[03:32] brilliant idea because the escapement
+[03:34] controlling a falling weight is as old
+[03:37] as pendulum driven clocks it's an
+[03:40] awesome mechanism to be looking at for
+[03:42] one aspect of this problem so I went and
+[03:46] Drew this up
+[03:48] as you can see it is just the largest
+[03:51] statement the files of course are in
+[03:53] tinkercad and that made them freely
+[03:54] available in the description below then
+[03:57] what I've done is I've printed the
+[03:59] amount so this bottom plate gets a
+[04:02] bearing right in the corner a couple of
+[04:04] angles on it to hold it the ratchet reel
+[04:06] itself to bearing that side and that
+[04:09] side the pendulum attachment there has a
+[04:12] bearing in it that's the escapement arm
+[04:14] and then the front plate has a bearing
+[04:17] in there and the whole thing just slots
+[04:19] together
+[04:21] okay that's it slotted together and you
+[04:23] can see that the wheel has these spokes
+[04:25] in this way this is a pendulum actually
+[04:27] now a pendulum is a really good way of
+[04:29] controlling it because that gives an
+[04:31] even time spread obviously but you could
+[04:33] use a solenoid just as well if you
+[04:35] wanted but this is pendulum controlled
+[04:37] and this catchment arm is what stops it
+[04:39] so the weights attached here and the
+[04:41] weight is pulling down on it and as it
+[04:43] pulls down on it it wants to turn in
+[04:46] that direction but that arm has a little
+[04:49] stop that stops that wheel turning
+[04:52] anymore as a pendulum swings in that
+[04:54] direction of course it moves that arm
+[04:56] allowing this to move again as this
+[04:59] moves that catches there pushing the
+[05:01] pendulum imparting energy into the
+[05:03] pendulum that drops back down and stops
+[05:07] again so it's a jolting stopping
+[05:09] movement where we can time it using a
+[05:12] pendulum now in a clock of course that
+[05:14] tick is fine it works just fine doesn't
+[05:18] really worry at all it's something like
+[05:20] this where you're wanting a smooth
+[05:21] output this is the basics of the control
+[05:24] unit controlled by a pendulum could be
+[05:27] controlled by a solenoid but it creates
+[05:30] a jerky movement what we might want to
+[05:32] do is put a flywheel in there there's a
+[05:34] flywheel will take that jerking movement
+[05:36] and even the movement out and we've done
+[05:39] that with flywheel generators before the
+[05:41] other thing we might want to do of
+[05:43] course is to put gearing in there so
+[05:45] that it will use a very heavy weight
+[05:47] then the gearing will take care of that
+[05:49] heavy weight because this will carry as
+[05:52] much weight as it's physically able to
+[05:55] that means it's a pretty much unlimited
+[05:57] amount of energy it can store but that
+[06:00] would be the basic control mechanism and
+[06:02] all we have to do now is put the front
+[06:04] plate on and tie on a weight
+[06:07] okay so there it is with the front plate
+[06:09] on time to the bench she's got a wet
+[06:10] tied around the ratchet wheel there and
+[06:13] that is where the pendulum would go or
+[06:15] as I suggested a solenoid switch and all
+[06:17] we have to do to make this work is push
+[06:19] that
+[06:25] as we push it you can see it Rising
+[06:27] there to push that arm out of the way
+[06:29] arm goes out the way there you go you
+[06:31] can see that moving out the way and back
+[06:34] down again
+[06:36] as it comes back down this pushes it to
+[06:39] push that back out of the way
+[07:02] okay I've attached a pendulum let's get
+[07:05] it going
+[07:13] not awesome that means it it's an
+[07:16] escapement from a clock okay so it's
+[07:18] going to work but it's awesome to see it
+[07:21] actually work and controlling the fall
+[07:24] of that weight so this is a key and
+[07:27] crucial component
+[07:30] to a gravity battery
+[07:35] so
+[07:41] that's awesome
+[07:46] this is an edge old mechanism a but it
+[07:49] is a central component to the control of
+[07:52] gravity batteries of course I did this
+[07:54] for dealing his friends who are working
+[07:56] in the Philippines as I said earlier so
+[07:58] they're more than welcome to this I hope
+[08:00] it's useful and helpful to them for
+[08:02] everybody else everything I do is um
+[08:05] public domain so you're quite welcome to
+[08:07] tick these files and do what you want
+[08:08] with them there are other components
+[08:11] this would need I mean a one-way clutch
+[08:14] with the Freewheel with a wedge that we
+[08:15] did in the Freewheel generator would be
+[08:18] an awesome addition to this because it
+[08:20] will iron out that jerky movement and
+[08:22] make for constant generation but I think
+[08:25] that's an essential component I think
+[08:27] other components we've actually done I
+[08:29] think if you put them together then
+[08:30] you're going to have a weight driven
+[08:31] gravity battery quite easily I hope you
+[08:34] enjoyed the video thank you very much
+[08:36] for watching and please do remember to
+[08:38] like And subscribe

@@ -1,0 +1,385 @@
+[00:03] hi there I'm Ashley you're probably
+[00:05] wondering who the hell I am so let me
+[00:07] tell you a few weeks ago I was building
+[00:10] a controller for growing mushrooms and I
+[00:13] needed a way to in heat the mushroom
+[00:15] chamber so I found a Rob's ink
+[00:18] conductive ink and I used that to build
+[00:21] a heating
+[00:22] element it turned out and I was amazed
+[00:25] to discover this that Rob was in the
+[00:27] same town as me and like most you I was
+[00:30] enthralled by the videos he posted so I
+[00:33] came down here and after a couple of
+[00:34] weeks sitting outside meditating they
+[00:36] finally let me inside now I get to hang
+[00:39] around with Steven Rob and I'm part of
+[00:41] fwg I'm going to be talking about energy
+[00:44] and mainly electrical things in my first
+[00:47] video I'd like to describe the Dual
+[00:49] Thief circuit which is essentially can
+[00:52] be used for energy harvesting or
+[00:55] capturing low voltage energy sources and
+[00:58] converting them into voltages that are
+[01:00] useful to
+[01:02] use one of the first Concepts we need to
+[01:05] know in order to understand the jewel
+[01:06] thief is that when a current is passed
+[01:09] through a coil of wire or any wire it
+[01:12] induces an electromagnetic field if we
+[01:15] wrap a load of wire around an iron nail
+[01:21] in this case all of the fields will line
+[01:25] and we'll get a much stronger
+[01:26] electromagnetic field the
+[01:28] electromagnetic field will induce a
+[01:31] magnetic field in the iron now that
+[01:35] happens whenever current flows through
+[01:39] the wire when we turn the current off
+[01:43] that induced magnetic field has to go
+[01:46] somewhere it goes back into the wire and
+[01:50] turns back into electrical current in it
+[01:54] in the opposite direction to which the
+[01:56] field was induced in this way by
+[01:58] energizing a oil we can create a
+[02:01] magnetic field which then collapses and
+[02:04] gives us a spike of energy and we're
+[02:07] going to use this principle in order to
+[02:09] light an
+[02:11] LED okay so now I'm going to demonstrate
+[02:14] how a coil of wire and electromagnetic
+[02:16] field collapsing can be used to drive an
+[02:20] LED what we've got here is a battery a
+[02:23] 1.5v battery connected up through a coil
+[02:28] and through a little switch
+[02:30] and I've connected up this led in such a
+[02:33] way that when the field induced in this
+[02:36] coil collapses the current will push be
+[02:41] pushed across the LED and cause light to
+[02:44] be emitted now as you can see at the
+[02:46] moment even though we have a 1.5 volt
+[02:48] battery connected the LED is not lit
+[02:51] that's because the LED is a diode and
+[02:53] requires a forward voltage of
+[02:55] approximately 2.3 2.4 volts in order to
+[02:58] light this will allow us us to light the
+[03:01] LED without having a 2.5 volt Supply and
+[03:06] so if I connect this and disconnect it
+[03:09] you can actually see the LED is
+[03:12] flashing this is whenever the coil
+[03:16] collapses the voltage builds up and it
+[03:18] Bridges a gap and emits
+[03:24] light briefly explain the circuit if
+[03:27] we've got our 1.5 Vols up here our Zer
+[03:31] volts here this is the
+[03:33] coil this is our light emitting diode it
+[03:36] should be some little squiggly lines for
+[03:38] light coming off and here is our switch
+[03:41] when we close the switch an
+[03:43] electromagnetic field is built up in the
+[03:46] coil and a magnetic field is built up in
+[03:49] the iron nail now the left hand rule
+[03:52] tells us the which direction the field
+[03:56] builds up in in this case we want the
+[03:58] field to build up so pointing in this
+[04:00] direction so that when it collapses the
+[04:03] current flows in this direction so this
+[04:05] is coiled in a in that way in order to
+[04:07] cause that to happen and all we're doing
+[04:09] in that case is simply switching this on
+[04:11] and off to get the LED to flash what
+[04:13] we're going to do next is turn the LED
+[04:16] on and off really fast to see if we can
+[04:18] get it to look like it's on all the
+[04:21] time so as promised we're now going to
+[04:24] switch the coil on and off very quickly
+[04:27] and in order to do that what instead of
+[04:29] the switch which I've connected up an
+[04:31] electromechanical relay which is just a
+[04:33] switch controlled by a solenoid in this
+[04:35] case another coil which is acting as a
+[04:37] magnet and pulling the switch
+[04:40] closed now in order to switch it off on
+[04:43] and off very quickly I'm going to
+[04:45] connect it to a potentiometer controlled
+[04:48] 555 timer the 555 timer creates a
+[04:51] sequence of pulses which will switch the
+[04:54] relay on and off and the potentiometer
+[04:57] will allow me to control the frequency
+[04:58] of those pulses
+[05:03] so so now if you look at the
+[05:05] electromechanical relay you can see it's
+[05:07] switching on and off and you can see the
+[05:09] light flicking on and off if I change
+[05:12] the
+[05:13] potentiometer and increase the
+[05:16] frequency the flickering of the light
+[05:19] reduces as there's almost no off
+[05:23] period and that's about as far as I can
+[05:25] go with this relay without it latching
+[05:28] on permanently
+[05:30] like that but as you can see the light
+[05:32] is essentially on continuously now now
+[05:36] in the Dual Thief circuit which I'm
+[05:38] going to explain
+[05:40] shortly the oscillation is around 20,000
+[05:43] times a second so you will not see any
+[05:46] flickering at
+[05:48] all the next concept you need to
+[05:51] understand the jewal Fe is the
+[05:53] transformative effect
+[05:55] Transformer in this circuit we have a
+[05:58] battery 1.5 vol
+[06:00] going through a
+[06:01] coil which we can switch on and off as
+[06:04] before as we saw before the back EMF
+[06:08] from the collapsing magnetic field can
+[06:10] be used to drive an
+[06:13] LED now the transformal works by
+[06:17] wrapping another coil around the same
+[06:20] nail and then the magnetic field induced
+[06:23] in the nail is shared between both
+[06:25] coords when the C when the EMF field
+[06:28] collapses
+[06:30] the energy is then shared between both
+[06:33] coils in this way we can transfer energy
+[06:36] from this circuit on the left to this
+[06:38] circuit on the right which is directly
+[06:40] connected to the
+[06:41] LED so without any physical connection
+[06:44] we can drive the LED through the
+[06:48] Transformer back to the lab again we got
+[06:52] the same setup as before when we had a
+[06:54] nail with a single coil around it but
+[06:58] this time we've got a nail
+[07:00] with two coils around it so it's a
+[07:03] Transformer the first coil will collapse
+[07:05] and energize the second coil as well
+[07:07] which is going to drive our
+[07:09] LED if I now connect up the oscillator
+[07:12] so we can switch it on and off very
+[07:15] quickly again we can see the same effect
+[07:18] so I can light the
+[07:20] LED just by switching on and off the
+[07:22] Transformer very
+[07:27] quickly before I go on explain the Dual
+[07:30] Thief circuit I need to explain one more
+[07:32] thing which is an electrical component
+[07:34] for the
+[07:35] transistor as you saw in the segments
+[07:37] before we need a switch in order to
+[07:39] switch on and off very quickly in order
+[07:41] to make our LED light transistor is just
+[07:44] an electrical switch and on the circuit
+[07:47] on the board here I'll show how a
+[07:49] transistor is used to drive an LED in
+[07:52] this case we've got three volts because
+[07:54] we want the to be on this is a symbol
+[07:57] for a
+[07:58] transistor resistor is controlled by the
+[08:01] base if we flip this switch to on then
+[08:05] current will flow through the base and
+[08:07] this will cause a transistor to switch
+[08:10] on which allows current L to flow from
+[08:14] from The Collector to the emitter in
+[08:16] much larger quantities because the base
+[08:19] current amplifies the current that flows
+[08:21] through the transistor but in our case
+[08:23] we're just going from a current of zero
+[08:25] to its um saturation current soet neatly
+[08:30] on all that's really important here is
+[08:33] that if we apply a
+[08:35] voltage to this spase we can switch on
+[08:39] and off the
+[08:43] transistor illustrate how the transistor
+[08:46] operates in practice we've got the same
+[08:49] circuit that was drawn on the board here
+[08:51] and what we're going to have is our
+[08:52] current flowing through here and we're
+[08:54] going to have it flowing through the
+[08:55] transistor and through the LED there's
+[08:56] nothing on at the moment because there's
+[08:58] no current flowing into the base if I
+[09:00] connect the base up then we get current
+[09:02] flowing through the base which allows
+[09:03] current to flow through the transistor
+[09:04] and light the led the resistors are only
+[09:07] there to stop the components burning
+[09:10] out okay so finally as promised I'm
+[09:14] going to explain to you how the je Fe
+[09:16] circuit Works you're already familiar
+[09:18] with all the components required to
+[09:20] understand it in this circuit diagram up
+[09:23] here we've got the Transformer the dots
+[09:25] indicate the direction of the windings
+[09:27] which is important because thater me the
+[09:29] direction of the electromotive force
+[09:31] that's induce when we pass the current
+[09:33] through the reason for that will become
+[09:35] clear later
+[09:36] on down here we have our
+[09:39] transistor and we've got the light
+[09:41] emitting diode here so how does this
+[09:45] work now what we need to do is switch on
+[09:48] and off this coil very quickly so that
+[09:51] it causes an electromotor Force to to
+[09:54] turn this led on and off quick enough
+[09:57] that it looks like it's on
+[09:59] so what
+[10:01] happens when we turn this rail on this
+[10:03] 1.5 volt rail current flows through this
+[10:06] coil through the resistor and into the
+[10:09] base of the transistor this starts
+[10:11] turning the transistor
+[10:13] on because the transistor is being
+[10:15] turned on current can now flow through
+[10:18] this coil the secondary
+[10:20] coil
+[10:22] now this these coils are both ground
+[10:25] around the same nail so the em field
+[10:29] that's induced by driving current
+[10:32] through this coil induces a magnetic
+[10:33] field in the nail which is shared by
+[10:35] this coil now we wind this coil in such
+[10:39] a way that the changing magnetic field
+[10:43] induces a current flow in this coil
+[10:47] which is in the direction we want it to
+[10:48] go which is in the direction towards the
+[10:51] base of the transistor so that's why the
+[10:53] winding direction is important in
+[10:55] practice when you do this you can just
+[10:57] as long as they're opposite you can
+[10:59] connect it up if it doesn't work just
+[11:00] switch one of them
+[11:02] around now so we turn it on current
+[11:06] flows through the base switching the
+[11:08] transistor on current then flows through
+[11:10] the secondary coil inducing a magnetic
+[11:13] field the changing magnetic field
+[11:15] induces a current in the primary this
+[11:17] increases the current that flows through
+[11:19] the base which in turn increases the
+[11:21] current that flows through the
+[11:22] transistor this causes a feedback loop
+[11:25] which causes the transistor to very
+[11:26] rapidly turn all the way on
+[11:30] once the transistor is turned completely
+[11:32] on there is no longer a changing
+[11:34] magnetic field we have a static field
+[11:38] but only for an instant because what
+[11:40] happens is since we no longer have a
+[11:43] changing magnetic field there's no
+[11:45] longer a current induced in our primary
+[11:48] winding because there's no current
+[11:51] induced in
+[11:53] it we the current through the base
+[11:58] reduces the current reducing through the
+[12:01] basee means that the current through the
+[12:03] secondary also reduces which means that
+[12:06] our magnetic
+[12:07] field collapses slightly because down to
+[12:11] the point where our curent is now this
+[12:14] means that the current the magnetic
+[12:16] field in this coil also collapses and
+[12:19] when it collapses it's in the opposite
+[12:22] direction to when we induced the
+[12:24] field so before originally when the
+[12:28] current was flown through here and the
+[12:29] transistor was turning
+[12:30] on the current that was induced through
+[12:33] this coil was adding to the base of the
+[12:35] transistor and turning it hard on but
+[12:38] now that this is collapsing the back EMF
+[12:41] is in the opposite direction which means
+[12:43] that we're reducing the current into the
+[12:45] base which causes the base to start to
+[12:48] turn off and the transistor starts to
+[12:50] turn off because the transistor is
+[12:52] turning off the current through here
+[12:54] reduces even more which causes further
+[12:56] collapse of the field further revers
+[12:59] induction here which causes less to
+[13:01] through flow through the base and the
+[13:03] whole thing
+[13:05] collapses once it's off again current
+[13:08] can start flowing forward again again
+[13:11] inducing a current in the secondary and
+[13:13] through this feedback loop these this
+[13:16] transistor turns on and off very rapidly
+[13:19] and the turning on and off rapidly
+[13:21] allows when this field collapses to
+[13:24] drive the LED so that's how the Dual
+[13:28] Thief works
+[13:31] now what's crucial about this circle
+[13:35] absolutely fundamental is that the LED
+[13:38] will not light with a 1.5 volt battery
+[13:42] so the whole point of the Dual field is
+[13:45] that we can use a 1.5 volt battery or a
+[13:48] lower voltage source to light something
+[13:50] which needs a higher voltage in this
+[13:52] case about 2.2 2.3 something like
+[13:56] that this is because when the El field
+[13:59] collapses the back EMF generates a
+[14:03] voltage Spike which is enough to drive
+[14:06] the LED and faster that collapses the
+[14:08] bigger the voltage
+[14:10] Spike now Rob might do a video later
+[14:13] about how this interacts with the
+[14:15] battery how the back EMF interacts with
+[14:17] the battery because it's quite
+[14:18] interesting but one more crucial thing I
+[14:20] want to say is that we haven't used
+[14:23] anything special here you'll see a lot
+[14:25] of dual Thief circuits where they use a
+[14:27] toroid they use kind of Pythagorean
+[14:30] perfect shape but none of that's
+[14:32] necessary we've just used a nail here a
+[14:35] nail a bit of wire and a transistor and
+[14:37] an LED and that's it there's no mystery
+[14:40] to it you've seen how it works
+[14:44] now this video of course is to show the
+[14:46] Dual Thief working and so I've wired one
+[14:49] up here on a piece of breadboard we've
+[14:51] got a 1.5 Vol battery connected up the
+[14:53] same way in the circuit diagram and then
+[14:56] we have two coils of wire wound around a
+[14:58] simple nail and one of the coils um goes
+[15:01] to the base of the transistor and the
+[15:03] other coil goes to the collector of the
+[15:06] transistor in the same way it was shown
+[15:08] on the board and this is oscillating so
+[15:10] quickly that it looks like the LED is on
+[15:13] it actually oscillates in this
+[15:14] configuration around 20,000 times a
+[15:17] second so there you go that's how you
+[15:19] drive an LED with a Ford voltage over 2
+[15:21] volts with a battery that's only 1.5
+[15:24] volts now this circuit will go down to
+[15:27] about 0
+[15:30] s maybe less because the transistor base
+[15:33] only turns on at 0.7 volt so any below
+[15:36] that and you can no longer Drive the
+[15:38] circuit in practice it tends to go a bit
+[15:40] lower
+[15:41] but in this is you you can play around
+[15:45] with it and see what
+[15:47] happens okay fantastic now you know how
+[15:50] a jewel thief works why is this
+[15:53] interesting the reason this is
+[15:55] interesting is because there are many
+[15:57] circumstances where we want to collect
+[15:59] energy from the ambient environment from
+[16:02] solar cells from other kind of
+[16:04] generators where the voltage is very low
+[16:07] and it's kind of useless to us so by
+[16:11] using the Dual Feld we can step up the
+[16:12] voltage to a useful voltage another area
+[16:16] which is useful is in capacitors
+[16:18] capacitors when they discharge discharge
+[16:20] to very low discharge from whatever you
+[16:23] charge them to all the way down to Zer
+[16:24] volts if you want to use all the energy
+[16:27] in the capacitor then we need way of
+[16:29] capturing the very last bits of energy
+[16:32] in there when the voltage drops
+[16:34] down thank you for watching and uh hope
+[16:37] you found that useful

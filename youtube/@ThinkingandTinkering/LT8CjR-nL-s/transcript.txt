@@ -1,0 +1,235 @@
+[00:00] [Music]
+[00:07] everybody so an Eddie it's really just a
+[00:09] swirl of water and you can get an Eddie
+[00:12] if you just put two streams of water
+[00:14] against each other they'll begin a
+[00:16] circular motion of course if it's strong
+[00:17] enough you get a Whirlpool but an Eddie
+[00:19] is just that swirling round of water and
+[00:22] it'll happen in anything that moves
+[00:24] including air so you get edies coming
+[00:26] off the tips of wind turbines and you
+[00:29] can also get edies in something like
+[00:32] this this is a lump of metal I mean in
+[00:35] itself it won't form an Eddy because it
+[00:37] can't flow but the standard way of
+[00:39] seeing a lump of metal is a group of
+[00:41] metal ions held rigidly and all of the
+[00:44] electrons in here form a SE and they're
+[00:47] free to flow around those rigid metal
+[00:50] ions and because they're free to flow if
+[00:54] we can get one flowing one way another
+[00:56] flowing another way we will get an edit
+[00:58] a swirl of those electrons in the actual
+[01:01] metal itself and we can do that we do
+[01:04] that actually really easily by using
+[01:07] this if we move a metal through a
+[01:09] magnetic field then the magnets cause
+[01:11] the electrons to move and we get a flow
+[01:14] of electrons or a current if we move
+[01:17] them the other way of course they flow
+[01:18] the other way but they're not free to
+[01:20] flow there's actually a rigid structure
+[01:23] all around them remember those cat and
+[01:26] some of them will hit those cations I
+[01:28] causing them to vibrate more and that
+[01:30] vibration is what we see as heat So the
+[01:34] faster we can do that the more
+[01:35] resistance there is because these things
+[01:37] in the way the more the urren form and
+[01:41] the more heat we get now I can do that
+[01:44] lots of different ways but one way I can
+[01:46] do it is with permanent magnets if I
+[01:48] take some permanent magnets in a north
+[01:50] south north south and move them across
+[01:52] the surface of a metal that resistance
+[01:55] will build up and up and up until we get
+[01:57] a heating effect and there was quite a
+[01:59] lot of videos on YouTube showing people
+[02:02] boiling water by taking permanent
+[02:04] magnets and moving them quickly across
+[02:07] the surface of a metal of course it
+[02:09] doesn't have to be a permanent magnet
+[02:11] that does that an electromagnet will do
+[02:13] just as well the only thing that matters
+[02:16] is that the magnetic field moves that's
+[02:19] why you've got to rotate permanent
+[02:21] magnets because you have to move the
+[02:23] magnetic field but of course with an
+[02:25] electromagnet we can just turn it off
+[02:28] and on and that will move the field and
+[02:30] we don't have the inconvenience of
+[02:32] spinning something heavy very very
+[02:34] quickly because it must happen quickly
+[02:37] that motor was rotating at 4,000 RPM and
+[02:41] if we can turn off and on a magnetic
+[02:43] field at that kind of speed we'll get
+[02:46] exactly the same result and that is
+[02:49] exactly what induction heating is now an
+[02:53] induction heater is actually only really
+[02:55] four parts a power supply a coil the
+[02:59] workpiece which is counted as part of an
+[03:01] induction heater and a switch that can
+[03:03] turn it off and on quickly but of course
+[03:06] switching that quickly means we can't
+[03:08] really use a mechanical device and so
+[03:10] the switching is taken care of by
+[03:13] Electronics by a transistor the
+[03:16] transistor can switch to the speed that
+[03:18] we want it to switch at and so we can
+[03:21] turn it off and on quickly now that's
+[03:23] the basics of it but of course
+[03:25] everything carries caveats and there are
+[03:27] ways to make it more efficient and
+[03:29] what's really normal is to put the coil
+[03:32] in what's called a tank circuit now a
+[03:34] tank circuit is a resonance circuit and
+[03:37] I'll talk about this in a different
+[03:38] video but you make it with a coil and a
+[03:42] capacitor and they're able to ring at a
+[03:45] certain frequency just like a tuning
+[03:47] fork and that makes them very much more
+[03:49] efficient so what you're doing is
+[03:52] switching it off and on to pulse it with
+[03:54] a little bit of power to get it to ring
+[03:57] once it's in frequency then it can
+[04:00] actually transfer the power efficiently
+[04:02] and heat up your workpiece but that just
+[04:05] really obscures what it is you're doing
+[04:07] all you're doing is turning that
+[04:09] magnetic field of and on quickly it's
+[04:13] just that the additions make it more
+[04:14] efficient or you'd lose a lot of power
+[04:16] and with induction heating it's a lot of
+[04:18] power which is why you find this tank
+[04:21] circuit there because it makes it very
+[04:23] much more efficient and of course zero
+[04:25] voltage switching also makes it very
+[04:28] much more efficient because the switches
+[04:30] themselves are transistors actually
+[04:32] they're usually mosfets but that's just
+[04:34] a kind of transistor and if you turn
+[04:36] them on when the voltage isn't zero you
+[04:39] lose a lot of power and so what they do
+[04:41] is bring that voltage down to zero so
+[04:44] that when it switches at zero none of
+[04:46] the power is lost and that's the whole
+[04:48] point of these additions to it they make
+[04:51] it much more efficient but they're not
+[04:54] at the core of what's happening the core
+[04:56] of what's happening is all you're doing
+[04:58] is turning that magnetic field off and
+[05:01] on quickly in the same way that we did
+[05:04] it when we spun the magnets with the
+[05:06] motor anyway all that aside is actually
+[05:09] pretty easy to build and here's an
+[05:11] awesome circuit for a very simple one
+[05:13] that works really well you might notice
+[05:16] it is in fact a flyback circuit meant
+[05:19] for driving high voltages but that
+[05:21] really doesn't matter all it is is an
+[05:23] oscillator driving a tank circuit and
+[05:26] tank circuits are so important they
+[05:28] appear P all over the place here in
+[05:30] induction heating we' seen them in tes
+[05:32] coils you'll see them in radios they're
+[05:34] absolutely everywhere and a very
+[05:36] important circuit but we can use this
+[05:39] circuit to drive that oscillator as part
+[05:42] of our induction heater and all we do is
+[05:44] remove the ferite core and the high
+[05:46] voltage coil side of things and our
+[05:49] workpiece will go in that five turn five
+[05:51] turn coil and will become the induction
+[05:55] heater that we're making driven by that
+[05:58] oscillat circuit again all we're doing
+[06:02] is turning it off and on quickly this
+[06:05] circuit is reasonably efficient for
+[06:07] doing that job so here are the
+[06:10] components used this is an
+[06:13] irfp150n mosfet and it's put onto the
+[06:16] board using some very large heat
+[06:19] sinks so that will keep those nice and
+[06:21] cool those will get
+[06:24] hot the
+[06:26] irfp150n has a maximum tolerable voltage
+[06:30] between the dren and the source of 100
+[06:32] volts that means we can't use uh input
+[06:35] power more than something like 40 volts
+[06:38] that's because the way that the
+[06:39] induction coil works with the
+[06:42] backf causes the resonant voltage to be
+[06:45] a lot higher than the supply voltage
+[06:48] it's approximately pi times the supply
+[06:50] voltage I've got a 24 volt Supply so
+[06:54] you'd expect that to be something like
+[06:57] 70 volts or so something around that and
+[07:00] that's pretty close to this mosfet this
+[07:02] gives us about a 30 volt
+[07:04] tolerance if you want to dry it with a
+[07:06] higher voltage you're going to need a
+[07:07] bigger mosfet another important feature
+[07:10] of the mosfet is to make sure that you
+[07:12] get along with a low on voltage
+[07:14] resistance because you want it to look
+[07:17] like a closed circuit with zero voltage
+[07:19] so it doesn't heat up when it's on the
+[07:22] other components here are the diodes
+[07:24] there's two of them they're switching
+[07:26] diodes the one that feed power supplies
+[07:28] and they feed the signal back to the
+[07:30] inside of the work coil and switch it on
+[07:32] and off and in this case I pulled these
+[07:36] from a UPS they're
+[07:38] ds45 5- 08a they've got a maximum
+[07:42] reverse voltage of 800 volts and quite a
+[07:44] high
+[07:45] current of the mosfets can uh have a 44
+[07:49] amp current going through them so pretty
+[07:51] beefy
+[07:52] things they're 12vt Zeno DS at 1
+[07:58] watt the 10K resistors are 2 W resistors
+[08:01] and the 470 resistors here are 2 wat
+[08:04] resistors now the capacitors are going
+[08:06] to be switching as fast as your
+[08:08] resonance circuit is fasting so it has
+[08:10] to be able to tolerate high frequency
+[08:12] switching or it will get hot these are
+[08:15] 850 volt capacitors designed for high
+[08:17] switching and they're 1 microfarads each
+[08:20] now these are four in series to a
+[08:22] capacitance of quarter of a microfarad
+[08:25] and that configuration is put back to
+[08:27] back to give about approxim imely half a
+[08:30] microfarad this is the coil I've turned
+[08:32] it into a rectangular coil because there
+[08:34] are other things I want to do with it
+[08:36] but it's still a coil and it has an
+[08:38] inductance of around 3
+[08:41] micro now if you do the
+[08:43] calculations it's one over 2 pi to the
+[08:46] square root of the inductance times the
+[08:48] capacitance and that gives us a frequenc
+[08:52] about 136
+[08:54] khz of course it's going to be different
+[08:56] in actual practice I think it's about
+[08:58] 175 k HTS it's probably because of
+[09:01] errors in measuring the inductance and
+[09:03] the capacitor of course in reality in
+[09:05] the physical world things tend not to
+[09:08] behave in the same way that we think
+[09:10] they might so that's the tank circuit
+[09:13] and the inductor and of course it needs
+[09:14] a power supply the power supply is just
+[09:17] pulled from some old PCS they're 12
+[09:19] volts each and they're put into a series
+[09:28] configuration
+[09:36] that's a pretty hot piece of
+[09:40] metal you can see it glowing in the
+[09:52] sink okay let's try a teaspoon in
+[09:58] there
+[10:15] so there you go how to build an
+[10:16] induction heater how it works and why it
+[10:18] works I hope you enjoyed the video thank
+[10:20] you very much for watching and please do
+[10:22] remember to like And subscribe

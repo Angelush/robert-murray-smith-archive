@@ -1,0 +1,132 @@
+[00:00] foreign
+[00:08] video 1963 we got as far as this with
+[00:12] our generator and to be marked to my
+[00:14] mind it's looking really cool actually
+[00:16] it's got a cap on the bottom there's the
+[00:18] electronics you wired up in that video
+[00:19] and we stuck this drive Cog on it and
+[00:22] that's our generator already golf now
+[00:24] because it's been so freely all we got
+[00:26] out of it was a couple of Watts because
+[00:29] the torque requirement on this is so low
+[00:31] what we need to do now is get rich up so
+[00:34] I have designed this in tinkercad of
+[00:36] course and those tinkercad files are
+[00:38] freely available the description is down
+[00:40] in the link and we're going to use a
+[00:42] stacking planetary gear system this is
+[00:44] the connection ring it fits on the
+[00:46] generator and then our gears can fit on
+[00:49] that now originally when we looked at
+[00:50] this this is what we came up with we
+[00:53] integrated the planets with the Sun Gear
+[00:56] so that we could make it stackable drive
+[00:58] them and add that multiplicative factor
+[01:01] for these um planetary gear systems but
+[01:05] I thought that was a bit clumsy it was
+[01:07] just me looking United to begin with so
+[01:09] redesigned it into this this is what
+[01:13] you're going to see in those tinkercad
+[01:14] files what it is is the planet carrier
+[01:17] is now a ring with three prongs on it
+[01:19] the planets go on there and then the Sun
+[01:21] Gear is integrated with the fixing plate
+[01:24] and that whole thing just glues in now
+[01:26] this is all plastic because we're
+[01:28] wanting to test it if you want to make
+[01:30] this stronger you'd replace those
+[01:32] pinions with metal and maybe put
+[01:33] bearings around the planets you'll see
+[01:36] that there's a bearing right in the
+[01:37] center of the sun there that's to help
+[01:39] it spin freely along an axle so now we
+[01:42] can get a number of these stack them up
+[01:44] and we get the same stacking gearing
+[01:47] system that had before the ratio of each
+[01:49] one of these is three to one so I put
+[01:51] that on there it's three to one if I put
+[01:53] that on there it multiplies it's nine to
+[01:56] one but put another one on it's 27 to
+[01:59] one and we have this hole going right
+[02:01] the way through the center that's so
+[02:05] we can do that with it the whole
+[02:08] stacking Planet gear system is held in
+[02:10] place by a bolt with a nut on it and the
+[02:12] bolt fits in the little hex at the
+[02:13] bottom there they all spin independently
+[02:15] and freely with each other courtesy of
+[02:17] that bearing that we just put in the
+[02:19] bearings are scared of bearing 22 mil by
+[02:21] seven mil by uh
+[02:23] eight mil Center the other thing we've
+[02:26] got is the actual ring gear itself again
+[02:28] these are available in that file now
+[02:30] I've done this for three of them and
+[02:32] those three just slot in that
+[02:36] [Applause]
+[02:38] like that now if I turn that I'll get 27
+[02:42] times the output
+[02:44] and that
+[02:46] goes on there like that
+[02:48] there we go that's our gears that's it
+[02:52] now I put a stand on it and I put a
+[02:54] handle on it the handle just detaches
+[02:56] actually so that we can hand crank it
+[02:58] but of course what we're aiming for if
+[03:00] you remember this a folding wind turbine
+[03:03] so the folding wind turbine will
+[03:05] actually go on there like that what I
+[03:07] need to do is make an adapter between
+[03:09] this and the wind turbine blades and
+[03:10] then we're ready to rock and roll so
+[03:12] we're nearly there but I've put this
+[03:15] gearbox on and it is a 27-1 planetary
+[03:18] gearbox stacked as we saw what we're
+[03:21] going to do is read the voltage out of
+[03:22] it by me hand cranking it and we'll see
+[03:24] what we get out of it now I have
+[03:26] connected it up in series at the back
+[03:28] here and you can see the series
+[03:29] connection again it's like this because
+[03:32] I'm still haven't decided how I'm going
+[03:34] to connect this but if we crank this
+[03:36] handle we should definitely get some
+[03:38] kind of voltage reading out of this
+[03:40] let's have a go and see
+[03:50] [Laughter]
+[03:57] I'm a bit scared about taking any higher
+[04:00] because you know I'm a bit scared I'm
+[04:01] gonna burn the wires out but there you
+[04:03] go 104 volts are cranking it by a hand
+[04:06] so maybe maybe I could put another stage
+[04:09] on there but I'm not sure if I'm gonna
+[04:12] do that or not because that's actually
+[04:13] pretty high as I said the last thing to
+[04:15] do with that now is make the adapter for
+[04:17] this so that we can have this
+[04:19] collapsible the whole aim of this
+[04:22] incidentally was portable wind turbines
+[04:24] because I was looking at portable wind
+[04:27] turbines and I don't want to pick out
+[04:28] one particularly but there is one I'm
+[04:31] thinking of four hundred dollars four
+[04:35] hundred dollars and it's supposed to
+[04:36] produce 40 Watts actually if you look at
+[04:38] the figures on an average wind speed of
+[04:40] about four meters per second actually
+[04:42] 3.5 meters per second it'll produce 800
+[04:45] milliwatts so we are certainly getting
+[04:48] more out of it than that and we
+[04:51] certainly didn't spend anywhere near
+[04:53] four hundred dollars the whole thing
+[04:55] weighs about one and a half kilos which
+[04:58] is the same weight as the portable
+[05:00] turbine that I'm aiming to beat so I'm
+[05:03] feeling pretty good about that anyway
+[05:06] that's that bit done just this last
+[05:08] little bit to do we'll get that done
+[05:10] we'll give it a test and we'll take some
+[05:12] real power readings out of that the
+[05:15] voltage is just an indication of how
+[05:16] it's doing anyway hope you enjoyed the
+[05:19] video thank you very much for watching

@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "UgwU7XWYa_I8ix_DjGZ4AaABAg",
+    "author": "@maherdaibes9344",
+    "author_channel_id": "UCgQZVJGCIiJI2TJz2_ebaIA",
+    "text": "god it kills to hear his enthusiastic laughter known he was struggling with a deep depression",
+    "likes": 0,
+    "published_at": "2026-01-29T21:08:33Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugw1nbGEGjOA4hP3fod4AaABAg",
+    "author": "@kadmow",
+    "author_channel_id": "UCSp_vAnG7nX9L1jqjF11mRQ",
+    "text": "Motion control  - backlash and inertia - 3 issues  - the entire motion space (Ro-Lin, derived from Planar  RoRo  - it differs from SCARA in that the linear motion is contrained, remove that constraint and any \"motion profile\" mapping is achievable)  - motion paths computed offline OR recorded in a lookup table - point to point is simpler to do the motion control math in CoreXY (linear directions and relative accelerations are) just vector math.  (RIP)",
+    "likes": 0,
+    "published_at": "2025-10-13T05:18:18Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "Ugz2aXs2j-Nlx5edq4t4AaABAg",
+    "author": "@eyelook2jesus",
+    "author_channel_id": "UC5b266hHbPlCLdfdQyuDwuQ",
+    "text": "Could the gears be replaced by servos eliminating most backlash and mass....",
+    "likes": 0,
+    "published_at": "2025-07-16T09:46:34Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgzQUKUAFa7wtLZHbqt4AaABAg",
+    "author": "@alucostrix",
+    "author_channel_id": "UC3U619c-hxUyDtdIJLmPWgg",
+    "text": "It is not essential that a print head is constrained to move in straight lines.  Rotary movement mechanisms exist, look up SCARA.",
+    "likes": 0,
+    "published_at": "2025-07-13T21:57:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzQUKUAFa7wtLZHbqt4AaABAg.AKXaRNGbF6sAKYpyB7tn0J",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "you are right mate print heads don't but with this mechanism one part has to be in order to be able to cover the bed area at every point - I know of SCARA",
+        "likes": 0,
+        "published_at": "2025-07-14T09:31:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwvS0_pzZ4o9QUQcQd4AaABAg",
+    "author": "@jonathancard4466",
+    "author_channel_id": "UC0CgAMO6wL2X2jlt-mgsWNA",
+    "text": "The control mechanism for this would be really complicated. A print head doesn't just have to move to a specific point; it ha to move along a specific path. To do that, you aren't just controlling the number of rotations of the fee, but the instantaneous speed of the motors. In a current system, you can just scale the head speed but the x- or y-component of the derivative of the path, regardless of the location of the head. This system would require different adjustments depending on the position of the head, because at a constant rotation speed, the head moves along that straight path at different speeds. Large radii=slower linear speed because the linear speed is the sin of the angle of the gear. Which is all calculable. But I'll bet the error would change based on the radius from the center of the print bed. The current systems would have consistent error, at least, everywhere on the print bed. (Putting aside that the more complex speed changes would probably put a lot of strain on the system, somehow.)",
+    "likes": 0,
+    "published_at": "2025-07-13T19:24:17Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwvS0_pzZ4o9QUQcQd4AaABAg.AKXJxWu1UUxAKYpnt7Ym5-",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that doesn't seem to be much of an argument to me mate after all they do exactly the same thing with Delta printers - I think you are really just talking about Cartesian printers here - but i could well be wrong",
+        "likes": 0,
+        "published_at": "2025-07-14T09:30:34Z"
+      },
+      {
+        "id": "UgwvS0_pzZ4o9QUQcQd4AaABAg.AKXJxWu1UUxAKZ7K6CNb0_",
+        "author": "@jonathancard4466",
+        "author_channel_id": "UC0CgAMO6wL2X2jlt-mgsWNA",
+        "text": "@ThinkingandTinkering I'm not arguing, just noticing. Do you think the for won't increase with the distance from the center of the print bed? I don't know what a cartesian vs. delta printer is.",
+        "likes": 0,
+        "published_at": "2025-07-14T12:12:24Z"
+      },
+      {
+        "id": "UgwvS0_pzZ4o9QUQcQd4AaABAg.AKXJxWu1UUxAKZ8Fuwizrm",
+        "author": "@jonathancard4466",
+        "author_channel_id": "UC0CgAMO6wL2X2jlt-mgsWNA",
+        "text": "Error, not \"for\". Do you think the error won't increase with the distance from the center of the print bed?",
+        "likes": 0,
+        "published_at": "2025-07-14T12:20:34Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFpzCjN5hoscexTAp4AaABAg",
+    "author": "@William_Hada",
+    "author_channel_id": "UCnT_kMOKXqY5VouA_OK2vDg",
+    "text": "Brilliant!",
+    "likes": 0,
+    "published_at": "2025-07-13T12:53:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyFpzCjN5hoscexTAp4AaABAg.AKWcFx3HSl0AKWnDgKYvB7",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-13T14:29:32Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz5NuozTf3N0NqEMdl4AaABAg",
+    "author": "@dekutree64",
+    "author_channel_id": "UCwNkKd1BIlZa4h7hOgfrcdQ",
+    "text": "I think Peopoly has the best answer to this question: linear motors. The printer frame will still have thermal expansion, but significantly less than CoreXY since the long belt path multiplies the expansion effect by 4. And if you make the frame out of steel or carbon fiber it will be less than a typical aluminum frame.",
+    "likes": 1,
+    "published_at": "2025-07-13T12:36:47Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz5NuozTf3N0NqEMdl4AaABAg.AKWaJvFfSSpAKWnCsHQa2h",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-13T14:29:26Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzKxhjWl05QnYaPKah4AaABAg",
+    "author": "@dekutree64",
+    "author_channel_id": "UCwNkKd1BIlZa4h7hOgfrcdQ",
+    "text": "Even simpler than two Goodman mechanisms is a SCARA arm. Reprap Morgan is a great design that keeps both motors off the arm without the use of belts. It usually does use belts to increase the resolution and torque, but could use gears, or even direct-drive if your motors have enough positioning accuracy (perhaps e-bike hub motors with high pole count?)",
+    "likes": 0,
+    "published_at": "2025-07-13T12:19:29Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzKxhjWl05QnYaPKah4AaABAg.AKWZL8dwzD9AKWnC0dNovW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "The Scara arm is an awesome bit of engineering mate - thanks for mentioning it",
+        "likes": 0,
+        "published_at": "2025-07-13T14:29:19Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzVJ_GvFHpoMMYB6VB4AaABAg",
+    "author": "@pyalot",
+    "author_channel_id": "UC891HgiaS5t4WUhV0wv69_A",
+    "text": "Gear backlash, lack of rigidity, large footprint, non linear rotation to movement and large moving mass make this unsuitable as an axis, any axis, of a 3D printer.",
+    "likes": 0,
+    "published_at": "2025-07-13T09:29:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzVJ_GvFHpoMMYB6VB4AaABAg.AKWFsRG0E5aAKWmyMu3RCt",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I don't want to be disrespectful - but I strongly disagree and think you just haven't really thought it through - the issues you mention are non issues if you properly consider it instead of judging at face value - but hey I could be wrong too.",
+        "likes": 0,
+        "published_at": "2025-07-13T14:27:18Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz-4-UAz0Nf4jFJnV14AaABAg",
+    "author": "@dSquared0162",
+    "author_channel_id": "UCqMYzfz_2v3MULwOHWpz7oA",
+    "text": "'S'all Good,man! 👏👍",
+    "likes": 0,
+    "published_at": "2025-07-13T01:57:12Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz-4-UAz0Nf4jFJnV14AaABAg.AKVS7SuA0cBAKWn-NrE1Ct",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-13T14:27:35Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzuqTjQvFON0MoO4N54AaABAg",
+    "author": "@angelusmendez5084",
+    "author_channel_id": "UC3Tl-lMNqw87ZYe-PJr2YtA",
+    "text": "Looks like Rob’s joined the dark side of 3D printing -- messing about with his printers 😆",
+    "likes": 2,
+    "published_at": "2025-07-12T21:45:22Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzuqTjQvFON0MoO4N54AaABAg.AKV-Iw7kaWEAKWn1wlVdeQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - i know a worrying trend lol",
+        "likes": 1,
+        "published_at": "2025-07-13T14:27:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxR97YdqVRg2pSsHyN4AaABAg",
+    "author": "@GavinImpett",
+    "author_channel_id": "UCSOJzKc6Bt3_dcWVwQffnvw",
+    "text": "Some years back I was walked up to a carbon \"dust\" printer, similar to resin, I suppose, that could \"grow\" a functional bicycle. Their solution was a metal rail system similar to the risers on the core xy, meaning the head moved on rotating rails. It's significantly more expensive to build.\n\nThat said, just tossed my Elegoo and five rolls. Turns out the material won't work with the new company's printer. Having gone through three printer DOAs, based on my talks with Amazon support, 3d printer companies are starting to take quality control seriously if they don't want to get the boot from Amazon, which I suspect is why the nice folks at Flash Forge and Elegoo are reaching out. You can fix these machines without realizing you've done it, not everyone can do that.",
+    "likes": 0,
+    "published_at": "2025-07-12T15:41:57Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxR97YdqVRg2pSsHyN4AaABAg.AKULiE6CN6YAKUPa5rJy3Y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I think that's true mate - you get so used them you really stop seeing the wood for the trees so to speak.",
+        "likes": 0,
+        "published_at": "2025-07-12T16:15:48Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyhTNHcOzYfzDzKtX94AaABAg",
+    "author": "@derekfinch9586",
+    "author_channel_id": "UCj0XUOGT8Zioq7cnnp0upMw",
+    "text": "As always, such enthusiasm! Thanks for all you post. I have worked a lot with robotics and involute gears. I suspect that the gear backlash, that is then multiplied by the arm length, may be worse than the stretch of the core XY belts. Also, if the coefficient of expansion of the (admittedly composite) belt structure were known, even if not linear, the migration from true position could be factored into the slicing software since the working temperature is known (or could be measured with a sensor). This might reduce the belt stretch error by a factor of ten. However, exploring alternative methods of describing any point on an X-Y plane for 3D printing is a highly worthwhile pursuit. Cheers.",
+    "likes": 2,
+    "published_at": "2025-07-12T14:43:39Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgyhTNHcOzYfzDzKtX94AaABAg.AKUF2AqFBexAKUPToD0rDR",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Cheers mate - but I do wonder why everyone deals with backlash as if there is nothing you can do about - I know of 5 methods of reducing or eliminating it  - and you are spot on software is one of them lol",
+        "likes": 2,
+        "published_at": "2025-07-12T16:14:48Z"
+      },
+      {
+        "id": "UgyhTNHcOzYfzDzKtX94AaABAg.AKUF2AqFBexAKUuF8warkm",
+        "author": "@derekfinch9586",
+        "author_channel_id": "UCj0XUOGT8Zioq7cnnp0upMw",
+        "text": "@ThinkingandTinkering I thought you had misunderstood my comment about software but then I realised that software could be used in a gear system to overcome the effect of backlash. Excellent! Thank you.",
+        "likes": 0,
+        "published_at": "2025-07-12T20:52:25Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxUMdDpCtbHkiKC0Gt4AaABAg",
+    "author": "@MrNatural451",
+    "author_channel_id": "UCUqUHR207LX07gl69nlfndw",
+    "text": "A lot of possibilities there! I can't wait until you build the RMS 2000 Core XY Printer/CNC machine. I'll be the first to order!",
+    "likes": 0,
+    "published_at": "2025-07-12T14:08:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxUMdDpCtbHkiKC0Gt4AaABAg.AKUB01y-CZbAKUCvU3jizW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - awesome mate - but you know i will just give it away lol",
+        "likes": 1,
+        "published_at": "2025-07-12T14:25:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzLZXaidPqHlVIN-ox4AaABAg",
+    "author": "@ZacharyYbarra-u1g",
+    "author_channel_id": "UC76ixTXIrCVI0ETCQcy0EpQ",
+    "text": "Awesome brains on that Mr. Goodman! It definitely looks like it would solve problems with the wires and quicken the process with accuracy. Good brains on you as well good Sir!",
+    "likes": 2,
+    "published_at": "2025-07-12T10:56:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzLZXaidPqHlVIN-ox4AaABAg.AKTq4uQhv5EAKU1UXOH1hQ",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-12T12:45:11Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxqBr7vgy59KRWqQ9d4AaABAg",
+    "author": "@lohikarhu734",
+    "author_channel_id": "UCDcizp_FbwqDU7SOuqwUvCg",
+    "text": "It seems to me that having even a \"check point\" type of high-resolution feedback can measure the target point, really, really accurately, and do real-time corrections for any changes in the drive system... It seems, even, that discontinuous feedback, combined with temperature and torque sensors, could provide quite good predictive corrections, that are confirmed every time that the head is driven to, or past, a check point... But, hey, I'm a simple test and measurement guy.",
+    "likes": 0,
+    "published_at": "2025-07-12T09:59:39Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxqBr7vgy59KRWqQ9d4AaABAg.AKTjY4PddRMAKU1SnhNKcH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I like those ideas mate - thanks for sharing - it's great to have an out of the box original suggestion that could work wonders - thanks for sharing",
+        "likes": 0,
+        "published_at": "2025-07-12T12:44:57Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx9fb-V8GG1X73WO-R4AaABAg",
+    "author": "@cdunne1620",
+    "author_channel_id": "UC6y7xn9uCMvc6BnppYBVRfw",
+    "text": "Haha your enthusiasm is infectious 👍 thank you",
+    "likes": 0,
+    "published_at": "2025-07-12T09:42:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx9fb-V8GG1X73WO-R4AaABAg.AKThbxhCzwRAKU1MDxGcih",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-12T12:44:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzIPG-55EttIZgKfRB4AaABAg",
+    "author": "@russellzauner",
+    "author_channel_id": "UCHQd6hTYRdoLy0LlcEI777g",
+    "text": "I would love to make some hypo cycloid cranks for my recumbent trike...I bet I could put a few gears in that space too...",
+    "likes": 0,
+    "published_at": "2025-07-12T05:27:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzIPG-55EttIZgKfRB4AaABAg.AKTFRxlH3qWAKTb8mQaGlj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "That would be cool!",
+        "likes": 0,
+        "published_at": "2025-07-12T08:46:17Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz7tUK-cRvFjVfGbUB4AaABAg",
+    "author": "@timmyssweet",
+    "author_channel_id": "UC0IgwZXy25jC-nr5KMijyVw",
+    "text": "No, I don't agree with that Robert, but I love the experimentation, and it will have a use for something.  \n\nFor finer detail, I believe smaller motors and belt would be the answer.  The other adds complexity and potential chatter.  For 1/10 the size, accuracy should increase by a half, at least - in my opinion.  \n\nSecondly, what do you want such fine detail for anyway.  Gears, yes, but they really need to be made from metal.  Fine plastic parts are only really for decoration, and I never thought you were the sort for porcelain doles.  Perhaps, ceramics might need fine detail.  That I am interested in - like belt buckles and watch cases etc.  I've been working on a wrist brace, and small parts that are strong would be really helpful.  However, ceramics and some metals use sintering, so their detail should increase when shrunk.  \n\nJust my thoughts ... I started stating fine detail is useless and found a case for it, ha.",
+    "likes": 0,
+    "published_at": "2025-07-12T04:45:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz7tUK-cRvFjVfGbUB4AaABAg.AKTAalutQtYAKTbQ6s4EOD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - I see you did mate - Myself i think fine detail can work at the large scale too - better surface means better tolerances even to large gear - well in my mind",
+        "likes": 0,
+        "published_at": "2025-07-12T08:48:39Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugx4h5uJdyHDhebBLTN4AaABAg",
+    "author": "@mfree80286",
+    "author_channel_id": "UCq4kQ0I-aNK3CyJQZOziV6A",
+    "text": "Personal theory is the absolute simplest possible accurate 3D printing mechanism would be a rotating table with a print head on a single vertical rod for Z and a worm geared sector with the motor on a second vertical rod to get an arc that covers the table... and let the controller do the math for converting from XY for positioning. \n As long as you can reach every point on the table and have Z control, you've got something workable.",
+    "likes": 1,
+    "published_at": "2025-07-12T02:05:51Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugx4h5uJdyHDhebBLTN4AaABAg.AKStJqytLKkAKTbSG_uTlf",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely mate",
+        "likes": 0,
+        "published_at": "2025-07-12T08:48:57Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyLTTKktYIBrJC9J714AaABAg",
+    "author": "@CrudelyMade",
+    "author_channel_id": "UCj6zlsBrfG8LRz8Fb8Q-3mA",
+    "text": "8:00 I'm with ya here, it hurts the brain a little bit, but amazing how you get the linear motion on this one. :-D",
+    "likes": 0,
+    "published_at": "2025-07-12T01:32:56Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyLTTKktYIBrJC9J714AaABAg.AKSpYnK_eayAKTbTonABeo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-12T08:49:09Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw5Bmyj6skkGvNZMp14AaABAg",
+    "author": "@poepflater",
+    "author_channel_id": "UC51CINvWSzeMW0LVlYWt9Ng",
+    "text": "I prefer a moving head to a moving bed. It is much harder to move a bed around then return it to the same spot with exactly the same tilt and camber as it had before.",
+    "likes": 0,
+    "published_at": "2025-07-11T23:52:18Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw5Bmyj6skkGvNZMp14AaABAg.AKSe1iTkpfUAKTbW9W2LCH",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-12T08:49:29Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugwa-yQzngF0xP2j6V14AaABAg",
+    "author": "@wanglydiaplt",
+    "author_channel_id": "UCos3e4mKq21ondXFNS1-kUg",
+    "text": "I understand getting the straight line but how would you change the length of the movement??",
+    "likes": 0,
+    "published_at": "2025-07-11T22:26:44Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugwa-yQzngF0xP2j6V14AaABAg.AKSVF4ciXnqAKTb_CYvfAj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I amnot sure I understand your question mate can you expand?",
+        "likes": 0,
+        "published_at": "2025-07-12T08:50:02Z"
+      }
+    ]
+  },
+  {
+    "id": "UgytivX-BwHtqMTyYtN4AaABAg",
+    "author": "@anathaetownsend1894",
+    "author_channel_id": "UCGM4h5xrZI_ExKKZgTw6PyQ",
+    "text": "One issue with gears is that you have to have a gap between the gears in order to allow smooth movement.  This results in backlash.  You would have to add something to remove the backlash, or always move in one direction.",
+    "likes": 0,
+    "published_at": "2025-07-11T22:04:43Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgytivX-BwHtqMTyYtN4AaABAg.AKSSijeDl5NAKTbaI858iI",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "absolutely",
+        "likes": 0,
+        "published_at": "2025-07-12T08:50:11Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw42gVGLfMfO40r6zp4AaABAg",
+    "author": "@chris993361",
+    "author_channel_id": "UCLdren5OHn7boKJkT58IVuQ",
+    "text": "That's a cool mechanism. I don't think it's a practical replacement for the belts however as you'll be trading some of the issues you're fixing for tolerancing between gears as well as the fact that their linkages and what not change length with varying temperature the same way the belts will. I think it's neat from a maintenance standpoint and just in general however. Thank you for sharing!",
+    "likes": 0,
+    "published_at": "2025-07-11T21:48:30Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw42gVGLfMfO40r6zp4AaABAg.AKSQs2DHD2QAKTbdKPaYef",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-12T08:50:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxsslrYYCtVrv4nAIZ4AaABAg",
+    "author": "@davidvwilliamson",
+    "author_channel_id": "UChZalwv3NkNtfU9paagHQ4g",
+    "text": "does a print head need to move in straight lines? If its printing cogwheels for example mightn't circles of different radii be better?",
+    "likes": 0,
+    "published_at": "2025-07-11T21:41:50Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxsslrYYCtVrv4nAIZ4AaABAg.AKSQ68ZQZ2sAKTbioOJU-S",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yep - but that is exactly what this does - the straight line can be the changing radius of many circles",
+        "likes": 0,
+        "published_at": "2025-07-12T08:51:21Z"
+      }
+    ]
+  },
+  {
+    "id": "UgznN02c-0tnrY9_rit4AaABAg",
+    "author": "@yodaco",
+    "author_channel_id": "UCJTaNaRa-zLE6UIg7yIvp6w",
+    "text": "I would imagine someone has a printer doing something like this out there.",
+    "likes": 0,
+    "published_at": "2025-07-11T21:10:07Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgznN02c-0tnrY9_rit4AaABAg.AKSMTttE6oFAKTbkFJ8Rhm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "why would you imagine that?",
+        "likes": 0,
+        "published_at": "2025-07-12T08:51:33Z"
+      },
+      {
+        "id": "UgznN02c-0tnrY9_rit4AaABAg.AKSMTttE6oFAKTojg-XOY-",
+        "author": "@yodaco",
+        "author_channel_id": "UCJTaNaRa-zLE6UIg7yIvp6w",
+        "text": "@ThinkingandTinkering Left to my own devices I would keep churning out things like that because Ideas are a curse. Most of the people I deal with are the same way. Interesting Ideas just won't go away. I thik you probably have that curse",
+        "likes": 0,
+        "published_at": "2025-07-12T10:45:03Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwhmvS03Q3CxrcT3054AaABAg",
+    "author": "@scotttovey",
+    "author_channel_id": "UCc6OjGO4j9CICb_2y91IQVw",
+    "text": "Well, if it turns out to not work on the XY of a CNC, you can use it to open and close the doors on the enterprise.\nNow I'm wondering if that's what they use on elevator doors.\nI guess I'll have to look it up.",
+    "likes": 0,
+    "published_at": "2025-07-11T21:06:35Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwhmvS03Q3CxrcT3054AaABAg.AKSM3yJkpB2AKTbmFurh2y",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol - like it!",
+        "likes": 1,
+        "published_at": "2025-07-12T08:51:49Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyFHD7ERCcdDLPFmIl4AaABAg",
+    "author": "@coledavidson5630",
+    "author_channel_id": "UCsaWQuyy7rwIFrGqIPX7BPQ",
+    "text": "I don't like this much for a 3D printer, but I actually think it could be great for something like a sand art table",
+    "likes": 0,
+    "published_at": "2025-07-11T20:30:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyFHD7ERCcdDLPFmIl4AaABAg.AKSHuZbYf3BAKTbnO6IpQj",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-12T08:51:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxZ5KojMEYRAOVCND14AaABAg",
+    "author": "@Cam2Art",
+    "author_channel_id": "UCYxmGedktqShY67NTPcNrkQ",
+    "text": "Enjoyed. But in my estimation the backlash from all those gears is probably much greater than core XY  belt drives.",
+    "likes": 0,
+    "published_at": "2025-07-11T20:30:10Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxZ5KojMEYRAOVCND14AaABAg.AKSHuFcE3L_AKTboHme7j1",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "maybe",
+        "likes": 0,
+        "published_at": "2025-07-12T08:52:06Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyBmcn6fJ4IFtoxHON4AaABAg",
+    "author": "@coledavidson5630",
+    "author_channel_id": "UCsaWQuyy7rwIFrGqIPX7BPQ",
+    "text": "Wouldn't your print speed be much slower towards edges than towards the center?",
+    "likes": 0,
+    "published_at": "2025-07-11T20:22:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyBmcn6fJ4IFtoxHON4AaABAg.AKSH1CFQ2oJAKTbqIBq2wW",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "why?",
+        "likes": 0,
+        "published_at": "2025-07-12T08:52:22Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugws4J6iHHNxKVQB_5x4AaABAg",
+    "author": "@JSfuckgoogle",
+    "author_channel_id": "UCWVhL5DYH5jPDJ5Ugs47_Gg",
+    "text": "With you 100% Robert... gears are always the answer! 😂😂",
+    "likes": 0,
+    "published_at": "2025-07-11T19:26:16Z",
+    "reply_count": 0,
+    "replies": []
+  },
+  {
+    "id": "UgyH3Mh_g-wSBIzbC6R4AaABAg",
+    "author": "@JorgTheElder",
+    "author_channel_id": "UC7PiyC1YNing3Blska_yAoA",
+    "text": "I thought properly adjusted belt drives, with quality belts had less backlash than a multiple-gear gear-train?",
+    "likes": 1,
+    "published_at": "2025-07-11T19:14:04Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyH3Mh_g-wSBIzbC6R4AaABAg.AKS9BxM36HAAKTbtmm94tN",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i think they do if you compare quality belts with poorly made gears",
+        "likes": 0,
+        "published_at": "2025-07-12T08:52:50Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxYGy2bWJKefeO1LPF4AaABAg",
+    "author": "@Mark_Linford",
+    "author_channel_id": "UCfXx3_97q7oOsCmpLN18DbA",
+    "text": "😊",
+    "likes": 0,
+    "published_at": "2025-07-11T19:11:13Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxYGy2bWJKefeO1LPF4AaABAg.AKS8s0YGcTIAKTbufF70K3",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-12T08:52:58Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxtaXRiETcER7WM-Tx4AaABAg",
+    "author": "@reyalicea",
+    "author_channel_id": "UC03hToU5v2hGFevHWrrBESw",
+    "text": "Perhaps making better belts",
+    "likes": 0,
+    "published_at": "2025-07-11T18:45:39Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgxtaXRiETcER7WM-Tx4AaABAg.AKS5wm4sfofAKTbvVqnfoL",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "perhaps",
+        "likes": 0,
+        "published_at": "2025-07-12T08:53:05Z"
+      },
+      {
+        "id": "UgxtaXRiETcER7WM-Tx4AaABAg.AKS5wm4sfofAKUAmbaVwTN",
+        "author": "@reyalicea",
+        "author_channel_id": "UC03hToU5v2hGFevHWrrBESw",
+        "text": "@ThinkingandTinkering Instead of belts, we should replace them with Dyneema DM20",
+        "likes": 0,
+        "published_at": "2025-07-12T14:06:26Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw9TaG8PR1Z7kmXdKJ4AaABAg",
+    "author": "@OZtwo",
+    "author_channel_id": "UC1gBgx6x8qAqC7ESYQvGjJQ",
+    "text": "My very old QIDI X-Plus prints perfectly up to this date..well I do need to replace the nozzle that is like 0.61 now. :)",
+    "likes": 0,
+    "published_at": "2025-07-11T18:06:36Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw9TaG8PR1Z7kmXdKJ4AaABAg.AKS1Tne3igUAKTbwpWTIGm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "awesome",
+        "likes": 0,
+        "published_at": "2025-07-12T08:53:15Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzRa2s9rSB3f6jJ9B54AaABAg",
+    "author": "@draagh",
+    "author_channel_id": "UCZNXn8DOs3IMdFO8xu0QkCw",
+    "text": "I guess, from now here and there Rob will be receiving a few emails from 3d printer manufacturers",
+    "likes": 0,
+    "published_at": "2025-07-11T18:01:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzRa2s9rSB3f6jJ9B54AaABAg.AKS0vHtYsNgAKTbxarI61e",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2025-07-12T08:53:22Z"
+      }
+    ]
+  },
+  {
+    "id": "UgycjRrCt7cVR30oZVB4AaABAg",
+    "author": "@maxdoes_",
+    "author_channel_id": "UCPNmid9CQFffxdG0NxEOfKA",
+    "text": "This mechanism could be an interesting alternative to a camera slider, allowing for a long linear movement in a relatively small package",
+    "likes": 1,
+    "published_at": "2025-07-11T17:10:26Z",
+    "reply_count": 2,
+    "replies": [
+      {
+        "id": "UgycjRrCt7cVR30oZVB4AaABAg.AKRw2K_d5lqAKSLuhbWlKP",
+        "author": "@Behnam_Moghaddam",
+        "author_channel_id": "UCo7AwI17ueKuhfvjg086e1Q",
+        "text": "exactly! and with no hard stops",
+        "likes": 0,
+        "published_at": "2025-07-11T21:05:11Z"
+      },
+      {
+        "id": "UgycjRrCt7cVR30oZVB4AaABAg.AKRw2K_d5lqAKSOR05iFTD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "that's clever thinking mate - cheers",
+        "likes": 0,
+        "published_at": "2025-07-11T21:27:12Z"
+      }
+    ]
+  },
+  {
+    "id": "UgygMUqIQa650Fu1AUV4AaABAg",
+    "author": "@TheUMILLADOR",
+    "author_channel_id": "UCyLm1LmoPfJeg8dKfxG-8TQ",
+    "text": "podrias diseñar un brazo impreso en 3d con conectores multi direccionales en ejes x, y z, ? un brazo universal para imprimir 3d",
+    "likes": 0,
+    "published_at": "2025-07-11T17:09:41Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgygMUqIQa650Fu1AUV4AaABAg.AKRvxpiazknAKTcAHFHaZm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "me gusta esa idea",
+        "likes": 1,
+        "published_at": "2025-07-12T08:55:14Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugzl_Ml4ov5iWHUDXIF4AaABAg",
+    "author": "@johnwynne-qx6br",
+    "author_channel_id": "UCfSCGBGcmLW5ZtBR8-JHBLw",
+    "text": "Great video and results, artisan did a video where he uses a spirograph to cnc patterns on metal that had amazing results as you were demonstrating it occurred to me how useful the humble spirograph kids toy would be for visualising mechanical movements in relation to pivot points and cog circumferences ect.  Looking forward to see how your prototype develops 😊  👍",
+    "likes": 1,
+    "published_at": "2025-07-11T16:54:26Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugzl_Ml4ov5iWHUDXIF4AaABAg.AKRuDCzCfP8AKTc1SU2AQK",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i must check that out - that sounds really cool",
+        "likes": 2,
+        "published_at": "2025-07-12T08:54:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzdB7FXl7ZKx7i6-6V4AaABAg",
+    "author": "@ExpressoMechanicTV",
+    "author_channel_id": "UCTm7dsUPIsT8BFxe1lmEriw",
+    "text": "Fab, once again, Robert!",
+    "likes": 0,
+    "published_at": "2025-07-11T16:09:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzdB7FXl7ZKx7i6-6V4AaABAg.AKRp7_Fp1LGAKRtDP7Vpdm",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheersmate",
+        "likes": 0,
+        "published_at": "2025-07-11T16:45:43Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwNKpy1abJW3WLJfn14AaABAg",
+    "author": "@ramakrishnanr3877",
+    "author_channel_id": "UCob_lHtynq6VxoDgKqbIwfg",
+    "text": "brilliant a scotch yoke mechanism will also do the same, as always love your videos, Cheers",
+    "likes": 0,
+    "published_at": "2025-07-11T16:07:03Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwNKpy1abJW3WLJfn14AaABAg.AKRon8ls6qCAKRtFP4USXg",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "yes it would mate",
+        "likes": 0,
+        "published_at": "2025-07-11T16:46:00Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxmoCNeZA_rb6Dzj4Z4AaABAg",
+    "author": "@chrisBruner",
+    "author_channel_id": "UCFAFt_n9sX1ZYiflJa7iwwA",
+    "text": "1st, I think your mike is having problems. 2nd the advantage of belts is they are lightweight which allows faster movement.  You've got an interesting idea though.",
+    "likes": 0,
+    "published_at": "2025-07-11T15:56:25Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxmoCNeZA_rb6Dzj4Z4AaABAg.AKRn_FRia7zAKRtGI_yIkh",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-11T16:46:07Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyaeU8bppcB2SN7WiB4AaABAg",
+    "author": "@hanelyp1",
+    "author_channel_id": "UCi1dDK5XJJbCvzjGbJkoz2g",
+    "text": "More mechanically complex than needed.  Think the print head attached to a planet gear, with the sun and ring gears turning to position the planet gear.  The calculations from desired point in plane to sun and ring gear angles can be done by the control computer.",
+    "likes": 0,
+    "published_at": "2025-07-11T15:53:49Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyaeU8bppcB2SN7WiB4AaABAg.AKRnHFpxOd_AKRtH8f2u5R",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh I agree mate - but then it depends on what the video is real about - Is it about 3d printers or really about the Goodman mechanism with an example of a possible use?",
+        "likes": 2,
+        "published_at": "2025-07-11T16:46:14Z"
+      }
+    ]
+  },
+  {
+    "id": "UgyQ877k7e3Txstep8N4AaABAg",
+    "author": "@owenminor",
+    "author_channel_id": "UCSkhnn_M75NBn1jTOf_jxWg",
+    "text": "The distance of the motion securing point to the print nozzle is really critical in the design. Unless it's really close, harmonics and wobble are just too much without lots of material and weight. Weight that negates the original intent.",
+    "likes": 0,
+    "published_at": "2025-07-11T15:51:42Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgyQ877k7e3Txstep8N4AaABAg.AKRn1helIHsAKRtJIUKW73",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "oh I agree mate - but then it depends on what the video is real about - Is it about 3d printers or really about the Goodman mechanism with an example of a possible use?",
+        "likes": 0,
+        "published_at": "2025-07-11T16:46:32Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzGaJZjPR0SAuq0gl14AaABAg",
+    "author": "@owenminor",
+    "author_channel_id": "UCSkhnn_M75NBn1jTOf_jxWg",
+    "text": "There were many tests of this in the beginnings of rep-rap. Findings resulted in the mass of the structure to avoid deflection was too expensive or too heavy to make it practical. That means the mass to accelerate was too high. The rotational systems have damping/harmonics that are just too much to implement practically.",
+    "likes": 10,
+    "published_at": "2025-07-11T15:46:46Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzGaJZjPR0SAuq0gl14AaABAg.AKRmTZdMSWRAKRtQWco4uD",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "what of this mechanism? I didn't know that - fascinating - thank you for sharing",
+        "likes": 2,
+        "published_at": "2025-07-11T16:47:31Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwQhWK5SfuPnDurdgV4AaABAg",
+    "author": "@LoganKearsley",
+    "author_channel_id": "UCk2WtfY8LPOPntYdA8bLDXw",
+    "text": "Flex in that long arm, and the multiplication of gear backlash, will ruin the precision you're trying to get. You'd be better off just replacing the belts with lead screws, or keep the turntable to mount a single lead screw mechanism. Transitioning from a Cartesian to a polar coordinate system in either case will, however, result in non-uniform mechanical resolution across the print plane, with better resolution near the center than at the edges.",
+    "likes": 0,
+    "published_at": "2025-07-11T15:38:10Z",
+    "reply_count": 3,
+    "replies": [
+      {
+        "id": "UgwQhWK5SfuPnDurdgV4AaABAg.AKRlUbLtKueAKRmIbLrM_4",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "i like the lead screw idea",
+        "likes": 0,
+        "published_at": "2025-07-11T15:45:16Z"
+      },
+      {
+        "id": "UgwQhWK5SfuPnDurdgV4AaABAg.AKRlUbLtKueAKRnpoTBQNZ",
+        "author": "@hanelyp1",
+        "author_channel_id": "UCi1dDK5XJJbCvzjGbJkoz2g",
+        "text": "The point of coreXY is moving the motor outside the mass being moved.  You could have a worm drive a leadscrew on the X carriage.",
+        "likes": 0,
+        "published_at": "2025-07-11T15:58:40Z"
+      },
+      {
+        "id": "UgwQhWK5SfuPnDurdgV4AaABAg.AKRlUbLtKueAKRsAb-Yp-E",
+        "author": "@LoganKearsley",
+        "author_channel_id": "UCk2WtfY8LPOPntYdA8bLDXw",
+        "text": "​@hanelyp1There are definitely ways to accomplish it with either Cartesian lead screws or a turntable. I'd probably go with a spline shaft rather than a worm gear, but I haven't given a ton of thought to it. With a turntable, you can drive the radial screw via a bevel gear with a stationary motor at the axis.",
+        "likes": 0,
+        "published_at": "2025-07-11T16:36:36Z"
+      }
+    ]
+  },
+  {
+    "id": "UgzaUYW-3k0c_O0-3SZ4AaABAg",
+    "author": "@1992jamo",
+    "author_channel_id": "UC0zkbMawSnDivhZTL3Zs76g",
+    "text": "Very very interesting! This could potentially solve the downsides of both delta 3D printers, cartesian, and  core xy. Detla printers excel at drawing circles and curves, but have mildly less accuracy in drawing straight lines, while cartesian and core xy have slightly less accuracy when drawing curves or circles.\nedit: Awesome stuff with the version without the ring gear.",
+    "likes": 0,
+    "published_at": "2025-07-11T15:25:31Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgzaUYW-3k0c_O0-3SZ4AaABAg.AKRk1u3QJjOAKRmCNctj98",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 1,
+        "published_at": "2025-07-11T15:44:25Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugw9xhz6clQzj_3Lzqx4AaABAg",
+    "author": "@maceron4444",
+    "author_channel_id": "UCjSbDgmtoGWLFqai2H5YjWw",
+    "text": "Since moving from CoreXZ to CoreXY I haven't gone back",
+    "likes": 0,
+    "published_at": "2025-07-11T15:25:24Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugw9xhz6clQzj_3Lzqx4AaABAg.AKRk16Iat7cAKRm9QjHFrF",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2025-07-11T15:44:01Z"
+      }
+    ]
+  },
+  {
+    "id": "UgznTQm0dyg-KVuqpeZ4AaABAg",
+    "author": "@azlandpilotcar4450",
+    "author_channel_id": "UCUvHoR-sFhH8eIExm3OjD-w",
+    "text": "Perhaps use a belt, rather than an idler?",
+    "likes": 0,
+    "published_at": "2025-07-11T15:21:59Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgznTQm0dyg-KVuqpeZ4AaABAg.AKRjd72tEw7AKRm8nPkQGb",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "good idea",
+        "likes": 0,
+        "published_at": "2025-07-11T15:43:56Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwMQQEqJbE8zku1o7V4AaABAg",
+    "author": "@TheWorldBelow360",
+    "author_channel_id": "UCicrd23LnhJoc7NDZQA13pg",
+    "text": "How fun! You’re always breaking thru. Cheers to you!",
+    "likes": 0,
+    "published_at": "2025-07-11T15:16:33Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwMQQEqJbE8zku1o7V4AaABAg.AKRj0GQnJErAKRm-2Uccvq",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "cheers mate",
+        "likes": 0,
+        "published_at": "2025-07-11T15:42:36Z"
+      }
+    ]
+  },
+  {
+    "id": "Ugz5FrueBxK0v4SYyPt4AaABAg",
+    "author": "@removechan10298",
+    "author_channel_id": "UCIIYng_aSJuaqhu08BH7eZQ",
+    "text": "Very interesting way to move a hot-end more precisely perhaps. I like that. Have you seen non-planar 3d printing? It's pretty interesting looking, as well as 0 supports for anything*\nI like the idea of a shuttle device that steps along with the motor and pushes binding media between layer lines, making them stronger in the layer direction than the bead direction, nobody has created this yet.",
+    "likes": 2,
+    "published_at": "2025-07-11T15:04:38Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "Ugz5FrueBxK0v4SYyPt4AaABAg.AKRhdvVitN9AKRlz93nYYX",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "I have and it is pretty cool",
+        "likes": 0,
+        "published_at": "2025-07-11T15:42:29Z"
+      }
+    ]
+  },
+  {
+    "id": "UgxGAd5sR7uD891pDBt4AaABAg",
+    "author": "@removechan10298",
+    "author_channel_id": "UCIIYng_aSJuaqhu08BH7eZQ",
+    "text": "I am amazed that this genius left Westworld to explain how to make robots and machines to us, thank you!",
+    "likes": 1,
+    "published_at": "2025-07-11T14:59:58Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgxGAd5sR7uD891pDBt4AaABAg.AKRh6p1T-JoAKRlvV9QYoo",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "lol",
+        "likes": 0,
+        "published_at": "2025-07-11T15:41:59Z"
+      }
+    ]
+  },
+  {
+    "id": "UgwK2Dm2XnIGIfmXwJJ4AaABAg",
+    "author": "@removechan10298",
+    "author_channel_id": "UCIIYng_aSJuaqhu08BH7eZQ",
+    "text": "Another great video, the idea of using the gears to keep the constraints is brilliant!",
+    "likes": 3,
+    "published_at": "2025-07-11T14:59:32Z",
+    "reply_count": 1,
+    "replies": [
+      {
+        "id": "UgwK2Dm2XnIGIfmXwJJ4AaABAg.AKRh3bwjz9JAKRltoo4CuO",
+        "author": "@ThinkingandTinkering",
+        "author_channel_id": "UC4AkVj-qnJxNtKuz3rkq16A",
+        "text": "Glad you think so!",
+        "likes": 0,
+        "published_at": "2025-07-11T15:41:45Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,211 @@
+[00:02] [Music]
+[00:15] hi
+[00:15] so i'm always on a search to make things
+[00:17] simpler easier cheaper
+[00:19] so that anybody can make them and this
+[00:21] is the magnetic switching circuit that
+[00:23] i've come up with
+[00:24] and in a minute i'll go through how it's
+[00:25] made but i want you to see how it works
+[00:28] initially it's got a tiny bit of
+[00:30] residual magnetism i mean it's next to
+[00:32] nothing actually it's really easy to
+[00:33] pick that off
+[00:34] because of the magnets that we're using
+[00:37] in there but if i turn the power on
+[00:39] it loses all magnetism altogether which
+[00:41] is really cute
+[00:43] now i've got this wired up to this h
+[00:45] bridge here
+[00:46] now the h bridge is a relay and in video
+[00:49] 965 we went through how to turn the
+[00:51] relay into a h bridge so really easy to
+[00:54] make that
+[00:55] if i turn that relay on we reverse the
+[00:57] current
+[00:58] in there and the magnet this sticks
+[01:00] again
+[01:01] and it's actually really quite strong
+[01:03] it's much stronger than that
+[01:06] it's much stronger than that initial one
+[01:08] that we had so if i turn the relay off
+[01:11] then it comes away still got the
+[01:12] magnetism but it comes away really
+[01:14] easily
+[01:15] i have to turn the thing on for it to be
+[01:18] able to do that
+[01:19] so this will reverse its magnetism
+[01:22] from zero to fully on
+[01:26] and when it's in its rest position
+[01:27] there's a tiny bit of residual magnetism
+[01:30] now i was asked whether it makes a
+[01:32] difference the way i made these and if
+[01:34] you have a look at video 1036
+[01:36] we did some testing about the effect of
+[01:38] having magnetic assistance
+[01:40] against an electromagnet because it's
+[01:42] not just an electromagnet it's a
+[01:44] magnetically assisted electromagnet
+[01:47] when it's on it's stronger than the coil
+[01:50] by itself
+[01:51] so when i made this with just the coil
+[01:53] it was okay
+[01:54] he used quite a lot of amps reasonable
+[01:56] amount of strength when i magnetically
+[01:58] assisted
+[01:59] it's an awful lot stronger for less
+[02:02] current so the magnetic assisting
+[02:03] really works so that
+[02:06] is the basic magnetic switch now
+[02:10] it did look like that it's quite a lot
+[02:11] of sawing and quite a lot of shipping
+[02:13] when it looks like that it's really easy
+[02:15] because it's two metal bars
+[02:19] on this and let's have a close-up of
+[02:22] this
+[02:23] so this is really surprisingly
+[02:25] uncomplicated what it is
+[02:27] is a stack of 10 ml washers
+[02:30] so if i get my stack of washers there
+[02:32] and i super glued those
+[02:34] into a stack to make me this tube that
+[02:37] obviously is 10 mil in diameter
+[02:39] so what i used was 10 million diameter
+[02:43] neodymium magnets
+[02:45] there's five of them and they're 2.5
+[02:47] centimeters
+[02:48] and those neodymium magnets go nicely in
+[02:51] the center
+[02:52] of that stack of washers so those stack
+[02:54] of washers were all glued together and
+[02:56] then i got some
+[02:57] repair washers and popped them on the
+[02:59] top
+[03:00] and the bottom like that so we get
+[03:03] ourselves
+[03:04] a metal bobbin like that
+[03:07] these are just bits of plastic i put on
+[03:08] there so that the wire didn't rub on the
+[03:10] metal so i stuck a bit of plastic on
+[03:11] there put some tape around the center
+[03:13] and wired a whole load of copper around
+[03:16] it so this
+[03:17] is the copper that i used it's 0.35 mil
+[03:21] thickness and i wired and just span it
+[03:24] on there until it was
+[03:24] that full which is reasonably full and
+[03:27] then i dropped my neodymium magnets
+[03:30] these right in the center of my stack
+[03:34] there so that's how easy it is to make
+[03:37] that
+[03:38] you're not doing much more but you're
+[03:40] not doing anything more than gluing some
+[03:42] washers together
+[03:44] now i chose those sizes because those
+[03:45] are the sizes i had clearly if you have
+[03:47] smaller magnets you smaller washers
+[03:49] you have six more magnets well six mil
+[03:51] washers and so on
+[03:52] and that makes the activation coil now
+[03:55] the way this operates is like this
+[03:57] we have our magnet north
+[04:01] south and then we've surrounded it
+[04:04] with a piece of steel so the magnetic
+[04:07] flux
+[04:08] can go like this in that flux circuit
+[04:12] if we put a lump of steel on the top
+[04:14] there
+[04:15] then the magnetic flux is we're held
+[04:19] within the piece of steel
+[04:21] and that's exactly what happens when i
+[04:23] put those two bars on
+[04:25] so we're completing a magnetic circuit
+[04:28] by doing that
+[04:29] now the magnetic circuit isn't fully
+[04:31] saturated so there is a little leakage
+[04:33] at this end here
+[04:34] of that magnetic magnetism and so we get
+[04:36] a very slight
+[04:37] attraction in the end there it is slight
+[04:40] it's it's just capable of holding that
+[04:41] block
+[04:42] so very slightly so there is our
+[04:44] magnetic switch again there's the lumps
+[04:46] of steel that we've got which is these
+[04:47] bits
+[04:48] this is the magnet in north to south the
+[04:50] permanent magnet and then we've got our
+[04:52] steel jacket made out of the washers
+[04:54] now with the coil around here so when i
+[04:56] pass a current down there
+[04:58] if i make this south and this south this
+[05:01] north
+[05:02] and this north there is no longer any
+[05:04] leakage
+[05:05] all it can do is that and it fully does
+[05:08] that so we lose all the magnetic
+[05:10] attraction at the end here
+[05:12] now if i reverse the direction of that
+[05:13] current flow and make that north and
+[05:15] that north and that
+[05:17] south and that south now we have two big
+[05:19] magnets and
+[05:20] all of the flux goes to the end here
+[05:24] as it must do and we get a very strong
+[05:26] attraction here
+[05:28] so that's all that's happening we're
+[05:29] reversing the polarity of the current
+[05:32] one to pull the fields into and one to
+[05:35] make sure that they push
+[05:37] out now that reversal is taking place
+[05:40] in this hedge bridge here and like i say
+[05:42] we've done h bridges in 965.
+[05:45] again to answer the question does the
+[05:47] magnet make a difference
+[05:48] oh yeah look at 1036 it makes a huge
+[05:51] difference okay
+[05:52] now this is made to be easily made i've
+[05:55] used the laminations from a transformer
+[05:58] for sure but any bar of metal will do it
+[06:01] now we're doing this because we want to
+[06:03] make an axial flux magnetic assisted
+[06:06] motor and a good question i've been
+[06:08] asked is how do you ensure the direction
+[06:10] of rotation
+[06:11] turns out actually it's stupidly easy
+[06:15] what you do is you take your magnets
+[06:16] there and you twist
+[06:18] that just like that now that still works
+[06:21] beautifully
+[06:22] but it begins its journey here and like
+[06:25] a v
+[06:25] gate will travel to here and it always
+[06:28] goes in that direction
+[06:29] let me show you okay so we've got the
+[06:32] arm here
+[06:33] over the midpoint between the two steel
+[06:35] bits and if you want to know about this
+[06:36] rotor check out video 103
+[06:39] 8 or 39 where we make this rotor but
+[06:41] it's in the mid point with the slight
+[06:43] twist pointing towards that one and if
+[06:45] we give it a flip of power
+[06:48] there we go and it pulls the rope around
+[06:51] and it can only pull the rotor around in
+[06:53] that direction
+[06:54] so there we go isn't that ridiculously
+[06:55] simple a really easy way to make these
+[06:58] magnetic switches
+[06:59] curing the direction of rotation by a
+[07:01] slight twist and this should be really
+[07:03] easy for anybody to make at home
+[07:05] and i would encourage you to do so and
+[07:07] to experiment with them i think they're
+[07:08] quite fascinating
+[07:10] actually there is quite a lot of
+[07:11] research on these actual axial
+[07:14] flux reluctant motors so there's a good
+[07:17] reason to be working on this
+[07:19] anyway i hope you're enjoying the
+[07:20] project series so far and thank you very
+[07:22] much for watching

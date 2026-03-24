@@ -1,0 +1,32 @@
+# Credentials — never commit these
+scripts/config.yaml
+APIs/
+scripts/cookies-*.txt
+Github credentials.txt
+
+# 3D files too large for GitHub free — host externally
+*.stl
+*.3mf
+*.obj
+*.gcode
+*.step
+*.stp
+*.f3d
+*.zip
+
+# Pipeline state files
+scripts/state_*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/

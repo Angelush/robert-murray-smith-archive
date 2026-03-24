@@ -1,0 +1,426 @@
+[00:02] [Music]
+[00:15] all right so we've been looking at
+[00:16] our generation actually alternative ways
+[00:18] of generating and how we can actually
+[00:20] link things up like wave power water
+[00:23] power
+[00:23] gravity loads of ways and we've been
+[00:26] doing it from scavenging bits and pieces
+[00:28] that we can find around us and that's
+[00:29] kind of awesome because you learn a lot
+[00:31] and you learn an awful lot about motors
+[00:34] now there are basically two kinds of
+[00:35] motors ones with magnets in them
+[00:38] and ones without magnets in them the
+[00:40] easiest one to use are going to be the
+[00:42] ones with magnets you have to do the
+[00:43] least work on those
+[00:45] if you're using ones without magnets
+[00:47] you've got to do something to magnetize
+[00:49] it or there's some residual magnetism
+[00:51] you can use
+[00:52] so we've been looking at a whole range
+[00:53] and if you're interested in that have a
+[00:55] look at some of the
+[00:56] videos that have done on adapting motors
+[00:59] on this one we're going to talk about a
+[01:01] specific kind of motor
+[01:03] and the reason we're going to talk about
+[01:04] this is because there are two things
+[01:06] involved when you're generating
+[01:08] that is the force that you apply to it
+[01:11] to turn it
+[01:12] so the bigger the generator you're going
+[01:14] to have to apply more force
+[01:15] obviously and the other thing is the
+[01:17] speed at which it
+[01:18] turns now we've done a little bit on
+[01:20] gears and we know that if we gear
+[01:23] something then we can turn it very
+[01:24] quickly but we need to apply aggregate
+[01:27] force
+[01:27] so you find a lot of motors will need a
+[01:30] gearing setup to get any usable power
+[01:32] out of them and this tends to be true
+[01:34] for a straightforward dc
+[01:35] motor it's particularly true for things
+[01:38] like adapted alternators or adapted
+[01:40] universal motors
+[01:42] but there is one set of motors where
+[01:44] it's not true
+[01:45] and these are stepper motors actually
+[01:47] stepper motors are
+[01:49] really quite interesting things and one
+[01:52] of the good things about them is when
+[01:54] you turn them quite slowly they actually
+[01:55] give a really high voltage output
+[01:58] so they can be very very useful for that
+[02:00] now stepper motors and brushless motors
+[02:02] are the ones that you're going to find
+[02:03] in the micro generators
+[02:05] so if you're looking at a wind micro
+[02:06] generator on ebay and thinking about
+[02:08] taking it backpacking to charge your
+[02:10] phone
+[02:11] there's a very high chance it's either
+[02:13] running off a stepper motor
+[02:14] or it's running off a brushless motor
+[02:16] the commercial ones tend to be brushless
+[02:18] motors the diy home ones tend to be
+[02:20] stepper motors and there's a reason for
+[02:22] that
+[02:23] you can attach something directly to the
+[02:25] spindle
+[02:26] get it to turn and even if it's turned
+[02:28] slowly it'll have a decent voltage
+[02:31] output and so it makes the construction
+[02:33] of the whole thing much easier when
+[02:35] you're constructing the whole unit
+[02:37] the only slight problem with them is
+[02:39] working out
+[02:40] what's inside and then how it is
+[02:43] that you can change that so the video is
+[02:46] going to be about how it is that we need
+[02:48] to adapt a stepper motor
+[02:50] into a generator anyway let's have a
+[02:52] look at a few stepper motors close-up
+[02:55] so here's a fine example of a stepper
+[02:56] motor and they come in a whole range of
+[02:58] sizes so you can get really small ones
+[03:01] and you can get big ones and get
+[03:02] absolutely massive ones
+[03:04] you can either buy them i've clearly
+[03:05] bought these or you can scavenge them
+[03:07] for things like
+[03:08] printers so if you have a look around in
+[03:10] the printer you'll find some stepper
+[03:11] motors that you can use
+[03:13] we're going to use this one because it's
+[03:14] a nice brand new
+[03:16] bought in and so we won't have any
+[03:18] surprises now we're going to need to
+[03:20] attach to the spindle to get it to turn
+[03:22] and the good thing about the bought-in
+[03:24] ones
+[03:25] are you can get all kinds of spindles
+[03:27] and attachments
+[03:28] these are actually from a cnc machine
+[03:31] and so it has a little spindle that goes
+[03:33] on that drives a tooth belt
+[03:35] kind of awesome makes the project really
+[03:37] really easy so there's an example of
+[03:39] some stepper motors but they come in a
+[03:41] whole range of
+[03:42] types here's one it's an extremely
+[03:44] popular stepper motor
+[03:46] it's a 28byj it's a geared stepper motor
+[03:50] so you've got some gears in here and
+[03:51] that makes that quite hard to turn
+[03:53] but if we put a crank handle on that
+[03:55] that'll output a surprising amount of
+[03:57] voltage so you can buy them as a package
+[03:59] like that
+[04:00] or you can buy them like that or you can
+[04:02] buy them in a whole range of ways
+[04:04] this is a stepper motor incidentally i
+[04:06] took this from the cd-rom drive you're
+[04:08] interested in how i got this just
+[04:09] reviewed the video and you can see that
+[04:11] that's a nice little stepper motor
+[04:13] now most stepper motors you'll notice
+[04:15] come with
+[04:16] a range of wires and there's four on
+[04:18] them so we have four wires coming out of
+[04:21] that stepper motor
+[04:22] now when we look at the wiring the
+[04:24] stepper motor actually looks like this
+[04:36] so those four wires in fact just go to
+[04:38] two separate
+[04:39] coils and we can identify those just by
+[04:41] checking it at the resistance with a
+[04:43] digital multimeter
+[04:45] when you've got the right coils you'll
+[04:46] have a fixed resistance of some value
+[04:49] quite often it says on the stepper motor
+[04:51] what that resistance value will be
+[04:53] and it depends on the size of the motor
+[04:55] but you'll get some resistance value
+[04:57] when you get two wires that are not part
+[04:59] of the same coil the resistance will be
+[05:01] infinite
+[05:02] because they're not connected so it's
+[05:03] really easy to identify which wires they
+[05:06] are
+[05:06] and i've done that and i've just knotted
+[05:09] one together
+[05:10] to tell me that those two wires belong
+[05:12] to one coil
+[05:13] and those two wires belong to the other
+[05:14] coils it's very easy to identify
+[05:17] which two ones it is that you're looking
+[05:19] at sometimes of course you get the motor
+[05:22] like this which got a pin
+[05:23] connection if you have a pin connection
+[05:26] you'll need the connecting wire and do
+[05:27] exactly the same thing
+[05:29] here when we're looking at this one we
+[05:31] can see the four dots on it with the
+[05:33] four connections that would be where we
+[05:34] sold it to and then we'd identify which
+[05:36] coil it was
+[05:37] and we could use that as a generator by
+[05:39] spinning that
+[05:40] this one's a bit unusual and i thought
+[05:42] i'd actually go into it because
+[05:44] it's got five wires on it and that can
+[05:46] be a bit confusing
+[05:48] this one's actually really good because
+[05:50] you can find the pin out diagram really
+[05:52] really easily for it just by doing a
+[05:54] search under the name
+[05:55] and pin out and it will tell you that
+[05:58] the
+[05:58] actual wiring looks like this
+[06:10] so you can see that in fact the two end
+[06:13] coils
+[06:14] are two of these wires
+[06:17] and the red one actually taps off the
+[06:18] center of each which is quite curious
+[06:20] so we will ignore the red and just
+[06:22] attach to the two other two wires and it
+[06:25] will be exactly the same
+[06:26] as this one which is really cool now in
+[06:29] order to get this out what we'll
+[06:30] actually have is an
+[06:31] ac output that's not a bad thing in
+[06:34] itself but
+[06:35] more often than not you want a dc output
+[06:37] in order to get dc
+[06:38] output we need a bridge rectifier now a
+[06:41] bridge rectifier is
+[06:42] a whole host of things either you can
+[06:44] make it and it looks like this
+[06:55] as you can see it's basically just four
+[06:57] diodes and a little ring
+[06:59] those diodes can be any number and
+[07:01] there's a really popular one the one
+[07:03] n4007 which is just going to handle it
+[07:06] just fine
+[07:07] you can use a 1n34 which is a very low
+[07:10] voltage drop and you might use that for
+[07:11] something tiny
+[07:12] like that but the silicon diode is going
+[07:14] to be fine like that
+[07:16] or you can buy a rectifier as a single
+[07:18] piece there is something called a mosfet
+[07:20] bridge diode and i might do a separate
+[07:22] video on that which is a little bit more
+[07:24] complicated
+[07:25] but worth looking at certainly and i'll
+[07:28] probably do a video on it later
+[07:30] what we're going to do is we're going to
+[07:31] build two
+[07:33] diodes and attach them to each of the
+[07:35] coil
+[07:36] then we need to connect the coil
+[07:37] together now when we generate from this
+[07:40] what we're actually going to do is store
+[07:42] that energy in a capacitor so we're
+[07:44] going to charge a capacitor up and
+[07:46] use the capacitor to deliver the power
+[07:48] and the circuit that we're going to use
+[07:50] looks like this
+[08:00] now we obviously have a choice we can
+[08:02] connect that up in parallel or we can
+[08:03] connect that up in series
+[08:05] if we connect it in parallel we'll have
+[08:07] the same voltage
+[08:08] but we'll have more amps if we connect
+[08:11] in series will have the same
+[08:12] amps but more voltage it just depends
+[08:15] what you want
+[08:16] so the first thing to do is to build
+[08:18] those bridge rectifiers
+[08:21] okay so this is what a diode looks like
+[08:23] and its circuit diagram
+[08:36] so here's some 1n407s in real life and
+[08:39] as you can
+[08:40] see they've got that silvery bit there
+[08:42] and that's the cathode it's the same bit
+[08:44] as the flat bit on the diagram
+[08:46] now to make a bridge rectifier really is
+[08:48] a piece of cake just take
+[08:49] two with the silvery bits pointing
+[08:52] towards each other
+[08:53] and twist them around
+[08:59] and then take two with the black bits
+[09:01] pointing towards each other so the
+[09:03] silvery bits are there
+[09:04] and this time twist the black bits
+[09:06] around
+[09:13] now what we have to do is take the two
+[09:14] that we made
+[09:17] connect them up like that and twist them
+[09:20] around
+[09:35] and that's it when we soldered them
+[09:37] together we've made our bridge rectifier
+[09:39] it really is that simple
+[09:40] so i've opened it up into the little
+[09:41] diamond shape so it looks just like the
+[09:43] circuit diagram you can have them in any
+[09:45] orientation as it happens
+[09:46] but that one really works nicely and you
+[09:48] can see what it actually is
+[09:50] now the connection to the motor goes
+[09:52] here and here where we've got
+[09:54] silver black silver black that's where
+[09:56] the ac
+[09:57] input goes in so your motor coil
+[09:59] connects there
+[10:01] the output is from these two when we've
+[10:03] got silver and silver together
+[10:05] that's the positive where we've got
+[10:07] black and black together
+[10:08] that's the negative which is kind of
+[10:10] really easy a black black negative
+[10:12] now we could use it just like this but
+[10:14] actually as a rectifier it doesn't give
+[10:16] a particularly smooth
+[10:18] output so we can put a capacitor on it
+[10:20] to smooth that output
+[10:22] the capacitor not only smooths the
+[10:24] output if it's of high enough value it
+[10:26] will store energy
+[10:27] and so you get a much more even output
+[10:29] now i've got a 50 volt 1000 farad
+[10:32] capacitor here it's just a normal
+[10:33] electrolytic capacitor
+[10:35] you can put quite high farads on there
+[10:37] 5000 would be just fine
+[10:39] drop it down to 25 volts just fine i
+[10:42] happen to have quite a bag full of these
+[10:44] ones so that's the one i'm going to use
+[10:46] and it anything around there will work
+[10:48] just great
+[10:49] now when we connect it you'll notice the
+[10:51] electrolytic has a
+[10:52] negative sign on it telling you which
+[10:54] side is negative so the negative
+[10:56] connects to the negative and the
+[10:57] positive connects to the positive on the
+[10:59] output so it's going to connect
+[11:01] just like that and it'll do that on the
+[11:03] other one as well
+[11:04] when we've done that these will be the
+[11:07] outputs
+[11:08] where we connect them together in series
+[11:11] or parallel
+[11:12] one coil will go here and then on the
+[11:14] other one that we've made
+[11:15] that's where the other coil will go so
+[11:17] i'm just going to twist those around
+[11:18] solder them together and you should put
+[11:20] some heat shrink on there as well just
+[11:22] to make it all nice and neat and tidy
+[11:24] okay you can see what i've done i've
+[11:26] identified the two coils and then i've
+[11:28] taken
+[11:28] one coil and soldered it onto here
+[11:31] remember they're the ac
+[11:32] inputs of our bridge rectifier leaving
+[11:34] the dc outputs alone and across those dc
+[11:37] outputs have basically put a capacitor
+[11:40] and that's what it looks like and here
+[11:41] it is where i finished it off so i'll
+[11:43] finish that one off
+[11:45] and then the two finished off now to
+[11:46] connect these in series you would take
+[11:48] the negative and attach it to the
+[11:50] positive
+[11:50] so that we have negative to positive
+[11:52] like that then that obviously would be a
+[11:54] negative out and that's your positive
+[11:56] out so that's in series
+[11:58] to connect them in parallel we connect
+[12:00] both the negatives together and burst
+[12:02] the positives together and that's in
+[12:04] parallel
+[12:04] now remember in series the voltage adds
+[12:07] and the current remains the same in
+[12:10] parallel
+[12:11] the amps of current add and the voltage
+[12:13] remains the same
+[12:14] so i've gone for a series connection so
+[12:16] i've connected negative and positive to
+[12:18] each other of these ones taking the
+[12:19] negative out there and the positive out
+[12:21] there and i've chosen a black and red
+[12:23] for obvious reasons
+[12:24] and here it is going to the nema stepper
+[12:26] motor
+[12:29] so here it is connected up to the
+[12:30] multimeter it's reading a vault reading
+[12:32] and i've connected a spindle on it just
+[12:34] to make it easier to turn and if i
+[12:36] just get my hand out of the way so you
+[12:38] can read the voltage reading
+[12:42] with no problem getting that up to 14 15
+[12:44] volts just turning it by hand
+[12:46] now i've put a spindle on because you
+[12:49] can buy
+[12:50] this stuff this is toothed belt you can
+[12:53] buy it in yards actually that tooth belt
+[12:55] fits on there
+[12:56] so we could drive this from absolutely
+[12:58] anything
+[12:59] using a toothed belt on that spindle
+[13:02] okay so i've got five leds in a row
+[13:04] attached to it let's give that a spin
+[13:12] [Laughter]
+[13:16] so there you go how to convert a stepper
+[13:19] motor into a generator
+[13:20] now when i was turning that you might
+[13:22] have noticed that the leds didn't light
+[13:24] initially and then when i stopped
+[13:26] turning it they stayed on for a long
+[13:28] amount of time
+[13:29] that's the effect of the capacitors the
+[13:31] bigger those capacitors
+[13:33] then the longer that effect will be so
+[13:35] it'll take longer to charge but it will
+[13:37] last longer
+[13:38] when you're not actually turning it so
+[13:39] if you stuck a couple of super
+[13:41] capacitors on there at 500 farads
+[13:43] it'll take you a while to charge those
+[13:45] up but certainly would last an awful
+[13:47] long
+[13:48] time when it was discharging which i
+[13:50] think is pretty cool
+[13:51] and well worth experimenting with to
+[13:53] really create something that meets your
+[13:55] needs
+[13:56] these are awesome things to turn into
+[13:58] generators and
+[13:59] this is about nema and it's quite a
+[14:01] large nema motor it's not
+[14:03] brilliantly large but it's quite large
+[14:04] but it's a bought motor and i did it
+[14:06] deliberately because we can fit things
+[14:07] to it
+[14:08] but if you want to scavenge stepper
+[14:11] motors
+[14:11] they're all over the place like i said
+[14:13] they're in cd rom drives dvd dvd-rom
+[14:15] drives printers cnc machines
+[14:17] there's just a whole plus of places
+[14:19] where you can get a decent stepper motor
+[14:22] and then of course this this is the kind
+[14:24] of motor that's very often used in macro
+[14:26] generators
+[14:27] particularly the diy macro generators
+[14:30] anyway i thought i'd go through that
+[14:32] because i think it's quite interesting
+[14:33] it should be useful i hope and i hope it
+[14:36] sparked some ideas and thank you very
+[14:37] much for watching

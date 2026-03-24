@@ -1,0 +1,503 @@
+[00:06] hi
+[00:07] so as you know i've come up with this
+[00:08] conductive ink and i'm pretty
+[00:10] pleased with it actually i've managed to
+[00:11] get the resistance down to about 40 ohms
+[00:13] a centimeter
+[00:14] which with this kind of ink is pretty
+[00:16] good when you think of the rings of this
+[00:18] category around 140 ohms a centimeter
+[00:21] so i'm pretty pleased with it really but
+[00:23] having made it
+[00:24] and particularly i made it for
+[00:25] electroplating having made it
+[00:27] made me think about what else you could
+[00:29] do with it now
+[00:31] i'm not an electronics expert not by any
+[00:33] means i know enough to get you by
+[00:36] as it were but having worked on this
+[00:38] made me start to think about what else
+[00:39] you could do
+[00:40] now modern electronics doesn't really
+[00:43] look at the electricity per se
+[00:45] thinks about the current end terms of
+[00:47] the signal when it thinks about the
+[00:48] components in terms of signal processing
+[00:51] that is changing the signal from one
+[00:52] form to another to do a job
+[00:54] in order to do that what it does is uses
+[00:56] components and the components are split
+[00:58] into two parts you have these so-called
+[01:00] active components and the passive
+[01:02] components now the active components of
+[01:04] things like
+[01:05] transistors and ics and the passive
+[01:07] components are things like resistance
+[01:08] and capacitors
+[01:10] it occurred to me that it would actually
+[01:11] be relatively simple to
+[01:13] draw passive components using that
+[01:16] conductive ink and so that's what i'm
+[01:18] going to do i'm going to be making
+[01:19] passive components on paper using
+[01:21] conductive ink
+[01:23] and this is my way of talking through it
+[01:25] and then what we'll do is we'll go off
+[01:27] and make some examples circuits
+[01:28] drawing the passive components so that's
+[01:31] the plan
+[01:32] now the two main components we're going
+[01:35] to look at making are resistance in
+[01:36] capacitors
+[01:37] and a good way of thinking about these
+[01:39] things is using the water analogy
+[01:42] so if we think about water flowing
+[01:43] through a pipe and we have a big old
+[01:45] pipe
+[01:46] then we're going to get a lot of water
+[01:48] flowing through there easily
+[01:50] if we restrict that pipe diameter
+[01:53] then you need either a lot more force or
+[01:55] you have to put up with very little
+[01:57] water coming through
+[01:58] and that's what a resistor does it
+[02:00] restricts the flow
+[02:01] of water or flow of electricity or
+[02:04] restricts the signal
+[02:05] and that's the whole point of it now
+[02:07] that resistance
+[02:09] is um in terms of ink it can actually be
+[02:12] physical
+[02:12] like this so if i have
+[02:16] my liner link
+[02:19] so there's my conductive line and i want
+[02:22] to join it up to another conductive line
+[02:25] and i put a thin line between the two
+[02:28] that thin line of ink will act like a
+[02:30] resistor and you can measure the
+[02:32] resistance of it between these two
+[02:33] points
+[02:34] and it'll have a specific value so one
+[02:37] way
+[02:38] is to actually just draw the line
+[02:39] thinner or draw it with less thickness
+[02:42] on it
+[02:42] so that there's a restriction in the
+[02:44] pipe and that will be a resistor
+[02:46] now another way of doing it is to
+[02:49] increase the path
+[02:50] that it has to follow so if i have a
+[02:53] line
+[02:55] then between this point and this point
+[02:58] because it's made up this conductive ink
+[03:00] there's a resistance at one now if i
+[03:02] take the same points
+[03:04] but i join it up by a longer line
+[03:09] so physically the path is actually
+[03:10] longer then that resistance
+[03:13] r2 will be bigger than r1
+[03:18] quite simply just because it has a
+[03:20] longer line to follow so there's two
+[03:22] methods you can use to actually
+[03:23] paint resistors
+[03:29] if we look at a cross-sectional area of
+[03:31] it so here's our paper
+[03:33] here's our painted line here's our
+[03:35] painted line
+[03:36] and we painted thinner like that
+[03:39] then because that cross-sectional area
+[03:45] is larger than that cross sectional area
+[03:48] then the resistance here will be greater
+[03:51] than the resistance here
+[03:53] so there's another way of actually
+[03:54] making a resistor out of this thing
+[03:56] so you can paint the lines on change the
+[03:58] width of them change the thickness of
+[03:59] them or change the distance of their
+[04:01] travel
+[04:02] to actually construct resistors out of
+[04:04] something like conductive ink
+[04:06] now obviously there's a something else
+[04:08] you could do with that so
+[04:09] if we have a line and we connect it to
+[04:13] an arm
+[04:16] then if we put it in that position there
+[04:18] because the distance is
+[04:20] short it'll have a resistance of r1 if
+[04:23] we put it in that
+[04:24] there then the distance is much longer
+[04:28] so we have a resistance of r2 and
+[04:30] because the distance is longer
+[04:31] in this case resistance two is greater
+[04:34] than the resistance one
+[04:36] now if that line is movable so we can
+[04:38] sweep it up and down
+[04:39] then what we have is potentiometer
+[04:46] or a variable resistor so we can make
+[04:49] standard resistors and variable
+[04:51] resistors
+[04:51] quite simply just by painting lines on
+[04:54] the paper of different thicknesses
+[04:56] different widths and different travel
+[04:57] distances to create resistance
+[05:00] so creating resistors actually
+[05:03] is not particularly challenging now the
+[05:06] second thing we can do is create a
+[05:07] capacitor
+[05:09] now capacitor is a bit more of a
+[05:11] problematic thing
+[05:12] it's a bit more difficult to understand
+[05:14] because what it consists of
+[05:16] is two plates joined up so
+[05:19] in standard circuit theory we always
+[05:21] think about things being joined or they
+[05:22] won't flow and here we have actually a
+[05:25] break
+[05:25] and it's a bit confusing about what's
+[05:27] actually happening there
+[05:29] another good way of looking at this is
+[05:31] to look at it as a pipe
+[05:32] now in this case what we've got in the
+[05:34] pipe is a little bit of rubber
+[05:36] as we force water into that pipe
+[05:41] that rubber is going to bend if we turn
+[05:44] off
+[05:45] the water then there's actually energy
+[05:47] stored in that bent rubber
+[05:49] so as that bent rubber tries to go back
+[05:51] into its original shape
+[05:54] it's going to force the water back out
+[05:57] so that push and relax of the rubber in
+[06:00] the pipe
+[06:01] is actually how energy is stored the
+[06:03] energy is stored between the plates here
+[06:06] in an electrical field i guess that's
+[06:08] one way of looking at it in quite a good
+[06:09] way actually
+[06:11] now capacitors physically
+[06:15] are two conductive plates separated
+[06:18] by a non-conductive plate that
+[06:20] non-conductive plate is called dialectic
+[06:23] so what you very often have is a plate
+[06:25] of polyethylene that's some kind of
+[06:27] plastic you can use paper you can use
+[06:29] air you can use glass there's lots of
+[06:31] things you can use
+[06:32] and at top and bottom of it you attach a
+[06:35] conductive plate that you then put
+[06:37] into your circuit and the
+[06:41] power of that capacitor that is how much
+[06:43] energy it can store
+[06:44] is obviously related to the size of the
+[06:46] plate which is the area of the blade
+[06:49] it has something to do with the nature
+[06:51] of the dielectric something called
+[06:53] diameter constant
+[06:55] and it has something to do with the
+[06:57] distance
+[06:58] between the two plates now you can
+[07:00] calculate the capacitance and i'll
+[07:02] forgive you to check your notes
+[07:07] and the actual capacitance of this is c
+[07:10] equals
+[07:11] k
+[07:15] 0.24
+[07:21] sorry 2 2 4 8
+[07:25] a all over d now you don't need to
+[07:28] really worry about that
+[07:30] calculation there are plenty of
+[07:31] capacitance calculators available
+[07:34] on the internet for you that'll actually
+[07:35] just work that out for you
+[07:37] but there is this direct formula that
+[07:39] relates the area of the player to the
+[07:41] distance the part
+[07:42] to the dialectic that they've actually
+[07:44] got between them
+[07:46] now the dialectic constant of paper
+[07:49] is uh i think 3.85 craft paper is about
+[07:52] 2.6
+[07:53] or something like that normal paper is
+[07:55] about 3.85
+[07:57] the thickness of a cardstock so you
+[08:00] could have a bit of
+[08:01] a birthday card or something like that
+[08:04] the thickness of the card stock is
+[08:05] normally about 0.254 millimeters
+[08:09] now if i plug those figures into there
+[08:12] and calculate the capacitance i can
+[08:15] actually
+[08:15] work out what areas that i'm going to
+[08:18] have to give me a given capacitance
+[08:21] or i can calculate what um what
+[08:24] capacitance i've got for the area
+[08:26] that i paint so say i've got a bit of
+[08:27] card
+[08:34] so there's my bit of card and i paint on
+[08:36] a square
+[08:38] as part of my circuit and on the reverse
+[08:40] side of the car depend on another square
+[08:42] then what i've done is i've made a
+[08:43] capacitance a capacitor
+[08:45] now if that square is one centimeter
+[08:49] by one centimeter then the capacitance
+[08:53] is actually going to be
+[09:01] 0.013 nanofarads
+[09:03] which is really really small if i change
+[09:05] that to 10 centimeters by 10 centimeters
+[09:08] and the capacitance is going to be
+[09:09] 1.3 nanofarads which is much better
+[09:13] and actually that kind of figure is
+[09:16] usable in in normal circuits in the kind
+[09:19] of circuits you want to build
+[09:21] obviously 10 centimeters by 10
+[09:22] centimeters is quite large
+[09:24] and if you want to make it any larger
+[09:26] you're going to run into problems
+[09:28] but you can set up capacitors in
+[09:33] parallel or series
+[09:34] so if i set them up
+[09:42] in parallel like that so what i've done
+[09:45] is i've got two bits of paper
+[09:47] painted my sides painted my site and
+[09:48] stacked on top of each other and made
+[09:50] the parallel collect connection
+[09:52] then that capacitor has a capacitance
+[09:55] that capacitor has a capacitance
+[09:56] and the total capacitance
+[10:03] it's just the sum of the two small
+[10:05] capacitances so you can keep on making
+[10:07] capacitor by
+[10:08] making plates stacking them on top of
+[10:10] each other and
+[10:11] painting a line between them all to
+[10:13] connect the balls you can make that
+[10:16] no bigger certainly thicker but as big
+[10:18] as you like
+[10:19] by painting on paper now there's another
+[10:21] way of
+[10:23] forming capacitors and that's in the
+[10:30] series
+[10:32] not as useful to us because the total
+[10:35] capacitance of
+[10:36] an in-series collection of capacitors is
+[10:38] actually less than
+[10:40] an individual capacitor so this c total
+[10:43] is one over one over c one
+[10:47] plus one over c two
+[10:50] c three okay so that's how you work out
+[10:53] the total capacitance for an in series
+[10:55] network now the problem with that is
+[10:58] it's not very usable because that's
+[11:00] always very small
+[11:01] but if you have a high voltage that you
+[11:03] want and you want to
+[11:05] put it through a circuit that would
+[11:06] normally blow out your dielectric
+[11:08] the voltage is actually spread over
+[11:10] those and so
+[11:12] it will take a much higher voltage this
+[11:14] one to take a lower voltage but it has a
+[11:16] higher capacitance this will take a low
+[11:18] capacitance presumably to cope with the
+[11:19] higher voltage
+[11:20] now we're not working with terribly high
+[11:22] voltages and we'll want high
+[11:23] capacitances
+[11:24] so it's in parallel really that you're
+[11:26] more interested in
+[11:28] interestingly enough this is the reverse
+[11:30] of resistors
+[11:31] so this is in series you just add them
+[11:33] up resistance in parallel
+[11:36] it's this so to calculate capacitance is
+[11:39] the reverse of calculating resistance
+[11:41] which is quite interesting
+[11:47] so those two kind of components are
+[11:49] actually very approachable to us using
+[11:51] conductive inc and we're going to make a
+[11:53] circuit using that
+[11:55] but they're not tremendously exciting
+[11:57] circuits so what i thought i would do
+[11:59] is make a sound generator in order to
+[12:02] make a sound generator what you need is
+[12:04] some kind of oscillator
+[12:06] now oscillation is a really important
+[12:08] factor in any electronic circuit
+[12:11] now if i think about a battery
+[12:18] and i connect that off to a capacitor
+[12:22] and then connect that to a resistor
+[12:25] put in a switch then
+[12:28] nothing's going to happen until i close
+[12:30] that switch when i close that switch
+[12:33] that capacitor is going to charge up
+[12:36] it's going to charge up so that it has
+[12:38] actually it's about two-thirds of that
+[12:39] battery voltage that it charges up to
+[12:41] so it will take a charge and retain that
+[12:44] charge so if i close that for a little
+[12:45] bit
+[12:46] that capacitor will charge up and then i
+[12:49] open it
+[12:50] nothing will happen unless i put the
+[12:52] load on there
+[12:55] like a light bulb if i put a light bulb
+[12:58] on there
+[12:59] i close that switch the light bulb won't
+[13:01] light until it's charged and let's
+[13:02] charge the light open light to take that
+[13:04] off the light bulb will stay lit
+[13:06] until the work that that light bulb is
+[13:08] doing drains the energy that's stored in
+[13:09] the capacitor
+[13:11] that light bulb is actually a resistor
+[13:13] so what we think of
+[13:15] isn't a light bulb per side but another
+[13:18] resistor
+[13:20] we say that the capacity charges up
+[13:22] through that resistance but discharges
+[13:24] through that resistance
+[13:25] and so that simple circuit is actually a
+[13:28] timing circuit because it will take time
+[13:30] it takes time for that capacitor
+[13:33] discharge
+[13:34] now the time it takes to do that is
+[13:35] actually fixed in relation to the values
+[13:38] of the capacitor and the resistors
+[13:40] and that's how long it takes and that's
+[13:41] a very simple timing circuit
+[13:44] now we can use that in conjunction with
+[13:46] something called a 555
+[13:48] chip
+[13:53] now the 555 is a ubiquitous chip
+[13:56] it costs very little money indeed it's
+[13:59] like 20 pence to 50 pence
+[14:02] they make millions of them they're
+[14:03] really really cheap and they're
+[14:04] immensely useful
+[14:06] and you can get them in large packets
+[14:07] called the um
+[14:09] ne 555 from the tiny cmos packets which
+[14:12] uses less power
+[14:14] that's the st555 they have the same
+[14:16] effect
+[14:17] and if you look at it there is normally
+[14:20] a little dot here or a little cup in
+[14:22] here and that would be pin one
+[14:24] so you have eight pins one two three
+[14:27] four
+[14:28] five six seven eight now we're not going
+[14:31] to worry about the pin designations if
+[14:33] you're really interested in it
+[14:34] then you can look it up on the net
+[14:36] there's plenty of things on the net
+[14:38] telling you the way you recognize pin
+[14:40] one is you've got a dot
+[14:41] make a little cup when you look at the
+[14:43] top of it that one's pin one
+[14:45] that's how you recognize it and you can
+[14:47] connect up the 555 timer in a whole
+[14:50] series of ways but a particularly useful
+[14:53] way is something called the air stable
+[14:59] now the air stable uses external
+[15:01] components passive components resistance
+[15:04] to time a signal that comes out
+[15:10] normally
+[15:13] to make it easy to understand you have
+[15:16] the
+[15:17] supply rails and
+[15:21] positive and the ground or the negative
+[15:24] you have the supply rails
+[15:26] and they're always shown like that in
+[15:27] electronic circuits so that they're
+[15:29] readable by everybody
+[15:30] and you have the supply rails and the
+[15:32] start to number
+[15:33] one and the reason to put one there is
+[15:35] because one is the ground
+[15:36] you just connect one to the ground
+[15:39] you've won
+[15:40] you've checked
+[15:43] six two seven
+[15:50] four eight and three
+[15:54] we put them that way because as it just
+[15:56] makes it easy to draw the circuit
+[15:58] three is the output
+[16:03] and it outputs
+[16:08] a square wave signal and that can be
+[16:11] used to turn things off and on
+[16:12] so you can use that to turn
+[16:16] a light off and on a relay off and on or
+[16:19] sound the speaker which is just as a
+[16:21] very fast moving solenoid if you like
+[16:23] and you can use that to turn that off
+[16:24] and on
+[16:25] so i did an experiment about
+[16:28] electrochemical exfoliation of
+[16:32] graphite into graphene and this circuit
+[16:34] of the circuit that we're going to go
+[16:36] through in a minute
+[16:37] this circuit is actually one way of
+[16:40] running a relay
+[16:41] to perform that experiment so when we
+[16:44] look at that
+[16:49] then eight is connected to the supply
+[16:53] it's these three pins that actually
+[16:56] control the stable operation
+[16:58] we connect two to six
+[17:02] and here
+[17:05] we have a capacitor
+[17:08] we have a resistor and we have a
+[17:13] so that is
+[17:18] c and those are the timing timing
+[17:20] components
+[17:21] so it charges up through the resistor
+[17:23] network
+[17:24] so it's coming from here charging it up
+[17:26] when the
+[17:27] internal chip closes it that capacitor
+[17:30] discharges
+[17:31] through this resistor and the resistor
+[17:34] and the size of these components is what
+[17:36] determines the time it takes
+[17:38] and that time it takes is actually what
+[17:40] fixes the frequency of the signal here
+[17:44] so
+[17:46] this gets connected here
+[17:50] and this one
+[17:53] gets connected there so that's how you
+[17:55] connect this thing
+[17:56] up now again on the net
+[18:00] there are lots of um calculators and
+[18:02] suggestions available for you
+[18:04] on what the values of ri rb and c
+[18:08] would be to give you a fixed frequency
+[18:11] now the formula for that
+[18:12] is actually frequency is equal to
+[18:31] that 1.44 over rn plus 2rv
+[18:35] times c if you work that one out
+[18:39] then you can work out the frequency that
+[18:41] this signal
+[18:42] is going to come out at and again plenty
+[18:46] of programs to help you work that one
+[18:48] out
+[18:48] one other thing to think about is
+[18:52] that is one signal on off
+[18:56] and obviously that signal takes time
+[19:00] and that point the time between the on
+[19:04] and the off is called duty cycle and you
+[19:06] can also alter the duty cycle by
+[19:08] changing the relationships of r
+[19:10] and rb and again plenty of calculators
+[19:14] available out there on the net
+[19:16] so this 555 timer in air stable
+[19:19] configuration
+[19:20] is really essential to anything you want
+[19:24] to do
+[19:25] with signals and building
+[19:29] passive components out of the ink is the
+[19:31] next thing we're going to do
+[19:32] so i'm going to go off now and
+[19:36] walk you through how to actually pend a
+[19:38] circuit using a 5-5
+[19:40] timer and this ink and a bit of paper

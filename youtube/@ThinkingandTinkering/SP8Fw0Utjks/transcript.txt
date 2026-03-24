@@ -1,0 +1,320 @@
+[00:03] [Music]
+[00:10] this
+[00:12] is a ups
+[00:13] uninterruptible power supplies are very
+[00:16] attractive because they contain within
+[00:18] them
+[00:19] a charge controller and an inverter and
+[00:22] a whole load of plug sockets all in one
+[00:24] handy box and of course the question
+[00:26] that gets asked about these an awful lot
+[00:28] is can these be integrated into a home
+[00:31] power solution well
+[00:33] yes they can
+[00:35] now these things as i say
+[00:37] are surprisingly simple in the way they
+[00:39] operate and there's in fact only three
+[00:41] ways
+[00:42] okay there are only three methods
+[00:44] standby lan interactive and online
+[00:48] now standbys are the cheapest and the
+[00:50] most cost effective it's just a
+[00:52] rectifier charging a battery when
+[00:54] everything's good you get the power
+[00:56] through the utility line something goes
+[00:58] wrong of course the transfer switch
+[01:01] switches and when it's switched we get
+[01:03] the power from the battery through the
+[01:04] inverter and as i say this is the
+[01:07] simplest method the next one is line
+[01:09] interactive it's actually identical to
+[01:11] the first one but it does provide
+[01:14] additional support now the additional
+[01:17] support is through avr automatic voltage
+[01:19] regulation so it protects against
+[01:21] searches and frequency changes apart
+[01:24] from that
+[01:25] it operates in exactly the same way
+[01:27] third and the last is called online mode
+[01:30] also double conversion because the ups
+[01:33] converts incoming ap power to dc and
+[01:36] then back to ac
+[01:37] while charging its internal battery
+[01:40] providing the ideal output power when
+[01:42] the utility fails it switches to the
+[01:45] battery mode to keep loads operating
+[01:48] the bus supplies buffer energy to
+[01:50] prevent total energy drop during the
+[01:52] switching operation and this results in
+[01:55] zero transfer time when the quality of
+[01:57] utility power is good the ups switches
+[02:00] to bypass to increase system efficiency
+[02:04] it's commonly used to correct to protect
+[02:06] critical applications like data centers
+[02:08] and communication that kind of thing so
+[02:10] it's mildly embarrassing i'm doing a
+[02:12] video on how to use this because it is
+[02:14] so simple to use but there's so much
+[02:16] nonsense
+[02:17] out there but i thought a video just to
+[02:20] talk about how to actually use it
+[02:22] might be useful now invariably they come
+[02:25] in a sealed closed package and the back
+[02:27] of this one which is an apc 400 which
+[02:30] means it's 400 va 250 watts is this
+[02:34] there's a little slide and when i take
+[02:36] that slide off what i'll do is i'll
+[02:38] expose this tiny battery here now this
+[02:40] thing can be bought on amazon for about
+[02:42] 54 pounds this thing which is the
+[02:44] original battery is about 50 pounds so
+[02:47] replacing that little battery which is
+[02:49] designed to last at about 10-15 minutes
+[02:52] because these things are meant to be
+[02:53] used for you to shut your computer down
+[02:55] safely should there be a power failure
+[02:57] so they don't last very long and of
+[02:59] course what most people want to do and
+[03:01] certainly in a home power situation what
+[03:02] you want to do is put in a bigger
+[03:05] battery so can you put in a bigger
+[03:06] battery is the first question and the
+[03:08] answer is yes if you pull the back off
+[03:10] remove the battery you'll see your flat
+[03:12] red wire and you extend them
+[03:15] with battery terminals to fit your
+[03:18] bigger battery that quite honestly
+[03:21] is all you do
+[03:22] and i've flunked my terminals onto my
+[03:25] bigger battery and because this
+[03:26] battery's seven times the size of this
+[03:28] suddenly this has
+[03:29] seven times year marital energy stored
+[03:33] and that's all there is to it there you
+[03:34] go all i've done is extend those wires
+[03:36] and stick them on there now of course a
+[03:38] couple of questions arise one thing is
+[03:42] bigger battery
+[03:43] is it going to draw more current well
+[03:45] that's why these things are stupid these
+[03:47] things can't recognize the current they
+[03:49] can only recognize the voltage so they
+[03:51] will charge that battery
+[03:54] at the current
+[03:56] designed to charge this battery so it'll
+[03:58] actually take seven times as long to
+[04:00] charge this battery but it won't draw
+[04:03] more current because it's got protection
+[04:05] circuit in uh to stop it doing that it
+[04:08] will just try to charge that battery at
+[04:10] whatever current was fixed to this so
+[04:12] it'll take seven times as long to charge
+[04:14] it and of course that can be dreadfully
+[04:16] dreadfully slow okay we've got one on
+[04:18] here we could actually put a hundred on
+[04:20] there if we wanted it would just take a
+[04:22] million years to charge them so it takes
+[04:25] longer to charge the battery but it
+[04:27] won't damage this by over drawing
+[04:29] current because it can't recognize the
+[04:31] current it only recognizes the voltage
+[04:33] and it has a fixed current that it can
+[04:35] feed into the battery when it's
+[04:36] utilizing the battery charge a bit of
+[04:39] what's in here now i don't have an issue
+[04:41] with that on the whole i don't mind if
+[04:43] it takes forever to do that but if you
+[04:45] do think that's an issue for you and you
+[04:48] want to charge the battery separately
+[04:50] and then hook it up or put a flip switch
+[04:52] in there use a double pole isolator
+[04:54] switch you flip it in one side it goes
+[04:56] to charging you flip it in the other
+[04:58] side it goes to here and you're only
+[05:00] using the inverter section of this well
+[05:02] that's okay usually the inverter is a
+[05:05] very good inverter and you don't need to
+[05:07] use the charging circuit at all if you
+[05:09] don't want to if you want to choose the
+[05:11] chart use the charging circuit then you
+[05:13] have that limitation in time
+[05:15] because it'll take longer because the
+[05:17] battery is bigger
+[05:19] now when you charge it using the battery
+[05:21] charging circuit then obviously you've
+[05:23] plugged it into the mains and it's
+[05:24] taking the main supply here
+[05:27] this is designed to operate between 180
+[05:29] and 260 volts so you have to feed in 180
+[05:33] 260 volts ac from your charging
+[05:37] generator to utilize the charging
+[05:40] circuit in here but not to utilize the
+[05:42] inverter circuit so you could have a
+[05:46] separate charger unit like
+[05:49] one of these a smart charger this is a
+[05:51] fast smart charger and charge that
+[05:53] battery in about four hours
+[05:55] you could have a separate charger unit
+[05:57] if you wanted you could make sure that
+[06:00] your input here from your generator is
+[06:02] 180 volts plus at 50 to 60 hertz if you
+[06:06] wanted to
+[06:07] but there are
+[06:08] loads of ways to charge your battery
+[06:10] separately a battery will charge a
+[06:11] battery remember these charge around
+[06:14] about 13 volts or so so if you have
+[06:16] something in there with the dc current
+[06:18] greater than 13 volts like 14 volts
+[06:20] it'll charge the battery
+[06:22] so if your generator is outputting 14 16
+[06:26] volts and you stick a diode between the
+[06:28] generator and the battery you can
+[06:29] directly charge the battery from the
+[06:31] generator without using the charging
+[06:34] circuit in here at all
+[06:36] should you wish to it's quite adaptable
+[06:38] in what you can do with it you basically
+[06:41] can extend it just by doing exactly what
+[06:43] i did
+[06:44] if the charger in here is an issue to
+[06:46] you then you can add a charger circuit
+[06:48] on it which is little more than a
+[06:49] capacitor and a diode remember you can
+[06:51] add that to it and put it through a flip
+[06:53] switch so flip to charge float to
+[06:55] discharge and you can make that
+[06:56] automatic those circuits are available
+[06:58] for about 80 pence if you want so that's
+[07:01] not really an issue to my mind i mean it
+[07:03] does take a little bit more
+[07:04] working around but the understanding of
+[07:06] the electronics is nothing at all it's a
+[07:08] practical thing that you need to
+[07:10] understand and it's really down to what
+[07:12] limitations you actually want it
+[07:15] to be but like i say this will charge
+[07:18] from here it just takes forever so we
+[07:20] plug it in
+[07:26] it's on green light is now charging that
+[07:29] battery no problem at all
+[07:31] if we unplug it so it's now disconnected
+[07:34] so we're now running purely off the
+[07:36] battery
+[07:37] and it has that irritating beep so one
+[07:40] thing i would do is snip the speaker
+[07:41] just so i don't have the irritating beep
+[07:44] then i can plug any piece of equipment i
+[07:46] want into this to make this thing work
+[07:48] now this thing its output is limited to
+[07:50] 250 watts and that's just to do with the
+[07:52] circuitry what the circuitry can handle
+[07:54] in there so you're not going to be able
+[07:57] to run your blast furnace from this
+[07:59] you're going to be able to run a piece
+[08:01] of equipment that's 250 watts or less
+[08:03] draw which is what your computer is
+[08:05] basically
+[08:06] if you want the larger ones of course
+[08:08] the larger ones are available you can
+[08:10] get this 750 watts and set you back
+[08:12] about um
+[08:13] it's about 100 pounds 150 pounds
+[08:15] something like that it's going to be a
+[08:17] question of what you need but if we plug
+[08:20] in a bit of ac equipment
+[08:24] there we go there's my 240 volt ac rhino
+[08:29] meter
+[08:30] quite happily running from this inverter
+[08:33] section here so i can use the inverter
+[08:35] section all by itself and that inverter
+[08:38] of course is drawing its power from this
+[08:40] battery now this will last a very long
+[08:42] time because this is sometimes as big as
+[08:45] so it's
+[08:46] very easy to use these things the things
+[08:49] actually consist of nothing more than
+[08:51] extending to the battery you don't have
+[08:53] to worry about the current draw the
+[08:54] current drawer is going to be what's
+[08:56] fixed in here for the small battery and
+[08:58] it's not going to draw anymore
+[09:00] that's an issue for you then you need to
+[09:02] arrange another way to charge it which
+[09:04] should be very simple indeed by
+[09:05] connecting it directly to your generator
+[09:08] if you want the inverter section is
+[09:11] going to happily run anything up to the
+[09:13] rating of the inverter section like i
+[09:16] said it's almost embarrassing to make
+[09:17] this video because there isn't anything
+[09:19] else to know
+[09:21] when it comes to using these things now
+[09:24] there's plenty more to know when it
+[09:26] comes to understanding these things and
+[09:28] if you want to delve into the
+[09:29] electronics and make some adaptations
+[09:31] inside that pretty plastic box then yeah
+[09:34] you're going to need to know an awful
+[09:35] lot about it there is another thing
+[09:37] about these now i was quite lucky i was
+[09:39] just given this and it's perfectly
+[09:41] functional
+[09:42] but it's a product issue these things
+[09:44] are made with a bank of capacitors to
+[09:46] feed any spike current that your machine
+[09:48] might want so say you're
+[09:50] running a blender for instance it's
+[09:52] going to spike to begin with and the
+[09:54] capacitors take care of that it's a
+[09:55] product fault in that those capacitors
+[09:57] do tend to blow but that's nothing to do
+[09:59] with this is to do with the product
+[10:02] itself so if you've got one that has
+[10:03] that as a known issue you're probably
+[10:05] better off one buying one or getting
+[10:07] hold of one that doesn't have that as a
+[10:09] known issue so that is one of the known
+[10:11] issues about these things but in terms
+[10:14] of using that box to integrate into your
+[10:17] home power and as i said it's as simple
+[10:19] as that now what we tend to do of course
+[10:22] is getting inverted we'll run the entire
+[10:24] house i have the contention that's not a
+[10:25] good idea why not distribute the dc
+[10:28] around your house and have a smaller
+[10:30] inverter at the point at which you want
+[10:33] to apply a 24 sorry 240 volt or 120 volt
+[10:38] supply to the piece of equipment that
+[10:40] needs that
+[10:42] i mean we could run our entire lighting
+[10:44] system on 12 volts as we know
+[10:46] in which case the amount of equipment
+[10:48] you're going to need to run your 110 120
+[10:51] 230 240 equipment it's going to be about
+[10:54] six of these something like that and the
+[10:56] power they're going to need with one
+[10:58] plug socket you're probably talking a
+[10:59] few hundred pounds instead of thousands
+[11:01] of pounds and of course that brings in
+[11:03] redundancy because if one of these
+[11:05] breaks then you just replace that one
+[11:07] all the others will be fine if you're
+[11:09] using a big inverter and that breaks
+[11:11] when you've got to replace a big
+[11:12] inverter so that redundancy and using an
+[11:16] inverter at the point at which you use
+[11:18] that is probably a way to go and
+[11:20] distribute the 12 volt 24 volt supply
+[11:22] around your house to run everything else
+[11:24] at that kind of level that's what i
+[11:26] would suggest now these inverters
+[11:28] themselves sorry these ups and using
+[11:30] inverters as part of a home supply it's
+[11:34] nothing more than extending it to the
+[11:35] battery and don't worry about some of
+[11:37] the nonsense that you hear anyway i hope
+[11:39] you enjoyed the video now sincerely hope
+[11:42] it was very helpful to you and thank you
+[11:43] very much for watching
+[11:45] please remember to like and subscribe
