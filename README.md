@@ -146,6 +146,18 @@ or broken links, please open an issue or pull request.
 
 ---
 
+## License
+
+[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+- **Robert's 3D models:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (as he originally set on Thingiverse)
+- **Robert's YouTube videos:** YouTube standard license — original videos linked throughout
+- **Archive content** (summaries, indexes, navigation): [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+See [LICENSE](LICENSE) for full details.
+
+---
+
 *Built with love by fans, for fans. Robert Murray-Smith's curiosity and
 generosity in sharing his knowledge inspired many — this archive aims to
 ensure his freely available work remains accessible.*
