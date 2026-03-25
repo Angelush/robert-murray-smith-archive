@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6258728)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/CLZS1LYT)**
+
 ---
 
 ## Description
 
-to finish this you will need one 42mmOD by 20mmid  by 12mm thickness bearing and two 22mmOD by 8mmid  by 7mm thickness bearings, 36 x 10mm steel ball bearings, 36 x 10mm by 2mm neodymium magnets and some enameled copper wire 0.1mm to 0.2mm thick depending on number of turns you want to put on - also 100mm of 8mm steel bar
-
+to finish this you will need one 42mmOD by 20mmid  by 12mm thickness bearing and two 22mmOD by 8mmid  by 7mm thickness bearings, 36 x 10mm steel ball bearings, 36 x 10mm by 2mm neodymium magnets and some enameled copper wire 0.1mm to 0.2mm thick depending on number of turns you want to put on - also 100mm of 8mm steel bar
+
+
+
 you can see a video of this thing here https://youtu.be/kQVPe5sYnsY
 
 ## Files

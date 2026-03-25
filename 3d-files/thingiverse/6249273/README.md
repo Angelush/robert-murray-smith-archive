@@ -4,11 +4,14 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6249273)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/bWY2UDKK)**
+
 ---
 
 ## Description
 
-You can find a video on this at https://youtu.be/lK1ZM9WIBh4
+You can find a video on this at https://youtu.be/lK1ZM9WIBh4
+
 to finish this you will need 36 x 10mm by 2mm neodymium magnets, 2 x 22mmOD 8mm ID 7mm thick skater bearings, 50mm of 8mm steel bar.and some enameled copper wire 0.1mm to 0.2mm thick depending on number of turns you want to put on
 
 ## Files

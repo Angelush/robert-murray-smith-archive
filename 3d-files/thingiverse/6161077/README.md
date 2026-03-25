@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6161077)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/TXYwzRDT)**
+
 ---
 
 ## Description
 
-In addition you will need 12 magnets 3mm by 10mm by 60mm 2 x skater bearings - 22mm OD, 8mmID, 7mm thick some 8mm bar and a coil of enamel coated copper wire 0.2mm diameter
-
-you can find full details of construction here https://youtu.be/BX7UgVSUOBE
-
+In addition you will need 12 magnets 3mm by 10mm by 60mm 2 x skater bearings - 22mm OD, 8mmID, 7mm thick some 8mm bar and a coil of enamel coated copper wire 0.2mm diameter
+
+
+
+you can find full details of construction here https://youtu.be/BX7UgVSUOBE
+
+
+
  I have updated this courtesy of this https://www.thingiverse.com/thing:6195201 - thanks for the help Synaptic
 
 ## Files

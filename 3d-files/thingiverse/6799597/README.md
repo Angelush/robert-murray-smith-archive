@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6799597)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/3KZW3Lyb)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/0zu3jVHxnb8
-
+You can find a video about this here https://youtu.be/0zu3jVHxnb8
+
+
+
 In addition you will need a thrst bearing 43mm by 25mm by 11mm 3 x 12M nuts a pice of rod 6mm by 250mm and some string.
 
 ## Files

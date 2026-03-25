@@ -4,16 +4,24 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6158117)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/LORCBLrL)**
+
 ---
 
 ## Description
 
-In order to finish this you will need 4 x skater bearings (22mm OD, 8mm ID, 7mm thick) 6 x rods 8mm by 10mm 2 x rods 8mm by 150mm 
-
-you can find a video explaining more at https://youtu.be/DUAQ1E5S4eg
-
-I have added the part needed to create a Cardan joint it s fastened together with an m4 nut and bolt
-
+In order to finish this you will need 4 x skater bearings (22mm OD, 8mm ID, 7mm thick) 6 x rods 8mm by 10mm 2 x rods 8mm by 150mm 
+
+
+
+you can find a video explaining more at https://youtu.be/DUAQ1E5S4eg
+
+
+
+I have added the part needed to create a Cardan joint it s fastened together with an m4 nut and bolt
+
+
+
 You can find a video on this at https://youtu.be/QTZhMY_e89g
 
 ## Files

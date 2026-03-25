@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6829205)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/qSYQwBZb)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/pxeQfavEhaA
-
+You can find a video about this here https://youtu.be/pxeQfavEhaA
+
+
+
 the gears might be a little stiff on first assembly give them a few twists to loosen them up - depends on your printer
 
 ## Files

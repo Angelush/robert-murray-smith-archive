@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6283033)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/WGBmxJKS)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/6m5JEo77zrk
-
+You can find a video about this here https://youtu.be/6m5JEo77zrk
+
+
+
 to finish this you will need 10 x steel shelf pins 6mm diameter by 25mm long, 10 bearings 12mmOD 6mmID 4mm thick, 2 bearings 22mmOD 8mmID 7mm thick, 2 bearings 17mmOD 9mmID 4 mm thick, 130mm steel bar 8mm diameter
 
 ## Files

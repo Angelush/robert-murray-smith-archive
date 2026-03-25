@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6217535)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/HaIyTB5a)**
+
 ---
 
 ## Description
 
-you can see a video of this here https://youtu.be/z4KAg2hD1u8
-
+you can see a video of this here https://youtu.be/z4KAg2hD1u8
+
+
+
 you will need 2 x 8mm bar 150mm long 12 x bearings 22mm OD 8mm ID and 7mm thick 10 x 8mm washers
 
 ## Files

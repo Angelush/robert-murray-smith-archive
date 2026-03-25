@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6818548)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/TCYmCLBC)**
+
 ---
 
 ## Description
 
-you can find a video about this here https://youtu.be/pfvy5IcW-8U
-
+you can find a video about this here https://youtu.be/pfvy5IcW-8U
+
+
+
 it is printed from mostly PLA but the rollers are TPU
 
 ## Files

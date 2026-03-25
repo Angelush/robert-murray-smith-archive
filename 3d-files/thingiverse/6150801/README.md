@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6150801)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/OWBgBbxA)**
+
 ---
 
 ## Description
 
-There 300 turns of 0.2mm enameled wire on the coil the barbel weight is 2.5kg - you may have to modify it to fit your weight and you will need 16 magnets
-
+There 300 turns of 0.2mm enameled wire on the coil the barbel weight is 2.5kg - you may have to modify it to fit your weight and you will need 16 magnets
+
+
+
 You can find a video on it here https://youtu.be/BSsj2rDJ2ts
 
 ## Files

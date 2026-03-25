@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6221866)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/mTI2CRob)**
+
 ---
 
 ## Description
 
-you can find a video about this here https://youtu.be/vwd2vogDTA0
-
+you can find a video about this here https://youtu.be/vwd2vogDTA0
+
+
+
 and the original video here https://www.youtube.com/watch?v=D459G9K7IoY
 
 ## Files

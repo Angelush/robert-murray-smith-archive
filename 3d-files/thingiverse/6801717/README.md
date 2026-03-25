@@ -4,13 +4,18 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6801717)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/rORQlL5a)**
+
 ---
 
 ## Description
 
-This is in STL to make it adaptable - if you want to laser cut export as SVG from something like tinkercad - it's meant to be cut from 3mm basswood but it can easily be changed to suit what you need
-
-You can find a video about this here https://youtu.be/wf9LMMxNnY0
+This is in STL to make it adaptable - if you want to laser cut export as SVG from something like tinkercad - it's meant to be cut from 3mm basswood but it can easily be changed to suit what you need
+
+
+
+You can find a video about this here https://youtu.be/wf9LMMxNnY0
+
  You will also need https://www.thingiverse.com/thing:6801698 for the planets and a packet of 6mm by 30mm wooden dowels and 1 meter of 6mm dowel rod
 
 ## Files

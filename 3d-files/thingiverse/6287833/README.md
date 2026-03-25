@@ -4,6 +4,8 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6287833)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/reJCHT7T)**
+
 ---
 
 ## Description

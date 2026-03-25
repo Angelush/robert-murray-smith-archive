@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6187901)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/uSBG2DwL)**
+
 ---
 
 ## Description
 
-to make this you really need to see this video https://youtu.be/3Gj2viohsi8
-
-it is meant to replace a standard wind turbine blade for more information and the generator body look at this thing https://www.thingiverse.com/thing:6161062
-
+to make this you really need to see this video https://youtu.be/3Gj2viohsi8
+
+
+
+it is meant to replace a standard wind turbine blade for more information and the generator body look at this thing https://www.thingiverse.com/thing:6161062
+
+
+
 you can also use it with this thing https://www.thingiverse.com/thing:6192755 which is a Simple Adaptable Axial Flux Generator
 
 ## Files

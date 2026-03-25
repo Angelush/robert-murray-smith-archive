@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6164042)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/eXQG1RzR)**
+
 ---
 
 ## Description
 
-you can find a video of this at
-
-https://youtu.be/7wrtc5k1hRU
-
+you can find a video of this at
+
+
+
+https://youtu.be/7wrtc5k1hRU
+
+
+
 to complete it you will need 4 x 22mm OD, 8mm ID, 7mm thick bearings. 4 x 12mmOD, 6mm ID 4mm thick bearings and 2 x 12mmOD 8mmID, 4mm thick bearings. Some 6mm bar, some 8mm bar and 2 dog toys  used 6 inch rubber rings - I used tough toys rubber ring 6 inch which you can find on Amazon and finally 4 x 8mm washers
 
 ## Files

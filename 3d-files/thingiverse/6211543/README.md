@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6211543)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/TSZUBJRa)**
+
 ---
 
 ## Description
 
-To finish this you will need 3 x thrust bearings 42mm OD, 26mm ID and 11mm thick. 1 x bearing 21mmOD, 15mmID and 4mm thick. some 0.2mm enameled wire. The motor from an electric drill and a 3.5kg barbell weight
-
+To finish this you will need 3 x thrust bearings 42mm OD, 26mm ID and 11mm thick. 1 x bearing 21mmOD, 15mmID and 4mm thick. some 0.2mm enameled wire. The motor from an electric drill and a 3.5kg barbell weight
+
+
+
 you can find a video of the build here https://youtu.be/YS0SvFCScZs
 
 ## Files

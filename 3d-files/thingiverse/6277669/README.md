@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6277669)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/qHAkAZgb)**
+
 ---
 
 ## Description
 
-you can find a video about this here https://youtu.be/igzIc3glA18
-
+you can find a video about this here https://youtu.be/igzIc3glA18
+
+
+
 to finish this you will need 8 x bearings 22mmOD, 8mmID and 7mm thick - they are standard skate bearings - and some 8mm rod
 
 ## Files

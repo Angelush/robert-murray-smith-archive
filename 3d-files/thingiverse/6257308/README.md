@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6257308)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/DLRgGbxb)**
+
 ---
 
 ## Description
 
-This is at the moment very much a work in progress and is really an experiment to reverse engineer the zephyr
-
-you can find a video about  this here https://youtu.be/RgrNsSGM1Z4
-
+This is at the moment very much a work in progress and is really an experiment to reverse engineer the zephyr
+
+
+
+you can find a video about  this here https://youtu.be/RgrNsSGM1Z4
+
+
+
 you will also need 4 springs but just right now I don't know what kind of springs - that is part of the experiment
 
 ## Files

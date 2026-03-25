@@ -4,11 +4,14 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6134097)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/SLRSyRJA)**
+
 ---
 
 ## Description
 
-you can find a video about this here https://youtu.be/9Rsirg56090
+you can find a video about this here https://youtu.be/9Rsirg56090
+
 This is a ball point pen thrust bearing the pens are standard bearings are 22mm by 8mm by 7mm skater bearings their job is to prevent sideways movement - the ball bearing s 12mm and the magnets are 3mm by 10mm circular neodymium magnets. The axle s a bit of 8mm steel bar
 
 ## Files

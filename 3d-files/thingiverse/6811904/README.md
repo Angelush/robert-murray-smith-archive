@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6811904)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/3SRiCTIR)**
+
 ---
 
 ## Description
 
-There are two models here PW1 - which is the original version of the perpetual wedge and PW2 which is an updated modern version. You can find a video on this here : https://youtu.be/8VPYJXBb1Lc
-
+There are two models here PW1 - which is the original version of the perpetual wedge and PW2 which is an updated modern version. You can find a video on this here : https://youtu.be/8VPYJXBb1Lc
+
+
+
 PW1 only needs glue but for PW2 you will need 2 x bearings at 22mm by 8mm by 7mm and a pice of 8mm bar to act as an axel
 
 ## Files

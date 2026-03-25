@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6186592)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/DSJWgbKA)**
+
 ---
 
 ## Description
 
-If you want build instructions and see how this thing works you can find it here in this video https://youtu.be/WzfBhw8IxLo
-
+If you want build instructions and see how this thing works you can find it here in this video https://youtu.be/WzfBhw8IxLo
+
+
+
 to finish it you will need one skater bearing
 
 ## Files

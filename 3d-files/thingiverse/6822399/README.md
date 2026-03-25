@@ -4,15 +4,22 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6822399)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/zSY2GL6Z)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/pOPL0KdLXEc
-the video for the diaphragm piston body is here https://youtu.be/-gvplMQbqnA
-
-for the separate files on the piston itself can be found here https://www.thingiverse.com/thing:6819005
-
+You can find a video about this here https://youtu.be/pOPL0KdLXEc
+
+the video for the diaphragm piston body is here https://youtu.be/-gvplMQbqnA
+
+
+
+for the separate files on the piston itself can be found here https://www.thingiverse.com/thing:6819005
+
+
+
 you will also need a natural latex glove and some graphite
 
 ## Files

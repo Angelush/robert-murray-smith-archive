@@ -4,20 +4,32 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6161062)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/TfBUyRaJ)**
+
 ---
 
 ## Description
 
-to finish this you will really need to build the BLDC generator from 
-
-https://www.thingiverse.com/thing:6161077
-
-or modify it to take a nema stepper motor
-
-you can see a video of more info and construction here https://youtu.be/PlLbLzjp2g4
-
-the generator build can be found here https://youtu.be/BX7UgVSUOBE
-
+to finish this you will really need to build the BLDC generator from 
+
+
+
+https://www.thingiverse.com/thing:6161077
+
+
+
+or modify it to take a nema stepper motor
+
+
+
+you can see a video of more info and construction here https://youtu.be/PlLbLzjp2g4
+
+
+
+the generator build can be found here https://youtu.be/BX7UgVSUOBE
+
+
+
 A replacement upgraded blade system can be found here https://www.thingiverse.com/thing:6187901
 
 ## Files

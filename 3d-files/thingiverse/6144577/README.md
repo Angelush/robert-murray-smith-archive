@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6144577)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/fCA2wZ6J)**
+
 ---
 
 ## Description
 
-To finish this you will 6 glass balls at 9mm diameter and to print two copes of the cage
-
+To finish this you will 6 glass balls at 9mm diameter and to print two copes of the cage
+
+
+
 a video about this can be found here https://youtu.be/GafK0DTo3YQ
 
 ## Files

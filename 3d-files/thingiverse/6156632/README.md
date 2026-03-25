@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6156632)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/jaIiBLoK)**
+
 ---
 
 ## Description
 
-This is the support structure for converting and ordinary portable drill motor into a brushless DC generator
-
-If you are interested in this you really need to see this video https://youtu.be/zXufw3Lhemo
-
+This is the support structure for converting and ordinary portable drill motor into a brushless DC generator
+
+
+
+If you are interested in this you really need to see this video https://youtu.be/zXufw3Lhemo
+
+
+
 and this one would be a good idea too https://youtu.be/A8Lpw6AexAM
 
 ## Files

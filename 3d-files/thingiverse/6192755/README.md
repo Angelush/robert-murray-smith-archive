@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6192755)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/2fYQTBDQ)**
+
 ---
 
 ## Description
 
-You can find a video on the construction here https://youtu.be/Yg9TYeR-3KM
-
-To finish this you will need 0.2mm diameter enameled copper wire - 500 turns, 36 15mm by 10mm circular neodymium magnets, 2 22mm OD 8mm ID 7mm thick skater bearings, 2 8mm washers and a 120mm by M8 bolt and nut.
-
+You can find a video on the construction here https://youtu.be/Yg9TYeR-3KM
+
+
+
+To finish this you will need 0.2mm diameter enameled copper wire - 500 turns, 36 15mm by 10mm circular neodymium magnets, 2 22mm OD 8mm ID 7mm thick skater bearings, 2 8mm washers and a 120mm by M8 bolt and nut.
+
+
+
 this can be used with this thing https://www.thingiverse.com/thing:6187901 which is a wind turbine and with this thing https://www.thingiverse.com/thing:6156474 which is a planetary gear setup
 
 ## Files

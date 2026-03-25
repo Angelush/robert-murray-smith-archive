@@ -111,12 +111,15 @@ Each `summary.md` is structured for both human reading and AI retrieval:
 
 ---
 
-## 3D File Licenses
+## 3D Printable Files (STLs)
 
-Most Thingiverse files are published under Creative Commons licenses.
-Each `metadata.json` in `3d-files/thingiverse/` includes a `"license"` field
-with the exact license for that design. Please respect these licenses when
-using or distributing the files.
+The actual STL/3D files are too large for GitHub. They are hosted on MEGA:
+
+📥 **[Download all STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g)** (787 MB)
+
+Each Thingiverse model's README in this repo includes direct links to both the original Thingiverse page and the corresponding MEGA folder.
+
+**Licenses:** Most files are published under Creative Commons licenses. Each `metadata.json` in `3d-files/thingiverse/` includes the exact license for that design.
 
 ---
 

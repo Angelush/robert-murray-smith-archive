@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6246096)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/qCRGRDSa)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/ru7grh0azuA
-
+You can find a video about this here https://youtu.be/ru7grh0azuA
+
+
+
 and to finish this you will need 36 x 10mm steel ball bearings, 2 x 22mmOD 8mmID 7mm thick bearings and 100mm x 8mm steel bar
 
 ## Files

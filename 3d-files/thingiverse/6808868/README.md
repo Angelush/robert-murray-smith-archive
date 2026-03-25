@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6808868)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/6KRUCBiT)**
+
 ---
 
 ## Description
 
-you can find a video about this here: https://youtu.be/ykYnqIS2Kdo
-
+you can find a video about this here: https://youtu.be/ykYnqIS2Kdo
+
+
+
 no extra parts are needed but due to tolerences you may have to sand a bit to get everything to turn freely
 
 ## Files

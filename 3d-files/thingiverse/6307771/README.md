@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6307771)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/3XQiRRYQ)**
+
 ---
 
 ## Description
 
-you can find a video here https://youtu.be/RKt1_jLjNlU
-
+you can find a video here https://youtu.be/RKt1_jLjNlU
+
+
+
 you will need an 80mm PC fan to convert to a generator see this vido https://youtu.be/TX7zmfKiUEU
 
 ## Files

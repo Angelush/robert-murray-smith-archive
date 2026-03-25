@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6236759)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/2WQk3L5C)**
+
 ---
 
 ## Description
 
-You can find a video of this here https://youtu.be/e7ymRJA4qVY
-
+You can find a video of this here https://youtu.be/e7ymRJA4qVY
+
+
+
 to finish this you will need 36 10 mm by 2mm Neodymium magnets, 0.2mm enameled copper wire on thrust bearing 47mm by 11mm by 25 mm, 4 x 12mmOD 8mm ID by 4mm bearings and a short bar of 8mm steel
 
 ## Files

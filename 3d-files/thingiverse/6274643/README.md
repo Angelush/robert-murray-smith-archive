@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6274643)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/KTYwxBZI)**
+
 ---
 
 ## Description
 
-You can find a video on this at https://youtu.be/QD2fJskamuU
-
-to finish this you will need 24 x 10mm ball bearings and two bearings 12mmOD, 6mmID, and 4mm thick
-
+You can find a video on this at https://youtu.be/QD2fJskamuU
+
+
+
+to finish this you will need 24 x 10mm ball bearings and two bearings 12mmOD, 6mmID, and 4mm thick
+
+
+
 The case sides are long and you may have to split them for smaller printers - just do half and half and glue them together
 
 ## Files

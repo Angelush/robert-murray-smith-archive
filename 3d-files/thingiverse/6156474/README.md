@@ -4,16 +4,24 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6156474)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/mHBGWBCa)**
+
 ---
 
 ## Description
 
-to finish this you will need an 8mm bolt 150mm long an 8mm nut and 3 skater bearings (22mm x 8mm x 7mm)
-
-You can find a video of this at https://youtu.be/zXufw3Lhemo
-
-It can be used either way round to increase torque or to increase speed
-
+to finish this you will need an 8mm bolt 150mm long an 8mm nut and 3 skater bearings (22mm x 8mm x 7mm)
+
+
+
+You can find a video of this at https://youtu.be/zXufw3Lhemo
+
+
+
+It can be used either way round to increase torque or to increase speed
+
+
+
 you can also use it with this thing https://www.thingiverse.com/thing:6192755 which is a Simple Adaptable Axial Flux Generator
 
 ## Files

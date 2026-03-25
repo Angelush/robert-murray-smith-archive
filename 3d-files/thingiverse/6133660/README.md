@@ -4,11 +4,14 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6133660)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/ODIkDb4K)**
+
 ---
 
 ## Description
 
-The Video on how to make and use this is here
+The Video on how to make and use this is here
+
 https://youtu.be/lqS2Mvg0qbw
 
 ## Files

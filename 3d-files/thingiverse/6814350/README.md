@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6814350)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/eaQ0hBBD)**
+
 ---
 
 ## Description
 
-You can find a video abut this here: https://youtu.be/Wl4hOXzGSdA
-
+You can find a video abut this here: https://youtu.be/Wl4hOXzGSdA
+
+
+
 you will also need 4 or 5 table tennis balls. You might have to change the thickness of the compression washers to get it to work properly. This will change the frce acting on the balls.
 
 ## Files

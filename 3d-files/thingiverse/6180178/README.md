@@ -4,11 +4,14 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6180178)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/WeBCWTbT)**
+
 ---
 
 ## Description
 
-to finish this you will need 2 x bearing 22mm OD x 8mm ID by 7mm thick - a skate bearing and bit of 8mm rod about 30mm long some copper wire 0.2mm diameter and 24 neodymium magnets 1cm by 2mm circular   you can find a video of the build here
+to finish this you will need 2 x bearing 22mm OD x 8mm ID by 7mm thick - a skate bearing and bit of 8mm rod about 30mm long some copper wire 0.2mm diameter and 24 neodymium magnets 1cm by 2mm circular   you can find a video of the build here
+
 https://youtu.be/DiNRHgMnfyo
 
 ## Files

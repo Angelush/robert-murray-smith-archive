@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6806208)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/WaJwmRpK)**
+
 ---
 
 ## Description
 
-you can fnd a video about this here: https://youtu.be/QOeWs9svM0o
-
+you can fnd a video about this here: https://youtu.be/QOeWs9svM0o
+
+
+
 to finish this you will need an LED, a batter box with on off switch - available on amazon and a 42mm by y25mm by 1mm thrust bearing - again on amazon
 
 ## Files

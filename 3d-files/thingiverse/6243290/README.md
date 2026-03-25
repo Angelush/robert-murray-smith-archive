@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6243290)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/aTYEHLjQ)**
+
 ---
 
 ## Description
 
-to finish this you will need a coil from a turntable motor and 2 x 15mm by 5mm neodymium magnets and a small piece of cellophane
-
+to finish this you will need a coil from a turntable motor and 2 x 15mm by 5mm neodymium magnets and a small piece of cellophane
+
+
+
 You can find a video about it here https://youtu.be/k3w0OA9QyE4
 
 ## Files

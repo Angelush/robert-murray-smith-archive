@@ -4,16 +4,24 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6197660)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/TfZmBbQQ)**
+
 ---
 
 ## Description
 
-the coil is copper enameled wire at 0.2mm diameter and there were 500 turns on each coil
-
-you will need 5 times 1cm by 1cm circular neodymium magnets
-
-you can find a video of the build here
-
+the coil is copper enameled wire at 0.2mm diameter and there were 500 turns on each coil
+
+
+
+you will need 5 times 1cm by 1cm circular neodymium magnets
+
+
+
+you can find a video of the build here
+
+
+
 https://youtu.be/r9dVWEo1ykk
 
 ## Files

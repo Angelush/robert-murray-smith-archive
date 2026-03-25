@@ -4,11 +4,14 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6294591)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/nPQSSRSa)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/U13lU-Y6khc
+You can find a video about this here https://youtu.be/U13lU-Y6khc
+
 to finish it you will nee 1 x 200mm by 8mm steel rod, 2 x 8mm washers and 2 x 22mmOD, 8mmID 7mm thick bearings - they are skater bearings
 
 ## Files

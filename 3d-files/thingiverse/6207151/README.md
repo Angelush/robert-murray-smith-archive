@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6207151)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/faIWVDhJ)**
+
 ---
 
 ## Description
 
-To finish this you will need a 30mm length of 6mm bar, 2 bearings 12OD 6mmID and 4mm thick - you will also need 36 neodymium magnets 2mm by 10mm circular magnets and some 0.2mm enameled copper wire for around 300 turns
-
+To finish this you will need a 30mm length of 6mm bar, 2 bearings 12OD 6mmID and 4mm thick - you will also need 36 neodymium magnets 2mm by 10mm circular magnets and some 0.2mm enameled copper wire for around 300 turns
+
+
+
 there is a video of this here https://youtu.be/RzdSY-ulD2s
 
 ## Files

@@ -4,14 +4,20 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6165724)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/ibYiiBZR)**
+
 ---
 
 ## Description
 
-for inf in case you want to make more cogs  roller diameter = 5mm, pitch = 11mm, roller width = 6mm
-
-you can find the video at https://youtu.be/MMKDw4y_PuI
-
+for inf in case you want to make more cogs  roller diameter = 5mm, pitch = 11mm, roller width = 6mm
+
+
+
+you can find the video at https://youtu.be/MMKDw4y_PuI
+
+
+
 bearings are 4 x 22mmOD 8mm ID and 7mm thick - skater bearings the bar is 8mm steel
 
 ## Files

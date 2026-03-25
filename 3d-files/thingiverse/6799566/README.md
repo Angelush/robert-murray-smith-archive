@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6799566)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/vaBg2Bya)**
+
 ---
 
 ## Description
 
-You can find a Video about this here https://youtu.be/UzXkWuainHo
-
+You can find a Video about this here https://youtu.be/UzXkWuainHo
+
+
+
 In addition you will need 2 x steel rod 6mm dia 25omm long, 2 x steel bar 6mm dia 75mm long one bearing 22mm by 7mm by 8mm 3 x 12M nut and some string
 
 ## Files

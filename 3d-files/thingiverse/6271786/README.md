@@ -4,11 +4,14 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6271786)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/DHZw2LSL)**
+
 ---
 
 ## Description
 
-You can find a video on this here https://youtu.be/wLGQwcyOe1o
+You can find a video on this here https://youtu.be/wLGQwcyOe1o
+
 to finish this you will nee 6 x bearings 21mmOD, 15mm ID and 4mm thick and a piece of sandpaper 120 grit
 
 ## Files

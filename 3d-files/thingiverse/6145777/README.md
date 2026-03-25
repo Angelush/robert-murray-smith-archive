@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6145777)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/3eRCkB4A)**
+
 ---
 
 ## Description
 
-to finish this you will need 6 x 9mm bearings of your choice to make it weatherproof you will need to use glass,ceramic or stainless steel
-
+to finish this you will need 6 x 9mm bearings of your choice to make it weatherproof you will need to use glass,ceramic or stainless steel
+
+
+
 you can find a video of this at https://youtu.be/gyGG_E5WXY0
 
 ## Files

@@ -4,12 +4,16 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6819005)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/vLJwzJ7B)**
+
 ---
 
 ## Description
 
-You can find a video about this here https://youtu.be/-gvplMQbqnA
-
+You can find a video about this here https://youtu.be/-gvplMQbqnA
+
+
+
 you will also need a natural latex glove and some graphite
 
 ## Files

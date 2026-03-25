@@ -4,18 +4,28 @@
 
 🔗 **[View on Thingiverse](https://www.thingiverse.com/thing:6127134)**
 
+📥 **[Download STL files from MEGA](https://mega.nz/folder/fbhDSSRK#Wa1i4bl385a5qtcN6kPs7g/folder/efZS3L4I)**
+
 ---
 
 ## Description
 
-You can find a video on this in operation at
-
-https://youtu.be/eufkc6NhUxU
-
-the bearings are 22mm by 8mm by 7mm skater bearings and al shafts are 8mm mild steel bar cut to size
-
-the serpentine coil is made with 0.2mm enameled copper wire at 200 turns. The method of making serpentine coils can be found here
-
+You can find a video on this in operation at
+
+
+
+https://youtu.be/eufkc6NhUxU
+
+
+
+the bearings are 22mm by 8mm by 7mm skater bearings and al shafts are 8mm mild steel bar cut to size
+
+
+
+the serpentine coil is made with 0.2mm enameled copper wire at 200 turns. The method of making serpentine coils can be found here
+
+
+
 https://youtu.be/0MLpa0KssVA
 
 ## Files
