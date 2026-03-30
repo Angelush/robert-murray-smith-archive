@@ -19,7 +19,6 @@ import re
 import random
 import logging
 
-import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -226,10 +225,8 @@ class ArchiveSearch:
 
         except ImportError:
             log.info("chromadb not installed — falling back to keyword search")
-        except (Exception, RecursionError, SystemError) as exc:
+        except Exception as exc:
             log.warning("ChromaDB init failed (%s) — falling back to keyword search", exc)
-        except BaseException as exc:
-            log.warning("ChromaDB init failed with %s: %s — falling back to keyword search", type(exc).__name__, exc)
 
     # ------------------------------------------------------------------
     # TF-IDF initialisation (lightweight fallback for semantic-ish search)
@@ -294,8 +291,8 @@ class ArchiveSearch:
     def _tfidf_search(self, query: str, limit: int) -> list[VideoResult]:
         """Search using TF-IDF cosine similarity."""
         query_vec = self._tfidf_vectorizer.transform([query])
-        scores = cosine_similarity(query_vec, self._tfidf_matrix).flatten()
-        top_indices = np.argsort(scores)[::-1][:limit]
+        scores = cosine_similarity(query_vec, self._tfidf_matrix).flatten().tolist()
+        top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:limit]
 
         results = []
         for idx in top_indices:

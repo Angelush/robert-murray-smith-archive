@@ -84,48 +84,6 @@ The archive is structured for easy integration with RAG (Retrieval-Augmented Gen
 
 ---
 
-## MCP Server — Query with Any AI
-
-This archive includes an MCP (Model Context Protocol) server that lets any compatible AI — Claude Desktop, Claude Code, or others — search and query Robert's video archive directly.
-
-### Quick Setup
-
-1. Clone this repo
-2. Install: `pip install mcp`
-3. Add to your Claude Desktop config (`claude_desktop_config.json`):
-   ```json
-   {
-     "mcpServers": {
-       "rob-archive": {
-         "command": "python",
-         "args": ["/path/to/robert-murray-smith-archive/mcp_server.py"]
-       }
-     }
-   }
-   ```
-4. Restart Claude Desktop — you can now ask Claude about Rob's work!
-
-### Optional: Semantic Search
-
-For better search results using AI embeddings:
-```bash
-pip install chromadb sentence-transformers
-python build_vectordb.py
-```
-
-### Available Tools
-
-| Tool | What it does |
-|------|-------------|
-| `search_topics` | Find videos by topic/material keyword |
-| `search_videos` | Semantic search across all 2,261 videos |
-| `get_video` | Get full details, summary, and transcript for a video |
-| `get_3d_design` | Get Thingiverse 3D design details |
-| `list_channels` | Overview of Rob's 3 YouTube channels |
-| `get_random_video` | Random video recommendation |
-
----
-
 ## Video Summary Format
 
 Each `summary.md` is structured for both human reading and AI retrieval:

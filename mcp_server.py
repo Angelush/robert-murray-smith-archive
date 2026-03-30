@@ -20,9 +20,12 @@ Claude Desktop config (claude_desktop_config.json):
 
 import argparse
 import json
+import logging
 import sys
 from dataclasses import asdict
 from pathlib import Path
+
+log = logging.getLogger("mcp_server")
 
 from mcp.server import Server
 from mcp.server.stdio import stdio_server
@@ -223,7 +226,8 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
             return [TextContent(type="text", text=f"Unknown tool: {name}")]
 
     except Exception as e:
-        return [TextContent(type="text", text=f"Error: {e}")]
+        log.exception("Tool '%s' failed", name)
+        return [TextContent(type="text", text=f"Tool '{name}' error: {e}")]
 
 
 # ---------------------------------------------------------------------------
