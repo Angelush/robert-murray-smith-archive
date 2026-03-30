@@ -19,6 +19,10 @@ import re
 import random
 import logging
 
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
 log = logging.getLogger("archive_search")
 
 # ---------------------------------------------------------------------------
@@ -121,9 +125,16 @@ class ArchiveSearch:
         self._3d_index: dict[str, dict] = {}         # thing_id -> raw 3d item
         self._chromadb_available = False
         self._collection = None
+        # TF-IDF search (lightweight fallback when ChromaDB unavailable)
+        self._tfidf_vectorizer: TfidfVectorizer | None = None
+        self._tfidf_matrix = None
+        self._tfidf_ids: list[str] = []       # video_id at each row index
+        self._summary_cache: dict[str, str] = {}  # video_id -> full summary text
 
         self._load_indexes()
         self._init_chromadb(chroma_dir)
+        if not self._chromadb_available:
+            self._init_tfidf()
 
     # ------------------------------------------------------------------
     # Index loading
@@ -221,6 +232,97 @@ class ArchiveSearch:
             log.warning("ChromaDB init failed with %s: %s — falling back to keyword search", type(exc).__name__, exc)
 
     # ------------------------------------------------------------------
+    # TF-IDF initialisation (lightweight fallback for semantic-ish search)
+    # ------------------------------------------------------------------
+
+    def _init_tfidf(self):
+        """Build a TF-IDF index from all video summaries, titles, topics, and descriptions."""
+        documents: list[str] = []
+        ids: list[str] = []
+
+        for vid_id, raw in self._compact_index.items():
+            if raw.get("type") not in ("yt", "TT", "Omni", "Talk", None):
+                continue  # skip Thingiverse for TF-IDF
+
+            parts = []
+            # Title (weighted by repetition for importance)
+            title = raw.get("t", "")
+            parts.append(title)
+            parts.append(title)
+
+            # Description from compact index
+            desc = raw.get("d", "")
+            if desc:
+                parts.append(desc)
+
+            # Topics and materials
+            parts.extend(raw.get("topics", []))
+            parts.extend(raw.get("materials", []))
+
+            # Read full summary from disk
+            vid_path = raw.get("path", "")
+            summary_path = self._root / vid_path / "summary.md"
+            summary_text = ""
+            if summary_path.exists():
+                try:
+                    summary_text = summary_path.read_text(encoding="utf-8")
+                    parts.append(summary_text)
+                except Exception:
+                    pass
+
+            doc_text = "\n".join(parts)
+            if doc_text.strip():
+                documents.append(doc_text)
+                ids.append(vid_id)
+                self._summary_cache[vid_id] = summary_text
+
+        if not documents:
+            log.warning("No documents found for TF-IDF index")
+            return
+
+        self._tfidf_vectorizer = TfidfVectorizer(
+            max_features=50000,
+            stop_words="english",
+            ngram_range=(1, 2),
+            sublinear_tf=True,
+        )
+        self._tfidf_matrix = self._tfidf_vectorizer.fit_transform(documents)
+        self._tfidf_ids = ids
+        log.info("TF-IDF index ready — %d documents, %d features",
+                 len(ids), self._tfidf_matrix.shape[1])
+
+    def _tfidf_search(self, query: str, limit: int) -> list[VideoResult]:
+        """Search using TF-IDF cosine similarity."""
+        query_vec = self._tfidf_vectorizer.transform([query])
+        scores = cosine_similarity(query_vec, self._tfidf_matrix).flatten()
+        top_indices = np.argsort(scores)[::-1][:limit]
+
+        results = []
+        for idx in top_indices:
+            score = scores[idx]
+            if score < 0.01:
+                break
+            vid_id = self._tfidf_ids[idx]
+            raw = self._compact_index.get(vid_id)
+            if not raw:
+                continue
+            entry = self._raw_to_compact_entry(raw)
+            # Use cached summary for richer LLM context
+            summary_text = self._summary_cache.get(vid_id, "")
+            if not summary_text:
+                summary_text = entry.title
+            results.append(VideoResult(
+                video_id=entry.id,
+                title=entry.title,
+                url=entry.url,
+                date=entry.date,
+                channel=entry.channel,
+                summary_text=summary_text,
+                relevance=1.0 - score,  # convert similarity to distance-like
+            ))
+        return results
+
+    # ------------------------------------------------------------------
     # Public: search_videos
     # ------------------------------------------------------------------
 
@@ -231,15 +333,16 @@ class ArchiveSearch:
         min_relevance: float = 0.3,
     ) -> list[VideoResult]:
         """
-        Semantic vector search (ChromaDB) when available.
-        Falls back to keyword topic search when ChromaDB is not available.
+        Search priority: ChromaDB (semantic) → TF-IDF (summary-aware) → keyword.
 
         relevance is the cosine distance: 0.0 = perfect match, 1.0 = unrelated.
         min_relevance is the MAXIMUM allowed distance (lower = stricter filter).
         """
         if self._chromadb_available and self._collection is not None:
             return self._chromadb_search(query, limit, min_relevance)
-        # Fallback: convert CompactEntry results to VideoResult
+        if self._tfidf_vectorizer is not None:
+            return self._tfidf_search(query, limit)
+        # Final fallback: keyword only
         compact_results = self.search_topics(query, limit=limit)
         return [self._compact_to_video_result(e) for e in compact_results]
 
