@@ -13,7 +13,7 @@ A comprehensive fan archive of **Robert Murray-Smith's** publicly available, fre
 
 **Important:** This archive only contains free, publicly available content. It does not include any channel-members-only videos or paid content.
 
-Robert was a prolific inventor and educator based in Herne Bay, Kent, covering graphene synthesis, batteries, supercapacitors, solar cells, electrochemistry, 3D printing, material science, and DIY electronics — often with kitchen-table experiments. He passed away in 2025.
+Robert was a prolific inventor and educator covering graphene synthesis, batteries, supercapacitors, solar cells, electrochemistry, 3D printing, material science, and DIY electronics — often with kitchen-table experiments. He passed away in 2025.
 
 This is an unofficial preservation archive, not affiliated with his estate.
 
