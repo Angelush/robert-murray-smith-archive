@@ -1,0 +1,35 @@
+# Build scripts and internal status — private, not part of the archive
+scripts/
+STATUS.md
+
+# Credentials — never commit these
+APIs/
+Github credentials.txt
+
+# 3D files too large for GitHub free — host externally
+*.stl
+*.3mf
+*.obj
+*.gcode
+*.step
+*.stp
+*.f3d
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# MCP server — generated files, not committed
+chroma_db/
+.env

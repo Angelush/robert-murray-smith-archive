@@ -19,6 +19,18 @@ This is an unofficial preservation archive, not affiliated with his estate.
 
 ---
 
+## MCP Server
+
+This archive includes an MCP server. If you're connected via MCP, use the provided tools directly:
+- `search_topics("graphene")` — fast keyword lookup
+- `search_videos("how to make a supercapacitor")` — semantic search
+- `get_video("VIDEO_ID")` — full video details + summary
+- `get_3d_design("THING_ID")` — 3D design metadata
+
+You don't need to read index files manually — the tools handle everything.
+
+---
+
 ## Repository Structure
 
 ```
@@ -29,6 +41,8 @@ This is an unofficial preservation archive, not affiliated with his estate.
 ├── AI_GUIDE.md                        ← This file
 ├── README.md                          ← Human-facing overview
 ├── CATALOG.md                         ← Human-readable browsable index (all content)
+├── build_vectordb.py                  ← Build ChromaDB for semantic search
+├── mcp_server.py                      ← MCP server for AI tool access
 ├── youtube/
 │   ├── index.json                     ← All YouTube videos
 │   ├── CATALOG.md                     ← YouTube browsing index
