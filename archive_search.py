@@ -215,8 +215,10 @@ class ArchiveSearch:
 
         except ImportError:
             log.info("chromadb not installed — falling back to keyword search")
-        except Exception as exc:
+        except (Exception, RecursionError, SystemError) as exc:
             log.warning("ChromaDB init failed (%s) — falling back to keyword search", exc)
+        except BaseException as exc:
+            log.warning("ChromaDB init failed with %s: %s — falling back to keyword search", type(exc).__name__, exc)
 
     # ------------------------------------------------------------------
     # Public: search_videos
