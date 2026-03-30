@@ -328,19 +328,33 @@ class ArchiveSearch:
 
     def search_topics(self, query: str, limit: int = 10) -> list[CompactEntry]:
         """
-        Keyword search against topics and materials indexes.
+        Keyword search against topics, materials, and video titles.
         Returns CompactEntry objects sorted by date descending.
         """
         query_lower = query.lower().strip()
+        query_words = query_lower.split()
         matching_ids: set[str] = set()
 
+        # Search topics index
         for topic, vid_ids in self._topics_index.items():
             if query_lower in topic.lower():
                 matching_ids.update(vid_ids)
 
+        # Search materials index
         for material, vid_ids in self._materials_index.items():
             if query_lower in material.lower():
                 matching_ids.update(vid_ids)
+
+        # Search video titles and descriptions (catches queries topics miss)
+        if len(matching_ids) < limit:
+            for vid_id, raw in self._compact_index.items():
+                if vid_id in matching_ids:
+                    continue
+                title = raw.get("t", "").lower()
+                desc = raw.get("d", "").lower()
+                text = title + " " + desc
+                if all(w in text for w in query_words):
+                    matching_ids.add(vid_id)
 
         results = []
         for vid_id in matching_ids:
